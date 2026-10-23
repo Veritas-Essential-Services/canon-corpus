@@ -1,5 +1,5 @@
 {
- "_about": "Lewis Campbell (1830-1908), Professor of Greek at St Andrews: A Guide to Greek Tragedy for English Readers (London: Percival, 1891) and Religion in Greek Literature (London: Longmans, Green, 1898), raw IA OCR. His verse Sophocles and Aeschylus are translations, outside this shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Lewis Campbell (1830-1908), Professor of Greek at St Andrews: A Guide to Greek Tragedy for English Readers (London: Percival, 1891) and Religion in Greek Literature (London: Longmans, Green, 1898), raw IA OCR. His verse Sophocles and Aeschylus are translations, outside this shelf. Round du (2026-10-23), raw IA: his Clarendon editions with English notes (Sophistes and Politicus 1867, Theaetetus 2nd ed., Sophocles vol. II 1881; vol. I not found in a readable scan), the Jowett-Campbell Republic (3 vols, 1894), Sophocles in Classical Writers (1879), Tragic Drama in Aeschylus, Sophocles, and Shakespeare (1904), Paralipomena Sophoclea (1907), and the Life and Letters of Benjamin Jowett with Evelyn Abbott (2 vols, 1897). Greek text editions kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
  "_name_words": [
   "campbell"
  ],
@@ -17,12 +17,56 @@
   "lewis-campbell-religion-greek-literature-1898": [
    "religioningreek00camp",
    "Religion in Greek Literature: a Sketch in Outline (London: Longmans, Green, 1898)"
+  ],
+  "lewis-campbell-sophistes-politicus-1867": [
+   "sophistespolitic00plat",
+   "The Sophistes and Politicus of Plato, with a revised text and English notes, by the Rev. Lewis Campbell (Oxford: Clarendon Press, 1867); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "lewis-campbell-theaetetus-1883": [
+   "thetetusofplatow00plat_0",
+   "The Theaetetus of Plato, with a revised text and English notes, by Lewis Campbell, second edition (Oxford: Clarendon Press; the OCR reads the title-page year as 1888, the preface is dated January 1883); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "lewis-campbell-sophocles-v2-1881": [
+   "sophoclesvolume00sophgoog",
+   "Sophocles, edited with English notes and introductions by Lewis Campbell, vol. II: Ajax, Electra, Trachiniae, Philoctetes, Fragments (Oxford: Clarendon Press, 1881); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "lewis-campbell-sophocles-classical-writers-1879": [
+   "sophocles00camp",
+   "Sophocles (Classical Writers, ed. J. R. Green; London: Macmillan, 1879)"
+  ],
+  "lewis-campbell-jowett-republic-v1-1894": [
+   "platosrepublicgr01plat",
+   "Plato's Republic, the Greek text, edited with notes and essays by B. Jowett and Lewis Campbell, vol. I, text (Oxford: Clarendon Press, 1894); kept per Adam's 2026-10-23 ruling"
+  ],
+  "lewis-campbell-jowett-republic-v2-1894": [
+   "platosrepublicgr02plat",
+   "Plato's Republic, the Greek text, edited with notes and essays by B. Jowett and Lewis Campbell, vol. II, essays (Oxford: Clarendon Press, 1894)"
+  ],
+  "lewis-campbell-jowett-republic-v3-1894": [
+   "platosrepublicgr03plat",
+   "Plato's Republic, the Greek text, edited with notes and essays by B. Jowett and Lewis Campbell, vol. III, notes (Oxford: Clarendon Press, 1894)"
+  ],
+  "lewis-campbell-tragic-drama-1904": [
+   "tragicdramainaes00campuoft",
+   "Tragic Drama in Aeschylus, Sophocles, and Shakespeare: an Essay (New York: Longmans, Green; London: Smith, Elder, 1904)"
+  ],
+  "lewis-campbell-paralipomena-sophoclea-1907": [
+   "paralipomenasoph00campuoft",
+   "Paralipomena Sophoclea: Supplementary Notes on the Text and Interpretation of Sophocles (London: Rivingtons, 1907)"
+  ],
+  "lewis-campbell-abbott-life-of-jowett-v1-1897": [
+   "lifelettersofben01abbouoft",
+   "The Life and Letters of Benjamin Jowett, M.A., Master of Balliol College, Oxford, by Evelyn Abbott and Lewis Campbell, vol. I (London: John Murray, 1897)"
+  ],
+  "lewis-campbell-abbott-life-of-jowett-v2-1897": [
+   "lifelettersofben02abbouoft",
+   "The Life and Letters of Benjamin Jowett, M.A., Master of Balliol College, Oxford, by Evelyn Abbott and Lewis Campbell, vol. II (London: John Murray, 1897)"
   ]
  },
  "_checks": {
   "lewis-campbell-guide-greek-tragedy-1891": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lewis campbell",
    "identity": "ok",
@@ -33,7 +77,7 @@
   },
   "lewis-campbell-religion-greek-literature-1898": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lewis campbell",
    "identity": "ok",
@@ -41,6 +85,132 @@
    "ia_date": "1898",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "lewis-campbell-sophistes-politicus-1867": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "lewis-campbell-theaetetus-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-sophocles-v2-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewis-campbell-sophocles-classical-writers-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-jowett-republic-v1-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-jowett-republic-v2-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-jowett-republic-v3-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-tragic-drama-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewis-campbell-paralipomena-sophoclea-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewis-campbell-abbott-life-of-jowett-v1-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lewis-campbell-abbott-life-of-jowett-v2-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "lewis-campbell-jowett-republic-v3-1894": {
+   "author": "title page OCRs the editors as 'BY THE LATE ΡΟ Α, MASTER OF BALLIOL COLLEGE ... AND PE i> AMP RELL. M.A, HONORARY FELLOW OF BALLIOL COLLEGE, EMERITUS PROFESSOR OF GREEK IN THE UNIVERSITY OF ST. ANDREWS', spine 'JOWETT (AND CAMPBELL' (Clarendon Press, 1894)"
   }
  }
 }
