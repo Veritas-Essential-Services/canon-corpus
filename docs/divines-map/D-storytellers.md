@@ -18667,3 +18667,15 @@ Shelf: `pipeline/thomas-dick-lauder_shelf.json` (2026-10-22; added at the coordi
 | Legendary Tales of the Highlands (Volume 2 of 3) A sequel to Highland Rambles | have | PG 58931, `tdlauder-legendary-tales-of-the-highlands-volume-2-of-3-a-se` (699 units) |
 | Legendary Tales of the Highlands (Volume 3 of 3) A sequel to Highland Rambles | have | PG 59202, `tdlauder-legendary-tales-of-the-highlands-volume-3-of-3-a-se` (771 units) |
 | The Wolfe of Badenoch: A Historical Romance of the Fourteenth Century | have | PG 66763, `tdlauder-wolfe-of-badenoch` (3716 units) |
+
+## Eleanor M. Ingram
+
+Shelf: `pipeline/eleanor-m-ingram_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Thing from the Lake | have | PG 23738, `emingram-thing-from-the-lake` (1441 units) |
+| From the Car Behind | have | PG 27337, `emingram-from-the-car-behind` (1970 units) |
+| The Flying Mercury | have | PG 29166, `emingram-flying-mercury` (877 units) |
+| The Game and the Candle | have | PG 35740, `emingram-game-and-the-candle` (1753 units) |
+| A Man's Hearth | have | PG 36503, `emingram-mans-hearth` (1508 units) |

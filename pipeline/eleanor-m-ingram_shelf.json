@@ -1,0 +1,87 @@
+{
+ "_about": "Eleanor M. Ingram: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Eleanor M. Ingram",
+ "_name_words": [
+  "eleanor",
+  "ingram",
+  "marie"
+ ],
+ "_surname": [
+  "eleanor m. ingram",
+  "eleanor marie ingram",
+  "ingram"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "emingram-thing-from-the-lake": [
+   23738,
+   "The Thing from the Lake"
+  ],
+  "emingram-from-the-car-behind": [
+   27337,
+   "From the Car Behind"
+  ],
+  "emingram-flying-mercury": [
+   29166,
+   "The Flying Mercury"
+  ],
+  "emingram-game-and-the-candle": [
+   35740,
+   "The Game and the Candle"
+  ],
+  "emingram-mans-hearth": [
+   36503,
+   "A Man's Hearth"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "emingram-thing-from-the-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor m. ingram",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emingram-from-the-car-behind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor m. ingram",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emingram-flying-mercury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor m. ingram",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emingram-game-and-the-candle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor m. ingram",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emingram-mans-hearth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor m. ingram",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
