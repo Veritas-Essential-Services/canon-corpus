@@ -1,0 +1,284 @@
+{
+ "_about": "Public-domain Charles Augustus Briggs (1841-1913), Union Theological Seminary professor of Hebrew and biblical theology, tried for heresy by the Presbyterian Church in 1892-1893, for the Word Hoard: his 1876 inaugural address, Biblical Study (1883), American Presbyterianism (1885), Messianic Prophecy (1886), Whither? (1889), The Authority of Holy Scripture (1891), The Bible, the Church and the Reason (1892), The Higher Criticism of the Hexateuch (1892), The Defence of Professor Briggs (1893), The Messiah of the Gospels (1894), The Messiah of the Apostles (1895), General Introduction to the Study of Holy Scripture (1899), The Incarnation of the Lord (1902), New Light on the Life of Jesus (1904), The Ethical Teaching of Jesus (1904) and the International Critical Commentary on Psalms (2 vols, 1906, with Emilie Grace Briggs), from Internet Archive scans. Added 2026-10-23 by lane A, round 57 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "briggs"
+ ],
+ "_surname": [
+  "charles a. briggs",
+  "charles augustus briggs",
+  "c. a. briggs",
+  "professor briggs"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "briggs-inaugural-1876": [
+   "addressbyrevchar00brigrich",
+   "Address by Rev. Charles A. Briggs, D.D. : On occasion of his inauguration as Davenport Professor of Hebrew and the Cognate Languages in the Union Theological Seminary, New York City (New York : Press of Rogers & Sherwood, 1876)"
+  ],
+  "briggs-biblical-study": [
+   "biblicalstudyits0000brig",
+   "Biblical study, its principles, methods, and history (New York, C. Scribner's Sons, 1883)"
+  ],
+  "briggs-american-presbyterianism": [
+   "americanpresbyte00brig",
+   "American Presbyterianism : its origin and early history together with an appendix of letters and documents, many of which have recently been discovered (New York : C. Scribner, 1885)"
+  ],
+  "briggs-messianic-prophecy": [
+   "messianicprophec00brig",
+   "Messianic prophecy : the prediction of the fulfillment of redemption through the Messiah, a critical study of the messianic passages of the Old Testament in the order of their development (Edinburgh: Clark, 1886)"
+  ],
+  "briggs-whither": [
+   "whithertheologic00brig",
+   "Whither? : a theological question for the times (New York : Charles Scribner's Sons, 1889)"
+  ],
+  "briggs-authority-of-scripture": [
+   "authorityofholys00brig",
+   "The authority of Holy Scripture : an inaugural address (New York : Scribner, 1891)"
+  ],
+  "briggs-bible-church-reason": [
+   "thebiblethechurc00briguoft",
+   "The Bible, the church and the reason : the three great fountains of divine authority (New York : Scribner, 1892)"
+  ],
+  "briggs-hexateuch": [
+   "highercriticismo0000brig_i5x9",
+   "The higher criticism of the Hexateuch, new edition (New York: C. Scribner's Sons, 1897)"
+  ],
+  "briggs-defence": [
+   "defenceofprofes00brig",
+   "The defence of Professor Briggs before the General Assembly : the case against professor Briggs, part III (New York : Scribner's, 1893)"
+  ],
+  "briggs-messiah-gospels": [
+   "messiahofgospels0000char",
+   "The Messiah Of The Gospels (catalogued 1894)"
+  ],
+  "briggs-messiah-apostles": [
+   "messiahofapostle0000brig",
+   "The Messiah of the apostles (New York, C. Scribner's Sons, 1895)"
+  ],
+  "briggs-general-introduction": [
+   "studyofholyscrip00briguoft",
+   "General introduction to the study of Holy Scripture; the principles, methods, history, and results of its several departments and of the Hole (Edinburgh T. & T. Clark, 1899)"
+  ],
+  "briggs-incarnation": [
+   "incarnationoflor00brig",
+   "The incarnation of the Lord : a series of sermons tracing the unfolding of the doctrine of the incarnation in the New Testament (New York : Charles Scribner's, 1902)"
+  ],
+  "briggs-new-light": [
+   "newlightonlifej01briggoog",
+   "New light on the life of Jesus (New York, C. Scribner's sons, 1904)"
+  ],
+  "briggs-ethical-teaching": [
+   "ethicalteachingo00bri",
+   "The ethical teaching of Jesus (New York : Scribner's, 1904)"
+  ],
+  "briggs-psalms-1": [
+   "criticalexegetic0000brig_q1p1",
+   "A critical and exegetical commentary on the Book of Psalms (Edinburgh, T. & T. Clark, 1906)"
+  ],
+  "briggs-psalms-2": [
+   "criticalexegetic1906brig2",
+   "A critical and exegetical commentary on the book of Psalms, vol. pt. 2 (New York, C. Scribner's sons, 1906)"
+  ]
+ },
+ "_alternates": {
+  "briggs-hexateuch-1892": "highercriticismo00brig_0: the 1892 first edition; that scan lacks its title page"
+ },
+ "_excluded": {
+  "briggs-other": "Pamphlets and papers by others in the heresy case (the Presbytery's charges, Warfield's answer, reviews of the inaugural); Briggs's own short pamphlets 1890-1894; Briggs, Driver and Brown's Hebrew Lexicon (held as BDB elsewhere)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "briggs-inaugural-1876": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-biblical-study": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "briggs-american-presbyterianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-messianic-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "briggs-whither": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-authority-of-scripture": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-bible-church-reason": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-hexateuch": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "briggs-defence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "briggs-messiah-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "briggs-messiah-apostles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "briggs-general-introduction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-incarnation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-new-light": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "briggs-ethical-teaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "briggs-psalms-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "briggs-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. briggs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

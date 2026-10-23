@@ -12029,3 +12029,29 @@ Slugs `hwbeecher-*`. Built from title pages read for round 57.
 | The Plymouth Pulpit and Sermons in Plymouth Church series (1868-1875, many volumes): left for a later round, scans need sorting by series and volume | pending | not shelved |
 | The Life of Jesus the Christ, vol. 2 (1891, completed by his sons): not yet located | pending | not shelved |
 | Selections others gathered from his sermons (Life Thoughts, Royal Truths, Notes from Plymouth Pulpit, 595 Pulpit Pungencies, Beecher as a Humorist, the Beecher Book of Days); the Plymouth Collection hymn books; Plain and Pleasant Talk about Fruits, Flowers and Farming (not divinity); Mrs. Beecher's Motherly Talks; biographies of him | excluded | |
+
+## Charles A. Briggs (round 57, my pick, 2026-10-23)
+
+Slugs `briggs-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| Address by Rev. Charles A. Briggs, D.D. : On occasion of his inauguration as Davenport Professor of Hebrew and the Cognate Languages in the Union Theological Seminary, New York City (New York : Press of Rogers & Sherwood, 1876) | have-ocr | IA `addressbyrevchar00brigrich` |
+| Biblical study, its principles, methods, and history (New York, C. Scribner's Sons, 1883) | have-ocr | IA `biblicalstudyits0000brig` |
+| American Presbyterianism : its origin and early history together with an appendix of letters and documents, many of which have recently been discovered (New York : C. Scribner, 1885) | have-ocr | IA `americanpresbyte00brig` |
+| Messianic prophecy : the prediction of the fulfillment of redemption through the Messiah, a critical study of the messianic passages of the Old Testament in the order of their development (Edinburgh: Clark, 1886) | have-ocr | IA `messianicprophec00brig` |
+| Whither? : a theological question for the times (New York : Charles Scribner's Sons, 1889) | have-ocr | IA `whithertheologic00brig` |
+| The authority of Holy Scripture : an inaugural address (New York : Scribner, 1891) | have-ocr | IA `authorityofholys00brig` |
+| The Bible, the church and the reason : the three great fountains of divine authority (New York : Scribner, 1892) | have-ocr | IA `thebiblethechurc00briguoft` |
+| The higher criticism of the Hexateuch, new edition (New York: C. Scribner's Sons, 1897) | have-ocr | IA `highercriticismo0000brig_i5x9` |
+| The defence of Professor Briggs before the General Assembly : the case against professor Briggs, part III (New York : Scribner's, 1893) | have-ocr | IA `defenceofprofes00brig` |
+| The Messiah Of The Gospels (catalogued 1894) | have-ocr | IA `messiahofgospels0000char` |
+| The Messiah of the apostles (New York, C. Scribner's Sons, 1895) | have-ocr | IA `messiahofapostle0000brig` |
+| General introduction to the study of Holy Scripture; the principles, methods, history, and results of its several departments and of the Hole (Edinburgh T. & T. Clark, 1899) | have-ocr | IA `studyofholyscrip00briguoft` |
+| The incarnation of the Lord : a series of sermons tracing the unfolding of the doctrine of the incarnation in the New Testament (New York : Charles Scribner's, 1902) | have-ocr | IA `incarnationoflor00brig` |
+| New light on the life of Jesus (New York, C. Scribner's sons, 1904) | have-ocr | IA `newlightonlifej01briggoog` |
+| The ethical teaching of Jesus (New York : Scribner's, 1904) | have-ocr | IA `ethicalteachingo00bri` |
+| A critical and exegetical commentary on the Book of Psalms (Edinburgh, T. & T. Clark, 1906) | have-ocr | IA `criticalexegetic0000brig_q1p1` |
+| A critical and exegetical commentary on the book of Psalms, vol. pt. 2 (New York, C. Scribner's sons, 1906) | have-ocr | IA `criticalexegetic1906brig2` |
+| highercriticismo00brig_0: the 1892 first edition; that scan lacks its title page | alternate | not shelved |
+| Pamphlets and papers by others in the heresy case (the Presbytery's charges, Warfield's answer, reviews of the inaugural); Briggs's own short pamphlets 1890-1894; Briggs, Driver and Brown's Hebrew Lexicon (held as BDB elsewhere) | excluded | |
