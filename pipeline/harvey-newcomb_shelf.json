@@ -1,0 +1,240 @@
+{
+ "_about": "Public-domain Harvey Newcomb (1803-1863), Congregational minister and writer for the young, for the Word Hoard: A Practical Directory for Young Christian Females, The Anabaptists, Protestants, Sabbath School Teacher's Aid, The Young Lady's Guide, The Closet, The Four Pillars, The False Prophet, How to be a Man, Christianity Demonstrated, A Cyclopedia of Missions, The Harvest and the Reapers, Kind Words for Children, and Anecdotes for Boys. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 97 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "harvey newcomb",
+  "h. newcomb",
+  "newcomb"
+ ],
+ "_surname": [
+  "harvey newcomb",
+  "h. newcomb",
+  "newcomb"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "newcomb-young-females": [
+   "practicaldirecto00newc",
+   "A practical directory for young Christian females : being a series of letters from a brother to a younger sister (Boston : Massachusetts Sabbath School Society, 1833)"
+  ],
+  "newcomb-anabaptists": [
+   "anabaptistsbeing00newc",
+   "The Anabaptists : being an account of the progress of the Reformation in Germany, from the Diet of Worms to the death of Frederic, Elector of Saxony (Boston : Massachusetts Sabbath School Society, 1836)"
+  ],
+  "newcomb-protestants": [
+   "protestantsbeing00newc",
+   "Protestants: being a continuation of the Reformation in Germany from 1525 to 1532 (Boston, Massachusetts Sabbath School Society, 1839)"
+  ],
+  "newcomb-sabbath-school": [
+   "sabbathschoolste00newc",
+   "Sabbath schools teacher's aid ([n.p.], 1840)"
+  ],
+  "newcomb-young-lady": [
+   "youngladysguid00newc",
+   "The young lady's guide to the harmonious development of Christian character ([n.p.], 1841)"
+  ],
+  "newcomb-closet": [
+   "closetbeinganai00newcgoog",
+   "The Closet: Being an Aid to Private Devotion ; Containing Directions and (J.B. Dow, 1841)"
+  ],
+  "newcomb-four-pillars": [
+   "fourpillarsortru00newc",
+   "The four pillars, or, The truth of Christianity demonstrated, in four distinct and independent series of proofs : together with an explanation of the types and prophecies concerning the Messiah (Boston : S. Goldsmith, and Crocker & Brewster, 1842)"
+  ],
+  "newcomb-false-prophet": [
+   "falseprophetora00newcgoog",
+   "The false prophet; or, An account of the rise and progress of the Mohammedan religion: comprising the history of the church, from the close of the fifth to the beginning of the seventh century; together with a concise view of the prophecies relating to Mohammed and his followers (Boston, Massachusetts Sabbath school society, 1844)"
+  ],
+  "newcomb-how-to-be-man": [
+   "howtobemanbookfo00newcrich",
+   "How to be a man : a book for boys, containing useful hints on the formation of character (Boston : Gould, Kendall, and Lincoln, 1847)"
+  ],
+  "newcomb-christianity-demonstrated": [
+   "christianitydemo00newc",
+   "Christianity demonstrated; in four distinct and independent series of proofs; with an explanation of the types and prophecies concerning the Messiah (Boston, Gould, Kendall and Lincoln, 1848)"
+  ],
+  "newcomb-cyclopedia-missions": [
+   "cyclopediaofmiss00newc",
+   "A cyclopedia of missions : containing a comprehensive view of missionary operations throughout the world : with geographical descriptions, and accounts of the social, moral, and religious condition of the people (New York : Scribner, 1855)"
+  ],
+  "newcomb-harvest-reapers": [
+   "harvestreapersho00newc",
+   "The harvest and the reapers; homework for all, and how to do it (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858)"
+  ],
+  "newcomb-kind-words": [
+   "kindwordsforchil00newc",
+   "Kind words for children to guide them in the path of peace ([n.p.], 1859)"
+  ],
+  "newcomb-anecdotes-boys": [
+   "anecdotesforboys00newc",
+   "Anecdotes for boys : entertaining narratives and anecdotes, illustrative of principles and character (Boston : Gould and Lincoln, 1853)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "newcomb-false-prophet": "Title page image: 'The False Prophet; or, an Account of the Rise and Progress of the Mohammedan Religion... By Harvey Newcomb... Second Edition... Boston: Massachusetts Sabbath School Society... 1844.'",
+  "newcomb-kind-words": "Title page (OCR): 'Kind Words for Children, to guide them in the path of peace. [By] Rev. Harvey Newcomb, author of How to be a Man, How to be a Lady, The Harvest and the Reapers... Boston: Gould and Lincoln.'",
+  "newcomb-anecdotes-boys": "Title page (OCR): 'Anecdotes for Boys. Entertaining narratives and anecdotes, illustrative of principles and character. [By] Harvey Newcomb, author of How to be a Lady, How to be a Man... Boston: Gould and Lincoln... 1854.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "newcomb-young-females": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newcomb-anabaptists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newcomb-protestants": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "newcomb-sabbath-school": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "newcomb-young-lady": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "newcomb-closet": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newcomb-four-pillars": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "newcomb-false-prophet": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newcomb-how-to-be-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newcomb-christianity-demonstrated": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newcomb-cyclopedia-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "newcomb-harvest-reapers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harvey newcomb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "newcomb-kind-words": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "newcomb-anecdotes-boys": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

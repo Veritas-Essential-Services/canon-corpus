@@ -15922,3 +15922,24 @@ Slugs `godbey-*`. Built from title pages read for round 97.
 | Great Disasters and Horrors, Stanley in Africa (popular subscription books, not theology) | excluded | |
 | Books and articles by J. E. Godbey and the Assyriologist Allen H. Godbey: different men | excluded | |
 | twowitnesses0000godb: the scan is a 1996 devotional of the same title, not Godbey's book; no other copy found | excluded | |
+
+## Harvey Newcomb (round 97, my pick, 2026-10-23)
+
+Slugs `newcomb-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| A practical directory for young Christian females : being a series of letters from a brother to a younger sister (Boston : Massachusetts Sabbath School Society, 1833) | have-ocr | IA `practicaldirecto00newc` |
+| The Anabaptists : being an account of the progress of the Reformation in Germany, from the Diet of Worms to the death of Frederic, Elector of Saxony (Boston : Massachusetts Sabbath School Society, 1836) | have-ocr | IA `anabaptistsbeing00newc` |
+| Protestants: being a continuation of the Reformation in Germany from 1525 to 1532 (Boston, Massachusetts Sabbath School Society, 1839) | have-ocr | IA `protestantsbeing00newc` |
+| Sabbath schools teacher's aid ([n.p.], 1840) | have-ocr | IA `sabbathschoolste00newc` |
+| The young lady's guide to the harmonious development of Christian character ([n.p.], 1841) | have-ocr | IA `youngladysguid00newc` |
+| The Closet: Being an Aid to Private Devotion ; Containing Directions and (J.B. Dow, 1841) | have-ocr | IA `closetbeinganai00newcgoog` |
+| The four pillars, or, The truth of Christianity demonstrated, in four distinct and independent series of proofs : together with an explanation of the types and prophecies concerning the Messiah (Boston : S. Goldsmith, and Crocker & Brewster, 1842) | have-ocr | IA `fourpillarsortru00newc` |
+| The false prophet; or, An account of the rise and progress of the Mohammedan religion: comprising the history of the church, from the close of the fifth to the beginning of the seventh century; together with a concise view of the prophecies relating to Mohammed and his followers (Boston, Massachusetts Sabbath school society, 1844) | have-ocr | IA `falseprophetora00newcgoog` |
+| How to be a man : a book for boys, containing useful hints on the formation of character (Boston : Gould, Kendall, and Lincoln, 1847) | have-ocr | IA `howtobemanbookfo00newcrich` |
+| Christianity demonstrated; in four distinct and independent series of proofs; with an explanation of the types and prophecies concerning the Messiah (Boston, Gould, Kendall and Lincoln, 1848) | have-ocr | IA `christianitydemo00newc` |
+| A cyclopedia of missions : containing a comprehensive view of missionary operations throughout the world : with geographical descriptions, and accounts of the social, moral, and religious condition of the people (New York : Scribner, 1855) | have-ocr | IA `cyclopediaofmiss00newc` |
+| The harvest and the reapers; homework for all, and how to do it (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858) | have-ocr | IA `harvestreapersho00newc` |
+| Kind words for children to guide them in the path of peace ([n.p.], 1859) | have-ocr | IA `kindwordsforchil00newc` |
+| Anecdotes for boys : entertaining narratives and anecdotes, illustrative of principles and character (Boston : Gould and Lincoln, 1853) | have-ocr | IA `anecdotesforboys00newc` |
