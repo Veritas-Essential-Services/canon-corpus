@@ -32,6 +32,10 @@
    "thricegreatesthe03hermuoft",
    "Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis, being a translation of the extant sermons and fragments of the Trismegistic literature, vol. III: Excerpts and Fragments (London and Benares: Theosophical Publishing Society, 1906)",
    "tr. G. R. S. Mead"
+  ],
+  "hermetica-scott-v1-1924": [
+   "ScottHermeticaVolOne",
+   "Hermetica, ed. and tr. Walter Scott, vol. I: Introduction, Texts and Translation (Oxford: Clarendon, 1924); Greek and Latin facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_surname": [
@@ -43,12 +47,13 @@
   "hermetica-everard-pymander-1884": "Dr. Everard",
   "hermetica-mead-1906-v1": "G. R. S. Mead",
   "hermetica-mead-1906-v2": "G. R. S. Mead",
-  "hermetica-mead-1906-v3": "G. R. S. Mead"
+  "hermetica-mead-1906-v3": "G. R. S. Mead",
+  "hermetica-scott-v1-1924": "Scott"
  },
  "_checks": {
   "hermetica-chambers-1882": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "trismegistus",
    "translator_claimed": "John David Chambers",
@@ -61,7 +66,7 @@
   },
   "hermetica-everard-pymander-1884": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "trismegistus",
    "translator_claimed": "Dr. Everard",
@@ -74,7 +79,7 @@
   },
   "hermetica-mead-1906-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "trismegistus",
    "translator_claimed": "G. R. S. Mead",
@@ -87,7 +92,7 @@
   },
   "hermetica-mead-1906-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "trismegistus",
    "translator_claimed": "G. R. S. Mead",
@@ -100,7 +105,7 @@
   },
   "hermetica-mead-1906-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "trismegistus",
    "translator_claimed": "G. R. S. Mead",
@@ -110,9 +115,22 @@
    "ia_date": "1906",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "hermetica-scott-v1-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trismegistus",
+   "translator_claimed": "Scott",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_excluded": {
-  "Walter Scott, Hermetica (Clarendon, 1924-36)": "vol. I (1924, IA ScottHermeticaVolOne) is the only volume with the translation, and it prints the Greek and Latin texts facing; its OCR reads 0.761 clean words, below the lane's bar, mixed with Greek. Vols. II-III (1925-26) are commentary, vol. IV (1936) not public domain. Not taken"
+  "Walter Scott, Hermetica (Clarendon, 1924-36)": "vol. I (1924) taken as hermetica-scott-v1-1924; vols. II-III (1925-26) are commentary, vol. IV (1936) is not public domain"
  }
 }
