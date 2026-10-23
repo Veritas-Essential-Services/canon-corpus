@@ -14508,3 +14508,25 @@ Shelf: `pipeline/louis-joseph-vance_shelf.json` (2026-10-22; added at the coordi
 | Linda Lee, Incorporated: A Novel | have | PG 36445, `ljvance-linda-lee-incorporated` (2895 units) |
 | Joan Thursday: A Novel | have | PG 36502, `ljvance-joan-thursday` (3329 units) |
 | The Lone Wolf Returns | have | PG 59177, `ljvance-lone-wolf-returns` (2503 units) |
+
+## David Christie Murray
+
+Shelf: `pipeline/david-christie-murray_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Recollections With Photogravure Portrait of the Author and a number of Original Letters, of which one by George Meredith and another by Robert Louis Stevenson are reproduced in facsimile | have | PG 22200, `dcmurray-recollections-with-photogravure-portrait-of-the-aut` (464 units) |
+| Aunt Rachel A Rustic Sentimental Comedy | have | PG 22202, `dcmurray-aunt-rachel-a-rustic-sentimental-comedy` (1006 units) |
+| My Contemporaries In Fiction | have | PG 22203, `dcmurray-my-contemporaries-in-fiction` (170 units) |
+| The Making Of A Novelist An Experiment In Autobiography | have | PG 22204, `dcmurray-making-of-a-novelist-an-experiment-in-autobiography` (284 units) |
+| In Direst Peril | have | PG 22205, `dcmurray-in-direst-peril` (1333 units) |
+| An Old Meerschaum From Coals Of Fire And Other Stories, Volume II. (of III.) | have | PG 22206, `dcmurray-old-meerschaum-from-coals-of-fire-and-other-stories` (287 units) |
+| The Romance Of Giovanni Calvotti From Coals Of Fire And Other Stories, Volume II. (of III.) | have | PG 22207, `dcmurray-romance-of-giovanni-calvotti-from-coals-of-fire-and` (560 units) |
+| Cruel Barbara Allen From Coals Of Fire And Other Stories, Volume II. (of III.) | have | PG 22208, `dcmurray-cruel-barbara-allen-from-coals-of-fire-and-other-st` (242 units) |
+| Schwartz: A History From "Schwartz" by David Christie Murray | have | PG 22271, `dcmurray-schwartz` (75 units) |
+| Young Mr. Barter's Repentance From "Schwartz" by David Christie Murray | have | PG 22272, `dcmurray-young-mr-barters-repentance-from-schwartz-by-david` (446 units) |
+| Bulldog And Butterfly From "Schwartz" by David Christie Murray | have | PG 22273, `dcmurray-bulldog-and-butterfly-from-schwartz-by-david-christ` (328 units) |
+| Julia And Her Romeo: A Chronicle Of Castle Barfield From "Schwartz" by David Christie Murray | have | PG 22274, `dcmurray-julia-and-her-romeo` (399 units) |
+| VC — A Chronicle of Castle Barfield and of the Crimea | have | PG 22275, `dcmurray-vc-a-chronicle-of-castle-barfield-and-of-the-crimea` (806 units) |
+| Despair's Last Journey | have | PG 22276, `dcmurray-despairs-last-journey` (2977 units) |
+| The Great War of 189-: A Forecast | have | PG 57707, `dcmurray-great-war-of-189` (977 units) |
