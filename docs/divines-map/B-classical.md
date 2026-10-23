@@ -3013,6 +3013,10 @@ Shelf: `pipeline/t-g-tucker_shelf.json`. Thomas George Tucker (1859-1946), Profe
 |---|---|---|---|
 | Life in the Roman World of Nero and St. Paul |  | `tucker-life-roman-world-nero-paul` | have (PG 12875) |
 | Sappho |  | `tucker-sappho` | have (PG 60906) |
+| The Proem to the Ideal Commonwealth of Plato (Politeias Prooimion), an introduction to the language and method of the 'Socratic' dialogues, Republic Book I and Book II cc. 1-10, with introduction and critical and explanatory notes by T. G. Tucker (London: George Bell, 1900); Greek-dense, kept per Adam's 2026-10-23 ruling |  | `t-g-tucker-proem-ideal-commonwealth-1900` | have-raw (IA `bwb_KU-426-623`) |
+| The Frogs of Aristophanes, edited by T. G. Tucker (London: Macmillan; New York: The Macmillan Company, 1906) |  | `t-g-tucker-frogs-1906` | have-raw (IA `frogsofaristopha00arisrich`) |
+| Life in Ancient Athens, the social and public life of a classical Athenian from day to day, by T. G. Tucker (New York: The Macmillan Company; London: Macmillan, 1916; first published December 1906, this a reprint) |  | `t-g-tucker-life-ancient-athens-1906` | have-raw (IA `cu31924028305005`) |
+| The Foreign Debt of English Literature, by T. G. Tucker (London: George Bell; the OCR reads the year as '190;', IA dates it 1907) |  | `t-g-tucker-foreign-debt-english-literature-1907` | have-raw (IA `foreigndebtofen00tuck`) |
 
 ## Guglielmo Ferrero (scholarship)
 
