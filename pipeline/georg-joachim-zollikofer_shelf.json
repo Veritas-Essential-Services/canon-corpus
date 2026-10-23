@@ -1,0 +1,86 @@
+{
+ "_about": "Public-domain Georg Joachim Zollikofer (1730-1788), Reformed preacher at Leipzig, in English translation (William Tooke and others, all translations printed 1796-1812), for the Word Hoard: Exercises of Piety, Sermons on the Dignity of Man, Sermons on Education, and Sermons on Prevalent Errors and Vices. The German originals are left out; this shelf is English only. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 96 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "zollikofer"
+ ],
+ "_surname": [
+  "zollikofer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zollikofer-exercises-piety": [
+   "exercisesofpiety00zolliala",
+   "Exercises of piety. For the use of the enlightened and virtuous Christians (London : Johnson, 1796)"
+  ],
+  "zollikofer-dignity-of-man": [
+   "sermonsondignit00zollgoog",
+   "Sermons on the dignity of man, and the value of the objects principally (for T.N. Longman and O. Rees, 1802, 1802)"
+  ],
+  "zollikofer-education": [
+   "sermonsoneducat00tookgoog",
+   "Sermons on education : on reflection, on the greatness of God in the works of nature and in the government of the world, on charity, and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, and Orme ..., 1806)"
+  ],
+  "zollikofer-prevalent-errors": [
+   "sermonsonpreval00zollgoog",
+   "Sermons on prevalent errors and vices : and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, Orme, and Brown, 1812)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "zollikofer-treasury": "newlyopenedtrea00zoll: A Newly Opened Treasury of Heavenly Incense, by an earlier Zollikofer (Caspar), not Georg Joachim"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "zollikofer-exercises-piety": "Title page image: 'Exercises of Piety. For the use of enlightened and virtuous Christians. By G. J. Zollikofre, Pastor of the Reformed Church at Leipsic. Translated from the French Edition, by James Manning... London: Printed for J. Johnson... 1796.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "zollikofer-exercises-piety": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zollikofer-dignity-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zollikofer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zollikofer-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zollikofer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zollikofer-prevalent-errors": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zollikofer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

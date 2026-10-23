@@ -15761,3 +15761,15 @@ Slugs `bradbury-*`. Built from title pages read for round 96.
 | The duty and doctrine of baptism : in thirteen sermons (London : Printed for J. Davidson [etc.], 1749) | have-ocr | IA `dutydoctrineofba00brad` |
 | [Sermons], vol. 1 ([S.l. : s.n., 1762) | have-ocr | IA `sermons01brad` |
 | practur00earl: Practical Discourses of Singing in the Worship of God (Friday lecture, several preachers) | excluded | |
+
+## Georg Joachim Zollikofer (round 96, my pick, 2026-10-23)
+
+Slugs `zollikofer-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| Exercises of piety. For the use of the enlightened and virtuous Christians (London : Johnson, 1796) | have-ocr | IA `exercisesofpiety00zolliala` |
+| Sermons on the dignity of man, and the value of the objects principally (for T.N. Longman and O. Rees, 1802, 1802) | have-ocr | IA `sermonsondignit00zollgoog` |
+| Sermons on education : on reflection, on the greatness of God in the works of nature and in the government of the world, on charity, and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, and Orme ..., 1806) | have-ocr | IA `sermonsoneducat00tookgoog` |
+| Sermons on prevalent errors and vices : and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, Orme, and Brown, 1812) | have-ocr | IA `sermonsonpreval00zollgoog` |
+| newlyopenedtrea00zoll: A Newly Opened Treasury of Heavenly Incense, by an earlier Zollikofer (Caspar), not Georg Joachim | excluded | |
