@@ -11933,3 +11933,20 @@ Slugs `nmurray-*`. Built from title pages read for round 56.
 | Preachers and preaching (New York, Harper & brothers, 1860) | have-ocr | IA `preacherspreachi00murr` |
 | Dying legacy to the people of his charge (New York : Harper & Brothers, 1861) | have-ocr | IA `dyinglegacytopeo00murr` |
 | Walter Blake Kirwan (1754-1805), the Irish preacher, is another man; other Nicholas Murrays (the 1872 Complaynt of Scotlande editor, the 1880s journal writer) | excluded | |
+
+## Richard Salter Storrs (round 56, my pick, 2026-10-23)
+
+Slugs `storrs-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| The obligation of man to obey the civil law: its ground, and its extent (New York, M. H. Newman & co., 1850) | have-ocr | IA `obligationofmant00stor` |
+| The constitution of the human soul : six lectures delivered at the Brooklyn Institute, Brooklyn, N.Y (New York : R. Carter, 1857) | have-ocr | IA `constitutionofhu00storrich` |
+| Conditions of success in preaching without notes. Three lectures delivered before the students of the Union theological seminary, New York, Januray 13, 20, 27: 1875; with an appendix (N[ew] Y[ork] : Dodd and Mead, 1875) | have-ocr | IA `conditionsofsucc00stor` |
+| The early American spirit, and the genesis of it. The Declaration of Independence, and the effects of it (New York A.D.F. Randolph, 1878) | have-ocr | IA `earlyamericanspi00storuoft` |
+| John Wycliffe and the first English Bible; an oration (New York, A. D. F. Randolph & company, 1880) | have-ocr | IA `johnwycliffefirs00stor` |
+| The recognition of the supernatural in letters and in life: an oration (New York, A. D. F. Randolph & company, 1881) | have-ocr | IA `recognitionofsup00stor` |
+| The divine origin of Christianity indicated by its historical effects (Boston ; Chicago : The Pilgrim Press, 1884) | have-ocr | IA `divineoriginofch00stor` |
+| The Puritan spirit : an oration delivered before the Congregational club in Tremont temple, Boston, 18th December 1889 (Boston : Congregational Sunday-school and Pub. Society, 1890) | have-ocr | IA `puritanspiritora00stor` |
+| Bernard of Clairvaux, the times, the man, and his work : an historical study in eight lectures (New York : C. Scribner's Sons, 1892) | have-ocr | IA `bernardofclairva00stor` |
+| His father Richard Salter Storrs (1787-1873) of Braintree, Mass.; the Lincoln and Brooklyn Bridge orations and the Garfield poetry anthology | excluded | |

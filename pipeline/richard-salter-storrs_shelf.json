@@ -1,0 +1,165 @@
+{
+ "_about": "Public-domain Richard Salter Storrs (1821-1900), Congregational pastor of the Church of the Pilgrims, Brooklyn, for the Word Hoard: The Obligation of Man to Obey the Civil Law (1850), The Constitution of the Human Soul (1857), Conditions of Success in Preaching without Notes (1875), The Early American Spirit (1878), John Wycliffe and the First English Bible (1880), The Recognition of the Supernatural (1881), The Divine Origin of Christianity (1884), The Puritan Spirit (1890) and Bernard of Clairvaux (1892), from Internet Archive scans. His father Richard Salter Storrs (1787-1873) of Braintree is another man. Added 2026-10-23 by lane A, round 56 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "storrs"
+ ],
+ "_surname": [
+  "richard s. storrs",
+  "richard salter storrs",
+  "r. s. storrs",
+  "storrs, jr."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "storrs-civil-law": [
+   "obligationofmant00stor",
+   "The obligation of man to obey the civil law: its ground, and its extent (New York, M. H. Newman & co., 1850)"
+  ],
+  "storrs-human-soul": [
+   "constitutionofhu00storrich",
+   "The constitution of the human soul : six lectures delivered at the Brooklyn Institute, Brooklyn, N.Y (New York : R. Carter, 1857)"
+  ],
+  "storrs-preaching-without-notes": [
+   "conditionsofsucc00stor",
+   "Conditions of success in preaching without notes. Three lectures delivered before the students of the Union theological seminary, New York, Januray 13, 20, 27: 1875; with an appendix (N[ew] Y[ork] : Dodd and Mead, 1875)"
+  ],
+  "storrs-early-american-spirit": [
+   "earlyamericanspi00storuoft",
+   "The early American spirit, and the genesis of it. The Declaration of Independence, and the effects of it (New York A.D.F. Randolph, 1878)"
+  ],
+  "storrs-wycliffe": [
+   "johnwycliffefirs00stor",
+   "John Wycliffe and the first English Bible; an oration (New York, A. D. F. Randolph & company, 1880)"
+  ],
+  "storrs-supernatural": [
+   "recognitionofsup00stor",
+   "The recognition of the supernatural in letters and in life: an oration (New York, A. D. F. Randolph & company, 1881)"
+  ],
+  "storrs-divine-origin": [
+   "divineoriginofch00stor",
+   "The divine origin of Christianity indicated by its historical effects (Boston ; Chicago : The Pilgrim Press, 1884)"
+  ],
+  "storrs-puritan-spirit": [
+   "puritanspiritora00stor",
+   "The Puritan spirit : an oration delivered before the Congregational club in Tremont temple, Boston, 18th December 1889 (Boston : Congregational Sunday-school and Pub. Society, 1890)"
+  ],
+  "storrs-bernard": [
+   "bernardofclairva00stor",
+   "Bernard of Clairvaux, the times, the man, and his work : an historical study in eight lectures (New York : C. Scribner's Sons, 1892)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "storrs-other": "His father Richard Salter Storrs (1787-1873) of Braintree, Mass.; the Lincoln and Brooklyn Bridge orations and the Garfield poetry anthology"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "storrs-supernatural": "Title page reads 'THE Recognition of the Supernatural IN letters and in life AN ORATION BY RICHARD S. STORRS, D.D., LL.D' (OCR 'S*'), Randolph 1881; delivered before Phi Beta Kappa at Harvard, July 1881, eight years after his father's death.",
+  "storrs-divine-origin": "Title page reads 'THE DIVINE ORIGIN OF CHRISTIANITY INDICATED BY ITS HISTORICAL EFFECTS BY RICHARD S. STORRS, D.D., LL.D' (OCR 'Si'), Boston: Pilgrim Press, copyright 1884; ten lectures before Union Theological Seminary and the Lowell Institute."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "storrs-civil-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard s. storrs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "storrs-human-soul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard s. storrs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "storrs-preaching-without-notes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard s. storrs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "storrs-early-american-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard s. storrs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "storrs-wycliffe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard s. storrs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "storrs-supernatural": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "storrs-divine-origin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "storrs-puritan-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard salter storrs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "storrs-bernard": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard s. storrs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
