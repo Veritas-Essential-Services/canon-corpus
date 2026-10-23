@@ -40009,3 +40009,24 @@ Shelf: `pipeline/will-n-harben_shelf.json` (2026-10-22; added at the coordinator
 | Pole Baker: A Novel | have | PG 51918, `wnharben-pole-baker` (1860 units) |
 | The Redemption of Kenneth Galt | have | PG 54104, `wnharben-redemption-of-kenneth-galt` (1737 units) |
 | In the Year Ten Thousand | have | PG 67122, `wnharben-in-the-year-ten-thousand` (44 units) |
+
+## Jackson Gregory
+
+Shelf: `pipeline/jackson-gregory_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Westerns. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Everlasting Whisper | have | PG 10213, `jgregory-everlasting-whisper` (2097 units) |
+| Six Feet Four | have | PG 15148, `jgregory-six-feet-four` (1441 units) |
+| The Bells of San Juan | have | PG 15438, `jgregory-bells-of-san-juan` (1488 units) |
+| The Desert Valley | have | PG 15502, `jgregory-desert-valley` (1668 units) |
+| Under Handicap A Novel | have | PG 17981, `jgregory-under-handicap-a-novel` (1916 units) |
+| Daughter of the Sun: A Tale of Adventure | have | PG 18916, `jgregory-daughter-of-the-sun` (1603 units) |
+| Judith of Blue Lake Ranch | have | PG 18926, `jgregory-judith-of-blue-lake-ranch` (1916 units) |
+| Man to Man | have | PG 18933, `jgregory-man-to-man` (2149 units) |
+| The Short Cut | have | PG 18950, `jgregory-short-cut` (1971 units) |
+| Wolf Breed | have | PG 18964, `jgregory-wolf-breed` (1284 units) |
+| Timber-Wolf | have | PG 61329, `jgregory-timber-wolf` (2148 units) |
+| The Fire Flower | have | PG 65833, `jgregory-fire-flower` (789 units) |
+| Beyond the Law | have | PG 65894, `jgregory-beyond-the-law` (387 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 77768 Marshal of Sundown (copyright line 1937). The text names a 1931 or later copyright, so it is not taken until Adam rules. |

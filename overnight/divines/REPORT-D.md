@@ -1934,3 +1934,6 @@
 
 ## 2026-10-22 22:33 CDT — will-n-harben: done
 - will-n-harben: new shelf, 14 Gutenberg books, 23,077 units, 2768 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — jackson-gregory: done
+- jackson-gregory: new shelf, 13 Gutenberg books, 20,857 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags.
