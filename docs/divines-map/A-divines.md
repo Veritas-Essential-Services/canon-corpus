@@ -16292,3 +16292,18 @@ Slugs `sturm-*`. Built from title pages read for round 101.
 | bim_eighteenth-century_reflections-on-the-works_sturm-christoph-christi_1788_1: the scan has no title page and its OCR never names Sturm; another printing could replace it | pending | not shelved |
 | Mathesis Enucleata, by the mathematician Johann Christoph Sturm (a different man) | excluded | |
 | Considerations sur les oeuvres de Dieu (French translation) | excluded | |
+
+## Elizabeth Singer Rowe (round 101, my pick, 2026-10-23)
+
+Slugs `rowe-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The history of Joseph. A poem. In ten books. By Mrs. Elizabeth Rowe, ...  1742 (catalogued 1742) | have-ocr | IA `bim_eighteenth-century_the-history-of-joseph-a_rowe-elizabeth-singer_1742` |
+| Devout exercises of the heart, in meditation, soliloquy, prayer and praise. By the late pious and ingenious Mrs. Rowe. Review'd and published, at her request, by I. Watts. D.D.  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_devout-exercises-of-the-_rowe-elizabeth-singer_1771` |
+| The miscellaneous works in prose and verse : the greater part now first published, vol. 1 (London : Printed for R. Hett and R. Dodsley, 1739) | have-ocr | IA `miscellaneouswor01rowe` |
+| Poems on several occasions. By Mrs. Elizabeth Rowe. To which is prefixed, an account of the life and writings of the author.  1759 (catalogued 1759) | have-ocr | IA `bim_eighteenth-century_poems-on-several-occasio_rowe-elizabeth-singer_1759` |
+| bim_eighteenth-century_an-expostulatory-epistle_rowe-elizabeth-singer_1720: 'by a lady'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| bim_eighteenth-century_friendship-in-death-in-_rowe-elizabeth-singer_1728: published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| bim_eighteenth-century_letters-on-various-occas_rowe-elizabeth-singer_1729: 'by the author of Friendship in Death'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| German translations | excluded | |
