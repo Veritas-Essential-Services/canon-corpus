@@ -17565,6 +17565,30 @@ Slugs `cctiffany-*`. Built from title pages read for round 115.
 |---|---|---|
 | A history of the Protestant Episcopal church in the United States of America (New York : Christian Literature, 1895) | have-ocr | IA `historyofprotest00tiff` |
 | The prayer book and the Christian life : or, The conception of the Christian life implied in the Book of common prayer (New York : C. Scribner's Sons, 1898) | have-ocr | IA `prayerbookchrist00tiff` |
+
+## Leander S. Keyser (round 115, my pick, 2026-10-23)
+
+Slugs `keyser-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| Bird-dom (Boston, D. Lothrop Company, 1891) | have-ocr | IA `birddo00keys` |
+| In bird land (Chicago, A. C. McClurg and company, 1894) | have-ocr | IA `inbirdland00keys` |
+| News from the birds (New York, D. Appleton and company, 1898) | have-ocr | IA `newsfrombirds00keys` |
+| Birds of the Rockies (Chicago, A. C. McClurg and co., 1902) | have-ocr | IA `birdsofrockies00keysrich` |
+| Our bird comrades (Chicago, New York : Rand, McNally & company, [c19) | have-ocr | IA `ourbirdcomrades00keysrich` |
+| The rational test : Bible doctrine in the light of reason (Philadelphia : Lutheran publication society, 1908) | have-ocr | IA `rationaltestbibl00keys` |
+| A system of Christian ethics (Philadelphia, Pa. : The Lutheran Publication Society, 1913) | have-ocr | IA `systemofchristia00keys_0` |
+| Election and conversion ; a frank discussion of Dr. Pieper's book on "Conversion election," with suggestions for Lutheran concord and union on another basis (Burlington, Ia., The German literary board, 1914) | have-ocr | IA `electionconversi00keys` |
+| A system of natural theism (Burlington, Ia. : The German literary board, 1917) | have-ocr | IA `systemofnaturalt00keys` |
+| A system of general ethics (Burlington, Ia., The Lutheran literary board, 1918) | have-ocr | IA `systemofgenerale00keys` |
+| Contending for the faith; essays in constructive criticism and positive apologetics (New York : George H. Doran company, 1920) | have-ocr | IA `contendingforfai00keys` |
+| A system of Christian evidence (Burlington, Ia., The Lutheran literary board, 1922) | have-ocr | IA `systemofchristia00keys` |
+| Man's first disobedience : an interpretation and defense of the Biblical narrative of the fall of man (New York, Macmillan, 1924) | have-ocr | IA `mansfirstdisobed0000keys` |
+| The doctrines of modernism : its beliefs and misbeliefs weighed and analyzed (Chicago : [publisher not identified], 1925) | have-ocr | IA `doctrinesofmoder00keys` |
+| The problem of origins : Whence came the universe? Whence came life and species? Whence came man? A frank discussion of the doctrines of creation and evolution (New York : Macmillan, 1926) | have-ocr | IA `problemoforigins00keys` |
+| A manual of Christian ethics (Burlington, Iowa : Lutheran Literary Board, 1926) | have-ocr | IA `manualofchristia00keys` |
+| onlywayout00presgoog (by another hand) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
