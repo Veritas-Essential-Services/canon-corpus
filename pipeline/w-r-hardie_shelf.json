@@ -1,0 +1,37 @@
+{
+ "_about": "W. R. Hardie (1862-1916), Professor of Humanity at Edinburgh: Lectures on Classical Subjects (1903). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "William Ross Hardie (1862-1916)",
+ "_name_words": [
+  "hardie",
+  "lectures",
+  "classical",
+  "subjects"
+ ],
+ "_surname": [
+  "w. r. hardie",
+  "william ross hardie",
+  "hardie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hardie-lectures-classical-subjects-1903": [
+   "lecturesonclassi00hard",
+   "Lectures on Classical Subjects (1903)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hardie-lectures-classical-subjects-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. r. hardie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -19451,6 +19451,15 @@ Shelf: `pipeline/t-l-papillon_shelf.json`. Comparative philology for Greek and L
 |---|---|---|---|
 | A Manual of Comparative Philology as Applied to the Illustration of Greek and Latin Inflections (1876) |  | `papillon-manual-comparative-philology-1876` | have-raw (IA `amanualcomparat00papigoog`) |
 
+
+## W. R. Hardie (1862-1916)
+
+Shelf: `pipeline/w-r-hardie_shelf.json`. Lectures on Classical Subjects (1903). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Lectures on Classical Subjects (1903) |  | `hardie-lectures-classical-subjects-1903` | have-raw (IA `lecturesonclassi00hard`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
