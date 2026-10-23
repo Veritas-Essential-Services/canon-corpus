@@ -9948,3 +9948,17 @@ Slugs `collier-*`. Built from title pages read for round 40.
 | Several Discourses Upon Practical Subjects (Printed by W. Bowyer , for the author, 1725) | have-ocr | IA `severaldiscours00collgoog` |
 | Other scans of the 1840-1841 and 1852 History; the Essays upon Several Moral Subjects (1702-1709) | alternate | not shelved |
 | His translation of Marcus Aurelius (on marcus-aurelius on another branch); the Tertullian Apology; works by other Colliers (Arthur Collier has his own shelf) | excluded | |
+
+## Thomas Brett (round 40, my pick, 2026-10-22)
+
+Slugs `brett-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A collection of the principal liturgies : used in the Christian church in the celebration of the Holy Eucharist (London : Rivington, 1838) | have-ocr | IA `collectionofprin00bret` |
+| An Account of Church Government and Governours, Wherein is Shewed that the Government of the (J. Wyat, 1710) | have-ocr | IA `anaccountchurch00bretgoog` |
+| The independency of the church upon the state, as to its pure spiritual powers : proved from the Holy Scriptures, and the writings of the primitive fathers : with answers to the most material objections (London : Printed for Henry Clements ..., 1717) | have-ocr | IA `independencyofch00bret` |
+| The divine right of episcopacy, and the necessity of an episcopal commission for preaching God's word, and for the valid ministration of the Christian sacraments, proved from the Holy Scriptures, and the doctrine and practice of the primitive church (London, Printed for Henry Clements, at the Half Moon in S. Paul's Church-yard, 1718) | have-ocr | IA `divinerightofepi00bret` |
+| A chronological essay on the sacred history ... being a defence of the computation of the Septuagint (London : F. Gyles, 1729) | have-ocr | IA `chronologicaless00bret` |
+| Other scans of the 1838 Liturgies (Toronto) | alternate | not shelved |
+| Works by later Thomas Bretts (law books 1887-1902) | excluded | |

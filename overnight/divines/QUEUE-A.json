@@ -5741,6 +5741,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:00:41-05:00",
       "notes": "Ecclesiastical History 1840-41 (9 vols), Short View, Several Discourses."
+    },
+    {
+      "id": "thomas-brett",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:41-05:00",
+      "notes": "Principal Liturgies 1838 and four early treatises."
     }
   ]
 }
