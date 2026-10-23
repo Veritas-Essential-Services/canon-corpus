@@ -11131,3 +11131,12 @@ Shelf: `pipeline/charles-rann-kennedy_shelf.json`. Specimens of Greek and Latin 
 |---|---|---|---|
 | Specimens of Greek and Latin Verse, chiefly translations (London: Henry G. Bohn, 1853); Greek-heavy, kept per Adam's 2026-10-23 ruling |  | `charles-rann-kennedy-specimens-1853` | have-raw (IA `specimensofgreek00kenn`) |
 
+## John E. B. Mayor (1825-1910)
+
+Shelf: `pipeline/j-e-b-mayor_shelf.json`. Thirteen Satires of Juvenal with a commentary, 4th ed., 2 vols. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Thirteen Satires of Juvenal, with a commentary, fourth edition revised, vol. I (London and New York: Macmillan, 1886); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `j-e-b-mayor-juvenal-1886-v1` | have-raw (IA `thirteensatireso0001juve`) |
+| Thirteen Satires of Juvenal, with a commentary, vol. II (London and New York: Macmillan, 1888); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `j-e-b-mayor-juvenal-1888-v2` | have-raw (IA `thirteensatires01mayogoog`) |
+
