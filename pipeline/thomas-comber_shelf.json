@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Thomas Comber (1645-1699), Dean of Durham, liturgist, for the Word Hoard: A Companion to the Temple, or a help to devotion in the daily use of the Common Prayer (London 1676) and A Companion to the Altar (London 1675), from Internet Archive scans. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "comber"
+ ],
+ "_surname": [
+  "thomas comber",
+  "comber"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "comber-companion-temple-1676": [
+   "acompaniontotem00combgoog",
+   "A companion to the temple, or A help to devotion, in the daily use of the common prayer : in two parts : part I containing the morning and evening prayer (London : Printed by Andrew Clark for Henry Brome ..., 1676)"
+  ],
+  "comber-companion-altar-1675": [
+   "acompaniontoalt00combgoog",
+   "A companion to the altar, or, An help to the worthy receiving of the Lords Supper by discourses and meditations upon the whole communion office : to which is added an essay upon the offices of baptism and confirmation (London : Printed by J. Macock for John Martyn ... and Richard Lambert ..., 1675)"
+  ]
+ },
+ "_alternates": {
+  "comber-copies": "The other 1676 copy; the Oxford 1841 Companion to the Temple; the 1906 Exposition of Morning and Evening Prayer (an extract)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "comber-companion-temple-1676": "title page read from the page image: 'A Companion to the Temple: or, A Help to Devotion, in the daily use of the Common-Prayer. In two parts. Part I ... The second edition with additions. By Thomas Comber, M.A. London ... MDCLXXVI'; the dedication to Lord Frescheville is signed Thomas Comber"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "comber-companion-temple-1676": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1676",
+   "ia_date": "1676",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "comber-companion-altar-1675": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "comber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1675",
+   "ia_date": "1675",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

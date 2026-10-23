@@ -10315,3 +10315,13 @@ Slugs `bisse-*`. Built from title pages read for round 42.
 |---|---|---|
 | The Beauty of Holiness in the Common Prayer: As Set Forth in Four Sermons Preached at the Rolls (R.P. and C. Williams, 1814) | have-ocr | IA `beautyholinessi00bissgoog` |
 | The 1842 printing | alternate | not shelved |
+
+## Thomas Comber (round 42, my pick, 2026-10-22)
+
+Slugs `comber-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| A companion to the temple, or A help to devotion, in the daily use of the common prayer : in two parts : part I containing the morning and evening prayer (London : Printed by Andrew Clark for Henry Brome ..., 1676) | have-ocr | IA `acompaniontotem00combgoog` |
+| A companion to the altar, or, An help to the worthy receiving of the Lords Supper by discourses and meditations upon the whole communion office : to which is added an essay upon the offices of baptism and confirmation (London : Printed by J. Macock for John Martyn ... and Richard Lambert ..., 1675) | have-ocr | IA `acompaniontoalt00combgoog` |
+| The other 1676 copy; the Oxford 1841 Companion to the Temple; the 1906 Exposition of Morning and Evening Prayer (an extract) | alternate | not shelved |
