@@ -18097,3 +18097,16 @@ Shelf: `pipeline/l-p-gratacap_shelf.json` (2026-10-22; added at the coordinator'
 | The Evacuation of England: The Twist in the Gulf Stream | have | PG 65588, `lpgratacap-evacuation-of-england` (542 units) |
 | The new northland | have | PG 69925, `lpgratacap-new-northland` (1362 units) |
 | The Mayor of New York | have | PG 79541, `lpgratacap-mayor-of-new-york` (1605 units) |
+
+## Tom Gallon
+
+Shelf: `pipeline/tom-gallon_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dead Man's Love | have | PG 41137, `tgallon-dead-mans-love` (1819 units) |
+| Jimmy Quixote: A Novel | have | PG 41754, `tgallon-jimmy-quixote` (1627 units) |
+| The Cruise of the Make-Believes | have | PG 46403, `tgallon-cruise-of-the-make-believes` (1616 units) |
+| The Idol of the Blind: A Novel | have | PG 47211, `tgallon-idol-of-the-blind` (2472 units) |
+| The Second Dandy Chater | have | PG 47271, `tgallon-second-dandy-chater` (1529 units) |
+| Tinman | have | PG 48989, `tgallon-tinman` (1588 units) |

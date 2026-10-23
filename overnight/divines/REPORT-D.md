@@ -2546,3 +2546,6 @@
 
 ## 2026-10-22 23:17 CDT — l-p-gratacap: done
 - l-p-gratacap: new shelf, 6 Gutenberg books, 5,294 units, 48 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:17 CDT — tom-gallon: done
+- tom-gallon: new shelf, 6 Gutenberg books, 10,651 units, 25 ~2 ids; verify 0 mismatches, 0 rights flags.
