@@ -42391,3 +42391,20 @@ Shelf: `pipeline/eliza-follen_shelf.json` (2026-10-22; added at the coordinator'
 | The Talkative Wig | have | PG 4048, `elcfollen-talkative-wig` (242 units) |
 | Two Festivals | have | PG 4056, `elcfollen-two-festivals` (187 units) |
 | Hymns, Songs, and Fables, for Young People | have | PG 16688, `elcfollen-hymns-songs-and-fables-for-young-people` (572 units) |
+
+## Sherwood Anderson
+
+Shelf: `pipeline/sherwood-anderson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Winesburg, Ohio: A Group of Tales of Ohio Small Town Life | have | PG 416, `sanderson-winesburg-ohio` (665 units) |
+| Marching Men | have | PG 7045, `sanderson-marching-men` (876 units) |
+| Triumph of the Egg, and Other Stories | have | PG 7048, `sanderson-triumph-of-the-egg-and-other-stories` (764 units) |
+| Poor White: A Novel | have | PG 7414, `sanderson-poor-white` (655 units) |
+| Windy McPherson's Son | have | PG 7443, `sanderson-windy-mcphersons-son` (1831 units) |
+| Horses and Men: Tales, long and short, from our American life | have | PG 60097, `sanderson-horses-and-men` (1224 units) |
+| The modern writer | have | PG 71691, `sanderson-modern-writer` (78 units) |
+| A story teller's story | have | PG 74755, `sanderson-story-tellers-story` (1388 units) |
+| Many Marriages | have | PG 76745, `sanderson-many-marriages` (911 units) |
+| Tar | have | PG 79204, `sanderson-tar` (1257 units) |

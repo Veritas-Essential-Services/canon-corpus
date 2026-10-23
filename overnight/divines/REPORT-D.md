@@ -2318,3 +2318,6 @@
 
 ## 2026-10-22 23:04 CDT — eliza-follen: done
 - eliza-follen: new shelf, 10 Gutenberg books, 2,411 units, 37 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — sherwood-anderson: done
+- sherwood-anderson: new shelf, 10 Gutenberg books, 9,649 units, 2279 ~2 ids; verify 0 mismatches, 0 rights flags.
