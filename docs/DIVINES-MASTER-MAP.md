@@ -20840,6 +20840,19 @@ Shelf: `pipeline/f-a-paley_shelf.json`. Paley's English commentaries on Euripide
 | The Iphigenia in Tauris of Euripides, with brief notes, by the late F. A. Paley (London: George Bell and Sons; Cambridge: Deighton Bell, 1904); Greek text with English notes |  | `f-a-paley-iphigenia-tauris-1904` | have-raw (IA `iphigeniaintauri00euri_0`) |
 | Fragments of the Greek Comic Poets, with renderings in English verse, by F. A. Paley (London: Swan Sonnenschein, 1889) |  | `f-a-paley-greek-comic-fragments-1889` | have-raw (IA `fragmentsgreekc00palegoog`) |
 
+## Arthur Sidgwick (1840-1920)
+
+Shelf: `pipeline/arthur-sidgwick_shelf.json`. Sidgwick's Aeschylus for the Clarendon Press and his Cambridge Virgil, Greek and Latin text with English introductions and notes. Round dt. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Aeschylus, Agamemnon, with introduction and notes by A. Sidgwick, third edition, revised (Oxford: Clarendon Press, 1887); Greek text with English notes |  | `arthur-sidgwick-agamemnon-1887` | have-raw (IA `agamemnonwithint00aescuoft`) |
+| Aeschylus, Choephoroi, with introduction and notes by A. Sidgwick (Oxford: Clarendon Press, 1884); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `arthur-sidgwick-choephoroi-1884` | have-raw (IA `choephoroiwithin00aescuoft`) |
+| Aeschylus, Eumenides, with introduction and notes by A. Sidgwick, vol. I, introduction and text (Oxford: Clarendon Press, 1887); Greek text with English introduction |  | `arthur-sidgwick-eumenides-v1-1887` | have-raw (IA `eumenideswithint01aescuoft`) |
+| Aeschylus, Septem contra Thebas, with introduction and notes by A. Sidgwick (Oxford: Clarendon Press, 1903); Greek text with English notes |  | `arthur-sidgwick-septem-1903` | have-raw (IA `septemcontrathe00sidggoog`) |
+| P. Vergili Maronis Opera, with introduction and English notes by A. Sidgwick, vol. I, introduction and text (Cambridge: University Press, stereotyped edition, 1897 printing); Latin text with English introduction, kept per Adam's 2026-10-23 ruling |  | `arthur-sidgwick-virgil-v1-1897` | have-raw (IA `pvergilimaronis13virggoog`) |
+| P. Vergili Maronis Opera, with introduction and English notes by A. Sidgwick, vol. II, notes (Cambridge: University Press, stereotyped edition, 1899 printing; first edition 1890) |  | `arthur-sidgwick-virgil-v2-1899` | have-raw (IA `pvergilimaroniso02virg_0`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
