@@ -15813,3 +15813,30 @@ Slugs `livermore-*`. Built from title pages read for round 96.
 | The Marriage Offering (a compilation) | excluded | |
 | History of Wilton (written with Sewall Putnam; local history) | excluded | |
 | Charles Henry Brigham memoir (by others) | excluded | |
+
+## Alfred E. Garvie (round 96, my pick, 2026-10-23)
+
+Slugs `garvie-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ritschlian theology, critical and constructive; an exposition and an estimate (Edinburgh, T. & T. Clark, 1899) | have-ocr | IA `ritschliantheolo00garv` |
+| Romans: Introduction, Authorized Version, Revised Version with Notes, Index (T.C. & E.C. Jack, 1901) | have-ocr | IA `romansintroduct00garvgoog` |
+| Gospel for to-day (London : James Clarke & co, 1904) | have-ocr | IA `gospelfortoday00garvuoft` |
+| A guide to preachers (London : Hodder and Stoughton, 1907) | have-ocr | IA `aguidetopreacher00garvuoft` |
+| Studies in the inner life of Jesus (London : Hodder and Stoughton, 1907) | have-ocr | IA `studiesintheinne00garvuoft` |
+| Life and teaching of Paul (New York : Hodder and Stoughton, 1910) | have-ocr | IA `lifeteachingofpa00garv` |
+| The gospel according to St. Luke, vol. 3 (New York : Revell, 1911) | have-ocr | IA `gospelaccordingt03garv` |
+| Studies of Paul and his gospel (London, Hodder and Stoughton, 1911) | have-ocr | IA `studiesofpaulhis0000garv` |
+| Can we still follow Jesus? : a study of the teaching of Jesus in its modern applications (London ; New York : Cassell, 1913) | have-ocr | IA `canwestillfollow0000garv` |
+| The joy of finding, or, God's humanity and man's inhumanity to man; an exposition of Luke XV. 11-32 (New York, C. Scribner's Sons, 1914) | have-ocr | IA `joyoffindingorgo0000garv` |
+| The missionary obligation in the light of the changes of modern thought (London, New York, Hodder and Stoughton, 1914) | have-ocr | IA `missionaryobliga0000garv` |
+| The Master's Comfort And Hope : Sermons on John 13 : 31-14: 31 (T.&T. Clark, 1917) | have-ocr | IA `masterscomfortho0000unse` |
+| The purpose of God in Christ and its fulfillment through the Holy Spirit considered in relation to the problems raised and the duties enforced by the war (London, Hodder & Stoughton, 1918) | have-ocr | IA `purposeofgodinch0000garv` |
+| A handbook of Christian apologetics (New York : Scribner, 1920) | have-ocr | IA `handbookofchrist0000garv` |
+| The christian preacher (t. & t. clarke, 1920) | have-ocr | IA `christianpreache0000alfr` |
+| Tutors unto Christ; introduction to the study of religions (London, New York H. Milford, Oxford University Press, 1920) | have-ocr | IA `tutorsuntochrist0000garv` |
+| The beloved disciple : studies of the fourth gospel (New York : George H. Doran, 1922) | have-ocr | IA `beloveddisciples0000garv` |
+| The Christian doctrine of the Godhead; or, The apostolic benediction as the Christian creed (New York, George H. Doran, 1926) | have-ocr | IA `christiandoctrin0000garv` |
+| The Preachers of the Church (James Clarke and Co., 1927) | have-ocr | IA `preachersofchurc0000alfr` |
+| Christ and Civilization (1910, many authors) | excluded | |
