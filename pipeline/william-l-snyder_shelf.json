@@ -1,0 +1,54 @@
+{
+ "_about": "William L. Snyder (1848-1916): The Military Annals of Greece from the Earliest Time to the Beginning of the Christian Era (2 vols, Boston: Badger, 1915). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "William Lamartine Snyder (1848-1916)",
+ "_name_words": [
+  "snyder",
+  "william",
+  "lamartine",
+  "military",
+  "annals",
+  "greece"
+ ],
+ "_surname": [
+  "snyder",
+  "william l. snyder",
+  "william lamartine snyder"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "snyder-military-annals-greece-v1-1915": [
+   "cu31924071186534",
+   "The Military Annals of Greece, vol. I (Boston: Badger, 1915)"
+  ],
+  "snyder-military-annals-greece-v2-1915": [
+   "cu31924071186542",
+   "The Military Annals of Greece, vol. II (Boston: Badger, 1915)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "snyder-military-annals-greece-v1-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snyder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snyder-military-annals-greece-v2-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snyder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

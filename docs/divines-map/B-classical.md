@@ -10971,3 +10971,13 @@ Shelf: `pipeline/william-gell_shelf.json`. The Topography of Troy and its Vicini
 | The Topography of Rome and its Vicinity, vol. I (London, 1834) |  | `gell-topography-rome-v1-1834` | have-raw (IA `topographyromevicin01gell`) |
 | The Topography of Rome and its Vicinity, vol. II (London, 1834) |  | `gell-topography-rome-v2-1834` | have-raw (IA `topographyromevicin02gell`) |
 
+
+## William Lamartine Snyder (1848-1916)
+
+Shelf: `pipeline/william-l-snyder_shelf.json`. The Military Annals of Greece, vol. I (Boston: Badger, 1915); The Military Annals of Greece, vol. II (Boston: Badger, 1915) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Military Annals of Greece, vol. I (Boston: Badger, 1915) |  | `snyder-military-annals-greece-v1-1915` | have-raw (IA `cu31924071186534`) |
+| The Military Annals of Greece, vol. II (Boston: Badger, 1915) |  | `snyder-military-annals-greece-v2-1915` | have-raw (IA `cu31924071186542`) |
+
