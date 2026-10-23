@@ -12306,6 +12306,22 @@ Slugs `hmacmillan-*`. Built from title pages read for round 58.
 | The mystery of grace and other sermons (London, Hodder and Stoughton, 1893) | have-ocr | IA `mysteryofgraceot0000macm` |
 | The clock of nature (London : Isbister, 1898) | have-ocr | IA `clockofnature00macm` |
 | His botanical books (Footnotes from the Page of Nature / First Forms of Vegetation, Holidays on High Lands, The Rare Lichens of Glencroe); the Memoir of Daniel Macmillan (Thomas Hughes's) | excluded | |
+
+## Hugh McNeile (round 58, my pick, 2026-10-23)
+
+Slugs `hmcneile-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The Times of the Gentiles (J. Hatchard and Son, 1828) | have-ocr | IA `timesgentiles00mcnegoog` |
+| England's protest is England's shield: For the Battle is the Lord's (J. Hatchard and Son ..., 1829) | have-ocr | IA `englandsprotest00mcnegoog` |
+| Popular lectures on the prophecies relative to the Jewish nation (J. Hatchard and Son, 1830) | have-ocr | IA `popularlectures00mcnegoog` |
+| Letters to a friend who has felt it his duty to secede from the Church of England (catalogued 1834) | have-ocr | IA `letterstoafrien00mcnegoog` |
+| Lectures on the Church of England : delivered in London, March, 1840 (London : J. Hatchard, 1840) | have-ocr | IA `lecturesonthechu00mcneuoft` |
+| Sermons on the second advent of the Lord Jesus Christ ([n.d.], 1840) | have-ocr | IA `sermonsonseconda00mcne` |
+| A lecture on the life of Dr. Franklin (New York : Henderson Greene ; Philadelphia : Carey and Hart, 1841) | have-ocr | IA `lectureonlifeofd00mcne` |
+| The Church and the churches : The Church of God in Christ, and the churches of Christ militant here on earth (London : J. Hatchard, 1846) | have-ocr | IA `churchchurchesch00mcne` |
+| A. H. McNeile (1871-1933): his Ecclesiastes, Exodus and Numbers commentaries (1904-1911); letters to and about him by others; the Jezebel speech volume (miscatalogued compilation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
