@@ -11484,6 +11484,10 @@ Slugs `benson-*`. Built from title pages read for round 52.
 | Sermons on various occasions, and most of them on the principal subjects of genuine Christianity, vol. 2 (London, J. Mason, 1836) | have-ocr | IA `sermonsonvarious02bens` |
 | The Life of the Rev. John de la Flechere, compiled from the narratives of the Rev. Mr. Wesley ... (1820) | have-ocr | IA `thelifeofrevjohn00bens` |
 | His Commentary on the Holy Bible (1811-1818) left for a later round; Sermons and Plans of Sermons (1824-1827) and single sermons left for later; the Gilbert memoirs (another editor) | excluded | |
+| The Holy Bible ... with critical, explanatory, and practical notes, vol. 3: Ecclesiastes to Malachi (New York: George Lane & Levi Scott, 1850) | have-ocr | IA `holybibleecclesi0003bens` (added round 57) |
+| The New Testament ... with critical, explanatory, and practical notes, vol. 1: Matthew to the Acts (New York: Carlton & Phillips, 1856) | have-ocr | IA `newtestamentofou0000jose` (added round 57) |
+| The New Testament ... with critical, explanatory, and practical notes, vol. 2: Romans to the Revelation (New York: Lane & Tippett, [184-?]) | have-ocr | IA `holybiblecontai29unkngoog` (added round 57) |
+| Commentary, Old Testament vols 1-2 (Genesis to Song of Solomon): no American-edition scan found | pending | not shelved |
 
 ## Daniel D. Whedon (round 52, my pick, 2026-10-23)
 
@@ -11497,6 +11501,12 @@ Slugs `whedon-*`. Built from title pages read for round 52.
 | Statements, theological and critical (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887) | have-ocr | IA `statementstheolo00whed` |
 | Essays, reviews, and discourses (New York, Phillips & Hunt, 1887) | have-ocr | IA `essaysreviewsdis00whed` |
 | His Commentary on the New Testament and Old Testament (1860-1880s, many volumes) left for a later round; Letter to Dr. Stevens (1859, a pamphlet); Cox's Letters on the Second Coming (another author) | excluded | |
+| Commentary on the New Testament, intended for popular use, vol. 1: Matthew and Mark (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0000whed` (added round 57) |
+| Commentary on the New Testament, vol. 2: Luke and John (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0002whed` (added round 57) |
+| Commentary on the New Testament, vol. 3: Acts and Romans (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0000whed_l3j0` (added round 57) |
+| Commentary on the New Testament, vol. 4: Corinthians to Second Timothy (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0000whed_e2l1` (added round 57) |
+| Commentary on the New Testament, vol. 5: Titus to Revelation (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0005whed` (added round 57) |
+| Commentary on the Old Testament (edited by Whedon, written by others) | excluded | |
 
 ## Miner Raymond (round 52, my pick, 2026-10-23)
 

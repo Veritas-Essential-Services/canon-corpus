@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Joseph Benson (1749-1821), Wesleyan Methodist preacher and commentator, for the Word Hoard: Two Sermons on Sanctification (1782), Remarks on Dr. Priestley's System of Materialism (1788), A Defence of the Methodists (1793), An Apology for the People called Methodists (1801), Sermons on Various Occasions (vol. 1, 1802; vol. 2, 1836) and The Life of the Rev. John de la Flechere (1820), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain Joseph Benson (1749-1821), Wesleyan Methodist preacher and commentator, for the Word Hoard: Two Sermons on Sanctification (1782), Remarks on Dr. Priestley's System of Materialism (1788), A Defence of the Methodists (1793), An Apology for the People called Methodists (1801), Sermons on Various Occasions (vol. 1, 1802; vol. 2, 1836) The Life of the Rev. John de la Flechere (1820) and, from round 57, three volumes of his Commentary on the Holy Bible in the American edition (Old Testament vol. 3, New Testament vols 1-2), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
  "_name_words": [
   "benson"
  ],
@@ -39,11 +39,23 @@
   "benson-life-of-fletcher": [
    "thelifeofrevjohn00bens",
    "The Life of the Rev. John de la Flechere, compiled from the narratives of the Rev. Mr. Wesley ... (1820)"
+  ],
+  "benson-commentary-ot-3": [
+   "holybibleecclesi0003bens",
+   "The Holy Bible ... with critical, explanatory, and practical notes, vol. 3: Ecclesiastes to Malachi (New York: George Lane & Levi Scott, 1850)"
+  ],
+  "benson-commentary-nt-1": [
+   "newtestamentofou0000jose",
+   "The New Testament ... with critical, explanatory, and practical notes, vol. 1: Matthew to the Acts (New York: Carlton & Phillips, 1856)"
+  ],
+  "benson-commentary-nt-2": [
+   "holybiblecontai29unkngoog",
+   "The New Testament ... with critical, explanatory, and practical notes, vol. 2: Romans to the Revelation (New York: Lane & Tippett, [184-?])"
   ]
  },
  "_alternates": {},
  "_excluded": {
-  "benson-other": "His Commentary on the Holy Bible (1811-1818) left for a later round; Sermons and Plans of Sermons (1824-1827) and single sermons left for later; the Gilbert memoirs (another editor)"
+  "benson-other": "Sermons and Plans of Sermons (1824-1827) and single sermons left for later; the Gilbert memoirs (another editor)"
  },
  "_rights_checked": {},
  "_identity_checked": {
@@ -52,7 +64,9 @@
    "title": "title page read from the page image: 'A Defence of the Methodists, in five letters, addressed to the Rev. Dr. Tatham, containing sundry remarks on a late discourse preached by that gentleman at four of the churches in Oxford ... By Joseph Benson. The second edition. London: printed by G. Paramore, 1793' (OCR of the title page is unreadable)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "benson-commentary-ot-1-2": "Commentary, Old Testament vols 1-2 (Genesis to Song of Solomon): no scan of the American edition found on Internet Archive in round 57"
+ },
  "_translators": {},
  "_checks": {
   "benson-sanctification": {
@@ -131,6 +145,39 @@
    "ia_rights": "ok: published 1820",
    "ia_date": "1820",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "benson-commentary-ot-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-commentary-nt-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-commentary-nt-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "[182-?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

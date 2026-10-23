@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Daniel Denison Whedon (1808-1885), Methodist Episcopal theologian and editor of the Methodist Quarterly Review, for the Word Hoard: Public Addresses (1852), The Freedom of the Will (1864), What is Arminianism? (1879), Statements Theological and Critical (1887) and Essays, Reviews and Discourses (1887), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain Daniel Denison Whedon (1808-1885), Methodist Episcopal theologian and editor of the Methodist Quarterly Review, for the Word Hoard: Public Addresses (1852), The Freedom of the Will (1864), What is Arminianism? (1879), Statements Theological and Critical (1887) Essays, Reviews and Discourses (1887) and, from round 57, his Commentary on the New Testament (5 vols, Hunt & Eaton printing; first issued 1860-1880), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
  "_name_words": [
   "whedon"
  ],
@@ -32,11 +32,33 @@
   "whedon-essays": [
    "essaysreviewsdis00whed",
    "Essays, reviews, and discourses (New York, Phillips & Hunt, 1887)"
+  ],
+  "whedon-nt-1": [
+   "commentaryonnewt0000whed",
+   "Commentary on the New Testament, intended for popular use, vol. 1: Matthew and Mark (New York: Hunt & Eaton)"
+  ],
+  "whedon-nt-2": [
+   "commentaryonnewt0002whed",
+   "Commentary on the New Testament, vol. 2: Luke and John (New York: Hunt & Eaton)"
+  ],
+  "whedon-nt-3": [
+   "commentaryonnewt0000whed_l3j0",
+   "Commentary on the New Testament, vol. 3: Acts and Romans (New York: Hunt & Eaton)"
+  ],
+  "whedon-nt-4": [
+   "commentaryonnewt0000whed_e2l1",
+   "Commentary on the New Testament, vol. 4: Corinthians to Second Timothy (New York: Hunt & Eaton)"
+  ],
+  "whedon-nt-5": [
+   "commentaryonnewt0005whed",
+   "Commentary on the New Testament, vol. 5: Titus to Revelation (New York: Hunt & Eaton)"
   ]
  },
- "_alternates": {},
+ "_alternates": {
+  "whedon-nt-other-printings": "Other printings of the same New Testament commentary: Carlton & Lanahan 1860-1880 volumes and the London Hodder & Stoughton 'Popular Commentary' (1874-1876)"
+ },
  "_excluded": {
-  "whedon-other": "His Commentary on the New Testament and Old Testament (1860-1880s, many volumes) left for a later round; Letter to Dr. Stevens (1859, a pamphlet); Cox's Letters on the Second Coming (another author)"
+  "whedon-other": "The Commentary on the Old Testament (1880s-1900s) he edited, whose volumes were written by other Methodist scholars; Letter to Dr. Stevens (1859, a pamphlet); Cox's Letters on the Second Coming (another author)"
  },
  "_rights_checked": {},
  "_identity_checked": {},
@@ -96,6 +118,61 @@
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "whedon-nt-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whedon-nt-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whedon-nt-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whedon-nt-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whedon-nt-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
