@@ -1,0 +1,191 @@
+{
+ "_about": "Mary Russell Mitford's writing at Gutenberg: our Village sketches, tales and plays. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary Russell Mitford",
+ "_name_words": [
+  "mary",
+  "miss",
+  "mitford",
+  "russell"
+ ],
+ "_surname": [
+  "mary russell mitford",
+  "miss mitford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mrmitford-our-village": [
+   2496,
+   "Our Village"
+  ],
+  "mrmitford-london-visitor": [
+   22835,
+   "The London Visitor"
+  ],
+  "mrmitford-town-versus-country": [
+   22836,
+   "Town Versus Country"
+  ],
+  "mrmitford-lost-dahlia": [
+   22837,
+   "The Lost Dahlia"
+  ],
+  "mrmitford-country-lodgings": [
+   22838,
+   "Country Lodgings"
+  ],
+  "mrmitford-jesse-cliffe": [
+   22839,
+   "Jesse Cliffe"
+  ],
+  "mrmitford-honor-ocallaghan": [
+   22840,
+   "Honor O'Callaghan"
+  ],
+  "mrmitford-mr-joseph-hanson-the-haberdasher": [
+   22841,
+   "Mr. Joseph Hanson, The Haberdasher"
+  ],
+  "mrmitford-widows-dog": [
+   22842,
+   "The Widow's Dog"
+  ],
+  "mrmitford-aunt-deborah": [
+   22843,
+   "Aunt Deborah"
+  ],
+  "mrmitford-miss-philly-firkin-the-china-woman": [
+   22844,
+   "Miss Philly Firkin, The China-Woman"
+  ],
+  "mrmitford-beauty-of-the-village": [
+   22845,
+   "The Beauty Of The Village"
+  ],
+  "mrmitford-ground-ash": [
+   22846,
+   "The Ground-Ash"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mrmitford-our-village": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-london-visitor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-town-versus-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-lost-dahlia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-country-lodgings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-jesse-cliffe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-honor-ocallaghan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-mr-joseph-hanson-the-haberdasher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-widows-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-aunt-deborah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-miss-philly-firkin-the-china-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-beauty-of-the-village": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrmitford-ground-ash": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary russell mitford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

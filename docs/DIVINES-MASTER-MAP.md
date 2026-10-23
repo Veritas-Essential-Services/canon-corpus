@@ -40293,3 +40293,23 @@ Shelf: `pipeline/arlo-bates_shelf.json` (2026-10-22; added at the coordinator's 
 | Talks on Writing English. First Series | have | PG 47494, `abates-talks-on-writing-english-first-series` (1087 units) |
 | Patty's Perversities | have | PG 48396, `abates-pattys-perversities` (2267 units) |
 | Talks on Teaching Literature | have | PG 50082, `abates-talks-on-teaching-literature` (825 units) |
+
+## Mary Russell Mitford
+
+Shelf: `pipeline/mary-russell-mitford_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Our Village sketches, tales and plays. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Our Village | have | PG 2496, `mrmitford-our-village` (306 units) |
+| The London Visitor | have | PG 22835, `mrmitford-london-visitor` (18 units) |
+| Town Versus Country | have | PG 22836, `mrmitford-town-versus-country` (34 units) |
+| The Lost Dahlia | have | PG 22837, `mrmitford-lost-dahlia` (28 units) |
+| Country Lodgings | have | PG 22838, `mrmitford-country-lodgings` (55 units) |
+| Jesse Cliffe | have | PG 22839, `mrmitford-jesse-cliffe` (90 units) |
+| Honor O'Callaghan | have | PG 22840, `mrmitford-honor-ocallaghan` (40 units) |
+| Mr. Joseph Hanson, The Haberdasher | have | PG 22841, `mrmitford-mr-joseph-hanson-the-haberdasher` (52 units) |
+| The Widow's Dog | have | PG 22842, `mrmitford-widows-dog` (37 units) |
+| Aunt Deborah | have | PG 22843, `mrmitford-aunt-deborah` (62 units) |
+| Miss Philly Firkin, The China-Woman | have | PG 22844, `mrmitford-miss-philly-firkin-the-china-woman` (30 units) |
+| The Beauty Of The Village | have | PG 22845, `mrmitford-beauty-of-the-village` (32 units) |
+| The Ground-Ash | have | PG 22846, `mrmitford-ground-ash` (34 units) |
