@@ -19486,6 +19486,29 @@ Slugs `whittemore-*`. Built from title pages read for round 134.
 | Songs of Zion, the Gospel Harmonist and Conference Hymns are music and hymn books | excluded | |
 | The Bramble is an answer to him; The Doctrine of Eternal Hell Torments Overthrown is Samuel Richardson's | excluded | |
 | other scans of the same books | excluded | |
+
+## Richard Fiddes (round 134, my pick, 2026-10-23)
+
+Slugs `fiddes-*`. Built from title pages read for round 134.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached on the Thanksgiving day: December, 3d. 1702. For the signal successes vouchsafed to her Majesties forces to sea and land: ... By Richard Fiddes, ...  1703 (catalogued 1703) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-on-the_fiddes-richard_1703` |
+| A sermon preach'd January the 31st. 1703/4. ... By Richard Fiddes, ...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-januar_fiddes-richard_1704` |
+| A thanks-giving sermon on the 23 of August, 1705. Or a discourse showing that God in the government of the world acts by particular wills.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_a-thanks-giving-sermon-o_fiddes-richard_1705` |
+| The proofs and influence, of a future judgment. Considered upon Acts, XXIV.25. By Richard Fiddes, ...  1710 (catalogued 1710) | have-ocr | IA `bim_eighteenth-century_the-proofs-and-influence_fiddes-richard_1710` |
+| Practical discourses on several subjects. By Richard Fiddes, ...  1712 (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_practical-discourses-on-_fiddes-richard_1712` |
+| A sermon preach'd at Beeford in Holderness, on occasion of the death of her late excellent Majesty Queen Anne. By Ric Fiddes, ...  1715 (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-at-bee_fiddes-richard_1715` |
+| Theologia speculativa: or, the first part of a body of divinity under that title. Wherein are explain'd the principles of natural and reveal'd religion. By Richard Fiddes, ...  1718 (catalogued 1718) | have-ocr | IA `bim_eighteenth-century_theologia-speculativa-o_fiddes-richard_1718_0` |
+| Fifty two practical discourses on several subjects. Six of which were never before published. By Richard Fiddes, ...  1720 (catalogued 1720) | have-ocr | IA `bim_eighteenth-century_fifty-two-practical-disc_fiddes-richard_1720` |
+| A letter, in answer to one from a free-thinker: occasion'd by the late Duke of Buckinghamshire's epitaph. ... To which is prefix'd, a version of the epitaph, agreeable to the explication given of it in the answer. With an introduction, containing extracts of two letters relating to the conduct of that noble lord. By Richard Fiddes, ...  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_a-letter-in-answer-to-o_fiddes-richard_1721` |
+| The doctrine of a future state, and that of the soul's immortality, asserted and distinctly proved; in a second letter to a free thinker. Occasion'd by the late D. of Buckinghamshire's epitaph. By Richard Fiddes, ...  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_the-doctrine-of-a-future_fiddes-richard_1721` |
+| A general treatise of morality, form'd upon the principles of natural reason only : with a preface in answer to two essays lately published in the Fable of the bees : and some incidental remarks upon an Inquiry concerning virtue, by the Right Honourable Anthony Earl of Shaftsbury (London : Printed for S. Billingsley ..., 1724) | have-ocr | IA `generaltreatiseo00fidd` |
+| The life of Cardinal Wolsey (London : Printed for J. Knapton ... [et al.], 1726) | have-ocr | IA `lifeofcardinalwo00fidduoft` |
+| A preparative to the Lord's Supper. Or, a discourse, wherein the nature of this Holy Sacrament, ... To which is added, an appendix, with meditations and prayers form'd on the principal parts of the discourse; ... By R. Fiddes, ...  1718 (catalogued 1718) (IA bim_eighteenth-century_a-preparative-to-the-lor_fiddes-richard_1718): the scan starts at the dedication and has no title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the prefatory epistle on Homer's Iliad is literary | excluded | |
+| the Remarks on The State Anatomy and the Answer to Britanicus are political pamphlets; The State Anatomy itself is Toland's | excluded | |
+| the 1713 scan of Practical Discourses and the ECCO copy of the Wolsey | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
