@@ -677,6 +677,7 @@ Shelf: `pipeline/arrian_shelf.json`. Chinnock's Anabasis (1884) and Dansey's On 
 | Arrian's History of Alexander's Expedition, with notes (London, 1729), vol. 1 (Books I-IV) | John Rooke | `arrian-rooke-1729-v1` | have-raw (IA `arrianshistorya00rookgoog`) |
 | The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893) | J. W. McCrindle | `arrian-mccrindle-invasion` | have-raw (IA `cu31924028252546`) |
 | The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893), clean Gutenberg text |  | `arrian-mccrindle-invasion-pg` | have (PG 66388, clean witness) |
+| Arrian, tr. E. Iliff Robson, vol. I: Anabasis Books I-IV (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling |  | `arrian-robson-loeb-v1` | have-raw (IA `arrianar01arriuoft`) |
 
 Pending (wishlist): Chinnock's Indica (Bohn, 1893) as a second witness; vol. 2 of Rooke's 1729 Arrian (vol. 1 is held above; no scan of vol. 2 found). The whole Indica is held in McCrindle's two books above (chs. 1-17 in Ancient India, 18-43 in the Voyage of Nearkhos).
 

@@ -41,6 +41,10 @@
    "cu31924028252546",
    "The Invasion of India by Alexander the Great (Arrian, Curtius, Diodoros, Plutarch, Justin; Constable, 1893)",
    "tr. J. W. McCrindle"
+  ],
+  "arrian-robson-loeb-v1": [
+   "arrianar01arriuoft",
+   "Arrian, tr. E. Iliff Robson, vol. I: Anabasis Books I-IV (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
@@ -57,7 +61,8 @@
   "arrian-mccrindle-ancient-india": "J. W. McCrindle",
   "arrian-rooke-1729-v1": "John Rooke",
   "arrian-mccrindle-invasion": "M'Crindle",
-  "arrian-mccrindle-invasion-pg": "M'Crindle"
+  "arrian-mccrindle-invasion-pg": "M'Crindle",
+  "arrian-robson-loeb-v1": "E. Iliff Robson"
  },
  "_checks": {
   "arrian-chinnock-anabasis": {
@@ -144,6 +149,19 @@
    "ia_rights": "ok: published 1896",
    "ia_date": "1896",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "arrian-robson-loeb-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arrian",
+   "translator_claimed": "E. Iliff Robson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
    "ia_lending": null
   }
  }
