@@ -12574,3 +12574,18 @@ Slugs `jtodd-*`. Built from title pages read for round 60.
 | The daughter at school (Northampton [Mass.] Hopkins, Bridgman and company, 1854) | have-ocr | IA `daughteratschool00todd` |
 | The Sabbath school teacher : designed to aid in elevating and perfecting the Sabbath school system (Northampton, Mass. : Hopkins, Bridgman & co., 1856) | have-ocr | IA `sabbathschooltea00toddrich` |
 | Index Rerum (a blank commonplace-book index, 1839); The Lost Sister of Wyoming (a tale, 1842); Robert Bentley Todd's Cyclopaedia of Anatomy and other John Todds | excluded | |
+
+## Herrick Johnson (round 60, my pick, 2026-10-23)
+
+Slugs `hjohnson-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity's challenge and some phases of Christianity submitted for candid consideration (New York, American tract soc., 1881) | have-ocr | IA `christianityscha00john` |
+| Revivals : their place and their power (Chicago : F.H. Revell, 1882) | have-ocr | IA `revivalstheirpla00john` |
+| A plain talk about the theater (Chicago, F. H. Revell, 1882) | have-ocr | IA `plaintalkaboutth00john` |
+| Forms for special occasions : marriage, burial, baptism, the Lord's supper, ordination, dedication, etc., with Scripture selections for the chamber of sickness, the house of mourning, the service at funerals (Chicago : C. H. Whiting, 1889) | have-ocr | IA `formsforspecialo00john` |
+| From love to praise (Philadelphia, Presbyterian Board of Publication and Sabbath-school work, 1903) | have-ocr | IA `fromlovetopraise00john` |
+| The ideal ministry (New York, Chicago [etc.] Fleming H. Revell Company, 1908) | have-ocr | IA `idealministry00john` |
+| Douglas W. Johnson's New Mexico geology papers (catalogued under the same name); Civil War thanksgiving sermons, a Lincoln discourse and memorial addresses (short pamphlets) | excluded | |
+| comfortkath00johnrich: Comfort (1877, signed 'H. J.'); the enlarged 1888 edition names its author as 'Mrs. Herrick Johnson', his wife, so it is not his | excluded | |
