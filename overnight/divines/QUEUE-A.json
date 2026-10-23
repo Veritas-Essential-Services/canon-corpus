@@ -5438,10 +5438,12 @@
     },
     {
       "id": "andreas-osiander",
-      "status": "queued",
+      "status": "skipped",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:32:15-05:00",
+      "notes": "not shelved: the one English printing on Internet Archive, How and whither a Christen man ought to flye the horrible plague of the Pestilence (London: Leonarde Askell, 1564, bim_early-english-books-1641-1700_how-and-whither-a-chris_osiander-andreas_1564), names no author on its title page (read from the page image); the 1552 'Middle English' item is German and the Osianders of 1605/1633 are his grandson Lucas. Retry if a signed English copy turns up."
     },
     {
       "id": "johannes-brenz",
@@ -5472,10 +5474,12 @@
     },
     {
       "id": "franciscus-junius",
-      "status": "queued",
+      "status": "skipped",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:32:15-05:00",
+      "notes": "not shelved: no English work of Franciscus Junius the elder (1545-1602) is on Internet Archive before 1930; the EEBO scans under his name are Latin (Defensio, De Politiae Mosis, Lectiones in Ionam, De Theologia Vera, Daniel), and the English Painting of the Ancients is by his son. His Apocalypse notes reach English only inside Geneva-Tomson Bibles."
     },
     {
       "id": "friedrich-adolph-lampe",
