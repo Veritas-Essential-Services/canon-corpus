@@ -10092,3 +10092,12 @@ Shelf: `pipeline/bertram-c-a-windle_shelf.json`. The Romans in Britain (1923). N
 |---|---|---|---|
 | The Romans in Britain (1923) |  | `windle-romans-in-britain-1923` | have-raw (IA `romansinbritain0000wind`) |
 
+
+## W. F. Tamblyn
+
+Shelf: `pipeline/w-f-tamblyn_shelf.json`. The Establishment of Roman Power in Britain (1899). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Establishment of Roman Power in Britain (1899) |  | `tamblyn-roman-power-britain-1899` | have-raw (IA `establishmentofr00tamb`) |
+
