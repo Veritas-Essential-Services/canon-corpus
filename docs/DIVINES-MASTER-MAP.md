@@ -15250,6 +15250,30 @@ Slugs `purves-*`. Built from title pages read for round 91.
 | Faith and life (Philadelphia, Presbyterian Board of Publication and Sabbath-School Work, 1902) | have-ocr | IA `faithlif00purv` |
 | The sinless Christ (Philadelphia, Presbyterian board of publication and Sabbath-school work, 1902) | have-ocr | IA `sinlesschrist00purv` |
 | the 1892 inauguration pamphlet (several speakers) | excluded | |
+
+## Randolph H. McKim (round 91, my pick, 2026-10-23)
+
+Slugs `mckim-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| The doctrine of the Church of England as to the nature of the Christian ministry (New York : Protestant Episcopal Society for the promotion of Evangelical Knowledge, 1880) | have-ocr | IA `thedoctrineofeng00mckiuoft` |
+| Future punishment : comprising four parochial sermons : with an introduction on the scriptural doctrine of retribution and an essay on prayers for the dead (New York : T. Whittaker, 1883) | have-ocr | IA `futurepunishment00mcki` |
+| Bread in the desert (New York : T. Whittaker, 1887) | have-ocr | IA `breadindesert00mcki` |
+| Washington's church. An historical sketch of old Christ church, Alexandria, Virginia, together with a brief description of the centenary services therein, November 20 and 21st, 1873 (Alexandria, Va. [Press of R. Bell's sons], 1888) | have-ocr | IA `washingtonschurch00mcki` |
+| Christ and modern unbelief (New York, T. Whittaker, 1893) | have-ocr | IA `christmodernunbe00mcki` |
+| Leo XIII at the bar of history. A discussion of the papal plan for Christian unity (Washington, D.C., Gibson Bros., printers, 1897) | have-ocr | IA `leoxiiiatbarofhi00mcki` |
+| Present-day problems of Christian thought (New York, T. Whittaker, 1900) | have-ocr | IA `presentdayproble00mcki` |
+| The meaning of our national bereavement ([Washington, B. S. Adams, 1901) | have-ocr | IA `meaningofournati00mcki` |
+| The gospel in the Christian year and in Christian experience : practical sermons for the people, Advent to Trinity (New York ; London : Longmans, Green, 1902) | have-ocr | IA `gospelinchristia00mcki` |
+| The problem of the Pentateuch; an examination of the results of the higher criticism (New York, London [etc.] Longmans, Green, and co., 1906) | have-ocr | IA `problemofpentate00mcki` |
+| The contribution of the Anglo-Saxon church in the making of the republic; a sermon before the Colonial dames in the Bethlehem chapel of the Cathedral of St. Peter and St. Paul, Washington, D.C., Sunday, May 5, 1912 ([Washington, 1912) | have-ocr | IA `contributionofan00mcki` |
+| The proposal to change the name of the Protestant Episcopal Church, considered in the light of true Catholic principles (New York, E. P. Dutton, [191) | have-ocr | IA `proposaltochange00mckirich` |
+| Romanism in the light of history (New York and London, G. P. Putnam's sons, 1914) | have-ocr | IA `romanisminlighto00mckirich` |
+| National opportunity and responsibility; a sermon delivered in the Church of Epiphany, Washington, D.C ([Washington, D.C., 1915) | have-ocr | IA `nationalopportun00mcki` |
+| America summoned to a holy war; a sermon delivered in the Church of the Epiphany ([Washington], 1917) | have-ocr | IA `americasummonedt00mcki` |
+| For God and country (New York, E. P. Dutton & company, 1918) | have-ocr | IA `forgodcountry00mcki` |
+| his Confederate memoir and writings (A Soldier's Recollections, The Soul of Lee, The Motives and Aims of the Soldiers of the South, The Numerical Strength of the Confederate Army); a county history he contributed to | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
