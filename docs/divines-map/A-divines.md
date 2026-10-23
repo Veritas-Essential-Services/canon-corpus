@@ -11967,3 +11967,18 @@ Slugs `gduffield-*`. Built from title pages read for round 56.
 | A Thanksgiving discourse. The rule of Divine Providence applicable to the present circumstances of our country, delivered in the First Presbyterian church of Detroit, Thursday, November 28, 1860 (Detroit, Free press mammoth book and job printing house, 1861) | have-ocr | IA `thanksgivingdisc00duff` |
 | The nation's wail : a discourse delivered in the First Presbyterian Church of Detroit, on Sabbath, the 16th of April, 1865, the day after receiving the intelligence of the brutal murder of President Abraham Lincoln, by a brutal assassin (Detroit : Advertiser & Tribune Print., 1865) | have-ocr | IA `nationswaildisco00duff` |
 | George Duffield Jr. (1818-1888), hymn writer, and the elder George Duffield (1732-1790), Revolutionary chaplain, are other men | excluded | |
+
+## Edward Norris Kirk (round 56, my pick, 2026-10-23)
+
+Slugs `enkirk-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on different subjects : delivered in England and America (New York : Printed by John F. Trow, and for sale by Gould, Newman & Saxton, etc., 1840) | have-ocr | IA `sermonsondiffere00kirk` |
+| The greatness of the human soul. An address delivered at the seventh anniversary of the Mount Holyoke female seminary, South Hadley, Mass (Boston, Press of T. R. Marvin, 1844) | have-ocr | IA `greatnessofhuman00kirk` |
+| Effectual prayer : a sermon / by Edward N. Kirk (Tappan & Whittemore, 1853) | have-ocr | IA `effectualprayers00kirk` |
+| Lectures on the parables of Our Savior (New York, J. F. Trow, printer, 1856) | have-ocr | IA `lecturesonparabl00kirk` |
+| Discourses, doctrinal and practical (Boston : S.K. Whipple and Co., 1857) | have-ocr | IA `discoursesdoctri00kirk` |
+| The waiting Saviour (Boston : The American tract society, 1865) | have-ocr | IA `waitingsaviour00kirk` |
+| His translations of Gaussen's Theopneusty and Astie's Louis Fourteenth and the Writers of his Age (other authors); hymn books and joint addresses | excluded | |
+| usefulhappyaddre00kirk: Useful and Happy (1841) binds his address to the young with pieces by J. G. Pike and J. A. James; a multi-author volume | excluded | |
