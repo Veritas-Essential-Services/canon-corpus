@@ -39211,3 +39211,26 @@ Shelf: `pipeline/guy-boothby_shelf.json` (2026-10-22; added at the coordinator's
 | Sheilah McLeod: A Heroine of the Back Blocks | have | PG 41269, `gboothby-sheilah-mcleod` (1209 units) |
 | The Mystery of the Clasped Hands: A Novel | have | PG 42807, `gboothby-mystery-of-the-clasped-hands` (1385 units) |
 | A Prince of Swindlers | have | PG 54771, `gboothby-prince-of-swindlers` (1219 units) |
+
+## Rolf Boldrewood
+
+Shelf: `pipeline/rolf-boldrewood_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Australian bush novels. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Robbery under Arms A Story of Life and Adventure in the Bush and in the Australian Goldfields | have | PG 1198, `rboldrewood-robbery-under-arms-a-story-of-life-and-adventure` (3102 units) |
+| Shearing in the Riverina, New South Wales | have | PG 4221, `rboldrewood-shearing-in-the-riverina-new-south-wales` (97 units) |
+| Nevermore | have | PG 34240, `rboldrewood-nevermore` (1732 units) |
+| The Crooked Stick; Or, Pollie's Probation | have | PG 35165, `rboldrewood-crooked-stick` (915 units) |
+| A Modern Buccaneer | have | PG 35431, `rboldrewood-modern-buccaneer` (1742 units) |
+| The Squatter's Dream: A Story of Australian Life | have | PG 50411, `rboldrewood-squatters-dream` (1876 units) |
+| The Ghost Camp; or, the Avengers | have | PG 51011, `rboldrewood-ghost-camp` (2027 units) |
+| Babes in the Bush | have | PG 51209, `rboldrewood-babes-in-the-bush` (2858 units) |
+| In Bad Company, and other stories | have | PG 51314, `rboldrewood-in-bad-company-and-other-stories` (2575 units) |
+| Plain Living: A Bush Idyll | have | PG 51404, `rboldrewood-plain-living` (1386 units) |
+| "War to the Knife;" or, Tangata Maori | have | PG 53358, `rboldrewood-war-to-the-knife` (2135 units) |
+| Old Melbourne Memories Second Edition, Revised | have | PG 53784, `rboldrewood-old-melbourne-memories-second-edition-revised` (694 units) |
+| A Colonial Reformer, Vol. 1 (of 3) | have | PG 54067, `rboldrewood-colonial-reformer-vol-1-of-3` (1255 units) |
+| A Colonial Reformer, Vol. 3 (of 3) | have | PG 54366, `rboldrewood-colonial-reformer-vol-3-of-3` (1021 units) |
+| A Colonial Reformer, Vol. 2 (of 3) | have | PG 55652, `rboldrewood-colonial-reformer-vol-2-of-3` (1128 units) |
+| The Last Chance: A Tale of the Golden West | have | PG 61385, `rboldrewood-last-chance` (1621 units) |
