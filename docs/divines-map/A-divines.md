@@ -17767,3 +17767,17 @@ Slugs `jmcneill-*`. Built from title pages read for round 117.
 | Regent Square pulpit: sermons (James Nisbet &amp; Co., 1891, 1891) | have-ocr | IA `regentsquarepul00mcnegoog` |
 | The twenty-third Psalm (New York, Chicago Fleming H. Revell Company, 1927) | have-ocr | IA `twentythirdpsalm0000mcne` |
 | wayoflife00spur (a Spurgeon compilation) | excluded | |
+
+## George Thomas Stokes (round 118, my pick, 2026-10-23)
+
+Slugs `gtstokes-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Ireland and the Celtic church : a history of Ireland from St. Patrick to the English conquest in 1172 (London : Hodder and Stoughton, 1886) | have-ocr | IA `irelandandceltic00stokuoft` |
+| Ireland and the Anglo-Norman Church, a history of Ireland and Irish Christianity from the Anglo-Norman Conquest to the dawn of the Reformation (London, Hodder, 1889) | have-ocr | IA `irelandanglonorm00stokuoft` |
+| The Acts of the Apostles, in the Expositor's Bible (New York: A. C. Armstrong & Son, 1893) | have-ocr | IA `expositorsbiblea0000mrge` |
+| Some worthies of the Irish Church : lectures delivered in the Divinity school of the University of Dublin (London : Hodder and Stoughton, 1900) | have-ocr | IA `someworthies00stokuoft` |
+| The Acts of the Apostles (Expositor's Bible), a volume of uncertain number, IA theactsoftheapos00stokuoft: the record has no title or date and the OCR does not show which volume this "New and Cheaper Edition" scan is; needs a look at the title page | pending | not shelved |
+| Pococke's Tour in Ireland, which he only edited | excluded | |
+| studiesinlitera00edgoog (by another Stokes) | excluded | |
