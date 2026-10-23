@@ -20419,6 +20419,15 @@ Shelf: `pipeline/matteo-della-corte_shelf.json`. Pompeii: the New Excavations (H
 |---|---|---|---|
 | Pompeii: the New Excavations (Houses and Inhabitants) (Valle di Pompei, 1925) |  | `della-corte-pompeii-new-excavations-1925` | have-raw (IA `pompeiinewexcava00dell`) |
 
+
+## Paul Decharme (1839-1905)
+
+Shelf: `pipeline/paul-decharme_shelf.json`. Euripides and the Spirit of his Dramas, tr. James Loeb (1906) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Euripides and the Spirit of his Dramas, tr. James Loeb (1906) |  | `decharme-euripides-spirit-dramas-1906` | have-raw (IA `cu31924026667687`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
