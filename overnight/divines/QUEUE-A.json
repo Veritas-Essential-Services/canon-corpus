@@ -9577,6 +9577,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T07:31:14-05:00",
       "notes": "Physician and evangelical writer. Only his religious books; medical manuals left out. Faith Healing quoted from OCR."
+    },
+    {
+      "id": "a-william-d-snodgrass",
+      "status": "done",
+      "scope": "round 108",
+      "added": "2026-10-23T07:31:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:31:15-05:00",
+      "notes": "New York Presbyterian. Apostolical Succession pending (server error)."
     }
   ]
 }

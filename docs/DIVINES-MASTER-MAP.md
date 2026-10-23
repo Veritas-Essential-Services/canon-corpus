@@ -16919,6 +16919,17 @@ Slugs `atschofield-*`. Built from title pages read for round 108.
 | The springs of character (New York : Funk & Wagnalls Co., 1901) | have-ocr | IA `springsofcharact00scho` |
 | Modern spiritism : its science and religion (Philadelphia : P. Blakiston's Son & Co., 1920) | have-ocr | IA `modernspiritism00schogoog` |
 | His hygiene, physiology and nerve-medicine manuals are not theology; left out | excluded | |
+
+## William D. Snodgrass (round 108, my pick, 2026-10-23)
+
+Slugs `wdsnodgrass-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| The scripture doctrine of sanctification stated and defended against the error of perfectionism (New York : R. Carter, 1841) | have-ocr | IA `scripturedoctr00snod` |
+| Perfect sanctification : an article from the Princeton review for July, 1842 (Princeton, N.J. : Printed by John T. Robinson, 1842) | have-ocr | IA `perfectsanctific00snod` |
+| Discourses on the Apostolical Succession (1844), IA discoursesonap00snod: text file returned a server error | pending | not shelved |
+| discoursesdelive00murr (Murray Street Church discourses by several ministers) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
