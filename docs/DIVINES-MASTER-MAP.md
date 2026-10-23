@@ -19063,6 +19063,30 @@ Slugs `knapp-*`. Built from title pages read for round 130.
 | Diary Letters (1918) is by another Knapp | excluded | |
 | the microform copy of Out of Egypt | excluded | |
 | catalogued as Revival Kindlings, but the scan is a modern mathematics book | excluded | |
+
+## George Rawlinson (round 131, my pick, 2026-10-23)
+
+Slugs `rawlinson-*`. Built from title pages read for round 131.
+
+| Work | Status | Where |
+|---|---|---|
+| The historical evidences of the truth of the Scripture records, stated anew, with special reference to the doubts and discvoveries of modern times : in eight lectures, delivered in the Oxford University pulpit (London : John Murray, 1859) | have-ocr | IA `historicaleviden00rawl` |
+| The contrasts of Christianity with Heathen and Jewish systems : or, Nine sermons preached before the University of Oxford on various occasions (London : Longman, Green, Longman and Roberts, 1861) | have-ocr | IA `contrastsofchris00rawl` |
+| The heathen world and Saint Paul: Saint Paul in Damascus and Arabia (catalogued 1877) | have-ocr | IA `heathenworldsain0000rawl` |
+| Religions of the ancient world, including Egypt, Assyria, and Babylonia, Persia, India, Phoenicia, Etruria, Greece, Rome (London, Relig. Tract Society, 1880) | have-ocr | IA `religionsofanc00rawl` |
+| Egypt and Babylon : from Scripture and profane sources (London : Hodder [and] Stoughton, 1885) | have-ocr | IA `egyptbabylonfrom00rawluoft` |
+| Biblical Topography (James Nisbet, 1887) | have-ocr | IA `biblicaltopogra00rawlgoog` |
+| The testimony of the truth of scripture : historical illustrations of the Old Testament, gathered from ancient records, monuments and inscriptions by George Rawlinson ; with additions by Horatio B. Hackett and a preface by H.L. Hastings (Boston : H.L. Hastings, 1898) | have-ocr | IA `truthofscripture00rawluoft` |
+| Moses : his life and times (New York : A.D.F. Randolph, 1887) | have-ocr | IA `moseshislifetime00rawl` |
+| Isaac and Jacob: their lives and times (New York, Fleming H. Revell Co, [189) | have-ocr | IA `isaacjacobtheirl00rawluoft` |
+| Ezra and Nehemiah: their lives and times (New York, F.H. Revell Co, [189) | have-ocr | IA `ezranehemiahthei00rawluoft` |
+| The kings of Israel and Judah (New York : A.D.F. Randolph, 1889) | have-ocr | IA `kingsofisraeljud00rawl` |
+| Aids to Faith (1862, IA aidstofaith00thom): theological essays by several writers, one of them his (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Non-Biblical Systems of Religion (1893, IA nonbiblicalsyste01farr): a symposium of several writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| his Herodotus and his histories of the ancient monarchies are outside this theology shelf | excluded | |
+| Elementary Statics is by another Rawlinson | excluded | |
+| other scans of the same books | excluded | |
+| an undated copy; the 1877 scan is taken instead | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
