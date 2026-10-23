@@ -18916,6 +18916,28 @@ Slugs `chafer-*`. Built from title pages read for round 129.
 | Systematic Theology and other books printed after 1929 | excluded | |
 | this scan of Salvation (copyright 1917) is a 1965-1970 Zondervan printing; the shelf takes only printings before 1930 | excluded | |
 | this scan of Grace (copyright 1922) is the 1947 eighth edition; the shelf takes only printings before 1930 | excluded | |
+
+## Percy Dearmer (round 129, my pick, 2026-10-23)
+
+Slugs `dearmer-*`. Built from title pages read for round 129.
+
+| Work | Status | Where |
+|---|---|---|
+| The cathedral church of Oxford, a description of its fabric and a brief history of the episcopal see (London, Bell, 1897) | have-ocr | IA `cathedralchurcho00dearuoft` |
+| The cathedral church of Wells; a description of its fabric and a brief history of the Episcopal see (London : G. Bell & sons, 1898) | have-ocr | IA `wellscathedralch00dear` |
+| The Parson's handbook, containing practical directions both for parsons and others as to the management of the parish church and its services according to the English use as set forth in the Book of Common Prayer, with an introductory essay on conformity to the Church of England (London : G. Richards, 1899) | have-ocr | IA `theparsonshandbo00dearuoft` |
+| Loyalty to the prayer book. By Percy Dearmer (A.R. Mowbray & Co. Limited, 1904) | have-ocr | IA `loyaltytoprayerb00dear` |
+| The ornaments of the ministers (London : A. R. Mowbray, [190) | have-ocr | IA `ornamentsofminis00dearuoft` |
+| Everyman's history of the English church (London : Mowbray, 1909) | have-ocr | IA `everymanshistory0000dear` |
+| Body and soul : an enquiry into the effects of religion upon health, with a description of Christian works of healing from the New Testament to the present day (London : I. Pitman & Sons, 1910) | have-ocr | IA `bodyandsoulanenq00dearuoft` |
+| Reunion and Rome (catalogued 1910) | have-ocr | IA `reunionrome0000revp` |
+| Fifty pictures of Gothic altars (London, Longmans, Green, 1910) | have-ocr | IA `fiftypicturesofg00dearuoft` |
+| The communion of saints (London : A.R. Mowbray, 1910) | have-ocr | IA `thecommunionofsa00dearuoft` |
+| The Arts of the Church (catalogued 1911) | have-ocr | IA `artsofchurch0000revp` |
+| Religious Pamphlets (IA religiouspamphle00dear): a collection of pamphlets by many writers that he selected (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Essays on Ceremonial (IA essaysonceremoni00atch): essays by several writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| The English Liturgy and The Booklet of the Mass are service books he edited | excluded | |
+| Highways and Byways in Normandy is a travel book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
