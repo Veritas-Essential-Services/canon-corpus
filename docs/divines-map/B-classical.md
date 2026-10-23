@@ -9865,3 +9865,12 @@ Shelf: `pipeline/c-h-hawes_shelf.json`. Crete, the Forerunner of Greece (1909). 
 |---|---|---|---|
 | Crete, the Forerunner of Greece (1909; this printing 1911) |  | `hawes-crete-forerunner-of-greece` | have-raw (IA `creteforerunnero00haweuoft`) |
 
+
+## Pierre Jouguet (1869-1949)
+
+Shelf: `pipeline/pierre-jouguet_shelf.json`. Macedonian Imperialism and the Hellenization of the East, tr. Dobie (1928). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Macedonian Imperialism and the Hellenization of the East (1928), tr. M. R. Dobie |  | `jouguet-macedonian-imperialism-1928` | have-raw (IA `macedonianimperi0000pier`) |
+
