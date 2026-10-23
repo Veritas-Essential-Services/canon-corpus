@@ -1,1 +1,1 @@
-{"status": "running", "holder": "2026-10-22T22:06:39-05:00", "heartbeat": "2026-10-22T23:10:34-05:00", "note": "running 2026-10-23: round 39 completed and round 40 closed; starting round 41"}
+{"status": "free", "holder": "2026-10-22T22:06:39-05:00", "heartbeat": "2026-10-22T23:18:41-05:00", "note": "released 2026-10-23 after round 41 (rounds 39-41 pushed); nothing queued, round 42 candidates in DIGEST-A"}
