@@ -15733,3 +15733,20 @@ Shelf: `pipeline/anna-chapin-ray_shelf.json` (2026-10-22; added at the coordinat
 | The Cadets of Flemming Hall | have | PG 59005, `acray-cadets-of-flemming-hall` (1376 units) |
 | By the Good Sainte Anne: A Story of Modern Quebec | have | PG 60175, `acray-by-the-good-sainte-anne` (2111 units) |
 | Half a dozen boys | have | PG 72769, `acray-half-a-dozen-boys` (1359 units) |
+
+## Mabel Quiller-Couch
+
+Shelf: `pipeline/mabel-quiller-couch_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kitty Trenire | have | PG 13992, `mqcouch-kitty-trenire` (1514 units) |
+| The Story of Jessie | have | PG 16268, `mqcouch-story-of-jessie` (788 units) |
+| Dick and Brownie | have | PG 16969, `mqcouch-dick-and-brownie` (722 units) |
+| Paul the Courageous | have | PG 26087, `mqcouch-paul-the-courageous` (303 units) |
+| Cornwall's Wonderland | have | PG 26755, `mqcouch-cornwalls-wonderland` (775 units) |
+| The Carroll Girls | have | PG 29171, `mqcouch-carroll-girls` (1313 units) |
+| The Making of Mona | have | PG 30402, `mqcouch-making-of-mona` (1082 units) |
+| Anxious Audrey | have | PG 31173, `mqcouch-anxious-audrey` (1412 units) |
+| Better than Play | have | PG 31836, `mqcouch-better-than-play` (887 units) |
+| The Mean-Wells | have | PG 64258, `mqcouch-mean-wells` (1022 units) |
