@@ -15627,3 +15627,25 @@ Slugs `dix-*`. Built from title pages read for round 94.
 | Three guardians of supernatural religion, vol. c.1 (New York, E. S. Gorham, 1901) | have-ocr | IA `threeguardiansof01dixm` |
 | bookofhours00dixm: The Book of Hours (1866) carries no author on its title page; attribution is the catalogue's | pending | not shelved |
 | Memoirs of John Adams Dix (his father, a political biography), his edition of the 1549 Book of Common Prayer, and a military-order address | excluded | |
+
+## Milton S. Terry (round 95, my pick, 2026-10-23)
+
+Slugs `terry-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical hermeneutics : a treatise on the interpretation of the Old and New Testaments (New York : Phillips & Hunt, 1885) | have-ocr | IA `biblicalhermeneu00terr` |
+| Doctrines of Arminian Methodism (Evanston : University Press Print., 1887) | have-ocr | IA `doctrinesofarmin0000terr` |
+| The prophecies of Daniel expounded by Milton S. Terry (New York, Hunt & Eaton; Cincinnati, Cranston & Curts, 1893) | have-ocr | IA `propheciesofdani00terr` |
+| The Song of Songs (Cincinnati : Cranston & Curts, 1893) | have-ocr | IA `songofsongs00terr` |
+| The new apologetic : five lectures on true and false methods of meeting modern philosophical and critical attacks upon the Christian religion (New York : Eaton & Mains, 1897) | have-ocr | IA `newapologeticfiv0000terr` |
+| Moses and the prophets; an essay toward a fair and useful statement of some of the positions of modern Biblical criticism (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1901) | have-ocr | IA `mosesprophetsess0000terr` |
+| The new and living way; an orderly arrangement and exposition to the doctrines of Christian experience according to the Scriptures (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1902) | have-ocr | IA `newlivingwayorde00terr` |
+| The meditation of Jesus Christ : a contribution to the study of Biblical dogmatics (New York : Eaton & Mains ; Cincinnati : Jennings & Pye, 1903) | have-ocr | IA `meditationofjesu00terr` |
+| Primer of Christian doctrine in the form of questions and answers; for the use of Sunday-schools, Epworth leagues, Christian endeavor societies, adult Bible classes, and also for a help to private study and devotion (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1906) | have-ocr | IA `primerofchristia00terr` |
+| Biblical dogmatics; an exposition of the principal doctrines of the Holy Scriptures (New York : Eaton & Mains; Cincinnati : Jennings & Graham, 1907) | have-ocr | IA `biblicaldogmatic00terr` |
+| The Christian revelation : baccalaureate address (Chicago : Press of Jennings & Graham, 1909) | have-ocr | IA `christianrevelat0000terr` |
+| The Shinto cult; a Christian study of the ancient religion of Japan (Cincinnati, Jennings and Graham; New York, Eaton and Mains, [c19) | have-ocr | IA `shintocultchrist00terrrich` |
+| Baccalaureate sermons and addresses (New York : Methodist Book Concern, 1914) | have-ocr | IA `baccalaureateser00terr` |
+| miraculousbirtho00terr: a journal offprint (Art. IV, 1901) whose readable text never names the author; attribution is the catalogue's | pending | not shelved |
+| his translation of the Sibylline Oracles (an ancient text) and Rambles in the Old World (travel) | excluded | |
