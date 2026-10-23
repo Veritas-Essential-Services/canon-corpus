@@ -26,10 +26,13 @@
    "worksofemperorju02juliiala",
    "The Works of the Emperor Julian, and some pieces of the sophist Libanius, vol. II (3rd ed. corrected, 1798)",
    "tr. John Duncombe"
+  ],
+  "julian-wright-v3": [
+   "worksofemperorju0003wilm",
+   "The Works of the Emperor Julian, tr. Wilmer Cave Wright, vol. III (Loeb, 1923; this copy the 1961 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
-  "Wright vol. 3 (Loeb, 1923)": "not on Gutenberg. The IA scan worksofemperorju0000unse (1923) reads 0.760 with its Greek pages counted, under the bar; pending Adam's ruling on measuring Greek-facing Loebs by their English pages.",
   "Thomas Taylor, Two Orations of the Emperor Julian (1793)": "PD; the only scan found (IA bim_eighteenth-century_two-orations-of-the-empe_julian-emperor-of-rome_1793, ECCO) reads at 0.696 clean words, below the lane's bar. Refused for OCR quality on 2026-10-03; Wright's Loeb translation of the same orations is held",
   "Duncombe, Works of the Emperor Julian, vol. I (3rd ed., 1798)": "IA worksofemperorju01juliiala reads 0.876, but its OCR opens at the half-title 'SELECT WORKS OF THE EMPEROR JULIAN' with no title page; not taken under the lane's title-page rule. Vol. II (julian-duncombe-1798-v2) prints the full title page"
  },
@@ -40,7 +43,8 @@
  "_translators": {
   "julian-wright-v2": "Wilmer Cave Wright",
   "julian-king-1888": "C. W. King",
-  "julian-wright-v1": "Wright"
+  "julian-wright-v1": "Wright",
+  "julian-wright-v3": "Wilmer Cave Wright"
  },
  "_checks": {
   "julian-wright-v2": {
@@ -89,6 +93,19 @@
    "ia_rights": "ok: published 1798",
    "ia_date": "1798",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "julian-wright-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julian",
+   "translator_claimed": "Wilmer Cave Wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
