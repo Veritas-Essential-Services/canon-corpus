@@ -15125,6 +15125,23 @@ Slugs `ddana-*`. Built from title pages read for round 89.
 | Letters to the Rev. Professor Stuart : comprising remarks on his essay on sin, published in the American biblical repository for April and July, 1839 (Boston : Printed by Crocker & Brewster, 1839) | have-ocr | IA `letterstorevprof01dana` |
 | The New song : a sermon, delivered in Bowdoin-Street Church, Boston (Boston : Crocker and Brewster, 1849) | have-ocr | IA `newmondel00dana` |
 | Baptology (1860), by Daniel Dana Jr.; his Washington discourse (bound in a many-author volume); collections that only include a sermon of his | excluded | |
+
+## Samuel T. Spear (round 89, my pick, 2026-10-23)
+
+Slugs `spear-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The nation's blessing in trial: a sermon preached in the South Presbyterian church of Brooklyn (Brooklyn, W.W. Rose, printer, 1862) | have-ocr | IA `nationsblessingi00spea` |
+| Radicalism and the national crisis : a sermon preached in the South Presbyterian Church of Brooklyn, October 19th, 1862 (Brooklyn : W.W. Rose, 1862) | have-ocr | IA `radicalismnation00spea` |
+| The duty of the hour (New York : A.D.F. Randolph, 1863) | have-ocr | IA `dutyofhour00speaiala` |
+| Our country and its cause : a discourse preached October 2d, 1864 in the South Presbyterian Church, of Brooklyn (Brooklyn : "The Union" Steam Presses, 1864) | have-ocr | IA `ourcountryitscau00spea` |
+| The punishment of treason : a discourse preached April 23d, 1865, in the South Presbyterian Church of Brooklyn (Brooklyn, [N.Y.] : "The Union" Steam Presses, 1865) | have-ocr | IA `punishmentoftrea4948spea` |
+| In memoriam. Mrs Mariamne Fitch Stranahan (New York, Printed by C. A. Alvord, 1867) | have-ocr | IA `inmemoriammrsmar00spea` |
+| Religion and the state; or, The Bible and the public schools (New York, Dodd, Mead & company, 1876) | have-ocr | IA `religionandstat01speagoog` |
+| Meditations on the Bible heaven (New York : Funk, 1886) | have-ocr | IA `meditationsonbib00spea` |
+| lawabidingconsci00spea: Internet Archive's text file returned HTTP 500 (2026-10-23); retry later | pending | not shelved |
+| his law treatises (The Legal-Tender Acts, The Law of the Federal Judiciary, The Law of Extradition) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

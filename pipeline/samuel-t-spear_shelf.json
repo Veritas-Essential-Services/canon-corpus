@@ -1,0 +1,151 @@
+{
+ "_about": "Public-domain Samuel Thayer Spear (1812-1891), pastor of the South Presbyterian Church, Brooklyn, for the Word Hoard: his theology and pulpit writings only: The Law-Abiding Conscience (1850), his Civil War sermons (The Nation's Blessing in Trial, Radicalism and the National Crisis, The Duty of the Hour, Our Country and its Cause, The Punishment of Treason), a memorial of Mrs. Stranahan, Religion and the State (1876) and Meditations on the Bible Heaven (1886). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 89 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel t. spear",
+  "s. t. spear",
+  "samuel thayer spear"
+ ],
+ "_surname": [
+  "samuel t. spear",
+  "s. t. spear",
+  "samuel thayer spear"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "spear-nations-blessing": [
+   "nationsblessingi00spea",
+   "The nation's blessing in trial: a sermon preached in the South Presbyterian church of Brooklyn (Brooklyn, W.W. Rose, printer, 1862)"
+  ],
+  "spear-radicalism": [
+   "radicalismnation00spea",
+   "Radicalism and the national crisis : a sermon preached in the South Presbyterian Church of Brooklyn, October 19th, 1862 (Brooklyn : W.W. Rose, 1862)"
+  ],
+  "spear-duty-of-hour": [
+   "dutyofhour00speaiala",
+   "The duty of the hour (New York : A.D.F. Randolph, 1863)"
+  ],
+  "spear-our-country": [
+   "ourcountryitscau00spea",
+   "Our country and its cause : a discourse preached October 2d, 1864 in the South Presbyterian Church, of Brooklyn (Brooklyn : \"The Union\" Steam Presses, 1864)"
+  ],
+  "spear-punishment-treason": [
+   "punishmentoftrea4948spea",
+   "The punishment of treason : a discourse preached April 23d, 1865, in the South Presbyterian Church of Brooklyn (Brooklyn, [N.Y.] : \"The Union\" Steam Presses, 1865)"
+  ],
+  "spear-stranahan": [
+   "inmemoriammrsmar00spea",
+   "In memoriam. Mrs Mariamne Fitch Stranahan (New York, Printed by C. A. Alvord, 1867)"
+  ],
+  "spear-religion-state": [
+   "religionandstat01speagoog",
+   "Religion and the state; or, The Bible and the public schools (New York, Dodd, Mead & company, 1876)"
+  ],
+  "spear-bible-heaven": [
+   "meditationsonbib00spea",
+   "Meditations on the Bible heaven (New York : Funk, 1886)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "spear-law": "his law treatises (The Legal-Tender Acts, The Law of the Federal Judiciary, The Law of Extradition)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "spear-law-abiding-conscience": "lawabidingconsci00spea: Internet Archive's text file returned HTTP 500 (2026-10-23); retry later"
+ },
+ "_translators": {},
+ "_checks": {
+  "spear-nations-blessing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "spear-radicalism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spear-duty-of-hour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spear-our-country": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "spear-punishment-treason": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "spear-stranahan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spear-religion-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "spear-bible-heaven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel t. spear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
