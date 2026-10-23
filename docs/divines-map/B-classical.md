@@ -10749,3 +10749,12 @@ Shelf: `pipeline/daniel-m-tredwell_shelf.json`. A Sketch of the Life of Apolloni
 |---|---|---|---|
 | A Sketch of the Life of Apollonius of Tyana (New York, 1886) |  | `tredwell-apollonius-of-tyana-1886` | have-raw (IA `sketchoflifeofap00tred_0`) |
 
+
+## Douglas William Freshfield (1845-1934)
+
+Shelf: `pipeline/douglas-freshfield_shelf.json`. Hannibal Once More (London, 1914) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Hannibal Once More (London, 1914) |  | `freshfield-hannibal-once-more-1914` | have-raw (IA `cu31924028293656`) |
+

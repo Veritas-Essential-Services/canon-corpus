@@ -1,0 +1,34 @@
+{
+ "_about": "Douglas W. Freshfield (1845-1934), mountaineer and geographer: Hannibal Once More (London: Arnold, 1914), on Hannibal's pass over the Alps. Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Douglas William Freshfield (1845-1934)",
+ "_name_words": [
+  "freshfield",
+  "douglas",
+  "hannibal"
+ ],
+ "_surname": [
+  "freshfield"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "freshfield-hannibal-once-more-1914": [
+   "cu31924028293656",
+   "Hannibal Once More (London, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "freshfield-hannibal-once-more-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "freshfield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
