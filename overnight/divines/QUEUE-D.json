@@ -6805,6 +6805,14 @@
       "started": "2026-10-22T23:52:44-05:00",
       "finished": "2026-10-22T23:52:44-05:00",
       "notes": "storytellers-tail-37: new shelf, 30 Gutenberg books, 36,457 units, 1761 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "storytellers-tail-38",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Storytellers' tail, group 38 (30 authors); no minting",
+      "status": "done",
+      "started": "2026-10-22T23:53:17-05:00",
+      "finished": "2026-10-22T23:53:17-05:00",
+      "notes": "storytellers-tail-38: new shelf, 29 Gutenberg books, 33,908 units, 467 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

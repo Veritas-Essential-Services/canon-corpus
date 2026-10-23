@@ -47154,3 +47154,40 @@ Shelf: `pipeline/storytellers-tail-37_shelf.json` (2026-10-22; added at the coor
 | Our trip to Blunderland | have | PG 74822, `jhamacdonald-our-trip-to-blunderland` (1259 units) |
 | Etiquette for Little Folks | have | PG 67553, `hsmackarness-etiquette-for-little-folks` (200 units) |
 | The Rising of the Red Man A Romance of the Louis Riel Rebellion | have | PG 12827, `jmackie-rising-of-the-red-man-a-romance-of-the-louis-riel-re` (945 units) |
+
+## Storytellers' tail, group 38 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-38_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: T. J. Macon, William Hussey Macy, Laurie Magnus, William H. Maher, Francis Oscar Mann, J. Hartley Manners, Mary Ellen Mannix, George Marsh, Catherine Martin, Edward Sandford Martin, William Martin, S. T. Martyn, Alfred Bishop Mason, Caroline Atwater Mason, Eveleen Laura Mason, Marshall Mather, Helen Mathers, Frances Aymar Mathews, James Robert Maxwell, M. H. Maxwell, Mary Monica Maxwell-Scott, Augustus Mayhew, F. M. Mayor, D. R. McAnally, Carlton McCarthy, M. G. McClelland, Henry C. McCook, Josephine Clifford McCrackin, Augustin McHugh, Harlan Cozad McIntosh. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Life Gleanings | have | PG 38167, `tjmacon-life-gleanings` (187 units) |
+| There She Blows! Or, The Log of the Arethusa | have | PG 46390, `whmacy-there-she-blows-or-the-log-of-the-arethusa` (1185 units) |
+| The West Riding Territorials in the Great War | have | PG 69691, `lmagnus-west-riding-territorials-in-the-great-war` (1032 units) |
+| A Man of Samples. Something about the men he met "On the Road" | have | PG 6132, `whmaher-man-of-samples-something-about-the-men-he-met-on-the` (1066 units) |
+| The devil in a nunnery, and other mediaeval tales | have | PG 78528, `fomann-devil-in-a-nunnery-and-other-mediaeval-tales` (971 units) |
+| Peg O' My Heart | have | PG 3621, `jhmanners-peg-o-my-heart` (4190 units) |
+| The Children of Cupa | have | PG 55852, `memannix-children-of-cupa` (1126 units) |
+| The Whelps of the Wolf | have | PG 32465, `gmarsh-whelps-of-the-wolf` (1394 units) |
+| An Australian Girl | have | PG 50832, `cmartin-australian-girl` (3117 units) |
+| Reflections of a beginning husband | have | PG 78473, `esmartin-reflections-of-a-beginning-husband` (239 units) |
+| The Book of Sports: Containing Out-door Sports, Amusements and Recreations, Including Gymnastics, Gardening & Carpentering | have | PG 25068, `wmartin-book-of-sports` (427 units) |
+| Our Village in War-time | have | PG 67562, `stmartyn-our-village-in-war-time` (302 units) |
+| Tom Strong, Lincoln's Scout A Story of the United States in the Times That Tried Men's Souls | have | PG 44132, `abmason-tom-strong-lincoln-s-scout-a-story-of-the-united-sta` (992 units) |
+| A Woman of Yesterday | have | PG 63526, `camason-woman-of-yesterday` (1787 units) |
+| An episode in the doings of the dualized | have | PG 69450, `elmason-episode-in-the-doings-of-the-dualized` (627 units) |
+| Lancashire Idylls (1898) | have | PG 14414, `mmather-lancashire-idylls-1898` (1364 units) |
+| Gay Lawless | have | PG 69655, `hmathers-gay-lawless` (1638 units) |
+| My Lady Peggy Goes to Town | have | PG 50388, `famathews-my-lady-peggy-goes-to-town` (1618 units) |
+| A history of Lumsden's Battery, C.S.A. | have | PG 26455, `jrmaxwell-history-of-lumsden-s-battery-c-s-a` (209 units) |
+| Be Courteous, or, Religion, the True Refiner | have | PG 9402, `mhmaxwell-be-courteous-or-religion-the-true-refiner` (429 units) |
+| The Tragedy of Fotheringay Founded on the journal of D. Bourgoing, physician to Mary Queen of Scots, and on unpublished ms. documents | have | PG 54884, `mmmaxwellscott-tragedy-of-fotheringay-founded-on-the-journal` (870 units) |
+| The Greatest Plague of Life: or, the Adventures of a Lady in Search of a Good Servant. | have | PG 60562, `amayhew-greatest-plague-of-life` (808 units) |
+| The Third Miss Symons | have | PG 27071, `fmmayor-third-miss-symons` (403 units) |
+| Irish Wonders The Ghosts, Giants, Pooka, Demons, Leprechawns, Banshees, Fairies, Witches, Widows, Old Maids, and other Marvels of the Emerald Isle | have | PG 19486, `drmcanally-irish-wonders-the-ghosts-giants-pooka-demons-lepr` (681 units) |
+| Detailed minutiæ of soldier life in the Army of Northern Virginia, 1861-1865 | have | PG 25603, `cmccarthy-detailed-minuti-of-soldier-life-in-the-army-of-nor` (494 units) |
+| Princess | have | PG 17545, `mgmcclelland-princess` (683 units) |
+| Old Farm Fairies: A Summer Campaign In Brownieland Against King Cobweaver's Pixies | have | PG 33994, `hcmccook-old-farm-fairies` (2039 units) |
+| Overland tales | have | PG 42308, `jcmccrackin-overland-tales` (1524 units) |
+| Officer 666 | have | PG 30228, `amchugh-officer-666` (2506 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 64251 This Finer Shadow (copyright line 1941). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
