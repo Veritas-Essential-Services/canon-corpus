@@ -20428,6 +20428,15 @@ Shelf: `pipeline/paul-decharme_shelf.json`. Euripides and the Spirit of his Dram
 |---|---|---|---|
 | Euripides and the Spirit of his Dramas, tr. James Loeb (1906) |  | `decharme-euripides-spirit-dramas-1906` | have-raw (IA `cu31924026667687`) |
 
+
+## Reginald Hackforth (1887-1957)
+
+Shelf: `pipeline/r-hackforth_shelf.json`. The Authorship of the Platonic Epistles (Manchester University Press, 1913) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Authorship of the Platonic Epistles (Manchester University Press, 1913) |  | `hackforth-authorship-platonic-epistles-1913` | have-raw (IA `cu31924026679211`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

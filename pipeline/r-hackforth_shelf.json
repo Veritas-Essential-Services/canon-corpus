@@ -1,0 +1,35 @@
+{
+ "_about": "R. Hackforth (1887-1957): The Authorship of the Platonic Epistles (Manchester, 1913). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Reginald Hackforth (1887-1957)",
+ "_name_words": [
+  "hackforth",
+  "reginald",
+  "platonic",
+  "epistles"
+ ],
+ "_surname": [
+  "hackforth"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hackforth-authorship-platonic-epistles-1913": [
+   "cu31924026679211",
+   "The Authorship of the Platonic Epistles (Manchester University Press, 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hackforth-authorship-platonic-epistles-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hackforth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
