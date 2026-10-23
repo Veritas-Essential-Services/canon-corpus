@@ -44807,3 +44807,15 @@ Shelf: `pipeline/stephen-angus-douglas-cox_shelf.json` (2026-10-22; added at the
 | The Dare Boys with General Greene | have | PG 44631, `sadcox-dare-boys-with-general-greene` (1028 units) |
 | The Dare Boys in Vincennes | have | PG 64017, `sadcox-dare-boys-in-vincennes` (1044 units) |
 | Harry's newspaper | have | PG 77984, `sadcox-harrys-newspaper` (600 units) |
+
+## George Waldo Browne
+
+Shelf: `pipeline/george-waldo-browne_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Where Duty Called; or, In Honor Bound | have | PG 34792, `gwbrowne-where-duty-called` (1170 units) |
+| Little Snap the Postboy; Or, Working for Uncle Sam | have | PG 54930, `gwbrowne-little-snap-the-postboy` (1890 units) |
+| Cavalry Curt; Or, The Wizard Scout of the Army | have | PG 67404, `gwbrowne-cavalry-curt` (1283 units) |
+| Little Hickory; or, Ragged Rob's young republic | have | PG 68532, `gwbrowne-little-hickory` (1466 units) |
+| The Woodranger | have | PG 77515, `gwbrowne-woodranger` (1381 units) |

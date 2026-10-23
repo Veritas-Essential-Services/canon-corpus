@@ -1,0 +1,86 @@
+{
+ "_about": "George Waldo Browne: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George Waldo Browne",
+ "_name_words": [
+  "browne",
+  "george",
+  "waldo"
+ ],
+ "_surname": [
+  "george waldo browne",
+  "browne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gwbrowne-where-duty-called": [
+   34792,
+   "Where Duty Called; or, In Honor Bound"
+  ],
+  "gwbrowne-little-snap-the-postboy": [
+   54930,
+   "Little Snap the Postboy; Or, Working for Uncle Sam"
+  ],
+  "gwbrowne-cavalry-curt": [
+   67404,
+   "Cavalry Curt; Or, The Wizard Scout of the Army"
+  ],
+  "gwbrowne-little-hickory": [
+   68532,
+   "Little Hickory; or, Ragged Rob's young republic"
+  ],
+  "gwbrowne-woodranger": [
+   77515,
+   "The Woodranger"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gwbrowne-where-duty-called": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george waldo browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwbrowne-little-snap-the-postboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george waldo browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwbrowne-cavalry-curt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george waldo browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwbrowne-little-hickory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george waldo browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwbrowne-woodranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george waldo browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
