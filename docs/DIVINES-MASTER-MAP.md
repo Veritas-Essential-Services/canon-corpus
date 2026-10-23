@@ -9899,6 +9899,27 @@ Slugs `kettlewell-*`. Built from title pages read for round 40.
 | The measures of Christian obedience : or, A discourse shewing what obedience is indispensably necessary to a regenerate state, and what defects are consistent with it; for the promotion of piety, and the peace of troubled consciences (London : Printed by J. Macock, for Robert Kettlewell, 1681) | have-ocr | IA `measuresofchrist00ket` |
 | Separate printings, 1683-1737, of the Help and Exhortation to Worthy Communicating, the Practical Believer, Christian Prudence, Christian Communion, Death Made Comfortable, the Companion for the Penitent and Five Discourses, all in the Works | alternate | not shelved |
 | Books by Samuel Kettlewell (Thomas a Kempis and the Brothers of Common Life, 1882; the authorship of the De Imitatione, 1877; Three Venerable Ladies, 1874) and other later Kettlewells | excluded | |
+
+## Henry Dodwell (round 40, my pick, 2026-10-22)
+
+Slugs `dodwell-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Two short discourses ...  1676 (catalogued 1676) | have-ocr | IA `bim_early-english-books-1641-1700_two-short-discourses-_dodwell-henry_1676` |
+| Separation of churches...  1679 (catalogued 1679) | have-ocr | IA `bim_early-english-books-1641-1700_separation-of-churches_dodwell-henry_1679` |
+| A discourse concerning the one altar... against schism.  1683 (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_a-discourse-concerning-t_dodwell-henry_1683` |
+| Two letters of advice, ...  1691 (catalogued 1691) | have-ocr | IA `bim_early-english-books-1641-1700_two-letters-of-advice-_dodwell-henry_1691_0` |
+| A Treatise concerning the lawfulness of instrumental musick in holy offices (London : Printed for William Hawes, 1700) | have-ocr | IA `treatiseconcerni00dodw` |
+| An admonitory discourse concerning the late English schism, address'd to those of the reformed, as well as roman religion abroad: wherein the ancient rights of bishops, and their independency of the secular magistrate, are asserted and recommended. By Henry Dodwell, A.M. of Dublin. Written originally in Latin, and now faithfully done into English, [sic].  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_an-admonitory-discourse-_dodwell-henry_1704` |
+| Occasional communion fundamentally destructive of the discipline of the primitive catholick church, and contrary to the doctrine of the latest scriptures, concerning church-communion. By Henry Dodwell, M.A.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_occasional-communion-fun_dodwell-henry_1705` |
+| A case in view consider'd: in a discourse, proving that in case our present invalidly deprived fathers shall leave all their sees vacant, either by death or resignation we shall not then be obliged to keep up our separation from those bishops, who are as yet involved in the guilt of the present unhappy schism. By Henry Dodwell, M.A.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_a-case-in-view-consider_dodwell-henry_1705` |
+| An epistolary discourse, proving, from the scriptures and the first fathers, that the soul is a principle naturally mortal; ... By Henry Dodwell, A.M.  1706 (catalogued 1706) | have-ocr | IA `bim_eighteenth-century_an-epistolary-discourse-_dodwell-henry_1706` |
+| A discourse concerning the use of incense in divine offices. ... By Henry Dodwell, M.A.  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_a-discourse-concerning-t_dodwell-henry_1711` |
+| A vindication of the deprived bishops, ...  1692 (catalogued 1692) [bim_early-english-books-1641-1700_a-vindication-of-the-dep_dodwell-henry_1692]: title page read from the (dark) page image: no author named; the attribution is the catalogue's | pending | not shelved |
+| A defence of the vindication of the deprived bishops. ...  1695 (catalogued 1695) [bim_early-english-books-1641-1700_a-defence-of-the-vindica_dodwell-henry_1695]: title page (OCR) says only 'By the Author of the Vindication', which itself names no author | pending | not shelved |
+| Other printings of the Two Letters of Advice (1672, 1680, 1691) and the Epistolary Discourse (1706, 1707); the Preliminary Defence (1707), A Further Prospect of the Case in View (1707), the Case in View now in Fact (1711) | alternate | not shelved |
+| His Latin works (Dissertationes Cyprianicae, Dissertationes in Irenaeum, De Jure Laicorum, Praelectiones, the classical annals and chronology); Christianity not Founded on Argument (1741-1746), by his son Henry Dodwell the younger | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
