@@ -11266,3 +11266,12 @@ Slugs `hharris-*`. Built from title pages read for round 50.
 | A letter from Mr. Howel Harris in Wales, to a congregation in London, concerning brotherly love and mutual forbearance amongst true Christians. With an explanatory introduction by a welwisher to peace and truth.  1743 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_a-letter-from-mr-howel-_harris-howell_1743` |
 | The last message, and dying testimony, of Howell Harris, Esqr; late of Trevecka in Wales. ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_the-last-message-and-dy_harris-howell_1774` |
 | A brief account of the life of Howell Harris, Esq; extracted from papers written by himself. To which is added a concise collection of his letters from the year 1738, to 1772.  1791 (catalogued 1791) | have-ocr | IA `bim_eighteenth-century_a-brief-account-of-the-l_harris-howell_1791` |
+
+## William Gadsby (round 50, my pick, 2026-10-23)
+
+Slugs `gadsby-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| The Nazarene's Songs: ...  1824 (catalogued 1824) | have-ocr | IA `per_early-baptist_the-nazarenes-songs-_william-gadsby_1824` |
+| The Gospel Standard magazine (1835, many hands); A Memoir of the late Mr. William Gadsby (1844, by others) | excluded | |
