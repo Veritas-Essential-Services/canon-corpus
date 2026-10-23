@@ -340,6 +340,10 @@
    "bub_gb_CZqC4O8wSdoC",
    "The Sophistes of Plato: a dialogue on true and false teaching, translated with explanatory notes and an introduction on ancient and modern sophistry (London: Williams and Norgate, 1868)",
    "tr. R. W. Mackay"
+  ],
+  "plato-archer-hind-timaeus-1888": [
+   "timaeusofplato00platiala",
+   "The Timaeus of Plato, edited with introduction, notes and translation by R. D. Archer-Hind (London: Macmillan, 1888); Greek text facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
@@ -453,7 +457,8 @@
   "plato-dyde-theaetetus-1899": "S. W. Dyde",
   "plato-paley-philebus-1879": "Paley",
   "plato-mackay-sophistes-1868": "r. w. mackay",
-  "plato-jowett-1892-v2-pg": "Jowett"
+  "plato-jowett-1892-v2-pg": "Jowett",
+  "plato-archer-hind-timaeus-1888": "Archer-Hind"
  },
  "_checks": {
   "plato-charmides": {
@@ -1206,6 +1211,19 @@
    "ia_rights": "ok: published 1868",
    "ia_date": "1868",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "plato-archer-hind-timaeus-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "plato",
+   "translator_claimed": "Archer-Hind",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

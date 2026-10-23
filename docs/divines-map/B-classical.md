@@ -104,6 +104,7 @@ Shelf: `pipeline/plato_shelf.json`. Jowett, *The Dialogues of Plato*, 3rd ed. (O
 | The Philebus of Plato, translated, with brief explanatory notes (George Bell, 1879; IA's catalogue says 1873, the title page reads 1879) | F. A. Paley | `plato-paley-philebus-1879` | have-raw (IA `philebusplato00platuoft`) |
 | The Sophistes of Plato: a dialogue on true and false teaching, translated with explanatory notes and an introduction on ancient and modern sophistry (London: Williams and Norgate, 1868) | R. W. Mackay | `plato-mackay-sophistes-1868` | have-raw (IA `bub_gb_CZqC4O8wSdoC`) |
 | The Dialogues of Plato, 3rd ed. (1892), vol. 2 of 5, tr. Jowett |  | `plato-jowett-1892-v2-pg` | have (PG 76464, clean witness) |
+| The Timaeus of Plato, edited with introduction, notes and translation by R. D. Archer-Hind (London: Macmillan, 1888); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `plato-archer-hind-timaeus-1888` | have-raw (IA `timaeusofplato00platiala`) |
 
 Pending (wishlist):
 
