@@ -17269,6 +17269,22 @@ Slugs `kaftan-*`. Built from title pages read for round 112.
 | Neutestamentliche theologie : im Abriss dargestellt (Berlin : M. Warneck, 1927) | have-ocr | IA `neutestamentlich0000kaft` |
 | Das Christentum und die Philosophie (J.C. Hinrichs, 1896), IA daschristentumu00kaftgoog: Fraktur type, and the OCR text is unreadable (needs re-OCR) | pending | not shelved |
 | His student dissertations (Sollen und Sein, 1872; Veterum ecclesiae, 1873) left out | excluded | |
+
+## Otto Zöckler (round 112, my pick, 2026-10-23)
+
+Slugs `zockler-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| The cross of Christ: studies in the history of religion and the inner life of the church (London, Hodder and Stoughton, 1877) | have-ocr | IA `CrossOfChrist` |
+| The Proverbs of Solomon, vol. 10 (catalogued 1870) | have-ocr | IA `proverbsofsolomo0010unse` |
+| The Song of Solomon, vol. 10 (New York, C. Scribner & Co., 1870) | have-ocr | IA `songofsolomon0010zckl` |
+| The Book of Job : a rhythmical version with introduction and annotations, vol. 8 (New York : Charles Scribner's Sons, 1874) | have-ocr | IA `bookofjobrhythmi08zc` |
+| The Books of the Chronicles, vol. 7 (catalogued 1877) | have-ocr | IA `booksofchronicle0000unse_z5d2` |
+| Theologia naturalis: Entwurf einer systematatischen Naturtheologie von offenbarungsgläubigen Standpunkte aus. 1 (catalogued 1860) | have-ocr | IA `10399980bsb` |
+| Gottes Zeugen im Reich der Natur : Biographien und Bekenntnisse grosser Naturforscher aus alter und neuer Zeit (Gütersloh : C. Bertelsmann, 1881) | have-ocr | IA `gotteszeugenimre0000zckl` |
+| Die Apokryphen des Alten Testments : nebst einem Anhang überdie Pseudepigraphenliteratur (München : C.H. Beck, 1891) | have-ocr | IA `dieapokryphendes00zckl` |
+| Askese und Mönchtum, vol. 1-2 (Frankfurt, Heyder, 1897) | have-ocr | IA `askeseundmncht12zcuoft` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
