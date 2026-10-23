@@ -19229,3 +19229,22 @@ Slugs `eiselen-*`. Built from title pages read for round 132.
 | the 1907 Commentary on the Old Testament scan is not certainly his | excluded | |
 | microform and other scans of the same books | excluded | |
 | single journal articles | excluded | |
+
+## J. G. Pike (round 132, my pick, 2026-10-23)
+
+Slugs `pike-*`. Built from title pages read for round 132.
+
+| Work | Status | Where |
+|---|---|---|
+| Persuasives to early piety (catalogued 1865) | have-ocr | IA `persuasivestoear00pike` |
+| A guide for young disciples of the Holy Saviour, in their way to immortality: forming a sequel to Persuasives to early piety (New York, American Tract Society, [182) | have-ocr | IA `guideforyoungdis00pikerich` |
+| Consolations of Gospel truth, exhibited in various interesting anecdotes respecting the dying hours of ... persons who gloried in the Cross of Christ (New York, Paul, 1823) | have-ocr | IA `consolationsofgo00pike` |
+| Swedenborgianism Depicted in Its True Colors: Or, A Contrast Between the Holy Scriptures and the (Printed for the Publisher, 1834) | have-ocr | IA `swedenborgianis00pikegoog` |
+| Religion and eternal life; or, Irreligion and perpetual ruin, the only alternative for mankind (New York, The American tract society, 1834) | have-ocr | IA `religioneternall00pike` |
+| Memoir of Mrs. Charlotte Sutton : a missionary to Orissa, East Indies (Boston / : Gould, Kendall & Lincoln, 1835) | have-ocr | IA `memoirofmrscharl00pikeiala` |
+| The divine origin of Christianity (Dover, Trustees of the Freewill Baptist Connection, 1836) | have-ocr | IA `divineoriginofch00pike_0` |
+| True happiness : or, The excellence and power of early religion (New York : R. Carter, 1844) | have-ocr | IA `truehappinessore00pike` |
+| the Armenian translation | excluded | |
+| Useful and Happy is by another writer | excluded | |
+| other scans of the same books | excluded | |
+| an undated American Tract Society copy; the 1865 scan is taken instead | excluded | |
