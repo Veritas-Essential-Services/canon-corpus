@@ -1,0 +1,528 @@
+{
+ "_about": "Storytellers' tail, group 33: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Sarah C. Hallowell, William H. Hamby, W. J. Hamilton, Lily Hardy Hammond, Charles Hannan, Ellison Harding, Emily Grace Harding, Alice Harriman, Karl Edwin Harriman, Augustus Harris, Richard Harris, Edward Hart, George Hartmann, Henry Hartshorne, Wells Hastings, Alice B. Haven, Munson Aldrich Havens, Maud D. Haviland, Rush C. Hawkins, Marie Hay, Augustus Allen Hayes, Annie Haynes, George Cochrane Hazelton, Charles Heavysege, W. H. Helm, Arthur Heming, Vivia Hemphill, O. Henry, William Hewitt, A. F. Hill. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 33 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "schallowell-on-the-church-steps": [
+   "sarah c. hallowell",
+   "hallowell"
+  ],
+  "whhamby-desert-fiddler": [
+   "william h. hamby",
+   "william henry hamby",
+   "hamby"
+  ],
+  "wjhamilton-peddler-spy": [
+   "w. j. hamilton",
+   "hamilton"
+  ],
+  "lhhammond-in-the-garden-of-delight": [
+   "lily hardy hammond",
+   "hammond"
+  ],
+  "channan-electric-man-being-the-one-act-version-of-the-three": [
+   "charles hannan",
+   "hannan"
+  ],
+  "eharding-woman-who-vowed-the-demetrian": [
+   "ellison harding",
+   "harding"
+  ],
+  "egharding-noble-sacrifice": [
+   "emily grace harding",
+   "harding"
+  ],
+  "aharriman-man-of-two-countries": [
+   "alice harriman",
+   "harriman"
+  ],
+  "keharriman-ann-arbor-tales": [
+   "karl edwin harriman",
+   "harriman"
+  ],
+  "aharris-if-only-etc": [
+   "augustus harris",
+   "harris"
+  ],
+  "rharris-humourous-story-of-farmer-bumpkin-s-lawsuit": [
+   "richard harris",
+   "harris"
+  ],
+  "ehart-silica-gel-pseudomorph-and-other-stories": [
+   "edward hart"
+  ],
+  "ghartmann-tales-of-aztlan": [
+   "george hartmann",
+   "hartmann"
+  ],
+  "hhartshorne-1931": [
+   "henry hartshorne",
+   "hartshorne"
+  ],
+  "whastings-professor-s-mystery": [
+   "wells hastings",
+   "hastings"
+  ],
+  "abhaven-all-s-not-gold-that-glitters": [
+   "alice b. haven",
+   "alice bradley haven",
+   "haven"
+  ],
+  "mahavens-old-valentines": [
+   "munson aldrich havens",
+   "havens"
+  ],
+  "mdhaviland-lives-of-the-fur-folk": [
+   "maud d. haviland",
+   "maud doria haviland",
+   "haviland"
+  ],
+  "rchawkins-better-than-men": [
+   "rush c. hawkins",
+   "rush christopher hawkins",
+   "hawkins"
+  ],
+  "mhay-german-pompadour-being-the-extraordinary-history-of-wil": [
+   "marie hay"
+  ],
+  "aahayes-denver-express-from-belgravia-for-january-1884": [
+   "augustus allen hayes",
+   "hayes"
+  ],
+  "ahaynes-crow-s-inn-tragedy": [
+   "annie haynes",
+   "haynes"
+  ],
+  "gchazelton-mistress-nell": [
+   "george cochrane hazelton",
+   "hazelton"
+  ],
+  "cheavysege-advocate": [
+   "charles heavysege",
+   "heavysege"
+  ],
+  "whhelm-jane-austen-and-her-country-house-comedy": [
+   "w. h. helm",
+   "william henry helm"
+  ],
+  "aheming-drama-of-the-forests": [
+   "arthur heming",
+   "heming"
+  ],
+  "vhemphill-down-the-mother-lode": [
+   "vivia hemphill",
+   "hemphill"
+  ],
+  "ohenry-my-tussle-with-the-devil-and-other-stories": [
+   "o. henry",
+   "spirit henry"
+  ],
+  "whewitt-history-of-the-twelfth-west-virginia-volunteer-infan": [
+   "william hewitt",
+   "hewitt"
+  ],
+  "afhill-john-smith-s-funny-adventures-on-a-crutch-or-the-rema": [
+   "a. f. hill",
+   "ashbel fairchild hill"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "schallowell-on-the-church-steps": [
+   17559,
+   "On the Church Steps"
+  ],
+  "whhamby-desert-fiddler": [
+   25960,
+   "The Desert Fiddler"
+  ],
+  "wjhamilton-peddler-spy": [
+   55772,
+   "The Peddler Spy; or, Dutchmen and Yankees. A Tale of the Capture of Good Hope"
+  ],
+  "lhhammond-in-the-garden-of-delight": [
+   63729,
+   "In the Garden of Delight"
+  ],
+  "channan-electric-man-being-the-one-act-version-of-the-three": [
+   61142,
+   "The Electric Man Being the One Act Version of the Three Act Farcical Comedy of the Same Name"
+  ],
+  "eharding-woman-who-vowed-the-demetrian": [
+   37821,
+   "The Woman Who Vowed (The Demetrian)"
+  ],
+  "egharding-noble-sacrifice": [
+   77224,
+   "A noble sacrifice"
+  ],
+  "aharriman-man-of-two-countries": [
+   28070,
+   "A Man of Two Countries"
+  ],
+  "keharriman-ann-arbor-tales": [
+   41816,
+   "Ann Arbor Tales"
+  ],
+  "aharris-if-only-etc": [
+   15219,
+   "If Only etc."
+  ],
+  "rharris-humourous-story-of-farmer-bumpkin-s-lawsuit": [
+   30551,
+   "The Humourous Story of Farmer Bumpkin's Lawsuit"
+  ],
+  "ehart-silica-gel-pseudomorph-and-other-stories": [
+   72231,
+   "The silica gel pseudomorph, and other stories"
+  ],
+  "ghartmann-tales-of-aztlan": [
+   4294,
+   "Tales of Aztlan; The Romance of a Hero of Our Late Spanish-American War, Incidents of Interest from the Life of a Western Pioneer and Other Tales"
+  ],
+  "hhartshorne-1931": [
+   31171,
+   "1931: A Glance at the Twentieth Century"
+  ],
+  "whastings-professor-s-mystery": [
+   34988,
+   "The Professor's Mystery"
+  ],
+  "abhaven-all-s-not-gold-that-glitters": [
+   67206,
+   "\"All's not Gold that Glitters;\" or, The Young Californian"
+  ],
+  "mahavens-old-valentines": [
+   23886,
+   "Old valentines"
+  ],
+  "mdhaviland-lives-of-the-fur-folk": [
+   37127,
+   "Lives of the Fur Folk"
+  ],
+  "rchawkins-better-than-men": [
+   53423,
+   "Better Than Men"
+  ],
+  "mhay-german-pompadour-being-the-extraordinary-history-of-wil": [
+   25758,
+   "A German Pompadour Being the Extraordinary History of Wilhelmine van Grävenitz, Landhofmeisterin of Wirtemberg"
+  ],
+  "aahayes-denver-express-from-belgravia-for-january-1884": [
+   23180,
+   "The Denver Express From \"Belgravia\" for January, 1884"
+  ],
+  "ahaynes-crow-s-inn-tragedy": [
+   75307,
+   "The Crow's Inn tragedy"
+  ],
+  "gchazelton-mistress-nell": [
+   31370,
+   "Mistress Nell: A Merry Tale of a Merry Time"
+  ],
+  "cheavysege-advocate": [
+   31212,
+   "The Advocate: A Novel"
+  ],
+  "whhelm-jane-austen-and-her-country-house-comedy": [
+   54569,
+   "Jane Austen and Her Country-house Comedy"
+  ],
+  "aheming-drama-of-the-forests": [
+   18495,
+   "The Drama of the Forests: Romance and Adventure"
+  ],
+  "vhemphill-down-the-mother-lode": [
+   3315,
+   "Down the Mother Lode"
+  ],
+  "ohenry-my-tussle-with-the-devil-and-other-stories": [
+   77686,
+   "My tussle with the devil, and other stories"
+  ],
+  "whewitt-history-of-the-twelfth-west-virginia-volunteer-infan": [
+   45233,
+   "History of the Twelfth West Virginia Volunteer Infantry"
+  ],
+  "afhill-john-smith-s-funny-adventures-on-a-crutch-or-the-rema": [
+   49961,
+   "John Smith's Funny Adventures on a Crutch Or The Remarkable Peregrinations of a One-legged Soldier after the War"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "schallowell-on-the-church-steps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah c. hallowell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhamby-desert-fiddler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william h. hamby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjhamilton-peddler-spy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. hamilton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lhhammond-in-the-garden-of-delight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lily hardy hammond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "channan-electric-man-being-the-one-act-version-of-the-three": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles hannan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eharding-woman-who-vowed-the-demetrian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellison harding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egharding-noble-sacrifice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emily grace harding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aharriman-man-of-two-countries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice harriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keharriman-ann-arbor-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "karl edwin harriman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aharris-if-only-etc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rharris-humourous-story-of-farmer-bumpkin-s-lawsuit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ehart-silica-gel-pseudomorph-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward hart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghartmann-tales-of-aztlan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hartmann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhartshorne-1931": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry hartshorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whastings-professor-s-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wells hastings",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abhaven-all-s-not-gold-that-glitters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice b. haven",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mahavens-old-valentines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "munson aldrich havens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdhaviland-lives-of-the-fur-folk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maud d. haviland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rchawkins-better-than-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rush c. hawkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhay-german-pompadour-being-the-extraordinary-history-of-wil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marie hay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aahayes-denver-express-from-belgravia-for-january-1884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus allen hayes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahaynes-crow-s-inn-tragedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "annie haynes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gchazelton-mistress-nell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cochrane hazelton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cheavysege-advocate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles heavysege",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhelm-jane-austen-and-her-country-house-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. helm",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aheming-drama-of-the-forests": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur heming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vhemphill-down-the-mother-lode": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vivia hemphill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-my-tussle-with-the-devil-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whewitt-history-of-the-twelfth-west-virginia-volunteer-infan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hewitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afhill-john-smith-s-funny-adventures-on-a-crutch-or-the-rema": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. f. hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

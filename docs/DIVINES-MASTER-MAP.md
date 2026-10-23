@@ -46969,3 +46969,40 @@ Shelf: `pipeline/storytellers-tail-32_shelf.json` (2026-10-22; added at the coor
 | Natalie; Or, A Gem Among the Sea-Weeds | have | PG 10848, `evhallett-natalie` (726 units) |
 | Popular Rhymes and Nursery Tales A Sequel to the Nursery Rhymes of England | have | PG 35707, `johalliwellphi-popular-rhymes-and-nursery-tales-a-sequel-to` (1690 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 55965 Air Monster (copyright line 1932). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Storytellers' tail, group 33 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-33_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Sarah C. Hallowell, William H. Hamby, W. J. Hamilton, Lily Hardy Hammond, Charles Hannan, Ellison Harding, Emily Grace Harding, Alice Harriman, Karl Edwin Harriman, Augustus Harris, Richard Harris, Edward Hart, George Hartmann, Henry Hartshorne, Wells Hastings, Alice B. Haven, Munson Aldrich Havens, Maud D. Haviland, Rush C. Hawkins, Marie Hay, Augustus Allen Hayes, Annie Haynes, George Cochrane Hazelton, Charles Heavysege, W. H. Helm, Arthur Heming, Vivia Hemphill, O. Henry, William Hewitt, A. F. Hill. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| On the Church Steps | have | PG 17559, `schallowell-on-the-church-steps` (632 units) |
+| The Desert Fiddler | have | PG 25960, `whhamby-desert-fiddler` (1234 units) |
+| The Peddler Spy; or, Dutchmen and Yankees. A Tale of the Capture of Good Hope | have | PG 55772, `wjhamilton-peddler-spy` (1138 units) |
+| In the Garden of Delight | have | PG 63729, `lhhammond-in-the-garden-of-delight` (850 units) |
+| The Electric Man Being the One Act Version of the Three Act Farcical Comedy of the Same Name | have | PG 61142, `channan-electric-man-being-the-one-act-version-of-the-three` (391 units) |
+| The Woman Who Vowed (The Demetrian) | have | PG 37821, `eharding-woman-who-vowed-the-demetrian` (1221 units) |
+| A noble sacrifice | have | PG 77224, `egharding-noble-sacrifice` (420 units) |
+| A Man of Two Countries | have | PG 28070, `aharriman-man-of-two-countries` (1714 units) |
+| Ann Arbor Tales | have | PG 41816, `keharriman-ann-arbor-tales` (1989 units) |
+| If Only etc. | have | PG 15219, `aharris-if-only-etc` (1787 units) |
+| The Humourous Story of Farmer Bumpkin's Lawsuit | have | PG 30551, `rharris-humourous-story-of-farmer-bumpkin-s-lawsuit` (2934 units) |
+| The silica gel pseudomorph, and other stories | have | PG 72231, `ehart-silica-gel-pseudomorph-and-other-stories` (795 units) |
+| Tales of Aztlan; The Romance of a Hero of Our Late Spanish-American War, Incidents of Interest from the Life of a Western Pioneer and Other Tales | have | PG 4294, `ghartmann-tales-of-aztlan` (326 units) |
+| 1931: A Glance at the Twentieth Century | have | PG 31171, `hhartshorne-1931` (171 units) |
+| The Professor's Mystery | have | PG 34988, `whastings-professor-s-mystery` (1353 units) |
+| "All's not Gold that Glitters;" or, The Young Californian | have | PG 67206, `abhaven-all-s-not-gold-that-glitters` (436 units) |
+| Old valentines | have | PG 23886, `mahavens-old-valentines` (974 units) |
+| Lives of the Fur Folk | have | PG 37127, `mdhaviland-lives-of-the-fur-folk` (435 units) |
+| Better Than Men | have | PG 53423, `rchawkins-better-than-men` (263 units) |
+| A German Pompadour Being the Extraordinary History of Wilhelmine van Grävenitz, Landhofmeisterin of Wirtemberg | have | PG 25758, `mhay-german-pompadour-being-the-extraordinary-history-of-wil` (1787 units) |
+| The Denver Express From "Belgravia" for January, 1884 | have | PG 23180, `aahayes-denver-express-from-belgravia-for-january-1884` (162 units) |
+| The Crow's Inn tragedy | have | PG 75307, `ahaynes-crow-s-inn-tragedy` (2023 units) |
+| Mistress Nell: A Merry Tale of a Merry Time | have | PG 31370, `gchazelton-mistress-nell` (2151 units) |
+| The Advocate: A Novel | have | PG 31212, `cheavysege-advocate` (378 units) |
+| Jane Austen and Her Country-house Comedy | have | PG 54569, `whhelm-jane-austen-and-her-country-house-comedy` (778 units) |
+| The Drama of the Forests: Romance and Adventure | have | PG 18495, `aheming-drama-of-the-forests` (1106 units) |
+| Down the Mother Lode | have | PG 3315, `vhemphill-down-the-mother-lode` (868 units) |
+| My tussle with the devil, and other stories | have | PG 77686, `ohenry-my-tussle-with-the-devil-and-other-stories` (730 units) |
+| History of the Twelfth West Virginia Volunteer Infantry | have | PG 45233, `whewitt-history-of-the-twelfth-west-virginia-volunteer-infan` (715 units) |
+| John Smith's Funny Adventures on a Crutch Or The Remarkable Peregrinations of a One-legged Soldier after the War | have | PG 49961, `afhill-john-smith-s-funny-adventures-on-a-crutch-or-the-rema` (2128 units) |
