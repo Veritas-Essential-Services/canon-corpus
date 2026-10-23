@@ -18547,3 +18547,15 @@ Shelf: `pipeline/favell-lee-mortimer_shelf.json` (2026-10-22; added at the coord
 | The Child Who Died and Lived Again | have | PG 36614, `flmortimer-child-who-died-and-lived-again` (23 units) |
 | Christ in the Storm No. 26 | have | PG 37611, `flmortimer-christ-in-the-storm-no-26` (26 units) |
 | The Peep of Day | have | PG 53894, `flmortimer-peep-of-day` (1276 units) |
+
+## W. C. Morrow
+
+Shelf: `pipeline/w-c-morrow_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ape, the Idiot & Other People | have | PG 21616, `wcmorrow-ape-the-idiot-other-people` (1097 units) |
+| The Inmate Of The Dungeon 1894 | have | PG 23177, `wcmorrow-inmate-of-the-dungeon-1894` (99 units) |
+| Bohemian Paris of To-day Second Edition | have | PG 50495, `wcmorrow-bohemian-paris-of-to-day-second-edition` (800 units) |
+| Lentala of the South Seas: The Romantic Tale of a Lost Colony | have | PG 51915, `wcmorrow-lentala-of-the-south-seas` (2593 units) |
+| A Man: His Mark. A Romance Second Edition | have | PG 51954, `wcmorrow-man` (512 units) |
