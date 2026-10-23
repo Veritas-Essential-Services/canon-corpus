@@ -16602,3 +16602,23 @@ Shelf: `pipeline/terhune-works_shelf.json` (2026-10-22; added at the coordinator
 | The Amateur Inn | have | PG 67531, `apterhune-amateur-inn` (1388 units) |
 | The girl in the crowd | have | PG 69030, `apterhune-girl-in-the-crowd` (162 units) |
 | held-elsewhere | excluded | PG 38777: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Dorothy Canfield Fisher
+
+Shelf: `pipeline/dcfisher-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bent Twig | have | PG 11221, `dcfisher-bent-twig` (2031 units) |
+| Hillsboro People | have | PG 13091, `dcfisher-hillsboro-people` (1462 units) |
+| The Brimming Cup | have | PG 14957, `dcfisher-brimming-cup` (2352 units) |
+| The Squirrel-Cage | have | PG 23768, `dcfisher-squirrel-cage` (2349 units) |
+| What Shall We Do Now?: Five Hundred Games and Pastimes | have | PG 31186, `dcfisher-what-shall-we-do-now` (2634 units) |
+| Home Fires in France | have | PG 35616, `dcfisher-home-fires-in-france` (1090 units) |
+| Rough-Hewn | have | PG 37451, `dcfisher-rough-hewn` (2603 units) |
+| Elementary Composition | have | PG 48673, `dcfisher-elementary-composition` (1884 units) |
+| A Montessori Mother | have | PG 61045, `dcfisher-montessori-mother` (639 units) |
+| The Day of Glory | have | PG 61147, `dcfisher-day-of-glory` (461 units) |
+| Raw Material | have | PG 66258, `dcfisher-raw-material` (622 units) |
+| The home-maker | have | PG 72140, `dcfisher-home-maker` (1306 units) |
+| held-elsewhere | excluded | PG 5347: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

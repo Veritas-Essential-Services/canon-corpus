@@ -5213,6 +5213,14 @@
       "started": "2026-10-22T22:56:38-05:00",
       "finished": "2026-10-22T22:56:38-05:00",
       "notes": "terhune-works: new shelf, 13 Gutenberg books, 17,192 units, 15 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "dcfisher-works",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Dorothy Canfield Fisher; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:56:54-05:00",
+      "finished": "2026-10-22T22:56:54-05:00",
+      "notes": "dcfisher-works: new shelf, 12 Gutenberg books, 19,433 units, 394 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

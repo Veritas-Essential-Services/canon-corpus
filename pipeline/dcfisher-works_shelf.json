@@ -1,0 +1,179 @@
+{
+ "_about": "Dorothy Canfield Fisher: Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Dorothy Canfield Fisher",
+ "_name_words": [
+  "canfield",
+  "dorothy",
+  "fisher"
+ ],
+ "_surname": [
+  "dorothy canfield",
+  "canfield fisher"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dcfisher-bent-twig": [
+   11221,
+   "The Bent Twig"
+  ],
+  "dcfisher-hillsboro-people": [
+   13091,
+   "Hillsboro People"
+  ],
+  "dcfisher-brimming-cup": [
+   14957,
+   "The Brimming Cup"
+  ],
+  "dcfisher-squirrel-cage": [
+   23768,
+   "The Squirrel-Cage"
+  ],
+  "dcfisher-what-shall-we-do-now": [
+   31186,
+   "What Shall We Do Now?: Five Hundred Games and Pastimes"
+  ],
+  "dcfisher-home-fires-in-france": [
+   35616,
+   "Home Fires in France"
+  ],
+  "dcfisher-rough-hewn": [
+   37451,
+   "Rough-Hewn"
+  ],
+  "dcfisher-elementary-composition": [
+   48673,
+   "Elementary Composition"
+  ],
+  "dcfisher-montessori-mother": [
+   61045,
+   "A Montessori Mother"
+  ],
+  "dcfisher-day-of-glory": [
+   61147,
+   "The Day of Glory"
+  ],
+  "dcfisher-raw-material": [
+   66258,
+   "Raw Material"
+  ],
+  "dcfisher-home-maker": [
+   72140,
+   "The home-maker"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 5347: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "dcfisher-bent-twig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-hillsboro-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-brimming-cup": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-squirrel-cage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-what-shall-we-do-now": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-home-fires-in-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-rough-hewn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-elementary-composition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-montessori-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-day-of-glory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-raw-material": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcfisher-home-maker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothy canfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
