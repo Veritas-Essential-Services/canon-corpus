@@ -19117,6 +19117,20 @@ Slugs `zenos-*`. Built from title pages read for round 131.
 | his Xenophon school edition and the Bible dictionaries and encyclopedias he helped edit | excluded | |
 | single journal articles | excluded | |
 | other scans of the same books | excluded | |
+
+## James Strahan (round 131, my pick, 2026-10-23)
+
+Slugs `strahan-*`. Built from title pages read for round 131.
+
+| Work | Status | Where |
+|---|---|---|
+| Hebrew ideals; a study of Genesis from chap. XI. to L (Edinburgh, T. & T. Clark, 1915) | have-ocr | IA `hebrewidealsstud00stra` |
+| The captivity and the pastoral epistles (New York : Fleming H. Revell, [191) | have-ocr | IA `captivitypastora0000stra` |
+| The book of Job interpreted (Edinburgh T. & T. Clark, 1914) | have-ocr | IA `bookofjobinterpr00strauoft` |
+| Andrew Bruce Davidson (London : Hodder and Stoughton, 1917) | have-ocr | IA `andrewbrucedavid0000stra` |
+| the law books are by James Andrew Strahan, a barrister | excluded | |
+| the Maréchale and Mary Crawford Brown biographies: not certain they are by the same James Strahan | excluded | |
+| the 1902 and 1906 editions of Hebrew Ideals | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

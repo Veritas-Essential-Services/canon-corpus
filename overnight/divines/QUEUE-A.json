@@ -10747,6 +10747,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:42:09-05:00",
       "notes": "7 books, 1884-1927."
+    },
+    {
+      "id": "a-james-strahan",
+      "status": "done",
+      "scope": "round 131",
+      "added": "2026-10-23T09:42:09-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:42:09-05:00",
+      "notes": "4 books, 1910-1917."
     }
   ]
 }
