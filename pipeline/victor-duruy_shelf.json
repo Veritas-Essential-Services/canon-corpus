@@ -1,0 +1,300 @@
+{
+ "_about": "Victor Duruy (1811-1894), French historian, in the illustrated English editions edited by J. P. Mahaffy: A History of Greece and of the Greek People (1892; 4 vols. in 8 sections; the translator is not named in these scans) and History of Rome and of the Roman People (tr. W. J. Clarke and M. M. Ripley, 1883-85; 8 vols., vol. IV in two sections, of which section II is missing: see _excluded). Each section identified from its title page. His histories of France and of the world are out of lane B's scope.",
+ "_author": "Victor Duruy (1811-1894)",
+ "_name_words": [
+  "duruy",
+  "history",
+  "greece",
+  "greek",
+  "rome",
+  "roman",
+  "people"
+ ],
+ "_surname": [
+  "duruy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "duruy-greece-v1-s1": [
+   "p1historyofgre01duru",
+   "A History of Greece and of the Greek People, vol. I, section I (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-greece-v1-s2": [
+   "pt2historyofgre01duruuoft",
+   "A History of Greece and of the Greek People, vol. I, section II (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-greece-v2-s1": [
+   "p1historyofgree02duru",
+   "A History of Greece and of the Greek People, vol. II, section I (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-greece-v2-s2": [
+   "p2historyofgre02duru",
+   "A History of Greece and of the Greek People, vol. II, section II (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-greece-v3-s1": [
+   "p1historyofgree03duru",
+   "A History of Greece and of the Greek People, vol. III, section I (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-greece-v3-s2": [
+   "historyofgreece32duru",
+   "A History of Greece and of the Greek People, vol. III, section II (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-greece-v4-s1": [
+   "historyofgreece04duruuoft",
+   "A History of Greece and of the Greek People, vol. IV, section I (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-greece-v4-s2": [
+   "02historyofgree04duru",
+   "A History of Greece and of the Greek People, vol. IV, section II (Boston, 1892), ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v1": [
+   "historyofromeofr01duru",
+   "History of Rome and of the Roman People, vol. I (Boston, 1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v2": [
+   "historyofromeofr02duru",
+   "History of Rome and of the Roman People, vol. II (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v3": [
+   "historyofromeofr03duru",
+   "History of Rome and of the Roman People, vol. III (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v4-s1": [
+   "p1historyofromeo04duru",
+   "History of Rome and of the Roman People, vol. IV, section I (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v5": [
+   "historyofromeofr05duru",
+   "History of Rome and of the Roman People, vol. V (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v6": [
+   "historyofromeofr06duru",
+   "History of Rome and of the Roman People, vol. VI (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v7": [
+   "historyofromeofr07duru",
+   "History of Rome and of the Roman People, vol. VII (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ],
+  "duruy-rome-v8": [
+   "historyofromeofr08duru",
+   "History of Rome and of the Roman People, vol. VIII (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy"
+  ]
+ },
+ "_excluded": {
+  "History of Rome vol. IV, section II (Boston, 1883)": "the only scan, p2historyofromeo04duru, has no text layer (2026-10-23); the Kelly & Co. London edition (e.g. historyofromeofr42duru) divides the volumes differently, so its part cannot stand in. A labelled gap.",
+  "Histories of France and of the world": "out of lane B's scope"
+ },
+ "_translators": {
+  "duruy-rome-v1": "M. M. Ripley",
+  "duruy-rome-v2": "M. M. Ripley",
+  "duruy-rome-v3": "M. M. Ripley",
+  "duruy-rome-v4-s1": "M. M. Ripley",
+  "duruy-rome-v5": "M. M. Ripley",
+  "duruy-rome-v6": "M. M. Ripley",
+  "duruy-rome-v7": "M. M. Ripley",
+  "duruy-rome-v8": "M. M. Ripley"
+ },
+ "_checks": {
+  "duruy-greece-v1-s1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-greece-v1-s2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-greece-v2-s1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-greece-v2-s2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-greece-v3-s1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-greece-v3-s2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-greece-v4-s1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-greece-v4-s2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-rome-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-rome-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-rome-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-rome-v4-s1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duruy-rome-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-rome-v6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-rome-v7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duruy-rome-v8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duruy",
+   "translator_claimed": "M. M. Ripley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "duruy-rome-v3": {
+   "author": "title page read: 'History of Rome, and of the Roman People ... By Victor Duruy ... translated by M. M. Ripley and W. J. Clarke, edited by J. P. Mahaffy', Boston, Jewett, volume III; the OCR reads the surname as 'pURUY'"
+  },
+  "duruy-rome-v6": {
+   "author": "title page read: 'History of Rome, and of the Roman People ... By Victor Duruy ... translated by M. M. Ripley and W. J. Clarke, edited by J. P. Mahaffy', Boston, Jewett, volume VI; the OCR reads the surname as 'pURUY'"
+  }
+ }
+}

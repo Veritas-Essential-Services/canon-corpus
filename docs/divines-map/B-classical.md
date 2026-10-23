@@ -9030,3 +9030,29 @@ Shelf: `pipeline/edward-capps_shelf.json`. Greek literature manual and the Greek
 
 Excluded: fromhomertotheo00cappgoog (IA) (fetch failed 2026-10-23; the 1900 printing homertotheocritu00capprich used instead)
 
+
+## Victor Duruy (1811-1894)
+
+Shelf: `pipeline/victor-duruy_shelf.json`. Mahaffy's English editions: History of Greece complete (8 sections, 1892) and History of Rome (1883), vol. IV section II missing (no text layer). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Greece and of the Greek People, vol. I, section I (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v1-s1` | have-raw (IA `p1historyofgre01duru`) |
+| A History of Greece and of the Greek People, vol. I, section II (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v1-s2` | have-raw (IA `pt2historyofgre01duruuoft`) |
+| A History of Greece and of the Greek People, vol. II, section I (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v2-s1` | have-raw (IA `p1historyofgree02duru`) |
+| A History of Greece and of the Greek People, vol. II, section II (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v2-s2` | have-raw (IA `p2historyofgre02duru`) |
+| A History of Greece and of the Greek People, vol. III, section I (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v3-s1` | have-raw (IA `p1historyofgree03duru`) |
+| A History of Greece and of the Greek People, vol. III, section II (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v3-s2` | have-raw (IA `historyofgreece32duru`) |
+| A History of Greece and of the Greek People, vol. IV, section I (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v4-s1` | have-raw (IA `historyofgreece04duruuoft`) |
+| A History of Greece and of the Greek People, vol. IV, section II (Boston, 1892), ed. J. P. Mahaffy |  | `duruy-greece-v4-s2` | have-raw (IA `02historyofgree04duru`) |
+| History of Rome and of the Roman People, vol. I (Boston, 1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v1` | have-raw (IA `historyofromeofr01duru`) |
+| History of Rome and of the Roman People, vol. II (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v2` | have-raw (IA `historyofromeofr02duru`) |
+| History of Rome and of the Roman People, vol. III (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v3` | have-raw (IA `historyofromeofr03duru`) |
+| History of Rome and of the Roman People, vol. IV, section I (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v4-s1` | have-raw (IA `p1historyofromeo04duru`) |
+| History of Rome and of the Roman People, vol. V (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v5` | have-raw (IA `historyofromeofr05duru`) |
+| History of Rome and of the Roman People, vol. VI (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v6` | have-raw (IA `historyofromeofr06duru`) |
+| History of Rome and of the Roman People, vol. VII (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v7` | have-raw (IA `historyofromeofr07duru`) |
+| History of Rome and of the Roman People, vol. VIII (1883), tr. W. J. Clarke and M. M. Ripley, ed. J. P. Mahaffy |  | `duruy-rome-v8` | have-raw (IA `historyofromeofr08duru`) |
+
+Excluded: History of Rome vol. IV, section II (Boston, 1883) (the only scan, p2historyofromeo04duru, has no text layer (2026-10-23); the Kelly & Co. London edition (e.g. historyofromeofr42duru) divides the volumes differently, so its part cannot stand in. A labelled gap.); Histories of France and of the world (out of lane B's scope)
+
