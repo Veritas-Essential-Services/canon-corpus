@@ -15006,3 +15006,25 @@ Shelf: `pipeline/harold-bell-wright_shelf.json` (2026-10-22; added at the coordi
 | The Uncrowned King | have | PG 12991, `hbwright-uncrowned-king` (257 units) |
 | When a man's a man | have | PG 14367, `hbwright-when-a-mans-a-man` (2050 units) |
 | The Mine with the Iron Door | have | PG 65995, `hbwright-mine-with-the-iron-door` (2143 units) |
+
+## Edgar Saltus
+
+Shelf: `pipeline/edgar-saltus_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Imperial Purple | have | PG 4250, `esaltus-imperial-purple` (253 units) |
+| The Paliser case | have | PG 29847, `esaltus-paliser-case` (2623 units) |
+| Mary Magdalen: A Chronicle | have | PG 31510, `esaltus-mary-magdalen` (756 units) |
+| The Lords of the Ghostland: A History of the Ideal | have | PG 31608, `esaltus-lords-of-the-ghostland` (401 units) |
+| Eden: An Episode | have | PG 31924, `esaltus-eden` (907 units) |
+| Historia Amoris: A History of Love, Ancient and Modern | have | PG 32512, `esaltus-historia-amoris` (1086 units) |
+| Oscar Wilde: An Idler's Impression | have | PG 32849, `esaltus-oscar-wilde` (55 units) |
+| The Truth About Tristrem Varick: A Novel | have | PG 33099, `esaltus-truth-about-tristrem-varick` (666 units) |
+| A Transient Guest, and Other Episodes | have | PG 33123, `esaltus-transient-guest-and-other-episodes` (464 units) |
+| The Perfume of Eros: A Fifth Avenue Incident | have | PG 33207, `esaltus-perfume-of-eros` (1270 units) |
+| The Pace That Kills: A Chronicle | have | PG 34401, `esaltus-pace-that-kills` (633 units) |
+| The Philosophy of Disenchantment | have | PG 40079, `esaltus-philosophy-of-disenchantment` (772 units) |
+| Balzac | have | PG 46859, `esaltus-balzac` (1641 units) |
+| Mr. Incoul's Misadventure | have | PG 47061, `esaltus-mr-incouls-misadventure` (712 units) |
+| The Monster | have | PG 47654, `esaltus-monster` (1606 units) |
