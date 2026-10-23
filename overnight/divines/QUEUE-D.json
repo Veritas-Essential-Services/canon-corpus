@@ -5381,6 +5381,14 @@
       "started": "2026-10-22T23:04:37-05:00",
       "finished": "2026-10-22T23:04:37-05:00",
       "notes": "arthur-hornblow: new shelf, 8 Gutenberg books, 16,533 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-colton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur Colton; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:04:53-05:00",
+      "finished": "2026-10-22T23:04:53-05:00",
+      "notes": "arthur-colton: new shelf, 7 Gutenberg books, 8,429 units, 134 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

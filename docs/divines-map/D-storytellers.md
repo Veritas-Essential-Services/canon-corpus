@@ -17047,3 +17047,18 @@ Shelf: `pipeline/arthur-hornblow_shelf.json` (2026-10-22; added at the coordinat
 | The Third Degree: A Narrative of Metropolitan Life | have | PG 28505, `ahornblow-third-degree` (2322 units) |
 | By Right of Conquest: A Novel | have | PG 33187, `ahornblow-by-right-of-conquest` (1424 units) |
 | John Marsh's Millions | have | PG 33192, `ahornblow-john-marshs-millions` (2154 units) |
+
+## Arthur Colton
+
+Shelf: `pipeline/arthur-colton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Belted Seas | have | PG 6862, `acolton-belted-seas` (934 units) |
+| "The Debatable Land": A Novel | have | PG 41963, `acolton-the-debatable-land` (1530 units) |
+| Port Argent: A Novel | have | PG 50269, `acolton-port-argent` (1354 units) |
+| The Delectable Mountains | have | PG 50270, `acolton-delectable-mountains` (1001 units) |
+| Tioba, and Other Tales | have | PG 50271, `acolton-tioba-and-other-tales` (926 units) |
+| The Cruise of The Violetta | have | PG 50272, `acolton-cruise-of-the-violetta` (1240 units) |
+| Harps Hung up in Babylon | have | PG 52456, `acolton-harps-hung-up-in-babylon` (1444 units) |
+| pg-57478 | excluded | PG 57478: Gutenberg's index of the author's works, not a book. |
