@@ -14909,3 +14909,23 @@ Shelf: `pipeline/natalie-sumner-lincoln_shelf.json` (2026-10-22; added at the co
 | The official chaperon | have | PG 69388, `nslincoln-official-chaperon` (2363 units) |
 | The three strings | have | PG 73597, `nslincoln-three-strings` (1869 units) |
 | The moving finger | have | PG 74210, `nslincoln-moving-finger` (1867 units) |
+
+## Basil King
+
+Shelf: `pipeline/basil-king_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Conquest of Fear | have | PG 9944, `bking-conquest-of-fear` (601 units) |
+| The Wild Olive: A Novel | have | PG 13212, `bking-wild-olive` (2141 units) |
+| The Inner Shrine | have | PG 14393, `bking-inner-shrine` (2260 units) |
+| The Street Called Straight | have | PG 14394, `bking-street-called-straight` (2578 units) |
+| The Letter of the Contract | have | PG 20443, `bking-letter-of-the-contract` (993 units) |
+| The Dust Flower | have | PG 28590, `bking-dust-flower` (2480 units) |
+| The Side Of The Angels: A Novel | have | PG 30301, `bking-side-of-the-angels` (2807 units) |
+| The High Heart | have | PG 35463, `bking-high-heart` (3240 units) |
+| The Empty Sack | have | PG 37412, `bking-empty-sack` (2740 units) |
+| The Thread of Flame | have | PG 45898, `bking-thread-of-flame` (2174 units) |
+| Going West | have | PG 60395, `bking-going-west` (216 units) |
+| The Happy Isles | have | PG 61344, `bking-happy-isles` (2960 units) |
+| The City of Comrades | have | PG 64255, `bking-city-of-comrades` (3125 units) |

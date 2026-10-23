@@ -1952,3 +1952,6 @@
 
 ## 2026-10-22 22:33 CDT — natalie-sumner-lincoln: done
 - natalie-sumner-lincoln: new shelf, 13 Gutenberg books, 24,264 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:33 CDT — basil-king: done
+- basil-king: new shelf, 13 Gutenberg books, 28,315 units, 1064 ~2 ids; verify 0 mismatches, 0 rights flags.
