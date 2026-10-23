@@ -1564,3 +1564,9 @@
 A fetch fix came out of the gate: Digital Library of India items keep the uploader's text file name, so the fetcher's default URL is a 404. Two Cornford rows failed for that reason; 24 such rows on 21 shelves now name their file, read from IA metadata.
 
 Refused: Tucker's Thucydides VIII, Capes's Achaean League, Bury's Isthmian Odes and the Mahaffy-Bury Hippolytus, because every scan OCRs the English as Greek letters (revisit after the Greek re-OCR).
+
+## 2026-10-23 — Round dx: more scholar shelves filled; Frazer's Pausanias complete
+
+49 volumes, all gated (fetch, verify, record). Gilbert Murray +11 (his Andromache from Gutenberg, the Frogs, Hamlet and Orestes, The Stoic Philosophy, Religio Grammatici, Aristophanes and the War Party, The Classical Tradition in Poetry and others). Jane Harrison +7, including Themis (1912) and Epilegomena (1921). Robinson Ellis +7, Postgate +6, Merry +4, Ridgeway +2, Freeman +2, Wells's Studies in Herodotus. Frazer's Pausanias was held only in vol. I; the five volumes of commentary, indices and maps (1898) are now on the pausanias shelf. New shelves for J. U. Powell (New Chapters in the History of Greek Literature, 1921 and 1929) and T. W. Allen (1889, 1921).
+
+Where the only scan of a 1927 book was a 1930 impression (Murray's Classical Tradition), the dated 1927 issue was found and used instead. Refused: Ridgeway's posthumous Early Age of Greece vol. II (1931), five volumes whose English OCRs as Greek letters, and Latin-only recensions.

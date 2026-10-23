@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T07:36:26-05:00",
- "note": "Rounds cq-dw done 2026-10-23.",
- "resume_point": "Round dx: audit more existing scholar shelves for missing works (e-a-freeman, j-b-mayor, robinson-ellis, postgate, munro, gilbert-murray, w-y-sellar, a-j-church, w-w-merry, how-wells), then look for Victorian scholars with no shelf (Arthur Platt, Jane Harrison, A. W. Mair, J. U. Powell, T. W. Allen, William Ridgeway, Frazer's Pausanias). Check every title against all branches (tools/heldia.py, unheld.py, a title grep, then dupetitles.py) and read every title page and imprint before writing the row title."
+ "heartbeat": "2026-10-23T07:59:32-05:00",
+ "note": "Rounds cq-dx done 2026-10-23.",
+ "resume_point": "Round dy: audit the remaining long-held scholar shelves for missing works (jebb, verrall, mahaffy, sandys, lewis-campbell, butcher, leaf, monro, burnet, adam, conington, nettleship, tyrrell, sayce, ramsay, rostovtzeff, bury) with tools/audit.py 'creator:(...)' --rebuild, then read each candidate's title page. Then a fifth IA subject sweep (subject:(classical philology) / (Greek literature -- history and criticism) / (Latin literature -- history and criticism), pre-1930, English). Check every title against all branches and run dupetitles.py before the ledger."
 }
