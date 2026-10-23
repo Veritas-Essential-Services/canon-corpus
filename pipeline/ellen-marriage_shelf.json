@@ -82,7 +82,40 @@
    "The Jealousies of a Country Town"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ell-dent-country-parson": [
+   "comdiehumainee08balzuoft",
+   "The Country Parson"
+  ],
+  "ell-dent-eugenie-grandet": [
+   "comdiehumainee13balzuoft",
+   "Eugénie Grandet"
+  ],
+  "ell-dent-gondreville-mystery": [
+   "comdiehumainee15balzuoft",
+   "The Gondreville Mystery"
+  ],
+  "ell-dent-peasantry": [
+   "comdiehumainee28balzuoft",
+   "The Peasantry"
+  ],
+  "ell-dent-princess-secrets": [
+   "comdiehumainee30balzuoft",
+   "A Princess's Secrets"
+  ],
+  "ell-dent-cesar-birotteau": [
+   "comdiehumainee32balzuoft",
+   "The Rise and Fall of César Birotteau"
+  ],
+  "ell-dent-unconscious-mummers": [
+   "comdiehumainee36balzuoft",
+   "The Unconscious Mummers"
+  ],
+  "ell-dent-unknown-masterpiece": [
+   "comdiehumainee37balzuoft",
+   "The Unknown Masterpiece"
+  ]
+ },
  "titles": {
   "ellen-marriage-balzac-the-message": {
    "source": "ell-1189",
@@ -227,6 +260,72 @@
    "translated": "1895-1900 (Dent, ed. George Saintsbury)",
    "translator": "Ellen Marriage",
    "scan_edition": "Project Gutenberg 7950 (clean text)"
+  },
+  "ellen-marriage-balzac-dent-country-parson": {
+   "source": "ell-dent-country-parson",
+   "of": "Honoré de Balzac",
+   "work": "The Country Parson (Le Curé de village)",
+   "translated": 1896,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "ellen-marriage-balzac-dent-eugenie-grandet": {
+   "source": "ell-dent-eugenie-grandet",
+   "of": "Honoré de Balzac",
+   "work": "Eugénie Grandet",
+   "translated": 1895,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1895 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "ellen-marriage-balzac-dent-gondreville-mystery": {
+   "source": "ell-dent-gondreville-mystery",
+   "of": "Honoré de Balzac",
+   "work": "The Gondreville Mystery (Une Ténébreuse affaire; An Episode under the Terror)",
+   "translated": 1898,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "ellen-marriage-balzac-dent-peasantry": {
+   "source": "ell-dent-peasantry",
+   "of": "Honoré de Balzac",
+   "work": "The Peasantry (Les Paysans)",
+   "translated": 1896,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "ellen-marriage-balzac-dent-princess-secrets": {
+   "source": "ell-dent-princess-secrets",
+   "of": "Honoré de Balzac",
+   "work": "A Princess's Secrets (Les Secrets de la Princesse de Cadignan) and other stories",
+   "translated": 1898,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "ellen-marriage-balzac-dent-cesar-birotteau": {
+   "source": "ell-dent-cesar-birotteau",
+   "of": "Honoré de Balzac",
+   "work": "The Rise and Fall of César Birotteau",
+   "translated": 1896,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "ellen-marriage-balzac-dent-unconscious-mummers": {
+   "source": "ell-dent-unconscious-mummers",
+   "of": "Honoré de Balzac",
+   "work": "The Unconscious Mummers (Les Comédiens sans le savoir) and other stories",
+   "translated": 1897,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1897 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)",
+   "note": "Some shorter pieces in this volume (The Firm of Nucingen, A Prince of Bohemia, A Man of Business, Facino Cane) are also shelved singly from Gutenberg in the same Dent text; the title piece is new here."
+  },
+  "ellen-marriage-balzac-dent-unknown-masterpiece": {
+   "source": "ell-dent-unknown-masterpiece",
+   "of": "Honoré de Balzac",
+   "work": "The Unknown Masterpiece (Le Chef-d'oeuvre inconnu) and other stories",
+   "translated": 1896,
+   "translator": "Ellen Marriage",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)",
+   "note": "A few of the shorter pieces (Melmoth Reconciled, Farewell, The Elixir of Life) are also shelved singly from Gutenberg in the same Dent text; the title piece and the rest are new here."
   }
  },
  "_pending": {
@@ -241,7 +340,7 @@
  "_checks": {
   "ell-1189": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -250,7 +349,7 @@
   },
   "ell-1237": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -259,7 +358,7 @@
   },
   "ell-1277": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -268,7 +367,7 @@
   },
   "ell-1307": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -277,7 +376,7 @@
   },
   "ell-1389": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -286,7 +385,7 @@
   },
   "ell-1405": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -295,7 +394,7 @@
   },
   "ell-1428": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -304,7 +403,7 @@
   },
   "ell-1443": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -313,7 +412,7 @@
   },
   "ell-1559": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -322,7 +421,7 @@
   },
   "ell-1639": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -331,7 +430,7 @@
   },
   "ell-1659": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -340,7 +439,7 @@
   },
   "ell-1729": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -349,7 +448,7 @@
   },
   "ell-1856": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -358,7 +457,7 @@
   },
   "ell-1898": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -367,7 +466,7 @@
   },
   "ell-1950": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -376,7 +475,7 @@
   },
   "ell-469": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -385,7 +484,7 @@
   },
   "ell-5873": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
@@ -394,12 +493,100 @@
   },
   "ell-7950": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen marriage",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ellen Marriage; Katharine Prescott Wormeley"
+  },
+  "ell-dent-country-parson": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ell-dent-eugenie-grandet": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ell-dent-gondreville-mystery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ell-dent-peasantry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ell-dent-princess-secrets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ell-dent-cesar-birotteau": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "[1897]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ell-dent-unconscious-mummers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "[1897]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ell-dent-unknown-masterpiece": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen marriage",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "[1897]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -492,6 +679,121 @@
    "pg": 7950,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ellen Marriage"
+  },
+  "ell-dent-country-parson": {
+   "ia": "comdiehumainee08balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1796,
+    1837,
+    1838,
+    1839,
+    1841,
+    1845
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "ell-dent-eugenie-grandet": {
+   "ia": "comdiehumainee13balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1789,
+    1833,
+    1839,
+    1843
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1895"
+  },
+  "ell-dent-gondreville-mystery": {
+   "ia": "comdiehumainee15balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1793,
+    1803,
+    1841,
+    1843,
+    1898
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  },
+  "ell-dent-peasantry": {
+   "ia": "comdiehumainee28balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1823,
+    1830,
+    1844,
+    1855,
+    1923
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "1923 is in Balzac's text (the Nathans and the Blondets of 1923), not an imprint; the imprint is Dent, MDCCCXCVI (1896)"
+  },
+  "ell-dent-princess-secrets": {
+   "ia": "comdiehumainee30balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1830,
+    1832,
+    1836,
+    1838,
+    1839,
+    1844
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  },
+  "ell-dent-cesar-birotteau": {
+   "ia": "comdiehumainee32balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1837,
+    1838,
+    1839,
+    1844
+   ],
+   "post_1930_years_in_front_15k": [
+    1967
+   ],
+   "post_1930_examined": "1967 is a library date stamp (APR 18 1967); the imprint is Dent, MDCCCXCVI (1896)"
+  },
+  "ell-dent-unconscious-mummers": {
+   "ia": "comdiehumainee36balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1836,
+    1838,
+    1840,
+    1843,
+    1844,
+    1845,
+    1846,
+    1847,
+    1848
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1897"
+  },
+  "ell-dent-unknown-masterpiece": {
+   "ia": "comdiehumainee37balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1612,
+    1830,
+    1831,
+    1832,
+    1833,
+    1835,
+    1837,
+    1843,
+    1845
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -20729,7 +20729,7 @@ Round 17 (2026-10-10), vetoable. Round 116 (2026-10-17) added Chernyshevsky's A 
 ## Ellen Marriage (Balzac, Dent's Comédie Humaine, 1895-99)
 
 Shelf: `pipeline/ellen-marriage_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ellen-marriage` · titles `python3 pipeline/split_shelf_titles.py ellen-marriage`.
-Round 18 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 18 (2026-10-10), vetoable. Round 138 (2026-10-23) added eight Dent Comédie humaine volumes from the Toronto archive.org set. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20751,6 +20751,14 @@ Round 18 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `ellen-marriage-balzac-the-duchesse-of-langeais` | Honoré de Balzac | The Duchesse of Langeais | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 469 |
 | `ellen-marriage-balzac-farewell` | Honoré de Balzac | Farewell | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 5873 |
 | `ellen-marriage-balzac-the-jealousies-of-a-country-town` | Honoré de Balzac | The Jealousies of a Country Town | Ellen Marriage | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 7950 |
+| `ellen-marriage-balzac-dent-country-parson` | Honoré de Balzac | The Country Parson (Le Curé de village) | Ellen Marriage | 1896 | have-raw | IA `comdiehumainee08balzuoft` |
+| `ellen-marriage-balzac-dent-eugenie-grandet` | Honoré de Balzac | Eugénie Grandet | Ellen Marriage | 1895 | have-raw | IA `comdiehumainee13balzuoft` |
+| `ellen-marriage-balzac-dent-gondreville-mystery` | Honoré de Balzac | The Gondreville Mystery (Une Ténébreuse affaire; An Episode under the Terror) | Ellen Marriage | 1898 | have-raw | IA `comdiehumainee15balzuoft` |
+| `ellen-marriage-balzac-dent-peasantry` | Honoré de Balzac | The Peasantry (Les Paysans) | Ellen Marriage | 1896 | have-raw | IA `comdiehumainee28balzuoft` |
+| `ellen-marriage-balzac-dent-princess-secrets` | Honoré de Balzac | A Princess's Secrets (Les Secrets de la Princesse de Cadignan) and other stories | Ellen Marriage | 1898 | have-raw | IA `comdiehumainee30balzuoft` |
+| `ellen-marriage-balzac-dent-cesar-birotteau` | Honoré de Balzac | The Rise and Fall of César Birotteau | Ellen Marriage | 1896 | have-raw | IA `comdiehumainee32balzuoft` |
+| `ellen-marriage-balzac-dent-unconscious-mummers` | Honoré de Balzac | The Unconscious Mummers (Les Comédiens sans le savoir) and other stories | Ellen Marriage | 1897 | have-raw | IA `comdiehumainee36balzuoft` |
+| `ellen-marriage-balzac-dent-unknown-masterpiece` | Honoré de Balzac | The Unknown Masterpiece (Le Chef-d'oeuvre inconnu) and other stories | Ellen Marriage | 1896 | have-raw | IA `comdiehumainee37balzuoft` |
 | — | — | pg-7416: The Thirteen collects Ferragus, The Duchesse de Langeais and The Girl with the Golden Eyes; the last two are shelved singly. | — | — | excluded | — |
 | — | — | pg-13159: Lost Illusions collects Two Poets, A Distinguished Provincial at Paris and Eve and David, all shelved singly. | — | — | excluded | — |
 | — | — | pg-12900: Poor Relations is the series title over Cousin Pons and Cousin Betty; Cousin Pons is shelved singly and Cousin Betty is Waring's (adler_shelf.json). | — | — | excluded | — |
@@ -20758,7 +20766,7 @@ Round 18 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Clara Bell (Ebers, Eckstein, Hillern, Jókai and other German/Hungarian novels; Balzac)
 
 Shelf: `pipeline/clara-bell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py clara-bell` · titles `python3 pipeline/split_shelf_titles.py clara-bell`.
-Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-files. Round 129 added fifteen archive.org books Gutenberg lacks (Galdós x2, Loti x3, Auerbach, Ebers, Meyer, Moltke, Spitta x3, Jæger, Firenzuola, Martin). Not converted to unit-id JSON; **no uids minted**.
+Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-files. Round 129 added fifteen archive.org books Gutenberg lacks (Galdós x2, Loti x3, Auerbach, Ebers, Meyer, Moltke, Spitta x3, Jæger, Firenzuola, Martin). Round 138 (2026-10-23) added seven Dent Comédie humaine volumes from the Toronto archive.org set. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20823,6 +20831,13 @@ Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-file
 | `clara-bell-spitta-johann-sebastian-bach-vol-1` | Philipp Spitta | Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 1 of 3 | Clara Bell and J. A. Fuller Maitland | 1884 | have-raw | IA `johannsebastianb01spituoft` |
 | `clara-bell-spitta-johann-sebastian-bach-vol-2` | Philipp Spitta | Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 2 of 3 | Clara Bell and J. A. Fuller Maitland | 1884 | have-raw | IA `johannsebastianb02spituoft` |
 | `clara-bell-spitta-johann-sebastian-bach-vol-3` | Philipp Spitta | Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 3 of 3 | Clara Bell and J. A. Fuller Maitland | 1884 | have-raw | IA `johannsebastianb03spituoft` |
+| `clara-bell-balzac-dent-bachelors-establishment` | Honoré de Balzac | A Bachelor's Establishment (Un Ménage de garçon) | Clara Bell | 1896 | have-raw | IA `comdiehumainee04balzuoft` |
+| `clara-bell-balzac-dent-marriage-settlement` | Honoré de Balzac | A Marriage Settlement (Le Contrat de mariage) and other stories | Clara Bell | 1897 | have-raw | IA `comdiehumainee22balzuoft` |
+| `clara-bell-balzac-dent-member-for-arcis` | Honoré de Balzac | The Member for Arcis (Le Député d'Arcis) | Clara Bell | 1898 | have-raw | IA `comdiehumainee23balzuoft` |
+| `clara-bell-balzac-dent-middle-classes` | Honoré de Balzac | The Middle Classes (Les Petits Bourgeois) | Clara Bell | 1898 | have-raw | IA `comdiehumainee24balzuoft` |
+| `clara-bell-balzac-dent-modeste-mignon` | Honoré de Balzac | Modeste Mignon | Clara Bell | 1896 | have-raw | IA `comdiehumainee25balzuoft` |
+| `clara-bell-balzac-dent-pierrette` | Honoré de Balzac | Pierrette and The Abbé Birotteau (Le Curé de Tours) | Clara Bell | 1896 | have-raw | IA `comdiehumainee29balzuoft` |
+| `clara-bell-balzac-dent-ursule-mirouet` | Honoré de Balzac | Ursule Mirouët | Clara Bell | 1895 | have-raw | IA `comdiehumainee38balzuoft` |
 | — | — | ebers-volume-splits: Gutenberg's per-volume splits of Uarda, The Sisters, The Emperor, Homo Sum, Serapis, The Bride of the Nile, A Thorny Path and Margery are left out; the complete texts (5449, 5466, 5493, 5499, 5507, 5529, 5542, 5560) are used. | — | — | excluded | — |
 | — | — | pg-7958: The Napoleon of the People is an extract from The Country Doctor (1350), shelved whole. | — | — | excluded | — |
 | — | — | two-volume-novels: Leon Roch (48752, 49272) and Quintus Claudius (47221, 47222) have no complete Gutenberg text; each Gutenberg volume is shelved as its own title. | — | — | excluded | — |
@@ -20830,7 +20845,7 @@ Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-file
 ## James Waring (Balzac, Dent)
 
 Shelf: `pipeline/waring_shelf.json` · fetch `python3 pipeline/fetch_shelf.py waring` · titles `python3 pipeline/split_shelf_titles.py waring`.
-Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. Round 138 (2026-10-23) added three Dent Comédie humaine volumes from the Toronto archive.org set. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20838,6 +20853,9 @@ Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. N
 | `waring-balzac-scenes-from-a-courtesans-life` | Honoré de Balzac | Scenes from a Courtesan's Life | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1660 |
 | `waring-balzac-the-muse-of-the-department` | Honoré de Balzac | The Muse of the Department | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | have | PG 1912 |
 | `waring-balzac-cousin-betty` | Honoré de Balzac | Cousin Betty | James Waring | 1895-1900 (Dent, ed. George Saintsbury) | held elsewhere (cross-ref) | `pipeline/adler_shelf.json` → `balzac-cousinbette` (PG 1749) |
+| `waring-balzac-dent-beatrix` | Honoré de Balzac | Béatrix | James Waring | 1896 | have-raw | IA `comdiehumainee05balzuoft` |
+| `waring-balzac-dent-fathers-curse` | Honoré de Balzac | A Father's Curse and Other Stories | James Waring | 1898 | have-raw | IA `comdiehumainee14balzuoft` |
+| `waring-balzac-dent-parisians-in-the-country` | Honoré de Balzac | Parisians in the Country (Les Parisiens en province: The Illustrious Gaudissart; The Muse of the Department) | James Waring | 1898 | have-raw | IA `comdiehumainee27balzuoft` |
 | — | — | pg-7929: Parisians in the Country is the series title over The Illustrious Gaudissart and The Muse of the Department; Waring's Muse is shelved singly and Gaudissart is Wormeley's (wormeley_shelf.json). | — | — | excluded | — |
 
 ## Alexander Teixeira de Mattos (Fabre, Maeterlinck, Couperus, Leblanc, Chateaubriand)
@@ -21164,7 +21182,7 @@ Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## R. Nisbet Bain's fiction (Jókai, Jonas Lie, Gorky)
 
 Shelf: `pipeline/bain-jokai_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bain-jokai` · titles `python3 pipeline/split_shelf_titles.py bain-jokai`.
-Round 21 (2026-10-10), vetoable. His folk-tale books are on lane D's bain_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+Round 21 (2026-10-10), vetoable. His folk-tale books are on lane D's bain_shelf.json. Round 138 (2026-10-23) added Bain's two Tolstoi collections from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21180,6 +21198,8 @@ Round 21 (2026-10-10), vetoable. His folk-tale books are on lane D's bain_shelf.
 | `bain-jokai-jokai-the-poor-plutocrats` | Mór Jókai | The Poor Plutocrats | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 18705 |
 | `bain-jokai-jokai-the-slaves-of-the-padishah` | Mór Jókai | The Slaves of the Padishah | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 39048 |
 | `bain-jokai-lie-weird-tales-from-northern-seas` | Jonas Lie | Weird Tales from Northern Seas | R. Nisbet Bain | 1893-1904 (see the Gutenberg header) | have | PG 13508 |
+| `bain-jokai-tolstoy-tales-from-tolstoi` | Leo Tolstoy | Tales from Tolstoi | R. Nisbet Bain | 1901 | have-raw | IA `cu31924027448640` |
+| `bain-jokai-tolstoy-more-tales-from-tolstoi` | Leo Tolstoy | More Tales from Tolstoi | R. Nisbet Bain | 1903 | have-raw | IA `moretalesfromtol00tolsrich` |
 | — | — | folk-tales: Cossack Fairy Tales (29672), Polevoi's Russian Fairy Tales (34705) and Kúnos's Turkish Fairy Tales (64807) are on bain_shelf.json (lane D). | — | — | excluded | — |
 
 ## Mary J. Safford (Ebers, Felix Dahn, Mühlbach, Nordau)
@@ -25784,7 +25804,7 @@ Round 47 (2026-10-10), vetoable. Round 112 (2026-10-17) added Wadsworth's Čapek
 ## One-off translations: fiction, plays and verse from the first stretch of the list (Mühlbach, Pushkin, Blavatsky's Grand Inquisitor, Sienkiewicz, Hamsun, Ibsen's early plays, Dante's Banquet, the Pembroke Antonius)
 
 Shelf: `pipeline/singles-fiction-4_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-4` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-4`.
-Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 48 (2026-10-10), vetoable. Round 138 (2026-10-23) added R. S. Scott's Dent Balzac volume from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -25887,6 +25907,7 @@ Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-fiction-4-zola-a-love-episode` | Émile Zola | A Love Episode | C. C. Starkweather | (see the Gutenberg header) | have | PG 13695 |
 | `singles-fiction-4-zola-the-dream` | Émile Zola | The Dream | Eliza E. Chase | (see the Gutenberg header) | have | PG 9499 |
 | `singles-fiction-4-zschokke-the-broken-cup` | Heinrich Zschokke | The Broken Cup | Parke Godwin | (see the Gutenberg header) | have | PG 23062 |
+| `singles-fiction-4-balzac-dent-daughter-of-eve-letters-of-two-brides` | Honoré de Balzac | A Daughter of Eve (Une Fille d'Ève) and Letters of Two Brides (Mémoires de deux jeunes mariées) | R. S. Scott | 1897 | have-raw | IA `comdiehumainee11balzuoft` |
 | — | — | orgegan-28277: Mickiewicz's My First Battle: the translation was made for Project Gutenberg in 2009 and is not public domain. | — | — | excluded | — |
 | — | — | poulsson-26348: Aanrud's Lisbeth Longfrock (tr. Laura E. Poulsson): left for Lane D's poulsson shelf, which covers both Poulsson sisters. | — | — | excluded | — |
 | — | — | may-25729: Karl May's Travel Tales in the Promised Land (tr. Schoonover): the Gutenberg header marks it a COPYRIGHTED Project Gutenberg eBook, and the rights gate refuses it. | — | — | excluded | — |

@@ -350,3 +350,5 @@
 - 2026-10-22T23:58-05:00: Round 136 (2026-10-23): 14 titles, Ludovici x3 and Thomas Roscoe x11 from archive.org. 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-23T00:05-05:00: Round 137 (2026-10-23): 16 titles, Clements Markham x16 (Hakluyt Society) from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:22-05:00: Round 138 (2026-10-23): 21 titles, Dent Balzac x19 (Marriage 8, Bell 7, Waring 3, R. S. Scott 1) and Bain Tolstoi x2 from archive.org. 0 mismatched, 0 rights flags, no uids.

@@ -4064,6 +4064,14 @@
    "finished": "2026-10-23T00:05-05:00",
    "scope": "Clements Markham Hakluyt translations on archive.org",
    "notes": "16 titles on markham; Burt Franklin reprints of Reports swapped for an 1872 scan; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r138-dent-balzac-bain",
+   "status": "done",
+   "started": "2026-10-23T00:22-05:00",
+   "finished": "2026-10-23T00:22-05:00",
+   "scope": "Dent Comédie humaine volumes (Marriage, Bell, Waring, R. S. Scott) and Bain Tolstoi on archive.org",
+   "notes": "21 titles on ellen-marriage, clara-bell, waring, singles-fiction-4, bain-jokai; text-compared against shelved Gutenberg Balzac; 0 mismatched, 0 rights flags"
   }
  ]
 }

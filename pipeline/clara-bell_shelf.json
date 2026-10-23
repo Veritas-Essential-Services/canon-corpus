@@ -256,6 +256,34 @@
   "cla-spitta-bach-3": [
    "johannsebastianb03spituoft",
    "Johann Sebastian Bach, vol. 3"
+  ],
+  "cla-dent-bachelors-establishment": [
+   "comdiehumainee04balzuoft",
+   "A Bachelor's Establishment"
+  ],
+  "cla-dent-marriage-settlement": [
+   "comdiehumainee22balzuoft",
+   "A Marriage Settlement"
+  ],
+  "cla-dent-member-for-arcis": [
+   "comdiehumainee23balzuoft",
+   "The Member for Arcis"
+  ],
+  "cla-dent-middle-classes": [
+   "comdiehumainee24balzuoft",
+   "The Middle Classes"
+  ],
+  "cla-dent-modeste-mignon": [
+   "comdiehumainee25balzuoft",
+   "Modeste Mignon"
+  ],
+  "cla-dent-pierrette": [
+   "comdiehumainee29balzuoft",
+   "Pierrette and The Abbé Birotteau"
+  ],
+  "cla-dent-ursule-mirouet": [
+   "comdiehumainee38balzuoft",
+   "Ursule Mirouët"
   ]
  },
  "titles": {
@@ -749,6 +777,63 @@
    "translated": 1884,
    "translator": "Clara Bell and J. A. Fuller Maitland",
    "scan_edition": "Novello, London, and H. W. Gray, New York (1899 on the title page; first published 1884-85); archive.org scan (Toronto copy)"
+  },
+  "clara-bell-balzac-dent-bachelors-establishment": {
+   "source": "cla-dent-bachelors-establishment",
+   "of": "Honoré de Balzac",
+   "work": "A Bachelor's Establishment (Un Ménage de garçon)",
+   "translated": 1896,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-marriage-settlement": {
+   "source": "cla-dent-marriage-settlement",
+   "of": "Honoré de Balzac",
+   "work": "A Marriage Settlement (Le Contrat de mariage) and other stories",
+   "translated": 1897,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1897 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)",
+   "note": "A Second Home, also in this volume, is shelved singly from Gutenberg in the same Dent text."
+  },
+  "clara-bell-balzac-dent-member-for-arcis": {
+   "source": "cla-dent-member-for-arcis",
+   "of": "Honoré de Balzac",
+   "work": "The Member for Arcis (Le Député d'Arcis)",
+   "translated": 1898,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-middle-classes": {
+   "source": "cla-dent-middle-classes",
+   "of": "Honoré de Balzac",
+   "work": "The Middle Classes (Les Petits Bourgeois)",
+   "translated": 1898,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-modeste-mignon": {
+   "source": "cla-dent-modeste-mignon",
+   "of": "Honoré de Balzac",
+   "work": "Modeste Mignon",
+   "translated": 1896,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-pierrette": {
+   "source": "cla-dent-pierrette",
+   "of": "Honoré de Balzac",
+   "work": "Pierrette and The Abbé Birotteau (Le Curé de Tours)",
+   "translated": 1896,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-ursule-mirouet": {
+   "source": "cla-dent-ursule-mirouet",
+   "of": "Honoré de Balzac",
+   "work": "Ursule Mirouët",
+   "translated": 1895,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1895 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
   }
  },
  "_pending": {
@@ -1341,6 +1426,83 @@
    "ia_date": "1899",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "cla-dent-bachelors-establishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-marriage-settlement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-member-for-arcis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-middle-classes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-modeste-mignon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-pierrette": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "[1897]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cla-dent-ursule-mirouet": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1842,6 +2004,88 @@
     1899
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "cla-dent-bachelors-establishment": {
+   "ia": "comdiehumainee04balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1841,
+    1842
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "cla-dent-marriage-settlement": {
+   "ia": "comdiehumainee22balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1790,
+    1810,
+    1813,
+    1834,
+    1842,
+    1844
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1897"
+  },
+  "cla-dent-member-for-arcis": {
+   "ia": "comdiehumainee23balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815,
+    1839,
+    1847
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  },
+  "cla-dent-middle-classes": {
+   "ia": "comdiehumainee24balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1830,
+    1854,
+    1856,
+    1857
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  },
+  "cla-dent-modeste-mignon": {
+   "ia": "comdiehumainee25balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1844,
+    1845
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "cla-dent-pierrette": {
+   "ia": "comdiehumainee29balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1832,
+    1840,
+    1843
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "cla-dent-ursule-mirouet": {
+   "ia": "comdiehumainee38balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815,
+    1829,
+    1830
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1895"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

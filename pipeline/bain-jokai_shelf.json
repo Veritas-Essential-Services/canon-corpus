@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: R. Nisbet Bain (1854-1909) as translator of fiction: Mór Jókai's novels and tales (Jarrold, 1893-1904), Jonas Lie's Weird Tales from Northern Seas (1893) and Tales from Gorky (1902). His folk-tale books (Cossack, Turkish, Polevoi) are on the other lane's bain_shelf.json, not here. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: R. Nisbet Bain (1854-1909) as translator of fiction: Mór Jókai's novels and tales (Jarrold, 1893-1904), Jonas Lie's Weird Tales from Northern Seas (1893) and Tales from Gorky (1902). His folk-tale books (Cossack, Turkish, Polevoi) are on the other lane's bain_shelf.json, not here. US public domain. Added 2026-10-10 by lane C (round 21); Adam may veto. No uids minted. Also his two Tolstoi collections, Tales from Tolstoi (1901) and More Tales from Tolstoi (1903), from archive.org scans (round 138).",
  "_name_words": [
   "nisbet bain"
  ],
@@ -58,7 +58,16 @@
    "Tales from Gorky"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "bnj-tales-from-tolstoi": [
+   "cu31924027448640",
+   "Tales from Tolstoi"
+  ],
+  "bnj-more-tales-from-tolstoi": [
+   "moretalesfromtol00tolsrich",
+   "More Tales from Tolstoi"
+  ]
+ },
  "titles": {
   "bain-jokai-gorky-tales-from-gorky": {
    "source": "bnj-56870",
@@ -155,6 +164,22 @@
    "translated": "1893-1904 (see the Gutenberg header)",
    "translator": "R. Nisbet Bain",
    "scan_edition": "Project Gutenberg 13508 (clean text)"
+  },
+  "bain-jokai-tolstoy-tales-from-tolstoi": {
+   "source": "bnj-tales-from-tolstoi",
+   "of": "Leo Tolstoy",
+   "work": "Tales from Tolstoi",
+   "translated": 1901,
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Jarrold and Sons, London MDCCCCI (1901); archive.org scan (Cornell University copy)"
+  },
+  "bain-jokai-tolstoy-more-tales-from-tolstoi": {
+   "source": "bnj-more-tales-from-tolstoi",
+   "of": "Leo Tolstoy",
+   "work": "More Tales from Tolstoi",
+   "translated": 1903,
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "Brentano's, New York 1903; archive.org scan"
   }
  },
  "_pending": {},
@@ -165,7 +190,7 @@
  "_checks": {
   "bnj-13508": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -174,7 +199,7 @@
   },
   "bnj-17597": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -183,7 +208,7 @@
   },
   "bnj-18705": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -192,7 +217,7 @@
   },
   "bnj-20978": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -201,7 +226,7 @@
   },
   "bnj-23608": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -210,7 +235,7 @@
   },
   "bnj-31642": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -219,7 +244,7 @@
   },
   "bnj-31886": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -228,7 +253,7 @@
   },
   "bnj-32234": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -237,7 +262,7 @@
   },
   "bnj-37286": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -246,7 +271,7 @@
   },
   "bnj-37339": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -255,7 +280,7 @@
   },
   "bnj-39048": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
@@ -264,12 +289,34 @@
   },
   "bnj-56870": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "nisbet bain",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-tales-from-tolstoi": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bnj-more-tales-from-tolstoi": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nisbet bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -332,6 +379,41 @@
    "pg": 56870,
    "pg_copyrighted_marker": false,
    "pg_translator": "R. Nisbet Bain"
+  },
+  "bnj-tales-from-tolstoi": {
+   "ia": "cu31924027448640",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1645,
+    1727,
+    1769,
+    1812,
+    1813,
+    1828,
+    1844,
+    1852,
+    1891,
+    1899,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "1924 is part of the Cornell barcode (3 1924 027 448 640); the imprint is Jarrold, MDCCCCI (1901)"
+  },
+  "bnj-more-tales-from-tolstoi": {
+   "ia": "moretalesfromtol00tolsrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1645,
+    1727,
+    1769,
+    1828,
+    1831,
+    1903
+   ],
+   "post_1930_years_in_front_15k": [
+    1994
+   ],
+   "post_1930_examined": "1994 is a library date stamp (JAN 27 1994); the imprint is Brentano's 1903"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
