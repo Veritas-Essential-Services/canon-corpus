@@ -170,7 +170,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -191,7 +191,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -200,5 +200,8 @@
     "redistribute_whole": false
    }
   }
+ },
+ "_held": {
+  "caesar-perseus-bohn-gallic-war": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0448.phi001.perseus-eng2 (Gallic War, tr. W. S Bohn) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  }
 }
