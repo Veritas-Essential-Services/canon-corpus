@@ -9852,3 +9852,21 @@ Slugs `sancroft-*`. Built from title pages read for round 40.
 | Modern Policies (1652, many printings), published anonymously; the attribution is the catalogue's | pending | not shelved |
 | The 1703 Sermons; other copies of each | alternate | not shelved |
 | D'Oyly's Life of Sancroft (1821) and the Proceedings and Tryal of the Seven Bishops: works by others; Bishop Overall's Convocation Book (1690), which Sancroft published but did not write; one-page proclamations and articles | excluded | |
+
+## George Hickes (round 40, my pick, 2026-10-22)
+
+Slugs `hickes-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 1 (Oxford : J.H. Parker, 1847) | have-ocr | IA `twotreatisesonch01hick` |
+| Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 2 (Oxford : J.H. Parker, 1847) | have-ocr | IA `twotreatisesonch02hick` |
+| Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 3 (Oxford : J.H. Parker, 1847) | have-ocr | IA `twotreatisesonch03hick` |
+| Jovian. Or, an answer to Julian the apostate.  1683 (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683` |
+| The spirit of Enthusiasm exorcised: In a sermon with two discourses ... the first "the history of Montanisme" by Dr. Lee ... the other "the new pretenders" ... by N. Spinckes (catalogued 1709) | have-ocr | IA `10774209bsb` |
+| A collection of controversial discourses by G. Hickes and a popish priest (catalogued 1727) | have-ocr | IA `acollectioncont00hickgoog` |
+| The case of infant baptism in five questions (London : Printed for Tho. Basset [etc.], 1683) [caseofinfantbapt00hick]: title page (OCR) names no author; the attribution is the catalogue's | pending | not shelved |
+| An apologetical vindication of the church of England: ...  1687 (catalogued 1687) [bim_early-english-books-1641-1700_an-apologetical-vindicat_hickes-george_1687]: title page (OCR) names no author; the attribution is the catalogue's | pending | not shelved |
+| Some Discourses Upon Dr. Burnet and Dr. Tillotson: Occasioned by the Late Funeral Sermon of the (catalogued 1695) [somediscoursesu00hickgoog]: title page (OCR) names no author ('Printed in the Year MDCXCV'); the attribution is the catalogue's | pending | not shelved |
+| Other scans of the 1847 Two Treatises (Toronto, Google) and the 1707 and 1711 printings; other copies of each early work | alternate | not shelved |
+| The Thesaurus of the northern languages (1703-1705, Latin philology); Devotions in the Ancient Way of Offices (1846), John Austin's book as Hickes reformed it; Fenelon's Instructions for the Education of a Daughter and the Gentleman Instructed, which he translated or prefaced | excluded | |
