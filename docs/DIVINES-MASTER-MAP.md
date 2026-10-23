@@ -18679,6 +18679,18 @@ Shelf: `pipeline/h-j-roby_shelf.json`. Latin grammar (2 parts) and Roman private
 
 Excluded: A Latin Grammar for Schools; An Elementary Latin Grammar (school grammars, skipped by lane B rule)
 
+
+## James Hadley (1821-1872)
+
+Shelf: `pipeline/james-hadley_shelf.json`. Roman law lectures (1874) and philological essays (1873). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Introduction to Roman Law, in Twelve Academical Lectures (1874) |  | `hadley-introduction-roman-law-1874` | have-raw (IA `cu31924021184548`) |
+| Essays Philological and Critical, selected from the papers of James Hadley (1873) |  | `hadley-essays-philological-critical-1873` | have-raw (IA `essaysphilologic00hadluoft`) |
+
+Excluded: A Greek Grammar for Schools and Colleges (school grammar, skipped by lane B rule)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
