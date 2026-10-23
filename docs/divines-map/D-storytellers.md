@@ -17980,3 +17980,16 @@ Shelf: `pipeline/charles-major_shelf.json` (2026-10-22; added at the coordinator
 | When Knighthood Was in Flower or, the Love Story of Charles Brandon and Mary Tudor the King's Sister, and Happening in the Reign of His August Majesty King Henry the Eighth | have | PG 17498, `cmajor-when-knighthood-was-in-flower-or-the-love-story-of-ch` (1525 units) |
 | A Forest Hearth: A Romance of Indiana in the Thirties | have | PG 29486, `cmajor-forest-hearth` (2048 units) |
 | The Bears of Blue River | have | PG 54915, `cmajor-bears-of-blue-river` (835 units) |
+
+## William Magnay
+
+Shelf: `pipeline/william-magnay_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Hunt Ball Mystery | have | PG 10029, `wmagnay-hunt-ball-mystery` (1497 units) |
+| A Poached Peerage | have | PG 34088, `wmagnay-poached-peerage` (2566 units) |
+| The Red Chancellor | have | PG 58952, `wmagnay-red-chancellor` (1502 units) |
+| The Master Spirit | have | PG 67703, `wmagnay-master-spirit` (1957 units) |
+| Count Zarka: A Romance | have | PG 67905, `wmagnay-count-zarka` (1891 units) |
+| A prince of lovers | have | PG 73269, `wmagnay-prince-of-lovers` (2411 units) |
