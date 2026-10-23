@@ -17472,3 +17472,20 @@ Shelf: `pipeline/herbert-carter_shelf.json` (2026-10-22; added at the coordinato
 | The Boy Scouts at the Battle of Saratoga: The Story of General Burgoyne's Defeat | have | PG 47037, `hcarter-boy-scouts-at-the-battle-of-saratoga` (1705 units) |
 | The Boy Scouts Afoot in France; or, With the Red Cross Corps at the Marne | have | PG 47358, `hcarter-boy-scouts-afoot-in-france` (1102 units) |
 | The Boy Scouts Down in Dixie; or, The Strange Secret of Alligator Swamp | have | PG 48251, `hcarter-boy-scouts-down-in-dixie` (1242 units) |
+
+## William Pitt Scargill
+
+Shelf: `pipeline/william-pitt-scargill_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Blue-Stocking Hall, (Vol. 1 of 3) | have | PG 40974, `wpscargill-blue-stocking-hall-vol-1-of-3` (380 units) |
+| Tales of My Time, Vol. 1 (of 3) Who Is She? | have | PG 43756, `wpscargill-tales-of-my-time-vol-1-of-3-who-is-she` (505 units) |
+| Penelope | have | PG 44159, `wpscargill-penelope` (644 units) |
+| Tales of My Time, Vol. 2 (of 3) Who Is She? [concluded]; The Young Reformers | have | PG 44959, `wpscargill-tales-of-my-time-vol-2-of-3-who-is-she-concluded` (570 units) |
+| Rank and Talent; A Novel, Vol. 2 (of 3) | have | PG 44996, `wpscargill-rank-and-talent` (320 units) |
+| Blue-Stocking Hall, (Vol. 2 of 3) | have | PG 52375, `wpscargill-blue-stocking-hall-vol-2-of-3` (395 units) |
+| Rank and Talent; A Novel, Vol. 1 (of 3) | have | PG 53455, `wpscargill-rank-and-talent-53455` (455 units) |
+| Rank and Talent; A Novel, Vol. 3 (of 3) | have | PG 54864, `wpscargill-rank-and-talent-54864` (539 units) |
+| Blue-Stocking Hall, (Vol. 3 of 3) | have | PG 55407, `wpscargill-blue-stocking-hall-vol-3-of-3` (338 units) |
+| repeat-editions | excluded | PG 72432, 72660: second Gutenberg editions of titles already on the shelf. |
