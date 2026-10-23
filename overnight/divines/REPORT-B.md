@@ -1429,3 +1429,9 @@
 - New shelves: thomas-hodgkin 11 (Italy and her Invaders complete in 8 vols.; Theodoric and The Dynasty of Theodosius from clean PG; Charles the Great), tenney-frank 6 (1914-1930; Vergil and Life and Literature in the Roman Republic from clean PG), john-colin-dunlop 3 (History of Roman Literature, vols. I-II clean PG), james-augustus-st-john 3 (Manners and Customs of Ancient Greece, clean PG).
 - ancient-classics-for-english-readers: +3 clean PG copies (Collins's Aristophanes, Homer, Virgil) beside the raw OCR. The Ovid row had been failing because its IA text file is named Ovid_djvu.txt; fixed.
 - Left for other lanes, not edited: Symonds's Studies of the Greek Poets (PG 47157, 47236) and Sketches and Studies in Italy and Greece (18893) for lane C's symonds shelf; Church's Roman Life in the Days of Cicero (PG 13481) and Jennie Hall's Buried Cities complete (PG 9628) for lane D.
+
+## 2026-10-23 — Round cx: scholars found by an IA subject sweep
+- Pulled the most frequent creators of pre-1930 English IA texts under nine classical subjects and kept those whose surname is on no shelf on any branch. Held already: Gregorovius, Fustel de Coulanges, Winckelmann, Villari (singles shelves).
+- New shelves: george-finlay 7 (History of Greece 146 B.C.-1864, Tozer's 1877 edition complete), alfred-gudeman 1, maxime-collignon 2 (tr. J. H. Wright; tr. Jane Harrison), gildersleeve 3, teuffel 2 (tr. Wagner 1873), g-a-simcox 2, f-w-bussell 4, croiset 1 (tr. Heffelbower), gilbert-norwood 5 (1908-1925), j-c-stobart 2, edward-capps 2.
+- Not taken: Gudeman's Latin Literature of the Empire (a Latin anthology, 0.58), the 1892 Gudeman Syllabus (superseded), school grammars and readers, theology and English-literature books by the same men.
+- Gildersleeve's Syntax (0.73) and Teuffel (0.83-0.85) score low because of Greek and Latin quotation; their English is clean. Kept, per Adam's Greek ruling.
