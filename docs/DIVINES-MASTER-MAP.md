@@ -11281,6 +11281,15 @@ Slugs `gadsby-*`. Built from title pages read for round 50.
 |---|---|---|
 | The Nazarene's Songs: ...  1824 (catalogued 1824) | have-ocr | IA `per_early-baptist_the-nazarenes-songs-_william-gadsby_1824` |
 | The Gospel Standard magazine (1835, many hands); A Memoir of the late Mr. William Gadsby (1844, by others) | excluded | |
+
+## John Kershaw of Rochdale (round 50, my pick, 2026-10-23)
+
+Slugs `kershaw-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Memorials of the mercies of a covenant God while travelling through the wilderness being the autobiography of John Kershaw, of Rochdale, to which is added, an account of his last days, by his widow (London : [s.n, 1876) | have-ocr | IA `johnkershaw00kersuoft` |
+| Every other Kershaw in the catalogue is another person (chemistry, fuel, Charleston history) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

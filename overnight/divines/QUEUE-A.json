@@ -6634,6 +6634,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T00:36:36-05:00",
       "notes": "3 items: Letter 1743, Last Message 1774, Brief Account of his Life 1791"
+    },
+    {
+      "id": "john-kershaw-of-rochdale",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:37-05:00",
+      "notes": "1 item: Memorials of the Mercies of a Covenant God (1876)"
     }
   ]
 }
