@@ -1,0 +1,99 @@
+{
+ "_about": "L. Adams Beck: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "L. Adams Beck",
+ "_name_words": [
+  "adams",
+  "beck",
+  "lily"
+ ],
+ "_surname": [
+  "l. adams beck",
+  "lily adams beck"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "labeck-ninth-vibration-and-other-stories": [
+   1853,
+   "The ninth vibration and other stories"
+  ],
+  "labeck-the-ladies": [
+   8434,
+   "\"The Ladies\": A Shining Constellation of Wit and Beauty"
+  ],
+  "labeck-chaste-diana": [
+   65311,
+   "The Chaste Diana"
+  ],
+  "labeck-divine-lady": [
+   65312,
+   "The Divine Lady: A Romance of Nelson and Emma Hamilton"
+  ],
+  "labeck-dreams-and-delights": [
+   69786,
+   "Dreams and delights"
+  ],
+  "labeck-splendour-of-asia": [
+   69787,
+   "The splendour of Asia: The story and teaching of the Buddha"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "labeck-ninth-vibration-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. adams beck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "labeck-the-ladies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. adams beck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "labeck-chaste-diana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. adams beck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "labeck-divine-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. adams beck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "labeck-dreams-and-delights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. adams beck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "labeck-splendour-of-asia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. adams beck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

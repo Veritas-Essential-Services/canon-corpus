@@ -18227,3 +18227,16 @@ Shelf: `pipeline/percy-james-brebner_shelf.json` (2026-10-22; added at the coord
 | The Light That Lures | have | PG 13312, `pjbrebner-light-that-lures` (2331 units) |
 | Christopher Quarles: College Professor and Master Detective | have | PG 34468, `pjbrebner-christopher-quarles` (2315 units) |
 | Vayenne | have | PG 39652, `pjbrebner-vayenne` (2529 units) |
+
+## L. Adams Beck
+
+Shelf: `pipeline/l-adams-beck_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The ninth vibration and other stories | have | PG 1853, `labeck-ninth-vibration-and-other-stories` (1353 units) |
+| "The Ladies": A Shining Constellation of Wit and Beauty | have | PG 8434, `labeck-the-ladies` (1206 units) |
+| The Chaste Diana | have | PG 65311, `labeck-chaste-diana` (1653 units) |
+| The Divine Lady: A Romance of Nelson and Emma Hamilton | have | PG 65312, `labeck-divine-lady` (2063 units) |
+| Dreams and delights | have | PG 69786, `labeck-dreams-and-delights` (1578 units) |
+| The splendour of Asia: The story and teaching of the Buddha | have | PG 69787, `labeck-splendour-of-asia` (1729 units) |
