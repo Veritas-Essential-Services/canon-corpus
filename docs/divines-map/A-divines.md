@@ -18219,3 +18219,16 @@ Slugs `moss-*`. Built from title pages read for round 122.
 | A Sermon preached at the Anniversary Meeting of the Sons of the Clergy (1799), IA bim_eighteenth-century_a-sermon-preached-at-the_moss-charles_1799: probably his son Charles Moss (1763-1811); which Charles Moss is not settled | pending | not shelved |
 | The sequel to The tryal of the witnesses: wherein the evidence of the resurrection is cleared. In answer to a pamphlet, intitled, The resurrection of Jesus considered by a moral philosopher.  1757 (catalogued 1757) (IA bim_eighteenth-century_the-sequel-to-the-tryal-_moss-charles_1757): the printed title page names no author (only a manuscript note); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | the law, Greek reader, medical, botanical and Madagascar books are by other men named Moss | excluded | |
+
+## Alexander Topp (round 122, my pick, 2026-10-23)
+
+Slugs `topp-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The river of life, in Ezekiel's vision; a plea for Home missions (Toronto, Campbell, 1860) | have-ocr | IA `riveroflifeineze00topp` |
+| System of lessons for the classes of the Sabbath schools connected with Knox's Church, Toronto ([Toronto? : s.n.], 1862) | have-ocr | IA `cihm_89287` |
+| New Year addresses to the young (Toronto : J. Bain, 1880) | have-ocr | IA `cihm_93572` |
+| The perpetuity of the reign of Christ : the last sermon preached by late Rev. Alexander Topp, D.D ([Toronto? : s.n.], 1879) | have-ocr | IA `cihm_64617` |
+| cihm_29804, a second scan of The River of Life | excluded | |
+| cihm_40307 is one of the New Year addresses, already in the collected volume | excluded | |
