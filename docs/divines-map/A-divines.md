@@ -18636,3 +18636,19 @@ Slugs `skrine-*`. Built from title pages read for round 126.
 | The survival of Jesus; a priest's study in divine telepathy (New York, Hodder & Stoughton, George H. Doran company, 1917) | have-ocr | IA `survivalofjesusp00skri` |
 | Columba, Joan the Maid, Songs of the Maid, The Queen's Highway and Under Two Queens are verse; Uppingham by the Sea is a school narrative; the Virgil is a school edition | excluded | |
 | second scans of Pastor Agnorum | excluded | |
+
+## Frank Milton Bristol (round 126, my pick, 2026-10-23)
+
+Slugs `bristol-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermon preached at the funeral of Samuel J. Hayes, superintendent of machinery of the Illinois Central R.R., September 25, A.D. 1882 (Chicago : Rand, McNally & Co., printers, 1882) | have-ocr | IA `sermonpreachedat00bris` |
+| Providential epochs (Cincinnati, Cranston & Curts; New York, Hunt & Eaton, 1894) | have-ocr | IA `providentialepoc00bris` |
+| The ministry of art (Cincinnati, Curts & Jennings, 1897) | have-ocr | IA `ministryofart0000bris` |
+| The religious instinct of man (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1904) | have-ocr | IA `religiousinstinc00bris` |
+| The life of Chaplain McCabe : bishop of the Methodist Episcopal Church (Cincinnati : Jennings and Graham ; New York : Eaton & Mains, 1908) | have-ocr | IA `lifeofchaplainmc0000bris` |
+| Heroines of history : typical heroines of mythology of Shakespeare, of the Bible (New York : Abingdon Press, 1914) | have-ocr | IA `cu31924031449147` |
+| Francis Asbury, Centennial Addresses (1917), IA francisasburycen00roge: addresses by several men (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Richard the Third and the Primrose Criticism and Shakespeare and America are literary studies | excluded | |
+| lifeofchaplainmc0000fran, a second scan | excluded | |
