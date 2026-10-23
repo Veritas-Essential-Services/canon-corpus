@@ -42746,3 +42746,17 @@ Shelf: `pipeline/paul-leicester-ford_shelf.json` (2026-10-22; added at the coord
 | The Great K. & A. Robbery | have | PG 25333, `plford-great-k-a-robbery` (845 units) |
 | The Story of an Untold Love | have | PG 36439, `plford-story-of-an-untold-love` (1269 units) |
 | Tattle-tales of Cupid | have | PG 71597, `plford-tattle-tales-of-cupid` (1724 units) |
+
+## Richard Dehan
+
+Shelf: `pipeline/richard-dehan_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Dop Doctor | have | PG 27966, `rdehan-dop-doctor` (4807 units) |
+| That Which Hath Wings: A Novel of the Day | have | PG 51428, `rdehan-that-which-hath-wings` (3689 units) |
+| Off Sandy Hook, and other stories | have | PG 60452, `rdehan-off-sandy-hook-and-other-stories` (1802 units) |
+| The cost of wings, and other stories | have | PG 69202, `rdehan-cost-of-wings-and-other-stories` (1313 units) |
+| Between two thieves | have | PG 70431, `rdehan-between-two-thieves` (4242 units) |
+| The Man of Iron | have | PG 75200, `rdehan-man-of-iron` (4709 units) |
+| The just steward | have | PG 75518, `rdehan-just-steward` (3808 units) |

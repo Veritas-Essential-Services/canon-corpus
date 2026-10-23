@@ -2393,3 +2393,6 @@
 
 ## 2026-10-22 23:06 CDT — paul-leicester-ford: done
 - paul-leicester-ford: new shelf, 7 Gutenberg books, 14,641 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — richard-dehan: done
+- richard-dehan: new shelf, 7 Gutenberg books, 24,370 units, 1591 ~2 ids; verify 0 mismatches, 0 rights flags.

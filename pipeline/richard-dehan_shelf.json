@@ -1,0 +1,111 @@
+{
+ "_about": "Richard Dehan: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Richard Dehan",
+ "_name_words": [
+  "dehan",
+  "richard"
+ ],
+ "_surname": [
+  "richard dehan",
+  "dehan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rdehan-dop-doctor": [
+   27966,
+   "The Dop Doctor"
+  ],
+  "rdehan-that-which-hath-wings": [
+   51428,
+   "That Which Hath Wings: A Novel of the Day"
+  ],
+  "rdehan-off-sandy-hook-and-other-stories": [
+   60452,
+   "Off Sandy Hook, and other stories"
+  ],
+  "rdehan-cost-of-wings-and-other-stories": [
+   69202,
+   "The cost of wings, and other stories"
+  ],
+  "rdehan-between-two-thieves": [
+   70431,
+   "Between two thieves"
+  ],
+  "rdehan-man-of-iron": [
+   75200,
+   "The Man of Iron"
+  ],
+  "rdehan-just-steward": [
+   75518,
+   "The just steward"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rdehan-dop-doctor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdehan-that-which-hath-wings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdehan-off-sandy-hook-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdehan-cost-of-wings-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdehan-between-two-thieves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdehan-man-of-iron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rdehan-just-steward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard dehan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
