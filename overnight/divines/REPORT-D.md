@@ -1808,3 +1808,6 @@
 
 ## 2026-10-22 22:22 CDT — james-de-mille: done
 - james-de-mille: new shelf, 17 Gutenberg books, 41,416 units, 306 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:22 CDT — f-anstey: done
+- f-anstey: new shelf, 17 Gutenberg books, 25,852 units, 2674 ~2 ids; verify 0 mismatches, 0 rights flags.

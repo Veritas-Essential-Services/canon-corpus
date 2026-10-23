@@ -1,0 +1,241 @@
+{
+ "_about": "F. Anstey's comic fantasies (Vice Versa, The Brass Bottle) and Punch sketches. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "F. Anstey",
+ "_name_words": [
+  "anstey"
+ ],
+ "_surname": [
+  "anstey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fanstey-tinted-venus": [
+   24197,
+   "The Tinted Venus: A Farcical Romance"
+  ],
+  "fanstey-baboo-jabberjee-b-a": [
+   25129,
+   "Baboo Jabberjee, B.A."
+  ],
+  "fanstey-vice-versa": [
+   26853,
+   "Vice Versa; or, A Lesson to Fathers"
+  ],
+  "fanstey-talking-horse-and-other-tales": [
+   27284,
+   "The Talking Horse, and Other Tales"
+  ],
+  "fanstey-giants-robe": [
+   27507,
+   "The Giant's Robe"
+  ],
+  "fanstey-in-brief-authority": [
+   28459,
+   "In Brief Authority"
+  ],
+  "fanstey-brass-bottle": [
+   30689,
+   "The Brass Bottle"
+  ],
+  "fanstey-mr-punchs-pocket-ibsen-a-collection-of-some-of-the-m": [
+   35305,
+   "Mr Punch's Pocket Ibsen - A Collection of Some of the Master's Best Known Dramas"
+  ],
+  "fanstey-bayard-from-bengal-being-some-account-of-the-magnifi": [
+   36703,
+   "A Bayard From Bengal Being some account of the Magnificent and Spanking Career of Chunder Bindabun Bhosh,..."
+  ],
+  "fanstey-black-poodle-and-other-tales": [
+   37235,
+   "The Black Poodle, and Other Tales"
+  ],
+  "fanstey-puppets-at-large": [
+   37449,
+   "Puppets at Large: Scenes and Subjects from Mr Punch's Show"
+  ],
+  "fanstey-voces-populi": [
+   37597,
+   "Voces Populi"
+  ],
+  "fanstey-brass-bottle-37685": [
+   37685,
+   "The Brass Bottle: A Farcical Fantastic Play in Four Acts"
+  ],
+  "fanstey-travelling-companions": [
+   37691,
+   "The Travelling Companions: A Story in Scenes"
+  ],
+  "fanstey-love-among-the-lions": [
+   38657,
+   "Love Among the Lions: A Matrimonial Experience"
+  ],
+  "fanstey-mr-punchs-model-music-hall-songs-and-dramas-collecte": [
+   39045,
+   "Mr Punch's Model Music Hall Songs and Dramas Collected, Improved and Re-arranged from Punch"
+  ],
+  "fanstey-lyre-and-lancet": [
+   41589,
+   "Lyre and Lancet: A Story in Scenes"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 46173 Tourmalin's Time Cheques (copyright line 1986). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "fanstey-tinted-venus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-baboo-jabberjee-b-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-vice-versa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-talking-horse-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-giants-robe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-in-brief-authority": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-brass-bottle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-mr-punchs-pocket-ibsen-a-collection-of-some-of-the-m": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-bayard-from-bengal-being-some-account-of-the-magnifi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-black-poodle-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-puppets-at-large": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-voces-populi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-brass-bottle-37685": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-travelling-companions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-love-among-the-lions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-mr-punchs-model-music-hall-songs-and-dramas-collecte": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fanstey-lyre-and-lancet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anstey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

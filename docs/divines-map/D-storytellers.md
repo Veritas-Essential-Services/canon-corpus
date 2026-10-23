@@ -13861,3 +13861,28 @@ Shelf: `pipeline/james-de-mille_shelf.json` (2026-10-22; added at the coordinato
 | Picked up Adrift Illustrated | have | PG 56235, `jdemille-picked-up-adrift-illustrated` (1804 units) |
 | Treasure of the Seas Illustrated | have | PG 56236, `jdemille-treasure-of-the-seas-illustrated` (1512 units) |
 | pg-59407 | excluded | PG 59407: Gutenberg's index of the author's works, not a book. |
+
+## F. Anstey
+
+Shelf: `pipeline/f-anstey_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Comic fantasies and sketches. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Tinted Venus: A Farcical Romance | have | PG 24197, `fanstey-tinted-venus` (1691 units) |
+| Baboo Jabberjee, B.A. | have | PG 25129, `fanstey-baboo-jabberjee-b-a` (879 units) |
+| Vice Versa; or, A Lesson to Fathers | have | PG 26853, `fanstey-vice-versa` (2218 units) |
+| The Talking Horse, and Other Tales | have | PG 27284, `fanstey-talking-horse-and-other-tales` (2110 units) |
+| The Giant's Robe | have | PG 27507, `fanstey-giants-robe` (2944 units) |
+| In Brief Authority | have | PG 28459, `fanstey-in-brief-authority` (2700 units) |
+| The Brass Bottle | have | PG 30689, `fanstey-brass-bottle` (1726 units) |
+| Mr Punch's Pocket Ibsen - A Collection of Some of the Master's Best Known Dramas | have | PG 35305, `fanstey-mr-punchs-pocket-ibsen-a-collection-of-some-of-the-m` (1029 units) |
+| A Bayard From Bengal Being some account of the Magnificent and Spanking Career of Chunder Bindabun Bhosh,... | have | PG 36703, `fanstey-bayard-from-bengal-being-some-account-of-the-magnifi` (607 units) |
+| The Black Poodle, and Other Tales | have | PG 37235, `fanstey-black-poodle-and-other-tales` (1725 units) |
+| Puppets at Large: Scenes and Subjects from Mr Punch's Show | have | PG 37449, `fanstey-puppets-at-large` (900 units) |
+| Voces Populi | have | PG 37597, `fanstey-voces-populi` (1309 units) |
+| The Brass Bottle: A Farcical Fantastic Play in Four Acts | have | PG 37685, `fanstey-brass-bottle-37685` (1467 units) |
+| The Travelling Companions: A Story in Scenes | have | PG 37691, `fanstey-travelling-companions` (1322 units) |
+| Love Among the Lions: A Matrimonial Experience | have | PG 38657, `fanstey-love-among-the-lions` (405 units) |
+| Mr Punch's Model Music Hall Songs and Dramas Collected, Improved and Re-arranged from Punch | have | PG 39045, `fanstey-mr-punchs-model-music-hall-songs-and-dramas-collecte` (1339 units) |
+| Lyre and Lancet: A Story in Scenes | have | PG 41589, `fanstey-lyre-and-lancet` (1481 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 46173 Tourmalin's Time Cheques (copyright line 1986). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
