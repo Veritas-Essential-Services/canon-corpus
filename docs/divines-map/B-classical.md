@@ -10338,3 +10338,12 @@ Shelf: `pipeline/james-h-hyslop_shelf.json`. The Ethics of the Greek Philosopher
 |---|---|---|---|
 | The Ethics of the Greek Philosophers, Socrates, Plato and Aristotle (New York: Higgins, 1903) |  | `hyslop-ethics-greek-philosophers-1903` | have-raw (IA `ethicsgreekphil00hysluoft`) |
 
+
+## John Marshall (1845-1915)
+
+Shelf: `pipeline/john-marshall-classicist_shelf.json`. A Short History of Greek Philosophy (London: Percival, 1891). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Short History of Greek Philosophy (London: Percival, 1891) |  | `marshall-short-history-greek-philosophy-1891` | have-raw (IA `ashorthistoryofg00marsuoft`) |
+

@@ -1,0 +1,36 @@
+{
+ "_about": "John Marshall (1845-1915), rector of the Royal High School, Edinburgh: A Short History of Greek Philosophy (1891). Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "John Marshall (1845-1915)",
+ "_name_words": [
+  "marshall",
+  "john",
+  "greek",
+  "philosophy"
+ ],
+ "_surname": [
+  "john marshall",
+  "j. marshall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marshall-short-history-greek-philosophy-1891": [
+   "ashorthistoryofg00marsuoft",
+   "A Short History of Greek Philosophy (London: Percival, 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "marshall-short-history-greek-philosophy-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
