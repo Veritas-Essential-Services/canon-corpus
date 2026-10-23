@@ -18733,6 +18733,22 @@ Shelf: `pipeline/rudolf-von-jhering_shelf.json`. Three works in English translat
 | Law as a Means to an End (1913), tr. Isaac Husik |  | `jhering-law-as-means-to-end-1913` | have-raw (IA `lawasameanstoan00jheruoft`) |
 | The Evolution of the Aryan (1897), tr. A. Drucker |  | `jhering-evolution-of-the-aryan-1897` | have-raw (IA `evolutionofaryan0000jher`) |
 
+
+## A. S. Murray (1841-1904)
+
+Shelf: `pipeline/a-s-murray_shelf.json`. Greek sculpture, archaeology and mythology, 1874-1903. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Greek Sculpture, rev. ed., vol. I (1890) |  | `as-murray-greek-sculpture-vol-1` | have-raw (IA `historyofgreeksc01murruoft`) |
+| A History of Greek Sculpture, rev. ed., vol. II (1890) |  | `as-murray-greek-sculpture-vol-2` | have-raw (IA `historyofgreeksc02murruoft`) |
+| Handbook of Greek Archaeology: Vases, Bronzes, Gems, Sculpture, Terra-cottas, Mural Paintings, Architecture (1892) |  | `as-murray-handbook-greek-archaeology-1892` | have-raw (IA `handbookofgreeka00murruoft`) |
+| Greek Bronzes (1898) |  | `as-murray-greek-bronzes-1898` | have-raw (IA `greekbronzes00murr`) |
+| The Sculptures of the Parthenon (1903) |  | `as-murray-sculptures-parthenon-1903` | have-raw (IA `sculpturesparth00murrgoog`) |
+| Manual of Mythology: Greek and Roman, Norse and Old German, Hindoo and Egyptian (1874) |  | `as-murray-manual-of-mythology-1874` | have-raw (IA `manualofmytholog00murruoft`) |
+
+Excluded: A History of Greek Sculpture, 1st ed. vol. I (1880) (superseded by the revised 1890 edition); British Museum catalogues (gems, terracotta sarcophagi, weights) (catalogues, not monographs)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
