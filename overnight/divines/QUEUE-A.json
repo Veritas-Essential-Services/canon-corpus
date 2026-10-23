@@ -7462,6 +7462,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:31:03-05:00",
       "notes": "Bishop of Central New York; a miscatalogued Oxenden book excluded. 0 uids minted."
+    },
+    {
+      "id": "henry-b-whipple",
+      "status": "done",
+      "scope": "round 61",
+      "added": "2026-10-23T02:31:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:31:03-05:00",
+      "notes": "Bishop of Minnesota; small shelf. 0 uids minted."
     }
   ]
 }

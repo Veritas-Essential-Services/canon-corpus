@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Henry Benjamin Whipple (1822-1901), first Episcopal Bishop of Minnesota and advocate for the Dakota and Ojibwe, for the Word Hoard: Five Sermons (1890) and Lights and Shadows of a Long Episcopate (1899). from Internet Archive scans. Added 2026-10-23 by lane A, round 61 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "whipple"
+ ],
+ "_surname": [
+  "henry b. whipple",
+  "h. b. whipple",
+  "henry benjamin whipple",
+  "bishop whipple"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whipple-five-sermons": [
+   "fivesermons0000whip",
+   "Five sermons (New York : E.P. Dutton, 1890)"
+  ],
+  "whipple-lights-and-shadows": [
+   "lightsshadowsofl00whip_0",
+   "Lights and shadows of a long episcopate; being reminiscences and recollections of the Right Reverend Henry Benjamin Whipple, D.D., LL. D., Bishop of Minnesota (New York : The Macmillan company; London : Macmillan & co., ltd., 1899)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "whipple-other": "A Century of Dishonor (Helen Hunt Jackson, with his preface); Heard's History of the Sioux War; other Whipples"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "whipple-five-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. b. whipple",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whipple-lights-and-shadows": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry b. whipple",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

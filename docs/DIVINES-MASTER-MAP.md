@@ -12667,6 +12667,16 @@ Slugs `fdhuntington-*`. Built from title pages read for round 61.
 | Fitness of Christianity to man (New York : Whittaker, 1878) | have-ocr | IA `fitnessofchristi00hunt` |
 | The Monthly Religious Magazine he edited; Hymns for the Church of Christ and Lyra Domestica (hymnals and translations edited with others); the 1860 Trinity controversy written about him | excluded | |
 | ourchurchandher00huntgoog: Our Church and her Services (London, 1866) is by Ashton Oxenden, catalogued under Huntington in error | excluded | |
+
+## Henry B. Whipple (round 61, my pick, 2026-10-23)
+
+Slugs `whipple-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Five sermons (New York : E.P. Dutton, 1890) | have-ocr | IA `fivesermons0000whip` |
+| Lights and shadows of a long episcopate; being reminiscences and recollections of the Right Reverend Henry Benjamin Whipple, D.D., LL. D., Bishop of Minnesota (New York : The Macmillan company; London : Macmillan & co., ltd., 1899) | have-ocr | IA `lightsshadowsofl00whip_0` |
+| A Century of Dishonor (Helen Hunt Jackson, with his preface); Heard's History of the Sioux War; other Whipples | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
