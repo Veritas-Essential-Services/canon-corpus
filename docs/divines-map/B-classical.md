@@ -10872,3 +10872,12 @@ Shelf: `pipeline/leon-bredif_shelf.json`. Political Eloquence in Greece: Demosth
 |---|---|---|---|
 | Political Eloquence in Greece: Demosthenes, tr. M. J. MacMahon (Chicago: Griggs, 1881) |  | `bredif-political-eloquence-greece-1881` | have-raw (IA `politicaleloquen00bred`) |
 
+
+## Lucian Müller (1836-1898)
+
+Shelf: `pipeline/lucian-muller_shelf.json`. Greek and Roman Versification, tr. S. B. Platner (1892) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek and Roman Versification, tr. S. B. Platner (1892) |  | `muller-greek-roman-versification-1892` | have-raw (IA `cu31924021599935`) |
+

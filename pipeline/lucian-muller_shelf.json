@@ -1,0 +1,43 @@
+{
+ "_about": "Lucian Müller (1836-1898): Greek and Roman Versification, tr. Samuel Ball Platner (Boston, 1892). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Lucian Müller (1836-1898)",
+ "_name_words": [
+  "muller",
+  "lucian",
+  "greek",
+  "roman",
+  "versification"
+ ],
+ "_surname": [
+  "lucian müller",
+  "lucian muller",
+  "lucian mueller"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "muller-greek-roman-versification-1892": [
+   "cu31924021599935",
+   "Greek and Roman Versification, tr. S. B. Platner (1892)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "muller-greek-roman-versification-1892": "Platner"
+ },
+ "_checks": {
+  "muller-greek-roman-versification-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucian muller",
+   "translator_claimed": "Platner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
