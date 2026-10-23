@@ -39586,3 +39586,29 @@ Shelf: `pipeline/john-fox-jr_shelf.json` (2026-10-22; added at the coordinator's
 | In Happy Valley | have | PG 20292, `jfoxjr-in-happy-valley` (665 units) |
 | Erskine Dale—Pioneer | have | PG 36390, `jfoxjr-erskine-dale-pioneer` (1029 units) |
 | Following the Sun-Flag: A Vain Pursuit Through Manchuria | have | PG 56218, `jfoxjr-following-the-sun-flag` (542 units) |
+
+## Max Brand
+
+Shelf: `pipeline/max-brand_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Westerns. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Seventh Man | have | PG 1897, `mbrand-seventh-man` (1847 units) |
+| Harrigan | have | PG 9791, `mbrand-harrigan` (2157 units) |
+| Riders of the Silences | have | PG 9867, `mbrand-riders-of-the-silences` (2197 units) |
+| Way of the Lawless | have | PG 9903, `mbrand-way-of-the-lawless` (1448 units) |
+| Black Jack | have | PG 9925, `mbrand-black-jack` (2178 units) |
+| Gunman's Reckoning | have | PG 10066, `mbrand-gunmans-reckoning` (2669 units) |
+| Bull Hunter | have | PG 10324, `mbrand-bull-hunter` (1204 units) |
+| The Rangeland Avenger | have | PG 10601, `mbrand-rangeland-avenger` (2527 units) |
+| The Untamed | have | PG 10886, `mbrand-untamed` (2763 units) |
+| Trailin'! | have | PG 11093, `mbrand-trailin` (2767 units) |
+| Alcatraz | have | PG 11195, `mbrand-alcatraz` (1153 units) |
+| Ronicky Doone | have | PG 11880, `mbrand-ronicky-doone` (1740 units) |
+| The Night Horseman | have | PG 12436, `mbrand-night-horseman` (2177 units) |
+| The Ten-foot Chain; or, Can Love Survive the Shackles? A Unique Symposium | have | PG 32996, `mbrand-ten-foot-chain` (877 units) |
+| A Sagebrush Cinderella | have | PG 65778, `mbrand-sagebrush-cinderella` (809 units) |
+| The Laughter of Slim Malone | have | PG 67306, `mbrand-laughter-of-slim-malone` (154 units) |
+| Bulldog | have | PG 68868, `mbrand-bulldog` (102 units) |
+| repeat-editions | excluded | PG 20044: second Gutenberg editions of titles already on the shelf. |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 33066 The Garden of Eden (copyright line 1950). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
