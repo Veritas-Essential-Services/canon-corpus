@@ -16444,6 +16444,15 @@ Slugs `richey-*`. Built from title pages read for round 102.
 | A sermon occasioned by the death of the Rev. William Croscombe : preached in Windsor, 30th October, and in Halifax, 6th November, 1859 ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_39102` |
 | A Plea for the Confederation of the Colonies (political) | excluded | |
 | Poems of Ten Years, by Matthew Richey Knight (a different man) | excluded | |
+
+## A. S. Billingsley (round 102, my pick, 2026-10-23)
+
+Slugs `billingsley-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| From the flag to the cross (Philadelphia, Pa., Boston, Mass. [etc.] New York publishing Company, 1872) | have-ocr | IA `fromflagtocross00bill` |
+| Life of George Whitefield : "Prince of Pulpit Orators" : with specimens of his sermons (New York : J.B. Alden, 1889) | have-ocr | IA `lifeofgeorgewhit00billuoft` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
