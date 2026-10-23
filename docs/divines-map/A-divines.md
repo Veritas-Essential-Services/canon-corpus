@@ -16189,3 +16189,29 @@ Slugs `candler-*`. Built from title pages read for round 100.
 | 26224779.2615.emory.edu: The Church, the Fullness of Christ (1917 sermon); the Emory scan has no OCR text file on Internet Archive | pending | not shelved |
 | Christus auctor in Spanish translation (1907) | excluded | |
 | A Call to Advance (convention addresses, many speakers) | excluded | |
+
+## Francis J. McConnell (round 100, my pick, 2026-10-23)
+
+Slugs `mcconnell-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The diviner immanence (New York, Cincinnati, The methodist book concern, 1906) | have-ocr | IA `divinerimmanence00mcco` |
+| Christmas sermons (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1909) | have-ocr | IA `christmassermons00mcco` |
+| Edward Gayer Andrews : a bishop of the Methodist Episcopal church (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1909) | have-ocr | IA `edwardgayerandre00mcco` |
+| Religious certainty (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1910) | have-ocr | IA `religiouscertain00mcco` |
+| The increase of faith : some present-day aids to belief (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, c191) | have-ocr | IA `increaseoffaiths00mcco` |
+| Personal Christianity, instruments and ends in the kingdom of God (New York, Revell, [191) | have-ocr | IA `personalchristia00mcco` |
+| The essentials of Methodism (New York, Cincinnati, Methodist Book Concern, 1916) | have-ocr | IA `essentialsofmeth00mcco` |
+| Understanding the Scriptures (New York, Cincinnati, The Methodist Book Concern, 1917) | have-ocr | IA `understandingscr00mcco` |
+| Democratic Christianity, some problems of the church in the days just ahead (New York, The Macmillan Co., 1919) | have-ocr | IA `democraticchrist00mcco` |
+| Public opinion and theology (New York, Cincinnati, The Abingdon Press, [c19) | have-ocr | IA `publicopinionthe00mcco` |
+| Church finance and social ethics (New York, The Macmillan company, 1920) | have-ocr | IA `churchfinances00mcco` |
+| The preacher and the people (catalogued 1922) | have-ocr | IA `preacherpeople0000fran` |
+| Christian citizenship; an elective course for young people (New York ; Cincinnati : The Methodist book concern, 1922) | have-ocr | IA `christiancitizen00mcco` |
+| ... Living together; studies in the ministry of reconciliation (New York, Cinncinnati, The Abingdon Press, 1923) | have-ocr | IA `livingtogetherst0000mcco` |
+| The just weight, and other chapel addresses (New York ; Cincinnati : The Abingdon press, 1925) | have-ocr | IA `justweightotherc00mcco` |
+| The Christlike God : a survey of the divine attributes from the Christian point of view (New York : Abingdon Press, 1927) | have-ocr | IA `christlikegodsur0000mcco` |
+| Humanism and Christianity (The Macmillan Company, 1928) | have-ocr | IA `humanismchristia0000fran` |
+| Borden Parker Bowne : his life and his philosophy (New York ; Cincinnati : The Abingdon Press, 1929) | have-ocr | IA `bordenparkerbown0000mcco` |
+| Human needs and world christianity (Friendship Press, 1929) | have-ocr | IA `humanneedsworldc0000fran` |

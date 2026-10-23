@@ -1,0 +1,313 @@
+{
+ "_about": "Public-domain Francis John McConnell (1871-1953), president of DePauw University and Methodist Episcopal bishop, for the Word Hoard: The Diviner Immanence, Christmas Sermons, Edward Gayer Andrews, Religious Certainty, The Increase of Faith, Personal Christianity, The Essentials of Methodism, Understanding the Scriptures, Democratic Christianity, Public Opinion and Theology, Church Finance and Social Ethics, The Preacher and the People, Christian Citizenship, Living Together, The Just Weight, The Christlike God, Humanism and Christianity, Borden Parker Bowne, and Human Needs and World Christianity. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 100 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis john mcconnell",
+  "francis j. mcconnell",
+  "f. j. mcconnell",
+  "mcconnell"
+ ],
+ "_surname": [
+  "francis john mcconnell",
+  "francis j. mcconnell",
+  "f. j. mcconnell",
+  "mcconnell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcconnell-diviner-immanence": [
+   "divinerimmanence00mcco",
+   "The diviner immanence (New York, Cincinnati, The methodist book concern, 1906)"
+  ],
+  "mcconnell-christmas-sermons": [
+   "christmassermons00mcco",
+   "Christmas sermons (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1909)"
+  ],
+  "mcconnell-gayer-andrews": [
+   "edwardgayerandre00mcco",
+   "Edward Gayer Andrews : a bishop of the Methodist Episcopal church (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1909)"
+  ],
+  "mcconnell-religious-certainty": [
+   "religiouscertain00mcco",
+   "Religious certainty (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1910)"
+  ],
+  "mcconnell-increase-of-faith": [
+   "increaseoffaiths00mcco",
+   "The increase of faith : some present-day aids to belief (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, c191)"
+  ],
+  "mcconnell-personal-christianity": [
+   "personalchristia00mcco",
+   "Personal Christianity, instruments and ends in the kingdom of God (New York, Revell, [191)"
+  ],
+  "mcconnell-essentials-methodism": [
+   "essentialsofmeth00mcco",
+   "The essentials of Methodism (New York, Cincinnati, Methodist Book Concern, 1916)"
+  ],
+  "mcconnell-understanding-scriptures": [
+   "understandingscr00mcco",
+   "Understanding the Scriptures (New York, Cincinnati, The Methodist Book Concern, 1917)"
+  ],
+  "mcconnell-democratic-christianity": [
+   "democraticchrist00mcco",
+   "Democratic Christianity, some problems of the church in the days just ahead (New York, The Macmillan Co., 1919)"
+  ],
+  "mcconnell-public-opinion": [
+   "publicopinionthe00mcco",
+   "Public opinion and theology (New York, Cincinnati, The Abingdon Press, [c19)"
+  ],
+  "mcconnell-church-finance": [
+   "churchfinances00mcco",
+   "Church finance and social ethics (New York, The Macmillan company, 1920)"
+  ],
+  "mcconnell-preacher-people": [
+   "preacherpeople0000fran",
+   "The preacher and the people (catalogued 1922)"
+  ],
+  "mcconnell-christian-citizenship": [
+   "christiancitizen00mcco",
+   "Christian citizenship; an elective course for young people (New York ; Cincinnati : The Methodist book concern, 1922)"
+  ],
+  "mcconnell-living-together": [
+   "livingtogetherst0000mcco",
+   "... Living together; studies in the ministry of reconciliation (New York, Cinncinnati, The Abingdon Press, 1923)"
+  ],
+  "mcconnell-just-weight": [
+   "justweightotherc00mcco",
+   "The just weight, and other chapel addresses (New York ; Cincinnati : The Abingdon press, 1925)"
+  ],
+  "mcconnell-christlike-god": [
+   "christlikegodsur0000mcco",
+   "The Christlike God : a survey of the divine attributes from the Christian point of view (New York : Abingdon Press, 1927)"
+  ],
+  "mcconnell-humanism": [
+   "humanismchristia0000fran",
+   "Humanism and Christianity (The Macmillan Company, 1928)"
+  ],
+  "mcconnell-bowne": [
+   "bordenparkerbown0000mcco",
+   "Borden Parker Bowne : his life and his philosophy (New York ; Cincinnati : The Abingdon Press, 1929)"
+  ],
+  "mcconnell-human-needs": [
+   "humanneedsworldc0000fran",
+   "Human needs and world christianity (Friendship Press, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcconnell-diviner-immanence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-christmas-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcconnell-gayer-andrews": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-religious-certainty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcconnell-increase-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "c1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcconnell-personal-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcconnell-essentials-methodism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-understanding-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcconnell-democratic-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcconnell-public-opinion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[c1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcconnell-church-finance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcconnell-preacher-people": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-christian-citizenship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-living-together": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-just-weight": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-christlike-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-humanism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-bowne": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconnell-human-needs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis john mcconnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
