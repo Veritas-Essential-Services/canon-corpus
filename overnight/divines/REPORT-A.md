@@ -2138,3 +2138,6 @@
 
 ## 2026-10-23 04:44 CDT — round 80 done
 - francis-blackburne, george-j-mountain, ralph-c-horner, j-d-jones, john-william-colenso, jean-pierre-de-caussade: 6 shelves, 39 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:49 CDT — round 81 done
+- john-wyclif, huldreich-zwingli, jan-hus, hensley-henson: 4 shelves, 34 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
