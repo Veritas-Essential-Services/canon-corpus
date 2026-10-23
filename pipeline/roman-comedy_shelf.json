@@ -324,7 +324,15 @@
  },
  "_rights_checked": {},
  "_held": {
-  "plautus-nixon-v3": "held back on rights, not fetched: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA plautus03plau: Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924)"
+  "plautus-nixon-v3": "held back on rights, not fetched: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA plautus03plau: Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924)",
+  "plautus-perseus-riley-captivi-the-captives": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0119.phi005.perseus-eng2 (Captivi: The Captives, tr. Henry Thomas Riley) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plautus-perseus-riley-mostellaria-or-the-haunted-house": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0119.phi013.perseus-eng2 (Mostellaria, or The Haunted House, tr. Henry Thomas Riley) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-adelphi-or-the-brothers": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi006.perseus-eng2 (Adelphi; or, The Brothers, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-andria-or-the-fair-andrian": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi001.perseus-eng2 (Andria; or, The Fair Andrian, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-eunuchus-or-the-eunuch": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi003.perseus-eng2 (Eunuchus; or, The Eunuch, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-heautontimorumenos-or-the-self-tormenter": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi002.perseus-eng2 (Heautontimorumenos; or, The Self-Tormenter, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-hecyra-the-mother-in-law": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi005.perseus-eng2 (Hecyra; The Mother-in-Law, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-phormio-or-the-scheming-parasite": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi004.perseus-eng2 (Phormio; or, The Scheming Parasite, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  },
  "_surname_by_slug": {
   "plautus-riley-captivi-mostellaria": [
@@ -398,12 +406,6 @@
    "Henry Thomas Riley",
    "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
   ],
-  "plautus-perseus-riley-captivi-the-captives": [
-   "phi0119.phi005.perseus-eng2",
-   "Captivi: The Captives",
-   "Henry Thomas Riley",
-   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
-  ],
   "plautus-perseus-riley-casina-or-the-stratagem-defeated": [
    "phi0119.phi006.perseus-eng2",
    "Casina, or The Stratagem Defeated",
@@ -445,12 +447,6 @@
    "Miles Gloriosus, or The Braggart Captain",
    "Henry Thomas Riley",
    "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
-  ],
-  "plautus-perseus-riley-mostellaria-or-the-haunted-house": [
-   "phi0119.phi013.perseus-eng2",
-   "Mostellaria, or The Haunted House",
-   "Henry Thomas Riley",
-   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
   ],
   "plautus-perseus-riley-persa-or-the-persian": [
    "phi0119.phi014.perseus-eng2",
@@ -515,7 +511,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -536,7 +532,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -557,7 +553,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -578,32 +574,11 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
     "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi004/phi0119.phi004.perseus-eng2.xml",
-    "share_alike": true,
-    "redistribute_whole": false
-   }
-  },
-  "plautus-perseus-riley-captivi-the-captives": {
-   "checked": "2026-10-23",
-   "identity": "ok",
-   "urn": "urn:cts:latinLit:phi0119.phi005.perseus-eng2",
-   "repo": "PerseusDL/canonical-latinLit",
-   "translator_checked": "Riley",
-   "author_seen": "plautus",
-   "source_years": [
-    1912
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
-   "rights": {
-    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
-    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi005/phi0119.phi005.perseus-eng2.xml",
     "share_alike": true,
     "redistribute_whole": false
    }
@@ -620,7 +595,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -641,7 +616,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -662,7 +637,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -683,7 +658,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -704,7 +679,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -725,7 +700,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -746,32 +721,11 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
     "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi012/phi0119.phi012.perseus-eng2.xml",
-    "share_alike": true,
-    "redistribute_whole": false
-   }
-  },
-  "plautus-perseus-riley-mostellaria-or-the-haunted-house": {
-   "checked": "2026-10-23",
-   "identity": "ok",
-   "urn": "urn:cts:latinLit:phi0119.phi013.perseus-eng2",
-   "repo": "PerseusDL/canonical-latinLit",
-   "translator_checked": "Riley",
-   "author_seen": "plautus",
-   "source_years": [
-    1913
-   ],
-   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
-   "rights": {
-    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
-    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi013/phi0119.phi013.perseus-eng2.xml",
     "share_alike": true,
     "redistribute_whole": false
    }
@@ -788,7 +742,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -809,7 +763,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -830,7 +784,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -851,7 +805,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -872,7 +826,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -893,7 +847,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -914,7 +868,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "fetched",
+   "status": "kept",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
