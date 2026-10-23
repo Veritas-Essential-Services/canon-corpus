@@ -9968,6 +9968,16 @@ Slugs `brett-*`. Built from title pages read for round 40.
 | A chronological essay on the sacred history ... being a defence of the computation of the Septuagint (London : F. Gyles, 1729) | have-ocr | IA `chronologicaless00bret` |
 | Other scans of the 1838 Liturgies (Toronto) | alternate | not shelved |
 | Works by later Thomas Bretts (law books 1887-1902) | excluded | |
+
+## John Johnson of Cranbrook (round 40, my pick, 2026-10-22)
+
+Slugs `jjohnson-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of the Rev. John Johnson, vol. 1 (Oxford : John Henry Parker, 1847) | have-ocr | IA `theologicalworks01john` |
+| The theological works of the Rev. John Johnson, vol. 2 (Oxford : John Henry Parker, 1847) | have-ocr | IA `theologicalworks02john` |
+| Other scans of the 1847 Works; Brett's Life of the Late Reverend John Johnson (1748) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
