@@ -10631,3 +10631,12 @@ Shelf: `pipeline/john-oakesmith_shelf.json`. The Religion of Plutarch (London: L
 |---|---|---|---|
 | The Religion of Plutarch (London: Longmans, 1902) |  | `oakesmith-religion-of-plutarch-1902` | have (PG 72730) |
 
+
+## John Wilson Ross (1818-1887)
+
+Shelf: `pipeline/john-wilson-ross_shelf.json`. Tacitus and Bracciolini: The Annals Forged in the XVth Century (1878). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Tacitus and Bracciolini: The Annals Forged in the XVth Century (1878) |  | `ross-tacitus-and-bracciolini-1878` | have (PG 9098) |
+

@@ -1,0 +1,35 @@
+{
+ "_about": "John Wilson Ross (1818-1887): Tacitus and Bracciolini, the Annals Forged in the XVth Century (London: Diprose and Bateman, 1878), published anonymously; a curiosity of classical criticism, kept for the record. Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "John Wilson Ross (1818-1887)",
+ "_name_words": [
+  "ross",
+  "john",
+  "wilson",
+  "tacitus",
+  "bracciolini"
+ ],
+ "_surname": [
+  "john wilson ross",
+  "ross, john wilson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ross-tacitus-and-bracciolini-1878": [
+   9098,
+   "Tacitus and Bracciolini: The Annals Forged in the XVth Century (1878)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "ross-tacitus-and-bracciolini-1878": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john wilson ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
