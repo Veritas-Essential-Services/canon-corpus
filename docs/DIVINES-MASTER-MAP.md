@@ -11568,6 +11568,15 @@ Slugs `cartwright-*`. Built from title pages read for round 52.
 | Fifty years as a presiding elder (Cincinnati : Hitchcock and Walden ; New York : Carlton and Lanahan, 1871) | have-ocr | IA `fiftyyearsaspres1871cart` |
 | Many other printings of the Autobiography (1856-1920) | alternate | not shelved |
 | German and Swedish translations | excluded | |
+
+## Basil Manly Jr. (round 53, my pick, 2026-10-23)
+
+Slugs `manly-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bible doctrine of inspiration explained and vindicated (New York : A.C. Armstrong, 1888) | have-ocr | IA `bibledoctrineofi00manl` |
+| His father Basil Manly Sr.'s Mercy and Judgment (1837) and sermons; the Baptist Psalmody (1850, compiled by both); Civil War tracts; Basil M. Manly's industrial-relations reports (1915-1916, another man) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
