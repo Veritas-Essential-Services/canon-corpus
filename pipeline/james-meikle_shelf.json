@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain James Meikle (1730-1799), Scottish naval surgeon of Carnwath and devotional writer, for the Word Hoard: Solitude Sweetened, The Traveller (meditations written on board a man of war), Metaphysical Maxims, his Miscellaneous Works and his Select Remains. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 88 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james meikle",
+  "j. meikle"
+ ],
+ "_surname": [
+  "james meikle",
+  "j. meikle",
+  "meikle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "meikle-metaphysical-maxims": [
+   "bim_eighteenth-century_metaphysical-maxims-or-_meikle-james_1797",
+   "Metaphysical maxims: or, thoughts on the nature of the soul, free will, and the divine prescience. By James Meikle, ...  1797 (catalogued 1797)"
+  ],
+  "meikle-miscellaneous-works": [
+   "miscellaneouswor00meik",
+   "The miscellaneous works of Mr. James Meikle, late surgeon in Carnwath (Edinburgh, Ogle & Aikman; London, R. Ogle; [etc., etc.], 1807)"
+  ],
+  "meikle-solitude-sweetened": [
+   "solitudesweetene00meik",
+   "Solitude sweetened : or miscellaneous mediatations on various religious subjects written in distant parts of the world (New York : Printed for S. Dodge by Geo. Forman, 1811)"
+  ],
+  "meikle-traveller": [
+   "travellerormedit00meik",
+   "The traveller; or, Meditations on various subjects. Written on board a man of war. To which is added, Converse with the world unseen (Albany, E.Torrey and W.Seaver; E. & E. Hosford, printers, 1812)"
+  ],
+  "meikle-select-remains": [
+   "selectremainsofm00meik",
+   "The select remains of Mr. James Meikle, late surgeon in Carnwath, or, Extracts from manuscripts found among his papers (Pittsburgh : R. Patterson & Lambdin, 1818)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "meikle-beith": "The Nature of the Mediatorial Dispensation (1853), by Rev. James Meikle of Beith, a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "meikle-metaphysical-maxims": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meikle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "meikle-miscellaneous-works": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james meikle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1807",
+   "ia_date": "1807",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "meikle-solitude-sweetened": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james meikle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meikle-traveller": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james meikle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meikle-select-remains": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james meikle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

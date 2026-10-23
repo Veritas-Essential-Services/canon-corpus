@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Joseph I. Gorfinkle (b. 1880): Pirke Avot, The Sayings of the Jewish Fathers (Bloch, 1913). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Joseph I. Gorfinkle (b. 1880): Pirke Avot, The Sayings of the Jewish Fathers (Bloch, 1913). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. From archive.org (2026-10-23): The Eight Chapters of Maimonides on Ethics (Columbia, 1912), edited, annotated and translated.",
  "_name_words": [
   "joseph i. gorfinkle",
   "gorfinkle"
@@ -16,7 +16,12 @@
    "Pirke Avot: The Sayings of the Jewish Fathers"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "jig-ia-maimonides-eight-chapters": [
+   "cu31924029203119",
+   "Maimonides: Eight Chapters"
+  ]
+ },
  "titles": {
   "gorfinkle-pirke-avot-the-sayings-of-the-jewish-fat": {
    "source": "jig-8547",
@@ -25,6 +30,14 @@
    "translated": "1913 (see the Gutenberg header)",
    "translator": "Joseph I. Gorfinkle",
    "scan_edition": "Project Gutenberg 8547 (clean text)"
+  },
+  "gorfinkle-maimonides-eight-chapters-on-ethics": {
+   "source": "jig-ia-maimonides-eight-chapters",
+   "of": "Moses Maimonides",
+   "work": "The Eight Chapters of Maimonides on Ethics (Shemonah Perakim)",
+   "translated": "1912",
+   "translator": "Joseph I. Gorfinkle",
+   "scan_edition": "Columbia University Press, New York, 1912 (Columbia Oriental Studies VII; Hebrew text with translation)"
   }
  },
  "_pending": {},
@@ -35,12 +48,23 @@
  "_checks": {
   "jig-8547": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph i. gorfinkle",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Joseph I. Gorfinkle"
+  },
+  "jig-ia-maimonides-eight-chapters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gorfinkle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -48,6 +72,22 @@
    "pg": 8547,
    "pg_copyrighted_marker": false,
    "pg_translator": "Joseph I. Gorfinkle"
+  },
+  "jig-ia-maimonides-eight-chapters": {
+   "ia": "cu31924029203119",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1834,
+    1861,
+    1863,
+    1876,
+    1888,
+    1903,
+    1905,
+    1908,
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

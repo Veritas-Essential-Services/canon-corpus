@@ -1,0 +1,163 @@
+{
+ "_about": "Public-domain George Albert Coe (1862-1951), Methodist psychologist of religion and religious educator at Northwestern, Union Seminary and Teachers College, for the Word Hoard: his books printed before 1930: The Spiritual Life, The Religion of a Mature Mind, Education in Religion and Morals, Can Religion be Taught?, The Psychology of Religion, A Social Theory of Religious Education, What Ails our Youth?, The Motives of Men and What is Christian Education? Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 93 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george albert coe",
+  "george a. coe",
+  "g. a. coe"
+ ],
+ "_surname": [
+  "george albert coe",
+  "george a. coe",
+  "g. a. coe"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "coe-spiritual-life": [
+   "spirituallifestu00coeguoft",
+   "The spiritual life, studies in the science of religion (New York, Eaton, 1900)"
+  ],
+  "coe-mature-mind": [
+   "religionofmature00coegrich",
+   "The religion of a mature mind (Chicago : F. H. Revell, 1902)"
+  ],
+  "coe-education-religion": [
+   "educationinrelig00coeguoft",
+   "Education in religion and morals (Chicago : F.H. Revell, c190)"
+  ],
+  "coe-can-religion-be-taught": [
+   "canreligionbetau0000coeg",
+   "Can religion be taught? The inauguration of George Albert Coe ... as Skinner and McAlpin professor of practical theology [Union theological seminary] November sixteenth, 1909 (New York, 1909)"
+  ],
+  "coe-psychology-religion": [
+   "psychologyofreli00coegrich",
+   "The psychology of religion (Chicago, University of Chicago Press, [191)"
+  ],
+  "coe-social-theory": [
+   "socialtheoryofre0000coeg",
+   "A social theory of religious education (New York, C. Scribner's Sons, 1917)"
+  ],
+  "coe-what-ails-youth": [
+   "whatailsouryouth00coeg",
+   "What ails our youth? (New York, C. Scribner's Sons, 1924)"
+  ],
+  "coe-motives-of-men": [
+   "motivesofmen00coeg",
+   "The motives of men (New York : Scribner's, 1929)"
+  ],
+  "coe-christian-education": [
+   "whatischristiane00coeg",
+   "What is Christian education? (New York ; London : C. Scribner's sons, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "coe-other": "his fraternity history, the memoir of his wife, a school-law book and a Sunday-school curriculum outline; everything printed from 1930 on"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "coe-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coe-mature-mind": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george albert coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coe-education-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george albert coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "c1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coe-can-religion-be-taught": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george albert coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coe-psychology-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george albert coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "[1917, c1916]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coe-social-theory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george albert coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coe-what-ails-youth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coe-motives-of-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coe-christian-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. coe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

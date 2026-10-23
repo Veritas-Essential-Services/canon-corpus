@@ -1,10 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: Frederic Whyte (1867-1941): Filon's The English Stage (1897) and Schillings's In Wildest Africa, 2 vols (1907). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Frederic Whyte (1867-1941): Filon's The English Stage (1897) and Schillings's In Wildest Africa, 2 vols (1907). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted. From archive.org (2026-10-23): Lenz's Napoleon (1907), Schillings's Flashlights in the Jungle (1905) and Waldersee's A Field-Marshal's Memoirs (1924, condensed and translated); Sarfatti's Life of Benito Mussolini held, its title page prints no year.",
  "_name_words": [
-  "frederic whyte"
+  "frederic whyte",
+  "frederic whtte"
  ],
  "_surname": [
-  "frederic whyte"
+  "frederic whyte",
+  "frederic whtte"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -22,7 +24,20 @@
    "In Wildest Africa, Vol. 2"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "fwh-ia-waldersee-memoirs": [
+   "fieldmarshalsmem0000fred",
+   "Waldersee: A Field-Marshal's Memoirs"
+  ],
+  "fwh-ia-lenz-napoleon": [
+   "napoleonabiogra00lenzgoog",
+   "Lenz: Napoleon"
+  ],
+  "fwh-ia-schillings-flashlights": [
+   "flashlightsinju00whytgoog",
+   "Schillings: Flashlights in the Jungle"
+  ]
+ },
  "titles": {
   "frederic-whyte-filon-the-english-stage-being-an-account-of-th": {
    "source": "fwh-36590",
@@ -47,15 +62,41 @@
    "translated": "1897-1907 (see the Gutenberg header)",
    "translator": "Frederic Whyte",
    "scan_edition": "Project Gutenberg 54923 (clean text)"
+  },
+  "frederic-whyte-waldersee-a-field-marshals-memoirs": {
+   "source": "fwh-ia-waldersee-memoirs",
+   "of": "Count Alfred von Waldersee",
+   "work": "A Field-Marshal's Memoirs (condensed and translated)",
+   "translated": "1924",
+   "translator": "Frederic Whyte",
+   "scan_edition": "Hutchinson & Co., London, 1924"
+  },
+  "frederic-whyte-lenz-napoleon": {
+   "source": "fwh-ia-lenz-napoleon",
+   "of": "Max Lenz",
+   "work": "Napoleon: A Biography",
+   "translated": "1907",
+   "translator": "Frederic Whyte",
+   "scan_edition": "G. P. Putnam's Sons, New York, 1907"
+  },
+  "frederic-whyte-schillings-flashlights-in-the-jungle": {
+   "source": "fwh-ia-schillings-flashlights",
+   "of": "C. G. Schillings",
+   "work": "Flashlights in the Jungle",
+   "translated": "1905",
+   "translator": "Frederic Whyte",
+   "scan_edition": "Doubleday, Page & Company, New York, 1905"
   }
  },
- "_pending": {},
+ "_pending": {
+  "frederic-whyte-sarfatti-mussolini": "Sarfatti's The Life of Benito Mussolini (Frederick A. Stokes, New York, 'made and printed in Great Britain'; lifeofbenitomuss0000marg), from the Italian by Frederic Whyte. The title page prints no year; archive.org dates it 1925."
+ },
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'frederic whtte' is the OCR of the Lenz Napoleon title page (2026-10-23).",
  "_checks": {
   "fwh-36590": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frederic whyte",
    "identity": "ok",
@@ -64,7 +105,7 @@
   },
   "fwh-54922": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frederic whyte",
    "identity": "ok",
@@ -73,12 +114,45 @@
   },
   "fwh-54923": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frederic whyte",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Frederic Whyte"
+  },
+  "fwh-ia-waldersee-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic whyte",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fwh-ia-lenz-napoleon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic whtte",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fwh-ia-schillings-flashlights": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic whyte",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -96,6 +170,58 @@
    "pg": 54923,
    "pg_copyrighted_marker": false,
    "pg_translator": "Frederic Whyte"
+  },
+  "fwh-ia-waldersee-memoirs": {
+   "ia": "fieldmarshalsmem0000fred",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791,
+    1801,
+    1832,
+    1848,
+    1859,
+    1864,
+    1870,
+    1871,
+    1873,
+    1878,
+    1882,
+    1888,
+    1891,
+    1892,
+    1895,
+    1897,
+    1898,
+    1899,
+    1900,
+    1902,
+    1904,
+    1922,
+    1923,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fwh-ia-lenz-napoleon": {
+   "ia": "napoleonabiogra00lenzgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1776,
+    1778,
+    1789,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fwh-ia-schillings-flashlights": {
+   "ia": "flashlightsinju00whytgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1902,
+    1905,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

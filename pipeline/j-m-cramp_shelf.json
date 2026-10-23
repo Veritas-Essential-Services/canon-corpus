@@ -1,0 +1,225 @@
+{
+ "_about": "Public-domain J. M. Cramp, Baptist minister and president of Acadia College, Nova Scotia, for the Word Hoard: A Text-Book of Popery, The Council of Trent, The History of the Reformation in Europe, a memoir of William Knibb, Scripture and Tradition with its appendix, and his addresses and sermons in Canada. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 124 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. m. cramp",
+  "john mockett cramp",
+  "john m. cramp",
+  "cramp"
+ ],
+ "_surname": [
+  "cramp"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cramp-text-book-popery": [
+   "textbookofpopery00cramrich",
+   "A text-book of popery; comprising a brief history of the Council of Trent, a translation of its doctrinal decrees, and copious extracts from the catechism published by its authority; with notes and illustrations: to which is added, in an appendix, the doctrinal decrees, and canons of the Council of Trent, in Latin, as published at Rome, anno Domini 1564: the whole intended to furnish a correct and complete view of the theological system of popery (New York, D. Appleton, 1831)"
+  ],
+  "cramp-council-of-trent": [
+   "counciloftrentco00cramuoft",
+   "The Council of Trent : comprising an account of the proceedings of that assembly; and illustrating the spirit and tendency of popery (London : Religious Tract Society, sold at the Depository, [etc.], 1839)"
+  ],
+  "cramp-reformation": [
+   "historyofreforma00cram",
+   "The history of the Reformation in Europe : with a chronology of the Reformation (London : Religious Tract Society ; New-York : Robert Carter, 1844)"
+  ],
+  "cramp-knibb": [
+   "cihm_91121",
+   "A brief memoir of the Rev. William Knibb, late missionary in Jamaica : with an appendix, containing a sketch of the history of the Baptist Missionary Society ([Montréal? : s.n.], 1846)"
+  ],
+  "cramp-1800-and-1850": [
+   "cihm_28572",
+   "1800 and 1850 : a lecture delivered before the Montreal Mechanics' Institute on Tuesday evening, January 8, 1850 ([Montreal? : s.n.], 1850)"
+  ],
+  "cramp-inaugural": [
+   "cihm_44674",
+   "The inaugural address, delivered by the president, June 20, 1851, and his introductory lecture to the theological course, delivered Sept. 23, 1851 : with an appendix containing a history of the college, the acts of incorporation, etc. etc ([Halifax, N.S.? : s.n.], 1851)"
+  ],
+  "cramp-future-of-baptists": [
+   "cihm_64769",
+   "The \"Future\" of the Baptists and their duty to prepare for it : a lecture delivered at Wolfville, N.S., March 25th, 1852 ([Halifax, N.S.? : s.n.], 1852)"
+  ],
+  "cramp-liquor-law": [
+   "cihm_57060",
+   "Prohibitory liquor law : the substance of an address delivered during the sitting of the Provincial Temperance Convention, in the Temperance Hall, Halifax, on the 23rd February, 1854 : the members of the House of Assembly and of the Legislative Council being present by invitation ([Halifax, N.S.? : s.n.], 1854)"
+  ],
+  "cramp-scripture-tradition": [
+   "cihm_49779",
+   "Scripture and tradition : a reply to Mr. Maturin's letter on \"The claims of the Catholic Church\" ([Halifax, N.S.? : s.n.], 1859)"
+  ],
+  "cramp-scripture-tradition-appendix": [
+   "cihm_92598",
+   "Appendix to Scripture and tradition : a reply to Mr. Manturin's letter on \"The claims of the Catholic Church\" ([Halifax, N.S.? : s.n.], 1859)"
+  ],
+  "cramp-martyrs": [
+   "cihm_67275",
+   "The succession of matryrs : a sermon preached before the Central Baptist Association of Nova Scotia, at its ninth annual session, held with the church in Granville Street, Halifax, June 20, 1859 ([Halifax, N.S.? : s.n.], 1859)"
+  ],
+  "cramp-wicked": [
+   "cihm_91734",
+   "What will become of the wicked? : an address (Halifax, N.S. : Christian Messenger Office, 1860)"
+  ],
+  "cramp-nova-scotia-centenary": [
+   "cihm_51265",
+   "Centenary of the Baptists in Nova Scotia : A discourse delivered at Hillsburgh, June 10, 1860 (Halifax, : printed at the \"Christian Messenger\" office, 1860)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cramp-trent-abridged": "counciltrentabr00cramgoog, an abridgement by another hand",
+  "cramp-others": "the botanical Annales and the Society of Arts journal are not his",
+  "cramp-dups": "reformationineur0000cram and centenaryofbapti00cram (its OCR lacks the title page) are second scans"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cramp-text-book-popery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cramp-council-of-trent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cramp-reformation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cramp-knibb": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-1800-and-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-inaugural": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-future-of-baptists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-liquor-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-scripture-tradition": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-scripture-tradition-appendix": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-martyrs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-wicked": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cramp-nova-scotia-centenary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cramp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

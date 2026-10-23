@@ -1,0 +1,238 @@
+{
+ "_about": "Public-domain William Bright, Regius Professor of Ecclesiastical History at Oxford and hymn-writer, for the Word Hoard: A History of the Church from the Edict of Milan to the Council of Chalcedon, Chapters of Early English Church History, Notes on the Canons of the First Four General Councils, Lessons from the Lives of Three Great Fathers, Waymarks in Church History, The Roman See in the Early Church, Some Aspects of Primitive Church Life, The Age of the Fathers, his sermons, his hymns and poems, and his selected letters. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 123 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william bright",
+  "w. bright",
+  "bright"
+ ],
+ "_surname": [
+  "bright"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bright-church-history": [
+   "cu31924029227174",
+   "A history of the church from the Edict of Milan, A.D. 313, to the Council of Chalcedon, A.D. 451 (Oxford and London : J.H. and Jas. Parker, 1860)"
+  ],
+  "bright-hymns-poems": [
+   "hymnsotherpoems00brig",
+   "Hymns and other poems (London : Rivingtons, 1866)"
+  ],
+  "bright-hymns-verses": [
+   "erses00brig",
+   "Hymns and other verses (London : Rivingtons, 1874)"
+  ],
+  "bright-early-english": [
+   "chaptersofearlye00brigrich",
+   "Chapters of early English church history (Oxford : Clarendon Press, 1878)"
+  ],
+  "bright-notes-canons": [
+   "notesonthecanons00briguoft",
+   "Notes on the canons of the first four general councils (Oxford : Clarendon Press, 1882)"
+  ],
+  "bright-three-fathers": [
+   "lessonsfromlives00brig",
+   "Lessons from the lives of three great fathers : with appendices (London : Longmans, Green, 1890)"
+  ],
+  "bright-incarnation": [
+   "incarnationasmot00brig",
+   "The incarnation as a motive power : sermons (London : Longmans, Green, 1891)"
+  ],
+  "bright-morality-doctrine": [
+   "moralityindoctri0000unse",
+   "Morality in doctrine (London ; New York : Longmans, Green, 1892)"
+  ],
+  "bright-waymarks": [
+   "waymarksinchurch00brig",
+   "Waymarks in Church History (London : Longmans, Green & Co., 1894)"
+  ],
+  "bright-roman-see": [
+   "romanseeinearlyc00brig",
+   "The Roman see in the early Church, and other studies in church history (London, New York [etc.] : Longmans, Green, & co., 1896)"
+  ],
+  "bright-primitive-church": [
+   "someaspectsofpri00briguoft",
+   "Some aspects of primitive church life (London, Longmans, 1898)"
+  ],
+  "bright-law-of-faith": [
+   "lawoffaith0000brig",
+   "The law of faith (London : Wells, Gardner, Darton, 1898)"
+  ],
+  "bright-letters": [
+   "selectedletterso00briguoft",
+   "Selected letters of William Bright, D.D. : regius professor of eccleciastical history in the University of Oxford : canon of Christ church (London : W. Gardner, Darton, 1903)"
+  ],
+  "bright-age-of-fathers": [
+   "ageoffathersbein0000brig",
+   "The age of the fathers, being chapters in the history of the church during the fourth and fifth centuries (London New York Bombay : Longmans, Green, 1903)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bright-editions": "his editions of Athanasius's Orations, Augustine's anti-Pelagian treatises and De spiritu et littera, the Canons of the first four councils and the Definitions of the Catholic Faith are Greek and Latin texts he edited",
+  "bright-prayer-book": "the 1549 Prayer Book reprint",
+  "bright-dups": "historyofchurchf0000brig, agefathersbeing01briggoog and MN41820ucmf_5 are second scans"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bright-church-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bright-hymns-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-hymns-verses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bright-early-english": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-notes-canons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-three-fathers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-incarnation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bright-morality-doctrine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bright-waymarks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-roman-see": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-primitive-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-law-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bright-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bright-age-of-fathers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

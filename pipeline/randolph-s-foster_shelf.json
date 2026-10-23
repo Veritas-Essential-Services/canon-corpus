@@ -1,0 +1,161 @@
+{
+ "_about": "Public-domain Randolph Sinks Foster (1820-1903), Methodist Episcopal bishop and theologian, for the Word Hoard: Objections to Calvinism as it is (1849), Nature and Blessedness of Christian Purity (1851), Beyond the Grave (1879) and Studies in Theology (6 vols, 1889-1899), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "foster"
+ ],
+ "_surname": [
+  "randolph s. foster",
+  "r. s. foster",
+  "randolph sinks foster"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rsfoster-objections-to-calvinism": [
+   "objectionstocalv00fost",
+   "Objections to Calvinism as it is : in a series of letters addressed to N.L. Rice (Cincinnati : Hitchcock and Walden, 1849)"
+  ],
+  "rsfoster-christian-purity": [
+   "natureblessednes00fost",
+   "Nature and blessedness of Christian purity (New York, Harper, 1851)"
+  ],
+  "rsfoster-beyond-the-grave": [
+   "beyondgrave00fost",
+   "Beyond the grave (N.Y., 1879)"
+  ],
+  "rsfoster-studies-1": [
+   "studiesintheolog01fost",
+   "Studies in theology, vol. 1 (New York : Hunt & Eaton, 1889)"
+  ],
+  "rsfoster-studies-2": [
+   "studiesintheolog02fost",
+   "Studies in theology, vol. 2 (New York : Hunt & Eaton, 1889)"
+  ],
+  "rsfoster-studies-3": [
+   "studiesintheolog03fost",
+   "Studies in theology, vol. 3 (New York : Hunt & Eaton, 1889)"
+  ],
+  "rsfoster-studies-4": [
+   "studiesintheolog04fost",
+   "Studies in theology, vol. 4 (New York : Hunt & Eaton, 1889)"
+  ],
+  "rsfoster-studies-5": [
+   "studiesintheolog05fost",
+   "Studies in theology, vol. 5 (New York : Hunt & Eaton, 1889)"
+  ],
+  "rsfoster-studies-6": [
+   "studiesintheolog06fost",
+   "Studies in theology, vol. 6 (New York : Hunt & Eaton, 1889)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rsfoster-other": "The Ingham Lectures (1872, several authors); memoirs of others he introduced"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rsfoster-objections-to-calvinism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rsfoster-christian-purity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rsfoster-beyond-the-grave": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "rsfoster-studies-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rsfoster-studies-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rsfoster-studies-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rsfoster-studies-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rsfoster-studies-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rsfoster-studies-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "randolph s. foster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

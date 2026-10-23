@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Gilbert Cannan (1884-1955): Romain Rolland's Jean-Christophe (Heinemann/Holt, 1910-13, 3 vols) and Chekhov's The House with the Mezzanine (with S. S. Koteliansky, 1917). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Gilbert Cannan (1884-1955): Romain Rolland's Jean-Christophe (Heinemann/Holt, 1910-13, 3 vols) and Chekhov's The House with the Mezzanine (with S. S. Koteliansky, 1917). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted. From archive.org (2026-10-23): Heinrich Heine's Memoirs, ed. Karpeles, vols. I and II (Heinemann, 1910).",
  "_name_words": [
   "gilbert cannan"
  ],
@@ -26,7 +26,16 @@
    "Jean-Christophe in Paris: The Market-Place, Antoinette, the House"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "gca-ia-heine-memoirs-1": [
+   "heinrichheinesme00heinuoft",
+   "Heine: Memoirs 1"
+  ],
+  "gca-ia-heine-memoirs-2": [
+   "heinrichheinesme02heinuoft",
+   "Heine: Memoirs 2"
+  ]
+ },
  "titles": {
   "gilbert-cannan-chekhov-the-house-with-the-mezzanine-and-other-s": {
    "source": "gca-27411",
@@ -60,6 +69,22 @@
    "translated": "1910-1917 (see the Gutenberg header)",
    "translator": "Gilbert Cannan",
    "scan_edition": "Project Gutenberg 7979 (clean text)"
+  },
+  "gilbert-cannan-heine-memoirs-1": {
+   "source": "gca-ia-heine-memoirs-1",
+   "of": "Heinrich Heine (ed. Gustav Karpeles)",
+   "work": "Heinrich Heine's Memoirs, from his Works, Letters, and Conversations, vol. I",
+   "translated": "1910",
+   "translator": "Gilbert Cannan",
+   "scan_edition": "William Heinemann, London, 1910"
+  },
+  "gilbert-cannan-heine-memoirs-2": {
+   "source": "gca-ia-heine-memoirs-2",
+   "of": "Heinrich Heine (ed. Gustav Karpeles)",
+   "work": "Heinrich Heine's Memoirs, from his Works, Letters, and Conversations, vol. II",
+   "translated": "1910",
+   "translator": "Gilbert Cannan",
+   "scan_edition": "William Heinemann, London, 1910"
   }
  },
  "_pending": {},
@@ -68,7 +93,7 @@
  "_checks": {
   "gca-27411": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "gilbert cannan",
    "identity": "ok",
@@ -77,7 +102,7 @@
   },
   "gca-7967": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "gilbert cannan",
    "identity": "ok",
@@ -86,7 +111,7 @@
   },
   "gca-7979": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "gilbert cannan",
    "identity": "ok",
@@ -95,12 +120,34 @@
   },
   "gca-8149": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "gilbert cannan",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Gilbert Cannan"
+  },
+  "gca-ia-heine-memoirs-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gilbert cannan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gca-ia-heine-memoirs-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gilbert cannan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -123,6 +170,34 @@
    "pg": 8149,
    "pg_copyrighted_marker": false,
    "pg_translator": "Gilbert Cannan"
+  },
+  "gca-ia-heine-memoirs-1": {
+   "ia": "heinrichheinesme00heinuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1799,
+    1819,
+    1820,
+    1823,
+    1825,
+    1828,
+    1831,
+    1848,
+    1884,
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gca-ia-heine-memoirs-2": {
+   "ia": "heinrichheinesme02heinuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1831,
+    1848,
+    1856,
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

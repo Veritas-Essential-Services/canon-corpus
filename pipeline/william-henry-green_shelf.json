@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain William Henry Green (1825-1900), Princeton Seminary Old Testament professor and chairman of the Old Testament revision company, for the Word Hoard: The Pentateuch Vindicated (1863), The Argument of the Book of Job Unfolded (1874), Moses and the Prophets (1883), The Hebrew Feasts (1885), The Higher Criticism of the Pentateuch (1895), The Unity of the Book of Genesis (1895), General Introduction to the Old Testament: the Canon (1898) and the Text (1899), and his Hebrew Grammar (1872), from Internet Archive scans. Added 2026-10-23 by lane A, round 54 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "green"
+ ],
+ "_surname": [
+  "william henry green",
+  "w. henry green",
+  "wm. henry green",
+  "w. h. green"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whgreen-pentateuch-vindicated": [
+   "pentateuchvindic00gree",
+   "The Pentateuch vindicated from the aspersions of Bishop Colenso (New York, J. Wiley, 1863)"
+  ],
+  "whgreen-hebrew-grammar": [
+   "grammarofhebrewl1872gree",
+   "A grammar of the Hebrew language (New York : John Wiley & sons, 1872)"
+  ],
+  "whgreen-argument-of-job": [
+   "argumentofbookof00gree",
+   "The argument of the book of Job unfolded (New York, Robert Carter & bros., 1874)"
+  ],
+  "whgreen-moses-and-prophets": [
+   "mosesprophetsold00gree",
+   "Moses and the prophets: The Old Testament in the Jewish Church (New York R. Carter, 1883)"
+  ],
+  "whgreen-hebrew-feasts": [
+   "hebrewfeastsinth00gree",
+   "The Hebrew feasts in their relation to recent critical hypotheses concerning the Pentateuch (New York : Hurst, 1885)"
+  ],
+  "whgreen-higher-criticism": [
+   "highercriticismo00gre",
+   "The higher criticism of the Pentateuch (New York, C. Scribner's sons, 1895)"
+  ],
+  "whgreen-unity-of-genesis": [
+   "unityofbookofgen00gree",
+   "The unity of the book of Genesis (New York, C. Scribner's sons, 1895)"
+  ],
+  "whgreen-introduction-canon": [
+   "generalintroduct00gree",
+   "General introduction to the Old Testament : the canon (New York, C. Scribner's sons, 1898)"
+  ],
+  "whgreen-introduction-text": [
+   "cu31924029277667",
+   "General introduction to the Old Testament; the text (New York : C. Scribner's sons, 1899)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "whgreen-other": "Class syllabi printed not published (Prophets and Prophecy, Old Testament Canon and Philology); the Hebrew Chrestomathy and Elementary Grammar; occasional sermons; German and Spanish translations of his books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "whgreen-introduction-canon": "Title page OCR reads 'GENERAL INTRODUCTION TO THE OLD TESTAMENT THE CANON BY WILLIAM HENEY GEEEN, D.D., LL.D. PROFESSOR OF ORIENTAL AND OLD TESTAMENT LITERATURE IN PRINCETON THEOLOGICAL SEMINARY' (name garbled); Scribner 1898."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "whgreen-pentateuch-vindicated": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whgreen-hebrew-grammar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whgreen-argument-of-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whgreen-moses-and-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whgreen-hebrew-feasts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whgreen-higher-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whgreen-unity-of-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whgreen-introduction-canon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whgreen-introduction-text": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william henry green",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

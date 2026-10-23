@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain Samuel McChord Crothers (1857-1927), Unitarian minister of the First Parish, Cambridge, for the Word Hoard: Members of One Body, Fortnightly Sermons, The Understanding Heart, Love that Casteth out Fear, and The Endless Life (the Ingersoll lecture). His literary essays are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 103 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel mcchord crothers",
+  "samuel m. crothers",
+  "s. m. crothers",
+  "crothers"
+ ],
+ "_surname": [
+  "samuel mcchord crothers",
+  "samuel m. crothers",
+  "s. m. crothers",
+  "crothers"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "crothers-members-one-body": [
+   "membersofonebody00crotrich",
+   "Members of one body : six sermons (Boston : G.H. Ellis, 1892)"
+  ],
+  "crothers-fortnightly-sermons": [
+   "fortnightlysermo189596crot",
+   "Fortnightly sermons, vol. 1895-96 (Cambridge : Wilson, 1895)"
+  ],
+  "crothers-understanding-heart": [
+   "understandinghea00crot",
+   "The understanding heart (Boston, American Unitarian Association, 1903)"
+  ],
+  "crothers-love-casteth": [
+   "lovethatcastetho00crot",
+   "Love that casteth out fear (Cambridge : Caustic-Claflin Co., 1904)"
+  ],
+  "crothers-endless-life": [
+   "endlesslife00crot_0",
+   "The endless life (Boston : Houghton, Mifflin, 1905)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "crothers-literary": "The Gentle Reader, The Pardoner's Wallet, Miss Muffet's Christmas Party (literary essays and a children's book)",
+  "crothers-being-doing": "Being and Doing (several authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "crothers-members-one-body": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel mcchord crothers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "crothers-fortnightly-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel m. crothers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "crothers-understanding-heart": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel m. crothers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "crothers-love-casteth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel mcchord crothers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "crothers-endless-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel mcchord crothers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

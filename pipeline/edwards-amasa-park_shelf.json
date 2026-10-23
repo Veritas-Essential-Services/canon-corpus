@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Edwards Amasa Park (1808-1900), Abbot Professor at Andover, last of the New England theologians, for the Word Hoard: Discourses on some Theological Doctrines (1885), his Memorial Collection of Sermons (1902) and the Memoir of Samuel Hopkins (1854), from Internet Archive scans. Added 2026-10-23 by lane A, round 47 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "park"
+ ],
+ "_surname": [
+  "edwards a. park",
+  "edwards amasa park",
+  "edwards park"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "park-discourses": [
+   "discoursesonsome00park",
+   "Discourses on some theological doctrines. as related to the religious character (Andover [Mass.] : Warren F. Draper, 1885)"
+  ],
+  "park-memorial-sermons": [
+   "memorialcollect01parkgoog",
+   "Memorial collection of sermons (Boston, Pilgrim Press, 1902)"
+  ],
+  "park-memoir-hopkins": [
+   "memlifecharsam00parkrich",
+   "Memoir of the life and character of Samuel Hopkins, D. D (Boston : Doctrinal Tract and Book Society, 1854)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "park-edited": "The Atonement: discourses and treatises (1859), the Sabbath Hymn Book and the Works of Samuel Hopkins: collections he edited of other men's work; Selections from German Literature (with Edwards)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "park-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwards a. park",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "park-memorial-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwards a. park",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "park-memoir-hopkins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwards a. park",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,286 @@
+{
+ "_about": "Public-domain Arthur Foley Winnington-Ingram (1858-1946), Bishop of London, for the Word Hoard: his books printed before 1930: Work in Great Cities, New Testament Difficulties, Holy Week addresses at St. Paul's, Under the Dome, A Mission of the Spirit, The Call of the Father, Joy in God, Secrets of Strength, The Church in Time of War, Rays of Dawn, Thoughts on Love and Death, The Sword of Goliath, and shorter sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 93 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "a. f. winnington-ingram",
+  "arthur f. winnington-ingram",
+  "winnington-ingram",
+  "bishop of london"
+ ],
+ "_surname": [
+  "a. f. winnington-ingram",
+  "arthur f. winnington-ingram",
+  "winnington-ingram",
+  "winnington ingram",
+  "bishop of london"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ingram-great-cities": [
+   "workingreatcitie00winn",
+   "Work in great cities ; six lectures on pastoral theology (London, Gardner, 1897)"
+  ],
+  "ingram-nt-difficulties": [
+   "newtestamentdiff0000winn",
+   "New Testament difficulties : (Second series), historical and scientific (London : Society for Promoting Christian Knowledge, 1902)"
+  ],
+  "ingram-holy-week-1902": [
+   "addressesgivenin0000winn",
+   "Addresses given in St. Paul's Cathedral : during Holy Week, 1902 (London : Society for Promoting Christian Knowledge ; New York : E. & J.B. Young, 1902)"
+  ],
+  "ingram-under-dome": [
+   "underdome0000winn",
+   "Under the dome (London : Wells, Gardner, Darton, 1902)"
+  ],
+  "ingram-goodly-heritage": [
+   "churchofenglandg00chur",
+   "The Church of England, a goodly heritage : sermon preached at the Weymouth Church Congress, 1905, vol. Talbot Collection of British Pamphlets ([London] ; Brighton : Society for Promoting Christian Knowledge ... ; New York : E. S. Gorham, [190)"
+  ],
+  "ingram-gospel-in-action": [
+   "MN41822ucmf_4",
+   "The Gospel in action (Milwaukee, Wis. : Young Churchman Co., 1906)"
+  ],
+  "ingram-mission-spirit": [
+   "missionofspirit0000winn",
+   "A mission of the Spirit (Milwaukie, Wis. : The Young Churchmen Co., 1906)"
+  ],
+  "ingram-call-father": [
+   "calloffather0000winn",
+   "The Call of the Father (London: Wells Gardner, Darton and Co., Ltd., 1907)"
+  ],
+  "ingram-joy-in-god": [
+   "joyingod0000winn",
+   "Joy in God (London : Wells Gardner, Darton, 1909)"
+  ],
+  "ingram-mysteries-god": [
+   "MN41826ucmf_2",
+   "The mysteries of God (Milwaukee, Wis. : Young Churchman Co, 1910)"
+  ],
+  "ingram-secrets-strength": [
+   "secretsofstrengt0000winn",
+   "Secrets of strength (London : Wells Gardner, Darton & Co., 1911)"
+  ],
+  "ingram-attractiveness-goodness": [
+   "MN41821ucmf_2",
+   "The attractiveness of goodness (Milwaukee, Wis. : Young Churchman Co., 1913)"
+  ],
+  "ingram-life-for-ever": [
+   "lifeforeverever00winn",
+   "\"Life for ever and ever\" (London : W. Gardner, Darton, 1915)"
+  ],
+  "ingram-church-war": [
+   "churchintimeofwa0000winn",
+   "The church in time of war (London, Wells, Gardner, Darton, 1915)"
+  ],
+  "ingram-rays-dawn": [
+   "raysofdawn0000winn",
+   "Rays of dawn (London : Wells Gardner, Darton, 1918)"
+  ],
+  "ingram-love-death": [
+   "thoughtsonlovede00winn",
+   "Thoughts on love and death; a series of short meditations (New York, Frederick A. Stokes Company, 1918)"
+  ],
+  "ingram-sword-goliath": [
+   "swordofgoliath0000winn",
+   "The sword of Goliath (London : Wells Gardner, Darton, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ingram-other": "The Universities and the Social Problem (many authors), The Early English Colonies (lecture summary), and everything printed from 1930 on"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ingram-great-cities": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ingram-nt-difficulties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-holy-week-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. f. winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-under-dome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-goodly-heritage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "[1905?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ingram-gospel-in-action": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-mission-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-call-father": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-joy-in-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-mysteries-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-secrets-strength": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-attractiveness-goodness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop of london",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-life-for-ever": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-church-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-rays-dawn": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ingram-love-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop of london",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ingram-sword-goliath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "winnington-ingram",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

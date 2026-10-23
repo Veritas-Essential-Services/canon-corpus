@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Edna Worthley Underwood (1873-1961): Mickiewicz's Sonnets from the Crimea (1917), Songs of Hafiz (1917), Short Stories from the Balkans (1919) and Famous Stories from Foreign Countries. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Edna Worthley Underwood (1873-1961): Mickiewicz's Sonnets from the Crimea (1917), Songs of Hafiz (1917), Short Stories from the Balkans (1919) and Famous Stories from Foreign Countries. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. From archive.org (2026-10-23): Moons of Nippon (1919).",
  "_name_words": [
   "edna worthley underwood"
  ],
@@ -26,7 +26,12 @@
    "Songs of Hafiz"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "eun-ia-moons-of-nippon": [
+   "moonsnippontran00undegoog",
+   "Moons of Nippon"
+  ]
+ },
  "titles": {
   "edna-underwood-famous-stories-from-foreign-countries": {
    "source": "eun-75466",
@@ -59,6 +64,14 @@
    "translated": "1912-1922 (see the Gutenberg header)",
    "translator": "Edna Worthley Underwood",
    "scan_edition": "Project Gutenberg 73663 (clean text)"
+  },
+  "edna-underwood-moons-of-nippon": {
+   "source": "eun-ia-moons-of-nippon",
+   "of": "Various Japanese poets",
+   "work": "Moons of Nippon: Translations from Poets of Old Japan",
+   "translated": "1919",
+   "translator": "Edna Worthley Underwood",
+   "scan_edition": "Copyright 1919 by Edna Worthley Underwood (Google scan)"
   }
  },
  "_pending": {},
@@ -67,7 +80,7 @@
  "_checks": {
   "eun-27069": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edna worthley underwood",
    "identity": "ok",
@@ -76,7 +89,7 @@
   },
   "eun-73663": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edna worthley underwood",
    "identity": "ok",
@@ -85,7 +98,7 @@
   },
   "eun-75466": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edna worthley underwood",
    "identity": "ok",
@@ -94,12 +107,23 @@
   },
   "eun-77453": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edna worthley underwood",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-ia-moons-of-nippon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna worthley underwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -122,6 +146,14 @@
    "pg": 77453,
    "pg_copyrighted_marker": false,
    "pg_translator": "Edna Worthley Underwood"
+  },
+  "eun-ia-moons-of-nippon": {
+   "ia": "moonsnippontran00undegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

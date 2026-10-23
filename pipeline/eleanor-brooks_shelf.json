@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Eleanor Stimson Brooks: Duhamel's The Heart's Domain (1919) and, with Van Wyck Brooks, Rolland's Summer (1925). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Eleanor Stimson Brooks: Duhamel's The Heart's Domain (1919) and, with Van Wyck Brooks, Rolland's Summer (1925). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. From archive.org (2026-10-23): Le Roy's Jacquou the Rebel (1919), Chauvelot's Mysterious India (1921) and Berguer's Life of Jesus (1923, with Van Wyck Brooks).",
  "_name_words": [
   "eleanor stimson brooks"
  ],
@@ -18,7 +18,20 @@
    "Summer"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "esb-ia-le-roy-jacquou": [
+   "jacquourebeljac00broogoog",
+   "Le Roy: Jacquou the Rebel"
+  ],
+  "esb-ia-chauvelot-mysterious-india": [
+   "mysteriousindia00broogoog",
+   "Chauvelot: Mysterious India"
+  ],
+  "esb-ia-berguer-life-of-jesus": [
+   "someaspectsoflif00berg",
+   "Berguer: Some Aspects of the Life of Jesus"
+  ]
+ },
  "titles": {
   "eleanor-brooks-duhamel-the-heart-s-domain": {
    "source": "esb-66564",
@@ -35,15 +48,41 @@
    "translated": "1919-1925 (see the Gutenberg header)",
    "translator": "Eleanor Stimson Brooks (with Van Wyck Brooks)",
    "scan_edition": "Project Gutenberg 66882 (clean text)"
+  },
+  "eleanor-brooks-le-roy-jacquou-the-rebel": {
+   "source": "esb-ia-le-roy-jacquou",
+   "of": "Eugène Le Roy",
+   "work": "Jacquou the Rebel (Jacquou le croquant)",
+   "translated": "1919",
+   "translator": "Eleanor Stimson Brooks",
+   "scan_edition": "E. P. Dutton & Company, New York (Library of French Fiction; Google scan); the OCR reads the copyright line as 1910, archive.org dates it 1919"
+  },
+  "eleanor-brooks-chauvelot-mysterious-india": {
+   "source": "esb-ia-chauvelot-mysterious-india",
+   "of": "Robert Chauvelot",
+   "work": "Mysterious India: Its Rajahs, Its Brahmans, Its Fakirs",
+   "translated": "1921",
+   "translator": "Eleanor Stimson Brooks",
+   "scan_edition": "The Century Co., New York, 1921 (Google scan)"
+  },
+  "eleanor-brooks-berguer-some-aspects-of-the-life-of-jesus": {
+   "source": "esb-ia-berguer-life-of-jesus",
+   "of": "Georges Berguer",
+   "work": "Some Aspects of the Life of Jesus from the Psychological and Psycho-analytic Point of View",
+   "translated": "1923",
+   "translator": "Eleanor Stimson Brooks and Van Wyck Brooks",
+   "scan_edition": "Harcourt, Brace and Company, New York, copyright 1923; title page names both translators"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Flammarion's Death and Its Mystery (1921; deathanditsmyst00flamgoog) does not carry her name in its OCR."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "esb-66564": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eleanor stimson brooks",
    "identity": "ok",
@@ -52,12 +91,45 @@
   },
   "esb-66882": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eleanor stimson brooks",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Eleanor Stimson Brooks; Van Wyck Brooks"
+  },
+  "esb-ia-le-roy-jacquou": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor stimson brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "esb-ia-chauvelot-mysterious-india": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor stimson brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "esb-ia-berguer-life-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor stimson brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +142,42 @@
    "pg": 66882,
    "pg_copyrighted_marker": false,
    "pg_translator": "Eleanor Stimson Brooks"
+  },
+  "esb-ia-le-roy-jacquou": {
+   "ia": "jacquourebeljac00broogoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815,
+    1836,
+    1859,
+    1870,
+    1871,
+    1899,
+    1907,
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "esb-ia-chauvelot-mysterious-india": {
+   "ia": "mysteriousindia00broogoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1857,
+    1911,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "esb-ia-berguer-life-of-jesus": {
+   "ia": "someaspectsoflif00berg",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1903,
+    1917,
+    1919,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

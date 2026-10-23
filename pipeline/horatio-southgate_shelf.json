@@ -1,0 +1,165 @@
+{
+ "_about": "Public-domain Horatio Southgate (1812-1894), Episcopal missionary bishop in Constantinople and later rector in Boston and New York, for the Word Hoard: Encouragement to Missionary Effort among Mohamedans, Narrative of a Tour through Armenia, Kurdistan, Persia and Mesopotamia, A Letter to a Friend, the Fredericton consecration sermon, The War in the East, a Holy Guild sermon, Narrative of a Visit to the Syrian (Jacobite) Church, Sermons for the Festivals and Fasts, and The Death of Lincoln. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 104 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "horatio southgate",
+  "h. southgate",
+  "southgate"
+ ],
+ "_surname": [
+  "horatio southgate",
+  "h. southgate",
+  "southgate"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "southgate-mohamedans": [
+   "encouragementtom00sout",
+   "Encouragement to missionary effort among Mohamedans : a sermon by the Rev. Horatio Southgate, Jun., missionary of the Protestant Episcopal Church in the United States of America, to Persia, etc. ; to which are annexed an account of the meeting held at the Church of the Ascension (New York : Protestant Episcopal Press, 1836)"
+  ],
+  "southgate-tour-armenia-2": [
+   "narrativeatourt02soutgoog",
+   "Narrative of a Tour Through Armenia, Kurdistan, Persia and Mesopotamia: With an Introduction, vol. 1 (D. Appleton & co., 1840)"
+  ],
+  "southgate-letter-friend": [
+   "lettertofriendin00sout",
+   "A letter to a friend : in reply to a recent pamphlet, from the missionaries of the American Board of Commissioners for Foreign Missions at Constantinople (New York : D. Appleton ; Philadelphia : G.S. Appleton, 1845)"
+  ],
+  "southgate-fredericton": [
+   "sermonpreachedat00sout",
+   "Sermon preached at the consecration of Christ Church Cathedral, Fredericton, N.B., August 31, 1853 ; by The Right Rev. Horatio Southgate, D.D (Boston : Ticknor, Reed, and Fields, 1853)"
+  ],
+  "southgate-war-in-east": [
+   "warineast00sout",
+   "The war in the East (New-York, Pudney & Russell, 1854)"
+  ],
+  "southgate-holy-guild": [
+   "sermonpreachedon00sout",
+   "The sermon preached on occasion of the second anniversary of the Holy Guild of the Church of the Advent : Boston, Mass. on the evening of the First Sunday in Advent, 1854 (Boston : J. Howe, 1855)"
+  ],
+  "southgate-syrian-church": [
+   "narrativeofvisit00soutrich",
+   "Narrative of a visit to the Syrian (Jacobite) Church of Mesopotamia : with statements and reflections upon the present state of Christianity in Turkey and the character and prospects of the Eastern Churches (New-York : Dana and Co., 1856)"
+  ],
+  "southgate-festivals-fasts": [
+   "sermonsforsomeof00sout",
+   "Sermons for some of the principal festivals and fasts of the church and on Christian doctrine and duty : preached at the Church of the Advent, Boston, Massachusetts (New York : D. Dana, 1859)"
+  ],
+  "southgate-death-lincoln": [
+   "deathoflincoln00sout",
+   "The death of Lincoln (New York, J.W. Amerman, printer, 1865)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "southgate-armenian-liturgy": "Holy Communion in Armenian (a liturgical translation)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "southgate-work-of-god": "workofgoditsmean00sout: printed for private circulation; its readable text never names the preacher; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "southgate-mohamedans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horatio southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "southgate-tour-armenia-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "southgate-letter-friend": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horatio southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "southgate-fredericton": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horatio southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "southgate-war-in-east": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horatio southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "southgate-holy-guild": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horatio southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "southgate-syrian-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horatio southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "southgate-festivals-fasts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "southgate-death-lincoln": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "horatio southgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

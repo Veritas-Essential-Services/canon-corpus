@@ -1,0 +1,103 @@
+{
+ "_about": "Public-domain Edward Wix (1802-1866), Archdeacon of Newfoundland, for the Word Hoard: his sermons (1831-1832), a retrospect of the SPG in North America (1833) and Six Months of a Newfoundland Missionary's Journal (1836). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 93 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "edward wix",
+  "e. wix"
+ ],
+ "_surname": [
+  "edward wix",
+  "e. wix",
+  "wix"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wix-sermon-1831": [
+   "cihm_63251",
+   "A sermon (St. John's [Nfld.] : Printed by J. Ryan, King's printer, 1831)"
+  ],
+  "wix-divine-visitations": [
+   "cihm_35256",
+   "Divine visitations : a sermon ([St. John's, Nfld. : s.n.], 1832)"
+  ],
+  "wix-providence": [
+   "cihm_63252",
+   "The guilt of a denial of God's providence : a sermon on Zephaniah I, 12 (St. John's [Nfld.] : J. Ryer, King's Printer, 1832)"
+  ],
+  "wix-spg-retrospect": [
+   "cihm_55715",
+   "A retrospect of the operations of the Society for the Propagation of the Gospel in North America : a sermon preached Sunday, March 31, MDCCCXXXIII, at St. John's Church, Newfoundland ([St. John's, Nfld.? : s.n.], 1833)"
+  ],
+  "wix-newfoundland-journal": [
+   "sixmonthsofnewfo00wixe",
+   "Six months of a Newfoundland missionary's jounal (London, Smith, Elder and co., 1836)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wix-other": "a Sunday-school examination address (1832)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wix-sermon-1831": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward wix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wix-divine-visitations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward wix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wix-providence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward wix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wix-spg-retrospect": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward wix",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wix-newfoundland-journal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward wix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

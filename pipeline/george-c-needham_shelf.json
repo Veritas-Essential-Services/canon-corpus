@@ -1,0 +1,129 @@
+{
+ "_about": "Public-domain George C. Needham (1840-1902), Irish-born evangelist in Britain and America, for the Word Hoard: The Jewish Tabernacle and Priesthood (1874), The Life and Labors of Charles H. Spurgeon (1882), Street Arabs and Gutter Snipes (1884), Father Flynn (1890), Preach the Word (1892), The Spiritual Life (1895) and Shadow and Substance (1896). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 73 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "needham"
+ ],
+ "_surname": [
+  "george c. needham",
+  "geo. c. needham",
+  "g. c. needham"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "needham-jewish-tabernacle": [
+   "jewishtabernacle00need",
+   "The Jewish tabernacle and priesthood ([n.p.], 1874)"
+  ],
+  "needham-life-of-spurgeon": [
+   "thelifeandlabors00needuoft",
+   "The life and labors of Charles H. Spurgeon : the faithful preacher, the devoted pastor, the noble philanthropist, the beloved college president, and the voluminous writer, author, etc., etc (Boston : D. L. Guernsey, 1882)"
+  ],
+  "needham-street-arabs": [
+   "streetarabsgutte00need",
+   "Street Arabs and gutter snipes. The pathetic and humorous side of young vagabond life in the great cities, with records of work for their reclamation (Boston : D. L. Guernsey, 1884)"
+  ],
+  "needham-father-flynn": [
+   "fatherflynn00need",
+   "Father Flynn (New York, J. A. O'Connor, 1890)"
+  ],
+  "needham-preach-the-word": [
+   "preachwordconfer00need",
+   "Preach the Word; conference addresses (Charlotte, N.C., W.P. Fife, 1892)"
+  ],
+  "needham-spiritual-life": [
+   "spirituallife00need",
+   "The spiritual life (Philadelphia, American Baptist publication society, 1895)"
+  ],
+  "needham-shadow-and-substance": [
+   "shadowsubstancee00need",
+   "Shadow and substance. An exposition of the tabernacle types (Philadelphia, American Baptist publication society, 1896)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "needham-jewish-tabernacle": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. needham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "needham-life-of-spurgeon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geo. c. needham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "needham-street-arabs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. needham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "needham-father-flynn": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geo. c. needham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "needham-preach-the-word": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. needham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "needham-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. needham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "needham-shadow-and-substance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george c. needham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

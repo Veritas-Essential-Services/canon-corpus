@@ -1,0 +1,166 @@
+{
+ "_about": "Public-domain Alexander Mathieson (1795-1870), Church of Scotland minister of St. Andrew's Church, Montreal, for the Word Hoard: his printed sermons, 1827-1864. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 93 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander mathieson",
+  "a. mathieson",
+  "dr. mathieson"
+ ],
+ "_surname": [
+  "alexander mathieson",
+  "a. mathieson",
+  "dr. mathieson",
+  "mathieson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mathieson-robert-watson": [
+   "sermonoccasioned00math",
+   "A sermon occasioned by the death of the late Mr. Robert Watson, preached in St. Andrew's Church, Montreal, April 8th, 1827 (Montreal : Printed at the Herald Office, 1827)"
+  ],
+  "mathieson-st-andrews-1837": [
+   "sermonpreachedin00math",
+   "A sermon, preached in St. Andrew's church, Montreal, on the thirtieth day of November, 1836, (St. Andrew's day) (Montreal, Printed by Starke & Co., 1837)"
+  ],
+  "mathieson-ship-java": [
+   "discoursedeliver00math",
+   "A discourse delivered on board the transport ship Java, off Quebec (Montreal : Starke, 1843)"
+  ],
+  "mathieson-christians-death": [
+   "christiansdeathn00math",
+   "The Christian's death, no cause for sorrow : a sermon, preached in St. Andrew's Church, Montreal, on Sabbath, 21st May, 1848 (Montreal : Printed by J. Starke & Co., 1848)"
+  ],
+  "mathieson-autumn": [
+   "moralreligiousin00math",
+   "The moral and religious influences of autumn : a sermon, in three parts, preached in Saint Andrew's Church, Montreal, (\"in the fall of the leaf,\") 1849 (Montreal : Printed by J. Starke & Co., 1850)"
+  ],
+  "mathieson-good-man": [
+   "tributeofrespect00math",
+   "A tribute of respect to the memory of a good man (Montreal, Printed by Starke & Co., 1852)"
+  ],
+  "mathieson-quebec-1861": [
+   "sermonpreachedi00math",
+   "A sermon, preached in St. Andrew's church, Quebec, on the 29th May, 1861, at the opening of the Synod of the Presbyterian church of Canada in connection with the Church of Scotland (Montreal, Printed by John Lovell, 1861)"
+  ],
+  "mathieson-anniversary": [
+   "anniversarysermo00math",
+   "Anniversary sermon delivered by the Rev. Dr. Mathieson before the St. Andrew's society, Montreal, November 30th., 1863 ([Montreal, Becket], 1863)"
+  ],
+  "mathieson-vanity": [
+   "vanityofearthlyo00math",
+   "The vanity of earthly objects of attachment (Montreal, Printed by Lovell, 1864)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mathieson-other": "Synod reports, the Weir v. Mathieson law reports, and Croil's Life of Mathieson"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mathieson-good-man": "title page: 'TRIBUTE OF RESPECT To the Memory of a Good Man. A SERMON, PREACHED IN ST. ANDREW'S CHURCH, MONTREAL, On the occasion of the Death of HUGH BRODIE, ESQ. ... BY ALEXANDER MATHIESON, D.D. MONTREAL: PRINTED BY J. STARKE & CO. ... 1852' (OCR 'MATIIIESON')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mathieson-robert-watson": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-st-andrews-1837": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-ship-java": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-christians-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-autumn": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-good-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-quebec-1861": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-anniversary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mathieson-vanity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander mathieson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

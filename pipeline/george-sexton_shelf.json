@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain George Sexton (1825-1898), English secularist lecturer who renounced infidelity and was ordained, for the Word Hoard: Theistic Problems, Christianity and Secularism, Light in the Cloud (his reasons for renouncing infidelity), History's Testimony to Christ, The Doctrine of Immortality as taught in the Old Testament, Biblical Difficulties Dispelled, The Folly of Atheism, a review of the Moody and Sankey revival, and A Portraiture of Mormonism. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 107 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george sexton",
+  "g. sexton"
+ ],
+ "_surname": [
+  "george sexton",
+  "g. sexton",
+  "sexton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gsexton-mormonism": [
+   "portraitureofmor00sext",
+   "A portraiture of Mormonism (London : W. Strange, 1849)"
+  ],
+  "gsexton-moody-sankey": [
+   "a633631900sextuoft",
+   "An impartial review of the revival movement of Messrs. Moody and Sankey : a discourse delivered in Goswell Hall, Goswell Road, London, on Sunday evening, May 16th, 1875 (London : Smart and Allen, [187)"
+  ],
+  "gsexton-theistic-problems": [
+   "theisticproblem01sextgoog",
+   "Theistic Problems: Being Essays on the Existence of God and His Relationship to Man (Hodder and Stoughton, 1880)"
+  ],
+  "gsexton-christianity-secularism": [
+   "christianitysecu00sextuoft",
+   "Christianity & secularism : which is the better suited to meet the wants of mankind? A written debate between the Rev. George Sexton ... and Charles Watts (London, Smart & Allen, 1882)"
+  ],
+  "gsexton-historys-testimony": [
+   "historystestimon00sext",
+   "History's testimony to Christ; a discourse preached in St. Augustine's Church, Clapham, England, on Christmas morning, 1877 (Toronto, Briggs, 1884)"
+  ],
+  "gsexton-immortality": [
+   "doctrineofinmort00sext",
+   "The doctrine of inmortality : as taught in the Old Testament : a discourse delivered in the Cavendish Rooms, London, England, on Sunday evening, July 11, 1875 (Toronto : W. Briggs ; Montreal : Coates ; Halifax : Huestis, 1885)"
+  ],
+  "gsexton-biblical-difficulties": [
+   "cihm_89911",
+   "Biblical difficulties dispelled : being an answer to queries respecting so-called discrepancies in Scripture, misunderstood and misinterpreted texts, etc., etc (Toronto : W. Briggs, 1885)"
+  ],
+  "gsexton-light-in-cloud": [
+   "lightincloudbein00sextuoft",
+   "Light in the cloud: being reasons for renouncing infidelity; two sermons, preached in Augustine Church, Clapham Road, London, on Sunday, Sept. 10th, 1876 (Toronto, Briggs, [188)"
+  ],
+  "gsexton-folly-atheism": [
+   "cihm_89711",
+   "The folly of atheism (Philadelphia : M.E. Book Room ; Toronto : W. Briggs, 1895)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gsexton-spiritual-magazine": "spiritualmagazi00lldgoog (a periodical volume, many hands)",
+  "gsexton-medical": "Men with Tails and the vaccination lecture are not theology; left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gsexton-mormonism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gsexton-moody-sankey": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "[1875]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gsexton-theistic-problems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gsexton-christianity-secularism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gsexton-historys-testimony": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gsexton-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gsexton-biblical-difficulties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gsexton-light-in-cloud": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "[1885]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gsexton-folly-atheism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george sexton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

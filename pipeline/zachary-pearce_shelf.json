@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Zachary Pearce (1690-1774), Bishop of Rochester, for the Word Hoard: A Commentary with Notes on the Four Evangelists and the Acts (London 1777, two volumes) and Sermons on Several Subjects (1778), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pearce"
+ ],
+ "_surname": [
+  "zachary pearce",
+  "pearce"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pearce-commentary-1": [
+   "bim_eighteenth-century_a-commentary-with-notes_pearce-zachary_1777_1",
+   "A Commentary, with Notes, on the Four Evangelists and the Acts of the Apostles, vol. 1 (London, catalogued 1777)"
+  ],
+  "pearce-commentary-2": [
+   "bim_eighteenth-century_a-commentary-with-notes_pearce-zachary_1777_2",
+   "A Commentary, with Notes, on the Four Evangelists and the Acts of the Apostles, vol. 2 (London, catalogued 1777)"
+  ],
+  "pearce-sermons": [
+   "sermonsonsevera00peargoog",
+   "Sermons on Several Subjects (G. Robinson, 1778)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "pearce-classics": "His editions of Cicero and Longinus; the Review of the text of Paradise Lost"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "pearce-miracles-vindicated": "The Miracles of Jesus Vindicated (second edition, 1729; IA miraclesofjesusv00pear): its title page names no author. It is Pearce's by attribution, but the page names nobody"
+ },
+ "_translators": {},
+ "_checks": {
+  "pearce-commentary-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zachary pearce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1777",
+   "ia_date": "1777",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pearce-commentary-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pearce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1777",
+   "ia_date": "1777",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pearce-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zachary pearce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

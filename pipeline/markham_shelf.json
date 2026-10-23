@@ -42,7 +42,74 @@
    "The War of Chupas"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mrk-amazons": [
+   "expeditionsintov00markrich",
+   "Expeditions into the Valley of the Amazons"
+  ],
+  "mrk-royal-commentaries-1": [
+   "firstpartofroyal01vega",
+   "Royal Commentaries of the Yncas, vol. 1"
+  ],
+  "mrk-royal-commentaries-2": [
+   "firstpartofroyal02vega",
+   "Royal Commentaries of the Yncas, vol. 2"
+  ],
+  "mrk-sarmiento-incas": [
+   "historyofincas00sarm",
+   "History of the Incas"
+  ],
+  "mrk-columbus-journal": [
+   "journalofchristo00colu_0",
+   "Journal of Christopher Columbus"
+  ],
+  "mrk-guzman": [
+   "lifeactsofdonalo00enr",
+   "Life and Acts of Don Alonzo Enriquez de Guzman"
+  ],
+  "mrk-clavijo": [
+   "narrativeembass00markgoog",
+   "Embassy of Ruy Gonzalez de Clavijo"
+  ],
+  "mrk-andagoya": [
+   "narrativeofproce00anda",
+   "Proceedings of Pedrarias Davila"
+  ],
+  "mrk-cieza-second-part": [
+   "partofchronicleperu00ciez",
+   "Second Part of the Chronicle of Peru"
+  ],
+  "mrk-cieza-las-salinas": [
+   "in.ernet.dli.2015.46710",
+   "The War of Las Salinas",
+   "2015.46710.The-War-Of-Las-Salinas_djvu.txt"
+  ],
+  "mrk-espinosa-guanches": [
+   "guanchesofteneri00espirich",
+   "The Guanches of Tenerife"
+  ],
+  "mrk-rites-yncas": [
+   "narrativesofrite00moli",
+   "Narratives of the Rites and Laws of the Yncas"
+  ],
+  "mrk-sarmiento-voyages": [
+   "narrativesofvoya00sarm",
+   "Voyages of Pedro Sarmiento de Gamboa"
+  ],
+  "mrk-reports-peru": [
+   "reportsondiscov00markgoog",
+   "Reports on the Discovery of Peru"
+  ],
+  "mrk-ollanta": [
+   "ollantaancientyn00mark",
+   "Ollanta, an Ancient Ynca Drama"
+  ],
+  "mrk-quiros-2": [
+   "india.history.resource.88576",
+   "Voyages of Quiros, vol. 2",
+   "88576_djvu.txt"
+  ]
+ },
  "titles": {
   "markham-anonymous-the-life-of-lazarillo-de-tormes": {
    "source": "mrk-53489",
@@ -99,15 +166,145 @@
    "translated": "1864-1918 (see the Gutenberg header)",
    "translator": "Clements R. Markham",
    "scan_edition": "Project Gutenberg 36924 (clean text)"
+  },
+  "markham-ortiguera-acuna-expeditions-into-the-valley-of-the-amazons": {
+   "source": "mrk-amazons",
+   "of": "Toribio de Ortiguera, Cristóbal de Acuña and Antonio de Herrera",
+   "work": "Expeditions into the Valley of the Amazons, 1539, 1540, 1639",
+   "translated": 1859,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1859; archive.org scan"
+  },
+  "markham-garcilaso-royal-commentaries-of-the-yncas-vol-1": {
+   "source": "mrk-royal-commentaries-1",
+   "of": "Garcilaso de la Vega",
+   "work": "First Part of the Royal Commentaries of the Yncas, vol. 1 of 2",
+   "translated": 1869,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1869; archive.org scan"
+  },
+  "markham-garcilaso-royal-commentaries-of-the-yncas-vol-2": {
+   "source": "mrk-royal-commentaries-2",
+   "of": "Garcilaso de la Vega",
+   "work": "First Part of the Royal Commentaries of the Yncas, vol. 2 of 2",
+   "translated": 1871,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1871; archive.org scan"
+  },
+  "markham-sarmiento-history-of-the-incas": {
+   "source": "mrk-sarmiento-incas",
+   "of": "Pedro Sarmiento de Gamboa",
+   "work": "History of the Incas",
+   "translated": 1907,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1907; archive.org scan"
+  },
+  "markham-columbus-the-journal-of-christopher-columbus": {
+   "source": "mrk-columbus-journal",
+   "of": "Christopher Columbus",
+   "work": "The Journal of Christopher Columbus (during his first voyage, 1492-93)",
+   "translated": 1893,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1893; archive.org scan"
+  },
+  "markham-guzman-the-life-and-acts-of-don-alonzo-enriquez-de-guzman": {
+   "source": "mrk-guzman",
+   "of": "Alonzo Enríquez de Guzmán",
+   "work": "The Life and Acts of Don Alonzo Enriquez de Guzman, written by himself",
+   "translated": 1862,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1862; archive.org scan"
+  },
+  "markham-clavijo-narrative-of-the-embassy-to-timour": {
+   "source": "mrk-clavijo",
+   "of": "Ruy González de Clavijo",
+   "work": "Narrative of the Embassy of Ruy Gonzalez de Clavijo to the Court of Timour at Samarcand, 1403-6",
+   "translated": 1859,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1859; archive.org scan (Google)"
+  },
+  "markham-andagoya-narrative-of-the-proceedings-of-pedrarias-davila": {
+   "source": "mrk-andagoya",
+   "of": "Pascual de Andagoya",
+   "work": "Narrative of the Proceedings of Pedrarias Davila in Tierra Firme",
+   "translated": 1865,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1865; archive.org scan"
+  },
+  "markham-leon-the-second-part-of-the-chronicle-of-peru": {
+   "source": "mrk-cieza-second-part",
+   "of": "Pedro de Cieza de León",
+   "work": "The Second Part of the Chronicle of Peru",
+   "translated": 1883,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1883; archive.org scan"
+  },
+  "markham-leon-the-war-of-las-salinas": {
+   "source": "mrk-cieza-las-salinas",
+   "of": "Pedro de Cieza de León",
+   "work": "The War of Las Salinas (Civil Wars in Peru)",
+   "translated": 1923,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1923 (issued for 1923, Second Series LIV); archive.org scan (Digital Library of India)"
+  },
+  "markham-espinosa-the-guanches-of-tenerife": {
+   "source": "mrk-espinosa-guanches",
+   "of": "Alonso de Espinosa",
+   "work": "The Guanches of Tenerife, the Holy Image of Our Lady of Candelaria",
+   "translated": 1907,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1907; archive.org scan"
+  },
+  "markham-molina-narratives-of-the-rites-and-laws-of-the-yncas": {
+   "source": "mrk-rites-yncas",
+   "of": "Cristóbal de Molina, Juan de Santa Cruz Pachacuti and others",
+   "work": "Narratives of the Rites and Laws of the Yncas",
+   "translated": 1873,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1873; archive.org scan"
+  },
+  "markham-sarmiento-narratives-of-the-voyages-to-the-straits-of-magellan": {
+   "source": "mrk-sarmiento-voyages",
+   "of": "Pedro Sarmiento de Gamboa",
+   "work": "Narratives of the Voyages of Pedro Sarmiento de Gamboa to the Straits of Magellan",
+   "translated": 1895,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1895; archive.org scan"
+  },
+  "markham-xeres-reports-on-the-discovery-of-peru": {
+   "source": "mrk-reports-peru",
+   "of": "Francisco de Xerez, Miguel de Estete, Hernando Pizarro and others",
+   "work": "Reports on the Discovery of Peru",
+   "translated": 1872,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1872; archive.org scan (Google)"
+  },
+  "markham-anonymous-ollanta-an-ancient-ynca-drama": {
+   "source": "mrk-ollanta",
+   "of": "anonymous (Quechua drama)",
+   "work": "Ollanta: an Ancient Ynca Drama",
+   "translated": 1871,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Trübner, London 1871; archive.org scan"
+  },
+  "markham-quiros-the-voyages-of-pedro-fernandez-de-quiros-vol-2": {
+   "source": "mrk-quiros-2",
+   "of": "Pedro Fernández de Quirós",
+   "work": "The Voyages of Pedro Fernandez de Quiros, 1595 to 1606, vol. 2 of 2",
+   "translated": 1904,
+   "translator": "Clements R. Markham",
+   "scan_edition": "Hakluyt Society, London 1904; archive.org scan (Asiatic Society of Mumbai copy)"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "reportsondiscove00markrich / reportsondiscove04mark": "Burt Franklin reprints (New York, 1970 and undated) of the 1872 Reports on the Discovery of Peru; the shelf uses a scan of the 1872 printing instead"
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "mrk-36924": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clements r. markham",
    "identity": "ok",
@@ -116,7 +313,7 @@
   },
   "mrk-41200": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clements r. markham",
    "identity": "ok",
@@ -125,7 +322,7 @@
   },
   "mrk-48770": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clements r. markham",
    "identity": "ok",
@@ -134,7 +331,7 @@
   },
   "mrk-48785": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clements r. markham",
    "identity": "ok",
@@ -143,7 +340,7 @@
   },
   "mrk-49095": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clements r. markham",
    "identity": "ok",
@@ -152,7 +349,7 @@
   },
   "mrk-53489": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clements r. markham",
    "identity": "ok",
@@ -161,12 +358,188 @@
   },
   "mrk-56486": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "clements r. markham",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-amazons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-royal-commentaries-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mrk-royal-commentaries-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mrk-sarmiento-incas": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mrk-columbus-journal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mrk-guzman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-clavijo": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-andagoya": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-cieza-second-part": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mrk-cieza-las-salinas": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mrk-espinosa-guanches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-rites-yncas": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-sarmiento-voyages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mrk-reports-peru": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-ollanta": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mrk-quiros-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clements r. markham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -204,6 +577,292 @@
    "pg": 56486,
    "pg_copyrighted_marker": false,
    "pg_translator": "Sir Clements R. Markham"
+  },
+  "mrk-amazons": {
+   "ia": "expeditionsintov00markrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1402,
+    1403,
+    1497,
+    1517,
+    1525,
+    1542,
+    1560,
+    1582,
+    1595,
+    1599,
+    1602,
+    1641,
+    1741,
+    1858,
+    1859,
+    1860
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-royal-commentaries-1": {
+   "ia": "firstpartofroyal01vega",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1506,
+    1531,
+    1534,
+    1538,
+    1540,
+    1542,
+    1547,
+    1548,
+    1553
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-royal-commentaries-2": {
+   "ia": "firstpartofroyal02vega",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1500
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ],
+   "post_1930_examined": "2000 is a scale figure on a map in the front matter; the imprint is Hakluyt Society, M.DCCC.LXXI"
+  },
+  "mrk-sarmiento-incas": {
+   "ia": "historyofincas00sarm",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1569,
+    1570,
+    1572,
+    1581,
+    1615,
+    1853,
+    1907
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "2016 is the archive.org digitising line; the imprint is Hakluyt Society 1907"
+  },
+  "mrk-columbus-journal": {
+   "ia": "journalofchristo00colu_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1474,
+    1477,
+    1492,
+    1847,
+    1867,
+    1870,
+    1875,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-guzman": {
+   "ia": "lifeactsofdonalo00enr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1517,
+    1526,
+    1542,
+    1555,
+    1582,
+    1593,
+    1594,
+    1595,
+    1596,
+    1599,
+    1601,
+    1602,
+    1606,
+    1622,
+    1630,
+    1727,
+    1741,
+    1751,
+    1802,
+    1847,
+    1848,
+    1849,
+    1850,
+    1851,
+    1852,
+    1853,
+    1854,
+    1855,
+    1856,
+    1857,
+    1858,
+    1861,
+    1862
+   ],
+   "post_1930_years_in_front_15k": [
+    1961
+   ]
+  },
+  "mrk-clavijo": {
+   "ia": "narrativeembass00markgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1402,
+    1403,
+    1405,
+    1407,
+    1583
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-andagoya": {
+   "ia": "narrativeofproce00anda",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1402,
+    1500,
+    1511,
+    1513,
+    1514,
+    1525,
+    1554,
+    1576,
+    1598,
+    1805,
+    1864,
+    1865
+   ],
+   "post_1930_years_in_front_15k": [
+    1961
+   ],
+   "post_1930_examined": "1961 is a Brandeis University presentation plate; the imprint is Hakluyt Society 1865"
+  },
+  "mrk-cieza-second-part": {
+   "ia": "partofchronicleperu00ciez",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "no year in the OCR front matter; the title page imprint reads London, Hakluyt Society, MDCCCLXXXIII (1883)"
+  },
+  "mrk-cieza-las-salinas": {
+   "ia": "in.ernet.dli.2015.46710",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1535,
+    1537,
+    1539,
+    1587
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "the title page imprint reads MCMXXIII and the series page 'issued for 1923'; 1997 is the Digital Library of India scan date"
+  },
+  "mrk-espinosa-guanches": {
+   "ia": "guanchesofteneri00espirich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1580,
+    1604,
+    1632,
+    1676,
+    1703,
+    1748,
+    1871,
+    1872,
+    1873,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-rites-yncas": {
+   "ia": "narrativesofrite00moli",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1560,
+    1570,
+    1576,
+    1584,
+    1586,
+    1608,
+    1620,
+    1840,
+    1872
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-sarmiento-voyages": {
+   "ia": "narrativesofvoya00sarm",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1532,
+    1550,
+    1555,
+    1557,
+    1560,
+    1561,
+    1564,
+    1567,
+    1583,
+    1866,
+    1890
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ],
+   "post_1930_examined": "2016 is the archive.org digitising line; the imprint is Hakluyt Society 1895"
+  },
+  "mrk-reports-peru": {
+   "ia": "reportsondiscov00markgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1491,
+    1526,
+    1527,
+    1529,
+    1530,
+    1531,
+    1532,
+    1533,
+    1534,
+    1535,
+    1547,
+    1588,
+    1624,
+    1749,
+    1837,
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-ollanta": {
+   "ia": "ollantaancientyn00mark",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1685,
+    1780,
+    1781,
+    1804,
+    1816,
+    1836,
+    1837,
+    1851,
+    1853,
+    1868,
+    1871
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mrk-quiros-2": {
+   "ia": "india.history.resource.88576",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1595,
+    1605,
+    1606,
+    1878
+   ],
+   "post_1930_years_in_front_15k": [
+    2018
+   ],
+   "post_1930_examined": "2018 is the digitising line (15 October 2018); the imprint is Hakluyt Society 1904, issued with vol. 1"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

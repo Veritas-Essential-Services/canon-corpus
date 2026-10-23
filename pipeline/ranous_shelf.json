@@ -20,7 +20,12 @@
    "The Flame"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ran-ia-serao-conquest-rome": [
+   "conquestofromela00seraiala",
+   "Serao: The Conquest of Rome"
+  ]
+ },
  "titles": {
   "ranous-d-annunzio-the-flame": {
    "source": "ran-60601",
@@ -37,17 +42,28 @@
    "translated": "1900-1906 (see the Gutenberg header)",
    "translator": "Dora Knowlton Ranous",
    "scan_edition": "Project Gutenberg 3934 (clean text)"
+  },
+  "ranous-serao-the-conquest-of-rome": {
+   "source": "ran-ia-serao-conquest-rome",
+   "of": "Matilde Serao",
+   "work": "The Conquest of Rome (La conquista di Roma)",
+   "translated": "1906",
+   "translator": "Dora Knowlton Ranous",
+   "scan_edition": "The National Alumni, New York, copyright 1906"
   }
  },
- "_pending": {},
+ "_pending": {
+  "ranous-maupassant-selected-stories": "Selected Stories of Guy de Maupassant, 'translated and edited by Dora Knowlton Ranous' (Williams-Barker, New York; selectedstorieso0001dora and companions). The title page prints no year; shelve once a dated printing is found."
+ },
  "_excluded": {
-  "zibeline-volumes": "Zibeline's three Gutenberg volume files are left out; the complete text (3934) is used."
+  "zibeline-volumes": "Zibeline's three Gutenberg volume files are left out; the complete text (3934) is used.",
+  "archive-sweep-2026-10-23": "2026-10-23: Flaubert's Sentimental Education (Brentano's, 1922) names her only as editor, six years after her death. The Madame Bovary scans do not name her or offer no text. The Williams-Barker Selected Stories of Maupassant print no year: held in _pending."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "ran-3934": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dora knowlton ranous",
    "identity": "ok",
@@ -56,12 +72,23 @@
   },
   "ran-60601": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dora knowlton ranous",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Dora Knowlton Ranous"
+  },
+  "ran-ia-serao-conquest-rome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dora knowlton ranous",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[c1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -74,6 +101,15 @@
    "pg": 60601,
    "pg_copyrighted_marker": false,
    "pg_translator": "Dora Knowlton Ranous"
+  },
+  "ran-ia-serao-conquest-rome": {
+   "ia": "conquestofromela00seraiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

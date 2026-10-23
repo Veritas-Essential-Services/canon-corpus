@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Henry Grove (1684-1738), Dissenting tutor at Taunton, for the Word Hoard: his Works (London: Waugh, 1747, four volumes) and A System of Moral Philosophy (1749), from Internet Archive scans. Added 2026-10-23 by lane A, round 46 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "grove"
+ ],
+ "_surname": [
+  "henry grove"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grove-works-1": [
+   "worksofreverendl01grov",
+   "The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 1 (London : Printed by James Waugh, 1747)"
+  ],
+  "grove-works-2": [
+   "worksofreverendl02grov",
+   "The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 2 (London : Printed by James Waugh, 1747)"
+  ],
+  "grove-works-3": [
+   "worksofreverendl03grov",
+   "The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 3 (London : Printed by James Waugh, 1747)"
+  ],
+  "grove-works-4": [
+   "worksofreverendl04grov",
+   "The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 4 (London : Printed by James Waugh, 1747)"
+  ],
+  "grove-moral-philosophy": [
+   "systemofmoralphi00grov",
+   "A system of moral philosophy (London : Printed and sold by J. Waugh ..., 1749)"
+  ]
+ },
+ "_alternates": {
+  "grove-copies": "The separate Sermons (1740), Tracts, Wisdom the First Spring of Action (1734), Lord's Supper (1738), Secret Prayer (1752)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "grove-works-3": "title page text: 'Discourses on the following subjects, viz. On Saving Faith. On the Soul's Immateriality. On a Future State from Reason ... By the Reverend Mr. Henry Grove, of Taunton. Vol. III. London: printed and sold by James Waugh ... MDCCXLVII' (the OCR runs the name together: 'HENRVGROVE')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "grove-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry grove",
+   "identity": "ok",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grove-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry grove",
+   "identity": "ok",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grove-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grove-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry grove",
+   "identity": "ok",
+   "ia_rights": "ok: published 1747",
+   "ia_date": "1747",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grove-moral-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry grove",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

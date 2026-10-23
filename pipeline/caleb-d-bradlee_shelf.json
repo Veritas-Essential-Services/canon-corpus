@@ -1,0 +1,225 @@
+{
+ "_about": "Public-domain Caleb Davis Bradlee (1831-1897), Unitarian minister of the Harrison Square Church, Dorchester, and later pastor pro tem. of Christ's Church, Longwood, for the Word Hoard: Sermons for All Sects, Sermons for the Church, his occasional sermons (Christ All in All, Farewell, Death and the Resurrection, The Grand Hereafter, Psalm XXXVII 23), his memoir of Thomas Starr King, his anniversary and ordination histories, Recollections of a Ministry of Forty Years, and A Few Poems. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 111 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "caleb davis bradlee",
+  "caleb d. bradlee",
+  "c. d. bradlee",
+  "bradlee"
+ ],
+ "_surname": [
+  "caleb davis bradlee",
+  "caleb d. bradlee",
+  "c. d. bradlee",
+  "bradlee"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bradlee-starr-king": [
+   "lifewritingschar00brad",
+   "The life, writings, and character of Rev. Thomas Starr King (Boston, Press of J. Wilson and son, 1870)"
+  ],
+  "bradlee-christ-all": [
+   "christallinallse00brad",
+   "Christ all in all: A sermon (Boston, 1872)"
+  ],
+  "bradlee-farewell": [
+   "farewellsermon00brad",
+   "Farewell: A sermon ([n. p.], 1872)"
+  ],
+  "bradlee-death-resurrection": [
+   "deathandresurre00conggoog",
+   "Death and the Resurrection: A Sermon Preached on Sunday, March 15, 1874 (Press of John Wilson andSon, 1874)"
+  ],
+  "bradlee-grand-hereafter": [
+   "grandhereafterse00brad",
+   "The grand hereafter. A sermon (Cambridge, 1877)"
+  ],
+  "bradlee-thirtieth": [
+   "thirtiethanniver00brad",
+   "Thirtieth anniversary of the foundation of the Harrison Square Church, Dorchester District, Boston, Mass., Oct. 13, 1878 : a sermon (Boston : F.W. Barry, 1878)"
+  ],
+  "bradlee-gay-memoir": [
+   "briefmemoirdrge00bradgoog",
+   "Brief Memoir of Dr. Geo. H. Gay, H.C. 1842 ([s.n.], 1879)"
+  ],
+  "bradlee-poems": [
+   "fewpoems00brad",
+   "A few poems ([Boston], 1880)"
+  ],
+  "bradlee-psalm-37": [
+   "psalmxxxvii2300brad",
+   "Psalm XXXVII, 23 (Boston, Press of N. Sawyer & son, 1881)"
+  ],
+  "bradlee-ordination": [
+   "historyordinati00bradgoog",
+   "History of the Ordination of Caleb D. Bradlee: Also History of the Thirtieth Anniversary of His (Printed for the Author , D. Clapp & Son , Printers, 1885)"
+  ],
+  "bradlee-all-sects": [
+   "sermonsforallsec00brad",
+   "Sermons for all sects (Bost., 1888)"
+  ],
+  "bradlee-church": [
+   "sermonsforchurch00bradrich",
+   "Sermons for the church (Boston, G. H. Ellis, 1893)"
+  ],
+  "bradlee-recollections": [
+   "recollectionsam03bradgoog",
+   "Recollections of a Ministry of Forty Years: Dec. 11, 1854--Dec. 11, 1894 (Geo. H. Ellis, 1895)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bradlee-mozart": "mozartpoem0000brad (1962, another Bradlee)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bradlee-starr-king": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradlee-christ-all": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bradlee-farewell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bradlee-death-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradlee-grand-hereafter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bradlee-thirtieth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caleb d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bradlee-gay-memoir": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caleb davis bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradlee-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bradlee-psalm-37": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradlee-ordination": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caleb davis bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradlee-all-sects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caleb d. bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "bradlee-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caleb davis bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bradlee-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caleb davis bradlee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

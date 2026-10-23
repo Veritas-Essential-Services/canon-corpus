@@ -1,0 +1,420 @@
+{
+ "_about": "Public-domain Ashton Oxenden (1808-1892), rector of Pluckley and Bishop of Montreal, for the Word Hoard: his plain devotional and teaching books, among them The Pathway of Safety (first called Counsel to the Awakened), Fervent Prayer, Baptism Simply Explained, The Lord's Supper Simply Explained, Cottage Sermons, The Parables of Our Lord, A Simple Exposition of the Psalms, The Earnest Communicant, Touchstones, My First Year in Canada and The History of My Life (1891). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 74 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "oxenden"
+ ],
+ "_surname": [
+  "oxenden"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oxenden-prayers-private-use": [
+   "prayersforpriva00oxen",
+   "Prayers for Private Use (New York: A. D. F. Randolph; undated, 1869 or later)"
+  ],
+  "oxenden-sacrament-of-baptism": [
+   "sacramentofbapti00oxen",
+   "The sacrament of baptism (London : J. Hatchard and Son, 1846)"
+  ],
+  "oxenden-counsel-to-awakened": [
+   "counseltoawakene00oxen",
+   "Counsel to the awakened : or, The pathway to safety (Philadelphia : J.B. Lippincott, 1858)"
+  ],
+  "oxenden-fervent-prayer": [
+   "ferventprayer01oxengoog",
+   "Fervent prayer (catalogued 1860)"
+  ],
+  "oxenden-baptism-simply-explained": [
+   "baptismsimplyex00oxengoog",
+   "Baptism simply explained (catalogued 1861)"
+  ],
+  "oxenden-lords-supper-simply-explained": [
+   "lordssuppersimp00oxengoog",
+   "The Lord's supper, simply explained (catalogued 1861)"
+  ],
+  "oxenden-gods-message-to-poor": [
+   "godsmessagetopo00oxengoog",
+   "God's message to the poor, 11 sermons (catalogued 1861)"
+  ],
+  "oxenden-great-truths": [
+   "greattruthsinve00oxengoog",
+   "Great truths in very plain language (catalogued 1861)"
+  ],
+  "oxenden-sermons-christian-life": [
+   "sermonsonchrist00oxengoog",
+   "Sermons on the Christian life (catalogued 1861)"
+  ],
+  "oxenden-home-beyond": [
+   "homebeyondoraha00oxengoog",
+   "The home beyond; or, A happy old age (catalogued 1861)"
+  ],
+  "oxenden-story-of-ruth": [
+   "storyruth00oxengoog",
+   "The story of Ruth (catalogued 1862)"
+  ],
+  "oxenden-parables": [
+   "parablesourlord00oxengoog",
+   "The parables of our Lord (William Macintosh, 1864)"
+  ],
+  "oxenden-cottage-sermons": [
+   "cottagesermonso00oxengoog",
+   "Cottage sermons; or, Plain words to the poor (catalogued 1866)"
+  ],
+  "oxenden-our-church": [
+   "ourchurchandher00huntgoog",
+   "Our Church and her services (E.P. Dutton, 1866)"
+  ],
+  "oxenden-decision": [
+   "decision00oxengoog",
+   "Decision (catalogued 1868)"
+  ],
+  "oxenden-earnest-communicant": [
+   "earnestcommunic00oxengoog",
+   "The earnest communicant, a course of preparation for the Lord's table (Longmans, Green, 1871)"
+  ],
+  "oxenden-first-year-in-canada": [
+   "myfirstyearincan00oxen",
+   "My first year in Canada (London, Hatchards; New York, Pott & Amery, 1871)"
+  ],
+  "oxenden-thoughts-for-advent": [
+   "thoughtsforadve00oxengoog",
+   "Thoughts for Advent (catalogued 1872)"
+  ],
+  "oxenden-exposition-psalms": [
+   "asimpleexpositi00oxengoog",
+   "A Simple Exposition of the Psalms, vol. 1 (London: Hatchards, 1872)"
+  ],
+  "oxenden-thoughts-for-lent": [
+   "thoughtsforlent00oxengoog",
+   "Thoughts for Lent (catalogued 1873)"
+  ],
+  "oxenden-christian-life": [
+   "christianlife00oxengoog",
+   "The Christian life (catalogued 1877)"
+  ],
+  "oxenden-earnest-churchman": [
+   "earnestchurchma00oxengoog",
+   "The earnest churchman (catalogued 1879)"
+  ],
+  "oxenden-touchstones": [
+   "touchstonesorch00oxengoog",
+   "Touchstones; or, Christian graces and characters tested (catalogued 1884)"
+  ],
+  "oxenden-history-of-my-life": [
+   "thehistoryofmyli00oxenuoft",
+   "The history of my life: an autobiography (London Longmans, Green, 1891)"
+  ],
+  "oxenden-sunday-gospels": [
+   "shortlecturesont00oxenuoft",
+   "Short lectures on the Sunday Gospels : from Advent to Easter (London : Longmans, Green, 1902)"
+  ],
+  "oxenden-exposition-psalms-2": [
+   "simpleexposition02oxen",
+   "A Simple Exposition of the Psalms, vol. 2 (London: Hatchards, 1872)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "oxenden-other": "Family Prayers (with C. H. Ramsden); The Cottage Library (series); tracts of under 60 pages; the Cree translation of The Pathway of Safety by John Mackay; later reprints of The Pathway of Safety (1859-1896), the same book as Counsel to the Awakened"
+ },
+ "_rights_checked": {
+  "oxenden-prayers-private-use": "undated American printing: its title page styles Oxenden 'Bishop of Montreal and Metropolitan of Canada' (1869-1878), so it was printed in 1869 or later, but the year cannot be read. The text is his own and was first published in his lifetime (he died in 1892). Read 2026-10-23"
+ },
+ "_identity_checked": {
+  "oxenden-sacrament-of-baptism": "title page OCR reads 'THE COTTAGE LIBRARY. VOL. I. THE SACRAMENT OF BAPTISM, BY THE REV. ASHTON^XENDEN, LATE CURATE OF BARHAM, KENT. LONDON: J. HATCHARD AND SON ... 1846' (OCR garbled)",
+  "oxenden-exposition-psalms": "title page OCR reads 'SIMPLE EXPOSITION OF THE PSALMS ... RIGHT REV. ASHTON OXBNDES, D.D. BISHOP OF MONTREAL ... VOL. I. LONDON: HATCHARDS ... 1872' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "oxenden-prayers-private-use": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "undated American printing: its title page styles Oxenden 'Bishop of Montreal and Metropolitan of Canada' (1869-1878), so it was printed in 1869 or later, but the year cannot be read. The text is his own and was first published in his lifetime (he died in 1892). Read 2026-10-23"
+  },
+  "oxenden-sacrament-of-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oxenden-counsel-to-awakened": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-fervent-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-baptism-simply-explained": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-lords-supper-simply-explained": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-gods-message-to-poor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-great-truths": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-sermons-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-home-beyond": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-story-of-ruth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-cottage-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-our-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-decision": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-earnest-communicant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-first-year-in-canada": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "oxenden-thoughts-for-advent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-exposition-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-thoughts-for-lent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-earnest-churchman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-touchstones": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-history-of-my-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-sunday-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oxenden-exposition-psalms-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

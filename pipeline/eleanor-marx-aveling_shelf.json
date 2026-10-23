@@ -34,7 +34,13 @@
    "The wild duck"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ema-bernstein-lassalle": [
+   "ferdinand_lassalle_as_a_social_reformer",
+   "Ferdinand Lassalle as a Social Reformer",
+   "Bernstein Eduard - Ferdinand Lassalle As a Social Reformer_djvu.txt"
+  ]
+ },
  "titles": {
   "eleanor-marx-aveling-flaubert-madame-bovary": {
    "source": "ema-2413",
@@ -75,6 +81,14 @@
    "translated": "1886-1895 (see the Gutenberg header)",
    "translator": "Eleanor Marx Aveling",
    "scan_edition": "Project Gutenberg 30506 (clean text)"
+  },
+  "eleanor-marx-aveling-bernstein-ferdinand-lassalle-as-a-social-reformer": {
+   "source": "ema-bernstein-lassalle",
+   "of": "Eduard Bernstein",
+   "work": "Ferdinand Lassalle as a Social Reformer",
+   "translated": 1893,
+   "translator": "Eleanor Marx Aveling",
+   "scan_edition": "Swan Sonnenschein, London 1893 (Social Science Series); archive.org scan"
   }
  },
  "_pending": {},
@@ -83,7 +97,7 @@
  "_checks": {
   "ema-2413": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eleanor marx aveling",
    "identity": "ok",
@@ -92,7 +106,7 @@
   },
   "ema-2765": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eleanor marx aveling",
    "identity": "ok",
@@ -101,7 +115,7 @@
   },
   "ema-30506": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eleanor marx aveling",
    "identity": "ok",
@@ -110,7 +124,7 @@
   },
   "ema-36043": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eleanor marx aveling",
    "identity": "ok",
@@ -119,12 +133,23 @@
   },
   "ema-73631": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eleanor marx aveling",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-bernstein-lassalle": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eleanor marx",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -152,6 +177,19 @@
    "pg": 73631,
    "pg_copyrighted_marker": false,
    "pg_translator": "Eleanor Marx Aveling"
+  },
+  "ema-bernstein-lassalle": {
+   "ia": "ferdinand_lassalle_as_a_social_reformer",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1847,
+    1859,
+    1887,
+    1891,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

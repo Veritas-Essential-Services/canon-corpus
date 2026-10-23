@@ -344,3 +344,59 @@
 - 2026-10-22T23:40-05:00: Round 133 (2026-10-23): 16 titles, Hogarth x6 (Kluchevsky x4), Bernstein x2, Allinson x4, Worster x4 from archive.org. 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-22T23:46-05:00: Round 134 (2026-10-23): 17 titles, Wister x8 and Safford x9 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:52-05:00: Round 135 (2026-10-23): 10 titles, De Leon x1, Wraxall x4, McCabe x2, Rasmus Anderson x3 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:58-05:00: Round 136 (2026-10-23): 14 titles, Ludovici x3 and Thomas Roscoe x11 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:05-05:00: Round 137 (2026-10-23): 16 titles, Clements Markham x16 (Hakluyt Society) from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:22-05:00: Round 138 (2026-10-23): 21 titles, Dent Balzac x19 (Marriage 8, Bell 7, Waring 3, R. S. Scott 1) and Bain Tolstoi x2 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:28-05:00: Round 139 (2026-10-23): 9 titles, Waley x2, H. A. Giles x3, Burton x4 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:35-05:00: Round 140 (2026-10-23): 4 titles, Carlyle x2 (German Romance), Borrow x2 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:45-05:00: Round 141 (2026-10-23): 12 titles, Ensor x3, Brooks x5, Frewer x4 from archive.org; Fleming Voltaire and Dutt volumes held for a ruling. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:53-05:00: Round 142: Mary Howitt +12 (Bremer, Paalzow), Eleanor Marx-Aveling +1, Colbron +2; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T00:59-05:00: Round 143: Duff Gordon +2, Jessie Muir +1, Hearn +1, Dowson +1; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:02-05:00: Round 144: Ranous +1, H. L. Williams +1, Beatrice Marshall +1; 1 pending; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:08-05:00: Round 145: Abby Alger +4, Adele Seltzer +3, Agnetti +2, Ainslie +1; 1 pending; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:13-05:00: Round 146: Alice Werner +1, Aline Delano +2, Arthur Symons +3; nine more shelves swept with nothing to add; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:17-05:00: Round 147: Barrett H. Clark +6; Bithell's two Canterbury Poets anthologies held (undated); 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:24-05:00: Round 148: Burnham +7 (Celebrated Crimes), Boylan +1, Bucknall +2, Brose +1, Campion +1, C. F. Atkinson +1; 1 pending; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:27-05:00: Round 149: Chapman Coleman +1, Cournos +1, Cowell +1, C. R. Murphy +1; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:31-05:00: Round 150: L. Dora Schmitz +8, Denis Florence MacCarthy +1; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:37-05:00: Round 151: E. G. Martin +6, Drillien +3, Dunstan +1, Edna Underwood +1, Dorothy Bussy +1; 2 pending (undated); 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:42-05:00: Round 152: Eleanor Stimson Brooks +3, Ellen Frothingham +1, Emily Hill +1, F. A. Holt +2; 2 pending (undated); 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:51-05:00: Round 153: archive.org sweep fe-cox..freese. +15 titles (florence-simmonds +6, frances-hoey +5, frederic-whyte +3, fitzwater-wray +1); 3 held undated; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:57-05:00: Round 154: archive.org sweep friedlaender..guest. +8 titles (guerney +3, gilbert-cannan +2, gillies +1, gorfinkle +1, greenstreet +1); 2 held; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T02:05-05:00: Round 155: archive.org sweep h-parker..hueffer. +13 titles (hannibal-lloyd +6, houghton-translations +6, helen-zimmern +1); 1 held; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T02:12-05:00: Round 156: archive.org sweep ingeborg-andersen..lockhart-diaz. +13 titles (lionel-strachey +3, livingston +2, florence-simmonds, jakowleff-montefiore, jb-robertson, jelliffe, kamensky, lamond, leon-simon +1 each); 2 held; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T02:21-05:00: Round 157: archive.org sweep lord-stanley..mrs-l-burke. +8 titles (mary-loyd +5, maidment, mary-morison, mcclure +1 each); 3 held; 0 mismatched, 0 rights flags.
+
+- 2026-10-23T02:27-05:00: Round 158: archive.org sweep nathaniel-greene..rymer-jones. +4 titles (paul-cohn, oxenford, robert-willis, rodwell +1 each); 0 mismatched, 0 rights flags.
+
+- 2026-10-23T02:36-05:00: Round 159: archive.org sweep sa-eliot..zilboorg. +10 titles (van-laun +4, swanwick, schierbrand, vandam, theodore-martin, thomasina-ross, ziegler +1 each); 5 held; 0 mismatched, 0 rights flags. Alphabetical sweep of lane C translator shelves complete.
+
+- 2026-10-23T02:38-05:00: Round 160: thomas-roscoe +2 (Cellini, Colburn 1822, 2 vols). Lazarillo already in Spanish Novelists; Dent Balzac vols 21/26/31/33/39 have no files on archive.org. 0 mismatched, 0 rights flags.
+
+- 2026-10-23T08:53-05:00: Round 162: mn-dutt +9 (Mahabharata Adi/Shanti/Anushasana, Bhagavata I and VII-XII, Mahanirvana, Kamandakiya, Garuda, Harita), on Adam's 2026-10-23 ruling.
+
+- 2026-10-23T08:58-05:00: Round 163: fleming +13 (St. Hubert Guild Works of Voltaire, 1901), credited 'Smollett, revised by Fleming', on Adam's 2026-10-23 ruling.

@@ -1,0 +1,272 @@
+{
+ "_about": "Public-domain William Edwin Orchard (1877-1955), minister of the King's Weigh House, London, who was received into the Catholic Church in 1932, for the Word Hoard: his books printed before 1930: The Finality of Christ, Modern Theories of Sin, Sermons on God, Christ and Man, The Temple (a book of prayers), The Real War, The Necessity of Christ, The Outlook for Religion, The True Patriotism, The Order of Divine Service, Oracles of God, No More War, Foundations of Faith, Christianity and World-Problems, and The Present Crisis in Religion. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 117 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. e. orchard",
+  "william edwin orchard",
+  "orchard"
+ ],
+ "_surname": [
+  "w. e. orchard",
+  "william edwin orchard",
+  "orchard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "orchard-finality": [
+   "thefinalityofchr00orchuoft",
+   "The finality of Christ and other sermons (London : George Allen and Unwin, Ltd, 19--)"
+  ],
+  "orchard-theories-sin": [
+   "moderntheoriesof00orch",
+   "Modern theories of sin. Thesis approved for the degree of Doctor of Divinity in the University of London (London, J. Clarke, 1909)"
+  ],
+  "orchard-sermons": [
+   "sermonsongodchri0000orch",
+   "Sermons on God, Christ, and man (London : James Clarke, 1913)"
+  ],
+  "orchard-temple": [
+   "templebookofpray00orchrich",
+   "The temple; a book of prayers (New York, E.P. Dutton & Co., London, J.M. Dent & Sons, ltd., 1914)"
+  ],
+  "orchard-real-war": [
+   "cihm_88265",
+   "The real war (London ; Toronto : H. Milford, Oxford University Press, 1914)"
+  ],
+  "orchard-necessity": [
+   "necessityofchris00orchuoft",
+   "The necessity of Christ (London, Dent, 1917)"
+  ],
+  "orchard-outlook": [
+   "outlookforreligi0000orch",
+   "The outlook for religion (New York And London, Funk & Wagnalls Co., 1917)"
+  ],
+  "orchard-patriotism": [
+   "truepatriotismot0000orch",
+   "The true patriotism and other sermons (London : G. Allen & Unwin, 1918)"
+  ],
+  "orchard-divine-service": [
+   "orderofdivinese00orch",
+   "The Order of Divine Service for public worship, the administration of the Sacraments and other rites and ceremonies, and a selection from the daily offices, compiled from ancient and modern devotions, together with an abridged and revised Psalter and Canticles pointed for chanting (London, Milford, 1921)"
+  ],
+  "orchard-oracles": [
+   "oraclesofgod00orchuoft",
+   "Oracles of God : studies in the Minor Prophets (London : Clarke, 1922)"
+  ],
+  "orchard-no-more-war": [
+   "nomorewarotherse0000orch",
+   "No more war, and other sermons (London, G. Allen & Unwin, 1922)"
+  ],
+  "orchard-foundations-1": [
+   "foundationsoffai0000orch",
+   "Foundations of faith (New York, George H. Doran Co, 1924)"
+  ],
+  "orchard-foundations-2": [
+   "bwb_P4-ATU-400_1",
+   "Foundations of Faith, II, Christological, vol. 1 (George H. Doran Company, 1926)"
+  ],
+  "orchard-foundations-4": [
+   "foundationsoffai0000unse_x4h2",
+   "Foundations of Faith Volume 4: Eschatological (Routledge, Chapman & Hall, Incorporated, 1927)"
+  ],
+  "orchard-world-problems": [
+   "christianityworl0000orch",
+   "Christianity and world-problems (New York : Doran, 1925)"
+  ],
+  "orchard-present-crisis": [
+   "presentcrisisinr0000orch",
+   "The present crisis in religion (New York, London, Harper & Brothers, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "orchard-1930-on": "Books printed in 1930 or later (What is Hell?, Prayer, From Faith to Faith) left out",
+  "orchard-watersheds": "jstor-41224351 is by another Orchard"
+ },
+ "_rights_checked": {
+  "orchard-finality": "Undated London printing (Unwin Brothers, Gresham Press). Its list of the author's books runs only to The Outlook for Religion (1917), so it was printed about 1917-1922, well before 1930."
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "orchard-finality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "19--?",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Undated London printing (Unwin Brothers, Gresham Press). Its list of the author's books runs only to The Outlook for Religion (1917), so it was printed about 1917-1922, well before 1930."
+  },
+  "orchard-theories-sin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-temple": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orchard-real-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-necessity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orchard-outlook": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-patriotism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-divine-service": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-oracles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orchard-no-more-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-foundations-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-foundations-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-foundations-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-world-problems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orchard-present-crisis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. orchard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

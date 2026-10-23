@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain A. H. Tuttle, Methodist Episcopal minister, for the Word Hoard: The Safety of Our Young Men, The Living Word, Nathan Bangs, Egypt to Canaan (lectures on the spiritual meanings of the Exodus), and his history of the Roseville Methodist Episcopal Church. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 122 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "a. h. tuttle",
+  "alexander harrison tuttle",
+  "alexander h. tuttle",
+  "tuttle"
+ ],
+ "_surname": [
+  "tuttle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tuttle-young-men": [
+   "safetyouryoungm00tuttgoog",
+   "The Safety of Our Young Men (The Winthrop Press, 1901)"
+  ],
+  "tuttle-living-word": [
+   "livingword00tutt",
+   "The living word (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1904)"
+  ],
+  "tuttle-nathan-bangs": [
+   "nathanbangs0000tutt",
+   "Nathan Bangs (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1909)"
+  ],
+  "tuttle-egypt-to-canaan": [
+   "egypttocanaanlec0000tutt",
+   "Egypt to Canaan : lectures on the spiritual meanings of the Exodus (New York : Eaton & Mains, 1912)"
+  ],
+  "tuttle-roseville": [
+   "historyofrosevil0000tutt",
+   "History of the Roseville Methodist Episcopal Church of the Newark Annual Conference of the Methodist Episcopal Church, Newark, New Jersey, 1857-1927 ([New Jersey?] : [publisher not identified], 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "tuttle-gamewell": "Mary Porter Gamewell and her Story of the Siege in Peking (1907), IA cu31924023085594: Tuttle's memoir joined to Mary Gamewell's own narrative (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "tuttle-young-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tuttle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tuttle-living-word": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tuttle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tuttle-nathan-bangs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tuttle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tuttle-egypt-to-canaan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tuttle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tuttle-roseville": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tuttle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

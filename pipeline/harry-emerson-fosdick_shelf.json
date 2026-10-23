@@ -1,0 +1,240 @@
+{
+ "_about": "Public-domain Harry Emerson Fosdick (1878-1969), American Baptist preacher at First Presbyterian and Riverside Church, New York, for the Word Hoard: only his books printed before 1930, from The Second Mile (1908) and the Meaning of Prayer, Faith and Service to Christianity and Progress, Twelve Tests of Character, The Modern Use of the Bible, Adventurous Religion, A Pilgrimage to Palestine and Spiritual Values and Eternal Life. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 85 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "harry emerson fosdick",
+  "h. e. fosdick",
+  "emerson fosdick"
+ ],
+ "_surname": [
+  "harry emerson fosdick",
+  "h. e. fosdick",
+  "emerson fosdick",
+  "fosdick"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fosdick-second-mile": [
+   "thesecondmile00fosduoft",
+   "The second mile (New York : Young Men's Christian Association Press, 1909)"
+  ],
+  "fosdick-assurance-immortality": [
+   "assuranceofimmor00fosduoft",
+   "The assurance of immortality (New York : Macmillan, 1913)"
+  ],
+  "fosdick-manhood-master": [
+   "manhoodofmaster00fosd_0",
+   "The manhood of the Master (New York : Association Press, 1913)"
+  ],
+  "fosdick-meaning-prayer": [
+   "themeaningofpray00fosduoft",
+   "The meaning of prayer (New York : Association Press, 1915)"
+  ],
+  "fosdick-meaning-faith": [
+   "themeaningoffai00fosduoft",
+   "The meaning of faith (New York : Association Press, 1918)"
+  ],
+  "fosdick-present-crisis": [
+   "challengepresen00fosdgoog",
+   "The Challenge of the Present Crisis (Association Press, 1917)"
+  ],
+  "fosdick-meaning-service": [
+   "meaningofservice00fosduoft",
+   "The meaning of service (New York : Association Press, c192)"
+  ],
+  "fosdick-christianity-progress": [
+   "christianityprog192200fosd",
+   "Christianity and progress (New York : Association Press, c192)"
+  ],
+  "fosdick-fundamentalists": [
+   "shallfundamental0000harr",
+   "Shall the fundamentalists win (Harry Emerson Fosdick, 1922)"
+  ],
+  "fosdick-twelve-tests": [
+   "twelvetestsofcha00fosd_1",
+   "Twelve tests of character (New York : Association Press, 1923)"
+  ],
+  "fosdick-modern-use-bible": [
+   "modernuseofbible0000harr",
+   "The modern use of the bible (the macmillan company, 1924)"
+  ],
+  "fosdick-adventurous-religion": [
+   "adventurousrelig0000harr",
+   "Adventurous Religion and Other Essays (catalogued 1926)"
+  ],
+  "fosdick-pilgrimage-palestine": [
+   "pilgrimagetopale0000harr_q1p8",
+   "A pilgrimage to Palestine (New York : Macmillan, 1927; first printing)"
+  ],
+  "fosdick-spiritual-values": [
+   "spiritualvaluese00fosd",
+   "Spiritual values and eternal life (Cambridge : Harvard University Press, 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fosdick-after-1929": "everything he published from 1930 on (still in copyright in the US)",
+  "fosdick-hymnal": "The American Hymnal (Dawson ed.), many authors"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fosdick-second-mile": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909, c1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fosdick-assurance-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fosdick-manhood-master": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fosdick-meaning-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fosdick-meaning-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918, c1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fosdick-present-crisis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fosdick-meaning-service": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "c1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fosdick-christianity-progress": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "c1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fosdick-fundamentalists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fosdick-twelve-tests": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fosdick-modern-use-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fosdick-adventurous-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fosdick-pilgrimage-palestine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fosdick-spiritual-values": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry emerson fosdick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

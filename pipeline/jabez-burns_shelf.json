@@ -1,0 +1,169 @@
+{
+ "_about": "Public-domain Jabez Burns (1805-1876), General Baptist minister of Church Street, Paddington, and temperance preacher, for the Word Hoard: Sermons chiefly designed for Family Reading (1842), The Christian's Daily Portion (1842), Sketches of Sermons on Christian Missions (1845), Christian Philosophy (1845), The Pulpit Cyclopaedia (1845), Sketches of Sermons on the Parables and Miracles (1847), Mothers of the Wise and Good (1850), Sermons for the Sick Room (1854) and A Retrospect of Forty-five Years' Christian Ministry (1875). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 76 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jabez burns"
+ ],
+ "_surname": [
+  "jabez burns",
+  "j. burns",
+  "burns, jabez",
+  "burns"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jburns-family-sermons": [
+   "sermonschieflyde00burn",
+   "Sermons chiefly designed for family reading and village worship (London : Houlston and Stoneman, 1842)"
+  ],
+  "jburns-daily-portion": [
+   "christiansdailyp00burn",
+   "The Christian's daily portion, or golden pot of manna : containing three hundred and sixty-five exercises on the person, offices, work, and glory of the redeemer (London : J. H. Starie, 1842)"
+  ],
+  "jburns-missions-sketches": [
+   "sketchesofsermon00burn",
+   "Sketches of sermons on Christian missions, original and selected (London, Aylott and Jones, 1845)"
+  ],
+  "jburns-christian-philosophy": [
+   "christianphiloso00burn",
+   "Christian philosophy : or, Materials for thought (London : Houlston and Stoneman, 1845)"
+  ],
+  "jburns-pulpit-cyclopaedia": [
+   "pulpitcyclopaedi00burn",
+   "The pulpit cyclopaedia, and Christian minister's companion : containing three hundred and sixty skeletons and sketches of sermons (New York : D. Appleton & Co., 1845)"
+  ],
+  "jburns-parables-miracles": [
+   "sketchesofsermonparabl00burn",
+   "Sketches of sermons on the parables and miracles of Christ : the essentials of saving religion, etc (London : Houlston and Stoneman, 1847)"
+  ],
+  "jburns-mothers-wise-good": [
+   "mothersofwisegoo00burn",
+   "Mothers of the wise and good (Boston : Gould, Kendall and Lincoln, 1850)"
+  ],
+  "jburns-sick-room-sermons": [
+   "sermonsdesigned00burngoog",
+   "Sermons designed for the sick room, family reading and village worship (catalogued 1854)"
+  ],
+  "jburns-retrospect": [
+   "aretrospectfort00burngoog",
+   "A Retrospect of Forty-five Years' Christian Ministry: Public Work in Other Spheres of Benevolent (Houlston, 1875)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jburns-other": "gift books and travel (Good Child's Gift Book, Marriage Gift Book, Help-Book for Travellers to the East, Notes of a Tour, 1848); every printing dated 1930 or later of his sermon outlines",
+  "jburns-sketches-of-sermons-1": "sketchesofsermon01burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations",
+  "jburns-sketches-of-sermons-2": "sketchesofsermon02burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations",
+  "jburns-sketches-of-sermons-3": "sketchesofsermon03burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations",
+  "jburns-sketches-of-sermons-4": "sketchesofsermon04burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jburns-christian-philosophy": "title page names no one: 'CHRISTIAN PHILOSOPHY ... AUTHOR OF \"SKETCHES AND SKELETONS OF SERMONS,\" THE \"CHRISTIAN'S DAILY PORTION,\" \"PULPIT CYCLOPEDIA\"'; the Family Sermons title page (on this shelf) reads 'BY J. BURNS ... AUTHOR OF \"FOUR HUNDRED SKETCHES AND SKELETONS OF SERMONS\"', and the Daily Portion is catalogued 'Burns, Jabez, 1805-1876'",
+  "jburns-pulpit-cyclopaedia": "title page names no one: 'BY THE AUTHOR OF SKETCHES AND SKELETONS OF SERMONS, CHRISTIAN'S DAILY PORTION, AND SERMONS FOR FAMILY READING'; the Family Sermons title page (on this shelf) reads 'BY J. BURNS ... AUTHOR OF \"FOUR HUNDRED SKETCHES AND SKELETONS OF SERMONS\"'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jburns-family-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. burns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jburns-daily-portion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burns, jabez",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jburns-missions-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jabez burns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jburns-christian-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jburns-pulpit-cyclopaedia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jburns-parables-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jabez burns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jburns-mothers-wise-good": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jabez burns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jburns-sick-room-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jabez burns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jburns-retrospect": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. burns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -2101,12 +2101,12 @@
     },
     {
       "id": "william-gadsby",
-      "status": "skipped",
+      "status": "done",
       "scope": "William Gadsby, Strict Baptist (d. 1844)",
       "added": "2026-10-10T10:34:26-05:00",
       "added_by": "lane A worker, round 17, continuing on Adam's 2026-10-10 keep-going request. English Nonconformists and evangelicals, Strict and Particular Baptists, and the Welsh preacher Christmas Evans. Checked against every remote branch's shelves, fetch_sources.py and every lane's queue (J. C. Philpot is not the martyr John Philpot on PR #14's branch).",
-      "finished": "2026-10-10T11:18:11-05:00",
-      "notes": "thin: The Nazarene's Songs is bound with another man's sermon and the memoir is by another hand; not worth a shelf"
+      "finished": "2026-10-23T00:36:37-05:00",
+      "notes": "1 item: The Nazarene's Songs (1824)"
     },
     {
       "id": "thomas-binney",
@@ -6166,6 +6166,4461 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:45:28-05:00",
       "notes": "6 items: Death 1751, Future Judgment 1749, Providence 1715, Vindication of the Trinity 1690, Knowledge of Jesus Christ 1674, Case of Resistance 1684"
+    },
+    {
+      "id": "edward-fowler",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:20-05:00",
+      "notes": "2 items: Design of Christianity 1671, Libertas Evangelica 1680"
+    },
+    {
+      "id": "john-scott-christian-life",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:21-05:00",
+      "notes": "5 items: The Christian Life 1757 (5 vols)"
+    },
+    {
+      "id": "richard-lucas",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:21-05:00",
+      "notes": "4 items: Enquiry after Happiness 1764 (2 vols), Religious Perfection 1749, Twelve Sermons 1699; Practical Christianity 1677 pending (unreadable OCR)"
+    },
+    {
+      "id": "george-stanhope",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:21-05:00",
+      "notes": "5 items: Paraphrase and Comment on the Epistles and Gospels 1726 (4 vols), Sermons 1705"
+    },
+    {
+      "id": "charles-wheatly",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:21-05:00",
+      "notes": "5 items: Rational Illustration of the BCP 1720, Nicene and Athanasian Creeds 1738, Fifty Sermons 1746 (3 vols)"
+    },
+    {
+      "id": "daniel-whitby",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:22-05:00",
+      "notes": "4 items: Paraphrase on the Epistles 1700, Necessity of the Christian Revelation 1705, Attributes of God 1710, Five Points 1735; Protestant Reconciler pending (anonymous title page)"
+    },
+    {
+      "id": "william-nicholls",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:22-05:00",
+      "notes": "3 items: Conference with a Theist 1723 (2 vols), Comment on the BCP 1710"
+    },
+    {
+      "id": "george-smalridge",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:22-05:00",
+      "notes": "1 item: Sixty Sermons 1724"
+    },
+    {
+      "id": "thomas-newton-bishop",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:23-05:00",
+      "notes": "3 items: Dissertations on the Prophecies 1758-1759 (3 vols)"
+    },
+    {
+      "id": "zachary-pearce",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:23-05:00",
+      "notes": "3 items: Commentary on the Evangelists and Acts 1777 (2 vols), Sermons 1778; Miracles of Jesus Vindicated pending (anonymous)"
+    },
+    {
+      "id": "offspring-blackall",
+      "status": "done",
+      "scope": "round 45",
+      "added": "2026-10-22T23:53:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:53:23-05:00",
+      "notes": "11 items: Practical Discourses on the Sermon on the Mount 1717-1718 (8 vols), Lord's Prayer 1717, Works 1723 (2 vols)"
+    },
+    {
+      "id": "samuel-chandler",
+      "status": "done",
+      "scope": "round 46",
+      "added": "2026-10-22T23:58:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:58:35-05:00",
+      "notes": "8 items: Vindication of the Christian Religion 1725, History of Persecution 1736, Vindication of the OT History 1741, Sermons 1768 (4 vols), Life of David 1853"
+    },
+    {
+      "id": "james-foster",
+      "status": "done",
+      "scope": "round 46",
+      "added": "2026-10-22T23:58:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:58:35-05:00",
+      "notes": "7 items: Sermons 1733 (4 vols), Usefulness of the Christian Revelation 1734, Discourses on Natural Religion 1749 (2 vols)"
+    },
+    {
+      "id": "henry-grove",
+      "status": "done",
+      "scope": "round 46",
+      "added": "2026-10-22T23:58:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:58:36-05:00",
+      "notes": "5 items: Works 1747 (4 vols), System of Moral Philosophy 1749"
+    },
+    {
+      "id": "john-taylor-of-norwich",
+      "status": "done",
+      "scope": "round 46",
+      "added": "2026-10-22T23:58:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:58:36-05:00",
+      "notes": "2 items: Original Sin 1740, Paraphrase on Romans 1745. A 'Taylor' Atonement volume was Stephen West's and is excluded"
+    },
+    {
+      "id": "job-orton",
+      "status": "done",
+      "scope": "round 46",
+      "added": "2026-10-22T23:58:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:58:36-05:00",
+      "notes": "8 items: Practical Works 1842 (2 vols), Exposition of the Old Testament 1788-1791 (6 vols)"
+    },
+    {
+      "id": "moses-lowman",
+      "status": "done",
+      "scope": "round 46",
+      "added": "2026-10-22T23:58:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:58:37-05:00",
+      "notes": "3 items: Paraphrase on Revelation 1745, Civil Government of the Hebrews 1740, Ritual of the Hebrew Worship 1748"
+    },
+    {
+      "id": "john-maclaurin",
+      "status": "done",
+      "scope": "round 46",
+      "added": "2026-10-22T23:58:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:58:37-05:00",
+      "notes": "3 items: Works 1860 (2 vols), Essay on the Prophecies 1773"
+    },
+    {
+      "id": "charles-john-ellicott",
+      "status": "done",
+      "scope": "round 47",
+      "added": "2026-10-23T00:02:47-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:02:47-05:00",
+      "notes": "11 items: Pauline commentaries (Galatians, Ephesians, Philippians-Colossians-Philemon, Thessalonians, 1 Corinthians), Life of our Lord 1860, Destiny of the Creature, Revision, Modern Unbelief, Christus Comprobator, Sermons at Gloucester. Pastorals copy unusable (OCR read as Greek)"
+    },
+    {
+      "id": "edward-harold-browne",
+      "status": "done",
+      "scope": "round 47",
+      "added": "2026-10-23T00:02:47-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:02:47-05:00",
+      "notes": "2 items: Exposition of the Thirty-nine Articles 1850, Messiah as Foretold 1862"
+    },
+    {
+      "id": "william-connor-magee",
+      "status": "done",
+      "scope": "round 47",
+      "added": "2026-10-23T00:02:47-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:02:47-05:00",
+      "notes": "4 items: Sermons at Bath 1852, Gospel and the Age 1884, Christ the Light of all Scripture 1892, Growth in Grace 1892"
+    },
+    {
+      "id": "edwards-amasa-park",
+      "status": "done",
+      "scope": "round 47",
+      "added": "2026-10-23T00:02:47-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:02:47-05:00",
+      "notes": "3 items: Discourses 1885, Memorial Sermons 1902, Memoir of Hopkins 1854"
+    },
+    {
+      "id": "joseph-augustus-seiss",
+      "status": "done",
+      "scope": "round 47",
+      "added": "2026-10-23T00:02:48-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:02:48-05:00",
+      "notes": "12 items: Apocalypse 1865, Last Times 1859, Leviticus, Voices from Babylon, Hebrews, Ten Virgins, Baptist System, Letters of Jesus, Beacon Lights, Lectures on the Epistles, Miracle in Stone, Gospel in the Stars"
+    },
+    {
+      "id": "henry-eyster-jacobs",
+      "status": "done",
+      "scope": "round 47",
+      "added": "2026-10-23T00:02:48-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:02:48-05:00",
+      "notes": "6 items: Elements of Religion, Summary of the Christian Faith, Lutheran Movement in England, History of the Lutheran Church in the US, Martin Luther, Annotations on Romans"
+    },
+    {
+      "id": "carl-friedrich-keil",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:11:06-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:11:06-05:00",
+      "notes": "19 items: Keil and Delitzsch OT commentary, Keil's volumes (Pentateuch 3, Joshua-Judges-Ruth, Samuel, Kings, Chronicles, Ezra-Nehemiah-Esther, Jeremiah 2, Ezekiel 2, Daniel, Minor Prophets 2), Introduction to the OT 2, Biblical Archaeology 2; translators recorded where the OCR names them"
+    },
+    {
+      "id": "franz-delitzsch",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:11:06-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:11:06-05:00",
+      "notes": "20 items: Job 2, Psalms 3, Proverbs 2, Isaiah 2 (1884), Hebrews 2, New Commentary on Genesis 2, Biblical Psychology, Messianic Prophecies 1880 and 1891, OT History of Redemption, Jewish Artisan Life, A Day in Capernaum, Iris; translators recorded where the OCR names them"
+    },
+    {
+      "id": "johann-albrecht-bengel",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:23-05:00",
+      "notes": "5 items: the Gnomon of the New Testament, Clark 1877, 5 vols; translators recorded where the OCR names them"
+    },
+    {
+      "id": "carl-august-auberlen",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:23-05:00",
+      "notes": "1 item: The Divine Revelation (1867); Daniel and Revelation held on another branch"
+    },
+    {
+      "id": "georg-benedikt-winer",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:24-05:00",
+      "notes": "4 items: Comparative View of the Confessions, NT grammar (Thayer 1869, Moulton 1870), Chaldee grammar"
+    },
+    {
+      "id": "conrad-von-orelli",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:24-05:00",
+      "notes": "4 items: OT Prophecy, Jeremiah, Minor Prophets, Peculiarity of the Religion of the Bible; Isaiah pending"
+    },
+    {
+      "id": "august-dillmann",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:24-05:00",
+      "notes": "2 items: Genesis, 2 vols (1897)"
+    },
+    {
+      "id": "michael-baumgarten",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:24-05:00",
+      "notes": "3 items: The Acts of the Apostles, 3 vols (1854)"
+    },
+    {
+      "id": "karl-immanuel-nitzsch",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:25-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:25-05:00",
+      "notes": "1 item: System of Christian Doctrine (1849)"
+    },
+    {
+      "id": "adolf-harless",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:25-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:25-05:00",
+      "notes": "1 item: System of Christian Ethics (1868)"
+    },
+    {
+      "id": "edmond-de-pressense",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:25-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:25-05:00",
+      "notes": "12 items: Religions before Christ, Redeemer, Jesus Christ, Mystery of Suffering, Church and French Revolution, Early Years of Christianity 4 series, Contemporary Portraits, Study of Origins, Ancient World and Christianity"
+    },
+    {
+      "id": "eugene-bersier",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:26-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:26-05:00",
+      "notes": "4 items: Oneness of the Race, St Paul's Vision, Gospel in Paris, Coligny"
+    },
+    {
+      "id": "ernest-naville",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:26-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:26-05:00",
+      "notes": "4 items: Heavenly Father, Problem of Evil, The Christ, Modern Physics; bare 'naville' dropped as a name form (shared with singles-remainder)"
+    },
+    {
+      "id": "karl-friedrich-august-kahnis",
+      "status": "done",
+      "scope": "round 48",
+      "added": "2026-10-23T00:17:26-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:17:26-05:00",
+      "notes": "1 item: Internal History of German Protestantism (1856)"
+    },
+    {
+      "id": "isaac-da-costa",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:16-05:00",
+      "notes": "2 items: Israel and the Gentiles (1850), The Four Witnesses (1851)"
+    },
+    {
+      "id": "matthias-loy",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:16-05:00",
+      "notes": "4 items: Doctrine of Justification, Sermons on the Gospels, Story of My Life, Sermon on the Mount"
+    },
+    {
+      "id": "d-g-monrad",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:17-05:00",
+      "notes": "1 item: The World of Prayer (1879), tr. J. S. Banks"
+    },
+    {
+      "id": "j-oswald-dykes",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:17-05:00",
+      "notes": "10 items: Kingdom trilogy, Jerusalem to Antioch, Manifesto of the King, Gospel according to St Paul, Plain Words, Law of the Ten Words, Christian Minister, Divine Worker"
+    },
+    {
+      "id": "john-pye-smith",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:17-05:00",
+      "notes": "6 items: Scripture Testimony to the Messiah 3 vols, Four Discourses, Geology and Scripture, First Lines of Christian Theology"
+    },
+    {
+      "id": "archibald-hall",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:17-05:00",
+      "notes": "5 items: Humble Attempt, Church-Fellowships, Appeal to the Public, Grace and Holiness, Faith and Influence of the Gospel"
+    },
+    {
+      "id": "george-hill-of-st-andrews",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:18-05:00",
+      "notes": "5 items: Sermons 1796, Theological Institutes, Lectures in Divinity 2 vols, View of the Constitution of the Church of Scotland"
+    },
+    {
+      "id": "alexander-carson",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:18-05:00",
+      "notes": "6 items: Reasons for Separating, Reply to Brown, History of Providence, Baptism, Romish Controversy, Inspiration"
+    },
+    {
+      "id": "george-burder",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:18-05:00",
+      "notes": "2 items: Evangelical Truth Defended, Village Sermons; Early Piety and Good Old Way pending (anonymous title pages)"
+    },
+    {
+      "id": "edward-williams-of-rotherham",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:19-05:00",
+      "notes": "3 items: Antipaedobaptism Examined 2 vols, Essay on Equity"
+    },
+    {
+      "id": "james-morison-evangelical-union",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:19-05:00",
+      "notes": "4 items: Romans 3, Matthew, Mark, Extent of the Atonement"
+    },
+    {
+      "id": "thomas-charles-of-bala",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:36-05:00",
+      "notes": "2 items: Two Letters on the Welsh revival (1792), An Evangelical Catechism (1797)"
+    },
+    {
+      "id": "daniel-rowland",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:36-05:00",
+      "notes": "2 items: Eight Sermons (1774), Three Sermons (1778), English translations from the Welsh"
+    },
+    {
+      "id": "howell-harris",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:36-05:00",
+      "notes": "3 items: Letter 1743, Last Message 1774, Brief Account of his Life 1791"
+    },
+    {
+      "id": "john-kershaw-of-rochdale",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:37-05:00",
+      "notes": "1 item: Memorials of the Mercies of a Covenant God (1876)"
+    },
+    {
+      "id": "joseph-irons",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:37-05:00",
+      "notes": "2 items: Zion's Hymns (1827), Judah (1847)"
+    },
+    {
+      "id": "joseph-hussey",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:37-05:00",
+      "notes": "5 items: Gospel-Feast Opened, Warning from the Winds, Stroke of Divine Soveraignty, Glory of Christ Unveil'd, God's Operations of Grace"
+    },
+    {
+      "id": "thomas-prince-of-boston",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:13-05:00",
+      "notes": "6 items: Chronological History of New-England 1736, Earthquakes, Grave and Death Destroyed, Sovereign God, Extraordinary Events, Salvations of God; Divine Promises pending (anonymous)"
+    },
+    {
+      "id": "peter-bulkeley",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:13-05:00",
+      "notes": "1 item: The Gospel-Covenant (1651)"
+    },
+    {
+      "id": "michael-wigglesworth",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:13-05:00",
+      "notes": "2 items: Day of Doom (1867 reprint), Meat out of the Eater (1689)"
+    },
+    {
+      "id": "john-norton-puritan",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:14-05:00",
+      "notes": "5 items: Orthodox Evangelist, Abel being Dead (life of Cotton), Heart of N-England Rent, Brief Catechisme, Three Sermons"
+    },
+    {
+      "id": "urian-oakes",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:14-05:00",
+      "notes": "4 items: New-England Pleaded With, Unconquerable Souldier, Soveraign Efficacy, Seasonable Discourse; Elegie on Shepard pending (anonymous)"
+    },
+    {
+      "id": "benjamin-colman",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:14-05:00",
+      "notes": "8 items: Ten Virgins, Devout Contemplation, Rending of the Vail, Glories of Christ, Resurrection, Genesis, Souls Flying, Satan's Fiery Darts; catalogue's Fifteen Sermons is Whitefield's, excluded"
+    },
+    {
+      "id": "thomas-foxcroft",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:15-05:00",
+      "notes": "7 items: Gospel-Ministry, God the Judge, Observations on New-England, Deacons, Evangelic Preaching, Apology for Whitefield, Humble Inquiry"
+    },
+    {
+      "id": "joseph-sewall",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:15-05:00",
+      "notes": "7 items: sermons 1724-1741; bare 'sewall' dropped as a name form (shared with italian-classics)"
+    },
+    {
+      "id": "edward-beecher",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:15-05:00",
+      "notes": "5 items: Alton Riots, Baptism, Conflict of Ages, Papal Conspiracy, History of Opinions on Retribution"
+    },
+    {
+      "id": "samuel-stanhope-smith",
+      "status": "done",
+      "scope": "round 51",
+      "added": "2026-10-23T00:48:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:48:15-05:00",
+      "notes": "6 items: Essay on Complexion, Sermons, Lectures 2 vols, New Jersey Preacher, Comprehensive View"
+    },
+    {
+      "id": "nathan-bangs",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:02-05:00",
+      "notes": "9 items: Errors of Hopkinsianism, Reformer Reformed, Letters to Young Ministers, Life of Garrettson, Original Church of Christ, History of the MEC 4 vols"
+    },
+    {
+      "id": "joseph-benson",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:03-05:00",
+      "notes": "7 items: Sanctification, Remarks on Priestley, Defence of the Methodists, Apology, Sermons 2 vols, Life of Fletcher"
+    },
+    {
+      "id": "daniel-d-whedon",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:03-05:00",
+      "notes": "5 items: Public Addresses, Freedom of the Will, What is Arminianism, Statements, Essays; NT commentary left for later"
+    },
+    {
+      "id": "miner-raymond",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:03-05:00",
+      "notes": "3 items: Systematic Theology 3 vols (1877)"
+    },
+    {
+      "id": "thomas-n-ralston",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:04-05:00",
+      "notes": "1 item: Elements of Divinity (1851)"
+    },
+    {
+      "id": "randolph-s-foster",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:04-05:00",
+      "notes": "9 items: Objections to Calvinism, Christian Purity, Beyond the Grave, Studies in Theology 6 vols"
+    },
+    {
+      "id": "john-miley-methodist",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:04-05:00",
+      "notes": "4 items: Class Meetings, Atonement in Christ, Systematic Theology 2 vols"
+    },
+    {
+      "id": "matthew-simpson",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:05-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:05-05:00",
+      "notes": "3 items: Lincoln funeral address, Hundred Years of Methodism, Lectures on Preaching"
+    },
+    {
+      "id": "peter-cartwright",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:05-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:05-05:00",
+      "notes": "2 items: Autobiography (1856), Fifty Years as a Presiding Elder (1871)"
+    },
+    {
+      "id": "basil-manly-jr",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:02-05:00",
+      "notes": "Southern Baptist seminary founder; Manly Sr. is kept apart. Every item verified, 0 uids minted."
+    },
+    {
+      "id": "richard-fuller-baptist",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:02-05:00",
+      "notes": "Baltimore Baptist pastor; two title pages quoted after dropping the shared 'dr. fuller' form. Domestic Slavery correspondence pending (held on francis-wayland). 0 uids minted."
+    },
+    {
+      "id": "jeremiah-b-jeter",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:03-05:00",
+      "notes": "Virginia Baptist pastor and editor. Every item verified, 0 uids minted."
+    },
+    {
+      "id": "john-leland-baptist",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:03-05:00",
+      "notes": "Writings of the Virginia and Massachusetts Baptist preacher. 0 uids minted."
+    },
+    {
+      "id": "thomas-armitage",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:03-05:00",
+      "notes": "History of the Baptists and sermons; T. R. Armitage (blind welfare) excluded. 0 uids minted."
+    },
+    {
+      "id": "william-cathcart",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:03-05:00",
+      "notes": "Philadelphia Baptist pastor; Papal System title page quoted (OCR garbles the name). 0 uids minted."
+    },
+    {
+      "id": "andrew-broaddus",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:04-05:00",
+      "notes": "Virginia Baptist preacher. 0 uids minted."
+    },
+    {
+      "id": "p-h-mell",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:04-05:00",
+      "notes": "Georgia Baptist theologian; his parliamentary manual excluded (not divinity); P. H. Mell Jr. excluded. 0 uids minted."
+    },
+    {
+      "id": "ezekiel-gilman-robinson",
+      "status": "done",
+      "scope": "round 53",
+      "added": "2026-10-23T01:03:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:03:04-05:00",
+      "notes": "Rochester seminary and Brown president; Christian Evidences title page quoted. 0 uids minted."
+    },
+    {
+      "id": "william-henry-green",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:14:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:14:58-05:00",
+      "notes": "Princeton Old Testament professor; class syllabi and translations left out. 0 uids minted."
+    },
+    {
+      "id": "caspar-wistar-hodge",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:14:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:14:58-05:00",
+      "notes": "Princeton New Testament professor (1830-1891); his son C. W. Hodge Jr. excluded. 0 uids minted."
+    },
+    {
+      "id": "lyman-atwater",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:14:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:14:59-05:00",
+      "notes": "Princeton moral philosopher; journal volumes left out. 0 uids minted."
+    },
+    {
+      "id": "roswell-d-hitchcock",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:14:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:14:59-05:00",
+      "notes": "Union Seminary church historian; hymn books and works he only introduced left out. 0 uids minted."
+    },
+    {
+      "id": "benjamin-kurtz",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:14:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:14:59-05:00",
+      "notes": "American Lutheran editor; Ministerial Appeal identified from the signed letters. 0 uids minted."
+    },
+    {
+      "id": "william-julius-mann",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:15:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:15:00-05:00",
+      "notes": "Confessional Lutheran, Philadelphia; German-language works pending Adam. 0 uids minted."
+    },
+    {
+      "id": "b-m-palmer",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:15:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:15:13-05:00",
+      "notes": "New Orleans Presbyterian; his uncle of the same name kept apart; Theology of Prayer is the 1894 printing, not the 1980 reprint. 0 uids minted."
+    },
+    {
+      "id": "charles-p-mcilvaine",
+      "status": "done",
+      "scope": "round 55",
+      "added": "2026-10-23T01:22:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:22:57-05:00",
+      "notes": "Evangelical Bishop of Ohio; four title pages quoted (OCR reads M'lLVAINE). 0 uids minted."
+    },
+    {
+      "id": "stephen-h-tyng",
+      "status": "done",
+      "scope": "round 55",
+      "added": "2026-10-23T01:22:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:22:57-05:00",
+      "notes": "Evangelical rector of St. George's, New York; his son Stephen H. Tyng Jr. kept apart. 0 uids minted."
+    },
+    {
+      "id": "william-meade",
+      "status": "done",
+      "scope": "round 55",
+      "added": "2026-10-23T01:22:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:22:58-05:00",
+      "notes": "Evangelical Bishop of Virginia; Family Prayers pending (no name on the book). 0 uids minted."
+    },
+    {
+      "id": "gregory-townsend-bedell",
+      "status": "done",
+      "scope": "round 55",
+      "added": "2026-10-23T01:22:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:22:58-05:00",
+      "notes": "Philadelphia evangelical rector (1793-1834); his son has his own shelf. 0 uids minted."
+    },
+    {
+      "id": "gregory-thurston-bedell",
+      "status": "done",
+      "scope": "round 55",
+      "added": "2026-10-23T01:22:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:22:58-05:00",
+      "notes": "Bishop of Ohio (1817-1892), son of Gregory Townsend Bedell. 0 uids minted."
+    },
+    {
+      "id": "james-milnor",
+      "status": "done",
+      "scope": "round 55",
+      "added": "2026-10-23T01:22:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:22:58-05:00",
+      "notes": "Evangelical rector of St. George's before Tyng; two sermons. 0 uids minted."
+    },
+    {
+      "id": "john-b-adger",
+      "status": "done",
+      "scope": "round 55",
+      "added": "2026-10-23T01:22:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:22:59-05:00",
+      "notes": "Southern Presbyterian missionary and Columbia Seminary professor. 0 uids minted."
+    },
+    {
+      "id": "j-h-a-bomberger",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:52-05:00",
+      "notes": "German Reformed, Ursinus founder, critic of Mercersburg; his Herzog translation left out. 0 uids minted."
+    },
+    {
+      "id": "henry-harbaugh",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:52-05:00",
+      "notes": "German Reformed, Mercersburg; four title pages quoted; Pennsylvania German poems pending. 0 uids minted."
+    },
+    {
+      "id": "john-mitchell-mason",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:53-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:53-05:00",
+      "notes": "Associate Reformed, New York; the 1849 Complete Works shelved, earlier collections listed as alternates. 0 uids minted."
+    },
+    {
+      "id": "nicholas-murray",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:53-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:53-05:00",
+      "notes": "Elizabethtown Presbyterian, wrote as Kirwan; Walter Blake Kirwan kept apart. 0 uids minted."
+    },
+    {
+      "id": "richard-salter-storrs",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:53-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:53-05:00",
+      "notes": "Church of the Pilgrims, Brooklyn (1821-1900); his father of the same name kept apart. 0 uids minted."
+    },
+    {
+      "id": "george-duffield-1794",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:54-05:00",
+      "notes": "New School Presbyterian, Carlisle and Detroit; his son the hymn writer kept apart. 0 uids minted."
+    },
+    {
+      "id": "edward-norris-kirk",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:54-05:00",
+      "notes": "Boston revivalist; translations and a multi-author volume left out. 0 uids minted."
+    },
+    {
+      "id": "eliphalet-nott",
+      "status": "done",
+      "scope": "round 56",
+      "added": "2026-10-23T01:32:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:32:54-05:00",
+      "notes": "Union College president; two title pages quoted. 0 uids minted."
+    },
+    {
+      "id": "henry-ward-beecher",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:44-05:00",
+      "notes": "Plymouth Church, Brooklyn; his books, not others' selections from him; Plymouth Pulpit sermon volumes pending. 0 uids minted."
+    },
+    {
+      "id": "charles-a-briggs",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:44-05:00",
+      "notes": "Union Seminary, tried for heresy 1892-93; his books and defence, not the case papers by others. 0 uids minted."
+    },
+    {
+      "id": "newman-smyth",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:45-05:00",
+      "notes": "New Haven Congregationalist; his Dorner translation left out. 0 uids minted."
+    },
+    {
+      "id": "j-wilbur-chapman",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:45-05:00",
+      "notes": "Presbyterian evangelist; hymn books left out. 0 uids minted."
+    },
+    {
+      "id": "henry-cowles-oberlin",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:45-05:00",
+      "notes": "Oberlin commentator, 14 volumes; Gospels and Hebrews pending. 0 uids minted."
+    },
+    {
+      "id": "james-h-fairchild",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:46-05:00",
+      "notes": "Oberlin theologian and president; two title pages quoted. 0 uids minted."
+    },
+    {
+      "id": "francis-l-patton",
+      "status": "done",
+      "scope": "round 57",
+      "added": "2026-10-23T01:50:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:50:46-05:00",
+      "notes": "Princeton; every item published before 1930 though he died in 1932. 0 uids minted."
+    },
+    {
+      "id": "newman-hall",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:19-05:00",
+      "notes": "Surrey Chapel, London; Come to Jesus is the English text (the Creek translation was swapped out). 0 uids minted."
+    },
+    {
+      "id": "alexander-raleigh",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:20-05:00",
+      "notes": "Canonbury Congregationalist; Sir Walter Raleigh the critic kept apart. 0 uids minted."
+    },
+    {
+      "id": "henry-allon",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:20-05:00",
+      "notes": "Union Chapel, Islington; two sermon volumes; his hymn books left out. 0 uids minted."
+    },
+    {
+      "id": "j-baldwin-brown",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:20-05:00",
+      "notes": "Brixton Congregationalist; his father of the same name kept apart. 0 uids minted."
+    },
+    {
+      "id": "h-grattan-guinness",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:21-05:00",
+      "notes": "Evangelist and writer on prophecy. 0 uids minted."
+    },
+    {
+      "id": "mark-guy-pearse",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:21-05:00",
+      "notes": "Cornish Wesleyan, West London Mission; all printings before 1930. 0 uids minted."
+    },
+    {
+      "id": "joseph-angus",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:21-05:00",
+      "notes": "Baptist, Regent's Park College. 0 uids minted."
+    },
+    {
+      "id": "samuel-cox",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:22-05:00",
+      "notes": "Nottingham Baptist, editor of The Expositor; Private Letters pending (no title page). 0 uids minted."
+    },
+    {
+      "id": "hugh-macmillan",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:22-05:00",
+      "notes": "Free Church, nature and religion; botanical books left out. 0 uids minted."
+    },
+    {
+      "id": "hugh-mcneile",
+      "status": "done",
+      "scope": "round 58",
+      "added": "2026-10-23T02:03:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:03:22-05:00",
+      "notes": "Liverpool evangelical, Dean of Ripon; A. H. McNeile kept apart. 0 uids minted."
+    },
+    {
+      "id": "edward-irving",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:17-05:00",
+      "notes": "National Scotch Church, Regent Square; five-volume Collected Writings; Washington Irving kept apart. 0 uids minted."
+    },
+    {
+      "id": "robert-vaughan-1795",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:17-05:00",
+      "notes": "Congregational historian of Wycliffe; his son R. A. Vaughan kept apart. 0 uids minted."
+    },
+    {
+      "id": "henry-rogers-1806",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:17-05:00",
+      "notes": "Congregational apologist; the Defence of the Eclipse of Faith was anonymous, identity quoted. 0 uids minted."
+    },
+    {
+      "id": "john-harris-1802",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:18-05:00",
+      "notes": "Principal of New College, London; Mammon was an anonymous prize essay, identity quoted. 0 uids minted."
+    },
+    {
+      "id": "robert-halley",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:18-05:00",
+      "notes": "Manchester Congregationalist, Principal of New College. 0 uids minted."
+    },
+    {
+      "id": "john-stoughton",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:19-05:00",
+      "notes": "Congregational historian; Ecclesiastical History volumes pending for a later round. 0 uids minted."
+    },
+    {
+      "id": "thomas-raffles",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:19-05:00",
+      "notes": "Liverpool Congregationalist; Stamford Raffles kept apart. 0 uids minted."
+    },
+    {
+      "id": "robert-forman-horton",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:19-05:00",
+      "notes": "Hampstead Congregationalist; only printings before 1930 taken. 0 uids minted."
+    },
+    {
+      "id": "john-clifford",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:19-05:00",
+      "notes": "Baptist leader of Westbourne Park; W. K. Clifford kept apart; multi-author English Baptists excluded. 0 uids minted."
+    },
+    {
+      "id": "hugh-price-hughes",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:20-05:00",
+      "notes": "Wesleyan West London Mission, Social Christianity. 0 uids minted."
+    },
+    {
+      "id": "andrew-martin-fairbairn",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:20-05:00",
+      "notes": "First Principal of Mansfield College; Patrick Fairbairn (fairbairn shelf) kept apart. 0 uids minted."
+    },
+    {
+      "id": "austin-phelps",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:15-05:00",
+      "notes": "Andover homiletics; joint hymnals left out; Elizabeth Stuart Phelps kept apart. 0 uids minted."
+    },
+    {
+      "id": "george-b-cheever",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:15-05:00",
+      "notes": "Church of the Puritans, abolitionist; anthologies he edited left out. 0 uids minted."
+    },
+    {
+      "id": "nehemiah-adams",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:15-05:00",
+      "notes": "Essex Street, Boston; two anonymous books on quoted identity; South-Side View of Slavery shelved, Adam may veto. 0 uids minted."
+    },
+    {
+      "id": "ebenezer-porter",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:16-05:00",
+      "notes": "Andover President; compiled readers and the Young Preacher's Manual left out. 0 uids minted."
+    },
+    {
+      "id": "heman-humphrey",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:16-05:00",
+      "notes": "Amherst President; Christian Memoirs excluded (no title page, compiled lives). 0 uids minted."
+    },
+    {
+      "id": "john-todd-1800",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:16-05:00",
+      "notes": "Pittsfield Congregationalist; Student's Manual and books for the young. 0 uids minted."
+    },
+    {
+      "id": "herrick-johnson",
+      "status": "done",
+      "scope": "round 60",
+      "added": "2026-10-23T02:23:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:23:17-05:00",
+      "notes": "McCormick Seminary; Comfort is by Mrs. Herrick Johnson and excluded. 0 uids minted."
+    },
+    {
+      "id": "george-w-bethune",
+      "status": "done",
+      "scope": "round 61",
+      "added": "2026-10-23T02:31:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:31:02-05:00",
+      "notes": "Reformed Dutch; Heidelberg Catechism lectures; anthologies he edited left out. 0 uids minted."
+    },
+    {
+      "id": "arthur-cleveland-coxe",
+      "status": "done",
+      "scope": "round 61",
+      "added": "2026-10-23T02:31:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:31:02-05:00",
+      "notes": "Bishop of Western New York; early books anonymous, identity quoted; Ante-Nicene Fathers edition left out. 0 uids minted."
+    },
+    {
+      "id": "george-washington-doane",
+      "status": "done",
+      "scope": "round 61",
+      "added": "2026-10-23T02:31:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:31:03-05:00",
+      "notes": "Bishop of New Jersey; four-volume Life and Writings. 0 uids minted."
+    },
+    {
+      "id": "frederic-dan-huntington",
+      "status": "done",
+      "scope": "round 61",
+      "added": "2026-10-23T02:31:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:31:03-05:00",
+      "notes": "Bishop of Central New York; a miscatalogued Oxenden book excluded. 0 uids minted."
+    },
+    {
+      "id": "henry-b-whipple",
+      "status": "done",
+      "scope": "round 61",
+      "added": "2026-10-23T02:31:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:31:03-05:00",
+      "notes": "Bishop of Minnesota; small shelf. 0 uids minted."
+    },
+    {
+      "id": "william-m-taylor",
+      "status": "done",
+      "scope": "round 62",
+      "added": "2026-10-23T02:36:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:36:00-05:00",
+      "notes": "Broadway Tabernacle; Bible biographies, parables and miracles. 0 uids minted."
+    },
+    {
+      "id": "howard-crosby",
+      "status": "done",
+      "scope": "round 62",
+      "added": "2026-10-23T02:36:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:36:00-05:00",
+      "notes": "Fourth Avenue Presbyterian, NYU Chancellor; Lands of the Moslem under his pseudonym El-Mukattem. 0 uids minted."
+    },
+    {
+      "id": "john-hall-1829",
+      "status": "done",
+      "scope": "round 62",
+      "added": "2026-10-23T02:36:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:36:01-05:00",
+      "notes": "Fifth Avenue Presbyterian; Familiar Talks to Boys pending. 0 uids minted."
+    },
+    {
+      "id": "a-k-h-boyd",
+      "status": "done",
+      "scope": "round 63",
+      "added": "2026-10-23T02:43:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:43:44-05:00",
+      "notes": "A.K.H.B. of St Andrews; books anonymous 'by the author of Recreations', identity quoted. 0 uids minted."
+    },
+    {
+      "id": "baptist-noel",
+      "status": "done",
+      "scope": "round 63",
+      "added": "2026-10-23T02:43:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:43:44-05:00",
+      "notes": "Evangelical Anglican turned Baptist (1848); multi-author Christian Sabbath excluded. 0 uids minted."
+    },
+    {
+      "id": "francis-close",
+      "status": "done",
+      "scope": "round 63",
+      "added": "2026-10-23T02:43:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:43:45-05:00",
+      "notes": "Cheltenham, Dean of Carlisle; two sermons pending (garbled or unconfirmed). 0 uids minted."
+    },
+    {
+      "id": "orville-dewey",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:02-05:00",
+      "notes": "Unitarian, Church of the Messiah, New York; John Dewey kept apart. 0 uids minted."
+    },
+    {
+      "id": "joseph-stevens-buckminster",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:03-05:00",
+      "notes": "Brattle Street, Boston; posthumous sermons and works. 0 uids minted."
+    },
+    {
+      "id": "e-h-chapin",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:03-05:00",
+      "notes": "Universalist, New York; Humanity in the City pending. 0 uids minted."
+    },
+    {
+      "id": "henry-ware-jr",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:03-05:00",
+      "notes": "Unitarian, Second Church Boston and Harvard; Jotham Anderson pending (anonymous). 0 uids minted."
+    },
+    {
+      "id": "james-freeman-clarke",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:04-05:00",
+      "notes": "Unitarian, Church of the Disciples; compiled and joint books left out. 0 uids minted."
+    },
+    {
+      "id": "hosea-ballou",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:04-05:00",
+      "notes": "Universalist, Boston; Hosea Ballou 2nd kept apart. 0 uids minted."
+    },
+    {
+      "id": "thomas-starr-king",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:04-05:00",
+      "notes": "Unitarian, Boston and San Francisco. 0 uids minted."
+    },
+    {
+      "id": "john-cumming",
+      "status": "done",
+      "scope": "round 65",
+      "added": "2026-10-23T03:00:51-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:00:51-05:00",
+      "notes": "Crown Court, London; prophecy and anti-Roman lectures; Cumming garbled in OCR, 17 title pages quoted. 0 uids minted."
+    },
+    {
+      "id": "henry-blunt",
+      "status": "done",
+      "scope": "round 65",
+      "added": "2026-10-23T03:00:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:00:52-05:00",
+      "notes": "Holy Trinity Chelsea and Streatham; Lent lectures. 0 uids minted."
+    },
+    {
+      "id": "hugh-stowell",
+      "status": "done",
+      "scope": "round 65",
+      "added": "2026-10-23T03:00:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:00:52-05:00",
+      "notes": "Christ Church Salford; Hugh Stowell Brown kept apart. 0 uids minted."
+    },
+    {
+      "id": "william-goode-1801",
+      "status": "done",
+      "scope": "round 65",
+      "added": "2026-10-23T03:00:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:00:52-05:00",
+      "notes": "Dean of Ripon; Divine Rule of Faith 3 vols, Eucharist 2 vols. 0 uids minted."
+    },
+    {
+      "id": "charles-bradley-1789",
+      "status": "done",
+      "scope": "round 66",
+      "added": "2026-10-23T03:04:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:04:44-05:00",
+      "notes": "Glasbury and Clapham sermons; Latin school editions left out. 0 uids minted."
+    },
+    {
+      "id": "edward-henry-bickersteth",
+      "status": "done",
+      "scope": "round 66",
+      "added": "2026-10-23T03:04:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:04:45-05:00",
+      "notes": "Bishop of Exeter, poet; father Edward Bickersteth kept apart. 0 uids minted."
+    },
+    {
+      "id": "edward-garbett",
+      "status": "done",
+      "scope": "round 66",
+      "added": "2026-10-23T03:04:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:04:45-05:00",
+      "notes": "Surbiton, Record editor, Bampton 1867; anonymous Pentateuch review pending. 0 uids minted."
+    },
+    {
+      "id": "hugh-stowell-brown",
+      "status": "done",
+      "scope": "round 66",
+      "added": "2026-10-23T03:04:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:04:45-05:00",
+      "notes": "Liverpool Baptist, lectures to working men. 0 uids minted."
+    },
+    {
+      "id": "capel-molyneux",
+      "status": "done",
+      "scope": "round 66",
+      "added": "2026-10-23T03:04:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:04:46-05:00",
+      "notes": "Paddington evangelical; small shelf. 0 uids minted."
+    },
+    {
+      "id": "w-e-boardman",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:32-05:00",
+      "notes": "Higher Christian Life; holiness/Keswick. 0 uids minted."
+    },
+    {
+      "id": "a-b-earle",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:32-05:00",
+      "notes": "Baptist revivalist; small shelf. 0 uids minted."
+    },
+    {
+      "id": "e-payson-hammond",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:32-05:00",
+      "notes": "Children's evangelist; hymnbooks left out. 0 uids minted."
+    },
+    {
+      "id": "william-taylor-bishop",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:33-05:00",
+      "notes": "Methodist street preacher and missionary bishop; shared name forms dropped. 0 uids minted."
+    },
+    {
+      "id": "henry-clay-fish",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:33-05:00",
+      "notes": "Newark Baptist; his anthologies left out. 0 uids minted."
+    },
+    {
+      "id": "john-l-nevius",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:33-05:00",
+      "notes": "Presbyterian missionary to China; Nevius method. 0 uids minted."
+    },
+    {
+      "id": "joseph-mede",
+      "status": "done",
+      "scope": "round 68",
+      "added": "2026-10-23T03:23:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:23:11-05:00",
+      "notes": "5 books: Works (1677), Apostasy of the Latter Times, Key of the Revelation (English), Name Altar, Reverence of Gods House. 1672 Works and Latin works excluded."
+    },
+    {
+      "id": "humphrey-prideaux",
+      "status": "done",
+      "scope": "round 68",
+      "added": "2026-10-23T03:23:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:23:11-05:00",
+      "notes": "9 books: the Connection (ninth edition, 4 vols., 1725), Validity of Orders, Life of Mahomet, Letter to the Deists (anonymous), Tithes, Directions to Church-Wardens."
+    },
+    {
+      "id": "richard-allestree",
+      "status": "done",
+      "scope": "round 68",
+      "added": "2026-10-23T03:23:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:23:11-05:00",
+      "notes": "5 books, all anonymous 'by the author of The Whole Duty of Man'; attribution is scholarly consensus. Whole Duty first edition (1658); 1659 printing and the almanac-maker excluded."
+    },
+    {
+      "id": "soame-jenyns",
+      "status": "done",
+      "scope": "round 68",
+      "added": "2026-10-23T03:23:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:23:12-05:00",
+      "notes": "3 books: Internal Evidence (1776), Free Inquiry into Evil (anonymous, 1758), Poems (1768). The anonymous 1767 provisions pamphlet excluded."
+    },
+    {
+      "id": "j-w-mcgarvey",
+      "status": "done",
+      "scope": "round 68",
+      "added": "2026-10-23T03:23:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:23:12-05:00",
+      "notes": "12 books, 1863-1916, incl. two with Philip Y. Pendleton (Fourfold Gospel, Thessalonians-Romans)."
+    },
+    {
+      "id": "frederick-temple",
+      "status": "done",
+      "scope": "round 69",
+      "added": "2026-10-23T03:29:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:29:28-05:00",
+      "notes": "5 books: three series of Rugby School sermons, the 1860 Act Sunday sermon on science and religion, the 1884 Bampton Lectures. His Essays and Reviews essay excluded (many-author volume)."
+    },
+    {
+      "id": "w-robertson-nicoll",
+      "status": "done",
+      "scope": "round 69",
+      "added": "2026-10-23T03:29:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:29:28-05:00",
+      "notes": "15 books, 1883-1919: devotional and theological books and two lives. Edited works and literary books excluded; Professor Elmslie memoir pending (undated reissue)."
+    },
+    {
+      "id": "henry-wace",
+      "status": "done",
+      "scope": "round 69",
+      "added": "2026-10-23T03:29:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:29:29-05:00",
+      "notes": "13 books, 1877-1923. Edited works and the 1889 many-author controversy excluded; On Agnosticism (1903) pending, its only scan carries another book's text."
+    },
+    {
+      "id": "h-m-luckock",
+      "status": "done",
+      "scope": "round 69",
+      "added": "2026-10-23T03:29:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:29:29-05:00",
+      "notes": "12 books, 1880-1907: After Death, Intermediate State, Prayer Book studies, Footprints series, Church in Scotland, History of Marriage."
+    },
+    {
+      "id": "walter-f-adeney",
+      "status": "done",
+      "scope": "round 70",
+      "added": "2026-10-23T03:33:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:33:22-05:00",
+      "notes": "12 books, 1879-1908, incl. Expositor's Bible and Century Bible volumes; Biblical Introduction with W. H. Bennett."
+    },
+    {
+      "id": "g-g-findlay",
+      "status": "done",
+      "scope": "round 70",
+      "added": "2026-10-23T03:33:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:33:22-05:00",
+      "notes": "16 books: Expositor's Bible Galatians and Ephesians, Thessalonians twice, Books of the Prophets (3 vols.), WMMS history with Holdsworth (5 vols., 1921). Fellowship in the Life Eternal pending."
+    },
+    {
+      "id": "j-rawson-lumby",
+      "status": "done",
+      "scope": "round 70",
+      "added": "2026-10-23T03:33:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:33:23-05:00",
+      "notes": "7 books: History of the Creeds, Popular Introduction to the NT, Cambridge Bible Acts and Kings, Expositor's Bible St. Peter. His editions of medieval texts excluded; the 1883 Compendium excluded (he wrote only its preface)."
+    },
+    {
+      "id": "j-j-stewart-perowne",
+      "status": "done",
+      "scope": "round 71",
+      "added": "2026-10-23T03:38:27-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:38:27-05:00",
+      "notes": "6 books: Psalms (2 vols., 1876), two Hulsean courses, Sermons (1874), Church Ministry Sacraments (1883). Brothers' Cambridge Bible volumes excluded."
+    },
+    {
+      "id": "w-m-clow",
+      "status": "done",
+      "scope": "round 71",
+      "added": "2026-10-23T03:38:27-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:38:27-05:00",
+      "notes": "8 books, 1908-1928. Two printings undated (noted per item)."
+    },
+    {
+      "id": "john-kelman",
+      "status": "done",
+      "scope": "round 71",
+      "added": "2026-10-23T03:38:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:38:28-05:00",
+      "notes": "9 books, 1902-1920; single-sermon pamphlets excluded."
+    },
+    {
+      "id": "w-l-watkinson",
+      "status": "done",
+      "scope": "round 71",
+      "added": "2026-10-23T03:38:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:38:28-05:00",
+      "notes": "15 books, 1882-1909: sermons, papers, John Wicklif, the 1886 Fernley Lecture."
+    },
+    {
+      "id": "h-w-webb-peploe",
+      "status": "done",
+      "scope": "round 71",
+      "added": "2026-10-23T03:38:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:38:28-05:00",
+      "notes": "3 books, 1896-1901."
+    },
+    {
+      "id": "marcus-rainsford",
+      "status": "done",
+      "scope": "round 71",
+      "added": "2026-10-23T03:38:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:38:29-05:00",
+      "notes": "4 books, 1870-1898; a modern print-on-demand reprint excluded."
+    },
+    {
+      "id": "hugh-black",
+      "status": "done",
+      "scope": "round 72",
+      "added": "2026-10-23T03:48:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:48:36-05:00",
+      "notes": "17 books, 1898-1929. Name form is 'hugh black' (bare 'black' is a common word)."
+    },
+    {
+      "id": "s-d-gordon",
+      "status": "done",
+      "scope": "round 72",
+      "added": "2026-10-23T03:48:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:48:36-05:00",
+      "notes": "18 books: the Quiet Talks series 1903-1929 plus two others. Name forms are 's. d. gordon' variants (bare 'gordon' is shared)."
+    },
+    {
+      "id": "g-h-morrison",
+      "status": "done",
+      "scope": "round 72",
+      "added": "2026-10-23T03:48:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:48:36-05:00",
+      "notes": "11 books, 1903-1926. The Ever Open Door pending (only scan is a 1930-or-later reprint). Name forms are 'g. h. morrison' variants."
+    },
+    {
+      "id": "c-silvester-horne",
+      "status": "done",
+      "scope": "round 72",
+      "added": "2026-10-23T03:48:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:48:37-05:00",
+      "notes": "7 books, 1895-1914. Name forms 'silvester horne' (bare 'horne' is shared)."
+    },
+    {
+      "id": "charles-e-jefferson",
+      "status": "done",
+      "scope": "round 73",
+      "added": "2026-10-23T03:54:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:54:55-05:00",
+      "notes": "19 books, 1898-1924; pamphlets excluded. Name forms 'charles e. jefferson' variants."
+    },
+    {
+      "id": "i-m-haldeman",
+      "status": "done",
+      "scope": "round 73",
+      "added": "2026-10-23T03:54:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:54:55-05:00",
+      "notes": "9 books, 1901-1920; pamphlets excluded."
+    },
+    {
+      "id": "wilbur-fisk",
+      "status": "done",
+      "scope": "round 73",
+      "added": "2026-10-23T03:54:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:54:55-05:00",
+      "notes": "3 books, 1832-1838; single sermons and the many-author Methodist Preacher excluded."
+    },
+    {
+      "id": "andrew-thomson-edinburgh",
+      "status": "done",
+      "scope": "round 73",
+      "added": "2026-10-23T03:54:56-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:54:56-05:00",
+      "notes": "8 books, 1815-1833; every title page names him minister of St. George's. Not the Secession historian of the same name."
+    },
+    {
+      "id": "george-c-needham",
+      "status": "done",
+      "scope": "round 73",
+      "added": "2026-10-23T03:54:56-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:54:56-05:00",
+      "notes": "7 books, 1874-1896, incl. his Life of Spurgeon."
+    },
+    {
+      "id": "joseph-kinghorn",
+      "status": "done",
+      "scope": "round 73",
+      "added": "2026-10-23T03:54:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:54:57-05:00",
+      "notes": "2 books (1800, 1820); Baptism a Term of Communion (1816) pending, no scan found."
+    },
+    {
+      "id": "joseph-bingham",
+      "status": "done",
+      "scope": "round 74",
+      "added": "2026-10-23T04:01:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:01:57-05:00",
+      "notes": "9 items: the 1834 Straker Works with the Origines Ecclesiasticae (8 vols. found) and the French Churches Apology (1706)."
+    },
+    {
+      "id": "julius-charles-hare",
+      "status": "done",
+      "scope": "round 74",
+      "added": "2026-10-23T04:01:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:01:57-05:00",
+      "notes": "14 books, 1838-1858; Guesses at Truth with his brother A. W. Hare. Herstmonceux Sermons vol. 1 and the Letter to the Dean of Chichester pending. Name forms avoid bare 'hare' (the niebuhr shelf uses it)."
+    },
+    {
+      "id": "ashton-oxenden",
+      "status": "done",
+      "scope": "round 74",
+      "added": "2026-10-23T04:01:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:01:57-05:00",
+      "notes": "26 books, 1846-1902; Family Prayers (with Ramsden) and tracts excluded."
+    },
+    {
+      "id": "anthony-w-thorold=anthony-w-thorold",
+      "status": "done",
+      "scope": "round 75",
+      "added": "2026-10-23T04:08:51-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:08:51-05:00",
+      "notes": "8 books; Bishop of Rochester then Winchester."
+    },
+    {
+      "id": "francis-paget=francis-paget",
+      "status": "done",
+      "scope": "round 75",
+      "added": "2026-10-23T04:08:51-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:08:51-05:00",
+      "notes": "8 books. Two scans first matched (Helps and Hindrances, Plain Village Sermons) are by his namesake Francis E. Paget of Elford and are excluded."
+    },
+    {
+      "id": "stopford-a-brooke=stopford-a-brooke",
+      "status": "done",
+      "scope": "round 75",
+      "added": "2026-10-23T04:08:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:08:52-05:00",
+      "notes": "19 books. Life of F. W. Robertson is vol. 1 only (vol. 2 not found). One IA item labelled Christ in Modern Life held another author's book; swapped."
+    },
+    {
+      "id": "w-morley-punshon=w-morley-punshon",
+      "status": "done",
+      "scope": "round 75",
+      "added": "2026-10-23T04:08:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:08:52-05:00",
+      "notes": "9 books. Life Thoughts is a hearer's compilation of extracts from his sermons."
+    },
+    {
+      "id": "charles-f-deems=charles-f-deems",
+      "status": "done",
+      "scope": "round 76",
+      "added": "2026-10-23T04:20:07-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:20:07-05:00",
+      "notes": "9 books. Two later retitled editions of Jesus (1868) are left out; periodicals and hymnals he edited are left out."
+    },
+    {
+      "id": "david-james-burrell=david-james-burrell",
+      "status": "done",
+      "scope": "round 76",
+      "added": "2026-10-23T04:20:07-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:20:07-05:00",
+      "notes": "37 books, 1888-1926."
+    },
+    {
+      "id": "louis-albert-banks=louis-albert-banks",
+      "status": "done",
+      "scope": "round 76",
+      "added": "2026-10-23T04:20:08-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:20:08-05:00",
+      "notes": "46 books of sermons, talks and illustrations, 1892-1925. His boys' books, American-history books and prohibition handbook are left out."
+    },
+    {
+      "id": "jabez-burns=jabez-burns",
+      "status": "done",
+      "scope": "round 76",
+      "added": "2026-10-23T04:20:08-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:20:08-05:00",
+      "notes": "9 books. Christian Philosophy and the Pulpit Cyclopaedia name him only as 'author of' his other books; quoted on the shelf. His four-volume Sketches of Sermons (1838) is a many-author compilation and is held back."
+    },
+    {
+      "id": "minot-j-savage=minot-j-savage",
+      "status": "done",
+      "scope": "round 77",
+      "added": "2026-10-23T04:25:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:25:58-05:00",
+      "notes": "28 books, 1873-1905. The bare form 'savage' is shared with a fiction shelf, so only his full name forms are used; four title pages print only 'M. J. Savage' or 'Savage' and are quoted on the shelf."
+    },
+    {
+      "id": "edmund-h-sears=edmund-h-sears",
+      "status": "done",
+      "scope": "round 77",
+      "added": "2026-10-23T04:25:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:25:58-05:00",
+      "notes": "5 books. The enlarged 1873 Athanasia is left out as a later edition."
+    },
+    {
+      "id": "thomas-belsham=thomas-belsham",
+      "status": "done",
+      "scope": "round 77",
+      "added": "2026-10-23T04:25:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:25:58-05:00",
+      "notes": "12 books. The Unitarian Society Tracts and the Improved Version NT are left out as many-hand works."
+    },
+    {
+      "id": "david-swing=david-swing",
+      "status": "done",
+      "scope": "round 77",
+      "added": "2026-10-23T04:25:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:25:59-05:00",
+      "notes": "10 books. The Patton vs. Swing trial record is left out."
+    },
+    {
+      "id": "robert-e-speer=robert-e-speer",
+      "status": "done",
+      "scope": "round 78",
+      "added": "2026-10-23T04:33:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:33:01-05:00",
+      "notes": "41 books printed 1892-1928. He died in 1947; nothing printed 1930 or later is taken."
+    },
+    {
+      "id": "henry-sloane-coffin=henry-sloane-coffin",
+      "status": "done",
+      "scope": "round 78",
+      "added": "2026-10-23T04:33:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:33:01-05:00",
+      "notes": "10 books printed 1907-1926. He died in 1954; nothing printed 1930 or later is taken. Portraits of Jesus checked from the title-page image."
+    },
+    {
+      "id": "maltbie-d-babcock=maltbie-d-babcock",
+      "status": "done",
+      "scope": "round 78",
+      "added": "2026-10-23T04:33:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:33:01-05:00",
+      "notes": "3 books, all gathered after his death from his sermons, talks and letters."
+    },
+    {
+      "id": "william-a-quayle=william-a-quayle",
+      "status": "done",
+      "scope": "round 78",
+      "added": "2026-10-23T04:33:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:33:02-05:00",
+      "notes": "12 religious books; his literary essays, nature books and verse are left out."
+    },
+    {
+      "id": "john-gorham-palfrey=john-gorham-palfrey",
+      "status": "done",
+      "scope": "round 78",
+      "added": "2026-10-23T04:33:02-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:33:02-05:00",
+      "notes": "6 books of theology. His History of New England is left out as history. Academical Lectures vols. 3-4 pending."
+    },
+    {
+      "id": "william-f-mcdowell=william-f-mcdowell",
+      "status": "done",
+      "scope": "round 79",
+      "added": "2026-10-23T04:37:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:37:19-05:00",
+      "notes": "7 books printed 1910-1929. Three many-author volumes are left out."
+    },
+    {
+      "id": "alfred-williams-momerie=alfred-williams-momerie",
+      "status": "done",
+      "scope": "round 79",
+      "added": "2026-10-23T04:37:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:37:19-05:00",
+      "notes": "11 books."
+    },
+    {
+      "id": "thomas-g-selby=thomas-g-selby",
+      "status": "done",
+      "scope": "round 79",
+      "added": "2026-10-23T04:37:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:37:19-05:00",
+      "notes": "10 books of sermons and lectures; his books on Chinese life are left out."
+    },
+    {
+      "id": "william-nevins=william-nevins",
+      "status": "done",
+      "scope": "round 79",
+      "added": "2026-10-23T04:37:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:37:20-05:00",
+      "notes": "5 books (Baltimore Presbyterian, 1797-1835)."
+    },
+    {
+      "id": "j-b-waterbury=j-b-waterbury",
+      "status": "done",
+      "scope": "round 79",
+      "added": "2026-10-23T04:37:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:37:20-05:00",
+      "notes": "9 books. Two OCR'd title pages are quoted on the shelf."
+    },
+    {
+      "id": "francis-blackburne=francis-blackburne",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:15-05:00",
+      "notes": "His 1804 Works in 7 volumes, which hold The Confessional."
+    },
+    {
+      "id": "george-j-mountain=george-j-mountain",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:16-05:00",
+      "notes": "4 books (Bishop of Montreal, then Quebec)."
+    },
+    {
+      "id": "ralph-c-horner=ralph-c-horner",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:16-05:00",
+      "notes": "7 books from Canadiana microfiche scans. The bare form 'horner' is shared with a history shelf, so only his full name forms are used."
+    },
+    {
+      "id": "j-d-jones=j-d-jones",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:16-05:00",
+      "notes": "11 books printed 1900-1922, including his 4-volume devotional commentary on Mark (volume order read from each scan's headings). One undated Doran printing carries a rights note."
+    },
+    {
+      "id": "john-william-colenso=john-william-colenso",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:17-05:00",
+      "notes": "8 books: Pentateuch parts 1-5, Romans, Natal Sermons, Ten Weeks in Natal. Parts 6-7 not found."
+    },
+    {
+      "id": "jean-pierre-de-caussade=jean-pierre-de-caussade",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:17-05:00",
+      "notes": "Abandonment to Divine Providence in two English translations (McMahon 1887, Strickland 1921). An undated third edition of Strickland is left out."
+    },
+    {
+      "id": "john-wyclif=john-wyclif",
+      "status": "done",
+      "scope": "round 81",
+      "added": "2026-10-23T04:49:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:49:40-05:00",
+      "notes": "5 volumes of his English works (Arnold, Matthew, Vaughan). Latin Works held for a separate decision; doubtful attributions left out."
+    },
+    {
+      "id": "huldreich-zwingli=huldreich-zwingli",
+      "status": "done",
+      "scope": "round 81",
+      "added": "2026-10-23T04:49:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:49:40-05:00",
+      "notes": "5 volumes in English (1899-1929)."
+    },
+    {
+      "id": "jan-hus=jan-hus",
+      "status": "done",
+      "scope": "round 81",
+      "added": "2026-10-23T04:49:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:49:41-05:00",
+      "notes": "4 books: two English editions of his Letters, De Ecclesia (Schaff), and the Latin Tractatus Responsivus (1927). The 1846 Letters' OCR reads Luther's 1537 preface date as 1937."
+    },
+    {
+      "id": "hensley-henson=hensley-henson",
+      "status": "done",
+      "scope": "round 81",
+      "added": "2026-10-23T04:49:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:49:41-05:00",
+      "notes": "20 books printed 1897-1929. He died in 1947; nothing printed 1930 or later is taken."
+    },
+    {
+      "id": "franz-hunolt=franz-hunolt",
+      "status": "done",
+      "scope": "round 82",
+      "added": "2026-10-23T04:54:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:54:37-05:00",
+      "notes": "All 12 volumes of Hunolt's Sermons in J. Allen's translation (1886-1897). IA's volume numbers in some ids are misleading; each volume was placed by its contents."
+    },
+    {
+      "id": "i-d-williamson=i-d-williamson",
+      "status": "done",
+      "scope": "round 82",
+      "added": "2026-10-23T04:54:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:54:38-05:00",
+      "notes": "7 books (Universalist). Vision of Faith title page read from the image."
+    },
+    {
+      "id": "john-medley=john-medley",
+      "status": "done",
+      "scope": "round 82",
+      "added": "2026-10-23T04:54:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:54:38-05:00",
+      "notes": "3 books (first Bishop of Fredericton)."
+    },
+    {
+      "id": "edward-hartley-dewart=edward-hartley-dewart",
+      "status": "done",
+      "scope": "round 82",
+      "added": "2026-10-23T04:54:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:54:38-05:00",
+      "notes": "4 books (Canadian Methodist)."
+    },
+    {
+      "id": "charles-gay=charles-gay",
+      "status": "done",
+      "scope": "round 83",
+      "added": "2026-10-23T04:58:34-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:58:34-05:00",
+      "notes": "3 volumes in English (Burder translation, 1878-1879)."
+    },
+    {
+      "id": "edward-hawkins-oriel=edward-hawkins-oriel",
+      "status": "done",
+      "scope": "round 83",
+      "added": "2026-10-23T04:58:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:58:35-05:00",
+      "notes": "5 books (Provost of Oriel). The Dissertation is an 1889 reissue of the 1818 sermon."
+    },
+    {
+      "id": "frederick-f-shannon=frederick-f-shannon",
+      "status": "done",
+      "scope": "round 83",
+      "added": "2026-10-23T04:58:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:58:35-05:00",
+      "notes": "10 books printed 1911-1926."
+    },
+    {
+      "id": "sylvester-joseph-hunter=sylvester-joseph-hunter",
+      "status": "done",
+      "scope": "round 83",
+      "added": "2026-10-23T04:58:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:58:35-05:00",
+      "notes": "Outlines of Dogmatic Theology, 3 vols. (1895)."
+    },
+    {
+      "id": "william-cochrane=william-cochrane",
+      "status": "done",
+      "scope": "round 83",
+      "added": "2026-10-23T04:58:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:58:36-05:00",
+      "notes": "6 books (Brantford Presbyterian)."
+    },
+    {
+      "id": "john-m-ashley=john-m-ashley",
+      "status": "done",
+      "scope": "round 83",
+      "added": "2026-10-23T04:58:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:58:36-05:00",
+      "notes": "7 books of sermon aids. The bare form 'ashley' is shared, so only full name forms are used; three title pages are quoted."
+    },
+    {
+      "id": "joseph-agar-beet=joseph-agar-beet",
+      "status": "done",
+      "scope": "round 84",
+      "added": "2026-10-23T05:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:10:38-05:00",
+      "notes": "14 items. Wesleyan commentaries on the Pauline epistles and his theology, 1881-1914."
+    },
+    {
+      "id": "alexander-keith=alexander-keith",
+      "status": "done",
+      "scope": "round 84",
+      "added": "2026-10-23T05:10:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:10:39-05:00",
+      "notes": "8 items. His books on fulfilled prophecy, 1828-1855. The bare form 'keith' is shared, so only full name forms are used."
+    },
+    {
+      "id": "reginald-heber=reginald-heber",
+      "status": "done",
+      "scope": "round 84",
+      "added": "2026-10-23T05:10:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:10:39-05:00",
+      "notes": "5 items. Bampton Lectures, Hymns, Life of Jeremy Taylor and two volumes of sermons; the Bampton title page is quoted."
+    },
+    {
+      "id": "m-f-sadler=m-f-sadler",
+      "status": "done",
+      "scope": "round 84",
+      "added": "2026-10-23T05:10:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:10:40-05:00",
+      "notes": "16 items. Doctrinal books and the New Testament commentaries; Revelation pending because Internet Archive's text file returns an error. One title page is quoted."
+    },
+    {
+      "id": "harry-emerson-fosdick=harry-emerson-fosdick",
+      "status": "done",
+      "scope": "round 85",
+      "added": "2026-10-23T05:18:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:18:20-05:00",
+      "notes": "14 items, 1908-1927 only. Pilgrimage to Palestine and Twelve Tests were swapped from 1930-31 reprints to first printings."
+    },
+    {
+      "id": "james-moffatt=james-moffatt",
+      "status": "done",
+      "scope": "round 85",
+      "added": "2026-10-23T05:18:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:18:20-05:00",
+      "notes": "21 items, 1901-1929 only, including his New Testament (1913) and Old Testament (1924-25) translations. Books he only edited are left out."
+    },
+    {
+      "id": "arthur-s-peake=arthur-s-peake",
+      "status": "done",
+      "scope": "round 85",
+      "added": "2026-10-23T05:18:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:18:21-05:00",
+      "notes": "19 items, 1897-1928. Peake's Commentary on the Bible and The People and the Book are left out as many-author volumes."
+    },
+    {
+      "id": "b-h-streeter=b-h-streeter",
+      "status": "done",
+      "scope": "round 85",
+      "added": "2026-10-23T05:18:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:18:21-05:00",
+      "notes": "8 items, 1914-1929. The Oxford symposia (Foundations, Immortality, The Spirit and others) are left out as many-author volumes."
+    },
+    {
+      "id": "t-k-cheyne=t-k-cheyne",
+      "status": "done",
+      "scope": "round 86",
+      "added": "2026-10-23T05:26:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:26:38-05:00",
+      "notes": "29 items, 1870-1914: his Old Testament commentaries, translations and criticism. Encyclopaedia Biblica is left out (many contributors). One title page is quoted; the first Fresh Voyages copy held the wrong book and was swapped."
+    },
+    {
+      "id": "george-hodges=george-hodges",
+      "status": "done",
+      "scope": "round 86",
+      "added": "2026-10-23T05:26:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:26:38-05:00",
+      "notes": "25 items, 1892-1918. Sermons, church history and Bible books for children; school readers and secular biographies are left out. Year of Grace vol. 1 pending (microfiche only)."
+    },
+    {
+      "id": "charles-bigg=charles-bigg",
+      "status": "done",
+      "scope": "round 86",
+      "added": "2026-10-23T05:26:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:26:38-05:00",
+      "notes": "6 items, 1886-1909. His translations of the Imitation, the Confessions and the Didache are left out."
+    },
+    {
+      "id": "stanley-leathes=stanley-leathes",
+      "status": "done",
+      "scope": "round 86",
+      "added": "2026-10-23T05:26:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:26:39-05:00",
+      "notes": "12 items, 1868-1897. Boyle, Bampton, Hulsean and Warburton lectures. Books by the historian Sir Stanley M. Leathes are left out; one title page is quoted."
+    },
+    {
+      "id": "frank-ballard=frank-ballard",
+      "status": "done",
+      "scope": "round 86",
+      "added": "2026-10-23T05:26:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:26:39-05:00",
+      "notes": "14 items, 1900-1926: apologetics against Haeckel and determinism, and wartime books. Why Not Russellism? is pending (undated offprint)."
+    },
+    {
+      "id": "william-berriman=william-berriman",
+      "status": "done",
+      "scope": "round 87",
+      "added": "2026-10-23T05:33:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:33:21-05:00",
+      "notes": "14 items, 1719-1751: Trinitarian controversy, Boyle Lectures, forty sermons and single sermons. Six eighteenth-century pamphlets pending (OCR too garbled, or text file erroring); one title page is quoted."
+    },
+    {
+      "id": "peter-gandolphy=peter-gandolphy",
+      "status": "done",
+      "scope": "round 87",
+      "added": "2026-10-23T05:33:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:33:21-05:00",
+      "notes": "7 items, 1811-1813: Catholic apologetic sermons in 4 volumes and two letters to Herbert Marsh. One title page is quoted."
+    },
+    {
+      "id": "edward-nares=edward-nares",
+      "status": "done",
+      "scope": "round 87",
+      "added": "2026-10-23T05:33:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:33:21-05:00",
+      "notes": "6 items, 1799-1834, theology only; his novels, heraldry and history are left out."
+    },
+    {
+      "id": "william-derham=william-derham",
+      "status": "done",
+      "scope": "round 87",
+      "added": "2026-10-23T05:33:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:33:22-05:00",
+      "notes": "2 items: Physico-Theology (1720) and Astro-Theology (1721); his science papers are left out."
+    },
+    {
+      "id": "george-w-burnap=george-w-burnap",
+      "status": "done",
+      "scope": "round 87",
+      "added": "2026-10-23T05:33:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:33:22-05:00",
+      "notes": "8 items, 1835-1855: Unitarian lectures and discourses."
+    },
+    {
+      "id": "andrew-leete-stone=andrew-leete-stone",
+      "status": "done",
+      "scope": "round 87",
+      "added": "2026-10-23T05:33:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:33:23-05:00",
+      "notes": "10 items, 1853-1882: Park Street Church sermons, Civil War discourses and Leaves from a Finished Pastorate. Two title pages read from page images."
+    },
+    {
+      "id": "samuel-stennett=samuel-stennett",
+      "status": "done",
+      "scope": "round 88",
+      "added": "2026-10-23T05:39:56-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:39:56-05:00",
+      "notes": "16 items, 1760-1823: Discourses on Personal Religion, Domestic Duties and the Parable of the Sower, his baptism books and single sermons. Three pamphlets pending (OCR); three title pages quoted."
+    },
+    {
+      "id": "joseph-john-gurney=joseph-john-gurney",
+      "status": "done",
+      "scope": "round 88",
+      "added": "2026-10-23T05:39:56-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:39:56-05:00",
+      "notes": "12 items, 1825-1871: Quaker apologetics, evidences, biblical notes and sermons. The Papal and Hierarchical System is pending (title page unreadable); two title pages quoted."
+    },
+    {
+      "id": "james-meikle=james-meikle",
+      "status": "done",
+      "scope": "round 88",
+      "added": "2026-10-23T05:39:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:39:57-05:00",
+      "notes": "5 items, 1797-1818: devotional meditations of a Scottish naval surgeon."
+    },
+    {
+      "id": "f-x-weninger=f-x-weninger",
+      "status": "done",
+      "scope": "round 88",
+      "added": "2026-10-23T05:39:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:39:57-05:00",
+      "notes": "11 items, 1861-1883, English books only; two title pages quoted."
+    },
+    {
+      "id": "robert-stuart-macarthur=robert-stuart-macarthur",
+      "status": "done",
+      "scope": "round 88",
+      "added": "2026-10-23T05:39:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:39:57-05:00",
+      "notes": "15 items, 1890-1911: Calvary Baptist sermons and lectures. The Lincoln sermon's title page was read from the page image."
+    },
+    {
+      "id": "alexander-mckenzie=alexander-mckenzie",
+      "status": "done",
+      "scope": "round 88",
+      "added": "2026-10-23T05:39:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:39:58-05:00",
+      "notes": "10 items, 1873-1908: First Church, Cambridge. The bare form 'mckenzie' is shared, so only full name forms are used; one title page quoted."
+    },
+    {
+      "id": "joseph-wild=joseph-wild",
+      "status": "done",
+      "scope": "round 89",
+      "added": "2026-10-23T05:44:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:44:28-05:00",
+      "notes": "11 items, 1879-1891: Bond Street Church, Toronto; British-Israel and prophecy sermons. One opening quoted."
+    },
+    {
+      "id": "elijah-parish=elijah-parish",
+      "status": "done",
+      "scope": "round 89",
+      "added": "2026-10-23T05:44:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:44:28-05:00",
+      "notes": "8 items, 1808-1826: Byfield sermons, Sacred Geography and his collected sermons. One 1798 pamphlet pending (OCR); two title pages quoted."
+    },
+    {
+      "id": "christopher-sutton=christopher-sutton",
+      "status": "done",
+      "scope": "round 89",
+      "added": "2026-10-23T05:44:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:44:28-05:00",
+      "notes": "3 items: Disce Mori, Disce Vivere and Godly Meditations in 1839-41 reprints. The bare form 'sutton' is shared, so only full name forms are used."
+    },
+    {
+      "id": "james-dana=james-dana",
+      "status": "done",
+      "scope": "round 89",
+      "added": "2026-10-23T05:44:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:44:29-05:00",
+      "notes": "4 items, 1773-1806. The anonymous 1770 Examination of Edwards and the 1791 slave-trade discourse are pending."
+    },
+    {
+      "id": "daniel-dana=daniel-dana",
+      "status": "done",
+      "scope": "round 89",
+      "added": "2026-10-23T05:44:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:44:29-05:00",
+      "notes": "6 items, 1810-1849: sermons and letters to Moses Stuart."
+    },
+    {
+      "id": "samuel-t-spear=samuel-t-spear",
+      "status": "done",
+      "scope": "round 89",
+      "added": "2026-10-23T05:44:30-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:44:30-05:00",
+      "notes": "8 items, 1862-1886: Civil War sermons, Religion and the State, Meditations on the Bible Heaven. His law treatises are left out; one sermon pending (text file error)."
+    },
+    {
+      "id": "george-d-herron=george-d-herron",
+      "status": "done",
+      "scope": "round 90",
+      "added": "2026-10-23T05:48:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:48:54-05:00",
+      "notes": "8 items, 1891-1899: his Social Gospel books; the political books of 1899-1922 are left out."
+    },
+    {
+      "id": "charles-h-parkhurst=charles-h-parkhurst",
+      "status": "done",
+      "scope": "round 90",
+      "added": "2026-10-23T05:48:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:48:54-05:00",
+      "notes": "11 items, 1883-1923: Madison Square sermons, talks, Lyman Beecher lectures and his memoir."
+    },
+    {
+      "id": "henry-kollock=henry-kollock",
+      "status": "done",
+      "scope": "round 90",
+      "added": "2026-10-23T05:48:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:48:54-05:00",
+      "notes": "2 items: Sermons (Savannah 1811; London 1871)."
+    },
+    {
+      "id": "john-stark-ravenscroft=john-stark-ravenscroft",
+      "status": "done",
+      "scope": "round 90",
+      "added": "2026-10-23T05:48:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:48:55-05:00",
+      "notes": "5 items: Works (2 vols., 1830) and three sermons; one title page quoted."
+    },
+    {
+      "id": "frank-w-gunsaulus=frank-w-gunsaulus",
+      "status": "done",
+      "scope": "round 90",
+      "added": "2026-10-23T05:48:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:48:55-05:00",
+      "notes": "10 items, 1880-1922, religious books only; his novel, poems and art addresses are left out."
+    },
+    {
+      "id": "alexander-h-vinton=alexander-h-vinton",
+      "status": "done",
+      "scope": "round 90",
+      "added": "2026-10-23T05:48:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:48:55-05:00",
+      "notes": "10 items, 1855-1887: sermons and Civil War fast and thanksgiving sermons. Two title pages quoted, one from the page image."
+    },
+    {
+      "id": "george-t-purves=george-t-purves",
+      "status": "done",
+      "scope": "round 91",
+      "added": "2026-10-23T05:52:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:52:19-05:00",
+      "notes": "5 items, 1888-1902: Princeton New Testament scholar; Justin Martyr, the apostolic age, and sermons."
+    },
+    {
+      "id": "randolph-h-mckim=randolph-h-mckim",
+      "status": "done",
+      "scope": "round 91",
+      "added": "2026-10-23T05:52:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:52:19-05:00",
+      "notes": "16 items, 1880-1918, theology and sermons only; his Confederate memoir and Civil War writings are left out. One title page read from the page image."
+    },
+    {
+      "id": "john-cordner=john-cordner",
+      "status": "done",
+      "scope": "round 91",
+      "added": "2026-10-23T05:52:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:52:20-05:00",
+      "notes": "9 items, 1851-1869: Unitarian sermons and lectures from Montreal; his civic orations are left out."
+    },
+    {
+      "id": "george-deshon=george-deshon",
+      "status": "done",
+      "scope": "round 91",
+      "added": "2026-10-23T05:52:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T05:52:20-05:00",
+      "notes": "2 items: Paulist guide for young women (1892) and Sunday sermons (1902)."
+    },
+    {
+      "id": "henry-w-bellows=henry-w-bellows",
+      "status": "done",
+      "scope": "round 92",
+      "added": "2026-10-23T06:00:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:00:17-05:00",
+      "notes": "23 items, 1843-1886: All Souls sermons, The Suspense of Faith, Re-statements, Civil War sermons. Sanitary Commission papers and travel left out; one funeral address pending (OCR); one title page quoted."
+    },
+    {
+      "id": "samuel-minton=samuel-minton",
+      "status": "done",
+      "scope": "round 92",
+      "added": "2026-10-23T06:00:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:00:18-05:00",
+      "notes": "8 items, 1850-1877: Eaton Chapel sermons and The Glory of Christ. One tract pending (no author on the scan); one title page quoted."
+    },
+    {
+      "id": "ezra-stiles-gannett=ezra-stiles-gannett",
+      "status": "done",
+      "scope": "round 92",
+      "added": "2026-10-23T06:00:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:00:18-05:00",
+      "notes": "20 items, 1831-1869: Federal Street and Arlington Street sermons. The bare form 'gannett' is shared, so full forms are used and four title pages are quoted. The Dudleian lecture offprint is pending."
+    },
+    {
+      "id": "basil-w-maturin=basil-w-maturin",
+      "status": "done",
+      "scope": "round 92",
+      "added": "2026-10-23T06:00:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:00:18-05:00",
+      "notes": "6 items, 1896-1917: spiritual-life books and sermons."
+    },
+    {
+      "id": "charles-c-grafton=charles-c-grafton",
+      "status": "done",
+      "scope": "round 92",
+      "added": "2026-10-23T06:00:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:00:19-05:00",
+      "notes": "8 items: the Works (8 vols., 1914); separate printings of the same books are left out."
+    },
+    {
+      "id": "a-f-winnington-ingram=a-f-winnington-ingram",
+      "status": "done",
+      "scope": "round 93",
+      "added": "2026-10-23T06:06:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:06:11-05:00",
+      "notes": "17 items, 1897-1926: Bishop of London's sermons and addresses, pre-1930 only."
+    },
+    {
+      "id": "chandler-robbins-boston=chandler-robbins-boston",
+      "status": "done",
+      "scope": "round 93",
+      "added": "2026-10-23T06:06:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:06:11-05:00",
+      "notes": "11 items, 1844-1875: Second Church, Boston. One tribute pending (no author on the scan); one title page read from the page image."
+    },
+    {
+      "id": "alexander-mathieson=alexander-mathieson",
+      "status": "done",
+      "scope": "round 93",
+      "added": "2026-10-23T06:06:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:06:11-05:00",
+      "notes": "9 items, 1827-1864: St. Andrew's, Montreal; one title page quoted."
+    },
+    {
+      "id": "george-albert-coe=george-albert-coe",
+      "status": "done",
+      "scope": "round 93",
+      "added": "2026-10-23T06:06:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:06:12-05:00",
+      "notes": "9 items, 1900-1929: psychology of religion and religious education. The first Religion of a Mature Mind copy held the wrong book and was swapped."
+    },
+    {
+      "id": "edward-wix=edward-wix",
+      "status": "done",
+      "scope": "round 93",
+      "added": "2026-10-23T06:06:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:06:12-05:00",
+      "notes": "5 items, 1831-1836: Newfoundland sermons and missionary journal."
+    },
+    {
+      "id": "henry-wilkes=henry-wilkes",
+      "status": "done",
+      "scope": "round 93",
+      "added": "2026-10-23T06:06:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:06:12-05:00",
+      "notes": "9 items, 1848-1871: Zion Church, Montreal, including Who is Christ? (answered by Cordner, round 91). One essay pending."
+    },
+    {
+      "id": "oliver-heywood=oliver-heywood",
+      "status": "done",
+      "scope": "round 94",
+      "added": "2026-10-23T06:13:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:13:33-05:00",
+      "notes": "7 items: Whole Works (5 vols., 1825-27), Heart Treasure (1852) and a volume of his diaries (1883). The 1667-1701 first printings are left for the EEBO work."
+    },
+    {
+      "id": "james-janeway=james-janeway",
+      "status": "done",
+      "scope": "round 94",
+      "added": "2026-10-23T06:13:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:13:33-05:00",
+      "notes": "2 items in 19th-century reprints (Invisibles Realities; The Saints' Encouragement). Three Token books pending: the scans never name him."
+    },
+    {
+      "id": "anne-dutton=anne-dutton",
+      "status": "done",
+      "scope": "round 94",
+      "added": "2026-10-23T06:13:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:13:33-05:00",
+      "notes": "2 items that name her. Fifteen more printed anonymously are pending Adam's ruling on catalogue attributions."
+    },
+    {
+      "id": "robert-jenkin=robert-jenkin",
+      "status": "done",
+      "scope": "round 94",
+      "added": "2026-10-23T06:13:34-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:13:34-05:00",
+      "notes": "3 items: The Reasonableness and Certainty of the Christian Religion (2 vols., early 1700s editions) and Remarks (1709). The anonymous Brief Confutation is pending."
+    },
+    {
+      "id": "henry-melvill-gwatkin=henry-melvill-gwatkin",
+      "status": "done",
+      "scope": "round 94",
+      "added": "2026-10-23T06:13:34-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:13:34-05:00",
+      "notes": "5 items, 1880-1912: Arianism, the Gifford lectures, sermons and early church history."
+    },
+    {
+      "id": "morgan-dix=morgan-dix",
+      "status": "done",
+      "scope": "round 94",
+      "added": "2026-10-23T06:13:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:13:35-05:00",
+      "notes": "24 items, 1856-1901, including the 4-vol. History of Trinity Parish; four title pages quoted; The Book of Hours pending (no author on its title page)."
+    },
+    {
+      "id": "milton-s-terry",
+      "status": "done",
+      "scope": "round 95",
+      "added": "2026-10-23T06:19:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:19:45-05:00",
+      "notes": "Methodist biblical scholar (Biblical Hermeneutics, Biblical Apocalyptics, commentaries). Miraculous Birth offprint pending as anonymous."
+    },
+    {
+      "id": "frederic-henry-hedge",
+      "status": "done",
+      "scope": "round 95",
+      "added": "2026-10-23T06:19:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:19:45-05:00",
+      "notes": "Unitarian minister and Harvard professor. The form 'frederic h. hedge' is dropped because german-classics also claims it. One anonymous sermon pending."
+    },
+    {
+      "id": "stephen-olin",
+      "status": "done",
+      "scope": "round 95",
+      "added": "2026-10-23T06:19:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:19:46-05:00",
+      "notes": "Methodist president of Wesleyan University; Works, travels and sermons."
+    },
+    {
+      "id": "theophilus-lindsey",
+      "status": "done",
+      "scope": "round 95",
+      "added": "2026-10-23T06:19:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:19:46-05:00",
+      "notes": "Founder of Essex Street Unitarian chapel. Farewell Address 1773 (garbled OCR) and the anonymous reply to Robinson are pending."
+    },
+    {
+      "id": "george-putnam-roxbury",
+      "status": "done",
+      "scope": "round 95",
+      "added": "2026-10-23T06:19:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:19:46-05:00",
+      "notes": "Unitarian minister of First Church, Roxbury. Remarks on Sumner pending as anonymous."
+    },
+    {
+      "id": "wayland-hoyt",
+      "status": "done",
+      "scope": "round 95",
+      "added": "2026-10-23T06:19:47-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:19:47-05:00",
+      "notes": "Baptist pastor and author of devotional books."
+    },
+    {
+      "id": "thomas-bradbury",
+      "status": "done",
+      "scope": "round 96",
+      "added": "2026-10-23T06:27:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:27:21-05:00",
+      "notes": "Independent minister in London; ECCO printings 1705-1762. Two title pages read as images."
+    },
+    {
+      "id": "georg-joachim-zollikofer",
+      "status": "done",
+      "scope": "round 96",
+      "added": "2026-10-23T06:27:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:27:21-05:00",
+      "notes": "Leipzig Reformed preacher, English translations only (1796-1812). Exercises of Piety title page read as an image."
+    },
+    {
+      "id": "jedidiah-morse",
+      "status": "done",
+      "scope": "round 96",
+      "added": "2026-10-23T06:27:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:27:22-05:00",
+      "notes": "Charlestown Congregationalist; sermons and the Harvard controversy. Geographies left out as not theology; Review of American Unitarianism pending as anonymous."
+    },
+    {
+      "id": "abiel-abbot-livermore",
+      "status": "done",
+      "scope": "round 96",
+      "added": "2026-10-23T06:27:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:27:22-05:00",
+      "notes": "Unitarian commentator, Meadville president. Two title pages read as images."
+    },
+    {
+      "id": "alfred-e-garvie",
+      "status": "done",
+      "scope": "round 96",
+      "added": "2026-10-23T06:27:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:27:22-05:00",
+      "notes": "Congregational theologian, New College London; books printed 1899-1927 only."
+    },
+    {
+      "id": "j-scott-lidgett",
+      "status": "done",
+      "scope": "round 96",
+      "added": "2026-10-23T06:27:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:27:23-05:00",
+      "notes": "Wesleyan theologian; books printed 1897-1929 only."
+    },
+    {
+      "id": "henry-codman-potter",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:33:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:33:59-05:00",
+      "notes": "Episcopal Bishop of New York; sermons and addresses 1873-1902. Tunis's Faith by which we Stand dropped (Potter wrote only its introduction)."
+    },
+    {
+      "id": "john-codman",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:33:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:33:59-05:00",
+      "notes": "Dorchester Congregationalist. Bare form 'codman' dropped (claimed by singles-nonfiction-2)."
+    },
+    {
+      "id": "w-b-godbey",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:34:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:34:00-05:00",
+      "notes": "Methodist holiness evangelist; includes his 1902 New Testament translation. The Two Witnesses scan is a 1996 book of that title and is excluded."
+    },
+    {
+      "id": "harvey-newcomb",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:34:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:34:00-05:00",
+      "notes": "Congregational writer for the young and on missions."
+    },
+    {
+      "id": "james-mudge",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:34:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:34:01-05:00",
+      "notes": "Methodist writer on holiness and Fenelon; anthologies excluded."
+    },
+    {
+      "id": "samuel-kirkland-lothrop",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:34:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:34:01-05:00",
+      "notes": "Brattle Square Unitarian; the 20th-century archaeologist of the same name is left out."
+    },
+    {
+      "id": "s-t-bloomfield",
+      "status": "done",
+      "scope": "round 98",
+      "added": "2026-10-23T06:39:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:39:58-05:00",
+      "notes": "Anglican New Testament scholar: Recensio Synoptica, Greek Testament, NT lexicon. Bare form 'bloomfield' dropped (claimed by sacred-books-of-the-east)."
+    },
+    {
+      "id": "philip-s-moxom",
+      "status": "done",
+      "scope": "round 98",
+      "added": "2026-10-23T06:39:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:39:58-05:00",
+      "notes": "Baptist and Congregational minister; From Jerusalem to Nicaea, The Religion of Hope, sermons."
+    },
+    {
+      "id": "john-hurrion",
+      "status": "done",
+      "scope": "round 98",
+      "added": "2026-10-23T06:39:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:39:59-05:00",
+      "notes": "Independent minister and Pinners' Hall lecturer. Two 1741-44 Gosport sermons are by a younger John Hurrion and are excluded."
+    },
+    {
+      "id": "william-gahan",
+      "status": "done",
+      "scope": "round 98",
+      "added": "2026-10-23T06:39:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:39:59-05:00",
+      "notes": "Irish Augustinian; church history, Manual of Catholic Piety, Sunday sermons. Reeve's History of the Bible (Gahan only revised it) excluded."
+    },
+    {
+      "id": "leonard-withington",
+      "status": "done",
+      "scope": "round 98",
+      "added": "2026-10-23T06:39:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:39:59-05:00",
+      "notes": "Newbury Congregationalist; sermons and Solomon's Song. The Puritan (pen-name) and Penitential Tears (anonymous) pending."
+    },
+    {
+      "id": "j-p-k-henshaw",
+      "status": "done",
+      "scope": "round 98",
+      "added": "2026-10-23T06:40:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:40:00-05:00",
+      "notes": "Episcopal Bishop of Rhode Island; four books, hymn selection excluded."
+    },
+    {
+      "id": "leonard-twells",
+      "status": "done",
+      "scope": "round 99",
+      "added": "2026-10-23T06:44:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:44:20-05:00",
+      "notes": "Anglican apologist; Vindications of St. Matthew and Twenty-four Sermons. The anonymous Reply pending; the 1816 Lives volume (several authors) excluded."
+    },
+    {
+      "id": "joseph-berington",
+      "status": "done",
+      "scope": "round 99",
+      "added": "2026-10-23T06:44:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:44:21-05:00",
+      "notes": "Cisalpine Catholic priest. Two anonymous books pending; Henry II history, Panzani memoirs and Faith of Catholics (with Kirk) excluded."
+    },
+    {
+      "id": "isaac-hellmuth",
+      "status": "done",
+      "scope": "round 99",
+      "added": "2026-10-23T06:44:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:44:21-05:00",
+      "notes": "Bishop of Huron; Montreal replies, sermons, Divine Dispensations, addresses. College ephemera excluded."
+    },
+    {
+      "id": "w-h-p-faunce",
+      "status": "done",
+      "scope": "round 99",
+      "added": "2026-10-23T06:44:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:44:21-05:00",
+      "notes": "Baptist minister, president of Brown University."
+    },
+    {
+      "id": "cleland-b-mcafee",
+      "status": "done",
+      "scope": "round 99",
+      "added": "2026-10-23T06:44:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:44:22-05:00",
+      "notes": "Presbyterian pastor and professor; books printed 1899-1929 only."
+    },
+    {
+      "id": "stephen-farley",
+      "status": "done",
+      "scope": "round 99",
+      "added": "2026-10-23T06:44:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:44:22-05:00",
+      "notes": "Claremont Congregationalist; two books."
+    },
+    {
+      "id": "warren-a-candler",
+      "status": "done",
+      "scope": "round 100",
+      "added": "2026-10-23T06:52:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:52:21-05:00",
+      "notes": "Methodist bishop, Emory president; books printed 1880-1913. Five Emory scans pending (no OCR text file or server error)."
+    },
+    {
+      "id": "francis-j-mcconnell",
+      "status": "done",
+      "scope": "round 100",
+      "added": "2026-10-23T06:52:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:52:22-05:00",
+      "notes": "Methodist bishop and Bowne's successor in personalism; books printed 1906-1929 only."
+    },
+    {
+      "id": "charles-f-aked",
+      "status": "done",
+      "scope": "round 100",
+      "added": "2026-10-23T06:52:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:52:22-05:00",
+      "notes": "Baptist preacher (Liverpool, Fifth Avenue, San Francisco); books printed 1907-1915."
+    },
+    {
+      "id": "w-t-herridge",
+      "status": "done",
+      "scope": "round 100",
+      "added": "2026-10-23T06:52:22-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:52:22-05:00",
+      "notes": "St Andrew's, Ottawa; sermons 1889-1917, The Orbit of Life, The Coign of Vantage. Four title pages read as images."
+    },
+    {
+      "id": "w-b-riley",
+      "status": "done",
+      "scope": "round 100",
+      "added": "2026-10-23T06:52:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:52:23-05:00",
+      "notes": "Minneapolis Baptist fundamentalist; books printed 1909-1929 only. Windyridge (another Riley's novel) excluded."
+    },
+    {
+      "id": "j-r-p-sclater",
+      "status": "done",
+      "scope": "round 100",
+      "added": "2026-10-23T06:52:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:52:23-05:00",
+      "notes": "Edinburgh and Toronto Presbyterian; three books printed 1911-1927."
+    },
+    {
+      "id": "christoph-christian-sturm",
+      "status": "done",
+      "scope": "round 101",
+      "added": "2026-10-23T06:56:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:56:52-05:00",
+      "notes": "Lutheran preacher, English translations only. 1788 printing pending (no title page in scan)."
+    },
+    {
+      "id": "elizabeth-singer-rowe",
+      "status": "done",
+      "scope": "round 101",
+      "added": "2026-10-23T06:56:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:56:52-05:00",
+      "notes": "Dissenting devotional writer and poet. Three anonymous printings pending."
+    },
+    {
+      "id": "johannes-gossner",
+      "status": "done",
+      "scope": "round 101",
+      "added": "2026-10-23T06:56:52-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:56:52-05:00",
+      "notes": "Berlin pastor and mission founder, English translations only. One anonymous printing pending."
+    },
+    {
+      "id": "frances-power-cobbe",
+      "status": "done",
+      "scope": "round 101",
+      "added": "2026-10-23T06:56:53-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:56:53-05:00",
+      "notes": "Irish theist writer; religious and ethical books. Intuitive Morals (anonymous) pending; Parker edition excluded."
+    },
+    {
+      "id": "w-j-dawson",
+      "status": "done",
+      "scope": "round 101",
+      "added": "2026-10-23T06:56:53-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:56:53-05:00",
+      "notes": "London Congregational preacher and evangelist; sermons and lives of Christ. Novels, poems and literary handbooks left out."
+    },
+    {
+      "id": "john-r-mott",
+      "status": "done",
+      "scope": "round 102",
+      "added": "2026-10-23T07:01:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:01:32-05:00",
+      "notes": "YMCA and Student Volunteer leader; mission books and addresses printed 1892-1910."
+    },
+    {
+      "id": "willis-d-weatherford",
+      "status": "done",
+      "scope": "round 102",
+      "added": "2026-10-23T07:01:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:01:32-05:00",
+      "notes": "YMCA student secretary for the South; books printed 1907-1919."
+    },
+    {
+      "id": "j-w-dawson",
+      "status": "done",
+      "scope": "round 102",
+      "added": "2026-10-23T07:01:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:01:33-05:00",
+      "notes": "McGill geologist; Scripture-and-science writings only. Wine lectures pending as anonymous."
+    },
+    {
+      "id": "matthew-richey",
+      "status": "done",
+      "scope": "round 102",
+      "added": "2026-10-23T07:01:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:01:33-05:00",
+      "notes": "Wesleyan Methodist in Nova Scotia and Upper Canada; sermons, controversy, Memoir of William Black."
+    },
+    {
+      "id": "a-s-billingsley",
+      "status": "done",
+      "scope": "round 102",
+      "added": "2026-10-23T07:01:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:01:33-05:00",
+      "notes": "Presbyterian chaplain; From the Flag to the Cross and Life of Whitefield."
+    },
+    {
+      "id": "samuel-mcchord-crothers",
+      "status": "done",
+      "scope": "round 103",
+      "added": "2026-10-23T07:05:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:05:00-05:00",
+      "notes": "Cambridge Unitarian; sermons only, literary essays left out."
+    },
+    {
+      "id": "robert-collyer",
+      "status": "done",
+      "scope": "round 103",
+      "added": "2026-10-23T07:05:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:05:00-05:00",
+      "notes": "Unitarian, Unity Church Chicago and Church of the Messiah NY; sermons and talks. The phrenologist Robert H. Collyer left out."
+    },
+    {
+      "id": "george-c-lorimer",
+      "status": "done",
+      "scope": "round 103",
+      "added": "2026-10-23T07:05:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:05:01-05:00",
+      "notes": "Tremont Temple Baptist; apologetics and sermon series. Novels left out."
+    },
+    {
+      "id": "joseph-tuckerman",
+      "status": "done",
+      "scope": "round 103",
+      "added": "2026-10-23T07:05:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:05:01-05:00",
+      "notes": "Unitarian Ministry at Large to the Boston poor."
+    },
+    {
+      "id": "james-caughey",
+      "status": "done",
+      "scope": "round 103",
+      "added": "2026-10-23T07:05:01-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:05:01-05:00",
+      "notes": "Methodist revivalist in Canada and Britain."
+    },
+    {
+      "id": "charles-wagner",
+      "status": "done",
+      "scope": "round 104",
+      "added": "2026-10-23T07:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:10:38-05:00",
+      "notes": "Paris Reformed pastor (The Simple Life), English translations only."
+    },
+    {
+      "id": "john-edgar-mcfadyen",
+      "status": "done",
+      "scope": "round 104",
+      "added": "2026-10-23T07:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:10:38-05:00",
+      "notes": "Old Testament scholar, Toronto and Glasgow; books printed 1901-1922 only."
+    },
+    {
+      "id": "archibald-campbell-tait",
+      "status": "done",
+      "scope": "round 104",
+      "added": "2026-10-23T07:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:10:38-05:00",
+      "notes": "Archbishop of Canterbury. Signs with his see, so title-page quotes carry identity; three catalogued items not by him excluded."
+    },
+    {
+      "id": "horatio-southgate",
+      "status": "done",
+      "scope": "round 104",
+      "added": "2026-10-23T07:10:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:10:39-05:00",
+      "notes": "Episcopal missionary bishop at Constantinople; travels and sermons. One privately printed sermon pending."
+    },
+    {
+      "id": "george-h-hepworth",
+      "status": "done",
+      "scope": "round 104",
+      "added": "2026-10-23T07:10:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:10:39-05:00",
+      "notes": "Unitarian then Congregational, Herald sermons; travel and war books left out."
+    },
+    {
+      "id": "daniel-p-kidder",
+      "status": "done",
+      "scope": "round 105",
+      "added": "2026-10-23T07:15:05-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:15:05-05:00",
+      "notes": "Methodist missionary to Brazil and homiletics professor; edited Sunday-school books left out."
+    },
+    {
+      "id": "manton-eastburn",
+      "status": "done",
+      "scope": "round 105",
+      "added": "2026-10-23T07:15:05-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:15:05-05:00",
+      "notes": "Episcopal Bishop of Massachusetts; one sermon pending (server error)."
+    },
+    {
+      "id": "henry-u-onderdonk",
+      "status": "done",
+      "scope": "round 105",
+      "added": "2026-10-23T07:15:06-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:15:06-05:00",
+      "notes": "Episcopal Bishop of Pennsylvania; charges and Episcopacy Tested by Scripture."
+    },
+    {
+      "id": "theodore-dehon",
+      "status": "done",
+      "scope": "round 105",
+      "added": "2026-10-23T07:15:06-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:15:06-05:00",
+      "notes": "Episcopal Bishop of South Carolina; sermons."
+    },
+    {
+      "id": "seth-williston",
+      "status": "done",
+      "scope": "round 105",
+      "added": "2026-10-23T07:15:07-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:15:07-05:00",
+      "notes": "Hopkinsian missionary pastor in western New York. Two items without a readable name pending."
+    },
+    {
+      "id": "alexander-proudfit",
+      "status": "done",
+      "scope": "round 105",
+      "added": "2026-10-23T07:15:07-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:15:07-05:00",
+      "notes": "Salem, New York, Presbyterian; doctrinal discourses. Two items pending (no readable name; no text file)."
+    },
+    {
+      "id": "a-philip-lindsley",
+      "status": "done",
+      "scope": "round 106",
+      "added": "2026-10-23T07:20:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:20:45-05:00",
+      "notes": "He signed himself Lindsly; that spelling added as a name form. The Tennessee address is quoted from the title-page image. David Philip Lindsley's shorthand manuals excluded."
+    },
+    {
+      "id": "a-henry-belfrage",
+      "status": "done",
+      "scope": "round 106",
+      "added": "2026-10-23T07:20:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:20:45-05:00",
+      "notes": "Scottish Secession minister of Falkirk. The Waugh memoir, written with James Hay, excluded."
+    },
+    {
+      "id": "a-alexander-macwhorter",
+      "status": "done",
+      "scope": "round 106",
+      "added": "2026-10-23T07:20:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:20:46-05:00",
+      "notes": "Newark Presbyterian pastor. The 1857 Yahveh Christ is by a later man of the same name; excluded."
+    },
+    {
+      "id": "a-daniel-merrill",
+      "status": "done",
+      "scope": "round 106",
+      "added": "2026-10-23T07:20:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:20:46-05:00",
+      "notes": "Two Nottingham West pamphlets quoted from OCR'd title pages. A reply to Peter Edwards by another hand excluded."
+    },
+    {
+      "id": "a-warren-fay",
+      "status": "done",
+      "scope": "round 106",
+      "added": "2026-10-23T07:20:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:20:46-05:00",
+      "notes": "Charlestown Congregational pastor. The 1812 funeral sermon's date is from its title page; the 1822 Woburn ordination sermon is quoted from OCR."
+    },
+    {
+      "id": "a-john-pierce-brookline",
+      "status": "done",
+      "scope": "round 106",
+      "added": "2026-10-23T07:20:47-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:20:47-05:00",
+      "notes": "Minister of Brookline. The 1821 Dudleian lecture is quoted from OCR. A bound volume of pamphlets by several hands excluded."
+    },
+    {
+      "id": "a-phineas-d-gurley",
+      "status": "done",
+      "scope": "round 107",
+      "added": "2026-10-23T07:25:43-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:25:43-05:00",
+      "notes": "Lincoln's pastor. The Willie Lincoln address is quoted from OCR; the McGuffey sermon's date from its title page. A 1940 reprint and a ministers' meeting record excluded."
+    },
+    {
+      "id": "a-george-buist-charleston",
+      "status": "done",
+      "scope": "round 107",
+      "added": "2026-10-23T07:25:43-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:25:43-05:00",
+      "notes": "Charleston Presbyterian. The Bombay journalist of the same name excluded."
+    },
+    {
+      "id": "a-william-cogswell-dedham",
+      "status": "done",
+      "scope": "round 107",
+      "added": "2026-10-23T07:25:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:25:44-05:00",
+      "notes": "Dedham and the American Education Society. The Halifax curate of the same name excluded."
+    },
+    {
+      "id": "a-augustus-woodbury",
+      "status": "done",
+      "scope": "round 107",
+      "added": "2026-10-23T07:25:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:25:44-05:00",
+      "notes": "Providence Unitarian. The undated AUA tract cleared by his death in 1895."
+    },
+    {
+      "id": "a-edward-caswall",
+      "status": "done",
+      "scope": "round 107",
+      "added": "2026-10-23T07:25:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:25:44-05:00",
+      "notes": "Morals from the Churchyard was anonymous; attributed by his own 1846 title page. Comic Quiz sketches left to a literary lane."
+    },
+    {
+      "id": "a-george-sexton",
+      "status": "done",
+      "scope": "round 107",
+      "added": "2026-10-23T07:25:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:25:45-05:00",
+      "notes": "Secularist turned Christian apologist. A periodical volume and two non-theology lectures left out."
+    },
+    {
+      "id": "a-a-t-schofield",
+      "status": "done",
+      "scope": "round 108",
+      "added": "2026-10-23T07:31:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:31:14-05:00",
+      "notes": "Physician and evangelical writer. Only his religious books; medical manuals left out. Faith Healing quoted from OCR."
+    },
+    {
+      "id": "a-william-d-snodgrass",
+      "status": "done",
+      "scope": "round 108",
+      "added": "2026-10-23T07:31:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:31:15-05:00",
+      "notes": "New York Presbyterian. Apostolical Succession pending (server error)."
+    },
+    {
+      "id": "a-william-snodgrass-canada",
+      "status": "done",
+      "scope": "round 108",
+      "added": "2026-10-23T07:31:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:31:15-05:00",
+      "notes": "Charlottetown, Montreal and Queen's College. Kept apart from William D. Snodgrass of New York."
+    },
+    {
+      "id": "a-john-service",
+      "status": "done",
+      "scope": "round 108",
+      "added": "2026-10-23T07:31:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:31:15-05:00",
+      "notes": "Minister of Inch and Hyndland. Salvation Here and Hereafter quoted from OCR."
+    },
+    {
+      "id": "a-clovis-g-chappell",
+      "status": "done",
+      "scope": "round 108",
+      "added": "2026-10-23T07:31:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:31:16-05:00",
+      "notes": "Lived past 1930. Five books shelved from dated pre-1930 printings; five scans that are later reprints held pending a pre-1930 printing."
+    },
+    {
+      "id": "a-john-machale",
+      "status": "done",
+      "scope": "round 109",
+      "added": "2026-10-23T07:35:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:35:16-05:00",
+      "notes": "Archbishop of Tuam. The Hierophilos letters are pseudonymous; pending for the catalogue-attribution card. A German translation and his Irish verse translations left out."
+    },
+    {
+      "id": "a-henry-newland",
+      "status": "done",
+      "scope": "round 109",
+      "added": "2026-10-23T07:35:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:35:17-05:00",
+      "notes": "Westbourne and St Marychurch. The de Dominis life and two Irish tracts are by Henry Newland, Dean of Ferns; excluded. The Seasons of the Church, which he edited, pending as a compilation."
+    },
+    {
+      "id": "a-john-franklin-genung",
+      "status": "done",
+      "scope": "round 109",
+      "added": "2026-10-23T07:35:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:35:17-05:00",
+      "notes": "Bible as literature: Job, Ecclesiastes, wisdom literature. Rhetoric textbooks left out."
+    },
+    {
+      "id": "a-s-reynolds-hole",
+      "status": "done",
+      "scope": "round 109",
+      "added": "2026-10-23T07:35:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:35:17-05:00",
+      "notes": "Dean of Rochester. Clerical addresses and memoirs; rose and travel books left to another lane."
+    },
+    {
+      "id": "a-lewis-french-stearns",
+      "status": "done",
+      "scope": "round 109",
+      "added": "2026-10-23T07:35:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:35:18-05:00",
+      "notes": "Bangor Seminary theologian."
+    },
+    {
+      "id": "a-peter-thacher-brattle",
+      "status": "done",
+      "scope": "round 109",
+      "added": "2026-10-23T07:35:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:35:18-05:00",
+      "notes": "Malden and Brattle Street. The 1778 ECCO scan holds other items; pending. Earlier Peter Thachers and the judge excluded."
+    },
+    {
+      "id": "a-john-mcclintock",
+      "status": "done",
+      "scope": "round 110",
+      "added": "2026-10-23T07:40:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:40:32-05:00",
+      "notes": "Drew's first president. Analysis of Watson is anonymous and Sketches of Eminent Methodist Ministers a many-author volume he edited; both pending. School grammars, translations and the Cyclopaedia left out."
+    },
+    {
+      "id": "a-h-j-wilmot-buxton",
+      "status": "done",
+      "scope": "round 110",
+      "added": "2026-10-23T07:40:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:40:32-05:00",
+      "notes": "Eleven books of plain and children's sermons. Namesakes (Dudley and E. M. Wilmot-Buxton) and his art handbooks left out."
+    },
+    {
+      "id": "a-j-c-cochran",
+      "status": "done",
+      "scope": "round 110",
+      "added": "2026-10-23T07:40:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:40:32-05:00",
+      "notes": "Lunenburg and Halifax, Nova Scotia (CIHM microfiche). The unsigned 1867 address pending for the catalogue card."
+    },
+    {
+      "id": "a-f-barham-zincke",
+      "status": "done",
+      "scope": "round 110",
+      "added": "2026-10-23T07:40:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:40:33-05:00",
+      "notes": "Vicar of Wherstead: preaching, education, travel and parish history."
+    },
+    {
+      "id": "a-john-frederick-schroeder",
+      "status": "done",
+      "scope": "round 110",
+      "added": "2026-10-23T07:40:33-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:40:33-05:00",
+      "notes": "Trinity Church, New York. The Hobart Memorial (sermons by several) pending; Maxims of Washington excluded; Life of Washington pending (server error)."
+    },
+    {
+      "id": "a-w-t-leach",
+      "status": "done",
+      "scope": "round 111",
+      "added": "2026-10-23T07:43:34-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:43:34-05:00",
+      "notes": "Toronto and Montreal (CIHM microfiche). The 1851 Advent sermon's date is from its title page; the CIHM 1993 date is the fiche."
+    },
+    {
+      "id": "a-caleb-d-bradlee",
+      "status": "done",
+      "scope": "round 111",
+      "added": "2026-10-23T07:43:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:43:35-05:00",
+      "notes": "Harrison Square, Dorchester. Thirteen sermons, memoirs and histories."
+    },
+    {
+      "id": "a-john-carry",
+      "status": "done",
+      "scope": "round 111",
+      "added": "2026-10-23T07:43:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:43:35-05:00",
+      "notes": "Woodbridge mission, Diocese of Toronto. William III's prayers (edited) and an essay by another hand left out."
+    },
+    {
+      "id": "a-george-webber",
+      "status": "done",
+      "scope": "round 111",
+      "added": "2026-10-23T07:43:35-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:43:35-05:00",
+      "notes": "Canadian Methodist (CIHM microfiche)."
+    },
+    {
+      "id": "a-william-rintoul",
+      "status": "done",
+      "scope": "round 111",
+      "added": "2026-10-23T07:43:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:43:36-05:00",
+      "notes": "One book shelved. An anonymous sermon on dancing and a many-author 1843 pamphlet pending."
+    },
+    {
+      "id": "a-w-c-e-newbolt",
+      "status": "done",
+      "scope": "round 112",
+      "added": "2026-10-23T07:49:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:49:17-05:00",
+      "notes": "Canon of St Paul's; lived to 1930, every book printed before. Two title pages read from images. Edited Pusey volumes and the Cathedrals series left out."
+    },
+    {
+      "id": "a-joseph-s-c-f-frey",
+      "status": "done",
+      "scope": "round 112",
+      "added": "2026-10-23T07:49:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:49:18-05:00",
+      "notes": "Jewish convert and missionary. Hebrew grammars and dictionaries left out."
+    },
+    {
+      "id": "a-julius-kaftan",
+      "status": "done",
+      "scope": "round 112",
+      "added": "2026-10-23T07:49:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:49:18-05:00",
+      "notes": "English Truth of the Christian Religion plus six German works. Das Christentum und die Philosophie pending (Fraktur OCR unreadable)."
+    },
+    {
+      "id": "a-otto-zockler",
+      "status": "done",
+      "scope": "round 112",
+      "added": "2026-10-23T07:49:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:49:19-05:00",
+      "notes": "Cross of Christ and four Lange commentaries in English; four German works."
+    },
+    {
+      "id": "a-milton-p-braman",
+      "status": "done",
+      "scope": "round 112",
+      "added": "2026-10-23T07:49:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:49:19-05:00",
+      "notes": "Danvers. The Mexican War discourse quoted from OCR."
+    },
+    {
+      "id": "a-beverly-carradine",
+      "status": "done",
+      "scope": "round 113",
+      "added": "2026-10-23T07:54:07-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:54:07-05:00",
+      "notes": "Holiness evangelist; 21 books. The Best of All songbook (many hands) excluded."
+    },
+    {
+      "id": "a-alexander-smellie",
+      "status": "done",
+      "scope": "round 113",
+      "added": "2026-10-23T07:54:08-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:54:08-05:00",
+      "notes": "Carluke Original Secession. The eighteenth-century Smellies' books and a 1960 reprint excluded."
+    },
+    {
+      "id": "a-sylvanus-stall",
+      "status": "done",
+      "scope": "round 113",
+      "added": "2026-10-23T07:54:08-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:54:08-05:00",
+      "notes": "Lutheran pastor and publisher: children's sermons, church work, Self and Sex books. Mary Wood-Allen's volume and translations left out."
+    },
+    {
+      "id": "a-thomas-hopkins-gallaudet",
+      "status": "done",
+      "scope": "round 113",
+      "added": "2026-10-23T07:54:09-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:54:09-05:00",
+      "notes": "Hartford, the deaf asylum. A Marathi translation swapped for the English Child's Book on the Soul; the 1824 deaf sermon pending (no readable author, server error)."
+    },
+    {
+      "id": "a-archibald-alison-minister",
+      "status": "done",
+      "scope": "round 113",
+      "added": "2026-10-23T07:54:09-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:54:09-05:00",
+      "notes": "Cowgate Chapel, Edinburgh. His son the historian's books left out."
+    },
+    {
+      "id": "a-donald-sage-mackay",
+      "status": "done",
+      "scope": "round 114",
+      "added": "2026-10-23T07:58:57-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:58:57-05:00",
+      "notes": "Collegiate Church of St Nicholas, New York. A later namesake's Parmenides study excluded."
+    },
+    {
+      "id": "a-james-henry-snowden",
+      "status": "done",
+      "scope": "round 114",
+      "added": "2026-10-23T07:58:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:58:58-05:00",
+      "notes": "Lived past 1930; fifteen books 1903-1923. Two title pages read from images."
+    },
+    {
+      "id": "a-g-h-gerberding",
+      "status": "done",
+      "scope": "round 114",
+      "added": "2026-10-23T07:58:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:58:58-05:00",
+      "notes": "Lutheran pastor and professor. A Swedish translation excluded."
+    },
+    {
+      "id": "a-david-magie-elizabeth",
+      "status": "done",
+      "scope": "round 114",
+      "added": "2026-10-23T07:58:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:58:59-05:00",
+      "notes": "Elizabeth, New Jersey. The classicist David Magie's books excluded."
+    },
+    {
+      "id": "a-francis-fulford",
+      "status": "done",
+      "scope": "round 114",
+      "added": "2026-10-23T07:58:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:58:59-05:00",
+      "notes": "First Bishop of Montreal. Two lectures by his son Francis Drummond Fulford and seven pieces written to him by others excluded."
+    },
+    {
+      "id": "a-floyd-w-tomkins",
+      "status": "done",
+      "scope": "round 114",
+      "added": "2026-10-23T07:58:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:58:59-05:00",
+      "notes": "Holy Trinity, Philadelphia; lived past 1930, three books before."
+    },
+    {
+      "id": "a-w-b-selbie",
+      "status": "done",
+      "scope": "round 115",
+      "added": "2026-10-23T08:04:27-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:04:27-05:00",
+      "notes": "Principal of Mansfield College; lived past 1930, thirteen books before."
+    },
+    {
+      "id": "a-john-hersey-methodist",
+      "status": "done",
+      "scope": "round 115",
+      "added": "2026-10-23T08:04:27-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:04:27-05:00",
+      "notes": "Baltimore Methodist. One title quoted from OCR; Born of God pending (server error)."
+    },
+    {
+      "id": "a-charles-l-goodell",
+      "status": "done",
+      "scope": "round 115",
+      "added": "2026-10-23T08:04:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:04:28-05:00",
+      "notes": "Methodist evangelism; lived past 1930, thirteen books 1886-1929. Two volumes by other men excluded."
+    },
+    {
+      "id": "a-howard-allen-bridgman",
+      "status": "done",
+      "scope": "round 115",
+      "added": "2026-10-23T08:04:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:04:28-05:00",
+      "notes": "Editor of The Congregationalist."
+    },
+    {
+      "id": "a-charles-comfort-tiffany",
+      "status": "done",
+      "scope": "round 115",
+      "added": "2026-10-23T08:04:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:04:29-05:00",
+      "notes": "Archdeacon of New York: Episcopal Church history and the Prayer Book."
+    },
+    {
+      "id": "a-leander-s-keyser",
+      "status": "done",
+      "scope": "round 115",
+      "added": "2026-10-23T08:04:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:04:29-05:00",
+      "notes": "Lutheran apologist and naturalist; lived past 1930, sixteen books before, bird books included."
+    },
+    {
+      "id": "a-g-b-f-hallock",
+      "status": "done",
+      "scope": "round 116",
+      "added": "2026-10-23T08:09:25-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:09:25-05:00",
+      "notes": "Brick Church, Rochester. Only his own books; his cyclopedias and sermon anthologies collect other men's work and are left for the many-author ruling."
+    },
+    {
+      "id": "a-isaac-crook",
+      "status": "done",
+      "scope": "round 116",
+      "added": "2026-10-23T08:09:25-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:09:25-05:00",
+      "notes": "Methodist; Ohio University. Lives of Edwards and Knox."
+    },
+    {
+      "id": "a-robert-cooney",
+      "status": "done",
+      "scope": "round 116",
+      "added": "2026-10-23T08:09:26-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:09:26-05:00",
+      "notes": "Wesleyan missionary in New Brunswick and Lower Canada."
+    },
+    {
+      "id": "a-henry-scadding",
+      "status": "done",
+      "scope": "round 116",
+      "added": "2026-10-23T08:09:26-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:09:26-05:00",
+      "notes": "Holy Trinity, Toronto. Church addresses plus Toronto of Old; the short antiquarian papers left to another lane."
+    },
+    {
+      "id": "a-james-henry-potts",
+      "status": "done",
+      "scope": "round 116",
+      "added": "2026-10-23T08:09:26-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:09:26-05:00",
+      "notes": "Michigan Christian Advocate; lived past 1930, eleven books before."
+    },
+    {
+      "id": "a-william-l-stidger",
+      "status": "done",
+      "scope": "round 116",
+      "added": "2026-10-23T08:09:27-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:09:27-05:00",
+      "notes": "Lived past 1930; twenty books 1911-1929. His edited immortality anthology pending."
+    },
+    {
+      "id": "a-charles-herbert-rust",
+      "status": "done",
+      "scope": "round 117",
+      "added": "2026-10-23T08:13:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:13:40-05:00",
+      "notes": "Baptist chapel-car missionary and pastor."
+    },
+    {
+      "id": "a-edward-e-keedy",
+      "status": "done",
+      "scope": "round 117",
+      "added": "2026-10-23T08:13:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:13:41-05:00",
+      "notes": "Congregational minister; lived past 1930, two books before."
+    },
+    {
+      "id": "a-allan-pearson-shatford",
+      "status": "done",
+      "scope": "round 117",
+      "added": "2026-10-23T08:13:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:13:41-05:00",
+      "notes": "St James the Apostle, Montreal; lived to 1935. Two undated Christmas booklets pending; two title pages quoted from OCR."
+    },
+    {
+      "id": "a-w-e-orchard",
+      "status": "done",
+      "scope": "round 117",
+      "added": "2026-10-23T08:13:42-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:13:42-05:00",
+      "notes": "King's Weigh House; lived past 1930, sixteen books 1909-1929. Undated Finality of Christ dated by its own book list."
+    },
+    {
+      "id": "a-john-mcneill-evangelist",
+      "status": "done",
+      "scope": "round 117",
+      "added": "2026-10-23T08:13:42-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:13:42-05:00",
+      "notes": "Scottish evangelist, Regent Square; lived past 1930, three books before. A Spurgeon compilation excluded."
+    },
+    {
+      "id": "a-george-thomas-stokes",
+      "status": "done",
+      "scope": "round 118",
+      "added": "2026-10-23T08:20:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:20:19-05:00",
+      "notes": "Trinity College Dublin church historian. One Expositor's Bible Acts volume quoted from OCR; another scan of uncertain volume pending."
+    },
+    {
+      "id": "a-w-j-conybeare",
+      "status": "done",
+      "scope": "round 118",
+      "added": "2026-10-23T08:20:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:20:19-05:00",
+      "notes": "Essays and the Life and Epistles of St Paul (with Howson). The anonymous novel Perversion (vol. 3 only) pending; namesakes' books excluded."
+    },
+    {
+      "id": "a-t-r-birks",
+      "status": "done",
+      "scope": "round 118",
+      "added": "2026-10-23T08:20:19-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:20:19-05:00",
+      "notes": "Twenty-three books on prophecy, evidences and moral philosophy. The Companion Psalter, mostly other men's versions, pending."
+    },
+    {
+      "id": "a-crawford-howell-toy",
+      "status": "done",
+      "scope": "round 118",
+      "added": "2026-10-23T08:20:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:20:20-05:00",
+      "notes": "Harvard Hebraist. His translation of Erdmann's Samuel left out."
+    },
+    {
+      "id": "a-w-h-fitchett",
+      "status": "done",
+      "scope": "round 118",
+      "added": "2026-10-23T08:20:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:20:20-05:00",
+      "notes": "Melbourne Methodist. Religious books only; military histories and novels left to other lanes."
+    },
+    {
+      "id": "a-charles-s-eby",
+      "status": "done",
+      "scope": "round 118",
+      "added": "2026-10-23T08:20:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:20:21-05:00",
+      "notes": "Canadian Methodist missionary in Japan (CIHM microfiche)."
+    },
+    {
+      "id": "a-f-n-peloubet",
+      "status": "done",
+      "scope": "round 119",
+      "added": "2026-10-23T08:25:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:25:13-05:00",
+      "notes": "Select Notes and Sunday-school commentaries. Songbooks and his Smith's Dictionary edition left out."
+    },
+    {
+      "id": "a-john-s-grasty",
+      "status": "done",
+      "scope": "round 119",
+      "added": "2026-10-23T08:25:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:25:13-05:00",
+      "notes": "Presbyterian; memoir of McPheeters and tracts. Two uploads needed their own text file names."
+    },
+    {
+      "id": "a-p-a-halpin",
+      "status": "done",
+      "scope": "round 119",
+      "added": "2026-10-23T08:25:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:25:13-05:00",
+      "notes": "Catholic apologetics and pedagogy."
+    },
+    {
+      "id": "a-jerom-alley",
+      "status": "done",
+      "scope": "round 119",
+      "added": "2026-10-23T08:25:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:25:14-05:00",
+      "notes": "Rector of Beaulieu and Drumcar. Vindiciae Christianae and prize essays; two title pages quoted from OCR."
+    },
+    {
+      "id": "a-pius-devine",
+      "status": "done",
+      "scope": "round 119",
+      "added": "2026-10-23T08:25:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:25:14-05:00",
+      "notes": "Passionist. Eutropia and two volumes of Auxilium Praedicatorum."
+    },
+    {
+      "id": "a-joseph-longking",
+      "status": "done",
+      "scope": "round 119",
+      "added": "2026-10-23T08:25:15-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:25:15-05:00",
+      "notes": "Methodist Sunday-school notes on the Gospels and Epistles."
+    },
+    {
+      "id": "a-henry-sacheverell",
+      "status": "done",
+      "scope": "round 120",
+      "added": "2026-10-23T08:34:12-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:34:12-05:00",
+      "notes": "High Church preacher impeached 1710. Fifteen of his own sermons and impeachment papers; four title pages read from images. Low-Church-Man and the Sons of the Clergy scan pending."
+    },
+    {
+      "id": "a-thomas-gisborne",
+      "status": "done",
+      "scope": "round 120",
+      "added": "2026-10-23T08:34:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:34:13-05:00",
+      "notes": "Moral Philosophy, the Duties, Sermons, Natural Theology, Familiar Survey, slavery and establishment tracts, poems. Two anonymous poems pending."
+    },
+    {
+      "id": "a-thomas-townson",
+      "status": "done",
+      "scope": "round 120",
+      "added": "2026-10-23T08:34:13-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:34:13-05:00",
+      "notes": "Archdeacon of Richmond. Works, Discourses on the Four Gospels, Babylon, a visitation sermon. Three anonymous Confessional tracts pending."
+    },
+    {
+      "id": "a-naphtali-daggett",
+      "status": "done",
+      "scope": "round 120",
+      "added": "2026-10-23T08:34:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:34:14-05:00",
+      "notes": "Yale president. Four sermons; two title pages read from images."
+    },
+    {
+      "id": "a-samuel-lavington",
+      "status": "done",
+      "scope": "round 120",
+      "added": "2026-10-23T08:34:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:34:14-05:00",
+      "notes": "Bideford Independent. Sermons, Sacramental Meditations, a thanksgiving sermon."
+    },
+    {
+      "id": "a-f-homes-dudden",
+      "status": "done",
+      "scope": "round 120",
+      "added": "2026-10-23T08:34:14-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:34:14-05:00",
+      "notes": "Gregory the Great and three books of sermons; Ambrose (1935) left out."
+    },
+    {
+      "id": "a-j-e-c-welldon",
+      "status": "done",
+      "scope": "round 121",
+      "added": "2026-10-23T08:42:53-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:42:53-05:00",
+      "notes": "Harrow sermons, Hope of Immortality, Holy Spirit, disestablishment, Recollections. Aristotle translations left to that shelf; Harvest Home pending (undated)."
+    },
+    {
+      "id": "a-w-h-fremantle",
+      "status": "done",
+      "scope": "round 121",
+      "added": "2026-10-23T08:42:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:42:54-05:00",
+      "notes": "Dean of Ripon. Bampton Lectures, Gospel of the Secular Life, Church Reform, Natural Christianity, Recollections. Two title pages quoted from OCR."
+    },
+    {
+      "id": "a-alexander-mleod",
+      "status": "done",
+      "scope": "round 121",
+      "added": "2026-10-23T08:42:54-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:42:54-05:00",
+      "notes": "Reformed Presbyterian, New York. Negro Slavery Unjustifiable, the 1815 war sermons, True Godliness."
+    },
+    {
+      "id": "a-elisha-lord-cleaveland",
+      "status": "done",
+      "scope": "round 121",
+      "added": "2026-10-23T08:42:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:42:55-05:00",
+      "notes": "New Haven Congregationalist. Eight occasional and Civil War sermons; the 1813 sermon is by John Cleaveland."
+    },
+    {
+      "id": "a-john-m-krebs",
+      "status": "done",
+      "scope": "round 121",
+      "added": "2026-10-23T08:42:55-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:42:55-05:00",
+      "notes": "Rutgers-Street Presbyterian. Six sermons and addresses; one title page quoted from OCR."
+    },
+    {
+      "id": "a-w-j-sparrow-simpson",
+      "status": "done",
+      "scope": "round 121",
+      "added": "2026-10-23T08:42:56-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:42:56-05:00",
+      "notes": "Anglo-Catholic divine. Seventeen studies and sermons; translations and his father's book left out; Prayer of Consecration pending (HTTP 500)."
+    },
+    {
+      "id": "a-l-a-gotwald",
+      "status": "done",
+      "scope": "round 122",
+      "added": "2026-10-23T08:49:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:49:03-05:00",
+      "notes": "Lutheran. Church Orders, Joy in the Divine Government, Sermons for Festival Days, Gettysburg address."
+    },
+    {
+      "id": "a-a-h-tuttle",
+      "status": "done",
+      "scope": "round 122",
+      "added": "2026-10-23T08:49:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:49:03-05:00",
+      "notes": "Methodist Episcopal. Five books; the Gamewell memoir pending (joint work)."
+    },
+    {
+      "id": "a-robert-w-patterson",
+      "status": "done",
+      "scope": "round 122",
+      "added": "2026-10-23T08:49:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:49:04-05:00",
+      "notes": "Second Presbyterian, Chicago. Three sermons; two joint works pending."
+    },
+    {
+      "id": "a-charles-moss-bath-wells",
+      "status": "done",
+      "scope": "round 122",
+      "added": "2026-10-23T08:49:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:49:04-05:00",
+      "notes": "Bishop of St David's, then Bath and Wells. Evidence of the Resurrection and five sermons; three signed by his see. Sequel anonymous, two sermons possibly his son's, pending."
+    },
+    {
+      "id": "a-alexander-topp",
+      "status": "done",
+      "scope": "round 122",
+      "added": "2026-10-23T08:49:05-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:49:05-05:00",
+      "notes": "Knox's Church, Toronto. Four CIHM and IA items."
+    },
+    {
+      "id": "a-robert-machray-rupertsland",
+      "status": "done",
+      "scope": "round 122",
+      "added": "2026-10-23T08:49:05-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:49:05-05:00",
+      "notes": "Archbishop of Rupert's Land. Five items, four signed by his see; three unsigned pieces and four compiled reports pending."
+    },
+    {
+      "id": "a-c-j-blomfield",
+      "status": "done",
+      "scope": "round 123",
+      "added": "2026-10-23T08:58:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:58:45-05:00",
+      "notes": "Bishop of London. Acts lectures, sermons, charge, coronation sermon; four signed Charles James Lord Bishop of London. Greek editions left to Lane B; Remonstrance pending (anonymous)."
+    },
+    {
+      "id": "a-william-bright",
+      "status": "done",
+      "scope": "round 123",
+      "added": "2026-10-23T08:58:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:58:45-05:00",
+      "notes": "Oxford church historian. Fourteen books: histories, canons notes, sermons, hymns, letters. His Greek and Latin editions left out."
+    },
+    {
+      "id": "a-andrew-snape",
+      "status": "done",
+      "scope": "round 123",
+      "added": "2026-10-23T08:58:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:58:45-05:00",
+      "notes": "Provost of King's. Sermons, Bangorian letters, Forty-Five Sermons; four title pages read from images or OCR."
+    },
+    {
+      "id": "a-john-guyse",
+      "status": "done",
+      "scope": "round 123",
+      "added": "2026-10-23T08:58:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:58:46-05:00",
+      "notes": "London Independent. Nineteen items; ten title pages read from images or OCR. Catechism remarks pending; one scan was another man's sermon."
+    },
+    {
+      "id": "a-charles-trimnell",
+      "status": "done",
+      "scope": "round 123",
+      "added": "2026-10-23T08:58:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:58:46-05:00",
+      "notes": "Bishop of Norwich. Thirteen sermons, most signed by his see; three anonymous Convocation tracts pending."
+    },
+    {
+      "id": "a-luke-milbourne",
+      "status": "done",
+      "scope": "round 124",
+      "added": "2026-10-23T09:08:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:08:03-05:00",
+      "notes": "St Ethelburga's. Twenty-nine items; fourteen title pages read from images or OCR. Three satires and two anonymous pieces pending; one HTTP 500."
+    },
+    {
+      "id": "a-benjamin-wallin",
+      "status": "done",
+      "scope": "round 124",
+      "added": "2026-10-23T09:08:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:08:03-05:00",
+      "notes": "Maze Pond Baptist. Thirty-five items; eleven title pages read from images or OCR. Humble Address pending (anonymous)."
+    },
+    {
+      "id": "a-nicholas-snethen",
+      "status": "done",
+      "scope": "round 124",
+      "added": "2026-10-23T09:08:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:08:04-05:00",
+      "notes": "Methodist Protestant. O'Kelly answer, Lay Representation, Sermons."
+    },
+    {
+      "id": "a-aaron-bancroft",
+      "status": "done",
+      "scope": "round 124",
+      "added": "2026-10-23T09:08:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:08:04-05:00",
+      "notes": "Worcester. Sermons, Washington eulogy and Life of Washington."
+    },
+    {
+      "id": "a-j-m-cramp",
+      "status": "done",
+      "scope": "round 124",
+      "added": "2026-10-23T09:08:04-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:08:04-05:00",
+      "notes": "Acadia Baptist. Text-Book of Popery, Council of Trent, Reformation, Canadian addresses."
+    },
+    {
+      "id": "a-benjamin-b-wisner",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:38-05:00",
+      "notes": "Old South Church, Boston. Seven sermons and memoirs."
+    },
+    {
+      "id": "a-george-w-truett",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:38-05:00",
+      "notes": "First Baptist, Dallas. Three books, all before 1930."
+    },
+    {
+      "id": "a-leighton-parks",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:38-05:00",
+      "notes": "Emmanuel, Boston, and St Bartholomew's, New York. Seven books, all before 1930."
+    },
+    {
+      "id": "a-camden-m-cobern",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:39-05:00",
+      "notes": "Methodist, Allegheny College. Sermons and biblical archaeology."
+    },
+    {
+      "id": "a-frederic-a-noble",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:39-05:00",
+      "notes": "Union Park Congregational, Chicago. Eight books and sermons."
+    },
+    {
+      "id": "a-j-lewis-diman",
+      "status": "done",
+      "scope": "round 126",
+      "added": "2026-10-23T09:14:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:14:36-05:00",
+      "notes": "Brown University. Theistic Argument, Orations and Sermons, two addresses."
+    },
+    {
+      "id": "a-thomas-a-jaggar",
+      "status": "done",
+      "scope": "round 126",
+      "added": "2026-10-23T09:14:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:14:37-05:00",
+      "notes": "Bishop of Southern Ohio. Five sermons and books; his son's geology left out."
+    },
+    {
+      "id": "a-john-huntley-skrine",
+      "status": "done",
+      "scope": "round 126",
+      "added": "2026-10-23T09:14:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:14:37-05:00",
+      "notes": "Glenalmond. Twelve books of sermons and theology; verse left out."
+    },
+    {
+      "id": "a-frank-milton-bristol",
+      "status": "done",
+      "scope": "round 126",
+      "added": "2026-10-23T09:14:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:14:37-05:00",
+      "notes": "Methodist bishop. Six books; Shakespeare studies left out."
+    },
+    {
+      "id": "a-paul-rader",
+      "status": "done",
+      "scope": "round 126",
+      "added": "2026-10-23T09:14:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:14:38-05:00",
+      "notes": "Evangelist. Three books of sermons; a 1932 printing refused; hymnal pending."
+    },
+    {
+      "id": "a-james-de-normandie",
+      "status": "done",
+      "scope": "round 126",
+      "added": "2026-10-23T09:14:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:14:38-05:00",
+      "notes": "Unitarian. Lincoln sermon and two memorial sketches; one unreadable OCR pending."
+    },
+    {
+      "id": "a-henry-a-brann",
+      "status": "done",
+      "scope": "round 127",
+      "added": "2026-10-23T09:18:43-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:18:43-05:00",
+      "notes": "New York Catholic priest. Five books; Glories anthology pending; school readers left out."
+    },
+    {
+      "id": "a-john-clowes",
+      "status": "done",
+      "scope": "round 127",
+      "added": "2026-10-23T09:18:43-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:18:43-05:00",
+      "notes": "St John's, Manchester; Swedenborgian. Nine books incl. Gospel translations with commentary."
+    },
+    {
+      "id": "a-joseph-vaill-brimfield",
+      "status": "done",
+      "scope": "round 127",
+      "added": "2026-10-23T09:18:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:18:44-05:00",
+      "notes": "Brimfield, Mass. Three sermons; his father's ordination sermon and Parsons's memoir excluded."
+    },
+    {
+      "id": "a-samuel-h-virgin",
+      "status": "done",
+      "scope": "round 127",
+      "added": "2026-10-23T09:18:44-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:18:44-05:00",
+      "notes": "Pilgrim Church, New York. Two books."
+    },
+    {
+      "id": "a-william-parkinson-baptist",
+      "status": "done",
+      "scope": "round 127",
+      "added": "2026-10-23T09:18:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:18:45-05:00",
+      "notes": "First Baptist, New York. Three sermons; hymnal pending."
+    },
+    {
+      "id": "a-morgan-cowie",
+      "status": "done",
+      "scope": "round 127",
+      "added": "2026-10-23T09:18:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:18:45-05:00",
+      "notes": "Dean of Exeter. Hulsean sermons, Scripture Difficulties, On Sacrifice, Reminiscences."
+    },
+    {
+      "id": "a-robert-easton-montreal",
+      "status": "done",
+      "scope": "round 127",
+      "added": "2026-10-23T09:18:45-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:18:45-05:00",
+      "notes": "St Peter Street, Montreal. Three CIHM sermons."
+    },
+    {
+      "id": "a-william-burkitt",
+      "status": "done",
+      "scope": "round 128",
+      "added": "2026-10-23T09:25:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:25:38-05:00",
+      "notes": "Vicar of Dedham. Expository Notes on the NT, Poor Man's Help, Infant-Baptism, family guides. One wrong scan excluded."
+    },
+    {
+      "id": "a-thomas-stackhouse",
+      "status": "done",
+      "scope": "round 128",
+      "added": "2026-10-23T09:25:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:25:38-05:00",
+      "notes": "Vicar of Beenham. History of the Bible, Body of Divinity (1743), Defence, Woolston controversy, Creed. Three anonymous items pending."
+    },
+    {
+      "id": "a-j-f-ostervald",
+      "status": "done",
+      "scope": "round 128",
+      "added": "2026-10-23T09:25:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:25:38-05:00",
+      "notes": "Neuchatel. English versions of his catechism, Arguments, Abridgment, Compendium; five title pages read from images or OCR."
+    },
+    {
+      "id": "a-george-pretyman-tomline",
+      "status": "done",
+      "scope": "round 128",
+      "added": "2026-10-23T09:25:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:25:39-05:00",
+      "notes": "Bishop of Lincoln, then Winchester. Elements of Christian Theology, Refutation of Calvinism, Life of Pitt, sermons; two signed by his see."
+    },
+    {
+      "id": "a-jacob-duche",
+      "status": "done",
+      "scope": "round 128",
+      "added": "2026-10-23T09:25:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:25:39-05:00",
+      "notes": "Christ Church, Philadelphia; Congress chaplain. Sermons, Discourses, letter to Washington; Caspipina letters pending."
     }
   ]
 }

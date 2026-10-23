@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: E. M. Lamond: Hartmann Grisar's Luther (Kegan Paul, 1913-17, 6 vols, ed. Charles Louis Dessoulavy), the Jesuit historian's critical life of Luther. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: E. M. Lamond: Hartmann Grisar's Luther (Kegan Paul, 1913-17, 6 vols, ed. Charles Louis Dessoulavy), the Jesuit historian's critical life of Luther. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted. From archive.org (2026-10-23): Bayer's The Book of the Popes (Methuen, 1926). Walter of Henley's Husbandry (1890) is by Elizabeth Lamond (d. 1891), a different person, and is not shelved here.",
  "_name_words": [
   "e. m. lamond",
   "lamond"
@@ -36,7 +36,12 @@
    "Luther, vol. 6 of 6"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "eml-ia-bayer-book-of-popes": [
+   "bookofpopesbydrf00baye",
+   "Bayer: The Book of the Popes"
+  ]
+ },
  "titles": {
   "lamond-grisar-luther-vol-1-of-6": {
    "source": "eml-48995",
@@ -85,6 +90,14 @@
    "translated": "1913-1917 (see the Gutenberg header)",
    "translator": "E. M. Lamond",
    "scan_edition": "Project Gutenberg 54811 (clean text)"
+  },
+  "lamond-bayer-the-book-of-the-popes": {
+   "source": "eml-ia-bayer-book-of-popes",
+   "of": "F. J. Bayer",
+   "work": "The Book of the Popes",
+   "translated": "1926",
+   "translator": "E. M. Lamond",
+   "scan_edition": "Methuen & Co., London, 1926 (first published in Great Britain 1926; preface by Herbert Thurston)"
   }
  },
  "_pending": {},
@@ -93,7 +106,7 @@
  "_checks": {
   "eml-48995": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. m. lamond",
    "identity": "ok",
@@ -102,7 +115,7 @@
   },
   "eml-49065": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. m. lamond",
    "identity": "ok",
@@ -111,7 +124,7 @@
   },
   "eml-49106": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. m. lamond",
    "identity": "ok",
@@ -120,7 +133,7 @@
   },
   "eml-49135": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. m. lamond",
    "identity": "ok",
@@ -129,7 +142,7 @@
   },
   "eml-49171": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. m. lamond",
    "identity": "ok",
@@ -138,12 +151,23 @@
   },
   "eml-54811": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. m. lamond",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "E. M. Lamond"
+  },
+  "eml-ia-bayer-book-of-popes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. lamond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -176,6 +200,25 @@
    "pg": 54811,
    "pg_copyrighted_marker": false,
    "pg_translator": "E. M. Lamond"
+  },
+  "eml-ia-bayer-book-of-popes": {
+   "ia": "bookofpopesbydrf00baye",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1439,
+    1557,
+    1585,
+    1828,
+    1854,
+    1860,
+    1870,
+    1871,
+    1901,
+    1902,
+    1925,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

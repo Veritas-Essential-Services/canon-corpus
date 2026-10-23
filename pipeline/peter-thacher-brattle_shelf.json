@@ -1,0 +1,121 @@
+{
+ "_about": "Public-domain Peter Thacher (1752-1802), minister of Malden and then of the Brattle Street Church, Boston, for the Word Hoard: his Watertown oration on the Boston Massacre (1776), a reply to the strictures of J. S. (1784), and his Boston sermons of 1798-1799. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 109 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "peter thacher",
+  "p. thacher",
+  "thacher"
+ ],
+ "_surname": [
+  "peter thacher",
+  "thacher"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pthacher-oration-1776": [
+   "orationdelivered00thac",
+   "An oration delivered at Watertown, March 5, 1776. : To commemorate the bloody massacre at Boston: perpetrated March 5, 1770 (Watertown [Mass.] : Printed and sold by Benjamin Edes, on the bridge, 1776)"
+  ],
+  "pthacher-reply-js": [
+   "bim_eighteenth-century_a-reply-to-the-stricture_thacher-peter_1784",
+   "A reply to the strictures of Mr. J. S. a layman, upon the pamphlet entitled Observations upon the present state upon the present state of the clergy in New-England, &c. By Peter Thacher, A.M. author of said pamphlet.  1784 (catalogued 1784)"
+  ],
+  "pthacher-brattle-1798": [
+   "sermonpreachedto00thac",
+   "A sermon preached to the society in Brattle-street, Boston, March 25th, 1798 : and occasioned by the death of Madam Rebecca Gill, consort of his Honor Moses Gill, Esq., lieutenant-governor of the commonwealth of Massachusetts, who died March 19th, 1798, ætat. 70 (Boston : Printed by Rhoades and Laughton ..., 1798)"
+  ],
+  "pthacher-first-church-1798": [
+   "bim_eighteenth-century_a-sermon-delivered-at-t_thacher-peter-pastor-o_1798",
+   "A sermon, delivered at the First Church in Boston, April 6, 1798,  1798 (catalogued 1798)"
+  ],
+  "pthacher-gill-1799": [
+   "sermonpreachedju00thac",
+   "A sermon preached June 12, 1799, before His Honor Moses Gill, esquire, lieutenant governor and commander in chief (Boston: Printed by Young & Minns, Printers to the Government of Massachusetts, 1799)"
+  ],
+  "pthacher-brattle-1799": [
+   "sermonpreachedto00thac_0",
+   "A sermon preached to the Church and Society in Brattle-Street, Boston, Dec. 29, 1799 : and occasioned by the completion of a century from its first establishment (Boston : Printed by Young & Minns ..., 1800)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "pthacher-others": "The 1696 Saints' Victory and the 1730 Man's Frailty are by earlier Peter Thachers of Milton and Middleborough; the court reports are by Judge Peter O. Thacher"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "pthacher-rest-remaineth": "The Rest which Remaineth to the People of God (1778), IA bim_eighteenth-century_the-rest-which-remaineth_thacher-peter-pastor-o_1778: the text file holds the tail of a microfilm reel of other items, not this sermon"
+ },
+ "_translators": {},
+ "_checks": {
+  "pthacher-oration-1776": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thacher",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1776",
+   "ia_date": "1776",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pthacher-reply-js": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thacher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1784",
+   "ia_date": "1784",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pthacher-brattle-1798": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thacher",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pthacher-first-church-1798": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter thacher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pthacher-gill-1799": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter thacher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pthacher-brattle-1799": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter thacher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

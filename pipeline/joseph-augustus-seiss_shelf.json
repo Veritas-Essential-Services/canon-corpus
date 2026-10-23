@@ -1,0 +1,208 @@
+{
+ "_about": "Public-domain Joseph Augustus Seiss (1823-1904), Lutheran pastor in Philadelphia, premillennialist, for the Word Hoard: The Apocalypse (1865), The Last Times (1859), The Gospel in Leviticus (1860), Voices from Babylon (1879), Popular Lectures on Hebrews (1846), The Parable of the Ten Virgins (1862), The Baptist System Examined (1854), The Letters of Jesus (1889), Beacon Lights (1900), Lectures on the Epistles (1906), A Miracle in Stone (1877) and The Gospel in the Stars (1884), from Internet Archive scans. Added 2026-10-23 by lane A, round 47 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "seiss"
+ ],
+ "_surname": [
+  "joseph a. seiss",
+  "joseph augustus seiss",
+  "seiss"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "seiss-apocalypse": [
+   "apocalypseaseri01seisgoog",
+   "The Apocalypse: A Series of Special Lectures on the Revelation of Jesus Christ, with Rev. Text (Charles C. Cook, 1865)"
+  ],
+  "seiss-gospel-in-leviticus": [
+   "gospelinleviticu00seis",
+   "The gospel in Leviticus; or, an exposition of the Hebrew ritual (Philadelphia, Lindsay & Blakiston, 1860)"
+  ],
+  "seiss-voices-from-babylon": [
+   "voicesfrombabylo00seis",
+   "Voices from Babylon : or, The records of Daniel the prophet (Philadelphia, Pa. : Porter & Coates, 1879)"
+  ],
+  "seiss-hebrews": [
+   "popularlectureso00seis",
+   "Popular lectures on the Epistle of Paul, the apostle, to the Hebrews (Baltimore, Printed at the publication rooms [of the Lutheran book co.], 1846)"
+  ],
+  "seiss-ten-virgins": [
+   "parableoftenvirg00seis",
+   "The parable of the ten virgins : in six discourses, and a sermon on the judgeship of the saints (Philadelphia : Smith, English, 1862)"
+  ],
+  "seiss-baptist-system": [
+   "baptistsystemexa01seis",
+   "The Baptist system examined, the church vindicated, the church vindicated, and sectarianism rebuked (Baltimore, T. N. Kurtz, 1854)"
+  ],
+  "seiss-letters-of-jesus": [
+   "lettersofjesus00seis",
+   "The letters of Jesus (Philadelphia : Lutheran bookstore, 1889)"
+  ],
+  "seiss-beacon-lights": [
+   "beaconlightsser00seis",
+   "Beacon lights: a series of short sermons (Philadelphia, Board of publication of the General council of the Evangelical Lutheran church in North America, 1900)"
+  ],
+  "seiss-lectures-epistles": [
+   "lecturesonepistl0001seis",
+   "Lectures on the epistles, for Sundays and the chief festivals (Philadelphia : General Council Publication House, 1906)"
+  ],
+  "seiss-miracle-in-stone": [
+   "miracleinstone00seis_0",
+   "Miracle in stone (Philadelphia, Porter & Coates, 1877)"
+  ],
+  "seiss-gospel-in-stars": [
+   "gospelinstarsorp00seis",
+   "The gospel in the stars : or, Prímeval astronomy (New York : C. C. Cook, 1910)"
+  ],
+  "seiss-last-times-1859": [
+   "lasttimesearnest00seisiala",
+   "The Last Times: an earnest discussion of momentous themes (Philadelphia, catalogued 1859)"
+  ]
+ },
+ "_alternates": {
+  "seiss-last-times-1878": "The 1878 Google copy of The Last Times: its title leaf is not in the OCR"
+ },
+ "_excluded": {
+  "seiss-other": "Hymnals he compiled (Evangelical Psalmist, Church Song); Luther and the Reformation (1883) left for later"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "seiss-apocalypse": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seiss-gospel-in-leviticus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "seiss-voices-from-babylon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seiss-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph augustus seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "seiss-ten-virgins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seiss-baptist-system": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "seiss-letters-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seiss-beacon-lights": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "seiss-lectures-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "seiss-miracle-in-stone": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "seiss-gospel-in-stars": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910, c1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seiss-last-times-1859": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph a. seiss",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

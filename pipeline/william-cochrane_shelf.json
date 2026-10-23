@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain William Cochrane (1831-1898), Presbyterian minister of Zion Church, Brantford, Ontario, for the Word Hoard: The Heavenly Vision and Other Sermons (1874), Christ and Christian Life (1876), Warning and Welcome (1877), Future Punishment, or Does Death End Probation? (1886), The Church and the Commonwealth (1887) and Memoirs and Remains of the Rev. Walter Inglis (1887). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 83 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william cochrane",
+  "rev. william cochrane",
+  "w. cochrane"
+ ],
+ "_surname": [
+  "william cochrane",
+  "cochrane"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cochrane-heavenly-vision": [
+   "heavenlyvisionot00coch",
+   "The heavenly vision : and other sermons (1863-73) (Toronto : Adam, Stevenson & Co., 1874)"
+  ],
+  "cochrane-christ-christian-life": [
+   "cihm_08595",
+   "Christ and Christian life : [serm]ons preached in Zion Church, Brantford, 1875 (Toronto : Adam, Stevenson; Brantford [Ont.] : J. Sutherland, 1876)"
+  ],
+  "cochrane-warning-welcome": [
+   "cihm_08844",
+   "Warning and welcome : sermons preached in Zion Presbyterian Church, Brantford, during 1876 (Toronto : A. Stevenson; Brantford, [Ont.] : J. Sutherland, 1877)"
+  ],
+  "cochrane-future-punishment": [
+   "futurepunishment00cochuoft",
+   "Future punishment; or, Does death end probation? ... with illustrative notes from the writings of eminent British and American scientists and theologians (Brantford, Bradley, 1886)"
+  ],
+  "cochrane-church-commonwealth": [
+   "churchcommonweal00coch",
+   "The church and the commonwealth. Discussions and orations on questions of the day, practical, biographical, educational and doctrinal (Brantford, Ont., Bradley, Garretson & Co., 1887)"
+  ],
+  "cochrane-memoirs-inglis": [
+   "memoirsremainsof00coch",
+   "Memoirs and remains of the Reverend Walter Inglis : African missionary and Canadian pastor (Toronto, C.B. Robinson [etc., etc.], 1887)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cochrane-other": "The Canadian Album: Men of Canada (1891-1896), a biographical dictionary he edited"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cochrane-heavenly-vision": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cochrane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cochrane-christ-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cochrane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cochrane-warning-welcome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cochrane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cochrane-future-punishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cochrane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cochrane-church-commonwealth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cochrane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cochrane-memoirs-inglis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cochrane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

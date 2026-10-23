@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: C. T. Campion (1861-1938): Albert Schweitzer's On the Edge of the Primeval Forest (1922) and The Philosophy of Civilization (The Decay and the Restoration of Civilization; Civilization and Ethics, 1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: C. T. Campion (1861-1938): Albert Schweitzer's On the Edge of the Primeval Forest (1922) and The Philosophy of Civilization (The Decay and the Restoration of Civilization; Civilization and Ethics, 1923). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted. From archive.org (2026-10-23): Schweitzer's Memoirs of Childhood and Youth (Macmillan, 1925).",
  "_name_words": [
   "c. t. campion",
   "campion"
@@ -24,7 +24,12 @@
    "Civilization and ethics"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cam-ia-schweitzer-memoirs": [
+   "memoirsofchildho0000albe_l5w0",
+   "Schweitzer: Memoirs of Childhood and Youth"
+  ]
+ },
  "titles": {
   "campion-schweitzer-civilization-and-ethics": {
    "source": "cam-76061",
@@ -50,6 +55,14 @@
    "translated": "1922-1923 (see the Gutenberg header)",
    "translator": "C. T. Campion",
    "scan_edition": "Project Gutenberg 75958 (clean text)"
+  },
+  "campion-schweitzer-memoirs-of-childhood-and-youth": {
+   "source": "cam-ia-schweitzer-memoirs",
+   "of": "Albert Schweitzer",
+   "work": "Memoirs of Childhood and Youth",
+   "translated": "1924",
+   "translator": "C. T. Campion",
+   "scan_edition": "The Macmillan Company, New York, 1925"
   }
  },
  "_pending": {},
@@ -58,7 +71,7 @@
  "_checks": {
   "cam-50015": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. t. campion",
    "identity": "ok",
@@ -67,7 +80,7 @@
   },
   "cam-75958": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. t. campion",
    "identity": "ok",
@@ -76,12 +89,23 @@
   },
   "cam-76061": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "c. t. campion",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "C. T. Campion"
+  },
+  "cam-ia-schweitzer-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "campion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -99,6 +123,21 @@
    "pg": 76061,
    "pg_copyrighted_marker": false,
    "pg_translator": "C. T. Campion"
+  },
+  "cam-ia-schweitzer-memoirs": {
+   "ia": "memoirsofchildho0000albe_l5w0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1445,
+    1510,
+    1871,
+    1875,
+    1925
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "2025 is the Internet Archive digitising line; the title page reads Macmillan, New York, 1925"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

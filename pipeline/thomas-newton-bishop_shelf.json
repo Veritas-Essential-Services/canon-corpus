@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Thomas Newton (1704-1782), Bishop of Bristol, for the Word Hoard: Dissertations on the Prophecies which have remarkably been fulfilled (London: Tonson, 1758-1759, three volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "newton"
+ ],
+ "_surname": [
+  "thomas newton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tnewton-prophecies-1": [
+   "dissertationsonp01newt",
+   "Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 1 (London : Printed for J. and R. Tonson ..., MDCC)"
+  ],
+  "tnewton-prophecies-2": [
+   "dissertationsonp02newt",
+   "Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 2 (London : Printed for J. and R. Tonson ..., MDCC)"
+  ],
+  "tnewton-prophecies-3": [
+   "dissertationsonp03newt",
+   "Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 3 (London : Printed for J. and R. Tonson ..., MDCC)"
+  ]
+ },
+ "_alternates": {
+  "tnewton-copies": "Many later printings of the Dissertations (1754-1808)"
+ },
+ "_excluded": {
+  "tnewton-milton": "His edition of Milton (Milton's work)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "tnewton-prophecies-2": "title page text: 'Dissertations on the Prophecies, which have remarkably been fulfilled ... By Thomas Newton, D.D. Chaplain in Ordinary to His Majesty ... Volume the second. London: printed for J. and R. Tonson ... MDCCLVIII' (the OCR reads 'NEfFTON')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tnewton-prophecies-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "MDCCLIII-MDCCLIX [1758-1759]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tnewton-prophecies-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "MDCCLIII-MDCCLIX [1758-1759]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tnewton-prophecies-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "MDCCLIII-MDCCLIX [1758-1759]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Charles R. Murphy (b. 1884): Verhaeren's love poems in three books, The Sunlit Hours, Afternoon and The Evening Hours (1916-1917). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Charles R. Murphy (b. 1884): Verhaeren's love poems in three books, The Sunlit Hours, Afternoon and The Evening Hours (1916-1917). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted. From archive.org (2026-10-23): Angellier's To the Lost Friend (1913, with Mildred J. Knight).",
  "_name_words": [
   "charles r. murphy",
   "charles royier murphy"
@@ -24,7 +24,12 @@
    "The Evening Hours"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "crm-ia-angellier-lost-friend": [
+   "tolostfriendaso00angegoog",
+   "Angellier: To the Lost Friend"
+  ]
+ },
  "titles": {
   "cr-murphy-verhaeren-afternoon": {
    "source": "crm-45466",
@@ -49,6 +54,14 @@
    "translated": "1916-1917 (see the Gutenberg header)",
    "translator": "Charles R. Murphy",
    "scan_edition": "Project Gutenberg 45465 (clean text)"
+  },
+  "cr-murphy-angellier-to-the-lost-friend": {
+   "source": "crm-ia-angellier-lost-friend",
+   "of": "Auguste Angellier",
+   "work": "To the Lost Friend: a Sonnet-Sequence",
+   "translated": "1913",
+   "translator": "Mildred J. Knight and Charles R. Murphy",
+   "scan_edition": "John Lane Company, New York, 1913 (Google scan); title page names both translators"
   }
  },
  "_pending": {},
@@ -57,7 +70,7 @@
  "_checks": {
   "crm-45465": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles r. murphy",
    "identity": "ok",
@@ -66,7 +79,7 @@
   },
   "crm-45466": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles r. murphy",
    "identity": "ok",
@@ -75,12 +88,23 @@
   },
   "crm-45467": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles r. murphy",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Charles Royier Murphy"
+  },
+  "crm-ia-angellier-lost-friend": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles r. murphy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -98,6 +122,14 @@
    "pg": 45467,
    "pg_copyrighted_marker": false,
    "pg_translator": "Charles Royier Murphy"
+  },
+  "crm-ia-angellier-lost-friend": {
+   "ia": "tolostfriendaso00angegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -39,8 +39,12 @@
    "scan_edition": "Project Gutenberg 33792 (clean text)"
   }
  },
- "_pending": {},
- "_excluded": {},
+ "_pending": {
+  "strettell-bard-of-the-dimbovitza": "Vacaresco's The Bard of the Dimbovitza: Roumanian Folk-Songs (Osgood, McIlvaine, London; barddimbovitzar00sylvgoog), translated by Carmen Sylva and Alma Strettell. The title page prints no year; archive.org dates it 1892."
+ },
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Legends from River & Mountain (Allen, 1896) is 'by Carmen Sylva and Alma Strettell', with no translation credit, so it is left off."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "str-33792": {

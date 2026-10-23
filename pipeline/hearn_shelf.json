@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Lafcadio Hearn (1850-1904) as translator. Gautier's One of Cleopatra's Nights and Other Fantastic Romances (1882) and Flaubert's The Temptation of St. Anthony (published 1910). PD. His own Japanese books are not shelved. Added 2026-10-03 by lane C (round 8) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Lafcadio Hearn (1850-1904) as translator. Gautier's One of Cleopatra's Nights and Other Fantastic Romances (1882) Flaubert's The Temptation of St. Anthony (published 1910) and Anatole France's The Crime of Sylvestre Bonnard (1890). PD. His own Japanese books are not shelved. Added 2026-10-03 by lane C (round 8) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
  "_name_words": [
   "lafcadio hearn"
  ],
@@ -17,7 +17,12 @@
    "The Temptation of St. Anthony"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hearn-ia-bonnard": [
+   "thecrimeofsylves00franiala",
+   "France: The Crime of Sylvestre Bonnard"
+  ]
+ },
  "titles": {
   "hearn-gautier-cleopatras-nights": {
    "source": "hearn-gautier",
@@ -34,6 +39,14 @@
    "translated": 1910,
    "translator": "Lafcadio Hearn",
    "scan_edition": "Project Gutenberg 52225 (clean text)"
+  },
+  "hearn-france-the-crime-of-sylvestre-bonnard": {
+   "source": "hearn-ia-bonnard",
+   "of": "Anatole France",
+   "work": "The Crime of Sylvestre Bonnard (Member of the Institute)",
+   "translated": "1890",
+   "translator": "Lafcadio Hearn",
+   "scan_edition": "Harper & Brothers, New York and London, \"Copyright, 1890\"; the title page prints no year and the library call number reads 1890. The text is Hearn's 1890 translation; he died in 1904, so no later printing can carry new matter by him"
   }
  },
  "_pending": {},
@@ -46,7 +59,7 @@
  "_checks": {
   "hearn-gautier": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lafcadio hearn",
    "identity": "ok",
@@ -55,12 +68,23 @@
   },
   "hearn-flaubert": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lafcadio hearn",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lafcadio Hearn"
+  },
+  "hearn-ia-bonnard": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lafcadio hearn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -73,6 +97,16 @@
    "pg": 52225,
    "pg_copyrighted_marker": false,
    "pg_translator": "Lafcadio Hearn"
+  },
+  "hearn-ia-bonnard": {
+   "ia": "thecrimeofsylves00franiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1824,
+    1849,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",

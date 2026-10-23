@@ -1,0 +1,130 @@
+{
+ "_about": "Public-domain Robert Machray, Bishop and then Archbishop of Rupert's Land and Primate of All Canada, for the Word Hoard: his sermons, a pastoral letter, his memorandum on the Church Missionary Society mission, his letters to the Archbishop of Canterbury and the S.P.G., and his remarks on primary education. The novels of his nephew Robert Machray are left out. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 122 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robert machray",
+  "bishop of rupert's land",
+  "archbishop of rupert's land",
+  "machray"
+ ],
+ "_surname": [
+  "machray"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "machray-christian-privilege": [
+   "P000484",
+   "Christian privilege and duty: A sermon preached in St. John's Cathedral, Red River Settlement by the Right Rev. the Lord Bishop of Rupert's Land on Sunday morning, May 10th, 1868: Being the Sunday previous to his Lordship's departure from the settlement on a visit to the distant Moose missions (Printed at the Nor'Wester Office (Winnipeg), 1868)"
+  ],
+  "machray-pastoral-letter": [
+   "cihm_91155",
+   "A pastoral letter ([Winnipeg? : s.n.], 1870)"
+  ],
+  "machray-memorandum": [
+   "P000675",
+   "Memorandum by the Bishop of Rupert's Land on the present state of the mission ([s.n.] ([London]?), 1873)"
+  ],
+  "machray-sermon-1883": [
+   "sermonofmostrevb00mach",
+   "Sermon of the most Rev. the Bishop of Rupert's Land (Winnipeg, Manitoba Free Press, 1883)"
+  ],
+  "machray-primary-education": [
+   "cihm_30631",
+   "Some remarks on primary education ([S.l. : s.n.], 1889)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "machray-nephew": "Grace O'Malley, The Night Side of London, The Mystery of Lincoln's Inn, The Little Entente and The India Office are by his nephew Robert Machray",
+  "machray-life": "the Life of Robert Machray is by his nephew",
+  "machray-cree": "the Cree prayer book is compiled by W. W. Kirkby"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "machray-pastoral-letter": {
+   "author": "OCR of the close: \"RUPERT'S LAND. November 1, 1870\" (the bishop's signature by his see). Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him.",
+   "title": "OCR of the close: \"RUPERT'S LAND. November 1, 1870\" (the bishop's signature by his see). Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him."
+  },
+  "machray-memorandum": {
+   "author": "OCR of the head: \"MEMORANDUM BY THE BISHOP OF RUPERT'S LAND ON THE PRESENT STATE OF THE MISSION\" (1873). Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him.",
+   "title": "OCR of the head: \"MEMORANDUM BY THE BISHOP OF RUPERT'S LAND ON THE PRESENT STATE OF THE MISSION\" (1873). Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him."
+  },
+  "machray-sermon-1883": {
+   "author": "OCR of the title page: \"SERMON ... Most Rev. The Bishop of Rupert's Land, WARDEN OF ST. JOHN'S COLLEGE ... December 9, 1883.\" Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him.",
+   "title": "OCR of the title page: \"SERMON ... Most Rev. The Bishop of Rupert's Land, WARDEN OF ST. JOHN'S COLLEGE ... December 9, 1883.\" Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him."
+  },
+  "machray-primary-education": {
+   "author": "OCR of the title page: \"SOME REMARKS ... PRIMARY EDUCATION ... THE BISHOP OF RUPERT'S LAND. December, 1889.\" Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him.",
+   "title": "OCR of the title page: \"SOME REMARKS ... PRIMARY EDUCATION ... THE BISHOP OF RUPERT'S LAND. December, 1889.\" Robert Machray was Bishop of Rupert's Land from 1865 (Archbishop from 1893) until his death in 1904, so the office names him."
+  }
+ },
+ "_pending": {
+  "machray-family-prayers": "A Manual of Family Prayers (1869), IA cihm_16830: compiled with J. P. Gardiner (waits for Adam's ruling on many-author compilations)",
+  "machray-synod-1869": "Report of the Synod of the Diocese of Rupert's Land (1869), IA cihm_30097: a diocesan report (waits for Adam's ruling on many-author compilations)",
+  "machray-conference-1867": "Report of the Second Conference of Clergy and Lay-Delegates (1867), IA P000475: a diocesan report (waits for Adam's ruling on many-author compilations)",
+  "machray-diocese-1867": "Report of the Diocese of Rupert's Land by the Bishop and Clergy (1867), IA P000457: a diocesan report (waits for Adam's ruling on many-author compilations)",
+  "machray-grisdale": "Sermon at the installation of Canon Grisdale, professor of systematic theology, as canon in St. John's Cathedral, by the Bishop of Rupert's Land, on Monday, November 2nd, 1874 ([Winnipeg? : s.n., 1874) (IA cihm_24741): the text names no preacher anywhere; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "machray-to-canterbury": "To the Right Honourable and Most Reverend the Lord Archbishop of Canterbury ([Winnipeg? : s.n.], 1880) (IA cihm_89233): the OCR never shows a signature; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "machray-to-spg": "To the standing committee of the venerable Society for the Propagation of the Gospel ([Winnipeg? : s.n.], 1899) (IA cihm_89238): the OCR never shows a signature; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "machray-christian-privilege": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "machray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "machray-pastoral-letter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "machray-memorandum": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "machray-sermon-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "machray-primary-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

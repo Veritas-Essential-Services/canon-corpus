@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Henry L. Brose (1890-1965), relativity from the German: Moszkowski's Einstein the Searcher (1921); Weyl's Space-Time-Matter (1922) and Freundlich's The Foundations of Einstein's Theory of Gravitation (1920) wait in _pending (no plain text on Gutenberg). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Henry L. Brose (1890-1965), relativity from the German: Moszkowski's Einstein the Searcher (1921); Weyl's Space-Time-Matter (1922) and Freundlich's The Foundations of Einstein's Theory of Gravitation (1920) wait in _pending (no plain text on Gutenberg). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted. From archive.org (2026-10-23): Schlick's Space and Time in Contemporary Physics (1920).",
  "_name_words": [
   "henry l. brose",
   "henry leopold brose"
@@ -16,7 +16,12 @@
    "Einstein, the searcher"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hbr-ia-schlick-space-time": [
+   "spacetimeinconte00schluoft",
+   "Schlick: Space and Time in Contemporary Physics"
+  ]
+ },
  "titles": {
   "brose-moszkowski-einstein-the-searcher": {
    "source": "hbr-70678",
@@ -25,6 +30,14 @@
    "translated": "1920-1922 (see the Gutenberg header)",
    "translator": "Henry L. Brose",
    "scan_edition": "Project Gutenberg 70678 (clean text)"
+  },
+  "brose-schlick-space-and-time-in-contemporary-physics": {
+   "source": "hbr-ia-schlick-space-time",
+   "of": "Moritz Schlick",
+   "work": "Space and Time in Contemporary Physics",
+   "translated": "1920",
+   "translator": "Henry L. Brose",
+   "scan_edition": "Clarendon Press, Oxford, 1920; \"rendered into English by Henry L. Brose\", introduction by F. A. Lindemann"
   }
  },
  "_pending": {
@@ -36,12 +49,23 @@
  "_checks": {
   "hbr-70678": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry l. brose",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry L. Brose"
+  },
+  "hbr-ia-schlick-space-time": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry l. brose",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -49,6 +73,17 @@
    "pg": 70678,
    "pg_copyrighted_marker": false,
    "pg_translator": "Henry L. Brose"
+  },
+  "hbr-ia-schlick-space-time": {
+   "ia": "spacetimeinconte00schluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1915,
+    1916,
+    1919,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

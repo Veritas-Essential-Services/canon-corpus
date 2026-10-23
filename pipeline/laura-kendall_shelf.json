@@ -51,8 +51,13 @@
    "scan_edition": "Project Gutenberg 13527 (clean text)"
   }
  },
- "_pending": {},
- "_excluded": {},
+ "_pending": {
+  "laura-kendall-laurie-schoolboy-days-japan": "Laurie's Schoolboy Days in Japan (Estes and Lauriat, Boston; schoolboydaysin00kendgoog), translated by Laura E. Kendall. The copyright year is illegible in the OCR; archive.org dates it 1895.",
+  "laura-kendall-laurie-schoolboy-days-russia": "Laurie's Schoolboy Days in Russia (Dana Estes, Boston; schoolboydaysin00grougoog), translated by Laura E. Kendall. The copyright year is illegible in the OCR; archive.org dates it 1892."
+ },
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: The scan of Schoolboy Days in Italy (schoolboydaysin03kendgoog) does not name her."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "lke-13527": {

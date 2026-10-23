@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain Edward Fowler (1632-1714), Bishop of Gloucester, Latitudinarian, for the Word Hoard: The Design of Christianity (London 1671) and Libertas Evangelica (1680), from Internet Archive scans of Early English Books. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fowler"
+ ],
+ "_surname": [
+  "edward fowler",
+  "e. fowler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fowler-design-christianity-1671": [
+   "bim_early-english-books-1641-1700_the-design-of-christiani_fowler-edward_1671",
+   "The Design of Christianity (London, catalogued 1671)"
+  ],
+  "fowler-libertas-evangelica-1680": [
+   "bim_early-english-books-1641-1700_libertas-evangelica_fowler-edward_1680",
+   "Libertas Evangelica: or, a discourse of Christian liberty (London, catalogued 1680)"
+  ]
+ },
+ "_alternates": {
+  "fowler-copies": "The Design of Christianity, 1676, 1699 and 1760"
+ },
+ "_excluded": {
+  "fowler-other": "Pamphlets on the Trinity and the Bunyan controversy (Dirt wipt off, 1672), left for a later round"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "fowler-design-christianity-1671": "title page text: 'The Design of Christianity: or, a plain demonstration and improvement of this proposition ... By Edward Fowler, Minister of God's Word at Northill in Bedfordshire. London, printed by E. Tyler and R. Holt for R. Royston ...' (the OCR splits the forename 'EDW ARD')",
+  "fowler-libertas-evangelica-1680": "title page text: 'Libertas Evangelica: or, a discourse of Christian liberty. Being a farther pursuance of the argument of The Design of Christianity. By Edward Fowler, Rector of Alhallows Breadstreet, London' (the OCR reads 'EDW 41RD')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fowler-design-christianity-1671": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1671",
+   "ia_date": "1671",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fowler-libertas-evangelica-1680": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1680",
+   "ia_date": "1680",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

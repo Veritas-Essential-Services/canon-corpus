@@ -1,0 +1,230 @@
+{
+ "_about": "Public-domain William Thomas Herridge (1857-1929), minister of St Andrew's Presbyterian Church, Ottawa, and moderator of the Presbyterian Church in Canada, for the Word Hoard: Christianity in its Relation to the State and the Church, The Orbit of Life, The Coign of Vantage, and his St Andrew's sermons (1889-1917). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 100 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. t. herridge",
+  "william thomas herridge",
+  "herridge"
+ ],
+ "_surname": [
+  "w. t. herridge",
+  "william thomas herridge",
+  "herridge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "herridge-state-and-church": [
+   "christianityinit00herr",
+   "Christianity in its relation to the state and the church (Ottawa, A.S. Woodburn, 1889)"
+  ],
+  "herridge-anniversary-1889": [
+   "anniversarysermo00herr",
+   "Anniversary sermon, 1889, preached in St. Andrew's Church Sunday evening, Dec. 1st (Ottawa : A. S. Woodburn, 1889)"
+  ],
+  "herridge-diamond-jubilee": [
+   "cihm_06990",
+   "A sermon preached in St. Andrew's Church on the occasion of the Queen' s diamond jubilee ([S.l. : s.n., 1897)"
+  ],
+  "herridge-englands-greatness": [
+   "cihm_05558",
+   "\"England's greatness\" : anniversary sermon delivered to the members of St. George's Society of Ottawa and the Sons of England, St. Andrew's Church, Ottawa, April 23rd, 1899 ([Ottawa : s.n., 1899)"
+  ],
+  "herridge-strathconas-horse": [
+   "cihm_05559",
+   "A sermon preached in St. Andrew's Church, Ottawa, to \"Strathcona's Horse\" previous to their departure for service in South Africa, on Sunday, the 11th March, 1900 ([Ottawa? : s.n., 1900)"
+  ],
+  "herridge-in-memoriam-1901": [
+   "cihm_74595",
+   "In memoriam : a sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, January 27th, 1901, to commemorate the death of Her Most Gracious Majesty, Queen Victoria ([Ottawa?] : Kirk Session, 1901)"
+  ],
+  "herridge-sermon-1902": [
+   "cihm_74601",
+   "A sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, May 25th, 1902 ([Ottawa? : s.n.], 1902)"
+  ],
+  "herridge-liquor-act": [
+   "cihm_74613",
+   "The Ontario Liquor Act : a sermon preached in St. Andrew's Church, Ottawa, on Sunday evening Nov. 23rd, 1902 ([Ottawa? : s.n.], 1902)"
+  ],
+  "herridge-orbit-of-life": [
+   "orbitlifestudie00herrgoog",
+   "The orbit of life; studies in human experience (New York, F. H. Revell company, 1906)"
+  ],
+  "herridge-coign-of-vantage": [
+   "coignofvantage00herruoft",
+   "The coign of vantage (New York F.H. Revell company, [c19)"
+  ],
+  "herridge-in-memoriam-1910": [
+   "inmemoriamsermon00herr",
+   "In memoriam : a sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, May 15th, 1910, to commemorate the death of His Most Gracious Majesty, King Edward VII / by W.T. Herridge ([Ottawa?] : Men's Association, 1910)"
+  ],
+  "herridge-call-of-war": [
+   "callofwarrecrui00herr",
+   "The call of the war : recruiting sermon preached in St. Andrew's Church, Ottawa, Sunday evening, June 27, 1915 (Ottawa : [s.n.], 1915)"
+  ],
+  "herridge-french-english": [
+   "frenchenglishinc00herr",
+   "French and English in Canada and across the sea : a sermon (Ottawa : Canadian Printing, 1917)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "herridge-appel": "Appel aux armes (French translation of The Call of the War)",
+  "herridge-dawson": "Recollections of Father Dawson (by Henry Morgan, with part of a sermon)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "herridge-anniversary-1889": "Title page image: 'St. Andrew's Society of Ottawa. Anniversary Sermon 1889 preached by Rev. W. T. Herridge, B.D. in St. Andrew's Church, Sunday evening, Dec. 1st... Ottawa: Printed by A. S. Woodburn... 1889.'",
+  "herridge-diamond-jubilee": "Title page image: 'A Sermon preached in St. Andrew's Church on the occasion of the Queen's Diamond Jubilee by Rev. W. T. Herridge, B.D. Published by request.' (dated 1897 by hand)",
+  "herridge-in-memoriam-1910": "Title page image: 'In Memoriam. A Sermon preached in St. Andrew's Church, Ottawa, on Sunday Morning, May 15th, 1910, to commemorate the death of His Most Gracious Majesty, King Edward VII, by Rev. W. T. Herridge, D.D. Published by the Men's Association.'",
+  "herridge-orbit-of-life": "Title page image: 'The Orbit of Life. Studies in Human Experience. By William T. Herridge, D.D., Minister of St. Andrew's Church, Ottawa, Canada. Second edition. New York, Chicago, Toronto: Fleming H. Revell Company.' (catalogued 1906)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "herridge-state-and-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-anniversary-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-diamond-jubilee": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-englands-greatness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herridge-strathconas-horse": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herridge-in-memoriam-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-sermon-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-liquor-act": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-orbit-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herridge-coign-of-vantage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[c1908]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "herridge-in-memoriam-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-call-of-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. t. herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herridge-french-english": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain George Duffield (1794-1868), New School Presbyterian pastor at Carlisle and Detroit, for the Word Hoard: Spiritual Life, or Regeneration (1832), Dissertations on the Prophecies relative to the Second Coming (1842), The Claims of Episcopal Bishops Examined (1842), Millenarianism Defended (1843), A Faithful Rebuke (1844), The Veteran Hero (1851), One Hundred Years Ago (1858), A Thanksgiving Discourse (1861) and The Nation's Wail (1865), from Internet Archive scans. His son George Duffield Jr. (1818-1888, the hymn writer) is another man. Added 2026-10-23 by lane A, round 56 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "duffield"
+ ],
+ "_surname": [
+  "george duffield",
+  "geo. duffield",
+  "g. duffield"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gduffield-spiritual-life": [
+   "spirituallifeorr00duff",
+   "Spiritual life, or, Regeneration : illustrated in a series of disquisitions : relative to its author, subject, nature, means, etc (Carlisle : George Gleming, 1832)"
+  ],
+  "gduffield-prophecies": [
+   "dissertationsonp00duff",
+   "Dissertations on the prophecies relative to the second coming of Jesus Christ (New York, Dayton & Newman, 1842)"
+  ],
+  "gduffield-episcopal-bishops": [
+   "claimsofepiscopa00duff",
+   "The claims of \"Episcopal bishops,\" examined in a series of letters : addressed to the Rev. S.A. McCoskry, D.D., bishop of the Protestant Episcopal church of Michigan (New York : Dayton & Newman, 1842)"
+  ],
+  "gduffield-millenarianism": [
+   "millenarianismde00duffrich",
+   "Millenarianism defended : reply to Prof. Stuart's \"Strictures on the Rev. G. Duffield's recent work on the second coming of Christ,\" (New York : M.H. Newman, 1843)"
+  ],
+  "gduffield-faithful-rebuke": [
+   "faithfulrebukeno00duff",
+   "Faithful rebuke, not \"Unreasonable bitterness\" : shown in a reply to the \"Reverend Dr. Tyng's\" pastoral letter of the Synod of Michigan (Printed by A.S. Williams, 1844)"
+  ],
+  "gduffield-veteran-hero": [
+   "veteranhero00duff",
+   "The veteran hero (Detroit, A. McFarren, 1851)"
+  ],
+  "gduffield-hundred-years": [
+   "onehundredyearsa00duff",
+   "One hundred years ago : an historical discourse delivered by Rev. George Duffield, D.D., during the centenary celebration of the First Presbyterian Church of Carlisle, Pa., July 1st, 1857 (Carlisle, Pa. : Printed at the Herald Office, 1858)"
+  ],
+  "gduffield-thanksgiving-1861": [
+   "thanksgivingdisc00duff",
+   "A Thanksgiving discourse. The rule of Divine Providence applicable to the present circumstances of our country, delivered in the First Presbyterian church of Detroit, Thursday, November 28, 1860 (Detroit, Free press mammoth book and job printing house, 1861)"
+  ],
+  "gduffield-nations-wail": [
+   "nationswaildisco00duff",
+   "The nation's wail : a discourse delivered in the First Presbyterian Church of Detroit, on Sabbath, the 16th of April, 1865, the day after receiving the intelligence of the brutal murder of President Abraham Lincoln, by a brutal assassin (Detroit : Advertiser & Tribune Print., 1865)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gduffield-other": "George Duffield Jr. (1818-1888), hymn writer, and the elder George Duffield (1732-1790), Revolutionary chaplain, are other men"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gduffield-spiritual-life": "Title page OCR reads 'SPIRITUAL LIFE: OR, REGENERATION ... BY GEORGE DUFFIELD, Pastor of the Presbyterian Church, Carlisle, Pa.' (OCR '^^DUFFIELD'); library label 'Duffield, George, 1794-1868'."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gduffield-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gduffield-prophecies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george duffield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gduffield-episcopal-bishops": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george duffield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gduffield-millenarianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "geo. duffield",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gduffield-faithful-rebuke": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george duffield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gduffield-veteran-hero": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george duffield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gduffield-hundred-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george duffield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gduffield-thanksgiving-1861": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george duffield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gduffield-nations-wail": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george duffield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

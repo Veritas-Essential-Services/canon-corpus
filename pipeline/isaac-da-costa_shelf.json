@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Isaac da Costa (1798-1860), Dutch poet and Reformed apologist of the Réveil, a convert from Judaism, for the Word Hoard: Israel and the Gentiles (London: Nisbet, 1850) and The Four Witnesses, a harmony of the Gospels (London: Nisbet, 1851), in their English translations, from Internet Archive scans. Added 2026-10-23 by lane A, round 49 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "costa"
+ ],
+ "_surname": [
+  "isaac da costa",
+  "da costa"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dacosta-israel-and-gentiles": [
+   "israelgentilesc00unkngoog",
+   "Israel and the Gentiles, contributions to the history of the Jews from the earliest times to the present day (London: J. Nisbet, 1850)"
+  ],
+  "dacosta-four-witnesses": [
+   "fourwitnessesbe00cost",
+   "The four witnesses: being a harmony of the Gospels on a new principle (London, J. Nisbet & co., 1851)"
+  ]
+ },
+ "_alternates": {
+  "dacosta-copies": "The 1855 printing of The Four Witnesses"
+ },
+ "_excluded": {
+  "dacosta-other": "Dutch poems and works (De Perzen, Vijf en twintig jaren, the Bilderdijk volumes, Israël en de volken)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dacosta-israel-and-gentiles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac da costa",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dacosta-four-witnesses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac da costa",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

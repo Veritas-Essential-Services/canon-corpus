@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain Morgan Cowie, Dean of Exeter, for the Word Hoard: Ten Sermons preached before the University of Cambridge (with his Hulsean Lectures), Scripture Difficulties, On Sacrifice, and Reminiscences of a City Church. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 127 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "morgan cowie",
+  "m. cowie",
+  "cowie"
+ ],
+ "_surname": [
+  "cowie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cowie-ten-sermons": [
+   "tensermonsprea00cowi",
+   "Ten sermons preached before the University of Cambridge : including the Hulsean lectures for 1853, and two other sermons (London : F. and J. Rivington ; Cambridge : J. Deighton, 1853)"
+  ],
+  "cowie-scripture-difficulties": [
+   "scripturedifficu00cowi",
+   "Scripture difficulties : sermons preached before the University of Cambridge, including the Hulsean lectures for 1854 and three other sermons (London : Rivingtons, 1855)"
+  ],
+  "cowie-on-sacrifice": [
+   "onsacrificeaton00cowigoog",
+   "On sacrifice: the Atonement, Vicarious oblation, and Example of Christ; and The punishment of (catalogued 1856)"
+  ],
+  "cowie-city-church": [
+   "reminiscencesofc00cowi",
+   "Reminiscences of a city church : including an account of the missionary services in the Church of S. Lawrence and S. Mary Magdalen, September 1867, vol. Talbot collection of British pamphlets (London : Dalton & Lucy, booksellers to the Queen and to H.R.H. the Prince of Wales, 28 Cockspur Street, Charing Cross, 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cowie-catalogue": "his catalogue of St John's College manuscripts is bibliography",
+  "cowie-training-schools": "a collection of examination questions"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cowie-ten-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cowie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowie-scripture-difficulties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cowie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowie-on-sacrifice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cowie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowie-city-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cowie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

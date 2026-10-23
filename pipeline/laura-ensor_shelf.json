@@ -34,7 +34,21 @@
    "Memoirs of the Princesse de Ligne, Vol. 2 (of 2)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ens-daudet-recollections": [
+   "recollectionsofl00dauduoft",
+   "Recollections of a Literary Man"
+  ],
+  "ens-daudet-thirty-years": [
+   "thirtyyearsofpar00dauduoft",
+   "Thirty Years of Paris"
+  ],
+  "ens-saint-hilaire-buddha": [
+   "in.ernet.dli.2015.215947",
+   "The Buddha and His Religion",
+   "2015.215947.The-Buddha_djvu.txt"
+  ]
+ },
  "titles": {
   "laura-ensor-daudet-artists-wives": {
    "source": "ens-22522",
@@ -83,6 +97,30 @@
    "translated": "1887-1896 (see the Gutenberg header)",
    "translator": "Laura Ensor",
    "scan_edition": "Project Gutenberg 49318 (clean text)"
+  },
+  "laura-ensor-daudet-recollections-of-a-literary-man": {
+   "source": "ens-daudet-recollections",
+   "of": "Alphonse Daudet",
+   "work": "Recollections of a Literary Man (Souvenirs d'un homme de lettres)",
+   "translated": 1889,
+   "translator": "Laura Ensor",
+   "scan_edition": "George Routledge and Sons, London 1889; archive.org scan (University of Toronto copy)"
+  },
+  "laura-ensor-daudet-thirty-years-of-paris": {
+   "source": "ens-daudet-thirty-years",
+   "of": "Alphonse Daudet",
+   "work": "Thirty Years of Paris and of My Literary Life",
+   "translated": 1888,
+   "translator": "Laura Ensor",
+   "scan_edition": "George Routledge and Sons, London 1888; archive.org scan (University of Toronto copy)"
+  },
+  "laura-ensor-barthelemy-saint-hilaire-the-buddha-and-his-religion": {
+   "source": "ens-saint-hilaire-buddha",
+   "of": "Jules Barthélemy-Saint-Hilaire",
+   "work": "The Buddha and His Religion",
+   "translated": 1895,
+   "translator": "Laura Ensor",
+   "scan_edition": "George Routledge and Sons, London 1895; archive.org scan (Digital Library of India)"
   }
  },
  "_pending": {},
@@ -91,7 +129,7 @@
  "_checks": {
   "ens-15335": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "laura ensor",
    "identity": "ok",
@@ -100,7 +138,7 @@
   },
   "ens-22522": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "laura ensor",
    "identity": "ok",
@@ -109,7 +147,7 @@
   },
   "ens-49318": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "laura ensor",
    "identity": "ok",
@@ -118,7 +156,7 @@
   },
   "ens-51235": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "laura ensor",
    "identity": "ok",
@@ -127,7 +165,7 @@
   },
   "ens-71048": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "laura ensor",
    "identity": "ok",
@@ -136,12 +174,45 @@
   },
   "ens-71051": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "laura ensor",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Laura Ensor"
+  },
+  "ens-daudet-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ens-daudet-thirty-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ens-saint-hilaire-buddha": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "laura ensor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -174,6 +245,34 @@
    "pg": 71051,
    "pg_copyrighted_marker": false,
    "pg_translator": "Laura Ensor"
+  },
+  "ens-daudet-recollections": {
+   "ia": "recollectionsofl00dauduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1858,
+    1889
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ens-daudet-thirty-years": {
+   "ia": "thirtyyearsofpar00dauduoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "the imprint year prints in the OCR as 'J888' (1888), George Routledge and Sons"
+  },
+  "ens-saint-hilaire-buddha": {
+   "ia": "in.ernet.dli.2015.215947",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1826,
+    1839,
+    1848,
+    1858,
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

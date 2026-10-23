@@ -1,0 +1,136 @@
+{
+ "_about": "Public-domain Gerard Benjamin Fleet Hallock (born 1856), Presbyterian pastor of the Brick Church, Rochester, New York, for the Word Hoard: his own books Upward Steps, Sermon Seeds, Beauty in God's Word, Journeying in the Land where Jesus Lived, Growing toward God, The Teaching of Jesus concerning the Christian Life, and The First Hundred Years of the Brick Church in Rochester. He was still writing in the late 1920s, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 116 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "g. b. f. hallock",
+  "gerard b. f. hallock",
+  "hallock"
+ ],
+ "_surname": [
+  "g. b. f. hallock",
+  "gerard b. f. hallock",
+  "hallock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gbfhallock-upward-steps": [
+   "upwardsteps00hall",
+   "Upward steps (Philadelphia : Westminster Press, 1899)"
+  ],
+  "gbfhallock-sermon-seeds": [
+   "sermonseedsoutli00hall",
+   "Sermon seeds : outlines and sketches of sermons especially adapted for revival services, but appropriate for ordinary pulpit preparation (Reading, Pa. : Frank J. Boyer, publisher, 1900)"
+  ],
+  "gbfhallock-beauty": [
+   "beautyingodsword00hall",
+   "Beauty in God's word (Philadelphia : Westminster Press, 1902)"
+  ],
+  "gbfhallock-journeying": [
+   "journeyinginland00hall",
+   "Journeying in the land where Jesus lived (New York : American tract society, 1903)"
+  ],
+  "gbfhallock-growing": [
+   "growingtowardgod00hall",
+   "Growing toward God (Boston, New York [etc.] American tract society, 1904)"
+  ],
+  "gbfhallock-teaching-jesus": [
+   "teachingofjesusc07hall",
+   "The teaching of Jesus concerning the Christian life, vol. 7 (New York : American Tract Society, 1906)"
+  ],
+  "gbfhallock-brick-church": [
+   "firsthundredyear0000gbfh",
+   "The first hundred years of the brick church in rochester (henry conolly company, 1925)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gbfhallock-compilations": "His cyclopedias of illustrations, sermons and outlines, the Hundred Best Sermons volumes, and Doran's Ministers Manual collect other men's work; left for the many-author ruling",
+  "gbfhallock-fishes": "American Game Fishes is by other hands"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gbfhallock-beauty": "Title page (OCR): \"BEAUTY IN GOD'S WORD BY GERARD B. F. [H]ALLOCK, D. D. Author of 'Upward Steps'... PHILADELPHIA, PA. THE WESTMINSTER PRESS 1902\""
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gbfhallock-upward-steps": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gerard b. f. hallock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gbfhallock-sermon-seeds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gerard b. f. hallock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gbfhallock-beauty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gbfhallock-journeying": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gerard b. f. hallock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gbfhallock-growing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gerard b. f. hallock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gbfhallock-teaching-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gerard b. f. hallock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gbfhallock-brick-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. b. f. hallock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

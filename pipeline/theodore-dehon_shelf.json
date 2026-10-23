@@ -1,0 +1,90 @@
+{
+ "_about": "Public-domain Theodore Dehon (1776-1817), rector of St Michael's, Charleston, and Episcopal Bishop of South Carolina, for the Word Hoard: his General Convention discourse, Sermons on the Public Means of Grace, the Fasts and Festivals, and Sermons on Confirmation. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 105 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "theodore dehon",
+  "t. dehon",
+  "dehon"
+ ],
+ "_surname": [
+  "theodore dehon",
+  "t. dehon",
+  "dehon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dehon-convention-1814": [
+   "discoursedeliver00deho",
+   "A discourse delivered before the General Convention of the Protestant Episcopal Church in the United States : in St. James's Church, Philadelphia, on the 21st of May, 1814 (Philadelphia : Bradford and Inskeep, 1814)"
+  ],
+  "dehon-sermons-1821-2": [
+   "sermonsonpublicm02deho",
+   "Sermons, on the public means of grace : the fasts and festivals of the church ; on scripture characters ; and various practical subjects, vol. 2 (Charleston : Published by E. Thayer, 1821)"
+  ],
+  "dehon-sermons-1856": [
+   "sermonsonpublic00dehogoog",
+   "Sermons on the public means of grace, on the fasts & festivals of the church, scripture characters, & various practical subjects (New York, T.N. Stanford, 1856)"
+  ],
+  "dehon-confirmation": [
+   "sermonsonconfirm00deho",
+   "Sermons on confirmation : and an address delivered after administering that holy and apostolic rite (New York : T. and J. Swords, 1831)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dehon-jervey": "Books by Theodore Dehon Jervey (a later Charleston historian)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "dehon-sermons-1821-2": "Title page (OCR): 'Sermons, on the Public Means of Grace; the Fasts and Festivals of the Church; on Scripture Characters, and Various Practical Subjects. By the late Right Rev. Theodore Dehon, D.D., Rector of St. Michael's Church, Charleston; and Bishop of the Protestant Episcopal Church in the Diocese of South-Carolina. In two volumes. Vol. II. Charleston: Published by E. Thayer.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dehon-convention-1814": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore dehon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dehon-sermons-1821-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dehon-sermons-1856": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore dehon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dehon-confirmation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore dehon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

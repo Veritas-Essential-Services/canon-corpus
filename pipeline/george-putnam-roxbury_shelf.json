@@ -1,0 +1,131 @@
+{
+ "_about": "Public-domain George Putnam (1807-1878), Unitarian minister of the First Religious Society in Roxbury, Massachusetts, for the Word Hoard: his discourse on the death of President Harrison, Spiritual Renewal, Remarks upon Sumner's oration, the 1846 election sermon, God and our Country, a Roxbury memorial address, a Harvard funeral address (1864), and Sermons preached in Roxbury (1878). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 95 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george putnam"
+ ],
+ "_surname": [
+  "george putnam"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gputnam-harrison": [
+   "discourseonoccas00putn",
+   "A discourse, on the occasion of the death of William Henry Harrison, ninth president of the United States : delivered at Roxbury, April 16th, 1841 (Boston : W. Crosby and Co., 1841)"
+  ],
+  "gputnam-spiritual-renewal": [
+   "spiritualrenewal00putn",
+   "Spiritual renewal the great work of the Christian Church and ministry : a sermon delivered at the ordination of Rev. Frederic D. Huntington, as pastor of the South Congregational Church in Boston, October 19, 1842 (Boston : William Crosby, 1842)"
+  ],
+  "gputnam-election-1846": [
+   "sermondeliveredb00putniala",
+   "A sermon delivered before His Excellency George N. Briggs, governor, His Honor John Reed, lieutenant governor, the honorable Council (Boston : Dutton and Wentworth, printers to the state, 1846)"
+  ],
+  "gputnam-god-and-country": [
+   "ASPC0001937100",
+   "God and our country : a discourse delivered in the First Congregational Church in Roxbury, on Fast Day, April 8, 1847 (catalogued 1847)"
+  ],
+  "gputnam-roxbury-address": [
+   "addressdelivere00putn",
+   "An address, delivered before the city government and citizens of Roxbury, on the life and character of the late Henry A. S. Dearborn, mayor of the city. September 3d, 1851 (Roxbury : Norfolk county journal press, 1851)"
+  ],
+  "gputnam-funeral-1864": [
+   "addressspokeninc00putn",
+   "An address spoken in the college chapel, Cambridge, October 28, 1864, at the funeral of Brig.-Gen ([Boston?, 1864)"
+  ],
+  "gputnam-sermons": [
+   "sermonspreachedi00putn",
+   "Sermons preached in the church of the first religious society in Roxbury (catalogued 1878)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gputnam-other": "his Phi Beta Kappa oration, manuscript letters, and books by other George Putnams"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "gputnam-remarks-sumner": "remarksuponorati00putn: published 'BY A CITIZEN OF BOSTON'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "gputnam-harrison": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gputnam-spiritual-renewal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gputnam-election-1846": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gputnam-god-and-country": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gputnam-roxbury-address": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gputnam-funeral-1864": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gputnam-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george putnam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

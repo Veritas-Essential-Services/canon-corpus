@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Patrick Albert Halpin (1847-1920), Catholic priest, for the Word Hoard: Apologetica (elementary apologetics for pulpit and pew), A Young Woman's Problems, and Christian Pedagogy. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 119 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "p. a. halpin",
+  "patrick albert halpin",
+  "halpin"
+ ],
+ "_surname": [
+  "p. a. halpin",
+  "patrick albert halpin",
+  "halpin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "halpin-apologetica": [
+   "apologeticaeleme00halprich",
+   "Apologetica : elementary apologetics for pulpit and pew (New York, N.Y. : J.F. Wagner, 1904)"
+  ],
+  "halpin-young-woman": [
+   "youngwomansprobl0000paha",
+   "A young woman's problems (J. F. Wagner, 1905)"
+  ],
+  "halpin-pedagogy": [
+   "christianpedagog00halp",
+   "christianpedagog00halp (catalogued )"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "halpin-apologetica": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "p. a. halpin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1904, c1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "halpin-young-woman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "p. a. halpin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "halpin-pedagogy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "p. a. halpin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

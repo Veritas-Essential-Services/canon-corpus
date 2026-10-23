@@ -39,7 +39,9 @@
    "scan_edition": "Project Gutenberg 60474 (clean text)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "dulcken-hey-picture-fables": "One Hundred Picture Fables, rhymes translated from the German of F. Hey by H. W. Dulcken (Routledge, Warne, and Routledge, London, 'tenth thousand'; onehundredpictu00dulcgoog). The title page prints no year."
+ },
  "_excluded": {
   "andersen": "What the Moon Saw (27000) is on andersen_shelf.json; The Nightingale (71096) is left for that shelf's owner."
  },

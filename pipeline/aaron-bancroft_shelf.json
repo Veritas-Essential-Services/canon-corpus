@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Aaron Bancroft, Congregational and later Unitarian minister at Worcester, Massachusetts, for the Word Hoard: The Importance of a Religious Education, his eulogy of Washington and his Essay on the Life of George Washington, and his Sermons on those Doctrines of the Gospel. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 124 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "aaron bancroft",
+  "a. bancroft",
+  "bancroft"
+ ],
+ "_surname": [
+  "bancroft"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bancroft-religious-education": [
+   "cu31924104014844",
+   "The importance of a religious education illustrated and enforced : a sermon, delivered at Worcester, October 31, 1793, occasioned by the execution of Samuel Frost, on that day, for the murder of Captain Elisha Allen, of Princeton, on the 16th day of July, 1793 (Printed at Worcester, Massachusetts : by Isaiah Thomas. Sold at the Worcester bookstore, 1793)"
+  ],
+  "bancroft-washington-eulogy": [
+   "bim_eighteenth-century_an-eulugy-on-the-charact_bancroft-aaron_1800",
+   "An eulugy on the character of the late Gen. George Washington. Delivered before the inhabitants of the town of Worcester, ... Massachusetts, on Saturday the 22d of February 1800. By Aaron Bancroft. ...  1800 (catalogued 1800)"
+  ],
+  "bancroft-life-of-washington": [
+   "essayonlifeofgeo00banc",
+   "An essay on the life of George Washington (Worcester [Mass.] Printed by Thomas & Sturtevant, 1807)"
+  ],
+  "bancroft-sermons": [
+   "sermonsonthosedo00banc",
+   "Sermons on those doctrines of the gospel, and on those constituent principles of the church, which Christian professors have made the subject of controversy (Worcester [Mass.]: Printed by William Manning & Son, 1822)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bancroft-washington-dups": "later editions and second scans of the Life of Washington",
+  "bancroft-letter": "lettertomydearsi00banc, a four-page manuscript"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bancroft-religious-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bancroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bancroft-washington-eulogy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bancroft",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bancroft-life-of-washington": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bancroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1807",
+   "ia_date": "1807",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bancroft-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bancroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain Charles Force Deems (1820-1893), Methodist minister, founder and pastor of the Church of the Strangers in New York, for the Word Hoard: The Home Altar (1850), Jesus (1868), What Now? for young ladies (1869), his Sermons (1885), A Scotch Verdict in re Evolution (1885), The Gospel of Common Sense, on the Epistle of James (1888), The Gospel of Spiritual Insight, on St. John (1891), My Septuagint (1892) and his Autobiography, completed by his sons (1897). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 76 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles f. deems",
+  "charles force deems",
+  "c. f. deems",
+  "dr. deems"
+ ],
+ "_surname": [
+  "deems"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "deems-home-altar": [
+   "homealter00deem",
+   "The home-alter ([n.p.], 1850)"
+  ],
+  "deems-jesus": [
+   "jesus00deem",
+   "Jesus (New York, United States publishing company, 1868)"
+  ],
+  "deems-what-now": [
+   "whatnowforyoungl00deemrich",
+   "What now? For young ladies (New York : American Tract Society, [c18)"
+  ],
+  "deems-sermons": [
+   "drdeemssermonsfo00deem",
+   "Dr. Deem's sermons : forty-eight discourses comprising every Sunday morning sermon preached from the pulpit of \"The Church of the Strangers\" (New York : Funk & Wagnall, 1885)"
+  ],
+  "deems-scotch-verdict": [
+   "ascotchverdicti00deemgoog",
+   "A Scotch verdict in re evolution (New York, J. W. Lovell company, 1885)"
+  ],
+  "deems-gospel-common-sense": [
+   "gospelofcommonse00deem",
+   "The gospel of common sense as contained in the canonical Epistle of James (New York, W. B. Ketcham; Edinburgh, J. Gemmell, 1888)"
+  ],
+  "deems-spiritual-insight": [
+   "gospelofspiritua00deem",
+   "The Gospel of spiritual insight (New York, W. B. Ketcam, 1891)"
+  ],
+  "deems-my-septuagint": [
+   "myseptuagint00deem",
+   "My septuagint ([n.p.], 1892)"
+  ],
+  "deems-autobiography": [
+   "autobiographyofc00deem",
+   "Autobiography of Charles Force Deems (New York, Chicago [etc.] : Fleming H. Revell company, [189)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "deems-later-jesus": "Who Was Jesus? (1880) and The Light of the Nations (1884) are later retitled editions of Jesus (1868)",
+  "deems-edited": "periodicals and annuals he edited (Southern Methodist Pulpit, Annals of Southern Methodism, Christian Thought) and compilations (Hymns for All Christians, Chips and Chunks)",
+  "deems-other": "pamphlets of under 60 pages; early verse (Triumph of Peace, 1840)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "deems-home-altar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "deems-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deems-what-now": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "[c1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deems-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deems-scotch-verdict": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deems-gospel-common-sense": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deems-spiritual-insight": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "deems-my-septuagint": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "deems-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "deems",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "[1897]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

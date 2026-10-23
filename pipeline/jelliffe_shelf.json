@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Smith Ely Jelliffe (1866-1945): Silberer's Hidden Symbolism of Alchemy and the Occult Arts (1917) and, with F. Robbins, Rank's The Myth of the Birth of the Hero (1914). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Smith Ely Jelliffe (1866-1945): Silberer's Hidden Symbolism of Alchemy and the Occult Arts (1917) and, with F. Robbins, Rank's The Myth of the Birth of the Hero (1914). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. From archive.org (2026-10-23): Dejerine and Gauckler's The Psychoneuroses and their Treatment by Psychotherapy (Lippincott, 1913).",
  "_name_words": [
   "smith ely jelliffe"
  ],
@@ -18,7 +18,12 @@
    "The Myth of the Birth of the Hero: A psychological interpretation of mythology"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "sej-ia-dejerine-psychoneuroses": [
+   "b21271136",
+   "Dejerine and Gauckler: The Psychoneuroses"
+  ]
+ },
  "titles": {
   "jelliffe-rank-the-myth-of-the-birth-of-the-hero-a-psyc": {
    "source": "sej-66192",
@@ -36,6 +41,14 @@
    "translator": "Smith Ely Jelliffe",
    "scan_edition": "Project Gutenberg 27755 (clean text)",
    "note": "Gutenberg keyed this from the Dover 1971 edition, which says it is an unabridged and unaltered republication of the 1917 Moffat, Yard first edition. The words are Jelliffe's 1917 translation; the printing is post-1930 (flagged in DIGEST-C)."
+  },
+  "jelliffe-dejerine-gauckler-the-psychoneuroses": {
+   "source": "sej-ia-dejerine-psychoneuroses",
+   "of": "J. Dejerine and E. Gauckler",
+   "work": "The Psychoneuroses and their Treatment by Psychotherapy",
+   "translated": "1913",
+   "translator": "Smith Ely Jelliffe",
+   "scan_edition": "J. B. Lippincott Company, Philadelphia and London, 1913 (authorized translation)"
   }
  },
  "_pending": {},
@@ -44,7 +57,7 @@
  "_checks": {
   "sej-27755": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "smith ely jelliffe",
    "identity": "ok",
@@ -53,12 +66,23 @@
   },
   "sej-66192": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "smith ely jelliffe",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Smith Ely Jelliffe; F. Robbins"
+  },
+  "sej-ia-dejerine-psychoneuroses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "smith ely jelliffe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -71,6 +95,15 @@
    "pg": 66192,
    "pg_copyrighted_marker": false,
    "pg_translator": "Smith Ely Jelliffe"
+  },
+  "sej-ia-dejerine-psychoneuroses": {
+   "ia": "b21271136",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

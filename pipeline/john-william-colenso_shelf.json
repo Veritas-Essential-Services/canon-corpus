@@ -1,0 +1,151 @@
+{
+ "_about": "Public-domain John William Colenso (1814-1883), first Bishop of Natal, for the Word Hoard: Ten Weeks in Natal (1855), The Pentateuch and Book of Joshua Critically Examined (parts 1-5, 1862-1865), the book that brought his trial for heresy, St. Paul's Epistle to the Romans newly translated and explained (1863) and his Natal Sermons (1866). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 80 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john william colenso",
+  "j. w. colenso",
+  "bishop colenso",
+  "bishop of natal"
+ ],
+ "_surname": [
+  "colenso"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "colenso-ten-weeks-natal": [
+   "tenweeksinnatalj00cole",
+   "Ten weeks in Natal. A journal of a first tour of visitation among the colonists and Zulu Kafirs of Natal (Cambridge [Eng.] : Macmillan & co., 1855)"
+  ],
+  "colenso-pentateuch-1": [
+   "pentateuchbookof01coleuoft",
+   "The Pentateuch and Book of Joshua critically examined (London : Longman, 1862)"
+  ],
+  "colenso-pentateuch-2": [
+   "pentateuchbookof02coleuoft",
+   "The Pentateuch and Book of Joshua critically examined, vol. 2 (London : Longman, 1862)"
+  ],
+  "colenso-pentateuch-3": [
+   "pentateuchbookof03coleuoft",
+   "The Pentateuch and Book of Joshua critically examined, vol. 3 (London : Longman, 1862)"
+  ],
+  "colenso-pentateuch-4": [
+   "pentateuchbookof04coleuoft",
+   "The Pentateuch and Book of Joshua critically examined, vol. 4 (London : Longman, 1862)"
+  ],
+  "colenso-pentateuch-5": [
+   "pentateuchbookof05coleuoft",
+   "The Pentateuch and Book of Joshua critically examined, vol. 5 (London : Longman, 1862)"
+  ],
+  "colenso-romans": [
+   "stpaulsepistleto00cole",
+   "St. Paul's Epistle to the Romans : newly translated and explained from a missionary point of view (New York : D. Appleton & Co., 1863)"
+  ],
+  "colenso-natal-sermons": [
+   "natalsermonsase00colegoog",
+   "Natal sermons (London, N. Trübner & co., 1866)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "colenso-other": "his school arithmetic, algebra and trigonometry and his Zulu-English dictionary (not theology); the many replies to him by others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "colenso-romans": "title page: 'ST. PAUL'S EPISTLE TO THE ROMANS: NEWLY TRANSLATED, AND EXPLAINED FROM A MISSIONARY POINT OF VIEW. BY THE RIGHT REV. J. W. COLENSO, D.D., BISHOP OF NATAL. NEW YORK: D. APPLETON ... 1863' (OCR 'bOLENSO')"
+ },
+ "_pending": {
+  "colenso-pentateuch-6-7": "parts 6 and 7 (1871-1879) were not found as separate Internet Archive scans"
+ },
+ "_translators": {},
+ "_checks": {
+  "colenso-ten-weeks-natal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colenso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colenso-pentateuch-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colenso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-5",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colenso-pentateuch-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colenso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-5",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colenso-pentateuch-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colenso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-5",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colenso-pentateuch-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colenso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-5",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colenso-pentateuch-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colenso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862-5",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colenso-romans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "colenso-natal-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "colenso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -10564,3 +10564,8309 @@ Slugs `wsherlock-*`. Built from title pages read for round 44.
 | The case of resistance of the supreme powers stated and resolved : according to the doctrine of the Holy Scriptures (London : Printed for Fincham Gardiner, 1684) | have-ocr | IA `caseofr00sher` |
 | Many other printings of Death and Future Judgment; the EEBO pamphlets of 1674-1700 | alternate | not shelved |
 | Thomas Sherlock's works (on the thomas-sherlock shelf); 'A papist misrepresented' (Gother's, answered by others) | excluded | |
+
+## Edward Fowler (round 45, my pick, 2026-10-22)
+
+Slugs `fowler-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| The Design of Christianity (London, catalogued 1671) | have-ocr | IA `bim_early-english-books-1641-1700_the-design-of-christiani_fowler-edward_1671` |
+| Libertas Evangelica: or, a discourse of Christian liberty (London, catalogued 1680) | have-ocr | IA `bim_early-english-books-1641-1700_libertas-evangelica_fowler-edward_1680` |
+| The Design of Christianity, 1676, 1699 and 1760 | alternate | not shelved |
+| Pamphlets on the Trinity and the Bunyan controversy (Dirt wipt off, 1672), left for a later round | excluded | |
+
+## John Scott (The Christian Life) (round 45, my pick, 2026-10-22)
+
+Slugs `jscott-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 1 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro01scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 2 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro02scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 3 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro03scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 4 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro04scot` |
+| The Christian life, from its beginning, to its consummation in glory : together with the several means and instruments of Christianity conducing thereto, vol. 5 (London : Printed for J. Knapton, C. Hitch [etc.], 1757) | have-ocr | IA `christianlifefro05scot` |
+| The Works (1718 and the Oxford 1826 set, Google copies) | alternate | not shelved |
+
+## Richard Lucas (round 45, my pick, 2026-10-22)
+
+Slugs `lucas-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| An enquiry after happiness in three parts, vol. 1 (London, Printed for J. Buckland, J. Rivington [and etc.], 1764) | have-ocr | IA `enquiryafterhapp01luca` |
+| An enquiry after happiness in three parts, vol. 2 (London, Printed for J. Buckland, J. Rivington [and etc.], 1764) | have-ocr | IA `enquiryafterhapp02luca` |
+| Religious perfection : or, a third part of the enquiry after happiness (London : Printed for W. Innys, 1749) | have-ocr | IA `religiousperfect00luca` |
+| Twelve sermons preached on several occasions (Printed for Sam. Smith and B. Walford, 1699) | have-ocr | IA `twelvesermonspr00lucagoog` |
+| Practical Christianity (1677, EEBO): the scan's OCR is unreadable and its title page was not checked; a later, clearer printing would be a better copy | pending | not shelved |
+| Many other printings of the Enquiry, the Duty of Servants, the Influence of Conversation, and the Fifteen Sermons on Death and Judgment | alternate | not shelved |
+
+## George Stanhope (round 45, my pick, 2026-10-22)
+
+Slugs `stanhope-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 1 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_1` |
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 2 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_2` |
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 3 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_3` |
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 4 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_4` |
+| Sermons preach'd upon several occasions (London, catalogued 1705) | have-ocr | IA `bim_eighteenth-century_sermons-preachd-upon-se_stanhope-george_1705` |
+| The 1732 and 1817 Paraphrase; Twelve Sermons (1727) | alternate | not shelved |
+| His English versions of Thomas a Kempis, Charron, Epictetus, Augustine's Meditations and Andrewes's Devotions: other men's works | excluded | |
+
+## Charles Wheatly (round 45, my pick, 2026-10-22)
+
+Slugs `wheatly-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A rational Illustration of the Book of Common Prayer (catalogued 1720) | have-ocr | IA `rationalillustra00char_0` |
+| The Nicene and Athanasian creeds, so far as they are expressive of a co-equal and co-eternal Trinity in unity, and of perfect Godhead and manhood in one only Christ : explain'd and confirm'd by the Holy Scriptures ... in eight sermons preached in part at the Lady Moyer's lecture in the Cathedral of St. Paul, London, in the years 1733 and 1734 (London : Printed by John Nourse, 1738) | have-ocr | IA `niceneathanasian00whea` |
+| Fifty Sermons on Several Subjects and Occasions, vol. 1 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_1` |
+| Fifty Sermons on Several Subjects and Occasions, vol. 2 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_2` |
+| Fifty Sermons on Several Subjects and Occasions, vol. 3 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_3` |
+| The 1820 and later Rational Illustration; the 1753 Fifty Sermons; Sermons and Tracts (1740) | alternate | not shelved |
+
+## Daniel Whitby (round 45, my pick, 2026-10-22)
+
+Slugs `whitby-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Paraphrase and Commentary upon all the Epistles of the New Testament (London, catalogued 1700) | have-ocr | IA `bim_early-english-books-1641-1700_a-paraphrase-and-comment_whitby-daniel-1638-172_1700` |
+| A discourse of the necessity and usefulness of the Christian revelation : by reason of the corruptions of the principles of natural religion among Jews and heathens (London : Printed by W.B for A. and J. Churchil at the Black Swan in Pater-Noster-Row, 1705) | have-ocr | IA `discourseofneces00whit` |
+| Sermons on the attributes of God : in two volumes (London : Printed for A. and J. Churchill, 1710) | have-ocr | IA `sermonsonattribu00whit` |
+| A Discourse concerning : I. The true import of the words election and reprobation; and the things signified by them in Holy Scripture. II. The extent of Christ's redemption. III. The grace of God ... IV. The liberty of the will in a state of trial and probation. V. The perseverance or defectibility of the saints (London : Printed for Aaron Ward and Richard Hett, 1735) | have-ocr | IA `discourseconcern00whit` |
+| The Protestant Reconciler (1683): the title page reads only 'By a Well-wisher to the Churches Peace, and a Lamenter of her sad Divisions'. It is Whitby's by universal attribution, but the page names nobody | pending | not shelved |
+| The 1718 and 1727 Paraphrase on the New Testament (only volume 2 found); Six Discourses 1801 | alternate | not shelved |
+| Ethices compendium, the Tractatus and the Dissertatio (Latin) | excluded | |
+
+## William Nicholls (round 45, my pick, 2026-10-22)
+
+Slugs `nicholls-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Conference with a Theist : containing an answer to all the most usual objections of the infidels against the Christian religion, vol. 1 (London : Printed for J. Holland, and J. Bowyer [etc.], 1723) | have-ocr | IA `conferencewithth01nich` |
+| A Conference with a Theist : containing an answer to all the most usual objections of the infidels against the Christian religion, vol. 2 (London : Printed for J. Holland, and J. Bowyer [etc.], 1723) | have-ocr | IA `conferencewithth02nich` |
+| A Comment on the Book of Common-Prayer, and Administration of the Sacraments (London, catalogued 1710) | have-ocr | IA `bim_eighteenth-century_a-comment-on-the-book-of_nicholls-william_1710` |
+| Defensio Ecclesiae Anglicanae (1708, Latin) | excluded | |
+
+## George Smalridge (round 45, my pick, 2026-10-22)
+
+Slugs `smalridge-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| Sixty Sermons: Preached On Several Occasions (Mary Smalridge, 1724) | have-ocr | IA `sixtysermonsprea0000geor` |
+| Twelve Sermons (1717); the ECCO copy of Sixty Sermons | alternate | not shelved |
+
+## Thomas Newton (Bishop of Bristol) (round 45, my pick, 2026-10-22)
+
+Slugs `tnewton-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 1 (London : Printed for J. and R. Tonson ..., MDCC) | have-ocr | IA `dissertationsonp01newt` |
+| Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 2 (London : Printed for J. and R. Tonson ..., MDCC) | have-ocr | IA `dissertationsonp02newt` |
+| Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 3 (London : Printed for J. and R. Tonson ..., MDCC) | have-ocr | IA `dissertationsonp03newt` |
+| Many later printings of the Dissertations (1754-1808) | alternate | not shelved |
+| His edition of Milton (Milton's work) | excluded | |
+
+## Zachary Pearce (round 45, my pick, 2026-10-22)
+
+Slugs `pearce-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary, with Notes, on the Four Evangelists and the Acts of the Apostles, vol. 1 (London, catalogued 1777) | have-ocr | IA `bim_eighteenth-century_a-commentary-with-notes_pearce-zachary_1777_1` |
+| A Commentary, with Notes, on the Four Evangelists and the Acts of the Apostles, vol. 2 (London, catalogued 1777) | have-ocr | IA `bim_eighteenth-century_a-commentary-with-notes_pearce-zachary_1777_2` |
+| Sermons on Several Subjects (G. Robinson, 1778) | have-ocr | IA `sermonsonsevera00peargoog` |
+| The Miracles of Jesus Vindicated (second edition, 1729; IA miraclesofjesusv00pear): its title page names no author. It is Pearce's by attribution, but the page names nobody | pending | not shelved |
+| His editions of Cicero and Longinus; the Review of the text of Paradise Lost | excluded | |
+
+## Offspring Blackall (round 45, my pick, 2026-10-22)
+
+Slugs `blackall-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 1 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_1` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 2 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_2` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 3 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_3` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 4 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_4` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 5 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_5` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 6 (London, catalogued 1717) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_6` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 7 (London, catalogued 1718) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1718_7` |
+| Practical Discourses upon our Saviour's Sermon on the Mount, vol. 8 (London, catalogued 1718) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1718_8` |
+| Practical discourses on the Lord's prayer (London : Printed by W.B. for Thomas Ward, 1717) | have-ocr | IA `practicaldiscour00blac` |
+| The Works of the Right Reverend Father in God, Ofspring Blackall, D.D., vol. 1 (London, catalogued 1723) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-right-r_blackall-offspring_1723_1` |
+| The Works of the Right Reverend Father in God, Ofspring Blackall, D.D., vol. 2 (London, catalogued 1723) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-right-r_blackall-offspring_1723_2` |
+| Fourteen Sermons (1706), Five Sermons (1717), the 1727 Lord's Prayer: in the Works | alternate | not shelved |
+| Theophilus Blackall's Works of Christ (1730, another man); the Welsh Pwyll y Pader (1733) | excluded | |
+
+## Samuel Chandler (round 46, my pick, 2026-10-22)
+
+Slugs `chandler-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| A vindication of the Christian religion (London, Chandler, 1725) | have-ocr | IA `avindicationofch00chanuoft` |
+| The history of persecution : in four parts. Viz. I. Amongst the heathens. II. Under the Christian emperors. III. Under the papacy and Inquisition. IV. Amongst Protestants (London: : Printed for J. Gray..., 1736) | have-ocr | IA `historyofpersecu1736chan` |
+| A vindication of the history of the Old Testament : in answer to the misrepresentations and calumnies of Thomas Morgan, M.D. and moral philosopher (London : Printed for J. Noon, at the White-Hart, 1741) | have-ocr | IA `vindicationofhis00chan` |
+| Sermons on the following subjects, vol. 1 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi01chan` |
+| Sermons on the following subjects, vol. 2 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi02chan` |
+| Sermons on the following subjects, vol. 3 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi03chan` |
+| Sermons on the following subjects, vol. 4 (London : Printed by Sam. Chandler, for the Author's Widow, 1768) | have-ocr | IA `sermonsonfollowi04chan` |
+| A critical history of the life of David (Oxford, The University press, 1853) | have-ocr | IA `acriticalhistor00changoog` |
+| The 1769 Sermons; the 1813 History of Persecution | alternate | not shelved |
+| Sermons against Popery (1735), a collection by several Salters' Hall ministers | excluded | |
+
+## James Foster (round 46, my pick, 2026-10-22)
+
+Slugs `foster-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on the following subjects, vol. 1 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi01fost` |
+| Sermons on the following subjects, vol. 2 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi02fost` |
+| Sermons on the following subjects, vol. 3 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi03fost` |
+| Sermons on the following subjects, vol. 4 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi04fost` |
+| The usefulness, truth, and excellency of the Christian revelation defended against the objections contain'd in a late book, intitled, Christianity as old as creation, &c (London , Printed for J. Noon at the White-Hart near Mercers-Chapel in Cheapside, 1734) | have-ocr | IA `usefulnesstruthe00fost` |
+| Discourses on all the principal branches of natural religion and social virtue, vol. 1 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749) | have-ocr | IA `discoursesonallp01fost` |
+| Discourses on all the principal branches of natural religion and social virtue, vol. 2 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749) | have-ocr | IA `discoursesonallp02fost` |
+| The 1745 Sermons | alternate | not shelved |
+
+## Henry Grove (round 46, my pick, 2026-10-22)
+
+Slugs `grove-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 1 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl01grov` |
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 2 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl02grov` |
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 3 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl03grov` |
+| The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 4 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl04grov` |
+| A system of moral philosophy (London : Printed and sold by J. Waugh ..., 1749) | have-ocr | IA `systemofmoralphi00grov` |
+| The separate Sermons (1740), Tracts, Wisdom the First Spring of Action (1734), Lord's Supper (1738), Secret Prayer (1752) | alternate | not shelved |
+
+## John Taylor of Norwich (round 46, my pick, 2026-10-22)
+
+Slugs `jtaylor-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scripture doctrine of original sin proposed to free and candid examination (London : Printed by J. Wilson, 1740) | have-ocr | IA `scripturedoctrin00tayl` |
+| A paraphrase with notes on the Epistle to the Romans : to which is prefix'd a key to the apostolic writings, or an essay to explain the Gospel scheme, and the principal words and phrases the apostles have used in describing it (London : J. Waugh, 1745) | have-ocr | IA `paraphrasewithno00tayl` |
+| The Hebrew Concordance (1754-1757), a reference work; the 1762 Scripture Account of Prayer | excluded | |
+| IA scripturedoctrin00tayl_1 (catalogued under Taylor as The Scripture Doctrine of Atonement, 1809) is in fact Stephen West's Scripture Doctrine of Atonement, by its title page: the fetcher's name check caught the mis-cataloguing | excluded | |
+
+## Job Orton (round 46, my pick, 2026-10-22)
+
+Slugs `orton-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The practical works of the Rev. Job Orton, S.T.P. : now first collected, consisting of discourses, sacramental meditations, and letters with copius indexes. To which is prefixed a memoir of the author, vol. 1 (London, T. Tegg, 1842) | have-ocr | IA `practicalworksof01orto` |
+| The practical works of the Rev. Job Orton, S.T.P. : now first collected, consisting of discourses, sacramental meditations, and letters with copius indexes. To which is prefixed a memoir of the author, vol. 2 (London, T. Tegg, 1842) | have-ocr | IA `practicalworksof02orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 1 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi01orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 2 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi02orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 3 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi03orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 4 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi04orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 5 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi05orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 6 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi06orto` |
+| The 1805 and 1822 Expositions; separate Discourses to the Aged, Sacramental Meditations, Religious Exercises (in the Practical Works); Memoirs of Doddridge (1766) | alternate | not shelved |
+
+## Moses Lowman (round 46, my pick, 2026-10-22)
+
+Slugs `lowman-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| A paraphrase and notes on the Revelation of St. John (London : Printed for John Noon ..., 1745) | have-ocr | IA `paraphrasenoteso00lowm` |
+| A Dissertation on the Civil Government of the Hebrews (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_a-dissertation-on-the-ci_lowman-moses_1740` |
+| A Rational of the Ritual of the Hebrew Worship (London, catalogued 1748) | have-ocr | IA `bim_eighteenth-century_a-rational-of-the-ritual_lowman-moses_1748` |
+
+## John Maclaurin (round 46, my pick, 2026-10-22)
+
+Slugs `maclaurin-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Rev. John Maclaurin, vol. 1 (Edinburgh : J. Maclaren, 1860) | have-ocr | IA `worksofrevjohnma01macl` |
+| The works of the Rev. John Maclaurin, vol. 2 (Edinburgh : J. Maclaren, 1860) | have-ocr | IA `worksofrevjohnma02macl` |
+| An essay on the prophecies relating to the Messiah (Edinburgh, W. Gray, 1773) | have-ocr | IA `anessayonprophe00maclgoog` |
+| The 1798, 1818 and 1830 Works; Sermons and Essays (1800, 1811) | alternate | not shelved |
+
+## Charles John Ellicott (round 47, my pick, 2026-10-23)
+
+Slugs `ellicott-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| St. Paul's Epistle to the Galatians : with a critical and grammatical commentary and a revised translation (London : Longmans, Green, 1867) | have-ocr | IA `cu31924029294118` |
+| St. Paul's Epistle to the Ephesians : with a practical and grammatical commentary, and a rev. translation (London : Longman, Green, Longman, Roberts & Green, 1864) | have-ocr | IA `stpaulsepistletoephe00elli` |
+| St. Paul's epistles to the Philippians, the Colossians and Philemon : with a critical and grammatical commentary, and a revised translation (London : Longman, Green, Longman, Roberts & Green, 1865) | have-ocr | IA `stpaulsepistles00elligoog` |
+| St. Paul's epistles to the Thessalonians : with a critical and grammatical commentary, and a revised translation (London : Longman, Green, Longman, Roberts & Green, 1866) | have-ocr | IA `stpaulsepistles00elliuoft` |
+| St. Paul's First epistle to the Corinthians : with a critical and grammatical commentary (London : Longmans, Green, 1887) | have-ocr | IA `stpaulsfirstepis00elli` |
+| Historical lectures on the life of Our Lord Jesus Christ : being the Hulsean lectures for the year 1859 (London : J. W. Parker, 1859) | have-ocr | IA `historicallectur1860elli` |
+| The destiny of the creature : and other sermons, preached before the University of Cambridge (London : Parker, Son, and Bourn, 1862) | have-ocr | IA `destinyofcreatur1862elli` |
+| Considerations on the revision of the English version of the New Testament (London : Longmans, Green, Reader, and Dyer, 1870) | have-ocr | IA `considerationson00elli` |
+| Modern unbelief : its principles and characteristics, six addresses (London : The Christian Evidence Committee of the Society for Promoting Christian Knowledge ; New York : Pott, Young, 1877) | have-ocr | IA `ModernUnbelief` |
+| Christus comprobator ; or, The testimony of Christ to the Old Testament : seven addresses (London : Society for promoting Christian knowledge, 1892) | have-ocr | IA `christuscomproba00elli` |
+| Sermons at Gloucester (London : James Nisbet & Co., 1905) | have-ocr | IA `sermonsatglouces00elliuoft` |
+| The Boston 1866 Commentaries (two volumes), Ellicott's Commentaries 1890, other printings of each | alternate | not shelved |
+| The Pastoral Epistles (1869; IA pastoralepistles1869elli): the scan's OCR read the English as Greek and is unusable; another copy is needed | alternate | not shelved |
+| The New and Old Testament Commentaries for English Readers, Aids to Faith and the Homiletical Lectures: volumes he edited, written by many hands | excluded | |
+
+## Edward Harold Browne (round 47, my pick, 2026-10-23)
+
+Slugs `hbrowne-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| An exposition of the thirty-nine articles : historical and doctrical (London : John W. Parker, 1850) | have-ocr | IA `anexpositionthi00wincgoog` |
+| Messiah as foretold and expected, a course of sermons (catalogued 1862) | have-ocr | IA `messiahasforeto00browgoog` |
+| Many later printings of the Exposition | alternate | not shelved |
+| The Inspiration of Holy Scripture (New York 1879): Browne's essay from Aids to Faith bound with a portion of an essay by Ellicott; two authors in one volume | alternate | not shelved |
+| Aids to Faith (1862, many authors); examination question books on his Exposition by other hands | excluded | |
+
+## William Connor Magee (round 47, my pick, 2026-10-23)
+
+Slugs `magee-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons delivered at St. Saviour's church, Bath (Hatchard, 1852) | have-ocr | IA `sermonsdelivere00magegoog` |
+| The gospel and the age : sermons on special occasions (London : Isbister, 1884) | have-ocr | IA `gospelagesermons00mage` |
+| Christ the light of all Scripture (New York : T. Whitaker, 1892) | have-ocr | IA `christlightofall00mage` |
+| Growth in grace : and other sermons (New York : T. Whittaker, 1892) | have-ocr | IA `growthingraceoth00mage` |
+| Speeches and Addresses (1893, political); Christianity and Agnosticism (1889, a controversy by several hands) | excluded | |
+
+## Edwards Amasa Park (round 47, my pick, 2026-10-23)
+
+Slugs `park-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on some theological doctrines. as related to the religious character (Andover [Mass.] : Warren F. Draper, 1885) | have-ocr | IA `discoursesonsome00park` |
+| Memorial collection of sermons (Boston, Pilgrim Press, 1902) | have-ocr | IA `memorialcollect01parkgoog` |
+| Memoir of the life and character of Samuel Hopkins, D. D (Boston : Doctrinal Tract and Book Society, 1854) | have-ocr | IA `memlifecharsam00parkrich` |
+| The Atonement: discourses and treatises (1859), the Sabbath Hymn Book and the Works of Samuel Hopkins: collections he edited of other men's work; Selections from German Literature (with Edwards) | excluded | |
+
+## Joseph Augustus Seiss (round 47, my pick, 2026-10-23)
+
+Slugs `seiss-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| The Apocalypse: A Series of Special Lectures on the Revelation of Jesus Christ, with Rev. Text (Charles C. Cook, 1865) | have-ocr | IA `apocalypseaseri01seisgoog` |
+| The gospel in Leviticus; or, an exposition of the Hebrew ritual (Philadelphia, Lindsay & Blakiston, 1860) | have-ocr | IA `gospelinleviticu00seis` |
+| Voices from Babylon : or, The records of Daniel the prophet (Philadelphia, Pa. : Porter & Coates, 1879) | have-ocr | IA `voicesfrombabylo00seis` |
+| Popular lectures on the Epistle of Paul, the apostle, to the Hebrews (Baltimore, Printed at the publication rooms [of the Lutheran book co.], 1846) | have-ocr | IA `popularlectureso00seis` |
+| The parable of the ten virgins : in six discourses, and a sermon on the judgeship of the saints (Philadelphia : Smith, English, 1862) | have-ocr | IA `parableoftenvirg00seis` |
+| The Baptist system examined, the church vindicated, the church vindicated, and sectarianism rebuked (Baltimore, T. N. Kurtz, 1854) | have-ocr | IA `baptistsystemexa01seis` |
+| The letters of Jesus (Philadelphia : Lutheran bookstore, 1889) | have-ocr | IA `lettersofjesus00seis` |
+| Beacon lights: a series of short sermons (Philadelphia, Board of publication of the General council of the Evangelical Lutheran church in North America, 1900) | have-ocr | IA `beaconlightsser00seis` |
+| Lectures on the epistles, for Sundays and the chief festivals (Philadelphia : General Council Publication House, 1906) | have-ocr | IA `lecturesonepistl0001seis` |
+| Miracle in stone (Philadelphia, Porter & Coates, 1877) | have-ocr | IA `miracleinstone00seis_0` |
+| The gospel in the stars : or, Prímeval astronomy (New York : C. C. Cook, 1910) | have-ocr | IA `gospelinstarsorp00seis` |
+| The Last Times: an earnest discussion of momentous themes (Philadelphia, catalogued 1859) | have-ocr | IA `lasttimesearnest00seisiala` |
+| The 1878 Google copy of The Last Times: its title leaf is not in the OCR | alternate | not shelved |
+| Hymnals he compiled (Evangelical Psalmist, Church Song); Luther and the Reformation (1883) left for later | excluded | |
+
+## Henry Eyster Jacobs (round 47, my pick, 2026-10-23)
+
+Slugs `hejacobs-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| Elements of religion (Philadelphia : G. W. Frederick, 1894) | have-ocr | IA `elementsofreligi00jaco_0` |
+| A Summary of the Christian faith (Philadelphia : General Council Publication House, 1905) | have-ocr | IA `summaryofchristi00jaco_0` |
+| The Lutheran movement in England during the reigns of Henry VIII and Edward VI, and its literary monuments (Philadelphia : G.W. Frederick, 1890) | have-ocr | IA `lutheranmovement00jacouoft` |
+| A history of the Evangelical Lutheran church in the United States, vol. 4 (New York : Christian Literature Co., 1893) | have-ocr | IA `historyofevangel04jaco` |
+| Martin Luther : the hero of the reformation 1483-1546 / by Henry Eyster Jacobs (Putnam, 1898) | have-ocr | IA `martinlutherhero00jaco_0` |
+| Annotations on the Epistles of Paul to the Romans and I. Corinthians : chaps. I-VI, vol. 7 (New York : Christian Literature Co., 1896) | have-ocr | IA `annotationsonepi07jaco` |
+| Translations and editions: Schmid's Doctrinal Theology (with Hay), the Book of Concord, the Works of Martin Luther, the Lutheran Cyclopedia | excluded | |
+
+## Carl Friedrich Keil (round 48, my pick, 2026-10-23)
+
+Slugs `keil-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pentateuch, vol. 1 (Edinburgh, T. [and] T. Clark, 1871) | have-ocr | IA `thepentateuch01keiluoft` |
+| The Pentateuch, vol. 2 (Edinburgh, T. [and] T. Clark, 1871) | have-ocr | IA `pentateuch02keiluoft` |
+| The Pentateuch, vol. 3 (Edinburgh, T. [and] T. Clark, 1871) | have-ocr | IA `pentateuch03keiluoft` |
+| Joshua, Judges, Ruth (Edinburgh : T. & T. Clark, 1872) | have-ocr | IA `joshuajudgesruth1872keil` |
+| Biblical commentary on the books of Samuel (Edinburgh : T. & T. Clark, 1868); translated by James Martin (OCR reads 'MAETIN', so not claimed) | have-ocr | IA `biblicalcommenta68keil` |
+| The Books of the Kings (Edinburgh, T. [and] T. Clark, 1872) | have-ocr | IA `booksofkings00keil` |
+| The Books of the Chronicles (Edinburgh T. & T. Clark, 1872); translated by Andrew Harper (the scan's OCR does not show his name, so it is not claimed) | have-ocr | IA `booksofchronicle00keil` |
+| The Books of Ezra, Nehemiah, and Esther (Edinburgh : T.&T. Clark, 1873) | have-ocr | IA `booksofezranehem00keil` |
+| The prophecies of Jeremiah [and Lamentations], vol. 1 (Edinburgh : T. & T. Clark, 1874) | have-ocr | IA `propheciesofjere01keil` |
+| The prophecies of Jeremiah [and Lamentations], vol. 2 (Edinburgh : T. & T. Clark, 1874) | have-ocr | IA `propheciesofjere02keil` |
+| Biblical commentary on the prophecies of Ezekiel, vol. 1 (Edinburgh, T. [and] T. Clark, 1876) | have-ocr | IA `biblicalcommenta01keiluoft` |
+| Biblical commentary on the prophecies of Ezekiel, vol. 2 (Edinburgh : T. & T. Clark, 1876) | have-ocr | IA `biblicalcommenta02keiluoft` |
+| The Book of the prophet Daniel (Edinburgh : T. & T. Clark, 1872) | have-ocr | IA `bookofprophetdan00keil` |
+| The twelve Minor Prophets, vol. 1 (Edinburgh : T. [and] T. Clark, 1878) | have-ocr | IA `thetwelveminorp01keiluoft` |
+| The twelve Minor Prophets, vol. 2 (Edinburgh : T. [and] T. Clark, 1878) | have-ocr | IA `thetwelveminorpr02keiluoft` |
+| Manual of historico-critical introduction to the canonical scriptures of the old testament, vol. 1 (edinburgh, 1869) | have-ocr | IA `manualofhistoric0001karl` |
+| Manual of Historic-Critical Introduction to the Canonical Scriptures of The Old Testament, vol. 2 (Edinburgh: T & T. Clark, 33, George Street, 1870) | have-ocr | IA `manualofhistoric0002karl` |
+| Manual of Biblical archaeology, vol. 1 (Edinburgh : T. & T. Clark, 1887) | have-ocr | IA `manualofbiblical01keil` |
+| Manual of Biblical archaeology, vol. 2 (Edinburgh : T. & T. Clark, 1887) | have-ocr | IA `manualofbiblical02keil` |
+| The 1864-1865 first printings of the Pentateuch (pentateuch01keil, pentateuch03keil) and the Google copies of Kings, Ezra and Joshua; the 1866 Samuel | alternate | not shelved |
+| German editions (Biblischer Commentar, Einleitung, Handbuch der biblischen Archäologie); 1949-1990 reprints of the English set; the Books of the Maccabees commentary (never Englished) | excluded | |
+
+## Franz Delitzsch (round 48, my pick, 2026-10-23)
+
+Slugs `delitzsch-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical commentary on the Book of Job, vol. 1 (Edinburgh, Clark, 1866) | have-ocr | IA `biblicalcommejob01deliuoft` |
+| Biblical commentary on the Book of Job, vol. 2 (Edinburgh, Clark, 1866) | have-ocr | IA `biblicalcommejob02deliuoft` |
+| Biblical commentary on the Psalms, vol. 1 (Edinburgh : T. & T. Clark, 1871) | have-ocr | IA `biblicalcommenta187101deli` |
+| Biblical commentary on the Psalms, vol. 2 (Edinburgh : T. & T. Clark, 1871) | have-ocr | IA `biblicalcommenta187102deli` |
+| Biblical Commentary on the Psalms, vol. 3 (Edinburgh: T. & T. Clark, 1871) | have-ocr | IA `biblicalcomment02unkngoog` |
+| Biblical commentary on the Proverbs of Solomon, vol. 1 (Edinburgh : T. [and] T. Clark, 1874) | have-ocr | IA `biblicalcommentary01deli` |
+| Biblical commentary on the Proverbs of Solomon, vol. 2 (Edinburgh : T. [and] T. Clark, 1874) | have-ocr | IA `biblicalcommentary02deli` |
+| Biblical commentary on the prophecies of Isaiah, vol. 1 (Edinburgh : T. [and] T. Clark, 1884) | have-ocr | IA `isaiahsprophecie01deliuoft` |
+| Biblical commentary on the prophecies of Isaiah, vol. 2 (Edinburgh : T. [and] T. Clark, 1884) | have-ocr | IA `isaiahsprophecie02deliuoft` |
+| Commentary on the epistle to the Hebrews, vol. 1 (Edinburgh : T. & T. Clark, 1874); translated by Thomas L. Kingsbury (OCR reads 'KINGSBUKY', so not claimed for this volume) | have-ocr | IA `epistlecomment01deliuoft` |
+| Commentary on the epistle to the Hebrews, vol. 2 (Edinburgh : T. & T. Clark, 1872) | have-ocr | IA `commentaryonepis02deli` |
+| A new commentary on Genesis, vol. 1 (New York : Scribner & Welfrod, 1889) | have-ocr | IA `newcommentaryong01deli` |
+| A new commentary on Genesis, vol. 2 (New York : Scribner & Welfrod, 1889); translated by Sophia Taylor (OCR reads 'TAYLOE', so not claimed for this volume) | have-ocr | IA `newcommentaryong02deli` |
+| A System of Biblical Psychology (Edinburgh: T. & T. Clark, 1867) | have-ocr | IA `asystembiblical01wallgoog` |
+| Messianic prophecies : lectures (Edinburgh : T. & T. Clark, 1880) | have-ocr | IA `messianicprophec00deliuoft` |
+| Messianic Prophecies in Historical Succession (Edinburgh: T. & T. Clark, 1891) | have-ocr | IA `messianicprophe01deligoog` |
+| Old Testament history of redemption : lectures (Edinburgh : T. & T. Clark, 1881) | have-ocr | IA `historyofredemp00deliuoft` |
+| Jewish artisan life in the time of our Lord. : To which is appended a critical comparison between Jesus and Hillel (London : Samuel Bagster and sons, 1877) | have-ocr | IA `jewishartisanlif00deli` |
+| A day in Capernaum (Philadelphia, Lutheran board of publication, 1873) | have-ocr | IA `dayincapernaum02deli` |
+| Iris: Studies in Colour and Talks about Flowers (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `irisstudiesinco00deligoog` |
+| The 1890 fourth edition of Isaiah (cu31924063722031, cu31924063722023) and the 1880 Proverbs reprint; other copies of Job, the Psychology (1869, 1879, 1885) and Jewish Artisan Life (1883, 1902) | alternate | not shelved |
+| German works; Delitzsch's Hebrew New Testament; the Song of Songs and Ecclesiastes volume (1877), not found in a usable scan this round | excluded | |
+
+## Johann Albrecht Bengel (round 48, my pick, 2026-10-23)
+
+Slugs `bengel-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Gnomon of the New Testament, vol. 1 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350515` |
+| Gnomon of the New Testament, vol. 2 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350523` |
+| Gnomon of the New Testament, vol. 3 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350499` |
+| Gnomon of the New Testament, vol. 4 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350507` |
+| Gnomon of the New Testament, vol. 5 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350531` |
+| The 1857-1859 first printing (gnomonofthenewte01benguoft etc.) and the American Lewis and Vincent translation (1860-1864, 1873) | alternate | not shelved |
+| The Latin Gnomon (Tübingen 1850); Blackley's Critical English Testament (1873, an adaptation by others); Burk's Memoir of Bengel (a life by another) | excluded | |
+
+## Carl August Auberlen (round 48, my pick, 2026-10-23)
+
+Slugs `auberlen-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The divine revelation : an essay in defence of the faith (Edinburgh, T. and T. Clark, 1867) | have-ocr | IA `divinerevelation00aube` |
+| The Prophecies of Daniel and the Revelation of St John (1856): its scan propheciesofdani00aube is already held on another branch, so not taken here | pending | not shelved |
+| The Foundations of our Faith (1863, ten papers by several authors); German works | excluded | |
+
+## Georg Benedikt Winer (round 48, my pick, 2026-10-23)
+
+Slugs `winer-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| A comparative view of the doctrines and confessions of the various communities of Christendom, with illustrations from their original standards (Edinburgh, Clark, 1873) | have-ocr | IA `comparativeviewo00wineuoft` |
+| A grammar of the idiom of the New Testament (Andover, W. F. Draper; Philadelphia, Smith, English, & co.; [etc., etc.], 1869) | have-ocr | IA `grammarofidiomof00wine` |
+| A Treatise on the Grammar of New Testament Greek, regarded as the basis of New Testament exegesis (Edinburgh: T. & T. Clark, 1870) | have-ocr | IA `atreatiseongram00moulgoog` |
+| Grammar of the Chaldee language :  as contained in the Bible and the Targums (Andover : Allen, Morrill and Wardwell, 1845) | have-ocr | IA `grammarofchaldee00wine` |
+| Earlier English versions of the NT grammar (Stuart and Robinson 1825, Agnew and Ebbeke 1840, Masson 1859-1861) and later printings | alternate | not shelved |
+| German and Latin works | excluded | |
+
+## Conrad von Orelli (round 48, my pick, 2026-10-23)
+
+Slugs `orelli-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old Testament prophecy of the consummation of God's Kingdom, traced in its historical development (Edinburgh, Clark, 1885) | have-ocr | IA `oldtestamentprop00oreluoft` |
+| The prophecies of Jeremiah (Edinburgh : T. & T. Clark, 1889) | have-ocr | IA `cu31924029306136` |
+| The twelve minor prophets (Edinburgh : T. & T. Clark, 1893) | have-ocr | IA `twelveminorproph00orel` |
+| The peculiarity of the religion of the Bible (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1908) | have-ocr | IA `peculiarityofrel00orel` |
+| The Prophecies of Isaiah (Clark, 1889): no full-text scan found this round | pending | not shelved |
+| German works (Die hebräischen Synonyma 1871); the classical editor J. C. Orelli (Horace, Tacitus) is another man | excluded | |
+
+## August Dillmann (round 48, my pick, 2026-10-23)
+
+Slugs `dillmann-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Genesis critically and exegetically expounded, vol. 1 (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `genesiscriticall01dill` |
+| Genesis critically and exegetically expounded, vol. 2 (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `genesiscriticall02dill` |
+| The Book of Enoch (1893, R. H. Charles's translation from Dillmann's text, Charles's book); the Ethiopic Grammar (1907, a grammar, not theology; left for later); Latin and Ethiopic editions | excluded | |
+
+## Michael Baumgarten (round 48, my pick, 2026-10-23)
+
+Slugs `baumgarten-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The Acts of the Apostles, or, The history of the church in the Apostolic age, vol. 1 (Edinburgh : T. & T. Clark, 1854) | have-ocr | IA `actsofapostlesor01baum` |
+| The Acts of the Apostles, or The History of the Church in the Apostolic Age, vol. 2 (Edinburgh: T. & T. Clark, 1854) | have-ocr | IA `actsapostlesorh01baumgoog` |
+| The Acts of the Apostles, or, The history of the church in the Apostolic age, vol. 3 (Edinburgh : T. & T. Clark, 1854) | have-ocr | IA `actsofapostlesor03baum` |
+| Other copies of the 1854 set (actsapostlesorh00baumgoog, a second vol. 1; bwb_Y0-BSQ-077_1; actsofapostleson0000mbau) | alternate | not shelved |
+| Every other Baumgarten in the catalogue is another person (tapestry, medicine, seeds, Canada) | excluded | |
+
+## Karl Immanuel Nitzsch (round 48, my pick, 2026-10-23)
+
+Slugs `nitzsch-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| System of Christian doctrine (Edinburgh : T. & T. Clark, 1849) | have-ocr | IA `systemofchristia00nitz` |
+| Nitzsch's Pterylography (1867, by the ornithologist C. L. Nitzsch, another man) | excluded | |
+
+## Adolf Harless (round 48, my pick, 2026-10-23)
+
+Slugs `harless-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| System of Christian ethics (Edinburgh, Clark, 1868) | have-ocr | IA `christianethics00harluoft` |
+| German medical tracts of 1804-1805 (another Harless) | excluded | |
+
+## Edmond de Pressense (round 48, my pick, 2026-10-23)
+
+Slugs `pressense-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The religions before Christ: being an introduction to the history of the first three centuries of the church (Edinburgh, Clark, 1862) | have-ocr | IA `religionsbeforec00pres` |
+| The Redeemer : discourses (Edinburgh : T.&T, Clark, 1864) | have-ocr | IA `theredeemerdisco00presuoft` |
+| Jesus Christ, his times, life, and work (London, Jackson, 1866) | have-ocr | IA `jesuschristhisti00pres` |
+| The Mystery of Suffering, and other discourses (London: Hodder and Stoughton, 1868) | have-ocr | IA `mysterysufferin00presgoog` |
+| The church and the French revolution : a history of the relations of church and state, from 1789-1802 (London : Hodder and Stoughton, 1869) | have-ocr | IA `churchfrenchrevo00pres` |
+| The Early Years of Christianity: The Apostolic Era (New York: Scribner, 1870) | have-ocr | IA `earlyyearsofchri1870pres` |
+| The Early Years of Christianity: Martyrs and Apologists (New York: Scribner, 1871); translated by Annie Harwood (OCR reads 'HA R WOOD', so not claimed) | have-ocr | IA `earlyyearsofchri1871pres` |
+| The Early Years of Christianity: Heresy and Christian Doctrine (London: Hodder and Stoughton, 1873) | have-ocr | IA `heresychristiand00pres` |
+| The Early Years of Christianity: Christian Life and Practice in the Early Church (London: Hodder and Stoughton, 1877) | have-ocr | IA `christianlifean00presgoog` |
+| Contemporary portraits : Thiers, Strauss compared with Voltaire, Arnaud de l'Ariège, Dupanloup, Adolphe Monod, Vinet, Verny, Robertson (London : Hodder and Stoughton, 1880) | have-ocr | IA `contemporaryport00presuoft` |
+| A study of origins; or, The problems of knowledge, of being and of duty (New York, Potts, 1884) | have-ocr | IA `astudyoforiginso00presuoft` |
+| The ancient world and Christianity (New York : A.C. Armstrong, [188) | have-ocr | IA `ancientworldchri00pres` |
+| Other printings of the Early Years series (1870-1886) and the 1871 abridged Jesus Christ | alternate | not shelved |
+| French originals; the works of his son Francis de Pressensé (Cardinal Manning 1897, the Russian pamphlets), another man | excluded | |
+
+## Eugene Bersier (round 48, my pick, 2026-10-23)
+
+Slugs `bersier-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The oneness of the race in its fall and its future (London : Hodder and Stoughton, 1871) | have-ocr | IA `onenessofraceini00bers` |
+| Saint Paul's vision, and other sermons (New York, A.D.F. Randolph and company, 1881) | have-ocr | IA `saintpaulsvision00bers` |
+| The Gospel in Paris : sermons (London : J. Nisbet, 1883) | have-ocr | IA `gospelinparisser00bers` |
+| Coligny; the earlier life of the great Huguenot (London Hodder and Stoughton, 1884) | have-ocr | IA `colignyearlierli00bersuoft` |
+| Margaret Muller (1872, a story by Mme Bersier); Sermons (1885) and Twelve Sermons (1891) left for a later look; French originals | excluded | |
+
+## Ernest Naville (round 48, my pick, 2026-10-23)
+
+Slugs `naville-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The heavenly Father : lectures on modern atheism (London : Macmillan, 1865) | have-ocr | IA `heavenlyfatherle00navi` |
+| The problem of evil; seven lectures (Edinburgh, T. & T. Clark, 1871) | have-ocr | IA `problemofevilsev00navi` |
+| The Christ : seven lectures (Edinburgh : T&T Clark, 1880) | have-ocr | IA `thechristsevenle00naviuoft` |
+| Modern Physics, studies historical and philosophical, translated by Henry Downton (1884) | have-ocr | IA `modernphysicsst00navigoog` |
+| Every Egyptological title (Pithom, Saft el Henneh, the Todtenbuch): Édouard Naville, another man; French originals | excluded | |
+
+## Karl Friedrich August Kahnis (round 48, my pick, 2026-10-23)
+
+Slugs `kahnis-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Internal history of German protestantism since the middle of last century ([n.p.], 1856) | have-ocr | IA `internalhistoryo00kahn` |
+| German works | excluded | |
+
+## Isaac da Costa (round 49, my pick, 2026-10-23)
+
+Slugs `dacosta-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Israel and the Gentiles, contributions to the history of the Jews from the earliest times to the present day (London: J. Nisbet, 1850) | have-ocr | IA `israelgentilesc00unkngoog` |
+| The four witnesses: being a harmony of the Gospels on a new principle (London, J. Nisbet & co., 1851) | have-ocr | IA `fourwitnessesbe00cost` |
+| The 1855 printing of The Four Witnesses | alternate | not shelved |
+| Dutch poems and works (De Perzen, Vijf en twintig jaren, the Bilderdijk volumes, Israël en de volken) | excluded | |
+
+## Matthias Loy (round 49, my pick, 2026-10-23)
+
+Slugs `loy-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The doctrine of justification (Columbus, O., The Lutheran Book Concern, 1882) | have-ocr | IA `doctrineofjustif00loym` |
+| Sermons on the Gospels for the Sundays and CHief Festivals of the Church Year (catalogued 1888) | have-ocr | IA `sermonsongospels0000mloy` |
+| Story of my life (Columbus, O., Lutheran book concern, 1905) | have-ocr | IA `storyofmylife00loym` |
+| The Sermon on the mount : a practical study of chapters V-VII of St. Matthew's Gospel (Columbus, Ohio : Lutheran Book Concern, 1909) | have-ocr | IA `sermononmountpra00loym` |
+| The Life and Deeds of Dr. Martin Luther (1869, Fick's book, Loy only translated) | excluded | |
+
+## D. G. Monrad (round 49, my pick, 2026-10-23)
+
+Slugs `monrad-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The world of prayer : or, Prayer in relation to personal religion (Edinburgh : T. & T. Clark, 1879) | have-ocr | IA `worldofprayerorp00monr` |
+| Every other Monrad in the catalogue is another person (dairy manuals, engineering, law) | excluded | |
+
+## J. Oswald Dykes (round 49, my pick, 2026-10-23)
+
+Slugs `dykes-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The Beatitudes of the Kingdom (London : James Nisbet, 1872) | have-ocr | IA `beatitudesofking0000dyke` |
+| The laws of the Kingdom (New York : R. Carter, 1873) | have-ocr | IA `lawsofkingdom00dyke` |
+| The relations of the kingdom to the world (New York : R. Carter, 1874) | have-ocr | IA `relationsofkingd00dyke` |
+| From Jerusalem to Antioch : sketches of the primitive church (London : Hodder and Stoughton, 1874) | have-ocr | IA `fromjerusalemtoa00dyke` |
+| The manifesto of the king : an exposition of the Sermon on the Mount (London : J. Nisbet, 1881) | have-ocr | IA `manifestoofkinge00dyke` |
+| The Gospel according to St. Paul : studies in the first eight chapters of his Epistle to the Romans (London : J. Nisbet, 1888) | have-ocr | IA `gospelaccordingt00dyke` |
+| Plain words on great themes (London Sampson Low, Marston, 1892) | have-ocr | IA `plainwordsongrea00dykeuoft` |
+| The law of the ten words (New York, Hodder and Stoughton [etc., 1900) | have-ocr | IA `lawoftenwords00dyke` |
+| The Christian minister and his duties (Edinburgh, T. & T. Clark, 1909) | have-ocr | IA `christianministe00dyke` |
+| The divine worker in creation and providence (Edinburgh : T. & T. Clark, 1909) | have-ocr | IA `thedivineworkeri00dykeuoft` |
+| Problems of Faith (1875, a symposium by several authors); the Autobiography of Donald Fraser (1892, Fraser's book) | excluded | |
+
+## John Pye Smith (round 49, my pick, 2026-10-23)
+
+Slugs `pyesmith-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scripture testimony to the Messiah : an inquiry with a view to a satisfactory determination of the doctrine taught in the Holy Scriptures concerning the person of Christ, vol. 1 (London : Jackson and Walford ... [et al.], 1837) | have-ocr | IA `scripturetestim04smitgoog` |
+| The Scripture Testimony to the Messiah: An Inquiry with a View to a, vol. 2 (Jackson and Walford... [et al.], 1837) | have-ocr | IA `scripturetestim05smitgoog` |
+| The Scripture testimony to the Messiah : an inquiry with a view to a satisfactory determination of the doctrine taught in the Holy Scriptures concerning the person of Christ, vol. 3 (London : Jackson and Walford ... [et al.], 1837) | have-ocr | IA `scripturetestim06smitgoog` |
+| Four Discourses of the Sacrifice and Priesthood of Jesus Christ (catalogued 1828) | have-ocr | IA `fourdiscoursesof0000john` |
+| On the relation between the Holy Scriptures and some of geological science (New York : D. Appleton, 1840) | have-ocr | IA `onrelationbetwee00smitrich` |
+| First lines of Christian theology : in the form of a syllabus, prepared for the use of the students in the Old College, Homerton, with subsequent additions and elucidations (London : Jackson and Walford, 1860) | have-ocr | IA `firstlinesofchri00smit` |
+| The 1818-1821 first edition and the 1847 fourth edition of the Scripture Testimony; the 1842 and 1847 Four Discourses; the 1854 First Lines | alternate | not shelved |
+| Elementary Geology (1841, another man's book in the same catalogue); his pamphlets against the Christian Evidence Society (1828-1829) left for later | excluded | |
+
+## Archibald Hall (round 49, my pick, 2026-10-23)
+
+Slugs `ahall-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| An humble attempt to exhibit a scriptural view of the constitution, order, discipline, and fellowship, of the gospel-church. With an appendix, ... By Archibald Hall.  1769 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_an-humble-attempt-to-exh_hall-archibald_1769` |
+| Church-fellowships. Being an essay on the principles, obligations, and ends of the communion of saints in the gospel-church. By Archibald Hall.  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_church-fellowships-bein_hall-archibald_1770` |
+| An appeal to the public: in four parts. Containing, some general observations ; a preface, wherein the nature and seasons of public covenanting are explained ... A defence of solemn covenanting, ... A display of the spirit, principles, and fallacy of the said defence. By Archibald Hall, ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_an-appeal-to-the-public_hall-archibald_1774` |
+| Grace and holiness: ... being the substance of two discourses, delivered at Wells's-Street, near Oxford-Street, August 4th and 5th, 1776; and now published, ... with considerable enlargements. By Archibald Hall.  1777 (catalogued 1777) | have-ocr | IA `bim_eighteenth-century_grace-and-holiness-_hall-archibald_1777` |
+| A treatise on the faith and influence of the gospel (Glasgow : Printed for William Collins, 1831) | have-ocr | IA `treatiseonfaithi00hall` |
+| The 1795 reprint of the Humble Attempt | alternate | not shelved |
+| The Montreal medical pamphlets of another Archibald Hall (1842-1867) | excluded | |
+
+## George Hill of St Andrews (round 49, my pick, 2026-10-23)
+
+Slugs `ghill-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, by George Hill, ...  1796 (catalogued 1796) | have-ocr | IA `bim_eighteenth-century_sermons-by-george-hill-_hill-george_1796` |
+| Theological institutes, in three parts: 1. Heads of lectures in divinity. 2. View of the constitution of the Church of Scotland. 3. Counsels respecting the duties of the pastoral office (Edinburgh Bell & Badfute, 1803) | have-ocr | IA `theologicalinsti00hilluoft` |
+| Lectures in divinity, vol. 1 (Edinburgh : Waugh and Innes, 1833) | have-ocr | IA `lecturesindivinity01hill` |
+| Lectures in divinity, vol. 2 (Edinburgh : Waugh and Innes, 1833) | have-ocr | IA `lecturesindivinity02hill` |
+| A view of the constitution of the Church of Scotland (Edinburgh : J. Waugh, 1835) | have-ocr | IA `viewofconstituti00hill` |
+| Later printings of the Lectures in Divinity (1837, 1844, 1851) and the 1796 Heads of Lectures | alternate | not shelved |
+| Single sermons of 1787-1792; Steuart's Compendium of the Laws of the Church of Scotland (another man's book) | excluded | |
+
+## Alexander Carson (round 49, my pick, 2026-10-23)
+
+Slugs `carson-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Reasons for Separating from the General Synod of Ulster (1805) | have-ocr | IA `10772816bsb` |
+| A reply to Mr. Brown's vindication of the Presbyterian form of church-government : in which the order of the apostolical churches is defended. In a series of letters to the author (Edinburgh : J. Ritchie, 1807) | have-ocr | IA `replytomrbrownsv00cars` |
+| History of providence, as manifested in scripture : or, Facts from scripture illustrative of the government of God (Edinburgh : William Whyte, 1840) | have-ocr | IA `historyofprovide00cars` |
+| Baptism in its mode and subjects (Philadelphia : American Baptist Publication Society, 1845) | have-ocr | IA `baptisminitsmo00cars` |
+| The Romish controversy; being a series of essays and letters on some of the leading doctrines of the church of Rome. To which is added, a sermon on the encouragements to the propagation of the Gospel, preached at Surrey Chapel, London (New York, Hanna & Carson, 1852) | have-ocr | IA `romishcontrovers00cars` |
+| The inspiration of the Scriptures : a review of the theories of the Reverend Daniel Wilson, Reverend Dr. Pye Smith, and the Reverend Dr. Dick, and other treaties (New York : Edward H. Fletcher, 1853) | have-ocr | IA `inspirationofscr00cars` |
+| Other printings of Baptism in its Mode and Subjects (1831-1860), the 1852 History of Providence and Providence Unfolded (1851) | alternate | not shelved |
+| The 1805 Mode and Subjects of Baptism examined (Daniel Merrill's book); Independent or Democratic Church Government (1868, another author) | excluded | |
+
+## George Burder (round 49, my pick, 2026-10-23)
+
+Slugs `burder-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Evangelical truth defended: or, a reply to a letter, containing strictures on a sermon, preached at Lancaster, by the Rev. Mr. Housman. ... By George Burder.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_evangelical-truth-defend_burder-george_1788` |
+| Village sermons; or, twelve plain and short discourses on the principal doctrines of the Gospel; intended for the use of families, Sunday-schools, or companies ... Volume I. Third edition revised. By George Burder.  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_village-sermons-or-twe_burder-george_1798` |
+| Early Piety, or Memoirs of Children eminently serious (2nd ed., London: H. Trapp, 1777): the title page, read from the page image, names no author ('Recommended by the Rev. Mr. Peckwell'); attributed to Burder by the catalogue only | pending | not shelved |
+| The Good Old Way, or the Religion of our Forefathers (4th ed., London, 1781): the title page, read from the page image, names no author; attributed to Burder by the catalogue only | pending | not shelved |
+| Later printings of The Good Old Way (1783-1792) and Village Sermons (1798-1799) | alternate | not shelved |
+| His 1797 single-sermon tracts; the Welsh Village Sermons (1799); The Welch Indians (1797, a compilation) | excluded | |
+
+## Edward Williams of Rotherham (round 49, my pick, 2026-10-23)
+
+Slugs `ewilliams-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Antipaedobaptism examined, or, A strict and impartial inquiry into the nature and design, subjects and mode of baptism : including, also, an investigation of the nature of positive institutions in general, and occasional strictures on human ceremonies in matters of religion, vol. 1 (Shrewsbury : Printed and sold by J. and W. Eddowes, 1789) | have-ocr | IA `antipaedobaptism01will` |
+| Antipaedobaptism examined, or, A strict and impartial inquiry into the nature and design, subjects and mode of baptism : including, also, an investigation of the nature of positive institutions in general, and occasional strictures on human ceremonies in matters of religion, vol. 2 (Shrewsbury : Printed and sold by J. and W. Eddowes, 1789) | have-ocr | IA `antipaedobaptism02will` |
+| An essay on the equity of divine government and the sovereignty of divine grace (London : J. Burditt, 1809) | have-ocr | IA `essayonequityofd00will_0` |
+| The 1825 Essay on Equity | alternate | not shelved |
+
+## James Morison (Evangelical Union) (round 49, my pick, 2026-10-23)
+
+Slugs `morison-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| A critical exposition of the third chapter of Paul's Epistle to the Romans : a monograph (London : Hamilton, Adams, 1866) | have-ocr | IA `expositionthird00moriuoft` |
+| Commentary on the Gospel according to Matthew (London : Hamilton, Adams ; Glasgow : T.D. Morison, 1870) | have-ocr | IA `commentaryongosp0000mori` |
+| Mark's Memoirs of Jesus Christ, a commentary on the Gospel according to Mark (London: Hamilton, Adams, 1873) | have-ocr | IA `marksmemoirsjes00morigoog` |
+| The extent of the atonement (London : Hamilton ; Glasgow : T.D. Morison, 1882) | have-ocr | IA `extentofatonemen00mori` |
+| James Cotter Morison's books (St Bernard, Gibbon, Macaulay, Irish Grievances): another man | excluded | |
+
+## Thomas Charles of Bala (round 50, my pick, 2026-10-23)
+
+Slugs `tcharles-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Two letters, giving an account of a revival of religion in Wales.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_two-letters-giving-an-a_charles-thomas_1792` |
+| An evangelical catechism. By the Rev. T. Charles, ... Recommended by the executors of the late Countess of Huntingdon for all the children in their schools attendant on her chapels.  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_an-evangelical-catechism_charles-thomas_1797` |
+| Welsh-language works (Trysorfa Ysprydol 1799, the Geiriadur) left for Adam's ruling on Welsh; the 1816 Welsh life by Jones (another author) | excluded | |
+
+## Daniel Rowland (round 50, my pick, 2026-10-23)
+
+Slugs `rowland-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Eight sermons, upon practical subjects; preached at the new church in Langeitho, South Wales; by the Rev. Mr. Daniel Rowland: and now attempted to be translated from the original British.  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_eight-sermons-upon-prac_rowland-daniel_1774` |
+| Three sermons upon practical subjects, ... Preached at the New-church in Langeitho, South-Wales. By the Rev. Mr. Daniel Rowland, ... And now attempted to be translated from the original British. By the Rev. John Davies, ...  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_three-sermons-upon-pract_rowland-daniel_1778` |
+| The second 1774 copy and the 1788 Eight Sermons | alternate | not shelved |
+| Welsh-language sermons and hymns (1743-1792) left for Adam's ruling on Welsh; Owen's Memoir of Daniel Rowlands (1840, another author) | excluded | |
+
+## Howell Harris (round 50, my pick, 2026-10-23)
+
+Slugs `hharris-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| A letter from Mr. Howel Harris in Wales, to a congregation in London, concerning brotherly love and mutual forbearance amongst true Christians. With an explanatory introduction by a welwisher to peace and truth.  1743 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_a-letter-from-mr-howel-_harris-howell_1743` |
+| The last message, and dying testimony, of Howell Harris, Esqr; late of Trevecka in Wales. ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_the-last-message-and-dy_harris-howell_1774` |
+| A brief account of the life of Howell Harris, Esq; extracted from papers written by himself. To which is added a concise collection of his letters from the year 1738, to 1772.  1791 (catalogued 1791) | have-ocr | IA `bim_eighteenth-century_a-brief-account-of-the-l_harris-howell_1791` |
+
+## William Gadsby (round 50, my pick, 2026-10-23)
+
+Slugs `gadsby-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| The Nazarene's Songs: ...  1824 (catalogued 1824) | have-ocr | IA `per_early-baptist_the-nazarenes-songs-_william-gadsby_1824` |
+| The Gospel Standard magazine (1835, many hands); A Memoir of the late Mr. William Gadsby (1844, by others) | excluded | |
+
+## John Kershaw of Rochdale (round 50, my pick, 2026-10-23)
+
+Slugs `kershaw-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Memorials of the mercies of a covenant God while travelling through the wilderness being the autobiography of John Kershaw, of Rochdale, to which is added, an account of his last days, by his widow (London : [s.n, 1876) | have-ocr | IA `johnkershaw00kersuoft` |
+| Every other Kershaw in the catalogue is another person (chemistry, fuel, Charleston history) | excluded | |
+
+## Joseph Irons (round 50, my pick, 2026-10-23)
+
+Slugs `irons-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Zion's hymns ([London] : Printed for the Author, 1827) | have-ocr | IA `zionshymns00iron` |
+| Judah : the book of Psalms paraphrased in spiritual songs for public worship (London : Sold at the Author's house, 1847) | have-ocr | IA `judahblm00iron` |
+| William Josiah Irons's books (On the Holy Catholic Church 1837, the Prayer-book pamphlet 1863): another man | excluded | |
+
+## Joseph Hussey (round 50, my pick, 2026-10-23)
+
+Slugs `hussey-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| The gospel-feast opened: ...  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1641-1700_the-gospel-feast-opened_hussey-joseph_1692` |
+| A warning from the winds. A sermon preach'd upon Wednesday, January XIX. 1703/4. being the day of publick humiliation, for the late terrible, and awakning storm of wind, ... November xxvi, xxvii. 1703. ... To which is subnected a laborious exercitation upon Eph. 2. 2. ... By Joseph Hussey, ...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_a-warning-from-the-winds_hussey-joseph_1704` |
+| The stroke of divine soveraignty: or, a sermon on the death of Mrs. Mary Hussey, my late dear wife, who sweetly slept in Jesus, January 29. 1703/4. ... By Joseph Hussey, ...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_the-stroke-of-divine-sov_hussey-joseph_1704` |
+| The glory of Christ unveil'd, or the excellency of Christ vindicated in his person, love, righteousness, &c. being an explication of the mystery which was kept secret since the world began: ... Occasion'd by divers notorious errours in the writings of Mr. John Hunt ... and many other writers, preachers and professours of the Gospel ... By Joseph Hussey, ...  1706 (catalogued 1706) | have-ocr | IA `bim_eighteenth-century_the-glory-of-christ-unve_hussey-joseph_1706` |
+| God's operations of grace: but no offers of his grace. To which are added, two brief treatises. The one about invitation, and the other about exhortation of sinners to come to Christ; ... By Joseph Hussey, ...  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_gods-operations-of-grac_hussey-joseph_1707` |
+| The 1693 Gospel-Feast and the 1761 reprints of the Glory of Christ | alternate | not shelved |
+| The 1791 partwork reprint | excluded | |
+
+## Thomas Prince of Boston (round 51, my pick, 2026-10-23)
+
+Slugs `prince-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| A chronological history of New-England in the form of annals : being a summary and exact account of the most material transactions and occurrences relating to this country, in the order of time wherein they happened, from the discovery by Capt. Gosnold in 1602, to the arrival of Governor Belcher, in 1730 : with an introduction, containing a brief epitome of ... events abroad, from the creation, including ... the gradual discoveries of America, and the progress of the Reformation to the discovery of New-England, vol. 1 (Boston : N.E., Printed by Kneeland & Green for S. Gerrish, 1736) | have-ocr | IA `chronologicalhis01prin` |
+| Earthquakes the works of God & Tokens of his just displeasure. Two sermons on Psal. xviii.7. At the particular fast in Boston, Nov.2. and the general thanksgiving, Nov.9. Occasioned by the late dreadful earthquake. ... By Thomas Prince, ... - The second edition corrected.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_earthquakes-the-works-of_prince-thomas_1727` |
+| The grave and death destroyed, and believers ransomed and redeemed from them. A sermon at Midleborough East-Precinct July. VII. 1728. Being the Lord's-Day after the decease & funeral of Samuel Prince, Esq; there. By Thomas Prince, M.A. a Pastor of the South Church in Boston, and one of the sons of the deceased. [Two lines from Isaiah].  1728 (catalogued 1728) | have-ocr | IA `bim_eighteenth-century_the-grave-and-death-dest_prince-thomas_1728` |
+| The sovereign God acknowledged and blessed, both in giving and taking away. A sermon occasioned by the decease of Mrs. Deborah Prince, on Friday July 20, 1744. ... Delivered at the South Church in Boston, July 29, ...  1744 (catalogued 1744) | have-ocr | IA `bim_eighteenth-century_the-sovereign-god-acknow_prince-thomas-of-bost_1744` |
+| Extraordinary events the doings of God, and marvellous in pious eyes : illustrated in a sermon at the South Church in Boston, N.E., on the general thanksgiving, Thursday, July 18, 1745 : occasion'd by taking the city of Louisbourg on the Isle of Cape-Breton, by New-England soldiers, assisted by a British squadron (Edinburgh : Printed by R. Fleming, 1746) | have-ocr | IA `extraordinaryev00prin` |
+| The salvations of God in 1746. In part set forth in a sermon at the South Church in Boston, Nov. 27, 1746 (Boston, D. Henchman, 1746) | have-ocr | IA `salvationsofgodi00prin` |
+| The Divine Promises Considered ... a Funeral Discourse occasion'd by the death of Mrs. Hannah Williams (Boston, 1746): the title page, read from the page image, names no author; attributed to Prince by the catalogue only | pending | not shelved |
+| Other copies of Extraordinary Events (1746-1747, several printings) | alternate | not shelved |
+| Other single sermons of 1727-1747 left for later; Mayhew's Indian Converts, Mason's Pequot War and Willard's Compleat Body of Divinity (Prince only wrote prefaces or edited) | excluded | |
+
+## Peter Bulkeley (round 51, my pick, 2026-10-23)
+
+Slugs `bulkeley-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| The gospel-covenant; or, The covenant of grace opened. : Wherein are explained; 1. The differences betwixt the covenant of grace and covenant of workes. 2. The different administration of the covenant before and since Christ. 3. The benefits and blessings of it. 4. The condition. 5. The properties of it (London : printed by Matthew Simmons, dwelling in Aldersgate-street next doore to the Golden Lyon, 1651) | have-ocr | IA `gospelcovenantor00bulk` |
+| gospelcovenantor0000bulk (another 1651 copy) | alternate | not shelved |
+
+## Michael Wigglesworth (round 51, my pick, 2026-10-23)
+
+Slugs `wigglesworth-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| The day of doom (New York, American news company, 1867) | have-ocr | IA `dayofdoom00wigg` |
+| Meat out of the eater, ...  1689 (catalogued 1689) | have-ocr | IA `bim_early-english-books-1641-1700_meat-out-of-the-eater-_wigglesworth-michael_1689` |
+| The 1666, 1673 and 1687 London printings of The Day of Doom (Early English Books), the 1711 Boston printing, other 1867 copies, and the Gutenberg text (PG 56053) | alternate | not shelved |
+
+## John Norton (Puritan) (round 51, my pick, 2026-10-23)
+
+Slugs `jnorton-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| The orthodox evangelist.  1657 (catalogued 1657) | have-ocr | IA `bim_early-english-books-1641-1700_the-orthodox-evangelist_norton-john_1657` |
+| Abel being dead yet speaketh; or, The life & death of that deservedly famous man of God, Mr John Cotton, : late teacher of the church of Christ, at Boston in New-England (London : printed by Tho. Newcomb for Lodowick Lloyd, and are to be sold at his shop next the Castle-Tavern in Cornhill, 1658) | have-ocr | IA `abelbeingdeadyet00nort` |
+| The heart of N-England rent ...  1659 (catalogued 1659) | have-ocr | IA `bim_early-english-books-1641-1700_the-heart-of-n-england-r_norton-john_1659` |
+| A brief catechisme containing the doctrine of godlines, ...  1660 (catalogued 1660) | have-ocr | IA `bim_early-english-books-1641-1700_a-brief-catechisme-conta_norton-john_1660` |
+| Three choice and profitable sermons, ...  1664 (catalogued 1664) | have-ocr | IA `bim_early-english-books-1641-1700_three-choice-and-profita_norton-john_1664` |
+| The 1834 and 1842 reprints of Abel as Memoir of John Cotton | alternate | not shelved |
+| Responsio ad totam questionum syllogen (1648, Latin) | excluded | |
+
+## Urian Oakes (round 51, my pick, 2026-10-23)
+
+Slugs `oakes-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| New-England pleaded with, ...  1673 (catalogued 1673) | have-ocr | IA `bim_early-english-books-1641-1700_new-england-pleaded-with_oakes-urian_1673` |
+| The unconquerable, all-conqvering ... souldier: ...  1674 (catalogued 1674) | have-ocr | IA `bim_early-english-books-1641-1700_the-unconquerable-all-c_oakes-urian_1674` |
+| The soveraign efficacy, ...  1682 (catalogued 1682) | have-ocr | IA `bim_early-english-books-1641-1700_the-soveraign-efficacy-_oakes-urian_1682` |
+| A seasonable discourse, ...  1682 (catalogued 1682) | have-ocr | IA `bim_early-english-books-1641-1700_a-seasonable-discourse-_oakes-urian_1682` |
+| An Elegie upon the Death of the Reverend Mr. Thomas Shepard (Cambridge, 1677): the title page, read from the page image, says only 'By a great Admirer of his Worth'; attributed to Oakes by the catalogue and by later scholars | pending | not shelved |
+| His 1650 almanac; Eikon Basilike Trite (1697, the catalogue's attribution is doubtful) | excluded | |
+
+## Benjamin Colman (round 51, my pick, 2026-10-23)
+
+Slugs `colman-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| Practical discourses upon the parable of the ten virgins. Being a serious call and admonition to watchfulness and diligence in preparing for death and judgment.  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_colman-benjamin_1707` |
+| A devout contemplation on the meaning of divine prov- idence, in the early death of pains and lovely children. Preached upon the sudden and lamented death of Mrs. Elizabeth Wainwright. ... By Benjamin Colman, ...  1714 (catalogued 1714) | have-ocr | IA `bim_eighteenth-century_a-devout-contemplation-o_colman-benjamin_1714` |
+| The rending of the vail of the temple at the crucifixion of our Lord & Saviour Jesus Christ. Consider 'd in a sacramental discourse had in Boston N.E. By Benji Colman, V.D.M.  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-rending-of-the-vail-_colman-benjamin_1722` |
+| Some of the glories of our Lord and Saviour Jesus Christ, : exhibited in twenty sacramental discourses, preached at Boston in New England (London : Printed by S. Palmer, for Thomas Hancock, at the Bible and Three Crowns at Boston in New-England, and sold in London by J. Osborn and T. Longman in Pater noster-row, R. Ford in the Poultry, and T. Cox under the Royal-Exchange., 1728) | have-ocr | IA `someofgloriesofo00colm` |
+| The credibility of the Christian doctrine of the resurrection. A sermon preached (in part) at the publick lecture in Boston, July 24 th 1729. the Thursday after the funeral of William Welsteed, Esq; by Benjamin Colman.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_the-credibility-of-the-c_colman-benjamin_1729` |
+| A brief dissertation on the three first chapters of Genesis. Giving some of the evident signatures of the inspiration of God in those first pages ...  1735 (catalogued 1735) | have-ocr | IA `bim_eighteenth-century_a-brief-dissertation-on-_colman-benjamin_1735` |
+| Souls flying to Jesus Christ pleasant and admirable to behold. A sermon preach'd ... at the opening an evening-lecture, in Brattle-Street, Boston, Tuesday, October 21, 1740. By Dr. Colman. ...  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_souls-flying-to-jesus-ch_colman-benjamin_1741` |
+| The case of Satan's fiery darts in blasphemous suggestions and hellish annoyances: as they were considered in several sermons, Heretofore preach'd to the congregation in Brattle Street, Boston, May 1711, and lately repeated to them May 1743 (Printed by Rogers and Fowle, 1744) | have-ocr | IA `caseofsatansfier00colm` |
+| Some forty single occasional sermons (1716-1746) left for later; his smallpox inoculation pamphlets (1721-1722, medicine) | excluded | |
+| fifteensermonsp00colmgoog, catalogued as Colman's Fifteen Sermons (1794): its title page reads 'Fifteen Sermons ... By George Whitefield', with a sermon on Whitefield by Joseph Smith (Paisley, 1794). Not Colman's book | excluded | |
+
+## Thomas Foxcroft (round 51, my pick, 2026-10-23)
+
+Slugs `foxcroft-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| A practical discourse relating to the Gospel-ministy [sic]. Preach'd by Thomas Foxcroft, A. M. At his ordination to the office of pastor of a church in Boston, on Wednesday, November 20. 1717. ... With a preface by the Reverend Mr. Benjamin Wadsworth, ...  1718 (catalogued 1718) | have-ocr | IA `bim_eighteenth-century_a-practical-discourse-re_foxcroft-thomas_1718` |
+| God the judge, putting down one, and setting up another : a sermon upon occasion of the death of our late sovereign lord King George, and the accession of His present majesty, King George, II, to the British throne (Boston in New England : Printed for S. Gerrish, at the lower end of Cornhil, 1727) | have-ocr | IA `godjudgeputtingd00foxc` |
+| Observations historical and practical on the rise and primitive state of New-England. With a special reference to the old or first gather'd church in Boston. A sermon preach'd ... Aug.23. 1730. By Thomas Foxcroft. A. M.  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_observations-historical-_foxcroft-thomas_1730` |
+| The divine right of deacons. A sermon preach'd on occasion of the ordination of Mr. Zechariah Thayer, ... May 23, 1731. By Thomas Foxcroft, ...  1731 (catalogued 1731) | have-ocr | IA `bim_eighteenth-century_the-divine-right-of-deac_foxcroft-thomas_1731` |
+| Some seasonable thoughts on evangelic preaching; its nature, usefulness, and obligation. A sermon deliver'd (in part) at the Old-Church-lecture in Boston, Thursday, Oct. 23. 1740. To a numerous audience. Occasion'd by the late visit, and uncommon labours, in daily and powerful preaching, of the Rev. Mr. Whitefield.--The brother, whose praise is in the Gospel, throughout all the churches. By Thomas Fo[xcroft] (Printed by G. Rogers and D. Fo[wle] for S. Elio, 1740) | have-ocr | IA `someseasonableth00foxc` |
+| An apology in behalf of the Revd Mr. Whitefield: offering a fair solution of certain difficulties, objected against some parts of his public conduct, in point of moral honesty, and uniformity as ... set forth in a late pamphlet, intitled, A letter to the Reverend Mr. George Whitefield, publickly calling upon him to vindicate his conduct,  1745 (catalogued 1745) | have-ocr | IA `bim_eighteenth-century_an-apology-in-behalf-of-_foxcroft-thomas_1745` |
+| An humble inquiry into the rules of the Word of God, concerning the qualifications requisite to a compleat [sic] standing and full communion in the visible Christian church (Boston: Printed & sold by S. Kneeland in Queenstreet, 1749) | have-ocr | IA `anhumbleinquiry00foxcgoog` |
+| Other single sermons (1729-1760); the Artillery Company records (another body) | excluded | |
+
+## Joseph Sewall (round 51, my pick, 2026-10-23)
+
+Slugs `sewall-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| Rulers must be just, ruling in the fear of God. A sermon preach'd before the Honourable, the Lieutenant Governour, the Council & representatives of the province of the Massachusetts-Bay in New-England, May 27, 1724.... By Joseph Sewall,...  1724 (catalogued 1724) | have-ocr | IA `bim_eighteenth-century_rulers-must-be-just-rul_sewall-joseph_1724` |
+| The duty of a people to stand in awe of God, and not sin, when under His terrible judgments. A sermon preach'd at the South meeting house in Boston, the evening after the earthquake, which was in the night between the 29th & 30th of October, 1727.  1 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_the-duty-of-a-people-to-_sewall-joseph_1727` |
+| Jehovah is the king and saviour of his people. A sermon preach'd at the Boston lecture, August 17. 1727. Upon the awful tidings of the death of His late Majesty King George, June 11th. By Joseph Sewall, A.M. Pastor of a church of Christ in Boston. [Four lines from Psalms].  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_jehovah-is-the-king-and-_sewall-joseph_1727` |
+| Repentance the sure way to escape destruction. Two sermons on Jrr. 18. 7,8. preach'd December 21st. on a publick fast occasioned by the earthquake the night after the Lord's-day Octob. 29th. and on the Lord's-day December 24th. 1727.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_repentance-the-sure-way-_sewall-joseph_1727` |
+| Nineveh's repentance and deliverance. A sermon preach'd before His Excellency the Governor the Honourable Council and representatives of the province of the Massachusetts-Bay, ...  1740 (catalogued 1740) | have-ocr | IA `bim_eighteenth-century_ninevehs-repentance-and_sewall-joseph_1740` |
+| The Holy Spirit convincing the world of sin, of righteousness, and of judgment, considered in four sermons: the two former delivered at the Tuesday-evening lecture in Brattle-Street, January 20th & March 3: the other at the Old-South Church in Boston, April 17 & 26, 1741. By Joseph Sewall, D.D. [Three lines from Romans].  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_the-holy-spirit-convinci_sewall-joseph_1741` |
+| All flesh is as grass; but the word of the Lord endureth for ever. A sermon preached at the Thursday lecture in Boston, January 1st. 1740,1. ...  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_all-flesh-is-as-grass-b_sewall-joseph_1741` |
+| Samuel Sewall's works (his father, another man); the 1872 botany (another Sewall) | excluded | |
+
+## Edward Beecher (round 51, my pick, 2026-10-23)
+
+Slugs `ebeecher-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| Narrative of riots at Alton: in connection with the death of Rev. Elijah P. Lovejoy (Alton [Ill.] G. Holton, 1838) | have-ocr | IA `narrativeofriot00beec` |
+| Baptism, with reference to its import and modes (New York, London, J. Wiley, 1849) | have-ocr | IA `baptismwithrefer00beec` |
+| The conflict of ages : or, The great debate on the moral relations of God and man (Boston : Phillips, Sampson, 1853) | have-ocr | IA `conflictages00beecrich` |
+| The papal conspiracy exposed ([n.p.], 1855) | have-ocr | IA `papalconspiracye00beec` |
+| History of opinions on the scriptural doctrine of retribution (New York : Appleton, 1878) | have-ocr | IA `historyofopinion00beec` |
+| Other printings of The Conflict of Ages (1853-1855) and Papal Conspiracy (1855) | alternate | not shelved |
+| The Lost Atlantis (1897, another Beecher); Ladies' Society report (1846, a society's) | excluded | |
+
+## Samuel Stanhope Smith (round 51, my pick, 2026-10-23)
+
+Slugs `sssmith-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| An essay on the causes of the variety of complexion and figure in the human species (New Brunswick, N.J., J. Simpson, L. Deare, printer, 1810) | have-ocr | IA `essayoncausesofv00sm` |
+| Sermons (Newark, New-Jersey : Printed and sold by Jacob Halsey and Co. near the Episcopal Church, 1799) | have-ocr | IA `sermons00smit` |
+| The lectures corrected and improved, which have been delivered for a series of years in the College of New Jersey : on the subjects of moral and political philosophy, vol. 1 (New York : Whiting and Watson, 1812) | have-ocr | IA `lecturescorrecte01smit` |
+| The lectures corrected and improved, which have been delivered for a series of years in the College of New Jersey : on the subjects of moral and political philosophy, vol. 2 (New York : Whiting and Watson, 1812) | have-ocr | IA `lecturescorrecte02smit` |
+| The New Jersey preacher : or, Sermons on plain and practical subjects (Trenton : D. Fenton [etc.], 1813) | have-ocr | IA `newjerseypreache00smit` |
+| A Comprehensive view of the leading and most important principles of natural and revealed religion : digested in such order as to present to the pious and reflecting mind, a basis for the superstructure of the entire system of the doctrines of the gospel (New-Brunswick : Printed and published by Deare & Myer, 1815) | have-ocr | IA `comprehensivevi00smit` |
+| The 1787-1789 first edition of the Essay; other copies of the Sermons and the Comprehensive View | alternate | not shelved |
+| Ramsay's History of the United States (1816, Smith only continued it); single sermons 1791-1810 | excluded | |
+
+## Nathan Bangs (round 52, my pick, 2026-10-23)
+
+Slugs `bangs-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| The errors of Hopkinsianism detected and refuted (New York, Printed for the author, by John C. Totten, no. 9 Bowery, 1815) | have-ocr | IA `errorsofhopkinsi00bang` |
+| The reformer reformed: or, A second part of The errors of Hopkinsianism detected and refuted: Being an examination of Mr. Seth Williston's "Vindication of some of the most essential doctrines of the reformation." (New York, Printed by John C. Totten, no. 9 Bowery, 1818) | have-ocr | IA `reformerreformed00bang` |
+| Letters to young ministers of the gospel on the importance and method of study (New-York : N. Bangs and J. Emory, 1826) | have-ocr | IA `letterstoyoungmi00bang` |
+| The life of the Rev. Freeborn Garrettson : compiled from his printed and manuscript journals, and other authentic documents (New-York : J. Emory and B. Waugh, 1829) | have-ocr | IA `lifeofrevfreebor00bang2` |
+| An original church of Christ (New-York, Published by T. Mason and G. Lane, for the Methodist Episcopal church, 1837) | have-ocr | IA `originalchurchof00bang` |
+| A history of the Methodist Episcopal Church, vol. 1 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet01banguoft` |
+| A history of the Methodist Episcopal Church, vol. 2 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet02banguoft` |
+| A history of the Methodist Episcopal Church, vol. 3 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet03banguoft` |
+| A history of the Methodist Episcopal Church, vol. 4 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet04banguoft` |
+| The Methodist Review (a periodical he edited); Watson's Biblical and Theological Dictionary (1832, Watson's book, Bangs only revised it); the Authentic History of the Missions (1832) left for later | excluded | |
+
+## Joseph Benson (round 52, my pick, 2026-10-23)
+
+Slugs `benson-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Two sermons, on sanctification. By Joseph Benson.  1782 (catalogued 1782) | have-ocr | IA `bim_eighteenth-century_two-sermons-on-sanctifi_benson-joseph_1782` |
+| Remarks on Dr. Priestley's system of materialism, mechanism, and necessity, in a series of letters to the Reverend Mr. Wesley, introductory to an essay towards the proof of an immortal spirit in man.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_remarks-on-dr-priestley_benson-joseph_1788` |
+| A defence of the Methodists, in five letters, addressed to the Rev. Dr. Tatham, containing sundry remarks on a late discourse, preached by that gentleman at four of the churches in Oxford, and entitled "A sermon suitable to the times." By Joseph Benson.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-methodi_benson-joseph_1793` |
+| An apology for the people called Methodists : containing a concise account of their origin and progress, doctrine, discipline, and designs, humbly submitted to the consideration of the friends of true Christianity (London : Printed by G. Story ..., sold by G. Whitfield [and 5 others], 1801) | have-ocr | IA `apologyforpeople00bens` |
+| Sermons on various occasions : and most of them on the principal subjects of genuine Christianity (London : Printed at the Conference Office, G. Story, Agent, sold by G. Whitefield, and at the Methodist preaching houses in town and country, 1802) | have-ocr | IA `sermonsonvarious01bens` |
+| Sermons on various occasions, and most of them on the principal subjects of genuine Christianity, vol. 2 (London, J. Mason, 1836) | have-ocr | IA `sermonsonvarious02bens` |
+| The Life of the Rev. John de la Flechere, compiled from the narratives of the Rev. Mr. Wesley ... (1820) | have-ocr | IA `thelifeofrevjohn00bens` |
+| His Commentary on the Holy Bible (1811-1818) left for a later round; Sermons and Plans of Sermons (1824-1827) and single sermons left for later; the Gilbert memoirs (another editor) | excluded | |
+| The Holy Bible ... with critical, explanatory, and practical notes, vol. 3: Ecclesiastes to Malachi (New York: George Lane & Levi Scott, 1850) | have-ocr | IA `holybibleecclesi0003bens` (added round 57) |
+| The New Testament ... with critical, explanatory, and practical notes, vol. 1: Matthew to the Acts (New York: Carlton & Phillips, 1856) | have-ocr | IA `newtestamentofou0000jose` (added round 57) |
+| The New Testament ... with critical, explanatory, and practical notes, vol. 2: Romans to the Revelation (New York: Lane & Tippett, [184-?]) | have-ocr | IA `holybiblecontai29unkngoog` (added round 57) |
+| Commentary, Old Testament vols 1-2 (Genesis to Song of Solomon): no American-edition scan found | pending | not shelved |
+
+## Daniel D. Whedon (round 52, my pick, 2026-10-23)
+
+Slugs `whedon-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Public addresses, collegiate and popular (Boston : J.P. Jewett, 1852) | have-ocr | IA `cu31924031451622` |
+| The freedom of the will as a basis of human responsibility and a divine government : elucidated and maintained in its issue with the necessitarian theories of Hobbes, Edwards, the Princeton essayists, and other leading advocates (New York : Nelson & Phillips, 1864) | have-ocr | IA `freedomofwillasb00whed` |
+| What is Arminianism? : with a brief sketch of Arminius (Toronto : William Briggs, 1879) | have-ocr | IA `whatisarminianis00whed` |
+| Statements, theological and critical (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887) | have-ocr | IA `statementstheolo00whed` |
+| Essays, reviews, and discourses (New York, Phillips & Hunt, 1887) | have-ocr | IA `essaysreviewsdis00whed` |
+| His Commentary on the New Testament and Old Testament (1860-1880s, many volumes) left for a later round; Letter to Dr. Stevens (1859, a pamphlet); Cox's Letters on the Second Coming (another author) | excluded | |
+| Commentary on the New Testament, intended for popular use, vol. 1: Matthew and Mark (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0000whed` (added round 57) |
+| Commentary on the New Testament, vol. 2: Luke and John (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0002whed` (added round 57) |
+| Commentary on the New Testament, vol. 3: Acts and Romans (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0000whed_l3j0` (added round 57) |
+| Commentary on the New Testament, vol. 4: Corinthians to Second Timothy (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0000whed_e2l1` (added round 57) |
+| Commentary on the New Testament, vol. 5: Titus to Revelation (New York: Hunt & Eaton) | have-ocr | IA `commentaryonnewt0005whed` (added round 57) |
+| Commentary on the Old Testament (edited by Whedon, written by others) | excluded | |
+
+## Miner Raymond (round 52, my pick, 2026-10-23)
+
+Slugs `raymond-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Systematic theology, vol. 1 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo01raym` |
+| Systematic theology, vol. 2 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo02raym` |
+| Systematic theology, vol. 3 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo03raym` |
+| His 1854 Massachusetts election sermon left for later | excluded | |
+
+## Thomas N. Ralston (round 52, my pick, 2026-10-23)
+
+Slugs `ralston-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Elements of divinity: or, A course of lectures, comprising ... the system of theology as taught in the Holy Scriptures (Louisville, Ky., E. Stevenson, 1851) | have-ocr | IA `elementsofdivini00rals` |
+| The 1924 revised Elements of Divinity (published 1924 but revised by others; left out); the Danish translation (1858). W. R. S. Ralston's Russian tales are the separate ralston shelf | excluded | |
+
+## Randolph S. Foster (round 52, my pick, 2026-10-23)
+
+Slugs `rsfoster-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Objections to Calvinism as it is : in a series of letters addressed to N.L. Rice (Cincinnati : Hitchcock and Walden, 1849) | have-ocr | IA `objectionstocalv00fost` |
+| Nature and blessedness of Christian purity (New York, Harper, 1851) | have-ocr | IA `natureblessednes00fost` |
+| Beyond the grave (N.Y., 1879) | have-ocr | IA `beyondgrave00fost` |
+| Studies in theology, vol. 1 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog01fost` |
+| Studies in theology, vol. 2 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog02fost` |
+| Studies in theology, vol. 3 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog03fost` |
+| Studies in theology, vol. 4 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog04fost` |
+| Studies in theology, vol. 5 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog05fost` |
+| Studies in theology, vol. 6 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog06fost` |
+| The Ingham Lectures (1872, several authors); memoirs of others he introduced | excluded | |
+
+## John Miley (Methodist) (round 52, my pick, 2026-10-23)
+
+Slugs `miley-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Treatise on class meetings (Cincinnati, Printed at the Methodist concern for the author, 1851) | have-ocr | IA `treatiseonclassm00mile` |
+| The atonement in Christ (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1879) | have-ocr | IA `atonementinchris00mile_0` |
+| Systematic theology, vol. 1 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892) | have-ocr | IA `systematictheolo01mile` |
+| Systematic theology, vol. 2 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892) | have-ocr | IA `systematictheolo02mile` |
+| The Rev. John Miley of Dublin (Rome under Paganism 1843, History of the Papal States 1850): another man | excluded | |
+
+## Matthew Simpson (round 52, my pick, 2026-10-23)
+
+Slugs `msimpson-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Funeral address delivered at the burial of President Lincoln (New York, Carlton & Porter, 1865) | have-ocr | IA `funeraladdressde00simp` |
+| A hundred years of Methodism (New York : Hunt & Eaton, 1876) | have-ocr | IA `hundredyearsofme00simp` |
+| Lectures on preaching, delivered before the Theological department of Yale college (New York, Nelson & Philips; Cincinnati, Hitchcock & Walden, 1879) | have-ocr | IA `lecturesonpreac00simp` |
+| The Cyclopaedia of Methodism (1878, many contributors, he edited it); Our Martyr President (1865, many preachers) | excluded | |
+
+## Peter Cartwright (round 52, my pick, 2026-10-23)
+
+Slugs `cartwright-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Autobiography of Peter Cartwright : the backwoods preacher (Cincinnati : Hitchcock and Walden, [185) | have-ocr | IA `autobiographyofp00cartuoft` |
+| Fifty years as a presiding elder (Cincinnati : Hitchcock and Walden ; New York : Carlton and Lanahan, 1871) | have-ocr | IA `fiftyyearsaspres1871cart` |
+| Many other printings of the Autobiography (1856-1920) | alternate | not shelved |
+| German and Swedish translations | excluded | |
+
+## Basil Manly Jr. (round 53, my pick, 2026-10-23)
+
+Slugs `manly-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bible doctrine of inspiration explained and vindicated (New York : A.C. Armstrong, 1888) | have-ocr | IA `bibledoctrineofi00manl` |
+| His father Basil Manly Sr.'s Mercy and Judgment (1837) and sermons; the Baptist Psalmody (1850, compiled by both); Civil War tracts; Basil M. Manly's industrial-relations reports (1915-1916, another man) | excluded | |
+
+## Richard Fuller (Baptist) (round 53, my pick, 2026-10-23)
+
+Slugs `rfuller-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| Our duty to the African race. An address delivered at Washington, D. C., January 21, 1851 (Baltimore : Printed by W.M. Innes, 1851) | have-ocr | IA `ourdutytoafrican00full` |
+| Sermons (New York, Sheldon & company; Baltimore, Giteau & Sullivan, 1860) | have-ocr | IA `sermons00full` |
+| The Christian delivered from the fear of death : a discourse (Baltimore : Printed by W.M. Innes, 1861) | have-ocr | IA `christiandeliver1861full` |
+| Mercy remembered in wrath : a sermon preached by the Rev. Dr. Fuller, on Thursday, September 26, 1861, being the day of national fasting, humiliation and prayer (Henry Taylor, 1861) | have-ocr | IA `mercyrememberedi00full` |
+| Domestic Slavery considered as a Scriptural Institution (1845), his correspondence with Francis Wayland: already held on the francis-wayland shelf | pending | not shelved |
+| The Psalmist hymn book (1843, he co-edited); Chaplain Fuller (1863, about Arthur Fuller, another man) | excluded | |
+
+## Jeremiah B. Jeter (round 53, my pick, 2026-10-23)
+
+Slugs `jeter-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| A memoir of Abner W. Clopton (Richmond, Yale & Wyatt, 1837) | have-ocr | IA `memoirofabnerwcl00jete` |
+| A memoir of Mrs. Henrietta Shuck, the first American female missionary to China (Boston : Gould, Kendall & Lincoln, 1849) | have-ocr | IA `memoirofmrshenri00jeteiala` |
+| Campbellism examined (New York : Sheldon, Blakeman, 1858) | have-ocr | IA `campbellismexami00jeteiala` |
+| The mirror; or, A delineation of different classes of Christians, in a series of lectures (New York, Sheldon, Lamport, & Blakeman, 1855) | have-ocr | IA `mirrorordelineat00jete` |
+| The seal of heaven ([n.p.], 1871) | have-ocr | IA `sealofheaven00jete` |
+| Life and times of James B. Taylor (Philadelphia, The Bible and Publication Society, 1872) | have-ocr | IA `cu31924011500182` |
+| The life of Rev. Daniel Witt, D. D., of Prince Edward County, Virginia (Richmond, J. T. Ellyson, 1875) | have-ocr | IA `lifeofrevdanielw00jete` |
+| The Psalmist hymn book (co-edited); Civil War tracts; Taylor's Virginia Baptist Ministers (another author) | excluded | |
+
+## John Leland (Baptist) (round 53, my pick, 2026-10-23)
+
+Slugs `jleland-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The writings of the late Elder John Leland : including some events in his life (New York : Printed by G.W. Wood, 1845) | have-ocr | IA `writingsoflateel00lela` |
+
+## Thomas Armitage (round 53, my pick, 2026-10-23)
+
+Slugs `armitage-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The funeral sermon on the death of Rev. Spencer Houghton Cone, D.D., late pastor of the First Baptist church, New York (New York, Holman & Gray, printers, 1855) | have-ocr | IA `funeralsermonond00armi` |
+| The past, present and future of the United States: a discourse (New York : Printed and published by T. Holman, 1862) | have-ocr | IA `pastpresentfutur00armi` |
+| A history of the Baptists : traced by their vital principles and practices : from the time of Our Lord and Saviour Jesus Christ to the year 1886 (New York : Bryan, Taylor, 1887) | have-ocr | IA `cu31924029451782` |
+| The two-volume issue of the History (historyofbaptist01armi, 02armi) and the 1893 printing | alternate | not shelved |
+| The Education and Employment of the Blind (1886, by Thomas Rhodes Armitage, another man) | excluded | |
+
+## William Cathcart (round 53, my pick, 2026-10-23)
+
+Slugs `cathcart-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The papal system: from its origin to the present time. A historical sketch of every doctrine, claim and practice of the Church of Rome (Philadelphia, Cathcart and Turner, 1872) | have-ocr | IA `papalsystemfromi00cath` |
+| The Baptists and the American revolution (Philadelphia, S. A. George, 1876) | have-ocr | IA `baptistsamerican00cath` |
+| The baptism of the ages and of the nations (Philadelphia, American Baptist publication society, 1878) | have-ocr | IA `baptismofagesofn00cath` |
+| The Baptist Encyclopaedia (1881, many contributors; he edited it) | excluded | |
+
+## Andrew Broaddus (round 53, my pick, 2026-10-23)
+
+Slugs `broaddus-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The sermons and other writings of the Rev. Andrew Broaddus : with a memoir of his life (New York : Lewis Colby, 1852) | have-ocr | IA `sermonsotherwrit00broa` |
+| The Virginia Selection of Psalms, Hymns and Spiritual Songs (1840, his compilation); the Broaddus family history (1888, another author) | excluded | |
+
+## P. H. Mell (round 53, my pick, 2026-10-23)
+
+Slugs `mell-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| Baptism in its modes and subjects (Charleston : Southern Baptist Publication Society, 1853) | have-ocr | IA `baptisminitsmode00mell` |
+| The doctrine of prayer; its utility; and its relation to providence (New York, Sheldon & Company, 1876) | have-ocr | IA `doctrineofprayer00mell` |
+| The botanical and agricultural works of his son P. H. Mell Jr. (another man); the Life of Patrick Hues Mell (1895, by his son) | excluded | |
+| manualofparliame00mell: Mell's Manual of Parliamentary Practice is a procedure manual, not divinity; scan front matter is also unreadable OCR. | excluded | |
+
+## Ezekiel Gilman Robinson (round 53, my pick, 2026-10-23)
+
+Slugs `egrobinson-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on preaching, delivered to the students of theology at Yale college, January and February, 1882 (New York, H. Holt and company, 1883) | have-ocr | IA `lecturesonpreac00robi` |
+| Principles and practice of morality : or, Ethical principles discussed and applied (Boston : Silver, c188) | have-ocr | IA `principlesofmor00robiuoft` |
+| Christian theology (Rochester, N.Y. : Press of E.R. Andrews, 1894) | have-ocr | IA `christiantheolog00robi` |
+| Christian evidences (catalogued 1895) | have-ocr | IA `christianevidenc00robi` |
+| Christian character : baccalaureate sermons delivered by Ezekiel Gilman Robinson (New York ; Boston ; Chicago : Silver, Burdett and co., 1896) | have-ocr | IA `christiancharact00robi` |
+| Ezekiel Gilman Robinson; an autobiography with a supplement (New York, Boston [etc.] Silver, Burdett and company, 1896) | have-ocr | IA `ezekielgilmanrob00robi` |
+| His translation of Neander's Planting and Training (held on the august-neander shelf) | excluded | |
+
+## William Henry Green (round 54, my pick, 2026-10-23)
+
+Slugs `whgreen-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pentateuch vindicated from the aspersions of Bishop Colenso (New York, J. Wiley, 1863) | have-ocr | IA `pentateuchvindic00gree` |
+| A grammar of the Hebrew language (New York : John Wiley & sons, 1872) | have-ocr | IA `grammarofhebrewl1872gree` |
+| The argument of the book of Job unfolded (New York, Robert Carter & bros., 1874) | have-ocr | IA `argumentofbookof00gree` |
+| Moses and the prophets: The Old Testament in the Jewish Church (New York R. Carter, 1883) | have-ocr | IA `mosesprophetsold00gree` |
+| The Hebrew feasts in their relation to recent critical hypotheses concerning the Pentateuch (New York : Hurst, 1885) | have-ocr | IA `hebrewfeastsinth00gree` |
+| The higher criticism of the Pentateuch (New York, C. Scribner's sons, 1895) | have-ocr | IA `highercriticismo00gre` |
+| The unity of the book of Genesis (New York, C. Scribner's sons, 1895) | have-ocr | IA `unityofbookofgen00gree` |
+| General introduction to the Old Testament : the canon (New York, C. Scribner's sons, 1898) | have-ocr | IA `generalintroduct00gree` |
+| General introduction to the Old Testament; the text (New York : C. Scribner's sons, 1899) | have-ocr | IA `cu31924029277667` |
+| Class syllabi printed not published (Prophets and Prophecy, Old Testament Canon and Philology); the Hebrew Chrestomathy and Elementary Grammar; occasional sermons; German and Spanish translations of his books | excluded | |
+
+## Caspar Wistar Hodge (round 54, my pick, 2026-10-23)
+
+Slugs `cwhodge-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| Apostolic history and literature : prepared by the senior class for the use of students in Princeton Theological Seminary (Princeton : Press Printing Establishment, 1878) | have-ocr | IA `apostolichistory1878hodg` |
+| Gospel history : a syllabus ... ; printed - not published - exclusively for the use of students of the Middle class in Princeton seminary (Princeton : C.S. Robinson, Printer, 1879) | have-ocr | IA `gospelhistorysyl00hodg` |
+| New Testament criticism : lectures by C. W. Hodge, before the junior class, Princeton Theological Seminary : collated from phonographic notes by W. J. Frazer, with syllabus prepared by Dr. Hodge (Princeton : Printed not published by Press Printing Establishment, 1880) | have-ocr | IA `newtestamentcrit00hodg` |
+| The work of missions essential to the life of the church : a sermon delivered in the seminary chapel, November 7th, 1880 (Princeton : Press Printing Establishment, 1880) | have-ocr | IA `workofmissionses00hodg` |
+| A sermon preached in the United States Congregational church, at Newport, R. I., Sunday, September 25, 1881 ([n.p., 1881) | have-ocr | IA `sermonpreachedin00hodg` |
+| Caspar Wistar Hodge Jr. (1870-1937), his son: The Kantian Epistemology and Theism (1894) and The Witness of the Holy Spirit to the Bible (1913) | excluded | |
+
+## Lyman Atwater (round 54, my pick, 2026-10-23)
+
+Slugs `atwater-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| The completion of two centuries (Bridgeport, Conn., Standard office, 1839) | have-ocr | IA `completionoftwoc00atwa` |
+| Death disarmed of its sting : a tribute to the memory of the Hon. Roger Minott Sherman, being the discourse preached at his funeral, January 2, 1845 (New Haven : Printed by B.L. Hamlen, 1845) | have-ocr | IA `deathdisarmedofi00atwa` |
+| Manual of elementary logic (Philadelphia, J. B. Lippincott & co., 1867) | have-ocr | IA `manualofelementa00atwa` |
+| The life and character of Nathaniel Hewit, D.D. : a discourse preached at his funeral, in the Presbyterian Church, Bridgeport, Conn., February 6, 1867 (New York : Printed by Edward O. Jenkins, 1867) | have-ocr | IA `lifecharacterofn00atwa` |
+| A discourse commemorative of the late Dr. Charles Hodge. Delivered in the chapel of the College of New Jersey by request of the president, October 13th, and repeated in the First Presbyterian Church, Princeton, at the request of its session, October 20th, 1878 (Princeton, C. S. Robinson, printer, 1878) | have-ocr | IA `discoursecommemo00atwa` |
+| Notes on metaphysics from lectures given by Lyman H. Atwater… (Princeton, N.J., 1880) | have-ocr | IA `notesonmetaphysi00atwa` |
+| The Biblical Repertory and Princeton Review volumes he edited (journals, many authors); Future Paper Money (economics) | excluded | |
+
+## Roswell D. Hitchcock (round 54, my pick, 2026-10-23)
+
+Slugs `hitchcock-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| A eulogy on Daniel Webster (Brunswick, J. Griffin, 1852) | have-ocr | IA `eulogyondanielwe01hitc` |
+| An address on colportage : before the American Tract Society, at their forty-first anniversary in Boston, May 30, 1855 (Boston / American Tract Society, 1855) | have-ocr | IA `addressoncolport00hitc` |
+| Our national sin: a sermon, preached on the day of the national fast, September 26, 1861, in the South Reformed Dutch church, New York city (New York, Baker & Godwin, printers, 1861) | have-ocr | IA `ournationalsinse00hitc` |
+| The life, writings and character of Edward Robinson, read before the N. Y. Historical Society (New York : A. D. F. Randolph, 1863) | have-ocr | IA `lifewritingschar00hitc` |
+| Hitchcock's New and complete analysis of the Holy Bible : or, The whole of the Old and New Testaments arranged according to subjects in twenty-seven books (New York : A.J. Johnson, 1871) | have-ocr | IA `hitchcocksnewcom71hitc` |
+| Socialism (New York, A. D. F. Randolph & company, 1879) | have-ocr | IA `socialism00hitc` |
+| Διδαχη των δωδεκα ̓αποστολων Teaching of the Twelve Apostles (Charles Scribner's Sons, 1884) | have-ocr | IA `teachingoftwelve00hitc` |
+| Eternal atonement (New York, C. Scribner's sons, 1888) | have-ocr | IA `eternalatonement00hitc` |
+| Hymn books he co-edited (Hymns and Songs of Praise, Carmina Sanctorum); the Tauler life and East of the Jordan, which he only introduced; the 1881 Revised New Testament reprint; the 1952 Topical Bible reissues | excluded | |
+
+## Benjamin Kurtz (round 54, my pick, 2026-10-23)
+
+Slugs `kurtz-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| The "ministerial appeal", a valedictory sermon delivered in the Evangelic Lutheran church in Hagers-town, Md., on Sunday the 4th of September, 1831 ([Hagerstown, Md.] : Printed at the "Free press" office, 1831) | have-ocr | IA `ministerialappea00kurt` |
+| Arguments, derived from sacred scripture and sound reason, exhibiting the necessity and advantages of infant baptism, and proving sprinkling or affusion to be the most scriptural and appropriate mode of administering it, together with a number of essays on important subjects connected with baptism / by Benjamin Kurtz (Baltimore : Printed at the Publication Rooms, 1840) | have-ocr | IA `argumentsderived00kurt` |
+| Why are you a Lutheran? or, A series of dissertations, explanatory of the doctrines, government, discipline, liturgical economy, distinctive traits, etc., of the Evangelical Lutheran Church in the United States (Baltimore, Evangelical Lutheran Church, 1843) | have-ocr | IA `whyareyouluthera00kurt` |
+| Year-book of the Reformation (Baltimore: Printed at Publication Rooms, 1844) | have-ocr | IA `yearbookofreform00kurt` |
+| Lutheran Prayer Book (1866, a compilation); Benjamin Putnam Kurtz (1878-1950), the literary critic, is another man | excluded | |
+
+## William Julius Mann (round 54, my pick, 2026-10-23)
+
+Slugs `wjmann-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| A plea for the Augsburg Confession : in answer to the objections of the Definite platform ; an address to all ministers and laymen of the evangelical church of the United States (Philadelphia : Lindsay & Blakiston, 1856) | have-ocr | IA `apleafortheaugs00mannuoft` |
+| Lutheranism in America: An Essay on the Present Condition of the Lutheran (Lindsay & Blakiston, 1857) | have-ocr | IA `lutheranisminam00manngoog` |
+| Life and times of Henry Melchior Muhlenberg. By William J. Mann (Philadelphia, G. W. Frederick, 1887) | have-ocr | IA `lifetimesofhenry00mannrich` |
+| German-language works (Heilsbotschaft sermons, Die gute alte Zeit in Pennsylvanien, Muhlenbergs Leben, Ein Aufgang im Abendland, Leben William Penns): pending Adam's ruling on non-English works | pending | not shelved |
+
+## B. M. Palmer (round 54, my pick, 2026-10-23)
+
+Slugs `bmpalmer-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| Baconianism and the Bible: an address delivered before the Eumenean and Philanthropic Societies of Davidson College, N.C. August 11, 1852 (Columbia, S.C.: A.S. Johnston, 1852) | have-ocr | IA `baconianismbible00palm` |
+| Christianity, the only religion for man : a discourse delivered before the graduating class of the University of North Carolina, June 4, 1855 ([S.l. : s.n.], 1855) | have-ocr | IA `christianityonly00palm` |
+| The South: her peril, and her duty. A discourse (New Orleans, Printed at the office of the True witness and sentinel, 1860) | have-ocr | IA `southherperilher00palm` |
+| A vindication of secession and the South from the strictures of Rev. R. J. Breckinridge ... in the Danville Quarterly Review (Columbia, S. C., Southern Guardian Steam-Power Press, 1861) | have-ocr | IA `vindicationofsec00palm` |
+| A discourse commemorative of the life, character, and genius of the late Rev. J. H. Thornwell (Columbia, S. C., Southern Guardian, 1862) | have-ocr | IA `discoursecommemo00palm` |
+| The oath of allegiance to the United States ([S.l. : s.n.], 1863) | have-ocr | IA `oathofallegiance01palm` |
+| The life and letters of James Henley Thornwell (Richmond : Whittet & Shepperson, 1875) | have-ocr | IA `lifelettersofjam00palm` |
+| Weekly publication containing sermons by Rev. B.M. Palmer, Volume 1 (catalogued 1875) | have-ocr | IA `sermons-by-rev.-b.-m.-palmer-volume-1-1875` |
+| The family in its civil and churchly aspects; an essay in two parts (Richmond : Richmond Presbyterian Committee of Publication, 1876) | have-ocr | IA `familyinitscivil00palm` |
+| Formation of character. Twelve lectures delivered in the first Presbyterian church, New Orleans, La (New Orleans, Religious book depository, 1889) | have-ocr | IA `formationofchara00palm` |
+| The broken home ; or, Lessons in sorrow (New Orleans : E.S. Upton, 1891) | have-ocr | IA `brokenhomeorless00palm` |
+| Theology of prayer, as viewed in the religion of nature and in the system of grace (Richmond, Va. : Presbyterian Committee of Publication, 1894) | have-ocr | IA `theologyofprayer0000bmpa` |
+| The threefold fellowship and the threefold assurance: an essay in two parts (Richmond, Va. : The Presbyterian committee of publication, 1902) | have-ocr | IA `threefoldfellows00palm` |
+| Benjamin Morgan Palmer (1781-1847), his uncle, pastor of the Independent or Congregational Church, Charleston: The Dejected Christian Encouraged (1816), Importance of the Ministerial Office (1820), The Upright Character (1822), A Plain and Easy Catechism (1828) are the uncle's | excluded | |
+| Temperance Teachings of Science (1886) and the medical reports are by other Palmers | excluded | |
+| theology-of-prayer: a 1980 Sprinkle Publications reprint with a new preface still in copyright; the 1894 printing is shelved instead | excluded | |
+
+## Charles P. McIlvaine (round 55, my pick, 2026-10-23)
+
+Slugs `mcilvaine-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The evidences of Christianity, in their external division (London, H. Fisher, R. Fisher, & P. Jackson, 1833) | have-ocr | IA `evidencesofchris00mcil` |
+| A charge to the clergy of the Protestant Episcopal Church in the state of Ohio on the preaching of Christ crucified : delivered before the Seventeenth Annual Convention of the Diocese, at Chillicothe, September 5th, 1834 (Gambier, Ohio : Western Protestant Episcopal Press, 1834) | have-ocr | IA `chargetoclergyof00mcil` |
+| The apostolical commission: the sermon at the consecration of the Right Reverand Leonidas Polk, D. D., missionary bishop for Arkansas; in Christ church, Cincinnati, December 9, 1838 (Gambier, O. : G. W. Myers, 1838) | have-ocr | IA `apostolicalcommi00mcil` |
+| Justification by faith: a charge delivered before the clergy of the Protestant Episcopal church in the diocese of Ohio, and at the Twenty-second annual convention of the diocese, in St. Paul's church, Steubenville, September 13, 1839 (Columbus [O.] I. N. Whiting, 1840) | have-ocr | IA `justificationbyf00mcil` |
+| Oxford divinity compared with that of the Romish and Anglican churches : with a special view of the doctrine of justification by faith, as it was made of primary importance by the reformers, and it lies at the foundation of all Scriptural views of the gospel of Our Lord Jesus Christ (Philadelphia : J. Whetham and Son, 1841) | have-ocr | IA `oxforddivinityco00mcil` |
+| The holy catholic church; or, The communion of saints, in the mystical body of Christ: a sermon, preached in the Church of the Epiphany, in the city of Philadelphia, on Sunday, September 6th, 1844 (Philadelphia, H. Hooker, 1844) | have-ocr | IA `holycatholicchur00mcil` |
+| A Word in season to candidates for confirmation (Philadelphia: Daniels & Smith, 1853) | have-ocr | IA `wordinseasontoca00mcil` |
+| The truth and life : twenty-two sermons (New York : R. Carter, 1854) | have-ocr | IA `truthlifetwentyt00mcilrich` |
+| The temple of God; or, The Holy Catholic church and communion of saints, in its nature, structure, and unity (Philadelphia, Protestant Episcopal book society, 1860) | have-ocr | IA `templeofgodorhol00mcil` |
+| Select Family and Parish Sermons (1838, sermons by many authors he selected); the Memoirs of Charles Simeon (Carus's, he only introduced it); the joint Reply of Bishops Meade, McIlvaine and Burgess | excluded | |
+
+## Stephen H. Tyng (round 55, my pick, 2026-10-23)
+
+Slugs `tyng-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| Memoir of the Rev. Gregory T. Bedell (Philadelphia, H. Perkins; Boston, Perkins & Marvin, 1836) | have-ocr | IA `memoirofrevgregor00tyng` |
+| Sermons preached in the Church of the Epiphany, Philadelphia (Philadelphia : Printed by William Stavely, 1839) | have-ocr | IA `sermonspreachedi00tyng` |
+| Lectures on the law and the gospel (Philadelphia, Stavely and M'Calla, 1844) | have-ocr | IA `lecturesonlawgos00tyng` |
+| The Israel of God (New York, R. Carter & brothers, 1849) | have-ocr | IA `israelofgod00tyng` |
+| Christ is all (New York, R. Carter, 1849) | have-ocr | IA `christisall00tyng` |
+| Christian titles : a series of practical meditations (New York : R. Carter & Brothers, 1853) | have-ocr | IA `christiantitless00tyng` |
+| Lessons on the Acts of the apostles (Philadelphia, New York [etc.] American Sunday-school union, 1853) | have-ocr | IA `lessonsonactsofa00tyng_0` |
+| The rich kinsman. The history of Ruth the Moabitess (New York, Protestant Episcopal Society, 1855) | have-ocr | IA `richkinsmanhis00tyng` |
+| The captive orphan; Esther, the queen of Persia (New York: Robert Carter & bros, 1860) | have-ocr | IA `thecaptiveorphan00tynguoft` |
+| Forty years' experience in Sunday-schools (New York : Sheldon ; Boston : Gould & Lincoln, 1860) | have-ocr | IA `fortyyearsexperi00tyngrich` |
+| The office and duty of a Christian pastor (New York : Harper & Brothers, 1874) | have-ocr | IA `officedutyofchri00tyng` |
+| The Christian's Own Book (1832, meditations compiled from older writers); Masonic addresses; his son Stephen H. Tyng Jr. (1839-1898), whose 1867 Liberty of Preaching sermons are his, is another man | excluded | |
+
+## William Meade (round 55, my pick, 2026-10-23)
+
+Slugs `meade-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons delivered in the rotunda of the University of Virginia, on Sunday, May 24, 1829 ([n.p.], 1829) | have-ocr | IA `sermonsdelivered00mead` |
+| Sermon on confirmation (Alexandria, D.C., Published by William M. Morrison, printed at the Gazette Office, 1833) | have-ocr | IA `sermononconfirma00mead` |
+| The law of proportion in the church of God (Alexandria, Printed at the Sou: churchman office, 1843) | have-ocr | IA `lawofproportioni00mead` |
+| Companion to the font and the pulpit (Washington : J. and G.S. Gideon, Printers, 1846) | have-ocr | IA `companiontofontp00mead` |
+| Lectures on the pastoral office (New York, Stanford and Swords, 1849) | have-ocr | IA `lecturesonpastor00mead` |
+| Conversations on the catechism of the Protestant Episcopal church, abridged and accommodated to the American church, from and English edition (Philadelphia, King & Baird, printers, 1849) | have-ocr | IA `conversationsonc00mead` |
+| The Bible and the classics (New York, R. Carter, 1861) | have-ocr | IA `bibleclassics00mead` |
+| Old churches, ministers and families of Virginia : in two volumes, vol. 1 (Philadelphia : J. B. Lippincott & Co., 1861) | have-ocr | IA `oldchurchesminis01meaduoft` |
+| Old churches, ministers and families of Virginia : in two volumes, vol. 2 (Philadelphia : J. B. Lippincott & Co., 1861) | have-ocr | IA `oldchurchesminis02meaduoft` |
+| familyprayers00mead: Family Prayers (Washington, 1834). Neither title page nor preface names the compiler (catalogued as Meade), and the prayers are largely drawn from the Prayer Book; pending a better-attested copy. | pending | not shelved |
+| Selections from the Homilies (1809, the Church's homilies with his preface); the joint Reply of Bishops Meade, McIlvaine and Burgess; Wise's 1910 index to Old Churches (another author) | excluded | |
+
+## Gregory Townsend Bedell (round 55, my pick, 2026-10-23)
+
+Slugs `gtbedell-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The life and travels of St. Paul (Philadelphia, American Sunday School Union, 1830) | have-ocr | IA `lifetravelsofstp00bede` |
+| The life of Moses (Philadelphia : American Sunday-School Union, 1832) | have-ocr | IA `lifeofmoses00bede` |
+| Sermons, vol. 1 (Philadelphia, W. Stavely-J. C. Pechin, 1835) | have-ocr | IA `sermons01bede` |
+| Sermons, vol. 2 (Philadelphia, W. Stavely-J. C. Pechin, 1835) | have-ocr | IA `sermons02bede` |
+| The Religious Souvenir annuals he edited (many authors); Bickersteth's Treatise on the Lord's Supper, which he adapted; The Basket of Flowers (Schmid's tale) | excluded | |
+
+## Gregory Thurston Bedell (round 55, my pick, 2026-10-23)
+
+Slugs `gthbedell-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The trusteeship of the Gospel (Cincinnati, 1869) | have-ocr | IA `trusteeshipofgos00bede` |
+| The Canterbury pilgrimage : to and from the Lambeth Conference and the Sheffield Congress (New York : A.D.F. Randolph, 1878) | have-ocr | IA `canterburypilgri00bede` |
+| The pastor. Pastoral theology (Philadelphia, London, J.B. Lippincott & co., 1880) | have-ocr | IA `pastorpastoralth00bede` |
+| Occasional sermons and convention reports | excluded | |
+
+## James Milnor (round 55, my pick, 2026-10-23)
+
+Slugs `milnor-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| Plea for the American colonization society: a sermon, preached in St. George's church, New-York, on Sunday, July 9, 1826 (New-York, J. P. Haven, 1826) | have-ocr | IA `pleaforamericanc00miln` |
+| Sermon occasioned by the death of His Excellency DeWitt Clinton, late governor of the State of New-York. Preached in St. George's church, N.Y., on Sunday, February 24, 1828 (New York : Printed by Gray and Bunce, 1828) | have-ocr | IA `sermonoccasioned00miln` |
+| John S. Stone's Memoir of the Life of James Milnor (1849, another author) | excluded | |
+
+## John B. Adger (round 55, my pick, 2026-10-23)
+
+Slugs `adger-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The religious instruction of the colored population. A sermon (Charleston, T. W. Haynes, 1847) | have-ocr | IA `religiousinstruc00adge` |
+| Christian missions and African colonization (catalogued 1857) | have-ocr | IA `ASPC0001913800` |
+| My life and times, 1810-1899 (Richmond, Va. : The Presbyterian Committee of Publication, 1899) | have-ocr | IA `mylifetimes00adge` |
+| The Collected Writings of J. H. Thornwell he co-edited (on the thornwell shelf); uploaded transcriptions of his Southern Presbyterian Review articles, which have no scan | excluded | |
+
+## J. H. A. Bomberger (round 56, my pick, 2026-10-23)
+
+Slugs `bomberger-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual libertinism : an address delivered before the alumni association of Marshall College, September 8th, 1846 / by J.H.A. Bomberger (Printed at the Office of the Ger. Reformed Church, 1846) | have-ocr | IA `spiritualliberti00bomb` |
+| Infant salvation : in its relation to infant depravity, infant regeneration, and infant baptism (Philadelphia : Lindsay & Blakiston, 1859) | have-ocr | IA `infantsalvationi00bomb` |
+| Five Years' Ministry in the German Reformed Church, in Race Street, Below Fourth, Philadelphia (Lindsay & Blakiston, 1860) | have-ocr | IA `fiveyearsminist00bombgoog` |
+| Reformed, not ritualistic : Apostolic, not patristic : a reply to Dr. Nevin's Vindication, etc (Philadelphia : [s.n.], 1867) | have-ocr | IA `reformednotritua00bomb` |
+| His condensed translation of Herzog's Protestant Theological Encyclopedia (1858-60, a translation of a multi-author work); Kurtz's Text-book of Church History (another author); Three Thousand Practical Illustrations (1909 compilation) | excluded | |
+
+## Henry Harbaugh (round 56, my pick, 2026-10-23)
+
+Slugs `harbaugh-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| The drunkard-maker taken from his bar to the bar of God, tried, found guilty, and condemned for murder (Office of the German Reformed Messenger, 1849) | have-ocr | IA `drunkardmakertak00harb` |
+| Heaven; or, An earnest and scriptural inquiry into the abode of the sainted dead (Philadelphia, Lindsay and Blakiston, 1853) | have-ocr | IA `heavenorearnests00harb` |
+| The heavenly recognition ; or, An earnest and scriptural discussion of the question, Will we know our friends in heaven? (Philadelphia : Lindsay and Blakiston, 1853) | have-ocr | IA `heavenlyrecognit00harb_2` |
+| Heavenly home; or, The employments & enjoyments of the saints in heaven (Philadelphia, Lindsay, 1853) | have-ocr | IA `heavenlyhomeorem00harb` |
+| Union with the church, the solemn duty, and the blessed privilege of all who would be saved (Philadelphia, Lindsay & Blakiston, 1856) | have-ocr | IA `unionwithchurchs00harb` |
+| The life of Rev. Michael Schlatter; with a full account of his travels and labors among the Germans in Pennsylvania, New Jersey, Maryland and Virginia; including his services as chaplain in the French and Indian War, and in the war of the revolution. 1716 to 1790 (Philadelphia, Lindsay and Blakiston, 1857) | have-ocr | IA `lifeofrevmichael00harb` |
+| The fathers of the German Reformed Church in Europe and America, vol. 1 (Lancaster : Sprenger & Westhaeffer, 1857) | have-ocr | IA `fathersofgermanr01harb` |
+| The fathers of the German Reformed Church in Europe and America, vol. 2 (Lancaster : Sprenger & Westhaeffer, 1857) | have-ocr | IA `fathersofgermanr02harb` |
+| The golden censer ([n. p.], 1860) | have-ocr | IA `goldencenser00harb` |
+| Poems (Philadelphia, Lindsay & Blakiston, 1860) | have-ocr | IA `poems00harb` |
+| Treason and law : a discourse, delivered at Clearspring, Maryland, June 1, 1865, the day of national mourning (Philadelphia : Jas. B. Rodgers, 1865) | have-ocr | IA `treasonlawdiscou00harb` |
+| Harbaugh's Harfe (1870), poems in Pennsylvania German dialect: pending Adam's ruling on non-English works | pending | not shelved |
+| Fathers of the German Reformed Church vols 3-6 (continued by D. Y. Heisler after his death); the Heidelberg Catechism edition and Sunday-school hymn books he edited | excluded | |
+
+## John Mitchell Mason (round 56, my pick, 2026-10-23)
+
+Slugs `jmmason-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Oration, commemorative of the late Major-General Alexander Hamilton : pronounced before the New-York state society of the Cincinnati, on Tuesday, the (New-York, Printed by Hopkins and Seymour and sold by G.F. Hopkins, at Washington's head, no. 118, Pearl-street, 1804) | have-ocr | IA `orationcommemora00maso` |
+| A Plea for sacramental communion on catholick principles (New York : Whiting and Watson, 1816) | have-ocr | IA `pleaforsacrament00maso` |
+| The complete works of John M. Mason, D.D, vol. 1 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj01maso` |
+| The complete works of John M. Mason, D.D, vol. 2 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj02maso` |
+| The complete works of John M. Mason, D.D, vol. 3 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj03maso` |
+| The complete works of John M. Mason, D.D, vol. 4 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj04maso` |
+| The Writings of the late John M. Mason (1832, 4 vols): the earlier collection, superseded by the 1849 Complete Works | alternate | not shelved |
+| Sermons, Lectures and Orations (1860), a selection from the same works | alternate | not shelved |
+| John Mason of Water-Stratford (1646-1694) and John Mason the Nonconformist (Self-Knowledge, 1745) are other men; Essays on the Church of God (1843) duplicates the Works | excluded | |
+
+## Nicholas Murray (Kirwan) (round 56, my pick, 2026-10-23)
+
+Slugs `nmurray-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Notes, historical and biographical, concerning Elizabethtown, its eminent men, churches, and ministers (Elizabeth-town [N.J.] E. Sanderson, 1844) | have-ocr | IA `noteshistoricalb00murr` |
+| Bishop Hughes confuted : reply to the Rt. Rev. John Hughes, Roman Catholic Bishop of New York (New York : Leavitt, Trow & Co., 1848) | have-ocr | IA `bishophughesconf00murr` |
+| Letters to the Rt. Rev. John Hughes, Roman Catholic Bishop of New York (Philadelphia, Presbyterian Board of Publication, [185) | have-ocr | IA `letterstortrevjo00murr` |
+| The decline of popery and its causes : an address delivered in the Broadway Tabernacle on Wednesday Evening, January 15, 1851 (New York : Harper & Brothers, 1851) | have-ocr | IA `declineofpoperyi00murr` |
+| Romanism at home : letters to the Hon. Roger B. Taney (New York : Harper, 1852) | have-ocr | IA `romanismathomele00murr` |
+| Men and things as I saw them in Europe (New York, Harper & brothers, 1853) | have-ocr | IA `menthingsasisawt00murr` |
+| Parish and other pencilings by Kirwan ([n.p.], 1854) | have-ocr | IA `parishotherpenci00murr` |
+| Preachers and preaching (New York, Harper & brothers, 1860) | have-ocr | IA `preacherspreachi00murr` |
+| Dying legacy to the people of his charge (New York : Harper & Brothers, 1861) | have-ocr | IA `dyinglegacytopeo00murr` |
+| Walter Blake Kirwan (1754-1805), the Irish preacher, is another man; other Nicholas Murrays (the 1872 Complaynt of Scotlande editor, the 1880s journal writer) | excluded | |
+
+## Richard Salter Storrs (round 56, my pick, 2026-10-23)
+
+Slugs `storrs-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| The obligation of man to obey the civil law: its ground, and its extent (New York, M. H. Newman & co., 1850) | have-ocr | IA `obligationofmant00stor` |
+| The constitution of the human soul : six lectures delivered at the Brooklyn Institute, Brooklyn, N.Y (New York : R. Carter, 1857) | have-ocr | IA `constitutionofhu00storrich` |
+| Conditions of success in preaching without notes. Three lectures delivered before the students of the Union theological seminary, New York, Januray 13, 20, 27: 1875; with an appendix (N[ew] Y[ork] : Dodd and Mead, 1875) | have-ocr | IA `conditionsofsucc00stor` |
+| The early American spirit, and the genesis of it. The Declaration of Independence, and the effects of it (New York A.D.F. Randolph, 1878) | have-ocr | IA `earlyamericanspi00storuoft` |
+| John Wycliffe and the first English Bible; an oration (New York, A. D. F. Randolph & company, 1880) | have-ocr | IA `johnwycliffefirs00stor` |
+| The recognition of the supernatural in letters and in life: an oration (New York, A. D. F. Randolph & company, 1881) | have-ocr | IA `recognitionofsup00stor` |
+| The divine origin of Christianity indicated by its historical effects (Boston ; Chicago : The Pilgrim Press, 1884) | have-ocr | IA `divineoriginofch00stor` |
+| The Puritan spirit : an oration delivered before the Congregational club in Tremont temple, Boston, 18th December 1889 (Boston : Congregational Sunday-school and Pub. Society, 1890) | have-ocr | IA `puritanspiritora00stor` |
+| Bernard of Clairvaux, the times, the man, and his work : an historical study in eight lectures (New York : C. Scribner's Sons, 1892) | have-ocr | IA `bernardofclairva00stor` |
+| His father Richard Salter Storrs (1787-1873) of Braintree, Mass.; the Lincoln and Brooklyn Bridge orations and the Garfield poetry anthology | excluded | |
+
+## George Duffield (1794-1868) (round 56, my pick, 2026-10-23)
+
+Slugs `gduffield-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual life, or, Regeneration : illustrated in a series of disquisitions : relative to its author, subject, nature, means, etc (Carlisle : George Gleming, 1832) | have-ocr | IA `spirituallifeorr00duff` |
+| Dissertations on the prophecies relative to the second coming of Jesus Christ (New York, Dayton & Newman, 1842) | have-ocr | IA `dissertationsonp00duff` |
+| The claims of "Episcopal bishops," examined in a series of letters : addressed to the Rev. S.A. McCoskry, D.D., bishop of the Protestant Episcopal church of Michigan (New York : Dayton & Newman, 1842) | have-ocr | IA `claimsofepiscopa00duff` |
+| Millenarianism defended : reply to Prof. Stuart's "Strictures on the Rev. G. Duffield's recent work on the second coming of Christ," (New York : M.H. Newman, 1843) | have-ocr | IA `millenarianismde00duffrich` |
+| Faithful rebuke, not "Unreasonable bitterness" : shown in a reply to the "Reverend Dr. Tyng's" pastoral letter of the Synod of Michigan (Printed by A.S. Williams, 1844) | have-ocr | IA `faithfulrebukeno00duff` |
+| The veteran hero (Detroit, A. McFarren, 1851) | have-ocr | IA `veteranhero00duff` |
+| One hundred years ago : an historical discourse delivered by Rev. George Duffield, D.D., during the centenary celebration of the First Presbyterian Church of Carlisle, Pa., July 1st, 1857 (Carlisle, Pa. : Printed at the Herald Office, 1858) | have-ocr | IA `onehundredyearsa00duff` |
+| A Thanksgiving discourse. The rule of Divine Providence applicable to the present circumstances of our country, delivered in the First Presbyterian church of Detroit, Thursday, November 28, 1860 (Detroit, Free press mammoth book and job printing house, 1861) | have-ocr | IA `thanksgivingdisc00duff` |
+| The nation's wail : a discourse delivered in the First Presbyterian Church of Detroit, on Sabbath, the 16th of April, 1865, the day after receiving the intelligence of the brutal murder of President Abraham Lincoln, by a brutal assassin (Detroit : Advertiser & Tribune Print., 1865) | have-ocr | IA `nationswaildisco00duff` |
+| George Duffield Jr. (1818-1888), hymn writer, and the elder George Duffield (1732-1790), Revolutionary chaplain, are other men | excluded | |
+
+## Edward Norris Kirk (round 56, my pick, 2026-10-23)
+
+Slugs `enkirk-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on different subjects : delivered in England and America (New York : Printed by John F. Trow, and for sale by Gould, Newman & Saxton, etc., 1840) | have-ocr | IA `sermonsondiffere00kirk` |
+| The greatness of the human soul. An address delivered at the seventh anniversary of the Mount Holyoke female seminary, South Hadley, Mass (Boston, Press of T. R. Marvin, 1844) | have-ocr | IA `greatnessofhuman00kirk` |
+| Effectual prayer : a sermon / by Edward N. Kirk (Tappan & Whittemore, 1853) | have-ocr | IA `effectualprayers00kirk` |
+| Lectures on the parables of Our Savior (New York, J. F. Trow, printer, 1856) | have-ocr | IA `lecturesonparabl00kirk` |
+| Discourses, doctrinal and practical (Boston : S.K. Whipple and Co., 1857) | have-ocr | IA `discoursesdoctri00kirk` |
+| The waiting Saviour (Boston : The American tract society, 1865) | have-ocr | IA `waitingsaviour00kirk` |
+| His translations of Gaussen's Theopneusty and Astie's Louis Fourteenth and the Writers of his Age (other authors); hymn books and joint addresses | excluded | |
+| usefulhappyaddre00kirk: Useful and Happy (1841) binds his address to the young with pieces by J. G. Pike and J. A. James; a multi-author volume | excluded | |
+
+## Eliphalet Nott (round 56, my pick, 2026-10-23)
+
+Slugs `nott-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse, delivered in the North Dutch Church, in the city of Albany, occasioned by the ever to be lamented death of General Alexander Hamilton, July 29, 1804 (Salem, Printed by J. Cushing, 1804) | have-ocr | IA `discoursedeliver01nott` |
+| Sermon preached before the General Assembly of the Presbyterian Church in the United States of America, by appointment of their Standing Committee of Missions, May 19, 1806 / by Eliphalet Nott (Philadelphia : Printed by Jane Aitken, 1806) | have-ocr | IA `sermonpreachedbe00nott_0` |
+| Miscellaneous works (Schenectady: Published by Wm. J. M'Cartee, book-seller. Ryer Schermerhorn, printer, 1810) | have-ocr | IA `miscellaneousworne00nott` |
+| Counsels to young men on the formation of character, and the principles which lead to success and happiness in life : being addresses principally delivered at the anniversary commencements in Union College (New York, Harper & Brothers, 1840) | have-ocr | IA `counselstoyoungm00nott` |
+| Lectures on temperance (Hamilton, C.W., A. M. Moffat & co., 1858) | have-ocr | IA `lecturesontempe00nott` |
+| The resurrection of Christ : a series of discourses (New York : Scribner, Armstrong, 1872) | have-ocr | IA `resurrectionofch00nott` |
+| Union College inauguration proceedings and Potter's commemorative discourses (other authors) | excluded | |
+
+## Henry Ward Beecher (round 57, my pick, 2026-10-23)
+
+Slugs `hwbeecher-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| Seven lectures to young men on various important subjects : delivered before the young men of Indianapolis, Indiana, during the winter of 1843-4 (Indianapolis : Thomas B. Culter ; Cincinnati : Wm. H. Moore & Co., 1844) | have-ocr | IA `sevenlecturestoy00beec` |
+| Star papers : or, Experiences of art and nature (New York : J.C. Derby ; Boston : Phillips, Sampson, 1855) | have-ocr | IA `starpapersorexpe00inbeec` |
+| New star papers; or, Views and experiences of religious subjects (New York, Derby, 1859) | have-ocr | IA `newstarpapersorv00beec` |
+| Eyes and ears (Boston, Ticknor and Fields, 1862) | have-ocr | IA `eyesearshenry00beecrich` |
+| Freedom and war : discourses on topics suggested by the times (Boston : Ticknor and Fields, 1863) | have-ocr | IA `freedomwardiscou00beec` |
+| American rebellion : report of the speeches of the Rev. Henry Ward Beecher, delivered at public meetings in Manchester, Glasgow, Edinburgh, Liverpool, and London; and at the farewell breakfasts in London, Manchester, and Liverpool (Manchester : Union and Emancipation Society, 1864) | have-ocr | IA `americanrebellio00beec` |
+| Prayers in the congregation (catalogued 1868) | have-ocr | IA `prayersincongre01beecgoog` |
+| Norwood : or, Village life in New England (New York : C. Scribner & Co., 1868) | have-ocr | IA `norwoodorvillage00beec` |
+| Lecture-room talks : a series of familiar discourses on themes of general Christian experience (New York : J.B. Ford, 1870) | have-ocr | IA `lectureroomtal00beec` |
+| The life of Jesus the Christ ... [Vol. 1], vol. 1 (New York : J.B. Ford, 1871) | have-ocr | IA `lifeofjesuschri01beec` |
+| Yale lectures on preaching (New York : Fords, Howard, and Hulbert, 1872) | have-ocr | IA `yalelecturesonpr00beecuoft` |
+| Evolution and religion ... (New York : Fords, Howard & Hulbert, 1885) | have-ocr | IA `cu31924029074701` |
+| Patriotic addresses in America and England, from 1850 to 1885, on slavery, the Civil war, and the development of civil liberty in the United States, by Henry Ward Beecher (New York, Fords, Howard & Hulbert, 1887) | have-ocr | IA `patrioticaddress00beecrich` |
+| The Plymouth Pulpit and Sermons in Plymouth Church series (1868-1875, many volumes): left for a later round, scans need sorting by series and volume | pending | not shelved |
+| The Life of Jesus the Christ, vol. 2 (1891, completed by his sons): not yet located | pending | not shelved |
+| Selections others gathered from his sermons (Life Thoughts, Royal Truths, Notes from Plymouth Pulpit, 595 Pulpit Pungencies, Beecher as a Humorist, the Beecher Book of Days); the Plymouth Collection hymn books; Plain and Pleasant Talk about Fruits, Flowers and Farming (not divinity); Mrs. Beecher's Motherly Talks; biographies of him | excluded | |
+
+## Charles A. Briggs (round 57, my pick, 2026-10-23)
+
+Slugs `briggs-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| Address by Rev. Charles A. Briggs, D.D. : On occasion of his inauguration as Davenport Professor of Hebrew and the Cognate Languages in the Union Theological Seminary, New York City (New York : Press of Rogers & Sherwood, 1876) | have-ocr | IA `addressbyrevchar00brigrich` |
+| Biblical study, its principles, methods, and history (New York, C. Scribner's Sons, 1883) | have-ocr | IA `biblicalstudyits0000brig` |
+| American Presbyterianism : its origin and early history together with an appendix of letters and documents, many of which have recently been discovered (New York : C. Scribner, 1885) | have-ocr | IA `americanpresbyte00brig` |
+| Messianic prophecy : the prediction of the fulfillment of redemption through the Messiah, a critical study of the messianic passages of the Old Testament in the order of their development (Edinburgh: Clark, 1886) | have-ocr | IA `messianicprophec00brig` |
+| Whither? : a theological question for the times (New York : Charles Scribner's Sons, 1889) | have-ocr | IA `whithertheologic00brig` |
+| The authority of Holy Scripture : an inaugural address (New York : Scribner, 1891) | have-ocr | IA `authorityofholys00brig` |
+| The Bible, the church and the reason : the three great fountains of divine authority (New York : Scribner, 1892) | have-ocr | IA `thebiblethechurc00briguoft` |
+| The higher criticism of the Hexateuch, new edition (New York: C. Scribner's Sons, 1897) | have-ocr | IA `highercriticismo0000brig_i5x9` |
+| The defence of Professor Briggs before the General Assembly : the case against professor Briggs, part III (New York : Scribner's, 1893) | have-ocr | IA `defenceofprofes00brig` |
+| The Messiah Of The Gospels (catalogued 1894) | have-ocr | IA `messiahofgospels0000char` |
+| The Messiah of the apostles (New York, C. Scribner's Sons, 1895) | have-ocr | IA `messiahofapostle0000brig` |
+| General introduction to the study of Holy Scripture; the principles, methods, history, and results of its several departments and of the Hole (Edinburgh T. & T. Clark, 1899) | have-ocr | IA `studyofholyscrip00briguoft` |
+| The incarnation of the Lord : a series of sermons tracing the unfolding of the doctrine of the incarnation in the New Testament (New York : Charles Scribner's, 1902) | have-ocr | IA `incarnationoflor00brig` |
+| New light on the life of Jesus (New York, C. Scribner's sons, 1904) | have-ocr | IA `newlightonlifej01briggoog` |
+| The ethical teaching of Jesus (New York : Scribner's, 1904) | have-ocr | IA `ethicalteachingo00bri` |
+| A critical and exegetical commentary on the Book of Psalms (Edinburgh, T. & T. Clark, 1906) | have-ocr | IA `criticalexegetic0000brig_q1p1` |
+| A critical and exegetical commentary on the book of Psalms, vol. pt. 2 (New York, C. Scribner's sons, 1906) | have-ocr | IA `criticalexegetic1906brig2` |
+| highercriticismo00brig_0: the 1892 first edition; that scan lacks its title page | alternate | not shelved |
+| Pamphlets and papers by others in the heresy case (the Presbytery's charges, Warfield's answer, reviews of the inaugural); Briggs's own short pamphlets 1890-1894; Briggs, Driver and Brown's Hebrew Lexicon (held as BDB elsewhere) | excluded | |
+
+## Newman Smyth (round 57, my pick, 2026-10-23)
+
+Slugs `nsmyth-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The religious feeling. A study for faith (New York : Scribner, Armstrong & Co., 1877) | have-ocr | IA `religiousfeeling00smyt_0` |
+| Old faiths in new light (New York, Scribner, 1879) | have-ocr | IA `oldfaithsnew00smytuoft` |
+| The orthodox theology of to-day (New York : C. Scribner, 1881) | have-ocr | IA `orthodoxtheology0000smyt` |
+| The reality of faith (New York : C. Scribner's Sons, 1884) | have-ocr | IA `realityoffaith00smyt` |
+| The Morality of the Old Testament (Cassell, 1886) | have-ocr | IA `moralityoldtest00smytgoog` |
+| Christian facts and forces (New York, C. Scribner's sons, 1887) | have-ocr | IA `christianfactsfo00smyt` |
+| Personal creeds : or, How to form a working-theory of life (New York : C. Scribner's sons, 1890) | have-ocr | IA `personalcreedsor00smyt` |
+| Christian ethics (New York, C. Scribner's sons, 1892) | have-ocr | IA `christianethicsc00smyt` |
+| The place of death in evolution (New York : C. Scribner's Sons, 1897) | have-ocr | IA `placeofdeathinev0000smyt` |
+| Through science to faith (New York : C. Scribner's Sons, 1902) | have-ocr | IA `throughscienceto00smyt` |
+| Passing Protestantism and coming Catholicism (New York : C. Scribner's sons, 1908) | have-ocr | IA `passingprotestan00smyt` |
+| His translation of Dorner on the Future State (1883, Dorner's book); a Berlin guidebook miscatalogued under his name | excluded | |
+
+## J. Wilbur Chapman (round 57, my pick, 2026-10-23)
+
+Slugs `jwchapman-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The ivory palaces of the King (catalogued 1893) | have-ocr | IA `ivorypalacesofki00chap` |
+| Received ye the Holy Ghost? (New York, Chicago [etc.] Fleming H. Revell company, 1894) | have-ocr | IA `receivedyeholygh00chap` |
+| "And Peter" : and other sermons (Bible Institute Colportage Association, 1896) | have-ocr | IA `andpeterotherser00chap` |
+| The lost crown (Fleming H. Revell, 1898) | have-ocr | IA `lostcrown00chap` |
+| The life of blessing (W. R. Funk, Pub., 1899) | have-ocr | IA `lifeofblessing00chap` |
+| The surrendered life; quiet hour meditations (United Society of Christian endeavor, 1899) | have-ocr | IA `surrenderedlifeq00chap` |
+| The secret of a happy day: quiet hour meditations (United Societies of Christian Endeavor, 1899) | have-ocr | IA `secretofhappyday00chap` |
+| Revivals and missions (New York, Lentilhon, 1900) | have-ocr | IA `revivalsmissions01chap` |
+| The personal touch (New York : Fleming H. Revell, 1900) | have-ocr | IA `personaltouch00chap` |
+| From life to life; illustrations and anecdotes for the use of religious workers and for private meditation (Boston, Chicago, United society of Christian endeavor, 1900) | have-ocr | IA `fromlifetolifeil00chap` |
+| The life and work of Dwight L. Moody, presented to the Christian world as a tribute to the memory of the greatest apostle of the age (Philadelphia, Universal Pub, 1900) | have-ocr | IA `lifeworkofdwight00chap` |
+| Day by day; or, Meditations for the morning watch (Boston and Chicago, United society of Christian endeavor, 1901) | have-ocr | IA `daybydayormedita00chap` |
+| The man who said he would (Boston and Chicago, United society of Christian endeavor, 1902) | have-ocr | IA `manwhosaidhewoul00chap` |
+| Present-day evangelism (catalogued 1903) | have-ocr | IA `presentdayevange0000jwil` |
+| Fishing for men (Chicago, Winona Publishing. Co., 1904) | have-ocr | IA `fishingformen00chap` |
+| And Judas Iscariot with other evangelistic sermons (Chicago, Winona pub. co., 1906) | have-ocr | IA `andjudasiscariot00chap` |
+| S. H. Hadley of Water Street; a miracle of grace (New York : F. H. Revell, [c19) | have-ocr | IA `shhadleyofwaters00chapiala` |
+| Hymn books he compiled (Christian Hymns, Choice Hymns, Songs of Praise); The Way of Life and The Spiritual Life of the Sunday School (several authors) | excluded | |
+
+## Henry Cowles (Oberlin) (round 57, my pick, 2026-10-23)
+
+Slugs `cowles-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The minor prophets : with notes, critical, explanatory, and practical, designed for both pastors and people (New York : Appleton, 1871) | have-ocr | IA `minorprophetswit00cowl` |
+| Ezekiel and Daniel : with notes, critical, explanatory, and practical, designed for both pastors and people (New York : D. Appleton, 1871) | have-ocr | IA `ezekieldanielwit00cowlrich` |
+| Isaiah : with notes, critical, explanitory [sic] and practical (New York : D. Appleton, 1869) | have-ocr | IA `isaiahwithnotes00cowlgoog` |
+| Jeremiah, and his lamentations : with notes, critical, explanatory and practical, designed for both pastors and people (New York : D. Appleton, 1869) | have-ocr | IA `jeremiahandhisla00cowluoft` |
+| The Psalms ([n.p.], 1872) | have-ocr | IA `psalms00cowl` |
+| The Pentateuch, in its progressive revelations of God to men : designed for both pastors and people (New York : D. Appleton, 1877) | have-ocr | IA `pentateuchinitsp00cowl` |
+| Hebrew history, from the death of Moses to the close of the Scripture narrative (New York, D. Appleton & co., 1875) | have-ocr | IA `hebrewhistoryfro00cowl` |
+| The book of Job : with notes, critical, explanatory and practical (New York : Appleton, 1877) | have-ocr | IA `bookofjobwithnot00cowl` |
+| Proverbs, Ecclesiastes, and the Song of Solomon : with notes, critical, explanatory and practical (New York : Appleton, 1878) | have-ocr | IA `proverbsecclesia00cowl` |
+| The Gospel and Epistles of John (New York, D. Appleton & co., 1876) | have-ocr | IA `gospelepistlesof00cowl` |
+| The Revelation of John with notes critical, explanatory and practical : designed for both pastors and people (New York : D. Appleton, 1877) | have-ocr | IA `revelationofjohn00cowl` |
+| The shorter Epistles; viz: of Paul to the Galatians; Ephesians; Philippians; Colossians; Thessalonians; Timothy; Titus and Philemon; also, of James, Peter, and Jude (New York, D. Appleton & company, 1879) | have-ocr | IA `shorterepistlesv00cowl` |
+| The longer Epistles of Paul (New York, D. Appleton & company, 1880) | have-ocr | IA `longerepistlesof00cowl` |
+| Acts of the Apostles : with notes, critical, explanatory, and practical, designed for both pastors and people (N. Y. : D. Appleton, 1883) | have-ocr | IA `actsofapostleswi00cowl` |
+| His Matthew and Mark, Luke, and Hebrews volumes: not found on Internet Archive in round 57 | pending | not shelved |
+| Manuscript letters; Henry Cowles of other dates | excluded | |
+
+## James H. Fairchild (round 57, my pick, 2026-10-23)
+
+Slugs `fairchild-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| Oberlin, its origin, progress and results: an address, prepared for the alumni of Oberlin College, assembled August 22, 1860 (Oberlin : Shankland and Harmon, 1860) | have-ocr | IA `originoberlin00fairrich` |
+| Coeducation of the sexes : an address before a meeting of college presidents at Springfield, Ill ([S.l. : s.n.], 1867) | have-ocr | IA `coeducationofsex00fair` |
+| Present demand of the missionary work : a sermon preached at the sixty-eighth annual meeting of the American Board of Commissioners for Foreign Missions, Providence, Oct. 2, 1877 (Beacon Press, 1877) | have-ocr | IA `presentdemandofm00fair` |
+| Oberlin: the colony and the college, 1833-1883 (Oberlin E.J. Goodrich, 1883) | have-ocr | IA `oberlincolonycol00fairuoft` |
+| Moral science; or, The philosophy of obligation (New York, Sheldon & company, 1892) | have-ocr | IA `moralscienceorp01fairgoog` |
+| Elements of theology, natural and revealed (Oberlin, Ohio : E. J. Goodrich, 1892) | have-ocr | IA `elementsoftheolo00fair` |
+| Finney's Systematic Theology (1878), which he edited (Finney's book, held on the charles-finney shelf); Reminiscences of Finney (several speakers); Woman's Right to the Ballot (political); books by Charles S. Fairchild and others | excluded | |
+
+## Francis L. Patton (round 57, my pick, 2026-10-23)
+
+Slugs `patton-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The inspiration of the Scriptures (Philadelphia, Presbyterian Board of Publication, [186) | have-ocr | IA `inspirationofscr00pattuoft` |
+| Syllabus of Prof. Patton's lectures on theism (Princeton, N.J. : Princeton Press, 1888) | have-ocr | IA `syllabusofprofpa00patt` |
+| A discourse in memory of Archibald Alexander Hodge ([Philadelphia, Times printing house], 1887) | have-ocr | IA `discourseinmemor0000patt` |
+| The letter and the spirit ([n.p.], 1890) | have-ocr | IA `letterspirit00patt` |
+| Caspar Wistar Hodge : a memorial address (New York : Anson D. F. Randolph, 1891) | have-ocr | IA `casparwistarhodg00patt` |
+| A summary of Christian doctrine (Philadelphia : Westminster Press, 1898) | have-ocr | IA `summaryofchristi00patt_0` |
+| Fundamental Christianity (The Macmillan Company, 1926) | have-ocr | IA `fundamentalchris0000fran` |
+| The Patton vs. Swing trial volume (both sides, edited by others); Spanish translations; ethics syllabi (student notes of the same lectures) | excluded | |
+
+## Newman Hall (round 58, my pick, 2026-10-23)
+
+Slugs `nhall-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian philosopher triumphing over death. A narrative of the closing scenes of the life of the late William Gordon. To which is added a memoir of John D. Godman. By Thomas Sewall (Philadelphia, Presbyterian Board of publication, [185) | have-ocr | IA `christianphiloso00hallrich` |
+| Come to Jesus! (Confederate pamphlet printing, [1861]) | have-ocr | IA `cometojesus00hall` |
+| Now (catalogued 1859) | have-ocr | IA `now00hallgoog` |
+| Quench not the spirit (New York : Robert Carter & Brothers, 1861) | have-ocr | IA `quenchnotspirit00hall` |
+| The American war. By Newman Hall, LL.D, vol. 2 (New York, A.D.F. Randolph, 1862) | have-ocr | IA `americanwarbynew02hall` |
+| A sermon on the assassination of Abraham Lincoln : preached at Surrey Chapel, London, Sunday, May 14, 1865 (Boston : Bartlett and Halliday, 1865) | have-ocr | IA `sermononassassin00hall` |
+| Sermons (Gould and Lincoln, 1868) | have-ocr | IA `sermons00hallgoog` |
+| The reasonableness and efficacy of prayer (Boston : Noyes, Holmes, & Company, 1874) | have-ocr | IA `reasonablenessef00hall` |
+| The Lord's prayer : a practical meditation (Edinburgh : T. & T. Clark, 1883) | have-ocr | IA `lordsprayerpract00hall` |
+| Atonement : the fundamental fact of Christianity ([London] : Religious Tract Society, 1893) | have-ocr | IA `atonementfundame00hall` |
+| Newman Hall, an autobiography (New York, Thomas Y. Crowell, 1898) | have-ocr | IA `newmanhallautobi00hall` |
+| Translations of Come to Jesus (Japanese, Icelandic, Gaelic, Cherokee); his father John Vine Hall's autobiography, which he edited; travel books and verse | excluded | |
+| cometojesus00hall_0: the 1858 Creek-language translation (Cesvs a oh vtes), not the English text | excluded | |
+
+## Alexander Raleigh (round 58, my pick, 2026-10-23)
+
+Slugs `araleigh-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The story of Jonah the prophet (Edinburgh : Adam and Charles Black, 1867) | have-ocr | IA `storyofjonahprop00ralerich` |
+| Quiet Resting Places and Other Sermons (Adam and Charles Black, 1873) | have-ocr | IA `quietrestingpla00ralegoog` |
+| The Little Sanctuary and other Meditation (catalogued 1873) | have-ocr | IA `littlesanctuaryo0000alex` |
+| The Book of Esther : its practical lessons and dramatic scenes (Edinburgh : A. and C. Black, 1880) | have-ocr | IA `bookofestheritsp00rale` |
+| Thoughts for the weary and the sorrowful (Edinburgh, 1882) | have-ocr | IA `ThoughtsForTheWeary` |
+| From Dawn to The Perfect Day (catalogued 1883) | have-ocr | IA `fromdawntoperfec0000alex` |
+| Sir Walter Raleigh (1861-1922), the literary critic, and Sir Walter Raleigh (d. 1618) | excluded | |
+
+## Henry Allon (round 58, my pick, 2026-10-23)
+
+Slugs `allon-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The vision of God, and other sermons (London : Hodder and Stoughton, 1876) | have-ocr | IA `visionofgodother00allo` |
+| The Indwelling Christ and Other Sermons (T. Whittaker, 1892) | have-ocr | IA `indwellingchris00allogoog` |
+| The Congregational Psalmist and other hymn and tune books he edited; British Quarterly Review volumes; the Memorial volume (by others) | excluded | |
+
+## J. Baldwin Brown (round 58, my pick, 2026-10-23)
+
+Slugs `jbbrown-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Aids to the development of the divine life [sermons] (catalogued 1861) | have-ocr | IA `aidstodevelopme00browgoog` |
+| The soul's exodus and pilgrimage ([n.p.], 1862) | have-ocr | IA `soulsexoduspilgr00brow` |
+| The divine treatment of sin (Jackson, 1864) | have-ocr | IA `divinetreatment00browgoog` |
+| The home life, in the light of its divine idea (New York : D. Appleton, 1867) | have-ocr | IA `homelifeinlighto00browrich` |
+| Idolatries, old & new: their cause and cure (catalogued 1867) | have-ocr | IA `idolatriesoldne00browgoog` |
+| Misread Passages of Scripture (Carlton & Lanahan, 1869) | have-ocr | IA `misreadpassages01browgoog` |
+| The Divine Mysteries: The Divine Treatment of Sin and The Divine Mystery of Peace (Carlton & Lanahan, 1869) | have-ocr | IA `divinemysteries00browgoog` |
+| The Sunday afternoon; 52 brief sermons (catalogued 1871) | have-ocr | IA `sundayafternoon00browgoog` |
+| First principles of ecclesiastical truth : essays on the church and society (London : Hodder and Stoughton, 1871) | have-ocr | IA `firstprincipleso00brow` |
+| The higher life, its reality, experiences and destiny (London, King, 1874) | have-ocr | IA `higherlifeitsrea00browuoft` |
+| The doctrine of annihilation in the light of the gospel of love (London, H. S. King & co., 1875) | have-ocr | IA `doctrineofannihi00brow` |
+| His father James Baldwin Brown (1785-1843): Memoirs of Howard and The Investigator; Our Morals and Manners (1872, a short tract) | excluded | |
+
+## H. Grattan Guinness (round 58, my pick, 2026-10-23)
+
+Slugs `guinness-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons (New York Robert Carter and Brothers 530 broadway, 1860) | have-ocr | IA `sermons0000revh_s2o4` |
+| The approaching end of the age viewed in the light of history, prophecy, and science (London : Hodder and Stoughton, 1880) | have-ocr | IA `approachingendof00guin` |
+| Light for the last days : a study historic and prophetic (Toronto : S.R. Briggs, 1886) | have-ocr | IA `lightforlastdays00guin` |
+| The wide world and our work in it : or, the story of the East London Institute for Home and Foreign Missions (London : Hodder and Stoughton, 1886) | have-ocr | IA `wideworldourwork00guin` |
+| Romanism and the Reformation from the standpoint of prophecy (Toronto, S.R. Briggs, [188) | have-ocr | IA `romanismreformat00guinuoft` |
+| The divine programme of the world's history (London : Harley House, 1892) | have-ocr | IA `thedivineprogram00guinuoft` |
+| New world of Central Africa : with a history of the first Christian mission on the Congo (London : Hodder and Stoughton, 1890) | have-ocr | IA `newworldofcentra00guin_0` |
+| The city of the seven hills (London, J. Nisbet, 1891) | have-ocr | IA `cu31924013475896` |
+| Creation centred in Christ, vol. 1 (London, Hodder & Stoughton, 1896) | have-ocr | IA `creationcentred01guingoog` |
+| History unveiling prophecy : or, Time as an interpreter (New York : F.H. Revell, 1905) | have-ocr | IA `HistoryUnveilingProphecy` |
+| Congo-language scripture epitome; Congo reform pamphlets and books by his children (Not unto Us, Bokwala); uploads without scans | excluded | |
+
+## Mark Guy Pearse (round 58, my pick, 2026-10-23)
+
+Slugs `mgpearse-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Praise : meditations in the one hundred and third Psalm (Cincinnati : Jennings & Pye, 1862) | have-ocr | IA `praisemeditation00pear` |
+| Mister Horn and his friends, or, Givers and giving (New York : Nelson & Phillips ; Cincinnati : Hitchcock & Walden, 1877) | have-ocr | IA `misterhornhisfri00peariala` |
+| Daniel Quorm; and his religious notions (London : Wesleyan Conference Office, 1875) | have-ocr | IA `danielquormhisre00pear` |
+| Sermons for children (Wesleyan-Methodist Sunday School Union, 1876) | have-ocr | IA `sermonsforchild01peargoog` |
+| John Tregenoweth, his mark (New York : Nelson & Phillips ; Cincinnati : Hitchcock & Walden, 1877) | have-ocr | IA `johntregenowethh00pear` |
+| Homely talks (Wesleyan Conference Office, 1880) | have-ocr | IA `homelytalks00peargoog` |
+| Thoughts on Holiness (catalogued 1884) | have-ocr | IA `Thoughts_on_Holiness_by_Mark_Guy_Pearse` |
+| Some aspects of the blessed life (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887) | have-ocr | IA `someaspectsofbl00pear` |
+| Short talks for the times (Charles H. Kelly, 1889) | have-ocr | IA `shorttalksfortim0000mark` |
+| Parables an pictures (london: charles h. kelly, 1897) | have-ocr | IA `parablespictures0000mark` |
+| The gentleness of jesus (Horace Marshall & Son, 1898) | have-ocr | IA `gentlenessofjesu0000mark` |
+| The god of our pleasures (catalogued 1898) | have-ocr | IA `godofourpleasure0000mark` |
+| Egerton Young's By Canoe and Dog-Train (he only introduced it); the Thompson memoir (another author); a Gaelic tract | excluded | |
+
+## Joseph Angus (round 58, my pick, 2026-10-23)
+
+Slugs `angus-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The voluntary system: a prize essay, in reply to the lectures of Dr. Chalmers on church establishments (London, Jackson and Walford, 1839) | have-ocr | IA `voluntarysystemp00angu` |
+| Christ our life: in its origin, law, and end (Philadelphia, American Baptist publication society, 1853) | have-ocr | IA `christourlifeini00angu` |
+| The Bible hand-book : an introduction to the study of Sacred Scripture (Philadelphia : W.S. & A. Martien, 1857) | have-ocr | IA `biblehandbookint00angu_0` |
+| Apostolic missions, the gospel for every creature : a sermon first preached before the Baptist Missionary Society, April 26, 1871 (London : James Nisbet & Co., 1871) | have-ocr | IA `apostolicmission00angu` |
+| His editions of Butler's Analogy (Butler's book); his Handbooks of the English Tongue and of English Literature (not divinity); Welsh and Italian translations of the Bible Hand-book | excluded | |
+
+## Samuel Cox (round 58, my pick, 2026-10-23)
+
+Slugs `scox-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The quest of the chief good : expository lectures on the book Ecclesiastes, with a new translation : a commenrary for laymen (London : A. Miall, 1868) | have-ocr | IA `questofchiefgood00coxs` |
+| Expository essays and discourses (London : Hodder and Stoughton, 1877) | have-ocr | IA `expositoryessays0000coxs` |
+| Salvator Mundi : or, Is Christ the Savior of all men ? (New York : Dutton, 1878) | have-ocr | IA `salvatormundiori00coxs` |
+| An expositor's note-book, or, Brief essays on obscure or misread Scriptures (London : Hodder and Stoughton, 1879) | have-ocr | IA `expositorsnotebo0000coxs` |
+| The genesis of evil, and other sermons, mainly expository (London : G. Kegan Paul & Co., 1880) | have-ocr | IA `genesisofeviloth00coxs` |
+| A commentary on the book of Job : with a translation (London : C. Kegan Paul & Co., 1880) | have-ocr | IA `ldpd_10824381_000` |
+| Miracles; an argument and a challenge (London, Kegan Paul, Trench & Co., 1884) | have-ocr | IA `MiraclesAnArgument` |
+| privatelettersof00coxs: The Private Letters of St. Paul and St. John (1867). This scan has lost its title page and nothing in the text names the author; pending a complete copy. | pending | not shelved |
+| The Expositor volumes he edited (many contributors) | excluded | |
+
+## Hugh Macmillan (round 58, my pick, 2026-10-23)
+
+Slugs `hmacmillan-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Bible teachings in nature (catalogued 1867) | have-ocr | IA `bibleteachingsi01macmgoog` |
+| The ministry of nature (London : Macmillan, 1871) | have-ocr | IA `ministryofnature0000macm` |
+| The true vine; or, The analogies of our Lord's allegory (catalogued 1871) | have-ocr | IA `truevineoranalo00macmgoog` |
+| Sun-glints in the wilderness (London : William Hunt and Co., 1872) | have-ocr | IA `sunglintsinwilde0000macm` |
+| Our Lord's three raisings from the dead (Glasgow : J. Maclehose ; London : Macmillan, 1876) | have-ocr | IA `ourlordsai00macm` |
+| Two worlds are ours (London : Macmillan, 1880) | have-ocr | IA `twoworldsareours00macm` |
+| The marriage in Cana of Galilee (London, Macmillan & co., 1882) | have-ocr | IA `marriageincanaof00macm` |
+| The olive leaf (London, Macmillan, [188) | have-ocr | IA `oliveleafmacmill00macmrich` |
+| Roman mosaics; or, Studies in Rome and its neighbourhood (London, MacMillan, 1888) | have-ocr | IA `romanmosaicsorst00macmuoft` |
+| The sabbath of the fields (macmillan and co., 1889) | have-ocr | IA `sabbathoffields0000revh` |
+| The mystery of grace and other sermons (London, Hodder and Stoughton, 1893) | have-ocr | IA `mysteryofgraceot0000macm` |
+| The clock of nature (London : Isbister, 1898) | have-ocr | IA `clockofnature00macm` |
+| His botanical books (Footnotes from the Page of Nature / First Forms of Vegetation, Holidays on High Lands, The Rare Lichens of Glencroe); the Memoir of Daniel Macmillan (Thomas Hughes's) | excluded | |
+
+## Hugh McNeile (round 58, my pick, 2026-10-23)
+
+Slugs `hmcneile-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The Times of the Gentiles (J. Hatchard and Son, 1828) | have-ocr | IA `timesgentiles00mcnegoog` |
+| England's protest is England's shield: For the Battle is the Lord's (J. Hatchard and Son ..., 1829) | have-ocr | IA `englandsprotest00mcnegoog` |
+| Popular lectures on the prophecies relative to the Jewish nation (J. Hatchard and Son, 1830) | have-ocr | IA `popularlectures00mcnegoog` |
+| Letters to a friend who has felt it his duty to secede from the Church of England (catalogued 1834) | have-ocr | IA `letterstoafrien00mcnegoog` |
+| Lectures on the Church of England : delivered in London, March, 1840 (London : J. Hatchard, 1840) | have-ocr | IA `lecturesonthechu00mcneuoft` |
+| Sermons on the second advent of the Lord Jesus Christ ([n.d.], 1840) | have-ocr | IA `sermonsonseconda00mcne` |
+| A lecture on the life of Dr. Franklin (New York : Henderson Greene ; Philadelphia : Carey and Hart, 1841) | have-ocr | IA `lectureonlifeofd00mcne` |
+| The Church and the churches : The Church of God in Christ, and the churches of Christ militant here on earth (London : J. Hatchard, 1846) | have-ocr | IA `churchchurchesch00mcne` |
+| A. H. McNeile (1871-1933): his Ecclesiastes, Exodus and Numbers commentaries (1904-1911); letters to and about him by others; the Jezebel speech volume (miscatalogued compilation) | excluded | |
+
+## Edward Irving (round 59, my pick, 2026-10-23)
+
+Slugs `eirving-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| For the oracles of God, four orations : for judgment to come, an argument, in nine parts (Philadelphia : A. Sherman, 1824) | have-ocr | IA `fororaclesofgodf00irvi` |
+| For missionaries after the apostolical school : a series of orations (New York : E. Bliss & E. White, 1825) | have-ocr | IA `formissionariesa00irvi` |
+| Sermons, lectures, and occasional discourses, vol. 1 (London : R.B. Seeley and W. Burnside, 1828) | have-ocr | IA `sermonslectures00irvigoog` |
+| The last days: a discourse on the evil character of these our times, proving them to be the "Perilous times" of the "Last days" (London, Seeley, 1828) | have-ocr | IA `lastdaysdiscours00irviuoft` |
+| The Church and state responsible to Christ, and to one another; a series of discourses on Daniel's vision of the four beasts (London, Nisbet, 1829) | have-ocr | IA `churchstaterespo00irviuoft` |
+| The collected writings of Edward Irving, vol. 1 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting01irvi` |
+| The collected writings of Edward Irving, vol. 2 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting02irvi` |
+| The collected writings of Edward Irving, vol. 3 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting03irvi` |
+| The collected writings of Edward Irving, vol. 4 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting04irvi` |
+| The collected writings of Edward Irving, vol. 5 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting05irvi` |
+| The trial before the Presbytery of London (proceedings compiled by others); histories of Irvingism and the Catholic Apostolic Church by others; Mrs Oliphant's Life of Edward Irving | excluded | |
+
+## Robert Vaughan (1795-1868) (round 59, my pick, 2026-10-23)
+
+Slugs `rvaughan-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| The life and opinions of John de Wycliffe; illus. principally from his unpublished manuscripts; with a preliminary view of the Papal system, and of the state of the Protestant doctrine in Europe, to the commencement of the fourteenth century, vol. 1 (London : B.J. Holdsworth, Hatchard and Son, 1828) | have-ocr | IA `lifeopinionsofj01vaug` |
+| The life and opinions of John de Wycliffe; illus. principally from his unpublished manuscripts; with a preliminary view of the Papal system, and of the state of the Protestant doctrine in Europe, to the commencement of the fourteenth century, vol. 2 (London : B.J. Holdsworth, Hatchard and Son, 1828) | have-ocr | IA `lifeopinionsofjo02vaug` |
+| The causes of the corruption of Christianity, vol. 3 (London Jackson and Walford, 1834) | have-ocr | IA `causesofcorrupti03vauguoft` |
+| Thoughts on present and past state of religious parties in England (London, Jackson, 1838) | have-ocr | IA `thoughtsonpresen00vaug` |
+| The modern pulpit viewed in its relation to the state of society (London, Jackson and Walford, 1842) | have-ocr | IA `modernpulpitview00vaug` |
+| Congregationalism : or The polity of independent church viewed in relation to the state and tendencies of modern society (London : Jackson and Walford, 1842) | have-ocr | IA `congregationalis00vaug` |
+| Essays on history, philosophy, and theology, vol. 1 (London : Jackson and Walford, 1849) | have-ocr | IA `essaysonhistoryp01vaug` |
+| John de Wycliffe : a monograph, with some account of the Wycliffe mss. in Oxford, Cambridge, the British museum, Lambeth palace, and Trinity college, Dublin (London : Seeleys, 1853) | have-ocr | IA `johndewycliffemo00vaug` |
+| His son Robert Alfred Vaughan (1823-1857): Hours with the Mystics and the Essays and Remains (with a memoir by his father) | excluded | |
+
+## Henry Rogers (1806-1877) (round 59, my pick, 2026-10-23)
+
+Slugs `hrogers-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Reason and faith : their claims and conflicts, with an appendix, containing some additional remarks on the characteristics of Strauss' "Life of Jesus (London : Longman, Brown, Green, and Longmans, 1850) | have-ocr | IA `reasonfaiththeir00roge` |
+| The life and character of John Howe, with an analysis of his writings (London, 1850) | have-ocr | IA `lifeandcharacte03rogegoog` |
+| Essays, selected from contributions to the Edinburgh review (London, Longman, 1850) | have-ocr | IA `essaysselectedf00rogegoog` |
+| The eclipse of faith, or, A visit to a religious sceptic (Boston : Crosby, Nichols, 1853) | have-ocr | IA `eclipseoffaithor00roge_0` |
+| A defence of "The eclipse of faith" (Boston : Crosby, Nichols, 1854) | have-ocr | IA `defenceoftheecli00roge` |
+| The Greyson letters: selections from the correspondence of R. E. H. Greyson, esq. [pseud.] (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & Co.; [etc., etc.], 1857) | have-ocr | IA `greysonlettersse00roge` |
+| Henry Rogers the American geologist and other Henry Rogerses | excluded | |
+
+## John Harris (1802-1856) (round 59, my pick, 2026-10-23)
+
+Slugs `jharris-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Mammon; or, Covetousness the sin of the Christian church (London, T. Ward and co., 1836) | have-ocr | IA `mammonorcovet00harr` |
+| The Great Teacher: characteristics of Our Lord's ministry (Amherst, J. S. and C. Adams, 1836) | have-ocr | IA `greatteacherch00harr` |
+| Union : or, the divided church made one (London : T. Ward and co., 1837) | have-ocr | IA `unionordividedch00harr` |
+| Zebulon : or, The moral claims of seamen stated and enforced (Boston : Gould, Kendall & Lincoln, 1837) | have-ocr | IA `zebulonormoralcl00harriala` |
+| The great commission: or, The Christian church constituted and charged to convey the gospel to the world (Boston, Gould, Kendall and Lincoln, 1842) | have-ocr | IA `greatcommissioncco00harr` |
+| Miscellanies : consisting principally of sermons and essays (Boston : Gould, Kendall and Lincoln, 1844) | have-ocr | IA `miscellaniescons00harrrich` |
+| The pre-adamite earth; contributions to theological science (London : Ward, [184) | have-ocr | IA `preadamiteearthc00harr` |
+| Man primeval: or, The constitution and primitive condition of the human being. A contribution to theological science (Botson, Gould, Kendall and Lincoln, 1850, 1850) | have-ocr | IA `manprimevalorcon01harr` |
+| Other John Harrises: the lexicographer (1666-1719), the Bishop of Llandaff, the Australian and American writers of that name | excluded | |
+
+## Robert Halley (round 59, my pick, 2026-10-23)
+
+Slugs `halley-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| The Sinfulness of Colonial Slavery: A Lecture, Delivered at the Monthly Meeting of (Hamilton, Adams, and Co., 1833) | have-ocr | IA `sinfulnesscolon00hallgoog` |
+| The Sacraments; an inquiry into the nature of the symbolic institutions of the Christian religion, usually called the Sacraments, vol. 2 (London, Jackson and Walford, 1844) | have-ocr | IA `sacramentsinquir02hall` |
+| A reply to the lectures of the Rev. Charles Stovel on Christian discipleship and baptism, and to the strictures of the Rev. Dr. Wardlaw, in an appendix to his dissertation on infant baptism (London : Jackson and Walford, 1847) | have-ocr | IA `replytolectureso00hall` |
+| Lancashire, its Puritanism and Nonconformity (Manchester, Tubbs, 1872) | have-ocr | IA `lancashireitspu00hall` |
+| The relation of the Church to the State (catalogued 1870) | have-ocr | IA `relationchurcht00hallgoog` |
+| Edmond Halley the astronomer; Robert Halley's own memoir by his son | excluded | |
+
+## John Stoughton (round 59, my pick, 2026-10-23)
+
+Slugs `stoughton-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Spiritual heroes, or, Sketches of the Puritans : their character and times (New York : M.W. Dodd, 1848) | have-ocr | IA `spiritualheroeso00stou` |
+| Philip Doddridge, his life and labours : a centenary memorial (London : Jackson and Walford, 1851) | have-ocr | IA `philipdoddridge00stouuoft` |
+| Ages of Christendom before the Reformation (London, England : Jackson and Walford, 1857) | have-ocr | IA `agesofchristend00stouuoft` |
+| His Ecclesiastical History of England (1867-1884) and History of Religion in England: volumes to be gathered as a set in a later round | pending | not shelved |
+| John Stoughton the Puritan (d. 1639); Hodder & Stoughton imprints by other authors | excluded | |
+
+## Thomas Raffles (round 59, my pick, 2026-10-23)
+
+Slugs `raffles-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Memoirs of the life and ministry of the late Rev. Thomas Spencer, of Liverpool : with an appendix, containing a selection from his papers, &c (Boston ; Published by C. Williams, 1813) | have-ocr | IA `memoirsoflifemin00raff` |
+| Purgatory and prayers for the dead : a lecture delivered in Grinshaw-Street and Lune-Street chapels, Preston, March 22nd and 29th, 1821 (Liverpool : Thomas Taylor, 1821) | have-ocr | IA `PurgatoryAndPrayersForTheDead` |
+| Sir Thomas Stamford Raffles, his cousin, and the memoir of Thomas Raffles by his son | excluded | |
+
+## R. F. Horton (round 59, my pick, 2026-10-23)
+
+Slugs `rfhorton-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Inspiration and the Bible : an inquiry (London : T. F. Unwin, 1888) | have-ocr | IA `inspirationbible00hort` |
+| The book of Proverbs (Toronto : Willard Tract Depository and Bible Depot, 1891) | have-ocr | IA `thebookofproverb00hortuoft` |
+| Revelation and the Bible : an attempt at reconstruction (New York : Macmillan, 1892) | have-ocr | IA `revelationbiblea0000hort` |
+| Verbum Dei. The Yale lectures on preaching, 1893 (New York, London, Macmillan & co., 1893) | have-ocr | IA `verbumdeiyalelec00hort` |
+| The cartoons of St. Mark (London, J. Clarke, 1894) | have-ocr | IA `cartoonsofstmark00hort` |
+| John Howe (London : Methuen, 1895) | have-ocr | IA `johnho00hort` |
+| The teaching of Jesus in eighteen sections (London : Isbister, 1895) | have-ocr | IA `teachingofjesusi00hort` |
+| Oliver Cromwell; a study in personal religion (London, J. Clarke, 1897) | have-ocr | IA `cu31924027976715` |
+| His autobiography (1917) and any work printed after 1929 | excluded | |
+
+## John Clifford (round 59, my pick, 2026-10-23)
+
+Slugs `jclifford-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Hints on Bible study (New York : F.H. Revell Co., 1890) | have-ocr | IA `hintsonbiblestud00clif` |
+| The Christian certainties : discourses and addresses in exposition and defence of the Christian faith (London : Isbister, 1893) | have-ocr | IA `christiancertain0000clif` |
+| The inspiration and authority of the Bible (London : J. Clarke, 1895) | have-ocr | IA `inspirationautho00clif` |
+| Typical Christian leaders (London, H. Marshall, 1898) | have-ocr | IA `typicalchristian0000clif` |
+| Social worship : an everlasting necessity (London : J. Clarke, 1899) | have-ocr | IA `socialworshipeve0000clif` |
+| The ultimate problems of Christianity :  eight lectures (London : Kingsgate Press, 1906) | have-ocr | IA `ultimateproblems00clif` |
+| The gospel of gladness and its meaning for us (Edinburgh : T. & T. Clark, 1912) | have-ocr | IA `thoughtsandteach00clifuoft` |
+| The gospel of world brotherhood according to Jesus (London : Hodder and Stoughton, 1920) | have-ocr | IA `gospelofworldbro0000clif` |
+| The English Baptists: Who They Are and What They Have Done (1881, essays by several hands); W. K. Clifford's works | excluded | |
+
+## Hugh Price Hughes (round 59, my pick, 2026-10-23)
+
+Slugs `hphughes-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Social Christianity : sermons delivered in St. James's hall, London (New York : Funk and Wagnalls, [188) | have-ocr | IA `socialchristiani00hugh` |
+| The Philanthropy of Gods (catalogued 1889) | have-ocr | IA `philanthropyofgo0000hugh` |
+| Ethical Christianity : a series of sermons (London : Sampson Low, Marston & Company Limited, 1892) | have-ocr | IA `ethicalchrist00hughuoft` |
+| Essential Christianity (New York, Chicago, Toronto, Fleming H. Revell company, 1894) | have-ocr | IA `essentialchristi00hugh` |
+| The Life of Hugh Price Hughes by his daughter (1904) | excluded | |
+
+## A. M. Fairbairn (round 59, my pick, 2026-10-23)
+
+Slugs `amfairbairn-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Studies in the philosophy of religion and the history (London : W. Mullan, 1877) | have-ocr | IA `studiesinphiloso00fair` |
+| Studies in the life of Christ (London : Hodder and Stoughton, 1882) | have-ocr | IA `studieslifechris00fairuoft` |
+| The city of God: a series of discussions in religion (Hodder and Stoughton, 1883) | have-ocr | IA `citygodaseriesd00fairgoog` |
+| The place of Christ in modern theology (London, Hodder, 1893) | have-ocr | IA `placeofchristinm00fairuoft` |
+| Christ in the centuries and other sermons (London, S. Low, Marston, 1893) | have-ocr | IA `christincenturie00fair` |
+| Religion in history and in modern life; together with an essay on the church and the working classes (New York, Anson D. F. Randolph & Co., 1894) | have-ocr | IA `religioninhis00fair` |
+| Patrick Fairbairn's works (fairbairn shelf); the Life of R. W. Dale is by Dale's son, with Fairbairn only contributing | excluded | |
+
+## Austin Phelps (round 60, my pick, 2026-10-23)
+
+Slugs `aphelps-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| The still hour; or, Communion with God (Boston, Gould and Lincoln; New York, Sheldon and company; [etc.,], 1860) | have-ocr | IA `stillhourorcommu00phel` |
+| The relations of the Bible to the civilization of the future (Boston : W. White, printer to the state, 1861) | have-ocr | IA `relationsofbible00phel` |
+| The new birth, or, The work of the Holy Spirit (Boston : Gould and Lincoln ; New York : Sheldon and Co., 1867) | have-ocr | IA `newbirthorworkof00phel` |
+| Studies of the Old Testament (Boston : Congregational Pub. Society, 1878) | have-ocr | IA `studiesofoldtestam00phel` |
+| The theory of preaching : lectures on homiletics (New York : Scribner, 1881) | have-ocr | IA `theoryofpreachin00pheluoft` |
+| Men and books, or, Studies in homiletics : lectures introductory to The theory of preaching (New York : C. Scribner's Sons, 1882) | have-ocr | IA `menbooksorstudi00phel` |
+| My portfolio : a collection of essays (New York : C. Scribner' Sons, 1882) | have-ocr | IA `myportfoliocolle00phel` |
+| English style in public discourse with special reference to the usages of the pulpit (New York : C. Scribner's sons, 1883) | have-ocr | IA `englishstyleinpu00phel` |
+| My note-book : fragmentary studies in theology, and subjects adjacent thereto (New York : C. Scribner's Sons, 1891) | have-ocr | IA `mynotebookfragment00phel` |
+| The Sabbath Hymn Book (1858) and Hymns and Choirs (1860), both made with E. A. Park and others; the 1895 Rhetoric abridgement by Henry Allyn Frink; the 1947 abridged Theory of Preaching | excluded | |
+
+## George B. Cheever (round 60, my pick, 2026-10-23)
+
+Slugs `cheever-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| The hierarchical despotism. Lectures ([n.p.], 1844) | have-ocr | IA `hierarchicaldesp00chee` |
+| Lectures on the Pilgrim's progress, and on the life and times of John Bunyan (Glasgow W. Collins, 1846) | have-ocr | IA `lecturesonpilgri00cheeuoft` |
+| A defence of capital punishment (New York : Wiley and Putnam, 1846) | have-ocr | IA `defenceofcapital00chee` |
+| Wanderings of a pilgrim in the shadow of Mont Blanc (New York, J. Wiley, 1848) | have-ocr | IA `wanderingsofpilg00cheeuoft` |
+| The hill difficulty ([n. p.], 1849) | have-ocr | IA `hilldifficulty00chee` |
+| Voices of nature to her foster-child, the soul of man : a series of analogies between the natural and the spiritual world (Glasgow : Published by William Collins, 1852) | have-ocr | IA `cu31924100712417` |
+| Deacon Giles's distillery, and other miscellanies (New York, J. Wiley, 1853) | have-ocr | IA `deacongilessdist00cheerich` |
+| The powers of the world to come ([n.p.], 1853) | have-ocr | IA `powersofworldtoc00chee` |
+| Right of the bible in our public schools (catalogued 1854) | have-ocr | IA `rightofbibleinou00chee` |
+| Windings of the river of the water of life : in the development, discipline, and fruits of faith (New York : J. Wiley, 1855) | have-ocr | IA `windingsofrivero00chee` |
+| Lectures on the life, genius and insanity of Cowper (New York, R. Carter & brothers, 1856) | have-ocr | IA `lecturesonlifege00chee` |
+| God against slavery: and the freedom and duty of the pulpit to rebuke it, as a sin against God (Cincinnati: Am. Reform Tract and Book Society, 1857) | have-ocr | IA `godagainstslave00chee` |
+| The guilt of slavery and the crime of slaveholding, demonstrated from the Hebrew and Greek scriptures (Boston, J. P. Jewett & company, 1860) | have-ocr | IA `guiltofslaverycr00chee` |
+| Anthologies he compiled or edited (The American Common-Place Book of Poetry and of Prose, The Poets of America, The Prose Writers of America, Leighton's Select Works, The Journal of the Pilgrims, Christian Melodies); his brother Henry T. Cheever's books | excluded | |
+
+## Nehemiah Adams (round 60, my pick, 2026-10-23)
+
+Slugs `nadams-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarks on the Unitarian belief : with a letter to a Unitarian friend on the Lord's supper (Boston : Peirce and Parker, 1832) | have-ocr | IA `remarksonunitar01adamgoog` |
+| The Baptized Child (catalogued 1842) | have-ocr | IA `baptizedchild00adamgoog` |
+| The life of John Eliot; with an account of the early missionary efforts among the Indians of New England (Boston, Massachusetts Sabbath School Society, 1847) | have-ocr | IA `lifeofjohneliotw00adamuoft` |
+| The friends of Christ in the New Testament: thirteen discourses (Boston : T.R. Marvin, 1853) | have-ocr | IA `cu31924029328857` |
+| Christ a friend : thirteen discourses (Boston : John P. Jewett, 1855) | have-ocr | IA `christfriendthir00adam` |
+| A South-side view of slavery; or, Three months at the South in 1854 (Boston, T.R. Marvin, 1855) | have-ocr | IA `southsideviewofs00adamuoft` |
+| The communion sabbath (Boston : J.P. Jewett, 1856) | have-ocr | IA `communionsabbath00adam` |
+| Agnes and the key of her little coffin (Boston, S. K. Whipple and Company, 1857) | have-ocr | IA `agneskeyofherlit00adam` |
+| The reasonableness of future, endless punishment / by Nehemiah Adams (Gould and Lincoln, 1858) | have-ocr | IA `reasonablenessof00adam` |
+| Why am I a Trinitarian Congregationalist? (catalogued 1858) | have-ocr | IA `whyamitrinitaria00adam` |
+| Catharine (Boston: J. E. Tilton and Company. New York: Sheldon & Co. London; Knight & Son, 1859) | have-ocr | IA `catharine00adamrich` |
+| remarksonunitari00adam (the same 1832 printing; its title page is garbled in the OCR) swapped for this Google scan, whose title page reads 'By Nehemiah Adams, Pastor of the First Church of Christ in Cambridge' | alternate | not shelved |
+| Thomas Shepard's Autobiography (1832), which he only edited; the 1859 Discussion of future punishment (a debate with others); the Essex Street memorial volume (by the church) | excluded | |
+
+## Ebenezer Porter (round 60, my pick, 2026-10-23)
+
+Slugs `eporter-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| The duty of Christians to pray for the missionary cause : a sermon preached in Boston, November 1, 1827, before the Society for Propagating the Gospel among the Indians and Others in North America (Andover [Mass.] : Printed by Flagg and Gould, 1827) | have-ocr | IA `dutyofchristians00port` |
+| Analysis of the principles of rhetorical delivery as applied in reading and speaking (Andover, Mass., M. Newman; New York, J. Leavitt; [etc., etc.], 1827) | have-ocr | IA `analysisofprinc00port` |
+| Great effects from little causes : a sermon delivered at the anniversary of a moral society ([New York : American Tract Society, 1830) | have-ocr | IA `greateffectsfrom00port` |
+| Lectures on homiletics and preaching and on public prayer ; together with sermons and letters (London : Thomas Ward, 185-) | have-ocr | IA `lectureshomileti00portuoft` |
+| Lectures on Eloquence and Style (Gould and Newman ; Griffin, Wilcox, 1836) | have-ocr | IA `lecturesoneloqu00portgoog` |
+| The Young Preacher's Manual (treatises by Fenelon, Claude and others, which he collected); The Rhetorical Reader and The Biblical Reader (school readers of extracts); Ebenezer Porter Mason the astronomer | excluded | |
+
+## Heman Humphrey (round 60, my pick, 2026-10-23)
+
+Slugs `humphrey-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays upon the origin, perpetuity, change, and proper observance of the sabbath (New York : Jonathan Leavitt ; Boston : Crocker and Brewster, 1829) | have-ocr | IA `essaysuponorigin00hump` |
+| Miscellaneous Discourses and Reviews (J. S. and C. Adams, 1834) | have-ocr | IA `miscellaneousdi00humpgoog` |
+| Domestic Education (J.S. & C. Adams, 1840) | have-ocr | IA `domesticeducati00unkngoog` |
+| Thirty-four letters to a son in the ministry (Amherst : J. S. & C. Adams, 1842) | have-ocr | IA `thirtyfourletter00hump` |
+| Memoir of Rev. Nathan W. Fiske, professor of intellectual and moral philosophy in Amherst college (Boston, Phillips, Sampson and co.; [etc., etc.], 1850) | have-ocr | IA `memoirofrevnatha00hump` |
+| The life and labors of the Rev. T.H. Gallaudet, LL.D (New York : Robert Carter & Brothers, 1857) | have-ocr | IA `liferevgall00hump` |
+| Revival sketches and manual (New York, American Tract Society, 1859) | have-ocr | IA `revivalsketches00hump` |
+| Great Britain, France and Belgium, a travel book (1838); his edition of The New England Primer; short addresses and funeral sermons | excluded | |
+| christianmemoirs00hump: Christian Memoirs (1836), lives of Bunyan, Halyburton, Baxter and others gathered from earlier writers; this scan has lost its title page and nothing in it names Humphrey | excluded | |
+
+## John Todd (1800-1873) (round 60, my pick, 2026-10-23)
+
+Slugs `jtodd-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures to children : familiarly illustrating important truth (Northampton : J.H. Butler, 1844) | have-ocr | IA `lecturestochildr00todd` |
+| The young man. Hints addressed to the young men of the United States (Northampton, J.H. Butler; Buffalo, J.H. Butler & Co., 1845) | have-ocr | IA `youngmanhintsadd00todd` |
+| The student's manual : designed, by specific directions, to aid in forming and strengthening the intellectual and moral character and habits of the student (Northampton, [Mass] : Hopkins, Bridgman & Co., 1850) | have-ocr | IA `studentsmanualde00todd` |
+| Summer gleanings, or, Sketches and incidents of a pastor's vacation (Northampton : Hopkins, Bridgman, 1852) | have-ocr | IA `summergleaningso00todduoft` |
+| The daughter at school (Northampton [Mass.] Hopkins, Bridgman and company, 1854) | have-ocr | IA `daughteratschool00todd` |
+| The Sabbath school teacher : designed to aid in elevating and perfecting the Sabbath school system (Northampton, Mass. : Hopkins, Bridgman & co., 1856) | have-ocr | IA `sabbathschooltea00toddrich` |
+| Index Rerum (a blank commonplace-book index, 1839); The Lost Sister of Wyoming (a tale, 1842); Robert Bentley Todd's Cyclopaedia of Anatomy and other John Todds | excluded | |
+
+## Herrick Johnson (round 60, my pick, 2026-10-23)
+
+Slugs `hjohnson-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity's challenge and some phases of Christianity submitted for candid consideration (New York, American tract soc., 1881) | have-ocr | IA `christianityscha00john` |
+| Revivals : their place and their power (Chicago : F.H. Revell, 1882) | have-ocr | IA `revivalstheirpla00john` |
+| A plain talk about the theater (Chicago, F. H. Revell, 1882) | have-ocr | IA `plaintalkaboutth00john` |
+| Forms for special occasions : marriage, burial, baptism, the Lord's supper, ordination, dedication, etc., with Scripture selections for the chamber of sickness, the house of mourning, the service at funerals (Chicago : C. H. Whiting, 1889) | have-ocr | IA `formsforspecialo00john` |
+| From love to praise (Philadelphia, Presbyterian Board of Publication and Sabbath-school work, 1903) | have-ocr | IA `fromlovetopraise00john` |
+| The ideal ministry (New York, Chicago [etc.] Fleming H. Revell Company, 1908) | have-ocr | IA `idealministry00john` |
+| Douglas W. Johnson's New Mexico geology papers (catalogued under the same name); Civil War thanksgiving sermons, a Lincoln discourse and memorial addresses (short pamphlets) | excluded | |
+| comfortkath00johnrich: Comfort (1877, signed 'H. J.'); the enlarged 1888 edition names its author as 'Mrs. Herrick Johnson', his wife, so it is not his | excluded | |
+
+## George W. Bethune (round 61, my pick, 2026-10-23)
+
+Slugs `bethune-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| The fruit of the spirit (Philadelphia, Mentz & Rovoudt, 1845) | have-ocr | IA `fruitofspirit00beth` |
+| Sermons (Mentz & Rovoudt, 1846) | have-ocr | IA `sermons00bethgoog` |
+| Lays of love and faith, with other fugitive poems (Philadelphia, Lindsay & Blakiston, 1847) | have-ocr | IA `laysoflovefaithw00beth` |
+| The history of a penitent : a guide for the inquiring in a commentary on the one hundred and thirtieth psalm (Philadelphia : Perkins, 1848) | have-ocr | IA `historyofpeniten00beth` |
+| Orations and occasional discourses (New York ; London : G. P. Putnam, 1850) | have-ocr | IA `orationsoccasion00beth` |
+| Early lost, early saved. an argument for the salvation of infants, with consolations for bereaved parents, to which are added, original and selected poems, on the same subject (New York, Board of Publication of the Reformed Protestant Dutch Church, 1859) | have-ocr | IA `earlylostearlysa00beth` |
+| Memoirs of Mrs. Joanna Bethune (New York, Harper & brothers, 1863) | have-ocr | IA `memoirsmrsjoann01bethgoog` |
+| Expository lectures on the Heidelberg catechism, vol. 1 (New York, Sheldon and company, 1864) | have-ocr | IA `expositorylect01beth` |
+| Expository lectures on the Heidelberg catechism, vol. 2 (New York, Sheldon and company, 1864) | have-ocr | IA `expositorylect02beth` |
+| The British Female Poets (1848, an anthology he edited); his edition of Walton's Complete Angler (1847); The Living Pulpit (sermons by several hands) | excluded | |
+
+## A. Cleveland Coxe (round 61, my pick, 2026-10-23)
+
+Slugs `coxe-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Advent, a mystery (New York : John S. Taylor, 1837) | have-ocr | IA `adventmy00coxe` |
+| Christian ballads (New York : Wiley and Putnam, 1840) | have-ocr | IA `christianballads00coxe` |
+| Athanasion (New York, Wiley and Putnam, 1842) | have-ocr | IA `athanasion00coxe` |
+| Saul, a mystery (New York : D. Appleton & Co., 1845) | have-ocr | IA `saul00coxe` |
+| Halloween; a romaunt, with lays, meditative and devotional (Hartford, H. S. Parsons, 1845) | have-ocr | IA `halloweenromaunt00coxe` |
+| Sermons on doctrine and duty (Philadelphia, Hooker, 1855) | have-ocr | IA `sermonsondoctrin00coxeuoft` |
+| Impressions of England : or, Sketches of English scenery and society (New York : Dana and Company, 1856) | have-ocr | IA `sketcheng00coxe` |
+| An apology for the common English Bible : and a review of the extraordinary changes made in it by managers of the American Bible Society (Baltimore [Md.] : Joseph Robinson, 1857) | have-ocr | IA `apologyforcommon00coxe` |
+| The church and the press: or, Christian literature the inheritance of the church, and the press an educator and an evangelist (New York, General Protestant Episcopal S.S. Union and Church Book Society, 1859) | have-ocr | IA `cu31924031433497` |
+| Thoughts on the services : designed as an introduction to the liturgy, and an aid to its devout use (New York : F. D. Harriman, agent, 1861) | have-ocr | IA `thoughtsonservic00coxe` |
+| The criterion : a means of distinguishing truth from error, in questions of our times : with four letters on the Eirenicon of Dr. Pusey (New York : H.B. Durand, 1866) | have-ocr | IA `thecriterionamea00coxeuoft` |
+| Moral reforms suggested in a pastoral letter. With remarks on practical religion (Philadelphia, J.B. Lippincott, and co., 1869) | have-ocr | IA `moralreformssugg00coxe` |
+| Apollos, Or, The Way of God: A Plea for the Religion of Scripture (J. Parker, 1874) | have-ocr | IA `apollosorwaygod00coxegoog` |
+| Institutes of Christian history; an introduction to historic reading and study (Chicago : A.C. McClung and company, 1887) | have-ocr | IA `institutesofchri00coxe` |
+| The Paschal : poems for passion-tide and Easter (New York : James Pott & Co., 1889) | have-ocr | IA `paschalp00coxe` |
+| Holy writ and modern thought : a review of times and teachers (New York : Dutton, 1892) | have-ocr | IA `holywritmodernth00coxe` |
+| The American edition of the Ante-Nicene Fathers, which he edited (translations by others); Guettee's The Papacy, which he introduced; William Croswell's Poems, which he edited | excluded | |
+
+## George Washington Doane (round 61, my pick, 2026-10-23)
+
+Slugs `gwdoane-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Songs by the way : chiefly devotional , with translations and imitations (New York : E. Bliss and E. White, 1824) | have-ocr | IA `songsbywaychiefl00doan` |
+| The life and writings of George Washington Doane, vol. 1 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge01doan` |
+| The life and writings of George Washington Doane, vol. 2 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge02doan` |
+| The life and writings of George Washington Doane, vol. 3 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge03doan` |
+| The life and writings of George Washington Doane, vol. 4 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge04doan` |
+| Books he edited: Keble's Christian Year (American edition), Gilly's Horae Catecheticae, Charles Wharton's Remains; pamphlets in the 1852 trial controversy written by others; his son William Croswell Doane's own works | excluded | |
+
+## F. D. Huntington (round 61, my pick, 2026-10-23)
+
+Slugs `fdhuntington-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Lessons on the Parables of the Saviour (Crosby and Nichols, 1848) | have-ocr | IA `lessonsonparabl01huntgoog` |
+| Sermons for the people (Boston, Crosby, Nichols, and company; Cincinnati, G. S. Blanchard, 1856) | have-ocr | IA `sermonsforpeople00hunt_1` |
+| Christian believing and living bSermons (Boston, Crosby, Nichols, 1860) | have-ocr | IA `christianbelievi00huntrich` |
+| Human society; its providential structure, relations, and offices. Eight lectures delivered at the Brooklyn Institute, Brooklyn, N. Y (New York, R. Carter & Brothers, 1860) | have-ocr | IA `humansocietyitsp00hunt` |
+| Helps to a holy Lent (New York, E.P. Dutton & company, 1872) | have-ocr | IA `helpstoholylent00hun` |
+| Steps to a living faith ([n.p.], 1873) | have-ocr | IA `stepstolivingfai00hunt` |
+| New helps to a holy Lent (New York, E.P. Dutton and company, 1876) | have-ocr | IA `newhelpstoaholy01huntgoog` |
+| Christ in the Christian year and in the life of man : sermons for laymen's reading (Advent to Trinity) (New York : E. P. Dutton, 1878) | have-ocr | IA `christinchristia00huntrich` |
+| Fitness of Christianity to man (New York : Whittaker, 1878) | have-ocr | IA `fitnessofchristi00hunt` |
+| The Monthly Religious Magazine he edited; Hymns for the Church of Christ and Lyra Domestica (hymnals and translations edited with others); the 1860 Trinity controversy written about him | excluded | |
+| ourchurchandher00huntgoog: Our Church and her Services (London, 1866) is by Ashton Oxenden, catalogued under Huntington in error | excluded | |
+
+## Henry B. Whipple (round 61, my pick, 2026-10-23)
+
+Slugs `whipple-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Five sermons (New York : E.P. Dutton, 1890) | have-ocr | IA `fivesermons0000whip` |
+| Lights and shadows of a long episcopate; being reminiscences and recollections of the Right Reverend Henry Benjamin Whipple, D.D., LL. D., Bishop of Minnesota (New York : The Macmillan company; London : Macmillan & co., ltd., 1899) | have-ocr | IA `lightsshadowsofl00whip_0` |
+| A Century of Dishonor (Helen Hunt Jackson, with his preface); Heard's History of the Sioux War; other Whipples | excluded | |
+
+## William M. Taylor (round 62, my pick, 2026-10-23)
+
+Slugs `wmtaylor-*`. Built from title pages read for round 62.
+
+| Work | Status | Where |
+|---|---|---|
+| Miracles; helps to faith, not hindrances (Edinburgh : W. Olphant, 1865) | have-ocr | IA `miracleshelpstof00tayl` |
+| The lost found and the wanderer welcomed (New York : Scribner, Armstrong, 1873) | have-ocr | IA `lostfoundwandere00tayl` |
+| David, king of Israel: his life and its lessons (New York : Harper & brothers, 1875) | have-ocr | IA `davidkingofisrae00tayliala` |
+| Elijah the Prophet (New York: Harper & Brothers; preface dated December 1875, printing year illegible in the OCR) | have-ocr | IA `elijahprophet0000tayl_g4x0` |
+| The ministry of the word (New York : Anson D. F. Randolph, 1876) | have-ocr | IA `ministryofword00tayl` |
+| Peter, the apostle (New York : Harper, 1876) | have-ocr | IA `cu31924029333675` |
+| God's word, man's light and guide : a course of lectures on the Bible before the New York Sunday School Association (New York : American Tract Society, 1877) | have-ocr | IA `godswordmansligh00tayl` |
+| Songs in the night (New York, A. D. F. Randolph & company, 1877) | have-ocr | IA `songsinnight00tayl` |
+| Daniel the beloved (New York : Harper, 1878) | have-ocr | IA `danielbeloved00tayl` |
+| The limitations of life, and other sermons (New York, A. C. Armstrong & son, 1879) | have-ocr | IA `limitationsoflif00tayl_0` |
+| Moses : the law-giver (New York : Harper & bros., 1879) | have-ocr | IA `moseslawgiver00tayl` |
+| The Gospel miracles in their relation to Christ and Christianity (New York : A. D. F. Randolf and Company, 1880) | have-ocr | IA `gospelmiraclesin00tayl` |
+| Paul, the missionary (New York, Harper & brothers, 1882) | have-ocr | IA `paulmissionary00tayl` |
+| Contrary winds, and other sermons (New York, A.C. Armstrong & son, 1883) | have-ocr | IA `contrarywindsan00taylgoog` |
+| Jesus at the well, John iv. 1-42 (New York : A. D. F. Randolph & company, 1884) | have-ocr | IA `jesusatwelljohni00tayl` |
+| John Knox (New York, A. C. Armstrong & Son, 1885) | have-ocr | IA `johnknox00tayl` |
+| Joseph the prime-minister (New York, Harper & brothers, 1886) | have-ocr | IA `josephprimemini00taylgoog` |
+| The parables of our Saviour, expounded and illustrated (New York, A.C. Armstrong, 1886) | have-ocr | IA `parablesofoursav00tayl` |
+| The Scottish pulpit : from the reformation to the present day (London : Charles Burnet & Co, 1887) | have-ocr | IA `scottishpulpit00tayluoft` |
+| The miracles of Our Saviour, expounded and illustrated (New York : A. C. Armstrong, 1890) | have-ocr | IA `miraclesofoursav00tayl` |
+| Ruth the gleaner and Esther the queen (New York, Harper and brothers, 1891) | have-ocr | IA `ruthgleaneresthe01tayl` |
+| The boy Jesus; and other sermons (New York, Armstrong, 1893) | have-ocr | IA `boyjesusotherser00tayl` |
+| elijahprophet00tayl (a 1903 printing whose scan has lost its title page) swapped for this copy, whose title page reads 'by the Rev. William M. Taylor, D.D., Minister of the Broadway Tabernacle, New York City' | alternate | not shelved |
+| Other William Taylors (of Norwich, the arithmetic teachers, Bishop William Taylor the Methodist missionary); funeral addresses for others in which he spoke among several speakers | excluded | |
+
+## Howard Crosby (round 62, my pick, 2026-10-23)
+
+Slugs `crosby-*`. Built from title pages read for round 62.
+
+| Work | Status | Where |
+|---|---|---|
+| Lands of the Moslem : a narrative of oriental travel (New York : Carter and Brothers, 1851) | have-ocr | IA `landsofmoslemnar00cros` |
+| The New Testament, with brief explanatory notes or scholia (New York : Charles Scribner, 1863) | have-ocr | IA `newtestament00crosgoog` |
+| The healthy Christian : an appeal to the church (New York, American Tract Society, c187) | have-ocr | IA `healthychristian00crosrich` |
+| Jesus: his life and work (University Publishing Company, 1871) | have-ocr | IA `jesushislifework0000unse` |
+| Thoughts on the decalogue (Philadelphia, Penn. : Presbyterian Board of Publication, 1873) | have-ocr | IA `thoughtsondecal00cros` |
+| The Bible on the Side of Science: A Lecture : Delivered in New York (J.F. Trow & Son, printers, 1875) | have-ocr | IA `bibleonsidescie00crosgoog` |
+| Expository notes on the book of Joshua (New York : R. Carter, 1875) | have-ocr | IA `expositorynoteso00cros` |
+| The book of Nehemiah, vol. 7 no.3 (New York, Scribner, Armstrong & co, 1877) | have-ocr | IA `bookofnehemiah73cros` |
+| The Christian preacher (New York, A. D. F. Randolph & company, 1880) | have-ocr | IA `christianpreach00cros` |
+| The true humanity of Christ (New York : Anson D. F. Randolph & Company, 1880) | have-ocr | IA `truehumanityofch00cros` |
+| His school edition of Sophocles' Oedipus Tyrannus (1858); Moderation vs. Total Abstinence (1881, his address bound with his reviewers' replies); Fanny Crosby and other Crosbys | excluded | |
+
+## John Hall (1829-1898) (round 62, my pick, 2026-10-23)
+
+Slugs `jhall-*`. Built from title pages read for round 62.
+
+| Work | Status | Where |
+|---|---|---|
+| Family prayers, for four weeks (New York, A.D.F. Randolph, 1868) | have-ocr | IA `familyprayersfor00hall` |
+| Papers for home reading (New York, Dodd & Mead, 1871) | have-ocr | IA `papersforhomerea1871hall` |
+| Questions of the day (New York, Dodd & Mead, 1873) | have-ocr | IA `questionsofday00hall` |
+| God's word through preaching (Toronto : Willing & Williamson, 1875) | have-ocr | IA `godswordthroughp00halluoft` |
+| A Christian home: How to make and how to maintain it (Philadelphia, American Sunday-school Union, 1883) | have-ocr | IA `christianhomehow00hall` |
+| Four lectures on the religious use of property (Cleveland : Leader Printing Co., 1883) | have-ocr | IA `fourlecturesonre00hall` |
+| familiartalkstob0000hall: Familiar Talks to Boys (Dodd, Mead, 1876); the OCR of its title page has lost the author line ('By the ...'), and nothing else in the opening names John Hall; to be read from the page image | pending | not shelved |
+| The American Evangelists, D. L. Moody and Ira D. Sankey (1875, with George H. Stuart); Godet on St. Luke and Sampson's Beacon-Lights of the Reformation, which he introduced; other John Halls | excluded | |
+
+## A. K. H. Boyd (round 63, my pick, 2026-10-23)
+
+Slugs `akhboyd-*`. Built from title pages read for round 63.
+
+| Work | Status | Where |
+|---|---|---|
+| The recreations of a country parson (London, Strahan, 1866) | have-ocr | IA `recreationsofcou00boyduoft` |
+| The recreations of a country parson. 2d series (Boston, J.R. Osgood and Co., 1873) | have-ocr | IA `recreationsofcou0000boyd_u3b6` |
+| The graver thoughts of a country parson (Boston, J. R. Osgood and company, 1873) | have-ocr | IA `graverthoughtsof00boyd_1` |
+| Leisure hours in town (Boston. J. R. Osgood and company, 1874) | have-ocr | IA `leisurehoursinto01boyd` |
+| The every-day philosopher in town and country (Boston, Fields, Osgood, & co., 1869) | have-ocr | IA `everydayphilosop01boyd` |
+| The autumn holidays of a country parson (Boston, Fields, Osgood, & co., 1869) | have-ocr | IA `autumnholidaysof01boyd` |
+| Counsel and comfort : spoken from a city pulpit (London : Strahan & Co., 1868) | have-ocr | IA `counselandcomfor00boyduoft` |
+| The critical essays of a country parson (London, Longmans, Green, and co., 1867) | have-ocr | IA `criticalessaysof00boyd` |
+| Lessons of middle age, with some account of various cities and men (London, Longmans, Green, & co., 1869) | have-ocr | IA `lessonsofmiddlea00boyd` |
+| Sunday afternoons at the parish church of a university city (London, Longmans, Green, and co., 1869) | have-ocr | IA `sundayafternoons00boyd` |
+| The commonplace philosopher in town and country (London, Longmans, Green & Co., 1871) | have-ocr | IA `commonplacephilo00boydrich` |
+| Present-day thoughts, memorials of St. Andrews Sundays (London, Longmans, Green, & co., 1874) | have-ocr | IA `presentdaythough00boyd` |
+| A Scotch Communion Sunday: To which are Added Certain Discourses from a University City / by the (Henry S. King, 1873) | have-ocr | IA `ascotchcommunio00boydgoog` |
+| From a quiet place: some discourses (C. Kegan Paul, 1879, 1879) | have-ocr | IA `fromaquietplace00boydgoog` |
+| Our Little Life: Essays Consolatory and Domestic with Some Others (Longmans, Green, 1882) | have-ocr | IA `OurLittleLife` |
+| East coast days; and memories (London, Longmans, Green, 1889) | have-ocr | IA `eastcoastdaysmem00boyd` |
+| Twenty-five years of St. Andrews, September 1865 to September 1890, vol. 1 (London, New York : Longmans, Green, 1892) | have-ocr | IA `twentyfiveyearso0001boyd` |
+| Twenty-five years of St. Andrews, September 1865 to September, 1890, vol. 2 (London : Longmans, Green, 1892) | have-ocr | IA `twentyfiveyearso02yyybuoft` |
+| St. Andrews and elsewhere : glimpses of some gone and of things left (London : Longmans, Green, 1894) | have-ocr | IA `standrewselsewhe00boyd` |
+| Occasional and immemorial days (London and New York, Longmans, Green and co., 1895) | have-ocr | IA `occasionalimmemo00boyd` |
+| The last years of St. Andrews : September 1890 to September 1895 (London : Longmans, Green, 1896) | have-ocr | IA `lastyearsofstand00boyduoft` |
+| ourlittlelifees00boydgoog has no text file on Internet Archive (404); swapped for this upload of the same Longmans printing | alternate | not shelved |
+| Nagananda, the Buddhist drama translated by Palmer Boyd (another man); legal and other books by other Boyds | excluded | |
+
+## Baptist W. Noel (round 63, my pick, 2026-10-23)
+
+Slugs `bwnoel-*`. Built from title pages read for round 63.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on regeneration : with especial reference to the doctrine of baptismal regeneration (London : "The Pulpit" Office, 1800) | have-ocr | IA `sermonsonregener00noel` |
+| Meditations in sickness and old age (catalogued 1837) | have-ocr | IA `meditationsinsi00noelgoog` |
+| Notes of a short tour through the midland counties of Ireland in the summer of 1836 : with observations on the condition of the peasantry (London : J. Nisbet, 1837) | have-ocr | IA `notesofshorttour00noel` |
+| The first five centuries of the church : or, The early fathers no safe guides (London : J. Nisbet, 1839) | have-ocr | IA `a619218400noeluoft` |
+| Sermons to the unconverted : preached in the autumn of the year 1839 (London : At "The Pulpit" Office, 1839) | have-ocr | IA `sermonstounconve00noel` |
+| A plea for the poor, showing how the proposed repeal of the existing Corn laws will affect the interests of the working classes (London J. Nisbet, 1841) | have-ocr | IA `pleaforpoorshowi00noeluoft` |
+| Protestant thoughts, in rhyme (catalogued 1844) | have-ocr | IA `protestantthoug00noelgoog` |
+| Infant piety; a book for little children (New York [etc.] Robert Carter, 1847) | have-ocr | IA `infantpietybookf00noel` |
+| Notes of a Tour in Switzerland in the Summer of 1847 (James Nisbet, 1848) | have-ocr | IA `notesatourinswi00noelgoog` |
+| Essay on the union of church and state (London, J. Nisbet, 1848) | have-ocr | IA `essayonunionofch184800noel` |
+| Essay on Christian baptism (London, J. Nisbet, 1849) | have-ocr | IA `essayonchristi00noel` |
+| England and India (London, J. Nisbet, 1859) | have-ocr | IA `englandindia00noel` |
+| The rebellion in America (London : J. Nesbet, 1863) | have-ocr | IA `rebellioninameri00noel` |
+| A Selection of Psalms and Hymns (1853, compiled); The Christian Sabbath (1850, prize essays by several ministers); the Counter-Plea for the Poor (a reply to him by others); Roden Noel, his nephew | excluded | |
+
+## Francis Close (round 63, my pick, 2026-10-23)
+
+Slugs `fclose-*`. Built from title pages read for round 63.
+
+| Work | Status | Where |
+|---|---|---|
+| The Protestant faith : or, The way called heresy ; being the substance of a sermon preached in the parish church, Cheltenham, on Sunday, December 13th, 1835 (London : J. Hatchard, 1836) | have-ocr | IA `a556830900closuoft` |
+| Nine sermons illustrative of some of the typical persons of the Old Testament (catalogued 1838) | have-ocr | IA `ninesermonsillu00closgoog` |
+| Divine and human knowledge (catalogued 1841) | have-ocr | IA `divineandhumank00closgoog` |
+| The written tradition : or, The only divine rule of faith and practice ; vindicated against the Tractarians ; a sermon preached in the parish church, Cheltenham, November 5th, 1842 (London : Hatchard, betw) | have-ocr | IA `a556839500closuoft` |
+| The tendency of "church principles," so called, to Romanism : proved and illustrated from the recent pamphlet of Rev. William Palmer, and from Dr. Hook's "Church dictionary" (London : Hatchard, 1843) | have-ocr | IA `a556845400closuoft` |
+| Church architecture : scripturally considered, from the earliest ages to the present time (London : Hatchard and Son, 1844) | have-ocr | IA `churcharchitectu00clos` |
+| Priestly usurpation, its cause and consequences : a sermon preached in St. Thomas's, Birmingham, February 11th, 1845 ; on behalf of the Church Pastoral Aid Society, and published at the request of the clergy and others of the congregation assembled on that occasion ; also preached in the parish church, Cheltenham, on Sunday, March 30th, 1845 (London : Hatchard, 1845) | have-ocr | IA `a556889700closuoft` |
+| The mystery of iniquity : being the substance of a sermon preached in the parish church, Cheltenham, on November 5th, 1845 (London : Hatchard, 1845) | have-ocr | IA `a556855600closuoft` |
+| Semper idem : or, Popery everywhere and always the same ; a sermon preached in the parish church, Cheltenham, on November 5th, 1851 (London : Hatchard, 1851) | have-ocr | IA `a556893100closuoft` |
+| Tobacco: Its Influences, Physical, Moral, and Religious (Hatchard, 1859) | have-ocr | IA `tobaccoitsinflu00closgoog` |
+| Eighty sketches of sermons (catalogued 1861) | have-ocr | IA `eightysketchess00closgoog` |
+| Ritualism : a lecture, at St. James's Hall, Piccadilly, London, February 19, 1867 (London : W. Macintosh, 1867) | have-ocr | IA `a626206600closuoft` |
+| Our family likeness, illustrative of our origin and descent (catalogued 1871) | have-ocr | IA `ourfamilylikene00closgoog` |
+| The Stage, Ancient and Modern; Its Tendencies on Morals and Religion,: A (Hatchard, Piccadilly. Carlisle: C. Thurnam& Sons, 1877) | have-ocr | IA `stageancientand00closgoog` |
+| 556850100closuoft: The Restoration of Churches is the Restoration of Popery (1844), a sermon in the parish church of Cheltenham; the OCR of its title page is too garbled to show the preacher's name; to be read from the page image | pending | not shelved |
+| footstepserrort00closgoog: The Footsteps of Error (1863), a reply to Colenso catalogued under Close; nothing in the opening of the scan names him, so the attribution is unconfirmed | pending | not shelved |
+| Other Closes; the Cheltenham commemoration volumes by others | excluded | |
+
+## Orville Dewey (round 64, my pick, 2026-10-23)
+
+Slugs `odewey-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on various subjects (New York, D. Felt & co., 1835) | have-ocr | IA `discoursesonvari00dewe` |
+| The Old world and the New : or, A journal of reflections and observations made on a tour in Europe (New York : Harper & Brothers, 1836) | have-ocr | IA `cu31924104095579` |
+| Moral views of commerce society and politics in twelve discourses ([n.p.], 1838) | have-ocr | IA `moralviewsofcomm00dewe` |
+| The works of Orville Dewey, D.D (London : Simms and M'Intyre, 1844) | have-ocr | IA `worksoforvillede00dewe` |
+| Discourses on human nature, human life, and the nature of religion (New York, C. S. Francis & Co., 1847) | have-ocr | IA `discoursesonhuma00dewe_0` |
+| Discourses and Reviews Upon Questions in Controversial Theology and Practical Religion (C. S. Francis, 1852) | have-ocr | IA `discoursesandre00dewegoog` |
+| The laws of human progress and modern reforms. A lecture delivered before the Mercantile library (New York, C.S. Francis & Company ; Boston, Crosby & Nichols, 1852) | have-ocr | IA `lawsofhumanprogr00dewe` |
+| Discourses on the Nature of Religion: And on Commerce and Business; with (C. S. Francis and co., 1855) | have-ocr | IA `discoursesonnat00dewegoog` |
+| The problem of human destiny : or, The end of Providence in the world and man (New York : J. Miller, 1864) | have-ocr | IA `theproblemofhuma00deweuoft` |
+| The two great commandments: sermons (J. Miller, 1876, 1876) | have-ocr | IA `twogreatcommand00dewegoog` |
+| John Dewey and Melvil Dewey; The Pitts-Street Chapel Lectures and The New Discussion of the Trinity (several hands) | excluded | |
+
+## Joseph Stevens Buckminster (round 64, my pick, 2026-10-23)
+
+Slugs `buckminster-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons by the late Rev. J. S. Buckminster (Boston, Printed by J. Eliot, 1814) | have-ocr | IA `sermonsbylaterev00buck` |
+| Sermons by the late Rev. Joseph S. Buckminster : now first published from the author's manuscripts (Boston : Carter and Hendee, 1829) | have-ocr | IA `sermonsbylatere00buck` |
+| The Works of Joseph Stevens Buckminster: With Memoirs of His Life, vol. 2 (J. Munroe, 1839) | have-ocr | IA `worksjosephstev00buckgoog` |
+| His father Joseph Buckminster (1751-1812) of Portsmouth; Eliza Buckminster Lee's memoirs of both | excluded | |
+
+## E. H. Chapin (round 64, my pick, 2026-10-23)
+
+Slugs `chapin-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Duties of young men, exhibited in six lectures; with an Anniversary address, delivered before the Richmond Lyceum (Boston, A. Tompkins, and B. B. Mussey, 1840) | have-ocr | IA `dutiesyoungmene00chapgoog` |
+| Discourses on Various Subjects (A. Tompkins, 1841) | have-ocr | IA `discoursesonvar01chapgoog` |
+| Duties of Young Women (G.W. Briggs, 1848) | have-ocr | IA `dutiesyoungwome02chapgoog` |
+| Hours of communion (Boston : A. Tompkins, 1848) | have-ocr | IA `hoursofcommunion00chap` |
+| Discourses on the Lord's Prayer (Boston, A. Tompkins, 1850) | have-ocr | IA `discoursesonlord00chap` |
+| Character in the Gospels (New York, Redfield, 1852) | have-ocr | IA `characteringospe00chap` |
+| Discourses on the Beatitudes (A. Tompkins, 1853) | have-ocr | IA `discoursesonbea01chapgoog` |
+| Moral aspects of city life: a series of lectures (Kiggins, 1854) | have-ocr | IA `moralaspectsofci00chap` |
+| Christianity the perfection of true manliness (New York : H. Lyon, 1856) | have-ocr | IA `christianityper00chapgoog` |
+| humanityinthecity00chaprich: Humanity in the City (New York: De Witt & Davenport, 1854); the OCR of the title page breaks off at 'by the Rev. E. -if.', so the name is not legible; to be read from the page image | pending | not shelved |
+| Hymns for Christian Devotion (1846, with J. G. Adams) and The Fountain (a temperance annual he co-edited); Universalist collections by several hands | excluded | |
+
+## Henry Ware Jr. (round 64, my pick, 2026-10-23)
+
+Slugs `hwarejr-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on the offices and character of Jesus Christ (Boston : Office of the Christian Register, 1825) | have-ocr | IA `discoursesonoff00ware` |
+| On the formation of the Christian character : addressed to those who are seeking to lead a religious life (Cambridge [Mass.] : Hilliard and Brown ; Boston : Gray and Bowen, 1831) | have-ocr | IA `onformationofc00ware` |
+| Hints on extemporaneous preaching (Boston ; Hilliard, Gray, Little and Wilkins, 1831) | have-ocr | IA `hintsonextempora00ware` |
+| The life of the saviour (Cambridge [Mass.] : James Munroe & Co. ; Boston : Hilliard, Gray, and Co. : Russell, Odiorne, and Co., 1834) | have-ocr | IA `lifeofsaviour00ware` |
+| Memoirs of the Rev. Noah Worcester, D. D (Boston : J. Munroe, 1844) | have-ocr | IA `memoirsofrevnoah00ware` |
+| The works of Henry Ware, Jr., D.D, vol. 2 (Boston : James Munroe, 1846) | have-ocr | IA `worksofhenryware02ware` |
+| recollectionsof00ware: The Recollections of Jotham Anderson, Minister of the Gospel (Boston, 1824), a story published anonymously; nothing in this scan names Ware, so it waits for a title page or catalogue that does | pending | not shelved |
+| His father Henry Ware Sr. (1764-1845); his brother William Ware's novels; Abiel Abbot's Sermons and Priestley's Views of Christian Truth, which he edited; The Christian Disciple (a journal) | excluded | |
+
+## James Freeman Clarke (round 64, my pick, 2026-10-23)
+
+Slugs `jfclarke-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Eleven Weeks in Europe: And what May be Seen in that Time (Ticknor, Reed & Fields, 1852) | have-ocr | IA `elevenweeksineu00clargoog` |
+| The Christian doctrine of prayer : an essay (Boston : Crosby, Nichols, 1854) | have-ocr | IA `christiandoctrine00clar` |
+| The hour which cometh, and now is ([n.p.], 1864) | have-ocr | IA `hourwhichcomethn00clar_1` |
+| Orthodoxy: its truths and errors (Boston : American Unitarian Association, 1880) | have-ocr | IA `orthodoxyitstrut00clarrich` |
+| Steps of belief : or, rational Christianity maintained against atheism, free religion, and Romanism (Boston : American Unitarian Association, 1876) | have-ocr | IA `stepsofbelieforr00clar` |
+| The Christian doctrine of forgiveness of sin : an essay (Boston : American Unitarian Association, 1870) | have-ocr | IA `christiandoctrin00clar_2` |
+| Go up higher; or, Religion in common life (catalogued 1877) | have-ocr | IA `gouphigherorreli00jamerich` |
+| Essentials and non-essentials in religion (Boston, American Unitarian association, 1878) | have-ocr | IA `essentialsnoness01clar` |
+| Memorial and biographical sketches (Bost., 1878) | have-ocr | IA `memorialbiograph00clar` |
+| Ten great religions: an essay in comparative theology (Boston, Houghton, 1878) | have-ocr | IA `tengreatreligion00claruoft` |
+| Self-culture : physical, intellectual, moral, and spiritual; a course of lectures (Boston : J.R. Osgood, 1880) | have-ocr | IA `cu31924031232170` |
+| Anti-slavery days, a sketch of the struggle which ended in the abolition of slavery in the United States (New York, Lovell, 1880) | have-ocr | IA `antislaverydayss00clar` |
+| commonsenseinrel00essarich: Common-Sense in Religion (1873); nothing in the opening of this scan names Clarke; another copy can replace it | pending | not shelved |
+| Memoirs of Margaret Fuller Ossoli (with Emerson and W. H. Channing); his Book of Worship, Service Book and Disciples' Hymn Book (compiled); Exotics (verse translations); Christianity and Modern Thought and Unitarian Affirmations (lectures by several hands); Adam Clarke, Samuel Clarke and William Newton Clarke, on their own shelves | excluded | |
+
+## Hosea Ballou (round 64, my pick, 2026-10-23)
+
+Slugs `hballou-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| A treatise on atonement : in which the finite nature of sin is argued, its cause and consequences as such; the necessity and nature of atonement; and its glorious consequences, in the final reconciliation of all men to holiness and happiness (Portsmouth, N.H. : printed at the Oracle Press, 1812) | have-ocr | IA `treatiseonatonem00ball` |
+| Notes on the parables of the New Testament (Portsmouth, N. H. : Printed at the Gazette Office, 1812) | have-ocr | IA `notesonparableso00ball` |
+| A series of lecture sermons : delivered at the second Universalist meeting in Boston (Boston : Printed and published by Henry Bowen, 1818) | have-ocr | IA `seriesoflectures1818ball` |
+| A series of letters in defence of divine revelation : in reply to Rev. Abner Kneeland's serious inquiry into the authenticity of the same (Boston : H. Bowen, 1820) | have-ocr | IA `seriesoflettersi00ball` |
+| The eleven sermons which were preached (Philadelphia : E. T. Scott, 1822) | have-ocr | IA `elevensermonswhi00ball` |
+| An examination of the doctrine of future retribution (Boston, The Trumpet office, 1834) | have-ocr | IA `examinationofdoc00ball` |
+| Nine sermons on important doctrinal and practical subjects : delivered in Philadelphia, November, 1834 (Philadelphia : Thomas, 1835) | have-ocr | IA `ninesermonsonimp00ball` |
+| A voice to Universalists (Boston, J. M. Usher, 1849) | have-ocr | IA `voicetouniversal00ball` |
+| Sermons on important doctrinal subjects : with critical and explanatory notes (Boston : J. M. Usher, 1856) | have-ocr | IA `sermonsonimporta00ball_0` |
+| The Universalist Hymn Book and Hymns Composed by Different Authors (compiled); the works of Hosea Ballou 2nd | excluded | |
+
+## Thomas Starr King (round 64, my pick, 2026-10-23)
+
+Slugs `starrking-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| The White Hills (Boston, Crosby Nichols and company, 1860) | have-ocr | IA `whitehills00king` |
+| Patriotism, and other papers. With a biographical sketch by Hon. Richard Frothingham (Tompkins, 1864) | have-ocr | IA `patriotismotherp00king` |
+| Christianity and humanity (Boston, J.R. Osgood and company, 1877) | have-ocr | IA `christianityhuma00king` |
+| Substance and show : and other lectures (Boston : Houghton, Osgood and company, 1879) | have-ocr | IA `substanceshowoth00kingrich` |
+| The New Discussion of the Trinity (1860, by several hands); Christian pamphlet volumes | excluded | |
+
+## John Cumming (round 65, my pick, 2026-10-23)
+
+Slugs `jcumming-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| Is Christianity from God? ([n.p.], 1849) | have-ocr | IA `ischristianityfr00cumm` |
+| Tractarianism and popery : being a course of lectures delivered at Surrey chapel (London : D. Stroud, 1843) | have-ocr | IA `tractarianismpop00cummuoft` |
+| Apocalyptic sketches; lectures on the book of Revelation. 1st ser (Philadelphia Lindsay and Blakiston, 1854) | have-ocr | IA `apocalypticsketc00cummuoft` |
+| Voices of the night (London, New York, Virtue, Hall, and Virtue, 1850) | have-ocr | IA `voicesofnigh00cumm` |
+| God in history; or, Facts illustrative of the presence and providence of God in the affairs of men (New York, Lane & Scott for the Sunday-school union of the Methodist Episcopal church, 1852) | have-ocr | IA `godinhistoryorfa00cummrich` |
+| Lectures for the times, or, An exposition of tridentine and tractarian popery (London : A. Hall & Co, 1851) | have-ocr | IA `lecturesfortheti00cummuoft` |
+| Lectures on the seven churches of Asia Minor, vol. 3 (London : A. Hall, Virtue, 1852) | have-ocr | IA `lecturesonsevenc03cumm` |
+| The church before the flood (catalogued 1853) | have-ocr | IA `churchbeforefloo00cumm` |
+| Foreshadows : or, Lectures on Our Lord's miracles, as earnests of the age to come, vol. 1 (London : A. Hall, Virtue, 1853) | have-ocr | IA `foreshadowsorlec01cumm` |
+| Lectures on Romanism, being illustrations and refutations of the errors of Romanism and Tractarianism (Boston : J. P. Jewett and company; Cleveland, O. : Jewett, Proctor, and Worthington, 1854) | have-ocr | IA `lecturesonromani00cumm` |
+| Christ receiving sinnners (Philadelphia, Lindsay and Blakiston, 1854) | have-ocr | IA `christreceivings00cumm` |
+| The great sacrifice; or, The Gospel according to Leviticus (Philadelphia : Lindsay and Blakiston, 1854) | have-ocr | IA `thegreatsacrific00cummuoft` |
+| The comforter : or, Thoughts on the influence of the Holy Spirit (Philadelphia : Lindsay and Blakistin, 1854) | have-ocr | IA `comforterorthoug00cumm` |
+| Benedictions : or, The blessed life (Boston : John P. Jewett, 1854) | have-ocr | IA `benedictionsorblcj00cumm` |
+| The tent and the altar; or Sketches from patriarchal life (Boston : John P. Jewett, 1854) | have-ocr | IA `tentandthealtar00cummuoft` |
+| Signs of the times : or, Present, past, and future (Philadelphia : Lindsay and Blakiston, 1855) | have-ocr | IA `signsoftimesorpr00cummrich` |
+| The end; or, The proximate signs of the close of this dispensation (Boston : J.P. Jewett and company; Cleveland, O. : Jewett, Proctor and Worthington [etc., etc.], 1855) | have-ocr | IA `endorproximatesi00cumm` |
+| Urgent questions; twelve urgent questions, personal, practical, and pointed (Philadelphia, Lindsday & Blakiston, 1855) | have-ocr | IA `urgentquestionst00cummrich` |
+| Infant salvation (Philadelphia, Lindsay and Blakiston, 1855) | have-ocr | IA `infantsalvation00cumm` |
+| The last of the patriarchs : or, Lessons chiefly from the life of Joseph (Philadelphia : Lindsay and Blakiston, 1856) | have-ocr | IA `lastofpatriarchs00cummrich` |
+| Sabbath morning readings on the Old Testament : Book of Genesis (Boston : J.P. Jewett, 1854) | have-ocr | IA `sabbathmorningre00cumm` |
+| Sabbath morning readings on the Old Testament, Book of Exodus (Boston : J. P. Jewett, 1854) | have-ocr | IA `sabbathmorningexodus00cumm` |
+| Sabbath morning readings on the Old Testament, Book of Leviticus (Boston : J. P. Jewett, 1855) | have-ocr | IA `sabbathmorninglevi00cumm` |
+| Sabbath evening readings on the New Testament ... St. Matthew (Boston : J.P. Jewett, 1855) | have-ocr | IA `sabbathevening00cumm` |
+| Sabbath evening readings on the New Testament ... : St. Mark (Boston : J.P. Jewett, 1855) | have-ocr | IA `sabbatheven00cumm` |
+| Sabbath evening readings on the New Testament ... : St. Luke (Boston : J.P. Jewett, 1855) | have-ocr | IA `sabbatheveningjo00cumm` |
+| Moses right and Bishop Colenso wrong : being popular lectures on the Pentateuch (London : J.F. Shaw, 1827) | have-ocr | IA `mosesrightbishop00cumm` |
+| propheticstudies00cumm: Prophetic Studies, lectures on the Book of Daniel (Lindsay & Blakiston, 1854); the title-page author line is not legible in the OCR (only the publisher's advertisement names Cumming); to be read from the page image | pending | not shelved |
+| His editions of Knox's Liturgy and of the Psalter of the Blessed Virgin; The Hammersmith Protestant Discussion (a debate with Daniel French, both sides); other John Cummings | excluded | |
+| foreshadowslectu00cumm: catalogued as Foreshadows on the parables, but the scan is the miracles volume, already shelved as jcumming-foreshadows-miracles; the parables volume is not yet found | excluded | |
+
+## Henry Blunt (round 65, my pick, 2026-10-23)
+
+Slugs `hblunt-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| Twelve lectures upon the history of Abraham (London : J. Hatchard, 1833) | have-ocr | IA `twelvelecturesu02blungoog` |
+| Nine lectures upon the history of Saint Peter (London : J. Hatchard & Son, 1836) | have-ocr | IA `ninelecturesupon00blun` |
+| A practical exposition of the Epistles to the seven churches of Asia (Philadelphia :4bHooker & Claxton, 1839) | have-ocr | IA `practicalexposit00blun` |
+| Discourses on some of the doctrinal articles of the church of England; also lectures on the history of Saint Peter (Philadelphia, Hooker and Claxton, 1839) | have-ocr | IA `discoursesonsome00blun` |
+| Lectures on the history of Elisha. By the Rev. Henry Blunt (London : J. Hatchard & son [etc.], 1840) | have-ocr | IA `lecturesonhistor00blun` |
+| Lectures upon the history of Our Lord and Saviour Jesus Christ (Philadelphia, H. Hooker, 1840) | have-ocr | IA `lecturesuponhist01blun` |
+| Sermons preached in Trinity Church, Upper Chelsea (Philadelphia : Herman Hooker, 1840) | have-ocr | IA `sermonspreachedi00blun` |
+| Lectures upon the history of St. Paul : delivered during Lent, at the Church of the Holy Trinity, Upper Chelsea (Philadelphia : Hooker & Agnew, 1841) | have-ocr | IA `LecturesUponTheHistoryOfStPaul` |
+| A family exposition of the Pentateuch, vol. 3 (Philadelphia : Hooker & Agnew, 1841) | have-ocr | IA `familyexposition03blun` |
+| Eight lectures upon the history of Jacob: delivered during Lent, 1828, at the Church of St. Luke, Chelsea (London : J. Hatchard & Son, 1845) | have-ocr | IA `EightLectures` |
+| Posthumous sermons (Philadelphia : H. Hooker, 1852) | have-ocr | IA `posthumoussermon00blunrich` |
+| John James Blunt and John Henry Blunt (another shelf); the 1854 Abraham-Jacob-Elisha reissue (the same lectures) | excluded | |
+
+## Hugh Stowell (round 65, my pick, 2026-10-23)
+
+Slugs `hstowell-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| Pleasures of religion : with other poems (London : C.J.G. and F. Rivington [etc.], 1832) | have-ocr | IA `relig00stow` |
+| Tractarianism tested by Holy Scripture and the Church of England : in a series of sermons, vol. 2 (London : J. Hatchard and Son, 1845) | have-ocr | IA `tractarianismtes02stow` |
+| The Divine Panoply, Or, A Suit Of Armour For The Soldier Of Christ (London : Religious Tract Society, 56 Paternoster Row ; Philadelphia : American Sunday-School Union, 146 Chestnut street, 1846) | have-ocr | IA `TheDivinePanoply` |
+| Sermons preached in Christ Church, Salford (London : William Tegg, 1869) | have-ocr | IA `sermonspreachedi00stow` |
+| The passover : and other sermons preached in Christ Church, Salford (London : William Tegg, 1869) | have-ocr | IA `passoverotherser00stow` |
+| Hugh Stowell Brown's works; Thomas Alfred Stowell's memoir of him | excluded | |
+
+## William Goode (1801-1868) (round 65, my pick, 2026-10-23)
+
+Slugs `wgoode-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| The modern claims to the possession of the extraordinary gifts of the spirit, stated and examined : and compared with the most remarkable cases of a similar kind that have occurred in the Christian church : with some general observations on the subject (London : J. Hatchard and Son, 1834) | have-ocr | IA `modernclaimstopo00good` |
+| The divine rule of faith and practice, or, A defence of the catholic doctrine that Holy Scripture has been, since the times of the Apostles, the sole divine rule of faith and practice to the church (London : John Henry Jackson, 1853) | have-ocr | IA `divinerulefaith01goodgoog` |
+| The divine rule of Faith and practice, or, A defence of the Catholic doctrine that Holy Scripture has been, since the times of the Apostles, the sole divine rule of faith and practice to the Church, against the dangerous errors of the authors of the Tracts for the Times and the Romanists, in which also the doctrines of the Apostolical succession, the Eucharistic sacrifice, etc. are fully discussed. --, vol. 2 (London : John Henry Jackson, 1853) | have-ocr | IA `thedivineruleoff02gooduoft` |
+| The divine rule of Faith and practice; or, A defence of the Catholic doctrine that Holy Scripture has been, since the times of the Apostles, the sole divine rule of faith and practice to the Church, against the dangerous errors of the authors of the Tracts for the Times and the Romanists, in which also the doctrines of the Apostolical succession, the Eucharistic sacrifice, etc. are fully discussed, vol. 3 (London, Hatchard, 1853) | have-ocr | IA `divineruleoffait03good` |
+| Tract XC historically refuted : or, A reply to a work by the Rev. F. Oakeley, entitled "The subject of Tract XC historically examined" (London : J. Hatchard, 1845) | have-ocr | IA `a622131200gooduoft` |
+| The doctrine of the Church of England as to the effects of baptism in the case of infants : with an appendix, containing the baptismal services of Luther and the Nuremberg and Cologne liturgies (London : J. Hatchard, 1849) | have-ocr | IA `a583274500gooduoft` |
+| A letter to the Bishop of Exeter : containing an examination of his letter to the Archbishop of Canterbury (London : J. Hatchard, 1850) | have-ocr | IA `a622126600gooduoft` |
+| Aids for determining some disputed points in the ceremonial of the Church of England (London : T. Hatchard, 1851) | have-ocr | IA `a622125700gooduoft` |
+| A reply to the Bishop of Exeter's second arraignment of his metropolitan in his letter to the Archdeacon of Totnes oppugning the validity of the orders of the foreign non-episcopal churches : to which is annexed a rejoinder to Chancellor Harington on the same subject (London : T. Hatchard, 1852) | have-ocr | IA `a619340000gooduoft` |
+| A vindication of the doctrine of the Church of England on the validity of the orders of the Scotch and foreign non-episcopal churches : in three pamphlets on the subject (New York : A. D. F. Randolph, 1853) | have-ocr | IA `vindicationofdoc00good` |
+| The nature of Christ's presence in the Eucharist : or, The true doctrine of the real presence vindicated in opposition to the fictitious real presence asserted by Archdeacon Denison, Mr. (late Archdeacon) Wilberforce, and Dr. Pusey: with full proof of the real character of the attempt made by those authors to represent their doctrine as that of the Church of England and her divines, vol. 1 (London : T. Hatchard, 1856) | have-ocr | IA `natureofchristsp01good` |
+| Nature of Christ's presence in the Eucharist; or the true doctrine of the real presence vindicated in opposition to the fictious real presence asserted by Archdeacon Denison, Mr. Wilberforce, and Dr. Pusey, with full proof of the real character of the attempt made by those authors to represent their doctrine as that of the Ch. of Eng. and her divines, vol. 2 (London, Hatchard, 1856) | have-ocr | IA `natureofchristsp02gooduoft` |
+| Fulfilled prophecy a proof of the truth of revealed religion: being the Warburtonian lectures for 1854-1858. With an appendix of notes, including a full investigation of Daniel's prophecy of the seventy weeks (London : Hatchard and Co., 1863) | have-ocr | IA `fulfilledprophec00good` |
+| Rome's tactics, or, A lesson for England from the past : showing that the great object of Popery since the reformation has been to subvert and ruin Protestant churches and Protestant states, by dissensions and troubles caused by disguised popish agents : with a brief notice of Rome's allies in the Church of England, vol. Talbot Collection of British Pamphlets (London : The Christian Book Society, 22, King William Street, Strand, W.C., 1868) | have-ocr | IA `romestacticsorle00good` |
+| His father William Goode (1762-1816); Perry's Historical Considerations; American reprints of single tracts | excluded | |
+
+## Charles Bradley (1789-1871) (round 66, my pick, 2026-10-23)
+
+Slugs `cbradley-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| Parochial sermons preached at Glasbury, Brecknockshire (London : Hamilton, Adams, and Co., 1828) | have-ocr | IA `parochialsermons0000brad` |
+| Sermons, preached in the parish church of High Wycombe, vol. 2 (London : Printed for Hamilton, Adams, 1833) | have-ocr | IA `sermonspreachedi02bradiala` |
+| Sermons preached chiefly at the celebration of the Lord's Supper (London : Hamilton, Adams, and Co., and Thomas Hatchard, 1850) | have-ocr | IA `sermonspreachedc0000brad` |
+| Practical sermons for every Sunday and principal holy-day in the year (London : Hamilton, 1852) | have-ocr | IA `practicalsermons0000brad` |
+| Sermons preached in the parish church of High Wycombe (London : Printed for Hamilton, Adams, 1884) | have-ocr | IA `sermonspreachedi0000brad` |
+| a548635400braduoft: Sermons adapted to the celebration of the holy sacrament of the Lord's Supper (1842); Internet Archive serves no text file for it (404); another copy is needed | pending | not shelved |
+| His Latin school editions (Eutropius, Phaedrus, Cornelius Nepos); his son G. G. Bradley, Dean of Westminster | excluded | |
+
+## Edward Henry Bickersteth (round 66, my pick, 2026-10-23)
+
+Slugs `ehbickersteth-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| Poems (Cambridge : Macmillan, Barclay, and Macmillan, 1849) | have-ocr | IA `poemeng00bick` |
+| Water from the well-spring: for the Sabbath hours of afflicted believers: being a complete course of morning and evening meditations for every Sunday in the year (New York : R. Carter, 1854) | have-ocr | IA `waterfromwellspr00bick` |
+| The rock of ages (Boston, American tract society, 1860) | have-ocr | IA `rockofages00bick` |
+| The risen saints: what does Scripture reveal of their estate and employments? (catalogued 1865) | have-ocr | IA `risensaintswhat00bickgoog` |
+| Yesterday, to-day, and for ever : a poem, in twelve books (London : Rivingtons, 1866) | have-ocr | IA `todayfo00bick` |
+| The spirit of life : or Scripture testimony to the divine person and work of the Holy Ghost (London : The Religious Trat Society, 1869) | have-ocr | IA `thespiritoflifeo00bickuoft` |
+| His father's A Scripture Help (which he re-edited); The Hymnal Companion (compiled); Ocean Melodies (a collection by others) | excluded | |
+
+## Edward Garbett (round 66, my pick, 2026-10-23)
+
+Slugs `egarbett-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| The soul's life: its commencement, progress and maturity (London : The Religious Tract Society, [186) | have-ocr | IA `soulslifeitscomm00garbiala` |
+| The Divine plan of revelation : an argument from internal evidence in support of the structural unity of the Bible (London : Hamilton, Adams, 1864) | have-ocr | IA `divineplanofreve00garb` |
+| The family prayer book; or, Morning and evening prayers for every day in the year, with prayers and thanksgivings for special occasions (London, Cassell, Petter, and Galpin, 1864) | have-ocr | IA `familyprayerbook00garbrich` |
+| Religion in daily life (Religious Tract Society, 1865, 1865) | have-ocr | IA `religionindaily00garbgoog` |
+| God's word written : the doctrine of the inspiration of holy scripture explained and enforced (London : Religious tract society, 1866) | have-ocr | IA `godswordwrittend00garb` |
+| The dogmatic faith: an inquiry into the relation subsisting between revelation and dogma : in eight lectures preached before the University of Oxford in the year 1867 (London : Rivingtons, 1867) | have-ocr | IA `dogmaticfaithinq00garb` |
+| The obligations of truth in religious controversy: a critical examination of a pamphlet [by C.N (catalogued 1874) | have-ocr | IA `obligationstrut00garbgoog` |
+| Morning, noon, and night (catalogued 1880) | have-ocr | IA `morningnoonandn00garbgoog` |
+| pentateuchitsaut00garb: The Pentateuch and its Authority, a review of Colenso 'reprinted from the Record newspaper' (1863), published without the author's name; Garbett edited the Record, but nothing in the scan names him | pending | not shelved |
+| Edward Lacy Garbett's Rudimentary Treatise on Design in Architecture (1850) | excluded | |
+
+## Hugh Stowell Brown (round 66, my pick, 2026-10-23)
+
+Slugs `hsbrown-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pilgrim fathers (Manchester, T. Agnew and Sons, 1854) | have-ocr | IA `pilgrimfathers00browgoog` |
+| Lectures for the people (Philadelphia, G. G. Evans, 1860) | have-ocr | IA `lecturesforpeopl00brow` |
+| Lectures to working men (Philip, 1870) | have-ocr | IA `lecturestoworki00browgoog` |
+| Manliness and other Sermons (catalogued 1889) | have-ocr | IA `manlinessotherse0000hugh` |
+| His uncle Hugh Stowell's works (hugh-stowell shelf); memoirs of him by others | excluded | |
+
+## Capel Molyneux (round 66, my pick, 2026-10-23)
+
+Slugs `molyneux-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| Baptismal regeneration compared with the word of God and the standards of the Church of England (catalogued 1842) | have-ocr | IA `baptismalregene00molygoog` |
+| Gethsemane, lectures (catalogued 1854) | have-ocr | IA `gethsemanelectu00molygoog` |
+| Other Molyneuxes (William Molyneux of Dublin and others) | excluded | |
+
+## W. E. Boardman (round 67, my pick, 2026-10-23)
+
+Slugs `boardman-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| The Higher Christian Life (D. Appleton & co., 1859) | have-ocr | IA `higherchristian01boargoog` |
+| He that overcometh; or, A conquering gospel ([?], 1869) | have-ocr | IA `hethatovercomet00boargoog` |
+| Faith work under Dr. Cullis, in Boston (Boston ; New York : Willard Tract Repository, 1874) | have-ocr | IA `faithworkunderdr00boar` |
+| In the power of the spirit ([n.p.], 1876) | have-ocr | IA `inpowerofspirit00boar` |
+| Life and Labours of the Rev. W. E. Boardman (1887, by his wife) | excluded | |
+
+## A. B. Earle (round 67, my pick, 2026-10-23)
+
+Slugs `abearle-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Bringing in sheaves (J.H. Earle, 1870) | have-ocr | IA `bringinginsheave00inearl` |
+| The rest of faith ([n.p.], 1871) | have-ocr | IA `restoffaith00earl` |
+| Revival Hymns (compiled); other Earles | excluded | |
+
+## E. Payson Hammond (round 67, my pick, 2026-10-23)
+
+Slugs `ephammond-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Little ones in the fold (Boston : Henry Hoyt, 1862) | have-ocr | IA `littleonesinfold00hamm` |
+| Jesus the Way; or, The child's guide to Heaven, teaching little children to find Jesus, who says "I am the Way" (London, S.S. Union, 1869) | have-ocr | IA `jesuswayorchilds00hammuoft` |
+| The Better Life, and How to find it for Young Men and Young Women (Boston: Henry Hoyt, 1869) | have-ocr | IA `betterlifehowtof0000edwa` |
+| Sketches of Palestine : descriptive of the visit of the Rev. Edward Payson Hammond, to the Holy Land (London : Morgan & Chase ; New York : T. Nelson, 1869) | have-ocr | IA `sketchesofpalest00hammiala` |
+| Gathered lambs : showing how Jesus the "Good Shepherd" laid down his life for us, and how many little lambs have been gathered into his fold (Cincinnati : Western Tract and Book Society, 1870) | have-ocr | IA `gatheredlambssho00hamm` |
+| The conversion of children (New York : Funk & Wagnalls, 1882) | have-ocr | IA `conversionofchil00hamm` |
+| Early conversion (New York, J. S. Ogilvie publishing company, 1901) | have-ocr | IA `earlyconversion00hamm` |
+| Hymn and tune books he compiled (Hymns of Salvation, New Praises of Jesus, The Song Evangel); The Reaper and the Harvest (P. C. Headley's account of his work); Henry Hammond, on his own shelf | excluded | |
+
+## William Taylor (1821-1902) (round 67, my pick, 2026-10-23)
+
+Slugs `wtaylorbp-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Seven years' street preaching in San Francisco, California; embracing incidents, triumphant death scenes, etc (New York, The author, 1857) | have-ocr | IA `sevenyearsstree00tayl` |
+| California life illustrated (New York, Pub. for the author, by Carlton & Porter, 1858) | have-ocr | IA `californialifei04taylgoog` |
+| Model preacher: comprised in a series of letters illustrating the best mode of preaching the gospel (Cincinnati, Swormstedt & Poe, 1860) | have-ocr | IA `modelpreachercom00tayl` |
+| How to be saved and how to save the world, vol. 1 (Adelaide : Alfred Waddy, 1866) | have-ocr | IA `howtobesavedhowt00tayl` |
+| Christian adventures in South Africa (London : Jackson, Walford, and Hodder, 1867) | have-ocr | IA `christianadventu00tayl_0` |
+| The election of grace (London : Hodder and Stoughton ; New York : Nelson and Phillips, 1868) | have-ocr | IA `electionofgrace0000tayl` |
+| Reconciliation, or, How to be saved (London : S.W. Partridge ; New York : Nelson and Phillips, 1874) | have-ocr | IA `reconciliationor0000tayl` |
+| Infancy and manhood of Christian life (London : S.W. Partridge ; New York : Nelson and Phillips, 1875) | have-ocr | IA `infancymanhoodof0000tayl` |
+| Four years' campaign in India (New York : Nelson & Phillips, 1875) | have-ocr | IA `cu31924022906006` |
+| Our South American cousins (New York, Nelson and Phillips; London, Hodder and Stoughton, 1878) | have-ocr | IA `cu31924021167378` |
+| Other William Taylors (of Norwich, the arithmetic teachers); William M. Taylor of New York (his own shelf) | excluded | |
+
+## Henry Clay Fish (round 67, my pick, 2026-10-23)
+
+Slugs `hcfish-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Primitive piety revived or, The aggressive power of the Christian church. A premium essay (Boston, Congregational Board of Publication, 1855) | have-ocr | IA `primitivepietyrev00fishrich` |
+| Harry's conflicts : life sketches (Philadelphia : Bible and Publication Society, 1872) | have-ocr | IA `harrysconflictsl00fish` |
+| Handbook of revivals : for the use of winners of souls (Boston : J. H. Earle, 1874) | have-ocr | IA `handbookofreviva00fish` |
+| Anthologies he edited: History and Repository of Pulpit Eloquence, Pulpit Eloquence of the Nineteenth Century, Select Discourses by Monod, Krummacher and others, Heaven in Song; The Agent's Manual of Life Assurance (another Fish) | excluded | |
+
+## John L. Nevius (round 67, my pick, 2026-10-23)
+
+Slugs `nevius-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| China and the Chinese : a general description of the country and its inhabitants, its civilization and form of government, its religious and social institutions, its intercourse with other nations, and its present condition and prospects (New York : Harper & brothers, 1868) | have-ocr | IA `chinachinesegene00nevi` |
+| San-Poh, or, North of the hills. : A narrative of missionary work in an outstation in China (Philadelphia : Presbyterian Board of Publication, 1869) | have-ocr | IA `sanpohornorthofh00nevi` |
+| Demon possession and allied themes : being an inductive study of phenomena of our own times (Chicago : F. H. Revell, 1894) | have-ocr | IA `demonpossessiona00nevi` |
+| Methods of mission work (New York, Foreign mission library, 1895) | have-ocr | IA `methodsofmission00nevi` |
+| The planting and development of missionary churches (New York : Foreign mission library, 1899) | have-ocr | IA `plantingdevelopm00nevi` |
+| The Life of John Livingston Nevius (1895, by his wife Helen S. C. Nevius); his Chinese-language works | excluded | |
+
+## Joseph Mede (round 68, my pick, 2026-10-23)
+
+Slugs `mede-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of the Pious and Profoundly-Learned Joseph Mede, B.D. (London, 1677) | have-ocr | IA `bim_early-english-books-1641-1700_the-works-of-_mede-joseph_1677` |
+| The Apostasy of the Latter Times (London, 1642) | have-ocr | IA `bim_early-english-books-1641-1700_the-apostasy-of-the-latt_mede-joseph_1642` |
+| The Key of the Revelation, searched and demonstrated, translated by Richard More (London, 1650) | have-ocr | IA `bim_early-english-books-1641-1700_the-key-of-the-revelatio_mede-joseph_1650` |
+| The Name Altar, or Thusiasterion, anciently given to the Holy Table (London, 1637) | have-ocr | IA `bim_early-english-books-1475-1640_the-name-altar-or-_mede-joseph_1637` |
+| The Reverence of Gods House (London: M. Flesher for John Clark, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-reverence-of-gods-ho_mede-joseph_1638` |
+| The Works, 1672 printing (bim_early-english-books-1641-1700_the-vvorks-of-_mede-joseph_1672): an earlier edition of the same collected works; the 1677 edition is shelved | excluded | |
+| Latin works (Clavis Apocalyptica 1627 and 1632); Cooper's 1833 translation of the Clavis (translator's English, kept off a Mede shelf) | excluded | |
+
+## Humphrey Prideaux (round 68, my pick, 2026-10-23)
+
+Slugs `prideaux-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part I, vol. 1, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_1` |
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part I, vol. 2, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_2` |
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part II, vol. 3, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_3` |
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part II, vol. 4, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_4` |
+| The Validity of the Orders of the Church of England, made out against the objections of the Papists (London: Aylmer, 1688) | have-ocr | IA `thevalidityoford00priduoft` |
+| The True Nature of Imposture Fully Display'd in the Life of Mahomet (London: Rogers, 1698) | have-ocr | IA `thetruenature00priduoft` |
+| A Letter to the Deists (London, 1696) | have-ocr | IA `bim_early-english-books-1641-1700_a-letter-to-the-deists_prideaux-humphrey_1696` |
+| The Original and Right of Tithes, for the Maintenance of the Ministry in a Christian Church Truly Stated (Norwich: Fr. Collins, 1710) | have-ocr | IA `bim_eighteenth-century_the-original-and-right-o_prideaux-humphrey_1710` |
+| Directions to Church-Wardens for the Faithful Discharge of their Office, second edition (Norwich, 1704) | have-ocr | IA `bim_eighteenth-century_directions-to-church-war_prideaux-humphrey_1704` |
+| Marmora Oxoniensia (Latin, 1676); French and Dutch translations of the Connection; the many later printings of the Connection (1716-1749 folio and octavo, 1749 Google copies), duplicates of the 1725 set shelved | excluded | |
+
+## Richard Allestree (round 68, my pick, 2026-10-23)
+
+Slugs `allestree-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| The Practice of Christian Graces, or The Whole Duty of Man, with Private Devotions (London: D. Maxwell for T. Garthwait, 1658): the first edition of The Whole Duty of Man | have-ocr | IA `bim_early-english-books-1641-1700_the-practice-of-christia_allestree-richard_1658` |
+| Private Devotions for Several Occasions (London, 1660) | have-ocr | IA `bim_early-english-books-1641-1700_private-devotions-for-se_allestree-richard_1660` |
+| The Gentleman's Calling (London: T. Garthwait, 1660) | have-ocr | IA `allestreegentlemanscalling` |
+| The Causes of the Decay of Christian Piety (London: R. Norton for T. Garthwait, 1667) | have-ocr | IA `causesofdecayofc00alle` |
+| The Government of the Tongue, fifth impression (Oxford: at the Theater; title-page date read as M.DC.LXVII, but the imprimatur is dated 24 January 1675 and the book first appeared in 1674, so this printing is 1675 or later) | have-ocr | IA `bim_early-english-books-1641-1700_the-government-of-the-to_allestree-richard_1667` |
+| almanacs of 1617-1643 under the name Richard Allestree: by the Derbyshire almanac-maker of that name, not the divine | excluded | |
+| Forty Sermons (1684) not found in a usable scan this round | excluded | |
+| The Whole Duty of Man (London: T. Garthwait, 1659; bim_early-english-books-1641-1700_the-whole-duty-of-man-_allestree-richard_1659): a later printing of the 1658 first edition shelved | excluded | |
+
+## Soame Jenyns (round 68, my pick, 2026-10-23)
+
+Slugs `jenyns-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| A View of the Internal Evidence of the Christian Religion, third edition (London: J. Dodsley, 1776) | have-ocr | IA `aviewinternalev00jenygoog` |
+| A Free Inquiry into the Nature and Origin of Evil, in six letters, third edition, amended (London: R. and J. Dodsley, 1758) | have-ocr | IA `afreeinquiryint01jenygoog` |
+| Poems upon Various Subjects, Latin and English (London: J. Nourse, 1768) | have-ocr | IA `poemsuponvariou00jenygoog` |
+| Thoughts on the Causes and Consequences of the Present High Price of Provisions (London: J. Dodsley, 1767): anonymous, its title page names no author, and it is an economic pamphlet, not theology | excluded | |
+
+## J. W. McGarvey (round 68, my pick, 2026-10-23)
+
+Slugs `mcgarvey-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary on Acts of Apostles (Cincinnati: Wrightson, 1863) | have-ocr | IA `commentaryonacts00mcga` |
+| New Commentary on Acts of Apostles, vol. 1 (Cincinnati: Standard, 1892) | have-ocr | IA `newcommentaryona01mcga` |
+| New Commentary on Acts of Apostles, vol. 2 (Cincinnati: Standard, 1892) | have-ocr | IA `newcommentaryona02mcga` |
+| Lands of the Bible, sixteenth thousand (title page: '... & Co. London: 16 Southampton Street, Strand. 1882'; first published 1880) | have-ocr | IA `landsofbible0000jwmc` |
+| Evidences of Christianity (Cincinnati: Guide, 1886) | have-ocr | IA `evidencesofchris00mcga` |
+| Sermons Delivered in Louisville, Kentucky, June-September, 1893 (1894) | have-ocr | IA `sermonsdelivered00mcga` |
+| Jesus and Jonah (Cincinnati: Standard, 1896) | have-ocr | IA `jesusjonah00mcga` |
+| A Guide to Bible Study (Cleveland: Bethany C.E., 1897) | have-ocr | IA `aguidetobiblestu00mcgauoft` |
+| The Authorship of the Book of Deuteronomy (Cincinnati: Standard, 1902) | have-ocr | IA `authorshipofbook00mcga` |
+| Short Essays in Biblical Criticism (Cincinnati: Standard, 1910) | have-ocr | IA `shortessaysinbib00mcga` |
+| The Fourfold Gospel, or A Harmony of the Four Gospels, with Philip Y. Pendleton (Cincinnati: Standard, copyright 1914; this printing undated) | have-ocr | IA `fourfoldgospelor0000jwmc_m2n6` |
+| Thessalonians, Corinthians, Galatians, and Romans, with Philip Y. Pendleton (Cincinnati: Standard, 1916) | have-ocr | IA `thessalonianscor00mcga` |
+| later reprints of the Acts commentaries (1887, 1909 and undated 0000 copies), duplicates of the printings shelved | excluded | |
+
+## Frederick Temple (round 69, my pick, 2026-10-23)
+
+Slugs `temple-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons preached in Rugby School Chapel, in 1858, 1859, 1860 (London : Macmillan, 1870) | have-ocr | IA `sermonspreachedi00temp` |
+| Sermons Preached in Rugby School Chapel in 1862-1867 (Macmillan, 1871) | have-ocr | IA `sermonspreached05tempgoog` |
+| Sermons Preached in Rugby School Chapel in 1867-1869 (Macmillan, 1872) | have-ocr | IA `sermonspreached06tempgoog` |
+| The present relations of science to religion : a sermon preached on Act Sunday, July 1, 1860, before the University of Oxford, during the meeting of the British Association (Oxford : J.H. and Jas. Parker, 1860) | have-ocr | IA `b22327265` |
+| The relations between religion and science : eight lectures preached before the University of Oxford in the year 1884 (New York : Macmillan and Co., 1884) | have-ocr | IA `relationsbetween00temp` |
+| his essay 'The Education of the World' in Essays and Reviews (1860), a many-author volume | excluded | |
+
+## W. Robertson Nicoll (round 69, my pick, 2026-10-23)
+
+Slugs `nicoll-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lamb of God : expositions in the writings of St. John (New York : Macmillan, 1883) | have-ocr | IA `lambofgodexposit00nico` |
+| The key of the grave (London : Hodder and Stoughton, 1894) | have-ocr | IA `keyofgrave00nico` |
+| Ten-Minute Sermons (London: Isbister, 1895) | have-ocr | IA `bwb_P9-CSD-194` |
+| When the worst comes to the worst (New York, Dodd, Mead and company, 1896) | have-ocr | IA `whenworstcomesto00nico` |
+| The return to the cross (New York : Dodd Mead, 1897) | have-ocr | IA `returntocross00nico` |
+| The incarnate Saviour : a life of Jesus Christ (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `incarnatesaviour00nico` |
+| The Seven Words From the Cross (Hodder, 1901) | have-ocr | IA `sevenwordsfromcr0000wrob` |
+| The church's one foundation. Christ and recent criticism (London, Hodder and Stoughton, 1901) | have-ocr | IA `thechurch00nicouoft` |
+| The garden of nuts : mystical expositions with an essay on Christian mysticism (New York : A.C. Armstrong and son ; London : Hodder and Stoughton, 1905) | have-ocr | IA `thegardenofnuts00nicouoft` |
+| The lamp of sacrifice : sermons preached on special occasions (London : Hodder and Stoughton, 1906) | have-ocr | IA `thelampofsacrifi00nicouoft` |
+| "Ian Maclaren"; the life of the Rev. John Watson, D.D (New York, Dodd, Mead and company, 1908) | have-ocr | IA `ianmaclarenlifeo00nico` |
+| My father, an Aberdeenshire minister, 1812-1891 (London, Hodder and Stoughton, 1910) | have-ocr | IA `myfatheraberdeen00nico` |
+| The Difference Christ is Making, reprinted from The British Weekly (London: Hodder and Stoughton, undated; the papers are dated 1914) | have-ocr | IA `thedifferencechr00nicouoft` |
+| Prayer in war time (London : Hodder and Stoughton, 1916) | have-ocr | IA `prayerinwartime00nicouoft` |
+| Reunion in Eternity (New York: George H. Doran, copyright 1919) | have-ocr | IA `reunionineternit00nicouoft` |
+| Professor Elmslie: a Memoir (London: Hodder and Stoughton, undated reissue of the 1890 memoir; professorelmslie0000nico): its printing year cannot be read, so held; the 1890 Memoir and Sermons is co-edited with A. N. Macnicol | pending | not shelved |
+| works he edited (The Expositor, The Expositor's Bible, The Expositor's Greek Testament, The Theological Educator, Songs of Rest, Fox's Journal) | excluded | |
+| his literary books (the Claudius Clear essays, Letters on Life, The Round of the Clock, Literary Anecdotes, Edwin Drood, Stevenson, A Library for Five Pounds); books by Henry J. Nicoll, another author | excluded | |
+
+## Henry Wace (round 69, my pick, 2026-10-23)
+
+Slugs `wace-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity and morality, or, The correspondence of the gospel with the moral nature of man (London : B.M. Pickering, 1877) | have-ocr | IA `christianitymora00wace` |
+| The foundations of faith considered in eight sermons preached before the University of Oxford in the year MDCCCLXXIX (London : Pickering & Co., 1880) | have-ocr | IA `foundationsoffai00wace` |
+| The Gospel and its witnesses : some of the chief facts in the life of our Lord and the authority of the evangelical narratives considered in lectures chiefly preached at St. James's, Westminster (London : J. Murray, 1883) | have-ocr | IA `gospelitswitness00wace` |
+| Some central points of our Lord's ministry (London : Hodder and Stoughton, 1890) | have-ocr | IA `somecentralpoint00wace` |
+| Christianity and agnosticism; reviews of some recent attacks on the Christian faith (New York, T. Whittaker; Edinburgh [etc.] W. Blackwood and sons, 1895) | have-ocr | IA `christianityagno00wacerich` |
+| The sacrifice of Christ, its vital reality and efficacy (New York, Macmillan, 1898) | have-ocr | IA `sacrificeofchris00wace_0` |
+| The Bible and modern investigation : three lectures delivered to clergy at Norwich at the request of the Bishop with an address on the authority of Holy Scripture (London : Society for Promoting Christian Knowledge, 1903) | have-ocr | IA `biblemoderninves00wace` |
+| Principles of the Reformation, Practical and Historical (New York: American Tract Society, undated; library-catalogued 1911; first published 1910) | have-ocr | IA `principlesofrefo00wace` |
+| Prophecy, Jewish and Christian : considered in a series of Warburton lectures at Lincoln's Inn (Milwaukee : Young Churchman, 1911) | have-ocr | IA `prophecyjewishch00wace` |
+| The Christian sanction of war, address at the service of intercession for the King's Naval and Military forces, held in Canterbury Cathedral, August 9th, 1914 (London, Thynne, 1914) | have-ocr | IA `christiansanctio00wace` |
+| The war and the gospel : sermons & addresses during the present war (London : C.J. Thynne, 1917) | have-ocr | IA `wargospelserm00waceuoft` |
+| The story of the passion : its own message considered in addresses (London : John Murray, 1922) | have-ocr | IA `storyofpassion00waceuoft` |
+| The Story of the Resurrection (London: John Murray; undated in this scan, catalogued 1923) | have-ocr | IA `bwb_C0-AJV-428` |
+| On Agnosticism: Replies to the late Professor Huxley (London: SPCK, 1903): the only scan found (onagnosticismrep00waceuoft) carries the text of another book, G. A. Raybold's Reminiscences of Methodism in West Jersey (1849); held until a good scan turns up | pending | not shelved |
+| works he edited or co-edited (Dictionary of Christian Biography, Nicene and Post-Nicene Fathers second series, the Speaker's Commentary Apocrypha, Church and Faith, the Fulham conference reports); Christianity and Agnosticism: a Controversy (1889, papers by several hands); First Principles of the Reformation (1883, his and Buchheim's translation of Luther) | excluded | |
+
+## H. M. Luckock (round 69, my pick, 2026-10-23)
+
+Slugs `luckock-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| After death : an examination of the testimony of primitive times respecting the state of the faithful dead, and their relationship to the living (London : Rivingtons, 1880) | have-ocr | IA `afterdeathanexam00luckuoft` |
+| Studies in the history of the Book of Common Prayer (London : Rivingtons, 1882) | have-ocr | IA `studiesinthehist00luckuoft` |
+| The Bishops in the Tower: A Record of Stirring Events Affecting the Church (Rivingtons, 1887) | have-ocr | IA `bishopsintowera00luckgoog` |
+| The divine liturgy : being the order for Holy Communion historically, doctrinally and devotionally set forth in fifty portions (London : Rivingtons, 1889) | have-ocr | IA `divineliturgybei00luck` |
+| The intermediate state between death and judgment : being a sequel to After death (London : Longmans, Green, and Co., 1891) | have-ocr | IA `theintermediates00luckuoft` |
+| Footprints of the Son of Man as traced by Saint Mark : being eighty portions for private study, family reading, and instructions in Church (London : Longmans, Green, 1891) | have-ocr | IA `footprintsofso00luck` |
+| The church in Scotland (London : Wells Gardner, Darton, 1893) | have-ocr | IA `churchinscotland00luck` |
+| The History of Marriage, Jewish and Christian, in Relationship to Divorce and Certain Forbidden (Longmans, Green and Co., 1894) | have-ocr | IA `historymarriage00luckgoog` |
+| Footprints of the Apostles, as traced by Saint Luke in the Acts : being sixty portions for private study and instruction in church, vol. 1 (London : Longmans, Green, 1897) | have-ocr | IA `footprintsofapos01luck` |
+| Footprints of the Apostles, as traced by Saint Luke in the Acts : being sixty portions for private study and instruction in church, vol. 2 (London : Longmans, Green, 1897) | have-ocr | IA `footprintsofapos02luck` |
+| The special characteristics of the four Gospels (London, New York and Bombay, Longmans, Green, and Co., 1900) | have-ocr | IA `specialcharacter0000luck` |
+| Eucharistic sacrifice and intercession for the departed, both consistent with the teaching of the Book of common prayer : a course of addresses (London : Skeffington & Son, 1907) | have-ocr | IA `eucharisticsacri0000luck` |
+
+## Walter F. Adeney (round 70, my pick, 2026-10-23)
+
+Slugs `adeney-*`. Built from title pages read for round 70.
+
+| Work | Status | Where |
+|---|---|---|
+| The Hebrew utopia : a study of messianic prophecy (London : Hodder and Stoughton, 1879) | have-ocr | IA `hebrewutopiaast00adengoog` |
+| Ezra, Nehemiah, and Esther, The Expositor's Bible (New York: A. C. Armstrong, 1893) | have-ocr | IA `ezranehemiahesth15aden` |
+| The Theology of the New Testament (New York, 1894) | have-ocr | IA `theologyofnt00aden` |
+| The Song of Solomon and the Lamentations of Jeremiah (London : Hodder and Stoughton, 1895) | have-ocr | IA `thesongofsolomon00adenuoft` |
+| How to read the Bible (catalogued 1897) | have-ocr | IA `howtoreadbible00aden` |
+| The construction of the Bible (New York, T. Whittaker, 1898) | have-ocr | IA `constructionofbi00aden` |
+| Women of the New Testament (London : Service & Paton, 1899) | have-ocr | IA `womenofnewtestam00aden` |
+| A Biblical Introduction, with W. H. Bennett (New York: T. Whittaker, 1899) | have-ocr | IA `biblicalintroduc00bennuoft` |
+| St. Luke, The Century Bible (New York: H. Frowde, catalogued 1906) | have-ocr | IA `stlukeintroducti42aden` |
+| Thessalonians and Galatians, The Century Bible (New York: H. Frowde, catalogued 1906) | have-ocr | IA `thessaloniansgal52aden` |
+| The New Testament story retold for young people (New York, London, The Macmillan Company, 1906) | have-ocr | IA `newtestamentstor00adenrich` |
+| The Greek and Eastern churches (Edinburgh : T. & T. Clark, 1908) | have-ocr | IA `greekandeastern00adenuoft` |
+| Jeremiah in the Pulpit Commentary (many hands); The Bible Story Re-told (1898, with W. H. Bennett's Old Testament part; his New Testament part is shelved as its own volume); journal articles | excluded | |
+
+## G. G. Findlay (round 70, my pick, 2026-10-23)
+
+Slugs `findlay-*`. Built from title pages read for round 70.
+
+| Work | Status | Where |
+|---|---|---|
+| The Epistle to the Galatians, The Expositor's Bible (New York: A. C. Armstrong, 1893) | have-ocr | IA `epistletogalatia48find` |
+| The Epistle to the Ephesians, The Expositor's Bible (New York: A. C. Armstrong, 1892) | have-ocr | IA `epistletoephesia49find` |
+| The Epistles to the Thessalonians; with introduction, notes and map (Cambridge : Univ. Press, 1891) | have-ocr | IA `epistlestothessa00find` |
+| The Epistles of Paul the Apostle to the Thessalonians, Cambridge Greek Testament (Cambridge: University Press, 1904) | have-ocr | IA `epistlespaulapo00findgoog` |
+| The books of the prophets in their historical succession, vol. 1 (London : C. H. Kelly, 1896) | have-ocr | IA `booksofprophetsi01find` |
+| The books of the prophets in their historical succession, vol. 2 (London : C. H. Kelly, 1896) | have-ocr | IA `booksofprophetsi02find` |
+| The books of the prophets in their historical succession, vol. 3 (London : C. H. Kelly, 1896) | have-ocr | IA `booksofprophetsi03find` |
+| The church of Christ as set forth in the New Testament. Being two lectures addressed to Methodists of Leeds (London, C.H. Kelly, 1893) | have-ocr | IA `churchofchristas00find` |
+| Christian doctrine and morals viewed in their connexion (London, C.H. Kelly, 1894) | have-ocr | IA `christiandoctrin00find` |
+| The Epistles of Paul the Apostle : a sketch of their origin and contents (N. Y. : W.B. Ketcham, 1894) | have-ocr | IA `epistlesofpaulap00find` |
+| Wesley's World Parish: a sketch of the hundred years' work of the Wesleyan Methodist Missionary Society (London: Hodder and Stoughton and Charles H. Kelly; undated, written for the society's centenary, catalogued 1913) | have-ocr | IA `wesleysworldpari00find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 1 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya01find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 2 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya02find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 3 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya03find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 4 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya04finduoft` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 5 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya05find` |
+| Fellowship in the Life Eternal (1909, on the Epistles of John): only a 1955 reprint and undated scans were found | pending | not shelved |
+
+## J. Rawson Lumby (round 70, my pick, 2026-10-23)
+
+Slugs `lumby-*`. Built from title pages read for round 70.
+
+| Work | Status | Where |
+|---|---|---|
+| Early dissent, modern dissent and the Church of England (Deighton, Bell, 1870) | have-ocr | IA `earlydissentmod00lumbgoog` |
+| The history of the creeds; (i) ante-Nicene, (ii) Nicene and Constantinopolitan, (iii) the apostolic creed, (iv) the quicunque, commonly called the creed of St. Athanasius (Cambridge [Eng.] : Deighton, Bell, and Co. ; London : George Bell and Sons, 1873) | have-ocr | IA `historyofcreedsi00lumb_0` |
+| A popular introduction to the New Testament (London : Hodder and Stoughton, 1883) | have-ocr | IA `popularintroduct00lumb` |
+| The Acts of the Apostles; with maps. introduction and notes (Cambridge, Univ. Press, 1890) | have-ocr | IA `actsofapostleswi00lumb` |
+| The first book of Kings : with maps, introduction and notes (Cambridge [Eng.] : University Press, 1890) | have-ocr | IA `firstbookofkings1890lumb` |
+| The second book of the Kings : with introduction and notes (Cambridge [Eng.] : University Press, 1887) | have-ocr | IA `secondbookofking00lumb` |
+| The Epistles of St. Peter, The Expositor's Bible (New York: A. C. Armstrong, 1893) | have-ocr | IA `epistlesofstpete00lumb` |
+| his editions of medieval and early-modern texts (Higden's Polychronicon, King Horn, Ratis Raving, Be Domes Daege, Knighton, Bede, More's Utopia and Richard III, Bacon's Henry VII, Cowley's prose): other authors' works; The Cambridge Companion to the Bible (many hands) | excluded | |
+| Compendium of English Church History from 1688 to 1830 (1883): by an unnamed author; Lumby wrote only the preface and saw it through the press | excluded | |
+
+## J. J. Stewart Perowne (round 71, my pick, 2026-10-23)
+
+Slugs `perowne-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The Book of Psalms : a new translation with introductions and notes, explanatory and critical, vol. 1 (Andover : W. F. Draper, 1876) | have-ocr | IA `bookofpsalmsnewt01pero` |
+| The Book of Psalms : a new translation with introductions and notes, explanatory and critical, vol. 2 (Andover : W. F. Draper, 1876) | have-ocr | IA `bookofpsalmsnewt02pero` |
+| The Godhead of Jesus : four sermons (being the Hulsean lectures for 1866) (Cambridge : Deighton, Bell, and Co., 1867) | have-ocr | IA `godheadofjesusfo00pero` |
+| Immortality: four sermons preached before the University of Cambridge, being the Hulsean Lectures for 1868 (Cambridge, 1869) | have-ocr | IA `immortality00pero` |
+| Sermons, preached chiefly in the chapel of St. David's College, Lampeter, and in Llandaff Cathedral (London: W. Isbister, 1874) | have-ocr | IA `sermons0000jjst` |
+| The church, the ministry, the sacraments, five sermons preached in Peterborough Cathedral (London : J. Nisbet & Co., 1883) | have-ocr | IA `churchministrysa00perouoft` |
+| Cambridge Bible volumes he edited as general editor and those by his brothers T. T. and E. H. Perowne; the Memoir of T. G. Ragland (1861, by T. T. Perowne); his edition of Thirlwall's Remains and Letters | excluded | |
+
+## W. M. Clow (round 71, my pick, 2026-10-23)
+
+Slugs `clow-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cross in Christian Experience (New York: Hodder and Stoughton; undated, catalogued 1908; the copy was given from the books of Edward Blake, who died in 1912) | have-ocr | IA `crossinchristian00clowuoft` |
+| The day of the cross ; a course of sermons on the men and women and some of the notable things of the day of the crucifixion of Jesus (London : Hodder and Stoughton, 1909) | have-ocr | IA `dayofcrosscourse00clow` |
+| The secret of the Lord (New York : Hodder & Stoughton, 1910) | have-ocr | IA `secretofthelord00clowuoft` |
+| Christ in the social order (New York : Hodder & Stoughton : George H. Doran company, 1913) | have-ocr | IA `christinsocialor00clow` |
+| The evangel of the strait gate (London, New York [etc.] Hodder and Stoughton, 1916) | have-ocr | IA `evangelofstraitg00clow` |
+| The Christian Message in the Light of the War (London, Edinburgh and New York: Marshall Brothers; undated, written during the 1914-1918 war, catalogued 1918) | have-ocr | IA `christianmessage0000clow` |
+| The quest of industrial peace (London, Hodder and Stoughton, 1921) | have-ocr | IA `questofindustria00clowuoft` |
+| Dr. George Reith: a Scottish ministry (London, Hodder and Stoughton, 1928) | have-ocr | IA `drgeorgereithsco0000clow` |
+
+## John Kelman (round 71, my pick, 2026-10-23)
+
+Slugs `kelman-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The Holy Land (London : A. & C. Black, 1902) | have-ocr | IA `holyland00kelmuoft` |
+| The faith of Robert Louis Stevenson (Edinburgh, Oliphant, Anderson and Ferrier, 1903) | have-ocr | IA `faithofrobertlou00kelmuoft` |
+| From Damascus to Palmyra (London : Black, 1908) | have-ocr | IA `fromdamascustopa00kelm` |
+| Ephemera Eternitatis: a book of short studies in life here and hereafter, arranged for the Sundays of the Christian year (New York: Hodder and Stoughton, 1910) | have-ocr | IA `ephemeraeternita00kelm` |
+| The road of life, a study of Pilgrim's journey as far as Vanity Fair ([London] Hodder & Stoughton; New York, Doran, 1911) | have-ocr | IA `roadoflifestudyo0000kelm` |
+| Among famous books (London : Hodder and Stoughton, 1912) | have-ocr | IA `amongfamousbooks00kelmuoft` |
+| The war and preaching (New Haven : Yale University Press, 1919) | have-ocr | IA `warpreaching00kelmuoft` |
+| Some aspects of international Christianity (New York ; Cincinnati : Abingdon Press, 1920) | have-ocr | IA `someaspectsof00kelm` |
+| Things eternal (New York, George H. Doran company, 1920) | have-ocr | IA `thingseterna00kelm` |
+| single sermons printed as pamphlets at Fifth Avenue (1920): He Gave Thanks, The Garden and the Cross, and others | excluded | |
+
+## W. L. Watkinson (round 71, my pick, 2026-10-23)
+
+Slugs `watkinson-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| Mistaken signs, and other papers on Christian life and experience (L. Kelly, 1882) | have-ocr | IA `mistakensignsan00watkgoog` |
+| John Wicklif (London : T. Woolmer, 1884) | have-ocr | IA `johnwicklif00watkuoft` |
+| The Beginning of Christian Life (London: T. Woolmer, 1887) | have-ocr | IA `beginningofchris0000watk` |
+| Noonday Addresses, delivered in the Central Hall, Manchester (London: C. H. Kelly, 1890) | have-ocr | IA `noondayaddresses0000wlwa` |
+| The transfigured sackcloth and other sermons (New York, E.P. Dutton and Co., 1893) | have-ocr | IA `transfiguredsack00watk` |
+| The Influence of Scepticism on Character, the sixteenth Fernley Lecture, delivered at City Road Chapel, London, 2 August 1886 (London: Charles H. Kelly, 1898) | have-ocr | IA `influenceofscept00watk` |
+| The Blind Spot and other sermons, second edition (London: Horace Marshall and Son, 1900) | have-ocr | IA `blindspot01watk` |
+| The bane and the antidote and other sermons (New York : Fleming H. Revell, 1900) | have-ocr | IA `baneantidoteothe00watk` |
+| Studies in Christian character (New York : F. H. Revell, 1903) | have-ocr | IA `studiesinchristi00watk` |
+| The education of the heart : brief essays on influences that make for character (New York : Fleming H. Revell Co., 1904) | have-ocr | IA `educationofheart00watk` |
+| Inspiration in common life (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905) | have-ocr | IA `inspirationincom00watk` |
+| The duty of imperial thinking, and other chapters on themes worth while (New York, Fleming H. Revell Co, 1906) | have-ocr | IA `dutyofimperialth00watk` |
+| The supreme conquest, and other sermons preached in America (New York, Chicago [etc.] F. H. Revell company, 1907) | have-ocr | IA `supremeconquesto00watk` |
+| Frugality in the spiritual life (New York, Chicago [etc.] F. H. Revell company, 1908) | have-ocr | IA `frugalityinspir00watkgoog` |
+| The fatal barter (New York, Chicago [etc.] F. H. Revell company, 1909) | have-ocr | IA `fatalbarter00watk` |
+| The Preacher's Commentary on the Book of Psalms (1879; not checked as his); his papers in The London Quarterly Review | excluded | |
+
+## H. W. Webb-Peploe (round 71, my pick, 2026-10-23)
+
+Slugs `peploe-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The life of privilege : possession, peace, and power (New York : Fleming H. Revell, 1896) | have-ocr | IA `lifeofprivilegep00webb` |
+| The victorious life : the post-conference addresses delivered at East Northfield, Mass., August 17-25, 1895 (New York : The Baker & Taylor Co., 1896) | have-ocr | IA `victoriouslifepo00webb` |
+| The titles of Jehovah: A course of sermons (James Nisbet & Co., Limited, 1901) | have-ocr | IA `titlesofjehovahc0000unse` |
+
+## Marcus Rainsford (round 71, my pick, 2026-10-23)
+
+Slugs `rainsford-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on Romans VI (London: W. F. Blackburn; notes of lectures begun on Ash Wednesday, 2 March 1870) | have-ocr | IA `lecturesonroman00raingoog` |
+| Lectures on St. John XVII (London : J. Hoby, 1882) | have-ocr | IA `lecturesonstjohn00rain` |
+| The mystery of his will (Hodder and Stoughton, 27 Paternoster Row., 1888) | have-ocr | IA `mysteryofhiswill0000marc` |
+| The Fulness of God, and other addresses (London: S. W. Partridge, 1898) | have-ocr | IA `fulnessgodandot00raingoog` |
+| Straight Paths for Your Feet (a modern print-on-demand reprint); The Tabernacle in the Wilderness (undated scan) | excluded | |
+
+## Hugh Black (round 72, my pick, 2026-10-23)
+
+Slugs `black-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| Friendship (Chicago: Fleming H. Revell, copyright 1898) | have-ocr | IA `friendship00blacrich` |
+| Culture and restraint (New York : Fleming H. Revell, 1901) | have-ocr | IA `culturerestraint00blac` |
+| Work (Toronto, Revell, 1903) | have-ocr | IA `blackswork00blacuoft` |
+| The practice of self-culture (New York, The Macmillan company; London, Macmillan & co., ltd, 1904) | have-ocr | IA `practiceofselfcu00blac` |
+| Edinburgh sermons (London : Hodder and Stoughton, 1906) | have-ocr | IA `edinburghsermons00blacuoft` |
+| Christ's service of love (London, Hodder and Stoughton, 1907) | have-ocr | IA `christsserviceo00blac` |
+| The gift of influence (New York, Chicago [etc.] Fleming H. Revell company, 1908) | have-ocr | IA `giftofinfluence00blac` |
+| University sermons (London, Hodder and Stoughton, 1908) | have-ocr | IA `universitysermon00blac` |
+| Comfort (Chicago, New York [etc.] : Fleming H. Revell company, 1910) | have-ocr | IA `cu31924029349622` |
+| Happiness (Chicago and New York: Fleming H. Revell, copyright 1911) | have-ocr | IA `happiness00blac` |
+| Three dreams (New York, Chicago [etc.] Fleming H. Revell company, 1912) | have-ocr | IA `threedreams00blac` |
+| "According to my Gospel," (New York, Chicago [etc.] Fleming H. Revell company, 1913) | have-ocr | IA `accordingtomyg00blac` |
+| The open door (New York, Revell, 1914) | have-ocr | IA `opendoor00blac` |
+| The new world (New York : F. H. Revell, 1915) | have-ocr | IA `newworld00blac` |
+| "Lest We Forget" (copyright 1920) | have-ocr | IA `lestweforget0000hugh` |
+| The Cleavage of the World (London: Hodder and Stoughton, 1920) | have-ocr | IA `cleavageofworldy00blacuoft` |
+| The adventure of being man (Garden City, N.Y. : Doubleday, Doran & Co., 1929) | have-ocr | IA `adventureofbeing00blac` |
+
+## S. D. Gordon (round 72, my pick, 2026-10-23)
+
+Slugs `gordon-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| Quiet talks on power (New York: Fleming H. Revell, copyright 1903) | have-ocr | IA `quiettalksonpowe00gordiala` |
+| Quiet talks on prayer (New York: Fleming H. Revell, copyright 1904) | have-ocr | IA `quiettalksonpray00gorduoft` |
+| Quiet talks about Jesus (New York : A.C. Armstrong, 1906) | have-ocr | IA `quiettalksaboutj00gord_0` |
+| Quiet talks on service (New York: Fleming H. Revell, copyright 1906) | have-ocr | IA `quiettalksonserv00gorduoft` |
+| Quiet talks on personal problems (New York, A. C. Armstrong & son, 1907) | have-ocr | IA `quiettalksonpers00gord` |
+| Quiet talks with world winners (London : Hodder and Stoughton, 1908) | have-ocr | IA `quiettalkswithwo0000gord` |
+| Quiet talks on home ideals (New York : Fleming H. Revell, 1909) | have-ocr | IA `quiettalksonhome00gord` |
+| Quiet talks about the tempter (New York: Fleming H. Revell, copyright 1910) | have-ocr | IA `quiettalksaboutt00gorduoft` |
+| Quiet talks about Our Lord's return (New York ; Chicago [etc.] : Fleming H. Revell company, 1912) | have-ocr | IA `quiettalksabouto00gord` |
+| Quiet talks on following the Christ (New York, Fleming H. Revell Co, 1913) | have-ocr | IA `quiettalksonfoll00gord` |
+| Quiet talks about the crowned Christ (New York, Chicago: Fleming H. Revell Co., 1914) | have-ocr | IA `quiettalksaboutc00gord` |
+| Quiet talks on John's Gospel (New York, Chicago [etc.] Fleming H. Revell Company, 1915) | have-ocr | IA `quiettalksonjohn00gord` |
+| A quiet talk with those who weep (New York, Chicago [etc.] Fleming H. Revell company, 1915) | have-ocr | IA `quiettalkwiththo00gord` |
+| The bent-knee time; a bit for every day of the year (Philadelphia, American Sunday-school union, 1918) | have-ocr | IA `bentkneetimebitf00gord` |
+| Quiet talks about life after death (New York : Fleming H. Revell Co., 1920) | have-ocr | IA `quiettalksaboutl00gord` |
+| Quiet talks about simple essentials and the present world outlook (New York : F.H. Revell, 1924) | have-ocr | IA `quiettalksabouts0000gord` |
+| Quiet talks about the healing Christ (New York ; Chicago [etc.] : Fleming H. Revell company, 1924) | have-ocr | IA `quiettalksabouth00gord` |
+| Quiet Talks on How to Pray (New York: Fleming H. Revell, copyright 1929) | have-ocr | IA `quiettalksonhowt0000gord` |
+
+## G. H. Morrison (round 72, my pick, 2026-10-23)
+
+Slugs `morrison-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| Sun-rise : addresses from a city pulpit (New York : Hodder and Stoughton, 1903) | have-ocr | IA `sunriseaddresses00morr` |
+| The footsteps of the flock : scripture studies for every Sunday of the year (London : Hodder and Stoughton, 1904) | have-ocr | IA `footstepsofflock0000morr` |
+| The wings of the morning : addresses from a Glasgow pulpit (A.C. Armstrong and Son, 1907) | have-ocr | IA `wingsofmorningad00morr` |
+| The return of the angels : Sunday evenings in a Glasgow pulpit (London : Hodder and Stoughton, 1909) | have-ocr | IA `returnoftheangel00morruoft` |
+| Flood-tide : Sunday evenings in a city pulpit (London : Hodder and Stoughton, 1910) | have-ocr | IA `floodtidesundaye00morr` |
+| The Unlighted Lustre: addresses from a Glasgow pulpit (New York and London: Hodder and Stoughton; undated, catalogued as 191-) | have-ocr | IA `unlightedlustrea0000morr` |
+| The Afterglow of God: Sunday evenings in a Glasgow pulpit (London: Hodder and Stoughton, 1912) | have-ocr | IA `afterglowgodsun00morrgoog` |
+| The weaving of glory : Sunday evening addresses from a city pulpit (London : Hodder & Stoughton, 1913) | have-ocr | IA `weavingofglorysu0000morr` |
+| The wind on the heath : Sunday evening addresses from a Glasgow pulpit (London : Hodder and Soughton, 1916) | have-ocr | IA `windonheathsunda0000morr` |
+| The significance of the cross : a New Testament study (New York : George H. Doran, 1924) | have-ocr | IA `significanceofcr0000morr` |
+| Highways of the heart : a series of addresses (New York : Doran, 1926) | have-ocr | IA `highwaysofhearts0000morr` |
+| The Ever Open Door (London: Hodder and Stoughton, first published March 1929): the only scan found (everopendoor0000morr) is a reprint of October 1930 or later, so it breaks this shelf's 'printed before 1930' line; the text itself is the 1929 one. Held for Adam | pending | not shelved |
+| The Restfulness of Christ and the Unseen Vision (1912), a 42-page pamphlet of two addresses | excluded | |
+
+## C. Silvester Horne (round 72, my pick, 2026-10-23)
+
+Slugs `horne-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| The story of the L.M.S., 1795-1895 (London : London missionary society ; J. Snow, 1895) | have-ocr | IA `storyoflms1795horn` |
+| A popular history of the free churches (London : J. Clarke, 1903) | have-ocr | IA `apopularhistoryo00hornuoft` |
+| Nonconformity in the XIXth century (London : National Council of Evangelical Free Churches, 1905) | have-ocr | IA `nonconformityinx0000horn` |
+| The Ministry of the Modern Church: lectures delivered to the students of Regent's Park Baptist College (London: J. Clarke, 1907) | have-ocr | IA `ministryofmodern0000horn` |
+| David Livingstone (New York, The Macmillan company, 1913) | have-ocr | IA `cu31924028680274` |
+| Pulpit, platform and parliament (London : Hodder and Stoughton, 1913) | have-ocr | IA `pulpitplatformpa00horniala` |
+| The romance of preaching (New York, Chicago [etc.] Fleming H. Revell Company, 1914) | have-ocr | IA `romanceofpreachi00horn` |
+| Let Us Pray (1897, a compiled book of collects); the 1914 In Memoriam booklet and W. B. Selbie's Life (1920), both about him | excluded | |
+
+## Charles E. Jefferson (round 73, my pick, 2026-10-23)
+
+Slugs `jefferson-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Quiet talks with earnest people in my study (New York and Boston, T.Y. Crowell, 1898) | have-ocr | IA `quiettalkswithea00jeff` |
+| Quiet hints to growing preachers in my study (New York, T. Y. Crowell & company, 1901) | have-ocr | IA `quiethintstogrow00jeff` |
+| Doctrine and deed : expounded and illustrated in seventeen sermons (New York : Crowell, 1901) | have-ocr | IA `DoctrineAndDeed` |
+| Things fundamental; a course of thirteen discourses in modern apologetics (New York, T.Y. Crowell & company, 1903) | have-ocr | IA `thingsfundamenta00jeff` |
+| The minister as prophet (New York, Thomas Y. Crowell Co, 1905) | have-ocr | IA `ministerasprophe00jeff` |
+| The new crusade, occasional sermons and addresses (New York, T. Y. Crowell & Company, 1907) | have-ocr | IA `newcrusadeoccasi00jeff` |
+| The character of Jesus (New York : T.Y. Crowell & Company, 1908) | have-ocr | IA `cu31924029312224` |
+| My Father's business; a series of sermons to children (New York, T.Y. Crowell, 1909) | have-ocr | IA `myfathersbusines00jeff` |
+| Talks on high themes for young Christians (Boston, New York [etc.] The Pilgrim press, 1909) | have-ocr | IA `talksonhighthem00jeff` |
+| The Building of the Church (New York: Macmillan, 1910) | have-ocr | IA `buildingchurch01jeffgoog` |
+| Why we may believe in life after death (Boston And New York, Houghton Mifflin Co., 1911) | have-ocr | IA `whywemaybelievei00jeff_1` |
+| The ministering shepherd (London ; New York : Hodder and Stoughton, 1912) | have-ocr | IA `ministeringsheph00jeff` |
+| Christianity and international peace; six lectures at Grinnell college, Grinnell, Iowa, in February, 1915, on the George A. Gates memorial foundation (New York, Thomas Y. Crowell company, 1915) | have-ocr | IA `christianityinte00jeff` |
+| Quiet Talks with the Family (Thomas Y. Crowell Co, 1916) | have-ocr | IA `quiettalkswithf00jeffgoog` |
+| What the War is Teaching, the Merrick Lectures, 1916 (New York: Fleming H. Revell, copyright 1916) | have-ocr | IA `whatwaristeachi01jeffgoog` |
+| Forefathers' day sermons (Boston, Chicago, The Pilgrim Press, 1917) | have-ocr | IA `forefathersdayse00jeff` |
+| Old truths and new facts (New York, Chicago [etc.] Fleming H. Revell company, 1918) | have-ocr | IA `oldtruthsnewfact00jeff` |
+| The character of Paul (New York : The Macmillan company, 1923) | have-ocr | IA `characterofpaul00jeff_0` |
+| Five Present-Day Controversies (New York: Fleming H. Revell, 1924) | have-ocr | IA `fivepresentdayco0000jeff_n2t1` |
+| addresses and sermons printed as pamphlets of under 80 pages (Essentials, Christmas Builders, Congregationalism, The Cause of the War, The Land of Enough and others) | excluded | |
+
+## I. M. Haldeman (round 73, my pick, 2026-10-23)
+
+Slugs `haldeman-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Friday night papers, second coming, and other expositions (New York, T. Audel, 1901) | have-ocr | IA `fridaynightpaper00hald` |
+| How to study the Bible, the second coming and other expositions (New York, C. C. Cook, 1904) | have-ocr | IA `howtostudybible00hald` |
+| The coming of Christ, both pre-millennial and imminent (Philadelphia, Philadelphia School of the Bible, 1906) | have-ocr | IA `comingofchristbo00hald` |
+| Christian science in the light of the Holy Scripture (New York ; Chicago [etc.] : Fleming H. Revell company, 1909) | have-ocr | IA `christianscience00hald` |
+| The signs of the times (Toronto : Evangelical Publishers, 1910) | have-ocr | IA `signsofthetimes00halduoft` |
+| Christ, Christianity and the Bible (New York: C. C. Cook, copyright 1912) | have-ocr | IA `christchristiani00hald` |
+| Ten sermons on the second coming of Our Lord Jesus Christ, preached in the First Baptist church, New York City, from October 15 to December 17, 1916 (New York, C.C. Cook, 1917) | have-ocr | IA `tensermonsonsec00hald` |
+| Why I Preach the Second Coming (New York: Fleming H. Revell, copyright 1919) | have-ocr | IA `whyipreachsecond00halduoft` |
+| Can the Dead Communicate with the Living? (New York: Fleming H. Revell, copyright 1920) | have-ocr | IA `candeadcommunica00haldiala` |
+| pamphlets of under 100 pages (Theosophy or Christianity, Mental Assassination, The Second Coming of Christ 1917, Why I Am Opposed to the Interchurch World Movement) | excluded | |
+
+## Wilbur Fisk (round 73, my pick, 2026-10-23)
+
+Slugs `fisk-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| A Discussion on Universal Salvation: In Three Lectures and Five Answers Against that Doctrine (B. Waugh and T. Mason, 1832) | have-ocr | IA `adiscussiononun00fiskgoog` |
+| Calvinistic controversy : embracing a sermon on predestination and election, and several numbers formerly published in the Christian Advocate and Journal (New York : Waugh and Mason for the Methodist Episcopal Church, 1835) | have-ocr | IA `calvinisticcontr00fisk` |
+| Travels on the continent of Europe; viz., in England, Ireland, Scotland, France, Italy, Switzerland, Germany, and the Netherlands (New-York, Harper and brothers, 1838) | have-ocr | IA `travelsoncontine00fisk` |
+| single printed sermons and addresses (1826-1835); The Methodist Preacher (1859, sermons by several hands) | excluded | |
+
+## Andrew Thomson (of St. George's, Edinburgh) (round 73, my pick, 2026-10-23)
+
+Slugs `thomson-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on hearing the word preached (Edinburgh : Printed for William Whyte, 1815) | have-ocr | IA `sermonsonhearing00thom` |
+| Lectures, Expository and Practical, on Select Portions of Scripture, vol. 1 (Edinburgh: William Blackwood, 1816; this volume's contents page reads 'Contents of volume first') | have-ocr | IA `10412998bsb` |
+| Lectures, Expository and Practical, on Select Portions of Scripture, vol. 2 (Edinburgh: William Blackwood, 1816; this volume's contents page reads 'Contents of volume second') | have-ocr | IA `10412999bsb` |
+| An Address to Christian Parents on the Religious Education of Their Children (W. Blackwood, 1821) | have-ocr | IA `anaddresstochri00thomgoog` |
+| Sermons on various subjects (Edinburgh : Printed for William Whyte, 1830) | have-ocr | IA `sermonsonvariou00thomgoog` |
+| The doctrine of universal pardon : considered and refuted in a series of sermons, with notes, critical and expository (Edinburgh : William Whyte, 1830) | have-ocr | IA `doctrineofuniver00thom` |
+| Sermons and sacramental exhortations (Edinburgh : Printed for William Whyte and Co. [etc.], 1831) | have-ocr | IA `sermonssacrament00thom` |
+| Sermons on infidelity (Windsor, Vt. : Richards and Tracy ; New York : Jonathan Leavitt, 1833) | have-ocr | IA `sermonsoninfidel00thom` |
+| Gaelic translations of his communicants' catechism; works of the younger Andrew Thomson of Edinburgh (Secession Church), a different man | excluded | |
+
+## George C. Needham (round 73, my pick, 2026-10-23)
+
+Slugs `needham-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| The Jewish tabernacle and priesthood ([n.p.], 1874) | have-ocr | IA `jewishtabernacle00need` |
+| The life and labors of Charles H. Spurgeon : the faithful preacher, the devoted pastor, the noble philanthropist, the beloved college president, and the voluminous writer, author, etc., etc (Boston : D. L. Guernsey, 1882) | have-ocr | IA `thelifeandlabors00needuoft` |
+| Street Arabs and gutter snipes. The pathetic and humorous side of young vagabond life in the great cities, with records of work for their reclamation (Boston : D. L. Guernsey, 1884) | have-ocr | IA `streetarabsgutte00need` |
+| Father Flynn (New York, J. A. O'Connor, 1890) | have-ocr | IA `fatherflynn00need` |
+| Preach the Word; conference addresses (Charlotte, N.C., W.P. Fife, 1892) | have-ocr | IA `preachwordconfer00need` |
+| The spiritual life (Philadelphia, American Baptist publication society, 1895) | have-ocr | IA `spirituallife00need` |
+| Shadow and substance. An exposition of the tabernacle types (Philadelphia, American Baptist publication society, 1896) | have-ocr | IA `shadowsubstancee00need` |
+
+## Joseph Kinghorn (round 73, my pick, 2026-10-23)
+
+Slugs `kinghorn-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Public Worship Considered and Enforced (Norwich: Bacon, 1800) | have-ocr | IA `bim_eighteenth-century_public-worship-considere_kinghorn-joseph_1800` |
+| A defence of "Baptism a term of communion" : in answer to the Rev. Robert Hall's Reply (Norwich : Wilkin and Youngman [etc.], 1820) | have-ocr | IA `defenceofbaptism00king` |
+| Baptism a Term of Communion at the Lord's Supper (1816), the book the Defence defends: no scan found this round | pending | not shelved |
+
+## Joseph Bingham (round 74, my pick, 2026-10-23)
+
+Slugs `bingham-*`. Built from title pages read for round 74.
+
+| Work | Status | Where |
+|---|---|---|
+| The French Churches Apology for the Church of England: or, the Objections of Dissenters against the Articles, Homilies, Liturgy and Canons of the English Church, consider'd and answer'd upon the principles of the Reformed Church of France (London: R. Knaplock, 1706) | have-ocr | IA `bim_eighteenth-century_the-french-churches-apol_bingham-joseph_1706` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 1 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast01bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 2 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast02bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 3 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast03bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 4 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast04bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 5 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast05bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 6 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast06bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 7 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast07bing` |
+| Origines Ecclesiasticae, or The Antiquities of the Christian Church, and other works, vol. 8 (London: William Straker, 1834) | have-ocr | IA `originesecclesiast08bing` |
+| Latin translations of the Antiquities (1724, 1738-1751) and a German abridgement (1788); the 1726 folio Works and the 1840-1855 editions, duplicates of the 1834 set | excluded | |
+
+## Julius Charles Hare (round 74, my pick, 2026-10-23)
+
+Slugs `hare-*`. Built from title pages read for round 74.
+
+| Work | Status | Where |
+|---|---|---|
+| Guesses at truth : by two brothers (London : Taylor and Walton, 1838) | have-ocr | IA `guessesattruthby00hareiala` |
+| Guesses at truth : second series (London : Printed for Taylor and Walton ; Cambridge [Eng.] : Sold by Macmillan, 1848) | have-ocr | IA `guessesattruthse00hare` |
+| The better prospects of the Church : a charge to the clergy of the Archdeaconry of Lewes (London : J.W. Parker ; Cambridge : J. and J.J. Deighton, 1840) | have-ocr | IA `betterprospectso00hareiala` |
+| The victory of faith, and other sermons (London, G.F. Okeden & Welsh, 1840) | have-ocr | IA `victoryoffaithot00hare` |
+| Sermons Preacht in Herstmonceux Church, second volume (London: John W. Parker, 1849) | have-ocr | IA `sermonspreachti00haregoog` |
+| The unity of the church : a sermon preacht at St. Peter's Church, Brighton, on Thursday, December 10, 1840, at the annual meeting of the Chichester Diocesan Association ; with some introductory remarks on uniformity (London : J.W. Parker, 1845) | have-ocr | IA `a586752600hareuoft` |
+| The means of unity : a charge to the clergy of the archdeaconry of Lewes, delivered at the ordinary visitation in 1842; with notes (London : J. W. Parker, 1847) | have-ocr | IA `meansofunitychar00hareiala` |
+| The duty of the church in times of trial : a charge to the clergy of the Archdeaconry of Lewes, delivered at the ordinary visitation in 1848 ; with notes, especially on the controversy touching the management of schools, and on the Jewish question (London : J.W. Parker, 1848) | have-ocr | IA `a586771200hareuoft` |
+| The true remedy for the evils of the age : a charge to the clergy of the Archdeaconry of Lewes, delivered at the ordinary visitation in 1849 ; with notes, especially on the educational, matrimonial, and baptismal questions (London : J.W. Parker, 1850) | have-ocr | IA `a586775500hareuoft` |
+| The contest with Rome : a charge to the clergy of the archdeaconry of Lewes, delivered at the ordinary visitation in 1851, with notes especially in answer to Dr. Newman's recent lectures (London : John W. Parker, 1852) | have-ocr | IA `contestwithromec00hareiala` |
+| The mission of the Comforter : with notes (Boston : Gould and Lincoln, 1854) | have-ocr | IA `missionofcomfort00hare_0` |
+| Miscellaneous pamphlets on some of the leading questions agitated in the church during the last ten years (Cambridge : Macmillan, 1855) | have-ocr | IA `miscellaneouspa00haregoog` |
+| Vindication of Luther Against His Recent English Assailants, 2nd Edition (catalogued 1855) | have-ocr | IA `bwb_S0-AGD-575` |
+| Sermons preacht on particular occasions (Cambridge : Macmillan, 1858) | have-ocr | IA `sermonspreachto00haregoog` |
+| A Letter to the Dean of Chichester on the agitation over Dr. Hampden's appointment (1848): the only scan found (a586744000hannuoft) carries a German book's text | pending | not shelved |
+| Sermons Preacht in Herstmonceux Church, first volume (1841): every scan found under that title is the second volume | pending | not shelved |
+| his translation, with Thirlwall, of Niebuhr's History of Rome (on the niebuhr shelf); The Philological Museum (a journal he edited); Portions of the Psalms in English Verse (a compiled hymnal); Fragments of Two Essays in English Philology | excluded | |
+
+## Ashton Oxenden (round 74, my pick, 2026-10-23)
+
+Slugs `oxenden-*`. Built from title pages read for round 74.
+
+| Work | Status | Where |
+|---|---|---|
+| Prayers for Private Use (New York: A. D. F. Randolph; undated, 1869 or later) | have-ocr | IA `prayersforpriva00oxen` |
+| The sacrament of baptism (London : J. Hatchard and Son, 1846) | have-ocr | IA `sacramentofbapti00oxen` |
+| Counsel to the awakened : or, The pathway to safety (Philadelphia : J.B. Lippincott, 1858) | have-ocr | IA `counseltoawakene00oxen` |
+| Fervent prayer (catalogued 1860) | have-ocr | IA `ferventprayer01oxengoog` |
+| Baptism simply explained (catalogued 1861) | have-ocr | IA `baptismsimplyex00oxengoog` |
+| The Lord's supper, simply explained (catalogued 1861) | have-ocr | IA `lordssuppersimp00oxengoog` |
+| God's message to the poor, 11 sermons (catalogued 1861) | have-ocr | IA `godsmessagetopo00oxengoog` |
+| Great truths in very plain language (catalogued 1861) | have-ocr | IA `greattruthsinve00oxengoog` |
+| Sermons on the Christian life (catalogued 1861) | have-ocr | IA `sermonsonchrist00oxengoog` |
+| The home beyond; or, A happy old age (catalogued 1861) | have-ocr | IA `homebeyondoraha00oxengoog` |
+| The story of Ruth (catalogued 1862) | have-ocr | IA `storyruth00oxengoog` |
+| The parables of our Lord (William Macintosh, 1864) | have-ocr | IA `parablesourlord00oxengoog` |
+| Cottage sermons; or, Plain words to the poor (catalogued 1866) | have-ocr | IA `cottagesermonso00oxengoog` |
+| Our Church and her services (E.P. Dutton, 1866) | have-ocr | IA `ourchurchandher00huntgoog` |
+| Decision (catalogued 1868) | have-ocr | IA `decision00oxengoog` |
+| The earnest communicant, a course of preparation for the Lord's table (Longmans, Green, 1871) | have-ocr | IA `earnestcommunic00oxengoog` |
+| My first year in Canada (London, Hatchards; New York, Pott & Amery, 1871) | have-ocr | IA `myfirstyearincan00oxen` |
+| Thoughts for Advent (catalogued 1872) | have-ocr | IA `thoughtsforadve00oxengoog` |
+| A Simple Exposition of the Psalms, vol. 1 (London: Hatchards, 1872) | have-ocr | IA `asimpleexpositi00oxengoog` |
+| Thoughts for Lent (catalogued 1873) | have-ocr | IA `thoughtsforlent00oxengoog` |
+| The Christian life (catalogued 1877) | have-ocr | IA `christianlife00oxengoog` |
+| The earnest churchman (catalogued 1879) | have-ocr | IA `earnestchurchma00oxengoog` |
+| Touchstones; or, Christian graces and characters tested (catalogued 1884) | have-ocr | IA `touchstonesorch00oxengoog` |
+| The history of my life: an autobiography (London Longmans, Green, 1891) | have-ocr | IA `thehistoryofmyli00oxenuoft` |
+| Short lectures on the Sunday Gospels : from Advent to Easter (London : Longmans, Green, 1902) | have-ocr | IA `shortlecturesont00oxenuoft` |
+| A Simple Exposition of the Psalms, vol. 2 (London: Hatchards, 1872) | have-ocr | IA `simpleexposition02oxen` |
+| Family Prayers (with C. H. Ramsden); The Cottage Library (series); tracts of under 60 pages; the Cree translation of The Pathway of Safety by John Mackay; later reprints of The Pathway of Safety (1859-1896), the same book as Counsel to the Awakened | excluded | |
+
+## Anthony W. Thorold (round 75, my pick, 2026-10-23)
+
+Slugs `thorold-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| The presence of Christ (New York : A.D.F. Randolph, 1880) | have-ocr | IA `presenceofchrist00thor` |
+| The gospel of Christ (New York : A.D.F. Randolph & Co., 1881) | have-ocr | IA `gospelofchrist00thor_0` |
+| The yoke of Christ in the duties and circumstances of life (New York : A.D.F. Randolph, 1883) | have-ocr | IA `yokeofchristindu00thor` |
+| Questions of faith and duty (Philadelphia, Pa. : J.B. Lippincott Co., 1892) | have-ocr | IA `questionsoffaith00thor` |
+| The gospel of work (New York : E.P. Dutton, 1893) | have-ocr | IA `gospelofwork00thor` |
+| The tenderness of Christ (London : Isbister, 1895) | have-ocr | IA `thetendernessofc00thoruoft` |
+| On money (N.Y. : Dodd, Mead and co., 1896) | have-ocr | IA `onmoneythorold00thoriala` |
+| On Letter Writing (Isbister & company , limited, 1896) | have-ocr | IA `onletterwriting00thorgoog` |
+| diocesan charges and pastoral letters under about 120 pages; Selections from the Works of Bishop Thorold (1898, compiled by others) | excluded | |
+
+## Francis Paget (round 75, my pick, 2026-10-23)
+
+Slugs `paget-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| Concerning spiritual gifts, 3 addresses, together with a sermon (catalogued 1881) | have-ocr | IA `concerningspiri00pagegoog` |
+| The redemption of work, addresses (catalogued 1882) | have-ocr | IA `redemptionworka00pagegoog` |
+| Faculties and difficulties for belief and disbelief (London : Rivingtons, 1889) | have-ocr | IA `facultiesdifficu00page_0` |
+| The spirit of discipline, sermons preached by Francis Paget (London : Longmans, Green, 1891) | have-ocr | IA `spiritofdiscipli00pageiala` |
+| The Hallowing of Work: Addresses Given at Eton January 16-18, 1888 (Longmans Green, 1892) | have-ocr | IA `hallowingworkad00pagegoog` |
+| Studies in the Christian character : sermons : with an introductory essay (London ; New York : Longmans, Green, 1895) | have-ocr | IA `studiesinchristi00page` |
+| An introduction to the fifth book of Hooker's treatise Of the laws of ecclesiastical polity (Clarendon Press - Oxford, 1899) | have-ocr | IA `introductiontofi0000fran` |
+| Christ the way : four addresses (London ; New York : Longmans, Green, 1902) | have-ocr | IA `christwayfouradd0000page` |
+| single sermons of under 40 pages; the Life and Letters of Dean Church (1894, edited by Mary C. Church, Paget wrote the preface); other men named Francis Paget | excluded | |
+| helpsandhindran00pagegoog: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD' | excluded | |
+| plainvillageserm0001fran: by Francis E. Paget (1806-1882), rector of Elford, a different man; title page reads 'THE LATE FRANCIS E. PAGET, RECTOR OF ELFORD' | excluded | |
+
+## Stopford A. Brooke (round 75, my pick, 2026-10-23)
+
+Slugs `brooke-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| Life and letters of Frederick W. Robertson, vol. 1 (Boston : Ticknor and Fields, 1865) | have-ocr | IA `lifelettersfred01robe` |
+| Sermons Preached in St. Jame's Chapel, York Street, London (Fields, Osgood, 1869) | have-ocr | IA `sermonspreached02broogoog` |
+| Freedom in the Church of England: Six Sermons Suggested by the Voysey (Henry S. King, 1871) | have-ocr | IA `freedominchurch00broogoog` |
+| Christ in modern life: sermons preached in St. James's Chapel, London (New York, D. Appleton, 1877) | have-ocr | IA `christinmodernli00broo_0` |
+| Theology in the English poets, Cowper, Coleridge, Wordsworth, and Burns (New York : D. Appleton and compay, 1875) | have-ocr | IA `theologyinenglis00broorich` |
+| The fight of faith; sermons preached on various occasions (London, H.S. King, 1877) | have-ocr | IA `fightoffaithserm0000broo` |
+| Faith and freedom (Boston, G. H. Ellis, 1881) | have-ocr | IA `faithfreedom00broo_0` |
+| The Spirit of the Christian Life: Sermons (C. Kegan Paul, 1881) | have-ocr | IA `spiritchristian00broogoog` |
+| The unity of God and man, and other sermons (Boston : G.H. Ellis, 1886) | have-ocr | IA `unityofgodmanoth00broorich` |
+| The early life of Jesus: sermons preached at Bedford chapel Bloomsbury (David Stott, 1888) | have-ocr | IA `earlylifejesuss00broogoog` |
+| Short sermons (London, New York, Macmillan, 1892) | have-ocr | IA `shortsermons0000broo` |
+| God and Christ : sermons preached in Bedford Chapel (London : P. Green, 1894) | have-ocr | IA `godchristsermons0000broo` |
+| THE OLD TESTAMENT AND MODERN LIFE (catalogued 1896) | have-ocr | IA `oldtestamentmode0000stop` |
+| The ship of the soul and other papers (London : James Clarke & Co., 1898) | have-ocr | IA `shipofsoulotherp0000broo` |
+| Religion in literature and religion in life (London : Philip Green, 1900) | have-ocr | IA `religioninlitera0000broo` |
+| The kingship of love (London : Isbister and Co., 1903) | have-ocr | IA `kingshipoflove0000broo` |
+| The life superlative (Boston, American Unitarian Association, 1907) | have-ocr | IA `lifesuperlative00broo` |
+| The onward cry, and other sermons (London : Duckworth & Co., 1911) | have-ocr | IA `onwardcryotherse00brooiala` |
+| The spikenard and other sermons (London, Lindsey Press, 1919) | have-ocr | IA `spikenardotherse0000broo` |
+| his literary books (English Literature primer, Milton, Riquet of the Tuft, Tennyson, Browning, Shakespeare, Poems from Shelley and others): not theology | excluded | |
+| IA item christinmodernli00broorich carries J. W. Chadwick's The Faith of Reason, not Brooke; replaced by christinmodernli00broo_0 | excluded | |
+
+## W. Morley Punshon (round 75, my pick, 2026-10-23)
+
+Slugs `punshon-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| The Huguenots (London, J. Nisbet and co., 1859) | have-ocr | IA `huguenots00puns` |
+| Sermons (New York, 1860) | have-ocr | IA `sermons00puns` |
+| Select lectures and sermons of the Rev. William Morley Punshon (Cincinnati : C. Moore, 1860) | have-ocr | IA `punshonslectures00punsuoft` |
+| Life thoughts (catalogued 1880) | have-ocr | IA `lifethoughts00puns` |
+| Sabbath chimes : meditations in verse for the Sundays of a year (London : James Nisbet, 1867) | have-ocr | IA `chimmed00puns` |
+| The prodigal son : four discourses (Toronto : S. Rose, 1868) | have-ocr | IA `prodigalsonfourd00puns` |
+| Lectures and sermons (Toronto Adam, Stevenson, 1873) | have-ocr | IA `lecturessermons00punsuoft` |
+| Lectures (London : Woolmer, 1882) | have-ocr | IA `lectures00punsiala` |
+| Sermons [ed. by W. Arthur] (catalogued 1882) | have-ocr | IA `sermonsedbywart00punsgoog` |
+| pamphlets of under 60 pages; memoirs and sketches of him by others (1871, 1881, 1883) | excluded | |
+
+## Charles F. Deems (round 76, my pick, 2026-10-23)
+
+Slugs `deems-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| The home-alter ([n.p.], 1850) | have-ocr | IA `homealter00deem` |
+| Jesus (New York, United States publishing company, 1868) | have-ocr | IA `jesus00deem` |
+| What now? For young ladies (New York : American Tract Society, [c18) | have-ocr | IA `whatnowforyoungl00deemrich` |
+| Dr. Deem's sermons : forty-eight discourses comprising every Sunday morning sermon preached from the pulpit of "The Church of the Strangers" (New York : Funk & Wagnall, 1885) | have-ocr | IA `drdeemssermonsfo00deem` |
+| A Scotch verdict in re evolution (New York, J. W. Lovell company, 1885) | have-ocr | IA `ascotchverdicti00deemgoog` |
+| The gospel of common sense as contained in the canonical Epistle of James (New York, W. B. Ketcham; Edinburgh, J. Gemmell, 1888) | have-ocr | IA `gospelofcommonse00deem` |
+| The Gospel of spiritual insight (New York, W. B. Ketcam, 1891) | have-ocr | IA `gospelofspiritua00deem` |
+| My septuagint ([n.p.], 1892) | have-ocr | IA `myseptuagint00deem` |
+| Autobiography of Charles Force Deems (New York, Chicago [etc.] : Fleming H. Revell company, [189) | have-ocr | IA `autobiographyofc00deem` |
+| Who Was Jesus? (1880) and The Light of the Nations (1884) are later retitled editions of Jesus (1868) | excluded | |
+| periodicals and annuals he edited (Southern Methodist Pulpit, Annals of Southern Methodism, Christian Thought) and compilations (Hymns for All Christians, Chips and Chunks) | excluded | |
+| pamphlets of under 60 pages; early verse (Triumph of Peace, 1840) | excluded | |
+
+## David James Burrell (round 76, my pick, 2026-10-23)
+
+Slugs `burrell-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| The religions of the world (Philadelphia, Presbyterian board of publication and Sabbath-school work, [188) | have-ocr | IA `religionsofworld00burr` |
+| The gospel of gladness (New York, American Tract Society, 1892) | have-ocr | IA `gospelofgladness00burr` |
+| "The morning cometh." Talks for the times (New York, American tract society, 1893) | have-ocr | IA `themorningcometh00burr` |
+| The religion of the future [and other sermons] (New York, Collgiate Church, 1894) | have-ocr | IA `religionoffuture00burr` |
+| The spirit of the age, and other sermons (New York, Wilbur B. Ketcham, 1895) | have-ocr | IA `spiritofageother00burr` |
+| "For Christ's crown," and other sermons (New York, W. B. Ketcham, 1896) | have-ocr | IA `forchristscrowno00burr` |
+| The golden passional, and other sermons (New York, W. B. Ketcham, 1897) | have-ocr | IA `goldenpassionalo00burr` |
+| The wondrous cross, and other sermons (New York, W. B. Ketcham, 1898) | have-ocr | IA `wondrouscrossoth00burr` |
+| God and the people, and other sermons (New York, W.B. Ketcham, 1899) | have-ocr | IA `godpeopleotherse00burr` |
+| The gospel of certainty (London : Hodder and Stoughton, 1899) | have-ocr | IA `gospelofcertaint0000burr` |
+| The unaccountable man (New York, Chicago, Fleming H. Revell, 1900) | have-ocr | IA `unaccountableman00burr` |
+| The church in the fort; and other sermons (New York : Revell, 1901) | have-ocr | IA `churchinfortothe00burr` |
+| A quiver of arrows (New York and London, Funk & Wagnalls company, 1902) | have-ocr | IA `quiverofarrows00burr` |
+| The wonderful Teacher and what He taught (New York, Fleming H. Revell, 1902) | have-ocr | IA `wonderfulteacher00burr` |
+| Christ and progress; a discussion of problems of our time (New York, Chicago, Fleming H. Revell company, 1903) | have-ocr | IA `christprogressdi00burr` |
+| The verilies of Jesus (New York : American Tract Society, 1903) | have-ocr | IA `veriliesofjesus00burr` |
+| The teaching of Jesus concerning the Scriptures (New York, American tract society, 1904) | have-ocr | IA `teachingofjesusc00bur` |
+| Christ and men (New York, Chicago, Fleming H. Revell company, 1905) | have-ocr | IA `christmen00burr` |
+| The evolution of a Christian (Boston : American Tract society, 1906) | have-ocr | IA `evolutionofchris00burr` |
+| Wayfarers of the Bible, vol. c.1 (New York, Chicago, Fleming H. Revell, 1907) | have-ocr | IA `wayfarersofbible01burr` |
+| The cloister book : for shut-in worshipers and pastorless congregations (New York : American Tract Society, 1909) | have-ocr | IA `cloisterbook00burr` |
+| In David's town (New York : American Tract Society, 1910) | have-ocr | IA `indavidstown00burr` |
+| The home sanctuary: a companion volumne to the cloister book; completing a year of services for shut-in worshipers and pastorless congregations (New York: American Tract Society, 1911) | have-ocr | IA `homesanctuarycom00burr` |
+| At the gate beautiful : the story of a day (New York : American tract society, 1911) | have-ocr | IA `atgatebeautifu00burr` |
+| The old-time religion : or the foundations of our faith (New York : American Tract Society, c191) | have-ocr | IA `oldtimereligiono00burr` |
+| The sermon : its construction and delivery (New York : Fleming H. Revell, 1913) | have-ocr | IA `sermonitsconstru00burr` |
+| In the upper room : a practical exposition of John XIII-XVII (with related passages) (New York : C. Scribner's Sons, 1913) | have-ocr | IA `inupperroompract00burr` |
+| "We would see Jesus" (New York : American Tract Society, 1914) | have-ocr | IA `wewouldseejesus00burr` |
+| The Apostles' creed (New York, American Tract Society, 1915) | have-ocr | IA `apostlescreed00burr` |
+| Why I believe the Bible (New York : F.H. Revell, 1917) | have-ocr | IA `whyibelievebible00burr` |
+| The laughter of God and other sermons (expository) (New York : Fleming H. Revell, 1918) | have-ocr | IA `laughterofgodoth00burr` |
+| Paul's campaigns (New York, American tract society, 1918) | have-ocr | IA `paulscampaigns00burr` |
+| The Resurrection and The Life Beyond (catalogued 1920) | have-ocr | IA `resurrectionlife0000davi` |
+| Paul's companions (New York : American Tract Society, 1921) | have-ocr | IA `paulscompanions00burr` |
+| Paul's letters (New York, American tract society, 1921) | have-ocr | IA `paulsletters00burr` |
+| Life and letters of St. Paul (New York : American tract society, 1925) | have-ocr | IA `lifelettersofstp00burr` |
+| The golden parable (New York ; Chicago [etc.] : Fleming H. Revell company, 1926) | have-ocr | IA `goldenparable00burr_0` |
+| pamphlets of under 60 pages; Hints and Helps on the Sunday-school Lessons (1894), an annual written with others | excluded | |
+
+## Louis Albert Banks (round 76, my pick, 2026-10-23)
+
+Slugs `labanks-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| The people's Christ; a volume of sermons and other addresses and papers (Boston, Lee and Shepard, 1892) | have-ocr | IA `peopleschristvol00bank` |
+| White slaves; or, The oppression of the worthy poor (Boston : Lee and Shepard, 1893) | have-ocr | IA `whiteslavesoropp00bankrich` |
+| The honeycombs of life : a volume of sermons and addresses (Boston : Lee and Shepard, 1894) | have-ocr | IA `honeycombsoflife00bank` |
+| The Christ dream (New York : Hunt & Eaton, 1895) | have-ocr | IA `christdream00bank` |
+| Christ and His friends; a series of revival sermons (New York, London and Toronto, Funk & Wagnalls company, 1895) | have-ocr | IA `christhisfriends00bank` |
+| Heavenly trade-winds (Cincinnati : Cranston & Curts, 1895) | have-ocr | IA `heavenlytradewin00bank` |
+| The saloon-keeper's ledger; a series of temperance revival discourses (New York, London and Toronto, Funk & Wagnalls company, 1895) | have-ocr | IA `saloonkeepersled00bank` |
+| The fisherman and His friends; a series of revival sermons (New York, Funk & Wagnalls, 1896) | have-ocr | IA `fishermanhisfrie00bank` |
+| The Christ brotherhood (New York : Hunt & Eaton ; Cincinnati : Curts & Jennings, 1897) | have-ocr | IA `christbrotherhoo0000bank` |
+| Immortal hymns and their story : the narrative of the conception and striking experiences of blessing attending the use of some of the world's greatest hymns (Cleveland : The Burrows Brothers Company, 1897) | have-ocr | IA `immortalhymnsthe00bank` |
+| The unexpected Christ; a series of evangelistic sermons (New York, W. B. Ketcham, 1898) | have-ocr | IA `unexpectedchrist00bank_0` |
+| Paul and his friends : a series of revival sermons (New York : Funk & Wagnalls Co., 1898) | have-ocr | IA `paulhisfriendsse00bank` |
+| Anecdotes and morals : a volume of illustrations from current life (New York : Funk & Wagnalls, 1898) | have-ocr | IA `anecdotesmoralsv00bank` |
+| The Christian gentleman (New York : Funk & Wagnalls, 1898) | have-ocr | IA `christiangentle00bankgoog` |
+| A year's prayer-meeting talks (New York and London, Funk & Wagnalls company, 1899) | have-ocr | IA `yearsprayermeeti00bank` |
+| John and his friends: a series of revival sermons (New York, London, Funk and Wagnals Co., 1899) | have-ocr | IA `johnhisfriendsse00bank` |
+| My young man (New York, London, Funk & Wagnalls company, 1899) | have-ocr | IA `myyoungman00bank` |
+| The Lord's arrows; a volume of Sunday morning sermons (Curts & Jennings, 1900) | have-ocr | IA `lordsarrowsvolum0000bank` |
+| David and his friends; a series of revival sermons (New York and London, Funk & Wagnalls co., 1900) | have-ocr | IA `davidhisfriendss00bank` |
+| Fresh bait for fishers of men (Cleveland, Ohio, F. M. Barton, 1900) | have-ocr | IA `freshbaitforfish00bank` |
+| Poetry and morals; suggestive and illustrative anecdotes and poetical quotations for the use of preachers (New York and London, Funk & Wagnalls company, 1900) | have-ocr | IA `poetrymoralssugg00bank` |
+| The motherhood of God; a series of discourses (Cincinnati, Jennings & Pye; New York, Eaton & Mains, 1901) | have-ocr | IA `motherhoodofgods00bank` |
+| Unused rainbows : prayer meeting talks (Chicago : Revell, 1901) | have-ocr | IA `unusedrainbowspr00bank` |
+| Windows for sermons; a study of the art of sermonic illustration, together with four hundred fresh illustrations suited for sermons and reform addresses (New York, London, Funk & Wagnalls co., 1902) | have-ocr | IA `windowsforsermon00bank` |
+| Soul winning stories (New York : George H. Doran Co., c190) | have-ocr | IA `soulwinningstori00bank` |
+| The King's stewards (New York, American tract society, 1902) | have-ocr | IA `kingsstewards00bank` |
+| The healing of souls; a series of revival sermons (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1902) | have-ocr | IA `healingofsoulsse00bank` |
+| T. De Witt Talmage : his life and work (Philadelphia : Printed by J.C. Winston, c190) | have-ocr | IA `tdewitttalmagehi00bankuoft` |
+| Great archers and their weapons and Fresh arrows from many quivers (Cleveland, Ohio, F. M. Barton, 1903) | have-ocr | IA `greatarchersthei00bank` |
+| The great portraits of the Bible (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1903) | have-ocr | IA `greatportraitsof00bank` |
+| On the Trail of Moses (Funk & Wagnalls Company, 1903) | have-ocr | IA `ontrailofmoses0000loui` |
+| The religious life of famous Americans (Boston, New York [etc.] American tract society, 1904) | have-ocr | IA `religiouslifeoff00bank` |
+| Thirty-one Revival Sermons (Revell, 1904) | have-ocr | IA `thirtyonerevival0000loui` |
+| The great promises of the Bible (New York Cincinnati, 1906) | have-ocr | IA `greatpromisesofb00bank` |
+| The sinner and his friends: a volume of evangelistic sermons (catalogued 1907) | have-ocr | IA `sinnerhisfriends0000loui` |
+| Sermons which have won souls (New York and London, Funk & Wagnalls company, 1908) | have-ocr | IA `sermonswhichhave00bank` |
+| The problems of youth; a series of discourses for young people on themes from the book of Proverbs (New York and London, Funk & Wagnalls company, 1909) | have-ocr | IA `problemsofyouths00bank` |
+| The world's childhood; a series of Sunday evening sermons from themes drawn from the first three chapters of Genesis (New York, Funk & Wagnalls, 1910) | have-ocr | IA `worldschildhoods00bankrich` |
+| The Sunday-night evangel; a series of Sunday evening discourses delivered in Independence Avenue Methodist Episcopal Church, Kansas City, Missouri (New York, London, Funk and Wagnalls Company, 1911) | have-ocr | IA `sundaynightevang00bank` |
+| The great themes of the Bible (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1911) | have-ocr | IA `greatthemesofbib00bank` |
+| The great sinners of the Bible (New York ; Cincinnati : The Methodist Book Concern, 1919) | have-ocr | IA `greatsinnersofbi00bank` |
+| The winds of God (New York and London, Funk and Wagnalls company, 1920) | have-ocr | IA `windsofgod00bank` |
+| The new ten commandments, and other sermons (New York, Chicago [etc.] Fleming H. Revell company, 1922) | have-ocr | IA `newtencommandmen00bank` |
+| Wonderful Bible conversions (New York, Chicago [etc.] : Fleming H. Revell company, 1923) | have-ocr | IA `wonderfulbibleco00bank` |
+| Dramatic Stories of Jesus (Funk & Wagnalls, 1924) | have-ocr | IA `dramaticstorieso0000loui` |
+| Christ's soul-searching parables : evangelistic sermons on the parables of Jesus (New York ; Chicago [etc.] : Fleming H. Revell company, 1925) | have-ocr | IA `christssoulsearc00bank` |
+| books for boys and on American history and biography (An Oregon Boyhood, The Hall of Fame, Youth of Famous Americans, The Lincoln Legion, Capital Stories, Immortal Songs of Camp and Field), the prohibition handbook Ammunition for Final Drive on Booze, and pamphlets of under 60 pages | excluded | |
+| Spurgeon's Illustrative Anecdotes (1906) is Spurgeon's matter, which he only arranged | excluded | |
+
+## Jabez Burns (round 76, my pick, 2026-10-23)
+
+Slugs `jburns-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons chiefly designed for family reading and village worship (London : Houlston and Stoneman, 1842) | have-ocr | IA `sermonschieflyde00burn` |
+| The Christian's daily portion, or golden pot of manna : containing three hundred and sixty-five exercises on the person, offices, work, and glory of the redeemer (London : J. H. Starie, 1842) | have-ocr | IA `christiansdailyp00burn` |
+| Sketches of sermons on Christian missions, original and selected (London, Aylott and Jones, 1845) | have-ocr | IA `sketchesofsermon00burn` |
+| Christian philosophy : or, Materials for thought (London : Houlston and Stoneman, 1845) | have-ocr | IA `christianphiloso00burn` |
+| The pulpit cyclopaedia, and Christian minister's companion : containing three hundred and sixty skeletons and sketches of sermons (New York : D. Appleton & Co., 1845) | have-ocr | IA `pulpitcyclopaedi00burn` |
+| Sketches of sermons on the parables and miracles of Christ : the essentials of saving religion, etc (London : Houlston and Stoneman, 1847) | have-ocr | IA `sketchesofsermonparabl00burn` |
+| Mothers of the wise and good (Boston : Gould, Kendall and Lincoln, 1850) | have-ocr | IA `mothersofwisegoo00burn` |
+| Sermons designed for the sick room, family reading and village worship (catalogued 1854) | have-ocr | IA `sermonsdesigned00burngoog` |
+| A Retrospect of Forty-five Years' Christian Ministry: Public Work in Other Spheres of Benevolent (Houlston, 1875) | have-ocr | IA `aretrospectfort00burngoog` |
+| gift books and travel (Good Child's Gift Book, Marriage Gift Book, Help-Book for Travellers to the East, Notes of a Tour, 1848); every printing dated 1930 or later of his sermon outlines | excluded | |
+| sketchesofsermon01burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+| sketchesofsermon02burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+| sketchesofsermon03burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+| sketchesofsermon04burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+
+## Minot J. Savage (round 77, my pick, 2026-10-23)
+
+Slugs `savage-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity, the science of manhood. A book for questioners (Boston, Noyes, Holmes, and company, 1873) | have-ocr | IA `christianityscie0000sava` |
+| The religion of evolution (Boston : G. H. Ellis, 1897) | have-ocr | IA `religionofevolut00savarich` |
+| Light on the cloud ([n.p.], 1876) | have-ocr | IA `lightoncloud00sava` |
+| Life questions (Boston : Lockwood, Brooks, 1879) | have-ocr | IA `lifequestions01sava` |
+| The morals of evolution (Boston : G. H. Ellis, 1880) | have-ocr | IA `moralsofevolutio00sava` |
+| Belief in God: an examination of some fundamental theistic problems (Boston, G. H. Ellis, 1881) | have-ocr | IA `beliefingodexami00sava` |
+| Talks about Jesus (Boston : Geo. H. Ellis, 1891) | have-ocr | IA `talksaboutjesus00sava` |
+| Beliefs about man (Boston, G.H. Ellis, 1882) | have-ocr | IA `beliefsaboutman00savarich` |
+| The Modern Sphinx, and Some of Her Riddles (G. H. Ellis, 1883) | have-ocr | IA `modernsphinxand00savagoog` |
+| Beliefs about the Bible (Boston, G. H. Ellis, 1883) | have-ocr | IA `beliefsaboutbibl00sava` |
+| Man, Woman and Child (G. H. Ellis, 1884) | have-ocr | IA `manwomanandchil00savagoog` |
+| The religious life (Boston : G. H. Ellis, 1885) | have-ocr | IA `religiouslife00sava` |
+| Social problems (Boston : G. H. Ellis, 1886) | have-ocr | IA `socialproblems00savagoog` |
+| My creed (Boston, G. H. Ellis, 1887) | have-ocr | IA `mycreed00sava` |
+| Religious reconstruction (Boston, G. H. Ellis, 1888) | have-ocr | IA `religiousreconst00savarich` |
+| The signs of the times ([n.p.], 1889) | have-ocr | IA `signsoftimes00sava` |
+| Helps for daily living (Boston, G. H. Ellis, 1889) | have-ocr | IA `helpsfordailyliv00sava` |
+| Life (Boston : G. H. Ellis, 1890) | have-ocr | IA `life00sava` |
+| Psychics; facts and theories (Boston, Mass., Arena publishing company, 1893) | have-ocr | IA `psychicsfactsth00sava` |
+| Religion for to-day (Boston, G.E. Ellis, 1897) | have-ocr | IA `religionfortoday00sava` |
+| Our unitarian gospel (Boston : Geo. H. Ellis, 1898) | have-ocr | IA `ourunitariangosp00savaiala` |
+| Life beyond death : being a review of the world's beliefs on the subject, a consideration of present conditions of thought and feeling, leading to the question as to whether it can be demonstrated as a fact (New York ; London : G. P. Putnam's sons, 1899) | have-ocr | IA `lifebeyonddeath00sava` |
+| The passing and the permanent in religion, a plain treatment of the great essentials of religion, being a sifting from these of such things as cannot outlive the results of scientific, historical and critical study,--so making more clearly seen "the things which cannot be shaken" (New York, London, G. P. Putnam's sons, 1901) | have-ocr | IA `passingpermanen00sava` |
+| Beliefs about Jesus (Boston : Geo. H. Ellis, 1901) | have-ocr | IA `beliefsaboutjesu00sava` |
+| Can telepathy explain? : results of psychical research (New York ; London : G.P. Putnam's Sons, 1903) | have-ocr | IA `cantelepathyexpl00sava` |
+| Out of Nazareth (Boston : American Unitarian association, 1903) | have-ocr | IA `outofnazareth0000sava` |
+| Pillars of the temple (Boston, American Unitarian Association, 1904) | have-ocr | IA `pillarsoftemple00sava` |
+| Life's dark problems : or, is this a good world? (New York ; London : G. P. Putnam's Sons, 1905) | have-ocr | IA `lifesdarkproblem00sava` |
+| Bluffton (a novel), his Poems and America to England (verse), Sacred Songs (a hymnal he compiled), the Ministers' Hand-book, Unity Pulpit (a serial), "Show us the Father" (a many-author volume), Living by the Day (selections made by others), and pamphlets of under 60 pages | excluded | |
+
+## Edmund H. Sears (round 77, my pick, 2026-10-23)
+
+Slugs `sears-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| Regeneration (Boston : Crosby, Nichols, 1853) | have-ocr | IA `regeneration00sear` |
+| Athanasia: or, Foregleams of immortality (Boston, American Unitarian Association, 1858) | have-ocr | IA `athanasiaorforeg00sear` |
+| The Fourth gospel : the heart of Christ (Boston : Noyes, Holmes, and Co., 1872) | have-ocr | IA `fourthgospelhear00sear` |
+| Sermons and songs of Christian life ([n.p.], 1875) | have-ocr | IA `sermonssongsofch00sear` |
+| Christ in the life : sermons, with a selection of poems (Boston : Lockwood, Brooks, 1877) | have-ocr | IA `christinlifeserm00sear` |
+| Foregleams and Foreshadows of Immortality (1873) is the enlarged later edition of Athanasia; Pictures of the Olden Time (1857) is a family history of his Pilgrim forebears; The Religious Magazine is a periodical he co-edited | excluded | |
+
+## Thomas Belsham (round 77, my pick, 2026-10-23)
+
+Slugs `belsham-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| A Review of Mr. Wilberforce's Treatise: Entitled "A Practical View of the Prevailing Religious (J. Johnson, 1805) | have-ocr | IA `areviewmrwilber00belsgoog` |
+| Elements of the philosophy of the mind, and of moral philosophy : to which is prefixed a compendium of logic (London : Printed for J. Johnson by Taylor and Wilks, 1801) | have-ocr | IA `elementsofphilos00belsuoft` |
+| A summary view of the evidence and practical importance of the Christian revelation: in a series of discourses addressed to young persons (London : Johnson, 1809) | have-ocr | IA `cu31924029374117` |
+| A calm inquiry into the Scripture doctrine concerning the person of Christ : to which are annexed a brief review of the controversy between Bishop Horsley and Dr. Priestley (London : Printed for the Unitarian Society, 1817) | have-ocr | IA `calminquiryintos00bels` |
+| A plea for infant baptism : to which is annexed an appendix containing two forms of administering the rite (London : Printed for Rowland Hunter, 1817) | have-ocr | IA `pleaforinfantbap00bels` |
+| Memoirs of the late Reverend Theophilus Lindsey, M.A., including a brief analysis of his works; together with anecdotes and letters of eminent persons, his friends and correspondents; also a general view of the progress of the Unitarian doctrine in England and America (London, Printed for R. Hunter, 1820) | have-ocr | IA `memoirsoflaterev00bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 1 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap01bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 2 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap02bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 3 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap03bels` |
+| The Epistles of Paul the Apostle : translated with an exposition and notes, vol. 4 (London : Printed for R. Hunter, 1822) | have-ocr | IA `epistlesofpaulap04bels` |
+| Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826) | have-ocr | IA `discoursesdoctr00belsgoog` |
+| Discourses : doctrinal and practical ; delivered in Essex Street Chapel (London : Printed for R. Hunter, 1826) | have-ocr | IA `discoursesdoctr01belsgoog` |
+| the Unitarian Society Tracts (many authors); the Improved Version of the New Testament (1808), a committee work; pamphlets of under 60 pages | excluded | |
+
+## David Swing (round 77, my pick, 2026-10-23)
+
+Slugs `swing-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| Truths for to-day, spoken in the past winter (Chicago, Jansen, McClurg and company, 1874) | have-ocr | IA `truthsfortodaysp00swing` |
+| Truths for to-day : Second series (Chicago : Jansen, McClurg and company, 1876) | have-ocr | IA `cu31924031246741` |
+| David Swing's sermons (Chicago, W. B. Keen, Cooke & Co, 1874) | have-ocr | IA `davidswingssermo00swigrich` |
+| Motives of life (Chicago, Jansen, McClurg & company, 1879) | have-ocr | IA `motivesoflife00swi` |
+| Sermons (Chicago : Jansen, McClurg, 1884) | have-ocr | IA `sermons00swin` |
+| Echoes from Central Music Hall : selections from the recent sermons of Professor David Swing (Chicago : Donohue, Henneberry, c189) | have-ocr | IA `echoesfromcentra00swin` |
+| Old pictures of life, vol. 1 (Chicago, Stone and Kimball, 1894) | have-ocr | IA `oldpictureslife00swingoog` |
+| David Swing: a memorial volume : ten sermons, selected and prepared for publication by himself (Chicago : F. Tennyson Neely, 1894) | have-ocr | IA `davidswingmemori00swin` |
+| Truths leaf by leaf (Chicago : [The Lakeside press, R.R. Donnelley & Sons Co.], 1905) | have-ocr | IA `truthsleafbyleaf00swin` |
+| The message of David Swing to his generation; addresses and papers (New York, Chicago [etc] Fleming H. Revell company, [c19) | have-ocr | IA `messageofdavidsw00swin` |
+| Club Essays (literary essays); the record of his heresy trial, Patton vs. Swing (both sides, many hands) | excluded | |
+
+## Robert E. Speer (round 78, my pick, 2026-10-23)
+
+Slugs `speer-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| Studies in the book of Acts (New York, The International committee of Young men's Christian associations, 1892) | have-ocr | IA `studiesinbookofa00spee` |
+| Studies of the Man Christ Jesus (New York, Chicago [etc.] Fleming H. Revell company, 1896) | have-ocr | IA `studiesofmanchri00spee` |
+| Missions and  Politics in Asia (Fleming H. Revell Company, 1898) | have-ocr | IA `missionspolitics0000robe` |
+| A memorial of a true life : a biography of Hugh McAllister Beaver (New York : Revell, c189) | have-ocr | IA `memorialoftrueli00spee` |
+| "Remember Jesus Christ" and other talks about Christ and the Christian life (New York, Chicago [etc.] Fleming H. Revell company, 1899) | have-ocr | IA `rememberjesuschr00spee` |
+| Studies of the man Paul (New York : Fleming H. Revell, c190) | have-ocr | IA `studiesofthemanp00speeuoft` |
+| Christ and life (New York [etc.] Fleming H. Revell company, 1901) | have-ocr | IA `christlife00spee` |
+| Presbyterian foreign missions : an account of the foreign missions of the Presbyterian Church in the U.S.A (Philadelphia : Presbyterian Board of Publication and Sabbath-School Work, 1901) | have-ocr | IA `presbyterianfore00speeuoft` |
+| Missionary principles and practice : a discussion of Christian missions and of some criticisms upon them (New York : F.H. Revell, 1902) | have-ocr | IA `missionaryprinc00speeuoft` |
+| The principles of Jesus : applied to some questions of today (New York ; Chicago : Fleming H. Revell, 1902) | have-ocr | IA `principlesofjesu00spee` |
+| A young man's questions (New York, Chicago, Fleming H. Revell Co, 1903) | have-ocr | IA `youngmansquestio00spee` |
+| A memorial of Horace Tracy Pitkin (New York, Fleming H. Revell, 1903) | have-ocr | IA `memorialofhorace00spee` |
+| Missions and modern history; a study of the missionary aspects of some great movements of the nineteenth century, vol. 1 (New York, Chicago [etc.] Fleming H. Revell company, [190) | have-ocr | IA `missionsmodernhi01spee` |
+| Missions and modern history; a study of the missionary aspects of some great movements of the nineteenth century, vol. 2 (New York, Chicago [etc.] Fleming H. Revell company, [190) | have-ocr | IA `missionsmodernhi02spee` |
+| Young men who overcame (New York, Chicago [etc.] Fleming H. Revell company, 1905) | have-ocr | IA `youngmenwhooverc00spee` |
+| The marks of a man; or, The essentials of Christian character (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1907) | have-ocr | IA `marksofmanoresse00spee` |
+| The Master of the heart (New York : F.H. Revell, 1908) | have-ocr | IA `masterofheart00spee` |
+| A memorial of Alice Jackson (New York, Chicago [etc.] F.H. Revell company, [c19) | have-ocr | IA `memorialofalicej00spee` |
+| Servants of the King (New York, Young people's missionary movement of the United States and Canada, New York, 1909) | have-ocr | IA `servantsofking00spee` |
+| Paul, the all-round man (New York, Fleming H. Revell, 1909; this printing lists his books to 1912) | have-ocr | IA `paulallaroundman0000robe` |
+| Christianity and the nations (New York, Chicago [etc.] Fleming H. Revell company, 1910) | have-ocr | IA `christianitynati00spee` |
+| Some great leaders in the world movement (New York, Chicago [etc.] : Fleming H. Revell Co., 1911) | have-ocr | IA `somegreatleaders00spee` |
+| The light of the world : a brief comparative study of Christianity and non-Christian religions (West Medford, Mass. : Central Committee on the United Study of Missions, 1911) | have-ocr | IA `lightofworldbrie00spee` |
+| A Christian's habits (Philadelphia : Westminster Press, 1911) | have-ocr | IA `christianshabits00spee` |
+| "The Hakim Sahib," the foreign doctor; a biography of Joseph Plumb Cochran, M.D., of Persia (New York, F.H. Revell, 1911) | have-ocr | IA `thehakimsahibfor00spee` |
+| Men who were found faithful (New York, Chicago [etc.] Fleming H. Revel company, 1912) | have-ocr | IA `menwhowerefoundf00spee` |
+| South American problems (New York, Student volunteer movement for foreign missions, 1912) | have-ocr | IA `southamericanpro00spee` |
+| Studies of missionary leadership. The Smyth lectures for 1913, delivered before the Columbia theological seminary, Columbia, South Carolina (Philadelphia, The Westminster press, 1914) | have-ocr | IA `studiesofmission00spee` |
+| John's Gospel, the greatest book in the world; suggestions for the study of the Gospel by individuals and in groups (New York ; Chicago [etc.] : Fleming H. Revell company, 1915) | have-ocr | IA `johnsgospelgreat00spee` |
+| One girl's influence; a memorial of Louise Stockton Andrews (Plainfield, N. J., F. H. Andrews, [191) | have-ocr | IA `onegirlsinfluenc00spee` |
+| The stuff of manhood : some needed notes in American character (New York ; Chicago : Fleming H. Revell, 1917) | have-ocr | IA `stuffofmanhoods00spee` |
+| The Christian man, the church and the war (New York, The Macmillan company, 1918) | have-ocr | IA `christianmanchur00spee` |
+| The Gospel and the new world (New York, Chicago [etc.] Fleming H. Revell company, 1919) | have-ocr | IA `gospelnewworld00spee` |
+| The new opportunity of the church (New York, The Macmillan company, 1919) | have-ocr | IA `newopportunityof00spee` |
+| Race and race relations; a Christian view of human contacts (New York ; Chicago [etc.] : Fleming H. Revell company, 1924) | have-ocr | IA `raceracerelation00spee` |
+| Of one blood, a short study of the race problem (New York, Council of women for home missions and missionary education movement of the United States and Canada, 1924) | have-ocr | IA `ofonebloodshorts0000spee` |
+| The church and missions (New York : George H. Doran company, 1926) | have-ocr | IA `churchmissions00spee_0` |
+| The unfinished task of foreign missions (New York, Chicago Fleming H. Revell Co, 1926) | have-ocr | IA `unfinishedtaskof0000spee` |
+| Seeking the mind of Christ (New York : Fleming H. Revell company, 1926) | have-ocr | IA `seekingmindofchr0000spee` |
+| "Are foreign missions done for?" ([New York City] : [Board of foreign missions of the Presbyterian church in the U.S.A.], 1928) | have-ocr | IA `areforeignmissio00spee` |
+| Sir James Ewing; a biography of Sir James C.R. Ewing (New York, Chicago [etc.] Fleming H. Revell company, 1928) | have-ocr | IA `sirjamesewingbio00spee` |
+| board deputation reports and his archival folders of sermon outlines; The Unity of the Americas (1916), on politics and trade; Christian Work in South America (1925), a congress report by many hands; pamphlets of under 100 pages; everything printed 1930 or later | excluded | |
+
+## Henry Sloane Coffin (round 78, my pick, 2026-10-23)
+
+Slugs `coffin-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| The creed of Jesus and other sermons (New York, C. Scribner's sons, 1907) | have-ocr | IA `creedofjesusothe00coff` |
+| Social aspects of the cross (New York : Hodder & Stoughton, 1911) | have-ocr | IA `socialaspectsofc00coff` |
+| University sermons (New Haven : Yale University press, 1914) | have-ocr | IA `universitysermon00coff` |
+| The Ten Commandments : with a Christian application to present conditions (New York : Hodder & Stoughton ; George H. Doran Co., 1915) | have-ocr | IA `tencommandmentsw00coff` |
+| Some Christian convictions : a practical restatement in terms of present-day thinking (New Haven : Yale University Press ; London : Oxford University Press, 1915) | have-ocr | IA `cu31924029192536` |
+| In a day of social rebuilding; lectures on the ministry of the church (New Haven, Yale University Press [etc.], 1918) | have-ocr | IA `indayofsocialreb00coff` |
+| A more Christian industrial order (New York, The Macmillan company, 1920) | have-ocr | IA `morechristianind00coff` |
+| What is there in religion? (New York, The Macmillan Company, 1922) | have-ocr | IA `whatisthereinrel00coff` |
+| What to preach (New York ; London : Harper & Brothers, 1926) | have-ocr | IA `whattopreach00coff` |
+| The portraits of Jesus Christ in the New Testament (New York : The Macmillan company, 1926) | have-ocr | IA `portraitsofjesus00coff_0` |
+| Hymns of the Kingdom of God, a hymnal he co-edited; everything printed 1930 or later | excluded | |
+
+## Maltbie D. Babcock (round 78, my pick, 2026-10-23)
+
+Slugs `babcock-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| Thoughts for every-day living from the spoken and written words of Maltbie Davenport Babcock (New York : C. Scribner's sons, 1901) | have-ocr | IA `thoughtsforevery00babc` |
+| Letters from Egypt and Palestine (New York : C. Scribner's sons, 1902) | have-ocr | IA `lettersfromegypt00babc` |
+| Fragments that remain from the ministry of Maltbie Davenport Babcock, pastor Brick church, New York city, 1899-1901 (New York, Chicago [etc.] Fleming H. Revell company, 1907) | have-ocr | IA `fragmentsthatrem00babc` |
+
+## William A. Quayle (round 78, my pick, 2026-10-23)
+
+Slugs `quayle-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| The blessed life; being a series of meditations on manhood and womanhood in Christ (Cincinnati, Jennings & Pye; New York, Eaton & Mains, 1901) | have-ocr | IA `blessedlifebeing00quay` |
+| Eternity in the heart, and other sermons (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1904) | have-ocr | IA `eternityinhearto00quay` |
+| God's calendar (Cincinnati : Jennings and Graham ; New York, Eaton and Mains, 1907) | have-ocr | IA `godscalendar00quay` |
+| The book of Ruth (New York, Dodge Publishing Company, 1910) | have-ocr | IA `bookofruth00quay` |
+| The pastor-preacher (Cincinnati, Jennings & Graham; New York, Eaton & Mains, 1910) | have-ocr | IA `pastorpreacher00quay` |
+| Laymen in action (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1912) | have-ocr | IA `laymeninaction0000quay` |
+| The climb to God; being a collection of pulpit and private prayers which are meant to gird the spiritual life (Cincinnati, Jennings & Graham; New York, Eaton & Mains, 1913) | have-ocr | IA `climbtogodbeingc00quay` |
+| The dynamite of God (New York, Cincinnati, The Methodist book concern, 1918) | have-ocr | IA `dynamiteofgod00quay` |
+| The throne of grace : a volume of personal prayers, with a prelude (New York : Methodist Book Concern, 1919) | have-ocr | IA `throneofgracevol00quay` |
+| The uncommon commonplace (New York : Abingdon Press, 1921) | have-ocr | IA `uncommoncommonpl00quay` |
+| The healing shadow (New York : The Abingdon Press, 1923) | have-ocr | IA `healingshadow00quay` |
+| Out-of-doors with Jesus (New York ; Cincinnati : The Abingdon press, 1924) | have-ocr | IA `outofdoorswithje00quay` |
+| his literary essays, nature books and verse (The Poet's Poet, A Hero and Some Other Folk, In God's Out-of-Doors, Books and Life, The Prairie and the Sea, Lowell, Poems, Beside Lake Beautiful, Recovered Yesterdays, With Earth and Sky) | excluded | |
+
+## John Gorham Palfrey (round 78, my pick, 2026-10-23)
+
+Slugs `palfrey-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on duties belonging to some of the conditions and relations of private life (Boston, Charles Bowen, 1834) | have-ocr | IA `sermonsondutiesb00palf` |
+| Academical lectures on the Jewish scriptures and antiquities, vol. 1 (Boston : J. Munroe, 1838) | have-ocr | IA `academicallectur01palfiala` |
+| Academical lectures on the Jewish scriptures and antiquities, Volume 2 (J. Munroe, 1840, 1840) | have-ocr | IA `academicallectu04palfgoog` |
+| Lowell lectures on the evidences of Christianity, vol. 1 (Boston : J. Munroe, 1843) | have-ocr | IA `lowelllectureson01palf` |
+| Lowell lectures on the evidences of Christianity, vol. 2 (Boston : J. Munroe, 1843) | have-ocr | IA `lowelllectureson02palf` |
+| The relation between Judaism and Christianity : illustrated in notes on passages in the New Testament containing quotations from, or references to, the Old (Boston : Crosby, Nichols, and Co., 1854) | have-ocr | IA `cu31924029302076` |
+| the later volumes of the Academical Lectures are on IA only as Google scans whose volume numbers are not catalogued; to be matched against their title pages | pending | not shelved |
+| his History of New England and political papers (Papers on the Slave Power) are history and politics, not theology; Harmony of the Gospels is Lant Carpenter's | excluded | |
+
+## William F. McDowell (round 79, my pick, 2026-10-23)
+
+Slugs `mcdowell-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| In the school of Christ (New York : Revell, 1910) | have-ocr | IA `inschoolofchrist00mcdo` |
+| A man's religion; letters to men (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1913) | have-ocr | IA `mansreligionlett00mcdo` |
+| Good ministers of Jesus Christ (New York : Abingdon, c191) | have-ocr | IA `goodministersofj00mcdouoft` |
+| This mind (New York, Cincinnati : The Methodist book concern, 1922) | have-ocr | IA `thismind00mcdo` |
+| Making a personal faith (New York, Abingdon, 1924) | have-ocr | IA `makingpersonalfa0000mcdo` |
+| That I may save some (New York : Abingdon Press, 1928) | have-ocr | IA `thatimaysavesome0000mcdo` |
+| Them He also called (New York ; Cincinnati [etc.] : The Abingdon Press, 1929) | have-ocr | IA `themhealsocalled00mcdo` |
+| The Picket Line of Missions, Effective Workers in Needy Fields and The Revival, a Symposium are many-author volumes; everything printed 1930 or later | excluded | |
+
+## Alfred Williams Momerie (round 79, my pick, 2026-10-23)
+
+Slugs `momerie-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| The origin of evil and other sermons preached in St. Peter's, Cranley Gardens (catalogued 1888) | have-ocr | IA `originofevilothe00mome` |
+| The basis of religion, being an examination of "Natural religion" (Edinburgh, London, W. Blackwood and sons, 1886) | have-ocr | IA `basisofreligionb00mome_0` |
+| Belief in God (Edinburgh ; London : W. Blackwood, 1886) | have-ocr | IA `beliefingod00mome` |
+| Defects of modern Christianity : and other sermons ; preached in St. Peter's, Cranley Gardens, 1881-2 (Edinburgh : William Blackwood and Sons, 1888) | have-ocr | IA `defectsofmodernc00mome` |
+| Agnosticism : sermons preached in St. Peter's, Cranley gardens, 1883-4 (Edinburgh ; London : William Blackwood and Sons, 1889) | have-ocr | IA `agnosticismsermo00mome` |
+| Personality, the beginning and end of metaphysics, and a necessary assumption in all positive philosophy (Edinburgh, Blackwood, 1889) | have-ocr | IA `personalitythebe00momeuoft` |
+| Inspiration, and other sermons : delivered in the chapel of the Foundling hospital (Edinburgh ; London : William Blackwood, 1889) | have-ocr | IA `inspirationother00mome` |
+| Church and creed; sermons preached in the chapel of the Foundling Hospital (Edinburgh, Blackwood, 1890) | have-ocr | IA `churchcreedsermo00mome` |
+| Preaching and hearing : and other sermons (Edinburgh : William Blackwood and Sons, 1890) | have-ocr | IA `preachinghearing00momeiala` |
+| The religion of the future : and other essays (Edinburgh ; London : W. Blackwood, 1893) | have-ocr | IA `religionoffuture0000mome` |
+| Immortality and other sermons (Edinburgh : W. Blackwood and Sons, 1901) | have-ocr | IA `immortalityother00mome` |
+
+## Thomas G. Selby (round 79, my pick, 2026-10-23)
+
+Slugs `selby-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| The imperfect angel, and other sermons (catalogued 1892) | have-ocr | IA `imperfectangelot0000thom_p4h6` |
+| The lesson of a dilemma and other sermonsm (Hodder and Stoughton, 1893) | have-ocr | IA `lessonofdilemmao0000thom` |
+| The Holy Spirit and Christian privilege (London, C. H. Kelly, 1894) | have-ocr | IA `TheHolySpiritAndChristianPrivilege` |
+| The ministry of the Lord Jesus (London : C. Kelly, 1896) | have-ocr | IA `ministryoflordje00selb` |
+| The theology of modern fiction being the twenty-sixth Fernley lecture delivered in Liverpool, July, 1896 (London : C.H. Kelley, 1896) | have-ocr | IA `theologyofmodern00selb` |
+| The unheeding God (London : Hodder and Stoughton, 1899) | have-ocr | IA `unheedinggod00selb` |
+| The God of the Trail (Hodder and Stoughton, 1902) | have-ocr | IA `godoftrail0000thom` |
+| The alienated crown (James Robinson, 1904) | have-ocr | IA `alienatedcrown0000thom_w8i7` |
+| The strenuous gospel : sermons (Cincinnati : Jennings and Graham ; New York : Eaton and Mains, 1910) | have-ocr | IA `strenuousgospels00selb` |
+| The God-lit city (London : C.H. Kelly, 1911) | have-ocr | IA `godlitcity0000selb` |
+| his books of Chinese stories and life (The Chinaman in his Own Stories, Chinamen at Home, As the Chinese See Us) | excluded | |
+
+## William Nevins (round 79, my pick, 2026-10-23)
+
+Slugs `nevins-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| Practical thoughts (New York, American Tract Society, 1836) | have-ocr | IA `practicalthought00nevi` |
+| Thoughts on popery / by Rev. William Nevins (New York : John S. Taylor, 1836) | have-ocr | IA `thoughtsonpopery00nevirich` |
+| Select remains of the Rev. William Nevins : with a memoir (New York : J. S. Taylor, 1836) | have-ocr | IA `selectremainsofr00nevi` |
+| Sermons (New York : John S. Taylor, 1837) | have-ocr | IA `sermons00nevi` |
+| Earnest appeals (catalogued 1867) | have-ocr | IA `earnestappeals00nevigoog` |
+
+## J. B. Waterbury (round 79, my pick, 2026-10-23)
+
+Slugs `waterbury-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| Advice to a young Christian : On the importance of aiming at an elevated standard of piety (New York : [s.n.], 1843) | have-ocr | IA `advicetoyoungchr00wate` |
+| The happy Christian ([n, p.], 1839) | have-ocr | IA `happychristian00wate` |
+| A book for the Sabbath; in three parts (London, Religious Tract Soc., 1840) | have-ocr | IA `bookforsabbath00wate` |
+| The Voyage of Life: Suggested by Cole's Celebrated Allegorical Paintings (Massachusetts Sabbath School Society, 1852) | have-ocr | IA `voyagelifesugge00wategoog` |
+| The sceptic refuted, and the Bible vindicated ([n.p.], 1853) | have-ocr | IA `scepticrefutedbi00wate` |
+| The child of the covenant (catalogued 1855) | have-ocr | IA `childofcovenant00wate` |
+| Taking up the cross, or, Why should I not make a profession of religion? (Boston : Massachusetts Sabbath School Society, 1855) | have-ocr | IA `takingupcrossorw00wate` |
+| Sketches of eloquent preachers (New York : The American Tract Society, 1864) | have-ocr | IA `sketchesofeloque00wate` |
+| Memoir of the Rev. John Scudder, M.D., thirty-six years missionary in India (New York : Harper, 1870) | have-ocr | IA `memoirofrevjohns00wateiala` |
+| The Brighter Age (1830), a poem; Who are the Happy? (1851), a retitled edition of The Happy Christian; hymn and tune books | excluded | |
+
+## Francis Blackburne (round 80, my pick, 2026-10-23)
+
+Slugs `blackburne-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 1 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological01blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 2 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological02blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 3 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological03blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 4 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological04blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 5 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological05blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 6 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological06blac` |
+| The works, theological and miscellaneous ... of Francis Blackburne... : with some account of the life and writings of the author by himself, vol. 7 (Cambridge : B. Flower, 1804) | have-ocr | IA `workstheological07blac` |
+| separate eighteenth-century printings of pieces collected in the Works; the Memoirs of Thomas Hollis (1780), a life of his patron | excluded | |
+
+## George J. Mountain (round 80, my pick, 2026-10-23)
+
+Slugs `mountain-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| The journal of the Bishop of Montreal, during a visit to the Church Missionary Society's North-West America mission. To which is added, by the secretaries, an appendix giving an account of the formation of the mission and its progress to the present time (London, Seeley, Burnside and Seeley [etc, 1845) | have-ocr | IA `bishopofmontreal00mounuoft` |
+| Songs of the wilderness : being a collection of poems, written in some different parts of the territory of the Hudson's Bay Company, and in the wilds of Canada, on the route to that territory, in the spring and summer of 1844, interspersed with some illustrative notes (London : Rivington, 1846) | have-ocr | IA `songsofwildernes00moun` |
+| A journal of visitation in a portion of the Diocese of Quebec (London : Society for the Propagation of the Gospel; sold by Rivingtons ..., 1847) | have-ocr | IA `journalofvisitat00moun` |
+| Sermons (London : Bell and Daldy, 1865) | have-ocr | IA `mountainssermons00mounuoft` |
+| the 1866 memoir of him by his son Armine W. Mountain; pamphlets of under 60 pages | excluded | |
+
+## Ralph C. Horner (round 80, my pick, 2026-10-23)
+
+Slugs `horner-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| From the altar to the upper room : in four parts (Toronto : W. Briggs; Montreal : C.W. Coates, 1891) | have-ocr | IA `cihm_07858` |
+| Pentecost (Toronto : W. Briggs; Montreal : C.W. Coates, 1891) | have-ocr | IA `cihm_07862` |
+| Notes on Boland, or, Mr. Wesley and the second work of grace (Boston : McDonald & Gil; Toronto : W. Briggs, 1893) | have-ocr | IA `cihm_07860` |
+| Original and inbred sin (Ottawa : [s.n.], 1896) | have-ocr | IA `cihm_07861` |
+| Fragments from the feast, or, 18 sermons (Belleville : 'Cruse of Oil'Tract Repository, 1902) | have-ocr | IA `cihm_97987` |
+| The children of the Bible (Ottawa : R.C. Horner, 1903) | have-ocr | IA `cihm_74636` |
+| Revival sermons (Ottawa : Holiness Movement Pub. House, 1910) | have-ocr | IA `cihm_74657` |
+| Gospel Tent Hymns (a hymnal); The Feast of 1905, which mixes his addresses with others' testimonies | excluded | |
+
+## J. D. Jones (round 80, my pick, 2026-10-23)
+
+Slugs `jdjones-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lord of life and death (New York : George H. Doran, [19-) | have-ocr | IA `lordoflifedeath00joneiala` |
+| Paul's certainties, and other sermons (New York : Fleming H. Revell, 1900) | have-ocr | IA `paulscertainties00jone` |
+| The gospel of the sovereignty and other sermons (George H. Doran Company, 1900) | have-ocr | IA `gospelofsovereig00jone` |
+| The glorious company of the Apostles : being studies in the characters of the twelve (Bournemouth : H.G. Commin, 1904) | have-ocr | IA `gloriouscompany00joneuoft` |
+| Things most surely believed (London : Clarke, pref) | have-ocr | IA `mostsurelybeliev00joneuoft` |
+| If a man die (New York : G. H. Doran, 1918) | have-ocr | IA `ifmandie00jone` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone_y3m4` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone_b3v0` |
+| The Gospel according to St. Mark : a devotional commentary (London : Religious Tract Society, 1919) | have-ocr | IA `gospelaccordingt0000jone_i1z3` |
+| The king of love, meditations on the twenty-third psalm (New York, Revell, 1922) | have-ocr | IA `kingoflovemedita00jone` |
+| everything printed 1930 or later; a later printing of The Lord of Life and Death (1919) | excluded | |
+
+## John William Colenso (round 80, my pick, 2026-10-23)
+
+Slugs `colenso-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| Ten weeks in Natal. A journal of a first tour of visitation among the colonists and Zulu Kafirs of Natal (Cambridge [Eng.] : Macmillan & co., 1855) | have-ocr | IA `tenweeksinnatalj00cole` |
+| The Pentateuch and Book of Joshua critically examined (London : Longman, 1862) | have-ocr | IA `pentateuchbookof01coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 2 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof02coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 3 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof03coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 4 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof04coleuoft` |
+| The Pentateuch and Book of Joshua critically examined, vol. 5 (London : Longman, 1862) | have-ocr | IA `pentateuchbookof05coleuoft` |
+| St. Paul's Epistle to the Romans : newly translated and explained from a missionary point of view (New York : D. Appleton & Co., 1863) | have-ocr | IA `stpaulsepistleto00cole` |
+| Natal sermons (London, N. Trübner & co., 1866) | have-ocr | IA `natalsermonsase00colegoog` |
+| parts 6 and 7 (1871-1879) were not found as separate Internet Archive scans | pending | not shelved |
+| his school arithmetic, algebra and trigonometry and his Zulu-English dictionary (not theology); the many replies to him by others | excluded | |
+
+## Jean-Pierre de Caussade (round 80, my pick, 2026-10-23)
+
+Slugs `caussade-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| Abandonment, or, Absolute surrender to divine providence (New York, Cincinnati and St. Louis Benziger brothers, 1887), translated by Ella McMahon | have-ocr | IA `abandonmentorabs00caus` |
+| Abandonment to divine providence, edited by J. Ramière, translated by E. J. Strickland (Exeter : Catholic Records Press ; St. Louis : Herder, 1921; imprimatur 7 March 1921) | have-ocr | IA `abandonmenttodiv00causrich` |
+| the French texts (1874 and later); everything printed 1930 or later | excluded | |
+| the undated 'Third English Edition' of Strickland's translation; it may have been printed after 1930, so the 1921 first edition is used instead | excluded | |
+
+## John Wyclif (round 81, my pick, 2026-10-23)
+
+Slugs `wyclif-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| Select English works of John Wyclif, vol. 1 (Oxford : Clarendon Press, 1869) | have-ocr | IA `selectenglishworks01wycl` |
+| Select English works of John Wyclif, vol. 2 (Oxford, Clarendon Press, 1869) | have-ocr | IA `selectenglishwor02wycl` |
+| Select English works of John Wyclif, vol. 3 (Oxford : Clarendon Press, 1869) | have-ocr | IA `selectenglishworks03wycl` |
+| The English works of Wyclif : Hitherto Unprinted (London : Published for the Early English text society, by Kegan Paul, Trübner & Co., Ltd., 1880) | have-ocr | IA `englishworksofwy00wycl` |
+| Tracts and treatises of John de Wycliffe : with selections and translations from his manuscripts, and Latin works (London : Printed for the Society by Blackburn and Pardon, 1845) | have-ocr | IA `tractstreatiseso00wycl` |
+| the Wyclif Society Latin Works (about 35 volumes, 1883-1922) and the Trialogus (1869): a large set whose volumes still have to be matched to titles; a separate decision | pending | not shelved |
+| An Apology for Lollard Doctrines (1842) and The Last Age of the Church (1840), both only attributed to him and now generally denied to him | excluded | |
+| the Wycliffite Bible (Forshall and Madden, 1850) and the 1879 New Testament, which belong with the English Bibles | excluded | |
+| lives of him by Vaughan, Le Bas, Lechler and others | excluded | |
+
+## Huldreich Zwingli (round 81, my pick, 2026-10-23)
+
+Slugs `zwingli-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian education of youth (Collegeville, Pa., Thompson bros., 1899) | have-ocr | IA `christianeducati00zwin` |
+| Selected works of Huldreich Zwingli (1484-1531) : the reformer of German Switzerland (Philadelphia : University of Pennsylvian ; New York : sold by Longmans, Green, 1901) | have-ocr | IA `selectedworksofh00zwin` |
+| The Latin works and the correspondence of Huldreich Zwingli : together with selections from his German works, vol. 1 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres01zwin` |
+| The Latin works and the correspondence of Huldreich Zwingli : together with selections from his German works, vol. 2 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres02zwin` |
+| The Latin works and the correspondence of Huldreich Zwingli :  together with selections from his German works, vol. 3 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres03zwin` |
+| lives of him by Christoffel, Jackson and others | excluded | |
+
+## Jan Hus (round 81, my pick, 2026-10-23)
+
+Slugs `hus-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters of John Huss written during his exile and imprisonment (Edinburgh, W. Whyte, 1846) | have-ocr | IA `lettersjohnhuss00luthgoog` |
+| The Letters of John Hus (London : Hodder and Stoughton, 1904) | have-ocr | IA `lettersofjohnhus00husjuoft` |
+| De ecclesia. The Church (New York Scribner, 1915) | have-ocr | IA `deecclesiachurch00husjuoft` |
+| Mag. Johannis Hus Tractatus responsivus : now first edited with a critical introduction and notes from the unique ms. cod. C. 116, Metropolitan chapter library, Prague (Princeton : Princeton university press, 1927) | have-ocr | IA `magjohannishustr00husj` |
+| Super IV Sententiarum (Flajshans, 1904-1906): its IA volumes still need matching | pending | not shelved |
+| the Czech collected works (Sebrané spisy) and Czech correspondence, left for a lane that takes Czech | excluded | |
+| eighteenth-century German translations | excluded | |
+
+## Hensley Henson (round 81, my pick, 2026-10-23)
+
+Slugs `henson-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| Light and leaven : historical and social sermons to general congregations (London : Methuen, 1897) | have-ocr | IA `lightleavenhisto0000hens` |
+| Apostolic Christianity : notes and inferences mainly based on S. Paul's Epistles to the Corinthians (London : Methuen, 1898) | have-ocr | IA `apostolicchristi00hensuoft` |
+| Dissent in England, vol. c.1 (London : Rivingtons, 1900) | have-ocr | IA `dissentinengland01hens` |
+| Godly union and concord : sermons preached mainly in Westminster Abbey in the interest of Christian fraternity (London : John Murray, 1902) | have-ocr | IA `godlyunionandcon00hensuoft` |
+| Cross-bench Views of Current Church Questions (E. Arnold, 1902) | have-ocr | IA `crossbenchviews00hensgoog` |
+| Studies in English religion in the seventeenth century, St. Margaret's lectures, 1903 (London, J. Murray, 1903) | have-ocr | IA `studiesinenglish00hensuoft` |
+| Notes on Popular Rationalism (Isbister, 1904) | have-ocr | IA `notesonpopularr00hensgoog` |
+| The value of the Bible : and other sermons, 1902-1904 (London ; New York : Macmillan, 1904) | have-ocr | IA `valuebibleandot00hensgoog` |
+| Religion in the schools; addresses on fundamental Christianity, delivered in S. Margaret's. Westminster, during Lent 1906 (London : Macmillian, 1906) | have-ocr | IA `religioninschool00hens` |
+| Christian marriage (London : Cassell, 1907) | have-ocr | IA `christianmarriag00hensuoft` |
+| Christ and the nation : Westminster and other sermons (London : T. Fisher Unwin, 1908) | have-ocr | IA `christnationwest0000hens` |
+| The National Church: Essays on Its History and Constitution and Criticisms of Its Present (Macmillan, 1908) | have-ocr | IA `nationalchurche00hensgoog` |
+| The liberty of prophesying : with its just limits and temper considered with reference to the circumstances of the modern church : Lyman Beecher lectures delivered 1909, before the Yale Divinity School, and three sermons (New Haven : Yale University Press, 1910) | have-ocr | IA `libertyofprophes00hensuoft` |
+| Westminster sermons (New York : Armstrong, 1910) | have-ocr | IA `westminstersermo00hensuoft` |
+| Puritanism in England (London, New York [etc.] : Hodder and Stoughton, 1912) | have-ocr | IA `puritanisminengl00hens` |
+| War-time sermons (London, Macmillan, 1915) | have-ocr | IA `wartimesermons0000hens` |
+| Robertson of Brighton, 1816-1853 (London : Smith, Elder, 1916) | have-ocr | IA `robertsonofbrigh00hensuoft` |
+| Notes On Spiritual Healing (catalogued 1925) | have-ocr | IA `notesonspiritual0000herb` |
+| The Book and the Vote (Hodder and Stoughton, 1928) | have-ocr | IA `bookvote0000herb` |
+| Disestablishment (catalogued 1929) | have-ocr | IA `disestablishment0000herb` |
+| volumes he only edited with many contributors (Church Problems, 1900; Criticism of the New Testament, 1902); pamphlets and single sermons of under 100 pages; everything printed 1930 or later, including his Retrospect of an Unimportant Life | excluded | |
+
+## Franz Hunolt (round 82, my pick, 2026-10-23)
+
+Slugs `hunolt-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| Hunolt's Sermons, vol. 1: The Christian State of Life, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `thechristianstat01hunouoft` |
+| Hunolt's Sermons, vol. 2: The Christian State of Life, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `thechristianstat02hunouoft` |
+| Hunolt's Sermons, vol. 3: The Bad Christian, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `thebadchristian03hunouoft` |
+| Hunolt's Sermons, vol. 4: The Bad Christian, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `thebadchristian04hunouoft` |
+| Hunolt's Sermons, vol. 5: The Penitent Christian, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `penitentchristia05hunouoft` |
+| Hunolt's Sermons, vol. 6: The Penitent Christian, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `HunoltsSermonsVol06` |
+| Hunolt's Sermons, vol. 7: The Good Christian, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `thegoodchristian07hunouoft` |
+| Hunolt's Sermons, vol. 8: The Good Christian, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `thegoodchristian08hunouoft` |
+| Hunolt's Sermons, vol. 9: The Christian's Last End, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadapted01hunouoft` |
+| Hunolt's Sermons, vol. 10: The Christian's Last End, vol. 2, translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadaptedto10hunouoft` |
+| Hunolt's Sermons, vol. 11: The Christian's Model, vol. 1, translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadaptedto11hunouoft` |
+| Hunolt's Sermons, vol. 12: The Christian's Model, vol. 2 (sermons on Our Lord, His Blessed Mother and the Saints), translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadapted02hunouoft` |
+| Short Sermons (1896) and Sermons on the Different States of Life (1897), further Allen translations whose IA volumes still need matching | pending | not shelved |
+| the German Christliche Sittenlehre (Munich printings), left for a lane that takes German | excluded | |
+
+## I. D. Williamson (round 82, my pick, 2026-10-23)
+
+Slugs `williamson-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| An argument for the truth of Christianity (New York, P. Price & co., 1836) | have-ocr | IA `argumentfortruth00will_0` |
+| An exposition and defence of Universalism : in a series of sermons delivered in the Universalist Church, Baltimore, Md (New York : P. Price, 1840) | have-ocr | IA `expositiondefenc00will` |
+| The crown of life : a series of discourses (Boston, J.M. Usher ; Cincinnati, O., J.A. Gurley, 1850) | have-ocr | IA `crownoflifeserie00will` |
+| The Vision of Faith: A Series of Sermons on the Decalogue and the Lord's Prayer / by I. D (B. F. Foster, 1852) | have-ocr | IA `visionfaithaser00willgoog` |
+| An Examination of the Doctrine of Endless Punishment: Its Claims to Divine Origin Refuted, in a (Quinby, 1854) | have-ocr | IA `anexaminationdo00willgoog` |
+| Sermons for the times and the people (New York : H. Lyon, 1855) | have-ocr | IA `sermonsfortimesp00will` |
+| The philosophy of Universalism ([n.p.], 1866) | have-ocr | IA `philosophyofuniv00will` |
+| The Universalist Church Companion (a service book he compiled); Twelve Sermons of the 1853 Universalist convention (many preachers) | excluded | |
+
+## John Medley (round 82, my pick, 2026-10-23)
+
+Slugs `medley-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons published at the request of many of his late parishioners (London : F. & J. Rivington ; Exeter [England] : P.A. Hannaford, 1845) | have-ocr | IA `cihm_53092` |
+| Four charges to the clergy of the diocese, by John, Lord Bishop of Fredericton : at his triennial visitations, holden in Christ Church Cathedral, Fredericton, 1853, 1856, 1859, 1862 (Oxford : H. Hammans; London : Rivingtons, 1863) | have-ocr | IA `cihm_23054` |
+| The book of Job : with an introduction, a summary of each chapter, and brief notes in explanation of obscure passages (St. John, N.B. [s.n.], 1879) | have-ocr | IA `cihm_05195` |
+| his share in the Library of the Fathers translation of Chrysostom on 1 Corinthians (1839), which belongs with that series; pamphlets of under 60 pages | excluded | |
+
+## Edward Hartley Dewart (round 82, my pick, 2026-10-23)
+
+Slugs `dewart-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| Living epistles, or, Christ's witnesses in the world : also, an essay on Christianity and skepticism (Toronto : Christian Guardian Office, 1878) | have-ocr | IA `livingepistlesor00dewa` |
+| Jesus the Messiah in prophecy and fulfilment : a review and refutation of the negative theory of messianic prophecy (Toronto : W. Briggs, 1891) | have-ocr | IA `jesusthemessiah00dewauoft` |
+| Essays for the times : studies of eminent men and important living questions (Toronto : W. Briggs, 1898) | have-ocr | IA `essaysforthetime00dewauoft` |
+| The Bible under higher criticism : a review of current evolution theories about the Old Testament (Toronto : W. Briggs, 1900) | have-ocr | IA `bibleunderhigher00dewa` |
+| Selections from Canadian Poets (an anthology he edited), his own verse (Songs of Life), The Canadian Speaker (a school reader) and The Canadian Methodist Pulpit (sermons by many) | excluded | |
+
+## Charles Gay (round 83, my pick, 2026-10-23)
+
+Slugs `gay-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian life and virtues considered in the religious state (London : Burns & Oates, 1878) | have-ocr | IA `christianlife01gayuoft` |
+| The Christian life and virtues considered in the religious state, vol. 2 (London : Burns & Oates, 1878) | have-ocr | IA `christianlife02gayuoft` |
+| The Christian life and virtues considered in the religious state, vol. 3 (London : Burns & Oates, 1878) | have-ocr | IA `christianlife03gayuoft` |
+| the French originals (De la vie et des vertus chrétiennes; Élévations), left for a lane that takes French | excluded | |
+
+## Edward Hawkins (round 83, my pick, 2026-10-23)
+
+Slugs `ehawkins-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses upon some of the principal objects and uses of the historical Scriptures of the Old Testament : preached before the University of Oxford (Oxford : J.H. Parker, 1833) | have-ocr | IA `a587072400hawkuoft` |
+| An inquiry into the connected uses of the principal means of attaining Christian truth : in eight sermons preached before the University of Oxford at the Bampton lecture for the year MDCCCXL (Oxford : John Henry Parker [etc.], 1840) | have-ocr | IA `inquiryintoconn00hawk` |
+| Sermons on the church, preached before the University of Oxford (London B. Fellowes and J.H. Parker, 1847) | have-ocr | IA `sermonsonthechur00hawkuoft` |
+| Sermons on Scriptural types and sacraments, preached before the University of Oxford : with observations upon some recent theories (London : B. Fellowes, 1851) | have-ocr | IA `sermonsonscriptu00hawk` |
+| A dissertation upon the use and importance of unauthoritative tradition (London : Society for Promoting Christian Knowledge ; New York : J.B. Young, 1889) | have-ocr | IA `a587077100hawkuoft` |
+
+## Frederick F. Shannon (round 83, my pick, 2026-10-23)
+
+Slugs `shannon-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| The soul's atlas and other sermons (New York, Chicago Fleming H. Revell Company, 1911) | have-ocr | IA `soulsatlasothers0000shan` |
+| The new personality and other sermons (fleming h. revell company, 1915) | have-ocr | IA `newpersonalityot0000fred` |
+| The enchanted universe, and other sermons (New York, Chicago [etc.] Fleming H. Revell Company, 1916) | have-ocr | IA `enchantedunivers00shan` |
+| The breath in the winds and other sermons (Fleming H. Revell company, 1918) | have-ocr | IA `breathinwindsoth0000fred` |
+| God's faith in man : and other sermons (New York ; Chicago : Fleming H. Revell, 1919) | have-ocr | IA `godsfaithinmanot00shan` |
+| The infinite artist, and other sermons (New York, The Macmillan company, 1921) | have-ocr | IA `infiniteartistot00shan` |
+| The country faith (New York, The Macmillan company, 1922) | have-ocr | IA `countryfaith00shan` |
+| The New Greatness (The Macmillan Company, 1923) | have-ocr | IA `newgreatness011962mbp` |
+| A moneyless magnate, and other essays (New York, George H. Doran, 1923) | have-ocr | IA `moneylessmagnate00shan` |
+| The unfathomable Christ, and other sermons (New York ; Chicago : Fleming H. Revell, 1926) | have-ocr | IA `unfathomablechri00shan` |
+| Nature's Secrets Revealed (1916), a sex-hygiene book by another Shannon; everything printed 1930 or later | excluded | |
+
+## Sylvester Joseph Hunter (round 83, my pick, 2026-10-23)
+
+Slugs `sjhunter-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| Outlines of dogmatic theology, vol. 1 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat01hunt` |
+| Outlines of dogmatic theology, vol. 2 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat02hunt` |
+| Outlines of dogmatic theology, vol. 3 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat03hunt` |
+| the second edition (1909), a later printing of the same work | excluded | |
+
+## William Cochrane (round 83, my pick, 2026-10-23)
+
+Slugs `cochrane-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| The heavenly vision : and other sermons (1863-73) (Toronto : Adam, Stevenson & Co., 1874) | have-ocr | IA `heavenlyvisionot00coch` |
+| Christ and Christian life : [serm]ons preached in Zion Church, Brantford, 1875 (Toronto : Adam, Stevenson; Brantford [Ont.] : J. Sutherland, 1876) | have-ocr | IA `cihm_08595` |
+| Warning and welcome : sermons preached in Zion Presbyterian Church, Brantford, during 1876 (Toronto : A. Stevenson; Brantford, [Ont.] : J. Sutherland, 1877) | have-ocr | IA `cihm_08844` |
+| Future punishment; or, Does death end probation? ... with illustrative notes from the writings of eminent British and American scientists and theologians (Brantford, Bradley, 1886) | have-ocr | IA `futurepunishment00cochuoft` |
+| The church and the commonwealth. Discussions and orations on questions of the day, practical, biographical, educational and doctrinal (Brantford, Ont., Bradley, Garretson & Co., 1887) | have-ocr | IA `churchcommonweal00coch` |
+| Memoirs and remains of the Reverend Walter Inglis : African missionary and Canadian pastor (Toronto, C.B. Robinson [etc., etc.], 1887) | have-ocr | IA `memoirsremainsof00coch` |
+| The Canadian Album: Men of Canada (1891-1896), a biographical dictionary he edited | excluded | |
+
+## John M. Ashley (round 83, my pick, 2026-10-23)
+
+Slugs `jmashley-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| A promptuary for preachers, vol. 1 (London : J. T. Hayes, 1876) | have-ocr | IA `promptuaryforpre01ashl` |
+| A promptuary for preachers, vol. 2 (London : J. T. Hayes, 1876) | have-ocr | IA `promptuaryforpre02ashl` |
+| S. Augustine the preacher : being fifty short sermon notes founded upon select passages from his writings (London : J.T. Hayes, 1877) | have-ocr | IA `saugustinepreach00ashl` |
+| Origen the preacher : being fifty short sermon notes founded upon select passages from his writings (London : J. T. Hayes, 1878) | have-ocr | IA `origenpreacherbe00ashl` |
+| The pulpit lectionary, sermon notes upon the Old Testament Sunday lessons (catalogued 1884) | have-ocr | IA `pulpitlectionar00ashlgoog` |
+| Cogitationes concionales : being 216 short sermon reflections on the dominical Gospels of the Church's year : founded upon selected readings from the Summa Theologica of S. Thomas Aquinas (London : J. Hodges, 1895) | have-ocr | IA `cogitationesconc00ashl` |
+| The minor acts of our lord and savior Jesus Christ : considered in a short course of practical sermons (London : John Hodges, 1900) | have-ocr | IA `minoractsofourlo00ashl` |
+| his translation of Ninety-nine Homilies of S. Thomas Aquinas (1867), which is Aquinas; A Festival Year with Great Preachers (sermons by many); The Battle of Senlac (verse) | excluded | |
+
+## Joseph Agar Beet (round 84, my pick, 2026-10-23)
+
+Slugs `beet-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| A commentary on St. Paul's epistle to the Romans (London : Hodder and Stoughton, 1881) | have-ocr | IA `commentaryon00beet` |
+| A commentary on St. Paul's Epistles to the Corinthians (London : Hodder and Stoughton, 1882) | have-ocr | IA `commentaryonst00beet` |
+| A commentary on St. Paul's Epistle to the Galatians (New York : Whittaker, 1885) | have-ocr | IA `commentaryonstpa0000beet` |
+| A commentary on St. Paul's Epistles to the Ephesians, Philippians, Colossians, and to Philemon (London : Hodder and Stoughton, 1890) | have-ocr | IA `commentaryonstpa00beet` |
+| The credentials of the Gospel; a statement of the reason of the Christian hope (London : Wesleyan Methodist Book-Room, 1889) | have-ocr | IA `credentialsofgos00beet` |
+| Through Christ to God; a study in scientific theology (London, Hodder and Stoughton, 1892) | have-ocr | IA `throughchristtog0000beet` |
+| The new life in Christ : a study in personal religion (New York : Hunt & Eaton ; Cincinnati : Cranston & Curts, 1895) | have-ocr | IA `newlifeinchrists00beet` |
+| The last things (New York : Methodist Book Concern, Eaton & Mains, 1897) | have-ocr | IA `lastthings00beet` |
+| The immortality of the soul : a protest (London : Hodder and Stoughton, 1901) | have-ocr | IA `immortalityofsou00beetuoft` |
+| A key to unlock the Bible (London : Religious Tract Society, 1903) | have-ocr | IA `akeytounlocktheb00beetuoft` |
+| A manual of theology (New York ; London : [publisher not identified], 1906) | have-ocr | IA `manualoftheology00beet` |
+| The New Testament : its authorship, date and worth (London : Robert Culley, 1908) | have-ocr | IA `thenewtestamenti00beetuoft` |
+| Holiness, symbolic and real : a Bible study (London : R. Culley, 1910) | have-ocr | IA `holinesssymbolic00beetuoft` |
+| A theologian's workshop, tools, and methods (London ; New York : Hodder and Stoughton, 1914) | have-ocr | IA `theologiansworks00beet_0` |
+
+## Alexander Keith (round 84, my pick, 2026-10-23)
+
+Slugs `keith-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| Evidence of the truth of the Christian religion, derived from the literal fulfilment of prophecy; particularly as illustrated by the history of the Jews, and by the discoveries of recent travellers (Edinburgh : Waugh & Innes, 1828) | have-ocr | IA `b22028274` |
+| The signs of the times, as denoted by the fulfilment of historical predictions, traced down from the Babylonish captivity to the present time, vol. 1 (Edinburgh : Wm. Whyte, 1832) | have-ocr | IA `b33029453_0001` |
+| The signs of the times, as denoted by the fulfilment of historical predictions, traced down from the Babylonish captivity to the present time, vol. 2 (Edinburgh : Wm. Whyte, 1832) | have-ocr | IA `b33029453_0002` |
+| The evidence of prophecy (New York, American tract society, 1833) | have-ocr | IA `evidenceofprophe01keit` |
+| Demonstration of the truth of the Christian religion ([n. p.], 1844) | have-ocr | IA `demonstrationoft00keit` |
+| Land of Israel : according to the covenant with Abraham, with Isaac, and Jacob (Edinburgh : William Whyte, 1844) | have-ocr | IA `landofisraelacco00keit` |
+| Isaiah as it is : or, Judah and Jerusalem the subjects of Isaiah's prophesying (Edinburgh : W. Whyte, 1850) | have-ocr | IA `isaiahasitisorju00keit` |
+| The Harmony of Prophecy, Or, Scriptural Illustrations of the Apocalypse (Harper, 1855) | have-ocr | IA `harmonyprophecy00keitgoog` |
+
+## Reginald Heber (round 84, my pick, 2026-10-23)
+
+Slugs `heber-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| The personality and office of the Christian Comforter asserted and explained : in a course of sermons on John XVI.7., preached before the University of Oxford, in the year MDCCCXV (Oxford : University Press, 1816) | have-ocr | IA `personalityoffic00hebe` |
+| Hymns, written and adapted to the weekly church service of the year (New York : G. & C. Carvill, 1827) | have-ocr | IA `hymnsw00hebe` |
+| The life of the Right Rev. Jeremy Taylor, D.D., Lord Bishop of Down, Connor, and Dromore : with a critical examination of his writings (London : Printed for C. and J. Rivington [etc.], 1828) | have-ocr | IA `lifeofrightrevje00hebe` |
+| Sermons preached in India (London : John Murray, 1829) | have-ocr | IA `sermonspreachedi00hebe` |
+| Sermons preached in England (New-York, 1829) | have-ocr | IA `sermonspreachedi00hebe_0` |
+| his Narrative of a Journey through India (travel) and his Poetical Works (verse beyond the hymns) | excluded | |
+
+## M. F. Sadler (round 84, my pick, 2026-10-23)
+
+Slugs `sadler-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| The second Adam and the new birth : or, The doctrine of baptism as contained in Holy Scripture (London : Bell & Daldy, 1867) | have-ocr | IA `secondadamnewbir00sadl` |
+| Emmanuel : or, The incarnation of the Son of God the foundation of immutable truth (London : Bell and Daldy, 1867) | have-ocr | IA `emmanuelorincarn00sadl` |
+| churchteachersma00sadlrich (catalogued ) | have-ocr | IA `churchteachersma00sadlrich` |
+| The communicant's manual (London : George Bell and Sons, 1874) | have-ocr | IA `communicantsmanu00sadluoft` |
+| The lost Gospel and its contents : or, The author of "Supernatural religion" refuted by himself (London : G. Bell, 1876) | have-ocr | IA `lostgospelitscon00sadl` |
+| Church doctrine, Bible truth (London : G. Bell and Sons, 1888) | have-ocr | IA `churchdoctrinebi00sadl_0` |
+| The gospel according to St. Matthew (New York : James Pott, 1885) | have-ocr | IA `gospelaccordingt0000sadl` |
+| The Gospel according to St. Mark : with notes critical and practical (London : G. Bell, 1892) | have-ocr | IA `gospelaccordingt00sadl` |
+| The gospel according to St. Luke : with notes critical and practical (New York : James Pott, 1890) | have-ocr | IA `MN41511ucmf_0` |
+| The Gospel according to St. John : with notes critical and practical (London : G. Bell, 1899) | have-ocr | IA `gospelaccordin00sadl` |
+| The Epistle to the Romans : with notes critical and practical (London : George Bell and Sons, 1888) | have-ocr | IA `theepistletother00sadluoft` |
+| The First and Second epistles to the Corinthians : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `firstsecondepist00sadl` |
+| The Epistles of St. Paul to the Galatians, Ephesians and Philippians : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `epistlesofstp00sadl` |
+| The Epistles of St. Paul to the Colossians, Thessalonians and Timothy : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `epistlesofstpaul00sadl` |
+| The Epistles of St. Paul to Titus, Philemon and the Hebrews : with notes critical and practical (London : G. Bell, 1898) | have-ocr | IA `epistlesofstpaultotitus00sadl` |
+| The General epistles of Ss. James, Peter, John, and Jude : with notes critical and practical (London : G. Bell, 1895) | have-ocr | IA `generalepistleso00sadl` |
+| revelationofstjo00sadl, The Revelation of St. John the Divine : with notes critical and practical (London : G. Bell, 1894): Internet Archive's text file returned HTTP 500 on every try (2026-10-23); retry later | pending | not shelved |
+| French textbooks and other works by different Sadlers | excluded | |
+
+## Harry Emerson Fosdick (round 85, my pick, 2026-10-23)
+
+Slugs `fosdick-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| The second mile (New York : Young Men's Christian Association Press, 1909) | have-ocr | IA `thesecondmile00fosduoft` |
+| The assurance of immortality (New York : Macmillan, 1913) | have-ocr | IA `assuranceofimmor00fosduoft` |
+| The manhood of the Master (New York : Association Press, 1913) | have-ocr | IA `manhoodofmaster00fosd_0` |
+| The meaning of prayer (New York : Association Press, 1915) | have-ocr | IA `themeaningofpray00fosduoft` |
+| The meaning of faith (New York : Association Press, 1918) | have-ocr | IA `themeaningoffai00fosduoft` |
+| The Challenge of the Present Crisis (Association Press, 1917) | have-ocr | IA `challengepresen00fosdgoog` |
+| The meaning of service (New York : Association Press, c192) | have-ocr | IA `meaningofservice00fosduoft` |
+| Christianity and progress (New York : Association Press, c192) | have-ocr | IA `christianityprog192200fosd` |
+| Shall the fundamentalists win (Harry Emerson Fosdick, 1922) | have-ocr | IA `shallfundamental0000harr` |
+| Twelve tests of character (New York : Association Press, 1923) | have-ocr | IA `twelvetestsofcha00fosd_1` |
+| The modern use of the bible (the macmillan company, 1924) | have-ocr | IA `modernuseofbible0000harr` |
+| Adventurous Religion and Other Essays (catalogued 1926) | have-ocr | IA `adventurousrelig0000harr` |
+| A pilgrimage to Palestine (New York : Macmillan, 1927; first printing) | have-ocr | IA `pilgrimagetopale0000harr_q1p8` |
+| Spiritual values and eternal life (Cambridge : Harvard University Press, 1927) | have-ocr | IA `spiritualvaluese00fosd` |
+| everything he published from 1930 on (still in copyright in the US) | excluded | |
+| The American Hymnal (Dawson ed.), many authors | excluded | |
+
+## James Moffatt (round 85, my pick, 2026-10-23)
+
+Slugs `moffatt-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| The historical New Testament; being the literature of the New Testament arranged in the order of its literary growth and according to the dates of the documents; a new translation, ed. with prolegomena, historical tables, critical notes and an appendix (Edinburgh, Clark, 1901) | have-ocr | IA `historicalnewtes00moffuoft` |
+| The Epistle to the Romans (New York : A. C. Armstrong, 1905) | have-ocr | IA `epistletoromans00moff` |
+| The book of Daniel (New York : A.C. Armstrong, 1905) | have-ocr | IA `bookofdaniel00moff` |
+| Paul and Paulinism (Boston and New York, Houghton Mifflin company, 1910) | have-ocr | IA `paulpaulinism00moff` |
+| Reasons and reasons (New York : Hodder and Stoughton, 1911) | have-ocr | IA `reasonsreasonshas00moff` |
+| An introduction to the literature of the New Testament (New York, C. Scribner's Sons, 1911) | have-ocr | IA `introductiontoli0000moff` |
+| The theology of the Gospels (London : Duckworth, 1912) | have-ocr | IA `theologygospels00moffuoft` |
+| The New Testament (New York, Hodder and Stoughton, 1913) | have-ocr | IA `newtestmoff00moffuoft` |
+| A book of Biblical devotions for members of the Scottish Church (London, Hodder and Stoughton, 1919) | have-ocr | IA `bookofbiblicalde00moff` |
+| The second things of life (London : Hodder & Stoughton, 1920) | have-ocr | IA `thesecondthingso00moffuoft` |
+| The approach to the New Testament : lectures delivered in London and Cambridge, April-May, 1921 (London : Hodder and Stoughton, Limited, 1921) | have-ocr | IA `approachtonewtes0000moff` |
+| Jesus on love to God, Jesus on love to man (Philadelphia, The Press of the University of Pennsylvania, 1922) | have-ocr | IA `jesusonlovetogod00moffrich` |
+| A critical and exegetical commentary on the epistle to the Hebrews (New York : Scribner, 1924) | have-ocr | IA `criticalexegetic00moff` |
+| The old testament, vol. 1 (George H. Doran Company, 1924) | have-ocr | IA `oldtestament0001jame` |
+| The Old Testament: Volume II - Job Through Malachi, vol. 2 (George H. Doran, 1925) | have-ocr | IA `oldtestamentvolu0002jame` |
+| The Bible in Scots literature (London : Hodder and Stoughton, 1924) | have-ocr | IA `bibleinscotslite0000moff` |
+| Everyman's Life of Jesus (catalogued 1925) | have-ocr | IA `everymanslifeofj0000jame` |
+| Handbook to the Church hymnary (London, Oxford University Press, H. Milford, 1927) | have-ocr | IA `handbooktochurch0000moff` |
+| The Presbyterian churches (Garden City, N.Y., Doubleday, Doran & Company, Inc., 1928) | have-ocr | IA `presbyterianchur0000moff` |
+| The general epistles, James, Peter, and Judas (New York : Harper, 1928) | have-ocr | IA `generalepistlesj0000moff` |
+| Love in the new testament (catalogued 1929) | have-ocr | IA `loveinnewtestame0000jame_n6a0` |
+| books he only edited or translated from others: Harnack's Expansion of Christianity, The Golden Book of John Owen, The Golden Book of Tillotson, Letters of Principal Denney, The Expositor volumes | excluded | |
+| George Meredith primer and school editions of Burke and Shakespeare (not theology) | excluded | |
+| everything printed from 1930 on, including his 1 Corinthians commentary (1938) | excluded | |
+
+## Arthur S. Peake (round 85, my pick, 2026-10-23)
+
+Slugs `peake-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| A guide to Biblical study (London : Hodder and Stoughton, 1897) | have-ocr | IA `guidetobiblicals00peakuoft` |
+| The problem of suffering in the Old Testament (London : Robert Bryant, 1904) | have-ocr | IA `problemofsufferi00peakrich` |
+| Job. Introd., rev. version with notes and index (Edinburgh T.C. & E.C. Jack, 1904) | have-ocr | IA `jobintrodrevvers00peakuoft` |
+| Hebrews : introduction, authorized version, revised version with notes and index, vol. 58 (Edinburgh : T.C. & E.C. Jack, 1906) | have-ocr | IA `hebrewsintroduct58peak` |
+| Reform in Sunday school teaching (London, Clarke, 1906) | have-ocr | IA `reforminsundaysc00peakuoft` |
+| Christianity : its nature and its truth (New York : Crowell, 1908) | have-ocr | IA `christianityitsn0000peak` |
+| The religion of Israel (London : T. C. & E. C. Jack, 1908) | have-ocr | IA `religionofisrael00peak` |
+| A critical introduction to the New Testament (London, Duckworth, 1909) | have-ocr | IA `criticalintroduc0000peak` |
+| Jeremiah and Lamentations, vol. 1: Jeremiah I-XXIV (Century Bible; New York : Henry Frowde, 1910) | have-ocr | IA `jeremiahlamentat241peak` |
+| Jeremiah and Lamentations, vol. 2: Jeremiah XXV-LII and Lamentations (Century Bible; New York : Henry Frowde, 1910) | have-ocr | IA `jeremiahlamentat242peak` |
+| The Bible : its origin, its significance, and its abiding worth (New York ; London : Hodder and Stoughton, 1913) | have-ocr | IA `biblesignificance00peakuoft` |
+| The quintessence of Paulinism : a lecture delivered at the John Rylands library on the 11th of October, 1916 (Manchester : The University Press ; New York : Longmans, Green, 1918) | have-ocr | IA `quintessenceofpa00peak` |
+| Prisoners of hope : the problem of the conscientious objector (London : Allen & Unwin, 1918) | have-ocr | IA `prisonersofhopep00peakiala` |
+| The Revelation of John (London : Joseph Johnson, Primitive Methodist Pub. House, 1919) | have-ocr | IA `therevelationofj00peakuoft` |
+| The nature of Scripture (London : Hodder and Stoughton, 1922) | have-ocr | IA `natureofscriptur00peakuoft` |
+| Brotherhood in the old testament (catalogued 1923) | have-ocr | IA `brotherhoodinold0000arth` |
+| The life of sir william hartley (hodder and stoughton limited london, 1926) | have-ocr | IA `lifeofsirwilliam0000arth` |
+| Recent developments in Old Testament criticism (Manchester : University Press, 1928) | have-ocr | IA `recentdevelopmen00peak` |
+| Paul the apostle : his personality and achievement / by A. S. Peake (Manchester : University Press ; London ; New York : Longmans, Green, 1928) | have-ocr | IA `paulapostlehispe00peak` |
+| A Commentary on the Bible (1919) and The People and the Book (1925), both written by many contributors under his editorship; Inaugural Lectures (Manchester faculty) | excluded | |
+| The Servant of Yahweh (1931) | excluded | |
+
+## B. H. Streeter (round 85, my pick, 2026-10-23)
+
+Slugs `streeter-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| Restatement and reunion : a study in first principles (London : Macmillan and Co., 1914) | have-ocr | IA `cu31924029357666` |
+| War, this war and the sermon on the mount (London, New York [etc.] H. Milford, 1915) | have-ocr | IA `warthiswarsermon00strerich` |
+| Woman and the Church (London, Unwin, [191) | have-ocr | IA `womanchurch00streuoft` |
+| The Sadhu: a study in mysticism and practical religion (London, Macmillan and co., limited, 1921) | have-ocr | IA `sadhustudyinmyst00streuoft` |
+| The four Gospels; a study of origins, treating of the manuscript tradition, sources, authorship, & dates, vol. 1925 (New York, Macmillan Co., 1925) | have-ocr | IA `fourgospelsstudy1925stre` |
+| Reality; a new correlation of science and religion (New York : The Macmillan company, 1926) | have-ocr | IA `realitynewcorrel00stre` |
+| Moral Adventure (The Macmillan Company, 1929) | have-ocr | IA `moraladventure0000burn` |
+| The primitive church (catalogued 1929) | have-ocr | IA `primitivechurch0000burn` |
+| Foundations (1912), Concerning Prayer, Immortality (1917), The Spirit (1919), God and the Struggle for Existence (1919) and Adventure (1927): many-author volumes he edited or contributed to | excluded | |
+| The Buddha and the Christ (1932) and later | excluded | |
+
+## T. K. Cheyne (round 86, my pick, 2026-10-23)
+
+Slugs `cheyne-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| The book of Isaiah chronologically arranged : an amended version with historical and critical introductions and explanatory notes (London : Macmillan, 1870) | have-ocr | IA `bookofisaiahchro00chey` |
+| The Christian point of view in the study of the Bible : a sermon preached in Balliol College Chapel on Trinity Sunday, June 8, 1879 (London : Printed for private circulation by E. Faithful, 1879) | have-ocr | IA `christianpointof00chey` |
+| The prophecies of Isaiah; a new translation with commentary and appendices, vol. 1 (London, Paul, 1880) | have-ocr | IA `propheciesofisai01cheyuoft` |
+| The prophecies of Isaiah; a new translation with commentary and appendices, vol. 2 (London, Paul, 1880) | have-ocr | IA `propheciesofisai02cheyuoft` |
+| Micah, with notes and introduction (Cambridge [Eng.] : University Press, 1882) | have-ocr | IA `micahwithnotesin00chey` |
+| The book of Psalms (London : Kegan Paul, Trench, 1884) | have-ocr | IA `bookofpsalms00chey` |
+| Hosea, with notes and introduction (Cambridge, Univ. Press, 1889) | have-ocr | IA `hoseawithnotesin00cheyuoft` |
+| Job and Solomon; or, The wisdom of the Old Testament (New York, Whittaker, 1889) | have-ocr | IA `jobsolomonorwisd00cheyuoft` |
+| Jeremiah, his life and times (New York, F.H. Revell Co, 1888) | have-ocr | IA `jeremiahhislifet00chey` |
+| The hallowing of criticism: nine sermons on Elijah preached in Rochester Cathedral, with an essay read at the Church Congress, Manchester, October 2nd, 1888 (London, Hodder and Stoughton, 1888) | have-ocr | IA `hallowingofcriti00chey` |
+| The Book of Psalms; or, The praises of Israel (London, Paul, 1888) | have-ocr | IA `bookofpsalmsorpr00cheyuoft` |
+| The origin and religious contents of the Psalter in the light of Old Testament criticism and the history of religions, with an introduction and appendices : eight lectures preached before the University of Oxford in the year 1889 (London : Kegan Paul, Trench, Trübner & Co., 1891) | have-ocr | IA `originreligiousc00chey` |
+| Aids to the devout study of criticism : part I : the David-narratives : part II : the book of Psalms (New York : Thomas Whittaker, 1892) | have-ocr | IA `aidstothedevouts00cheyuoft` |
+| Founders of Old Testament criticism: biographical, descriptive, and critical (London, Methuen, 1893) | have-ocr | IA `foundersoldtest00cheyuoft` |
+| Introduction to the book of Isaiah : with an appendix containing the undoubted portions of the two chief prophetic writers in a translation (London, A. and C. Black, 1895) | have-ocr | IA `introbookisaiah00cheyuoft` |
+| Jewish religious life after the exile (New York : G.P. Putnam's, 1898) | have-ocr | IA `jewishreligiousl0000unse` |
+| The Book of the Prophet Isaiah, a new English translation; printed in colors exhibiting the composite structure of the books, with explanatory notes and pictorial illustrations (New York, Dodd, 1898) | have-ocr | IA `bookofprophetisa00cheyuoft` |
+| The Christian use of the Psalms : with essays on the proper psalms in the Anglican prayer book (London : Isbister and Co., 1899) | have-ocr | IA `christianuseofps0000chey` |
+| Critica biblica : or, Critical notes on the text of the Old Testament writings (London : A. and C. Black, 1904) | have-ocr | IA `cu31924029281306` |
+| The book of Psalms translated from a revised text with notes and introduction in place of a second edition of an earlier work (1888) by the same author, vol. 1 (New York : T. Whittaker, 1904) | have-ocr | IA `bookofpsalmstran01chey` |
+| The book of Psalms translated from a revised text with notes and introduction in place of a second edition of an earlier work (1888) by the same author, vol. 2 (New York : T. Whittaker, 1904) | have-ocr | IA `bookofpsalmstran02chey` |
+| Bible problems and the new material for their solution; a plea for thoroughness of investigation, addressed to churchmen and scholars (New York, G.P. Putmans Sons; London, Williams and Norgate, 1904) | have-ocr | IA `bibleproblemsnew00cheyrich` |
+| Traditions & beliefs of ancient Israel (London : A. and C. Black, 1907) | have-ocr | IA `traditionsbelief00cheyuoft` |
+| The decline and fall of the Kingdom of Judah (London, A. and C. Black, 1908) | have-ocr | IA `declinefallofkin0000unse` |
+| The two religions of Israel; with re-examination of the prophetic narratives and utterances (London, A. and C. Black, 1911) | have-ocr | IA `thetworeligionso00cheyuoft` |
+| The mines of Isaiah re-explored (London : A. & C. Black, 1912) | have-ocr | IA `minesofisaiahree0000chey` |
+| The veil of Hebrew history; a further attempt to lift it (London, A. and C. Black, 1913) | have-ocr | IA `veilofhebrewhist0000chey` |
+| The reconciliation of races and religions (London, A. and C. Black, 1914) | have-ocr | IA `reconciliationof0000chey` |
+| Fresh voyages on unfrequented waters (London : A. and C. Black, 1914) | have-ocr | IA `freshvoyagesonun00cheyrich` |
+| Encyclopaedia Biblica (many contributors) and the Variorum Teacher's Bible (edited); Das religiöse Leben der Juden (German translation by others); his journal articles | excluded | |
+
+## George Hodges (round 86, my pick, 2026-10-23)
+
+Slugs `hodges-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity between Sundays (New York, T. Whittaker, 1892) | have-ocr | IA `christianitybetw00hodg` |
+| The heresy of Cain (New York : Macmillan, 1914) | have-ocr | IA `heresyofcain00hodgrich` |
+| The human nature of the saints (New York : Macmillan, 1914) | have-ocr | IA `humannatureofsai00hodgrich` |
+| When the King came; stories from the four Gospels (Boston, New York : Houghton, Mifflin and company, 1904) | have-ocr | IA `whenkingcamestor00hodg` |
+| Fountains Abbey : the story of a mediaeval monastery (London, J. Murray, 1904) | have-ocr | IA `fountainsabbeyst00hodguoft` |
+| The cross and passion : Good Friday addresses (New York, T. Whittaker, 1904) | have-ocr | IA `crosspassiongoo00hodg` |
+| Three hundred years of the Episcopal Church in America (Philadelphia, For the Missionary Thank Offering Committee by G.W. Jacobs & Co, [190) | have-ocr | IA `threehundredyear00hodg` |
+| The happy family (New York : Thomas Y. Crowell & co. Publishers, 1906) | have-ocr | IA `happyfamily00hodg` |
+| The pursuit of happiness (New York, Doubleday, Page & company, 1906) | have-ocr | IA `pursuitofhappine00hodg` |
+| The administration of an institutional Church : a detailed account of the operation of St. George's Parish in the city of New York (New York ; London : Harper & Brothers, 1906) | have-ocr | IA `administrationof00hodg` |
+| The garden of Eden, stories from the first nine books of the Old Testament (Boston, New York, Houghton Mifflin Company, 1909) | have-ocr | IA `gardenofedenstor00hodg` |
+| Everyman's religion (The Macmillan company, 1911) | have-ocr | IA `everymansreligio0000hodg` |
+| Saints and heroes to the end of the middle ages (New York, H. Holt and company, 1911) | have-ocr | IA `saintsheroestoen00hodg` |
+| The training of children in religion (New York, Appleton, 1911) | have-ocr | IA `trainingofchildr0000hodg` |
+| A child's guide to the Bible (New York : Baker & Taylor, 1911) | have-ocr | IA `childsguidetobib00hodg` |
+| Saints and heroes since the Middle Ages (New York : H. Holt, 1912) | have-ocr | IA `saintsheroessinc00hodg` |
+| The castle of Zion; stories from the Old Testament (Boston and New York : Houghton Mifflin company, 1912) | have-ocr | IA `castleofzionstor00hodg` |
+| Classbook of Old Testament history (New York, The Macmillan company, 1913) | have-ocr | IA `classbookofoldte00hodg` |
+| The year of grace : Trinity to Advent (New York : The Macmillan Company, 1914) | have-ocr | IA `yearofgracetrini00hodg` |
+| The battles of peace (New York, Macmillan, 1914) | have-ocr | IA `battlesofpeace00hodg` |
+| Henry Codman Potter, seventh bishop of New York (New York, Macmillan, 1915) | have-ocr | IA `henrycodmanpotte0000hodg` |
+| The early church from Ignatius to Augustine (Boston and new York, Houghton Mifflin company, 1915) | have-ocr | IA `earlychurchfromi00hodg` |
+| The Episcopal church; its faith and order (New York, The Macmillan company, 1915) | have-ocr | IA `episcopalchurchi00hodg` |
+| Religion in a world at war (New York, Macmillan, 1917) | have-ocr | IA `religioninworlda00hodg` |
+| How to know the Bible (Indianapolis : Bobbs-Merrill, 1918) | have-ocr | IA `howtoknowbible0000hodg` |
+| The Year of Grace, Advent to Trinity: only a 29-image microfiche (MN41849ucmf_0) found; needs a full scan | pending | not shelved |
+| school readers (Golden Door Book, Golden Word Book), William Penn, Holderness, The Apprenticeship of Washington, temperance and philanthropy addresses | excluded | |
+| Organized Labor and Capital, The Religious History of New England, and the Sneath-Hodges school manuals (many authors) | excluded | |
+
+## Charles Bigg (round 86, my pick, 2026-10-23)
+
+Slugs `bigg-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian Platonists of Alexandria : Eight lectures preached before the University of Oxford in the year 1886 on the foundation of the late Rev. John Bampton (Oxford : Clarendon Press, 1886) | have-ocr | IA `christianplatoni00bigg` |
+| Neoplatonism (London : SPCK, 1895) | have-ocr | IA `neoplatonism00bigguoft` |
+| A critical and exegetical commentary on the epistles of St. Peter and St. Jude (New York, C. Scribner's sons, 1901) | have-ocr | IA `criticalexegetic00bigg` |
+| The church's task under the Roman empire; four lectures with preface, notes, and an excursus (Oxford : Clarendon press, 1905) | have-ocr | IA `churchstaskunder00biggrich` |
+| Wayside sketches in ecclesiastical history, nine lectures with notes and preface (London, Longmans, 1906) | have-ocr | IA `waysidesketchesi00bigguoft` |
+| The origins of Christianity (Oxford : Clarendon Press, 1909) | have-ocr | IA `theoriginsofchri00strouoft` |
+| his translations of the Imitation of Christ, Augustine's Confessions and the Didache (those authors' works); his Xenophon school editions | excluded | |
+
+## Stanley Leathes (round 86, my pick, 2026-10-23)
+
+Slugs `leathes-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| The witness of the Old Testament to Christ : being the Boyle lectures for 1868 (London : Rivingtons, 1868) | have-ocr | IA `witnessoldtesta00leatgoog` |
+| The witness of St. Paul to Christ : being the Boyle lectures for 1869 (London : Rivingtons, 1869) | have-ocr | IA `witnessofstpault00leat` |
+| The witness of St. John to Christ : being the Boyle lectures for 1870 : with an appendix on the authorship and integrity of St. John's gospel and the unity of the Johannine writings (London ; Oxford, [etc.] : Rivingtons, 1870) | have-ocr | IA `witnessofstjohnt00leat` |
+| The cities visited by St. Paul (London : Society for promoting Christian knowledge, 1873) | have-ocr | IA `citiesvisitedbys00leat` |
+| The structure of the Old Testament : a series of popular essays (London : Hodder and Stoughton, 1873) | have-ocr | IA `structureofoldte00leat` |
+| The religion of the Christ, its historic and literary development considered as evidence of its origin : the Bampton lectures for 1874 (New York : Pott, Young and Co., 1874) | have-ocr | IA `religionofchrist00leat` |
+| The gospel its own witness : the Hulsean lectures for 1873 (London : H. S. King, 1874) | have-ocr | IA `gospelitsownwit00leat` |
+| The Christian creed : its theory and practice : with a preface on some present dangers of the English church (London : Hodder and Stoughton, 1877) | have-ocr | IA `christiancreedit00leat` |
+| Old Testament prophecy : its witness as a record of divine foreknowledge : the Warburton lectures for 1876-1880 : with notes on the genuineness of the book of Daniel and the prophecy of the seventy weeks (London : Hodder and Stoughton, 1880) | have-ocr | IA `oldtestamentprop00leat` |
+| The foundations of morality : being discourses on the Ten Commandments with special reference to their origin and authority (London : Hodder and Stoughton, 1882) | have-ocr | IA `foundationsofmor00leat` |
+| The law in the prophets (London : Eyre and Spottiswoode, 1891) | have-ocr | IA `lawinprophets00leat` |
+| The claims of the Old Testament; lectures delivered in connection with the sesquicentennial celebration of Princeton university (New York, Charles Scribner's sons, 1897) | have-ocr | IA `claimsofoldtesta00leat` |
+| books by Sir Stanley Mordaunt Leathes (1861-1938), the historian, a different man: Cambridge Modern History, What is Education?, etc. | excluded | |
+| Future Probation (a many-author symposium) | excluded | |
+
+## Frank Ballard (round 86, my pick, 2026-10-23)
+
+Slugs `ballard-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian essentials : a re-statement for the people of to-day (London : Charles H. Kelly, 1900) | have-ocr | IA `christianessenti00ball` |
+| The miracles of unbelief (Edinburgh, T. & T. Clark, 1901) | have-ocr | IA `miraclesofunbeli0000ball` |
+| Straight lines in church finance (New York : Missoinary Society of the Methodist Episcopal Church, 1904) | have-ocr | IA `straightlinesinc00ball` |
+| Haeckel's monism false. An examination of 'The riddle of the universe', 'The wonders of life', 'The confession of faith of a man of science' by Professor Haeckel; together with 'Haeckel's critics answered' by Mr. Joseph McCabe (London, C.H. Kelly, 1905) | have-ocr | IA `haeckelsmonismfa00ball` |
+| Theonomism true : God and the universe in modern light (London : C.H. Kelley, 1906) | have-ocr | IA `theonomismtruego0000ball` |
+| The true God : a modern summary of the relations of theism to naturalism, monism, pluralism, and pantheism (London : Robert Culley, 1907) | have-ocr | IA `truegodmodernsum0000ball` |
+| Does it matter what a man believes? (New York : Eaton, 1908) | have-ocr | IA `doesitmatterwhat0000ball` |
+| Determinism: false and true; a contribution to modern philosophy and ethics (London, C.H. Kelly, 1911) | have-ocr | IA `determinismfalse00ball` |
+| Why does not God intervene? : and other questions (New York ; London : Hodder and Stoughton, 1912) | have-ocr | IA `whydoesnotgodint00balluoft` |
+| Britain justified. The war from the Christian standpoint (London, C.H. Kelly, 1914) | have-ocr | IA `britainjustified0000ball` |
+| The mistakes of pacifism, or, Why a Christian can have anything to do with war (London : Charles H. Kelly, 1915) | have-ocr | IA `mistakesofpacifi00ball` |
+| Christian reality in modern light (London : Charles H. Kelly, 1916) | have-ocr | IA `christianreality0000ball` |
+| Christianity after the war (London, Charles H. Kelly, 1916) | have-ocr | IA `christianityafte0000ball` |
+| The mystery of painlessness : an appeal to facts (New York ; Chicago [etc.] : Fleming H. Revell, 1926) | have-ocr | IA `mysteryofpainles00ball` |
+| whynotrussellism00balliala: an undated offprint (pp. 159-270, no title page or imprint) that cites events of 1913-1915; its printing date cannot be read, so it waits | pending | not shelved |
+| Plain Truths versus German Lies (1915, war propaganda, not theology) | excluded | |
+
+## William Berriman (round 87, my pick, 2026-10-23)
+
+Slugs `berriman-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| An Historical account of the controversies that have been in the church, concerning the doctrine of the holy and everblessed Trinity: in eight sermons preached at the Cathedral-Church of St. Paul, London, in the years 1723, and 1724 (London : T. Ward, 1725) | have-ocr | IA `historicalaccoun00berr` |
+| The Gradual revelation of the gospel, from the time of man's apostacy : set forth and explain'd in twenty four sermons, preached in the Parish Church of St. Mary le Bow, at the lecture founded by the Honourable Robert Boyle, Esq, in the years 1730, 1731, and 1732, vol. 1 (London : Printed for Messieurs Ward and Wicksteed, 1733) | have-ocr | IA `gradualrevelatio01berr` |
+| The Gradual revelation of the gospel, from the time of man's apostacy : set forth and explain'd in twenty four sermons, preached in the Parish Church of St. Mary le Bow, at the lecture founded by the Honourable Robert Boyle, Esq, in the years 1730, 1731, and 1732, vol. 2 (London : Printed for Messieurs Ward and Wicksteed, 1733) | have-ocr | IA `gradualrevelatio02berr` |
+| Christian doctrines and duties explained and recommended; in forty sermons preached in the parish churches of St. Andrew Undershaft, and Allhallows the Great: and divers of them, in Eton College Chapel, and other places. In two volumes. By William Berriman, ...  1751: Vol 1, vol. 1 (catalogued 1751) | have-ocr | IA `bim_eighteenth-century_christian-doctrines-and-_berriman-william_1751_1` |
+| Christian doctrines and duties explained and recommended : in forty sermons preached in the parish churches of St. Andrew Undershaft, and Allhallows the Great ; and divers of them, in Eton College Chapel, and other places, vol. 2 (London : Printed for John Clarke, 1751) | have-ocr | IA `christiandoctrin02berr` |
+| The relative duties of the clergy and people. A sermon preached in the Parish Church of St. Andrew Undershaft, April 29, 1722. ... By William Berriman, ...  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-relative-duties-of-t_berriman-william_1722` |
+| The great blessing of redemption from captivity. A sermon preached at the cathedral church of St. Paul, December 4, 1721. Before the captives redeem'd by the late treaty with the Emperor of Morocco. By William Berriman, ...  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-great-blessing-of-re_berriman-william_1722` |
+| The authority of the civil powers in matters of religion asserted and vindicated. A sermon preached before the ... Lord Mayor, the Court of Aldermen, ... in the parish church of St. Lawrence Jewry, on Saturday, Sept, 29, 1722. ... By William Berriman, ...  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-authority-of-the-civ_berriman-william_1722` |
+| The brutishness of despising religion, and the treatment due to it. A sermon preach'd before the University of Oxford, at St. Mary's, on Act-Sunday, July 8th 1722. By William Berriman, ...  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-brutishness-of-despi_berriman-william_1722` |
+| The excellency and reward of charity. A sermon preach'd in the parish-church of St. Sepulchre, May the 20th, 1725. ... By William Berriman, ...  1725 (catalogued 1725) | have-ocr | IA `bim_eighteenth-century_the-excellency-and-rewar_berriman-william_1725` |
+| The obligation and proportion of charity. A sermon preach'd before the ... governors of the several hospitals of the City of London ... on ... April 1, 1730 (London : Ward & Wickstead, 1730) | have-ocr | IA `b31899444` |
+| The tithing of the third year. A sermon preached before the sons of the clergy. At the Cathedral Church of St. Paul, on Thursday April 21. 1737. By William Berriman, ...  1737 (catalogued 1737) | have-ocr | IA `bim_eighteenth-century_the-tithing-of-the-third_berriman-william_1737` |
+| A sermon preach'd to the religious societies in and about London, at their quarterly meeting, in the parish church of St. Mary le Bow, on Wednesday, March the 21st, 1738-9. ... By William Berriman, ...  1739 (catalogued 1739) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-to-the_berriman-william_1739` |
+| Youth the proper season of discipline. A sermon preach'd before the Society corresponding with the Incorporated Society in Dublin, for promoting English Protestant Working-Schools in Ireland, at their anniversary meeting in the parish-church of St. M (catalogued 1742) | have-ocr | IA `bim_eighteenth-century_youth-the-proper-season-_berriman-william_1742` |
+| bim_eighteenth-century_a-second-review-of-mr-w_berriman-william_1719: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| bim_eighteenth-century_a-defence-of-some-passag_berriman-william_1731: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| bim_eighteenth-century_a-review-of-the-remarks-_berriman-william_1733: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| bim_eighteenth-century_some-brief-remarks-on-mr_berriman-william_1733: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| bim_eighteenth-century_family-religion-recommen_berriman-william_1735: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| bim_eighteenth-century_human-learning-recommend_berriman-william_1727: Internet Archive's text file returned HTTP 500 (2026-10-23); retry later | pending | not shelved |
+| Concio ad clerum (1742), Latin | excluded | |
+
+## Peter Gandolphy (round 87, my pick, 2026-10-23)
+
+Slugs `gandolphy-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| A defence of the ancient faith ; or, Five sermons in proof of the Christian religion (London : Keating, 1811) | have-ocr | IA `a582811700ganduoft` |
+| A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons Volume 1 (London : Keating, Brown, and Keating, 1813) | have-ocr | IA `a582814101ganduoft` |
+| A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons Volume 2 (London : Keating, Brown, and Keating, 1813) | have-ocr | IA `a582814102ganduoft` |
+| A defence of the ancient faith : in four volumes, or a full exposition of the christian sermons Volume 3 (London : Keating, Brown and Keating, 1813) | have-ocr | IA `ancientfaith03ganduoft` |
+| A defence of the ancient faith, in four volumes : or, A full exposition of the Christian religion ; in a series of controversial sermons, vol. 4 (London : Keating, Brown, and Keating, 1813) | have-ocr | IA `ra582814104ganduoft` |
+| A congratulatory letter to the Rev. Herbert Marsh, D.D.F.R.S., Margaret Professor of Divinity in Cambridge, on his judicious Inquiry into the consequences of neglecting to give the Prayer-book with the Bible (<London? : s.n.>, 1812) | have-ocr | IA `congratulatoryle00ganduoft` |
+| A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome (<London? : s.n.>, 1813) | have-ocr | IA `secondlettertore00ganduoft` |
+| his Liturgy (1812), a translation of Catholic service books | excluded | |
+| Correspondence on the Roman Catholic Bible Society (many hands) | excluded | |
+
+## Edward Nares (round 87, my pick, 2026-10-23)
+
+Slugs `nares-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, on the sixth commandment, "Thou shal't do no murder." By the Rev. Edward Nares, ...  1799 (catalogued 1799) | have-ocr | IA `bim_eighteenth-century_a-sermon-on-the-sixth-c_nares-edward_1799` |
+| Sermons composed for country congregations (London : Printed for F. and C. Rivington, 1803) | have-ocr | IA `sermonscomposedf00nare` |
+| A view of the evidences of Christianity at the close of the pretended Age of Reason : in eight sermons preached before the University of Oxford, at St. Mary's, in the year MDCCCV (Oxford : University Press, 1805) | have-ocr | IA `viewofevidenceso00nare` |
+| Remarks on the version of the New Testament : with the title of "An improved version upon the basis of Archbishop Newcome's new translation, with a corrected text, and notes critical and explanatory. London, 1808" (London : T. Cadell and W. Davies, 1814) | have-ocr | IA `remarksonversion00nare` |
+| Discourses on the three creeds : and on the homage offered to our saviour, on certain and particular occasions during his ministry, as expressed in the evangelical writings, by the Greek term BROSKYNEŌ (London : Printed for Baldwin, Cradock and Joy, 1819) | have-ocr | IA `discoursesonthre00nare` |
+| Man, as known to us theologically and geologically (London, Printed for J. G. & F. Rivington, 1834) | have-ocr | IA `manasknowntousth00nare` |
+| his novels (Thinks-I-to-Myself, I Says Says I), Heraldic Anomalies, the Memoirs of Lord Burghley, and his edition of Tytler's Elements of General History | excluded | |
+
+## William Derham (round 87, my pick, 2026-10-23)
+
+Slugs `derham-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| Physico-theology : or, a demonstration of the being and attributes of God, from his works of creation : being the substance of sixteen sermons preached in St. Mary-le-Bow-Church, London, at the honourable Mr. Boyle's lectures in the years 1711, and 1712 (London : Printed for W. and J. Innys, 1720) | have-ocr | IA `physicotheologyo00derh` |
+| Astro-theology : or a demonstration of the being and attributes of God, from a survey of the heavens (London : Printed for W. and J. Innys, 1721) | have-ocr | IA `astrotheologyord00derh` |
+| The Artificial Clock-maker, his Philosophical Transactions papers, and his editions of John Ray and Robert Hooke | excluded | |
+
+## George W. Burnap (round 87, my pick, 2026-10-23)
+
+Slugs `burnap-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| Sectarianism both Catholic and Protestant : a lecture (Baltimore : W.R. Lucas & J.N. Wight, 1835) | have-ocr | IA `sectarianismbot00burngoog` |
+| Lectures on the history of Christianity (Baltimore, Cushing & brother [etc.], 1842) | have-ocr | IA `lecturesonhisto00burngoog` |
+| Expository lectures on the principal passages of the Scriptures which relate to the doctrine of the Trinity (Boston, J. Munroe and company, 1845) | have-ocr | IA `expositorylectur00burn` |
+| The sphere and duties of woman : a course of lectures (Baltimore, Md. : J. Murphy ; Pittsburg, Pa. : G. Quigley, 1848) | have-ocr | IA `spheredutiesofwo00burn` |
+| Lectures on the doctrines of Christianity, in controversy between Unitarians and other denominations of Christians (Boston and Cambridge, J. Munroe and company, 1848) | have-ocr | IA `lecturesondoctr00burngoog` |
+| Discourse on the rectitude of human nature (Boston, W. Crosby and H. P. Nichols, 1850) | have-ocr | IA `discourseonrect00burngoog` |
+| The old and the new : or, Discourses and proceedings at the dedication of the re-modelled Unitarian church in Charleston, S.C., on Sunday, April 2, 1954. Preceded by the farewell discourse delivered in the old church, on Sunday, April 4, 1852. <With engravings of the former and present edifices.> (Charleston, S.G. Courtenay, 1854) | have-ocr | IA `oldandnewordisc00burngoog` |
+| Christianity, its essence and evidence: or, An analsys of the New Testament into historical facts, doctrines, opinions, and phraseology (Boston, Crosby, Nicols, and company, 1855) | have-ocr | IA `christianityitse00burn` |
+| The Professions (oration), Origin and Causes of Democracy in America, Memoir of Henry A. Ingalls | excluded | |
+
+## Andrew Leete Stone (round 87, my pick, 2026-10-23)
+
+Slugs `alstone-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached in Park street church, on the Sunday succeeding the death of Daniel Webster (Boston, Ticknor, Reed, and Fields, 1853) | have-ocr | IA `sermonpreachedin00ston` |
+| The war and the patriot's duty (Boston, H. Hoyt, 1861) | have-ocr | IA `warpatriotsduty00ston` |
+| Praise for victory. A sermon, preached in Park Street Church, Boston, February 23, 1862. by A.L. Stone (Press of T.R. Marvin, 1862) | have-ocr | IA `praiseforvictory00ston` |
+| Emancipation. A discourse delivered in Park street church on fast day morning, April 3, 1862 (Boston, Henry Hoyt, 1862) | have-ocr | IA `emancipationdisc00ston` |
+| National Godliness : a sermon, preached in Park Street Church : on occasion of the annual state fast, April 7, 1864, vol. 1 (Boston : T.R. Marvin, 1864) | have-ocr | IA `nationalgodlines01ston` |
+| A discourse occasioned by the death of Abraham Lincoln : who was assassinated in Washington, Friday, April 14th, 1865. Preached in the Park Street Church, Boston, on the next Lord's day (Boston : Printed for J.K. Wiggin, 1865) | have-ocr | IA `discourseoccasio00ston` |
+| The work of New England in the future of our country (Boston, W. V. Spencer, 1865) | have-ocr | IA `workofnewengland00ston` |
+| Memorial discourses (Boston : H. Hoyt, 1866) | have-ocr | IA `memorialdiscours00ston` |
+| Plea for the monthly concert : a sermon / by Rev. A.L. Stone. -- ([s.l. : s.n.], 1870) | have-ocr | IA `pleaformonthlyco00ston` |
+| Leaves from a finished pastorate (New York : A.D.F. Randolph ; San Francisco : Samuel Carson, 1882) | have-ocr | IA `leavesfromfinish0000ston` |
+| his 1854 Fourth of July oration to the city of Boston | excluded | |
+
+## Samuel Stennett (round 88, my pick, 2026-10-23)
+
+Slugs `stennett-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on personal religion. In two volumes. By Samuel Stennett, D.D. ...  1769: Vol 1, vol. 1 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_discourses-on-personal-r_stennett-samuel_1769_1` |
+| Discourses on personal religion, vol. 2 (1801 edition; the 1769 scan of vol. 2 has unreadable OCR) | have-ocr | IA `discoursesonper00stengoog` |
+| Discourses on domestick duties (London : [s.n.], 1783) | have-ocr | IA `discoursesondome00steniala` |
+| Discourses on the parable of the sower (Bridgeton, N.J. : J. Davis & J. Bright, 1823) | have-ocr | IA `discoursesonpara00sten` |
+| Remarks on the Christian minister's reasons for administring baptism by sprinkling or pouring of water : in a series of letters to a friend (London : Printed for George Keith, 1772) | have-ocr | IA `remarksonchristi00sten` |
+| An answer to the Christian minister's Reasons for baptizing infants : in a series of letters to a friend (London : Printed for G. Buckland, 1775) | have-ocr | IA `answertochristia00sten` |
+| A sermon occasioned by the death of His most sacred Majesty King George the Second. Preached in Little Wild-Street, Nov. 2d. 1760.... By Samuel Stennett.  1760 (catalogued 1760) | have-ocr | IA `bim_eighteenth-century_a-sermon-occasioned-by-t_stennett-samuel_1760` |
+| The various use of authority and experience in matters of religion. A sermon preached ... 13 June 1764. By Samuel Stennett, ...  1764 (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_the-various-use-of-autho_stennett-samuel_1764` |
+| The indispensable importance of real religion. A sermon preached at Shakespear's-Walk March 31, 1766. For the benefit of the charity-school in that place. By Samuel Stennett, ...  1766 (catalogued 1766) | have-ocr | IA `bim_eighteenth-century_the-indispensable-import_stennett-samuel_1766` |
+| The folly and danger of conforming to the world. A sermon preached at a monthly exercise at the Rev. Mr. Reynolds's Meeting-Place, near Cripplegate, March 21, 1771. By Samuel Stennett, D.D.  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_the-folly-and-danger-of-_stennett-samuel_1771` |
+| The victorious Christian receiving the crown. A sermon occasioned by the death of the Rev. Dr. John Gill, who departed this life, October 14, ... Preached October 27, by Samuel Stennett, D.D. Together with the address at the interment by Benjamin Wallin, AM. ...  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_the-victorious-christian_stennett-samuel_1771` |
+| A free and dispassionate account of the late application of the Protestant dissenting ministers to Parliament. In a letter to a friend. By Samuel Stennett, D.D.  1772 (catalogued 1772) | have-ocr | IA `bim_eighteenth-century_a-free-and-dispassionate_stennett-samuel_1772` |
+| National calamities the effect of divine displeasure. A sermon, preached in Little Wild-Street, near Lincoln's-Inn-Fields, on occasion of the general fast, February 21, 1781. By Samuel Stennett, D.D.  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_national-calamities-the-_stennett-samuel_1781` |
+| A sermon in commemoration of the great storm of wind, Nov. 27, 1703; and of the more dreadful storm which threatened the destruction of British freedom, at the eve of the Revolution: preached... Nov.27, 1788. By Samuel Stennett, D.D. To which is annexed a poem to the memory of King William III. First published in 1702.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_a-sermon-in-commemoratio_stennett-samuel_1788` |
+| A sermon occasioned by the decease of John Howard, Esq. : preached in Little Wild-Street, near Lincoln's-Inn-Fields, March 21, 1790 (London : Printed for T. Cadell [etc.], 1790) | have-ocr | IA `sermed00sten` |
+| The mortality of ministers contrasted with the unchangeableness of Christ: in a sermon, occasioned by the decease of the Rev. Caleb Evans, D.D. who departed this life Aug. 9, 1791, ... preached at Broad-Mead, Bristol, ... by Samuel Stennett, D.D. To which is added the address delivered at the interment, by the Rev. John Tommas. ...  1791 (catalogued 1791) | have-ocr | IA `bim_eighteenth-century_the-mortality-of-ministe_stennett-samuel_1791` |
+| bim_eighteenth-century_a-sermon-occasioned-by-t_stennett-samuel_1768: the scan's readable text is William Clarke's address at Burford's interment (second edition); Stennett's sermon cannot be confirmed from the OCR | pending | not shelved |
+| bim_eighteenth-century_the-christian-aspiring-t_stennett-samuel_1773: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| bim_eighteenth-century_the-faithful-minister-re_stennett-samuel_1782: OCR of the title page breaks off at 'By SAMUEL'; the pamphlet also carries Abraham Booth's address; needs a page-image check | pending | not shelved |
+| The Works of Samuel Stennett (1824), which reprints the same discourses | excluded | |
+| Memoirs of William Ward (1825), by his nephew Samuel Stennett (1772-?), a different man | excluded | |
+
+## Joseph John Gurney (round 88, my pick, 2026-10-23)
+
+Slugs `gurney-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Observations on the religious peculiarities of the Society of Friends (Philadelphia, S. Potter & co. [etc.], 1825) | have-ocr | IA `observationsonre00gurn` |
+| Essays on the evidences, doctrines, and practical operation, of Christianity (London : R.B. Seeley and W. Burnside, 1831) | have-ocr | IA `essaysonevidence00gurn` |
+| Brief remarks on the history, authority, and use of the Sabbath (Andover : Flagg, Gould and Newman, 1833) | have-ocr | IA `briefremarksonhi0000gurn` |
+| Biblical notes and dissertations chiefly intended to confirm and illustrate the doctrine of the Deity of Christ; with some remarks on the practical importance of that doctrine (London, Rivington, 1833) | have-ocr | IA `biblicalnotesdis00gurnuoft` |
+| Reminiscences of Chalmers, Simeon, Wilberforce, &c ([S.l. : s.n., 1833) | have-ocr | IA `reminiscencesofc00gurn` |
+| Sabbatical verses (London : J. and A. Arch, 1837) | have-ocr | IA `sabbaticalverses00gurn` |
+| Sermons and prayers, delivered in the city of Philadelphia. Taken in short-hand (Philadelphia, Kay & Brother, 1838) | have-ocr | IA `sermonsprayersde00gurn` |
+| The minor works of Joseph John Gurney, vol. 1 (London : Harvey & Darton, 1839) | have-ocr | IA `minorworksofjose01gurn` |
+| The minor works of Joseph John Gurney, vol. 2 (London : Harvey & Darton, 1839) | have-ocr | IA `minorworksofjose02gurn` |
+| The practical importance of faith in the deity of Christ, vol. no.747 (London : The Religious Tract Society; sold at the depository, 56, Paternoster Row, and 65, St. Paul's Churchyard, 1839) | have-ocr | IA `practicalimporta747gurn` |
+| Four lectures on the evidences of Christianity ([n. p.], 1857) | have-ocr | IA `fourlecturesonev00gurn` |
+| Thoughts on habit and discipline (Philadelphia : H. Longstreth, 1871) | have-ocr | IA `thoughtsonhabitd00gurn` |
+| papalhierarchica00gurn: the OCR never shows the author's name (title page garbled); needs a page-image check | pending | not shelved |
+| A Winter in the West Indies (travel letters to Henry Clay), the prison notes written with Elizabeth Fry, his anti-slavery speech and his Irish report; Braithwaite's Memoirs of Gurney (by another author) | excluded | |
+
+## James Meikle (round 88, my pick, 2026-10-23)
+
+Slugs `meikle-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Metaphysical maxims: or, thoughts on the nature of the soul, free will, and the divine prescience. By James Meikle, ...  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_metaphysical-maxims-or-_meikle-james_1797` |
+| The miscellaneous works of Mr. James Meikle, late surgeon in Carnwath (Edinburgh, Ogle & Aikman; London, R. Ogle; [etc., etc.], 1807) | have-ocr | IA `miscellaneouswor00meik` |
+| Solitude sweetened : or miscellaneous mediatations on various religious subjects written in distant parts of the world (New York : Printed for S. Dodge by Geo. Forman, 1811) | have-ocr | IA `solitudesweetene00meik` |
+| The traveller; or, Meditations on various subjects. Written on board a man of war. To which is added, Converse with the world unseen (Albany, E.Torrey and W.Seaver; E. & E. Hosford, printers, 1812) | have-ocr | IA `travellerormedit00meik` |
+| The select remains of Mr. James Meikle, late surgeon in Carnwath, or, Extracts from manuscripts found among his papers (Pittsburgh : R. Patterson & Lambdin, 1818) | have-ocr | IA `selectremainsofm00meik` |
+| The Nature of the Mediatorial Dispensation (1853), by Rev. James Meikle of Beith, a different man | excluded | |
+
+## F. X. Weninger (round 88, my pick, 2026-10-23)
+
+Slugs `weninger-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| A manual of the Catholic religion for catechists, teachers and self-instruction ([n.p.], 1861) | have-ocr | IA `manualofcatholic00weni` |
+| Catholicity, protestantism and infidelity. An appeal to candid Americans (N.Y., O'Shea, 1861) | have-ocr | IA `catholicityprote00weniuoft` |
+| Easter in heaven (New York : D. and J. Sadler, 1863) | have-ocr | IA `easterinheav00weniuoft` |
+| On the apostolical and infallible authority of the Pope : when teaching the faithful, and on his relation to a general council (New York : D.& J. Sadlier ; Cincinnati, OH : J.P. Walsh, 1868) | have-ocr | IA `apostolicalautho00weniuoft` |
+| Photographic views : or, Religious and moral truths reflected in the universe (New York : P. O'Shea, 1873) | have-ocr | IA `photographicview00weniuoft` |
+| The pharisees and persecutors of the Church in our days : a sermon preached on Easter Sunday, 1875 / by F.X. Weninger (P. O'Shea, 1875) | have-ocr | IA `phariseespersecu00weni` |
+| Lives of the Saints,with a Practical Instruction on the Life of each Saints, for every  day in the year, vol. 1 (P. O'Shea, New York, 1877) | have-ocr | IA `livesofsaintswit0001revf` |
+| Lives of the saints, with a practical instruction on the life of each saint, for every day in year, vol. 2 (New York, P. O'Shea, 1877) | have-ocr | IA `livesofsaintswit02weni` |
+| Reply to Hon. R.W. Thompson, Secretary of the Navy, addressed to the American people (New York : P. O'Shea, 1877) | have-ocr | IA `ReplyToHonRWThompson` |
+| Original, short and practical sermons for every Sunday of the ecclesiastical year (Cincinnati : C. J. H. Lowen, 1881) | have-ocr | IA `originalshortand00weniuoft` |
+| Original, short and practical conferences : containing thirty-six conferences ... intended as a three year's course (Cincinnati, OH : [s.n, 1883) | have-ocr | IA `originalconferen00weniuoft` |
+| his German and French books (Ostern im Himmel, Die Unfehlbarkeit des Papstes, Der Monat Maria, Fest-Predigten, catechisms, Catholicisme protestantisme et infidélité) | excluded | |
+
+## Robert Stuart MacArthur (round 88, my pick, 2026-10-23)
+
+Slugs `macarthur-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| The calvary pulpit : Christ and Him crucified (New York : Funk & Wagnalls, 1890) | have-ocr | IA `calvarypulpitchr00maca` |
+| The attractive Christ : and other sermons (Philadelphia : American Baptist publication society, 1898) | have-ocr | IA `attractivechrist00maca` |
+| Current questions for thinking men (Philadelphia : American Baptist Publication Society, 1898) | have-ocr | IA `currentquestions00maca` |
+| Bible difficulties and their alleviative interpretation ... Old Testament (New York : E.B. Treat, 1899) | have-ocr | IA `bibledifficultie00maca` |
+| The celestial lamp, and other sermons (Philadelphia: American Publication Society, 1899) | have-ocr | IA `celestiallampoth00maca` |
+| Sunday night lectures on "the Land and the Book," (Philadelphia, A. J. Rowland, 1900) | have-ocr | IA `sundaynightlectu00maca` |
+| The old book and the old faith : reviewed in a series of lectures (New York : E.B. Treat, 1900) | have-ocr | IA `cihm_37838` |
+| The question of the centuries. Some sermons on personal relationship of the disciple of the kingdom of heaven (Cleveland, O., F.M. Barton, 1905) | have-ocr | IA `questionofcentur00maca` |
+| Quick truths in quaint texts. 2d series (Philadelphia, New York [etc.] American Baptist publication society, 1907) | have-ocr | IA `quicktruthsinqua00maca` |
+| Advent (Philadelphia, New York [etc.] American Baptist publication society, 1908) | have-ocr | IA `advent00maca` |
+| The Christic reign, and other sermons (Philadelphia, New York [etc.] American Baptist publication society, 1908) | have-ocr | IA `christicreignoth00maca` |
+| Royal messages of cheer and comfort beautifully told (New York, E. B. Treat and Company, 1909) | have-ocr | IA `royalmessagesofc00maca` |
+| Abraham Lincoln, his mystery, making and mastery : sermon preached in Calvary Baptist Church, New York, Sunday morning, February 14, 1909, in memory of the centennary anniversary of Abraham Lincoln's birth ([New York?] : [s.n.], 1909) | have-ocr | IA `abrahamlincolnhi00maca` |
+| A foundation builder; sketches in the life of Rev. James B. Simmons, D. D (New York : F. H. Revell, 1911) | have-ocr | IA `foundationbuilde00maca` |
+| The Baptists : their principle, their progress, their prospect (Philadelphia : American Baptist Pub. Society, c191) | have-ocr | IA `baptiststheirpri00macarich` |
+| hymnals and orders of worship he compiled (In Excelsis, Calvary Hymnal, The People's Worship and Psalter) | excluded | |
+| Around the World due West to the Far East (travel) | excluded | |
+
+## Alexander McKenzie (round 88, my pick, 2026-10-23)
+
+Slugs `mckenzie-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the history of the First church in Cambridge (Boston : Congregational Publishing Society, 1873) | have-ocr | IA `lecturesonhist00mcke` |
+| The one lawgiver. A sermon delivered before the executive and legislative departments of the government of Massachusetts, at the annual election, Wednesday, Jan. 1, 1879 (Boston, Rand, Avery & co., printers, 1879) | have-ocr | IA `onelawgiveraser00mckegoog` |
+| Other sheep I have : a sermon / preached in the Shepherd Memorial Church, Cambridge, October 15, 1882 by Alexander McKenzie (Cambridge, Mass. : s.n., 1882) | have-ocr | IA `othersheepihaves00mcke` |
+| Cambridge sermons (Boston : D. Lothrop, 1883) | have-ocr | IA `cambridgesermons00mcke` |
+| Christ himself (Boston : D. Lothrop Company, 1891) | have-ocr | IA `christhimself00mcke` |
+| A door opened (Boston : Houghton, 1898) | have-ocr | IA `dooropened00mcke` |
+| The divine force in the life of the world (New York, London, Lamson, Wolffe and company, 1898) | have-ocr | IA `divineforceinlif00mcke` |
+| Now (Boston : L.C. Page & Co., 1900) | have-ocr | IA `now00mcke` |
+| Getting One's Bearings, etc. [Essays.] (New York : Fleming H. Revell Co, 1903) | have-ocr | IA `gettingonesbeari0000mcke` |
+| Address on some Cambridge men I have known ([Cambridge, The Society, 1908) | have-ocr | IA `addressonsomecam00mcke` |
+| Some Things Abroad (travel); Sunday-school lesson notes; books by other Alexander McKenzies (A Stage Baby, The Physiology of the Senses) | excluded | |
+
+## Joseph Wild (round 89, my pick, 2026-10-23)
+
+Slugs `wild-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The lost ten tribes (New York, J. Huggins, 1879) | have-ocr | IA `losttentribes00wild` |
+| Seven sermons delivered by Rev. Joseph Wild, D.D., in Bond Street Congregational Church, Toronto, Ont ([Toronto? : s.n.], 1881) | have-ocr | IA `sevensermonsdeli00wilduoft` |
+| Parnell and the prophetic destiny of Ireland, sermon ([Toronto, s.n.], 1881) | have-ocr | IA `parnellprophetic00wild` |
+| Whence came the negro race? A sermon ([Toronto, s.n.], 1881) | have-ocr | IA `whencecamenegror00wild` |
+| The Conservative convention and the future destiny of Canada : a sermon and answers to letters ([Toronto? : s.n.], 1881) | have-ocr | IA `cihm_91696` |
+| Talks for the times (Toronto : Selby, 1886) | have-ocr | IA `talksfortimes0000wild` |
+| How and when the world will end (Toronto : G. Virtue, 1886) | have-ocr | IA `cihm_25770` |
+| The Bond Street pulpit : being a series of discourses (Toronto : Yeigh, Office of the "Canadian Advance", 1888) | have-ocr | IA `cihm_25767` |
+| The origin and secrets of freemasonry : being a lecture delivered by the Rev. Joseph Wild, D.D., chaplain Doric Lodge, A.F. & A. M., Toronto, in Toronto, Ont., on February 22nd, 1889 (Toronto : Yeigh, 1889) | have-ocr | IA `cihm_34511` |
+| Canada and the Jesuits : being a series of six sermons (Toronto : Published at the office of the "Canadian Advance", [188) | have-ocr | IA `canadajesuitsbei00wilduoft` |
+| Dr. Wild's Sunday evening sermons (Toronto : Rose, 1891) | have-ocr | IA `cihm_25769` |
+
+## Elijah Parish (round 89, my pick, 2026-10-23)
+
+Slugs `parish-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| Ruin or separation from Anti-Christ. A sermon preached at Byfield, April 7, 1808, on the annual fast in the commonwealth of Massachusetts (Newburyport [Mass.] E.W. & W.B. Allen, 1808) | have-ocr | IA `ruinorseparation00pari` |
+| A sermon, preached at Boston : before His Excellency Christopher Gore, governor, His Honor David Cobb, Lieut. Governor, the Council and legislature, upon the annual election, May 30, 1810 (Boston : Printed by subscription, 1810) | have-ocr | IA `cu31924104014737` |
+| A protest against the war : a discourse delivered at Byfield, fast day, July 23, 1812 (Newburyport [Mass.] : From the press of E.W. Allen, 1812) | have-ocr | IA `cihm_49660` |
+| A discourse, delivered at Byfield, state of Massachusetts, on the annual fast, April 8, 1813 ([Halifax, N.S.?] : Anthony H. Holland, printer, 1813) | have-ocr | IA `cihm_92044` |
+| A sermon preached at Boston, November 3, 1814, before the Society for Propagating the Gospel among the Indians and Others in North America (Boston : Printed by Nathaniel Willis ... for S.T. Armstrong ..., 1814) | have-ocr | IA `cihm_39962` |
+| A discourse, delivered at Bayfield, on the public fast, April 7, 1814 (Newburyport : Published by William B. Allen, 1814) | have-ocr | IA `discoursedeliver00pariuoft` |
+| Sacred geography, or, A gazetteer of the Bible : containing, in alphabetical order, a geographical description of all the countries, kingdoms, nations and tribes of men, with all the villages, towns, cities, provinces, hills mountains, rivers, lakes, seas, and islands, mentioned in the Sacred Scriptures, or Apocrypha, including an account of the religion, government, population, fulfilment of prophecies, and present condition of the most important places (Boston : Samuel T. Armstrong, 1813) | have-ocr | IA `sacredgeographyo00pari` |
+| Sermons practical and doctrinal (Boston : Crocker & Brewster, 1826) | have-ocr | IA `sermonspractical00pari` |
+| bim_eighteenth-century_the-excellence-of-the-go_parish-elijah_1798: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| the geography and New England history written with Jedidiah Morse, his 1799 Fourth of July oration, the Hubbard eulogy, and the Wheelock memoirs written with David McClure | excluded | |
+
+## Christopher Sutton (round 89, my pick, 2026-10-23)
+
+Slugs `sutton-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| Disce mori = Learn to die (Oxford : J.H. Parker, 1839) | have-ocr | IA `a609311800suttuoft` |
+| Disce vivere = Learn to live (Oxford : John Henry Parker, 1841) | have-ocr | IA `a678713100suttuoft` |
+| Godly meditations upon the most holy Sacrament of the Lord's Supper (New York : D. Appleton, 1841) | have-ocr | IA `a678703000suttuoft` |
+| the 1600-1662 printings on Internet Archive (Early English Books): the same three works; left for the EEBO first-editions work | excluded | |
+
+## James Dana (round 89, my pick, 2026-10-23)
+
+Slugs `jdana-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The "Examination of the late Rev'd President Edwards's Enquiry on freedom of will," continued. Sec. I. On self-determination. II. On the influence of motives in moral volitions. III. On necessity. IV. On the origin of evil. V. On the connection between the nature and cause of volition. Sec. VI. Moral evil not best for the world. VII. On fore-knowledge. VIII. On texts of scripture misconstrued. IX. Objections considered. X. On metaphysical reasoning. XI. Recapitulation. To which are subjoined, strictures on the Rev'd Mr. West's "Essay on moral agency," &c. By James Dana, D.D. Pastor of the First Church in Wallingford. [Four lines of quotations] (New-Haven : Printed by Thomas and Samuel Green, 1773) | have-ocr | IA `examinationoflat00dana_0` |
+| Two discourses, I. On the commencement of a New Year: II. On the completion of the eighteenth century; delivered ([n.p.], 1801) | have-ocr | IA `twodiscoursesion00dana` |
+| A sermon on the much lamented death of Mr. Ebenezer Grant Marsh, vol. c.1 (Hartford: Printed by Hudson & Goodwin, 1803) | have-ocr | IA `sermononmuchlame01dana` |
+| Sermons to young people : preached A.D. 1803,1804 ... to which are added Prayers for young families (New Haven : From Sydney's Press, 1806) | have-ocr | IA `sermonstoyoungpe00dana` |
+| examinationoflat00dana: the 1770 Examination was printed without the author's name and its OCR never names Dana; attribution needs a cited source | pending | not shelved |
+| ASPC0005247700: OCR too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+
+## Daniel Dana (round 89, my pick, 2026-10-23)
+
+Slugs `ddana-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The deity of Christ. A sermon delivered July 31, 1810, before the Haverhill association; and published at their request (Newburyport, Printed by W. & J. Gilman, booksellers and stationers, no. 2, Middle-street, 1819) | have-ocr | IA `deityofchristser00dana` |
+| Evangelical preaching is rational preaching, vol. c.1 (Concord, N.H., Printed by Isaac Hill, 1826) | have-ocr | IA `evangelicalpreac01dana` |
+| Objections against the gospel refuted : a sermon preached March 4, 1829, at the installation of the Rev. John Brown, D.D. as pastor of Pine Street Church, Boston (Boston : T.R. Marvin, Printer, 1829) | have-ocr | IA `objectionsagains00dana` |
+| A sermon delivered at the annual election on Wednesday, January 4, 1837, before His Excellency Edward Everett, governor, His Honor George Hull, lieutenant governor, the honorable Council, and the legislature of Massachusetts (Boston, Dutton and Wentworth, Printers to the State, 1837) | have-ocr | IA `sermondelivereda00dana` |
+| Letters to the Rev. Professor Stuart : comprising remarks on his essay on sin, published in the American biblical repository for April and July, 1839 (Boston : Printed by Crocker & Brewster, 1839) | have-ocr | IA `letterstorevprof01dana` |
+| The New song : a sermon, delivered in Bowdoin-Street Church, Boston (Boston : Crocker and Brewster, 1849) | have-ocr | IA `newmondel00dana` |
+| Baptology (1860), by Daniel Dana Jr.; his Washington discourse (bound in a many-author volume); collections that only include a sermon of his | excluded | |
+
+## Samuel T. Spear (round 89, my pick, 2026-10-23)
+
+Slugs `spear-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The nation's blessing in trial: a sermon preached in the South Presbyterian church of Brooklyn (Brooklyn, W.W. Rose, printer, 1862) | have-ocr | IA `nationsblessingi00spea` |
+| Radicalism and the national crisis : a sermon preached in the South Presbyterian Church of Brooklyn, October 19th, 1862 (Brooklyn : W.W. Rose, 1862) | have-ocr | IA `radicalismnation00spea` |
+| The duty of the hour (New York : A.D.F. Randolph, 1863) | have-ocr | IA `dutyofhour00speaiala` |
+| Our country and its cause : a discourse preached October 2d, 1864 in the South Presbyterian Church, of Brooklyn (Brooklyn : "The Union" Steam Presses, 1864) | have-ocr | IA `ourcountryitscau00spea` |
+| The punishment of treason : a discourse preached April 23d, 1865, in the South Presbyterian Church of Brooklyn (Brooklyn, [N.Y.] : "The Union" Steam Presses, 1865) | have-ocr | IA `punishmentoftrea4948spea` |
+| In memoriam. Mrs Mariamne Fitch Stranahan (New York, Printed by C. A. Alvord, 1867) | have-ocr | IA `inmemoriammrsmar00spea` |
+| Religion and the state; or, The Bible and the public schools (New York, Dodd, Mead & company, 1876) | have-ocr | IA `religionandstat01speagoog` |
+| Meditations on the Bible heaven (New York : Funk, 1886) | have-ocr | IA `meditationsonbib00spea` |
+| lawabidingconsci00spea: Internet Archive's text file returned HTTP 500 (2026-10-23); retry later | pending | not shelved |
+| his law treatises (The Legal-Tender Acts, The Law of the Federal Judiciary, The Law of Extradition) | excluded | |
+
+## George D. Herron (round 90, my pick, 2026-10-23)
+
+Slugs `herron-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| The larger Christ (Chicago, F. H. Revell Co, 1891) | have-ocr | IA `largerchrist00herr` |
+| A plea for the Gospel (New York ; Boson : Thomas Y. Crowell, 1892) | have-ocr | IA `pleaforgospel0000herr` |
+| The call of the cross; four college sermons (New York, Fleming H. Revell company, 1892) | have-ocr | IA `callofcrossfourc00herr` |
+| The new redemption. A call to the church to reconstruct society according to the gospel of Christ (New York, T.Y. Crowell, 1893) | have-ocr | IA `newredemptioncal0000herr` |
+| The Christian society (Chicago ; New York : Fleming H. Revell, 1894) | have-ocr | IA `christiansociety0000herr` |
+| The Christian state; a political vision of Christ (New York T.Y. Crowell New York Johnson Reprint Corp, 1895) | have-ocr | IA `christianstatepo0000herr` |
+| Social meanings of religious experiences (New York : T.Y. Crowell, c189) | have-ocr | IA `socialmeaningsof00herruoft` |
+| Between Caesar and Jesus (New York : T. Y. Crowell, [c18) | have-ocr | IA `betweencaesarjes00herr` |
+| his political books (American Imperialism, Woodrow Wilson and the World's Peace, The Menace of Peace, Germanism and the American Crusade, The Greater War, The Revival of Italy) | excluded | |
+
+## Charles H. Parkhurst (round 90, my pick, 2026-10-23)
+
+Slugs `parkhurst-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| The blind man's creed, and other sermons (New York, A. D. F. Randolph & company, 1883) | have-ocr | IA `blindmanscreedot00park` |
+| The pattern in the mount, and other sermons (New York, Randolph, 1885) | have-ocr | IA `patterninmountot0000park` |
+| Three gates on a side (New York, Chicago, Fleming H. Revell company, 1891) | have-ocr | IA `threegatesonside00park` |
+| Our fight with Tammany (New York : C. Scribner's sons, 1895) | have-ocr | IA `ourfightwithtamm0000park` |
+| Talks to young men (New York, The Century co., 1897) | have-ocr | IA `talkstoyoungmen00park` |
+| Talks to young women (New York, The Century co., 1897) | have-ocr | IA `talkstoyoungwome00park` |
+| The sunny side of Christianity (New York, Chicago [etc.] F.H. Revell co, 1901) | have-ocr | IA `sunnysideofchris0000park` |
+| A brief history of the Madison Square Presbyterian Church and its activities (New York : [s.n.], 1906) | have-ocr | IA `briefhistoryofma00park` |
+| A little lower than the angels (New York, Chicago [etc] Fleming H. Revell company, 1908) | have-ocr | IA `littlelowerthana00park` |
+| The pulpit and the pew : Lyman Beecher lectures delivered 1913, before the Divinity School of Yale University (New Haven, Conn. : Yale University Press, 1913) | have-ocr | IA `pulpitpewlymanbe00parkrich` |
+| My forty years in New York (New York : Macmillan, 1923) | have-ocr | IA `myfortyyearsinne00park` |
+| Analysis of the Latin Verb (philology); many-author books on municipal reform and New York | excluded | |
+
+## Henry Kollock (round 90, my pick, 2026-10-23)
+
+Slugs `kollock-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on various subjects (Savannah : Seymour and Williams, 1811) | have-ocr | IA `sermonsonvarious00koll` |
+| Sermons (London : R.D. Dickinson, 1871) | have-ocr | IA `sermons00kollgoog` |
+| State of New York (1883), by a different Kollock | excluded | |
+
+## John Stark Ravenscroft (round 90, my pick, 2026-10-23)
+
+Slugs `ravenscroft-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Right Reverend John Stark Ravenscroft ... : containing his sermons, charges, and controversial tracts ; to which is prefixed, a memoir of his life, vol. 1 (New-York : Protestant Episcopal Press, 1830) | have-ocr | IA `worksofrightrev01rave` |
+| The works of the Right Reverend John Stark Ravenscroft ... : containing his sermons, charges, and controversial tracts ; to which is prefixed, a memoir of his life, vol. 2 (New-York : Protestant Episcopal Press, 1830) | have-ocr | IA `worksofrightrev02rave` |
+| A sermon on the church : delivered before the annual convention of the Protestant Episcopal Church of N.C (Newbern : Printed by Pasteur & Watson, at the Office of the Carolina Sentinel, 1824) | have-ocr | IA `sermononchurchde00rave` |
+| Revelation the foundation of faith, a sermon (Fayetteville [N. C.] Printed by E. J. Hale, 1829) | have-ocr | IA `revelationfounda00rave` |
+| A sermon preached on Sunday, December 20, 1829, at the consecration of Christ Church, Raleigh, N.C. / by John Stark Ravenscroft (Raleigh, N.C. : The Vestry ; New York : Protestant Episcopal Press [printer], 1830) | have-ocr | IA `sermonpreachedon00rave` |
+| the 1856 reissue of the Works (same texts) | excluded | |
+| Biographical Sketch (1850), by another hand | excluded | |
+
+## Frank W. Gunsaulus (round 90, my pick, 2026-10-23)
+
+Slugs `gunsaulus-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| November at Eastwood: sermons (Columbus, Ohio, A. H. Smythe, [188) | have-ocr | IA `MN5047ucmf_9` |
+| Young men in history (Chicago, New York : Fleming H. Revell, 1898) | have-ocr | IA `youngmeninhistor00guns` |
+| The man of Galilee : a biographical study of the life of Jesus Christ ([s. l. : s. n.], 1899) | have-ocr | IA `manofgalileebiog00guns` |
+| Paths to power: Central church sermons (New York, Chicago [etc.] Fleming H. Revell company, 1905) | have-ocr | IA `pathstopowercent00guns` |
+| Paths to the city of God (New York, Chicago, Fleming H. Revell company, 1906) | have-ocr | IA `pathstocityofgod00guns` |
+| The transfiguration of Christ, by Frank Wakeley Gunsaulus (Boston, Houghton, Mifflin, 1907) | have-ocr | IA `transfigurationo0000guns` |
+| The minister and the spiritual life (New York ; Chicago [etc.] : Fleming H. Revell company, 1911) | have-ocr | IA `ministerspiritua00guns` |
+| Sermon delivered by Dr. Frank W. Gunsaulus, August 25, 1912 in the Cathedral Woods Heart's Delight Farm ([Chicago : Privately printed for W.H. Miner, Chazy, N.Y., by the Lammers-Shilling Company], 1913) | have-ocr | IA `sermondeliveredb00guns` |
+| Martin Luther and the morning hour in Europe; two lectures delivered at the University of Chicago, October 16 and 17 (Chicago, Ill., The University of Chicago Press, 1917) | have-ocr | IA `martinluthermorn0000guns` |
+| Prayers of Frank W. Gunsaulus (New York, Chicago [etc.] Fleming H. Revell company, 1922) | have-ocr | IA `prayersoffrankwg00guns` |
+| Monk and Knight (a novel), his poems, The Higher Ministries of Recent English Poetry, the Gladstone biography, art-exhibition addresses and catalogues | excluded | |
+
+## Alexander H. Vinton (round 90, my pick, 2026-10-23)
+
+Slugs `vinton-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons (Philadelphia : Herman Hooker, 1855) | have-ocr | IA `sermons00vint` |
+| A farewell sermon preached at St. Paul's Church, Boston, October 3, 1858 (Boston : James B. Dow, Office of the Christian Witness and Church Advocate, 1858) | have-ocr | IA `farewellsermonpr00vint` |
+| The Christian watchman : a sermon, preached in St. Paul's Church, Boston, January 11, 1860, at the institution of the Rev. William R. Nicholson, D.D (Boston : James B. Dow, 1860) | have-ocr | IA `christianwatchma00vint_0` |
+| Thanksgiving sermon / by Alexander H. Vinton ; November 29, 1860 (Protestant Episcopal Book Society, 1860) | have-ocr | IA `thanksgivingserm00vint` |
+| God in government. A sermon: preached on the day of the national fast, January 4, 1861, in the Church of the Holy Trinity, Philadelphia / by Alexander H. Vinton (Philadelphia : Protestant Episcopal Book Society, 1861) | have-ocr | IA `godingovernments00vint` |
+| Man's rule and Christ's reign. A sermon, preached on Thanksgiving Day, November 27th, 1862 (New-York, J. A. Gray, printer, 1862) | have-ocr | IA `mansrulechristsr00vint` |
+| A sermon, preached on the national Thanksgiving day, November 26th, 1863 (New-York, G. F. Nesbitt & co., printers, 1863) | have-ocr | IA `sermonpreachedon00vint` |
+| Cause for thanksgiving : a sermon, preached on the national thanksgiving day, November 24th, 1864 (New-York : John A. Gray & Green, printers, stereotypers, and binders, 1864) | have-ocr | IA `causeforthanksgi00vint` |
+| The duties of peace : the nation's third thanksgiving, a sermon preached in St. Mark's Church in the Bowerie, on December 7, 1865 / by the Rev. Alexander H. Vinton (J.A. Gray & Green, 1865) | have-ocr | IA `dutiesofpeacenat00vint` |
+| Four lectures delivered in the Church of the Holy Trinity, Philadelphia, in the year 1877, on the foundation of the late John Bohlen, esq (New York, T. Whittaker, 1887) | have-ocr | IA `fourlecturesdel00vint` |
+| Addresses (1909), a memorial service shared with William Lawrence | excluded | |
+
+## George T. Purves (round 91, my pick, 2026-10-23)
+
+Slugs `purves-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| The testimony of Justin Martyr to early Christianity (London : J. Nisbet & Co., 1888) | have-ocr | IA `testimonyofjusti0000purv` |
+| Christianity in the apostolic age (New York : C. Scribner's Sons, 1900) | have-ocr | IA `christianityinap00purv` |
+| Joy in service : forgetting and pressing onward until the day dawn / by George T. Purves. The teacher and pastor / F. L. Patton (New York : American Tract Society, 1901) | have-ocr | IA `joyinserviceforg00purv` |
+| Faith and life (Philadelphia, Presbyterian Board of Publication and Sabbath-School Work, 1902) | have-ocr | IA `faithlif00purv` |
+| The sinless Christ (Philadelphia, Presbyterian board of publication and Sabbath-school work, 1902) | have-ocr | IA `sinlesschrist00purv` |
+| the 1892 inauguration pamphlet (several speakers) | excluded | |
+
+## Randolph H. McKim (round 91, my pick, 2026-10-23)
+
+Slugs `mckim-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| The doctrine of the Church of England as to the nature of the Christian ministry (New York : Protestant Episcopal Society for the promotion of Evangelical Knowledge, 1880) | have-ocr | IA `thedoctrineofeng00mckiuoft` |
+| Future punishment : comprising four parochial sermons : with an introduction on the scriptural doctrine of retribution and an essay on prayers for the dead (New York : T. Whittaker, 1883) | have-ocr | IA `futurepunishment00mcki` |
+| Bread in the desert (New York : T. Whittaker, 1887) | have-ocr | IA `breadindesert00mcki` |
+| Washington's church. An historical sketch of old Christ church, Alexandria, Virginia, together with a brief description of the centenary services therein, November 20 and 21st, 1873 (Alexandria, Va. [Press of R. Bell's sons], 1888) | have-ocr | IA `washingtonschurch00mcki` |
+| Christ and modern unbelief (New York, T. Whittaker, 1893) | have-ocr | IA `christmodernunbe00mcki` |
+| Leo XIII at the bar of history. A discussion of the papal plan for Christian unity (Washington, D.C., Gibson Bros., printers, 1897) | have-ocr | IA `leoxiiiatbarofhi00mcki` |
+| Present-day problems of Christian thought (New York, T. Whittaker, 1900) | have-ocr | IA `presentdayproble00mcki` |
+| The meaning of our national bereavement ([Washington, B. S. Adams, 1901) | have-ocr | IA `meaningofournati00mcki` |
+| The gospel in the Christian year and in Christian experience : practical sermons for the people, Advent to Trinity (New York ; London : Longmans, Green, 1902) | have-ocr | IA `gospelinchristia00mcki` |
+| The problem of the Pentateuch; an examination of the results of the higher criticism (New York, London [etc.] Longmans, Green, and co., 1906) | have-ocr | IA `problemofpentate00mcki` |
+| The contribution of the Anglo-Saxon church in the making of the republic; a sermon before the Colonial dames in the Bethlehem chapel of the Cathedral of St. Peter and St. Paul, Washington, D.C., Sunday, May 5, 1912 ([Washington, 1912) | have-ocr | IA `contributionofan00mcki` |
+| The proposal to change the name of the Protestant Episcopal Church, considered in the light of true Catholic principles (New York, E. P. Dutton, [191) | have-ocr | IA `proposaltochange00mckirich` |
+| Romanism in the light of history (New York and London, G. P. Putnam's sons, 1914) | have-ocr | IA `romanisminlighto00mckirich` |
+| National opportunity and responsibility; a sermon delivered in the Church of Epiphany, Washington, D.C ([Washington, D.C., 1915) | have-ocr | IA `nationalopportun00mcki` |
+| America summoned to a holy war; a sermon delivered in the Church of the Epiphany ([Washington], 1917) | have-ocr | IA `americasummonedt00mcki` |
+| For God and country (New York, E. P. Dutton & company, 1918) | have-ocr | IA `forgodcountry00mcki` |
+| his Confederate memoir and writings (A Soldier's Recollections, The Soul of Lee, The Motives and Aims of the Soldiers of the South, The Numerical Strength of the Confederate Army); a county history he contributed to | excluded | |
+
+## John Cordner (round 91, my pick, 2026-10-23)
+
+Slugs `cordner-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| Jesus : a Christmas sermon preached in the Unitarian Church, Montreal, Christmas day, 1851 (Montreal : John C. Becket, 1851) | have-ocr | IA `jesuschristmasse00cord` |
+| Christ, the Son of God. A discourse in review of the Rev. Dr. Wilkes' sermon, entitle "Who is Chirst?" (Montreal : James Potts, Herald Office, 1851) | have-ocr | IA `christsonofgoddi00cord` |
+| Philosophic origin and historic progress of the Doctrine of the Trinity : a lecture, delivered in the Unitarian Church Montreal, on Sunday Evening, January 26th, 1851 (Montreal : John C. Becket, 1851) | have-ocr | IA `philosophicorigi00cord` |
+| A pastoral letter to the Christian congregation assembling for worship and edification in the Unitarian Church, Montreal ([Montréal? : s.n.], 1853) | have-ocr | IA `cihm_89272` |
+| The foundations of nationality, a discourse, preached in the Unitarian Church, Montreal, on the Sunday after the great railway celebration, November, 1856 (Montreal : Henry Rose, 1856) | have-ocr | IA `foundationsofnat00cord` |
+| The Christian idea of sacrifice : a discourse preached at the dedication of the Church of the Messiah, Montreal, on Sunday, 12th September, 1858 / by Rev. John Cordner (Montreal : Henry Rose, 1858) | have-ocr | IA `christianideaofs00cord` |
+| Righteousness exalteth a nation; a discourse concerning the relation of morality to national wellbeing (Montreal, Rose, 1860) | have-ocr | IA `righteousnessexa00cord` |
+| Twenty-five sermons : a memorial of twenty-five years' ministry (Montreal : Printed by J. Lovell, 1868) | have-ocr | IA `twentyfivesermon00cord` |
+| Is Protestantism a failure? : the question considered in five lectures : also a discourse on Christian monotheism ([S.l. : s.n.], 1869) | have-ocr | IA `cihm_00237` |
+| his civic orations before the New England Society of Montreal (The Vision of the Pilgrim Fathers, The American Conflict, Canada and the United States) | excluded | |
+| Who is Christ? by Henry Wilkes, the sermon he answered | excluded | |
+
+## George Deshon (round 91, my pick, 2026-10-23)
+
+Slugs `deshon-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| Guide for Catholic young women, especially for those who earn their own living (New York : Columbus Pub. Co., 1892) | have-ocr | IA `guideforcatholic00desh` |
+| Sermons for all the Sundays of the ecclesiastical year and the principal festivals : for the use of parish priests and for private reading (New York : Catholic Book Exchange, 1902) | have-ocr | IA `sermonsforallthe00deshuoft` |
+
+## Henry W. Bellows (round 92, my pick, 2026-10-23)
+
+Slugs `bellows-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermon preached November 26, 1843 at the ordination of Mr. Dexter Clapp over the Unitarian church at Savannah, Ga ([n.p.], 1843) | have-ocr | IA `sermonpreachedno00bell` |
+| Relation of Christianity to human nature. : A sermon preached at the ordination of Mr. Frederick N. Knapp, as colleague pastor of the First Congregational church in Brookline, Mass., on Wednesday, October 6, 1847 (Boston : W. Crosby and H. P. Nichols, 1847) | have-ocr | IA `relationofchrist00bell` |
+| The christian merchant : a discourse delivered in the church of the Divine Unity, on the occasion of the death of Jonathan Goodhue (New York : C.S. Francis & Co., 1848) | have-ocr | IA `christianmerchan00belliala` |
+| The alleged failure of protestantism: a sermon (Washington, 1852) | have-ocr | IA `allegedfailureof00bell` |
+| A sermon preached at the installation of Adams Ayer, as associate pastor of the Unitarian Society in Charleston, N.H. June 7, 1855 (O. H. Plattt, 1855) | have-ocr | IA `sermonpreachedat00bell` |
+| The relation of public amusements to public morality, especially of the theatre to the highest interests of humanity : an address, delivered at the Academy of Music, New York, before “The American Dramatic Fund Society,” for the benefit of the fund (New York : C.S. Francis & Co., 1857) | have-ocr | IA `36e1251c-88b0-4ab1-8809-ee63a58f42fa` |
+| Religious education, from within and from above : sermon (Crosby, Nichols, and Co., 1857) | have-ocr | IA `religiouseducati00bell` |
+| The importance of a positive and distinct theology : a discourse, preached in "The Church of All Souls," New York, January 30, 1859, and repeated at the inaugural services of "The Church of the Redeemer, " Cincinnati, Ohio, on Easter Sunday, April 24, 1859 / by Rev. Henry Bellows, D.D., Pastor of the First Unitarian Church in New York City. Published by request (Robert Clarke & Co., 1859) | have-ocr | IA `importanceofposi00bell` |
+| Suspense of faith. An address to the alumni of the Divinity school of Harvard university, Cambridge, Mass., given July 19, 1859. By Henry W. Bellows (New York, Boston : C.S. Francis & co., 1859) | have-ocr | IA `suspenseoffaitha00bell` |
+| The advantage of testing our principles, compensatory of the evils of serious times. A discourse, on Sunday morning, Feb, 17th, 1861, before the Second Unitarian society of Philadelphia. By Henry W. Bellows ... Printed by the society (C. Sherman & son, printers, 1861) | have-ocr | IA `advantageoftesti00bell_0` |
+| The state and the nation -- sacred to Christian citizens : a sermon preached in All Soul's Church, New York, April 21, 1861 (New York : James Miller, 1861) | have-ocr | IA `statenationsacre00bell` |
+| The valley of decision : a plea for unbroken fealty on the part of the loyal states to the Constitution and the Union, despite the offences of the Rebel states, a discourse, given on occasion of the National Fast, Sept. 26, 1861, in all Souls' Church (New York : H.B. Price, 1861) | have-ocr | IA `valleyofdecision00bell` |
+| How we are to fulfill Our Lord's commandment, "Love your enemies," in a time of war (New York, Baker & Godwin, printers, 1861) | have-ocr | IA `howwearetofulfil00bell` |
+| Duty and interest identical in the present crisis : a sermon preached in All Souls' Church, on Sunday morning, April 14, 1861 (New York : Wynkoop, Hallenbeck & Thomas, printers, 1861) | have-ocr | IA `dutyinterestiden1861bell` |
+| Unconditional loyalty (New York, A. D. F. Randolph, 1863) | have-ocr | IA `unconditionalloy00bell` |
+| The war to end only when the rebellion ceases (New York : A.D.F. Randolph, [186) | have-ocr | IA `wartoendonlywhen00bell` |
+| In memory of Thomas Starr King : a discourse given to his flock in San Francisco, Sunday morning and evening, May 1, 1864 (San Francisco, F. Eastman, printer, 1864) | have-ocr | IA `inmemoryofthomas00bell` |
+| Public life in Washington, or, the moral aspects of the national capital, and the apparent tendencies of political thought and feeling in Congress and Cabinet. An addresses read on Sunday evening, May 7, 1866. to his own congregation (New York, J. Miller, 1866) | have-ocr | IA `publiclifeinwash00bell` |
+| Re-statements of Christian doctrine : in twenty-five sermons (Boston : American Unitarian Association, 1867) | have-ocr | IA `restatements00bellrich` |
+| Church and state in America : a discourse given at Washington, D.C., at the installation of Rev. Frederic Hinckley, as pastor of the Unitarian Church, January 25, 1871 (Washington : Philp & Solomons, 1871) | have-ocr | IA `churchstateiname01bell` |
+| Preparing for old age. Sermon preached at "All-Souls" church, New York., on returning from the funeral at Walpole, N.H., of Mrs. Louisa Bellows Knapp, who died March 16, 1872, aged 86, relict of Jacob Newman Knapp, who died July 27, 1868, aged ninety-five years (Cambridge : Press of J. Wilson and son, 1872) | have-ocr | IA `preparingforolda00belliala` |
+| In memoriam William Cullen Bryant : funeral oration (New York : Religious Newspaper Agency, 1878) | have-ocr | IA `inmemoriamwh00bellrich` |
+| Twenty-four sermons preached in All Souls Church, New York, 1865-1881 (New York, Published by the Editor, 1886) | have-ocr | IA `twentyfoursermon00bell` |
+| finishedlifeaddr00bell: OCR too garbled to verify the title or read the text; needs re-OCR | pending | not shelved |
+| Sanitary Commission papers, The Old World in its New Face (travel), the Union League Club history, the sketch of Col. Benjamin Bellows, and his medical-college address | excluded | |
+
+## Samuel Minton (round 92, my pick, 2026-10-23)
+
+Slugs `minton-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| The believer's completeness in Christ : a sermon ([London] : [Seeley, Jackson, and Halliday], [bet) | have-ocr | IA `a633607300mintuoft` |
+| Righteousness and redemption : a sermon ([London] : [Seeley, Jackson, and Halliday], [bet) | have-ocr | IA `a633611900mintuoft` |
+| The saving power of the Gospel : a sermon ([London] : [Seeley, Jackson, and Halliday], [186) | have-ocr | IA `a633613400mintuoft` |
+| The central superstition of Christendom : a sermon on the perversion of the Lord's Supper, preached at Eaton Chapel, Eaton-Square (London : Seeley, Jackson, and Halliday, 1866) | have-ocr | IA `a633615900mintuoft` |
+| The glory of Christ in the creation and reconciliation of all things, with special reference to the doctrine of eternal evil, a course of sermons (London, Longmans, 1871) | have-ocr | IA `gloryofchristinc00mintuoft` |
+| The marriage of the Lamb : an Advent sacramental address delivered at Eaton Chapel on Sunday morning, Dec. 3rd, 1871 ([London] : [Elliott Stock], [187) | have-ocr | IA `a633610100mintuoft` |
+| The confessional, the altar, and the chancel : sermons preached in Eaton Chapel (London : Elliott Stock, 1874) | have-ocr | IA `a633621300mintuoft` |
+| Life and death. A reply to the Rev. J. Baldwin Brown's lectures on conditional immortality (London, Stock, 1877) | have-ocr | IA `lifedeathreplyto00whituoft` |
+| a633614500mintuoft: the scan has no title page naming the author (catalogued under Minton); needs a cited attribution | pending | not shelved |
+
+## Ezra Stiles Gannett (round 92, my pick, 2026-10-23)
+
+Slugs `gannett-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon for children (Boston : Leonard C. Bowles, 1831) | have-ocr | IA `sermonforchildre00gann` |
+| A devoted ministry : a sermon delivered at the ordination of Rev. James I.T. Coolidge, as pastor of the Purchase Street Congregational Church, in Boston, February 9, 1842 (Boston : Benjamin H. Greene, 1842) | have-ocr | IA `devotedministrys00gann` |
+| The religion of politics (Boston : Dutton and Wentworth, printers to the state, 1842) | have-ocr | IA `religionofpoliti00ganniala` |
+| Peace--not war : a sermon preached in the Federal Street Meetinghouse, December 14, 1845 / by Ezra S. Gannett (Joseph Dowe, 1845) | have-ocr | IA `peacenotwarsermo00gann` |
+| The faith of the Unitarian Christian : explained, justified, & distinguished (Boston : J. Monroe, 1845) | have-ocr | IA `cihm_50320` |
+| The temperance cause : a discourse delivered before the Boston Young Men's Total Abstinence Society, on Sunday evening, November 8, 1846 / By Ezra S. Gannett (Wm. Crosby & H.P. Nichols, 1846) | have-ocr | IA `temperancecaused00gann` |
+| A good old age : a sermon occasioned by the death of Hon. John Davis, LL.D, and preached in the Federal Street Meetinghouse in Boston, January 24, 1847 (Boston : W. Crosby & H. P. Nichols, 1847) | have-ocr | IA `goodoldagesermon00gann` |
+| The relation of the pulpit to future ages : a discourse preached before the Massachusetts Convention of Congregational Ministers, June 1, 1848 (Boston : Wm. Crosby & H.P. Nichols, 1848) | have-ocr | IA `relationofpulpit0000gann` |
+| A sermon preached before the Fatherless and Widows' Society : in the Central church, on Sunday evening, October 28, 1849 (Boston : Ticknor, Reed, and Fields, 1849) | have-ocr | IA `sermonpreachedbe00gann` |
+| Thanksgiving for the Union : a discourse delivered in the Federal-Street Meetinghouse in Boston, on (Boston : Wm. Crosby and H.P. Nichols, 111, Washington Street, 1850) | have-ocr | IA `thanksgivingforu00gann` |
+| The spirit of reform : a discourse preached on Fast day, April 8, 1852, at the Federal Street Meeting-house (Boston : Dutton & Wentworth, 1852) | have-ocr | IA `spiritofreformdi00gann` |
+| The useful man. A sermon delivered at the funeral of Hon. Charles Paine, at Northfield, Vt., Sept. 1, 1853 (Northfield, Printed by Woodworth & Gould, 1853) | have-ocr | IA `usefulmansermond00gann` |
+| Relation of the North to slavery. A discourse preached in the Federal Street Meetinghouse, in Boston, on Sunday, June 11, 1854 (Boston : Crosby, Nichols & Co., 1854) | have-ocr | IA `relationofnortht00gann` |
+| The state of the country. Discourse preached in the Federal street meetinghouse in Boston, Sunday, June 8, 1856 (Boston, Crosby, Nichols, & company, 1856) | have-ocr | IA `stateofcountrydi00gann` |
+| The soul's salvation through faith in Christ : a sermon preached at the ordination of John C. Kimball, as pastor of First Parish, Beverly, Mass., Thursday, Dec 29, 1859 (John Wilson and Son, 1860) | have-ocr | IA `soulssalvationth00gann` |
+| A memorial of the Federal-Street Meeting-house : a discourse preached on Sunday morning, March 13, 1859 (Boston : Crosby, Nichols, Lee, and Co., 1860) | have-ocr | IA `memorialoffedera00gann` |
+| Positive faith. : A discourse preached at the dedication of the church on Arlington street, Boston, December 11, 1861 (Boston : Crosby and Nichols, 1862) | have-ocr | IA `positivefaithdis0000gann` |
+| Two discourses preached in Arlington-street church July 12 and July 19, 1863 (Boston Crosby and Nichols, 1863) | have-ocr | IA `twodiscoursespre00gann` |
+| A discourse occasioned by the death of the Hon. Josiah Quincy : delivered in Arlington-Street Church in Boston, on Sunday, July 10, 1864 (Boston : Printed by John Wilson and Son, 1864) | have-ocr | IA `discourseoccasio00gann` |
+| Discourses in memory of Robert Waterston (Boston, 1869) | have-ocr | IA `discoursesinmemo00gann` |
+| valueofnaturalre0000gann: an offprint from a periodical (begins at p. 288) with no author named in the text; the catalogue attributes it to Gannett; needs a cited attribution | pending | not shelved |
+| The Essential Faith of the Universal Church (by James Martineau), Channing's discourse on Joseph Tuckerman, The Christian Examiner (a journal he edited), manuscript letters and occasional addresses | excluded | |
+
+## Basil W. Maturin (round 92, my pick, 2026-10-23)
+
+Slugs `maturin-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| Some principles and practices of the spiritual life (London, Longmans, Green and Co., 1896) | have-ocr | IA `someprinciplespr0000matu` |
+| Practical studies on the parables of Our Lord (London : Longmans, Green, 1903) | have-ocr | IA `practicalstudies00matuuoft` |
+| Laws of the spiritual life (London : Longmans, 1908) | have-ocr | IA `lawsofspirituall00matuuoft` |
+| Self-knowledge and self-discipline (London, New York [etc.] : Longmans, Green and co, 1909) | have-ocr | IA `selfknowledge00matuuoft` |
+| The price of unity (London, New York Longmans, Green and Co., 1912) | have-ocr | IA `priceofunity0000matu` |
+| Sermons and sermon notes (London : Longmans, 1917) | have-ocr | IA `sermonssermonnot00matuuoft` |
+
+## Charles C. Grafton (round 92, my pick, 2026-10-23)
+
+Slugs `grafton-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Rt. Rev. Charles C. Grafton (New York : Longmans, Green, 1914) | have-ocr | IA `a584305801grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 2 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305802grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 3 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305803grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 4 ([New York : Longmans, Green], 1914) | have-ocr | IA `worksofrtrevchar04grafiala` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 5 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305805grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 6 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305806grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 7 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305807grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 8 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305808grafuoft` |
+| separate printings of books gathered in the Works (Christian and Catholic, Catholic Atlas, Lineage, Journey Godward, Pusey and the Church Revival, Self-Consecration, etc.); The Church's Ministry of Grace (a many-author volume) | excluded | |
+
+## A. F. Winnington-Ingram (round 93, my pick, 2026-10-23)
+
+Slugs `ingram-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| Work in great cities ; six lectures on pastoral theology (London, Gardner, 1897) | have-ocr | IA `workingreatcitie00winn` |
+| New Testament difficulties : (Second series), historical and scientific (London : Society for Promoting Christian Knowledge, 1902) | have-ocr | IA `newtestamentdiff0000winn` |
+| Addresses given in St. Paul's Cathedral : during Holy Week, 1902 (London : Society for Promoting Christian Knowledge ; New York : E. & J.B. Young, 1902) | have-ocr | IA `addressesgivenin0000winn` |
+| Under the dome (London : Wells, Gardner, Darton, 1902) | have-ocr | IA `underdome0000winn` |
+| The Church of England, a goodly heritage : sermon preached at the Weymouth Church Congress, 1905, vol. Talbot Collection of British Pamphlets ([London] ; Brighton : Society for Promoting Christian Knowledge ... ; New York : E. S. Gorham, [190) | have-ocr | IA `churchofenglandg00chur` |
+| The Gospel in action (Milwaukee, Wis. : Young Churchman Co., 1906) | have-ocr | IA `MN41822ucmf_4` |
+| A mission of the Spirit (Milwaukie, Wis. : The Young Churchmen Co., 1906) | have-ocr | IA `missionofspirit0000winn` |
+| The Call of the Father (London: Wells Gardner, Darton and Co., Ltd., 1907) | have-ocr | IA `calloffather0000winn` |
+| Joy in God (London : Wells Gardner, Darton, 1909) | have-ocr | IA `joyingod0000winn` |
+| The mysteries of God (Milwaukee, Wis. : Young Churchman Co, 1910) | have-ocr | IA `MN41826ucmf_2` |
+| Secrets of strength (London : Wells Gardner, Darton & Co., 1911) | have-ocr | IA `secretsofstrengt0000winn` |
+| The attractiveness of goodness (Milwaukee, Wis. : Young Churchman Co., 1913) | have-ocr | IA `MN41821ucmf_2` |
+| "Life for ever and ever" (London : W. Gardner, Darton, 1915) | have-ocr | IA `lifeforeverever00winn` |
+| The church in time of war (London, Wells, Gardner, Darton, 1915) | have-ocr | IA `churchintimeofwa0000winn` |
+| Rays of dawn (London : Wells Gardner, Darton, 1918) | have-ocr | IA `raysofdawn0000winn` |
+| Thoughts on love and death; a series of short meditations (New York, Frederick A. Stokes Company, 1918) | have-ocr | IA `thoughtsonlovede00winn` |
+| The sword of Goliath (London : Wells Gardner, Darton, 1926) | have-ocr | IA `swordofgoliath0000winn` |
+| The Universities and the Social Problem (many authors), The Early English Colonies (lecture summary), and everything printed from 1930 on | excluded | |
+
+## Chandler Robbins (1810-1882) (round 93, my pick, 2026-10-23)
+
+Slugs `crobbins-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| Two sermons, delivered before the Second Church and Society, Sunday, March 10, 1844, on the occasion of taking down their ancient place of worship (Boston : Printed by Isaac R. Butts, 1844) | have-ocr | IA `twosermo00robb` |
+| Address delivered at the laying of the corner-stone of the Second Church on Thursday morning, May 30, 1844 (Boston : I.R. Butts, 1844) | have-ocr | IA `addressdelivere00robbgoog` |
+| A sermon delivered before the proprietors of the Second Church : Wednesday, September 17, 1845, at the dedication of their new house of worship (Boston : Printed by Isaac R. Butts, 1845) | have-ocr | IA `sermondeliveredb00robb` |
+| A sermon preached at the installation of Rev. A. M. Bridge : as colleague pastor of the First Congregational Church and Society in Bernardston, Mass. Feb. 18, 1846 (Crosby, Nichols, and Co., 1846) | have-ocr | IA `sermonpreachedat00robb` |
+| A sermon preached after the death of Mrs. Eliza Frothingham and Mrs. Cornelia F. Wolcott, mother and daughter : the latter of whom died June 1, and the former June 5, 1850 (Printed by John Wilson, 1850) | have-ocr | IA `sermonpreachedaf00robb` |
+| A history of the Second Church, or Old North, in Boston : to which is added a History of the New Brick Church (Boston : Published by a committee of the Society, 1852) | have-ocr | IA `historyofsecondch00robb` |
+| A sermon preached after the funeral of Noah Lincoln : who died in Boston, July 31, 1856, aged eighty-four (Boston : Printed by John Wilson and Son, 1856) | have-ocr | IA `sermonpreacheda00robb` |
+| A discourse in commemoration of Rev. William Parsons Lunt, D.D. : delivered at Quincy, Mass., on Sunday, June 7, 1857 (Boston : Little, Brown and Company, 1857) | have-ocr | IA `adiscourse00robbrich` |
+| Portrait of a Christian, drawn from life: a memoir of Maria Elizabeth Clapp (Boston, Printed for the Sunday-School Society, 1858) | have-ocr | IA `portraitofchrist00robbrich` |
+| The central power of the gospel : a sermon preached at the installation of Rev. Grindall Reynolds, as pastor of the First Church in Concord, Mass., July 8, 1858 (John Wilson and Son, 1858) | have-ocr | IA `centralpowerofgo00robb` |
+| A sermon preached at the dedication of the Second Church : Boylston Street, November 4th, 1874 (Boston : Press of Gribben & Co., 1875) | have-ocr | IA `sermonpreachedat00robb_0` |
+| tributetomemoryo00robb: printed for private distribution with no author on the title page; catalogued under Robbins; needs a cited attribution | pending | not shelved |
+| hymn books and the Liturgy he compiled, Our Pastors' Offering (a compilation), the Appleton memoir, and Massachusetts Historical Society proceedings | excluded | |
+| works of Chandler Robbins (1738-1799) of Plymouth, a different man | excluded | |
+
+## Alexander Mathieson (round 93, my pick, 2026-10-23)
+
+Slugs `mathieson-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon occasioned by the death of the late Mr. Robert Watson, preached in St. Andrew's Church, Montreal, April 8th, 1827 (Montreal : Printed at the Herald Office, 1827) | have-ocr | IA `sermonoccasioned00math` |
+| A sermon, preached in St. Andrew's church, Montreal, on the thirtieth day of November, 1836, (St. Andrew's day) (Montreal, Printed by Starke & Co., 1837) | have-ocr | IA `sermonpreachedin00math` |
+| A discourse delivered on board the transport ship Java, off Quebec (Montreal : Starke, 1843) | have-ocr | IA `discoursedeliver00math` |
+| The Christian's death, no cause for sorrow : a sermon, preached in St. Andrew's Church, Montreal, on Sabbath, 21st May, 1848 (Montreal : Printed by J. Starke & Co., 1848) | have-ocr | IA `christiansdeathn00math` |
+| The moral and religious influences of autumn : a sermon, in three parts, preached in Saint Andrew's Church, Montreal, ("in the fall of the leaf,") 1849 (Montreal : Printed by J. Starke & Co., 1850) | have-ocr | IA `moralreligiousin00math` |
+| A tribute of respect to the memory of a good man (Montreal, Printed by Starke & Co., 1852) | have-ocr | IA `tributeofrespect00math` |
+| A sermon, preached in St. Andrew's church, Quebec, on the 29th May, 1861, at the opening of the Synod of the Presbyterian church of Canada in connection with the Church of Scotland (Montreal, Printed by John Lovell, 1861) | have-ocr | IA `sermonpreachedi00math` |
+| Anniversary sermon delivered by the Rev. Dr. Mathieson before the St. Andrew's society, Montreal, November 30th., 1863 ([Montreal, Becket], 1863) | have-ocr | IA `anniversarysermo00math` |
+| The vanity of earthly objects of attachment (Montreal, Printed by Lovell, 1864) | have-ocr | IA `vanityofearthlyo00math` |
+| Synod reports, the Weir v. Mathieson law reports, and Croil's Life of Mathieson | excluded | |
+
+## George Albert Coe (round 93, my pick, 2026-10-23)
+
+Slugs `coe-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| The spiritual life, studies in the science of religion (New York, Eaton, 1900) | have-ocr | IA `spirituallifestu00coeguoft` |
+| The religion of a mature mind (Chicago : F. H. Revell, 1902) | have-ocr | IA `religionofmature00coegrich` |
+| Education in religion and morals (Chicago : F.H. Revell, c190) | have-ocr | IA `educationinrelig00coeguoft` |
+| Can religion be taught? The inauguration of George Albert Coe ... as Skinner and McAlpin professor of practical theology [Union theological seminary] November sixteenth, 1909 (New York, 1909) | have-ocr | IA `canreligionbetau0000coeg` |
+| The psychology of religion (Chicago, University of Chicago Press, [191) | have-ocr | IA `psychologyofreli00coegrich` |
+| A social theory of religious education (New York, C. Scribner's Sons, 1917) | have-ocr | IA `socialtheoryofre0000coeg` |
+| What ails our youth? (New York, C. Scribner's Sons, 1924) | have-ocr | IA `whatailsouryouth00coeg` |
+| The motives of men (New York : Scribner's, 1929) | have-ocr | IA `motivesofmen00coeg` |
+| What is Christian education? (New York ; London : C. Scribner's sons, 1929) | have-ocr | IA `whatischristiane00coeg` |
+| his fraternity history, the memoir of his wife, a school-law book and a Sunday-school curriculum outline; everything printed from 1930 on | excluded | |
+
+## Edward Wix (round 93, my pick, 2026-10-23)
+
+Slugs `wix-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon (St. John's [Nfld.] : Printed by J. Ryan, King's printer, 1831) | have-ocr | IA `cihm_63251` |
+| Divine visitations : a sermon ([St. John's, Nfld. : s.n.], 1832) | have-ocr | IA `cihm_35256` |
+| The guilt of a denial of God's providence : a sermon on Zephaniah I, 12 (St. John's [Nfld.] : J. Ryer, King's Printer, 1832) | have-ocr | IA `cihm_63252` |
+| A retrospect of the operations of the Society for the Propagation of the Gospel in North America : a sermon preached Sunday, March 31, MDCCCXXXIII, at St. John's Church, Newfoundland ([St. John's, Nfld.? : s.n.], 1833) | have-ocr | IA `cihm_55715` |
+| Six months of a Newfoundland missionary's jounal (London, Smith, Elder and co., 1836) | have-ocr | IA `sixmonthsofnewfo00wixe` |
+| a Sunday-school examination address (1832) | excluded | |
+
+## Henry Wilkes (round 93, my pick, 2026-10-23)
+
+Slugs `wilkes-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| Lecture on freedom of mind, by the Reverend Henry Wilkes, A.M., and speech of His Excellency the Right Hon. the Earl of Elgin & Kincardine, K. T., &c. : delivered before the Mercantile Library Association of Montreal, at the opening of the winter's course of lectures of that institution, Nov. 16, 1848 ([Montreal? : s.n.], 1848) | have-ocr | IA `cihm_62449` |
+| Death in the city : address at the funeral of the late John Easton Mills, Esq., mayor of the city of Montreal, delivered in the American Presbyterian Church, November, 1847 ([Montreal? : s.n.], 1848) | have-ocr | IA `cihm_28957b` |
+| Who is Christ? or, Our Lord's teaching concerning his own person, A discourse preached in the Wesleyan Church, Great St. James Street, Montreal, on Christmas Day, 1850 (Montreal : John C. Becket, 1851) | have-ocr | IA `whoischristorour00wilk` |
+| Jesus, the Divine Messiah : an address to Jews ([Montreal? : s.n.], 1851) | have-ocr | IA `cihm_60234` |
+| "Knowing the time" : a discourse on the improvement of time, delivered in Zion Church, on the first Sabbath, (January 2) of 1853 ([Montréal? : s.n.], 1853) | have-ocr | IA `cihm_92337` |
+| Christianity the restorer, or, Man's dominion over the earth, disturbed by sin, restored by Christ : a sermon preached in Zion Church, Montreal, April 17, 1859 ([Montréal? : s.n.], 1859) | have-ocr | IA `cihm_89959` |
+| The internal administration of the churches; or, Congregational independency viewed from within (Montreal, Lovell, 1859) | have-ocr | IA `internaladminist00wilk` |
+| How to use this world : a discourse delivered in Zion Church, Montreal, January 16, 1859 ([Montreal? : s.n.], 1859) | have-ocr | IA `cihm_63957` |
+| Brief annals of Zion Church, Montreal, from 1832 to 10th May, 1871 : with lists of office-bearers and members and reports for 1870 ([Montreal? : s.n.], 1871) | have-ocr | IA `cihm_42749` |
+| cihm_89276: the author line of the title page is lost in the OCR; catalogued under Wilkes; needs a page-image check | pending | not shelved |
+| Jesuits' Estates in Canada (1850, attribution uncertain) | excluded | |
+
+## Oliver Heywood (round 94, my pick, 2026-10-23)
+
+Slugs `heywood-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 1 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo01heyw` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 2 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo02heyw` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 03 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo03heywuoft` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 04 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo04heywuoft` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 05 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo05heywuoft` |
+| Heart treasure : or, The furniture of the soul (Philadelphia : American Baptist Publication Society, 1852) | have-ocr | IA `hearttreasureorf00heyw` |
+| The Rev. Oliver Heywood, B.A., 1630-1702 : his autobiography, diaries, anecdote and event books : illustrating the general and family history of Yorkshire and Lancashire, vol. 3 (Brighouse : A.B. Bayes, 1881) | have-ocr | IA `revoliverheywood03heyw` |
+| the 1667-1701 first printings (Early English Books), whose texts are in the Whole Works; left for the EEBO first-editions work | excluded | |
+| The Nonconformist Register (a register of baptisms, marriages and deaths) | excluded | |
+
+## James Janeway (round 94, my pick, 2026-10-23)
+
+Slugs `janeway-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| Invisibles, realities, demonstrated in the holy life and triumphant death of Mr. John Janeway, fellow of King's College in Cambridge (Pittsfield [Mass.] Printed by Phinehas Allen, 1814) | have-ocr | IA `invisiblesrealit00jane` |
+| The saints' encouragement to diligence in Christ's service : with motives and means to Christian activity ; to which is added as an example to prove the point handled, the death-bed experiences of Mrs. B (London : Religious Tract Society, 1833) | have-ocr | IA `saintsencouragem00jane` |
+| tokenforchildren00jane: the scan is an Appleton juvenile reprint whose OCR never names Janeway; needs a page-image check | pending | not shelved |
+| bim_eighteenth-century_a-token-for-mariners-co_janeway-james_1708: eighteenth-century printing with no author named in the readable OCR; attribution is the catalogue's | pending | not shelved |
+| bim_eighteenth-century_a-token-for-youth-contai_janeway-james_1720: eighteenth-century printing with no author named in the readable OCR; attribution is the catalogue's | pending | not shelved |
+| the 1667-1680 first printings (Early English Books), left for the EEBO first-editions work | excluded | |
+| extracts and abridgements by John Wesley and James Wheatley | excluded | |
+
+## Anne Dutton (round 94, my pick, 2026-10-23)
+
+Slugs `dutton-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| Narration of the wonders of grace, in verse (London : Printed for the Author, 1734) | have-ocr | IA `nawonde00dutt` |
+| Letters on spiritual subjects and divers occasions : sent to relations and friends, vol. 8 (London : Printed by John Oswald [etc.], 1740) | have-ocr | IA `lettersonspiritu08dutt` |
+| bim_eighteenth-century_a-discourse-upon-walking_dutton-anne_1735: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-discourse-concerning-g_dutton-anne_1737: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-discourse-concerning-t_dutton-anne_1740: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-letter-to-the-reverend_dutton-anne_1742: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-letter-to-all-the-sain_dutton-anne_1742: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-discourse-upon-justifi_dutton-anne_1743: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu01dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu04dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu06dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| lettersonspiritu00dutt: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_letters-on-spiritual-sub_dutton-anne_1748: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_hints-of-the-glory-of-ch_dutton-anne_1748: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-brief-account-of-the-g_dutton-anne_1750: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_a-letter-on-the-divine-e_dutton-anne_1757: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| bim_eighteenth-century_three-letters-on-i-the-_dutton-anne_1761: printed anonymously (Dutton signed her books 'by one who has tasted that the Lord is gracious' or 'A. D.'); the attribution is the library catalogue's and the text never names her; waits for Adam's ruling on catalogue attributions | pending | not shelved |
+| later reprints of the same works (1734 bim copy of the Narration; the 1778 Treatise on Justification) | excluded | |
+
+## Robert Jenkin (round 94, my pick, 2026-10-23)
+
+Slugs `jenkin-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| The reasonableness and certainty of the Christian religion, vol. 1, third edition (London : Richard Sare, 1708) | have-ocr | IA `reasonablenessa00jenkgoog` |
+| The reasonableness and certainty of the Christian religion, vol. 2, second edition (London : Richard Sare, early 1700s) | have-ocr | IA `reasonablenessa01jenkgoog` |
+| Remarks on some books lately publish'd, viz. Mr. Basnage's History of the Jews. Whiston's Eight sermons. Lock's Paraphrase and notes on St. Paul's epistles. Le Clerc's Bibliotheque choisie.  1709 (catalogued 1709) | have-ocr | IA `bim_eighteenth-century_remarks-on-some-books-la_jenkin-robert_1709` |
+| b33024340: printed without the author's name (London, 1702); attribution is the catalogue's | pending | not shelved |
+| the 1688-1700 political tracts and first printings (Early English Books) | excluded | |
+| Defensio S. Augustini (Latin, 1728) | excluded | |
+| A Plain and Easy Introduction (1795), a later compilation | excluded | |
+
+## Henry Melvill Gwatkin (round 94, my pick, 2026-10-23)
+
+Slugs `gwatkin-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| The Arian controversy (New York : Anson D.F. Randoplh [sic], 1880) | have-ocr | IA `ariancontroversy00gwat` |
+| Studies of Arianism : chiefly referring to the character and chronology of the reaction which followed the council of Nicæa (Cambridge : Deighton, Bell, and Co. ; London : G. Bell, 1882) | have-ocr | IA `studiesofarianis0000gwat` |
+| The knowledge of God and its historical development (Edinburgh, T. & T. Clark, 1906) | have-ocr | IA `knowledgeofgodit0000gwat` |
+| The eye for spiritual things, and other sermons (Edinburgh, T. & T. Clark, 1907) | have-ocr | IA `eyeforspiritualt00gwat` |
+| Early church history to A.D. 313 (London : Macmillan, 1912) | have-ocr | IA `earlychurchhisto0000gwat` |
+| Selections from Early Writers (sources he edited), The Church Past and Present and The Cambridge Medieval History (many authors) | excluded | |
+
+## Morgan Dix (round 94, my pick, 2026-10-23)
+
+Slugs `dix-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| A manual of prayers and A guide to the Christian life ([n.p.], 1856) | have-ocr | IA `manualofprayersa00dixm` |
+| The Holy Communion : a sense of unworthiness no ground for keeping back from it : a sermon, preached in St. Paul's Chapel, New York, the first Sunday after Epiphany, Jan. 11th, 1857, and Jan. 10th, 1858 (New York : Daniel Dana, Jr., 1859) | have-ocr | IA `holycommunionsen00dixm` |
+| God's mercies towards the nation. A sermon preached in St. Paul's chapel, New York, Thanksgiving day, 1861 (New York : F. J. Huntington, 1861) | have-ocr | IA `godsmerciestowar00dixm` |
+| Christ the light of the world (New York, E. O. Jenkins, printer, 1863) | have-ocr | IA `christlightofwor00dixm` |
+| Lectures on the pantheistic idea of an impersonal-substance-deity : as contrasted with the Christian faith concerning Almighty God (New York : Hurd and Houghton ; Boston : E.P. Dutton and company, 1864) | have-ocr | IA `lecturesonpanthe00dixm` |
+| An exposition of the Epistles of Saint Paul to the Galatians and Colossians : according to the analogy of the Catholic faith (New York : Published for the Author [by Rennie, Shea & Lindsay], 1864) | have-ocr | IA `expositionofepis00dixm` |
+| The death of President Lincoln : a sermon preached in Saint Paul's Chapel, New York, on Wednesday, April 19, 1865 (Cambridge [Mass.] : Printed at the Riverside Press, 1865) | have-ocr | IA `deathofpresident00dixm` |
+| Historical recollections of S. Paul's Chapel, New York (New York : F.J. Huntington and Co, 1867) | have-ocr | IA `historicalrecoll00dixmrich` |
+| The Communion of Saints, by Morgan Dix (1872) (catalogued 1872) | have-ocr | IA `dix_communion_saints_1872` |
+| Sermon preached in Trinity Church, New York, on the Feast of the Ascension, May 14, 1874 / by Morgan Dix (John W. Amerman, 1874) | have-ocr | IA `sermonpreachedin00dixm` |
+| Lectures on the calling of a Christian woman and her training to fulfil it (New York, Appleton, 1883) | have-ocr | IA `lecturesonthecal00dixuoft` |
+| The Oxford movement (Chicago : Living Church Co., 1884) | have-ocr | IA `oxfordmovement00dixmuoft` |
+| Christian education : a sermon preached in Christ Church, Hartford, Conn., on Trinity Sunday, June 20, 1886, before the graduating class of Trinity College (Hartford : Press of the Case, Lockwood & Brainard Company, 1886) | have-ocr | IA `christianeducati00dixm` |
+| The Gospel and philosophy (N.Y., 1886) | have-ocr | IA `gospelphilosophy00dixm` |
+| The seven deadly sins : sermons preached in Trinity Chapel, New York, during Lent, 1888 (New York : E. & J.B. Young, 1888) | have-ocr | IA `sevendeadlysinss00dixm` |
+| Columbia college commencement, 1888. Baccalaureate sermon preached in St. Thomas' church, New York, Sunday, June 10th, 1888 ([New York, 1888) | have-ocr | IA `columbiacollegec00dixmrich` |
+| The Sacramental system considered as the extension of the incarnation (New York, Longmans, Green, 1893) | have-ocr | IA `sacramentalsyste00dixm` |
+| Harriet Starr Cannon : first Mother Superior of the Sisterhood of St. Mary : a brief memoir (New York : Longmans, Green, 1896) | have-ocr | IA `harrietstarrcann00dixmuoft` |
+| A history of the parish of Trinity Church in the city of New York, vol. p1 (New York, Putnam, 1898) | have-ocr | IA `historyofparisho01dixm` |
+| A history of the parish of Trinity Church in the city of New York, vol. 2 (New York : G.P. Putnam's Sons, 1898) | have-ocr | IA `historyofparisho02dixm` |
+| A history of the parish of Trinity Church in the city of New York, vol. 3 (New York : G.P. Putnam's Sons, 1898) | have-ocr | IA `historyofparisho03dixm` |
+| A history of the parish of Trinity Church in the city of New York, vol. 4 (New York : G.P. Putnam's Sons, 1898) | have-ocr | IA `historyofparisho04dixm` |
+| Blessing and ban from the Cross of Christ; meditations on the Seven Words on the Cross (New York, J. Pott, 1898) | have-ocr | IA `blessingbanfromc00dixm` |
+| Three guardians of supernatural religion, vol. c.1 (New York, E. S. Gorham, 1901) | have-ocr | IA `threeguardiansof01dixm` |
+| bookofhours00dixm: The Book of Hours (1866) carries no author on its title page; attribution is the catalogue's | pending | not shelved |
+| Memoirs of John Adams Dix (his father, a political biography), his edition of the 1549 Book of Common Prayer, and a military-order address | excluded | |
+
+## Milton S. Terry (round 95, my pick, 2026-10-23)
+
+Slugs `terry-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Biblical hermeneutics : a treatise on the interpretation of the Old and New Testaments (New York : Phillips & Hunt, 1885) | have-ocr | IA `biblicalhermeneu00terr` |
+| Doctrines of Arminian Methodism (Evanston : University Press Print., 1887) | have-ocr | IA `doctrinesofarmin0000terr` |
+| The prophecies of Daniel expounded by Milton S. Terry (New York, Hunt & Eaton; Cincinnati, Cranston & Curts, 1893) | have-ocr | IA `propheciesofdani00terr` |
+| The Song of Songs (Cincinnati : Cranston & Curts, 1893) | have-ocr | IA `songofsongs00terr` |
+| The new apologetic : five lectures on true and false methods of meeting modern philosophical and critical attacks upon the Christian religion (New York : Eaton & Mains, 1897) | have-ocr | IA `newapologeticfiv0000terr` |
+| Moses and the prophets; an essay toward a fair and useful statement of some of the positions of modern Biblical criticism (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1901) | have-ocr | IA `mosesprophetsess0000terr` |
+| The new and living way; an orderly arrangement and exposition to the doctrines of Christian experience according to the Scriptures (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1902) | have-ocr | IA `newlivingwayorde00terr` |
+| The meditation of Jesus Christ : a contribution to the study of Biblical dogmatics (New York : Eaton & Mains ; Cincinnati : Jennings & Pye, 1903) | have-ocr | IA `meditationofjesu00terr` |
+| Primer of Christian doctrine in the form of questions and answers; for the use of Sunday-schools, Epworth leagues, Christian endeavor societies, adult Bible classes, and also for a help to private study and devotion (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1906) | have-ocr | IA `primerofchristia00terr` |
+| Biblical dogmatics; an exposition of the principal doctrines of the Holy Scriptures (New York : Eaton & Mains; Cincinnati : Jennings & Graham, 1907) | have-ocr | IA `biblicaldogmatic00terr` |
+| The Christian revelation : baccalaureate address (Chicago : Press of Jennings & Graham, 1909) | have-ocr | IA `christianrevelat0000terr` |
+| The Shinto cult; a Christian study of the ancient religion of Japan (Cincinnati, Jennings and Graham; New York, Eaton and Mains, [c19) | have-ocr | IA `shintocultchrist00terrrich` |
+| Baccalaureate sermons and addresses (New York : Methodist Book Concern, 1914) | have-ocr | IA `baccalaureateser00terr` |
+| miraculousbirtho00terr: a journal offprint (Art. IV, 1901) whose readable text never names the author; attribution is the catalogue's | pending | not shelved |
+| his translation of the Sibylline Oracles (an ancient text) and Rambles in the Old World (travel) | excluded | |
+
+## Frederic Henry Hedge (round 95, my pick, 2026-10-23)
+
+Slugs `hedge-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourse on Edward Everett (Boston, Press of G.C. Rand & Avery, 1856) | have-ocr | IA `discourseonedwar00hedg` |
+| The national weakness : a discourse delivered in the First Church, Brookline, on Fast day, Sept. 26, 1861 (Boston : Walker, Wise, and Co., 1861) | have-ocr | IA `nationalweakness00hedg` |
+| Reason in religion (Boston, Walker, Fuller and company, 1865) | have-ocr | IA `reasoninreligion00hedg` |
+| The primeval world of Hebrew tradition. (Boston, Roberts Brothers, 1870) | have-ocr | IA `primevalworldofh00hedgrich` |
+| Ways of the spirit, and other essays (Boston, Roberts brothers, 1877) | have-ocr | IA `waysofspiritothe00hedg` |
+| Unitarian affirmations: seven discourses given in Washington, D.C (Boston, American Unitarian association, 1879) | have-ocr | IA `unitarianaffirma00hedg` |
+| Our liberal movement in theology, chiefly as shown in recollections of the history of Unitarianism in New England, being a closing course of lectures given in the Harvard Divinity School (Boston, Roberts, 1882) | have-ocr | IA `ourliberalmovem01hedggoog` |
+| Atheism in philosophy, and other essays (Boston, Roberts brothers, 1884) | have-ocr | IA `atheisminphilo00hedguoft` |
+| Martin Luther, and other essays (Boston, Roberts, 1888) | have-ocr | IA `martinlutherothe00hedg` |
+| owenomananything00hedg: printed without the author's name on the title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Prose Writers of Germany, Hours with German Classics, his Goethe translations, metrical translations and a Fourth of July oration | excluded | |
+| Hymns for the Church of Christ (compiled) and Recent Inquiries in Theology (the English Essays and Reviews, which he edited) | excluded | |
+
+## Stephen Olin (round 95, my pick, 2026-10-23)
+
+Slugs `olin-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of Stephen Olin, vol. 1 (New York, Harper & Brothers, 1852) | have-ocr | IA `worksofstephenol01olin` |
+| The works of Stephen Olin (New York, Harper & Brothers, 1852) | have-ocr | IA `worksofstephenol00olin` |
+| Inaugural address delivered by the Rev. Stephen Olin, president of Randolph-Macon College, on the occasion of his induction into office, 5th March, 1834 (Richmond : Printed by Nesbitt & Walker, 1834) | have-ocr | IA `inauguraladdress00olin` |
+| College life; its theory and practice (New York : Harper & Brothers, Publishers, 1867) | have-ocr | IA `collegelifeitsth00olin` |
+| Travels in Egypt, Arabia Petraea and the Holy Land and Greece and the Golden Horn (travel); his Life and Letters (by others); separate printings of discourses gathered in the Works; 1918 addresses by a later Stephen Olin | excluded | |
+
+## Theophilus Lindsey (round 95, my pick, 2026-10-23)
+
+Slugs `lindsey-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Apology of Theophilus Lindsey, M.A. on resigning the vicarage of Catterick, Yorkshire (London : Printed for J. Johnson, 1774) | have-ocr | IA `apologyoftheophi00lind` |
+| A sermon preached at the opening of the chapel in Essex-House, Essex-Street, ... on Sunday, April 17, 1774. By Theophilus Lindsey, M.A. To which is added, a summary account of the reformed liturgy, on the plan of the late Dr. Samuel Clarke, ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_lindsey-theophilus_1774_1` |
+| A sequel to The apology on resigning the vicarage of Catterick, Yorkshire. By Theophilus Lindsey, M.A.  1776 (catalogued 1776) | have-ocr | IA `bim_eighteenth-century_a-sequel-to-the-apology-_lindsey-theophilus_1776` |
+| A sermon preached at the opening of the new chapel at Essex-Street, Strand, on Sunday, March 29, 1778. By Theophilus Lindsey, M.A.  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_lindsey-theophilus_1778` |
+| Two dissertations. I. On the preface to St. John's Gospel. II. On praying to Jesus Christ. By Theophilus Lindsey, A.M. With a short postscript by Dr. Jebb.  1779 (catalogued 1779) | have-ocr | IA `bim_eighteenth-century_two-dissertations-i-on_lindsey-theophilus_1779` |
+| The catechist: or, an inquiry into the doctrine of the scriptures, concerning the only true God and object of religious worship. In two parts. By Theophilus Lindsey, A.M.  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_the-catechist-or-an-in_lindsey-theophilus_1781` |
+| An historical view of the state of the Unitarian doctrine and worship from the reformation to our own times : With some account of the obstructions which it has met with at different periods (London : Printed for J. Johnson ..., 1783) | have-ocr | IA `historicalviewof00lind` |
+| Vindiciae Priestleianae: an address to the students of Oxford and Cambridge, occasioned by a letter to Dr. Priestley from a person calling himself an undergraduate, but publicly and uncontradictedly ascribed to Dr. Horne (London : J. Johnson, 1788) | have-ocr | IA `vindiciaepriestl00lind` |
+| A second address to the students of Oxford and Cambridge, relating to Jesus Christ, and the origin of the great errors concerning him; with a list of the false readings of the scriptures, ... By Theophilus Lindsey, ...  1790 (catalogued 1790) | have-ocr | IA `bim_eighteenth-century_a-second-address-to-the-_lindsey-theophilus_1790` |
+| A list of the false readings of the scriptures, and the mistranslations of the English Bible, which contribute to support the great errors concerning Jesus Christ. By Theophilus Lindsey, ...  1790 (catalogued 1790) | have-ocr | IA `bim_eighteenth-century_a-list-of-the-false-read_lindsey-theophilus_1790` |
+| Conversations on Christian idolatry, in the year 1791. Published by Theophilus Lindsey, M.A.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_conversations-on-christi_lindsey-theophilus_1792` |
+| On prayer; and forms of prayer, their defects, and remedy; a sermon, preached at the chapel in Essex Street, Strand; on Sunday, April xiv, MDCCXCIII. By Theophilus Lindsey, M.A.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_on-prayer-and-forms-of-_lindsey-theophilus_1793` |
+| A discourse addressed to the congregation at the chapel in Essex Street, Strand, on resigning the pastoral office among them. By Theophilus Lindsey, M.A.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-discourse-addressed-to_lindsey-theophilus_1793` |
+| Conversations on the divine government : Shewing that every thing is from God, and for good, to all (London : Printed for J. Johnson, 1802) | have-ocr | IA `conversationsond00lindiala` |
+| Sermons : with appropriate prayers annexed, vol. 1 (London : Printed for J. Johnson, 1810) | have-ocr | IA `sermonswithappr00lindgoog` |
+| bim_eighteenth-century_a-farewel-address-to-the_lindsey-theophilus_1773: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; the 1774 printing could replace it | pending | not shelved |
+| examinationofmrr00lind: printed without the author's name on the title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Polish Partition (satire, attribution doubtful), Letters of Theophilus Lindsey (1920 selection, edited), Unitarian Society tracts (many authors), and reprints of the Apology | excluded | |
+
+## George Putnam (Roxbury) (round 95, my pick, 2026-10-23)
+
+Slugs `gputnam-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse, on the occasion of the death of William Henry Harrison, ninth president of the United States : delivered at Roxbury, April 16th, 1841 (Boston : W. Crosby and Co., 1841) | have-ocr | IA `discourseonoccas00putn` |
+| Spiritual renewal the great work of the Christian Church and ministry : a sermon delivered at the ordination of Rev. Frederic D. Huntington, as pastor of the South Congregational Church in Boston, October 19, 1842 (Boston : William Crosby, 1842) | have-ocr | IA `spiritualrenewal00putn` |
+| A sermon delivered before His Excellency George N. Briggs, governor, His Honor John Reed, lieutenant governor, the honorable Council (Boston : Dutton and Wentworth, printers to the state, 1846) | have-ocr | IA `sermondeliveredb00putniala` |
+| God and our country : a discourse delivered in the First Congregational Church in Roxbury, on Fast Day, April 8, 1847 (catalogued 1847) | have-ocr | IA `ASPC0001937100` |
+| An address, delivered before the city government and citizens of Roxbury, on the life and character of the late Henry A. S. Dearborn, mayor of the city. September 3d, 1851 (Roxbury : Norfolk county journal press, 1851) | have-ocr | IA `addressdelivere00putn` |
+| An address spoken in the college chapel, Cambridge, October 28, 1864, at the funeral of Brig.-Gen ([Boston?, 1864) | have-ocr | IA `addressspokeninc00putn` |
+| Sermons preached in the church of the first religious society in Roxbury (catalogued 1878) | have-ocr | IA `sermonspreachedi00putn` |
+| remarksuponorati00putn: published 'BY A CITIZEN OF BOSTON'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| his Phi Beta Kappa oration, manuscript letters, and books by other George Putnams | excluded | |
+
+## Wayland Hoyt (round 95, my pick, 2026-10-23)
+
+Slugs `hoyt-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Hints and helps for the Christian life ([n.p.], 1830) | have-ocr | IA `hintshelpsforchr00hoyt` |
+| A sermon delivered before the Young Men's Christian Association of Cincinnati...July 29, '66 ([n.p.], 1866) | have-ocr | IA `sermondeliveredb00hoyt` |
+| Present lessons from distant days ([n.p.], 1881) | have-ocr | IA `presentlessonsfr00hoyt` |
+| Gleams from Paul's prison ([n. p.], 1883) | have-ocr | IA `gleamsfrompaulsp00hoyt` |
+| Along the pilgrimage (catalogued 1885) | have-ocr | IA `alongpilgrimage00hoyt` |
+| The brook in the way (New York : A. D. F. Randolph and Co., 1888) | have-ocr | IA `brookinway00hoyt` |
+| Saturday afternoon; or, Conversations for the culture of the Christian life (Philadelphia, American Baptist publication society, 1889) | have-ocr | IA `saturdayafternoo00hoyt` |
+| For shine and shade (Philadelphia, Amer. Baptist pub. society, 1899) | have-ocr | IA `forshineshade00hoyt` |
+| Helps upward (Boston and Chicago, United society of Christian endeavor, 1899) | have-ocr | IA `helpsupward00hoyt` |
+| The teaching of Jesus concerning His own person (New York, American tract society, 1907) | have-ocr | IA `teachingofjesusc00hoyt` |
+| A Decade of Christian Endeavor (many authors) | excluded | |
+
+## Thomas Bradbury (round 96, my pick, 2026-10-23)
+
+Slugs `bradbury-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| Five anniversary sermons upon the fifth of November; the day of our happy revolution. By T. Bradbury.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_five-anniversary-sermons_bradbury-thomas_1705` |
+| A confession of faith, at the publick ordination of Thomas Bradbury. London, July the tenth, 1707. With an exhortation to minister and people. By Mr. John Shower.  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_a-confession-of-faith-a_bradbury-thomas_1707` |
+| The Christian's joy in finishing his course. By Thomas Bradbury.  1713 (catalogued 1713) | have-ocr | IA `bim_eighteenth-century_the-christians-joy-in-f_bradbury-thomas_1713` |
+| The doctrine of justification explain'd and apply'd: in eight sermons. By Thomas Bradbury.  1716 (catalogued 1716) | have-ocr | IA `bim_eighteenth-century_the-doctrine-of-justific_bradbury-thomas_1716` |
+| The necessity of contending for revealed religion: with a sermon on the fifth of November, 1719. By Thomas Bradbury. To which is prefix'd, a letter from the Reverend Cotton Mather D.D. on the late disputes about the ever-blessed Trinity.  1720 (catalogued 1720) | have-ocr | IA `bim_eighteenth-century_the-necessity-of-contend_bradbury-thomas_1720` |
+| Twenty-eight sermons concerning offences, revilings, and a confession of the faith; preach'd at Pinners-Hall. By Thomas Bradbury.  1723 (catalogued 1723) | have-ocr | IA `bim_eighteenth-century_twenty-eight-sermons-con_bradbury-thomas_1723` |
+| The power of Christ over plagues and health, and his name, as the God of Israel, consider'd; as arguments of his supreme deity: in ten sermons. To which is prefixed, an account of the anti-Arian lecture on Wednesdays. By Thomas Bradbury.  1724 (catalogued 1724) | have-ocr | IA `bim_eighteenth-century_the-power-of-christ-over_bradbury-thomas_1724` |
+| The Mystery of godliness, consider'd in lxi. sermons : wherein the deity of Christ is prov'd upon no other evidence than the Word of God, and with no other view than for the salvation of men, vol. 2 (London : Printed for Tho. Cox, 1726) | have-ocr | IA `mysteryofgodline02brad` |
+| Jesus Christ the brightness of glory, &c. In four sermons, preach'd at the Friday-lecture, in Little St. Helens. By Thomas Bradbury.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_jesus-christ-the-brightn_bradbury-thomas_1729` |
+| The popish doctrine of justification by works, consider'd; in a sermon at Pinners-Hall, Feb. 11, 1734-5. By Thomas Bradbury.  1735 (catalogued 1735) | have-ocr | IA `bim_eighteenth-century_the-popish-doctrine-of-j_bradbury-thomas-congre_1735` |
+| The sin and danger of profane swearing expos'd, in several sermons. By Thomas Bradbury.  1742 (catalogued 1742) | have-ocr | IA `bim_eighteenth-century_the-sin-and-danger-of-pr_bradbury-thomas-congre_1742` |
+| Six sermons on Heb. VI. 12. ... By Thomas Bradbury.  1743 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_six-sermons-on-heb-vi-_bradbury-thomas-congre_1743` |
+| The duty and doctrine of baptism : in thirteen sermons (London : Printed for J. Davidson [etc.], 1749) | have-ocr | IA `dutydoctrineofba00brad` |
+| [Sermons], vol. 1 ([S.l. : s.n., 1762) | have-ocr | IA `sermons01brad` |
+| practur00earl: Practical Discourses of Singing in the Worship of God (Friday lecture, several preachers) | excluded | |
+
+## Georg Joachim Zollikofer (round 96, my pick, 2026-10-23)
+
+Slugs `zollikofer-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| Exercises of piety. For the use of the enlightened and virtuous Christians (London : Johnson, 1796) | have-ocr | IA `exercisesofpiety00zolliala` |
+| Sermons on the dignity of man, and the value of the objects principally (for T.N. Longman and O. Rees, 1802, 1802) | have-ocr | IA `sermonsondignit00zollgoog` |
+| Sermons on education : on reflection, on the greatness of God in the works of nature and in the government of the world, on charity, and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, and Orme ..., 1806) | have-ocr | IA `sermonsoneducat00tookgoog` |
+| Sermons on prevalent errors and vices : and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, Orme, and Brown, 1812) | have-ocr | IA `sermonsonpreval00zollgoog` |
+| newlyopenedtrea00zoll: A Newly Opened Treasury of Heavenly Incense, by an earlier Zollikofer (Caspar), not Georg Joachim | excluded | |
+
+## Jedidiah Morse (round 96, my pick, 2026-10-23)
+
+Slugs `morse-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The present situation of other nations of the world, contrasted with our own. : a sermon, delivered at Charlestown, in the Commonwealth of Massachusetts, February 19, 1795 ; being the day recommended by George Washington, president of the United States of America, for publick thanksgiving and prayer (Boston : [publisher not identified], 1795) | have-ocr | IA `presentsituation00mors` |
+| A sermon delivered before the Grand Lodge of free & accepted masons of the commonwealth of Massachusetts, at a public installation of the officers of the Corinthian Lodge, at Concord, ... June 25th, 1798. By Jedediah Morse, ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-delivered-befor_morse-jedidiah_1798` |
+| A sermon, preached at Charlestown, November 29, 1798, on the anniversary thanksgiving in Massachusetts. With an appendix, ... by Jedidiah Morse, ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-ch_morse-jedidiah_1798` |
+| The character and reward of a good and faithful servant illustrated in a sermon, delivered at Charlestown, April 29, 1798, the Lord's-Day following the death and interment of the Honorable James Russell, ... By ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_the-character-and-reward_morse-jedidiah_1798` |
+| A sermon, exhibiting the present dangers, and consequent duties of the citizens of the United States of America : Delivered at Charlestown, April 25, 1799. The day of the national fast (Charlestown [Mass.]: : Printed and sold by Samuel Etheridge, next door to Warren-Tavern., 1799) | have-ocr | IA `sermonexhibiting00morsrich` |
+| The true reasons on which the election of a Hollis professor of divinity in Harvard college, was opp, vol. c.1 (Charlestown [Mass.]: Printed for the author, 1805) | have-ocr | IA `truereasonsonwhi01mors` |
+| A discourse, delivered at the African Meeting-House, in Boston, July 14, 1808 : in grateful celebration of the abolition of the African slave-trade, by the governments of the U.S., Great Britain, and Denmark (Boston : Printed by Lincoln & Edmands, 1808) | have-ocr | IA `discoursedeliver00mors` |
+| Signs of the times. A sermon, preached before the Society for Propagating the Gospel among the Indians and Others in North America, at their anniversary, Nov. 1, 1810 (Charlestown [Mass.] Printed for the benefit of the Society, by S.T. Armstrong, 1810) | have-ocr | IA `signsoftimesserm00mors` |
+| An Appeal to the Public: On the Controversy Respecting the Revolution in Harvard College, and (Printed for the author, 1814) | have-ocr | IA `anappealtopubli00morsgoog` |
+| reviewofamerican00mors: Review of American Unitarianism, an anonymous Panoplist review; attribution is the catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| American Geography, Universal Geography, Gazetteers, Geography Made Easy: not theology | excluded | |
+| compendioushisto00morsuoft: Compendious History of New England, written with Elijah Parish | excluded | |
+
+## Abiel Abbot Livermore (round 96, my pick, 2026-10-23)
+
+Slugs `livermore-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The Four Gospels: With a Commentary (J. Monroe, 1841) | have-ocr | IA `fourgospelswith01livegoog` |
+| The four Gospels: with a commentary, Volume 2 (James Munroe and Co., 1842, 1842) | have-ocr | IA `fourgospelswith04livegoog` |
+| The Acts of the Apostles : with a commentary (Boston : J. Munroe, 1844) | have-ocr | IA `actsofapostleswi00live` |
+| Lectures to young men on their moral dangers and duties (Boston, J. Munroe and company, 1847) | have-ocr | IA `lecturestoyoungm00live` |
+| The faith once delivered to the saints : a discourse delivered at the dedication of the Unitarian meeting-house in Windsor, Vt., Wednesday, December 9, 1846 (Boston : W. Crosby and H.P. Nichols, 1847) | have-ocr | IA `faithoncedeliver00live` |
+| The ancient and honorable man. A discourse preached on the occasion of the death of Hon. John Quincy Adams, to the Unitarian church and congregation, Keene, N.H., on Sabbath afternoon, March 5, 1848 (Keene, Printed by J.W. Prentiss & co., 1848) | have-ocr | IA `ancienthonorable00live` |
+| The war with Mexico reviewed (Boston, American Peace Society, 1850) | have-ocr | IA `warwithmexico00liverich` |
+| Discourses (Boston : Crosby, Nichols, 1854) | have-ocr | IA `discourses00liverich` |
+| The Epistle of Paul to the Romans : with a commentary and rev. translation and introductory essays (Boston : Crosby, Nichols, 1854) | have-ocr | IA `epistleofpaultor00live` |
+| The Epistle to the Hebrews: The Epistles of James, Peter, John and Jude, and (Lockwood, Brooks, 1881) | have-ocr | IA `epistletohebrew00livegoog` |
+| Anti-tobacco (Boston : Roberts brothers, 1883) | have-ocr | IA `antitobacco00live` |
+| The Marriage Offering (a compilation) | excluded | |
+| History of Wilton (written with Sewall Putnam; local history) | excluded | |
+| Charles Henry Brigham memoir (by others) | excluded | |
+
+## Alfred E. Garvie (round 96, my pick, 2026-10-23)
+
+Slugs `garvie-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ritschlian theology, critical and constructive; an exposition and an estimate (Edinburgh, T. & T. Clark, 1899) | have-ocr | IA `ritschliantheolo00garv` |
+| Romans: Introduction, Authorized Version, Revised Version with Notes, Index (T.C. & E.C. Jack, 1901) | have-ocr | IA `romansintroduct00garvgoog` |
+| Gospel for to-day (London : James Clarke & co, 1904) | have-ocr | IA `gospelfortoday00garvuoft` |
+| A guide to preachers (London : Hodder and Stoughton, 1907) | have-ocr | IA `aguidetopreacher00garvuoft` |
+| Studies in the inner life of Jesus (London : Hodder and Stoughton, 1907) | have-ocr | IA `studiesintheinne00garvuoft` |
+| Life and teaching of Paul (New York : Hodder and Stoughton, 1910) | have-ocr | IA `lifeteachingofpa00garv` |
+| The gospel according to St. Luke, vol. 3 (New York : Revell, 1911) | have-ocr | IA `gospelaccordingt03garv` |
+| Studies of Paul and his gospel (London, Hodder and Stoughton, 1911) | have-ocr | IA `studiesofpaulhis0000garv` |
+| Can we still follow Jesus? : a study of the teaching of Jesus in its modern applications (London ; New York : Cassell, 1913) | have-ocr | IA `canwestillfollow0000garv` |
+| The joy of finding, or, God's humanity and man's inhumanity to man; an exposition of Luke XV. 11-32 (New York, C. Scribner's Sons, 1914) | have-ocr | IA `joyoffindingorgo0000garv` |
+| The missionary obligation in the light of the changes of modern thought (London, New York, Hodder and Stoughton, 1914) | have-ocr | IA `missionaryobliga0000garv` |
+| The Master's Comfort And Hope : Sermons on John 13 : 31-14: 31 (T.&T. Clark, 1917) | have-ocr | IA `masterscomfortho0000unse` |
+| The purpose of God in Christ and its fulfillment through the Holy Spirit considered in relation to the problems raised and the duties enforced by the war (London, Hodder & Stoughton, 1918) | have-ocr | IA `purposeofgodinch0000garv` |
+| A handbook of Christian apologetics (New York : Scribner, 1920) | have-ocr | IA `handbookofchrist0000garv` |
+| The christian preacher (t. & t. clarke, 1920) | have-ocr | IA `christianpreache0000alfr` |
+| Tutors unto Christ; introduction to the study of religions (London, New York H. Milford, Oxford University Press, 1920) | have-ocr | IA `tutorsuntochrist0000garv` |
+| The beloved disciple : studies of the fourth gospel (New York : George H. Doran, 1922) | have-ocr | IA `beloveddisciples0000garv` |
+| The Christian doctrine of the Godhead; or, The apostolic benediction as the Christian creed (New York, George H. Doran, 1926) | have-ocr | IA `christiandoctrin0000garv` |
+| The Preachers of the Church (James Clarke and Co., 1927) | have-ocr | IA `preachersofchurc0000alfr` |
+| Christ and Civilization (1910, many authors) | excluded | |
+
+## J. Scott Lidgett (round 96, my pick, 2026-10-23)
+
+Slugs `lidgett-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The spiritual principle of the atonement : as a satisfaction made to God for the sins of the world (Cincinnati : Jennings & Graham, 1897) | have-ocr | IA `spiritualprincip0000lidg` |
+| The fatherhood of God in Christian truth and life (Edinburgh, T. & T. Clark, 1902) | have-ocr | IA `fatherhoodofgodi0000lidg` |
+| The Christian religion, its meaning and proof (London, Culley, 1907) | have-ocr | IA `christianreligio00lidguoft` |
+| Apostolic ministry : sermons and addresses (London : C.H. Kelly, [190) | have-ocr | IA `apostolicministr00lidgiala` |
+| God in Christ Jesus (catalogued 1915) | have-ocr | IA `godinchristjesus0000jsco` |
+| Methodism in the modern world (London, The Epworth Press [etc.], 1929) | have-ocr | IA `methodisminmoder0000lidg` |
+| Towards Reunion (1919, many authors) | excluded | |
+
+## Henry Codman Potter (round 97, my pick, 2026-10-23)
+
+Slugs `hcpotter-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| Sisterhoods and deaconesses at home and abroad (New York, E.P. Dutton & company, 1873) | have-ocr | IA `sisterhoodsdeaco00pott` |
+| The choked life (New York, E. P. Dutton and company, 1873) | have-ocr | IA `chokedlife00pott` |
+| Sermons of the city (London : Wells Gardner, Darton, 1880) | have-ocr | IA `sermonsofcity0000pott` |
+| A nation in its sorrow: two sermons preached in Grace church, New York (New York, T. Whittaker, 1881) | have-ocr | IA `nationinitssorro00pott` |
+| The Dignity of Man: Select Sermons (A.C. McClurg, 1889) | have-ocr | IA `dignitymanselec00pottgoog` |
+| Bishop Potter's address (New York, Civil service reform association, 1889) | have-ocr | IA `bishoppottersadd00pott` |
+| Columbia college commencement, 1889. Baccalaureate sermon preached in St. Thomas' church, Whit-Sunday, June 9, 1889 ([New York, 1889) | have-ocr | IA `columbiacollegec00pottrich` |
+| A sermon delivered in Christ Church, Hartford, Sunday evening, June 21, 1891 before the students and authorities of Trinity College (hartford, Conn., Press of The Case, Lockwood [and] Brainard, 1891) | have-ocr | IA `sermondeliveredi00pott` |
+| Waymarks, 1870-1891; being discourses, with some account of their occasions (New York, E.P. Dutton and company, 1892) | have-ocr | IA `waymarks1870189100pott` |
+| The scholar and the state, and other orations and addresses (New York : Century co., 1897) | have-ocr | IA `scholarstateothe00pott` |
+| Addresses to women engaged in church work (New York, E.P. Dutton & company, 1898) | have-ocr | IA `addressestowomen00pott` |
+| The offices of warden and vestryman / by the Right Rev. Henry C. Potter, D.D., Bishop of New York. Triennial charge delivered to the clergy and laity of the Diocese of New York, Sept. 24, 1890. Printed by order of the Convention, Third Edition (James Pott & Co., 1899) | have-ocr | IA `officesofwardenv00pott` |
+| The citizen in his relation to the industrial situation; Yale lectures (New York, C. Scribner's sons, 1902) | have-ocr | IA `citizeninhisrela00pottrich` |
+| The east of to day and to-morrow (the century co., 1902) | have-ocr | IA `eastoftodaytomor0000henr` |
+| Man: men and their Master; delivered at Gambier, Ohio, November, 1901 (New York : E. S. Gorham, 1902) | have-ocr | IA `manmentheirmaste00pott` |
+| The Gates of the East (travel book, not theology) | excluded | |
+| Principles of Religious Education (lectures by several hands, with his introduction) | excluded | |
+| The Bible for Children (a compilation with his introduction) | excluded | |
+| faithbywhichwest00tuni: The Faith by which we Stand is John Tunis's sermons; Potter wrote only the introduction | excluded | |
+
+## John Codman (round 97, my pick, 2026-10-23)
+
+Slugs `codman-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| Hymns for family worship : with prayers for every day in the week (Boston : Samuel T. Johnson, 1813) | have-ocr | IA `hymnsforfami00codm` |
+| The importance of spiritual knowledge : a sermon delivered before the Society for Propagating the Gospel among the Indians and Others in North America, in the First Church, Boston, November 3, 1825 / by John Codman ; with the report of the Select Committee (From the University Press--Hilliard and Metcalf, 1825) | have-ocr | IA `importanceofspir00codm` |
+| The faith of the Pilgrims; a sermon delivered at Plymouth on the twenty-second of December, 1831 (Boston, Perkins & Marvin, 1832) | have-ocr | IA `faithofpilgrimss00codm` |
+| Sermons delivered on various occasions, : with addresses (Boston : Perkins, Marvin, & Co., 1834) | have-ocr | IA `sermonsdelivered00codm` |
+| The Hidden Life of a Christian: Exemplified in the Character and Writings of Mrs. Susannah H (Perkins, Marcin, & Co., 1835) | have-ocr | IA `hiddenlifeachri00codmgoog` |
+| Duty of American Christians to send the Gospel to the heathen : a sermon preached at Hartford, Sept. 14, 1836, before the American Board of Commissioners for Foreign Missions, at their twenty-seventy annual meeting (Printed by Crocker and Brewster, 1836) | have-ocr | IA `dutyofamericanch00codm` |
+| A narrative of a visit to England (Boston, Perkins & Marvin: Philadelphia, H. Perkins, 1836) | have-ocr | IA `narrativeofvisit00codm` |
+| Review of the past : a sermon, delivered in Dorchester, December 7, 1845, being the thirty-seventh anniversary of the author's ordination (Boston : Press of T.R. Marvin, 1846) | have-ocr | IA `reviewofpastserm00codm` |
+| Books by later John Codmans (Sailors' Life, Ten Months in Brazil, The Mormon Country, free-ship pamphlets): a different man | excluded | |
+
+## W. B. Godbey (round 97, my pick, 2026-10-23)
+
+Slugs `godbey-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| Baptism : mode and design (Louisville, Ky. : Pentecostal Pub. Co., 1883) | have-ocr | IA `baptismmodedesig0000godb` |
+| Sanctification ([n.p.], 1884) | have-ocr | IA `sanctification00godb` |
+| Light in darkness : or, missions and missionary heroes : an illustrated history of the missionary work now carried on by all Protestant denominations in heathen lands (Philadelphia : C.R. Parish, 1888) | have-ocr | IA `lightindarknesso0000godb` |
+| Spiritual gifts and graces ([n.p.], 1895) | have-ocr | IA `spiritualgiftsgr00godb` |
+| Holy Land (M.W. Knapp, 1895) | have-ocr | IA `holyland00godb` |
+| Commentary on the New Testament (M.W. Knapp, Revivalist Office, Cincinnati, Ohio., 1898) | have-ocr | IA `commentaryonnewt0000revw` |
+| Keswickism (Pentecostal Pub. Co., 1900) | have-ocr | IA `keswickism00godb` |
+| Translation of the New Testament from the original Greek (Cincinnati, Ohio : M.W. Knapp, 1902) | have-ocr | IA `translationofnew00godb` |
+| Glorification (God's Revivalist Office, 1902) | have-ocr | IA `glorification00godb` |
+| Work of the Holy Spirit (Pickett publishing co., 1902) | have-ocr | IA `workofholyspirit0000wbgo` |
+| Life of Jesus and His apostles (Louisville, Ky., Pentecostal pub. co, 1904) | have-ocr | IA `lifeofjesushisap00godb` |
+| Around the world, garden of Eden, latter day prophecies and missions (Cincinnati, Ohio : God's Revivalist office, 1907) | have-ocr | IA `aroundworldgarde00godb` |
+| Autobiography of Rev. W.B. Godbey (Cincinnati : God's Revivalist Office, 1909) | have-ocr | IA `autobiographyofr00godb` |
+| Divine healing (Apostolic Messenger Office, 1909) | have-ocr | IA `divinehealing00godb` |
+| Bible theology (God's Revivalist Office, 1911) | have-ocr | IA `bibletheology0000wbgo` |
+| The apocalyptic angel (Cincinnati, OH : God's Revivalist Press, 1914) | have-ocr | IA `apocalypticangel00godb` |
+| Great Disasters and Horrors, Stanley in Africa (popular subscription books, not theology) | excluded | |
+| Books and articles by J. E. Godbey and the Assyriologist Allen H. Godbey: different men | excluded | |
+| twowitnesses0000godb: the scan is a 1996 devotional of the same title, not Godbey's book; no other copy found | excluded | |
+
+## Harvey Newcomb (round 97, my pick, 2026-10-23)
+
+Slugs `newcomb-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| A practical directory for young Christian females : being a series of letters from a brother to a younger sister (Boston : Massachusetts Sabbath School Society, 1833) | have-ocr | IA `practicaldirecto00newc` |
+| The Anabaptists : being an account of the progress of the Reformation in Germany, from the Diet of Worms to the death of Frederic, Elector of Saxony (Boston : Massachusetts Sabbath School Society, 1836) | have-ocr | IA `anabaptistsbeing00newc` |
+| Protestants: being a continuation of the Reformation in Germany from 1525 to 1532 (Boston, Massachusetts Sabbath School Society, 1839) | have-ocr | IA `protestantsbeing00newc` |
+| Sabbath schools teacher's aid ([n.p.], 1840) | have-ocr | IA `sabbathschoolste00newc` |
+| The young lady's guide to the harmonious development of Christian character ([n.p.], 1841) | have-ocr | IA `youngladysguid00newc` |
+| The Closet: Being an Aid to Private Devotion ; Containing Directions and (J.B. Dow, 1841) | have-ocr | IA `closetbeinganai00newcgoog` |
+| The four pillars, or, The truth of Christianity demonstrated, in four distinct and independent series of proofs : together with an explanation of the types and prophecies concerning the Messiah (Boston : S. Goldsmith, and Crocker & Brewster, 1842) | have-ocr | IA `fourpillarsortru00newc` |
+| The false prophet; or, An account of the rise and progress of the Mohammedan religion: comprising the history of the church, from the close of the fifth to the beginning of the seventh century; together with a concise view of the prophecies relating to Mohammed and his followers (Boston, Massachusetts Sabbath school society, 1844) | have-ocr | IA `falseprophetora00newcgoog` |
+| How to be a man : a book for boys, containing useful hints on the formation of character (Boston : Gould, Kendall, and Lincoln, 1847) | have-ocr | IA `howtobemanbookfo00newcrich` |
+| Christianity demonstrated; in four distinct and independent series of proofs; with an explanation of the types and prophecies concerning the Messiah (Boston, Gould, Kendall and Lincoln, 1848) | have-ocr | IA `christianitydemo00newc` |
+| A cyclopedia of missions : containing a comprehensive view of missionary operations throughout the world : with geographical descriptions, and accounts of the social, moral, and religious condition of the people (New York : Scribner, 1855) | have-ocr | IA `cyclopediaofmiss00newc` |
+| The harvest and the reapers; homework for all, and how to do it (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858) | have-ocr | IA `harvestreapersho00newc` |
+| Kind words for children to guide them in the path of peace ([n.p.], 1859) | have-ocr | IA `kindwordsforchil00newc` |
+| Anecdotes for boys : entertaining narratives and anecdotes, illustrative of principles and character (Boston : Gould and Lincoln, 1853) | have-ocr | IA `anecdotesforboys00newc` |
+
+## James Mudge (round 97, my pick, 2026-10-23)
+
+Slugs `mudge-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| The pastor's missionary manual (New York : Missionary Society, Methodist Episcopal Church, 1891) | have-ocr | IA `pastorsmissionar00mudg` |
+| Growth in holiness toward perfection, or progressive sanctification (New York : Hunt & Eaton ; Cincinnati : Cranston & Curts, 1895) | have-ocr | IA `growthinholiness0000mudg` |
+| The land of faith (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1903) | have-ocr | IA `landoffaith00mudg` |
+| The saintly calling (Cincinnati, Ohio : Jennings and Graham ; New York : Eaton and Mains, 1905) | have-ocr | IA `saintlycalling00mudg` |
+| The life ecstatic (New York, Boston [etc.] American tract society, 1906) | have-ocr | IA `lifeecstatic00mudg` |
+| Fénelon: the mystic (Cincinnati : Jennings and Graham, [c19) | have-ocr | IA `fenelonmystic00mudgiala` |
+| The riches of His grace ; a portion for every Sunday (New York, Eaton & Mains ; Cincinnati, Jennings & Graham, 1909) | have-ocr | IA `richesofhisgrace00mudg` |
+| History of the New England Conference of the Methodist Episcopal Church. 1796-1910 (Boston : Published by the Conference, 1910) | have-ocr | IA `historyofnewengl00mudg` |
+| The perfect life in experience and doctrine; a restatement (Cincinnati, Jennings and Graham, 1911) | have-ocr | IA `perfectlifeinexp00mudg` |
+| Religious experience exemplified in the lives of illustrious Christians (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1913) | have-ocr | IA `religiousexperie0000mudg` |
+| Honey from Many Hives, Poems with Power (anthologies of other writers) | excluded | |
+
+## Samuel Kirkland Lothrop (round 97, my pick, 2026-10-23)
+
+Slugs `lothrop-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| The good man : a sermon, preached at the Church in Brattle Square, on the Sunday after the interment of George Bond, Esq., May 29, 1842 (Boston : W.W. Clapp & Son, 1842) | have-ocr | IA `goodmanasermonp00lothgoog` |
+| Life of Samuel Kirkland, Missionary to the Indians (Charles C. Little and James Brown, 1847) | have-ocr | IA `lifesamuelkirkl00spargoog` |
+| The stay and the staff taken away. A sermon preached at the church in Brattle Square, on the death of the Hon. Harrison Gray Otis, November 5, 1848 (Boston : Eastburn's Press, 1848) | have-ocr | IA `staystafftakenaw00loth` |
+| A history of the church in Brattle Street, Boston (Boston : Wm. Crosby and H.P. Nichols, 1851) | have-ocr | IA `brattlest00loth` |
+| The mature Christian ripe for the harvest (Boston : Printed by J. Wilson and son, 1861) | have-ocr | IA `maturechristianr00loth` |
+| Firmness and gentleness united in the Christian character : a sermon preached in the Brattle-Square Church, Dec. 15, 1861, the Sunday succeeding the death of Hon. Richard Sullivan (Boston : Printed by J. Wilson and Son, 1862) | have-ocr | IA `firmnessgentlene00loth` |
+| Memorial of the church in Brattle square. : A discourse preached in the church in Brattle square, on the last Sunday of its use for public worship, July 30, 1871 (Boston : Press of J. Wilson and son, 1871) | have-ocr | IA `memorialofchurch0000loth` |
+| A sermon preached at the dedication of the Church of the Brattle-Square Society, on the corner of Clarendon Street and Commonwealth Avenue, Dec. 22, 1873 (Boston : Press of John Wilson and Son., 1874) | have-ocr | IA `sermonpreachedat00loth_0` |
+| Proceedings of an Ecclesiastical Council (Hollis Street, many hands) | excluded | |
+
+## S. T. Bloomfield (round 98, my pick, 2026-10-23)
+
+Slugs `bloomfield-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| Recensio synoptica annotationis sacræ : being a critical digest and synoptical arrangement of the most important annotations on the New Testament, exegetical, philological, and doctrinal : carefully collected and condensed, from the best commentators, both ancient and modern, and so digested as to form one consistent body of annotation, in which each portion is systematically attributed to its respective author, and the foreign matter translated into English : the whole accompanied with a copious body of original annotations, vol. 5 (London : C. and J. Rivington, 1826) | have-ocr | IA `recensiosynopti04bloogoog` |
+| Recensio synoptica annotationis sacrae : being a critical digest and synoptical arrangement of the most important annotations on the New Testament, exegetical, philological, and doctrinal : collected from commentators both ancient and modern, vol. 5 (London : C. and J. Rivington, 1826) | have-ocr | IA `recensiosynoptic05bloo` |
+| He Kaine Diatheke [romanized]. The Greek Testament, with English notes, critical, philological, and exegetical, partly selected and arranged from the best commentators, ancient and modern, but chiefly original. The whole being especially adapted to the use of academical students, candidates for the sacred office, and ministers, vol. 2 (Boston : Perkins and Marvin, 1837) | have-ocr | IA `hekainediatheker02bloo` |
+| A Greek and English lexicon to the New Testament (London, Printed for Longman, Orme, Brown, Green & Longmans, 1840) | have-ocr | IA `greekenglishlexi00bloo` |
+| Greek testament with English notes, critical, philological and exegetical, vol. 1 (Lond., Longman, 1855) | have-ocr | IA `greektestamentw00bloogoog` |
+| Critical annotations, additional and supplementary [&c.] (catalogued 1860) | have-ocr | IA `criticalannotat00bloogoog` |
+| historythucydid00bloogoog: his Thucydides translation (classical, not theology) | excluded | |
+
+## Philip S. Moxom (round 98, my pick, 2026-10-23)
+
+Slugs `moxom-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian ministry : a sermon at the ordination of Mr. Woodman Bradbury, in Melrose, Mass., June 2, 1891 (catalogued ) | have-ocr | IA `christianministr00moxo` |
+| The industrial revolution : a sermon (Boston : C.H. Simonds, [188) | have-ocr | IA `industrialrevolu00moxoiala` |
+| American common schools vs. secterian parochial schools (Boston : Published by the Committee of One Hundred, 1889) | have-ocr | IA `cihm_40558` |
+| Phillips Brooks : a tribute, being a sermon preached in the first Baptist meeting-house, Clarendon Street and Commonwealth Avenue, Boston, Sunday morning, January 29th, 1893 (Boston : Damrell &amp; Upham, 1893) | have-ocr | IA `MN5124ucmf_0` |
+| The aim of life : plain talks to young men and women (Boston : Roberts, 1894) | have-ocr | IA `aimoflifeplainta00moxo` |
+| From Jerusalem to Nicaea : the church in the first three centuries (Boston : Roberts brothers, 1896) | have-ocr | IA `fromjerusalemton00moxo` |
+| The religion of hope (Boston : Roberts Bros., 1896) | have-ocr | IA `religionofhope00moxo` |
+| Mary Lyon centennial and the higher education of women (Springfield, Massachusetts, Press of Springfield industrial institute, 1897) | have-ocr | IA `marylyoncentenni00moxo` |
+| Belief in God the essential condition of national permanence and prosperity : a sermon preached at the Seventy-fourth Annual Meeting of the Congregational Home Missionary Society, at Detroit, Michigan, June 5th, 1900 ([S.l.] : Congregational Home Missionary Society, 1900) | have-ocr | IA `cihm_40559` |
+| Two Masters: Browning and Turgenief (literary criticism, not theology) | excluded | |
+
+## John Hurrion (round 98, my pick, 2026-10-23)
+
+Slugs `hurrion-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The hope and resurrection of the dead. A funeral sermon on the death of Mrs. Esther Tompson. By John Hurrion.  1712 (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_the-hope-and-resurrectio_hurrion-john_1712` |
+| The rights and duties of ministers and people. A sermon preached August 10th, 1721. on the solemn occasion of the settlement of the Reverend Mr. Milway, in the pastoral care of a church of Christ in Ipswich. By John Hurrion.  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_the-rights-and-duties-of_hurrion-john_1721` |
+| The knowledge of Christ, and him crucified, opened and applied; in eight sermons preached at the Merchants lecture at Pinner's-Hall: by John Hurrion.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_the-knowledge-of-christ-_hurrion-john_1727` |
+| The Christian's hidden life. A funeral sermon occasion'd by the death of the late reverend and learned Mr. John Nesbitt ... preached October the 29th. By John Hurrion.  1728 (catalogued 1728) | have-ocr | IA `bim_eighteenth-century_the-christians-hidden-l_hurrion-john_1728` |
+| The knowledge of Christ glorified, opened and applied, in twelve sermons, on Christ's resurrection, ascension, ... preached at the Merchants lecture, at Pinner's Hall. By John Hurrion.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_the-knowledge-of-christ-_hurrion-john_1729` |
+| Early instruction of children explain'd and recommended. A sermon preach'd in Gravel-Lane, Southwark, ... January the first 1729/30. By John Hurrion. ...  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_early-instruction-of-chi_hurrion-john_1730` |
+| Of the work of ministers, and the respect due to them from their people: a sermon preached at Deptford in Kent, no [sic] New Years day, MDCCXXXI, at the ordination of Mr. Abraham Taylor; with a charge deliver'd on that occasion by John Hurrion. To wh (catalogued 1731) | have-ocr | IA `bim_eighteenth-century_of-the-work-of-ministers_hurrion-john_1731` |
+| The Scripture doctrine or the proper divinity, real personality, and the external and extraordinary works of the Holy Spirit : stated and defended in sixteen sermons, preach'd at the Merchants Lecture at Pinners-Hall, in the years 1729, 1730, 1731 (London : Printed for J. Oswald, 1734) | have-ocr | IA `scripturedoctrin00hurr` |
+| Christ crucified and glorified : sermons preached at Merchant's-Lecture, in Pinner's-Hall, vol. 1 (London : Ogle, Duncan & Co., 1823) | have-ocr | IA `christcrucifiedg01hurr` |
+| The whole works of the Rev. John Hurrion, late minister of the Gospel in London : now first collected; to which is prefixed, The Life of the Author, vol. 3 (London : Printed for Richard Baynes by J. Henman, 1823) | have-ocr | IA `wholeworksofrevj03hurr` |
+| bim_eighteenth-century_judah-preserved-and-inv_hurrion-john_1744: preached at Gosport in 1744, after the elder Hurrion's death in 1731; by a younger John Hurrion | excluded | |
+| bim_eighteenth-century_a-serious-enquiry-into-n_hurrion-john_1741: preached at Gosport in 1741, after the elder Hurrion's death in 1731; by a younger John Hurrion | excluded | |
+
+## William Gahan (round 98, my pick, 2026-10-23)
+
+Slugs `gahan-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| A compendious abstract of the history of the church of Christ (New-York, Printed by J. Seymour, 1814) | have-ocr | IA `compendiousabst00gaha` |
+| The Intrepid and Truly Orthodox Testimony given by the Rev. William Gahan, at the Trim Assizes, Aug. 24th. 1802. Wherein the lessee of Catherine O'Brien Butler was plaintiff, and the Rev. A. Dunn ... defendant [With a portrait.] (Dublin : T. & M. Haydock, 1823) | have-ocr | IA `TheIntrepidAndTrulyOrthodoxTestimony` |
+| The Christian's guide to heaven; or, a complete manual of Catholic piety (catalogued 1824) | have-ocr | IA `christiansguidet00gaha` |
+| The complete manual of Catholic piety; containing a selection of fervent prayers, pious reflections and solid instructions, adapted to every state of life (Dublin, Duffy, 1844) | have-ocr | IA `CompleteManualOfCatholicPiety1844` |
+| Sermons and moral discourses : for all the Sundays and principal festivals of the year, on the most important truths and maxims of the gospel (Dublin : Printed by Richard Grace and Sons, 1846) | have-ocr | IA `sermonsmoraldisc00gaha` |
+| Sermons for every Sunday in the year and for the leading holidays of obligation / by William Gahan ; with a preface by Bishop Walsh ; edited by James O'Leary (New York, N.Y. : D. & J. Sadlier & Co., 1875) | have-ocr | IA `SermonsForEverySundayInTheYear` |
+| LHistoireDuVieux: A History of the Holy Bible, translated from the French by Joseph Reeve; Gahan only revised it | excluded | |
+
+## Leonard Withington (round 98, my pick, 2026-10-23)
+
+Slugs `withington-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The excellence of the Scriptures : sermon II (Boston : [s.n.], 1827) | have-ocr | IA `excellenceofscri00with` |
+| A Sermon, Preached at the Annual Election, May 25, 1831 (Dutton and Wentworth , printers to the state, 1831) | have-ocr | IA `asermonpreached00withgoog` |
+| Puritan morals defended : a discourse delivered at the dedication of the Crombie Street Church in Salem, (formerly Salem Theatre,) and the installation of the Rev. William Williams, November 22, 1832 (Salem : Warwick Palfray, Jun., 1832) | have-ocr | IA `puritanmoralsdef00with` |
+| Cobwebs swept away, or some popular deceptions exposed : a sermon delivered on Fast Day, April 6, 1837, at the First Church in Newbury (Newburyport : Hiram Tozer, 1837) | have-ocr | IA `cobwebssweptaway00with` |
+| A sermon for the two hundreth anniversary of the standing of the First Church in Newbury on its present site, October 20, 1846 (Newburyport [Mass.] : Enoch Hale, Jr., printer, Courier Press, 1846) | have-ocr | IA `sermonfortwohun00with` |
+| Bundle of myrrh : Thanksgiving sermon preached Nov. 28, 1850, at Newbury, First Parish (Newburyport : Charles Whipple, 1850) | have-ocr | IA `bundleofmyrrhtha00with` |
+| A funeral sermon, at the interment of Mrs. Sarah E. Little, wife of Rev. Elbridge G. Little, preached April 1, 1851 (Printed by Morss, 1851) | have-ocr | IA `funeralsermonati00with` |
+| The blessings of our institutions, and our obligations to continue them. : A discourse, preached in the First Congregational Church, Newbury, Fast Day, April 7, 1853 (Newburyport [Mass.]: : Moses H. Sargent, publisher, no. 29 Market Square., 1853) | have-ocr | IA `blessingsofourin00with` |
+| Solomon's song: translated and explained, in three parts. I. The manuduction. II. The version. III. The supplement (Boston, J. E. Tilton and company, 1861) | have-ocr | IA `solomonssongtran00withrich` |
+| puritanaseriese04witgoog: The Puritan, published under the pen-name Jonathan Oldbug; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| penitentialtears00with: an anonymous 1845 pamphlet in the Horace Mann school controversy; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+
+## J. P. K. Henshaw (round 98, my pick, 2026-10-23)
+
+Slugs `henshaw-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The communicant's guide, or, An introduction to the sacrament of the Lord's Supper (Baltimore : J.N. Toy and W.R. Lucas, 1831) | have-ocr | IA `communicantsguid00hens` |
+| Funeral sermon (Baltimore, D. Brunner, 1841) | have-ocr | IA `funeralsermon00hens` |
+| An inquiry into the meaning of the prophecies relating to the second advent of our Lord Jesus Christ (Baltimore : Daniel Brunner, 1842) | have-ocr | IA `inquiryintomeani00hens` |
+| Memoir of the life of the Rt. Rev. Richard Channing Moore, D. D., Bishop of the Protestant Episcopal Church in the Diocese of Virginia (Philadelphia, W. Stavely, 1842) | have-ocr | IA `memoiroflifeofrt00hens` |
+| Selection of Hymns (a compilation) | excluded | |
+
+## Leonard Twells (round 99, my pick, 2026-10-23)
+
+Slugs `twells-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| A vindication of the Gospel of St. Matthew, against a late tract entitled, A dissertation or inquiry concerning the canonical authority of the Gospel according to Matthew. By Leonard Twells, ...  1732 (catalogued 1732) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-the-gos_twells-leonard_1732` |
+| A supplement to the Vindication of the Gospel of St. Matthew, against a late tract, entitled, A dissertation or inquiry concerning the canonical authority of the Gospel according to Matthew. ... By Leonard Twells, ...  1733 (catalogued 1733) | have-ocr | IA `bim_eighteenth-century_a-supplement-to-the-vind_twells-leonard_1733` |
+| A second vindication of the Gospel of St. Matthew: in answer to the Second defence of the dissertation or inquiry concerning St. Matthew's Gospel. ... By Leonard Twells, ...  1735 (catalogued 1735) | have-ocr | IA `bim_eighteenth-century_a-second-vindication-of-_twells-leonard_1735` |
+| Twenty-four sermons preach'd at the Parish Church of St. Mary le Bow, London, in the years 1739, 1740, 1741, at the lecture founded by the Honourable Robert Boyle, Esq : and eight sermons preach'd at the Cathedral Church of St. Paul, in the years 1738 and 1739, at the lecture founded by the Honoured Lady Moyer, vol. 1 (London : [s.n.], 1743, 1743) | have-ocr | IA `twentyfoursermon01twel` |
+| bim_eighteenth-century_a-reply-to-the-defence-o_twells-leonard_1733: printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| theologicalworks01pocouoft: Pocock's Theological Works, which Twells edited | excluded | |
+| John Twells (grammars, Bank Charter Act) and Henry Twells (Colloquies on Preaching): different men | excluded | |
+| livesdredwardpo00cgoog: the 1816 Lives of Pocock, Pearce, Newton and Skelton (several authors in one volume) | excluded | |
+
+## Joseph Berington (round 99, my pick, 2026-10-23)
+
+Slugs `berington-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| A letter to Dr. Fordyce, in answer to his sermon on the delusive and persecuting spirit of popery (London : Printed for G. Robinson ... and J. Fisk ..., 1779) | have-ocr | IA `lettertodrfordyc00beriiala` |
+| Reflections addressed to the Rev. John Hawkins. : To which is added, an exposition of Roman Catholic principles, in reference to God and the country (Birmingham : Printed by M. Swinney: for T. Booker ... London, 1785) | have-ocr | IA `reflectionsaddre00beri` |
+| An address to the Protestant Dissenters, who have lately petitioned for a repeal of the Corporation and test acts. By ... Joseph Berington.  1787 (catalogued 1787) | have-ocr | IA `bim_eighteenth-century_an-address-to-the-protes_berington-joseph_1787` |
+| The history of the lives of Abeillard and Heloisa; comprising a period of eighty-four years, from 1079 to 1163, vol. 2 (Birmingham [Eng.] Printed by M. Swinney for G.G.J. and J. Robinson, London, 1787) | have-ocr | IA `historylivesabe00hlgoog` |
+| An essay on the depravity of the nation, with a view to the promotion of Sunday schools, &c. of which a more extended plan is proposed. By the Rev. Joseph Berington.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_an-essay-on-the-depravit_berington-joseph_1788` |
+| The rights of dissenters from the established church, in relation, principally, to English Catholics. By the Rev. Joseph Berington.  1789 (catalogued 1789) | have-ocr | IA `bim_eighteenth-century_the-rights-of-dissenters_berington-joseph_1789` |
+| bim_eighteenth-century_an-examination-of-events_berington-joseph_1796 (catalogued ) | have-ocr | IA `bim_eighteenth-century_an-examination-of-events_berington-joseph_1796` |
+| A letter to the Right Reverend John Douglas, ... By the Rev. Joseph Berington.  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_a-letter-to-the-right-re_berington-joseph_1797` |
+| lettersonmateria00beriuoft: Letters on Materialism, printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| statebehaviourof00beri: The State and Behaviour of English Catholics, printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| History of the Reign of Henry the Second (secular history) | excluded | |
+| Memoirs of Gregorio Panzani (Panzani's memoir, which Berington translated) | excluded | |
+| The Faith of Catholics (1813, written with John Kirk) | excluded | |
+
+## Isaac Hellmuth (round 99, my pick, 2026-10-23)
+
+Slugs `hellmuth-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| A reply to a letter of the Rt. Rev. the Lord Bishop of Montreal, and Metropolitan of Canada : addressed to the bishops and clergy of the United Church of England and Ireland in Canada / by I. Hellmuth. To which is appended "The letter" of the Lord Bishop of Montreal ([Quebec? : s.n.], 1862) | have-ocr | IA `cihm_35389` |
+| Reply to a second letter of the Rt. Rev. the Lord Bishop of Montreal, addressed to the bishops and clergy of the United church of England and Ireland inCanada...to which is appended "The second letter" of the Lord Bishop of Montreal (Quebec, Canada Gazette off., 1862) | have-ocr | IA `replytosecondlet00hell` |
+| Reply to a third letter of the Rt. Rev. the Lord Bishop of Montreal, addressed to the bishops and clergy of the United church of England and Ireland in Canada...to which is appended "the third letter" of the Lord Bishop of Montreal (Quebec, Middleton; Montreal, Lovell, 1862) | have-ocr | IA `replytothirdlett00hell` |
+| "Justification by faith" : a sermon preached on Sunday morning, Jan. 24th, 1864, in St. Paul's Cathedral, London, C. W ([London, Ont.? : s.n.], 1864) | have-ocr | IA `cihm_63549` |
+| The divine dispensations and their gradual development : eight discourses preached in Huron College Chapel during Michaelmas term, 1865 (London : J. Nisbet ; Toronto : J. Campbell, 1866) | have-ocr | IA `divinedispensati00helluoft` |
+| In the Shadow (catalogued 1870) | have-ocr | IA `inshadow00hellgoog` |
+| The primary address of the Rt. Rev. I. Hellmuth, D.D., D.C.L., Bishop of Huron : delivered before the Synod of the Diocese, in the "Bishop Cronyn Hall," London, Ont., June 5, 1872 ([London, Ont.? : s.n.], 1872) | have-ocr | IA `chim_06983` |
+| The annual address of the Rt. Rev. I. Hellmuth, D.D., D.C.L., Bishop of Huron, delivered before the synod of the diocese, in "Bishop Cronyn Hall," London, Ont., June 4, 1873 ([London, Ont.? : s.n.], 1873) | have-ocr | IA `cihm_13185` |
+| Hellmuth College prospectuses, programmes and concert bills (ephemera) | excluded | |
+| The Doctrine and Practice of Indulgences (a two-sided controversy) | excluded | |
+
+## W. H. P. Faunce (round 99, my pick, 2026-10-23)
+
+Slugs `faunce-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| The two bands : a sermon (Springfield, Mass. : Cyrus W. Atwood, 1887) | have-ocr | IA `MN41733ucmf_5` |
+| Annual sermon before the American Seamen's Friend Society at its sixty-seventh anniversary, Sunday, May 12th, 1895 by Rev. W.H. P. Faunce in the First Avenue Baptist Church, New York City (New York : American Seamen's Friend Society, 1895) | have-ocr | IA `annualsermonbefo00faun` |
+| The educational ideal in the ministry (New York : The Macmillan company, 1908) | have-ocr | IA `educationalideal00faunuoft` |
+| What does Christianity mean? (New York, Chicago, Fleming H. Revell Co, 1912) | have-ocr | IA `whatdoeschrist00faun` |
+| The social aspects of foreign missions (New York : Missionary Education Movement of the U.S. and Canada, 1914) | have-ocr | IA `thesocialaspects00faunuoft` |
+| Religion and war (New York, Cincinnati, The Abingdon press, 1918) | have-ocr | IA `religionwar00faun` |
+| The new horizon of state and church (New York : Macmillan, 1918) | have-ocr | IA `newhorizonofstat00faunrich` |
+
+## Cleland B. McAfee (round 99, my pick, 2026-10-23)
+
+Slugs `mcafee-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| Where He is (Chicago, New York [etc.], Fleming H. Revell Company, 1899) | have-ocr | IA `whereheis00mcaf` |
+| The growing church : a study for the times (Chicago : Winona Publishing Company, 1903) | have-ocr | IA `growingchurchstu00mcaf` |
+| The worth of a man (Chicago, Ill., Winona Lake, Ind., The Winona publishing company, 1903) | have-ocr | IA `worthofman00mcaf` |
+| The Mosaic law in modern life (New York : F.H. Revell, c190) | have-ocr | IA `mosaiclawinmoder00mcafrich` |
+| Studies in the Sermon On the Mount (catalogued 1910) | have-ocr | IA `studiesinsermono0000clel` |
+| The greatest English classic; a study of the King James version of the Bible and its influence on life and literature (New York, Harper, 1912) | have-ocr | IA `greatestenglishckjv00mcaf` |
+| "His peace," (New York, Chicago [etc.] Fleming H. Revell company, 1913) | have-ocr | IA `hispeace00mcaf` |
+| The old and the new in theology : an address (New York : [publisher not identified], 1913) | have-ocr | IA `oldnewintheology00mcaf` |
+| The Westminster confession of faith and the present task of the church (New York, Chicago [etc.] Fleming H. Revell company, 1913) | have-ocr | IA `westminsterconfe0000mcaf` |
+| Psalms of the social life (New York [etc.] Association press, 1917) | have-ocr | IA `psalmsofsocialli00mcaf` |
+| The Christian faith and the new day (New York : Macmillan, 1920) | have-ocr | IA `christianfaithne00mcaf` |
+| The Christian conviction: lectures on the Joseph Cook Foundation, 1924-25 (Macmillan, 1926) | have-ocr | IA `christianconvict0000clel` |
+| Changing foreign missions; a revaluation of the church's greatest enterprise (New York ; Chicago [etc.] : Fleming H. Revell company, 1927) | have-ocr | IA `changingforeignm00mcaf` |
+| Ministerial practices, some fraternal suggestions (New York, London, Harper & brothers, 1928) | have-ocr | IA `ministerialpract0000mcaf` |
+| The Christian message and program, twelve studies for class use or personal reading (Philadelphia : Printed for the Leadership training publishing association by the Westminster press, 1929) | have-ocr | IA `christianmessage00mcaf` |
+
+## Stephen Farley (round 99, my pick, 2026-10-23)
+
+Slugs `farley-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermon on the Death of Rev. Abijah Wines who Died Feb. 11, 1833, Delivered on the Following (John Caldwell, 1834) | have-ocr | IA `sermonondeathre00farlgoog` |
+| Discourses and essays on theological and speculative topics (Boston : Farley, 1851) | have-ocr | IA `discoursesessays00farl` |
+
+## Warren A. Candler (round 100, my pick, 2026-10-23)
+
+Slugs `candler-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of Sunday-schools: A Brief Historical Treatise, with Special (Phillips & Hunt, 1880) | have-ocr | IA `historysundaysc00candgoog` |
+| Not less education, but more of the right sort / by W.A. Candler (Nashville, Tenn. : Barbee & Smith, Agents, 1897) | have-ocr | IA `notlesseducation00cand` |
+| Christus auctor; a manual of Christian evidences (Nashville, Barbee & Smith, 1900) | have-ocr | IA `christusauctorma00cand` |
+| Great revivals and the great republic (Nashville, Tenn. ; Dallas, Tex. : Publishing House of the M.E. Church, South, 1904) | have-ocr | IA `greatrevivalsgre0000cand` |
+| Dangerous donations and degrading doles; or, A vast scheme for capturing and controlling the colleges and universities of the country ([Atlanta? Ga.], 1909) | have-ocr | IA `dangerousdonatio00cand` |
+| Wesley and his works : or, Methodism and missions : a volume of addresses (Nashville : Pub. House of the M.E. Church, South, 1912) | have-ocr | IA `wesleyandhiswork00canduoft` |
+| Our mission in Cuba : prepared for use in connection with Advance in the Antilles (Nashville, Tenn. : Board of Missions, Methodist Episcopal Church, South, 1913) | have-ocr | IA `ourmissionincuba00cand` |
+| 26183998.2613.emory.edu: Our National Blessings in 1895 (Thanksgiving sermon); the Emory scan has no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+| 04552590.emory.edu: High Living and High Lives; the Emory scan has no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+| 15308412.293.emory.edu: Practical Studies in the Fourth Gospel; the Emory scan has no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+| dayofouropportun00cand: The Day of our Opportunity; the text file returned HTTP 500 | pending | not shelved |
+| 26224779.2615.emory.edu: The Church, the Fullness of Christ (1917 sermon); the Emory scan has no OCR text file on Internet Archive | pending | not shelved |
+| Christus auctor in Spanish translation (1907) | excluded | |
+| A Call to Advance (convention addresses, many speakers) | excluded | |
+
+## Francis J. McConnell (round 100, my pick, 2026-10-23)
+
+Slugs `mcconnell-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The diviner immanence (New York, Cincinnati, The methodist book concern, 1906) | have-ocr | IA `divinerimmanence00mcco` |
+| Christmas sermons (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1909) | have-ocr | IA `christmassermons00mcco` |
+| Edward Gayer Andrews : a bishop of the Methodist Episcopal church (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1909) | have-ocr | IA `edwardgayerandre00mcco` |
+| Religious certainty (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1910) | have-ocr | IA `religiouscertain00mcco` |
+| The increase of faith : some present-day aids to belief (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, c191) | have-ocr | IA `increaseoffaiths00mcco` |
+| Personal Christianity, instruments and ends in the kingdom of God (New York, Revell, [191) | have-ocr | IA `personalchristia00mcco` |
+| The essentials of Methodism (New York, Cincinnati, Methodist Book Concern, 1916) | have-ocr | IA `essentialsofmeth00mcco` |
+| Understanding the Scriptures (New York, Cincinnati, The Methodist Book Concern, 1917) | have-ocr | IA `understandingscr00mcco` |
+| Democratic Christianity, some problems of the church in the days just ahead (New York, The Macmillan Co., 1919) | have-ocr | IA `democraticchrist00mcco` |
+| Public opinion and theology (New York, Cincinnati, The Abingdon Press, [c19) | have-ocr | IA `publicopinionthe00mcco` |
+| Church finance and social ethics (New York, The Macmillan company, 1920) | have-ocr | IA `churchfinances00mcco` |
+| The preacher and the people (catalogued 1922) | have-ocr | IA `preacherpeople0000fran` |
+| Christian citizenship; an elective course for young people (New York ; Cincinnati : The Methodist book concern, 1922) | have-ocr | IA `christiancitizen00mcco` |
+| ... Living together; studies in the ministry of reconciliation (New York, Cinncinnati, The Abingdon Press, 1923) | have-ocr | IA `livingtogetherst0000mcco` |
+| The just weight, and other chapel addresses (New York ; Cincinnati : The Abingdon press, 1925) | have-ocr | IA `justweightotherc00mcco` |
+| The Christlike God : a survey of the divine attributes from the Christian point of view (New York : Abingdon Press, 1927) | have-ocr | IA `christlikegodsur0000mcco` |
+| Humanism and Christianity (The Macmillan Company, 1928) | have-ocr | IA `humanismchristia0000fran` |
+| Borden Parker Bowne : his life and his philosophy (New York ; Cincinnati : The Abingdon Press, 1929) | have-ocr | IA `bordenparkerbown0000mcco` |
+| Human needs and world christianity (Friendship Press, 1929) | have-ocr | IA `humanneedsworldc0000fran` |
+
+## Charles F. Aked (round 100, my pick, 2026-10-23)
+
+Slugs `aked-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The courage of the coward, and other sermons (New York, Chicago, Fleming H. Revell company, 1907) | have-ocr | IA `courageofcowardo00aked` |
+| A ministry of reconciliation (New York, Chicago [etc.], F.H. Revell Company, 1907) | have-ocr | IA `ministryofreconc00aked` |
+| The coming unity ([New York, N.Y. : s.n.], 1908) | have-ocr | IA `comingunity00aked` |
+| Old events and modern meanings, and other sermons (New York, Chicago [etc.] Fleming H. Revell company, 1908) | have-ocr | IA `oldeventsmodernm00aked` |
+| Wells and palm trees, cool water and abundant rest on life's rough way (New York, Dodge publishing company, 1908) | have-ocr | IA `wellsandpalmtre00akedgoog` |
+| The lord's prayer : its meaning and message for to-day (catalogued 1910) | have-ocr | IA `lordsprayeritsme0000char` |
+| The divine drama of Job (New York, Scribner's, 1913) | have-ocr | IA `divinedramaofjob0000aked` |
+| Japan's message to (San Francisco [Japan society of America], 1915) | have-ocr | IA `japansmessageto00aked` |
+
+## W. T. Herridge (round 100, my pick, 2026-10-23)
+
+Slugs `herridge-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity in its relation to the state and the church (Ottawa, A.S. Woodburn, 1889) | have-ocr | IA `christianityinit00herr` |
+| Anniversary sermon, 1889, preached in St. Andrew's Church Sunday evening, Dec. 1st (Ottawa : A. S. Woodburn, 1889) | have-ocr | IA `anniversarysermo00herr` |
+| A sermon preached in St. Andrew's Church on the occasion of the Queen' s diamond jubilee ([S.l. : s.n., 1897) | have-ocr | IA `cihm_06990` |
+| "England's greatness" : anniversary sermon delivered to the members of St. George's Society of Ottawa and the Sons of England, St. Andrew's Church, Ottawa, April 23rd, 1899 ([Ottawa : s.n., 1899) | have-ocr | IA `cihm_05558` |
+| A sermon preached in St. Andrew's Church, Ottawa, to "Strathcona's Horse" previous to their departure for service in South Africa, on Sunday, the 11th March, 1900 ([Ottawa? : s.n., 1900) | have-ocr | IA `cihm_05559` |
+| In memoriam : a sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, January 27th, 1901, to commemorate the death of Her Most Gracious Majesty, Queen Victoria ([Ottawa?] : Kirk Session, 1901) | have-ocr | IA `cihm_74595` |
+| A sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, May 25th, 1902 ([Ottawa? : s.n.], 1902) | have-ocr | IA `cihm_74601` |
+| The Ontario Liquor Act : a sermon preached in St. Andrew's Church, Ottawa, on Sunday evening Nov. 23rd, 1902 ([Ottawa? : s.n.], 1902) | have-ocr | IA `cihm_74613` |
+| The orbit of life; studies in human experience (New York, F. H. Revell company, 1906) | have-ocr | IA `orbitlifestudie00herrgoog` |
+| The coign of vantage (New York F.H. Revell company, [c19) | have-ocr | IA `coignofvantage00herruoft` |
+| In memoriam : a sermon preached in St. Andrew's Church, Ottawa, on Sunday morning, May 15th, 1910, to commemorate the death of His Most Gracious Majesty, King Edward VII / by W.T. Herridge ([Ottawa?] : Men's Association, 1910) | have-ocr | IA `inmemoriamsermon00herr` |
+| The call of the war : recruiting sermon preached in St. Andrew's Church, Ottawa, Sunday evening, June 27, 1915 (Ottawa : [s.n.], 1915) | have-ocr | IA `callofwarrecrui00herr` |
+| French and English in Canada and across the sea : a sermon (Ottawa : Canadian Printing, 1917) | have-ocr | IA `frenchenglishinc00herr` |
+| Appel aux armes (French translation of The Call of the War) | excluded | |
+| Recollections of Father Dawson (by Henry Morgan, with part of a sermon) | excluded | |
+
+## W. B. Riley (round 100, my pick, 2026-10-23)
+
+Slugs `riley-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The finality of the higher criticism; OR, The theory of evolution and false theology ([Minneapolis?, c190) | have-ocr | IA `finalityofhigher00rileiala` |
+| The perennial revival : a plea for evangelism (Chicago : American Baptist Publication Society, 1916) | have-ocr | IA `perennialrevival0000rile` |
+| Christ the incomparable (New York : Fleming H. Revell Co., 1924) | have-ocr | IA `christincomparab00rile` |
+| The Bible of the expositor and the evangelist : New Testament (Cleveland, O. : Union Gospel Press, 1925) | have-ocr | IA `bibleofexpositor00rile` |
+| Inspiration or evolution (catalogued 1926) | have-ocr | IA `inspirationorevo0000wbri` |
+| The Bible of the expositor and the evangelist : Old Testament, vol. 2 (Cleveland, O. : Union Gospel Press, 1926) | have-ocr | IA `bibleofexpositor02rile_0` |
+| The bible of the expositor and the evangelist, vol. 9 (catalogued 1927) | have-ocr | IA `bibleofexpositor0009wbri` |
+| The Bible of the Expositor and teh Evangelist, vol. 10 (Union Gospel Press, 1929) | have-ocr | IA `bibleofexpositor0010wbri` |
+| Windyridge (a novel by the English writer Willie Riley) | excluded | |
+
+## J. R. P. Sclater (round 100, my pick, 2026-10-23)
+
+Slugs `sclater-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The enterprise of life : being addresses delivered from an Edinburgh pulpit to audiences composed, for the most part, of those who stand at the beginning of the enterprise (London : Hodder and Stoughton, pref) | have-ocr | IA `enterpriseoflife00sclauoft` |
+| Modernist Fundamentalism (George H. Doran Company, 1926) | have-ocr | IA `modernistfundame0000jrps` |
+| The public worship of God (New York : George H. Doran company, 1927) | have-ocr | IA `publicworshipofg00scla` |
+| God and the Soldier (written with Norman Maclean) | excluded | |
+
+## Christoph Christian Sturm (round 101, my pick, 2026-10-23)
+
+Slugs `sturm-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The beauties of Sturm, in lessons on the works of God, and his providence : rendered familiar to the capacities of youth (London : Printed for James Scatchard [etc.], 1798) | have-ocr | IA `beautiesofsturmi00stur` |
+| Reflections on the works of God in nature and providence, for every day in the year (New York, A. Paul, 1824) | have-ocr | IA `reflectionsonwo00stur` |
+| Contemplations on the sufferings of Jesus Christ : in a series of devotional exercises, with an explanatory paraphrase of the gospel narrative (London : Printed for Baldwin, Cradock, and Joy, 1826) | have-ocr | IA `OnTheSufferingsOfJesus` |
+| bim_eighteenth-century_reflections-on-the-works_sturm-christoph-christi_1788_1: the scan has no title page and its OCR never names Sturm; another printing could replace it | pending | not shelved |
+| Mathesis Enucleata, by the mathematician Johann Christoph Sturm (a different man) | excluded | |
+| Considerations sur les oeuvres de Dieu (French translation) | excluded | |
+
+## Elizabeth Singer Rowe (round 101, my pick, 2026-10-23)
+
+Slugs `rowe-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The history of Joseph. A poem. In ten books. By Mrs. Elizabeth Rowe, ...  1742 (catalogued 1742) | have-ocr | IA `bim_eighteenth-century_the-history-of-joseph-a_rowe-elizabeth-singer_1742` |
+| Devout exercises of the heart, in meditation, soliloquy, prayer and praise. By the late pious and ingenious Mrs. Rowe. Review'd and published, at her request, by I. Watts. D.D.  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_devout-exercises-of-the-_rowe-elizabeth-singer_1771` |
+| The miscellaneous works in prose and verse : the greater part now first published, vol. 1 (London : Printed for R. Hett and R. Dodsley, 1739) | have-ocr | IA `miscellaneouswor01rowe` |
+| Poems on several occasions. By Mrs. Elizabeth Rowe. To which is prefixed, an account of the life and writings of the author.  1759 (catalogued 1759) | have-ocr | IA `bim_eighteenth-century_poems-on-several-occasio_rowe-elizabeth-singer_1759` |
+| bim_eighteenth-century_an-expostulatory-epistle_rowe-elizabeth-singer_1720: 'by a lady'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| bim_eighteenth-century_friendship-in-death-in-_rowe-elizabeth-singer_1728: published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| bim_eighteenth-century_letters-on-various-occas_rowe-elizabeth-singer_1729: 'by the author of Friendship in Death'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| German translations | excluded | |
+
+## Johannes Gossner (round 101, my pick, 2026-10-23)
+
+Slugs `gossner-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The heavenly visitant; or, Christ at the door of man's heart (catalogued 1865) | have-ocr | IA `heavenlyvisitan00gossgoog` |
+| The spiritual casket of daily Bible meditations ; for the furtherance of family godliness and devotion (London : J.F. Shaw & Co., 1864) | have-ocr | IA `MN41391ucmf_4` |
+| John Goszner's treasury : containing Bible meditations for each day in the year, with devotional songs to the futherance of family prayer and piety (Minneapolis : Augsburg Pub. House, 1906) | have-ocr | IA `johngosznerstrea00goss` |
+| heartofmaneither00goss: the 1851 Harrisburg printing names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Life of Martin Boos (Boos's own account, which Gossner edited) | excluded | |
+
+## Frances Power Cobbe (round 101, my pick, 2026-10-23)
+
+Slugs `cobbe-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| Thanksgiving, a chapter of religious duty (catalogued 1863) | have-ocr | IA `thanksgivingach00cobbgoog` |
+| Religious Demands of the Age: A Reprint of the Preface to the London Edition (Walker Wise & Co., 1863) | have-ocr | IA `religiousdemand00cobbgoog` |
+| Broken Lights: An Inquiry Into the Present Condition & Future Prospects of (Trübner & Co., 1864) | have-ocr | IA `brokenlightsani02cobbgoog` |
+| Religious duty (London : Trübner, 1864) | have-ocr | IA `religiousduty00cobbuoft` |
+| Studies New and Old of Ethical and Social Subjects (W.V. Spencer, 1866) | have-ocr | IA `studiesnewandol00cobbgoog` |
+| Dawning Lights (catalogued 1868) | have-ocr | IA `dawninglights0000fran` |
+| Alone to the alone : prayers for theists (London : Williams, 1872) | have-ocr | IA `alonetothealonep00cobbuoft` |
+| Darwinism in morals : and other essays. Reprinted from the Theological and Fortnightly reviews, Fraser's and Macmillan's magazines, and the Manchester friend (London : Williams and Norgate, 1872) | have-ocr | IA `darwinisminmoral00cobbuoft` |
+| The hopes of the human race, hereafter and here (London, Williams and Norgate, 1874) | have-ocr | IA `hopesofhumanrace00cobb` |
+| The duties of women; a course of lectures (Boston G.H. Ellis, 1881) | have-ocr | IA `dutiesofwomencou00cobbuoft` |
+| The peak in Darien : an octave of essays (Boston : Geo. H. Ellis, 1882) | have-ocr | IA `peakindarienocta00cobbrich` |
+| essayonintuitive0000cobb: An Essay on Intuitive Morals, published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Collected Works of Theodore Parker (which she edited) | excluded | |
+| Italics, Cities of the Past, Hours of Work and Play, False Beasts and True, vivisection papers (not theology) | excluded | |
+
+## W. J. Dawson (round 101, my pick, 2026-10-23)
+
+Slugs `wjdawson-*`. Built from title pages read for round 101.
+
+| Work | Status | Where |
+|---|---|---|
+| The threshold of manhood, a young man's words to young men (New York, Armstrong, 1889) | have-ocr | IA `thresholdofmanho0000will` |
+| The church of to-morrow : a series of addresses delivered in America, Canada, and Great Britain (London : J. Clarke, 1892) | have-ocr | IA `churchoftomorrow0000daws` |
+| The endless choice, and other sermons (London : J. Nisbet, 1897) | have-ocr | IA `endlesschoiceoth0000daws` |
+| The life of Christ (Philadelphia, G. W. Jacobs & co, 1901) | have-ocr | IA `lifeofchris00daws` |
+| The reproach of Christ, and other sermons (New York, Chicago, Fleming H. Revell Co, 1903) | have-ocr | IA `reproachofchrist0000daws` |
+| The evangelistic note (New York ; Chicago : Fleming H. Revell company, 1905) | have-ocr | IA `evangelisticnote00daws` |
+| The forgotten secret (New York : Revell, 1906) | have-ocr | IA `forgottensecret00daws` |
+| The empire of love (New York, Chicago [etc.] Fleming H. Revell company, [190) | have-ocr | IA `empireoflove00dawsrich` |
+| The divine challenge (New York : Hodder & Stoughton : George H. Doran, 1910) | have-ocr | IA `divinechallenge00daws` |
+| The book of courage (New York, F. H. Revell, 1911) | have-ocr | IA `bookcourage00dawsgoog` |
+| The man Christ Jesus; a life of Christ (New York London : The Century co., 1925) | have-ocr | IA `manchristjesusli00daws` |
+| Poems, novels (A Prophet in Babylon, The War Eagle and others) and the Makers of English handbooks: not theology | excluded | |
+
+## John R. Mott (round 102, my pick, 2026-10-23)
+
+Slugs `mott-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| History of the Student Volunteer Movement for Foreign Missions ([Place of publication not identified] : [publisher not identified], 1892) | have-ocr | IA `historyofstudent00mott` |
+| Strategic points in the world's conquest (New York : Revell, 1897) | have-ocr | IA `strategicpointsi0000mott` |
+| Two hundred million young men in non-Christian lands / [John R. Mott] ([S.l.: s.n.], 1899) | have-ocr | IA `twohundredmillio00mott` |
+| The evangelization of the world in this generation (New York, Student volunteer movement for foreign missions, 1900) | have-ocr | IA `evangelizationw00goog` |
+| The power of Jesus Christ in the life of the student (New York : Board of Education of the Methodist Episcopal Church, 1900) | have-ocr | IA `powerofjesuschri00mott` |
+| The enlargement of the native arm of the service essential to the highest success of missions. : [Address given at the 93. annual meeting of the board, held at Oberlin, Ohio, 1902] (Boston : American Board of Commissioners for Foreign Missions, 1902) | have-ocr | IA `enlargementofnat00mott` |
+| The students of North American united (New York, International Committee of Young Men's Christian Associations, 1903) | have-ocr | IA `studentsofnortha00mott` |
+| The pastor and modern missions : a plea for leadership in world evangelization (New York : Student Volunteer Movement for Foreign Missions, 1904) | have-ocr | IA `pastormodernmis00mott` |
+| The world's evangelization : the obligation of the church of this generation ([Place of publication not identified] : [Laymen's Missionary Movement], 1907) | have-ocr | IA `worldsevangeliza00mott` |
+| The future leadership of the church (Student volunteer movement for foreign missions, 1908) | have-ocr | IA `futureleadership0000john` |
+| Chinese student migration to Tokyo (New York : Foreign Department, International Committee, Young Men's Christian Association, 1908) | have-ocr | IA `chinesestudentmi00mott_0` |
+| How may Jesus Christ be made a reality to me / John R. Mott (New York : Young Men's Christian Association Press, 1908) | have-ocr | IA `howmayjesuschris00mott` |
+| Consecration : an address delivered at the Student Volunteer Conference, held at Liverpool, England, Jan. 2-7, 1908 (New York : Student Volunteer Movement, 1908) | have-ocr | IA `consecrationaddr00mott` |
+| The urgency and crisis in the Far East (New York, Board of Foreign Missions of the Methodist Episcopal Church, 1908) | have-ocr | IA `urgencycrisis00mott` |
+| The decisive hour of Christian missions (New York : Student Volunteer Movement for Foreign Missions, 1910) | have-ocr | IA `decisivehourofch0000mott` |
+| The Continuation Committee (Edinburgh : International Missionary Council, 1910) | have-ocr | IA `continuationcomm00mott` |
+| Men and Religion (1911, several authors) | excluded | |
+
+## Willis D. Weatherford (round 102, my pick, 2026-10-23)
+
+Slugs `weatherford-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| Fundamental Religious Principles in Browning's Poetry (Smith & Lamar, agents , Publishing house of the M. E. church, South, 1907) | have-ocr | IA `fundamentalreli00weatgoog` |
+| Negro life in the South, present conditions and needs (New York, Young Men's Christian Association Press, 1910) | have-ocr | IA `negrolifesouth00weatrich` |
+| Introducing men to Christ : fundamental studies (New York : Association Press, 1911) | have-ocr | IA `introducingmento00weat` |
+| Personal elements in religious life (Nashville, Tenn. ; Dallas, Tex. : Publishing House Methodist Episcopal Church, South, 1916) | have-ocr | IA `personalelements00weat` |
+| Christian life a normal experience : a study in the reality and growth of Christian experience (New York : Association Press, 1919) | have-ocr | IA `christianlifenor00weat` |
+| The Negro from Africa to America (1924, history) and books after 1930 | excluded | |
+| Present Forces in Negro Progress and Interracial Cooperation (several authors) | excluded | |
+
+## J. W. Dawson (round 102, my pick, 2026-10-23)
+
+Slugs `jwdawson-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| Archaia, or, Studies of the cosmogony and natural history of the Hebrew scriptures (Montreal : B. Dawson; London : S. Low, 1860) | have-ocr | IA `cihm_44371` |
+| Nature and the Bible : a course of lectures delivered in New York, in December, 1874, on the Morse foundation of the Union Theological Seminary (New York : R. Carter, 1875) | have-ocr | IA `cihm_09788` |
+| Fictions and errors in a book on "The origin of the world according to revelation and science by J.W. Dawson, L.L.D., principal of McGill University, Montreal" : exposed and condemned on the authority of divine revelation ([Halifax, N.S.? : s.n.], 1877) | have-ocr | IA `cihm_09922` |
+| The origin of the world, according to revelation and science (Montreal : Dawson, 1877) | have-ocr | IA `cihm_02605` |
+| Points of contact between revelation and natural science ([London] : Religious Tract Society, 1885) | have-ocr | IA `pointsofcontac00daws` |
+| Facts and fancies in modern science : studies of the relations of science to prevalent speculations and religious belief : being the lectures of the Samuel A. Crozer Foundation in connection with the Crozer Theological Seminary, for 1881 (Philadelphia : American Baptist Publication Society, 1882) | have-ocr | IA `cihm_05814` |
+| Egypt and Syria : their physical features in relation to Bible history (London : Religious Tract Society, 1885) | have-ocr | IA `cihm_04209` |
+| Modern science in Bible lands (Montreal : Dawson, 1888) | have-ocr | IA `cihm_02626` |
+| The historical deluge in its relation to scientific discovery and to present questions ([London] : Religious Tract Society, 1888) | have-ocr | IA `cihm_12544` |
+| Modern ideas of evolution as related to revelation and science (London : Religious Tract Society, 1890) | have-ocr | IA `cihm_02625` |
+| The day of rest in relation to the world that now is and that which is to come ([London] : Religious Tract Society, 1889) | have-ocr | IA `cihm_28167` |
+| Eden lost and won : studies of the early history and final destiny of man as taught in nature and revelation (London : Hodder and Stoughton, 1895) | have-ocr | IA `cihm_06829` |
+| Science, the ally of religion ([S.l. : s.n., 1896) | have-ocr | IA `cihm_06870` |
+| cihm_34869: The Testimony of the Holy Scriptures respecting Wine and Strong Drink (Pictou, 1858); its readable text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Geology, zoology and McGill University papers: not theology | excluded | |
+
+## Matthew Richey (round 102, my pick, 2026-10-23)
+
+Slugs `richey-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| A short and scriptural method with Antipedobaptists (Halifax, N. S., Printed by J.S. Cunnabell, 1835) | have-ocr | IA `shortscripturalm00rich` |
+| A Memoir of the Late Rev. William Black, Wesleyan Minister, Halifax. N.S.: Including an Account (William Cunnabell, 1839) | have-ocr | IA `amemoirlaterevw00richgoog` |
+| Sermons delivered on various occasions (Toronto : J. Ryerson, 1840) | have-ocr | IA `cihm_40458` |
+| The exalted objects of the Christian ministry : a sermon preached before the conference in Kingston, U.C., 1838, and at the dedicatioon of the Wesleyan Centenary Chapel in St. John's, N.B. 1839 ([Toronto? : s.n.], 1840) | have-ocr | IA `cihm_64760` |
+| A plain statement of facts, connected with the union and separation of the British and Canadian conferences ([Toronto? : s.n.], 1840) | have-ocr | IA `cihm_42315` |
+| A letter to the editor of The Church : in answer to his remarks on the Rev. Thomas Powell's essay on apostolical succession (Kingston, Ont. : [s.n.], 1843) | have-ocr | IA `lettertoeditorof00rich` |
+| A sermon preached at the dedication of the Wesleyan Methodist Church, Ricmond Street, Toronto, on Sunday, June 29, 1845 : and of the Wesleyan Methodist Church, Great St. James Street, Montreal, on Sunday, July 27, 1845 (London : J . Mason ; Montreal : Wesleyan Book Depot, 1845) | have-ocr | IA `sermonpreachedat00rich` |
+| An address at the inauguration of the Halifax Young Men's Christian Association ([Halifax, N.S.? : s.n.], 1854) | have-ocr | IA `cihm_64816` |
+| The spirit of popery and the duty of protestants in regard to public education : eighth lecture delivered before the Protestant Alliance of Nova Scotia at Temperance Hall, Halifax, on Friday evening, April 8th, 1859 ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_94100` |
+| A sermon occasioned by the death of the Rev. William Croscombe : preached in Windsor, 30th October, and in Halifax, 6th November, 1859 ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_39102` |
+| A Plea for the Confederation of the Colonies (political) | excluded | |
+| Poems of Ten Years, by Matthew Richey Knight (a different man) | excluded | |
+
+## A. S. Billingsley (round 102, my pick, 2026-10-23)
+
+Slugs `billingsley-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| From the flag to the cross (Philadelphia, Pa., Boston, Mass. [etc.] New York publishing Company, 1872) | have-ocr | IA `fromflagtocross00bill` |
+| Life of George Whitefield : "Prince of Pulpit Orators" : with specimens of his sermons (New York : J.B. Alden, 1889) | have-ocr | IA `lifeofgeorgewhit00billuoft` |
+
+## Samuel McChord Crothers (round 103, my pick, 2026-10-23)
+
+Slugs `crothers-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| Members of one body : six sermons (Boston : G.H. Ellis, 1892) | have-ocr | IA `membersofonebody00crotrich` |
+| Fortnightly sermons, vol. 1895-96 (Cambridge : Wilson, 1895) | have-ocr | IA `fortnightlysermo189596crot` |
+| The understanding heart (Boston, American Unitarian Association, 1903) | have-ocr | IA `understandinghea00crot` |
+| Love that casteth out fear (Cambridge : Caustic-Claflin Co., 1904) | have-ocr | IA `lovethatcastetho00crot` |
+| The endless life (Boston : Houghton, Mifflin, 1905) | have-ocr | IA `endlesslife00crot_0` |
+| The Gentle Reader, The Pardoner's Wallet, Miss Muffet's Christmas Party (literary essays and a children's book) | excluded | |
+| Being and Doing (several authors) | excluded | |
+
+## Robert Collyer (round 103, my pick, 2026-10-23)
+
+Slugs `collyer-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| The fear of God : a sermon preached in Unity Church, Chicago on Sunday Morning, November 9, 1862 (Chicago : Tribune Book and Job Steam Printing Office, 1862) | have-ocr | IA `fearofgodsermonp00coll` |
+| Nature and life : sermons (Boston : Horace B. Fuller, 1868) | have-ocr | IA `naturelifesermon00colliala` |
+| A man in earnest: life of A. H. Conant (Boston, H. B. Fuller; Chicago, J. R. Walsh, 1868) | have-ocr | IA `maninearnestlife00coll` |
+| The Unity Church fraternity : a sermon (Chicago : Robert Fergus' Sons, 1869) | have-ocr | IA `unitychurchfrate00coll` |
+| The life that now is; sermons (Boston : Fuller, 1871) | have-ocr | IA `lifethatnowisser00colliala` |
+| The Simple Truth (Lee and Shepard Publishers, 1877) | have-ocr | IA `simpletruth0000robe` |
+| Talks to young men (with asides to young women) (Boston, Lee and Shepard; New York, C. T. Dillingham, 1888) | have-ocr | IA `talkstoyoungmenw00coll` |
+| Things new and old, sermons (New York, Dutton, 1893) | have-ocr | IA `thingsnewold00colluoft` |
+| Ilkley, Ancient and Modern (local history, with J. Horsfall Turner) | excluded | |
+| Robert H. Collyer's phrenology and anaesthesia books (a different man) | excluded | |
+
+## George C. Lorimer (round 103, my pick, 2026-10-23)
+
+Slugs `lorimer-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| The great conflict (catalogued 1877) | have-ocr | IA `greatconflict00lori` |
+| Temple themes. Criminality of intemperance. Preached before the Massachusetts Total Abstinence Society, at Tremont temple, Feb. 22, 1879 (Boston, J.E. Simonds, 1879) | have-ocr | IA `templethemescrim00lori` |
+| Isms old and new ([n.p.], 1881) | have-ocr | IA `ismsoldnew00lori` |
+| Studies in social life: a review of the principles, practices, and problems of society (Chicago and New York : Belford, Clarke & co., 1886) | have-ocr | IA `studiesinsociall00lori` |
+| The Galilean, or Jesus, the world's Savior (Boston, Silver, Burdett, 1892) | have-ocr | IA `galileanorjesusw00lori` |
+| Charles Haddon Spurgeon (catalogued 1892) | have-ocr | IA `charleshaddonspu0000geor` |
+| The Baptists in history (catalogued 1893) | have-ocr | IA `baptistsinhistor0000unse` |
+| The argument for Christianity (Philadelphia : American Baptist Publication Society, 1894) | have-ocr | IA `argumentforchris00lori` |
+| Messages of today to the men of tomorrow (Cincinnati : Jennings and Graham, 1896) | have-ocr | IA `messagesoftodayt0000lori` |
+| Tremont Temple sketch book : containing a brief history of Tremont Temple Church (Boston : St. Botolph Press, 1896) | have-ocr | IA `tremonttempleske00lori` |
+| Christianity and the social state (catalogued 1898) | have-ocr | IA `christianitysoci0000geor` |
+| Christianity as a world-power (Philadelphia, American Baptist Publication Society, 1899) | have-ocr | IA `christianityasa00lorigoog` |
+| Christianity In The Nineteenth Century (catalogued 1900) | have-ocr | IA `christianityinni0000geor` |
+| The modern crisis in religion (New York, Chicago [etc.] Fleming H. Revell company, 1904) | have-ocr | IA `moderncrisisinr00lori` |
+| The Master of Millions and The False Gods (novels) | excluded | |
+| Under the Evergreens, Robert Burns, What I Know about Books (not theology); The People's Bible History (many contributors) | excluded | |
+
+## Joseph Tuckerman (round 103, my pick, 2026-10-23)
+
+Slugs `tuckerman-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| A funeral oration. Occasioned by the death of General George Washington. Written at the request of the Boston Mechanic Association, and delivered before them, on the 22d of Feb. 1800. By Joseph Tuckerman. [Four lines in Latin from Seneca].  1800 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_a-funeral-oration-occas_tuckerman-joseph_1800` |
+| Ministers Reports (catalogued 1827) | have-ocr | IA `ministersreports0000jose` |
+| Mr. Tuckerman's seventh semiannual report of his service as a minister at large in Boston (Boston : Gray and Bowen : printed for the American Unitarian Association, 1831) | have-ocr | IA `mrtuckermansseve00tuck` |
+| A sermon preached on Sunday evening, Nov. 2, 1834 : at the ordination of Charles F. Barnard and Frederick T. Gray, as ministers at large in Boston (Boston : Russell, Odiorne and Metcalf and James Munroe and Co., 1834) | have-ocr | IA `sermonpreachedon00tuck` |
+| Gleams of Truth: Or, Scenes from Real Life (James Munroe and Company, 1835) | have-ocr | IA `gleamstruthorsc00tuckgoog` |
+| The principles and results of the ministry at large in Boston (n.p, n.d) | have-ocr | IA `principlesresult00tuck` |
+| Joseph Tuckerman on the Elevation of the Poor: A Selection from His Reports (catalogued 1874) | have-ocr | IA `josephtuckerman00tuckgoog` |
+| The Visitor of the Poor (Degerando's book, which Tuckerman introduced) | excluded | |
+| A Memorial of Rev. Joseph Tuckerman (by others) | excluded | |
+
+## James Caughey (round 103, my pick, 2026-10-23)
+
+Slugs `caughey-*`. Built from title pages read for round 103.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters on various subjects (catalogued 1845) | have-ocr | IA `lettersonvariou01cauggoog` |
+| Methodism in earnest: being the history of a great revival in Great Britain; in which twenty thousand souls were justified, and ten thousand sanctified, in about six years, through the instrumentality of Rev. James Caughey; including an account of the mental and spiritual exercises which made him so eminent a revivalist (Boston, C. H. Peirce, 1850) | have-ocr | IA `methodisminearne00caug` |
+| Revival miscellanies, containing eleven revival sermons : and thoughts on entire sanctification (Boston : For sale by J.P. Magee, 1851) | have-ocr | IA `revivalmiscellan00caug` |
+| Helps to a life of holiness and usefulness (Boston, J. P. Magee, agent, 1852) | have-ocr | IA `helpstolifeofhol00caug` |
+| The triumph of truth, and continental letters and sketches, from the journal, letters, and sermons of the Rev. James Caughey (New York Carlton & Porter, 1857) | have-ocr | IA `thetriumphoftrut00cauguoft` |
+| Showers of blessing from clouds of mercy (Boston, J. P. Magee, 1860) | have-ocr | IA `showersofblessin00caug` |
+| Arrows from my quiver (New York, W. C. Palmer, jr., 1867) | have-ocr | IA `arrowsfrommyquiv00caug` |
+| Glimpses of life in soul-saving (New York, W. C. Palmer, jr., 1868) | have-ocr | IA `glimpsesoflifein00caug` |
+| Light in the dark, through the dominions Unbelief (W. C. Palmer, 1868) | have-ocr | IA `lightindarkthrou0000revj` |
+| A Brief Memoir... of the Rev. J. Caughey (by another hand) | excluded | |
+
+## Charles Wagner (round 104, my pick, 2026-10-23)
+
+Slugs `cwagner-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Youth (New York, Dodd, Mead and Company, 1893) | have-ocr | IA `youthyou00wagnrich` |
+| Courage (New York, Dodd, Mead and company, 1894) | have-ocr | IA `courage00wagn` |
+| The simple life (New York, McClure, Phillips & Co., 1901) | have-ocr | IA `simplelife0000wagn` |
+| The better way <L'ami> (New York : McClure, Phillips, 1903) | have-ocr | IA `betterwaylami00wagniala` |
+| By the fire side (New York : McClure, Phillips & co., 1904) | have-ocr | IA `byfireside00wagn` |
+| The voice of nature (New York, J. S. Ogilvie publishing company, 1904) | have-ocr | IA `voiceofnature00wagn` |
+| Books catalogued under Wagner that are Richard Wagner's music dramas | excluded | |
+
+## John Edgar McFadyen (round 104, my pick, 2026-10-23)
+
+Slugs `mcfadyen-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| The messages of the prophetic and priestly historians (New York : C. Scribner's Sons, 1901) | have-ocr | IA `messagesofprophe0000mcfa` |
+| The divine pursuit ([n. p.], 1901) | have-ocr | IA `divinepursuit00mcfa` |
+| In the hour of silence (Chicago, New York [etc.] Fleming H. Revell company, 1902) | have-ocr | IA `inhourofsilence00mcfa` |
+| Old Testament criticism and the Christian church (New York, C. Scribner's sons, 1903) | have-ocr | IA `oldtestamentcrit00mcfa` |
+| The messages of the psalmists; the Psalms of the Old Testament arranged in their natural grouping and freely rendered in paraphrase (New York, C. Scribner's Sons, 1904) | have-ocr | IA `messagesofpsalmi00mcfarich` |
+| Introduction to the Old Testament (New York : A.C. Armstrong, 1905) | have-ocr | IA `introductiontool00mcfa` |
+| The prayers of the Bible (Toronto : Westminster, [190) | have-ocr | IA `prayersofbible00mcfauoft` |
+| Ten studies in the Psalms (New York, Young men's Christian association press, 1907) | have-ocr | IA `tenstudiesinpsal00mcfa` |
+| The city with foundations (New York : A.C. Armstrong, 1909) | have-ocr | IA `citywithfoundati00mcfa` |
+| The book of the prophecies of Isaiah (New York, The Macmillan company, 1910) | have-ocr | IA `bookofprophecies00mcfa` |
+| The way of prayer (Boston, New York [etc.] The Pilgrim press, 1910) | have-ocr | IA `wayofprayer00mcfa` |
+| The epistles to the Corinthians (London : Hodder and Stoughton, 1911) | have-ocr | IA `theepistlestothe00mcfauoft` |
+| A cry for justice; a study in Amos (Edinburgh T. & T. Clark, 1912) | have-ocr | IA `cryforjusticestu00mcfauoft` |
+| The historical narrative of the Old Testament (Edinburgh : T. & T. Clark, pref) | have-ocr | IA `thehistoricalnar00mcfauoft` |
+| The psalms in modern speech and rhythmical form (London J. Clarke, 1916) | have-ocr | IA `thepsalmsinmoder00mcfauoft` |
+| The problem of pain : a study in the Book of Job (London : J. Clarke, 1917) | have-ocr | IA `theproblemofpain00mcfauoft` |
+| Isaiah in modern speech (London : J.Clarke, [191) | have-ocr | IA `isaiahinmodernsp00mcfauoft` |
+| Jeremiah in modern speech (London, Clarke, [191) | have-ocr | IA `jeremiahinmodern00mcfauoft` |
+| The use of the Old Testament in the light of modern knowledge (London : J. Clarke, pref) | have-ocr | IA `useoftheoldtesta00mcfauoft` |
+| An Introductory Hebrew Grammar (A. B. Davidson's, which he revised) | excluded | |
+
+## Archibald Campbell Tait (round 104, my pick, 2026-10-23)
+
+Slugs `tait-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Suggestions offered to the theological student, under present difficulties : five discourses preached before the University of Oxford (London : John Murray, 1846) | have-ocr | IA `suggestionsoffer00tait` |
+| Dangers and safeguards of modern theology : containing suggestions offered to the theological student under present difficulties (London : John Murray, 1861) | have-ocr | IA `dangerssafeguard00tait` |
+| A letter to the Ven. Archdeacons Hale and Sinclair : being the Bishop of London's reply to an address from a large body of his clergy on the subject of subscription to formularies (London : J. Murray, 1863) | have-ocr | IA `a626062800taituoft` |
+| The Word of God and the ground of faith : six discourses (London : J. Murray, 1863) | have-ocr | IA `a626054700taituoft` |
+| The present condition of the Church of England (London : Macmillan, 1872) | have-ocr | IA `thepresentcondit00taituoft` |
+| Some thoughts on the duties of the established Church of England as a national Church, 7 (Macmillan, 1876) | have-ocr | IA `somethoughtsond00taitgoog` |
+| The church and law : a letter in answer to the Rev. Canon Carter of Clewer : to which is appended a sermon preached at St. Margaret's, Westminster, vol. Talbot collection of British pamphlets (London : Macmillan and Co., 1877) | have-ocr | IA `churchlawletteri00tait` |
+| Address of the president, the Lord Archbishop of Canterbury, at a meeting of the Society for Training Teachers of the Deaf and diffusion of the "German" system in the United Kingdom, held by His Grace's permission in the Library, Lambeth Palace, June 28th, 1877, vol. Talbot collection of British pamphlets. ([London : James Martin, printer, 9, Lisson Grove, N.W., 1877) | have-ocr | IA `addressofpreside00tait` |
+| Pastoral letter of the Archbishop of Canterbury : on the national church and the work of the church defence institution, vol. Talbot Collection of British Pamphlets ([s.l. : s.n., 1881) | have-ocr | IA `pastoralletterof00chur` |
+| The church of the future (New York, Macmillan, 1881) | have-ocr | IA `churchoffuture00tait` |
+| Catharine and Craufurd Tait, wife and son of Archibald Cambpell, archbishop of Canterbury : a memoir (London : Macmillan and co., 1879) | have-ocr | IA `catharinecraufur00tait` |
+| Correspondence with Francis H. Murray and others (two-sided) | excluded | |
+| Letters addressed to the archbishop by others (Indian missions, cathedral reform) | excluded | |
+| Lambeth Conference encyclical (many bishops) | excluded | |
+| difficultiesofch00tait: a letter TO the Bishop of London by a lay member of the London Diocesan Church Building Society, not by Tait | excluded | |
+| chargedeliveredi00tait: the scan opens with Alfred Ollivant's 1860 Llandaff charge (a bound volume of several charges); not safely Tait's alone | excluded | |
+| spiritualwantsof00tait: missionaries' letters on the foreign parts of the Empire, not Tait's own text | excluded | |
+
+## Horatio Southgate (round 104, my pick, 2026-10-23)
+
+Slugs `southgate-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Encouragement to missionary effort among Mohamedans : a sermon by the Rev. Horatio Southgate, Jun., missionary of the Protestant Episcopal Church in the United States of America, to Persia, etc. ; to which are annexed an account of the meeting held at the Church of the Ascension (New York : Protestant Episcopal Press, 1836) | have-ocr | IA `encouragementtom00sout` |
+| Narrative of a Tour Through Armenia, Kurdistan, Persia and Mesopotamia: With an Introduction, vol. 1 (D. Appleton & co., 1840) | have-ocr | IA `narrativeatourt02soutgoog` |
+| A letter to a friend : in reply to a recent pamphlet, from the missionaries of the American Board of Commissioners for Foreign Missions at Constantinople (New York : D. Appleton ; Philadelphia : G.S. Appleton, 1845) | have-ocr | IA `lettertofriendin00sout` |
+| Sermon preached at the consecration of Christ Church Cathedral, Fredericton, N.B., August 31, 1853 ; by The Right Rev. Horatio Southgate, D.D (Boston : Ticknor, Reed, and Fields, 1853) | have-ocr | IA `sermonpreachedat00sout` |
+| The war in the East (New-York, Pudney & Russell, 1854) | have-ocr | IA `warineast00sout` |
+| The sermon preached on occasion of the second anniversary of the Holy Guild of the Church of the Advent : Boston, Mass. on the evening of the First Sunday in Advent, 1854 (Boston : J. Howe, 1855) | have-ocr | IA `sermonpreachedon00sout` |
+| Narrative of a visit to the Syrian (Jacobite) Church of Mesopotamia : with statements and reflections upon the present state of Christianity in Turkey and the character and prospects of the Eastern Churches (New-York : Dana and Co., 1856) | have-ocr | IA `narrativeofvisit00soutrich` |
+| Sermons for some of the principal festivals and fasts of the church and on Christian doctrine and duty : preached at the Church of the Advent, Boston, Massachusetts (New York : D. Dana, 1859) | have-ocr | IA `sermonsforsomeof00sout` |
+| The death of Lincoln (New York, J.W. Amerman, printer, 1865) | have-ocr | IA `deathoflincoln00sout` |
+| workofgoditsmean00sout: printed for private circulation; its readable text never names the preacher; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Holy Communion in Armenian (a liturgical translation) | excluded | |
+
+## George H. Hepworth (round 104, my pick, 2026-10-23)
+
+Slugs `hepworth-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Two sermons preached in the Church of the Unity, April 23, 1865 (Boston : Printed for the Society by J. Wilson, 1865) | have-ocr | IA `twosermonspreach00hepw` |
+| The criminal; the crime; the penalty (Boston, Walker, Fuller, and Company, 1865) | have-ocr | IA `criminalcrimepen00hepw` |
+| Rocks and shoals. Lectures to young men (Boston, American Unitarian Association, 1870) | have-ocr | IA `rocksshoalslectu00hepw` |
+| Hiram Golf's Religion; or, The "shoemaker by the grace of God," (catalogued 1893) | have-ocr | IA `hiramgolfsreligi0000unse` |
+| The life beyond: this mortal must put on immortality (New York, Dutton, 1894) | have-ocr | IA `lifebeyondthismo00hepw` |
+| They met in heaven (New York, E.P. Dutton & Company, 1894) | have-ocr | IA `theymetinheaven00hepw` |
+| Herald sermons (New York : E.P. Dutton, 1894) | have-ocr | IA `heraldsermons00hepw` |
+| Brown studies (New York, E. P. Dutton & company, 1895) | have-ocr | IA `brownstudies00hepw` |
+| The farmer and the Lord (New York, E.P. Dutton, 1896) | have-ocr | IA `farmerlord00hepwrich` |
+| The Hepworth year book ([n. p.], 1897) | have-ocr | IA `hepworthyearbook00hepw` |
+| We Shall Live Again (E. P. Dutton & Company, 1903) | have-ocr | IA `weshallliveagain008415mbp` |
+| The Whip, Hoe, and Sword; Starboard and Port; Through Armenia on Horseback; a July 4 oration (not theology); Songs of the Unity (a hymnal) | excluded | |
+
+## Daniel P. Kidder (round 105, my pick, 2026-10-23)
+
+Slugs `kidder-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| Mormonism and the Mormons (New York : G. Lane & P. P. Sandford, 1842) | have-ocr | IA `mormonismmormons00kidd` |
+| Sketches of residence and travels in Brazil, embracing historical and geographical notices of the empire and its several provinces, vol. 1 (Philadelphia, Sorin & Ball; London, Wiley & Putnam, 1845) | have-ocr | IA `sketchesresiden06kiddgoog` |
+| A treatise on homiletics : designed to illustrate the true theory and practice of preaching the gospel (New York : Phillips & Hunt ; Cincinnati : Walden & Stowe, 1864) | have-ocr | IA `treatiseonhomile00kidd` |
+| The Christian pastorate : its character, responsibilities, and duties (Cincinnati : Hitchcock and Walden ; New York : Nelson and Phillips, 1871) | have-ocr | IA `christianpastor00kiddgoog` |
+| Sunday-school books he edited for the Methodist Sunday School Union (other authors) | excluded | |
+| Brazil and the Brazilians (written with J. C. Fletcher) | excluded | |
+
+## Manton Eastburn (round 105, my pick, 2026-10-23)
+
+Slugs `eastburn-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures, explanatory and practical, on the Epistle of St. Paul to the Philippians (New York, G. & C. & H. Carvill, 1833) | have-ocr | IA `lecturesexplanat00east` |
+| A sermon preached in Trinity Church, Boston, on Saturday, February 18, 1843: on occasion of the interment of the Rt. Rev. Alexander Viets Griswold, D.D., bishop of the Eastern diocese, and senior and presiding bishop of the Protestant Episcopal church in the United States (Boston, J. B. Dow, 1843) | have-ocr | IA `sermonpreachedin00east` |
+| The Gospel : a sermon preached in St. Luke's Church, Rochester, on Wednesday, October 18, 1854, at the consecration of the Rev. Henry Washington Lee, D.D., Rector of that parish, as Bishop of the Diocese of Iowa / by Manton Eastburn (D. Hoyt, 1854) | have-ocr | IA `gospelsermonprea00east` |
+| moderationofprot00east: The Moderation of the Protestant Episcopal Church (1849); the text file returned HTTP 500 | pending | not shelved |
+| Tributes to the Memory of Henry Anthon (several hands) | excluded | |
+| Consecration of St. John's Memorial Chapel (proceedings) | excluded | |
+
+## Henry U. Onderdonk (round 105, my pick, 2026-10-23)
+
+Slugs `onderdonk-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| The rule of faith : a charge to the clergy of the Protestant Episcopal Church in the commonwealth of Pennsylvania, delivered in St. James' Church, Philadelphia, May 22, 1833, at the opening of the convention / by Henry U. Onderdonk (s.n., 1833) | have-ocr | IA `ruleoffaithcharg00onde` |
+| An essay on regeneration (Philadelphia : John C. Pechin, 1835) | have-ocr | IA `essayonregenerat00onde` |
+| Episcopacy examined and re-examined, comprising the tract "Episcopacy tested by Scripture", and the controversy concerning that publication (New York, Protestant Episcopal tract society, 1835) | have-ocr | IA `episcopacyexamin00onde` |
+| The atonement : a charge to the clergy of the Protestant Episcopal Church in Pennsylvania : delivered in St. Andrew's Church, Philadelphia, May 16th, 1838 : at the opening of the Convention (Philadelphia : J. Harding, 1838) | have-ocr | IA `atonementcharget00onde` |
+| A sermon delivered in Christ church, Philadelphia (Philadelphia, J. Crissy, printer, 1841) | have-ocr | IA `sermondeliveredi00onde` |
+| Refuge in God : a sermon delivered in the Church of the Ascension, Philadelphia, on Sunday morning, October 26, 1856 / by the Right Rev. Henry U. Onderdonk (C. Sherman & Son, 1856) | have-ocr | IA `refugeingodsermo00onde` |
+| Episcopacy tested by Scripture (New York : The Protestant Episcopal tract society, 1860) | have-ocr | IA `episcopacytested00onde` |
+| Inaugural dissertation on stone in the bladder (1810, medicine) | excluded | |
+
+## Theodore Dehon (round 105, my pick, 2026-10-23)
+
+Slugs `dehon-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse delivered before the General Convention of the Protestant Episcopal Church in the United States : in St. James's Church, Philadelphia, on the 21st of May, 1814 (Philadelphia : Bradford and Inskeep, 1814) | have-ocr | IA `discoursedeliver00deho` |
+| Sermons, on the public means of grace : the fasts and festivals of the church ; on scripture characters ; and various practical subjects, vol. 2 (Charleston : Published by E. Thayer, 1821) | have-ocr | IA `sermonsonpublicm02deho` |
+| Sermons on the public means of grace, on the fasts & festivals of the church, scripture characters, & various practical subjects (New York, T.N. Stanford, 1856) | have-ocr | IA `sermonsonpublic00dehogoog` |
+| Sermons on confirmation : and an address delivered after administering that holy and apostolic rite (New York : T. and J. Swords, 1831) | have-ocr | IA `sermonsonconfirm00deho` |
+| Books by Theodore Dehon Jervey (a later Charleston historian) | excluded | |
+
+## Seth Williston (round 105, my pick, 2026-10-23)
+
+Slugs `williston-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, on doctrinal and experimental subjects (Hudson [N.Y.]: Printed by A. Stoddard, no. 137, Warren-street, 1812) | have-ocr | IA `sermonsondoctri00willgoog` |
+| A vindication of some of the most essential doctrines of the reformation: being a reply to objections raised against these doctrines in a late publication, entitled: "The errors of Hopkinsianism detected and refuted; in six letters, by Nathan Bangs ..." addressed to the author of the present work (Hudson, N.Y., Printed by Ashbel Stoddard, 1817) | have-ocr | IA `vindicationofsom00will` |
+| The harmony of divine truth (Utica, N.Y. : Bennett and Bright (for the author), 1836) | have-ocr | IA `harmonyofdivinet00will` |
+| Christ's kingdom not of this world. The spiritual character of the kingdom of Christ, in three discourses (New York, Saxton & Miles, 1842) | have-ocr | IA `christskingdomno00will` |
+| Slavery not a scriptural ground of division in efforts for the salvation of the heathen (New-York, M.W. Dodd, 1844) | have-ocr | IA `slaverynotscript00will` |
+| Five discourses on the Sabbath : preached at Durham, N.Y (New Haven : Hooker, 1847) | have-ocr | IA `fivediscourseson00will` |
+| importanceofdist00will: an American Tract Society tract (no. 165) that names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| lecturesonmorali00will: the scan's title page is missing and the text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Columbian Preacher (sermons by several preachers) | excluded | |
+| The Errors of Hopkinsianism (Nathan Bangs's letters against him) | excluded | |
+
+## Alexander Proudfit (round 105, my pick, 2026-10-23)
+
+Slugs `proudfit-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the Northern Missionary Society in the state of New-York, at their first annual meeting, in Troy, February 8; and, by particular request, in Albany, March 6, 1798, at a special meeting of the society: by Alexander Proudfit, ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_proudfit-alexander-monc_1798` |
+| The spiritual steward (Lansingburgh [NY] G. Tracy, 1803) | have-ocr | IA `spiritualsteward00prou` |
+| The ruin and recovery of man : a series of discourses on the distinguishing doctrines of Christianity (Salem, N.Y. : Printed by Dodd and Rumsey, 1806) | have-ocr | IA `ruinrecoveryofma00prou` |
+| Practical Godliness : in thirteen discourses on the duties of the closet, and family, and sanctuary (Salem [N.Y.] : Printed by Dodd and Rumsey, 1813) | have-ocr | IA `practicalgodline00prou` |
+| A Series of Discourses on the Leading Doctrines and Duties of Christianity (Printed by Dodd, Rumsey and Stevenson, 1815) | have-ocr | IA `aseriesdiscours00prougoog` |
+| The universal extension of Messiah's kingdom : a sermon delivered in the North Church, New Haven, Con. Sept. 12, 1822, before the American Board of Commissioners for Foreign Missions at their thirteenth annual meeting (Crocker, 1822) | have-ocr | IA `universalextensi00prou` |
+| The agency of God in the elevation of man : a sermon commemorative of the eminent talents, and private virtues and public services of His Excellency De Witt Clinton, late governor of the state of New-York ; preached at Salem, N.Y. March 11, 1828 (Salem, N.Y. : Printed by Dodd & Stevenson, 1828) | have-ocr | IA `agencyofgodinele00prou` |
+| ourdangeranddut00prougoog: the scan's opening pages and title page do not show the author in OCR; another copy could replace it | pending | not shelved |
+| lectures-on-the-parables-proudfit-1820: no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+
+## Philip Lindsley (round 106, my pick, 2026-10-23)
+
+Slugs `lindsley-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| A plea for the theological seminary at Princeton, N.J, vol. c.1 (Trenton : Printed by George Sherman, 1821) | have-ocr | IA `pleafortheologic01lind` |
+| A sermon, delivered in the chapel of the College of New-Jersey, August 15, 1824 (catalogued 1824) | have-ocr | IA `ASPC0002363100` |
+| The cause of education in Tennessee (catalogued 1833) | have-ocr | IA `causeofeducation00lind` |
+| Educational discourses (Philadelphia, J.B. Lippincott & Co.; Nashville, W.T. Berry & Co., 1859) | have-ocr | IA `educationaldisco00lindrich` |
+| The works of Philip Lindsley (Philadelphia : J.B. Lippincott, 1866) | have-ocr | IA `worksphiliplind02lindgoog` |
+| The works of Philip Lindsley D.D., late president of the University of Nashville, vol. 1 (Philadelphia, J.B. Lippincott & Co.; Nashville, W.T. Berry & Co., 1859) | have-ocr | IA `worksphiliplind03lindgoog` |
+| The works of Philip Lindsley, D.D., formerly Vice-President and President Elect of the College of New Jersey, Princeton; and late President of the University of Nashville, Tennessee (Philadelphia : J.B. Lippincott, 1866) | have-ocr | IA `worksphiliplind04lindgoog` |
+| Tachygraphy and takigrafy manuals by David Philip Lindsley (a different man) | excluded | |
+
+## Henry Belfrage (round 106, my pick, 2026-10-23)
+
+Slugs `belfrage-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| Sacramental Addresses and Meditations: Intended to Aid Devotion, vol. 2 (W. Oliphant, 1821) | have-ocr | IA `sacramentaladdr00belfgoog` |
+| Practical discourses (Edinburgh, 1817) | have-ocr | IA `practicaldiscour00belf` |
+| Sketches of Life and Character, from Scripture and from Observation (W. Oliphant, 1822) | have-ocr | IA `sketcheslifeand00belfgoog` |
+| A monitor to families, or, Discourses on some of the duties and scenes of domestic life (Edinburgh : [s.n.], 1824) | have-ocr | IA `monitortofamilie00belf` |
+| Discourses on the duties and consolations of the aged (Edinburgh : Oliver & Boyd, 1827) | have-ocr | IA `discoursesondut00belfgoog` |
+| Counsels for the sanctuary and for civil life; or, Discourses to various classes in the Church (Oliver & Boyd, 1829) | have-ocr | IA `counselsforsanc00belfgoog` |
+| A practical exposition of the Assembly's shorter catechism: exhibiting a system of theology in a popular form, and particularly adapted for family instruction. 2 (catalogued 1835) | have-ocr | IA `10479480bsb` |
+| Memoir of Alexander Waugh (written with James Hay) | excluded | |
+
+## Alexander Macwhorter (round 106, my pick, 2026-10-23)
+
+Slugs `macwhorter-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| The blessedness of the liberal : a sermon preached in the Middle Dutch Church, before the New-York Missionary Society, at their first Institution, November 1, 1796 (New-York : Printed by T. and J. Swords ..., 1796) | have-ocr | IA `blessednessoflib05macw` |
+| A series of sermons, upon the most important principles of our holy religion, vol. 1 (Newark, Printed by Pennington & Gould, for the author, 1803) | have-ocr | IA `seriesofsermonsu01macw` |
+| Sermons on the most important principles of our holy religion, vol. 2 (Newark : Printed by Pennington & Gould, 1803) | have-ocr | IA `sermonsonmostimp02macw` |
+| Yahveh Christ (1857), by a later Alexander MacWhorter | excluded | |
+
+## Daniel Merrill (round 106, my pick, 2026-10-23)
+
+Slugs `dmerrill-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| Open communion with all who keep the ordinances as Christ delivered them to the saints : eight letters on open communion, addressed to Rufus Anderson (Boston : Printed and sold by Manning & Loring, 1805) | have-ocr | IA `opencommunionwit00merr` |
+| Twelve letters addressed to Rev. Samuel Austin, A.M. : in which his vindication of partial washing for Christian baptism, contained in ten letters, is reviewed and disproved (Boston : Printed by Manning & Loring, 1806) | have-ocr | IA `twelvelettersadd00merr` |
+| The mode and subjects of baptism examined in seven sermons ([n.p.], 1812) | have-ocr | IA `modesubjectsofba00merr` |
+| Balaam disappointed. A thanksgiving sermon, delivered at Nottingham-West, April 13, 1815. A day recommended by the national government, in which to rehearse God's mighty acts, and praise his name (Concord [N.H.] : Printed by Isaac & W.R. Hill, 1815) | have-ocr | IA `balaamdisappoint00merr` |
+| The gospel church vindicated by the Scriptures (Concord : Printed by Hill & Moore, 1819) | have-ocr | IA `gospelchurchvind00merr` |
+| A Thorough Method with Mr. Peter Edwards (by another hand) | excluded | |
+
+## Warren Fay (round 106, my pick, 2026-10-23)
+
+Slugs `wfay-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, delivered July 17, 1812, in Monson, at the funeral of Mrs. Nancy Ely, wife of the Rev. Alfred Ely, who died July 15th, in the 34th year of her age (Printed by Peter B. Gleason, ) | have-ocr | IA `sermondeliveredj00fayw` |
+| A sermon, delivered April 24, 1822, at the ordination of the Rev. Nathanael Cogswell, as colleague pastor of the Congregational church and society in Yarmouth, Mass (Boston : Crocker & Brewster, Printers, 1822) | have-ocr | IA `sermondelivereda00fayw_1` |
+| A Sermon, Delivered January 1, 1822, at the Ordination of the Rev. Joseph Bennet [i.e. Bennett (Crocker & Brewster , printers ..., 1822) | have-ocr | IA `asermondelivere00massgoog` |
+| Obligations of Christians to the heathen world. A sermon delivered at the Old South Church in Boston, before the Auxiliary Foreign Mission Society of Boston and vicinity, at their annual meeting, January 3, 1825 (Boston [Mass.]: Printed by Crocker and Brewster .., 1825) | have-ocr | IA `obligationsofchr00fayw` |
+| Importance of the last promise of Jesus Christ to Christian missionaries. A sermon, delivered at Springfield, May 10, 1826, at the ordination of the Rev. Rufus Anderson, as an evangelist, and of the Rev. Messrs. Josiah Brewer, Eli Smith, Cyrus Stone, and (Boston [Mass.]: Printed by Crocker & Brewster .., 1826) | have-ocr | IA `importanceoflast00fayw` |
+| A sermon, delivered at the funeral of the Rev. Benjamin B. Wisner, D.D. : one of the secretaries of the American Board of Commissioners for Foreign Missions, and formerly pastor of the Old South Church in Boston (Boston : Printed by Crocker and Brewster, 1835) | have-ocr | IA `sermondelivereda00fayw_0` |
+
+## John Pierce (round 106, my pick, 2026-10-23)
+
+Slugs `jpierce-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| A valedictory sermon, on leaving the old meeting house in Brookline, 8 June, 1806; and a dedicatory sermon, on entering the new house of worship, 11 June, 1806 (Cambridge [Mass.] William Hilliard, printer, 1806) | have-ocr | IA `valedictorysermo00pier_0` |
+| A discourse delivered, 9 November, 1817 : the Lord's day after the completion of a century from the gathering of the church in Brookline (Boston : Printed by John Eliot ..., 1818) | have-ocr | IA `discoursedeliver00pier` |
+| The right of private judgment in religion, vindicated against the claims of the Romish Church and all kindred usurpations, in a Dudleian lecture, delivered before the University in Cambridge, 24 October, 1821 (Cambridge [Mass.] : Printed by Hilliard and Metcalf, 1821) | have-ocr | IA `rightofprivateju00pier` |
+| A discourse delivered at Dorchester, on 17 June, 1830 : to commemorate the completion of the second century from its settlement by our Pilgrim fathers (Boston : From the Office of the Daily Advertiser, 1830) | have-ocr | IA `discoursedeliver00pier_2` |
+| Reminiscences of forty years, delivered, 19 March, 1837, the Lord's day after the completion of forty years from his settlement in the ministry, in Brookline (Boston, M. Pratt, printer, 1837) | have-ocr | IA `reminiscencesoff00pier` |
+| Brookline Jubilee : a discourse delivered in Brookline, at the request of its inhabitants, on 15 March, 1847, the day, which completed half a century from his ordination (Boston : [publisher not identified]; (Boston : Thurston, Torry and Company), 1847) | have-ocr | IA `brooklinejubilee00pier` |
+| Requisites to our country's glory (Boston : Dutton and Wentworth, state printers, 1849) | have-ocr | IA `requisitestoourc00pieriala` |
+| sermondelivereda00pier (a 532-page bound volume of pamphlets by several hands) | excluded | |
+
+## Phineas D. Gurley (round 107, my pick, 2026-10-23)
+
+Slugs `gurley-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| A funeral sermon on occasion of the death of Mrs. Harriet S. McGuffey, who died at Woodside, near Dayton, O., July 3, 1850 (B.F. Ells, ) | have-ocr | IA `funeralsermonono00gurl` |
+| Incentives to duty in the work of missions: a sermon: preached for the Board of Foreign Missions of the Presbyterian church in New York, May 4, 1856 / by Phineas D. Gurley (New York: Mission house, 1856) | have-ocr | IA `incentivestoduty00gurl_0` |
+| Funeral address delivered by Rev. Dr. Gurley, on the occasion of the death of William Wallace Lincoln, February 24, 1862 ([Washington, D.C.] : [s.n.], 1862) | have-ocr | IA `funeraladdressde00gurl` |
+| Man's projects and God's results. A sermon (Washington, D.C., W. Ballantyne, 1863) | have-ocr | IA `mansprojectsgods00gurl` |
+| The assassination of Abraham Lincoln, vol. Assassination - Gurley's Funeral Address (catalogued 1865) | have-ocr | IA `assassinationofa00gurl` |
+| The voice of the rod : a sermon preached on Thursday, June 1, 1865, in the New York Avenue Presbyterian Church, Washington, D.C (Washington, D.C. : W. Ballantyne, 1865) | have-ocr | IA `voiceofrodsermon00gurl` |
+| faithingoddrgurl00gurl (a 1940 printing) | excluded | |
+| proceedingsofcal00gurl (minutes of a ministers meeting, many hands) | excluded | |
+
+## George Buist (round 107, my pick, 2026-10-23)
+
+Slugs `gbuist-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| An oration delivered at the orphan-house of Charleston, South-Carolina, October 18th, 1795, being the sixth anniversary of the institution. By the Reverend George Buist, ...  1795 (catalogued 1795) | have-ocr | IA `bim_eighteenth-century_an-oration-delivered-at-_buist-george-rev-min_1795` |
+| Sermons by the Reverend George Buist, D. D. : minister of the Presbyterian Church and President of the College of Charleston, South Carolina, vol. 1 (New York : Printed for E. Sargeant, by D. & G. Bruce, 1809) | have-ocr | IA `sermonsbyreveren01buis` |
+| Sermons, vol. 2 (New York : E. Sargeant, 1809) | have-ocr | IA `sermons02buis` |
+| The Indian annals, Scinde narrative and science papers are by George Buist (1805-1860), the Bombay journalist, a different man | excluded | |
+
+## William Cogswell (round 107, my pick, 2026-10-23)
+
+Slugs `wcogswell-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| A Valedictory Discourse, Preached to the South Church and Parish in Dedham, December 20, 1829 (Perkins & Marvin, 1830) | have-ocr | IA `avaledictorydis00cogsgoog` |
+| The theological class book; containing a system of divinity, in the form of question and answer, accompanied with Scripture proofs, designed for the benefit of theological classes, and the higher classes in Sabbath schools (Boston, Crocker and Brewster; New York, J. Leavitt, 1832) | have-ocr | IA `theologicalclass00cogs` |
+| The harbinger of the millennium; with an appendix (Boston, Peirce and Parker, 1833) | have-ocr | IA `harbingerofmille00cogs` |
+| Assistant to Family Religion, Or, Manual of Theology and Devotions (Published by Crocker & Brewster [etc.], 1836) | have-ocr | IA `assistanttofami01cogsgoog` |
+| Letters to young men preparing for the Christian ministry (Boston, Perkins & Marvin ; Philadelphia, H. Perkins, 1837) | have-ocr | IA `letterstoyoungme00cogs` |
+| The Christian philanthropist; or, Harbinger of the millennium (Boston, Perkins & Marvin [etc.], 1839) | have-ocr | IA `christianphilant00cogs` |
+| The Halifax, Nova Scotia lectures and sermons (CIHM microfiche) are by William Cogswell, curate of St Paul's, Halifax, a different man | excluded | |
+
+## Augustus Woodbury (round 107, my pick, 2026-10-23)
+
+Slugs `awoodbury-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| The divine unity (Boston : American Unitarian Association, [18-) | have-ocr | IA `divineunity00wood` |
+| The character and influence of American civilization (Lowell, S. J. Varney, printer, 1855) | have-ocr | IA `characterinfluen00wood` |
+| Plain Words to Young Men (E. C. Eastman, 1858) | have-ocr | IA `plainwordstoyou00woodgoog` |
+| Courage. A sermon which was to have been preached on Sunday morning, April 21, 1861 (Providence, Cooke & Danielson, printers, 1861) | have-ocr | IA `couragesermonwhi00wood` |
+| The preservation of the republic. An oration delivered before the municipal authorities and citizens of Providence, July 4, 1862 (Providence : Knowles, Anthony & Co., City Printers, 1862) | have-ocr | IA `preservationofre00wood` |
+| The Son of God calleth the dead to life (Providence, S. S. Rider and brother, 1865) | have-ocr | IA `sonofgodcallethd00wood` |
+| A sketch of the character of Abraham Lincoln : a discourse preached in the Westminster Church, Providence, R.I., Thursday, June 1, 1865 (Providence : S.S. Rider and Brother, 1865) | have-ocr | IA `sketchofcharacte00wood` |
+| The President and Congress. A discourse preached in the Westminster Congregational church, Sunday evening, May 6, 1866 (Providence, G. H. Whitney, 1866) | have-ocr | IA `presidentcongres00wood` |
+| A narrative of the campaign of the First Rhode Island regiment, in the spring and summer of 1861 (Providence : Sidney S. Rider, 1862) | have-ocr | IA `woodburynarrative00augurich` |
+| Major General Ambrose E. Burnside and the Ninth Army Corps : a narrative of campaigns in North Carolina, Maryland, Virginia, Ohio, Kentucky, Mississippi and Tennessee, during the war for the preservation of the Republic (Providence, S.S. Rider & Brother, 1867) | have-ocr | IA `ambroseburnside00woodrich` |
+
+## Edward Caswall (round 107, my pick, 2026-10-23)
+
+Slugs `caswall-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| Lyra Catholica: containing all the Breviary and Missal hymns, with others from various sources (London : James Burns, 1849) | have-ocr | IA `LyraCatholica` |
+| Sermons on the seen and unseen (London : James Burns, 1846) | have-ocr | IA `sermonsonseenuns00casw` |
+| The masque of Mary and other poems (London : Burns & Oates ; New York : Catholic Pub. Society, 1800) | have-ocr | IA `masthe00casw` |
+| Verba Verbi. The words of Jesus arranged in order of time: as a daily companion, epitome of the Gospel, and treasury of mental prayer (London, Burns & Lambert, 1855) | have-ocr | IA `VerbaVerbi` |
+| The child's manual : forty days' meditations on the chief truths of religion, as contained in the Church catechism (London : James Burns, 1846) | have-ocr | IA `TheChildsManual` |
+| Morals from the churchyard : in a series of cheerful fables (London : Chapman and Hall, 1838) | have-ocr | IA `MoralsFromTheChurchyard` |
+| His comic Oxford and "Quiz" sketches (Art of Pluck, Sketches of Young Ladies) are left to a literary lane | excluded | |
+| Hymeneal53603 (catalogue attribution doubtful) | excluded | |
+
+## George Sexton (round 107, my pick, 2026-10-23)
+
+Slugs `gsexton-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| A portraiture of Mormonism (London : W. Strange, 1849) | have-ocr | IA `portraitureofmor00sext` |
+| An impartial review of the revival movement of Messrs. Moody and Sankey : a discourse delivered in Goswell Hall, Goswell Road, London, on Sunday evening, May 16th, 1875 (London : Smart and Allen, [187) | have-ocr | IA `a633631900sextuoft` |
+| Theistic Problems: Being Essays on the Existence of God and His Relationship to Man (Hodder and Stoughton, 1880) | have-ocr | IA `theisticproblem01sextgoog` |
+| Christianity & secularism : which is the better suited to meet the wants of mankind? A written debate between the Rev. George Sexton ... and Charles Watts (London, Smart & Allen, 1882) | have-ocr | IA `christianitysecu00sextuoft` |
+| History's testimony to Christ; a discourse preached in St. Augustine's Church, Clapham, England, on Christmas morning, 1877 (Toronto, Briggs, 1884) | have-ocr | IA `historystestimon00sext` |
+| The doctrine of inmortality : as taught in the Old Testament : a discourse delivered in the Cavendish Rooms, London, England, on Sunday evening, July 11, 1875 (Toronto : W. Briggs ; Montreal : Coates ; Halifax : Huestis, 1885) | have-ocr | IA `doctrineofinmort00sext` |
+| Biblical difficulties dispelled : being an answer to queries respecting so-called discrepancies in Scripture, misunderstood and misinterpreted texts, etc., etc (Toronto : W. Briggs, 1885) | have-ocr | IA `cihm_89911` |
+| Light in the cloud: being reasons for renouncing infidelity; two sermons, preached in Augustine Church, Clapham Road, London, on Sunday, Sept. 10th, 1876 (Toronto, Briggs, [188) | have-ocr | IA `lightincloudbein00sextuoft` |
+| The folly of atheism (Philadelphia : M.E. Book Room ; Toronto : W. Briggs, 1895) | have-ocr | IA `cihm_89711` |
+| spiritualmagazi00lldgoog (a periodical volume, many hands) | excluded | |
+| Men with Tails and the vaccination lecture are not theology; left out | excluded | |
+
+## A. T. Schofield (round 108, my pick, 2026-10-23)
+
+Slugs `atschofield-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| Memorials of R. Harold A. Schofield, M.A., M.B. (Oxon.) (late of China Inland Mission) : first medical missionary to Shan-Si, China (London : Hodder and Stoughton, 1885) | have-ocr | IA `b24850706` |
+| Another world : or, The fourth dimension (London : S. Sonnenschein, 1905) | have-ocr | IA `cu31924031255882` |
+| The knowledge of God; its meaning and its power (New York, Funk and Wagnalls company, 1908) | have-ocr | IA `knowledgeofgodit00scho` |
+| With Christ in Palestine : four addresses (N.Y. : R.F. Fenno, 1905) | have-ocr | IA `withchristinpale00scho` |
+| Christian sanity (London : Marshall Bros., 1908) | have-ocr | IA `chistiansanity0000unse` |
+| The divine in man : four lectures given by request at the Alliance Club, London (London : Morgan & Scott, 1909) | have-ocr | IA `divineinmanfourl0000scho` |
+| Fit for work, or, Health in Christian service (London : MArshall, 1909) | have-ocr | IA `b28085565` |
+| Studies in the highest thought (New York : Hodder & Stoughton, 1911) | have-ocr | IA `studiesinhighest00scho` |
+| A study of faith healing (New York : Fleming H. Revell, 1899) | have-ocr | IA `studyoffaithheal0000scho` |
+| The springs of character (New York : Funk & Wagnalls Co., 1901) | have-ocr | IA `springsofcharact00scho` |
+| Modern spiritism : its science and religion (Philadelphia : P. Blakiston's Son & Co., 1920) | have-ocr | IA `modernspiritism00schogoog` |
+| His hygiene, physiology and nerve-medicine manuals are not theology; left out | excluded | |
+
+## William D. Snodgrass (round 108, my pick, 2026-10-23)
+
+Slugs `wdsnodgrass-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| The scripture doctrine of sanctification stated and defended against the error of perfectionism (New York : R. Carter, 1841) | have-ocr | IA `scripturedoctr00snod` |
+| Perfect sanctification : an article from the Princeton review for July, 1842 (Princeton, N.J. : Printed by John T. Robinson, 1842) | have-ocr | IA `perfectsanctific00snod` |
+| Discourses on the Apostolical Succession (1844), IA discoursesonap00snod: text file returned a server error | pending | not shelved |
+| discoursesdelive00murr (Murray Street Church discourses by several ministers) | excluded | |
+
+## William Snodgrass (round 108, my pick, 2026-10-23)
+
+Slugs `wsnodgrass-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| An address delivered at the inauguration of the Charlottetown Young Men's Christian Association : on the evening of February 6, 1856 ([Charlottetown, P.E.I.? : s.n.], 1856) | have-ocr | IA `cihm_41778` |
+| A Sermon, preached on the 1st March, 1857, being the first Sabbath after the funeral of Hew Ramsay, Esq (Montreal : Printed by John Lovell, 1857) | have-ocr | IA `sermonpreachedon00snod` |
+| Night of death : a sermon, preached on the 7th Oct., 1860, being the first Sabbath after the funeral of the Honourable Peter M'Gill (Montreal : Printed by Owler and Stevenson, 1860) | have-ocr | IA `nightofdeathserm00snod` |
+| The good centurion, an example for Scotchmen in Canada (Montreal, Becket, 1862) | have-ocr | IA `goodcenturionexa00snod` |
+| The two builders, or, The conclusion of the matter ([Montreal? : s.n.], 1863) | have-ocr | IA `cihm_43040` |
+| The sacredness of learning; address delivered at the opening of session 1864-65, Queen's college (Kingston, [s.n.], 1864) | have-ocr | IA `sacrednessoflear00snod` |
+| A minister's farewell (Montreal, Printed by J. Lovell, 1864) | have-ocr | IA `ministersfarewel00snod` |
+| The sanctification and apostolical-succession books are by William D. Snodgrass of New York (his own shelf) | excluded | |
+
+## John Service (round 108, my pick, 2026-10-23)
+
+Slugs `jservice-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| Salvation here and hereafter. Sermons and essays (London, Macmillan and co., 1877) | have-ocr | IA `salvationhereher00serv` |
+| Sermons (Macmillan, 1884) | have-ocr | IA `sermons00servgoog` |
+| Prayers for Public Worship (Macmillan and co., 1885) | have-ocr | IA `prayersforpubli00servgoog` |
+
+## Clovis G. Chappell (round 108, my pick, 2026-10-23)
+
+Slugs `chappell-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| More sermons on Biblical characters (New York, George H. Doran company, 1923) | have-ocr | IA `moresermonsonbib00chap` |
+| Sermons on new testament characters (george h. doran company, 1924) | have-ocr | IA `sermonsonnewtest0000revc` |
+| Home Folks (catalogued 1926) | have-ocr | IA `homefolks0000clov` |
+| Christ and the new women (Nashville, Tenn. : Cokesbury press, 1928) | have-ocr | IA `christnewwomen00chap` |
+| Men that count (doubleday, doran & company, inc., 1929) | have-ocr | IA `menthatcount0000clov` |
+| Sermons on Biblical Characters (copyright 1922): this scan is a later Harper printing (printing code D-R, which by Harper's letter code is not the 1922 first printing); a pre-1930 printing is wanted | pending | not shelved |
+| Sermons on Old Testament Characters (copyright 1925): this scan is a later Harper printing (printing code H-N, which by Harper's letter code is not the 1925 first printing); a pre-1930 printing is wanted | pending | not shelved |
+| The Village Tragedy (copyright 1925): this scan carries the Abingdon-Cokesbury imprint, so it was printed in 1940 or later; a pre-1930 printing is wanted | pending | not shelved |
+| Sermons from the Miracles (1927): this scan is a printing from after 1949 (its jacket notes his retirement that year); a pre-1930 printing is wanted | pending | not shelved |
+| Familiar Failures (copyright 1927): this scan has a Garden City imprint and no printing date, so it may be a printing from after 1929; a dated pre-1930 printing is wanted | pending | not shelved |
+| Books printed in 1930 or later (The Sermon on the Mount and after) left out | excluded | |
+
+## John MacHale (round 109, my pick, 2026-10-23)
+
+Slugs `machale-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermoni cinque predicati in Roma : nel corrente anno ecclesiastico / dall' illmo e rmo monsig. Giovanni Mac-Hale, vescovo di Maronia e coadiutore di Killala in Irlanda ; e dall'inglese recati in italiano dall'Ab. Antonino De-Luca (nel Collegio Urbano, 1832) | have-ocr | IA `sermonicinquepre00mach` |
+| The letters of the Most Reverend John Mac Hale, D.D (Dublin : J. Duffy, 1847) | have-ocr | IA `lettersofmostrev00mach` |
+| Sermons and discourses (Dublin : Gill ; New York : Catholic Publication Society, 1883) | have-ocr | IA `sermonsanddiscou00machuoft` |
+| The evidences and doctrines of the Catholic Church : showing that the former are no less convincing than the latter are propitious to the happiness of society (catalogued 1885) | have-ocr | IA `evidencesdoctrin00mach` |
+| Letters of Hierophilos to the English People on the moral and political state of Ireland (1822), IA 10280103bsb: signed only "Hierophilos"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| 10775010bsb (a German translation by another hand) | excluded | |
+| His Irish translations of Moore's Melodies and the Ballad History are literary; left out | excluded | |
+
+## Henry Newland (round 109, my pick, 2026-10-23)
+
+Slugs `hnewland-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| Three lectures on tractarianism : delivered in the town hall, Brighton (London, 1849) | have-ocr | IA `threelecturesont00newl` |
+| Socinianism : the inevitable result of the Manchester and Salford scheme of national education, vol. Talbot Collection of British Pamphlets (London : Joseph Henry Batty, 159, Fleet Street, 1851) | have-ocr | IA `socinianisminevi00newl` |
+| The Lord is at hand : a sermon preached at S. Peter's Chapel, Charlotte Street, Pimlico, on Friday, 14th December, 1852 (London : J. Masters, 1852) | have-ocr | IA `a622772800newluoft` |
+| Confirmation and first communion : a series of essays, lectures, sermons, conversations, and heads of catechising, relative to the preparation of catechumens (London : Joseph Masters, 1860) | have-ocr | IA `confirmationfirs00newl` |
+| A practical and exegetical commentary on the Epistle of St. Paul to the Philippians : in which are exhibited the results of the most learned theological criticisms, from the age of the early Fathers down to the present time (Oxford : J. H. and Jas. Parker, 1860) | have-ocr | IA `practicalexegeti00newl` |
+| The Erne, its legends and its fly-fishing (London, Chapman and Hall, 1851) | have-ocr | IA `erneitslegendsit00newlrich` |
+| Forest scenes in Norway and Sweden: being extracts from the journal of a fisherman (London, G. Routledge & Co., 1855) | have-ocr | IA `forestscenesinno00newlrich` |
+| The Seasons of the Church, what they teach, vol. 3 (1856), IA seasonsofchurchw03newluoft: a series of sermons he EDITED, not shown to be all his own (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| The 1829 Apology for the Established Church in Ireland and the 1832 reply to Doyle are by Henry Newland, Dean of Ferns, a different man | excluded | |
+| The Life of Antonio de Dominis (1859) is by Henry Newland, D.D., Dean of Ferns, per its title page; a different man | excluded | |
+
+## John Franklin Genung (round 109, my pick, 2026-10-23)
+
+Slugs `genung-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| The epic of the inner life : being the book of Job (Boston : Houghton, Mifflin, 1893) | have-ocr | IA `epicofinnerlifeb00genuuoft` |
+| What a carpenter did with his Bible: an address by John Franklin Genung (New York, Boston, T. Y. Crowell & company, 1898) | have-ocr | IA `whatcarpenterdid00genu` |
+| Ecclesiastes : words of Koheleth, son of David, King in Jerusalem (Boston : Houghton, Mifflin, 1904) | have-ocr | IA `ecclesiastesword00genuuoft` |
+| The Hebrew literature of wisdom in the light of to-day; a synthesis (Boston and New York, Houghton, Mifflin and company, 1906) | have-ocr | IA `hebrewliterature00genu` |
+| A guidebook to the Biblical literature (Boston, New York [etc.] Ginn and company, 1919) | have-ocr | IA `guidebooktobibli00genu` |
+| His rhetoric textbooks and the Tennyson study are not theology; left out | excluded | |
+
+## S. Reynolds Hole (round 109, my pick, 2026-10-23)
+
+Slugs `hole-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| Addresses spoken to workingmen from pulpit and platform (New York : Thomas Whittaker, [189) | have-ocr | IA `addressesspokent00holerich` |
+| Our duty in danger, vol. Talbot Collection of British Pamphlets (London : Printed for the Church Defence Institution, 9, Bridge Street, Westminster, 1883) | have-ocr | IA `ourdutyindanger00hole` |
+| The memories of Dean Hole (New York : Macm., 1892) | have-ocr | IA `memoriesofdeanho0000hole` |
+| More memories; being thoughts about England spoken in America (New York and London, Macmillan and Co., 1894) | have-ocr | IA `morememoriesbein0000hole` |
+| Then and now (London : Hutchinson, 1901) | have-ocr | IA `thenandnow00holeuoft` |
+| A little tour in America (London : E. Arnold, 1895) | have-ocr | IA `littletourinamer00holeuoft` |
+| His rose and garden books and Irish and Riviera travel books are left to another lane | excluded | |
+
+## Lewis French Stearns (round 109, my pick, 2026-10-23)
+
+Slugs `lfstearns-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| The evidence of Christian experience : being the Ely lectures for 1890 (New York : C. Scribner's Sons, 1890) | have-ocr | IA `theevidenceofchr00steauoft` |
+| Henry Boynton Smith (Boston, Houghton Mifflin, 1892) | have-ocr | IA `henryboyntonsmit00stea` |
+| Present day theology : a popular discussion of leading doctrines of the Christian faith (New York : C. Scribner, 1893) | have-ocr | IA `presentdaytheolo00stea` |
+
+## Peter Thacher (round 109, my pick, 2026-10-23)
+
+Slugs `pthacher-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| An oration delivered at Watertown, March 5, 1776. : To commemorate the bloody massacre at Boston: perpetrated March 5, 1770 (Watertown [Mass.] : Printed and sold by Benjamin Edes, on the bridge, 1776) | have-ocr | IA `orationdelivered00thac` |
+| A reply to the strictures of Mr. J. S. a layman, upon the pamphlet entitled Observations upon the present state upon the present state of the clergy in New-England, &c. By Peter Thacher, A.M. author of said pamphlet.  1784 (catalogued 1784) | have-ocr | IA `bim_eighteenth-century_a-reply-to-the-stricture_thacher-peter_1784` |
+| A sermon preached to the society in Brattle-street, Boston, March 25th, 1798 : and occasioned by the death of Madam Rebecca Gill, consort of his Honor Moses Gill, Esq., lieutenant-governor of the commonwealth of Massachusetts, who died March 19th, 1798, ætat. 70 (Boston : Printed by Rhoades and Laughton ..., 1798) | have-ocr | IA `sermonpreachedto00thac` |
+| A sermon, delivered at the First Church in Boston, April 6, 1798,  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-delivered-at-t_thacher-peter-pastor-o_1798` |
+| A sermon preached June 12, 1799, before His Honor Moses Gill, esquire, lieutenant governor and commander in chief (Boston: Printed by Young & Minns, Printers to the Government of Massachusetts, 1799) | have-ocr | IA `sermonpreachedju00thac` |
+| A sermon preached to the Church and Society in Brattle-Street, Boston, Dec. 29, 1799 : and occasioned by the completion of a century from its first establishment (Boston : Printed by Young & Minns ..., 1800) | have-ocr | IA `sermonpreachedto00thac_0` |
+| The Rest which Remaineth to the People of God (1778), IA bim_eighteenth-century_the-rest-which-remaineth_thacher-peter-pastor-o_1778: the text file holds the tail of a microfilm reel of other items, not this sermon | pending | not shelved |
+| The 1696 Saints' Victory and the 1730 Man's Frailty are by earlier Peter Thachers of Milton and Middleborough; the court reports are by Judge Peter O. Thacher | excluded | |
+
+## John McClintock (round 110, my pick, 2026-10-23)
+
+Slugs `mcclintock-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourse delivered on the day of the funeral of President Lincoln, Wednesday, April 19, 1865, in St. Paul's Church, New York (New York : Press of J.M. Bradstreet & Son, 1865) | have-ocr | IA `discoursedeliver00mccl` |
+| Living words; or, Unwritten sermons (New York : Carlton & Lanahan; San Francisco E. Thomas [etc., etc.], 1871) | have-ocr | IA `07416210.emory.edu` |
+| Analysis of Watson's Theological institutes (New York, Pub. by G. Lane & P. P. Sabdford, 1842), IA analysisofwatson00mccl: the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Sketches of eminent Methodist ministers (New York : Published by Carlton & Phillips, 1854), IA sketchesofeminen00mccliala: a collection he EDITED, chapters by several hands (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| His Latin and Greek school grammars are not theology; left out | excluded | |
+| His translation of Neander's Life of Jesus Christ and his editions of Olin and Watson are other men's works | excluded | |
+| The Cyclopaedia of Biblical, Theological and Ecclesiastical Literature, with James Strong, is a many-volume joint work; left for its own decision | excluded | |
+| John Beedle's Sleigh Ride is by another John McClintock | excluded | |
+
+## H. J. Wilmot-Buxton (round 110, my pick, 2026-10-23)
+
+Slugs `wbuxton-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| Waterside mission sermons. Ser. 1, 3rd ed.; ser. 2 (catalogued 1875) | have-ocr | IA `watersidemissio00buxtgoog` |
+| Short sermons for children (catalogued 1876) | have-ocr | IA `shortsermonsfor00buxtgoog` |
+| The Lord's song: plain sermons on hymns (catalogued 1880) | have-ocr | IA `lordssongplains00buxtgoog` |
+| The life worth living, mission sermons (W. Skeffington & Son, 1882) | have-ocr | IA `lifeworthliving00buxtgoog` |
+| The children's bread; short sermons to children (New York : James Pott, 1883) | have-ocr | IA `childrensbreadsh00wilm` |
+| Parable sermons for children (New York, James Pott, 1884) | have-ocr | IA `parablesermonsfo00wilm` |
+| New and contrite hearts : forty brief meditations for Lent (New York : J. Pott, 1888) | have-ocr | IA `NewAndContriteHearts` |
+| The battle of life : a series of mission sermons, including courses of sermons on the parable of the ten virgins and the parable of the prodigal son (London : Skeffington, 1895) | have-ocr | IA `battleoflifeseri0000wilm` |
+| The tree of life : plain sermons on the fruits of the spirit (London : Skeffington, 1898) | have-ocr | IA `thetreeoflifepla00wilmuoft` |
+| Day by day duty : thirty plain sermons, including many for the principal church seasons (London : Skeffington & Son, 1905) | have-ocr | IA `daybydaydutythir0000wilm` |
+| God's heroes : a series of plain sermons (London : Skeffington & son, 1907) | have-ocr | IA `godsheroesaserie00wilmuoft` |
+| His art-history handbooks and the novel The Mysteries of Isis are left to other lanes; the anaesthetics books are by Dudley Wilmot Buxton and the history books by E. M. Wilmot-Buxton | excluded | |
+
+## J. C. Cochran (round 110, my pick, 2026-10-23)
+
+Slugs `jccochran-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| A pastoral letter to the parishioners of St. John's, Lunenburg ([Halifax, N.S.? : s.n.], 1850) | have-ocr | IA `cihm_89290` |
+| A sermon in reference to the death of the Right Rev. John Inglis, D. D., Lord Bishop of Nova Scotia : preached in St. John' s Church, Lunenburg, N.S., on Sunday the 17th November, 1850 ([Halifax, N.S.? : s.n.], 1850) | have-ocr | IA `cihm_63880` |
+| A New Year's address to the congregation of the Bishop's Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1861) | have-ocr | IA `cihm_67272` |
+| Correspondence between the Bishop of Nova Scotia and the Reverend Canon Cochran, M.A., touching the dismissal of the latter from the pastoral charge of Salem Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1866) | have-ocr | IA `cihm_23366` |
+| A New Year's address to the congregation of "Trinity Church", Halifax, N.S. (Halifax, N.S. : J. Bowes, 1867), IA cihm_64130: the address is unsigned in the scan; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+
+## F. Barham Zincke (round 110, my pick, 2026-10-23)
+
+Slugs `zincke-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| Some thoughts about the school of the future: a sketch of the solution which time appears to be preparing for the difficult educational questions of the day (London, Longmans, 1852) | have-ocr | IA `somethoughtsabou00zincrich` |
+| The duty and the discipline of extemporary preaching (New York, C. Scribner & Co., 1867) | have-ocr | IA `dutydisciplineof00zinc` |
+| Last winter in the United States; being table talk collected during a tour through the late Southern Confederation, the Far West, the Rocky Mountains, &c (London, J. Murray, 1868) | have-ocr | IA `lastwinterin00zincrich` |
+| Egypt of the Pharaohs and of the kedivé (London Smith, Elder, 1873) | have-ocr | IA `egyptofpharaohso00zinc` |
+| A month in Switzerland (London, Smith, 1873) | have-ocr | IA `monthinswitzerla00zincuoft` |
+| Swiss allmends and a walk to see them, being a second month in Switzerland (London, Eng. : Smith, Elder, 1874) | have-ocr | IA `swissallmendsand00zincrich` |
+| A walk in the Grisons, being a third month in Switzerland (London, Smith, 1875) | have-ocr | IA `walkingrisonsbei00zincuoft` |
+| Some materials for the history of Wherstead (Ipswich : Read & Barrett, 1887) | have-ocr | IA `somematerialsfor00zinc` |
+
+## John Frederick Schroeder (round 110, my pick, 2026-10-23)
+
+Slugs `jfschroeder-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| The intellectual and moral resources of horticulture (New York, [E. Conrad, printer], 1828) | have-ocr | IA `intellectualmora00schr` |
+| The great man in Israel : a discourse on the character of the Right Reverend John Henry Hobart, D. D., delivered in Trinity Church, and St. Paul's and St. John's Chapels, in the city of New-York, September, A.D. MDCCCXXX [1830] (New-York : Printed at the Protestant Episcopal Press, 1830) | have-ocr | IA `greatmaninisrael00schr` |
+| Plea for the industrious poor and strangers, in sickness : an address delivered at the opening of an edifice erected by the trustees of the New-York D (New York : Printed at the Protestant Episcopal Press, 1830) | have-ocr | IA `pleaforindustrio00schr` |
+| Memoir of the life and character of Mrs. Mary Anna Boardman, with a historical account of her forefathers, and biographical and genealogical notices of many of her kindred and relatives (New Haven, Printed for private distribution, 1849) | have-ocr | IA `memoiroflifechar00schr` |
+| Life and times of Washington: containing a particular account of national principles and events, and of the illustrious men of the revolution, vol. 02 (New York : Johnson, Fry, and Company, 1857), IA lifetimeswashcon02schrrich: text file returned a server error | pending | not shelved |
+| Memorial of Bishop Hobart. A collection of sermons on the death of the Right Reverend John Henry Hobart, with a memoir of his life and writings (New York, T. and J. Swords, 1831), IA memorialofbishop00schr: sermons by several preachers on Hobart's death, which he collected with a memoir (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Maxims of Washington (maximsofwashingt00wash): Washington's own words, which Schroeder only compiled | excluded | |
+
+## W. T. Leach (round 111, my pick, 2026-10-23)
+
+Slugs `wtleach-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, preached in St. Andrew's Church, Toronto, on the thirtieth day of November, 1837 (St. Andrew's Day) ([Toronto? : s.n.], 1838) | have-ocr | IA `cihm_45242` |
+| Discourse on the nature and duties of the military profession : delivered in Saint Andrew's Church, Toronto, to the 93d Highlanders, on the eve of their departure from Toronto garrison (Toronto : H. Scobie, 1840) | have-ocr | IA `cihm_89019` |
+| A discourse, delivered to St. Andrew's Lodge (No. 1,) of Freemasons, on Monday, the 28th December, 5840 [i.e. 1840] : being the annual festival of St. John the Evangelist (Toronto : Printed by order of the Lodge, by H. Scobie, 1841) | have-ocr | IA `cihm_45509` |
+| An address on rechabitism : delivered at the quarterly meeting of the members of the Independant Order of Rechabites, in the hall of the Spring of Canada Tent on the 18th July, 1845 ([Montreal? : s.n.], 1845) | have-ocr | IA `cihm_63162` |
+| Introductory lecture for the Mercantile Library Association delivered on the 9th January 1854 ([Montreal? : s.n.], 1854) | have-ocr | IA `cihm_64149` |
+| Discourse delivered in St. George's Chapel, Montreal, on Christmas day, 1861 : (the 6th and 7th companies of the Prince of Wales Regiment being present) ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_45326` |
+| A discourse delivered in Christ Church Cathedral on St. George's Day, 23rd April, 1862 : before the St. George's Society of Montreal by the Rev. Canon Leach, D.C.L. and published at the request of the society ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_63902` |
+| A great work left undone, or, The desideratum in systems of education : a lecture delivered on the 26th January, 1864 ([Montreal? : s.n.], 1864) | have-ocr | IA `cihm_04783` |
+| Sermon preached in St. George's Chapel, Montreal, on Advent Sunday, 1851 : appointed by authority, for the celebration of the third semi-centennial jubilee of the Society for the Propagation of the Gospel in Foreign Parts ([Montéal? : s.n.], 1993) | have-ocr | IA `cihm_93540` |
+| discoursedeliver00leac (another scan of the 1837 sermon) | excluded | |
+| proceedingsofpr00pres (the Presbytery of Toronto's record of his case) | excluded | |
+
+## Caleb D. Bradlee (round 111, my pick, 2026-10-23)
+
+Slugs `bradlee-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| The life, writings, and character of Rev. Thomas Starr King (Boston, Press of J. Wilson and son, 1870) | have-ocr | IA `lifewritingschar00brad` |
+| Christ all in all: A sermon (Boston, 1872) | have-ocr | IA `christallinallse00brad` |
+| Farewell: A sermon ([n. p.], 1872) | have-ocr | IA `farewellsermon00brad` |
+| Death and the Resurrection: A Sermon Preached on Sunday, March 15, 1874 (Press of John Wilson andSon, 1874) | have-ocr | IA `deathandresurre00conggoog` |
+| The grand hereafter. A sermon (Cambridge, 1877) | have-ocr | IA `grandhereafterse00brad` |
+| Thirtieth anniversary of the foundation of the Harrison Square Church, Dorchester District, Boston, Mass., Oct. 13, 1878 : a sermon (Boston : F.W. Barry, 1878) | have-ocr | IA `thirtiethanniver00brad` |
+| Brief Memoir of Dr. Geo. H. Gay, H.C. 1842 ([s.n.], 1879) | have-ocr | IA `briefmemoirdrge00bradgoog` |
+| A few poems ([Boston], 1880) | have-ocr | IA `fewpoems00brad` |
+| Psalm XXXVII, 23 (Boston, Press of N. Sawyer & son, 1881) | have-ocr | IA `psalmxxxvii2300brad` |
+| History of the Ordination of Caleb D. Bradlee: Also History of the Thirtieth Anniversary of His (Printed for the Author , D. Clapp & Son , Printers, 1885) | have-ocr | IA `historyordinati00bradgoog` |
+| Sermons for all sects (Bost., 1888) | have-ocr | IA `sermonsforallsec00brad` |
+| Sermons for the church (Boston, G. H. Ellis, 1893) | have-ocr | IA `sermonsforchurch00bradrich` |
+| Recollections of a Ministry of Forty Years: Dec. 11, 1854--Dec. 11, 1894 (Geo. H. Ellis, 1895) | have-ocr | IA `recollectionsam03bradgoog` |
+| mozartpoem0000brad (1962, another Bradlee) | excluded | |
+
+## John Carry (round 111, my pick, 2026-10-23)
+
+Slugs `carry-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons doctrinal, devotional and practical (Quebec : J. Lovell, 1860) | have-ocr | IA `cihm_54327` |
+| God's worship not self-seeking : a sermon preached in Christ Church, Holland Landing, and St. James the Apostle, Sharon, June 1871 (Toronto : H. Rowsell, 1871) | have-ocr | IA `cihm_10279` |
+| Restorationism : two sermons preached in St. Stephen's Church, Toronto, on the last Sunday after Trinity, 1875 (Toronto : Hart & Rawlinson, 1875) | have-ocr | IA `cihm_88813` |
+| An exposure of the mischievous perversions of Holy Scripture : in the National Temperance Society's publications, addressed to men of sense and candour (Toronto : Printed by Rowsell & Hutchison, 1885) | have-ocr | IA `exposureofmischi00carr` |
+| cihm_00493 (another scan of the Exposure) | excluded | |
+| essayonsubjectof00nico (an essay by another hand) | excluded | |
+| cihm_92034 (King William III's prayers, which Carry edited) | excluded | |
+
+## George Webber (round 111, my pick, 2026-10-23)
+
+Slugs `gwebber-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures and sermons (Charlottetown, [P.E.I.] : H. Cooper, 1875) | have-ocr | IA `cihm_49059` |
+| The pulpit the age needs (Toronto : W. Briggs; Montreal : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886) | have-ocr | IA `cihm_49060` |
+| God in history (Toronto : W. Briggs; Montreal : C.W. Coates, 1888) | have-ocr | IA `cihm_25612` |
+
+## William Rintoul (round 111, my pick, 2026-10-23)
+
+Slugs `rintoul-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| Remarks on the claims of Scotsmen abroad, on the Christian sympathy and exertions of their countrymen at home (Edinburgh : printed for Waugh & Innes, 1826) | have-ocr | IA `remarksonclaimso00rint` |
+| A Sermon on Dancing, preached by a minister in Canada West (1843), IA cihm_40457: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Sermon and addresses, on the occasion of the admission, by the Presbytery of Toronto, of the Rev. John Barclay, A.M. to the pastoral charge of the congregation of St. Andrew's Church, Toronto, on the 6th December, 1842 (Toronto, Printed at the British Colonist Office, 1843), IA sermonaddresseso00rint: his sermon bound with addresses by James George and John Tawse (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| cihm_49446 (a pastoral letter of the Synod, a corporate document) | excluded | |
+
+## W. C. E. Newbolt (round 112, my pick, 2026-10-23)
+
+Slugs `newbolt-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| Penitence and peace. Being addresses on the fifty-first and twenty-third psalms (London, 1892) | have-ocr | IA `penitencepeacebe0000newb` |
+| Counsels of faith and practice : being sermons preached on various occasions / by W.C.E. Newbolt (London : Longmans, 1894) | have-ocr | IA `counselsoffaithp00newb` |
+| Speculum sacerdotum : or, The divine model of the priestly life (London, N.Y. : Longmans, Green, 1894) | have-ocr | IA `SpeculumSacerdotum` |
+| The prayer-book : its voice and teaching ; being spiritual addresses bearing on the Book of Common Prayer (London : Longmans, Green, 1894) | have-ocr | IA `theprayerbookits00newbuoft` |
+| Quiet days & retreats : being some thoughts on their observance (Oxford : Mowbray, 1894) | have-ocr | IA `QuietDaysRetreats` |
+| The Gospel of experience : or, the witness of human life to the truth of revelation, being the Boyle lectures for 1895 (London : Longmans, Green & Co, 1896) | have-ocr | IA `thegospelofexper00newbuoft` |
+| Priestly ideals : being a course of practical lectures delivered in St. Paul's Cathedral to "Our Society" and other clergy, in Lent, 1898 (London, New York : Longmans, Green, 1899) | have-ocr | IA `priestlyidealsbe00newb` |
+| Religion (London, New York [etc.] Longmans, Green & Co., 1899) | have-ocr | IA `religion00newb` |
+| Handbook to the Gospel according to S. Matthew : for the use of teachers and students (London : Rivingtons, 1900) | have-ocr | IA `handbooktogospel00newb` |
+| Words of exhortation; sermons preached at S. Paul's and elsewhere (London, New York Longmans, Green, and Co., 1900) | have-ocr | IA `wordsofexhortati0000newb` |
+| The dial of prayer; being devotions for every hour for those who would wish to live near to God (London, New York Longmans, Green and Co., 1900) | have-ocr | IA `TheDialOfPrayer` |
+| Apostles of the Lord : being six lectures on pastoral theology delivered in the Divinity School, Cambridge, Lent term, 1901 (London ; New York : Longmans, Green, 1901) | have-ocr | IA `ApostlesOfTheLord` |
+| Priestly blemishes : Or, Some secret hindrances to the realization of priestly ideals: a sequal, being a second source of practical lectures delivered ... "Our Society" and other clergy, in Lent, 1902 (Longmans, Green, and Co., 1902) | have-ocr | IA `priestlyblemishe0000unse` |
+| The Church of England : an appeal to facts and principles (London : Longmans, Green, and Co., 1903) | have-ocr | IA `churchofenglanda00newbuoft` |
+| The cardinal virtues (London, New York : Hodder and Stoughton, 1903) | have-ocr | IA `cardinalvirtues00newb` |
+| The church catechism; the Christian's manual (London, New York : Longmans, Green, 1903) | have-ocr | IA `churchcatechismc00newbiala` |
+| Handbook to The gospel according to S. John (Rivingtons, 1906) | have-ocr | IA `handbooktogospel0000revw` |
+| Fundamental Christianity : four sermons preached in St. Paul's Cathedral on the Sundays in August, 1906, vol. Talbot Collection of British Pamphlets (London : G.J. Palmer & Sons, 7, Portugal Street, W.C., [190) | have-ocr | IA `fundamentalchris00newb` |
+| The Sacrament of the Altar (catalogued 1908) | have-ocr | IA `sacramentofaltar0000revw` |
+| The Holy Eucharist : a series of lectures delivered to the members of the St. Paul's Lecture Society (London : Longmans, Green, 1911) | have-ocr | IA `holyeucharistser00newbuoft` |
+| Confirmation (London, Wells Gardner, Darton, 1912) | have-ocr | IA `confirmation0000newb` |
+| The ministry of the word (longmans, gree, and co., 1913) | have-ocr | IA `ministryofword0000wcen` |
+| The fruit of the spirit : being ten addresses bearing on the spiritual life (London ; New York : Longmans, Green, 1913) | have-ocr | IA `thefruitofthespi00newbuoft` |
+| Christian marriage at the cross-roads : being five addresses (London : Skeffington & Son, [192) | have-ocr | IA `christianmarriag00newb` |
+| Years that are past; being some recollections of a long life (London : W. Gardner, Darton & co., ltd., 1921) | have-ocr | IA `cu31924029450925` |
+| Liddon's Life of Pusey and Pusey's Spiritual Letters, which he co-edited, and the many-author Cathedrals of England, are other men's works | excluded | |
+
+## Joseph S. C. F. Frey (round 112, my pick, 2026-10-23)
+
+Slugs `frey-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| The Converted Jew, or, Memoirs of the life of Joseph Samuel C. F. Frey, who was born a Jew but is now a minister of the gospel in London : to which are added An address to Christians ... and a Concise history of the Dispersion (Boston : S. T. Armstrong, 1815) | have-ocr | IA `convertedjeworme00frey` |
+| Essays on Christian baptism (Boston : Published by Lincoln & Edmands, 1829) | have-ocr | IA `essaysonchrist00frey` |
+| Narrative of the Rev. Joseph Samuel C. F. Frey (New York : Printed for the Author, 1834) | have-ocr | IA `narrativeofrevjo00frey` |
+| Joseph and Benjamin: letters on the controversy between Jews and Christians (catalogued 1837) | have-ocr | IA `josephandbenjam01freygoog` |
+| Judah and Israel : or, the restoration and conversion of the Jews and the ten tribes (London : Ward, 1838) | have-ocr | IA `judahisraelorres00freyiala` |
+| The Scripture Types, vol. 1 (catalogued 1841) | have-ocr | IA `scripturetypes0001jose` |
+| The Messiahship of Jesus : a course of lectures (Philadelphia : American Baptist Publication Society, 1850) | have-ocr | IA `messiahshipofjes00frey_0` |
+| His Hebrew grammars and dictionaries are language tools; left out | excluded | |
+
+## Julius Kaftan (round 112, my pick, 2026-10-23)
+
+Slugs `kaftan-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| The truth of the Christian religion (Edinburgh : T. & T. Clark, 1894) | have-ocr | IA `truthofchristian0000kaft` |
+| The truth of the religion, vol. 2 (catalogued 1894) | have-ocr | IA `truthofreligion0002unse` |
+| Das Wesen der christlichen Religion (Basel, Bahnmaier's Verlag, 1881) | have-ocr | IA `daswesenderchris0000kaft` |
+| Jesus und Paulus : eine freundschaftliche Streitschrift gegen die Religionsgeschichtlichen Volksbücher (Tübingen : J.C.B. Mohr (Paul Siebeck), 1906) | have-ocr | IA `jesusundpaulusei0000kaft` |
+| Der Mensch Jesus Christus : der einige Mittler zwischen Gott und den Menschen, vol. 4 (Lichterfelde : E. Runge, 1908) | have-ocr | IA `dermenschjesusch0004kaft` |
+| Dogmatik 7. und 8 (Tuebingen : Mohr, 1920) | have-ocr | IA `dogmatik7und80000kaft` |
+| Neutestamentliche theologie : im Abriss dargestellt (Berlin : M. Warneck, 1927) | have-ocr | IA `neutestamentlich0000kaft` |
+| Das Christentum und die Philosophie (J.C. Hinrichs, 1896), IA daschristentumu00kaftgoog: Fraktur type, and the OCR text is unreadable (needs re-OCR) | pending | not shelved |
+| His student dissertations (Sollen und Sein, 1872; Veterum ecclesiae, 1873) left out | excluded | |
+
+## Otto Zöckler (round 112, my pick, 2026-10-23)
+
+Slugs `zockler-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| The cross of Christ: studies in the history of religion and the inner life of the church (London, Hodder and Stoughton, 1877) | have-ocr | IA `CrossOfChrist` |
+| The Proverbs of Solomon, vol. 10 (catalogued 1870) | have-ocr | IA `proverbsofsolomo0010unse` |
+| The Song of Solomon, vol. 10 (New York, C. Scribner & Co., 1870) | have-ocr | IA `songofsolomon0010zckl` |
+| The Book of Job : a rhythmical version with introduction and annotations, vol. 8 (New York : Charles Scribner's Sons, 1874) | have-ocr | IA `bookofjobrhythmi08zc` |
+| The Books of the Chronicles, vol. 7 (catalogued 1877) | have-ocr | IA `booksofchronicle0000unse_z5d2` |
+| Theologia naturalis: Entwurf einer systematatischen Naturtheologie von offenbarungsgläubigen Standpunkte aus. 1 (catalogued 1860) | have-ocr | IA `10399980bsb` |
+| Gottes Zeugen im Reich der Natur : Biographien und Bekenntnisse grosser Naturforscher aus alter und neuer Zeit (Gütersloh : C. Bertelsmann, 1881) | have-ocr | IA `gotteszeugenimre0000zckl` |
+| Die Apokryphen des Alten Testments : nebst einem Anhang überdie Pseudepigraphenliteratur (München : C.H. Beck, 1891) | have-ocr | IA `dieapokryphendes00zckl` |
+| Askese und Mönchtum, vol. 1-2 (Frankfurt, Heyder, 1897) | have-ocr | IA `askeseundmncht12zcuoft` |
+
+## Milton P. Braman (round 112, my pick, 2026-10-23)
+
+Slugs `braman-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| Obstacles to the success of the gospel : a sermon preached at the dedication of the new meeting-house, erected by the First Religious Society in North Danvers, November 21st, 1839 (Salem, Mass. : Ives & Jewett, 1840) | have-ocr | IA `obstaclestosucce00bram` |
+| A discourse delivered before His Excellency George N. Briggs, governor, His Honor John Reed, lieutenant governor, the honorable Council, and the legislature of Massachusetts, on the annual election, January 1, 1845 (Boston : Dutton and Wentworth, 1845) | have-ocr | IA `discoursedeliver00bramiala` |
+| The Mexican war. A discourse delivered on the annual fast, 1847 (Danvers [Mass.] Printed at the Courier office, 1847) | have-ocr | IA `mexicanwardiscou00bramrich` |
+| mexicanwardiscou00bram_0 (another scan of the Mexican War discourse) | excluded | |
+
+## Beverly Carradine (round 113, my pick, 2026-10-23)
+
+Slugs `carradine-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Sanctification (Nashville, Tenn., Publishing house of the M. E. church, South, Barbee & Smith, agents, 1891) | have-ocr | IA `sanctification00carr` |
+| Church entertainments: twenty objections (catalogued 1891) | have-ocr | IA `churchentertainm00carr` |
+| A journey to Palestine (Syracuse, N.Y., A.W. Hall, 1892) | have-ocr | IA `ajourneytopales00carrgoog` |
+| The second blessing in symbol (Louisville Pickett Publishing Co., 1896) | have-ocr | IA `secondblessingin00carr` |
+| Pastoral sketches (Louisville, Ky. : Kentucky Methodist Pub. Co., 1896) | have-ocr | IA `pastoralsketches0000carr` |
+| The old man (Christian Witness Co., 1896) | have-ocr | IA `oldman00carr` |
+| The better way (Cincinnati, Ohio : M.W. Knapp, 1896) | have-ocr | IA `betterway00carr` |
+| Sanctified life (Cincinnati, Office of the Revivalist, 1897) | have-ocr | IA `sanctifiedlife00carr` |
+| Revival sermons (St. Louis, Mo., W.B. Palmore, 1898) | have-ocr | IA `revivalsermons00carr` |
+| Heart talks (Cincinnati, M. W. Knapp, 1899) | have-ocr | IA `hearttalks00carr` |
+| Pen pictures (Chicago, Ill. : The Christian witness co., 1900) | have-ocr | IA `penpictures00carr` |
+| Soul help (The Christian Witness Co., 1900) | have-ocr | IA `soulhelp00carr` |
+| Golden sheaves (Joshua Gill, Pub., 1901) | have-ocr | IA `goldensheaves00carr` |
+| Remarkable occurrences, vol. c.1 (Chicago : Christian Witness Co., 1902) | have-ocr | IA `remarkableoccurr01carr` |
+| Gideon (Philadelphia, Pa. : Pepper pub. co., 1902) | have-ocr | IA `gideon00carr` |
+| Beulah land (Christian Witness co., 1904) | have-ocr | IA `beulahland00carr` |
+| A church yard story (Chicago, Ill. : M. A. Donohue, c190) | have-ocr | IA `churchyardstory00carriala` |
+| Living illustrations (Chicago, The Christian Witness Co, 1908) | have-ocr | IA `livingillustrati00carr` |
+| A box of treasure (Chicago and Boston : The Christian witness co., 1910) | have-ocr | IA `boxoftreasure00carr` |
+| Yazoo stories (Chicago and Boston : The Christian witness co., [c19) | have-ocr | IA `yazoostories00carriala` |
+| Graphic scenes (Cincinnati, Ohio, God's revivalist office, 1911) | have-ocr | IA `graphicscenes00carr` |
+| lotterylouisiana0000carr (a 1997 reprint) | excluded | |
+| bestofallcomplet00carr: Best of All is a songbook of hymns by many hands | excluded | |
+
+## Alexander Smellie (round 113, my pick, 2026-10-23)
+
+Slugs `smellie-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Men of the Covenant : the story of the Scottish church in the years of the persecution. -- (New York : F. H. Revell, 1877) | have-ocr | IA `menofcovenantsto0000smel` |
+| In the hour of silence : a book of daily meditations for a year (London : A. Melrose, 1899) | have-ocr | IA `OnTheHourOfSilence` |
+| Torch-bearers of the faith : a book of Christian heroes (London : A. Melrose, 1900) | have-ocr | IA `torchbearersoffa0000smel` |
+| In the secret place a book of daily devotional meditations (Andrew Melrose, 1910) | have-ocr | IA `insecretplaceboo0000alex` |
+| Robert Murray McCheyne (London, 1913) | have-ocr | IA `robertmurraymcch0000smel` |
+| Evan Henry Hopkins : a memoir (London : Marshall Bros., 1920) | have-ocr | IA `evanhenryhopkins0000smel` |
+| His Glory (catalogued 1923) | have-ocr | IA `hisglory0000smel` |
+| Sunset glory : Sermons preached in Carluke Original Secession Church (London ; New York : Andrew Melrose Ltd., 1924) | have-ocr | IA `sunsetglorysermo00smel` |
+| The Reformation in its literature (London and New York : A. Melrose, 1925) | have-ocr | IA `reformationinits00smel` |
+| The natural-history, anatomy and Lives of Gregory, Kames and Hume are by the eighteenth-century William and Alexander Smellie | excluded | |
+| menofcovenant0000alex (a 1960 reprint) | excluded | |
+
+## Sylvanus Stall (round 113, my pick, 2026-10-23)
+
+Slugs `stall-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Ministers' hand-book to Lutheran hymns, in the "Book of worship" (Easton, Pa. : Skinner & Finch, Printers, 1879) | have-ocr | IA `minist00stal` |
+| How to pay church debts : and how to keep churches out of debt (New York : I. K. Funk, 1881) | have-ocr | IA `howtopaychurchde00stal` |
+| Methods of church work : religious, social and financial (New York : Funk & Wagnalls, 1887) | have-ocr | IA `methodsofchurchw0000unse` |
+| Five minute object sermons to children : ... through eye-gate and ear-gate into the city of child-soul (New York : Funk & Wagnalls, 1894) | have-ocr | IA `fiveminuteobje00stal` |
+| Bible selections for daily devotion; 365 readings (New York, London [etc.] Funk & Wagnalls company, 1896) | have-ocr | IA `bibleselectionsf00stal` |
+| Talks To The King's Children (catalogued 1896) | have-ocr | IA `talkstokingschil0000sylv` |
+| What a young man ought to know (Philadelphia ; London : Vir ; Toronto : W. Briggs, 1897) | have-ocr | IA `cihm_64641` |
+| What a young husband ought to know (Philadelphia ; London : Vir, 1897) | have-ocr | IA `b20442671` |
+| What a man of forty-five ought to know (Philadelphia : The Vir Publishing Company; [etc, etc., 1901) | have-ocr | IA `whatmanoffortyfi00stal` |
+| What a Young Boy ought to Know (The Vir Publishing Company, 1905) | have-ocr | IA `whatyoungboyough0000sylv` |
+| With the Children on Sundays (The Uplift Publishing Company, 1911) | have-ocr | IA `withchildrenonsu0000sylv` |
+| What parents should teach their children (Philadelphia, Boston [etc.] American Baptist publication society, 1912) | have-ocr | IA `whatparentsshoul00stal` |
+| What a Young Girl Ought to Know is by Mary Wood-Allen; the Finnish and Armenian translations and his salesmen's manual are left out | excluded | |
+
+## Thomas Hopkins Gallaudet (round 113, my pick, 2026-10-23)
+
+Slugs `gallaudet-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on various points of Christian faith and practice : most of which were delivered in the Chapel of the Oratoire, in Paris, in the Spring of M.DCCC.XVI (London : Printed by Ellerton and Henderson, for J. Hatchard, 1818) | have-ocr | IA `discoursesonvar00gall` |
+| Plan of a seminary for the education of instructors of youth (Boston : Cummings, Hilliard and Co., 1825) | have-ocr | IA `planofseminaryfo00gall` |
+| An address on female education (Hartford, H. & F. J. Huntington, 1828) | have-ocr | IA `addressonfemalee00gall` |
+| The youth's book on natural theology; illustrated in familiar dialogues, with numerous engravings (New York, The American Tract Society, 1832) | have-ocr | IA `youthsbookonnatu00gall` |
+| The child's book on the soul (catalogued 1832) | have-ocr | IA `childsbookonsou01gallgoog` |
+| The history of Jonah, for children and youth (Boston, Crocker & Brewster; New York, J. Leavitt, 1833) | have-ocr | IA `historyofjonahfo00gall` |
+| The history of Joseph, for children and youth; designed also as an aid to familiar Biblical exposition in families, Sabbath schools, and Bible classes (New York, American Tract Society, 1834) | have-ocr | IA `historyofjosephf00gall` |
+| The child's book of Bible stories : with practical illustrations and remarks on the fall (New York : American Tract Society, 1834) | have-ocr | IA `childsbookofbibl00gall` |
+| A Sermon on the Duty and Advantages of Affording Instruction to the Deaf and Dumb (Hill, 1824), IA asermonondutyan00gallgoog: no author readable in the Google OCR and the text file now returns a server error; recheck | pending | not shelved |
+| His spelling books, picture-defining books and dictionary, the foreign-language translations, Clerc's address, and books by others he introduced, are left out | excluded | |
+| childsbookonsoul00gall (a Marathi translation) | excluded | |
+
+## Archibald Alison (round 113, my pick, 2026-10-23)
+
+Slugs `aalison-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, chiefly on particular occasions, vol. 1 (Boston : Wells and Lilly, 1815) | have-ocr | IA `sermonschieflyon01alis` |
+| A discourse preached in the Episcopal Chapel, Cowgate, Edinburgh, Feb. 9, 1809; being the day approved by His Majesty for a general fast (Edinburgh : G. Ramsay for A. Constable, etc., 1810) | have-ocr | IA `b3187566x` |
+| Essays on the nature and principles of taste (Edinburgh : Printed by J. J. G. and G. Robinson, London; and Bell and Bradfute, Edinburgh, 1790) | have-ocr | IA `essaysonnaturepr00alis` |
+| The histories of Europe are by his son Sir Archibald Alison | excluded | |
+
+## Donald Sage Mackay (round 114, my pick, 2026-10-23)
+
+Slugs `dsmackay-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| In memoriam. Victoria, the woman; sermmon preached at the memorial service of Her Majesty Queen Victoria, at the Collegiate Church, Fifth Avenue and 48th Street ([New York, The Knickerbocker Press], 1901) | have-ocr | IA `inmemoriamvictor00mack` |
+| Annual sermon before the American Seamen's Friend Society at its seventy-sixth anniversary, Sunday, May 8, 1904 in the Collegiate Church / by Donald Sage Mackay (New York : American Seamen's Friend Society, 1904) | have-ocr | IA `annualsermonbefo00mack` |
+| The religion of the threshold, and other sermons (New York, A. C. Armstrong & son, 1908) | have-ocr | IA `religionofthres00mack` |
+| Mind in the Parmenides (1924) is by a later Donald Sage Mackay | excluded | |
+
+## James Henry Snowden (round 114, my pick, 2026-10-23)
+
+Slugs `snowden-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| Scenes and sayings in the life of Christ (New York ; Chicago [etc.] : Fleming H. Revell company, 1903) | have-ocr | IA `scenessayingsinl00snow` |
+| A summer across the sea (New York, F.H. Revell, 1908) | have-ocr | IA `summeracrosssea00snow` |
+| The world a spiritual system : an outline of metaphysics (New York, Macmillan, 1910) | have-ocr | IA `aspiritualsystem00snowuoft` |
+| The basal beliefs of Christianity (New York : The Macmillan Company, 1911) | have-ocr | IA `basalbeliefsofch00snow` |
+| The psychology of religion : and its application in preaching and teaching (New York ; Chicago : Fleming H. Revell Company, 1916) | have-ocr | IA `psychologyofreli0000snow` |
+| Can we believe in immortality? (New York, The Macmillan Company, 1918) | have-ocr | IA `canwebelieveinim0000snow` |
+| Is the world growing better? (New York : Macmillan, 1919) | have-ocr | IA `isworldgrowingbe0000snow` |
+| A wonderful night; an interpretation of Christmas ([New York] The Macmillan company, 1919) | have-ocr | IA `wonderfulnightin00snow` |
+| The coming of the Lord: will it by premillennial? (New York : Macmillan, 1919) | have-ocr | IA `comingoflordwill00snow` |
+| The truth about Christian science; the founder and the faith (Philadelphia, The Westminster press, 1920) | have-ocr | IA `truthaboutchrist00snow` |
+| The personality of God (New York, The Macmillan Company, 1920) | have-ocr | IA `personalityofgod00snow` |
+| The attractions of the ministry (Philadelphia, The Westminster press, 1921) | have-ocr | IA `attractionsofmin00snow` |
+| The meaning of education (New York, Cincinnati, The Abington press, 1921) | have-ocr | IA `meaningofeducati00snow` |
+| Jesus as judged by his enemies : a study of the criticisms and attacks made on Jesus by his enemies (New York ; Cincinnati : The Abingdon Press, 1922) | have-ocr | IA `jesusasjudgedbyh00snow` |
+| The making and meaning of the New Testament (New York, The Macmillan company, 1923) | have-ocr | IA `makingmeaningofn0000snow` |
+
+## G. H. Gerberding (round 114, my pick, 2026-10-23)
+
+Slugs `gerberding-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| The way of salvation in the Lutheran church (Philadelphia, Pa., Pub. for the author, Lutheran publication society, 1887) | have-ocr | IA `wayofsalvationi00gerb` |
+| New Testament conversions : a series of sermons (Philadelphia, Pa. : Pub. for the author, Lutheran publication society, 1889) | have-ocr | IA `newtestamentconv00gerb` |
+| The Lutheran pastor (Philadelphia, Pa. : Lutheran Publication Society, 1902) | have-ocr | IA `lutheranpastor00gerb` |
+| Life and letters of W. A. Passavant, D. D (Greenville, Pa., The Young Lutheran co., 1906) | have-ocr | IA `lifelettersofwap0000gerb` |
+| The Lutheran church in the country; a study, an explanation, an attempted solution (Philadelphia, General council publication board, 1916) | have-ocr | IA `lutheranchurch00gerb` |
+| R. F. Weidner, D.D. LL.D. : a character sketch, an appreciation, a tribute (Waverly, Iowa : Wartburg Press, 1916) | have-ocr | IA `rfweidnerddlldch00gerb` |
+| What's Wrong with the World?: A Candid Inquiry Into the Underlying Spirit (Gerberding, 1919) | have-ocr | IA `whatswrongwithw00gerbgoog` |
+| The Priesthood of Believers in Its Relation to Inner Mission Work of (The Inner Mission Boardof the United LutheranChurch in America, 1920) | have-ocr | IA `priesthoodbelie00gerbgoog` |
+| Lutheran fundamentals, a simple system of Scripture truth with applications for the common man (Rock Island, Ill. : Augustana Book Concern, 1925) | have-ocr | IA `lutheranfundamen00gerb` |
+| Reminiscent reflections of a youthful octogenarian (Minneapolis, Minn. : Augsburg publishing house, 1928) | have-ocr | IA `reminiscentrefle00gerb` |
+| vgentillfrlsnin00gerbgoog (a Swedish translation) | excluded | |
+
+## David Magie (round 114, my pick, 2026-10-23)
+
+Slugs `dmagie-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| Debts; the substance of three sermons, delivered in the Second Presbyterian Church, Elizabeth-town (Elizabeth-town [N.J.] : Printed by Sanderson and Brookfield, 1830) | have-ocr | IA `debtssubstanceof00magi` |
+| The ministry magnified (Newark, N.J., The Central Presbyterian church, 1837) | have-ocr | IA `ministrymagnifie00magi` |
+| God's voice, and the lessons it teaches : a sermon, preached on the occasion of the death of General Taylor, late President of the United States (New York : John F. Trow, printer, 1850) | have-ocr | IA `godsvoiceandless00magiiala` |
+| The spring-time of life; or, Advice to youth (New York, R. Carter & Brothers, 1853) | have-ocr | IA `springtimeoflife00magi` |
+| A discourse delivered in the Second Presbyterian Church, Elizabeth, N.J. August 6th, 1863 on occasion of the public thanksgiving appointed by Abraham Lincoln, President of the United States, to commemorate the signal victories vouchsafed to the Federal arms (New York : Printed by Francis Hart & Co., 1863) | have-ocr | IA `discoursedeliver00magi` |
+| The Roman-history books and Loeb Historia Augusta are by the classicist David Magie (1877-1960) | excluded | |
+| ourtrueencourage0000revd (a bound volume of several sermons) and ASPC0023580100 (an American Tract Society committee minute) | excluded | |
+
+## Francis Fulford (round 114, my pick, 2026-10-23)
+
+Slugs `fulford-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| A pastoral letter addressed to the clergy of his diocese ([Montreal? : s.n., 1851) | have-ocr | IA `cihm_22260` |
+| An address delivered in the chapel of the General Theological Seminary of the Protestant Episcopal Church in the United States on Friday, November 13th, 1852 (New York : Church Depository, 1852) | have-ocr | IA `cihm_44526` |
+| A charge, delivered to the clergy of the Dioceses of Montreal, on the 17th January, 1855, at the triennial visitation, held in the Cathedral Church of Montreal (Montreal : J. Lovell, 1855) | have-ocr | IA `cihm_63046` |
+| Five occasional lectures (Montreal, John Lovell, 1859) | have-ocr | IA `fiveoccasionall00fulf` |
+| A charge, delivered to the clergy of the Diocese of Montreal, on the 19th January, 1859, at the third triennial visitation, held in St. John's Church, Montreal ([Montréal? : s.n.], 1859) | have-ocr | IA `cihm_89864` |
+| A letter to the bishops and clergy of the United Church of England and Ireland in Canada ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_22969` |
+| Second letter to the Bishops and clergy of the United Church of England and Ireland in Canada ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_22971` |
+| A sermon, preached on Sunday, 5th January, 1862, in Christ Church Cathedral, Montreal, after the death of H.R.H. the Prince Consort (Montreal : Printed by John Lovell, 1862) | have-ocr | IA `sermonpreachedon00fulf` |
+| A letter to the bishops, clergy and laity of the United Church of England and Ireland in the Province of Canada ([Montreal? : s.n.], 1864) | have-ocr | IA `cihm_44527` |
+| Sermons, Addresses, and Statistics of the Diocese of Montreal (Dawson Brothers, 1865) | have-ocr | IA `sermonsaddresse00fulfgoog` |
+| The sermon preached at the opening of the triennial meeting of the General Convention of the Protestant Episcopal Church in the United States of America : in St. Luke's Church, Philadelphia, October 4th, 1865 / by Francis Fulford (King & Baird, Printers, 1865) | have-ocr | IA `sermonpreachedat00fulf` |
+| A pan-Anglican synod : a sermon preached at the general ordination held by the Right Reverend the Lord Bishop of Oxford, in the Cathedral Church of Christ in Oxford, on Sunday Dec. 23, 1866 (Oxford : Rivingtons; Montreal : Dawsons, 1867) | have-ocr | IA `albertatest_01254` |
+| Replies, correspondence, resolutions and addresses written TO him by others (cihm_35389, cihm_35390, cihm_36433, cihm_22970, cihm_89234, cihm_50565, cihm_23635) are not his | excluded | |
+| 1679baconianaorc00baco (Bacon's remains) | excluded | |
+| cihm_46610: by Francis Drummond Fulford, Esq., per its title page, a different man | excluded | |
+| misapplicationof00fulf: by Francis Drummond Fulford, Esq., per its title page, a different man | excluded | |
+
+## Floyd W. Tomkins (round 114, my pick, 2026-10-23)
+
+Slugs `tomkins-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| Following Christ; practical thoughts for daily Christian living (Philadelphia, G.W. Jacobs & Co, 1901) | have-ocr | IA `followingchristp00tomk` |
+| The Christian life; what it is, and how to live it (New York, E.P. Dutton & Co., 1905) | have-ocr | IA `christianlifewha00tomk` |
+| Sunshine on life's way; being selections from his writings (New York, Dutton, 1913) | have-ocr | IA `sunshineonlifesw00tomk` |
+
+## W. B. Selbie (round 115, my pick, 2026-10-23)
+
+Slugs `selbie-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| Aspects of Christ (New York ; and London : Hodder and Stoughton, 1900) | have-ocr | IA `aspectsofchrist00selb` |
+| The life and teaching of Jesus Christ, vol. 7 (New York : Hodder & Stoughton, 1909) | have-ocr | IA `lifeteachingofje07selb` |
+| Evangelical Christianity : its history and witness : a series of lectures delivered at Mansfield College, Oxford, in the Hilary term, 1911 (London, Hodder and Stoughton, [191) | have-ocr | IA `evangelicalchri00selbuoft` |
+| The servant of God and other sermons (London : Hodder and Stoughton, 1911) | have-ocr | IA `theservantofgod00selbuoft` |
+| Nonconformity, its origin and progress (London : Williams and Norgate, [191) | have-ocr | IA `nonconformityits00selbuoft` |
+| Schleiermacher : a critical and historical study (London : Chapman and Hall, 1913) | have-ocr | IA `schleiermacherac00selbuoft` |
+| The Life of Andrew Martin Fairbairn (catalogued 1914) | have-ocr | IA `lifeofandrewmart0000wbse` |
+| The war and theology (London ; Toronto : Oxford University Press, H. Milford, 1915) | have-ocr | IA `cihm_66982` |
+| The nature and message of the Bible (London : Student, 1916) | have-ocr | IA `thenatureandmess00selbuoft` |
+| Belief and life : studies in the thought of the fourth Gospel (New York : Charles Scribner's, 1917) | have-ocr | IA `belieflifestudie0000selb` |
+| The life of Charles Silvester Horne (London, Hodder and Stoughton, 1920) | have-ocr | IA `lifeofcharlessil00selb` |
+| The psychology of religion (Oxford, Clarendon Press, 1924) | have-ocr | IA `psychologyofreli0000selb` |
+| Congrationalism (london: methurn & co., ltd., 1927) | have-ocr | IA `congrationalism0000wbse` |
+| Other scans of the same books (English Sects is the American title of Nonconformity) | excluded | |
+
+## John Hersey (round 115, my pick, 2026-10-23)
+
+Slugs `jhersey-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| An appeal to Christians, on the subject of slavery (Baltimore, Armstrong & Plaskitt, 1833) | have-ocr | IA `appealtochristia00hers` |
+| An inquiry into the character and condition of our children : and their claim to a participation in the privileges and blessings of the Redeemer's kingdom on earth examined and established ; also, some remarks on the mode of administering the ordinance of baptism (Raleigh : Printed by Thos. J. Lemay, 1839) | have-ocr | IA `inquiryintochara00hers` |
+| The importance of small things : or, A plain course of self-examination to which is added, Signs of the times / by John Hersey (Armstrong & Berry, 1839) | have-ocr | IA `importanceofsmal00hers` |
+| The design, importance and validity of infant baptism : also, a few thoughts on the mode of administering that ordinance / by J. Hersey (Armstrong & Berry, 1855) | have-ocr | IA `designimportance00hers_0` |
+| The identity of the two Apocalyptic witnesses ; their character, death and resurrection, as connected with the introductiion of the millenium, to which is added Pious reflections (Baltimore : Armstrong & Berry ; Philadelphia : Higgins & Perkinpine, 1857) | have-ocr | IA `identityoftwoapo00hers` |
+| The privilege of those who are born of God, or, A plain rational view of the nature and extent of sanctification (Baltimore : Armstrong and Berry, 1840), IA privilegeofthose00hers: text file returned a server error | pending | not shelved |
+
+## Charles L. Goodell (round 115, my pick, 2026-10-23)
+
+Slugs `goodell-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pastor's vade mecum : containing the ritual for baptism, reception of members, the Lord's supper, matrimony, and burial of the dead : also hymns and scripture lessons for various occasions (New York : Eaton & Mains, 1886) | have-ocr | IA `pastorsvademecum00good` |
+| My mother's Bible, A memorial volume of addresses for the home ([n.p.], 1891) | have-ocr | IA `mymothersbibleme00good` |
+| The drillmaster of Methodism : principles and methods for the class leader and pastor (New York : Eaton & Mains; Cincinnati : Jennings & Pye, 1902) | have-ocr | IA `drillmasterofmet00good` |
+| Price of winning souls : an address delivered before the conference of Christian workers, East Northfield, Mass., Saturday afternoon, August 11, 1906 / by Charles L. Goodell (New York : Fleming H. Revell, 1906) | have-ocr | IA `priceofwinningso00good` |
+| Pathways to the best (Funk& Wagnalls Company, 1907) | have-ocr | IA `pathwaystobest0000char` |
+| Pastoral and personal evangelism (New York, Chicago [etc.] Fleming H. Revell Co., 1907) | have-ocr | IA `pastoralpersonal0000good` |
+| Followers of the gleam; or, Modern miracles of grace (New York and London, Funk & Wagnalls company, 1911) | have-ocr | IA `followersofgleam00good` |
+| Heralds of a passion (New York, George H. Doran, 1921) | have-ocr | IA `heraldsofpassion0000good` |
+| Cyclopedia of evangelism (Harper, 1921) | have-ocr | IA `cyclopediaofevan00good` |
+| Pastor and evangelist (New York, George H. Doran Company, 1922) | have-ocr | IA `pastorevangelist00good` |
+| What are you worth? Queries in personality (New York : George H. Doran Co., 1923) | have-ocr | IA `whatareyouworthq00good` |
+| Motives and methods in modern evangelism (New York, Chicago Fleming H. Revell Company, 1926) | have-ocr | IA `motivesmethodsin0000good` |
+| Twilight Reveries life and how to live it (Fleming H. Revell Company, 1929) | have-ocr | IA `bwb_Y0-BAQ-432` |
+| sermonsaddresses00brod and pastorhisownevan0000jwil are by other men | excluded | |
+
+## Howard Allen Bridgman (round 115, my pick, 2026-10-23)
+
+Slugs `bridgman-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| Steps Christward; counsels for young Christians (Boston, Chicago, The Pilgrim press, 1903) | have-ocr | IA `stepschristwardc00bri` |
+| Real religion; friendly talks to the average man on clean and useful living (Boston, New York, Pilgrim Press, 1910) | have-ocr | IA `realreligionfrie00brid` |
+| New England in the life of the world; a record of adventure and achievement (Boston, Chicago, The Pilgrim Press, 1910) | have-ocr | IA `newenglandinlife00brid` |
+
+## Charles Comfort Tiffany (round 115, my pick, 2026-10-23)
+
+Slugs `cctiffany-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| A history of the Protestant Episcopal church in the United States of America (New York : Christian Literature, 1895) | have-ocr | IA `historyofprotest00tiff` |
+| The prayer book and the Christian life : or, The conception of the Christian life implied in the Book of common prayer (New York : C. Scribner's Sons, 1898) | have-ocr | IA `prayerbookchrist00tiff` |
+
+## Leander S. Keyser (round 115, my pick, 2026-10-23)
+
+Slugs `keyser-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| Bird-dom (Boston, D. Lothrop Company, 1891) | have-ocr | IA `birddo00keys` |
+| In bird land (Chicago, A. C. McClurg and company, 1894) | have-ocr | IA `inbirdland00keys` |
+| News from the birds (New York, D. Appleton and company, 1898) | have-ocr | IA `newsfrombirds00keys` |
+| Birds of the Rockies (Chicago, A. C. McClurg and co., 1902) | have-ocr | IA `birdsofrockies00keysrich` |
+| Our bird comrades (Chicago, New York : Rand, McNally & company, [c19) | have-ocr | IA `ourbirdcomrades00keysrich` |
+| The rational test : Bible doctrine in the light of reason (Philadelphia : Lutheran publication society, 1908) | have-ocr | IA `rationaltestbibl00keys` |
+| A system of Christian ethics (Philadelphia, Pa. : The Lutheran Publication Society, 1913) | have-ocr | IA `systemofchristia00keys_0` |
+| Election and conversion ; a frank discussion of Dr. Pieper's book on "Conversion election," with suggestions for Lutheran concord and union on another basis (Burlington, Ia., The German literary board, 1914) | have-ocr | IA `electionconversi00keys` |
+| A system of natural theism (Burlington, Ia. : The German literary board, 1917) | have-ocr | IA `systemofnaturalt00keys` |
+| A system of general ethics (Burlington, Ia., The Lutheran literary board, 1918) | have-ocr | IA `systemofgenerale00keys` |
+| Contending for the faith; essays in constructive criticism and positive apologetics (New York : George H. Doran company, 1920) | have-ocr | IA `contendingforfai00keys` |
+| A system of Christian evidence (Burlington, Ia., The Lutheran literary board, 1922) | have-ocr | IA `systemofchristia00keys` |
+| Man's first disobedience : an interpretation and defense of the Biblical narrative of the fall of man (New York, Macmillan, 1924) | have-ocr | IA `mansfirstdisobed0000keys` |
+| The doctrines of modernism : its beliefs and misbeliefs weighed and analyzed (Chicago : [publisher not identified], 1925) | have-ocr | IA `doctrinesofmoder00keys` |
+| The problem of origins : Whence came the universe? Whence came life and species? Whence came man? A frank discussion of the doctrines of creation and evolution (New York : Macmillan, 1926) | have-ocr | IA `problemoforigins00keys` |
+| A manual of Christian ethics (Burlington, Iowa : Lutheran Literary Board, 1926) | have-ocr | IA `manualofchristia00keys` |
+| onlywayout00presgoog (by another hand) | excluded | |
+
+## G. B. F. Hallock (round 116, my pick, 2026-10-23)
+
+Slugs `gbfhallock-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| Upward steps (Philadelphia : Westminster Press, 1899) | have-ocr | IA `upwardsteps00hall` |
+| Sermon seeds : outlines and sketches of sermons especially adapted for revival services, but appropriate for ordinary pulpit preparation (Reading, Pa. : Frank J. Boyer, publisher, 1900) | have-ocr | IA `sermonseedsoutli00hall` |
+| Beauty in God's word (Philadelphia : Westminster Press, 1902) | have-ocr | IA `beautyingodsword00hall` |
+| Journeying in the land where Jesus lived (New York : American tract society, 1903) | have-ocr | IA `journeyinginland00hall` |
+| Growing toward God (Boston, New York [etc.] American tract society, 1904) | have-ocr | IA `growingtowardgod00hall` |
+| The teaching of Jesus concerning the Christian life, vol. 7 (New York : American Tract Society, 1906) | have-ocr | IA `teachingofjesusc07hall` |
+| The first hundred years of the brick church in rochester (henry conolly company, 1925) | have-ocr | IA `firsthundredyear0000gbfh` |
+| His cyclopedias of illustrations, sermons and outlines, the Hundred Best Sermons volumes, and Doran's Ministers Manual collect other men's work; left for the many-author ruling | excluded | |
+| American Game Fishes is by other hands | excluded | |
+
+## Isaac Crook (round 116, my pick, 2026-10-23)
+
+Slugs `icrook-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| Hon. C. C. White (Cincinnati, Ohio, Printed by Curts & Jennings, 1896) | have-ocr | IA `honccwhite00croo` |
+| Jonathan Edwards (Cincinnati, Jennings and Pye, 1903) | have-ocr | IA `jonathanedwards00croo` |
+| The earnest expectation (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905) | have-ocr | IA `earnestexpectati00croo` |
+| John Knox: the reformer (Cincinnati, Jennings and Graham, 1906) | have-ocr | IA `johnknoxreformer00croo` |
+| The great five : the first faculty of the Ohio Wesleyan University (Cincinnati, Ohio : Jennings and Graham ; New York : Eaton and Mains, 1908) | have-ocr | IA `greatfivefirstfa00croo` |
+
+## Robert Cooney (round 116, my pick, 2026-10-23)
+
+Slugs `rcooney-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| A compendious history of the northern part of the province of New Brunswick, and of the district of Gaspe (Halifax, N.S., Printed by J. Howe, 1832) | have-ocr | IA `compendioushist00coon` |
+| The glory of the God of Israel displayed : being the substance of a sermon preached at Liverpool before the Wesleyan ministers of the Nova Scotia district, on Monday, 26th of May, 1834 ([Halifax, N.S. : s.n.], 1836) | have-ocr | IA `cihm_57327` |
+| The judgment seat of Christ : a sermon preached in the Wesleyan Chapel at Guysborough, on Sunday 7th of January, 1838 ([Halifax, N.S.? : s.n.], 1838) | have-ocr | IA `cihm_58245` |
+| The Lord is on our side : a sermon, delivered in the Wesleyan Chapel, Odelltown, on Saturday, November 9, 1839 : being the first anniversary of the battle, fought at the above place, between the insurgents and the loyal volunteers ([Montreal : s.n.], 1840) | have-ocr | IA `cihm_58246` |
+| The autobiography of a Wesleyan Methodist missionary, (formerly a Roman Catholic) : containing an account of his conversion from Romanism, and his reception into the Wesleyan ministry ; also, reminiscences of nearly twenty-five years' itinerancy in the North American provinces, 1st thousand (Montreal : E. Pickup, 1856) | have-ocr | IA `autobiographyofw0000coon` |
+
+## Henry Scadding (round 116, my pick, 2026-10-23)
+
+Slugs `scadding-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| A memorial of the Reverend William Honywood Ripley, Bachelor of Arts of University College ... of the Diocese of Toronto : (being, with additions and notes, the sermon preached in Trinity Church ... the 21st Sunday after Trinity, and the Festival of St. Simon and St. Jude, October the 28th, 1849) ([Toronto? : s.n.], 1849) | have-ocr | IA `cihm_40663` |
+| Cleanliness akin to Godliness ([Toronto? : s.n.], 1850) | have-ocr | IA `cihm_50682` |
+| A dead Christendom reviving : a lecture delivered in the Church of the Holy Trinity, Toronto, on the day of public thanksgiving for the restoration of peace, (Wednesday, June 4th, 1856) (Toronto : Maclear, 1856) | have-ocr | IA `cihm_34371` |
+| English civilization undemonstrative : the address to the St. George's Society, in the Cathedral of St. James, Toronto, April 23rd, 1860 (Toronto : Rowsell & Hutchinson, 1860) | have-ocr | IA `englishcivilizat00scad` |
+| Christian pantheism : an address on Thanksgiving Day, 1865 (Toronto : Rollo & Adam, 1865) | have-ocr | IA `christianpanthei00scad` |
+| Truth's resurrections : a memorial of Easter, 1865 (Toronto : Rollo & Adam, 1865) | have-ocr | IA `cihm_36158` |
+| The first bishop of Toronto : a review and a study (Toronto : W. C. Chewett, 1868) | have-ocr | IA `firstbishopoftor00scad` |
+| To the choirs of the church and parish of the Holy Trinity, Toronto ([Toronto? : s.n.], 1871) | have-ocr | IA `cihm_28774` |
+| On a sung service and its appurtenances : a lecture, delivered on the occasion of the first use of the organ, after reconstruction, in the Church of the Holy Trinity, Toronto, October 27, 1874 ([S.l. : s.n., 1874) | have-ocr | IA `cihm_13244` |
+| Toronto of old; collections and recollections illustrative of the early settlement and social life of the capital of Ontario (Toronto, Adam, Stevenson & co., 1873) | have-ocr | IA `torontoofoldcoll00scadrich` |
+| His many short antiquarian, numismatic and local-history papers are left to another lane; books he only owned or introduced (Pope, Horace, Franklin, Traill) are not his | excluded | |
+
+## James Henry Potts (round 116, my pick, 2026-10-23)
+
+Slugs `jhpotts-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| Pastor and people ([n.p.], 1879) | have-ocr | IA `pastorpeople00pott` |
+| Spiritual life; its nature, urgency, and crowning excellence (New York, Phillips & Hunt; Cincinnati, Cranston & Stowe, 1884) | have-ocr | IA `spirituallifeits00pott` |
+| The golden dawn : or, Light on the great future: in this life, through the dark valley, and in the life eternal, as seen in the best thoughts of over three hundred leading authors and scholars (Philadelphia ; Chicago : P. W. Ziegler & Co., Publishers, 1886) | have-ocr | IA `goldendawnorligh00pott` |
+| Faith made easy; or, What to believe, and why. A popular statement of the doctrines and evidences of Christianity in the light of modern research and sound Biblical interpretation (Cincinnati, Cranston and Stowe; New York, Hunt and Eaton, 1888) | have-ocr | IA `cu31924075690226` |
+| Our thrones and crowns: or, The golden way to the highest attainments. A complete encyclopedia of life. Physical life, intellectual life, business life, home life, social life, moral life, religious life, dialy life, the discipline of life and the best preparation for the life beyond (Philadelphia, International Pub. Co, 1889) | have-ocr | IA `ourthronesandcr00pottgoog` |
+| The life beyond (Philadelphia and Chicago, P. W. Ziegler & co, 1899) | have-ocr | IA `lifebeyond00pott` |
+| Charles S. Francis, a personal tribute (Troy, New York : [s. n.], 1901) | have-ocr | IA `cu31924018820443` |
+| Back to Oxford,: A search for the essentials of Methodism (Jennings & Pye, 1903) | have-ocr | IA `backtooxfordsear0000jame` |
+| The upward leading; pulpit talks under various auspices (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905) | have-ocr | IA `upwardleadingpul00pott` |
+| My gift to thee; present time verses (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1910) | have-ocr | IA `mygifttotheepres00pott` |
+| Every life a delight (New York, Cincinnati, The Abingdon Press, 1914) | have-ocr | IA `everylifedelight00pott` |
+| principlesofchur00perr_0 is by Perry; Asa Gray letters and agriculture papers are by others | excluded | |
+
+## William L. Stidger (round 116, my pick, 2026-10-23)
+
+Slugs `stidger-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lincoln book of poems (Boston, R. G. Badger, 1911) | have-ocr | IA `lincolnbookofpoe00stid` |
+| Giant hours with poet preachers (New York, Cincinnati, The Abingdon press, 1918) | have-ocr | IA `gianthourswithpo0000stid` |
+| Soldier silhouettes on our front (charles scribner's sons, 1918) | have-ocr | IA `soldiersilhouett0000will` |
+| Star dust from the dugouts : a reconstruction book (New York : Abingdon Press, 1919) | have-ocr | IA `stardustfromdugo00stid` |
+| Outdoor men and minds (New York, Cincinnati, The Abingdon press, 1920) | have-ocr | IA `outdoormenminds00stid` |
+| Flash-lights from the seven seas (New York, George H. Doran company, 1921) | have-ocr | IA `flashlightsfroms00stid` |
+| Standing room only (New York : George H. Doran, 1921) | have-ocr | IA `standingroomonly0000stid` |
+| There are sermons in books (catalogued 1922) | have-ocr | IA `therearesermonsi0000will_a0z1` |
+| The place of books in the life we live (New York : George H. Doran company, 1922) | have-ocr | IA `placeofbooksinli0000stid` |
+| Flames of faith (New York, Cincinnati, The Abingdon press, 1922) | have-ocr | IA `flamesoffaith0000stid` |
+| Henry Ford: the man and his motives (catalogued 1923) | have-ocr | IA `henryfordmanhism0000will` |
+| Symphonic sermons : a new method in homiletics and its effective use, with sermons and suggested themes (New York : George H. Doran co., 1924) | have-ocr | IA `symphonicsermons0000stid` |
+| That God's house may be filled; a book of modern church methods and workable plans (New York, George H. Doran Co, 1924) | have-ocr | IA `thatgodshousemay0000stid` |
+| Finding God in books (New York : George H. Doran company, 1925) | have-ocr | IA `findinggodinbook00stid` |
+| Building up the mid-week service (New York : George II. Doran Company, 1926) | have-ocr | IA `buildingupmidwee0000stid` |
+| Building sermons with symphonic themes (New York, George H. Doran company, 1926) | have-ocr | IA `buildingsermonsw0000stid` |
+| Pulpit prayers and paragraphs, editorials, commandments and beatitudes (New York : George H. Doran company, 1926) | have-ocr | IA `pulpitprayerspar00stid` |
+| God is at the organ (New York, Cincinnati, The Abingdon Press, 1927) | have-ocr | IA `godisatorgan0000stid` |
+| The high faith of fiction and drama (Garden City, New York, Doubleday, Doran and Co., 1928) | have-ocr | IA `highfaithofficti0000stid` |
+| Preaching out of the overflow (Nashville, Tenn., Cokesbury press, 1929) | have-ocr | IA `preachingoutofov0000stid` |
+| If I had only one sermon to preach on immortality (New York, London, Harper & brothers, 1929), IA ifihadonlyoneser0000stid: sermons by many preachers which he edited; this scan is a second printing with no date (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+
+## Charles Herbert Rust (round 117, my pick, 2026-10-23)
+
+Slugs `chrust-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| A church on wheels ; or, ten years on a chapel car (Philadelphia : American Baptist Publication Society, 1905) | have-ocr | IA `churchonwheels00rust` |
+| Practical ideals in evangelism (Philadelphia : Griffith & Rowland Press, 1906) | have-ocr | IA `practicalidealsi00rust` |
+| The church a field of service (catalogued 1914) | have-ocr | IA `churchfieldofser0000char` |
+| Personal religion (Boston, Mass. : Gorham Press, 1915) | have-ocr | IA `personalreligion00rust` |
+
+## Edward E. Keedy (round 117, my pick, 2026-10-23)
+
+Slugs `keedy-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| Moral leadership and the ministry (Boston, Horace Worth company, 1912) | have-ocr | IA `moralleadershipm00keed` |
+| The exceeding worth of joining the church (Boston : Horace Worth, 1918) | have-ocr | IA `exceedingworthof00keed` |
+| naturalnessofchr0000edwa (a 2009 printing) | excluded | |
+
+## Allan Pearson Shatford (round 117, my pick, 2026-10-23)
+
+Slugs `shatford-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| The church and the book ([Montréal? : s.n.], 1908) | have-ocr | IA `cihm_65311` |
+| The priest and the people : sermon preached on the third Sunday after Epiphany, January 24th, 1909, in the Church of St. James the Apostle, Montreal ([Montréal? : s.n.], 1909) | have-ocr | IA `cihm_86211` |
+| The three kings of Orient : a prable for Chritmas (Montreal : J, Lovell & Son, 1910) | have-ocr | IA `cihm_76593` |
+| The four Marys : A study in missions ([Toronto?] : Woman's Auxiliary to the M.S.C.C., 1910) | have-ocr | IA `fourmarysstudyin00shat` |
+| The innocents : a Christmas study ([Montréal? : s.n.], 1912) | have-ocr | IA `cihm_76578` |
+| The keystone and the arch : sermon delivered to the Royal Arch Masons of Montreal on Sunday, November 22nd, 1914 ... in the Church of St. James the Apostle ([Montréal? : s.n.], 1914) | have-ocr | IA `cihm_86209` |
+| The year of jubilee : a brief sketch of fifty years' work in the church of St. James the Apostle, Montreal, 1864-1914 (Montreal, Quebec : John Lovell & Son, 1914) | have-ocr | IA `yearofjubileebri00shat` |
+| The light of life : an address ([Montréal? : s.n.], 1914) | have-ocr | IA `cihm_65306` |
+| Duty and faith : war-sermons preached in St. Margaret's Church, Westminister, London (Folkestone [England] : Herald Works, 1916) | have-ocr | IA `cihm_65330` |
+| The return : a Christmas study ([Canada? : s.n.], 1918) | have-ocr | IA `cihm_76574` |
+| Sermons (Mons, Belgium : s.n., 1918) | have-ocr | IA `sermons00shat` |
+| Six marks of a Christian (Philadelphia ; Chicago [etc.] : The John C. Winston company, 1925) | have-ocr | IA `sixmarksofchrist00shat` |
+| Our lady of colours : a Christmas message ([Canada? : s.n.], 1929) | have-ocr | IA `cihm_80527` |
+| The Christmas box ([Canada? : s.n.], ), IA cihm_81127: the booklet prints no date and he lived until 1935, so a pre-1930 printing is not shown | pending | not shelved |
+| The shepherds : a Christmas analogy (Montreal : J. Lovell, ), IA cihm_78261: the booklet prints no date and he lived until 1935, so a pre-1930 printing is not shown | pending | not shelved |
+
+## W. E. Orchard (round 117, my pick, 2026-10-23)
+
+Slugs `orchard-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| The finality of Christ and other sermons (London : George Allen and Unwin, Ltd, 19--) | have-ocr | IA `thefinalityofchr00orchuoft` |
+| Modern theories of sin. Thesis approved for the degree of Doctor of Divinity in the University of London (London, J. Clarke, 1909) | have-ocr | IA `moderntheoriesof00orch` |
+| Sermons on God, Christ, and man (London : James Clarke, 1913) | have-ocr | IA `sermonsongodchri0000orch` |
+| The temple; a book of prayers (New York, E.P. Dutton & Co., London, J.M. Dent & Sons, ltd., 1914) | have-ocr | IA `templebookofpray00orchrich` |
+| The real war (London ; Toronto : H. Milford, Oxford University Press, 1914) | have-ocr | IA `cihm_88265` |
+| The necessity of Christ (London, Dent, 1917) | have-ocr | IA `necessityofchris00orchuoft` |
+| The outlook for religion (New York And London, Funk & Wagnalls Co., 1917) | have-ocr | IA `outlookforreligi0000orch` |
+| The true patriotism and other sermons (London : G. Allen & Unwin, 1918) | have-ocr | IA `truepatriotismot0000orch` |
+| The Order of Divine Service for public worship, the administration of the Sacraments and other rites and ceremonies, and a selection from the daily offices, compiled from ancient and modern devotions, together with an abridged and revised Psalter and Canticles pointed for chanting (London, Milford, 1921) | have-ocr | IA `orderofdivinese00orch` |
+| Oracles of God : studies in the Minor Prophets (London : Clarke, 1922) | have-ocr | IA `oraclesofgod00orchuoft` |
+| No more war, and other sermons (London, G. Allen & Unwin, 1922) | have-ocr | IA `nomorewarotherse0000orch` |
+| Foundations of faith (New York, George H. Doran Co, 1924) | have-ocr | IA `foundationsoffai0000orch` |
+| Foundations of Faith, II, Christological, vol. 1 (George H. Doran Company, 1926) | have-ocr | IA `bwb_P4-ATU-400_1` |
+| Foundations of Faith Volume 4: Eschatological (Routledge, Chapman & Hall, Incorporated, 1927) | have-ocr | IA `foundationsoffai0000unse_x4h2` |
+| Christianity and world-problems (New York : Doran, 1925) | have-ocr | IA `christianityworl0000orch` |
+| The present crisis in religion (New York, London, Harper & Brothers, 1929) | have-ocr | IA `presentcrisisinr0000orch` |
+| Books printed in 1930 or later (What is Hell?, Prayer, From Faith to Faith) left out | excluded | |
+| jstor-41224351 is by another Orchard | excluded | |
+
+## John McNeill (round 117, my pick, 2026-10-23)
+
+Slugs `jmcneill-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. 1 (New York : F.H. Revell, 1890) | have-ocr | IA `sermons0001mcne` |
+| Regent Square pulpit: sermons (James Nisbet &amp; Co., 1891, 1891) | have-ocr | IA `regentsquarepul00mcnegoog` |
+| The twenty-third Psalm (New York, Chicago Fleming H. Revell Company, 1927) | have-ocr | IA `twentythirdpsalm0000mcne` |
+| wayoflife00spur (a Spurgeon compilation) | excluded | |
+
+## George Thomas Stokes (round 118, my pick, 2026-10-23)
+
+Slugs `gtstokes-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Ireland and the Celtic church : a history of Ireland from St. Patrick to the English conquest in 1172 (London : Hodder and Stoughton, 1886) | have-ocr | IA `irelandandceltic00stokuoft` |
+| Ireland and the Anglo-Norman Church, a history of Ireland and Irish Christianity from the Anglo-Norman Conquest to the dawn of the Reformation (London, Hodder, 1889) | have-ocr | IA `irelandanglonorm00stokuoft` |
+| The Acts of the Apostles, in the Expositor's Bible (New York: A. C. Armstrong & Son, 1893) | have-ocr | IA `expositorsbiblea0000mrge` |
+| Some worthies of the Irish Church : lectures delivered in the Divinity school of the University of Dublin (London : Hodder and Stoughton, 1900) | have-ocr | IA `someworthies00stokuoft` |
+| The Acts of the Apostles (Expositor's Bible), a volume of uncertain number, IA theactsoftheapos00stokuoft: the record has no title or date and the OCR does not show which volume this "New and Cheaper Edition" scan is; needs a look at the title page | pending | not shelved |
+| Pococke's Tour in Ireland, which he only edited | excluded | |
+| studiesinlitera00edgoog (by another Stokes) | excluded | |
+
+## W. J. Conybeare (round 118, my pick, 2026-10-23)
+
+Slugs `wjconybeare-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays ecclesiastical and social (London : Longman, Brown, Green, and Longmans, 1855) | have-ocr | IA `essaysecclesiast00conyrich` |
+| The life and epistles of St. Paul (London : Longman, Green, Longman, and Roberts, 1861) | have-ocr | IA `lifeepistlespaul00conyuoft` |
+| Perversion, Or, The Causes and Consequences of Infidelity: A Tale for the Times, vol. 3 (Smith, Elder, 1856), IA perversionorcau02conygoog: vol. 3 only, and the novel was published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Illustrations of Anglo-Saxon Poetry is by his father J. J. Conybeare; A History of Cambridgeshire is by Edward Conybeare; the petrifactions and the 1835 Epistles are by others | excluded | |
+
+## T. R. Birks (round 118, my pick, 2026-10-23)
+
+Slugs `birks-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Village discourses; 10 sermons (catalogued 1845) | have-ocr | IA `villagediscours00birkgoog` |
+| The two later visions of Daniel: historically explained (London : Seeley, Burnside, and Seeley, 1846) | have-ocr | IA `twolatervisionso00birkrich` |
+| Memoir of the Rev. Edward Bickersteth : late rector of Watton, Herts (London : Seeleys, 1851) | have-ocr | IA `memoirrevedward03birkgoog` |
+| Horæ evangelicæ : or, the internal evidence of the Gospel history, being an inquiry into the structure and origin of the four Gospels, their historical consistency, and the characteristic design of each narrative (London : Seeleys, 1852) | have-ocr | IA `horaeevangelicae00birk` |
+| Modern popery, its strength, and its weakness, as an aggressive power : a lecture, delivered before the members of the Islington Protestant Institute at the Chapel-of-ease Parochial Schools, Liverpool-Road on Monday evening, April 19, 1852 (London : Published for the Islington Protestant Society by J.H. Jackson, 1852) | have-ocr | IA `a629417800birkuoft` |
+| Outlines of unfulfilled prophecy, an inquiry into the Scripture testimony respecting the 'good (catalogued 1854) | have-ocr | IA `outlinesunfulfi00birkgoog` |
+| THE DIFFICULTIES OF BELIEF (catalogued 1855) | have-ocr | IA `difficultiesbel00birkgoog` |
+| The Bible and modern thought (London : Religious Tract Society, 1862) | have-ocr | IA `biblemodernthou00birk` |
+| On Matter and Ether, Or The Secret Laws of Physical Change (Macmillan and co., 1862) | have-ocr | IA `onmatterandethe00birkgoog` |
+| The exodus of Israel: its difficulties examined, and its truth confirmed (London, Religious Tract Society, 1863) | have-ocr | IA `exodusofisraelit00birk` |
+| The ways of God; or, Thoughts on the difficulties of belief, in connexion with providence and (Seeley, Jackson and Halliday, 1863) | have-ocr | IA `waysgodorthough00birkgoog` |
+| The victory of divine goodness : including I. Letters to an inquirer on various doctrines of Scripture ; II. Notes on Coleridge's Confessions of an inquiring spirit ; III. Thoughts on the nature of the atonement and of eternal judgment (London : Rivingtons, 1867) | have-ocr | IA `victoryofdivineg00birk_0` |
+| Church and state : or, national religion and church establishments ; considered with reference to present controversies (London : Hatchards, 1869) | have-ocr | IA `churchstateornat00birk` |
+| The Pentateuch and its anatomists; or, The unity and authenticity of the books of Moses vindicated and confirmed, in reply to modern criticisms (London : Hatchards, 1869) | have-ocr | IA `pentateuchitsana00birk` |
+| The scripture doctrine of creation : with reference to religious nihilism and modern theories of development (London : Christian Evidence Committee of the Society for Promoting Christian Knowledge, 1872) | have-ocr | IA `scripturedoctrin00birk` |
+| First principles of moral science, a course of lectures delivered in the University of Cambridge (London, Macmillan, 1873) | have-ocr | IA `firstprincipleso00birkrich` |
+| Modern utilitarianism (London, Macmillan and co. [Micro Photo Division, Bell & Howell], 1874) | have-ocr | IA `modernutilitari00birkgoog` |
+| The uncertainties of modern physical science : being the annual address of the Victoria Institute, or, Philosophical Society of Great Britain : delivered at the House of the Society of Arts, on the 29th May, 1876, vol. Talbot Collection of British Pamphlets (London : Published for the Institute, [187) | have-ocr | IA `uncertaintiesofm00birk` |
+| Essay on the right estimation of manuscript evidence in the text of the New Testament (London : Macmillan, 1878) | have-ocr | IA `essayonrightesti00birk` |
+| Commentary on the book of Isaiah, critical, historical, and prophetical : including a revised English translation with introduction and appendices (London : Macmillan, 1878) | have-ocr | IA `commentaryonbook00birk` |
+| Supernatural revelation; or, First principles of moral theology (London, Macmillan, 1879) | have-ocr | IA `supernaturalreve00birkrich` |
+| Thoughts on the times and seasons of sacred prophecy (catalogued 1880) | have-ocr | IA `thoughtsontimes00birkgoog` |
+| Modern physical fatalism and the doctrine of evolution : including an examination of H. Spencer's First principles (London : Macmillan, 1882) | have-ocr | IA `modernphysicalfa00birkrich` |
+| The Companion psalter : or four hundred and fifty versions of the Psalms, selected and original, for public or private worship (London : Seeleys and Co., 1874), IA compar00birk: 450 versions of the Psalms, "selected and original", most by other hands (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Later editions of The Difficulties of Belief (1876) and other duplicate scans | excluded | |
+| modern-astronomy-birks-1850 (no catalogue detail) | excluded | |
+
+## Crawford Howell Toy (round 118, my pick, 2026-10-23)
+
+Slugs `toy-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| The history of the religion of Israel : an Old Testament primer (Boston : Unitarian Sunday-School Society, 1884) | have-ocr | IA `historyreligionis00toyc` |
+| Quotations in the New Testament (New York, Scribner, 1884) | have-ocr | IA `quotationsinn00toyc` |
+| Judaism and Christianity; a sketch of the progress of thought from Old Testament to New Testament (Boston, Little, Brown, 1890) | have-ocr | IA `judaismchristian00toyc` |
+| A critical and exegetical commentary on the book of Proverbs (New York, C. Scribner's sons, 1899) | have-ocr | IA `criticalexegetic00toyc` |
+| The Book of the Prophet Ezekiel: A New English Translation, with Explanatory Notes and Pictorial (Dodd, 1899) | have-ocr | IA `bookprophetezek03toygoog` |
+| The book of the prophet Ezekiel: Critical Edition of the Hebrew Text with Notes (John Hopkins Press, 1899) | have-ocr | IA `bookprophetezek01toygoog` |
+| booksofsamuel05erdm (Erdmann's commentary in Lange's series, which Toy translated) | excluded | |
+
+## W. H. Fitchett (round 118, my pick, 2026-10-23)
+
+Slugs `fitchett-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| The unrealized logic of religion : a study in credibilities (New York : Eaton & Mains, 1905) | have-ocr | IA `unrealizedlogico00fitc` |
+| Wesley and his century : a study in spiritual forces (Toronto : W. Briggs, 1906) | have-ocr | IA `wesleyhiscentu00fitc` |
+| The beliefs of unbelief : studies in the alternatives to faith (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1907) | have-ocr | IA `beliefsofunbelie00fitc` |
+| His popular military histories (Deeds that Won the Empire, How England Saved Europe, Nelson, the Mutiny) and his novels are left to other lanes | excluded | |
+
+## Charles S. Eby (round 118, my pick, 2026-10-23)
+
+Slugs `eby-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity and humanity : a course of lectures delivered in Meiji Kuaido, Tokio, Japan (Yokohama, Japan : R. Meiklejohn, 1883) | have-ocr | IA `cihm_06044` |
+| Christianity and civilization : with a prelude on the antiquity of man ([Tokyo? : s.n., 1883) | have-ocr | IA `albertatest_01233` |
+| Immediate Christianization of Japan (Yokohama : printed at the office of the Japan Mail, 1884) | have-ocr | IA `christianization00ebyc` |
+| Methodism and the missionary problem (Toronto : W. Briggs; Toronto : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886) | have-ocr | IA `cihm_59547` |
+| Sermon on the Mount : the charter of the Kingdom (Toronto : Canadian Citizens' League of the International Reform Bureau, 1907) | have-ocr | IA `cihm_86079` |
+| bwb_C0-BYJ-403 (1943, another Eby) | excluded | |
+
+## F. N. Peloubet (round 119, my pick, 2026-10-23)
+
+Slugs `peloubet-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Lord, increase our faith (Cook and Sons, 1876) | have-ocr | IA `lordincreaseourf00pelo` |
+| Select notes on the International Sabbath school lessons for 1877. Explanatory, illustrative, and practical, with maps and table of the signification and pronunciation of proper names (Boston : H. Hoyt, 1876) | have-ocr | IA `cu31924029340191` |
+| Peloubet's select notes on the International Bible lessons for Christian teching, uniform series (Boston [etc.] W. A. Wilde Co. [etc.], 1879) | have-ocr | IA `selectnotesonin01unkngoog` |
+| Suggestive illustrations on the Gospel according to Matthew; illustrations from all sources, picturesque Greek words, library references to further illustrations, photographs of celebrated pictures referred to, for the use of leaders of prayer-meetings, Christian endeavorers, Sunday-school teachers, pastors (New York, E. R. Herrick & company, 1897) | have-ocr | IA `suggestiveillu00pelo` |
+| Suggestive illustrations on the Gospel of John : illustrations from all sources, picturesque Greek words, library references to further illustrations, references to celebrated pictures : for the use of pastors, Sunday-school teachers, leaders of prayer-meetings, and the home (New York : E.R. Herrick, c189) | have-ocr | IA `suggestiveillust00pelouoft` |
+| Suggestive illustrations on the Acts of the Apostles (New York : E. R. Herrick & Co., 1898) | have-ocr | IA `suggestiveillust00pelo_0` |
+| SELECT NOTES ON THE INTERNATIONAL LESSONS FOR 1900 (catalogued 1899) | have-ocr | IA `bwb_T4-AKC-398` |
+| Peloubet's Select Notes on the International Sunday School Lessons 1901 (W. A. Wilde, 1900) | have-ocr | IA `peloubetsselectn0000fnpe` |
+| The teachers' commentary on the Acts of the Apostles (New York, Oxford University Press, 1901) | have-ocr | IA `teacherscomment00pelogoog` |
+| The teachers' commentary on the Gospel according to St. Matthew (New York : Oxford University Press, 1901) | have-ocr | IA `teacherscommenta0000pelo` |
+| The front line of the Sunday school movement; the line of the vanguard of Sunday school progress, with a glimpse of ideals beyond (Boston, W. A. Wilde, 1904) | have-ocr | IA `frontlineofsunda00pelo` |
+| His songbooks and his edition of Smith's Dictionary of the Bible collect other men's work; the Albanian and Russian Bibles are catalogue errors | excluded | |
+
+## John S. Grasty (round 119, my pick, 2026-10-23)
+
+Slugs `grasty-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| A noble testimony ([Raleigh, N.C. : s.n.], 1800) | have-ocr | IA `nobletestimony00gras` |
+| A great question asked? ; Faith and works ([Raleigh? N. C. : s.n.], 1861) | have-ocr | IA `greatquestionask00gras` |
+| The Way to Zion (catalogued 1861) | have-ocr | IA `the-way-to-zion` |
+| Faith's battles and victories, or, Thoughts for troublous times (catalogued 1869) | have-ocr | IA `faiths-battles-and-victories` |
+| Memoir of Rev. Samuel B. McPheeters, D.D (Saint Louis : Southwestern Book and Pub. Co. ; Louisville : Davidson Bros. & Co., 1871) | have-ocr | IA `memoirofrevsamuel00gras` |
+
+## P. A. Halpin (round 119, my pick, 2026-10-23)
+
+Slugs `halpin-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Apologetica : elementary apologetics for pulpit and pew (New York, N.Y. : J.F. Wagner, 1904) | have-ocr | IA `apologeticaeleme00halprich` |
+| A young woman's problems (J. F. Wagner, 1905) | have-ocr | IA `youngwomansprobl0000paha` |
+| christianpedagog00halp (catalogued ) | have-ocr | IA `christianpedagog00halp` |
+
+## Jerom Alley (round 119, my pick, 2026-10-23)
+
+Slugs `alley-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| A comparative view of the lives of Henry the Fourth of France, and William the Third of England. Being an essay, to which the prize, proposed by His Excellency the Lord Lieutenant of Ireland, was adjudged, in Hillary term, 1778. By Jerom Alley.  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_a-comparative-view-of-th_alley-jerom_1778` |
+| Historical essays on the lives of Augustus Cæsar; and Lewis XIV. ... to which the prizes proposed ... To which are added, the Widowed queen; ... By the Rev. Jerom Alley  1782 (catalogued 1782) | have-ocr | IA `bim_eighteenth-century_historical-essays-on-the_alley-jerom_1782` |
+| A review of the political principles of the modern Whigs. In a second letter addressed to the Right Hon. Lord Sheffield. By the Rev. Jerom Alley, ...  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_a-review-of-the-politica_alley-jerom_1792` |
+| Observations on the government and constitution of Great Britain, including a vindication of both from the aspersions of some late writers, particularly Dr. Price, Dr. Priestley, and Mr. Paine; in a letter to the Right Honourable Lord Sheffield, by the Rev. Jerom Alley, ...  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_observations-on-the-gove_alley-jerom_1792` |
+| The judge : or, An estimate of the importance of the judicial character, occasioned by the death of the late Lord Clare, Lord Chancellor of Ireland. A poem, in three cantos (London : Printed by J. Swan ... for Vernor and Hood, Poultry, 1803) | have-ocr | IA `judgeorestimateo00alle` |
+| Vindiciae Christianae : a comparative estimate of the genius and temper of the Greek, the Roman, the Hindu, the Mahometan, and the Christian religions (London : Printed for T. Cadell ..., 1826) | have-ocr | IA `vindiciaechrist00allegoog` |
+
+## Pius Devine (round 119, my pick, 2026-10-23)
+
+Slugs `pdevine-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Eutropia: or, How to find a way out of darkness and doubt into light and certainty (catalogued 1880) | have-ocr | IA `eutropiaorhowto00devigoog` |
+| Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. III: St John (catalogued 1884) | have-ocr | IA `AuxiliumPraedicatorumV3` |
+| Auxilium Praedicatorum, or a Short Gloss upon the Gospels, vol. II: St Mark and St Luke (catalogued 1884) | have-ocr | IA `ashortclassupon00devigoog` |
+
+## Joseph Longking (round 119, my pick, 2026-10-23)
+
+Slugs `longking-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| Questions on the Gospels : the lessons in historical and chronological order, according to the arrangement of Townsend's Chronological New Testament / by Joseph Longking ; revised by the editors (Carlton & Porter, 1838) | have-ocr | IA `questionsongospe00long` |
+| NOTES ILLUSTRATIVE AND EXPLANATORY ON THE HOLY GOSPELS, vol. 1 (catalogued 1841) | have-ocr | IA `notesillustrativ0001jose` |
+| Sunday School Tracts (Lane & Scott, 1849) | have-ocr | IA `sundayschooltrac0000jose` |
+| Notes on the Epistles of Paul the apostle to the Galatians and Ephesians (New York, Carlton & Porter, Sunday-school union, 1863) | have-ocr | IA `notesonepistleso00long` |
+| questionsongospe0000jose (a 2017 reprint) | excluded | |
+
+## Henry Sacheverell (round 120, my pick, 2026-10-23)
+
+Slugs `sacheverell-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preach'd before the University of Oxford on the tenth day of June 1702. being the fast appointed for the imploring a blessing on Her Majesty and allies engag'd in the present war against France and Spain. By Henry Sacheverell, ...  1702 (catalogued 1702) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_sacheverell-henry_1702` |
+| The political union. A discourse shewing the dependance of government on religion in general: and of the English monarchy on the Church of England in particular. By Henry Sacheverell, ...  1702 (catalogued 1702) | have-ocr | IA `bim_eighteenth-century_the-political-union-a-d_sacheverell-henry_1702` |
+| The nature, obligation, and measures of conscience : deliver'd in a sermon preached at Leicester, at the Assizes held there, July 25th, 1706 (Oxford [Oxfordshire] : Printed by Leon. Lichfield, for John Stephens ... and are to be sold by James Knapton, 1706) | have-ocr | IA `natureobligation00sachiala` |
+| The nature and mischief of prejudice and partiality stated in a sermon : preach'd at St. Mary's in Oxford, at the assizes held there, March 9th, 1703/4 (London : Printed and sold by H. Hills, 1708) | have-ocr | IA `naturemischiefof00sachuoft` |
+| The nature, guilt and danger of presumptuous sins : set forth in a sermon preach'd before the University of Oxford at St. Mary's, Septemb. 14th 1707 (Oxford : Printed by Leon Lichfield for John Stephens, bookseller, and are to be sold by James Knapton at the Crowne in St. Paul's Churchyard, London, 1708) | have-ocr | IA `natureguiltdange00sachuoft` |
+| The communication of sin : a sermon preach'd at the assizes held at Derby, August 15th, 1709 (London : Printed for Henry Clements at the Half-Moon in St. Paul's Church-Yard, 1709) | have-ocr | IA `communicationofs00sach` |
+| The perils of false brethren, both in church, and state : set forth in a sermon preach'd before the Right Honourable the Lord-Mayor, aldermen, and citizens of London, at the Cathedral-Church of St. Paul, on the 5th of November, 1709 (London : Printed for Henry Clements, at the Half-Moon in St. Paul's Church-Yard, 1709) | have-ocr | IA `perilsoffalsebre0000sach` |
+| The answer of Henry Sacheverell, D.D. to the articles of impeachment, exhibited against him by the Honourable House of Commons, &c: for preaching two sermons, I. At the assizes held at Darby, August 15. II. At the Cathedral Church of St. Paul, Nov. 5. 1709. To which are prefix'd, the articles of impeachment, translated from the Leiden Gazett [sic], of the 11th of February, N.S.  1710 (catalogued 1710) | have-ocr | IA `bim_eighteenth-century_the-answer-of-henry-sach_sacheverell-henry_1710` |
+| The speech of Henry Sacheverell, D.D. made in Westminster Hall on Tuesday, March 7, 1709/10 (London : Printed for J. Baker at the Black Boy in Pater-Noster-Row, 1710) | have-ocr | IA `speechofhenrysac00sach` |
+| Collections of passages referr'd to by Dr. Henry Sacheverell in his answer to the articles of his impeachment (London : Printed for H. Clements at the Half-Moon in St. Paul's Church-Yard, 1710) | have-ocr | IA `collectionsofpas00sach` |
+| The Christian triumph: or, the duty of praying for our enemies, illustrated and enforc'd from our blessed Saviour's example on the cross. In a sermon preach'd at S. Saviour's in Southwark. On Palm-Sunday, 1713. By Henry Sacheverell, D.D.  1713 (catalogued 1713) | have-ocr | IA `bim_eighteenth-century_the-christian-triumph-o_sacheverell-henry_1713` |
+| False notions of liberty in religion and government, destructive of both. A sermon preach'd before the Honourable House of Commons, at St. Margaret's Westminster, on Friday, May 29. 1713. By Henry Sacheverell, ...  1713 (catalogued 1713) | have-ocr | IA `bim_eighteenth-century_false-notions-of-liberty_sacheverell-henry_1713` |
+| The efficacy of Christian perseverance in time of trouble. A sermon preach'd on Sunday the 29th. of March, 1713. At the Church of St. Saviour's, Southwark. By Henry Sacheverel, ...  1713 (catalogued 1713) | have-ocr | IA `bim_eighteenth-century_the-efficacy-of-christia_sacheverell-henry_1713` |
+| A sermon preach'd January 31. 1714/5. by Henry Sacheverel, D.D. Rector of St. Andrew's Holborn. As it was taken in short hand by one of his parishioners. To which is added, a postscript containing notes of another sermon, preach'd on the twentieth of (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-januar_sacheverell-henry_1715_0` |
+| A sermon preach'd on the 30th of January, 1717-8. at the parish church of St. Andrew's Holburn [sic]. By Henry Sacheverel, D.D.  1718 (catalogued 1718) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-on-the_sacheverell-henry_1718` |
+| The character of a Low-church-man: drawn in an answer to The true character of a Church-man: shewing the false pretences to that name. Humbly offer'd to all the electors of the ensuing Parliament and Convocation.  1702 (catalogued 1702) (IA bim_eighteenth-century_the-character-of-a-low-c_sacheverell-henry_1702): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A sermon preach'd before the Sons of the Clergy at their anniversary-meeting in the cathedral-church of St. Paul, December 10, 1713. By Henry Sacheverell, ...  1714 (catalogued 1714) (IA bim_eighteenth-century_a-sermon-preachd-before_sacheverell-henry_1714): the scan opens on pages 19-21 of another tract (S. James's Liturgy) and the sermon's title page was not found; a clean scan is wanted | pending | not shelved |
+| the 1710 trial record and the many pamphlets about him are by others | excluded | |
+| French translations of his sermon | excluded | |
+| An account of the Isle of Man is by William Sacheverell | excluded | |
+| road and enclosure essays by Henry Sacheverell Homer | excluded | |
+
+## Thomas Gisborne (round 120, my pick, 2026-10-23)
+
+Slugs `gisborne-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| The principles of moral philosophy investigated and briefly applied to the constitution of civil society : together with remarks on the principle assumed by Mr. Paley as the basis of all moral conclusions, and on other positions of the same author (London : Printed by T. Bensley for B. White and Son, 1789) | have-ocr | IA `principlesofmora00gisb` |
+| Remarks on the late decision of the House of Commons respecting the abolition of the slave trade. The second edition. By Thomas Gisborne, M.A.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_remarks-on-the-late-deci_gisborne-thomas_1792` |
+| On slavery and the slave trade, by T. Gisborne, M.A.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_on-slavery-and-the-slave_gisborne-thomas_1792` |
+| An enquiry into the duties of men in the higher and middle classes of society to Great Britain, resulting fromtheir respective stations, professions, ...  1794 (catalogued 1794) | have-ocr | IA `bim_eighteenth-century_an-enquiry-into-the-duti_gisborne-thomas-the-el_1794` |
+| An enquiry into the duties of the female sex. By Thomas Gisborne, M.A. The second edition, corrected.  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_an-enquiry-into-the-duti_gisborne-thomas_1797` |
+| Walks in a forest (London, Printed by A. Strahan, for T. Cadell, jun. and W. Davies, 1801) | have-ocr | IA `walksinforest00gisb` |
+| Poems, sacred and moral (London : Printed for T. Cadell and W. Davies ..., 1803) | have-ocr | IA `poemssacredmoral00gisbrich` |
+| Ode to the memory of William Cowper, Esq. By Thomas Gisborne, M.A.  1800 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_ode-to-the-memory-of-wil_gisborne-thomas_1800` |
+| Sermons Principally Designed to Illustrate and to Enforce Christian Morality (Printed for T. Cadell and W. Davies, 1809) | have-ocr | IA `sermonsprincipa01gisbgoog` |
+| The Testimony of Natural Theology to Christianity (M. Thomas, 1818) | have-ocr | IA `testimonynatura00gisbgoog` |
+| Essays on the recollections which are to subsist between earthly Friends reunited in the world to come ([n. p.], 1822) | have-ocr | IA `essaysonrecollec00gisb` |
+| Friendly observations addressed to the manufacturing population of Great Britain (catalogued 1827) | have-ocr | IA `friendlyobserva00gisbgoog` |
+| Considerations on the basis and the means of the permanent security of the Established Church of England (London : T. Cadell, 1829) | have-ocr | IA `considerationson00gisb` |
+| A familiar survey of the Christian religion, and of history as connected with the introduction of Christianity, and with its progress to the present time (Dublin, Printed for A.W. Watson, M. Keene & Son, et.al., 1830) | have-ocr | IA `familiarsurveyof00gisb` |
+| Considerations on objections current against ecclesiastical establishments; and on the (catalogued 1835) | have-ocr | IA `considerationso01gisbgoog` |
+| An enquiry respecting love, as one of the divine attributes (W. Blackwood and Sons, 1838) | have-ocr | IA `anenquiryrespec00gisbgoog` |
+| Sermons, vol. 1 (catalogued 1804) | have-ocr | IA `sermonsvolume00gisbgoog` |
+| Elegy to the memory of the Rev. William Mason.  1797 (catalogued 1797) (IA bim_eighteenth-century_elegy-to-the-memory-of-t_gisborne-thomas_1797): the printed title page names no author (only a later hand's pencil note); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Innovation: a poem.  1799 (catalogued 1799) (IA bim_eighteenth-century_innovation-a-poem_gisborne-thomas_1799): the printed title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Essays on agriculture (1854) are by his son Thomas Gisborne the younger | excluded | |
+| Flora Herbornensis, the John Hunter works, the Canadian Dominion pamphlet and the Idaho forest bulletin are by other men | excluded | |
+
+## Thomas Townson (round 120, my pick, 2026-10-23)
+
+Slugs `townson-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached at the primary visitation of the Right Reverend Beilby Lord Bishop of Chester, in the cathedral church, on Thursday, August 13, 1778. By Thomas Townson, ...  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_townson-thomas_1778` |
+| A discourse on the evangelical history, from the interment to the ascension of our Lord and Saviour Jesus Christ. By the late Reverend Thomas Townson, ... To which is prefixed an account of the author.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-discourse-on-the-evang_townson-thomas_1793` |
+| Babylon in the Revelation of St. John as signifying the city of Rome considered with reference to the claims of the Roman church. By ... Thomas Townson, ...  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_babylon-in-the-revelatio_townson-thomas_1797` |
+| The works of the Reverend Thomas Townson ... : to which is prefixed an account of the author with an introduction to the discourses on the Gospels, and a sermon on the quotations in the Old Testament (London : Printed for F.C. and J. Rivington, 1810) | have-ocr | IA `worksofreverendt00town` |
+| Discourses on the four Gospels chiefly with regard to the peculiar design of each, and the order and places in which they were written. To which is added a discourse on the evangelical history from the interment to the ascension of our Lord (University Press, 1831) | have-ocr | IA `discoursesonfour0000unse` |
+| Doubts concerning the authenticity of the last publication of The confessional, and the current editions of certain books cited in it. Addressed to the author of that learned work.  1767 (catalogued 1767) (IA bim_eighteenth-century_doubts-concerning-the-au_townson-thomas_1767): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A defence of the doubts concerning the authenticity of the last publication of The confessional, &c. In answer to Occasional remarks, &c.  1768 (catalogued 1768) (IA bim_eighteenth-century_a-defence-of-the-doubts-_townson-thomas_1768): published without a name (only a manuscript note names Townson); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A dialogue between Isaac Walton and Homologistes: in which the character of Bishop Sanderson is defended against the author of The confessional.  1768 (catalogued 1768) (IA bim_eighteenth-century_a-dialogue-between-isaac_townson-thomas_1768): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| thomastownsonsa00towngoog, a German translation | excluded | |
+| b22415646 is by Robert Townson | excluded | |
+
+## Naphtali Daggett (round 120, my pick, 2026-10-23)
+
+Slugs `daggett-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| The faithful serving of God and our generation, the only way to a peaceful and happy death. A sermon occasioned by the death of the Reverend Thomas Clap, (president of Yale College, in New-Haven) who departed this life, Jan. 7th, 1767; delivered in the College-Chapel, Jan. 8th, by the Rev'd Naphtali Daggett, Livingstonian Professor of Divinity in Yale-College. [Three lines from Matthew].  1767 (catalogued 1767) | have-ocr | IA `bim_eighteenth-century_the-faithful-serving-of-_daggett-naphtali_1767` |
+| The excellency of a good name. A sermon, delivered in the chapel of Yale-College, in New-Haven, December 4th, 1768. Occasioned by the death of Mr. Job Lane, ... By the Reverend Naphtali Daggett, ...  1768 (catalogued 1768) | have-ocr | IA `bim_eighteenth-century_the-excellency-of-a-good_daggett-naphtali_1768` |
+| The great and tender concern of faithful ministers for the souls of their people, should powerfully excite them also, to labour after their own salvation. A sermon, preached at Danbury, September 19th, 1770, at the ordination of the Reverend Ebenezer Baldwin. By the Reverend Naphtali Daggett, president of Yale-College, in New-Haven, and professor of divinity in the same. [Three lines from II Corinthians].  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_the-great-and-tender-con_daggett-naphtali_1770` |
+| The testimony of conscience a most solid foundation of rejoicing. A sermon preached at the ordination of the Rev. Mr. Joseph Howe, to the pastoral care of the New-South church in Boston, May 19th, 1773. By the Rev. Naphtali Daggett, ... To which is added, The charge by the Rev. Aaron Brown, and the Right hand of fellowship by the Rev. Dr. ...  1773 (catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-testimony-of-conscie_daggett-naphtali_1773` |
+| yhm-spe-rob-n01h, a two-page manuscript certificate | excluded | |
+
+## Samuel Lavington (round 120, my pick, 2026-10-23)
+
+Slugs `lavington-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| God the giver of victory : a sermon, preached at Bideford, Devon, on the 29th of November, 1759, being the day appointed for a general thanksgiving, for the success of His Majesty's arms (London : Printed for J. Buckland ... [and 2 others], 1760) | have-ocr | IA `cihm_20289` |
+| Sermons, and other discourses, vol. 2 (London : Printed for Gale, Curtis, and Fenner, 1815) | have-ocr | IA `sermonsandother01lavigoog` |
+| Sacramental meditations (catalogued 1833) | have-ocr | IA `sacramentalmedi00lavigoog` |
+
+## F. Homes Dudden (round 120, my pick, 2026-10-23)
+
+Slugs `dudden-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| Gregory the great (catalogued 1905) | have-ocr | IA `gregorygreat0000fhom` |
+| Christ and Christ's religion : sermons (Edinburgh : T. & T. Clark, 1910) | have-ocr | IA `cu31924029358524` |
+| The future life : four sermons preached at St. John's Notting Hill, in June, 1915 (London ; New York : Longmans, Green, 1915) | have-ocr | IA `futurelifefourse00duddrich` |
+| The dead and the living and other sermons (London ; New York [etc.] : Longmans, Green and co., 1920) | have-ocr | IA `deadandlivingand00dudduoft` |
+| The Life and Times of St. Ambrose (1935) is after 1930 | excluded | |
+
+## J. E. C. Welldon (round 121, my pick, 2026-10-23)
+
+Slugs `welldon-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| The spiritual life : and other sermons (London : Macmillan, 1888) | have-ocr | IA `spirituallifeoth0000well` |
+| The fire upon the altar : sermons preached to Harrow boys ; second series, 1887-1890 (London : Percival and Co., 1891) | have-ocr | IA `fireuponaltarser0000well` |
+| The hope of immortality (New York, The Macmillan company; London, Macmillan & co., ltd., 1898) | have-ocr | IA `hopeofimmortalit00well` |
+| The revelation of the holy spirit (macmillan and co., limited, 1902) | have-ocr | IA `revelationofholy0000jecw` |
+| The consecration of the state. An essay (London, Macmillan & Co., 1902) | have-ocr | IA `consecrationofst0000well` |
+| Youth and duty : sermons to Harrow schools-boys (London : Religious Tract Society, 1903) | have-ocr | IA `youthdutysermons0000well` |
+| The School Of Faith (catalogued 1904) | have-ocr | IA `schooloffaith0000righ` |
+| The early training of boys in citizenship (London, 1908) | have-ocr | IA `earlytrainingofb00well` |
+| The Gospel In A Great City (catalogued 1910) | have-ocr | IA `gospelingreatcit0000jame` |
+| The religious aspects of disestablishment and disendowment. Three lectures delivered in Manchester Cathedral (London, 1911) | have-ocr | IA `religiousaspects0000well` |
+| Recollections and reflections (London ; Toronto : Cassell, 1915) | have-ocr | IA `recollectionsref00welluoft` |
+| Religion and reconstruction (London : Skeffington, 1918) | have-ocr | IA `religionreconstr00wellrich` |
+| The public school spirit in public life ([New York : Leonard Scott Publication Co.], 1927) | have-ocr | IA `publicschoolspir00well` |
+| Harvest Home: a Sheaf of Sermons (IA harvesthomeashea00unknuoft): the catalogue gives no year (19--); a dated printing is wanted | pending | not shelved |
+| his translations of the Rhetoric, Politics and Ethics belong to the Aristotle shelf | excluded | |
+| saureliiaugustin0001jecw, his edition of the Latin De Civitate Dei (1924) | excluded | |
+| Patriotic Song, an anthology of other poets | excluded | |
+| Thirteen Essays on Education, many authors | excluded | |
+
+## W. H. Fremantle (round 121, my pick, 2026-10-23)
+
+Slugs `fremantle-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| The Influence of Commerce Upon Christianity: A Prize Essay, Read in the Theatre, Oxford, June 28 (T. and G. Shrimpton, 1854) | have-ocr | IA `influencecommer00fremgoog` |
+| The Gospel of the secular life, sermons preached at Oxford : with a prefatory essay (London : Cassell, 1882) | have-ocr | IA `thegospelofthese00fremuoft` |
+| Sermon on the universal priesthood of believers (Oxford, 1882) | have-ocr | IA `sermononuniversa00frem` |
+| The world as the subject of redemption : being an attempt to set forth the functions of the church as designed to embrace the whole race of mankind : eight lectures delivered before the University of Oxford in the year 1883 on the foundation of the late Rev. John Bampton (London : Rivington's, 1885) | have-ocr | IA `worldassubjectof0000frem` |
+| Church Reform (S. Sonnenschein, Lowrey, 1888) | have-ocr | IA `churchreform00fremgoog` |
+| Canterbury cathedral (Isbister &amp; co., ltd., 1897, 1897) | have-ocr | IA `canterburycathe00fremgoog` |
+| Patriotism and cosmopolitanism, a sermon for the Peace Conference, preached in the English Church at the Hague, Sunday, May 28th, 1899 (Ripon, Thirlway, 1899) | have-ocr | IA `patriotismcosmop00frem` |
+| Christian ordinances and social progress (Boston ; New York : Houghton, Mifflin and Company, 1901) | have-ocr | IA `christianordinan0000frem` |
+| Natural Christianity (London ; New York : Harper and Brothers, 1911) | have-ocr | IA `naturalchristian00fremrich` |
+| Recollections of Dean Fremantle, chiefly by himself (London, New York : Cassell, 1921) | have-ocr | IA `recollectionsofd00frem` |
+| the Jowett sermons he edited are Jowett's | excluded | |
+| the Privy Council ecclesiastical judgments are a law collection he co-edited | excluded | |
+| Aggressive Work in the Church of Christ is by another author | excluded | |
+
+## Alexander M'Leod (round 121, my pick, 2026-10-23)
+
+Slugs `mleod-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| Negro slavery unjustifiable: a discourse (New York, Printed by T. & F. Swords, 1802) | have-ocr | IA `negroslaveryunju00mleo_0` |
+| A scriptural view of the character, causes, and ends of the present war (New York : Eastburn, Kirk, 1815) | have-ocr | IA `scripturalviewofcce00mleo` |
+| The life and power of true Godliness : described in a series of discourses (New York : R. Carter, 1847) | have-ocr | IA `lifepoweroftrueg00mleo` |
+| Conversations on the Mode of Christian Baptism is by Alexander W. M'Leod | excluded | |
+| the Westminster Larger Catechism | excluded | |
+
+## Elisha Lord Cleaveland (round 121, my pick, 2026-10-23)
+
+Slugs `cleaveland-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| Christ the only foundation : a sermon, delivered at the dedication of the church-edifice in Court Street, erected by the Third Congregational Society in New Haven, December 7, 1841 (New Haven, Conn. : Printed by Hitchcock & Stafford, 1841) | have-ocr | IA `cu31924029457425` |
+| A discourse occasioned by the death of Hon. Daniel Webster, preached October 31 and repeated November 14, 1852 (New Haven, Printed by B.L. Hamlen, 1852) | have-ocr | IA `discourseoccasio00clea` |
+| Christ the central glory of the church : a sermon preached at the ordination of Rev. John Monteith, Jr., over the Congregational Church in Terryville, Conn., October 27, 1858 (Thomas H. Pease, 1858) | have-ocr | IA `christcentralglo00clea` |
+| The day of national prayer and fasting, Sept. 26, 1861 : appointed by the President on the recommendation of both Houses of Congress ([S.l.] : [American Tract Society], 1861) | have-ocr | IA `dayofnationalpra00clea` |
+| Motives to the missionary work : a sermon, before the American Board of Commissioners for Foreign Missions, at their meeting in Rochester, N.Y. October 6, 1863 (T.R. Marvin, 1863) | have-ocr | IA `motivestomission00clea` |
+| Our duty in regard to the rebellion : A fast day sermon, April 3, 1863 (New York, New York : Hall, Clayton & Medole, Printers, 46 Pine Street, 1863) | have-ocr | IA `ourdutyinregardt00clea` |
+| The patriot's song of victory. A thanksgiving discourse, for recent military successes, delivered in the Third Congregational Church, New Haven, September 11, and repeated, by request, in the same place, September 18, 1864 (New Haven, T. H. Pease, [186) | have-ocr | IA `patriotssongofvi00clea` |
+| A thanksgiving discourse, for recent military successes, delivered in the Third Congregational Church, New Haven, September 11, and repeated, by request, in the same place, September 18, 1864 (New Haven [Conn.] : T.H. Pease, 1864) | have-ocr | IA `thanksgivingdisc00clea` |
+| christianpamphl00dwiggoog, a bound volume of many authors' pamphlets | excluded | |
+| sermondelivereda00clea (1813) is by John Cleaveland and Elisha Fisk | excluded | |
+
+## John M. Krebs (round 121, my pick, 2026-10-23)
+
+Slugs `krebs-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| The leader fallen : a sermon preached in the Rutgers-Street Church, New-York, on Sabbath morning, April 11th, 1841, on occasion of the death of William Henry Harrison, President of the United States of America (New-York : Harper & Bros., 1841) | have-ocr | IA `leaderfallenserm00kreb` |
+| The Reciprocal Relations of Physicians and Clergymen: A Speech, Delivered at (Henry Ludwig, 1847) | have-ocr | IA `reciprocalrelat00krebgoog` |
+| Education and progress (Easton, Pa., Pub. for the College, 1847) | have-ocr | IA `educationprogres00kreb` |
+| The private, domestic and social life of Jesus Christ : a model for youth (Philadelphia : W. S. Martien, 1849) | have-ocr | IA `privatedomestics00kreb` |
+| A discourse on the death of Zachary Taylor (New York, J. Westall, printer, 1850) | have-ocr | IA `discourseondeath00kreb` |
+| The American citizen : a discourse on the nature and extent of our religious subjection to the government under which we live: including an inquiry into the Scriptural authority of that provision of the Constitution of the United States, which requires the surrender of fugitive slaves (New York :, 1851) | have-ocr | IA `americancitizend00kreb` |
+| b1034830x, a sheet of music | excluded | |
+| wsb12f4_images_202308 has page images but no text | excluded | |
+
+## W. J. Sparrow-Simpson (round 121, my pick, 2026-10-23)
+
+Slugs `sparrow-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on S[aint] Bernard of Clairvaux (London : J. Masters, 1895) | have-ocr | IA `lecturesonsaintb00simpuoft` |
+| The church and the Bible (London ; New York : Longmans, Green, 1897) | have-ocr | IA `churchbible00spar` |
+| The claims of Jesus Christ : Lent lectures (London : Longmans, Green, 1899) | have-ocr | IA `claimsofjesuschr00spar` |
+| The Minor Festivals of the Anglican Calendar (Facsimile Publisher, 1901) | have-ocr | IA `minorfestivalsof0000wjsp` |
+| Our Lord's resurrection (London ; New York : Longmans, Green, 1905) | have-ocr | IA `ourlordsresurrec00spar` |
+| Roman Catholic opposition to papal infallibility (London : J. Murray, 1909) | have-ocr | IA `a608931100sparuoft` |
+| St. Augustine and African church divisions (London ; New York : Longmans, Green, 1910) | have-ocr | IA `staugustineafric00sparrich` |
+| The resurrection and modern thought (Longmans, Green, 1911) | have-ocr | IA `resurrectionmode0000wjsp` |
+| THE ATHANASIAN WARNINGS (Longmans, 1911) | have-ocr | IA `bwb_O6-AOY-871` |
+| Non-communicating attendance (London : Longmans, Green, 1913) | have-ocr | IA `noncommunicating00simpuoft` |
+| The catholic conception of the church : a study of the traditional idea of the nature and constitution of the church (London : Robert Scott, [191) | have-ocr | IA `catholicconcepti00spariala` |
+| The place of women in the church, vol. 10 (London : R. Scott ; Milwaukee : Young Churchman Co., 1917) | have-ocr | IA `placeofwomeninch10goud` |
+| French Catholics in the nineteenth century (London : S.P.C.K. ; New York : Macmillan, 1918) | have-ocr | IA `a608926200sparuoft` |
+| Place of the laity in the Church, vol. 8 (London : R. Scott ; Milwaukee : Young Churchman, 1918) | have-ocr | IA `placeoflaityinch08spar` |
+| Broad Church Theology (The Morehouse Publishing co., 1919) | have-ocr | IA `broadchurchtheol011124mbp` |
+| Modernism and the person of Christ (London : Robert Scott ; Milwaukee : Morehouse Publishing Co., 1923) | have-ocr | IA `modernismpersono00spar` |
+| The revelation of God, and other sermons (London : Society for Promoting Christian Knowledge; New York : Macmillan, 1925) | have-ocr | IA `revelationofgodo00spar` |
+| The prayer of consecration (London : Robert Scott ; Milwaukee, Wis. : The Young Churchman, 1917) (IA prayerofconsecra0000spar): archive.org returned HTTP 500 for the text file; retry later | pending | not shelved |
+| Chapters in the History of Old S. Paul's is by his father, W. Sparrow Simpson | excluded | |
+| his translations of Augustine's Letters and On the Spirit and the Letter, and the Dionysius he edited, are other men's works in English | excluded | |
+
+## L. A. Gotwald (round 122, my pick, 2026-10-23)
+
+Slugs `gotwald-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| Church orders, or : the necessity of a right call to the office of the ministry / by L.A. Gotwald (J.E. Wible, 1876) | have-ocr | IA `churchordersorne00gotw` |
+| Joy in the divine government and other sermons (Chicago : F. H. Revell, 1901) | have-ocr | IA `joyindivinegover00gotw` |
+| Gettysburg : Lincoln's address and our educational institutions (Your, Pa. : The Board of Education, 1907) | have-ocr | IA `gettysburglincol00gotw` |
+| Sermons for Festival Days (German Literary Board, 1911) | have-ocr | IA `sermonsforfestiv0000lago` |
+| The Faithful Missionary is Nieritz translated by William H. Gotwald | excluded | |
+
+## A. H. Tuttle (round 122, my pick, 2026-10-23)
+
+Slugs `tuttle-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The Safety of Our Young Men (The Winthrop Press, 1901) | have-ocr | IA `safetyouryoungm00tuttgoog` |
+| The living word (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1904) | have-ocr | IA `livingword00tutt` |
+| Nathan Bangs (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1909) | have-ocr | IA `nathanbangs0000tutt` |
+| Egypt to Canaan : lectures on the spiritual meanings of the Exodus (New York : Eaton & Mains, 1912) | have-ocr | IA `egypttocanaanlec0000tutt` |
+| History of the Roseville Methodist Episcopal Church of the Newark Annual Conference of the Methodist Episcopal Church, Newark, New Jersey, 1857-1927 ([New Jersey?] : [publisher not identified], 1927) | have-ocr | IA `historyofrosevil0000tutt` |
+| Mary Porter Gamewell and her Story of the Siege in Peking (1907), IA cu31924023085594: Tuttle's memoir joined to Mary Gamewell's own narrative (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+
+## Robert W. Patterson (round 122, my pick, 2026-10-23)
+
+Slugs `patterson-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The place where God records his name : a discourse, at the dedication of the Second Presbyterian Church, on Friday evening, Jan. 24, 1851, at Chicago, Ill (Chicago : Published by S.C. Griggs & Co., 1851) | have-ocr | IA `placewheregodrec00patt` |
+| A sermon on prayer for rulers, delivered in the Second Presbyterian Church in Chicago, on Sabbath morning, June 8, 1856 (Chicago : S.C. Griggs and Co., 1856) | have-ocr | IA `sermononprayerfo00patt` |
+| Elements of Christianity that tend to secure its diffusion and universal prevalence : a sermon, before the American Board of Commissioners for Foreign Missions, at the meeting in Philadelphia, Pa. October 2, 1859 (Press of T. R. Marvin, 1859) | have-ocr | IA `elementsofchrist00patt` |
+| Addresses at the Induction of Rev. Francis L. Patton (1873), IA addressesatindu00pattgoog: addresses by three men (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Biographical Sketches of some of the Early Settlers of the City of Chicago (1876), IA biographicalsket12patt: written with James Taylor and others (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Fables of Infidelity is by Robert Patterson (1829-1885), another man | excluded | |
+| Early Illinois and The West from the Census of 1880 are by Robert Porter | excluded | |
+
+## Charles Moss (round 122, my pick, 2026-10-23)
+
+Slugs `moss-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The evidence of the resurrection : cleared from the exceptions of a late pamphlet entitled "The resurrection of Jesus considered by a moral philosopher, in answer to The tryal of the witnesses, etc." (London : Printed for John and Henry Pemberton, 1744) | have-ocr | IA `evidenceofresurr00moss` |
+| A sermon preached before the Right Honourable the Lord-Mayor, the Court of Aldermen, the Sheriffs, and the Governors of the several hospitals of the City of London, at the parish church of St. Bridget, on Tuesday in Easter-Week, 1750. By Charles Moss (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_moss-charles_1750` |
+| A sermon preached at the parish church of St. James, Westminster, on Friday, February 6, 1756. being the day appointed by His Majesty for a general fast, on occasion of the late earthquakes, and the present situation of public affairs. By Charles Mos (catalogued 1756) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_moss-charles_1756` |
+| A sermon preached before the House of Lords, in the Abbey church of St. Peter, Westminster, on Monday, January 30, 1769, ... By ... Charles Lord Bishop of St. David's.  1769 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_moss-charles_1769` |
+| A sermon, preached in the cathedral church of Sarum, before the governors of the General Infirmary, at their anniversary meeting, on Friday, September 29, 1769. By the Right Reverend Charles, Lord Bishop of St. David's.  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-in-th_moss-charles_1770` |
+| A sermon preached before the incorporated Society for the Propagation of the Gospel in Foreign Parts, at their anniversary meeting in the parish-church of St. Mary-le-Bow, on Friday, February 21, 1772 (London : Printed by T. Harrison and S. Brooke, 1772) | have-ocr | IA `sermonpreachedbe00moss` |
+| The Case of Abraham and Melchizedeck (1746), IA bim_eighteenth-century_the-case-of-abraham-and-_moss-charles-bishop-o_1746: the catalogue brackets the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A Sermon preached before the House of Commons (1798), IA bim_eighteenth-century_a-sermon-preached-befor_moss-charles_1798: probably his son Charles Moss (1763-1811), later Bishop of Oxford; which Charles Moss is not settled | pending | not shelved |
+| A Sermon preached at the Anniversary Meeting of the Sons of the Clergy (1799), IA bim_eighteenth-century_a-sermon-preached-at-the_moss-charles_1799: probably his son Charles Moss (1763-1811); which Charles Moss is not settled | pending | not shelved |
+| The sequel to The tryal of the witnesses: wherein the evidence of the resurrection is cleared. In answer to a pamphlet, intitled, The resurrection of Jesus considered by a moral philosopher.  1757 (catalogued 1757) (IA bim_eighteenth-century_the-sequel-to-the-tryal-_moss-charles_1757): the printed title page names no author (only a manuscript note); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the law, Greek reader, medical, botanical and Madagascar books are by other men named Moss | excluded | |
+
+## Alexander Topp (round 122, my pick, 2026-10-23)
+
+Slugs `topp-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The river of life, in Ezekiel's vision; a plea for Home missions (Toronto, Campbell, 1860) | have-ocr | IA `riveroflifeineze00topp` |
+| System of lessons for the classes of the Sabbath schools connected with Knox's Church, Toronto ([Toronto? : s.n.], 1862) | have-ocr | IA `cihm_89287` |
+| New Year addresses to the young (Toronto : J. Bain, 1880) | have-ocr | IA `cihm_93572` |
+| The perpetuity of the reign of Christ : the last sermon preached by late Rev. Alexander Topp, D.D ([Toronto? : s.n.], 1879) | have-ocr | IA `cihm_64617` |
+| cihm_29804, a second scan of The River of Life | excluded | |
+| cihm_40307 is one of the New Year addresses, already in the collected volume | excluded | |
+
+## Robert Machray (round 122, my pick, 2026-10-23)
+
+Slugs `machray-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian privilege and duty: A sermon preached in St. John's Cathedral, Red River Settlement by the Right Rev. the Lord Bishop of Rupert's Land on Sunday morning, May 10th, 1868: Being the Sunday previous to his Lordship's departure from the settlement on a visit to the distant Moose missions (Printed at the Nor'Wester Office (Winnipeg), 1868) | have-ocr | IA `P000484` |
+| A pastoral letter ([Winnipeg? : s.n.], 1870) | have-ocr | IA `cihm_91155` |
+| Memorandum by the Bishop of Rupert's Land on the present state of the mission ([s.n.] ([London]?), 1873) | have-ocr | IA `P000675` |
+| Sermon of the most Rev. the Bishop of Rupert's Land (Winnipeg, Manitoba Free Press, 1883) | have-ocr | IA `sermonofmostrevb00mach` |
+| Some remarks on primary education ([S.l. : s.n.], 1889) | have-ocr | IA `cihm_30631` |
+| A Manual of Family Prayers (1869), IA cihm_16830: compiled with J. P. Gardiner (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Report of the Synod of the Diocese of Rupert's Land (1869), IA cihm_30097: a diocesan report (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Report of the Second Conference of Clergy and Lay-Delegates (1867), IA P000475: a diocesan report (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Report of the Diocese of Rupert's Land by the Bishop and Clergy (1867), IA P000457: a diocesan report (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Sermon at the installation of Canon Grisdale, professor of systematic theology, as canon in St. John's Cathedral, by the Bishop of Rupert's Land, on Monday, November 2nd, 1874 ([Winnipeg? : s.n., 1874) (IA cihm_24741): the text names no preacher anywhere; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| To the Right Honourable and Most Reverend the Lord Archbishop of Canterbury ([Winnipeg? : s.n.], 1880) (IA cihm_89233): the OCR never shows a signature; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| To the standing committee of the venerable Society for the Propagation of the Gospel ([Winnipeg? : s.n.], 1899) (IA cihm_89238): the OCR never shows a signature; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Grace O'Malley, The Night Side of London, The Mystery of Lincoln's Inn, The Little Entente and The India Office are by his nephew Robert Machray | excluded | |
+| the Life of Robert Machray is by his nephew | excluded | |
+| the Cree prayer book is compiled by W. W. Kirkby | excluded | |
+
+## C. J. Blomfield (round 123, my pick, 2026-10-23)
+
+Slugs `blomfield-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| Twelve lectures on the Acts of the Apostles : to which is added a new ed. of Five lectures on the Gospel of St. John, as bearing testimony to the divinity of Jesus Christ (London : B. Fellows, 1828) | have-ocr | IA `twelvelectureson00blom` |
+| A manual of family prayers (New York : New York Protestant Episcopal Tract Society, 1829) | have-ocr | IA `manualoffamilypr00blom` |
+| Sermons preached in the parish church of st. Botolph, Bishopsgate, 2nd ed (catalogued 1832) | have-ocr | IA `sermonspreached00blomgoog` |
+| A charge delivered to the clergy of the Diocese of London at the visitation in July, MDCCCXXXIV (London : B. Fellowes, 1834) | have-ocr | IA `a621296800churuoft` |
+| The uses of a standing ministry and an established Church, 2 sermons (catalogued 1834) | have-ocr | IA `usesastandingmi00blomgoog` |
+| A sermon preached at the Coronation of her most excellent Majesty Queen Victoria in the Abbey Church of Westminster, June 28, 1838 (London : B. Fellowes, 1838) | have-ocr | IA `sermonpreachedat00blom` |
+| Three sermons on the Church (catalogued 1842) | have-ocr | IA `threesermonsonc00blomgoog` |
+| Speech of the Bishop of London, in the House of Lords, on moving the second reading of the bill relating to appeals from the ecclesiastical courts, on Monday, June 3, 1850, vol. Talbot Collection of British Pamphlets (London : B. Fellowes, Ludgate Street, 1850) | have-ocr | IA `speechofbishopof00blom` |
+| The Christian's privileges and duties (catalogued 1858) | have-ocr | IA `christiansprivi00blomgoog` |
+| Twenty-Four Sermons on Christian Doctrine and Practice, and on the Church (catalogued 1859) | have-ocr | IA `bwb_P9-CDQ-418` |
+| A remonstrance, addressed to H. Brougham, Esq. M.P (Lonodon : Printed for J. Mawman, 39, Ludgate Street, and C. and J. Rivington, 62, St. Paul's Church-Yard, and 8, Waterloo Place, 1823) (IA remonstranceaddr00blom): signed only "one of the Working Clergy"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| his editions of Aeschylus, Euripides and Callimachus, the Museum Criticum and the Musae Cantabrigienses are classical work for Lane B | excluded | |
+| the Greek grammar, the histories of Greek literature and philosophy, the Bicester deanery history and the Labrador visit are by other men or translations | excluded | |
+| The Reply and Baptismal Regeneration are answers to his charge by others | excluded | |
+| 12LecturesOnTheActsOfTheApostles, a second scan of the Twelve Lectures | excluded | |
+| alettertocharle00blomgoog is a letter by another man defending the Bishop of London | excluded | |
+
+## William Bright (round 123, my pick, 2026-10-23)
+
+Slugs `bright-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| A history of the church from the Edict of Milan, A.D. 313, to the Council of Chalcedon, A.D. 451 (Oxford and London : J.H. and Jas. Parker, 1860) | have-ocr | IA `cu31924029227174` |
+| Hymns and other poems (London : Rivingtons, 1866) | have-ocr | IA `hymnsotherpoems00brig` |
+| Hymns and other verses (London : Rivingtons, 1874) | have-ocr | IA `erses00brig` |
+| Chapters of early English church history (Oxford : Clarendon Press, 1878) | have-ocr | IA `chaptersofearlye00brigrich` |
+| Notes on the canons of the first four general councils (Oxford : Clarendon Press, 1882) | have-ocr | IA `notesonthecanons00briguoft` |
+| Lessons from the lives of three great fathers : with appendices (London : Longmans, Green, 1890) | have-ocr | IA `lessonsfromlives00brig` |
+| The incarnation as a motive power : sermons (London : Longmans, Green, 1891) | have-ocr | IA `incarnationasmot00brig` |
+| Morality in doctrine (London ; New York : Longmans, Green, 1892) | have-ocr | IA `moralityindoctri0000unse` |
+| Waymarks in Church History (London : Longmans, Green & Co., 1894) | have-ocr | IA `waymarksinchurch00brig` |
+| The Roman see in the early Church, and other studies in church history (London, New York [etc.] : Longmans, Green, & co., 1896) | have-ocr | IA `romanseeinearlyc00brig` |
+| Some aspects of primitive church life (London, Longmans, 1898) | have-ocr | IA `someaspectsofpri00briguoft` |
+| The law of faith (London : Wells, Gardner, Darton, 1898) | have-ocr | IA `lawoffaith0000brig` |
+| Selected letters of William Bright, D.D. : regius professor of eccleciastical history in the University of Oxford : canon of Christ church (London : W. Gardner, Darton, 1903) | have-ocr | IA `selectedletterso00briguoft` |
+| The age of the fathers, being chapters in the history of the church during the fourth and fifth centuries (London New York Bombay : Longmans, Green, 1903) | have-ocr | IA `ageoffathersbein0000brig` |
+| his editions of Athanasius's Orations, Augustine's anti-Pelagian treatises and De spiritu et littera, the Canons of the first four councils and the Definitions of the Catholic Faith are Greek and Latin texts he edited | excluded | |
+| the 1549 Prayer Book reprint | excluded | |
+| historyofchurchf0000brig, agefathersbeing01briggoog and MN41820ucmf_5 are second scans | excluded | |
+
+## Andrew Snape (round 123, my pick, 2026-10-23)
+
+Slugs `snape-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preach'd before the Princess Sophia at Hannover, the 13/24th of May, 1706. By Andrew Snape, ...  1706 (catalogued 1706) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_snape-andrew_1706` |
+| Of the relative engagement between ancestry and posterity. A sermon preach'd before the University of Cambridge, in King's College Chappel, on the 25th of March 1707. ... By Andrew Snape, ...  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_of-the-relative-engageme_snape-andrew_1707` |
+| A sermon preach'd before the Right Honourable the Lord Mayor ... at the cathedral church of St. Paul, on Monday the 30th of Jan. 1709/10 (London : Printed for Jonah Bowyer at the sign of the Rose in Ludgate Street, 1710) | have-ocr | IA `sermonpreachdbef00snapuoft` |
+| A sermon preach'd in the parish-church of St. Sepulchre, May the 24th, 1711. ... at the anniversary meeting of the children educated in the charity schools in and about the cities of London and Westminster. ... By Andrew Snape, ...  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-in-the_snape-andrew_1711` |
+| A sermon preach'd before the Honourable House of Commons.  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_snape-andrew-dd_1711` |
+| A letter to the Bishop of Bangor, occasion'd by his Lordship's sermon preach'd before the King at S. James's, March 31st, 1717. By Andrew Snape, ... The fifth edition.  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_a-letter-to-the-bishop-o_snape-andrew_1717` |
+| A second letter to the Lord Bishop of Bangor, in vindication of the former (London : Printed for Jonas Bowyer ..., 1717) | have-ocr | IA `secondlettertolo00snapuoft` |
+| A vindication of a passage in Dr. Snape's second letter to the Lord Bishop of Bangor, relating to Mr. Pillonniere. By Andrew Snape, ...  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-a-passa_snape-andrew_1717_0` |
+| A sermon preach'd at the parish church of St. Mary at Hill, on Sunday December 31. 1716. ... By Andrew Snape, ...  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-at-the_snape-andrew-dd_1717` |
+| Forty five sermons on several subjects, vol. 1 (London : Printed by S. Birt and R. Manby, and H.S. Cox, 1745) | have-ocr | IA `fortyfivesermons01snap` |
+| Forty five sermons on several subjects. In three volumes. By Andrew Snape, ... Prepared for the press by the author, and now first published from his original manuscripts, (except ten that were printed in his life-time.) By John Chapman, ... And Will, vol. 3 (catalogued 1745) | have-ocr | IA `bim_eighteenth-century_forty-five-sermons-on-se_snape-andrew_1745_3` |
+| The Anatomy of an Horse is by Andrew Snape the farrier | excluded | |
+| The Convocation Anatomized is by another hand | excluded | |
+
+## John Guyse (round 123, my pick, 2026-10-23)
+
+Slugs `guyse-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| Jesus Christ God-Man, or, the constitution of Christ's person : with the evidence and importance of the doctrine of his true and proper Godhead ; considered in several plain and practical sermons, on Rom. IX. 5 (London : Printed for R. Cruttenden, 1719) | have-ocr | IA `jesuschristgodma00guys` |
+| The Holy Spirit a divine Person, or, the doctrine of the Godhead represented, as evident and important : in several sermons, on I Cor. xii. II (London : Printed for John Clark, 1721) | have-ocr | IA `holyspiritdivine00guys` |
+| Early seekers of Christ directed and encourag'd, in a sermon on Prov. VIII. 17. preach'd at Petty-France, May the first, 1729. By John Guyse.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_early-seekers-of-christ-_guyse-john_1729` |
+| Youth reminded of a judgment to come. In a sermon preach'd at Petty-France, December 25, 1728. By John Guyse. ...  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_youth-reminded-of-a-judg_guyse-john_1729` |
+| A present remembrance of God in the days of youth explained and enforced. In a sermon to young people on Eccles. XII. I. Preached ... December the 25th 1729. By John Guyse.  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_a-present-remembrance-of_guyse-john_1730` |
+| Christ, the son of God, the great subject of a Gospel ministry, opened and recommended, in two sermons preached at St. Hellen's April 17th and 24th, 1729. By John Guyse.  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_christ-the-son-of-god-_guyse-john_1730` |
+| The scripture-notion of preaching Christ further clear'd and vindicated: in a letter to the Reverend Mr. Samuel Chandler, ... By John Guyse.  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_the-scripture-notion-of-_guyse-john_1730` |
+| The reasonableness of believers dying, and the greater advantage they will have by Jesus Christ, ... than if they were not to die; ... Consider'd in a sermon on John xi. 25, 26. occasioned by the death of the late Revd. Mr. John Asty, ... To which is added, a postscript relating to the Reverend Mr. Samuel Chandler's second letter to the author ... By John Guyse.  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_the-reasonableness-of-be_guyse-john_1730` |
+| The improvement of present time: recommended in a sermon preach'd on the New-Year's-day of 1731. for the benefit of the charity-school at Gravel-lane, Southwark. By John Guyse. ...  1731 (catalogued 1731) | have-ocr | IA `bim_eighteenth-century_the-improvement-of-prese_guyse-john_1731` |
+| Reformation upon the gospel-scheme : a sermon preach'd to the Societies for Reformation of Manners, at Salters-Hall, on Monday, June 30, 1735 (London : Printed for J. Oswald, 1735) | have-ocr | IA `reformationupong00guys` |
+| Youth's monitor, in six annual sermons, preach'd to young people at New Broad-Street, ... By John Guyse, ...  1736 (catalogued 1736) | have-ocr | IA `bim_eighteenth-century_youths-monitor-in-six-_guyse-john_1736` |
+| God's alarm to Great-Britain: or an enquiry into our publick mercies, and abuses of them, our danger, and way of deliverance. In a sermon on Amos III. 2. preached in New Broad-street, London: ... January 9, 1739-40, ... By John Guyse, ...  1740 (catalogued 1740) | have-ocr | IA `bim_eighteenth-century_gods-alarm-to-great-bri_guyse-john_1740` |
+| The tendency of liberality to riches, and of covetousness to poverty. A sermon preached at the Old-Jewry, March 3, 1741-2, ... By John Guyse, ...  1742 (catalogued 1742) | have-ocr | IA `bim_eighteenth-century_the-tendency-of-liberali_guyse-john_1742` |
+| A sermon occasion'd by the much lamented death of the Reverend and learned Mr John Hubbard, who departed this life July 13, 1743, ... Preach'd at Stepney July 24, ... By John Guyse, D.D.  1743 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_a-sermon-occasiond-by-t_guyse-john_1743` |
+| A sermon preached at the ordination of the Reverend Mr. Thomas Gibbons, October 27, 1743. at Haberdasher's Hall, London. By John Guyse, D.D. Together with an introductory discourse, by Richard Rawlin. Mr. Gibbons's confession of faith. And an exhortation to him, by Thomas Hall. ...  1743 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_guyse-john_1743` |
+| The unchangeable duration of God's kindness and covenant. A sermon preached at Artillery-Lane, Feb.25, 1749-50. On occasion of the death of the Reverend Mr. Mordecai Andrews, ... By John Guyse, D.D. With an oration ... By Thomas Towle. ... To which is added, An elegiac ode by Thomas Gibbons.  1750 (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_the-unchangeable-duratio_guyse-john_1750` |
+| An exhortation to the Reverend Mr. Thomas Towle, at his ordination, March 24, 1747-8. ... also delivered ... to the Rev. Mr. Moses Gregson at his ordination April 20, 1748. ... By John Guyse, D.D.  1750 (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_an-exhortation-to-the-re_guyse-john_1750` |
+| A collection of seventeen practical sermons on various and important subjects. ... By John Guyse, ...  1756 (catalogued 1756) | have-ocr | IA `bim_eighteenth-century_a-collection-of-seventee_guyse-john_1756` |
+| The practical expositor, or, An exposition of the New Testament, in the form of a paraphrase : with occasional notes... and serious recollections, vol. 4 (Edinburgh : Printed by Ross & Sons for Robert Ross, 1797) | have-ocr | IA `practicalexposit04guys` |
+| [Sermons], IA sermons00guys: a bound volume catalogued only as [Sermons] with a placeholder date; contents not yet checked | pending | not shelved |
+| Remarks on a catechism, publish'd under the title of The Assembly's shorter catechism revised, and render'd fitter for general use. The Assembly's own catechism is likewise added, as an appendix ...  1735 (catalogued 1735) (IA bim_eighteenth-century_remarks-on-a-catechism-_guyse-john_1735): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A sermon preach'd at the ordination of the Reverend Mr. William Johnson; October 6. 1736. at Ryegate, in Surrey. By John Guyse, D.D. To which are added, Mr. Johnson's confession of faith, and an exhortation to him, by Abraham Taylor, ...  1736 (catalogued 1736) (IA bim_eighteenth-century_a-sermon-preachd-at-the_guyse-john_1736): an ordination volume with an exhortation by Abraham Taylor and pieces by others; the scan's title page does not show Guyse's part clearly (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Faith and Practice is Watts and others' Lime Street sermons | excluded | |
+| a German Edwards with his preface | excluded | |
+| a Welsh New Testament with notes drawn from him | excluded | |
+| bim_eighteenth-century_the-standing-use-of-the-_guyse-john_1724: the scan is a different sermon, Thomas Payne's A Defence of Church-Musick (Hereford, 1738) | excluded | |
+
+## Charles Trimnell (round 123, my pick, 2026-10-23)
+
+Slugs `trimnell-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, preached, ...  1697 (catalogued 1697) | have-ocr | IA `bim_early-english-books-1641-1700_a-sermon-preached-_trimnell-charles_1697` |
+| A vindication of the proceedings of some members of the Lower House of the last Convocation, with relation to the Archbishop's prorogation of it upon the eighth of May. ...  1702 (catalogued 1702) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-the-pro_trimnell-charles_1702` |
+| A sermon preach'd at the Cathedral Church of St. Paul; before the Sons of the Clergy, on Tuesday the 2d of December, 1707. Being the day of their annual feast. By Charles Trimnell, ...  1708 (catalogued 1708) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-at-the_trimnell-charles_1708` |
+| A sermon preach'd before the Honourable House of Commons, at the Church of St. Margaret, Westminster, on Wednesday, Jan. 14. 1707. Being the day appointed by Her Majesty for a general fast, &c. ... By Charles Trimnell, ...  1708 (catalogued 1708) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1708` |
+| A sermon preached at St Peter's Mancroft in Norwich. On Sunday the 13th of June, 1708. ... By ... Charles, Lord Bishop of Norwich.  1708 (catalogued 1708) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-st-_trimnell-charles_1708` |
+| A sermon preached before the honourable House of Commons, at the Church of St. Margaret Westminster.  1708 (catalogued 1708) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_trimnell-charles-bisho_1708` |
+| A sermon preach'd at the parish church of St. James's Westminster on Sunday the 30th of January, 1708 (London : Printed for Tho. Chapman at the Angel in Pall-mall, over-against St. James's Square, 1709) | have-ocr | IA `sermonpreachdatp00trim` |
+| A sermon preach'd before the House of Lords, at the Abbey-church in Westminster, on Thursday, Feb. 17. 1708. ... By ... Charles Lord Bishop of Norwich.  1709 (catalogued 1709) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1709` |
+| A sermon preach'd before the Right Honourable the Lord Mayor and the Honourable Court of Aldermen, with the governors of the several hospitals of the City of London, in the parish Church of St. Bridget, on Monday in Easter-week, 1710. By ... Charles Lord Bishop of Norwich.  1710 (catalogued 1710) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1710` |
+| A sermon preached before the Society for the Propagation of the Gospel in Foreign Parts, at the parish-church of St. Mary-le-Bow, on Friday the 17th of February, 1709/10. being the day of their anniversary meeting. By ... Charles, Lord Bishop of Norwich.  1710 (catalogued 1710) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_trimnell-charles_1710` |
+| A sermon preach'd in the chappel at Tunbridge-Wells upon Sunday the 19th of August, 1711. ... By ... Charles Lord Bishop of Norwich. ...  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-in-the_trimnell-charles_1711` |
+| A sermon preach'd before the Lords spiritual and temporal in Parliament assembled in the abbey church at Westminster on the 30th of January 1711/12 (London : Printed for D. Midwinter at the Three Crowns in St. Paul's church yard, 1712) | have-ocr | IA `sermonpreachdbef00trimuoft` |
+| A sermon preach'd to the Societies for Reformation of Manners, at St. Mary-le-Bow, on Monday, December the thirty first, 1711. By Charles Lord Bishop of Norwich. ...  1712 (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-to-the_trimnell-charles_1712` |
+| The late pretence of a constant practice to enter the Parliament as well as provincial writ in the front of the acts of every synod, further consider'd and disprov'd, in a second letter to the author of that assertion; occasion'd by a second letter of that author. ...  1701 (catalogued 1701) (IA bim_eighteenth-century_the-late-pretence-of-a-c_trimnell-charles_1701): a letter published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| An answer to A third letter to a clergyman in the country, in defence of the entry of the parliament-writ, &c. Wherein the great disingenuity of the author of it is plainly shewn, ...  1702 (catalogued 1702) (IA bim_eighteenth-century_an-answer-to-a-third-let_trimnell-charles_1702): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| An answer to a pamphlet entituled, The proceedings of the Lower House of Convocation. Wherein the great unfairness of that account is laid open , not only from the books of the upper, but even from those of the lower house.  1714 (catalogued 1714) (IA bim_eighteenth-century_an-answer-to-a-pamphlet-_trimnell-charles_1714): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the bishops' speeches on the Sacheverell trial are a collection of several bishops' speeches | excluded | |
+| bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1712 and asermononprovxv00trimgoog are other scans of the 1712 Lords sermon | excluded | |
+
+## Luke Milbourne (round 124, my pick, 2026-10-23)
+
+Slugs `milbourne-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| Samaritanism reviv'd.  1683 (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_samaritanism-revivd_milbourne-luke_1683` |
+| The originals of rebellion: ...  1683 (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_the-originals-of-rebelli_milbourne-luke_1683` |
+| Mysteries in religion vindicated: ...  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1641-1700_mysteries-in-religion-vi_milbourne-luke_1692` |
+| The Christian pattern paraphrased.  1696 (catalogued 1696) | have-ocr | IA `bim_early-english-books-1641-1700_the-christian-pattern-pa_milbourne-luke_1696` |
+| The Psalms of David in English metre : translated from the original, and suited to all the tunes now sung in churches ; with the additions of several new (London : Printed for W. Rogers [etc.], 1698) | have-ocr | IA `davidine00milb` |
+| A false faith ...  1698 (catalogued 1698) | have-ocr | IA `bim_early-english-books-1641-1700_a-false-faith-_milbourne-luke_1698` |
+| The catechisme of the Church of England explain'd, ...  1700 (Netherlands : [sold by] Elias Yvans, bookseller, 1700) | have-ocr | IA `bim_early-english-books-1641-1700_the-catechisme-of-the-ch_milbourne-luke_1700` |
+| The mortality of God's prophets, and what good Christians ought to learn from it. A sermon preach'd at the funeral of the Reverend Mr. Thomas Copping,... on Tuesday, September 19th. 1704. By Luke Milbourn,...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_the-mortality-of-gods-p_milbourne-luke_1704` |
+| The hope of a future life, the sole foundation of a Christian's happiness. A sermon preach'd at the funeral of the Reverend Sidrach Symson, ... November the 9th. 1704. By Luke Milbourn, ...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_the-hope-of-a-future-lif_milbourne-luke_1704` |
+| Great Brittains acclamation to her Deborah. A sermon preached in the parish church of St. Ethelburga, September VII. 1704. being the day appointed ... for a solemn thanksgiving for the great victory ... By Luke Milbourne, ...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_great-brittains-acclamat_milbourne-luke_1704` |
+| A sermon preach'd at the Parish Church of St. Ethelburga, on Friday, Jan. 30th, 1707/8. ... By Luke Milbourne, ...  1708 (catalogued 1708) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-at-the_milbourne-luke_1708` |
+| The utter extirpation of tyrants and their families. A sermon preached at St. Ethelburga's, Jan. 30. 1707-8. By Luke Milbourne, ...  1708 (catalogued 1708) | have-ocr | IA `bim_eighteenth-century_the-utter-extirpation-of_milbourne-luke_1708` |
+| Melius inquirendum: or, a fresh inquiry into St. Paul's behaviour toward the civil magistrate. A sermon, ... at the parish-church of St Ethelburga. January the 31st, 1708/9. By Luke Milbourne, ...  1709 (catalogued 1709) | have-ocr | IA `bim_eighteenth-century_melius-inquirendum-or-_milbourne-luke_1709` |
+| Debtor and creditor made easy, or, The judgment of the unmerciful demonstrated in a sermon (London : Printed for Samuel Manship ..., 1709) | have-ocr | IA `ldpd_6430053_000` |
+| The people not the original of civil power : proved from God's word ... in a sermon preach'd at the parish church of St. Ethelburga on Thursday, Jan. 30, 1706/7 (London : Printed for George Sawbridge in Little Britain, 1710) | have-ocr | IA `peoplenotorigina00milb` |
+| The measures of resistance to the higher powers, so far as becomes a Christian: in a sermon, preach'd on January the 30th, 1709/10, ... at the Parish Church of St. Ethelburga. By Luke Milbourne, ...  1710 (catalogued 1710) | have-ocr | IA `bim_eighteenth-century_the-measures-of-resistan_milbourne-luke_1710` |
+| The impiety and folly of resisting lawful governours by force or arms, demonstrated in a sermon preach'd on the thirtieth of January, 1710/11. ... at the parish-church of St. Ethel burga. By Luke Milbourne. ...  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_the-impiety-and-folly-of_milbourne-luke_1711` |
+| God and Caesar; or, a seasonable antidote for the poison of rebellion against God and the King, in some sermons preach'd on the twenty ninth of May, at the parish-church of St Ethelburga, London. By Luke Milbourne, ...  1712 (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_god-and-caesar-or-a-se_milbourne-luke_1712` |
+| The curse of regicides: or Simeon and Levi's doom, in a sermon preached on the thirtieth of January, 1711/12. being the solemn day of fasting and humiliation for the execrable murder of Charles the Martyr, ... At the parish-church of St. Ethelburga. By Luke Milbourne, ...  1712 (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_the-curse-of-regicides-_milbourne-luke_1712` |
+| A guilty conscience makes a rebel, or, Rulers no terrour to the good : prov'd in a sermon preached on the thirtieth of Jamuary 1712/13 : being the solemn day of fasting and humiliation for the execrable murder of Charles the Martyr of blessed memory : at the parish-church of St. Ethelburga : with a preface reflecting on a late pamphlet called The ass and the serpent (London : Printed by L. Beardwell for George Sawbridge ..., 1713) | have-ocr | IA `guiltyconscience00milbiala` |
+| Peace the gift of God, but the terrour of the wicked; in a sermon preach'd on the thanksgiving for the peace, July the 7th, 1713. At the parish-church of St. Ethelburga. By Luke Milbourne, ...  1713 (catalogued 1713) | have-ocr | IA `bim_eighteenth-century_peace-the-gift-of-god-b_milbourne-luke_1713` |
+| Psalmody recommended in a sermon preach'd to the company of Parish-clerks, at St. Alban's Woodstreet, November 17 (London : Printed by J. Downing, 1713) | have-ocr | IA `psalmreco00milb` |
+| The danger of changes in church or state; or, the fatal doom of such as love them and their associates: in a sermon preach'd, January 31, 1714./15. at St. Ethelburgas. By Luke Milbourne, ...  1714 (catalogued 1714) | have-ocr | IA `bim_eighteenth-century_the-danger-of-changes-in_milbourne-luke_1714` |
+| Conciones duæ ad clerum londinensem, Collegii Sionensis socios apprimè reverendos, habitæ in templo Sti Alphegi, Aprilis die 2.° 1703. & Maii die 10.° 1715. ... A Luca Milbourne, ...  1715 (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_conciones-du-ad-clerum-_milbourne-luke_1715` |
+| The Christian subject's duty to his lawful prince : in a sermon preach'd January the 30th, 1715/16 at St. Ethelburga's (London : Printed by H. Meere at the Black Fryer in Black Fryers for G. Sawbridge at the Three Golden Flower-de-Luces in Little Britain, 1716) | have-ocr | IA `christiansubject00milb` |
+| Evil not to be done, that good may come of it. A sermon preach'd January the 30th, 1716/17, at St. Ethelburga's. By Luke Milbourne, ...  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_evil-not-to-be-done-tha_milbourne-luke_1717_0` |
+| Ignorance and folly put to silence by well-doing: or, a preservative against the Bishop of Bangor's politicks. In a sermon preach'd at the parish-church of St. Ethelburga's, on the solemn anniversary fast kept ... for the guilt contracted by these nations, in the execrable murder of Charles I. ... By Luke Milbourne, ...  1719 (catalogued 1719) | have-ocr | IA `bim_eighteenth-century_ignorance-and-folly-put-_milbourne-luke_1719` |
+| The royal martyr lamented, in fourteen sermons, preach'd on the thirtieth of January. Wherein the rights of monarchy are occasionally asserted; ... By Luke Milbourne, ...  1724 (catalogued 1724) | have-ocr | IA `bim_eighteenth-century_the-royal-martyr-lamente_milbourne-luke_1724` |
+| A legacy to the Church of England, vindicating her orders from the objections of papists and dissenters, ... By the late Reverend Mr. Luke Milbourn, ...  1772: Vol 2, vol. 2 (catalogued 1772) | have-ocr | IA `bim_eighteenth-century_a-legacy-to-the-church-o_milbourne-luke_1772_2` |
+| A short defence of the orders of the Church of England, ...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_a-short-defence-of-the-o_milbourne-luke_1688): signed only "By a Presbyter of the Diocess of Norwich"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A letter to A. H. Esq; ...  1698 (catalogued 1698) (IA bim_early-english-books-1641-1700_a-letter-to-a-h-esq-_milbourne-luke_1698): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A farewel sermon.  1699 (catalogued 1699) (IA bim_early-english-books-1641-1700_a-farewel-sermon_milbourne-luke_1699): archive.org returned HTTP 500 for the text file; retry later | pending | not shelved |
+| Tom of Bedlam's answer to his brother Ben Hoadly, St. Peter's-Poor parson, near the exchange of principles (London : Printed and sold by H. Hills in Blackfryars near the waterside, 1709) (IA tomofbedlamsansw00milbuoft): a pseudonymous satire ("Tom of Bedlam"); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Bess o' Bedlam's love to her brother Tom : with a word in behalf of poor brother Ben Hoadly (London : Printed and sold by the booksellers of London and Westminster, 1709) (IA bessobedlamslove00milbuoft): a pseudonymous satire ("Bess o' Bedlam"); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The two wolves in lambs skins: or, Old Ely's sorrowful lamentation over his two sons. Being found in an old manuscript in the Bedlamite library, ... The second edition.  By poor old Tom of Bedlam.  1716 (catalogued 1716) (IA bim_eighteenth-century_the-two-wolves-in-lambs-_milbourne-luke_1716): a pseudonymous satire presented as a found manuscript; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Notes on Dryden's Virgil is literary criticism; left out | excluded | |
+| The Moderate Cabal, a verse satire, rests on the catalogue alone | excluded | |
+| second scans of Tom of Bedlam and Melius Inquirendum | excluded | |
+
+## Benjamin Wallin (round 124, my pick, 2026-10-23)
+
+Slugs `wallin-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| The compassion of the dying Saviour to those that crucified him, consider'd and improved, in a sermon on Luke xxiii.34. By Benjamin Wallin.  1746 (catalogued 1746) | have-ocr | IA `bim_eighteenth-century_the-compassion-of-the-dy_wallin-benjamin_1746` |
+| The Christian life, in divers of its branches described and recommended. In four parts. Being the substance of several discourses on Philippans iv. from the 4th to the 7th verse inclusive. To which is added A serious exhortation to prayer; in two Sermons on 1 Thess. v.17. By Benjamin Wallin.  1746 (catalogued 1746) | have-ocr | IA `bim_eighteenth-century_the-christian-life-in-d_wallin-benjamin_1746` |
+| An exhortation against quenching the spirit. A sermon preached to a society of young men, November the 7th, 1748. By Benjamin Wallin. ...  1748 (catalogued 1748) | have-ocr | IA `bim_eighteenth-century_an-exhortation-against-q_wallin-benjamin_1748` |
+| The Redeemer's charge against his declining churches : exemplified in the case of the church of Ephesus (London : Printed for J. Ward, 1748) | have-ocr | IA `redeemerschargea00wall` |
+| The ability of Christ to save, the believer's comfort in the near views of eternity. A sermon occasioned by the death of Mr. Jonas Thurrowgood, ... July 2, 1753. By Benjamin Wallin.  1753 (catalogued 1753) | have-ocr | IA `bim_eighteenth-century_the-ability-of-christ-to_wallin-benjamin_1753` |
+| The appearance of deceased saints with their Lord, at His coming, the consolation of surviving believers. A sermon occasioned by the death of Mr. Edward Tomkins, who departed this life, March 9, 1753. By Benjamin Wallin.  1753 (catalogued 1753) | have-ocr | IA `bim_eighteenth-century_the-appearance-of-deceas_wallin-benjamin_1753` |
+| God's relation to the faithful after their decease, a proof of their present life, and future resurrection. A sermon occasioned by the death of Mr. Thomas Wildman, who departed this life, June 25, 1754, ... By Benjamin Wallin.  1754 (catalogued 1754) | have-ocr | IA `bim_eighteenth-century_gods-relation-to-the-fa_wallin-benjamin_1754` |
+| The obligations of a people to their faithful minister. Represented in a discourse preached at the ordination of the Revd. Mr. Samuel Burford, September 4, 1755. By Benjamin Wallin.  1755 (catalogued 1755) | have-ocr | IA `bim_eighteenth-century_the-obligations-of-a-peo_wallin-benjamin_1755` |
+| The Christian's duty and confidence in times of public calamity. Being several discourses occasioned by the late dreadful earthquakes and the apprehensions of a French war. By Benjamin Wallin.  1756 (catalogued 1756) | have-ocr | IA `bim_eighteenth-century_the-christians-duty-and_wallin-benjamin_1756` |
+| The folly of neglecting divine institutions. An earnest address to th Christian, who continues to refrain from the appointments of the gospel: ... By Benjamin Wallin.  1758 (catalogued 1758) | have-ocr | IA `bim_eighteenth-century_the-folly-of-neglecting-_wallin-benjamin_1758` |
+| The joyful sacrifice of a prosperous nation. A sermon preached at the meeting-house near the Maze-Pond, Southwark, on Thursday November 29, 1759; ... By Benjamin Wallin.  1760 (catalogued 1760) | have-ocr | IA `bim_eighteenth-century_the-joyful-sacrifice-of-_wallin-benjamin_1760` |
+| Faith in Christ, and life everlasting. A sermon occasioned by the death of the Rev. Mr. John Auther, who departed this life, July 10, 1762, ... By Benjamin Wallin.  1762 (catalogued 1762) | have-ocr | IA `bim_eighteenth-century_faith-in-christ-and-lif_wallin-benjamin_1762` |
+| Evangelical hymns and songs, in two parts: the first, composed on various views of the Christian life and warfare; the second, in praise of the Redeemer: published for the comfort & entertainment of true Christians. By Benjamin Wallin. To which is added, a collection of hymns from Dr. Watts's forty-four sermons: and, Mr. Stennet's sacramental hymns.  1762 (catalogued 1762) | have-ocr | IA `bim_eighteenth-century_evangelical-hymns-and-so_wallin-benjamin_1762` |
+| The experience of the saints asserted and proved. Being several discourses in which the ground of a believer's hope, with the nature of Christian experience, and the operations of the Holy Spirit, are briefly explained and defended. By Benjamin Wallin.  1763 (catalogued 1763) | have-ocr | IA `bim_eighteenth-century_the-experience-of-the-sa_wallin-benjamin_1763` |
+| The universal concern of saints in communion, represented in a sermon, the substance of which was delivered to the church, meeting near Devonshire-Square. At the ordination of the Rev. Mr. Walter Richards, to the pastoral-office, and of Messrs. J. Tomkins, T. Cooke and G. Wilkinson, to the office of deacons, December 14, 1762. By Benjamin Wallin.  1763 (catalogued 1763) | have-ocr | IA `bim_eighteenth-century_the-universal-concern-of_wallin-benjamin_1763` |
+| The christian's concern that he may not be a cast-away: exemplified in the conduct of the apostle Paul. Being two discourses on I Cor. ix. 27. ... By Benjamin Wallin.  1765 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-christians-concern-_wallin-benjamin_1765` |
+| The fall of the mighty, a just cause of universal lamentation. A sermon on the decease of His Royal Highness the illustrious and heroic Prince William-Augustus Duke of Cumberland. By Benjamin Wallin.  1765 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_the-fall-of-the-mighty-_wallin-benjamin_1765` |
+| The Christian salutation. A farewel-sermon delivered October 12, 1766. on the return of the congregation under the care of the Rev. Mr. John Rogers, ... By Benjamin Wallin.  1766 (catalogued 1766) | have-ocr | IA `bim_eighteenth-century_the-christian-salutation_wallin-benjamin_1766` |
+| The constitution of a Gospel-church adapted to union and peace, a sermon, delivered October 2, 1766. To the church meeting near Cripple-Gate, on the ordination of the Rev. Mr. John Reynolds. By Benjamin Wallin.  1766 (catalogued 1766) | have-ocr | IA `bim_eighteenth-century_the-constitution-of-a-go_wallin-benjamin_1766` |
+| The eternal existence of the Lord Jesus Christ considered and improved. A sermon, the substance of which was lately delivered at a monthly association, in Grafton-Street, near the Seven-Dials. By Benjamin Wallin.  1766 (catalogued 1766) | have-ocr | IA `bim_eighteenth-century_the-eternal-existence-of_wallin-benjamin_1766` |
+| The everlasting communion of saints with their Lord in the kingdom of Heaven their comfort, when mourning the loss of their fellow-communicants on earth. A sermon occasioned by the decease of Mrs. Mary Keene; ... By Benjamin Wallin.  1767 (catalogued 1767) | have-ocr | IA `bim_eighteenth-century_the-everlasting-communio_wallin-benjamin_1767` |
+| Lectures on primitive Christianity in doctrine, experience, worship, discipline and mannners : as it appeared in the church at Jerusalem in the time of the Apostles; also on the epistle to the church at Sardis and on the faithful in the days of Malachi, interspersed with notes, reflections, and addresses with a view to awaken a becoming zeal for the communion of saints, in order and love (London : Printed for the author, 1768) | have-ocr | IA `lecturesonprimit00wall` |
+| An eternal mansion prepared in the heavens for the righteous. A sermon occasioned by the decease of Mr. Thomas Cox, who departed this life, August 20, 1769, in the 73d year of his age. By Benjamin Wallin.  1769 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_an-eternal-mansion-prepa_wallin-benjamin_1769` |
+| A charge and sermon together with an introductory discourse and confession of faith delivered at the ordination of the Rev. Mr. Abraham Booth Feb.16, 1769, in Goodman's Fields ...  1769 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_a-charge-and-sermon-toge_wallin-benjamin_1769` |
+| The universal character of departed saints. A sermon occasioned by the death of Mrs. Rebekah Cox, ... September 19, 1769. ... By Benjamin Wallin.  1769 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_the-universal-character-_wallin-benjamin_1769` |
+| Gospel-requisites to acceptable prayer. A sermon delivered at a monthly association, in Unicorn-Yard, Tooley-Street, Southwark, on Thursday, February the 22d, 1770. By Benjamin Wallin.  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_gospel-requisites-to-acc_wallin-benjamin_1770` |
+| The importance of family-religion. A sermon; the substance of which was delivered at the meeting-house, near Devonshire-Square, on Thursday, November the 22d, 1770. By Benjamin Wallin, M.A.  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_the-importance-of-family_wallin-benjamin_1771` |
+| The blessedness of the man, whom the Lord shall find diligent in his station. A sermon occasioned by the death of Mr. Job Heath; who departed this life, January 24, 1773. in the 52d year of his age. By Benjamin Wallin, M.A.  1773 (catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-blessedness-of-the-m_wallin-benjamin_1773` |
+| The happiness of the saints in a separate state. A sermon preached at Hitchin, in Herts, Aug. 27, 1773, at the funeral of ... Mr. Samuel James, ... By Benjamin Wallin, ...  1773 (catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-happiness-of-the-sai_wallin-benjamin_1773` |
+| The fountain of life freely opened to the willing-hearted sinner. A sermon occasioned by the death of Miss Elizabeth Macgowan, who departed this life, February 19, 1774, ... To which is annexed, the hymn sung on the occasion. By Benjamin Wallin, A.M.  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_the-fountain-of-life-fre_wallin-benjamin_1774` |
+| The popular concern in the choice of representatives. A sermon delivered ... October 9, 1774. By Benjamin Wallin, ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_the-popular-concern-in-t_wallin-benjamin_1774` |
+| Memoirs of a gentleman lately deceased; chiefly concerning his convictions on the verge of eternity: ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_memoirs-of-a-gentleman-l_wallin-benjamin_1774` |
+| The case of a fallen professor, stated and considered. A sermon on Proverbs XXV. 26. By Benjamin Wallin. A.M.  1775 (catalogued 1775) | have-ocr | IA `bim_eighteenth-century_the-case-of-a-fallen-pro_wallin-benjamin_1775` |
+| Superabounding grace, in the forgiveness of penitent transgressors, exemplified and vindicated. Being discourses on the parable of the prodigal son. In four parts. ... By Benjamin Wallin, M.A.  1775 (catalogued 1775) | have-ocr | IA `bim_eighteenth-century_superabounding-grace-in_wallin-benjamin_1775` |
+| The ancient believers transition from mortality to life. A sermon occasioned by the decease of Mrs. Hannah Munn, late of Watford, Herts, who departed this life, October 1, 1779, in the eighty-fourth year of her age. By Benjamin Wallin, A.M.  1779 (catalogued 1779) | have-ocr | IA `bim_eighteenth-century_the-ancient-believers-tr_wallin-benjamin_1779` |
+| The Humble address to the churches of Christ: or, an earnest exhortation to Christian professors, not to forsake the assembling of themselves together; ...  1750 (catalogued 1750) (IA bim_eighteenth-century_the-humble-address-to-th_wallin-benjamin_1750): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| lecturesonprimit01wall, a later edition of the Lectures on Primitive Christianity | excluded | |
+
+## Nicholas Snethen (round 124, my pick, 2026-10-23)
+
+Slugs `snethen-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| An answer to James O'Kelly's vindication of his apology, &c. : and an explanation of the reply / by Nicholas Snethen (Printed by S.W. Conrad, 1802) | have-ocr | IA `ananswertojameso00snet` |
+| Snethen on Lay Representation: Or, Essays on Lay Representation and Church Government, Collected (J.J. Harrod, 1835) | have-ocr | IA `snethenonlayrep00snetgoog` |
+| Sermons of the late Nicholas Snethen, minister ... in the Methodist Protestant church (Washington, DC : U. Ward, 1846) | have-ocr | IA `sermonsoflatenic0000snet` |
+| snethanonlayrepr00snet, a second scan of Lay Representation | excluded | |
+
+## Aaron Bancroft (round 124, my pick, 2026-10-23)
+
+Slugs `bancroft-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| The importance of a religious education illustrated and enforced : a sermon, delivered at Worcester, October 31, 1793, occasioned by the execution of Samuel Frost, on that day, for the murder of Captain Elisha Allen, of Princeton, on the 16th day of July, 1793 (Printed at Worcester, Massachusetts : by Isaiah Thomas. Sold at the Worcester bookstore, 1793) | have-ocr | IA `cu31924104014844` |
+| An eulugy on the character of the late Gen. George Washington. Delivered before the inhabitants of the town of Worcester, ... Massachusetts, on Saturday the 22d of February 1800. By Aaron Bancroft. ...  1800 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-eulugy-on-the-charact_bancroft-aaron_1800` |
+| An essay on the life of George Washington (Worcester [Mass.] Printed by Thomas & Sturtevant, 1807) | have-ocr | IA `essayonlifeofgeo00banc` |
+| Sermons on those doctrines of the gospel, and on those constituent principles of the church, which Christian professors have made the subject of controversy (Worcester [Mass.]: Printed by William Manning & Son, 1822) | have-ocr | IA `sermonsonthosedo00banc` |
+| later editions and second scans of the Life of Washington | excluded | |
+| lettertomydearsi00banc, a four-page manuscript | excluded | |
+
+## J. M. Cramp (round 124, my pick, 2026-10-23)
+
+Slugs `cramp-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| A text-book of popery; comprising a brief history of the Council of Trent, a translation of its doctrinal decrees, and copious extracts from the catechism published by its authority; with notes and illustrations: to which is added, in an appendix, the doctrinal decrees, and canons of the Council of Trent, in Latin, as published at Rome, anno Domini 1564: the whole intended to furnish a correct and complete view of the theological system of popery (New York, D. Appleton, 1831) | have-ocr | IA `textbookofpopery00cramrich` |
+| The Council of Trent : comprising an account of the proceedings of that assembly; and illustrating the spirit and tendency of popery (London : Religious Tract Society, sold at the Depository, [etc.], 1839) | have-ocr | IA `counciloftrentco00cramuoft` |
+| The history of the Reformation in Europe : with a chronology of the Reformation (London : Religious Tract Society ; New-York : Robert Carter, 1844) | have-ocr | IA `historyofreforma00cram` |
+| A brief memoir of the Rev. William Knibb, late missionary in Jamaica : with an appendix, containing a sketch of the history of the Baptist Missionary Society ([Montréal? : s.n.], 1846) | have-ocr | IA `cihm_91121` |
+| 1800 and 1850 : a lecture delivered before the Montreal Mechanics' Institute on Tuesday evening, January 8, 1850 ([Montreal? : s.n.], 1850) | have-ocr | IA `cihm_28572` |
+| The inaugural address, delivered by the president, June 20, 1851, and his introductory lecture to the theological course, delivered Sept. 23, 1851 : with an appendix containing a history of the college, the acts of incorporation, etc. etc ([Halifax, N.S.? : s.n.], 1851) | have-ocr | IA `cihm_44674` |
+| The "Future" of the Baptists and their duty to prepare for it : a lecture delivered at Wolfville, N.S., March 25th, 1852 ([Halifax, N.S.? : s.n.], 1852) | have-ocr | IA `cihm_64769` |
+| Prohibitory liquor law : the substance of an address delivered during the sitting of the Provincial Temperance Convention, in the Temperance Hall, Halifax, on the 23rd February, 1854 : the members of the House of Assembly and of the Legislative Council being present by invitation ([Halifax, N.S.? : s.n.], 1854) | have-ocr | IA `cihm_57060` |
+| Scripture and tradition : a reply to Mr. Maturin's letter on "The claims of the Catholic Church" ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_49779` |
+| Appendix to Scripture and tradition : a reply to Mr. Manturin's letter on "The claims of the Catholic Church" ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_92598` |
+| The succession of matryrs : a sermon preached before the Central Baptist Association of Nova Scotia, at its ninth annual session, held with the church in Granville Street, Halifax, June 20, 1859 ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_67275` |
+| What will become of the wicked? : an address (Halifax, N.S. : Christian Messenger Office, 1860) | have-ocr | IA `cihm_91734` |
+| Centenary of the Baptists in Nova Scotia : A discourse delivered at Hillsburgh, June 10, 1860 (Halifax, : printed at the "Christian Messenger" office, 1860) | have-ocr | IA `cihm_51265` |
+| counciltrentabr00cramgoog, an abridgement by another hand | excluded | |
+| the botanical Annales and the Society of Arts journal are not his | excluded | |
+| reformationineur0000cram and centenaryofbapti00cram (its OCR lacks the title page) are second scans | excluded | |
+
+## Benjamin B. Wisner (round 125, my pick, 2026-10-23)
+
+Slugs `wisner-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon occasioned by the death of Mrs. Miriam Phillips, consort of His Honor William Phillips, delivered on the 18th of May, being the Sabbath after the funeral (Cambridge : Printed by Hilliard & Metcalf, 1823) | have-ocr | IA `sermonoccasioned00wisn` |
+| Memoirs of the late Mrs. Susan Huntington, of Boston, Mass., consisting principally of extracts from her journal and letters; with the sermon occasioned by her death (Boston, Crocker & Brewster, 1826) | have-ocr | IA `memoirsoflatemrs00wisn` |
+| A sermon occasioned by the death of the Hon. William Phillips : preached on the third of June, 1827, being the Sabbath after the funeral (Boston : Hilliard, Gray, Little, and Wilkins, 1827) | have-ocr | IA `sermonoccasioned01wisn` |
+| The proper mode of conducting missions to the heathen : a sermon delivered before the Society for Propagating the Gospel among the Indians and Others in North America, November 5, 1829 (Boston : Putnam & Hunt, 1829) | have-ocr | IA `propermodeofcond00wisn` |
+| The history of the Old South Church in Boston : in four sermons, delivered May 9, & 16, 1830, being the first and second Sabbaths after the completion of a century from the first occupancy of the present meeting house (Boston : Crocker & Brewster, 47, Washington Street, 1830) | have-ocr | IA `historyofoldsout0000wisn` |
+| Benefits and claims of sabbath schools. A sermon delivered in the Old South Church, in Boston, on the morning and afternoon of the sabbath, January 17, 1830 (Boston [Mass.] : Perkins & Marvin .., 1830) | have-ocr | IA `benefitsclaimsof00wisn` |
+| Influence of religion on liberty. A discourse in commemoration of the landing of the Pilgrims, delivered at Plymouth, December 22, 1830 (Boston : Perkins & Marvin, 1831) | have-ocr | IA `influenceofrelig00wisn` |
+| two short manuscript letters | excluded | |
+| cihm_42798, a second scan of the missions sermon | excluded | |
+| the Pentateuch studies are by Benjamin Wisner Bacon; the Hanover Church review is by Lyman Beecher | excluded | |
+
+## George W. Truett (round 125, my pick, 2026-10-23)
+
+Slugs `truett-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| We would see Jesus : and other sermons (New York : Fleming H. Revell, [c19) | have-ocr | IA `wewouldseejesusa00trueuoft` |
+| A quest for souls, comprising all the sermons preached and prayers offered in a series of gospel meetings held in Fort Worth, Texas, June 11-24, 1917 (N.Y., Doran, 1917) | have-ocr | IA `questforsoulscom00true` |
+| God's call to America and other addresses comprising special orations delivered on widely varying occasions (Judson Press, 1923) | have-ocr | IA `godscalltoameric0000geor` |
+| Young People's Pilgrim's Progress is Bunyan's | excluded | |
+| second scans of all three books | excluded | |
+
+## Leighton Parks (round 125, my pick, 2026-10-23)
+
+Slugs `parks-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| His star in the east ([n.p.], 1887) | have-ocr | IA `hisstarineast00park` |
+| The undiscovered country : the seventy-fourth anniversary address before the American Colonization Society : delivered in the Church of the Epiphany, Washington, D.C., January 18th, 1891 (Washington, D.C. : Press of McGill & Wallace ..., 1891) | have-ocr | IA `undiscoveredcou00parkgoog` |
+| The winning of the soul : and other sermons (New York : E.P. Dutton, 1893) | have-ocr | IA `winningofsouloth00park` |
+| Moral leadership, and other sermons (New York, C. Scribner's sons, 1914) | have-ocr | IA `moralleadershipo00park` |
+| The crisis of the churches (N.Y., Scribner, 1922) | have-ocr | IA `crisisofchurches00park` |
+| What is modernism? (charles scribner's sons, 1924) | have-ocr | IA `whatismodernism0000leig` |
+| Turnpikes and dirt roads (charles scribner's sons, 1927) | have-ocr | IA `turnpikesdirtroa0000leig` |
+| English Ways and By-Ways is letters of other writers | excluded | |
+| second scans of His Star in the East and the Colonization address | excluded | |
+
+## Camden M. Cobern (round 125, my pick, 2026-10-23)
+
+Slugs `cobern-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| The stars and the Book; sermons preached in St. James Methodist Episcopal church, Chicago (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1904) | have-ocr | IA `starsbooksermons00cobe` |
+| Bible Etchings of Immortality (Fleming H. Revell company, 1905) | have-ocr | IA `bibleetchingsim00cobegoog` |
+| Recent explorations in the Holy Land and Kadesh-Barnea, the "lost oasis" of the the Sinaitic peninsula (Meadville, Pa., Pub. for the World's Bible conference by the Tribune Pub. Co, 1914) | have-ocr | IA `recentexploratio0000cobe` |
+| The new archaeological discoveries and their bearing upon the New Testament and upon the life and times of the primitive Church (New York, Funk, 1917) | have-ocr | IA `newarchaeologica00cobeuoft` |
+| his journal articles | excluded | |
+| other scans and the 1921 printing of The New Archeological Discoveries | excluded | |
+
+## Frederic A. Noble (round 125, my pick, 2026-10-23)
+
+Slugs `noble-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| The need and the value of Christian schools in the present exigency of the New West; a discourse delivered in the Old South Church, Boston, Mass., Sunday morning, May 24, 1885 (Chicago Jameson & Morse, Printers, 1885) | have-ocr | IA `theneedandtheval00nobluoft` |
+| Right conceptions of the kingdom of God and their motive value : a sermon before the American Board of Commissioners for Foreign Missions, at the seventy-eighth annual meeting, held at Springfield, Mass., October 4, 1887 (Thomas Todd, Printer, 1887) | have-ocr | IA `rightconceptions00nobl` |
+| Ten years of ministry in Chicago. An anniversary sermon preached to the Union Park Congregational Church, Chicago, Ill ([Chicago? Ill.], 1889) | have-ocr | IA `tenyearsofminist00nobl` |
+| Discourses on the epistle of Paul to the Philippians (New York : Fleming H. Revell Company, 1896) | have-ocr | IA `discoursesonepis0000unse` |
+| Typical New Testament conversions (Chicago ; New York [etc.] : Fleming H. Revell company, 1901) | have-ocr | IA `typicalnewtestam0000nobl` |
+| Abraham Lincoln : an address ([Chicago], 1901) | have-ocr | IA `abrahamlincolnad00nobl` |
+| The Pilgrims (Boston, The Pilgrim Press, 1907) | have-ocr | IA `pilgrims00noblrich` |
+| Spiritual culture (New York, Hodder & Stoughton, George H. Doran Company, 1914) | have-ocr | IA `spiritualculture0000unse` |
+| MN41573ucmf_0, a partial scan of Spiritual Culture | excluded | |
+
+## J. Lewis Diman (round 126, my pick, 2026-10-23)
+
+Slugs `diman-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| The nation and the Constitution. An oration delivered before the city authorities and citizens of Providence, July 4, 1866 (Providence : Providence Press Company, 1866) | have-ocr | IA `nationconstituti00dima` |
+| The alienation of the educated class from politics (Providence, S. S. Rider, 1876) | have-ocr | IA `alienationofeduc00dima` |
+| The theistic argument as affected by recent theories (Boston : Houghton, Mifflin, 1881) | have-ocr | IA `theisticargument0000dima` |
+| Orations and essays : with selected parish sermons (Boston : Houghton, Mifflin, and Co., 1882) | have-ocr | IA `orationsessayswi00dima` |
+| Ceremonies at the Unveiling of the Monument to Roger Williams (1877), IA ceremoniesatunv00coungoog: his oration with other men's addresses (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| bwb_Y0-CQH-907, a later printing of The Theistic Argument | excluded | |
+
+## Thomas A. Jaggar (round 126, my pick, 2026-10-23)
+
+Slugs `jaggar-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon (New York : R.C. Root, Anthony & Co., Printers, 1865) | have-ocr | IA `sermon00jagg` |
+| Good stewards : a sermon preached in St. Paul's Church, Cheltenham, Pa., Sunday Evening, December 17th, 1871 / by the Rev. Thomas A. Jaggar (Cheltenham Press, Wm. P. Hallowell, Pr., 1872) | have-ocr | IA `goodstewardsserm00jagg` |
+| Sermons preached in Christ Church Cathedral, Montreal : "the presence of the comforter in the particular or national church" ([Montreal? : s.n.], 1883) | have-ocr | IA `cihm_64800` |
+| The man of the ages, and other recent sermons (New York, J. Pott & co., 1898) | have-ocr | IA `manofagesother00jagg` |
+| The personality of truth (New York : T. Whittaker, 1900) | have-ocr | IA `bub_gb_6XwwAAAAYAAJ` |
+| the geological works are by his son, the volcanologist Thomas A. Jaggar Jr. | excluded | |
+
+## John Huntley Skrine (round 126, my pick, 2026-10-23)
+
+Slugs `skrine-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| A memory of Edward Thring (London New York, Macmillan, 1889) | have-ocr | IA `memoryofedwardth00skri` |
+| A goodly heritage. A term's sermons at Glenalmond (Westminster, 1896) | have-ocr | IA `goodlyheritagete0000skri` |
+| The heart counsel and other sermons (Skeffington and Sons, Piccadilly, W. Publishers, 1899) | have-ocr | IA `heartcounselothe0000john` |
+| The mountain mother : Glenalmond sermons (London : Skeffington & Son, 1902) | have-ocr | IA `mountainmothergl0000skri` |
+| Pastor agnorum : a schoolmaster's afterthoughts (London ; New York : Longmans, Green, 1902) | have-ocr | IA `pastoragnorumsch00skririch` |
+| What is faith? : a hermit's epistle to some that are without (London ; New York, Bombay, and Calcutta : Longmans, Green, 1907) | have-ocr | IA `whatisfaithhermi0000skri` |
+| Pastor ovium. The day-book of a country parson (London, New York, 1909) | have-ocr | IA `pastoroviumdaybo0000skri` |
+| Sermons to pastors and masters (London ; New York : Longmans, Green, and Co., 1910) | have-ocr | IA `sermonstopastors0000skri` |
+| Creed and the creeds, their function in religion :  being the Bampton lectures of 1911 (London ; New York : Longmans, Green, and Co., 1911) | have-ocr | IA `creedcreedstheir00skri` |
+| Miracle and history : a study in the virgin birth and the resurrection (London : Longmans, Green, 1912) | have-ocr | IA `miraclehistoryst0000skri` |
+| PASTOR FUTURUS (catalogued 1914) | have-ocr | IA `pastorfuturus0000john` |
+| The survival of Jesus; a priest's study in divine telepathy (New York, Hodder & Stoughton, George H. Doran company, 1917) | have-ocr | IA `survivalofjesusp00skri` |
+| Columba, Joan the Maid, Songs of the Maid, The Queen's Highway and Under Two Queens are verse; Uppingham by the Sea is a school narrative; the Virgil is a school edition | excluded | |
+| second scans of Pastor Agnorum | excluded | |
+
+## Frank Milton Bristol (round 126, my pick, 2026-10-23)
+
+Slugs `bristol-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermon preached at the funeral of Samuel J. Hayes, superintendent of machinery of the Illinois Central R.R., September 25, A.D. 1882 (Chicago : Rand, McNally & Co., printers, 1882) | have-ocr | IA `sermonpreachedat00bris` |
+| Providential epochs (Cincinnati, Cranston & Curts; New York, Hunt & Eaton, 1894) | have-ocr | IA `providentialepoc00bris` |
+| The ministry of art (Cincinnati, Curts & Jennings, 1897) | have-ocr | IA `ministryofart0000bris` |
+| The religious instinct of man (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1904) | have-ocr | IA `religiousinstinc00bris` |
+| The life of Chaplain McCabe : bishop of the Methodist Episcopal Church (Cincinnati : Jennings and Graham ; New York : Eaton & Mains, 1908) | have-ocr | IA `lifeofchaplainmc0000bris` |
+| Heroines of history : typical heroines of mythology of Shakespeare, of the Bible (New York : Abingdon Press, 1914) | have-ocr | IA `cu31924031449147` |
+| Francis Asbury, Centennial Addresses (1917), IA francisasburycen00roge: addresses by several men (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Richard the Third and the Primrose Criticism and Shakespeare and America are literary studies | excluded | |
+| lifeofchaplainmc0000fran, a second scan | excluded | |
+
+## Paul Rader (round 126, my pick, 2026-10-23)
+
+Slugs `rader-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| Paul Rader's sermons (New York : The Book Stall, 1916) | have-ocr | IA `paulraderssermon00rade` |
+| How to win, and other victory messages (New York city, The Book stall, 1919) | have-ocr | IA `howtowinothervic00rade` |
+| God's Blessed Man (catalogued 1922) | have-ocr | IA `godsblessedman0000paul` |
+| Tabernacle Hymns No. 2 (1921), IA tabernaclehymnsn00rade: a hymnal he compiled from many writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| The Empty Cottage at Silver Falls is fiction | excluded | |
+| second scans of God's Blessed Man | excluded | |
+| roundroundworld00radegoog: the catalogue says 1922, but this printing reads "Copyright, 1932" (Revell), after the 1930 cutoff | excluded | |
+
+## James De Normandie (round 126, my pick, 2026-10-23)
+
+Slugs `de-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lord reigneth : a few words on Sunday morning, April 16th, 1865, after the assassination of Abraham Lincoln ([Portsmouth? N.H. : s.n., 1865) | have-ocr | IA `lordreignethfeww00deno` |
+| Harriet Ryan Albee: A Memorial Sketch (G. H. Ellis, printer, 1901) | have-ocr | IA `harrietryanalbe00normgoog` |
+| In Memoriam: A Sketch of the Life of the Rev. Francis Bickford Hornbrooke (Newton Graphic Pub., 1905) | have-ocr | IA `inmemoriamasket01normgoog` |
+| The Beauty of Wisdom (1903), IA beautyofwisdomvo00deno: daily readings from ancient writers he compiled (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Phillips Brooks and the church universal : a sermon preached to the First Church, Eliot Square, Roxbury, Boston, January 29, 1893 ([Boston] : Women's Alliance of the First Church, 1893) (IA phillipsbrooksch00deno): the OCR text is unreadable throughout (no title word survives); a re-OCR or cleaner scan is wanted | pending | not shelved |
+| the Unitarian Review, a periodical | excluded | |
+| Massachusetts Historical Society proceedings | excluded | |
+
+## Henry A. Brann (round 127, my pick, 2026-10-23)
+
+Slugs `brann-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Curious questions ([n. p.], 1866) | have-ocr | IA `curiousquestions00bran` |
+| Gladstone and the Irish grievances (New York, B. H. Tyrell, printer, 1881) | have-ocr | IA `gladstoneirishgr00bran` |
+| Most Reverend John Hughes, first archbishop of New York (New York, Dodd, Mead and company, 1892) | have-ocr | IA `reverendjohnhugh00branuoft` |
+| Waifs and strays : being a collection of some sermons, some lectures, essays, etc. of Henry A. Brann, vol. 2 (Quebec ; New York : Franciscan Missionary Printing Press, 1909) | have-ocr | IA `waifsandstraysbe00branuoft` |
+| History of the American College of the Roman Catholic church of the United States, Rome, Italy (New York, Cincinnati [etc.] Benziger Brothers, 1910) | have-ocr | IA `historyofamerica00bran` |
+| The Glories of the Catholic Church (1894-95), IA GloriesOfTheCatholicChurchV2: an anthology of many writers that he edited (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Kelly's Universal Readers and Primer are school readers | excluded | |
+| second scans of Waifs and Strays | excluded | |
+
+## John Clowes (round 127, my pick, 2026-10-23)
+
+Slugs `clowes-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| The true end and design of the Lord's Supper : together with the nature of the preparation, necessary for a right and profitable reception thereof ; opened and explained, in two dialogues, between a father and his son (Manchester : Printed by M. Wardle, 1810) | have-ocr | IA `trueenddesignofl00clow` |
+| Sermons on various subjects (New York : Published for the Proprieters by Gallaudent and Wells, 1815) | have-ocr | IA `sermonsonvariou00clow` |
+| Letters on the human body : principally designed to prove, that the body is a mere effect derived from the soul, as its instrumental cause, and thus from God, as its primary cause; and that consequently in every human body may be seen a demonstration of the continual presence and operation of the causes, of which it is the effect (Warwick : W. Rose, 1826) | have-ocr | IA `lettersonhumanbo00clow` |
+| Affectionate address to the clergy on the theological writings of Emanuel Swedenborg : Tract no. 18 (Boston ; New York : [s.n.], 1846) | have-ocr | IA `affectionateaddr00clow` |
+| Dialogues on the nature, design and evidence of the theological writings of Emanuel Swedenborg / by Rev. John Clowes (Publ. under the direction of The New Church Printing Fund, 1850) | have-ocr | IA `dialoguesonnatur00clow` |
+| The Gospel according to John : translated from the original Greek, and illustrated by extracts from the theological writings of Emanuel Swedenborg : together with notes and observations by the translator annexed to each chapter (London : J.S. Hodson, 1853) | have-ocr | IA `gospelaccordingt53clow` |
+| The gospel according to Mark (London : White, 1858) | have-ocr | IA `cu31924029341702` |
+| Miracles of Jesus Christ : explained according to their spiritual meaning, in the way of question and answer / by the Rev. J. Clowes (Manchester : Published by the Manchester Printing Society of the New Jerusalem Church, 1867) | have-ocr | IA `miraclesofjesusc00clow` |
+| The gospel according to Matthew, translated from the original Greek, and illustrated by extracts from the theological writings of that eminent servant of the Lord the hon. Emanuel Swedenborg, together with notes and observations of the translator, annexed to each chapter (London : F. Pitman, 1868) | have-ocr | IA `gospelaccordingt00clow` |
+| his translation of Swedenborg's Heaven and Hell belongs to the Swedenborg shelf | excluded | |
+| MN41948ucmf_4, a partial scan | excluded | |
+
+## Joseph Vaill (round 127, my pick, 2026-10-23)
+
+Slugs `vaill-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| An historical sermon delivered at Brimfield, January 7, 1821, on the occasion of a new year by Joseph Vaill, pastor of the church in Brimfield; Mr. Vaill's New-Year's sermon (Springfield [Mass.] : A. G. Tannatt, Printer, 1829) | have-ocr | IA `historicalsermon00vail` |
+| A Memorial Sermon, in Two Parts, Preached At Brimfield, February 7th, 1864, by Rev. Joseph Vaill, D.D., Commemorative of his Settlement in that place, fifty years ago, and affectionately Dedicated to his former Charge. - Springfield; Samuel Bowles & Company, Printers, 1864 (catalogued 1864) | have-ocr | IA `memorialsermonin00vail` |
+| A sermon delivered at the funeral of Rev. Alfred Ely, D. D., late senior pastor of the Congregational Church in Monson, Mass., July 9th, 1866 by Rev. Joseph Vaill, D. D., pastor of the Second Congregational Church in Palmer, Mass (Northampton, Mass. : Bridgman & Childs, Publishers, 1866) | have-ocr | IA `sermondelivereda00vail` |
+| the Litchfield County Choral Union history is by another Vaill | excluded | |
+| sonofgodmanifest00vail (1814) is the ordination sermon for him preached by his father, Joseph Vaill of East Haddam | excluded | |
+| memoiroflifechar00vail (1839), the memoir of his father, is by Isaac Parsons | excluded | |
+
+## Samuel H. Virgin (round 127, my pick, 2026-10-23)
+
+Slugs `virgin-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Mastership of the sea : a discourse before the American Seamen's Friend Society, at its sixty-sixth anniversary, Sunday evening, May 7th, 1894 in the Pilgrim Church, Madison Avenue and One Hundred and Twenty-First Street, New York City / by Samuel H. Virgin (New York : American Seamen's Friend Society, 1894) | have-ocr | IA `mastershipofsead00virg` |
+| Spiritual sanity and other sermons (New York, Boston [etc.] American tract society, 1905) | have-ocr | IA `spiritualsanityo00virg` |
+
+## William Parkinson (round 127, my pick, 2026-10-23)
+
+Slugs `parkinson-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, delivered in the meeting house of the First Baptist church in the city of New York, August 20th, 1812. Being a day recommended, by the constituted authorities of the nation, as a day of special humiliation and prayer, on account of the present war (New-York, Printed for J. Tiebout, 1812) | have-ocr | IA `sermondeliveredi00park` |
+| Jubilee : a sermon, containing a history of the origin of the First Baptist Church in the City of New York, and its progress, during the first fifty years since its constitution (with explanatory notes) : delivered in the meeting-house of said church, Jan. 1, 1813 (New-York : Printed for the proprietor, 1813) | have-ocr | IA `jubileesermoncon00park_0` |
+| A sermon; being one of a series of sermons on the XXXIII chapter of Deuteronomy ([New York], 1828) | have-ocr | IA `sermonbeingoneof00park` |
+| A Selection of Hymns and Spiritual Songs (1817), IA selectionofhym1817park: a hymnal he compiled (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| cihm_20977 and jubileesermonco00park are other scans or a later edition | excluded | |
+| A Discussion of the Weekly Sabbath is by another author | excluded | |
+
+## Morgan Cowie (round 127, my pick, 2026-10-23)
+
+Slugs `cowie-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Ten sermons preached before the University of Cambridge : including the Hulsean lectures for 1853, and two other sermons (London : F. and J. Rivington ; Cambridge : J. Deighton, 1853) | have-ocr | IA `tensermonsprea00cowi` |
+| Scripture difficulties : sermons preached before the University of Cambridge, including the Hulsean lectures for 1854 and three other sermons (London : Rivingtons, 1855) | have-ocr | IA `scripturedifficu00cowi` |
+| On sacrifice: the Atonement, Vicarious oblation, and Example of Christ; and The punishment of (catalogued 1856) | have-ocr | IA `onsacrificeaton00cowigoog` |
+| Reminiscences of a city church : including an account of the missionary services in the Church of S. Lawrence and S. Mary Magdalen, September 1867, vol. Talbot collection of British pamphlets (London : Dalton & Lucy, booksellers to the Queen and to H.R.H. the Prince of Wales, 28 Cockspur Street, Charing Cross, 1867) | have-ocr | IA `reminiscencesofc00cowi` |
+| his catalogue of St John's College manuscripts is bibliography | excluded | |
+| a collection of examination questions | excluded | |
+
+## Robert Easton (round 127, my pick, 2026-10-23)
+
+Slugs `easton-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Reasons for joy and praise : a sermon preached April 6, 1815 : being the day of general thanksgiving for peace with the United States : in the Presbyterian Church, St. Peter's Street, Montreal (Montreal : Printed by Nahum Mower, 1815) | have-ocr | IA `cihm_92319` |
+| A sermon, delivered before the members of the Female Benevolent Society, in Montreal, September 8, 1816 (Montreal : Printed by Nahum Mower, 1816) | have-ocr | IA `cihm_55046` |
+| A sermon on the imperfection of the present state (Montreal : Printed by Nahum Mower, 1820) | have-ocr | IA `cihm_92335` |
+| the description of pictures (1752), the chemistry papers and the division-courts letter are by other men | excluded | |
+
+## William Burkitt (round 128, my pick, 2026-10-23)
+
+Slugs `burkitt-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The people's zeal provok't...  1680 (catalogued 1680) | have-ocr | IA `bim_early-english-books-1641-1700_the-peoples-zeal-provok_burkitt-william_1680` |
+| An argumentative and practical discourse of infant-baptism. ...  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1641-1700_an-argumentative-and-pra_burkitt-william_1692` |
+| The poor man's help,...  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_the-poor-mans-help-_burkitt-william_1694` |
+| The poor man's help, and young man's guide: containing I. Doctrinal instructions ... II. Practical directions ... III. Particular advices ... Unto which is added principles of religion; ... with Forms of prayer ... also, divine hymns ... By W. Burkit (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_the-poor-mans-help-and_burkitt-william_1712` |
+| An help and guide to Christian families: containing I. Doctrinal instructions ... II. Practical directions ... III. Particular advice ... Unto which are added, principles of religion, ... With forms of prayer ... Also divine hymns on several occasions. By William Burkitt, M.A. ...  1764 (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_an-help-and-guide-to-chr_burkitt-william_1764` |
+| Expository notes, with practical observations upon the New Testament of our Lord and Saviour Jesus Christ. Wherein the whole of the sacred text is recited, the sense explained, and the instructive example of the blessed Jesus, and His apostles, to our imitation recommended (New Haven, Printed by Abel Morse, for the Rev. David Austin of Elizabeth-town, 1794) | have-ocr | IA `expositorynotesw00burk` |
+| 10481386bsb, a German translation | excluded | |
+| the 1697, 1705 and 1795 Poor Man's Help and the 1832 Expository Notes are other editions | excluded | |
+| Criticism of the New Testament (1902) is F. C. Burkitt and others | excluded | |
+| bim_eighteenth-century_family-instruction-or-_burkitt-william_1704_0: the scan is a different book, a 1751 Oxford sermon by Henry Whitfield | excluded | |
+
+## Thomas Stackhouse (round 128, my pick, 2026-10-23)
+
+Slugs `stackhouse-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The honour and dignity of the true ministers of Christ. In a sermon preach'd at Richmond, in the county of Surrey, on the 22d day of May, 1726. Being the Sunday after the decease of the Reverend Dr. Brady. By Tho. Stackhouse, A.M.  1726 (catalogued 1726) | have-ocr | IA `bim_eighteenth-century_the-honour-and-dignity-o_stackhouse-thomas_1726` |
+| Fair state of the controversy between Mr. Woolston and his adversaries : containing the substance of what he asserts in his six dsocourses against the literal sense of our Blessed Saviour's miracles (London : Printed for Edward Symon, 1730) | have-ocr | IA `fairstateofcontr00stac` |
+| Reflections on the nature and property of languages in general, and on the advantages, defects, and manner of improving the English tongue in particular. By the Reverend Mr. Thomas Stackhouse, ...  1731 (catalogued 1731) | have-ocr | IA `bim_eighteenth-century_reflections-on-the-natur_stackhouse-thomas_1731` |
+| A new history of the Holy Bible : from the beginning of the world, to the establishment of Christianity : With answers to most of the controverted questions, dissertations upon the most remarkable passages, and a connection of profane history all along. : To which are added, notes explaining difficult texts, rectifying mis-translations, and reconciling seeming contradictions : The whole illustrated with proper maps and sculptures, vol. 1 (London : Printed and sold, for the author, at J. Huggonson's ..., 1733) | have-ocr | IA `newhistoryofholy0001stac` |
+| A defence of the Christian religion from the several objections of modern antiscripturists. ... In which is included the whole state of the controversy between Mr. Woolston and his adversaries. By the Reverend Mr. Thomas Stackhouse, ...  1733 (catalogued 1733) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-christi_stackhouse-thomas_1733` |
+| A new and practical exposition of the Apostles Creed, Wherein each article is fully explained, ... Together with an introduction containing a short historical account of the design and origin of creeds. By Thomas Stackhouse, ...  1747 (catalogued 1747) | have-ocr | IA `bim_eighteenth-century_a-new-and-practical-expo_stackhouse-thomas_1747` |
+| Vana doctrinæ emolumenta, et varia studiorum incommoda. In sermonem breviter digesta et versu hexametro exarata. A tenuis parochiæ vicario, ... T. S.  1752 (catalogued 1752) | have-ocr | IA `bim_eighteenth-century_vana-doctrin-emolumenta_stackhouse-thomas_1752` |
+| The life of Our Lord and Saviour Jesus Christ. With the lives of the apostles and evangelists. Containing, I. The genealogy of our Lord ... II. Of the birth, life, imprisonment, and death of the Messiah's great fore-runner, John the Baptist. III. The calling of the twelve apostles ... IV. Of their travels ... By the Rev. Thomas Stackhouse, ...  1754 (catalogued 1754) | have-ocr | IA `bim_eighteenth-century_the-life-of-our-lord-and_stackhouse-thomas_1754` |
+| A system of practical duties, moral and evangelical. By the Rev. Thomas Stackhouse, ...  1760 (catalogued 1760) | have-ocr | IA `bim_eighteenth-century_a-system-of-practical-du_stackhouse-thomas_1760` |
+| A compleat body of speculative and practical divinity, consisting of five parts (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_a-compleat-body-of-specu_stackhouse-thomas_1743` |
+| Memoirs of the Life and Conduct of Dr. Francis Atterbury (1723), IA memoirsoflifecon00stac: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Life of Mr. Woolston (1733), IA bub_gb_aw_qv0upwTAC: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The miseries and great hardships of the inferiour clergy, in and about London. And a modest plea for their rights, and better usage; ... By a clergyman of the Church of England.  1722 (catalogued 1722) (IA bim_eighteenth-century_the-miseries-and-great-h_stackhouse-thomas_1722): signed only "By a Clergyman of the Church of England" (a later hand wrote "T. Stackhouse" above); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| German and French translations | excluded | |
+| the 1743 and 1760 Body of Divinity and a second Woolston scan | excluded | |
+| his Greek grammar, a school book | excluded | |
+| completebodyofdi00stac: a partial scan that begins in Part III with no title page; the 1743 ECCO copy is taken instead | excluded | |
+
+## J. F. Ostervald (round 128, my pick, 2026-10-23)
+
+Slugs `ostervald-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The Grounds and principles of the Christian religion : explain'd in a catechetical discourse, for the instruction of young people (London : Printed by W. Sayes for William Hawes, 1704) | have-ocr | IA `groundsprinciple00oste` |
+| The Nature of uncleanness considered : to which is added, a discourse concerning the nature of chastity, and the means of obtaining it (London : Printed for R. Bonwicke [etc], 1708) | have-ocr | IA `natureofuncleann00oste` |
+| The arguments of the books and chapters of the Old and New Testament : with practical observations (London : Printed for the Society for Promoting Christian Knowledge, [171) | have-ocr | IA `argumentsbooksa00ostegoog` |
+| The preliminary discourse to the arguments on the books and chapters of the Old and New-Testament. Written by J. F. Ostervald, ...  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-preliminary-discours_ostervald-jean-frdric_1722` |
+| An abridgment of the history of the Bible. By the Rev. Mr Ostervald.  1750 (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_an-abridgment-of-the-his_ostervald-jean-frdric_1750` |
+| The necessity and usefulness of reading the Holy Scriptures; and the dispositions with which they ought to be read. Written originally in French, by the Rev. Mr. Ostervald: ... Translated by John Moore, A.B.  1750 (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_the-necessity-and-useful_ostervald-jean-frdric_1750` |
+| Theologiae Christianae compendium; authore Johanne Friderico Osterwaldio, ...  1757 (catalogued 1757) | have-ocr | IA `bim_eighteenth-century_theologiae-christianae-c_ostervald-jean-frdric_1757` |
+| Lectures on the exercise of the sacred ministry. By the late J. F. Ostervald, ... Translated from the French, and enlarged with a preface, and occasional notes, by Thomas Stevens, ...  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_lectures-on-the-exercise_ostervald-jean-frdric_1781` |
+| A compendium of Christian theology (Strabane : Printed by John Bellew, 1785) | have-ocr | IA `compendiumofchri00oste` |
+| Collections and Observations concerning the Worship, Discipline, and Government of the Church (1770), IA collectionsando00ostegoog: authorship not confirmed from the text; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A treatise concerning the causes of the present corruption, ...  1700 (catalogued 1700) (IA bim_early-english-books-1641-1700_a-treatise-concerning-th_ostervald-jean-frederic_1700): the English title page of Part I names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| his French Catechisme, Traité contre l'impureté and Bible | excluded | |
+| German translations and a geography by Friedrich Osterwald | excluded | |
+| other editions of the Grounds, Uncleanness, Arguments and Abridgment | excluded | |
+
+## George Pretyman Tomline (round 128, my pick, 2026-10-23)
+
+Slugs `tomline-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the Honourable House of Commons, at St. Margaret's, Westminster, on Thursday, July 29, 1784: ... By George Pretyman, ...  1784 (catalogued 1784) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_pretyman-george_1784` |
+| A sermon preached before the Lords ... in the abbey church of Westminster, on Friday, January 30, 1789. ... By George, Lord Bishop of Lincoln.  1789 (catalogued 1789) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_pretyman-george_1789` |
+| A sermon, preached at the cathedral church of St. Paul, London, before His Majesty, and both Houses of Parliament, on Tuesday, December 19th, 1797; ... By George, Lord Bishop of Lincoln. ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-th_pretyman-george_1798` |
+| Elements of christian Theology, vol. 1 (London : [publisher not identified], 1823) | have-ocr | IA `elementsofchrist01pret_1` |
+| Elements of christian theology :  with index to v. 1, vol. 2 (London : [s.n.], 1826) | have-ocr | IA `elementsofchrist02pret_0` |
+| A refutation of Calvinism : in which, the doctrines of original sin, grace, regeneration, justification, and universal redemption, are explained : and the peculiar tenets maintained by Calvin upon those points are proved to be contrary to scripture, to the writings of the ancient fathers of the Christian Church, and to the public formularies of the Church of England (London : T. Cadell and W. Davies, 1811) | have-ocr | IA `arefutationofcal00pretuoft` |
+| Memoirs of the life of the Right Honorable William Pitt (London : J. Murray, 1822) | have-ocr | IA `memoirsoflifeofr00pretuoft` |
+| An introduction to the study of the Bible: being the fourteenth edition of the first volume of the Elements of Christian theology (London, Printed for T. Cadell, 1822) | have-ocr | IA `introductiontost00pret` |
+| Reflections on the Cruelty of Inclosing Common-Field Lands is by another Pretyman | excluded | |
+| the Adair letters and the Remarks on the Refutation are by others | excluded | |
+| other editions and abridgements of the Elements and the Refutation | excluded | |
+
+## Jacob Duché (round 128, my pick, 2026-10-23)
+
+Slugs `duche-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The life and death of the righteous.  1763 (catalogued 1763) | have-ocr | IA `bim_early-english-books-1641-1700_jacob-duche_1763` |
+| Human life a pilgrimage: or the Christian a stranger and sojourner upon earth: a sermon occasioned by the death of ... Richard Penn, ... By ... Jacob Duche, M.A.  1771 (catalogued 1771) | have-ocr | IA `bim_eighteenth-century_human-life-a-pilgrimage_duche-jacob_1771` |
+| The duty of standing fast in our spiritual and temporal liberties, a sermon, preached in Christ-church, July 7th, 1775, before the First battalion of the city and liberties of Philadelphia; ... By the Reverend Jacob Duché, M.A.  1775 (catalogued 1775) | have-ocr | IA `bim_eighteenth-century_the-duty-of-standing-fas_duch-jacob_1775` |
+| Discourses on various subjects, by Jacob Duché, vol. 1 (London : printed by J. Phillips; and sold by T. Cadell; H. Payne; C. Dilly; and J. Phillips, 1779) | have-ocr | IA `discoursesonvari01duch_0` |
+| Discourses on various subjects, by Jacob Duché, ...  1779: Vol 2, vol. 2 (catalogued 1779) | have-ocr | IA `bim_eighteenth-century_discourses-on-various-su_duch-jacob_1779_2` |
+| A sermon preached at St. Dunstan's in the West, on Sunday, April 29, and at St. Mary Abbotts, Kensington, on Sunday, July 15, 1781, for the benefit of the Humane Society, instituted for the recovery of persons apparently dead by drowning. By Jacob Duché, M.A. ...  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-st_duch-jacob_1781` |
+| The Duché letter to General Washington ([Philadelphia : s.n., 1892) | have-ocr | IA `duchlettertoge00duch` |
+| Observations on a Variety of Subjects / Caspipina's Letters (1774, 1777), IA bim_eighteenth-century_observations-on-a-variet_duch-jacob_1774: published under the pen-name Tamoc Caspipina; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| wsb4f13_images has page images but no text | excluded | |
+| Anti-Paedo-Rantism is by Abel Morgan; Washington at Valley Forge is a collection | excluded | |
+| other scans and the second edition of the Discourses | excluded | |

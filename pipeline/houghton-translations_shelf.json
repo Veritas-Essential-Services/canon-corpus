@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Louise Seymour Houghton (1838-1920): Sabatier's Life of St. Francis of Assisi (1894), Bordeaux's The House (1914) and Boylesve's You No Longer Count (1918). Her Russian Grandmother's Wonder Tales is on Lane D's louise-houghton_shelf.json; this shelf holds her other translations and could merge into that one. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Louise Seymour Houghton (1838-1920): Sabatier's Life of St. Francis of Assisi (1894), Bordeaux's The House (1914) and Boylesve's You No Longer Count (1918). Her Russian Grandmother's Wonder Tales is on Lane D's louise-houghton_shelf.json; this shelf holds her other translations and could merge into that one. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted. From archive.org (2026-10-23): Stapfer's Jesus Christ trilogy (Scribner, 1896-1898; in these scans the 'translated by' line is lost to the OCR, her name standing in the translator's place below the author) and the Unpublished Correspondence of Napoleon I, vols. I-III (Duffield, 1913).",
  "_name_words": [
   "louise seymour houghton"
  ],
@@ -22,7 +22,32 @@
    "The house"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lho-ia-stapfer-before-ministry": [
+   "jesuschristbefo00houggoog",
+   "Stapfer: Jesus Christ before His Ministry"
+  ],
+  "lho-ia-stapfer-during-ministry": [
+   "jesuschristduri00houggoog",
+   "Stapfer: Jesus Christ during His Ministry"
+  ],
+  "lho-ia-stapfer-death-resurrection": [
+   "deathandresurre00houggoog",
+   "Stapfer: The Death and Resurrection of Jesus Christ"
+  ],
+  "lho-ia-napoleon-unpublished-1": [
+   "unpublishedcorr00histgoog",
+   "Napoleon: Unpublished Correspondence 1"
+  ],
+  "lho-ia-napoleon-unpublished-2": [
+   "unpublishedcorre0002erne",
+   "Napoleon: Unpublished Correspondence 2"
+  ],
+  "lho-ia-napoleon-unpublished-3": [
+   "unpublishedcorre0003erne_s0c4",
+   "Napoleon: Unpublished Correspondence 3"
+  ]
+ },
  "titles": {
   "houghton-translations-bordeaux-the-house": {
    "source": "lho-72388",
@@ -47,15 +72,65 @@
    "translated": "1894-1918 (see the Gutenberg header)",
    "translator": "Louise Seymour Houghton",
    "scan_edition": "Project Gutenberg 18787 (clean text)"
+  },
+  "houghton-translations-stapfer-jesus-christ-before-his-ministry": {
+   "source": "lho-ia-stapfer-before-ministry",
+   "of": "Edmond Stapfer",
+   "work": "Jesus Christ before His Ministry",
+   "translated": "1896",
+   "translator": "Louise Seymour Houghton",
+   "scan_edition": "Charles Scribner's Sons, New York, 1896"
+  },
+  "houghton-translations-stapfer-jesus-christ-during-his-ministry": {
+   "source": "lho-ia-stapfer-during-ministry",
+   "of": "Edmond Stapfer",
+   "work": "Jesus Christ during His Ministry",
+   "translated": "1897",
+   "translator": "Louise Seymour Houghton",
+   "scan_edition": "Charles Scribner's Sons, New York, 1897"
+  },
+  "houghton-translations-stapfer-the-death-and-resurrection-of-jesus-christ": {
+   "source": "lho-ia-stapfer-death-resurrection",
+   "of": "Edmond Stapfer",
+   "work": "The Death and Resurrection of Jesus Christ",
+   "translated": "1898",
+   "translator": "Louise Seymour Houghton",
+   "scan_edition": "Charles Scribner's Sons, New York, 1898"
+  },
+  "houghton-translations-napoleon-unpublished-correspondence-1": {
+   "source": "lho-ia-napoleon-unpublished-1",
+   "of": "Napoleon I (ed. Ernest Picard and Louis Tuetey)",
+   "work": "Unpublished Correspondence of Napoleon I, Preserved in the War Archives, vol. I (1804-1807)",
+   "translated": "1913",
+   "translator": "Louise Seymour Houghton",
+   "scan_edition": "Duffield & Company, New York, 1913"
+  },
+  "houghton-translations-napoleon-unpublished-correspondence-2": {
+   "source": "lho-ia-napoleon-unpublished-2",
+   "of": "Napoleon I (ed. Ernest Picard and Louis Tuetey)",
+   "work": "Unpublished Correspondence of Napoleon I, Preserved in the War Archives, vol. II (1808-1809)",
+   "translated": "1913",
+   "translator": "Louise Seymour Houghton",
+   "scan_edition": "Duffield & Company, New York, 1913"
+  },
+  "houghton-translations-napoleon-unpublished-correspondence-3": {
+   "source": "lho-ia-napoleon-unpublished-3",
+   "of": "Napoleon I (ed. Ernest Picard and Louis Tuetey)",
+   "work": "Unpublished Correspondence of Napoleon I, Preserved in the War Archives, vol. III (1809-1810)",
+   "translated": "1913",
+   "translator": "Louise Seymour Houghton",
+   "scan_edition": "Duffield & Company, New York, 1913"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Faithful to the End (1882) is 'adapted', not translated, and is left off."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "lho-18787": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "louise seymour houghton",
    "identity": "ok",
@@ -64,7 +139,7 @@
   },
   "lho-68557": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "louise seymour houghton",
    "identity": "ok",
@@ -73,12 +148,80 @@
   },
   "lho-72388": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "louise seymour houghton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Louise Seymour Houghton"
+  },
+  "lho-ia-stapfer-before-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise seymour houghton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lho-ia-stapfer-during-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise seymour houghton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lho-ia-stapfer-death-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise seymour houghton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lho-ia-napoleon-unpublished-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise seymour houghton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lho-ia-napoleon-unpublished-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise seymour houghton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lho-ia-napoleon-unpublished-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise seymour houghton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -96,6 +239,95 @@
    "pg": 72388,
    "pg_copyrighted_marker": false,
    "pg_translator": "Louise Seymour Houghton"
+  },
+  "lho-ia-stapfer-before-ministry": {
+   "ia": "jesuschristbefo00houggoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890,
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lho-ia-stapfer-during-ministry": {
+   "ia": "jesuschristduri00houggoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lho-ia-stapfer-death-resurrection": {
+   "ia": "deathandresurre00houggoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870,
+    1898
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lho-ia-napoleon-unpublished-1": {
+   "ia": "unpublishedcorr00histgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1793,
+    1807,
+    1809,
+    1815,
+    1833,
+    1854,
+    1857,
+    1858,
+    1864,
+    1869,
+    1912,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lho-ia-napoleon-unpublished-2": {
+   "ia": "unpublishedcorre0002erne",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1495,
+    1496,
+    1497,
+    1498,
+    1499,
+    1500,
+    1501,
+    1502,
+    1503,
+    1504,
+    1505,
+    1506,
+    1507,
+    1508,
+    1509,
+    1806,
+    1807,
+    1808,
+    1809,
+    1913
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ],
+   "post_1930_examined": "2000 is a count of horses in the letters"
+  },
+  "lho-ia-napoleon-unpublished-3": {
+   "ia": "unpublishedcorre0003erne_s0c4",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1500,
+    1809,
+    1810,
+    1913
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ],
+   "post_1930_examined": "2000 is a count of horses and men in the letters"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

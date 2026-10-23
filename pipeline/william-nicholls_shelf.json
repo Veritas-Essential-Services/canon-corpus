@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain William Nicholls (1664-1712), for the Word Hoard: A Conference with a Theist (London 1723, two volumes) and A Comment on the Book of Common Prayer (1710), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nicholls"
+ ],
+ "_surname": [
+  "william nicholls",
+  "william nichols",
+  "nicholls"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nicholls-conference-theist-1": [
+   "conferencewithth01nich",
+   "A Conference with a Theist : containing an answer to all the most usual objections of the infidels against the Christian religion, vol. 1 (London : Printed for J. Holland, and J. Bowyer [etc.], 1723)"
+  ],
+  "nicholls-conference-theist-2": [
+   "conferencewithth02nich",
+   "A Conference with a Theist : containing an answer to all the most usual objections of the infidels against the Christian religion, vol. 2 (London : Printed for J. Holland, and J. Bowyer [etc.], 1723)"
+  ],
+  "nicholls-comment-bcp-1710": [
+   "bim_eighteenth-century_a-comment-on-the-book-of_nicholls-william_1710",
+   "A Comment on the Book of Common-Prayer, and Administration of the Sacraments (London, catalogued 1710)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "nicholls-latin": "Defensio Ecclesiae Anglicanae (1708, Latin)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "nicholls-conference-theist-2": "title page read from the page image: 'A Conference with a Theist; containing an answer to all the most usual objections of the infidels against the Christian religion. In five parts. By William Nichols, D.D. The third edition ... Vol. II. London: printed for J. Holland, and J. Bowyer ... MDCCXXIII' (the OCR misses the title leaf)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nicholls-conference-theist-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william nichols",
+   "identity": "ok",
+   "ia_rights": "ok: published 1723",
+   "ia_date": "1723",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicholls-conference-theist-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1723",
+   "ia_date": "1723",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nicholls-comment-bcp-1710": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william nicholls",
+   "identity": "ok",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "_about": "Public-domain Andrew Snape, Provost of King's College, Cambridge, for the Word Hoard: his sermons, among them one before the Princess Sophia at Hanover, his letters to the Bishop of Bangor in the Bangorian controversy, and his Forty-Five Sermons on Several Subjects. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 123 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "andrew snape",
+  "a. snape",
+  "snape"
+ ],
+ "_surname": [
+  "snape"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "snape-hanover-1706": [
+   "bim_eighteenth-century_a-sermon-preachd-before_snape-andrew_1706",
+   "A sermon preach'd before the Princess Sophia at Hannover, the 13/24th of May, 1706. By Andrew Snape, ...  1706 (catalogued 1706)"
+  ],
+  "snape-ancestry-1707": [
+   "bim_eighteenth-century_of-the-relative-engageme_snape-andrew_1707",
+   "Of the relative engagement between ancestry and posterity. A sermon preach'd before the University of Cambridge, in King's College Chappel, on the 25th of March 1707. ... By Andrew Snape, ...  1707 (catalogued 1707)"
+  ],
+  "snape-lord-mayor-1710": [
+   "sermonpreachdbef00snapuoft",
+   "A sermon preach'd before the Right Honourable the Lord Mayor ... at the cathedral church of St. Paul, on Monday the 30th of Jan. 1709/10 (London : Printed for Jonah Bowyer at the sign of the Rose in Ludgate Street, 1710)"
+  ],
+  "snape-st-sepulchre-1711": [
+   "bim_eighteenth-century_a-sermon-preachd-in-the_snape-andrew_1711",
+   "A sermon preach'd in the parish-church of St. Sepulchre, May the 24th, 1711. ... at the anniversary meeting of the children educated in the charity schools in and about the cities of London and Westminster. ... By Andrew Snape, ...  1711 (catalogued 1711)"
+  ],
+  "snape-commons-1711": [
+   "bim_eighteenth-century_a-sermon-preachd-before_snape-andrew-dd_1711",
+   "A sermon preach'd before the Honourable House of Commons.  1711 (catalogued 1711)"
+  ],
+  "snape-letter-bangor": [
+   "bim_eighteenth-century_a-letter-to-the-bishop-o_snape-andrew_1717",
+   "A letter to the Bishop of Bangor, occasion'd by his Lordship's sermon preach'd before the King at S. James's, March 31st, 1717. By Andrew Snape, ... The fifth edition.  1717 (catalogued 1717)"
+  ],
+  "snape-second-letter-bangor": [
+   "secondlettertolo00snapuoft",
+   "A second letter to the Lord Bishop of Bangor, in vindication of the former (London : Printed for Jonas Bowyer ..., 1717)"
+  ],
+  "snape-vindication": [
+   "bim_eighteenth-century_a-vindication-of-a-passa_snape-andrew_1717_0",
+   "A vindication of a passage in Dr. Snape's second letter to the Lord Bishop of Bangor, relating to Mr. Pillonniere. By Andrew Snape, ...  1717 (catalogued 1717)"
+  ],
+  "snape-st-mary-at-hill": [
+   "bim_eighteenth-century_a-sermon-preachd-at-the_snape-andrew-dd_1717",
+   "A sermon preach'd at the parish church of St. Mary at Hill, on Sunday December 31. 1716. ... By Andrew Snape, ...  1717 (catalogued 1717)"
+  ],
+  "snape-forty-five-1": [
+   "fortyfivesermons01snap",
+   "Forty five sermons on several subjects, vol. 1 (London : Printed by S. Birt and R. Manby, and H.S. Cox, 1745)"
+  ],
+  "snape-forty-five-3": [
+   "bim_eighteenth-century_forty-five-sermons-on-se_snape-andrew_1745_3",
+   "Forty five sermons on several subjects. In three volumes. By Andrew Snape, ... Prepared for the press by the author, and now first published from his original manuscripts, (except ten that were printed in his life-time.) By John Chapman, ... And Will, vol. 3 (catalogued 1745)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "snape-horse": "The Anatomy of an Horse is by Andrew Snape the farrier",
+  "snape-convocation": "The Convocation Anatomized is by another hand"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "snape-hanover-1706": {
+   "author": "Title page read from the page image: \"A Sermon Preach'd Before the Princess Sophia at Hannover, The 13th of May, 1706. By Andrew Snape, D.D. Fellow of King's College in Cambridge, and Chaplain to His Grace the Duke of Somerset.\"",
+   "title": "Title page read from the page image: \"A Sermon Preach'd Before the Princess Sophia at Hannover, The 13th of May, 1706. By Andrew Snape, D.D. Fellow of King's College in Cambridge, and Chaplain to His Grace the Duke of Somerset.\""
+  },
+  "snape-lord-mayor-1710": {
+   "author": "OCR of the title page: \"THE LORD-MAYOR ... On Monday the 30th of Jan. 170[9/10]. BEING The Anniversary Fast for the Martyrdom of King Charles the First. [B]y ANDREW SNAPE, D. D. Chaplain to his Grace the Duke of Somerset, and Rector of St. Mary at Hill.\"",
+   "title": "OCR of the title page: \"THE LORD-MAYOR ... On Monday the 30th of Jan. 170[9/10]. BEING The Anniversary Fast for the Martyrdom of King Charles the First. [B]y ANDREW SNAPE, D. D. Chaplain to his Grace the Duke of Somerset, and Rector of St. Mary at Hill.\""
+  },
+  "snape-letter-bangor": {
+   "author": "OCR of the title page: \"...ANGOR ... March 31st, 1717. ANDREW [SNAPE], D. D. Chaplain in Ordinary to His MAJESTY. Fifth Edition ... 1717\" (the surname is lost to OCR; the catalogue and the companion Second Letter name Snape)",
+   "title": "OCR of the title page: \"...ANGOR ... March 31st, 1717. ANDREW [SNAPE], D. D. Chaplain in Ordinary to His MAJESTY. Fifth Edition ... 1717\" (the surname is lost to OCR; the catalogue and the companion Second Letter name Snape)"
+  },
+  "snape-forty-five-3": {
+   "author": "OCR of the title page: \"In Three Volumes ... [ANDREW] $nayn [SNAPE], D. D. late Provost of King's College, in Cambridge ... firs published from his Original\" ",
+   "title": "OCR of the title page: \"In Three Volumes ... [ANDREW] $nayn [SNAPE], D. D. late Provost of King's College, in Cambridge ... firs published from his Original\" "
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "snape-hanover-1706": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1706",
+   "ia_date": "1706",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-ancestry-1707": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snape",
+   "identity": "ok",
+   "ia_rights": "ok: published 1707",
+   "ia_date": "1707",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-lord-mayor-1710": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-st-sepulchre-1711": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snape",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1711",
+   "ia_date": "1711",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-commons-1711": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snape",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1711",
+   "ia_date": "1711",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-letter-bangor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-second-letter-bangor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snape",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-vindication": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snape",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-st-mary-at-hill": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snape",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snape-forty-five-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snape",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snape-forty-five-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

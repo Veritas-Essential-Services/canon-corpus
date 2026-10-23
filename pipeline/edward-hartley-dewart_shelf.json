@@ -1,0 +1,86 @@
+{
+ "_about": "Public-domain Edward Hartley Dewart (1828-1903), Canadian Methodist minister and editor of the Christian Guardian, for the Word Hoard: Living Epistles, or Christ's Witnesses in the World (1878), Jesus the Messiah in Prophecy and Fulfilment (1891), Essays for the Times (1898) and The Bible under Higher Criticism (1900). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 82 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "edward hartley dewart",
+  "e. h. dewart",
+  "edward h. dewart"
+ ],
+ "_surname": [
+  "dewart"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dewart-living-epistles": [
+   "livingepistlesor00dewa",
+   "Living epistles, or, Christ's witnesses in the world : also, an essay on Christianity and skepticism (Toronto : Christian Guardian Office, 1878)"
+  ],
+  "dewart-jesus-the-messiah": [
+   "jesusthemessiah00dewauoft",
+   "Jesus the Messiah in prophecy and fulfilment : a review and refutation of the negative theory of messianic prophecy (Toronto : W. Briggs, 1891)"
+  ],
+  "dewart-essays-for-times": [
+   "essaysforthetime00dewauoft",
+   "Essays for the times : studies of eminent men and important living questions (Toronto : W. Briggs, 1898)"
+  ],
+  "dewart-bible-higher-criticism": [
+   "bibleunderhigher00dewa",
+   "The Bible under higher criticism : a review of current evolution theories about the Old Testament (Toronto : W. Briggs, 1900)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dewart-other": "Selections from Canadian Poets (an anthology he edited), his own verse (Songs of Life), The Canadian Speaker (a school reader) and The Canadian Methodist Pulpit (sermons by many)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dewart-living-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewart-jesus-the-messiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dewart-essays-for-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dewart-bible-higher-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

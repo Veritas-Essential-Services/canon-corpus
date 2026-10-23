@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Floyd Williams Tomkins (1850-1932), rector of Holy Trinity Church, Philadelphia, for the Word Hoard: Following Christ, The Christian Life: What it is and How to Live it, and Sunshine on Life's Way (selections from his writings). He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 114 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "floyd w. tomkins",
+  "floyd williams tomkins",
+  "f. w. tomkins",
+  "tomkins"
+ ],
+ "_surname": [
+  "floyd w. tomkins",
+  "floyd williams tomkins",
+  "tomkins"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tomkins-following-christ": [
+   "followingchristp00tomk",
+   "Following Christ; practical thoughts for daily Christian living (Philadelphia, G.W. Jacobs & Co, 1901)"
+  ],
+  "tomkins-christian-life": [
+   "christianlifewha00tomk",
+   "The Christian life; what it is, and how to live it (New York, E.P. Dutton & Co., 1905)"
+  ],
+  "tomkins-sunshine": [
+   "sunshineonlifesw00tomk",
+   "Sunshine on life's way; being selections from his writings (New York, Dutton, 1913)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tomkins-following-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tomkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tomkins-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "floyd w. tomkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tomkins-sunshine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tomkins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

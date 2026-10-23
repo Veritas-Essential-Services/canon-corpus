@@ -4040,6 +4040,230 @@
    "finished": "2026-10-22T23:46-05:00",
    "scope": "Wister and Safford on archive.org",
    "notes": "17 titles on wister, safford; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r135-deleon-wraxall-mccabe-anderson",
+   "status": "done",
+   "started": "2026-10-22T23:52-05:00",
+   "finished": "2026-10-22T23:52-05:00",
+   "scope": "De Leon, Wraxall, McCabe, Rasmus Anderson on archive.org",
+   "notes": "10 titles on de-leon, wraxall, mccabe, rasmus-anderson; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r136-ludovici-roscoe",
+   "status": "done",
+   "started": "2026-10-22T23:58-05:00",
+   "finished": "2026-10-22T23:58-05:00",
+   "scope": "Ludovici and Thomas Roscoe on archive.org",
+   "notes": "14 titles on levy-nietzsche, thomas-roscoe; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r137-markham",
+   "status": "done",
+   "started": "2026-10-23T00:05-05:00",
+   "finished": "2026-10-23T00:05-05:00",
+   "scope": "Clements Markham Hakluyt translations on archive.org",
+   "notes": "16 titles on markham; Burt Franklin reprints of Reports swapped for an 1872 scan; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r138-dent-balzac-bain",
+   "status": "done",
+   "started": "2026-10-23T00:22-05:00",
+   "finished": "2026-10-23T00:22-05:00",
+   "scope": "Dent Comédie humaine volumes (Marriage, Bell, Waring, R. S. Scott) and Bain Tolstoi on archive.org",
+   "notes": "21 titles on ellen-marriage, clara-bell, waring, singles-fiction-4, bain-jokai; text-compared against shelved Gutenberg Balzac; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r139-waley-giles-burton",
+   "status": "done",
+   "started": "2026-10-23T00:28-05:00",
+   "finished": "2026-10-23T00:28-05:00",
+   "scope": "Waley, H. A. Giles, Burton on archive.org",
+   "notes": "9 titles on waley, giles, burton; two pending items resolved (Blue Trousers, Lyricks); 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r140-carlyle-borrow",
+   "status": "done",
+   "started": "2026-10-23T00:35-05:00",
+   "finished": "2026-10-23T00:35-05:00",
+   "scope": "Carlyle German Romance and Borrow collections on archive.org",
+   "notes": "4 titles on carlyle, borrow-translations; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r141-ensor-brooks-frewer",
+   "status": "done",
+   "started": "2026-10-23T00:45-05:00",
+   "finished": "2026-10-23T00:45-05:00",
+   "scope": "Laura Ensor, C. T. Brooks, Ellen Frewer on archive.org; Fleming Voltaire and M. N. Dutt held",
+   "notes": "12 titles on laura-ensor, ct-brooks, frewer; St. Hubert Voltaire and Dutt Calcutta volumes held in _pending for a ruling; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "C-r142",
+   "status": "done",
+   "started": "2026-10-23T00:53-05:00",
+   "finished": "2026-10-23T00:53-05:00",
+   "scope": "mary-howitt, eleanor-marx-aveling, colbron",
+   "notes": "15 titles from archive.org; 3 Bremer items excluded (translator unnamed in OCR, or a duplicate omnibus)"
+  },
+  {
+   "id": "C-r143",
+   "status": "done",
+   "started": "2026-10-23T00:59-05:00",
+   "finished": "2026-10-23T00:59-05:00",
+   "scope": "duff-gordon, jessie-muir, hearn, dowson",
+   "notes": "5 titles from archive.org; 4 Duff Gordon and 2 Pelle scans excluded (other translator or unnamed)"
+  },
+  {
+   "id": "C-r144",
+   "status": "done",
+   "started": "2026-10-23T01:02-05:00",
+   "finished": "2026-10-23T01:02-05:00",
+   "scope": "ranous, hl-williams, beatrice-marshall",
+   "notes": "3 titles from archive.org; 1 Ranous held (undated), 3 excluded (editor only, retellings)"
+  },
+  {
+   "id": "C-r145",
+   "status": "done",
+   "started": "2026-10-23T01:08-05:00",
+   "finished": "2026-10-23T01:08-05:00",
+   "scope": "abby-alger, adele-seltzer, agnetti, ainslie",
+   "notes": "10 titles from archive.org; 1 Papini held undated; Undine, Reynard and reprints excluded"
+  },
+  {
+   "id": "C-r146",
+   "status": "done",
+   "started": "2026-10-23T01:13-05:00",
+   "finished": "2026-10-23T01:13-05:00",
+   "scope": "alice-werner, aline-delano, arthur-symons (+9 shelves swept, nothing new)",
+   "notes": "6 titles from archive.org"
+  },
+  {
+   "id": "C-r147",
+   "status": "done",
+   "started": "2026-10-23T01:17-05:00",
+   "finished": "2026-10-23T01:17-05:00",
+   "scope": "barrett-clark (+12 shelves swept)",
+   "notes": "6 titles from archive.org; Bithell anthologies held undated"
+  },
+  {
+   "id": "C-r148",
+   "status": "done",
+   "started": "2026-10-23T01:24-05:00",
+   "finished": "2026-10-23T01:24-05:00",
+   "scope": "burnham-maupin, boylan, bucknall, brose, campion, cf-atkinson (+13 shelves swept)",
+   "notes": "13 titles from archive.org; Friedell held (1930); Key Torpedo excluded (OCR)"
+  },
+  {
+   "id": "C-r149",
+   "status": "done",
+   "started": "2026-10-23T01:27-05:00",
+   "finished": "2026-10-23T01:27-05:00",
+   "scope": "chapman-coleman, cournos, cowell, cr-murphy (+6 shelves swept)",
+   "notes": "4 titles from archive.org"
+  },
+  {
+   "id": "C-r150",
+   "status": "done",
+   "started": "2026-10-23T01:31-05:00",
+   "finished": "2026-10-23T01:31-05:00",
+   "scope": "dora-schmitz, denis-maccarthy (+8 shelves swept)",
+   "notes": "9 titles from archive.org"
+  },
+  {
+   "id": "C-r151",
+   "status": "done",
+   "started": "2026-10-23T01:37-05:00",
+   "finished": "2026-10-23T01:37-05:00",
+   "scope": "eg-martin, drillien, dunstan, edna-underwood, dorothy-bussy (+5 shelves swept)",
+   "notes": "12 titles from archive.org; 2 held undated"
+  },
+  {
+   "id": "C-r152",
+   "status": "done",
+   "started": "2026-10-23T01:42-05:00",
+   "finished": "2026-10-23T01:42-05:00",
+   "scope": "eleanor-brooks, ellen-frothingham, emily-hill, fa-holt (+16 shelves swept)",
+   "notes": "7 titles from archive.org; 2 held undated"
+  },
+  {
+   "id": "C-r153-archive-f",
+   "status": "done",
+   "started": "2026-10-23T01:51-05:00",
+   "finished": "2026-10-23T01:51-05:00",
+   "scope": "archive.org sweep: fe-cox through freese",
+   "notes": "15 titles on 4 shelves; 3 held undated; 3 left off"
+  },
+  {
+   "id": "C-r154-archive-g",
+   "status": "done",
+   "started": "2026-10-23T01:57-05:00",
+   "finished": "2026-10-23T01:57-05:00",
+   "scope": "archive.org sweep: friedlaender through guest",
+   "notes": "8 titles on 5 shelves; 2 held; 1 left off"
+  },
+  {
+   "id": "C-r155-archive-h",
+   "status": "done",
+   "started": "2026-10-23T02:05-05:00",
+   "finished": "2026-10-23T02:05-05:00",
+   "scope": "archive.org sweep: h-parker through hueffer",
+   "notes": "13 titles on 3 shelves; 1 held"
+  },
+  {
+   "id": "C-r156-archive-ijkl",
+   "status": "done",
+   "started": "2026-10-23T02:12-05:00",
+   "finished": "2026-10-23T02:12-05:00",
+   "scope": "archive.org sweep: ingeborg-andersen through lockhart-diaz",
+   "notes": "13 titles on 9 shelves; 2 held"
+  },
+  {
+   "id": "C-r157-archive-m",
+   "status": "done",
+   "started": "2026-10-23T02:21-05:00",
+   "finished": "2026-10-23T02:21-05:00",
+   "scope": "archive.org sweep: lord-stanley through mrs-l-burke",
+   "notes": "8 titles on 4 shelves; 3 held"
+  },
+  {
+   "id": "C-r158-archive-n-r",
+   "status": "done",
+   "started": "2026-10-23T02:27-05:00",
+   "finished": "2026-10-23T02:27-05:00",
+   "scope": "archive.org sweep: nathaniel-greene through rymer-jones",
+   "notes": "4 titles on 4 shelves"
+  },
+  {
+   "id": "C-r159-archive-s-z",
+   "status": "done",
+   "started": "2026-10-23T02:36-05:00",
+   "finished": "2026-10-23T02:36-05:00",
+   "scope": "archive.org sweep: sa-eliot through zilboorg",
+   "notes": "10 titles on 7 shelves; 5 held; sweep complete"
+  },
+  {
+   "id": "C-r160-roscoe-cellini",
+   "status": "done",
+   "started": "2026-10-23T02:38-05:00",
+   "finished": "2026-10-23T02:38-05:00",
+   "scope": "Roscoe Cellini; Lazarillo and Dent Balzac follow-ups",
+   "notes": "2 titles; 2 follow-ups closed"
+  },
+  {
+   "id": "C-r162",
+   "status": "done",
+   "started": "2026-10-23T08:53-05:00",
+   "finished": "2026-10-23T08:53-05:00",
+   "scope": "mn-dutt: Dutt's Calcutta volumes on Adam's ruling",
+   "notes": "9 added; 10 held (no legible year or credit)"
+  },
+  {
+   "id": "C-r163",
+   "status": "done",
+   "started": "2026-10-23T08:58-05:00",
+   "finished": "2026-10-23T08:58-05:00",
+   "scope": "fleming: St. Hubert Guild Voltaire on Adam's ruling",
+   "notes": "13 added; Dictionary vols already held, index excluded, II/X/XV not found"
   }
  ]
 }

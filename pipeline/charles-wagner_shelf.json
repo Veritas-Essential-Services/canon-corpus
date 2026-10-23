@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Charles Wagner (1852-1918), Alsatian-born liberal Reformed pastor in Paris, in English translation, for the Word Hoard: Youth, Courage, The Simple Life, The Better Way, By the Fireside, and The Voice of Nature. This shelf is English only. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 104 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles wagner",
+  "c. wagner",
+  "wagner"
+ ],
+ "_surname": [
+  "charles wagner",
+  "c. wagner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cwagner-youth": [
+   "youthyou00wagnrich",
+   "Youth (New York, Dodd, Mead and Company, 1893)"
+  ],
+  "cwagner-courage": [
+   "courage00wagn",
+   "Courage (New York, Dodd, Mead and company, 1894)"
+  ],
+  "cwagner-simple-life": [
+   "simplelife0000wagn",
+   "The simple life (New York, McClure, Phillips & Co., 1901)"
+  ],
+  "cwagner-better-way": [
+   "betterwaylami00wagniala",
+   "The better way <L'ami> (New York : McClure, Phillips, 1903)"
+  ],
+  "cwagner-by-fireside": [
+   "byfireside00wagn",
+   "By the fire side (New York : McClure, Phillips & co., 1904)"
+  ],
+  "cwagner-voice-of-nature": [
+   "voiceofnature00wagn",
+   "The voice of nature (New York, J. S. Ogilvie publishing company, 1904)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cwagner-richard": "Books catalogued under Wagner that are Richard Wagner's music dramas"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cwagner-youth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wagner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cwagner-courage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wagner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cwagner-simple-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wagner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cwagner-better-way": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wagner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cwagner-by-fireside": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wagner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cwagner-voice-of-nature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wagner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain George Deshon (1823-1903), West Point graduate turned Paulist priest and Superior General of the Paulists, for the Word Hoard: Guide for Catholic Young Women (1892) and Sermons for all the Sundays of the Ecclesiastical Year (1902). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 91 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george deshon",
+  "g. deshon"
+ ],
+ "_surname": [
+  "george deshon",
+  "g. deshon",
+  "deshon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "deshon-guide-young-women": [
+   "guideforcatholic00desh",
+   "Guide for Catholic young women, especially for those who earn their own living (New York : Columbus Pub. Co., 1892)"
+  ],
+  "deshon-sermons": [
+   "sermonsforallthe00deshuoft",
+   "Sermons for all the Sundays of the ecclesiastical year and the principal festivals : for the use of parish priests and for private reading (New York : Catholic Book Exchange, 1902)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "deshon-guide-young-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george deshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "deshon-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george deshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

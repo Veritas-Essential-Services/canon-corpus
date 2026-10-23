@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain James Harris Fairchild (1817-1902), Oberlin theologian and its third president, for the Word Hoard: Oberlin, its Origin, Progress and Results (1860), Coeducation of the Sexes (1867), Present Demand of the Missionary Work (1877), Oberlin: the Colony and the College (1883), Moral Science (1892 printing) and Elements of Theology, Natural and Revealed (1892), from Internet Archive scans. Added 2026-10-23 by lane A, round 57 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fairchild"
+ ],
+ "_surname": [
+  "james h. fairchild",
+  "james harris fairchild",
+  "j. h. fairchild",
+  "president fairchild"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fairchild-oberlin-1860": [
+   "originoberlin00fairrich",
+   "Oberlin, its origin, progress and results: an address, prepared for the alumni of Oberlin College, assembled August 22, 1860 (Oberlin : Shankland and Harmon, 1860)"
+  ],
+  "fairchild-coeducation": [
+   "coeducationofsex00fair",
+   "Coeducation of the sexes : an address before a meeting of college presidents at Springfield, Ill ([S.l. : s.n.], 1867)"
+  ],
+  "fairchild-missionary-work": [
+   "presentdemandofm00fair",
+   "Present demand of the missionary work : a sermon preached at the sixty-eighth annual meeting of the American Board of Commissioners for Foreign Missions, Providence, Oct. 2, 1877 (Beacon Press, 1877)"
+  ],
+  "fairchild-oberlin-colony": [
+   "oberlincolonycol00fairuoft",
+   "Oberlin: the colony and the college, 1833-1883 (Oberlin E.J. Goodrich, 1883)"
+  ],
+  "fairchild-moral-science": [
+   "moralscienceorp01fairgoog",
+   "Moral science; or, The philosophy of obligation (New York, Sheldon & company, 1892)"
+  ],
+  "fairchild-elements-theology": [
+   "elementsoftheolo00fair",
+   "Elements of theology, natural and revealed (Oberlin, Ohio : E. J. Goodrich, 1892)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fairchild-other": "Finney's Systematic Theology (1878), which he edited (Finney's book, held on the charles-finney shelf); Reminiscences of Finney (several speakers); Woman's Right to the Ballot (political); books by Charles S. Fairchild and others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "fairchild-oberlin-colony": "Title page OCR reads 'OBERLIN: THE COLONY AND THE COLLEGE. 1833-1883. BY JAMES H. FAIRCHILD' (OCR 'J A M IS II. FA I kCII 1 I.I)'); 'Copyright, 1883, BY JAMES H. FAIRCHILU'.",
+  "fairchild-elements-theology": "Title page reads 'ELEMENTS OF THEOLOGY NATURAL AND REVEALED, BY JAMES H. FAIRCHILD, PROFESSOR OF THEOLOGY IN OBERLIN COLLEGE' (OCR 'H.°'), Oberlin: Edward J. Goodrich, copyright 1892."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fairchild-oberlin-1860": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. fairchild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairchild-coeducation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. fairchild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fairchild-missionary-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. fairchild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fairchild-oberlin-colony": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairchild-moral-science": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. fairchild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairchild-elements-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

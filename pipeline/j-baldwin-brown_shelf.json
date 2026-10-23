@@ -1,0 +1,193 @@
+{
+ "_about": "Public-domain James Baldwin Brown (1820-1884), Congregational minister of Brixton, for the Word Hoard: Aids to the Development of the Divine Life (1861), The Soul's Exodus and Pilgrimage (1862), The Divine Treatment of Sin (1864), The Home Life in the Light of its Divine Idea (1867), Idolatries Old and New (1867), Misread Passages of Scripture (1869), The Divine Mysteries (1869), The Sunday Afternoon (1871), First Principles of Ecclesiastical Truth (1871), The Higher Life (1874) and The Doctrine of Annihilation in the Light of the Gospel of Love (1875), from Internet Archive scans. His father James Baldwin Brown (1785-1843), the lawyer and biographer of Howard, is another man. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "brown"
+ ],
+ "_surname": [
+  "j. baldwin brown",
+  "james baldwin brown",
+  "baldwin brown"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jbbrown-aids": [
+   "aidstodevelopme00browgoog",
+   "Aids to the development of the divine life [sermons] (catalogued 1861)"
+  ],
+  "jbbrown-souls-exodus": [
+   "soulsexoduspilgr00brow",
+   "The soul's exodus and pilgrimage ([n.p.], 1862)"
+  ],
+  "jbbrown-treatment-of-sin": [
+   "divinetreatment00browgoog",
+   "The divine treatment of sin (Jackson, 1864)"
+  ],
+  "jbbrown-home-life": [
+   "homelifeinlighto00browrich",
+   "The home life, in the light of its divine idea (New York : D. Appleton, 1867)"
+  ],
+  "jbbrown-idolatries": [
+   "idolatriesoldne00browgoog",
+   "Idolatries, old & new: their cause and cure (catalogued 1867)"
+  ],
+  "jbbrown-misread-passages": [
+   "misreadpassages01browgoog",
+   "Misread Passages of Scripture (Carlton & Lanahan, 1869)"
+  ],
+  "jbbrown-divine-mysteries": [
+   "divinemysteries00browgoog",
+   "The Divine Mysteries: The Divine Treatment of Sin and The Divine Mystery of Peace (Carlton & Lanahan, 1869)"
+  ],
+  "jbbrown-sunday-afternoon": [
+   "sundayafternoon00browgoog",
+   "The Sunday afternoon; 52 brief sermons (catalogued 1871)"
+  ],
+  "jbbrown-first-principles": [
+   "firstprincipleso00brow",
+   "First principles of ecclesiastical truth : essays on the church and society (London : Hodder and Stoughton, 1871)"
+  ],
+  "jbbrown-higher-life": [
+   "higherlifeitsrea00browuoft",
+   "The higher life, its reality, experiences and destiny (London, King, 1874)"
+  ],
+  "jbbrown-annihilation": [
+   "doctrineofannihi00brow",
+   "The doctrine of annihilation in the light of the gospel of love (London, H. S. King & co., 1875)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jbbrown-other": "His father James Baldwin Brown (1785-1843): Memoirs of Howard and The Investigator; Our Morals and Manners (1872, a short tract)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jbbrown-home-life": "Title page OCR reads 'THE HOME LIFE IN THE LIGHT OF ITS DIVINE IDEA. BY JAMES BALD WIN BEOWI^, B. A., MINISTER OF CLAYLANDS CHAPEL, CLAPHAM ROAD, LONDON, AUTHOR OF \"THE DIVINE LIFE IN MAN,\" \"THE SOUL'S EXODUS AND PILGRIMAGE\"', New York: Appleton 1867."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jbbrown-aids": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-souls-exodus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jbbrown-treatment-of-sin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-home-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-idolatries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-misread-passages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-divine-mysteries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-sunday-afternoon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-first-principles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jbbrown-higher-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jbbrown-annihilation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. baldwin brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

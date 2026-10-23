@@ -38,7 +38,12 @@
    "Balsamo, the magician; or, the memoirs of a physician"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "hlw-ia-queens-necklace": [
+   "queensnecklaceor00duma",
+   "Dumas: The Queen's Necklace"
+  ]
+ },
  "titles": {
   "hl-williams-aimard-the-red-river-half-breed-a-tale-of-the-w": {
    "source": "hlw-45047",
@@ -87,15 +92,25 @@
    "translated": "1878-1900 (see the Gutenberg header)",
    "translator": "Henry Llewellyn Williams",
    "scan_edition": "Project Gutenberg 43633 (clean text)"
+  },
+  "hl-williams-dumas-the-queens-necklace": {
+   "source": "hlw-ia-queens-necklace",
+   "of": "Alexandre Dumas",
+   "work": "The Queen's Necklace; or, Royalty's Dangers and Defenders",
+   "translated": "1892",
+   "translator": "Henry Llewellyn Williams",
+   "scan_edition": "Worthington Company, New York, 1892; title page: \"a new and accurate translation from the latest Paris edition by Henry Llewellyn Williams\""
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Red Robe and Grey Robe (Fenno, 1901) and The Spanish Dancer (a 1923 photoplay edition of Don César de Bazan) are retellings from the French, not translations of a named text."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "hlw-42681": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry llewellyn williams",
    "identity": "ok",
@@ -104,7 +119,7 @@
   },
   "hlw-42690": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry llewellyn williams",
    "identity": "ok",
@@ -113,7 +128,7 @@
   },
   "hlw-42757": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry llewellyn williams",
    "identity": "ok",
@@ -122,7 +137,7 @@
   },
   "hlw-43633": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry llewellyn williams",
    "identity": "ok",
@@ -131,7 +146,7 @@
   },
   "hlw-45047": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry llewellyn williams",
    "identity": "ok",
@@ -140,12 +155,23 @@
   },
   "hlw-45822": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry llewellyn williams",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Henry Llewellyn Williams"
+  },
+  "hlw-ia-queens-necklace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry llewellyn williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -178,6 +204,15 @@
    "pg": 45822,
    "pg_copyrighted_marker": false,
    "pg_translator": "Henry Llewellyn Williams"
+  },
+  "hlw-ia-queens-necklace": {
+   "ia": "queensnecklaceor00duma",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1784,
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

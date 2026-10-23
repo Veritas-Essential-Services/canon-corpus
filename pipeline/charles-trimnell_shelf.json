@@ -1,0 +1,265 @@
+{
+ "_about": "Public-domain Charles Trimnell, Bishop of Norwich and then of Winchester, for the Word Hoard: his sermons before the House of Commons, the House of Lords, the Lord Mayor, the Sons of the Clergy, the Society for the Propagation of the Gospel and the Societies for Reformation of Manners, and his tracts in the Convocation controversy. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 123 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles trimnell",
+  "c. trimnell",
+  "trimnell",
+  "charles lord bishop of norwich"
+ ],
+ "_surname": [
+  "trimnell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "trimnell-1697": [
+   "bim_early-english-books-1641-1700_a-sermon-preached-_trimnell-charles_1697",
+   "A sermon, preached, ...  1697 (catalogued 1697)"
+  ],
+  "trimnell-vindication": [
+   "bim_eighteenth-century_a-vindication-of-the-pro_trimnell-charles_1702",
+   "A vindication of the proceedings of some members of the Lower House of the last Convocation, with relation to the Archbishop's prorogation of it upon the eighth of May. ...  1702 (catalogued 1702)"
+  ],
+  "trimnell-sons-of-clergy": [
+   "bim_eighteenth-century_a-sermon-preachd-at-the_trimnell-charles_1708",
+   "A sermon preach'd at the Cathedral Church of St. Paul; before the Sons of the Clergy, on Tuesday the 2d of December, 1707. Being the day of their annual feast. By Charles Trimnell, ...  1708 (catalogued 1708)"
+  ],
+  "trimnell-commons-1708": [
+   "bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1708",
+   "A sermon preach'd before the Honourable House of Commons, at the Church of St. Margaret, Westminster, on Wednesday, Jan. 14. 1707. Being the day appointed by Her Majesty for a general fast, &c. ... By Charles Trimnell, ...  1708 (catalogued 1708)"
+  ],
+  "trimnell-mancroft": [
+   "bim_eighteenth-century_a-sermon-preached-at-st-_trimnell-charles_1708",
+   "A sermon preached at St Peter's Mancroft in Norwich. On Sunday the 13th of June, 1708. ... By ... Charles, Lord Bishop of Norwich.  1708 (catalogued 1708)"
+  ],
+  "trimnell-commons-1708b": [
+   "bim_eighteenth-century_a-sermon-preached-before_trimnell-charles-bisho_1708",
+   "A sermon preached before the honourable House of Commons, at the Church of St. Margaret Westminster.  1708 (catalogued 1708)"
+  ],
+  "trimnell-st-james-1709": [
+   "sermonpreachdatp00trim",
+   "A sermon preach'd at the parish church of St. James's Westminster on Sunday the 30th of January, 1708 (London : Printed for Tho. Chapman at the Angel in Pall-mall, over-against St. James's Square, 1709)"
+  ],
+  "trimnell-lords-1709": [
+   "bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1709",
+   "A sermon preach'd before the House of Lords, at the Abbey-church in Westminster, on Thursday, Feb. 17. 1708. ... By ... Charles Lord Bishop of Norwich.  1709 (catalogued 1709)"
+  ],
+  "trimnell-lord-mayor-1710": [
+   "bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1710",
+   "A sermon preach'd before the Right Honourable the Lord Mayor and the Honourable Court of Aldermen, with the governors of the several hospitals of the City of London, in the parish Church of St. Bridget, on Monday in Easter-week, 1710. By ... Charles Lord Bishop of Norwich.  1710 (catalogued 1710)"
+  ],
+  "trimnell-spg-1710": [
+   "bim_eighteenth-century_a-sermon-preached-before_trimnell-charles_1710",
+   "A sermon preached before the Society for the Propagation of the Gospel in Foreign Parts, at the parish-church of St. Mary-le-Bow, on Friday the 17th of February, 1709/10. being the day of their anniversary meeting. By ... Charles, Lord Bishop of Norwich.  1710 (catalogued 1710)"
+  ],
+  "trimnell-tunbridge": [
+   "bim_eighteenth-century_a-sermon-preachd-in-the_trimnell-charles_1711",
+   "A sermon preach'd in the chappel at Tunbridge-Wells upon Sunday the 19th of August, 1711. ... By ... Charles Lord Bishop of Norwich. ...  1711 (catalogued 1711)"
+  ],
+  "trimnell-lords-1712": [
+   "sermonpreachdbef00trimuoft",
+   "A sermon preach'd before the Lords spiritual and temporal in Parliament assembled in the abbey church at Westminster on the 30th of January 1711/12 (London : Printed for D. Midwinter at the Three Crowns in St. Paul's church yard, 1712)"
+  ],
+  "trimnell-reformation": [
+   "bim_eighteenth-century_a-sermon-preachd-to-the_trimnell-charles_1712",
+   "A sermon preach'd to the Societies for Reformation of Manners, at St. Mary-le-Bow, on Monday, December the thirty first, 1711. By Charles Lord Bishop of Norwich. ...  1712 (catalogued 1712)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "trimnell-speeches": "the bishops' speeches on the Sacheverell trial are a collection of several bishops' speeches",
+  "trimnell-dups": "bim_eighteenth-century_a-sermon-preachd-before_trimnell-charles_1712 and asermononprovxv00trimgoog are other scans of the 1712 Lords sermon"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "trimnell-commons-1708b": {
+   "author": "OCR of the title page: \"Preached before the Honourable House of Commons, At the Church of St. Margaret Westminster, ON Wednesday, Jan. 14. 170[8/9] ... By CHARLES TRIMNELL, D. D. Rector of St. James's Westminster\" (OCR \"TRrxIMNELL\")",
+   "title": "OCR of the title page: \"Preached before the Honourable House of Commons, At the Church of St. Margaret Westminster, ON Wednesday, Jan. 14. 170[8/9] ... By CHARLES TRIMNELL, D. D. Rector of St. James's Westminster\" (OCR \"TRrxIMNELL\")"
+  },
+  "trimnell-mancroft": {
+   "author": "OCR of the title page: \"By the Right Reverend Father in God, CHARLES, Lord Bishop of Norwich\" (St Peter Mancroft, 1708). Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "OCR of the title page: \"By the Right Reverend Father in God, CHARLES, Lord Bishop of Norwich\" (St Peter Mancroft, 1708). Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  },
+  "trimnell-st-james-1709": {
+   "author": "OCR of the title page: \"A SERMON Preach'd at the Parish-Church OF St. James's Westminster, ON Sunday the 30th of January, 1708. By the Right Reverend Father in God, CHARLES, Lord Bishop of Norwich, At his taking his Leave of the said Parish.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "OCR of the title page: \"A SERMON Preach'd at the Parish-Church OF St. James's Westminster, ON Sunday the 30th of January, 1708. By the Right Reverend Father in God, CHARLES, Lord Bishop of Norwich, At his taking his Leave of the said Parish.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  },
+  "trimnell-lords-1709": {
+   "author": "Title page read from the page image: \"A Sermon Preach'd before the House of Lords ... On Thursday, Feb. 17. 1708 ... By the Right Reverend Father in God, Charles Lord Bishop of Norwich. London ... MDCCIX.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "Title page read from the page image: \"A Sermon Preach'd before the House of Lords ... On Thursday, Feb. 17. 1708 ... By the Right Reverend Father in God, Charles Lord Bishop of Norwich. London ... MDCCIX.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  },
+  "trimnell-lord-mayor-1710": {
+   "author": "Title page read from the page image: \"A Sermon Preach'd before the Right Honourable the Lord Mayor ... In the Parish Church of St. Bridget, On Monday in Easter-Week, 1710. By the Right Reverend Father in God, Charles Lord Bishop of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "Title page read from the page image: \"A Sermon Preach'd before the Right Honourable the Lord Mayor ... In the Parish Church of St. Bridget, On Monday in Easter-Week, 1710. By the Right Reverend Father in God, Charles Lord Bishop of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  },
+  "trimnell-spg-1710": {
+   "author": "Title page read from the page image: \"A Sermon Preached before the Society for the Propagation of the Gospel in Foreign Parts ... On Friday the 17th of February, 1709/10 ... By the Right Reverend Father in God Charles, Lord Bishop of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "Title page read from the page image: \"A Sermon Preached before the Society for the Propagation of the Gospel in Foreign Parts ... On Friday the 17th of February, 1709/10 ... By the Right Reverend Father in God Charles, Lord Bishop of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  },
+  "trimnell-tunbridge": {
+   "author": "OCR of the title page: \"SERMON [in the] CHAPPEL [at] TUNBRIDGE-WELLS UPON Sunday the 19th of August, 1711 ... By the Right Reverend Father in God [CH]ARLES Lord [Bishop] of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "OCR of the title page: \"SERMON [in the] CHAPPEL [at] TUNBRIDGE-WELLS UPON Sunday the 19th of August, 1711 ... By the Right Reverend Father in God [CH]ARLES Lord [Bishop] of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  },
+  "trimnell-lords-1712": {
+   "author": "OCR of the title page: \"A SERMON Preach'd before the Lords Spiritual and Temporal, In Parliament assembled, IN THE Abbey Church at Westminster ... By Charles Lord Bishop of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "OCR of the title page: \"A SERMON Preach'd before the Lords Spiritual and Temporal, In Parliament assembled, IN THE Abbey Church at Westminster ... By Charles Lord Bishop of Norwich.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  },
+  "trimnell-reformation": {
+   "author": "Title page read from the page image: \"A Sermon Preach'd to the Societies for Reformation of Manners, At St. Mary-le-Bow, On Monday, December the Thirty first, 1711. By Charles Lord Bishop of Norwich. Published at their Request.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him.",
+   "title": "Title page read from the page image: \"A Sermon Preach'd to the Societies for Reformation of Manners, At St. Mary-le-Bow, On Monday, December the Thirty first, 1711. By Charles Lord Bishop of Norwich. Published at their Request.\" Charles Trimnell was Bishop of Norwich from 1708 to 1721, so \"Charles Lord Bishop of Norwich\" names him."
+  }
+ },
+ "_pending": {
+  "trimnell-late-pretence": "The late pretence of a constant practice to enter the Parliament as well as provincial writ in the front of the acts of every synod, further consider'd and disprov'd, in a second letter to the author of that assertion; occasion'd by a second letter of that author. ...  1701 (catalogued 1701) (IA bim_eighteenth-century_the-late-pretence-of-a-c_trimnell-charles_1701): a letter published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "trimnell-third-letter": "An answer to A third letter to a clergyman in the country, in defence of the entry of the parliament-writ, &c. Wherein the great disingenuity of the author of it is plainly shewn, ...  1702 (catalogued 1702) (IA bim_eighteenth-century_an-answer-to-a-third-let_trimnell-charles_1702): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "trimnell-convocation-answer": "An answer to a pamphlet entituled, The proceedings of the Lower House of Convocation. Wherein the great unfairness of that account is laid open , not only from the books of the upper, but even from those of the lower house.  1714 (catalogued 1714) (IA bim_eighteenth-century_an-answer-to-a-pamphlet-_trimnell-charles_1714): published without a name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "trimnell-1697": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trimnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1697",
+   "ia_date": "1697",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-vindication": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trimnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1702",
+   "ia_date": "1702",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-sons-of-clergy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trimnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-commons-1708": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "trimnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-mancroft": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-commons-1708b": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1708",
+   "ia_date": "1708",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-st-james-1709": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1709",
+   "ia_date": "1709",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-lords-1709": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1709",
+   "ia_date": "1709",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-lord-mayor-1710": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-spg-1710": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-tunbridge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1711",
+   "ia_date": "1711",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-lords-1712": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1712",
+   "ia_date": "1712",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "trimnell-reformation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1712",
+   "ia_date": "1712",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

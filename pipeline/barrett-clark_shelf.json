@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Barrett H. Clark (1890-1953): French plays for the American stage (Samuel French, 1915-18): Rostand's The Romancers, Rolland's The Fourteenth of July and Danton, Pailleron, Bouchor and Tristan Bernard. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Barrett H. Clark (1890-1953): French plays for the American stage (Samuel French, 1915-18): Rostand's The Romancers, Rolland's The Fourteenth of July and Danton, Pailleron, Bouchor and Tristan Bernard. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted. From archive.org (2026-10-23): Rolland's The People's Theater, Sardou's Patrie, Brieux's Artists' Families, Hervieu's The Labyrinth (with Lander MacClintock), Four Plays of the Free Theater and Three Modern Plays from the French (two of its three plays are his).",
  "_name_words": [
   "barrett h. clark",
   "barrett clark"
@@ -32,7 +32,33 @@
    "French without a master"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "bcl-ia-rolland-peoples-theater": [
+   "peoplestheatertr00rolluoft",
+   "Rolland: The People's Theater"
+  ],
+  "bcl-ia-three-modern-plays": [
+   "threemodernplays00laveiala",
+   "Three Modern Plays from the French"
+  ],
+  "bcl-ia-sardou-patrie": [
+   "patrieanhistoric00sardiala",
+   "Sardou: Patrie"
+  ],
+  "bcl-ia-hervieu-labyrinth": [
+   "labyrinthledda00herviala",
+   "Hervieu: The Labyrinth"
+  ],
+  "bcl-ia-four-plays-free-theater": [
+   "fourplaysfreeth00clargoog",
+   "Four Plays of the Free Theater"
+  ],
+  "bcl-ia-brieux-artists-families": [
+   "in.ernet.dli.2015.89436",
+   "Brieux: Artists' Families",
+   "2015.89436.Artists-Families-Menages-D-Artistes-A-Comedy-In-Three-Acts_djvu.txt"
+  ]
+ },
  "titles": {
   "barrett-clark-bernard-french-without-a-master": {
    "source": "bcl-70884",
@@ -73,15 +99,65 @@
    "translated": "1914-1918 (see the Gutenberg header)",
    "translator": "Barrett H. Clark",
    "scan_edition": "Project Gutenberg 17581 (clean text)"
+  },
+  "barrett-clark-rolland-the-peoples-theater": {
+   "source": "bcl-ia-rolland-peoples-theater",
+   "of": "Romain Rolland",
+   "work": "The People's Theater",
+   "translated": "1918",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Henry Holt and Company, New York, 1918"
+  },
+  "barrett-clark-three-modern-plays-from-the-french": {
+   "source": "bcl-ia-three-modern-plays",
+   "of": "Henri Lavedan; Jules Lemaître; Maurice Donnay",
+   "work": "Three Modern Plays from the French: The Prince d'Aurec, The Pardon, The Other Danger",
+   "translated": "1914",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Henry Holt and Company, New York, 1914. He translated The Prince d'Aurec and The Pardon; The Other Danger is Charlotte Tenney David's translation, as the title page says"
+  },
+  "barrett-clark-sardou-patrie": {
+   "source": "bcl-ia-sardou-patrie",
+   "of": "Victorien Sardou",
+   "work": "Patrie: an Historical Drama in Five Acts",
+   "translated": "1915",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Doubleday, Page & Company, Garden City, copyright 1915 (Drama League Series)"
+  },
+  "barrett-clark-hervieu-the-labyrinth": {
+   "source": "bcl-ia-hervieu-labyrinth",
+   "of": "Paul Hervieu",
+   "work": "The Labyrinth (Le Dédale)",
+   "translated": "1913",
+   "translator": "Barrett H. Clark and Lander MacClintock",
+   "scan_edition": "B. W. Huebsch, New York, 1913; title page: \"authorized translation by Barrett H. Clark and Lander MacClintock\""
+  },
+  "barrett-clark-four-plays-of-the-free-theater": {
+   "source": "bcl-ia-four-plays-free-theater",
+   "of": "François de Curel; Jean Jullien; Georges de Porto-Riche; Georges Ancey",
+   "work": "Four Plays of the Free Theater: The Fossils, The Serenade, Françoise' Luck, The Dupe",
+   "translated": "1915",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Stewart & Kidd Company, Cincinnati, 1915; title page: \"translated with an introduction by Barrett H. Clark\", preface by Brieux"
+  },
+  "barrett-clark-brieux-artists-families": {
+   "source": "bcl-ia-brieux-artists-families",
+   "of": "Eugène Brieux",
+   "work": "Artists' Families (Ménages d'artistes)",
+   "translated": "1918",
+   "translator": "Barrett H. Clark",
+   "scan_edition": "Copyright 1918 (Drama League Series; Digital Library of India scan); introduction by J. R. Crawford"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Augier's The House of Fourchambault (houseoffourchamb0000emil): the title-page credit is garbled past reading in the OCR. His anthologies (Great Short Stories of the World etc.) and his own books on drama are not translations."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "bcl-17581": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barrett h. clark",
    "identity": "ok",
@@ -90,7 +166,7 @@
   },
   "bcl-49438": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barrett h. clark",
    "identity": "ok",
@@ -99,7 +175,7 @@
   },
   "bcl-53334": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barrett h. clark",
    "identity": "ok",
@@ -108,7 +184,7 @@
   },
   "bcl-61613": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barrett h. clark",
    "identity": "ok",
@@ -117,12 +193,78 @@
   },
   "bcl-70884": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barrett h. clark",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-ia-rolland-peoples-theater": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bcl-ia-three-modern-plays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bcl-ia-sardou-patrie": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bcl-ia-hervieu-labyrinth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bcl-ia-four-plays-free-theater": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bcl-ia-brieux-artists-families": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barrett h. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -150,6 +292,97 @@
    "pg": 70884,
    "pg_copyrighted_marker": false,
    "pg_translator": "Barrett H. Clark"
+  },
+  "bcl-ia-rolland-peoples-theater": {
+   "ia": "peoplestheatertr00rolluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900,
+    1903,
+    1914,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bcl-ia-three-modern-plays": {
+   "ia": "threemodernplays00laveiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bcl-ia-sardou-patrie": {
+   "ia": "patrieanhistoric00sardiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1831,
+    1852,
+    1854,
+    1858,
+    1859,
+    1860,
+    1869,
+    1901,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bcl-ia-hervieu-labyrinth": {
+   "ia": "labyrinthledda00herviala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1857,
+    1869,
+    1870,
+    1881,
+    1882,
+    1884,
+    1887,
+    1889,
+    1890,
+    1891,
+    1892,
+    1894,
+    1895,
+    1896,
+    1897,
+    1901,
+    1902,
+    1903,
+    1905,
+    1909,
+    1912,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bcl-ia-four-plays-free-theater": {
+   "ia": "fourplaysfreeth00clargoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bcl-ia-brieux-artists-families": {
+   "ia": "in.ernet.dli.2015.89436",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1889,
+    1901,
+    1904,
+    1909,
+    1910,
+    1911,
+    1913,
+    1914,
+    1915,
+    1917,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

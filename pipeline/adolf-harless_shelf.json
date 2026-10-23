@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain Gottlieb Christoph Adolf von Harless (1806-1879), Erlangen Lutheran theologian, for the Word Hoard: System of Christian Ethics (Edinburgh: T. & T. Clark, 1868), from an Internet Archive scan. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "harless"
+ ],
+ "_surname": [
+  "g. c. a. harless",
+  "adolph harless",
+  "adolf harless",
+  "harless"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harless-christian-ethics": [
+   "christianethics00harluoft",
+   "System of Christian ethics (Edinburgh, Clark, 1868)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "harless-other": "German medical tracts of 1804-1805 (another Harless)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "harless-christian-ethics": "Morrison"
+ },
+ "_checks": {
+  "harless-christian-ethics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harless",
+   "translator_claimed": "Morrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

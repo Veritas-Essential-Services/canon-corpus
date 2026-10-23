@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Emily Hill: Karasowski's Frederic Chopin: His Life, Letters, and Works (1879), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Emily Hill: Karasowski's Frederic Chopin: His Life, Letters, and Works (1879), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. From archive.org (2026-10-23): Elterlein's Beethoven's Pianoforte Sonatas (Reeves, 1886).",
  "_name_words": [
   "emily hill"
  ],
@@ -18,7 +18,12 @@
    "Frederic Chopin: His Life, Letters, and Works,  v. 1 (of  2)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "emh-ia-elterlein-beethoven": [
+   "beethovenspianof00gottuoft",
+   "Elterlein: Beethoven's Pianoforte Sonatas"
+  ]
+ },
  "titles": {
   "emily-hill-karasowski-frederic-chopin-his-life-letters-and-wor-vol-1": {
    "source": "emh-46577",
@@ -35,6 +40,14 @@
    "translated": "1879 (see the Gutenberg header)",
    "translator": "Emily Hill",
    "scan_edition": "Project Gutenberg 46573 (clean text)"
+  },
+  "emily-hill-elterlein-beethovens-pianoforte-sonatas": {
+   "source": "emh-ia-elterlein-beethoven",
+   "of": "Ernst von Elterlein",
+   "work": "Beethoven's Pianoforte Sonatas Explained for the Lovers of the Musical Art",
+   "translated": "1886 (this printing)",
+   "translator": "Emily Hill",
+   "scan_edition": "W. Reeves, London, 1886; preface by E. Pauer"
   }
  },
  "_pending": {},
@@ -43,7 +56,7 @@
  "_checks": {
   "emh-46573": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emily hill",
    "identity": "ok",
@@ -52,12 +65,23 @@
   },
   "emh-46577": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emily hill",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "active 19th century Emily Hill"
+  },
+  "emh-ia-elterlein-beethoven": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emily hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "[1897]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +94,18 @@
    "pg": 46577,
    "pg_copyrighted_marker": false,
    "pg_translator": "active 19th century Emily Hill"
+  },
+  "emh-ia-elterlein-beethoven": {
+   "ia": "beethovenspianof00gottuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1681,
+    1683,
+    1856,
+    1875,
+    1886
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

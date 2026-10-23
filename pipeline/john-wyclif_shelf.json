@@ -1,0 +1,111 @@
+{
+ "_about": "Public-domain John Wyclif (d. 1384), Oxford theologian and forerunner of the Reformation, in his English works for the Word Hoard: Select English Works, edited by Thomas Arnold (3 vols., Oxford, 1869-1871); The English Works of Wyclif hitherto unprinted, edited by F. D. Matthew for the Early English Text Society (1880); and Tracts and Treatises, with selections and translations from his manuscripts and Latin works, edited by Robert Vaughan for the Wycliffe Society (1845). Middle English texts with nineteenth-century editorial matter. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 81 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wyclif",
+  "wycliffe",
+  "wiclif",
+  "wicliffe",
+  "john wyclif",
+  "john de wycliffe"
+ ],
+ "_surname": [
+  "wyclif",
+  "wycliffe",
+  "wiclif",
+  "wicliffe"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wyclif-select-english-1": [
+   "selectenglishworks01wycl",
+   "Select English works of John Wyclif, vol. 1 (Oxford : Clarendon Press, 1869)"
+  ],
+  "wyclif-select-english-2": [
+   "selectenglishwor02wycl",
+   "Select English works of John Wyclif, vol. 2 (Oxford, Clarendon Press, 1869)"
+  ],
+  "wyclif-select-english-3": [
+   "selectenglishworks03wycl",
+   "Select English works of John Wyclif, vol. 3 (Oxford : Clarendon Press, 1869)"
+  ],
+  "wyclif-english-works-eets": [
+   "englishworksofwy00wycl",
+   "The English works of Wyclif : Hitherto Unprinted (London : Published for the Early English text society, by Kegan Paul, Trübner & Co., Ltd., 1880)"
+  ],
+  "wyclif-tracts-treatises": [
+   "tractstreatiseso00wycl",
+   "Tracts and treatises of John de Wycliffe : with selections and translations from his manuscripts, and Latin works (London : Printed for the Society by Blackburn and Pardon, 1845)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wyclif-doubtful": "An Apology for Lollard Doctrines (1842) and The Last Age of the Church (1840), both only attributed to him and now generally denied to him",
+  "wyclif-bible": "the Wycliffite Bible (Forshall and Madden, 1850) and the 1879 New Testament, which belong with the English Bibles",
+  "wyclif-lives": "lives of him by Vaughan, Le Bas, Lechler and others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "wyclif-latin-works": "the Wyclif Society Latin Works (about 35 volumes, 1883-1922) and the Trialogus (1869): a large set whose volumes still have to be matched to titles; a separate decision"
+ },
+ "_translators": {},
+ "_checks": {
+  "wyclif-select-english-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wyclif",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wyclif-select-english-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wyclif",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869-71",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wyclif-select-english-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wyclif",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wyclif-english-works-eets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wyclif",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wyclif-tracts-treatises": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wycliffe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

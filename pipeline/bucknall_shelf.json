@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Benjamin Bucknall (1833-1895): Viollet-le-Duc's Annals of a Fortress (1875) and How to Build a House (1874). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Benjamin Bucknall (1833-1895): Viollet-le-Duc's Annals of a Fortress (1875) and How to Build a House (1874). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted. From archive.org (2026-10-23): Viollet-le-Duc's Lectures on Architecture, vol. I, and Mont Blanc (both 1877).",
  "_name_words": [
   "benjamin bucknall",
   "bucknall"
@@ -20,7 +20,16 @@
    "How to build a house"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "buc-ia-lectures-architecture-1": [
+   "lecturesonarchi01violgoog",
+   "Viollet-le-Duc: Lectures on Architecture 1"
+  ],
+  "buc-ia-mont-blanc": [
+   "montblancatreat00violgoog",
+   "Viollet-le-Duc: Mont Blanc"
+  ]
+ },
  "titles": {
   "bucknall-viollet-le-duc-annals-of-a-fortress": {
    "source": "buc-41426",
@@ -37,6 +46,22 @@
    "translated": "1874-1875 (see the Gutenberg header)",
    "translator": "Benjamin Bucknall",
    "scan_edition": "Project Gutenberg 71669 (clean text)"
+  },
+  "bucknall-viollet-le-duc-lectures-on-architecture-1": {
+   "source": "buc-ia-lectures-architecture-1",
+   "of": "Eugène Viollet-le-Duc",
+   "work": "Lectures on Architecture, vol. I",
+   "translated": "1877",
+   "translator": "Benjamin Bucknall",
+   "scan_edition": "Sampson Low, Marston, Searle and Rivington, London, 1877 (Google scan); vol. II not shelved, its scan does not carry his name"
+  },
+  "bucknall-viollet-le-duc-mont-blanc": {
+   "source": "buc-ia-mont-blanc",
+   "of": "Eugène Viollet-le-Duc",
+   "work": "Mont Blanc: a Treatise on Its Geodesical and Geological Constitution",
+   "translated": "1877",
+   "translator": "Benjamin Bucknall",
+   "scan_edition": "Sampson Low, Marston, Searle, & Rivington, London, 1877 (Google scan); he signs the translator's note \"B. Bucknall\""
   }
  },
  "_pending": {},
@@ -45,7 +70,7 @@
  "_checks": {
   "buc-41426": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "benjamin bucknall",
    "identity": "ok",
@@ -54,12 +79,34 @@
   },
   "buc-71669": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "benjamin bucknall",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Benjamin Bucknall"
+  },
+  "buc-ia-lectures-architecture-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin bucknall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buc-ia-mont-blanc": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bucknall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +119,23 @@
    "pg": 71669,
    "pg_copyrighted_marker": false,
    "pg_translator": "Benjamin Bucknall"
+  },
+  "buc-ia-lectures-architecture-1": {
+   "ia": "lecturesonarchi01violgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "buc-ia-mont-blanc": {
+   "ia": "montblancatreat00violgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

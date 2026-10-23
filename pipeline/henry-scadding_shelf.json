@@ -1,0 +1,180 @@
+{
+ "_about": "Public-domain Henry Scadding (1813-1901), rector of Holy Trinity, Toronto, and antiquarian, for the Word Hoard: his church addresses and memorials (William Honywood Ripley, Cleanliness akin to Godliness, A Dead Christendom Reviving, English Civilization Undemonstrative, Christian Pantheism, Truth's Resurrections, The First Bishop of Toronto, To the Choirs of Holy Trinity, On a Sung Service) and his history Toronto of Old. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 116 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry scadding",
+  "h. scadding",
+  "scadding"
+ ],
+ "_surname": [
+  "henry scadding",
+  "h. scadding",
+  "scadding"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "scadding-ripley": [
+   "cihm_40663",
+   "A memorial of the Reverend William Honywood Ripley, Bachelor of Arts of University College ... of the Diocese of Toronto : (being, with additions and notes, the sermon preached in Trinity Church ... the 21st Sunday after Trinity, and the Festival of St. Simon and St. Jude, October the 28th, 1849) ([Toronto? : s.n.], 1849)"
+  ],
+  "scadding-cleanliness": [
+   "cihm_50682",
+   "Cleanliness akin to Godliness ([Toronto? : s.n.], 1850)"
+  ],
+  "scadding-dead-christendom": [
+   "cihm_34371",
+   "A dead Christendom reviving : a lecture delivered in the Church of the Holy Trinity, Toronto, on the day of public thanksgiving for the restoration of peace, (Wednesday, June 4th, 1856) (Toronto : Maclear, 1856)"
+  ],
+  "scadding-english-civilization": [
+   "englishcivilizat00scad",
+   "English civilization undemonstrative : the address to the St. George's Society, in the Cathedral of St. James, Toronto, April 23rd, 1860 (Toronto : Rowsell & Hutchinson, 1860)"
+  ],
+  "scadding-christian-pantheism": [
+   "christianpanthei00scad",
+   "Christian pantheism : an address on Thanksgiving Day, 1865 (Toronto : Rollo & Adam, 1865)"
+  ],
+  "scadding-truths-resurrections": [
+   "cihm_36158",
+   "Truth's resurrections : a memorial of Easter, 1865 (Toronto : Rollo & Adam, 1865)"
+  ],
+  "scadding-first-bishop": [
+   "firstbishopoftor00scad",
+   "The first bishop of Toronto : a review and a study (Toronto : W. C. Chewett, 1868)"
+  ],
+  "scadding-choirs": [
+   "cihm_28774",
+   "To the choirs of the church and parish of the Holy Trinity, Toronto ([Toronto? : s.n.], 1871)"
+  ],
+  "scadding-sung-service": [
+   "cihm_13244",
+   "On a sung service and its appurtenances : a lecture, delivered on the occasion of the first use of the organ, after reconstruction, in the Church of the Holy Trinity, Toronto, October 27, 1874 ([S.l. : s.n., 1874)"
+  ],
+  "scadding-toronto-of-old": [
+   "torontoofoldcoll00scadrich",
+   "Toronto of old; collections and recollections illustrative of the early settlement and social life of the capital of Ontario (Toronto, Adam, Stevenson & co., 1873)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "scadding-antiquarian": "His many short antiquarian, numismatic and local-history papers are left to another lane; books he only owned or introduced (Pope, Horace, Franklin, Traill) are not his"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "scadding-first-bishop": "Title page (OCR): \"THE FIRST BISHOP OF TORONTO: A REVIEW AND A STUDY. BY HENKY SCABBING, D.D., Cantab. TORONTO: W. C. CHEWETT & CO.... 1868\"; OCR misreads Henry Scadding."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "scadding-ripley": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-cleanliness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-dead-christendom": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-english-civilization": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-christian-pantheism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-truths-resurrections": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-first-bishop": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-choirs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-sung-service": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scadding-toronto-of-old": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry scadding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
