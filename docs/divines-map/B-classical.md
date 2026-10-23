@@ -10685,6 +10685,14 @@ Shelf: `pipeline/w-g-rutherford_shelf.json`. The New Phrynichus (London: Macmill
 |---|---|---|---|
 | The New Phrynichus (London: Macmillan, 1881) |  | `rutherford-new-phrynichus-1881` | have-raw (IA `newphrynichusbei00phryuoft`) |
 | Babrius, edited with introductory dissertations, critical notes, commentary and lexicon (London: Macmillan, 1883); Greek text with English commentary, Greek-heavy, kept per Adam's 2026-10-23 ruling |  | `w-g-rutherford-babrius-1883` | have-raw (IA `babriuseditedwit00babruoft`) |
+| First Greek Grammar, by W. Gunion Rutherford, second edition (London and New York: Macmillan, 1888) |  | `w-g-rutherford-first-greek-grammar-1888` | have-raw (IA `firstgreekgramma00ruthuoft`) |
+| Thoukydidou Tetarte, the fourth book of Thucydides, a revision of the text, by William Gunion Rutherford (London and New York: Macmillan, 1889); Greek-dense, kept per Adam's 2026-10-23 ruling |  | `w-g-rutherford-thucydides-iv-1889` | have-raw (IA `thoukydidoutetar00thuciala`) |
+| First Greek Syntax, by W. Gunion Rutherford (London and New York: Macmillan, 1890) |  | `w-g-rutherford-first-greek-syntax-1890` | have-raw (IA `firstgreeksyntax00ruth`) |
+| Scholia Aristophanica, being such comments adscript to the text of Aristophanes as have been preserved in the Codex Ravennas, arranged, emended and translated by William G. Rutherford, vol. I (London and New York: Macmillan, 1896) |  | `w-g-rutherford-scholia-aristophanica-v1-1896` | have-raw (IA `scholiaaristopha01ruthuoft`) |
+| Scholia Aristophanica, arranged, emended and translated by William G. Rutherford, vol. II (London and New York: Macmillan, 1896) |  | `w-g-rutherford-scholia-aristophanica-v2-1896` | have-raw (IA `scholiaaristoph00ruthgoog`) |
+| Scholia Aristophanica, by William G. Rutherford, vol. III (London: Macmillan; New York: The Macmillan Company, 1905) |  | `w-g-rutherford-scholia-aristophanica-v3-1905` | have-raw (IA `scholiaaristopha03ruthuoft`) |
+| St. Paul's Epistle to the Romans, a new translation with a brief analysis, by W. G. Rutherford (London: Macmillan; New York: The Macmillan Company, 1900) |  | `w-g-rutherford-romans-1900` | have-raw (IA `stpaulsepistleto00ruthuoft`) |
+| St. Paul's Epistles to the Thessalonians and to the Corinthians, a new translation, by the late W. G. Rutherford (London: Macmillan, 1908) |  | `w-g-rutherford-thessalonians-corinthians-1908` | have-raw (IA `stpaulsepistlest00ruthuoft`) |
 
 
 ## Agnes Mary Clerke (1842-1907)

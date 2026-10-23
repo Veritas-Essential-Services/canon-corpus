@@ -1,5 +1,5 @@
 {
- "_about": "W. G. Rutherford (1853-1907), headmaster of Westminster: The New Phrynichus (1881), a revised text of the Atticist grammarian's Ecloga with introductions and an English commentary. Greek-heavy; kept per Adam's 2026-10-23 ruling. His Babrius scan has an empty text layer; his grammars, sermons and St Paul translations are outside lane B. Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted. Also raw IA: Babrius, edited with introductory dissertations, critical notes, commentary and lexicon (Macmillan, 1883), Greek-heavy, kept per Adam's 2026-10-23 ruling.",
+ "_about": "W. G. Rutherford (1853-1907), headmaster of Westminster: The New Phrynichus (1881), a revised text of the Atticist grammarian's Ecloga with introductions and an English commentary. Greek-heavy; kept per Adam's 2026-10-23 ruling. His Babrius scan has an empty text layer; his grammars, sermons and St Paul translations are outside lane B. Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted. Also raw IA: Babrius, edited with introductory dissertations, critical notes, commentary and lexicon (Macmillan, 1883), Greek-heavy, kept per Adam's 2026-10-23 ruling. Round dw (2026-10-23) added, raw IA OCR with title pages read: First Greek Grammar (2nd ed., 1888); Thucydides IV, a revision of the text (1889); First Greek Syntax (1890); Scholia Aristophanica, arranged, emended and translated, 3 vols (1896-1905); St. Paul's Epistle to the Romans, a new translation (1900); St. Paul's Epistles to the Thessalonians and Corinthians, a new translation (1908). Greek-dense volumes kept per Adam's 2026-10-23 ruling.",
  "_author": "William Gunion Rutherford (1853-1907)",
  "_name_words": [
   "rutherford",
@@ -11,7 +11,8 @@
   "w. g. rutherford",
   "william gunion rutherford",
   "gunion rutherford",
-  "w. gunion rutherford"
+  "w. gunion rutherford",
+  "william g. rutherford"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -23,6 +24,38 @@
   "w-g-rutherford-babrius-1883": [
    "babriuseditedwit00babruoft",
    "Babrius, edited with introductory dissertations, critical notes, commentary and lexicon (London: Macmillan, 1883); Greek text with English commentary, Greek-heavy, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-g-rutherford-first-greek-grammar-1888": [
+   "firstgreekgramma00ruthuoft",
+   "First Greek Grammar, by W. Gunion Rutherford, second edition (London and New York: Macmillan, 1888)"
+  ],
+  "w-g-rutherford-thucydides-iv-1889": [
+   "thoukydidoutetar00thuciala",
+   "Thoukydidou Tetarte, the fourth book of Thucydides, a revision of the text, by William Gunion Rutherford (London and New York: Macmillan, 1889); Greek-dense, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-g-rutherford-first-greek-syntax-1890": [
+   "firstgreeksyntax00ruth",
+   "First Greek Syntax, by W. Gunion Rutherford (London and New York: Macmillan, 1890)"
+  ],
+  "w-g-rutherford-scholia-aristophanica-v1-1896": [
+   "scholiaaristopha01ruthuoft",
+   "Scholia Aristophanica, being such comments adscript to the text of Aristophanes as have been preserved in the Codex Ravennas, arranged, emended and translated by William G. Rutherford, vol. I (London and New York: Macmillan, 1896)"
+  ],
+  "w-g-rutherford-scholia-aristophanica-v2-1896": [
+   "scholiaaristoph00ruthgoog",
+   "Scholia Aristophanica, arranged, emended and translated by William G. Rutherford, vol. II (London and New York: Macmillan, 1896)"
+  ],
+  "w-g-rutherford-scholia-aristophanica-v3-1905": [
+   "scholiaaristopha03ruthuoft",
+   "Scholia Aristophanica, by William G. Rutherford, vol. III (London: Macmillan; New York: The Macmillan Company, 1905)"
+  ],
+  "w-g-rutherford-romans-1900": [
+   "stpaulsepistleto00ruthuoft",
+   "St. Paul's Epistle to the Romans, a new translation with a brief analysis, by W. G. Rutherford (London: Macmillan; New York: The Macmillan Company, 1900)"
+  ],
+  "w-g-rutherford-thessalonians-corinthians-1908": [
+   "stpaulsepistlest00ruthuoft",
+   "St. Paul's Epistles to the Thessalonians and to the Corinthians, a new translation, by the late W. G. Rutherford (London: Macmillan, 1908)"
   ]
  },
  "_excluded": {},
@@ -48,6 +81,100 @@
    "ia_date": "1883",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "w-g-rutherford-first-greek-grammar-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gunion rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-g-rutherford-thucydides-iv-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. g. rutherford",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-g-rutherford-first-greek-syntax-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gunion rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-g-rutherford-scholia-aristophanica-v1-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william g. rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-g-rutherford-scholia-aristophanica-v2-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. g. rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-g-rutherford-scholia-aristophanica-v3-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. g. rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-g-rutherford-romans-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. g. rutherford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-g-rutherford-thessalonians-corinthians-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "w-g-rutherford-thessalonians-corinthians-1908": {
+   "author": "title page OCRs the translator as 'BY THE LATE W. G. RUTHERFOKD' (London: Macmillan, 1908)"
   }
  }
 }
