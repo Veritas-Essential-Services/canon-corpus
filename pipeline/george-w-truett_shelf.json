@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain George W. Truett, pastor of the First Baptist Church of Dallas, for the Word Hoard: We Would See Jesus and Other Sermons, A Quest for Souls, and God's Call to America and Other Addresses. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 125 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "george w. truett",
+  "george washington truett",
+  "geo. w. truett",
+  "truett"
+ ],
+ "_surname": [
+  "truett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "truett-we-would-see-jesus": [
+   "wewouldseejesusa00trueuoft",
+   "We would see Jesus : and other sermons (New York : Fleming H. Revell, [c19)"
+  ],
+  "truett-quest-for-souls": [
+   "questforsoulscom00true",
+   "A quest for souls, comprising all the sermons preached and prayers offered in a series of gospel meetings held in Fort Worth, Texas, June 11-24, 1917 (N.Y., Doran, 1917)"
+  ],
+  "truett-gods-call": [
+   "godscalltoameric0000geor",
+   "God's call to America and other addresses comprising special orations delivered on widely varying occasions (Judson Press, 1923)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "truett-pilgrims-progress": "Young People's Pilgrim's Progress is Bunyan's",
+  "truett-dups": "second scans of all three books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "truett-we-would-see-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "truett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "[c1915]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "truett-quest-for-souls": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "truett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "truett-gods-call": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "truett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -10423,6 +10423,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:10:38-05:00",
       "notes": "Old South Church, Boston. Seven sermons and memoirs."
+    },
+    {
+      "id": "a-george-w-truett",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:38-05:00",
+      "notes": "First Baptist, Dallas. Three books, all before 1930."
     }
   ]
 }

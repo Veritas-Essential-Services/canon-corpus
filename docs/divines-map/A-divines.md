@@ -18532,3 +18532,15 @@ Slugs `wisner-*`. Built from title pages read for round 125.
 | two short manuscript letters | excluded | |
 | cihm_42798, a second scan of the missions sermon | excluded | |
 | the Pentateuch studies are by Benjamin Wisner Bacon; the Hanover Church review is by Lyman Beecher | excluded | |
+
+## George W. Truett (round 125, my pick, 2026-10-23)
+
+Slugs `truett-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| We would see Jesus : and other sermons (New York : Fleming H. Revell, [c19) | have-ocr | IA `wewouldseejesusa00trueuoft` |
+| A quest for souls, comprising all the sermons preached and prayers offered in a series of gospel meetings held in Fort Worth, Texas, June 11-24, 1917 (N.Y., Doran, 1917) | have-ocr | IA `questforsoulscom00true` |
+| God's call to America and other addresses comprising special orations delivered on widely varying occasions (Judson Press, 1923) | have-ocr | IA `godscalltoameric0000geor` |
+| Young People's Pilgrim's Progress is Bunyan's | excluded | |
+| second scans of all three books | excluded | |
