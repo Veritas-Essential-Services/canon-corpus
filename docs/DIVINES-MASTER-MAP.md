@@ -39862,3 +39862,24 @@ Shelf: `pipeline/whyte-melville_shelf.json` (2026-10-22; added at the coordinato
 | Market Harborough, and Inside the Bar | have | PG 56862, `gjwmelville-market-harborough-and-inside-the-bar` (1316 units) |
 | Cerise: A Tale of the Last Century | have | PG 65619, `gjwmelville-cerise` (2452 units) |
 | Bones and I | have | PG 71789, `gjwmelville-bones-and-i` (432 units) |
+
+## Fred M. White
+
+Shelf: `pipeline/fred-m-white_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mystery and adventure novels. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Crimson Blind | have | PG 9832, `fmwhite-crimson-blind` (2898 units) |
+| The Mystery of the Four Fingers | have | PG 9853, `fmwhite-mystery-of-the-four-fingers` (1284 units) |
+| The Slave of Silence | have | PG 27395, `fmwhite-slave-of-silence` (1874 units) |
+| Hard Pressed | have | PG 33512, `fmwhite-hard-pressed` (1119 units) |
+| The Weight of the Crown | have | PG 36511, `fmwhite-weight-of-the-crown` (1689 units) |
+| The Five Knots | have | PG 43492, `fmwhite-five-knots` (1274 units) |
+| The Cardinal Moth | have | PG 43674, `fmwhite-cardinal-moth` (1623 units) |
+| The Mystery of the Ravenspurs A Romance and Detective Story of Thibet and England | have | PG 48882, `fmwhite-mystery-of-the-ravenspurs-a-romance-and-detective-st` (2883 units) |
+| The Sundial | have | PG 55006, `fmwhite-sundial` (1265 units) |
+| The Midnight Guest: A Detective Story | have | PG 56960, `fmwhite-midnight-guest` (1344 units) |
+| The Corner House | have | PG 57066, `fmwhite-corner-house` (1919 units) |
+| The Nether Millstone | have | PG 57312, `fmwhite-nether-millstone` (1808 units) |
+| The Yellow Face | have | PG 57314, `fmwhite-yellow-face` (2072 units) |
+| The Doom of London | have | PG 57904, `fmwhite-doom-of-london` (942 units) |
