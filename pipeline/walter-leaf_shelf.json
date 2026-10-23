@@ -1,5 +1,5 @@
 {
- "_about": "Walter Leaf (1852-1927): Troy, a Study in Homeric Geography (London: Macmillan, 1912) and Homer and History (Macmillan, 1915), raw IA OCR. His Iliad with Lang and Myers (PG 3059) is on the lang shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Walter Leaf (1852-1927): Troy, a Study in Homeric Geography (London: Macmillan, 1912) and Homer and History (Macmillan, 1915), raw IA OCR. His Iliad with Lang and Myers (PG 3059) is on the lang shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. A Companion to the Iliad for English Readers (1892), a book-by-book commentary keyed to the Lang-Leaf-Myers prose translation; and his Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition (Macmillan, 2 vols., 1900-1902), Greek text with English commentary, kept per Adam's 2026-10-23 ruling; all raw IA.",
  "_name_words": [
   "leaf"
  ],
@@ -17,12 +17,24 @@
   "walter-leaf-homer-history-1915": [
    "gpl_1735164",
    "Homer and History (London: Macmillan, 1915)"
+  ],
+  "walter-leaf-companion-to-the-iliad-1892": [
+   "companiontoiliad00leafrich",
+   "A Companion to the Iliad, for English Readers (London: Macmillan, 1892)"
+  ],
+  "walter-leaf-iliad-commentary-1900-v1": [
+   "cu31924011101643",
+   "The Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition, vol. I: Books I-XII (London: Macmillan, 1900; first edition 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "walter-leaf-iliad-commentary-1902-v2": [
+   "cu31924011101650",
+   "The Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition, vol. II: Books XIII-XXIV (London: Macmillan, 1902; first edition 1888); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_checks": {
   "walter-leaf-troy-1912": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "walter leaf",
    "identity": "ok",
@@ -33,12 +45,45 @@
   },
   "walter-leaf-homer-history-1915": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "walter leaf",
    "identity": "ok",
    "ia_rights": "ok: published 1915",
    "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walter-leaf-companion-to-the-iliad-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "walter-leaf-iliad-commentary-1900-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walter-leaf-iliad-commentary-1902-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

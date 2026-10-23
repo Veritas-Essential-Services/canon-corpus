@@ -12231,6 +12231,7 @@ Shelf: `pipeline/jebb_shelf.json`. Jebb's Attic Orators (1893, 2 vols.), Growth 
 | Bentley (English Men of Letters, ed. John Morley; New York: Harper, 1901 printing) |  | `jebb-bentley-1901` | have-raw (IA `bentleyclaver00jebbuoft`) |
 | Modern Greece: two lectures delivered before the Philosophical Institution of Edinburgh, with papers on 'The Progress of Greece' and 'Byron in Greece' (London: Macmillan, 1880) |  | `jebb-modern-greece-1880` | have-raw (IA `moderngreecetwol00jebbuoft`) |
 | Essays and Addresses (Cambridge: University Press, 1907) |  | `jebb-essays-addresses-1907` | have-raw (IA `essaysaddresses00jebbiala`) |
+| Selections from the Attic Orators: Antiphon, Andocides, Lysias, Isocrates, Isaeus, being a companion volume to The Attic Orators from Antiphon to Isaeus, edited with notes, second edition (London and New York: Macmillan, 1888); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `jebb-selections-attic-orators-1888` | have-raw (IA `selectionsfromat00jebb`) |
 
 Excluded: Primer of Greek Literature (IA greekliterature00jebbuoft) (no title page in the scan); Erasmus (Rede lecture, 1890) (Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap)
 
@@ -12554,6 +12555,8 @@ Shelf: `pipeline/monro_shelf.json`. David Binning Monro (1836-1905), Provost of 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | The Modes of Ancient Greek Music |  | `monro-modes-ancient-greek-music` | have (PG 40288) |
+| A Grammar of the Homeric Dialect, second edition, revised and enlarged (Oxford: Clarendon Press, 1891); Greek-heavy, kept per Adam's 2026-10-23 ruling |  | `monro-homeric-grammar-1891` | have-raw (IA `grammarofhomeric00monr`) |
+| Homer's Odyssey, Books XIII-XXIV, edited with English notes and appendices (Oxford: Clarendon Press, MDCCCCI); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `monro-odyssey-xiii-xxiv-1901` | have-raw (IA `homersodyssey00homeiala`) |
 
 ## Harold Whetstone Johnston (scholarship)
 
@@ -12958,6 +12961,9 @@ Shelf: `pipeline/walter-leaf_shelf.json`. Troy, a Study in Homeric Geography (19
 |---|---|---|---|
 | Troy: A Study in Homeric Geography (London: Macmillan, 1912) |  | `walter-leaf-troy-1912` | have-raw (IA `troystudyinhomer00leaf`) |
 | Homer and History (London: Macmillan, 1915) |  | `walter-leaf-homer-history-1915` | have-raw (IA `gpl_1735164`) |
+| A Companion to the Iliad, for English Readers (London: Macmillan, 1892) |  | `walter-leaf-companion-to-the-iliad-1892` | have-raw (IA `companiontoiliad00leafrich`) |
+| The Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition, vol. I: Books I-XII (London: Macmillan, 1900; first edition 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `walter-leaf-iliad-commentary-1900-v1` | have-raw (IA `cu31924011101643`) |
+| The Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition, vol. II: Books XIII-XXIV (London: Macmillan, 1902; first edition 1888); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `walter-leaf-iliad-commentary-1902-v2` | have-raw (IA `cu31924011101650`) |
 
 ## Evelyn Abbott (scholarship)
 
