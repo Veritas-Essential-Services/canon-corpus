@@ -38952,3 +38952,27 @@ Shelf: `pipeline/f-anstey_shelf.json` (2026-10-22; added at the coordinator's re
 | Mr Punch's Model Music Hall Songs and Dramas Collected, Improved and Re-arranged from Punch | have | PG 39045, `fanstey-mr-punchs-model-music-hall-songs-and-dramas-collecte` (1339 units) |
 | Lyre and Lancet: A Story in Scenes | have | PG 41589, `fanstey-lyre-and-lancet` (1481 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 46173 Tourmalin's Time Cheques (copyright line 1986). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Sarah Tytler
+
+Shelf: `pipeline/sarah-tytler_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and books for girls. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Life of Her Most Gracious Majesty the Queen — Volume 1 | have | PG 6910, `stytler-life-of-her-most-gracious-majesty-the-queen-volume-1` (802 units) |
+| Life of Her Most Gracious Majesty the Queen — Volume 2 | have | PG 7086, `stytler-life-of-her-most-gracious-majesty-the-queen-volume-2` (1051 units) |
+| Girlhood and Womanhood The Story of some Fortunes and Misfortunes | have | PG 19140, `stytler-girlhood-and-womanhood-the-story-of-some-fortunes-an` (1157 units) |
+| The Old Masters and Their Pictures, For the Use of Schools and Learners in Art | have | PG 19863, `stytler-old-masters-and-their-pictures-for-the-use-of-school` (708 units) |
+| A Houseful of Girls | have | PG 20081, `stytler-houseful-of-girls` (1031 units) |
+| Landseer's Dogs and Their Stories | have | PG 53088, `stytler-landseers-dogs-and-their-stories` (502 units) |
+| Jane Austen and her works | have | PG 70809, `stytler-jane-austen-and-her-works` (2012 units) |
+| Lady Bell, volume 1 (of 3) | have | PG 74655, `stytler-lady-bell-volume-1-of-3` (780 units) |
+| Scotch marriages, vol. 1 | have | PG 75486, `stytler-scotch-marriages-vol-1` (470 units) |
+| Oliver Constable, miller and baker, Vol. 1 (of 3) | have | PG 78299, `stytler-oliver-constable-miller-and-baker-vol-1-of-3` (472 units) |
+| Oliver Constable, miller and baker, Vol. 2 (of 3) | have | PG 78315, `stytler-oliver-constable-miller-and-baker-vol-2-of-3` (499 units) |
+| Oliver Constable, miller and baker, Vol. 3 (of 3) | have | PG 78319, `stytler-oliver-constable-miller-and-baker-vol-3-of-3` (434 units) |
+| Lady Bell, volume 2 (of 3) | have | PG 78326, `stytler-lady-bell-volume-2-of-3` (779 units) |
+| Saint Mungo's city; vol. 1 [of 3] | have | PG 79371, `stytler-saint-mungos-city` (544 units) |
+| Saint Mungo's city; vol. 2 [of 3] | have | PG 79372, `stytler-saint-mungos-city-79372` (586 units) |
+| Saint Mungo's city; vol. 3 [of 3] | have | PG 79373, `stytler-saint-mungos-city-79373` (653 units) |
+| Buried diamonds, Vol. 1 (of 3) | have | PG 79799, `stytler-buried-diamonds-vol-1-of-3` (477 units) |
