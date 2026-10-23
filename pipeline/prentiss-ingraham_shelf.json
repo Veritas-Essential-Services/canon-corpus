@@ -1,0 +1,239 @@
+{
+ "_about": "Prentiss Ingraham's Buffalo Bill dime novels and sea stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Prentiss Ingraham",
+ "_name_words": [
+  "ingraham"
+ ],
+ "_surname": [
+  "ingraham"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pingraham-adventures-of-buffalo-bill-from-boyhood-to-manhood": [
+   15583,
+   "Adventures of Buffalo Bill from boyhood to manhood"
+  ],
+  "pingraham-buffalo-bills-spy-trailer": [
+   29792,
+   "Buffalo Bill's spy trailer"
+  ],
+  "pingraham-wizard-will-the-wonder-worker": [
+   43301,
+   "Wizard Will, the wonder worker"
+  ],
+  "pingraham-buffalo-bills-boy-bugler": [
+   62057,
+   "Buffalo Bill's boy bugler"
+  ],
+  "pingraham-buffalo-bill-entrapped": [
+   62479,
+   "Buffalo Bill entrapped"
+  ],
+  "pingraham-buffalo-bill-the-border-king": [
+   62638,
+   "Buffalo Bill, the border king"
+  ],
+  "pingraham-buffalo-bills-girl-pard": [
+   63176,
+   "Buffalo Bill's girl pard"
+  ],
+  "pingraham-buffalo-bill-among-the-sioux": [
+   63360,
+   "Buffalo Bill among the Sioux"
+  ],
+  "pingraham-buffalo-bills-best-bet": [
+   63568,
+   "Buffalo Bill's best bet"
+  ],
+  "pingraham-buffalo-bills-bold-play": [
+   63705,
+   "Buffalo Bill's bold play : or, The tiger of the hills"
+  ],
+  "pingraham-buffalo-bills-big-surprise": [
+   64262,
+   "Buffalo Bill's big surprise"
+  ],
+  "pingraham-buffalo-bill-peacemaker": [
+   64446,
+   "Buffalo Bill, peacemaker"
+  ],
+  "pingraham-buffalo-bills-pursuit": [
+   64447,
+   "Buffalo Bill's pursuit"
+  ],
+  "pingraham-buffalo-bills-weird-warning": [
+   64613,
+   "Buffalo Bill's weird warning"
+  ],
+  "pingraham-buffalo-bills-ruse": [
+   64664,
+   "Buffalo Bill's ruse"
+  ],
+  "pingraham-buffalo-bills-still-hunt": [
+   64800,
+   "Buffalo Bill's still hunt"
+  ],
+  "pingraham-buffalo-bills-death-message": [
+   79255,
+   "Buffalo Bill's death message"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "pingraham-adventures-of-buffalo-bill-from-boyhood-to-manhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-spy-trailer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-wizard-will-the-wonder-worker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-boy-bugler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bill-entrapped": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bill-the-border-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-girl-pard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bill-among-the-sioux": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-best-bet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-bold-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-big-surprise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bill-peacemaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-pursuit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-weird-warning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-ruse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-still-hunt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pingraham-buffalo-bills-death-message": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ingraham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

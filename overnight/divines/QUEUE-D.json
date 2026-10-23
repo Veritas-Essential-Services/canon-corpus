@@ -4093,6 +4093,14 @@
       "started": "2026-10-22T22:23:45-05:00",
       "finished": "2026-10-22T22:23:45-05:00",
       "notes": "ruth-lamb: new shelf, 17 Gutenberg books, 12,453 units, 1546 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "prentiss-ingraham",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Prentiss Ingraham; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:17-05:00",
+      "finished": "2026-10-22T22:24:17-05:00",
+      "notes": "prentiss-ingraham: new shelf, 17 Gutenberg books, 43,730 units, 52 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

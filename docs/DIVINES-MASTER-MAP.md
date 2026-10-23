@@ -39048,3 +39048,27 @@ Shelf: `pipeline/ruth-lamb_shelf.json` (2026-10-22; added at the coordinator's r
 | Joe Brennan's luck | have | PG 79175, `rlamb-joe-brennans-luck` (81 units) |
 | Mrs. Grey's strange silence | have | PG 79415, `rlamb-mrs-greys-strange-silence` (58 units) |
 | Work, wait, win | have | PG 79593, `rlamb-work-wait-win` (1754 units) |
+
+## Prentiss Ingraham
+
+Shelf: `pipeline/prentiss-ingraham_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dime-novel Westerns and sea stories. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Adventures of Buffalo Bill from boyhood to manhood | have | PG 15583, `pingraham-adventures-of-buffalo-bill-from-boyhood-to-manhood` (904 units) |
+| Buffalo Bill's spy trailer | have | PG 29792, `pingraham-buffalo-bills-spy-trailer` (2247 units) |
+| Wizard Will, the wonder worker | have | PG 43301, `pingraham-wizard-will-the-wonder-worker` (1432 units) |
+| Buffalo Bill's boy bugler | have | PG 62057, `pingraham-buffalo-bills-boy-bugler` (2671 units) |
+| Buffalo Bill entrapped | have | PG 62479, `pingraham-buffalo-bill-entrapped` (2707 units) |
+| Buffalo Bill, the border king | have | PG 62638, `pingraham-buffalo-bill-the-border-king` (2608 units) |
+| Buffalo Bill's girl pard | have | PG 63176, `pingraham-buffalo-bills-girl-pard` (3298 units) |
+| Buffalo Bill among the Sioux | have | PG 63360, `pingraham-buffalo-bill-among-the-sioux` (2706 units) |
+| Buffalo Bill's best bet | have | PG 63568, `pingraham-buffalo-bills-best-bet` (2699 units) |
+| Buffalo Bill's bold play : or, The tiger of the hills | have | PG 63705, `pingraham-buffalo-bills-bold-play` (3346 units) |
+| Buffalo Bill's big surprise | have | PG 64262, `pingraham-buffalo-bills-big-surprise` (2786 units) |
+| Buffalo Bill, peacemaker | have | PG 64446, `pingraham-buffalo-bill-peacemaker` (3018 units) |
+| Buffalo Bill's pursuit | have | PG 64447, `pingraham-buffalo-bills-pursuit` (2573 units) |
+| Buffalo Bill's weird warning | have | PG 64613, `pingraham-buffalo-bills-weird-warning` (2921 units) |
+| Buffalo Bill's ruse | have | PG 64664, `pingraham-buffalo-bills-ruse` (2669 units) |
+| Buffalo Bill's still hunt | have | PG 64800, `pingraham-buffalo-bills-still-hunt` (2594 units) |
+| Buffalo Bill's death message | have | PG 79255, `pingraham-buffalo-bills-death-message` (2551 units) |
