@@ -1,0 +1,60 @@
+{
+ "_about": "Gustave Glotz (1862-1935), Sorbonne historian of Greece, in the History of Civilization series (Kegan Paul / Knopf): The Aegean Civilization, tr. M. R. Dobie and E. M. Riley (1925), and Ancient Greece at Work, tr. M. R. Dobie (1926). The Greek City (1929) was not found as a usable scan. Lane C left these volumes for lane B. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Gustave Glotz (1862-1935)",
+ "_name_words": [
+  "glotz",
+  "aegean",
+  "civilization",
+  "greece",
+  "work"
+ ],
+ "_surname": [
+  "glotz"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "glotz-aegean-civilization-1925": [
+   "geancivilization00glot",
+   "The Aegean Civilization (1925), tr. M. R. Dobie and E. M. Riley"
+  ],
+  "glotz-ancient-greece-at-work-1926": [
+   "dli.ministry.09177",
+   "Ancient Greece at Work: an Economic History of Greece from the Homeric Period to the Roman Conquest (1926), tr. M. R. Dobie",
+   "E09570_Ancient_Greece_At_Work_An_Economic_History_Of_Greece_From_The_Homeric_Period_To_The_Roma_Conquest_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "glotz-aegean-civilization-1925": "Dobie",
+  "glotz-ancient-greece-at-work-1926": "Dobie"
+ },
+ "_checks": {
+  "glotz-aegean-civilization-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "glotz",
+   "translator_claimed": "Dobie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "glotz-ancient-greece-at-work-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "glotz",
+   "translator_claimed": "Dobie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

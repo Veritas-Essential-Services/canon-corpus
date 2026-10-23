@@ -19195,6 +19195,16 @@ Shelf: `pipeline/charles-mills-gayley_shelf.json`. The Classic Myths in English 
 |---|---|---|---|
 | The Classic Myths in English Literature and in Art, 2nd ed. (1911) |  | `gayley-classic-myths-pg` | have (PG 46063) |
 
+
+## Gustave Glotz (1862-1935)
+
+Shelf: `pipeline/gustave-glotz_shelf.json`. Aegean civilization and Greek economic history, tr. Dobie (1925-1926). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Aegean Civilization (1925), tr. M. R. Dobie and E. M. Riley |  | `glotz-aegean-civilization-1925` | have-raw (IA `geancivilization00glot`) |
+| Ancient Greece at Work: an Economic History of Greece from the Homeric Period to the Roman Conquest (1926), tr. M. R. Dobie |  | `glotz-ancient-greece-at-work-1926` | have-raw (IA `dli.ministry.09177`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
