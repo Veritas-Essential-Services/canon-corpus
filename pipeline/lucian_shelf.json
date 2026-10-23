@@ -67,6 +67,10 @@
    "sixdialoguesluc00irwigoog",
    "Six Dialogues of Lucian: Icaromenippus, The Dream or The Cock, The Ship, The Parasite, The Lover of Falsehood, Nigrinus (London, 1894; imprint year partly legible)",
    "tr. Sidney T. Irwin"
+  ],
+  "lucian-murphy-select-dialogues-1804": [
+   "selectdialogues00murpgoog",
+   "The Select Dialogues of Lucian, to which is added a new literal translation, by Edward Murphy (Classic Press, for William Poyntell & Co., 1804); Greek text with the translation, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_cross_ref": {
@@ -74,8 +78,7 @@
  },
  "_excluded": {
   "A. M. Harmon, Loeb (1913-)": "held in part from Perseus: 41 texts (lucian-perseus-harmon-*). early vols. US PD by date, Greek facing; on Perseus; pending",
-  "Carr, Dialogues of Lucian from the Greek (1773-98, 5 vols.)": "Not taken under the title-page rule: no scan found shows a readable title page (Google bub_gb_NerIjdd7gQEC; UCLA dialoguesoflucia02/03luciiala; Toronto dialoguesfromgre01/02luciuoft; ECCO 1798 set, OCR 0.78-0.81). Vol. I's preface is signed John Carr and vol. V's 'J. C., Jan. 29, 1798'. Adam may waive the rule (DIGEST-B).",
-  "selectdialogues00murpgoog": "Murphy's Select Dialogues (1804; Greek text with a literal translation): OCR 0.68, under the 0.78 bar."
+  "Carr, Dialogues of Lucian from the Greek (1773-98, 5 vols.)": "Not taken under the title-page rule: no scan found shows a readable title page (Google bub_gb_NerIjdd7gQEC; UCLA dialoguesoflucia02/03luciiala; Toronto dialoguesfromgre01/02luciuoft; ECCO 1798 set, OCR 0.78-0.81). Vol. I's preface is signed John Carr and vol. V's 'J. C., Jan. 29, 1798'. Adam may waive the rule (DIGEST-B)."
  },
  "perseus": {
   "lucian-perseus-harmon-the-ignorant-book-collector": [
@@ -444,12 +447,13 @@
   "lucian-perseus-smith-the-halcyon": "Emily James Smith",
   "lucian-tooke-1820-v1": "William Tooke",
   "lucian-tooke-1820-v2": "William Tooke",
-  "lucian-maginn-1856": "william maginn"
+  "lucian-maginn-1856": "william maginn",
+  "lucian-murphy-select-dialogues-1804": "Edward Murphy"
  },
  "_checks": {
   "lucian-fowler-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -461,7 +465,7 @@
   },
   "lucian-fowler-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -473,7 +477,7 @@
   },
   "lucian-fowler-v3": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -485,7 +489,7 @@
   },
   "lucian-fowler-v4": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "H. W.",
@@ -497,7 +501,7 @@
   },
   "lucian-francklin-trips-to-the-moon": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Thomas Francklin",
@@ -509,7 +513,7 @@
   },
   "lucian-hickes-true-history": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Francis Hickes",
@@ -521,7 +525,7 @@
   },
   "lucian-francklin-1780-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Thomas Francklin",
@@ -534,7 +538,7 @@
   },
   "lucian-francklin-1780-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "Thomas Francklin",
@@ -547,7 +551,7 @@
   },
   "lucian-tooke-1820-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "William Tooke",
@@ -560,7 +564,7 @@
   },
   "lucian-tooke-1820-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "William Tooke",
@@ -573,7 +577,7 @@
   },
   "lucian-maginn-1856": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "translator_claimed": "william maginn",
@@ -586,7 +590,7 @@
   },
   "lucian-irwin-six-dialogues-1894": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lucian",
    "identity": "ok",
@@ -595,6 +599,19 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null,
    "rights_override": "imprint (London, Essex Street, Strand) OCRs the year as '189*', so the book prints an 1890s date; the catalogue gives 1894. Pre-1931 and the translator was writing by then"
+  },
+  "lucian-murphy-select-dialogues-1804": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lucian",
+   "translator_claimed": "Edward Murphy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
