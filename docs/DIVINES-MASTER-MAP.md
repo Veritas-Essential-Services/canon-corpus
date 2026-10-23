@@ -11129,6 +11129,24 @@ Slugs `monrad-*`. Built from title pages read for round 49.
 |---|---|---|
 | The world of prayer : or, Prayer in relation to personal religion (Edinburgh : T. & T. Clark, 1879) | have-ocr | IA `worldofprayerorp00monr` |
 | Every other Monrad in the catalogue is another person (dairy manuals, engineering, law) | excluded | |
+
+## J. Oswald Dykes (round 49, my pick, 2026-10-23)
+
+Slugs `dykes-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The Beatitudes of the Kingdom (London : James Nisbet, 1872) | have-ocr | IA `beatitudesofking0000dyke` |
+| The laws of the Kingdom (New York : R. Carter, 1873) | have-ocr | IA `lawsofkingdom00dyke` |
+| The relations of the kingdom to the world (New York : R. Carter, 1874) | have-ocr | IA `relationsofkingd00dyke` |
+| From Jerusalem to Antioch : sketches of the primitive church (London : Hodder and Stoughton, 1874) | have-ocr | IA `fromjerusalemtoa00dyke` |
+| The manifesto of the king : an exposition of the Sermon on the Mount (London : J. Nisbet, 1881) | have-ocr | IA `manifestoofkinge00dyke` |
+| The Gospel according to St. Paul : studies in the first eight chapters of his Epistle to the Romans (London : J. Nisbet, 1888) | have-ocr | IA `gospelaccordingt00dyke` |
+| Plain words on great themes (London Sampson Low, Marston, 1892) | have-ocr | IA `plainwordsongrea00dykeuoft` |
+| The law of the ten words (New York, Hodder and Stoughton [etc., 1900) | have-ocr | IA `lawoftenwords00dyke` |
+| The Christian minister and his duties (Edinburgh, T. & T. Clark, 1909) | have-ocr | IA `christianministe00dyke` |
+| The divine worker in creation and providence (Edinburgh : T. & T. Clark, 1909) | have-ocr | IA `thedivineworkeri00dykeuoft` |
+| Problems of Faith (1875, a symposium by several authors); the Autobiography of Donald Fraser (1892, Fraser's book) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
