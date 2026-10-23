@@ -6253,6 +6253,14 @@
       "started": "2026-10-22T23:20:40-05:00",
       "finished": "2026-10-22T23:20:40-05:00",
       "notes": "w-h-h-murray: new shelf, 5 Gutenberg books, 1,414 units, 70 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "favell-lee-mortimer",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Favell Lee Mortimer; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:41-05:00",
+      "finished": "2026-10-22T23:20:41-05:00",
+      "notes": "favell-lee-mortimer: new shelf, 5 Gutenberg books, 2,462 units, 26 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

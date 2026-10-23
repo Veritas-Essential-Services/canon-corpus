@@ -44277,3 +44277,15 @@ Shelf: `pipeline/w-h-h-murray_shelf.json` (2026-10-22; added at the coordinator'
 | Holiday Tales: Christmas in the Adirondacks | have | PG 28098, `whhmurray-holiday-tales` (424 units) |
 | The Busted Ex-Texan, and Other Stories | have | PG 28502, `whhmurray-busted-ex-texan-and-other-stories` (228 units) |
 | How John Norton the Trapper Kept His Christmas | have | PG 38279, `whhmurray-how-john-norton-the-trapper-kept-his-christmas` (237 units) |
+
+## Favell Lee Mortimer
+
+Shelf: `pipeline/favell-lee-mortimer_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Far Off; Or, Asia and Australia Described With Anecdotes and Illustrations | have | PG 13011, `flmortimer-far-off` (1114 units) |
+| The Blind Beggar of Jericho | have | PG 36584, `flmortimer-blind-beggar-of-jericho` (23 units) |
+| The Child Who Died and Lived Again | have | PG 36614, `flmortimer-child-who-died-and-lived-again` (23 units) |
+| Christ in the Storm No. 26 | have | PG 37611, `flmortimer-christ-in-the-storm-no-26` (26 units) |
+| The Peep of Day | have | PG 53894, `flmortimer-peep-of-day` (1276 units) |
