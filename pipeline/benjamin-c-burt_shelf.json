@@ -1,0 +1,39 @@
+{
+ "_about": "Benjamin Chapman Burt (1852-1915): A Brief History of Greek Philosophy (Boston: Ginn, 1889). His History of Modern Philosophy (1892) is outside lane B. Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Benjamin Chapman Burt (1852-1915)",
+ "_name_words": [
+  "burt",
+  "benjamin",
+  "chapman",
+  "greek",
+  "philosophy"
+ ],
+ "_surname": [
+  "b. c. burt",
+  "benjamin c. burt",
+  "benjamin chapman burt",
+  "chapman burt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burt-brief-history-greek-philosophy-1889": [
+   "briefhistoryofgr00burt",
+   "A Brief History of Greek Philosophy (Boston: Ginn, 1889)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "burt-brief-history-greek-philosophy-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. c. burt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

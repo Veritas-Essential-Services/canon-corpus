@@ -10283,3 +10283,12 @@ Shelf: `pipeline/aubrey-gwynn_shelf.json`. Roman Education from Cicero to Quinti
 |---|---|---|---|
 | Roman Education from Cicero to Quintilian (Oxford: Clarendon Press, 1926) |  | `gwynn-roman-education-cicero-quintilian-1926` | have-raw (IA `romaneducationfr0000gwyn_n9h9`) |
 
+
+## Benjamin Chapman Burt (1852-1915)
+
+Shelf: `pipeline/benjamin-c-burt_shelf.json`. A Brief History of Greek Philosophy (Boston: Ginn, 1889). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Brief History of Greek Philosophy (Boston: Ginn, 1889) |  | `burt-brief-history-greek-philosophy-1889` | have-raw (IA `briefhistoryofgr00burt`) |
+
