@@ -1,0 +1,538 @@
+{
+ "_about": "Storytellers' tail, group 26: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): George L. Craik, Georgiana M. Craik, Walter S. Cramp, Christopher Pearse Cranch, Lathan A. Crandall, William E. Crane, James Ashmore Creelman, H. N. Crellin, Charles N. Crewdson, George Croly, Robert Cromie, Ernest Crosby, Newton Crosland, Mary Catherine Crowley, R. H. Crozier, C. R. M. F. Cruttwell, Harle Oren Cummins, Maria S. Cummins, Marguerite Cunliffe-Owen, H. S. Cunningham, George Cupples, Henry Curling, John Allister Currie, Charles A. Curtis, Wardon Allan Curtis, M. A. Curtois, O. P. Cutter, Virginius Dabney, Charles Romyn Dake, Alan Dale. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 26 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "glcraik-john-rutherford-the-white-chief": [
+   "george l. craik",
+   "george lillie craik",
+   "craik"
+  ],
+  "gmcraik-bow-wow-and-mew-mew": [
+   "georgiana m. craik",
+   "georgiana marion craik",
+   "craik"
+  ],
+  "wscramp-psyche": [
+   "walter s. cramp",
+   "walter samuel cramp",
+   "cramp"
+  ],
+  "cpcranch-last-of-the-huggermuggers": [
+   "christopher pearse cranch",
+   "cranch"
+  ],
+  "lacrandall-days-in-the-open": [
+   "lathan a. crandall",
+   "lathan augustus crandall",
+   "crandall"
+  ],
+  "wecrane-bugle-blasts-read-before-the-ohio-commandery-of-the": [
+   "william e. crane",
+   "william edmund crane",
+   "crane"
+  ],
+  "jacreelman-vagabond-lover": [
+   "james ashmore creelman",
+   "creelman"
+  ],
+  "hncrellin-tales-of-the-caliph": [
+   "h. n. crellin",
+   "horatio nelson crellin",
+   "crellin"
+  ],
+  "cncrewdson-tales-of-the-road": [
+   "charles n. crewdson",
+   "charles newman crewdson",
+   "crewdson"
+  ],
+  "gcroly-tarry-thou-till-i-come": [
+   "george croly",
+   "croly"
+  ],
+  "rcromie-crack-of-doom": [
+   "robert cromie",
+   "cromie"
+  ],
+  "ecrosby-captain-jinks-hero": [
+   "ernest crosby",
+   "crosby"
+  ],
+  "ncrosland-young-lord-and-other-tales": [
+   "newton crosland",
+   "crosland"
+  ],
+  "mccrowley-apples-ripe-and-rosy-sir-and-other-stories-for-boy": [
+   "mary catherine crowley",
+   "crowley"
+  ],
+  "rhcrozier-deep-waters": [
+   "r. h. crozier",
+   "robert hoskins crozier",
+   "crozier"
+  ],
+  "crmfcruttwell-war-service-of-the-1-4-royal-berkshire-regimen": [
+   "c. r. m. f. cruttwell",
+   "charles robert mowbray fraser cruttwell",
+   "cruttwell"
+  ],
+  "hocummins-welsh-rarebit-tales": [
+   "harle oren cummins",
+   "cummins"
+  ],
+  "mscummins-lamplighter": [
+   "maria s. cummins",
+   "maria susanna cummins",
+   "cummins"
+  ],
+  "mcunliffeowen-moonglade": [
+   "marguerite cunliffe-owen",
+   "cunliffe-owen"
+  ],
+  "hscunningham-chronicles-of-dustypore": [
+   "h. s. cunningham",
+   "henry stewart cunningham",
+   "cunningham"
+  ],
+  "gcupples-green-hand": [
+   "george cupples",
+   "cupples"
+  ],
+  "hcurling-william-shakespeare-as-he-lived": [
+   "henry curling",
+   "curling"
+  ],
+  "jacurrie-the-red-watch": [
+   "john allister currie",
+   "currie"
+  ],
+  "cacurtis-captured-by-the-navajos": [
+   "charles a. curtis",
+   "charles albert curtis",
+   "curtis"
+  ],
+  "wacurtis-strange-adventures-of-mr-middleton": [
+   "wardon allan curtis",
+   "curtis"
+  ],
+  "macurtois-jenny": [
+   "m. a. curtois",
+   "margaret anne curtois",
+   "curtois"
+  ],
+  "opcutter-our-battery": [
+   "o. p. cutter",
+   "orlando phelps cutter",
+   "cutter"
+  ],
+  "vdabney-story-of-don-miff": [
+   "virginius dabney",
+   "dabney"
+  ],
+  "crdake-strange-discovery": [
+   "charles romyn dake"
+  ],
+  "adale-wanted": [
+   "alan dale"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "glcraik-john-rutherford-the-white-chief": [
+   13760,
+   "John Rutherford, the White Chief: A Story of Adventure in New Zealand"
+  ],
+  "gmcraik-bow-wow-and-mew-mew": [
+   44914,
+   "Bow-Wow and Mew-Mew"
+  ],
+  "wscramp-psyche": [
+   74136,
+   "Psyche"
+  ],
+  "cpcranch-last-of-the-huggermuggers": [
+   6914,
+   "The Last of the Huggermuggers"
+  ],
+  "lacrandall-days-in-the-open": [
+   47256,
+   "Days in the Open"
+  ],
+  "wecrane-bugle-blasts-read-before-the-ohio-commandery-of-the": [
+   31049,
+   "Bugle Blasts Read before the Ohio Commandery of the Military Order of the Loyal Legion of the United States"
+  ],
+  "jacreelman-vagabond-lover": [
+   77384,
+   "The vagabond lover"
+  ],
+  "hncrellin-tales-of-the-caliph": [
+   22258,
+   "Tales of the Caliph"
+  ],
+  "cncrewdson-tales-of-the-road": [
+   6103,
+   "Tales of the Road"
+  ],
+  "gcroly-tarry-thou-till-i-come": [
+   56750,
+   "Tarry thou till I come; or, Salathiel, the wandering Jew."
+  ],
+  "rcromie-crack-of-doom": [
+   26563,
+   "The Crack of Doom"
+  ],
+  "ecrosby-captain-jinks-hero": [
+   19353,
+   "Captain Jinks, Hero"
+  ],
+  "ncrosland-young-lord-and-other-tales": [
+   24403,
+   "The Young Lord, and Other Tales; to which is added Victorine Durocher"
+  ],
+  "mccrowley-apples-ripe-and-rosy-sir-and-other-stories-for-boy": [
+   13324,
+   "Apples, Ripe and Rosy, Sir And Other Stories for Boys and Girls"
+  ],
+  "rhcrozier-deep-waters": [
+   65445,
+   "Deep Waters; Or, A Strange Story"
+  ],
+  "crmfcruttwell-war-service-of-the-1-4-royal-berkshire-regimen": [
+   22028,
+   "The War Service of the 1/4 Royal Berkshire Regiment (T. F.)"
+  ],
+  "hocummins-welsh-rarebit-tales": [
+   60294,
+   "Welsh Rarebit Tales"
+  ],
+  "mscummins-lamplighter": [
+   31869,
+   "The Lamplighter"
+  ],
+  "mcunliffeowen-moonglade": [
+   64546,
+   "Moonglade"
+  ],
+  "hscunningham-chronicles-of-dustypore": [
+   41190,
+   "Chronicles of Dustypore: A Tale of Modern Anglo-Indian Society"
+  ],
+  "gcupples-green-hand": [
+   46475,
+   "The Green Hand: Adventures of a Naval Lieutenant"
+  ],
+  "hcurling-william-shakespeare-as-he-lived": [
+   34796,
+   "William Shakespeare as He Lived: An Historical Tale"
+  ],
+  "jacurrie-the-red-watch": [
+   28116,
+   "\"The Red Watch\": With the First Canadian Division in Flanders"
+  ],
+  "cacurtis-captured-by-the-navajos": [
+   18352,
+   "Captured by the Navajos"
+  ],
+  "wacurtis-strange-adventures-of-mr-middleton": [
+   27917,
+   "The Strange Adventures of Mr. Middleton"
+  ],
+  "macurtois-jenny": [
+   66367,
+   "Jenny: A Village Idyl"
+  ],
+  "opcutter-our-battery": [
+   31887,
+   "Our Battery; Or, The Journal of Company B, 1st O.V.A."
+  ],
+  "vdabney-story-of-don-miff": [
+   73601,
+   "The story of Don Miff"
+  ],
+  "crdake-strange-discovery": [
+   8665,
+   "A Strange Discovery"
+  ],
+  "adale-wanted": [
+   43983,
+   "Wanted: A Cook Domestic Dialogues"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "glcraik-john-rutherford-the-white-chief": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george l. craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gmcraik-bow-wow-and-mew-mew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "georgiana m. craik",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wscramp-psyche": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter s. cramp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cpcranch-last-of-the-huggermuggers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christopher pearse cranch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lacrandall-days-in-the-open": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lathan a. crandall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wecrane-bugle-blasts-read-before-the-ohio-commandery-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william e. crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacreelman-vagabond-lover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james ashmore creelman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hncrellin-tales-of-the-caliph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. n. crellin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cncrewdson-tales-of-the-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles n. crewdson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcroly-tarry-thou-till-i-come": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george croly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rcromie-crack-of-doom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert cromie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecrosby-captain-jinks-hero": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest crosby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ncrosland-young-lord-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "newton crosland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mccrowley-apples-ripe-and-rosy-sir-and-other-stories-for-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary catherine crowley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhcrozier-deep-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. h. crozier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crmfcruttwell-war-service-of-the-1-4-royal-berkshire-regimen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. r. m. f. cruttwell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hocummins-welsh-rarebit-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harle oren cummins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscummins-lamplighter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maria s. cummins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcunliffeowen-moonglade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marguerite cunliffe-owen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hscunningham-chronicles-of-dustypore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. s. cunningham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcupples-green-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cupples",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcurling-william-shakespeare-as-he-lived": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry curling",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacurrie-the-red-watch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john allister currie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cacurtis-captured-by-the-navajos": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. curtis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wacurtis-strange-adventures-of-mr-middleton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wardon allan curtis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "macurtois-jenny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. a. curtois",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "opcutter-our-battery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "o. p. cutter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vdabney-story-of-don-miff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virginius dabney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crdake-strange-discovery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles romyn dake",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adale-wanted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alan dale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

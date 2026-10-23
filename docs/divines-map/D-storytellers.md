@@ -20395,3 +20395,40 @@ Shelf: `pipeline/storytellers-tail-25_shelf.json` (2026-10-22; added at the coor
 | The Chronicles of Rhoda | have | PG 40526, `ftcox-chronicles-of-rhoda` (1235 units) |
 | The Young Trail Hunters Or, the Wild Riders of the Plains. The Veritable Adventures of Hal Hyde and Ned Brown, on Their Journey Across the Great Plains of the South-West | have | PG 10810, `swcozzens-young-trail-hunters-or-the-wild-riders-of-the-plai` (1287 units) |
 | Pen Pictures, of Eventful Scenes and Struggles of Life | have | PG 47558, `bfcraig-pen-pictures-of-eventful-scenes-and-struggles-of-lif` (420 units) |
+
+## Storytellers' tail, group 26 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-26_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: George L. Craik, Georgiana M. Craik, Walter S. Cramp, Christopher Pearse Cranch, Lathan A. Crandall, William E. Crane, James Ashmore Creelman, H. N. Crellin, Charles N. Crewdson, George Croly, Robert Cromie, Ernest Crosby, Newton Crosland, Mary Catherine Crowley, R. H. Crozier, C. R. M. F. Cruttwell, Harle Oren Cummins, Maria S. Cummins, Marguerite Cunliffe-Owen, H. S. Cunningham, George Cupples, Henry Curling, John Allister Currie, Charles A. Curtis, Wardon Allan Curtis, M. A. Curtois, O. P. Cutter, Virginius Dabney, Charles Romyn Dake, Alan Dale. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| John Rutherford, the White Chief: A Story of Adventure in New Zealand | have | PG 13760, `glcraik-john-rutherford-the-white-chief` (663 units) |
+| Bow-Wow and Mew-Mew | have | PG 44914, `gmcraik-bow-wow-and-mew-mew` (584 units) |
+| Psyche | have | PG 74136, `wscramp-psyche` (2144 units) |
+| The Last of the Huggermuggers | have | PG 6914, `cpcranch-last-of-the-huggermuggers` (137 units) |
+| Days in the Open | have | PG 47256, `lacrandall-days-in-the-open` (634 units) |
+| Bugle Blasts Read before the Ohio Commandery of the Military Order of the Loyal Legion of the United States | have | PG 31049, `wecrane-bugle-blasts-read-before-the-ohio-commandery-of-the` (38 units) |
+| The vagabond lover | have | PG 77384, `jacreelman-vagabond-lover` (1369 units) |
+| Tales of the Caliph | have | PG 22258, `hncrellin-tales-of-the-caliph` (931 units) |
+| Tales of the Road | have | PG 6103, `cncrewdson-tales-of-the-road` (1365 units) |
+| Tarry thou till I come; or, Salathiel, the wandering Jew. | have | PG 56750, `gcroly-tarry-thou-till-i-come` (3409 units) |
+| The Crack of Doom | have | PG 26563, `rcromie-crack-of-doom` (1060 units) |
+| Captain Jinks, Hero | have | PG 19353, `ecrosby-captain-jinks-hero` (1464 units) |
+| The Young Lord, and Other Tales; to which is added Victorine Durocher | have | PG 24403, `ncrosland-young-lord-and-other-tales` (426 units) |
+| Apples, Ripe and Rosy, Sir And Other Stories for Boys and Girls | have | PG 13324, `mccrowley-apples-ripe-and-rosy-sir-and-other-stories-for-boy` (1149 units) |
+| Deep Waters; Or, A Strange Story | have | PG 65445, `rhcrozier-deep-waters` (1780 units) |
+| The War Service of the 1/4 Royal Berkshire Regiment (T. F.) | have | PG 22028, `crmfcruttwell-war-service-of-the-1-4-royal-berkshire-regimen` (236 units) |
+| Welsh Rarebit Tales | have | PG 60294, `hocummins-welsh-rarebit-tales` (592 units) |
+| The Lamplighter | have | PG 31869, `mscummins-lamplighter` (2953 units) |
+| Moonglade | have | PG 64546, `mcunliffeowen-moonglade` (2043 units) |
+| Chronicles of Dustypore: A Tale of Modern Anglo-Indian Society | have | PG 41190, `hscunningham-chronicles-of-dustypore` (1048 units) |
+| The Green Hand: Adventures of a Naval Lieutenant | have | PG 46475, `gcupples-green-hand` (1109 units) |
+| William Shakespeare as He Lived: An Historical Tale | have | PG 34796, `hcurling-william-shakespeare-as-he-lived` (3059 units) |
+| "The Red Watch": With the First Canadian Division in Flanders | have | PG 28116, `jacurrie-the-red-watch` (1399 units) |
+| Captured by the Navajos | have | PG 18352, `cacurtis-captured-by-the-navajos` (1343 units) |
+| The Strange Adventures of Mr. Middleton | have | PG 27917, `wacurtis-strange-adventures-of-mr-middleton` (816 units) |
+| Jenny: A Village Idyl | have | PG 66367, `macurtois-jenny` (673 units) |
+| Our Battery; Or, The Journal of Company B, 1st O.V.A. | have | PG 31887, `opcutter-our-battery` (497 units) |
+| The story of Don Miff | have | PG 73601, `vdabney-story-of-don-miff` (4113 units) |
+| A Strange Discovery | have | PG 8665, `crdake-strange-discovery` (499 units) |
+| Wanted: A Cook Domestic Dialogues | have | PG 43983, `adale-wanted` (1441 units) |
