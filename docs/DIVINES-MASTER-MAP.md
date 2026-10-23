@@ -10498,6 +10498,16 @@ Slugs `haweis-*`. Built from title pages read for round 43.
 | Evangelical principles and practice: being fourteen sermons, preached in the parish-church of St. Mary Magdalen in Oxford. To which is added, The communicant's spiritual companion; or, An evangelical preparation for the Lord's Supper ... With meditations and helps for prayer, suitable to the subject (Newburyport, Printed by Edmund M. Blunt, 1803) | have-ocr | IA `evangelicalprinc00hawe` |
 | The life of William Romaine, M.A (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_the-life-of-william-roma_haweis-thomas_1797` |
 | The Google copies of the History (1800, 1807); Essays on the Evidence (1790, 1791) | alternate | not shelved |
+
+## Samuel Walker of Truro (round 43, my pick, 2026-10-22)
+
+Slugs `walker-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Christ the purifier : ten discourses upon the sanctification of believers, through the love and grace of Jesus Christ (London : Printed for L.B. Seeley, 1817) | have-ocr | IA `christpurifierte00walk` |
+| The Christian : a course of practical sermons (Glasgow : Printed for Chalmers and Collins, 1825) | have-ocr | IA `christiancourseo00walk` |
+| Fifty-two lectures on the church catechism ; including the creed, the ten commandments, and other important subjects of practical religion (London : Hamilton, Adams, & Co., 1836) | have-ocr | IA `fiftytwolecture00lawsgoog` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

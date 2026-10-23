@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain Samuel Walker of Truro (1714-1761), Cornish evangelical, for the Word Hoard: Christ the Purifier (London 1817), The Christian, a course of practical sermons (Glasgow 1825), and Fifty-two Lectures on the Church Catechism (London 1836), from Internet Archive scans. Added 2026-10-23 by lane A, round 43 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "walker",
+  "truro"
+ ],
+ "_surname": [
+  "samuel walker",
+  "walker of truro"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "walker-christ-purifier": [
+   "christpurifierte00walk",
+   "Christ the purifier : ten discourses upon the sanctification of believers, through the love and grace of Jesus Christ (London : Printed for L.B. Seeley, 1817)"
+  ],
+  "walker-the-christian": [
+   "christiancourseo00walk",
+   "The Christian : a course of practical sermons (Glasgow : Printed for Chalmers and Collins, 1825)"
+  ],
+  "walker-catechism-lectures": [
+   "fiftytwolecture00lawsgoog",
+   "Fifty-two lectures on the church catechism ; including the creed, the ten commandments, and other important subjects of practical religion (London : Hamilton, Adams, & Co., 1836)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "walker-christ-purifier": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walker-the-christian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "walker-catechism-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel walker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
