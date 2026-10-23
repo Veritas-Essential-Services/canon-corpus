@@ -1,0 +1,181 @@
+{
+ "_about": "Public-domain John Hurrion (1675?-1731), Independent minister at Hare Court, London, and Merchants' lecturer at Pinners' Hall, for the Word Hoard: The Knowledge of Christ and Him Crucified, The Knowledge of Christ Glorified, The Scripture Doctrine of the Holy Spirit, his occasional sermons, Christ Crucified and Glorified, and a volume of the 1823 Whole Works. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 98 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john hurrion",
+  "hurrion"
+ ],
+ "_surname": [
+  "john hurrion",
+  "hurrion"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hurrion-hope-resurrection": [
+   "bim_eighteenth-century_the-hope-and-resurrectio_hurrion-john_1712",
+   "The hope and resurrection of the dead. A funeral sermon on the death of Mrs. Esther Tompson. By John Hurrion.  1712 (catalogued 1712)"
+  ],
+  "hurrion-rights-duties": [
+   "bim_eighteenth-century_the-rights-and-duties-of_hurrion-john_1721",
+   "The rights and duties of ministers and people. A sermon preached August 10th, 1721. on the solemn occasion of the settlement of the Reverend Mr. Milway, in the pastoral care of a church of Christ in Ipswich. By John Hurrion.  1721 (catalogued 1721)"
+  ],
+  "hurrion-christ-crucified-1727": [
+   "bim_eighteenth-century_the-knowledge-of-christ-_hurrion-john_1727",
+   "The knowledge of Christ, and him crucified, opened and applied; in eight sermons preached at the Merchants lecture at Pinner's-Hall: by John Hurrion.  1727 (catalogued 1727)"
+  ],
+  "hurrion-hidden-life": [
+   "bim_eighteenth-century_the-christians-hidden-l_hurrion-john_1728",
+   "The Christian's hidden life. A funeral sermon occasion'd by the death of the late reverend and learned Mr. John Nesbitt ... preached October the 29th. By John Hurrion.  1728 (catalogued 1728)"
+  ],
+  "hurrion-christ-glorified-1729": [
+   "bim_eighteenth-century_the-knowledge-of-christ-_hurrion-john_1729",
+   "The knowledge of Christ glorified, opened and applied, in twelve sermons, on Christ's resurrection, ascension, ... preached at the Merchants lecture, at Pinner's Hall. By John Hurrion.  1729 (catalogued 1729)"
+  ],
+  "hurrion-early-instruction": [
+   "bim_eighteenth-century_early-instruction-of-chi_hurrion-john_1730",
+   "Early instruction of children explain'd and recommended. A sermon preach'd in Gravel-Lane, Southwark, ... January the first 1729/30. By John Hurrion. ...  1730 (catalogued 1730)"
+  ],
+  "hurrion-work-of-ministers": [
+   "bim_eighteenth-century_of-the-work-of-ministers_hurrion-john_1731",
+   "Of the work of ministers, and the respect due to them from their people: a sermon preached at Deptford in Kent, no [sic] New Years day, MDCCXXXI, at the ordination of Mr. Abraham Taylor; with a charge deliver'd on that occasion by John Hurrion. To wh (catalogued 1731)"
+  ],
+  "hurrion-holy-spirit": [
+   "scripturedoctrin00hurr",
+   "The Scripture doctrine or the proper divinity, real personality, and the external and extraordinary works of the Holy Spirit : stated and defended in sixteen sermons, preach'd at the Merchants Lecture at Pinners-Hall, in the years 1729, 1730, 1731 (London : Printed for J. Oswald, 1734)"
+  ],
+  "hurrion-christ-crucified-glorified": [
+   "christcrucifiedg01hurr",
+   "Christ crucified and glorified : sermons preached at Merchant's-Lecture, in Pinner's-Hall, vol. 1 (London : Ogle, Duncan & Co., 1823)"
+  ],
+  "hurrion-works-3": [
+   "wholeworksofrevj03hurr",
+   "The whole works of the Rev. John Hurrion, late minister of the Gospel in London : now first collected; to which is prefixed, The Life of the Author, vol. 3 (London : Printed for Richard Baynes by J. Henman, 1823)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hurrion-judah-preserved": "bim_eighteenth-century_judah-preserved-and-inv_hurrion-john_1744: preached at Gosport in 1744, after the elder Hurrion's death in 1731; by a younger John Hurrion",
+  "hurrion-national-sins": "bim_eighteenth-century_a-serious-enquiry-into-n_hurrion-john_1741: preached at Gosport in 1741, after the elder Hurrion's death in 1731; by a younger John Hurrion"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hurrion-early-instruction": "Title page image: 'Early instruction of Children explain'd and recommended. A Sermon preach'd in Gravel-lane, Southwark, for the Benefit of a Charity-School there. January the First 1729/30. By John Hurrion... London: Printed for Richard Hett... MDCCXXX.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hurrion-hope-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hurrion",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1712",
+   "ia_date": "1712",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurrion-rights-duties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hurrion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurrion-christ-crucified-1727": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hurrion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurrion-hidden-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hurrion",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurrion-christ-glorified-1729": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hurrion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1729",
+   "ia_date": "1729",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurrion-early-instruction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1730",
+   "ia_date": "1730",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurrion-work-of-ministers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hurrion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1731",
+   "ia_date": "1731",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hurrion-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hurrion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hurrion-christ-crucified-glorified": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hurrion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hurrion-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hurrion",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -16014,6 +16014,25 @@ Slugs `moxom-*`. Built from title pages read for round 98.
 | Mary Lyon centennial and the higher education of women (Springfield, Massachusetts, Press of Springfield industrial institute, 1897) | have-ocr | IA `marylyoncentenni00moxo` |
 | Belief in God the essential condition of national permanence and prosperity : a sermon preached at the Seventy-fourth Annual Meeting of the Congregational Home Missionary Society, at Detroit, Michigan, June 5th, 1900 ([S.l.] : Congregational Home Missionary Society, 1900) | have-ocr | IA `cihm_40559` |
 | Two Masters: Browning and Turgenief (literary criticism, not theology) | excluded | |
+
+## John Hurrion (round 98, my pick, 2026-10-23)
+
+Slugs `hurrion-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The hope and resurrection of the dead. A funeral sermon on the death of Mrs. Esther Tompson. By John Hurrion.  1712 (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_the-hope-and-resurrectio_hurrion-john_1712` |
+| The rights and duties of ministers and people. A sermon preached August 10th, 1721. on the solemn occasion of the settlement of the Reverend Mr. Milway, in the pastoral care of a church of Christ in Ipswich. By John Hurrion.  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_the-rights-and-duties-of_hurrion-john_1721` |
+| The knowledge of Christ, and him crucified, opened and applied; in eight sermons preached at the Merchants lecture at Pinner's-Hall: by John Hurrion.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_the-knowledge-of-christ-_hurrion-john_1727` |
+| The Christian's hidden life. A funeral sermon occasion'd by the death of the late reverend and learned Mr. John Nesbitt ... preached October the 29th. By John Hurrion.  1728 (catalogued 1728) | have-ocr | IA `bim_eighteenth-century_the-christians-hidden-l_hurrion-john_1728` |
+| The knowledge of Christ glorified, opened and applied, in twelve sermons, on Christ's resurrection, ascension, ... preached at the Merchants lecture, at Pinner's Hall. By John Hurrion.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_the-knowledge-of-christ-_hurrion-john_1729` |
+| Early instruction of children explain'd and recommended. A sermon preach'd in Gravel-Lane, Southwark, ... January the first 1729/30. By John Hurrion. ...  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_early-instruction-of-chi_hurrion-john_1730` |
+| Of the work of ministers, and the respect due to them from their people: a sermon preached at Deptford in Kent, no [sic] New Years day, MDCCXXXI, at the ordination of Mr. Abraham Taylor; with a charge deliver'd on that occasion by John Hurrion. To wh (catalogued 1731) | have-ocr | IA `bim_eighteenth-century_of-the-work-of-ministers_hurrion-john_1731` |
+| The Scripture doctrine or the proper divinity, real personality, and the external and extraordinary works of the Holy Spirit : stated and defended in sixteen sermons, preach'd at the Merchants Lecture at Pinners-Hall, in the years 1729, 1730, 1731 (London : Printed for J. Oswald, 1734) | have-ocr | IA `scripturedoctrin00hurr` |
+| Christ crucified and glorified : sermons preached at Merchant's-Lecture, in Pinner's-Hall, vol. 1 (London : Ogle, Duncan & Co., 1823) | have-ocr | IA `christcrucifiedg01hurr` |
+| The whole works of the Rev. John Hurrion, late minister of the Gospel in London : now first collected; to which is prefixed, The Life of the Author, vol. 3 (London : Printed for Richard Baynes by J. Henman, 1823) | have-ocr | IA `wholeworksofrevj03hurr` |
+| bim_eighteenth-century_judah-preserved-and-inv_hurrion-john_1744: preached at Gosport in 1744, after the elder Hurrion's death in 1731; by a younger John Hurrion | excluded | |
+| bim_eighteenth-century_a-serious-enquiry-into-n_hurrion-john_1741: preached at Gosport in 1741, after the elder Hurrion's death in 1731; by a younger John Hurrion | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
