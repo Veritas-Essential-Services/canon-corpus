@@ -1,0 +1,137 @@
+{
+ "_about": "Saki (H. H. Munro)'s writing at Gutenberg: short stories and novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Saki (H. H. Munro)",
+ "_name_words": [
+  "munro",
+  "saki"
+ ],
+ "_surname": [
+  "saki",
+  "h. h. munro"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "saki-beasts-and-super-beasts": [
+   269,
+   "Beasts and Super-Beasts"
+  ],
+  "saki-unbearable-bassington": [
+   555,
+   "The Unbearable Bassington"
+  ],
+  "saki-toys-of-peace-and-other-papers": [
+   1477,
+   "The Toys of Peace, and Other Papers"
+  ],
+  "saki-reginald-in-russia-and-other-sketches": [
+   1870,
+   "Reginald in Russia, and Other Sketches"
+  ],
+  "saki-reginald": [
+   2830,
+   "Reginald"
+  ],
+  "saki-chronicles-of-clovis": [
+   3688,
+   "The Chronicles of Clovis"
+  ],
+  "saki-when-william-came": [
+   14540,
+   "When William Came"
+  ],
+  "saki-rise-of-the-russian-empire": [
+   45099,
+   "The Rise of the Russian Empire"
+  ],
+  "saki-westminster-alice": [
+   58201,
+   "The Westminster Alice"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "saki-beasts-and-super-beasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-unbearable-bassington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-toys-of-peace-and-other-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-reginald-in-russia-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-reginald": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-chronicles-of-clovis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-when-william-came": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-rise-of-the-russian-empire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "saki-westminster-alice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "saki",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

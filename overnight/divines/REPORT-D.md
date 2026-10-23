@@ -2105,3 +2105,6 @@
 
 ## 2026-10-22 22:45 CDT — ada-cambridge: done
 - ada-cambridge: new shelf, 10 Gutenberg books, 9,388 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — saki: done
+- saki: new shelf, 9 Gutenberg books, 6,609 units, 160 ~2 ids; verify 0 mismatches, 0 rights flags.

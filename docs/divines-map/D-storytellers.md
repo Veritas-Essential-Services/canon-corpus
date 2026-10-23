@@ -15835,3 +15835,19 @@ Shelf: `pipeline/ada-cambridge_shelf.json` (2026-10-22; added at the coordinator
 | The Retrospect | have | PG 42270, `acambridge-retrospect` (565 units) |
 | The Three Miss Kings: An Australian Story | have | PG 50476, `acambridge-three-miss-kings` (1621 units) |
 | In two years' time, Vol. 1 (of 2) | have | PG 73287, `acambridge-in-two-years-time-vol-1-of-2` (553 units) |
+
+## Saki (H. H. Munro)
+
+Shelf: `pipeline/saki_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Short stories and novels. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Beasts and Super-Beasts | have | PG 269, `saki-beasts-and-super-beasts` (1323 units) |
+| The Unbearable Bassington | have | PG 555, `saki-unbearable-bassington` (703 units) |
+| The Toys of Peace, and Other Papers | have | PG 1477, `saki-toys-of-peace-and-other-papers` (1110 units) |
+| Reginald in Russia, and Other Sketches | have | PG 1870, `saki-reginald-in-russia-and-other-sketches` (453 units) |
+| Reginald | have | PG 2830, `saki-reginald` (257 units) |
+| The Chronicles of Clovis | have | PG 3688, `saki-chronicles-of-clovis` (1024 units) |
+| When William Came | have | PG 14540, `saki-when-william-came` (686 units) |
+| The Rise of the Russian Empire | have | PG 45099, `saki-rise-of-the-russian-empire` (729 units) |
+| The Westminster Alice | have | PG 58201, `saki-westminster-alice` (324 units) |
