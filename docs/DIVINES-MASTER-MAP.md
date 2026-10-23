@@ -19497,6 +19497,15 @@ Shelf: `pipeline/walther-amelung_shelf.json`. The Museums and Ruins of Rome, 2 v
 | The Museums and Ruins of Rome, vol. I: The Museums (1906; this printing 1912) |  | `amelung-museums-ruins-rome-vol-1` | have-raw (IA `museumsruinsofro01amel_0`) |
 | The Museums and Ruins of Rome, vol. II: The Ruins (1906; this printing 1912) |  | `amelung-museums-ruins-rome-vol-2` | have-raw (IA `museumsruinsofro02amel_0`) |
 
+
+## C. W. L. Launspach
+
+Shelf: `pipeline/c-w-l-launspach_shelf.json`. State and Family in Early Rome (1908). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| State and Family in Early Rome (1908) |  | `launspach-state-family-early-rome-1908` | have-raw (IA `cu31924030431294`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
