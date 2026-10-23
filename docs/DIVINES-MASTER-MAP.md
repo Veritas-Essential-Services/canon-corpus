@@ -18754,6 +18754,19 @@ Slugs `parkinson-*`. Built from title pages read for round 127.
 | A Selection of Hymns and Spiritual Songs (1817), IA selectionofhym1817park: a hymnal he compiled (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | cihm_20977 and jubileesermonco00park are other scans or a later edition | excluded | |
 | A Discussion of the Weekly Sabbath is by another author | excluded | |
+
+## Morgan Cowie (round 127, my pick, 2026-10-23)
+
+Slugs `cowie-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Ten sermons preached before the University of Cambridge : including the Hulsean lectures for 1853, and two other sermons (London : F. and J. Rivington ; Cambridge : J. Deighton, 1853) | have-ocr | IA `tensermonsprea00cowi` |
+| Scripture difficulties : sermons preached before the University of Cambridge, including the Hulsean lectures for 1854 and three other sermons (London : Rivingtons, 1855) | have-ocr | IA `scripturedifficu00cowi` |
+| On sacrifice: the Atonement, Vicarious oblation, and Example of Christ; and The punishment of (catalogued 1856) | have-ocr | IA `onsacrificeaton00cowigoog` |
+| Reminiscences of a city church : including an account of the missionary services in the Church of S. Lawrence and S. Mary Magdalen, September 1867, vol. Talbot collection of British pamphlets (London : Dalton & Lucy, booksellers to the Queen and to H.R.H. the Prince of Wales, 28 Cockspur Street, Charing Cross, 1867) | have-ocr | IA `reminiscencesofc00cowi` |
+| his catalogue of St John's College manuscripts is bibliography | excluded | |
+| a collection of examination questions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
