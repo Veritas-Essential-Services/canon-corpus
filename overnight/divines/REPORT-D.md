@@ -1874,3 +1874,6 @@
 
 ## 2026-10-22 22:25 CDT — john-fox-jr: done
 - john-fox-jr: new shelf, 13 Gutenberg books, 10,427 units, 64 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:26 CDT — alfred-henry-lewis: Wolfville Days restored
+- The post-1930 scan read the 2001 copyright on Gutenberg's own header text in an old-format file as the book's. The scan now skips Gutenberg's header and legal lines. alfred-henry-lewis: new shelf, 16 Gutenberg books, 21,941 units, 145 ~2 ids; verify 0 mismatches, 0 rights flags.

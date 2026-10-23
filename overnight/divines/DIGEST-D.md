@@ -558,7 +558,7 @@ All 413 Lane D shelf URLs (16 shelves) re-checked at the end of the third run: a
 | `f-anstey` | 17 Gutenberg | 0 | 25,852 | Comic fantasies and sketches. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. Post-1930 printings held. |
 | `sarah-tytler` | 17 Gutenberg | 0 | 12,957 | Novels and books for girls. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. |
 | `arthur-b-reeve` | 16 Gutenberg | 0 | 35,907 | Craig Kennedy detective stories. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. 1 files listed in _excluded (second copies, anthologies, indexes). |
-| `alfred-henry-lewis` | 15 Gutenberg | 0 | 20,708 | Wolfville Western tales. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. 1 files listed in _excluded (second copies, anthologies, indexes). Post-1930 printings held. |
+| `alfred-henry-lewis` | 16 Gutenberg | 0 | 21,941 | Wolfville Western tales. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. 1 files listed in _excluded (second copies, anthologies, indexes). |
 | `ruth-lamb` | 17 Gutenberg | 0 | 12,453 | Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. |
 | `prentiss-ingraham` | 17 Gutenberg | 0 | 43,730 | Dime-novel Westerns and sea stories. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. |
 | `cyrus-townsend-brady` | 17 Gutenberg | 0 | 26,856 | Historical and naval romances. Every English text under the name at Gutenberg that no other shelf holds; added 2026-10-22. |

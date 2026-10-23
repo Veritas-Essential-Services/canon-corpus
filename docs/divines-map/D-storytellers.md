@@ -13937,7 +13937,7 @@ Shelf: `pipeline/arthur-b-reeve_shelf.json` (2026-10-22; added at the coordinato
 
 ## Alfred Henry Lewis
 
-Shelf: `pipeline/alfred-henry-lewis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Wolfville Western tales. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+Shelf: `pipeline/alfred-henry-lewis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Wolfville Western tales. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
 
 | Work | Status | Where |
 |---|---|---|
@@ -13957,7 +13957,7 @@ Shelf: `pipeline/alfred-henry-lewis_shelf.json` (2026-10-22; added at the coordi
 | Peggy O'Neal | have | PG 53992, `ahlewis-peggy-oneal` (1871 units) |
 | The Black Lion Inn | have | PG 55471, `ahlewis-black-lion-inn` (1425 units) |
 | pg-57708 | excluded | PG 57708: Gutenberg's index of the author's works, not a book. |
-| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 3667 Wolfville Days (copyright line 2001). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+| Wolfville Days | have | PG 3667, `ahlewis-wolfville-days` (1233 units) |
 
 ## Ruth Lamb
 
