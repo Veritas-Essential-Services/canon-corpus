@@ -12997,6 +12997,28 @@ Slugs `hstowell-*`. Built from title pages read for round 65.
 | Sermons preached in Christ Church, Salford (London : William Tegg, 1869) | have-ocr | IA `sermonspreachedi00stow` |
 | The passover : and other sermons preached in Christ Church, Salford (London : William Tegg, 1869) | have-ocr | IA `passoverotherser00stow` |
 | Hugh Stowell Brown's works; Thomas Alfred Stowell's memoir of him | excluded | |
+
+## William Goode (1801-1868) (round 65, my pick, 2026-10-23)
+
+Slugs `wgoode-*`. Built from title pages read for round 65.
+
+| Work | Status | Where |
+|---|---|---|
+| The modern claims to the possession of the extraordinary gifts of the spirit, stated and examined : and compared with the most remarkable cases of a similar kind that have occurred in the Christian church : with some general observations on the subject (London : J. Hatchard and Son, 1834) | have-ocr | IA `modernclaimstopo00good` |
+| The divine rule of faith and practice, or, A defence of the catholic doctrine that Holy Scripture has been, since the times of the Apostles, the sole divine rule of faith and practice to the church (London : John Henry Jackson, 1853) | have-ocr | IA `divinerulefaith01goodgoog` |
+| The divine rule of Faith and practice, or, A defence of the Catholic doctrine that Holy Scripture has been, since the times of the Apostles, the sole divine rule of faith and practice to the Church, against the dangerous errors of the authors of the Tracts for the Times and the Romanists, in which also the doctrines of the Apostolical succession, the Eucharistic sacrifice, etc. are fully discussed. --, vol. 2 (London : John Henry Jackson, 1853) | have-ocr | IA `thedivineruleoff02gooduoft` |
+| The divine rule of Faith and practice; or, A defence of the Catholic doctrine that Holy Scripture has been, since the times of the Apostles, the sole divine rule of faith and practice to the Church, against the dangerous errors of the authors of the Tracts for the Times and the Romanists, in which also the doctrines of the Apostolical succession, the Eucharistic sacrifice, etc. are fully discussed, vol. 3 (London, Hatchard, 1853) | have-ocr | IA `divineruleoffait03good` |
+| Tract XC historically refuted : or, A reply to a work by the Rev. F. Oakeley, entitled "The subject of Tract XC historically examined" (London : J. Hatchard, 1845) | have-ocr | IA `a622131200gooduoft` |
+| The doctrine of the Church of England as to the effects of baptism in the case of infants : with an appendix, containing the baptismal services of Luther and the Nuremberg and Cologne liturgies (London : J. Hatchard, 1849) | have-ocr | IA `a583274500gooduoft` |
+| A letter to the Bishop of Exeter : containing an examination of his letter to the Archbishop of Canterbury (London : J. Hatchard, 1850) | have-ocr | IA `a622126600gooduoft` |
+| Aids for determining some disputed points in the ceremonial of the Church of England (London : T. Hatchard, 1851) | have-ocr | IA `a622125700gooduoft` |
+| A reply to the Bishop of Exeter's second arraignment of his metropolitan in his letter to the Archdeacon of Totnes oppugning the validity of the orders of the foreign non-episcopal churches : to which is annexed a rejoinder to Chancellor Harington on the same subject (London : T. Hatchard, 1852) | have-ocr | IA `a619340000gooduoft` |
+| A vindication of the doctrine of the Church of England on the validity of the orders of the Scotch and foreign non-episcopal churches : in three pamphlets on the subject (New York : A. D. F. Randolph, 1853) | have-ocr | IA `vindicationofdoc00good` |
+| The nature of Christ's presence in the Eucharist : or, The true doctrine of the real presence vindicated in opposition to the fictitious real presence asserted by Archdeacon Denison, Mr. (late Archdeacon) Wilberforce, and Dr. Pusey: with full proof of the real character of the attempt made by those authors to represent their doctrine as that of the Church of England and her divines, vol. 1 (London : T. Hatchard, 1856) | have-ocr | IA `natureofchristsp01good` |
+| Nature of Christ's presence in the Eucharist; or the true doctrine of the real presence vindicated in opposition to the fictious real presence asserted by Archdeacon Denison, Mr. Wilberforce, and Dr. Pusey, with full proof of the real character of the attempt made by those authors to represent their doctrine as that of the Ch. of Eng. and her divines, vol. 2 (London, Hatchard, 1856) | have-ocr | IA `natureofchristsp02gooduoft` |
+| Fulfilled prophecy a proof of the truth of revealed religion: being the Warburtonian lectures for 1854-1858. With an appendix of notes, including a full investigation of Daniel's prophecy of the seventy weeks (London : Hatchard and Co., 1863) | have-ocr | IA `fulfilledprophec00good` |
+| Rome's tactics, or, A lesson for England from the past : showing that the great object of Popery since the reformation has been to subvert and ruin Protestant churches and Protestant states, by dissensions and troubles caused by disguised popish agents : with a brief notice of Rome's allies in the Church of England, vol. Talbot Collection of British Pamphlets (London : The Christian Book Society, 22, King William Street, Strand, W.C., 1868) | have-ocr | IA `romestacticsorle00good` |
+| His father William Goode (1762-1816); Perry's Historical Considerations; American reprints of single tracts | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
