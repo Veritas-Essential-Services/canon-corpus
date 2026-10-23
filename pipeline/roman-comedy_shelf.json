@@ -89,10 +89,14 @@
    "phormiotranslate00tereuoft",
    "The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894)",
    "tr. Morris Hicky Morgan"
+  ],
+  "plautus-nixon-v3": [
+   "plautuswithengli03plauuoft",
+   "Plautus, tr. Paul Nixon, vol. 3: The Merchant, The Braggart Warrior, The Haunted House, The Persian (Loeb, 1924; title page MCMXXIV); Latin facing"
   ]
  },
  "_excluded": {
-  "Paul Nixon, Loeb Plautus (1916-38)": "vol. 1 (PG) and vol. 2 (IA) held; vol. 3 (1924) is held back on rights because its only scan is a 1980 reprint (see plautus-nixon-v3's note below); vols. 4-5 first printed 1932 and 1938, not PD",
+  "Paul Nixon, Loeb Plautus (1916-38)": "vols. 1-3 held (vol. 1 PG; vols. 2-3 IA, vol. 3 from the 1924 printing, title page MCMXXIV); vols. 4-5 first printed 1932 and 1938, not PD",
   "Bonnell Thornton's Plautus (1767-74)": "the first-edition ECCO scans (bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) read 0.65-0.70, under the bar. The revised second edition's vols. I-II (1769, Google scans, 0.796) are held as plautus-thornton-1769-v1/v2; vols. III-V (1772-74, Warner's continuation) are still wanted. comediesplautus00warngoog reads 0.772, under the bar.",
   "comediestranslat02tere": "Cooke's Terence (1755), vol. II: no readable title page in the OCR (the preface is signed Thomas Cooke). Not taken under the title-page rule; vol. I is held."
  },
@@ -116,12 +120,13 @@
   "terence-cooke-1755-v1": "thomas cooke",
   "plautus-thornton-1769-v1": "bonnell thornton",
   "plautus-thornton-1769-v2": "bonnell thornton",
-  "terence-morgan-phormio-1894": "m. h. morgan"
+  "terence-morgan-phormio-1894": "m. h. morgan",
+  "plautus-nixon-v3": "Paul Nixon"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Henry T. Riley",
@@ -133,7 +138,7 @@
   },
   "terence-riley-comedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "Henry T. Riley",
@@ -145,7 +150,7 @@
   },
   "terence-colman-comedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "George Colman",
@@ -157,7 +162,7 @@
   },
   "terence-goodluck-andrian": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "W. R. Goodluck",
@@ -169,7 +174,7 @@
   },
   "plautus-nixon-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Paul Nixon",
@@ -181,7 +186,7 @@
   },
   "plautus-riley-comedies-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "henry thomas riley",
@@ -194,7 +199,7 @@
   },
   "plautus-riley-comedies-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "henry thomas riley",
@@ -207,7 +212,7 @@
   },
   "plautus-nixon-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Paul Nixon",
@@ -220,7 +225,7 @@
   },
   "terence-sargeaunt-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
@@ -233,7 +238,7 @@
   },
   "terence-sargeaunt-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
@@ -246,7 +251,7 @@
   },
   "terence-echard-1733": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "identity": "ok",
@@ -257,7 +262,7 @@
   },
   "plautus-evans-trinummus-1883": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "h. evans",
@@ -270,7 +275,7 @@
   },
   "terence-cooke-1755-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "thomas cooke",
@@ -284,7 +289,7 @@
   },
   "plautus-thornton-1769-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "bonnell thornton",
@@ -297,7 +302,7 @@
   },
   "plautus-thornton-1769-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "bonnell thornton",
@@ -310,7 +315,7 @@
   },
   "terence-morgan-phormio-1894": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "m. h. morgan",
@@ -320,11 +325,23 @@
    "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "plautus-nixon-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "Paul Nixon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_rights_checked": {},
  "_held": {
-  "plautus-nixon-v3": "held back on rights, not fetched: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA plautus03plau: Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924)",
   "plautus-perseus-riley-captivi-the-captives": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0119.phi005.perseus-eng2 (Captivi: The Captives, tr. Henry Thomas Riley) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
   "plautus-perseus-riley-mostellaria-or-the-haunted-house": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0119.phi013.perseus-eng2 (Mostellaria, or The Haunted House, tr. Henry Thomas Riley) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
   "terence-perseus-colman-adelphi-or-the-brothers": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi006.perseus-eng2 (Adelphi; or, The Brothers, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
