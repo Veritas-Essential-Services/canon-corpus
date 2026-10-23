@@ -18979,6 +18979,15 @@ Shelf: `pipeline/h-b-cotterill_shelf.json`. Ancient Greece, a sketch (1913). Not
 |---|---|---|---|
 | Ancient Greece: a Sketch of its Art, Literature and Philosophy Viewed in Connexion with its External History (1913) |  | `cotterill-ancient-greece-1913` | have-raw (IA `ancientgreeceske00cott_0`) |
 
+
+## A. W. Pickard-Cambridge (1873-1952)
+
+Shelf: `pipeline/pickard-cambridge_shelf.json`. Demosthenes and the Last Days of Greek Freedom (1914). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Demosthenes and the Last Days of Greek Freedom, 384-322 B.C. (1914) |  | `pickard-cambridge-demosthenes-1914` | have-raw (IA `demosthenesandl00pickgoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
