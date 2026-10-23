@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Thomas Roscoe (1791-1871): Lanzi's History of Painting in Italy (1828, 6 vols), Silvio Pellico's My Ten Years' Imprisonment, and Tales of Humour, Gallantry and Romance (with J. Y. Akerman, Cruikshank's illustrations). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Thomas Roscoe (1791-1871): Lanzi's History of Painting in Italy (1828, 6 vols), Silvio Pellico's My Ten Years' Imprisonment, and Tales of Humour, Gallantry and Romance (with J. Y. Akerman, Cruikshank's illustrations). US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted. From archive.org (2026-10-23): his Memoirs of Benvenuto Cellini, 2 vols (Colburn, 1822), the first edition of his translation. His Lazarillo de Tormes is already here inside The Spanish Novelists.",
  "_name_words": [
   "thomas roscoe"
  ],
@@ -86,6 +86,14 @@
   "ros-spanish-novelists-3": [
    "spanishnovelists03roscuoft",
    "The Spanish Novelists, vol. 3"
+  ],
+  "tro-ia-cellini-memoirs-1": [
+   "memoirsbenvenut00roscgoog",
+   "Cellini: Memoirs 1"
+  ],
+  "tro-ia-cellini-memoirs-2": [
+   "bub_gb_qEhx5zCFfpsC",
+   "Cellini: Memoirs 2"
   ]
  },
  "titles": {
@@ -240,6 +248,22 @@
    "translated": 1832,
    "translator": "Thomas Roscoe",
    "scan_edition": "Richard Bentley, London 1832; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-cellini-memoirs-1": {
+   "source": "tro-ia-cellini-memoirs-1",
+   "of": "Benvenuto Cellini",
+   "work": "Memoirs of Benvenuto Cellini, a Florentine Artist, written by himself, vol. I of 2 (with Carpani's notes)",
+   "translated": "1822",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Henry Colburn and Co., London, 1822"
+  },
+  "thomas-roscoe-cellini-memoirs-2": {
+   "source": "tro-ia-cellini-memoirs-2",
+   "of": "Benvenuto Cellini",
+   "work": "Memoirs of Benvenuto Cellini, a Florentine Artist, written by himself, vol. II of 2 (with Carpani's notes)",
+   "translated": "1822",
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Henry Colburn and Co., London, 1822"
   }
  },
  "_pending": {},
@@ -438,6 +462,28 @@
    "ia_date": "1832",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "tro-ia-cellini-memoirs-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tro-ia-cellini-memoirs-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -594,6 +640,23 @@
     1624,
     1832
    ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tro-ia-cellini-memoirs-1": {
+   "ia": "memoirsbenvenut00roscgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1806
+   ],
+   "post_1930_years_in_front_15k": [
+    1959
+   ],
+   "post_1930_examined": "1959 is a library date stamp"
+  },
+  "tro-ia-cellini-memoirs-2": {
+   "ia": "bub_gb_qEhx5zCFfpsC",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
    "post_1930_years_in_front_15k": []
   }
  },

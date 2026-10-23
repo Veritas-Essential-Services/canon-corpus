@@ -23131,7 +23131,7 @@ Round 23 (2026-10-10), vetoable. Round 127 added eight archive.org books: Asch, 
 ## Thomas Roscoe (Lanzi's History of Painting in Italy; Pellico)
 
 Shelf: `pipeline/thomas-roscoe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py thomas-roscoe` · titles `python3 pipeline/split_shelf_titles.py thomas-roscoe`.
-Round 23 (2026-10-10), vetoable. Round 136 (2026-10-23) added Roscoe's Italian, German and Spanish Novelists (11 vols) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 136 (2026-10-23) added Roscoe's Italian, German and Spanish Novelists (11 vols) from archive.org scans. Round 160 (2026-10-23) added his Cellini (1822, 2 vols) from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23154,6 +23154,8 @@ Round 23 (2026-10-10), vetoable. Round 136 (2026-10-23) added Roscoe's Italian, 
 | `thomas-roscoe-the-spanish-novelists-vol-1` | various authors (Roscoe selects and translates) | The Spanish Novelists, vol. 1 of 3 | Thomas Roscoe | 1832 | have-raw | IA `spanishnovelists01roscuoft` |
 | `thomas-roscoe-the-spanish-novelists-vol-2` | various authors (Roscoe selects and translates) | The Spanish Novelists, vol. 2 of 3 | Thomas Roscoe | 1832 | have-raw | IA `spanishnovelists02roscuoft` |
 | `thomas-roscoe-the-spanish-novelists-vol-3` | various authors (Roscoe selects and translates) | The Spanish Novelists, vol. 3 of 3 | Thomas Roscoe | 1832 | have-raw | IA `spanishnovelists03roscuoft` |
+| `thomas-roscoe-cellini-memoirs-1` | Benvenuto Cellini | Memoirs of Benvenuto Cellini, a Florentine Artist, written by himself, vol. I of 2 (with Carpani's notes) | Thomas Roscoe | 1822 | have-raw | IA `memoirsbenvenut00roscgoog` |
+| `thomas-roscoe-cellini-memoirs-2` | Benvenuto Cellini | Memoirs of Benvenuto Cellini, a Florentine Artist, written by himself, vol. II of 2 (with Carpani's notes) | Thomas Roscoe | 1822 | have-raw | IA `bub_gb_qEhx5zCFfpsC` |
 
 ## John Durand (Taine's Origins of Contemporary France; Philosophy of Art)
 
