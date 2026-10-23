@@ -10097,6 +10097,16 @@ Slugs `canisius-*`. Built from title pages read for round 40.
 | A summe of Christian doctrine, composed in Latin by the R. Father Petrus Canisius of the Society of Jesus, with an appendix of the fall of man and justification, translated into English (St. Omer: for John Heigham, 1622) | have-ocr | IA `bim_early-english-books-1475-1640_a-summe-of-christian-doc_canisius-petrus_1622` |
 | The Latin originals: Summa doctrinae christianae (1565-1623 printings), Opus catechisticum (1577-1618), Commentarii de verbi Dei corruptelis (1571, 1584), De Maria virgine (1577), Notae in evangelicas lectiones (1591-1595); German, French (Peltier, 1856-1873), Italian, Czech, Slovene and Greek versions | alternate | not shelved |
 | Works by his nephew Henricus Canisius (canon law, Antiquae lectiones); Canisius College catalogues; the 1865 biographical sketch, by another | excluded | |
+
+## Alexander Jolly (round 41, my pick, 2026-10-22)
+
+Slugs `jolly-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian sacrifice in the eucharist; considered as it is the doctrine of holy Scripture (catalogued 1831) | have-ocr | IA `christiansacrif00jollgoog` |
+| Observations upon the several Sunday services and principal holydays prescribed by the Liturgy throughout the year; with a few general remarks upon the design of the inferior holydays; being a humble attempt to illustrate the doctrinal as well as devotional tendency of each ... to which is prefixed (Edinburgh, Grant, 1840) | have-ocr | IA `observationsupon00jolluoft` |
+| The 1847 printing of the Christian Sacrifice | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

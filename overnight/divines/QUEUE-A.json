@@ -5833,6 +5833,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:07:50-05:00",
       "notes": "Kolb's Enchiridion, 1910."
+    },
+    {
+      "id": "alexander-jolly",
+      "status": "done",
+      "scope": "round 41",
+      "added": "2026-10-22T23:18:06-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:18:06-05:00",
+      "notes": "Christian Sacrifice 1831, Sunday Services 1840."
     }
   ]
 }
