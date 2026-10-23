@@ -47744,3 +47744,49 @@ Shelf: `pipeline/young-folks-library_shelf.json` (2026-10-23; at Adam's ask for 
 | Young Folks' Library, vol. 18: The Book of Patriotism, ed. George Frisbie Hoar (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar18aldr`, `yfl-v18-the-book-of-patriotism` |
 | Young Folks' Library, vol. 19: Leaders of Men, or History Told in Biography, ed. William Rainey Harper (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar19aldr`, `yfl-v19-leaders-of-men` |
 | Young Folks' Library, vol. 20: Famous Poems, selected by Thomas Bailey Aldrich (Hall & Locke) | have (raw OCR) | IA `famouspoems00aldr`, `yfl-v20-famous-poems` |
+
+## Rossiter Johnson (editor)
+
+Shelf: `pipeline/little-classics_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Rossiter Johnson's Little Classics (Osgood / Houghton Mifflin, 1874-80), 17 of 18 volumes (Nature not found online). 0 Gutenberg texts, 17 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Little Classics, vol. 1: Exile | have (raw OCR) | IA `littleclassics01johngoog`, `little-classics-v01-exile` |
+| Little Classics, vol. 2: Intellect | have (raw OCR) | IA `littleclassics06johngoog`, `little-classics-v02-intellect` |
+| Little Classics, vol. 3: Tragedy | have (raw OCR) | IA `vol3littleclassi00john`, `little-classics-v03-tragedy` |
+| Little Classics, vol. 4: Life | have (raw OCR) | IA `lifelife00johnrich`, `little-classics-v04-life` |
+| Little Classics, vol. 5: Laughter | have (raw OCR) | IA `laughter00john`, `little-classics-v05-laughter` |
+| Little Classics, vol. 6: Love | have (raw OCR) | IA `vol6littleclassi00john`, `little-classics-v06-love` |
+| Little Classics, vol. 7: Romance | have (raw OCR) | IA `littleclassics07john`, `little-classics-v07-romance` |
+| Little Classics, vol. 8: Mystery | have (raw OCR) | IA `littleclassics01unkngoog`, `little-classics-v08-mystery` |
+| Little Classics, vol. 9: Comedy | have (raw OCR) | IA `littleclassics13johngoog`, `little-classics-v09-comedy` |
+| Little Classics, vol. 10: Childhood | have (raw OCR) | IA `littleclassics00johngoog`, `little-classics-v10-childhood` |
+| Little Classics, vol. 11: Heroism | have (raw OCR) | IA `vol11littleclass00john`, `little-classics-v11-heroism` |
+| Little Classics, vol. 12: Fortune | have (raw OCR) | IA `littleclassicsv00johngoog`, `little-classics-v12-fortune` |
+| Little Classics, vol. 13: Narrative Poems | have (raw OCR) | IA `littleclassics15johngoog`, `little-classics-v13-narrative-poems` |
+| Little Classics, vol. 14: Lyrical Poems | have (raw OCR) | IA `littleclassics11johngoog`, `little-classics-v14-lyrical-poems` |
+| Little Classics, vol. 15: Minor Poems | have (raw OCR) | IA `vol15littleclass00john`, `little-classics-v15-minor-poems` |
+| Little Classics, vol. 17: Humanity | have (raw OCR) | IA `littleclassicsv01johngoog`, `little-classics-v17-humanity` |
+| Little Classics, vol. 18: Authors | have (raw OCR) | IA `littleclassics04johngoog`, `little-classics-v18-authors` |
+
+## Charles Eliot Norton (editor)
+
+Shelf: `pipeline/heart-of-oak-books_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Charles Eliot Norton's The Heart of Oak Books (D. C. Heath), revised edition in seven books, 1906 printing. 0 Gutenberg texts, 7 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Heart of Oak Books, First Book (D. C. Heath, revised edition, 1906 printing) | have (raw OCR) | IA `heartofoakbooks01nort`, `heart-of-oak-book-1` |
+| The Heart of Oak Books, Second Book (D. C. Heath, revised edition, 1906 printing) | have (raw OCR) | IA `heartofoakbooks02nort`, `heart-of-oak-book-2` |
+| The Heart of Oak Books, Third Book (D. C. Heath, revised edition, 1906 printing) | have (raw OCR) | IA `heartofoakbooks03nort`, `heart-of-oak-book-3` |
+| The Heart of Oak Books, Fourth Book (D. C. Heath, revised edition, 1906 printing) | have (raw OCR) | IA `heartofoakbooks04nort`, `heart-of-oak-book-4` |
+| The Heart of Oak Books, Fifth Book (D. C. Heath, revised edition, 1906 printing) | have (raw OCR) | IA `heartofoakbooks05nort`, `heart-of-oak-book-5` |
+| The Heart of Oak Books, Sixth Book (D. C. Heath, revised edition, 1906 printing) | have (raw OCR) | IA `heartofoakbooks06nort`, `heart-of-oak-book-6` |
+| The Heart of Oak Books, Seventh Book (D. C. Heath, revised edition, 1906 printing) | have (raw OCR) | IA `heartofoakbooks07nort`, `heart-of-oak-book-7` |
+
+## Horace E. Scudder (editor)
+
+Shelf: `pipeline/scudder-childrens-book_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Horace E. Scudder's The Children's Book (Houghton, Mifflin, 1881), one volume. 0 Gutenberg texts, 1 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Children's Book: A Collection of the Best and Most Famous Stories and Poems in the English Language (Houghton, Mifflin, 1881) | have (raw OCR) | IA `childrensbookcol00scud`, `scudder-childrens-book-1881` |

@@ -2915,3 +2915,12 @@
 
 ## 2026-10-23 09:10 CDT — young-folks-library: done
 - young-folks-library: new shelf, 2 Gutenberg books (2,125 units) and 18 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:14 CDT — little-classics: done
+- little-classics: new shelf, 0 Gutenberg books (0 units) and 17 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:15 CDT — heart-of-oak-books: done
+- heart-of-oak-books: new shelf, 0 Gutenberg books (0 units) and 7 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:16 CDT — scudder-childrens-book: done
+- scudder-childrens-book: new shelf, 0 Gutenberg books (0 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags.

@@ -6957,6 +6957,30 @@
       "started": "2026-10-23T09:10:56-05:00",
       "finished": "2026-10-23T09:10:56-05:00",
       "notes": "young-folks-library: new shelf, 2 Gutenberg books (2,125 units) and 18 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "little-classics",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Rossiter Johnson (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:14:29-05:00",
+      "finished": "2026-10-23T09:14:29-05:00",
+      "notes": "little-classics: new shelf, 0 Gutenberg books (0 units) and 17 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "heart-of-oak-books",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Charles Eliot Norton (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:15:49-05:00",
+      "finished": "2026-10-23T09:15:49-05:00",
+      "notes": "heart-of-oak-books: new shelf, 0 Gutenberg books (0 units) and 7 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "scudder-childrens-book",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Horace E. Scudder (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:16:12-05:00",
+      "finished": "2026-10-23T09:16:12-05:00",
+      "notes": "scudder-childrens-book: new shelf, 0 Gutenberg books (0 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

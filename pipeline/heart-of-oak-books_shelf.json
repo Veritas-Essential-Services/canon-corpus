@@ -1,0 +1,126 @@
+{
+ "_about": "The Heart of Oak Books, Charles Eliot Norton's graded readers of nursery rhymes, fables, fairy tales, ballads and classic English poetry and prose (Boston: D. C. Heath; revised edition 1902-1903 in seven books, here in its 1906 printing, one uniform scanned run at the Internet Archive). Raw OCR. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "Charles Eliot Norton (editor)",
+ "_name_words": [
+  "norton",
+  "heart",
+  "books"
+ ],
+ "_surname": [
+  "charles eliot norton",
+  "heart of oak"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heart-of-oak-book-1": [
+   "heartofoakbooks01nort",
+   "The Heart of Oak Books, First Book (D. C. Heath, revised edition, 1906 printing)"
+  ],
+  "heart-of-oak-book-2": [
+   "heartofoakbooks02nort",
+   "The Heart of Oak Books, Second Book (D. C. Heath, revised edition, 1906 printing)"
+  ],
+  "heart-of-oak-book-3": [
+   "heartofoakbooks03nort",
+   "The Heart of Oak Books, Third Book (D. C. Heath, revised edition, 1906 printing)"
+  ],
+  "heart-of-oak-book-4": [
+   "heartofoakbooks04nort",
+   "The Heart of Oak Books, Fourth Book (D. C. Heath, revised edition, 1906 printing)"
+  ],
+  "heart-of-oak-book-5": [
+   "heartofoakbooks05nort",
+   "The Heart of Oak Books, Fifth Book (D. C. Heath, revised edition, 1906 printing)"
+  ],
+  "heart-of-oak-book-6": [
+   "heartofoakbooks06nort",
+   "The Heart of Oak Books, Sixth Book (D. C. Heath, revised edition, 1906 printing)"
+  ],
+  "heart-of-oak-book-7": [
+   "heartofoakbooks07nort",
+   "The Heart of Oak Books, Seventh Book (D. C. Heath, revised edition, 1906 printing)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "heart-of-oak-book-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles eliot norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1906-1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heart-of-oak-book-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heart of oak",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1906-1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heart-of-oak-book-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles eliot norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1906-1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heart-of-oak-book-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles eliot norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1906-1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heart-of-oak-book-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles eliot norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1906-1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heart-of-oak-book-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles eliot norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1906-1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heart-of-oak-book-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles eliot norton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1906-1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
