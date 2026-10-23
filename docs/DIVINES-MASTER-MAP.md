@@ -15349,6 +15349,35 @@ Slugs `minton-*`. Built from title pages read for round 92.
 | The confessional, the altar, and the chancel : sermons preached in Eaton Chapel (London : Elliott Stock, 1874) | have-ocr | IA `a633621300mintuoft` |
 | Life and death. A reply to the Rev. J. Baldwin Brown's lectures on conditional immortality (London, Stock, 1877) | have-ocr | IA `lifedeathreplyto00whituoft` |
 | a633614500mintuoft: the scan has no title page naming the author (catalogued under Minton); needs a cited attribution | pending | not shelved |
+
+## Ezra Stiles Gannett (round 92, my pick, 2026-10-23)
+
+Slugs `gannett-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon for children (Boston : Leonard C. Bowles, 1831) | have-ocr | IA `sermonforchildre00gann` |
+| A devoted ministry : a sermon delivered at the ordination of Rev. James I.T. Coolidge, as pastor of the Purchase Street Congregational Church, in Boston, February 9, 1842 (Boston : Benjamin H. Greene, 1842) | have-ocr | IA `devotedministrys00gann` |
+| The religion of politics (Boston : Dutton and Wentworth, printers to the state, 1842) | have-ocr | IA `religionofpoliti00ganniala` |
+| Peace--not war : a sermon preached in the Federal Street Meetinghouse, December 14, 1845 / by Ezra S. Gannett (Joseph Dowe, 1845) | have-ocr | IA `peacenotwarsermo00gann` |
+| The faith of the Unitarian Christian : explained, justified, & distinguished (Boston : J. Monroe, 1845) | have-ocr | IA `cihm_50320` |
+| The temperance cause : a discourse delivered before the Boston Young Men's Total Abstinence Society, on Sunday evening, November 8, 1846 / By Ezra S. Gannett (Wm. Crosby & H.P. Nichols, 1846) | have-ocr | IA `temperancecaused00gann` |
+| A good old age : a sermon occasioned by the death of Hon. John Davis, LL.D, and preached in the Federal Street Meetinghouse in Boston, January 24, 1847 (Boston : W. Crosby & H. P. Nichols, 1847) | have-ocr | IA `goodoldagesermon00gann` |
+| The relation of the pulpit to future ages : a discourse preached before the Massachusetts Convention of Congregational Ministers, June 1, 1848 (Boston : Wm. Crosby & H.P. Nichols, 1848) | have-ocr | IA `relationofpulpit0000gann` |
+| A sermon preached before the Fatherless and Widows' Society : in the Central church, on Sunday evening, October 28, 1849 (Boston : Ticknor, Reed, and Fields, 1849) | have-ocr | IA `sermonpreachedbe00gann` |
+| Thanksgiving for the Union : a discourse delivered in the Federal-Street Meetinghouse in Boston, on (Boston : Wm. Crosby and H.P. Nichols, 111, Washington Street, 1850) | have-ocr | IA `thanksgivingforu00gann` |
+| The spirit of reform : a discourse preached on Fast day, April 8, 1852, at the Federal Street Meeting-house (Boston : Dutton & Wentworth, 1852) | have-ocr | IA `spiritofreformdi00gann` |
+| The useful man. A sermon delivered at the funeral of Hon. Charles Paine, at Northfield, Vt., Sept. 1, 1853 (Northfield, Printed by Woodworth & Gould, 1853) | have-ocr | IA `usefulmansermond00gann` |
+| Relation of the North to slavery. A discourse preached in the Federal Street Meetinghouse, in Boston, on Sunday, June 11, 1854 (Boston : Crosby, Nichols & Co., 1854) | have-ocr | IA `relationofnortht00gann` |
+| The state of the country. Discourse preached in the Federal street meetinghouse in Boston, Sunday, June 8, 1856 (Boston, Crosby, Nichols, & company, 1856) | have-ocr | IA `stateofcountrydi00gann` |
+| The soul's salvation through faith in Christ : a sermon preached at the ordination of John C. Kimball, as pastor of First Parish, Beverly, Mass., Thursday, Dec 29, 1859 (John Wilson and Son, 1860) | have-ocr | IA `soulssalvationth00gann` |
+| A memorial of the Federal-Street Meeting-house : a discourse preached on Sunday morning, March 13, 1859 (Boston : Crosby, Nichols, Lee, and Co., 1860) | have-ocr | IA `memorialoffedera00gann` |
+| Positive faith. : A discourse preached at the dedication of the church on Arlington street, Boston, December 11, 1861 (Boston : Crosby and Nichols, 1862) | have-ocr | IA `positivefaithdis0000gann` |
+| Two discourses preached in Arlington-street church July 12 and July 19, 1863 (Boston Crosby and Nichols, 1863) | have-ocr | IA `twodiscoursespre00gann` |
+| A discourse occasioned by the death of the Hon. Josiah Quincy : delivered in Arlington-Street Church in Boston, on Sunday, July 10, 1864 (Boston : Printed by John Wilson and Son, 1864) | have-ocr | IA `discourseoccasio00gann` |
+| Discourses in memory of Robert Waterston (Boston, 1869) | have-ocr | IA `discoursesinmemo00gann` |
+| valueofnaturalre0000gann: an offprint from a periodical (begins at p. 288) with no author named in the text; the catalogue attributes it to Gannett; needs a cited attribution | pending | not shelved |
+| The Essential Faith of the Universal Church (by James Martineau), Channing's discourse on Joseph Tuckerman, The Christian Examiner (a journal he edited), manuscript letters and occasional addresses | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
