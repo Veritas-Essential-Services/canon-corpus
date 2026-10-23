@@ -15333,6 +15333,22 @@ Slugs `bellows-*`. Built from title pages read for round 92.
 | Twenty-four sermons preached in All Souls Church, New York, 1865-1881 (New York, Published by the Editor, 1886) | have-ocr | IA `twentyfoursermon00bell` |
 | finishedlifeaddr00bell: OCR too garbled to verify the title or read the text; needs re-OCR | pending | not shelved |
 | Sanitary Commission papers, The Old World in its New Face (travel), the Union League Club history, the sketch of Col. Benjamin Bellows, and his medical-college address | excluded | |
+
+## Samuel Minton (round 92, my pick, 2026-10-23)
+
+Slugs `minton-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| The believer's completeness in Christ : a sermon ([London] : [Seeley, Jackson, and Halliday], [bet) | have-ocr | IA `a633607300mintuoft` |
+| Righteousness and redemption : a sermon ([London] : [Seeley, Jackson, and Halliday], [bet) | have-ocr | IA `a633611900mintuoft` |
+| The saving power of the Gospel : a sermon ([London] : [Seeley, Jackson, and Halliday], [186) | have-ocr | IA `a633613400mintuoft` |
+| The central superstition of Christendom : a sermon on the perversion of the Lord's Supper, preached at Eaton Chapel, Eaton-Square (London : Seeley, Jackson, and Halliday, 1866) | have-ocr | IA `a633615900mintuoft` |
+| The glory of Christ in the creation and reconciliation of all things, with special reference to the doctrine of eternal evil, a course of sermons (London, Longmans, 1871) | have-ocr | IA `gloryofchristinc00mintuoft` |
+| The marriage of the Lamb : an Advent sacramental address delivered at Eaton Chapel on Sunday morning, Dec. 3rd, 1871 ([London] : [Elliott Stock], [187) | have-ocr | IA `a633610100mintuoft` |
+| The confessional, the altar, and the chancel : sermons preached in Eaton Chapel (London : Elliott Stock, 1874) | have-ocr | IA `a633621300mintuoft` |
+| Life and death. A reply to the Rev. J. Baldwin Brown's lectures on conditional immortality (London, Stock, 1877) | have-ocr | IA `lifedeathreplyto00whituoft` |
+| a633614500mintuoft: the scan has no title page naming the author (catalogued under Minton); needs a cited attribution | pending | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
