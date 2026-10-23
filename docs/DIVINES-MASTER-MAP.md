@@ -18126,6 +18126,21 @@ Slugs `cleaveland-*`. Built from title pages read for round 121.
 | A thanksgiving discourse, for recent military successes, delivered in the Third Congregational Church, New Haven, September 11, and repeated, by request, in the same place, September 18, 1864 (New Haven [Conn.] : T.H. Pease, 1864) | have-ocr | IA `thanksgivingdisc00clea` |
 | christianpamphl00dwiggoog, a bound volume of many authors' pamphlets | excluded | |
 | sermondelivereda00clea (1813) is by John Cleaveland and Elisha Fisk | excluded | |
+
+## John M. Krebs (round 121, my pick, 2026-10-23)
+
+Slugs `krebs-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| The leader fallen : a sermon preached in the Rutgers-Street Church, New-York, on Sabbath morning, April 11th, 1841, on occasion of the death of William Henry Harrison, President of the United States of America (New-York : Harper & Bros., 1841) | have-ocr | IA `leaderfallenserm00kreb` |
+| The Reciprocal Relations of Physicians and Clergymen: A Speech, Delivered at (Henry Ludwig, 1847) | have-ocr | IA `reciprocalrelat00krebgoog` |
+| Education and progress (Easton, Pa., Pub. for the College, 1847) | have-ocr | IA `educationprogres00kreb` |
+| The private, domestic and social life of Jesus Christ : a model for youth (Philadelphia : W. S. Martien, 1849) | have-ocr | IA `privatedomestics00kreb` |
+| A discourse on the death of Zachary Taylor (New York, J. Westall, printer, 1850) | have-ocr | IA `discourseondeath00kreb` |
+| The American citizen : a discourse on the nature and extent of our religious subjection to the government under which we live: including an inquiry into the Scriptural authority of that provision of the Constitution of the United States, which requires the surrender of fugitive slaves (New York :, 1851) | have-ocr | IA `americancitizend00kreb` |
+| b1034830x, a sheet of music | excluded | |
+| wsb12f4_images_202308 has page images but no text | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
