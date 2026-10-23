@@ -3,5 +3,5 @@
  "holder": "2026-10-22T22:00:09-05:00",
  "heartbeat": "2026-10-23T07:36:26-05:00",
  "note": "Rounds cq-dw done 2026-10-23.",
- "resume_point": "Round dx: audit more existing scholar shelves for missing works (jebb, verrall done; try j-p-mahaffy done; then e-a-freeman, j-b-mayor, robinson-ellis, postgate, munro, gilbert-murray, jane-harrison, a-w-mair, lewis-farnell done, w-y-sellar, jowett, a-j-church, w-w-merry, how-wells, j-e-sandys done) and look for Victorian scholars with no shelf (Arthur Platt, Walter Leaf done, R. C. Jebb done, J. E. Harrison, A. W. Mair, J. U. Powell, T. W. Allen, E. E. Genner, W. Ridgeway, J. G. Frazer's Pausanias). Check every title against all branches (tools/heldia.py, unheld.py, then a title grep, then dupetitles.py) and read every title page and imprint before writing the row title."
+ "resume_point": "Round dx: audit more existing scholar shelves for missing works (e-a-freeman, j-b-mayor, robinson-ellis, postgate, munro, gilbert-murray, w-y-sellar, a-j-church, w-w-merry, how-wells), then look for Victorian scholars with no shelf (Arthur Platt, Jane Harrison, A. W. Mair, J. U. Powell, T. W. Allen, William Ridgeway, Frazer's Pausanias). Check every title against all branches (tools/heldia.py, unheld.py, a title grep, then dupetitles.py) and read every title page and imprint before writing the row title."
 }
