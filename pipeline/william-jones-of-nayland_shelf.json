@@ -1,0 +1,140 @@
+{
+ "_about": "Public-domain William Jones of Nayland (1726-1800), Hutchinsonian divine, for the Word Hoard: his Theological and Miscellaneous Works (London: Rivington, 1826, six volumes, with a short account of his life) and the Memoirs of George Horne (1799), from Internet Archive scans. Not Sir William Jones the orientalist. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jones",
+  "nayland"
+ ],
+ "_surname": [
+  "jones of nayland",
+  "william jones of nayland",
+  "minister of nayland",
+  "rector of nayland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jones-nayland-works-1": [
+   "theologicalmisce01jone",
+   "The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 1 (London : F. and C. Rivington, 1826)"
+  ],
+  "jones-nayland-works-2": [
+   "theologicalmisce02jone",
+   "The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 2 (London : F. and C. Rivington, 1826)"
+  ],
+  "jones-nayland-works-3": [
+   "theologicalmisce03jone",
+   "The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 3 (London : F. and C. Rivington, 1826)"
+  ],
+  "jones-nayland-works-4": [
+   "theologicalmisce04jone",
+   "The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 4 (London : F. and C. Rivington, 1826)"
+  ],
+  "jones-nayland-works-5": [
+   "theologicalmisce05jone",
+   "The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 5 (London : F. and C. Rivington, 1826)"
+  ],
+  "jones-nayland-works-6": [
+   "theologicalmisce06jone",
+   "The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 6 (London : F. and C. Rivington, 1826)"
+  ],
+  "jones-nayland-memoirs-horne": [
+   "cu31924029450305",
+   "Memoirs of the life, studies, and writings of the Right Reverend George Horne, D.D. late Lord Bishop of Norwich. With I. A new Preface, on certain interesting points in theology and philosophy; II. Dr. Horne's own collection of his thoughts on a variety of great and interesting subjects; and III. A letter to the Hon. L.K. on the use of the Hebrew language (London : Printed by J. Davis, for G.G. and J. Robinson, F. and C. Rivington, R. Cadell ..., 1799)"
+  ]
+ },
+ "_alternates": {
+  "jones-nayland-copies": "Separate Catholic Doctrine of a Trinity (1813), Lectures on the Figurative Language of Scripture (1789), the 1801 and 1810 Works: all inside the 1826 Works"
+ },
+ "_excluded": {
+  "jones-nayland-science": "Essay on the First Principles of Natural Philosophy (1762) and other physics pieces"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "jones-nayland-works-4": "title page text: 'The Theological and Miscellaneous Works of the late Rev. William Jones, M.A. Minister of Nayland, Suffolk ... Vol. IV' (the OCR reads the surname as 'foNES')",
+  "jones-nayland-memoirs-horne": "title page text: 'Memoirs of the Life, Studies, and Writings of the Right Reverend George Horne, D.D. late Lord Bishop of Norwich ... [by] William Jones, M.A. F.R.S. one of his Lordship's Chaplains. The second edition, London ... 1799': Horne's chaplain, so Jones of Nayland, not the orientalist (who died in 1794 and was a judge in Calcutta)"
+ },
+ "_pending": {
+  "jones-nayland-scholar-armed": "The Scholar Armed (1812), a collection of tracts by several writers that he began: a compilation"
+ },
+ "_translators": {},
+ "_checks": {
+  "jones-nayland-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "minister of nayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-nayland-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "minister of nayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-nayland-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "minister of nayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-nayland-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-nayland-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "minister of nayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-nayland-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "minister of nayland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-nayland-memoirs-horne": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

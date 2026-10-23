@@ -10345,6 +10345,23 @@ Slugs `horne-*`. Built from title pages read for round 42.
 | The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 5 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever03jonegoog` |
 | The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 6 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever05jonegoog` |
 | Separate Commentary on the Psalms (1792 onward), Discourses (1812), Considerations on St John the Baptist (1806): all in the Works | alternate | not shelved |
+
+## William Jones of Nayland (round 42, my pick, 2026-10-22)
+
+Slugs `jones-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 1 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce01jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 2 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce02jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 3 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce03jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 4 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce04jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 5 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce05jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 6 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce06jone` |
+| Memoirs of the life, studies, and writings of the Right Reverend George Horne, D.D. late Lord Bishop of Norwich. With I. A new Preface, on certain interesting points in theology and philosophy; II. Dr. Horne's own collection of his thoughts on a variety of great and interesting subjects; and III. A letter to the Hon. L.K. on the use of the Hebrew language (London : Printed by J. Davis, for G.G. and J. Robinson, F. and C. Rivington, R. Cadell ..., 1799) | have-ocr | IA `cu31924029450305` |
+| The Scholar Armed (1812), a collection of tracts by several writers that he began: a compilation | pending | not shelved |
+| Separate Catholic Doctrine of a Trinity (1813), Lectures on the Figurative Language of Scripture (1789), the 1801 and 1810 Works: all inside the 1826 Works | alternate | not shelved |
+| Essay on the First Principles of Natural Philosophy (1762) and other physics pieces | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
