@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T03:34:38-05:00",
- "note": "Rounds cq-dk done 2026-10-23.",
- "resume_point": "Round dl: do for Internet Archive what round dk did for Gutenberg: an advancedsearch sweep on LoC call numbers (lcc or callnumber fields starting PA, DE, DF, DG) for English texts dated 1850-1929, keeping only creators unheld on every branch. Then Loebs of 1912-1929 not yet held, per author shelf, translator per row."
+ "heartbeat": "2026-10-23T03:53:48-05:00",
+ "note": "Rounds cq-dl done 2026-10-23.",
+ "resume_point": "Round dm: Loebs of 1912-1929 not yet held. List Loeb Classical Library volumes published 1912-1929 (IA search: collection or title 'Loeb classical library', date 1912-1929), check each against every branch by IA id and by author shelf, and add the unheld ones to the author's shelf with the translator per row. Greek-facing volumes are kept per Adam's 10/23 ruling. Leave church fathers (Apostolic Fathers, Augustine, Eusebius) to lane A."
 }

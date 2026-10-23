@@ -1504,3 +1504,10 @@
 - 25 new shelves, 26 works, all clean Gutenberg: W. G. Holmes's Age of Justinian and Theodora, Dobson's Greek Orators, Baldwin's Ancient Rhetoric and Poetic, Haight's Greek Romances, Treston's Poine, Allinson's Greek Lands and Letters, Robinson's Sappho, and others.
 - For lane C: Symonds's Studies of the Greek Poets (PG 47157, 47236) is unheld and fits its symonds shelf.
 - Next: the same check against Internet Archive call numbers.
+
+## 2026-10-23 — Round dl: Internet Archive call numbers
+- Searched IA's call-number field for the classics classes (PA, DE, DF, DG), English, 1850-1929, and kept authors no branch holds. 28 new shelves, 44 works.
+- Larger shelves: f-g-kenyon 7 (Classical Texts from Papyri, Palaeography of Greek Papyri, the British Museum Greek Papyri catalogue I-V), william-gell 10 (Troy, Ithaca, the Itinerary of Greece, the Morea, Pompeiana, the Topography of Rome), william-l-snyder 2.
+- Singles include Bonitz's Origin of the Homeric Poems, Decharme's Euripides, Hackforth's Platonic Epistles, Tsountas and Manatt's Mycenaean Age, Grandgent's Vulgar Latin, Fling's Source Book of Greek History, Boak's History of Rome, Della Corte's Pompeii, and Freshfield's Hannibal Once More.
+- Two title pages read where OCR missed the name (Kenyon vol. II; Gell's engraved 1810 title).
+- IA call numbers are sparse, so this source is nearly used up. Next: Loebs of 1912-1929 not yet held.

@@ -2100,6 +2100,14 @@
    "started": "2026-10-23T03:09:20-05:00",
    "finished": "2026-10-23T03:34:38-05:00",
    "notes": "150 unheld titles found; most of the rest are children's retellings, travel, split volumes of complete texts already held, or Erasmus and Abelard (not lane B). Added 13 Gutenberg rows to existing lane B shelves (homer: Butler's Iliad; julian: Wright vol. 1; haigh: The Attic Theatre 3rd ed. 1907; clean witnesses for McCrindle's Invasion on arrian, Seebohm, Norwood, Flickinger, Stobart and J. A. K. Thomson; oman: The Byzantine Empire; snider: Homer's Odyssey commentary; r-w-livingstone: The Legacy of Greece; greek-lyric: Sappho by O'Hara and Stacpoole). 25 new shelves, 26 works: W. G. Holmes 2 (Age of Justinian and Theodora), Dobson, C. S. Baldwin, Haight (1943, PG-cleared), F. A. Wright, Treston, Vaux, F. P. Graves, Mitchell Carroll, Plummer, Agnes Clerke, R. W. Browne, D. M. Robinson, Oakesmith, F. G. Allinson, E. F. M. Benecke, Blancke, J. W. Ross, F. J. Miller, Middleton and Mills, Lumb, Mary Sturgeon, Helen McClees, George Glasgow, Sister Mary Rosaria. Bare 'livingstone' dropped from r-w-livingstone (shared with david-livingstone); The Greek Genius title page read and recorded. Left for lane C: Symonds's Studies of the Greek Poets (PG 47157, 47236) belongs on its symonds shelf. Left: McCabe's Empresses of Constantinople (PG 60938; the mccabe shelf is lane C's), Lempriere and Carleton's dictionaries (the dictionaries thread's ground)."
+  },
+  {
+   "id": "2026-10-23dl",
+   "status": "done",
+   "scope": "Internet Archive advancedsearch on LoC call numbers (PA, DE, DF, DG) for English texts dated 1850-1929, keeping only creators unheld on every branch; a few older standard works found along the way",
+   "started": "2026-10-23T03:34:38-05:00",
+   "finished": "2026-10-23T03:53:48-05:00",
+   "notes": "28 new shelves, 44 works. f-g-kenyon 7 (Classical Texts from Papyri 1891, Palaeography of Greek Papyri 1899, Greek Papyri in the British Museum I-V; IV-V edited by H. I. Bell), william-gell 10 (Troy, Ithaca, Itinerary of Greece, Morea, Pompeiana, Topography of Rome 2 vols and others), william-l-snyder 2 (Military Annals of Greece), and 25 singles: Bonitz (tr. Packard), Decharme (tr. Loeb), Klotsche, Dalton, Hackforth, Peile, Lucian Muller (tr. Platner), Bredif, Woodhouse, Foord, Tsountas and Manatt, Grandgent, Westaway, Tredwell, Fling, T. J. Lacey, Dempsey, Tolman, Lohr, Van Santvoord, Boak, Della Corte, Bowerman, Freshfield, R. H. Lacey. Two title pages read where OCR missed the name: Kenyon's BM Papyri vol. II and Gell's engraved Itinerary of Greece title (1810). The call_number field is sparse on IA (about 3,300 records in these classes), so this sweep is close to exhausted. Next: Loebs of 1912-1929 not yet held."
   }
  ]
 }
