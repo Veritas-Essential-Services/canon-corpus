@@ -1,0 +1,33 @@
+{
+ "_about": "G. E. Underhill, Fellow and Senior Tutor of Magdalen College, Oxford, raw IA OCR: A Commentary with introduction and appendix on the Hellenica of Xenophon (Oxford: Clarendon Press, M DCCCC = 1900). Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "G. E. Underhill",
+ "_name_words": [
+  "underhill"
+ ],
+ "_surname": [
+  "g. e. underhill",
+  "underhill, g. e."
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "g-e-underhill-commentary-hellenica-1900": [
+   "cu31924091301238",
+   "A Commentary with introduction and appendix on the Hellenica of Xenophon, by G. E. Underhill (Oxford: Clarendon Press, M DCCCC [1900])"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "g-e-underhill-commentary-hellenica-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. e. underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

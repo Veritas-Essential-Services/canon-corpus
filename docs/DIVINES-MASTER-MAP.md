@@ -21021,6 +21021,14 @@ Shelf: `pipeline/e-a-sonnenschein_shelf.json`. New shelf, round dv. Raw IA OCR, 
 | T. Macci Plauti Mostellaria, with notes critical and exegetical and an introduction by E. A. Sonnenschein (Cambridge: Deighton, Bell; London: George Bell, 1884) |  | `e-a-sonnenschein-plautus-mostellaria-1884` | have-raw (IA `mostellari00plau`) |
 | T. Macci Plauti Rudens, edited with critical and explanatory notes by Edward A. Sonnenschein (Oxford: Clarendon Press, 1891) |  | `e-a-sonnenschein-plautus-rudens-1891` | have-raw (IA `rudenspl00plau`) |
 
+## G. E. Underhill
+
+Shelf: `pipeline/g-e-underhill_shelf.json`. New shelf, round dv. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Commentary with introduction and appendix on the Hellenica of Xenophon, by G. E. Underhill (Oxford: Clarendon Press, M DCCCC [1900]) |  | `g-e-underhill-commentary-hellenica-1900` | have-raw (IA `cu31924091301238`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
