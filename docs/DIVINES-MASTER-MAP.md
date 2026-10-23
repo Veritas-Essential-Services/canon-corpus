@@ -39686,3 +39686,26 @@ Shelf: `pipeline/nell-speed_shelf.json` (2026-10-22; added at the coordinator's 
 | The Carter Girls | have | PG 40177, `nspeed-carter-girls` (1290 units) |
 | The Carter Girls' Week-End Camp | have | PG 40179, `nspeed-carter-girls-week-end-camp` (1332 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 40178 The Carter Girls' Mysterious Neighbors (copyright line 1931). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Richard Dowling
+
+Shelf: `pipeline/richard-dowling_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Weird Sisters: A Romance. Volume 1 (of 3) | have | PG 41552, `rdowling-weird-sisters` (822 units) |
+| The Weird Sisters: A Romance. Volume 2 (of 3) | have | PG 41553, `rdowling-weird-sisters-41553` (997 units) |
+| The Weird Sisters: A Romance. Volume 3 (of 3) | have | PG 41554, `rdowling-weird-sisters-41554` (1028 units) |
+| Miracle Gold: A Novel (Vol. 2 of 3) | have | PG 42496, `rdowling-miracle-gold` (888 units) |
+| Miracle Gold: A Novel (Vol. 1 of 3) | have | PG 42498, `rdowling-miracle-gold-42498` (956 units) |
+| Miracle Gold: A Novel (Vol. 3 of 3) | have | PG 42499, `rdowling-miracle-gold-42499` (1015 units) |
+| The Last Call: A Romance (Vol. 1 of 3) | have | PG 42595, `rdowling-last-call` (792 units) |
+| The Last Call: A Romance (Vol. 2 of 3) | have | PG 42596, `rdowling-last-call-42596` (794 units) |
+| The Last Call: A Romance (Vol. 3 of 3) | have | PG 42597, `rdowling-last-call-42597` (871 units) |
+| The Duke's Sweetheart: A Romance | have | PG 42599, `rdowling-dukes-sweetheart` (2199 units) |
+| Under St Paul's: A Romance | have | PG 42600, `rdowling-under-st-pauls` (2899 units) |
+| Tempest-Driven: A Romance (Vol. 1 of 3) | have | PG 42750, `rdowling-tempest-driven` (921 units) |
+| Tempest-Driven: A Romance (Vol. 2 of 3) | have | PG 42751, `rdowling-tempest-driven-42751` (735 units) |
+| Tempest-Driven: A Romance (Vol. 3 of 3) | have | PG 42752, `rdowling-tempest-driven-42752` (942 units) |
+| An Isle of Surrey: A Novel | have | PG 42756, `rdowling-isle-of-surrey` (2633 units) |
+| Ignorant Essays | have | PG 53169, `rdowling-ignorant-essays` (297 units) |

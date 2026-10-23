@@ -4261,6 +4261,14 @@
       "started": "2026-10-22T22:30:13-05:00",
       "finished": "2026-10-22T22:30:13-05:00",
       "notes": "nell-speed: new shelf, 15 Gutenberg books, 19,497 units, 170 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "richard-dowling",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Richard Dowling; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:30:30-05:00",
+      "finished": "2026-10-22T22:30:30-05:00",
+      "notes": "richard-dowling: new shelf, 16 Gutenberg books, 18,789 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
