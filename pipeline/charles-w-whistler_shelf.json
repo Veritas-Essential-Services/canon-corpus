@@ -1,0 +1,122 @@
+{
+ "_about": "Charles W. Whistler's writing at Gutenberg: historical tales of Saxon and Viking England. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Charles W. Whistler",
+ "_name_words": [
+  "whistler"
+ ],
+ "_surname": [
+  "whistler"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cwwhistler-havelok-the-dane": [
+   12847,
+   "Havelok the Dane: A Legend of Old Grimsby and Lincoln"
+  ],
+  "cwwhistler-thane-of-wessex": [
+   13054,
+   "A Thane of Wessex: Being a Story of the Great Viking Raids into Somerset"
+  ],
+  "cwwhistler-prince-of-cornwall-a-story-of-glastonbury-and-the": [
+   13315,
+   "A Prince of Cornwall A Story of Glastonbury and the West in the Days of Ina of Wessex"
+  ],
+  "cwwhistler-kings-comrade": [
+   13438,
+   "A King's Comrade: A Story of Old Hereford"
+  ],
+  "cwwhistler-wulfric-the-weapon-thane": [
+   13752,
+   "Wulfric the Weapon Thane: A Story of the Danish Conquest of East Anglia"
+  ],
+  "cwwhistler-king-alfreds-viking": [
+   14034,
+   "King Alfred's Viking: A Story of the First English Fleet"
+  ],
+  "cwwhistler-sea-queens-sailing": [
+   15951,
+   "A Sea Queen's Sailing"
+  ],
+  "cwwhistler-king-olafs-kinsman-a-story-of-the-last-saxon-stru": [
+   16196,
+   "King Olaf's Kinsman A Story of the Last Saxon Struggle against the Danes in the Days of Ironside and Cnut"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cwwhistler-havelok-the-dane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwhistler-thane-of-wessex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwhistler-prince-of-cornwall-a-story-of-glastonbury-and-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwhistler-kings-comrade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwhistler-wulfric-the-weapon-thane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwhistler-king-alfreds-viking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwhistler-sea-queens-sailing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwhistler-king-olafs-kinsman-a-story-of-the-last-saxon-stru": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whistler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

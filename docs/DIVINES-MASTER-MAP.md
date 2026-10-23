@@ -41590,3 +41590,18 @@ Shelf: `pipeline/frederick-orin-bartlett_shelf.json` (2026-10-22; added at the c
 | Big Laurel | have | PG 76048, `fobartlett-big-laurel` (1517 units) |
 | New lives for old | have | PG 76684, `fobartlett-new-lives-for-old` (733 units) |
 | Joan and Co. | have | PG 78046, `fobartlett-joan-and-co` (3034 units) |
+
+## Charles W. Whistler
+
+Shelf: `pipeline/charles-w-whistler_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical tales of Saxon and Viking England. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Havelok the Dane: A Legend of Old Grimsby and Lincoln | have | PG 12847, `cwwhistler-havelok-the-dane` (1997 units) |
+| A Thane of Wessex: Being a Story of the Great Viking Raids into Somerset | have | PG 13054, `cwwhistler-thane-of-wessex` (1462 units) |
+| A Prince of Cornwall A Story of Glastonbury and the West in the Days of Ina of Wessex | have | PG 13315, `cwwhistler-prince-of-cornwall-a-story-of-glastonbury-and-the` (2164 units) |
+| A King's Comrade: A Story of Old Hereford | have | PG 13438, `cwwhistler-kings-comrade` (2057 units) |
+| Wulfric the Weapon Thane: A Story of the Danish Conquest of East Anglia | have | PG 13752, `cwwhistler-wulfric-the-weapon-thane` (2156 units) |
+| King Alfred's Viking: A Story of the First English Fleet | have | PG 14034, `cwwhistler-king-alfreds-viking` (2009 units) |
+| A Sea Queen's Sailing | have | PG 15951, `cwwhistler-sea-queens-sailing` (1694 units) |
+| King Olaf's Kinsman A Story of the Last Saxon Struggle against the Danes in the Days of Ironside and Cnut | have | PG 16196, `cwwhistler-king-olafs-kinsman-a-story-of-the-last-saxon-stru` (2515 units) |
