@@ -1,0 +1,34 @@
+{
+ "_about": "T. Dempsey: The Delphic Oracle, its Early History, Influence and Fall (Oxford: Blackwell, 1918). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "T. Dempsey",
+ "_name_words": [
+  "dempsey",
+  "delphic",
+  "oracle"
+ ],
+ "_surname": [
+  "dempsey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dempsey-delphic-oracle-1918": [
+   "cu31924028302630",
+   "The Delphic Oracle: its Early History, Influence and Fall (1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "dempsey-delphic-oracle-1918": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dempsey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

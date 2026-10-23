@@ -20455,6 +20455,15 @@ Shelf: `pipeline/seymour-van-santvoord_shelf.json`. The House of Caesar and the 
 |---|---|---|---|
 | The House of Caesar and the Imperial Disease (1902) |  | `van-santvoord-house-of-caesar-1902` | have-raw (IA `cu31924028313819`) |
 
+
+## T. Dempsey
+
+Shelf: `pipeline/t-dempsey_shelf.json`. The Delphic Oracle: its Early History, Influence and Fall (1918) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Delphic Oracle: its Early History, Influence and Fall (1918) |  | `dempsey-delphic-oracle-1918` | have-raw (IA `cu31924028302630`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
