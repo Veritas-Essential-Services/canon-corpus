@@ -46530,3 +46530,40 @@ Shelf: `pipeline/storytellers-tail-22_shelf.json` (2026-10-22; added at the coor
 | Aleph, the Chaldean; or, the Messiah as Seen from Alexandria | have | PG 61041, `efburr-aleph-the-chaldean` (1671 units) |
 | History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865 | have | PG 50422, `hsburrage-history-of-the-thirty-sixth-regiment-massachusetts` (1680 units) |
 | The Centurion's Story | have | PG 29566, `djburrell-centurion-s-story` (38 units) |
+
+## Storytellers' tail, group 23 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-23_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Frederick R. Burton, Bertha E. Bush, Isabel Graham Bush, John Patrick Crichton-Stuart Bute, Maude Mary Butler, Charles K. Cadwell, George Calderon, Frances Boyd Calhoun, James Howard Calisch, J. M. Callwell, Fernand Calmettes, H. Lovett Cameron, Cameron, Edward Livingston Campbell, John Campbell, Lang Campbell, M. J. Canavan, William A. Canfield, Arthur Astor Carey, Helena Carnegie, Edith Carrington, Mary Elizabeth Carter, Alice Cary, Patrick Casey, Terence Casey, Gregory Casparian, Virginia Carter Castleman, Katherine Dunlap Cather, Hobart Caunter, Henry Richardson Chamberlain. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mission of Poubalov | have | PG 46774, `frburton-mission-of-poubalov` (1954 units) |
+| Stories of Robin Hood | have | PG 46190, `bebush-stories-of-robin-hood` (332 units) |
+| Goose Creek Folks: A Story of the Kentucky Mountains | have | PG 62497, `igbush-goose-creek-folks` (1016 units) |
+| Brendan's Fabulous Voyage A Lecture delivered on January 19, 1893, before the Scottish Society of Literature and Art | have | PG 17343, `jpcbute-brendan-s-fabulous-voyage-a-lecture-delivered-on-jan` (55 units) |
+| A soldier's son | have | PG 39538, `mmbutler-soldier-s-son` (899 units) |
+| The Old Sixth Regiment, Its War Record, 1861-5 | have | PG 50047, `ckcadwell-old-sixth-regiment-its-war-record-1861-5` (205 units) |
+| Dwala: A romance | have | PG 68496, `gcalderon-dwala` (1338 units) |
+| Miss Minerva and William Green Hill | have | PG 5187, `fbcalhoun-miss-minerva-and-william-green-hill` (1153 units) |
+| The Mania of the Nations on the Planet Mars and its Terrific Consequences A Combination of Fun and Wisdom | have | PG 56445, `jhcalisch-mania-of-the-nations-on-the-planet-mars-and-its-te` (91 units) |
+| A little Irish girl | have | PG 75934, `jmcallwell-little-irish-girl` (977 units) |
+| A fisher girl of France | have | PG 78652, `fcalmettes-fisher-girl-of-france` (1900 units) |
+| Vera Nevill | have | PG 18385, `hlcameron-vera-nevill` (2738 units) |
+| The warning clock | have | PG 78137, `cameron-warning-clock` (44 units) |
+| Historical sketch of the Fifteenth Regiment, New Jersey Volunteers First Brigade, First Division, Sixth Corps | have | PG 35697, `elcampbell-historical-sketch-of-the-fifteenth-regiment-new-j` (63 units) |
+| Two Knapsacks: A Novel of Canadian Summer Life | have | PG 17532, `jcampbell-two-knapsacks` (2612 units) |
+| The dinky ducklings | have | PG 76014, `lcampbell-dinky-ducklings` (171 units) |
+| Ben Comee | have | PG 27920, `mjcanavan-ben-comee` (1284 units) |
+| A History of the Army Experience of William A. Canfield | have | PG 31998, `wacanfield-history-of-the-army-experience-of-william-a-canfi` (97 units) |
+| Boy Scouts at Sea; Or, A Chronicle of the B. S. S. Bright Wing | have | PG 65650, `aacarey-boy-scouts-at-sea` (991 units) |
+| The infant moralist | have | PG 76648, `hcarnegie-infant-moralist` (131 units) |
+| Poor Blossom: The Story of a Horse | have | PG 63418, `ecarrington-poor-blossom` (416 units) |
+| Mrs. Severn: A Novel, Vol. 1 (of 3) | have | PG 43449, `mecarter-mrs-severn` (769 units) |
+| Snow-berries | have | PG 79573, `acary-snow-berries` (676 units) |
+| The wolf-cub | have | PG 41126, `pcasey-wolf-cub` (2006 units) |
+| The wolf-cub | have | PG 41126, `tcasey-wolf-cub` (2006 units) |
+| An Anglo-American Alliance: A Serio-Comic Romance and Forecast of the Future | have | PG 52913, `gcasparian-anglo-american-alliance` (434 units) |
+| Pocahontas: A Poem | have | PG 9985, `vccastleman-pocahontas` (94 units) |
+| Educating by story-telling | have | PG 58255, `kdcather-educating-by-story-telling` (3255 units) |
+| Legendary & romantic tales of Indian history | have | PG 70300, `hcaunter-legendary-romantic-tales-of-indian-history` (2545 units) |
+| 6,000 Tons of Gold | have | PG 58269, `hrchamberlain-6-000-tons-of-gold` (904 units) |
