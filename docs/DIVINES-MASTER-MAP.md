@@ -20124,6 +20124,15 @@ Shelf: `pipeline/george-middleton_shelf.json`. The Student's Companion to Latin 
 |---|---|---|---|
 | The Student's Companion to Latin Authors (London: Macmillan, 1896) |  | `middleton-mills-students-companion-latin-authors` | have (PG 28413) |
 
+
+## Helen McClees (1885-)
+
+Shelf: `pipeline/helen-mcclees_shelf.json`. The Daily Life of the Greeks and Romans (New York: Metropolitan Museum of Art, 1924). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Daily Life of the Greeks and Romans (New York: Metropolitan Museum of Art, 1924) |  | `mcclees-daily-life-greeks-romans-1924` | have (PG 68231) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
