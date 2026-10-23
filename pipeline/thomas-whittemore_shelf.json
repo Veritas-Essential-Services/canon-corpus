@@ -1,0 +1,212 @@
+{
+ "_about": "Public-domain Thomas Whittemore, Universalist minister and editor in Boston, for the Word Hoard: his sermons of 1823 to 1832, The Modern History of Universalism, Notes and Illustrations of the Parables, The Life of Rev. John Murray, The Plain Guide to Universalism, The Theory of William Miller Utterly Exploded, A Commentary on the Revelation, and his Memoir of Walter Balfour. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 134 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas whittemore",
+  "t. whittemore",
+  "whittemore"
+ ],
+ "_surname": [
+  "whittemore"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whittemore-cambridge-1823": [
+   "sermondeliveredb1823whit",
+   "A sermon, delivered before the First Universalist Society, in Cambridge : on the evening of the second Sabbath in February, 1823 (Boston : H. Bowen, 1823)"
+  ],
+  "whittemore-rich-man-lazarus": [
+   "sermononparableo00whit",
+   "A sermon on the parable of the rich man and Lazarus (Boston : Printed by George W. Bazin, Trumpet office, 1829)"
+  ],
+  "whittemore-dedham-1830": [
+   "sermondelivereda00whit_0",
+   "A sermon, delivered at the dedication of the Universalist Meeting House, in Dedham, Mass. Thursday, January 14, 1830 (Boston : Printed at the Trumpet office, 40, Cornhill [by George W. Bazin], 1830)"
+  ],
+  "whittemore-sheep-goats": [
+   "sermononparableo1831whit",
+   "A sermon, on the parable of the sheep and goats (Boston, Printed by G.W. Bazin, 1831)"
+  ],
+  "whittemore-bassett-funeral": [
+   "sermondelivereda00whit",
+   "A sermon, delivered at the funeral of the Reverend Alfred V. Bassett, Pastor of the Universalist Society in Dedham (Boston : Printed and published at the Trumpet Office, 1832)"
+  ],
+  "whittemore-modern-history": [
+   "modernhistoryun01whitgoog",
+   "The Modern History of Universalism: From the Era of the Reformation to the Present Time (Whittemore, 1830)"
+  ],
+  "whittemore-parables": [
+   "notesillustratio00whit",
+   "Notes and illustrations of the parables of the New-Testament, arranged according to the time in which they were spoken (Boston, The author, 1832)"
+  ],
+  "whittemore-john-murray": [
+   "liferevjohnmurr01whitgoog",
+   "The Life of Rev. John Murray (Published at the Trumpet Office, 1833)"
+  ],
+  "whittemore-plain-guide": [
+   "plainguidetouniv00whitrich",
+   "The plain guide to Universalism : designed to lead inquirers to the belief of that doctrine, and believers to the practice of it (Boston : Whittemore, 1840)"
+  ],
+  "whittemore-william-miller": [
+   "theorywilliammi00whitgoog",
+   "The Theory of William Miller: Concerning the End of the World in 1843, Utterly Exploded ; with (Thomas Whittemore, 1840)"
+  ],
+  "whittemore-revelation": [
+   "commentaryonreve00whit",
+   "A commentary on the Revelation of St. John, the Divine (Boston, J. M. Usher, 1848)"
+  ],
+  "whittemore-walter-balfour": [
+   "memoirofrevwalte00whit",
+   "Memoir of the Rev. Walter Balfour : author of letters to prof. Stuart and various other publications (Boston : J. Usher, 1852)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "whittemore-music": "Songs of Zion, the Gospel Harmonist and Conference Hymns are music and hymn books",
+  "whittemore-others": "The Bramble is an answer to him; The Doctrine of Eternal Hell Torments Overthrown is Samuel Richardson's",
+  "whittemore-dups": "other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "whittemore-rich-man-lazarus": "Title page: 'A SERMON ON THE PARABLE OF THE RICH MAN AND LAZARUS. BY THOMAS WHITTEMORE, Pastor of the First Universalist Society in Cambridge. SECOND EDITION. Boston, 1829' (OCR reads AVIIITTEMORE)."
+ },
+ "_pending": {
+  "whittemore-twelve-sermons": "Twelve Sermons Delivered during the United States Convention of Universalists (1853, IA twelvesermonsde00goog): sermons by several preachers (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "whittemore-cambridge-1823": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whittemore-rich-man-lazarus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittemore-dedham-1830": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whittemore-sheep-goats": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whittemore-bassett-funeral": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittemore-modern-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittemore-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "whittemore-john-murray": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittemore-plain-guide": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittemore-william-miller": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittemore-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whittemore-walter-balfour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whittemore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

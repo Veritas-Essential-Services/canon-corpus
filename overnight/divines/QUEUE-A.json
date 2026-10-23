@@ -10927,6 +10927,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:59:16-05:00",
       "notes": "9 books, 1828-1856."
+    },
+    {
+      "id": "a-thomas-whittemore",
+      "status": "done",
+      "scope": "round 134",
+      "added": "2026-10-23T09:59:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:59:17-05:00",
+      "notes": "12 books, 1823-1852."
     }
   ]
 }

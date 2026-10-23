@@ -19463,6 +19463,29 @@ Slugs `wainwright-*`. Built from title pages read for round 134.
 | the chant and tune books are music he arranged | excluded | |
 | Marsh's Notes on the Episcopal Polity, the Choir and Family Psalter and the New York legislature reports are by others | excluded | |
 | other scans of the same books | excluded | |
+
+## Thomas Whittemore (round 134, my pick, 2026-10-23)
+
+Slugs `whittemore-*`. Built from title pages read for round 134.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, delivered before the First Universalist Society, in Cambridge : on the evening of the second Sabbath in February, 1823 (Boston : H. Bowen, 1823) | have-ocr | IA `sermondeliveredb1823whit` |
+| A sermon on the parable of the rich man and Lazarus (Boston : Printed by George W. Bazin, Trumpet office, 1829) | have-ocr | IA `sermononparableo00whit` |
+| A sermon, delivered at the dedication of the Universalist Meeting House, in Dedham, Mass. Thursday, January 14, 1830 (Boston : Printed at the Trumpet office, 40, Cornhill [by George W. Bazin], 1830) | have-ocr | IA `sermondelivereda00whit_0` |
+| A sermon, on the parable of the sheep and goats (Boston, Printed by G.W. Bazin, 1831) | have-ocr | IA `sermononparableo1831whit` |
+| A sermon, delivered at the funeral of the Reverend Alfred V. Bassett, Pastor of the Universalist Society in Dedham (Boston : Printed and published at the Trumpet Office, 1832) | have-ocr | IA `sermondelivereda00whit` |
+| The Modern History of Universalism: From the Era of the Reformation to the Present Time (Whittemore, 1830) | have-ocr | IA `modernhistoryun01whitgoog` |
+| Notes and illustrations of the parables of the New-Testament, arranged according to the time in which they were spoken (Boston, The author, 1832) | have-ocr | IA `notesillustratio00whit` |
+| The Life of Rev. John Murray (Published at the Trumpet Office, 1833) | have-ocr | IA `liferevjohnmurr01whitgoog` |
+| The plain guide to Universalism : designed to lead inquirers to the belief of that doctrine, and believers to the practice of it (Boston : Whittemore, 1840) | have-ocr | IA `plainguidetouniv00whitrich` |
+| The Theory of William Miller: Concerning the End of the World in 1843, Utterly Exploded ; with (Thomas Whittemore, 1840) | have-ocr | IA `theorywilliammi00whitgoog` |
+| A commentary on the Revelation of St. John, the Divine (Boston, J. M. Usher, 1848) | have-ocr | IA `commentaryonreve00whit` |
+| Memoir of the Rev. Walter Balfour : author of letters to prof. Stuart and various other publications (Boston : J. Usher, 1852) | have-ocr | IA `memoirofrevwalte00whit` |
+| Twelve Sermons Delivered during the United States Convention of Universalists (1853, IA twelvesermonsde00goog): sermons by several preachers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Songs of Zion, the Gospel Harmonist and Conference Hymns are music and hymn books | excluded | |
+| The Bramble is an answer to him; The Doctrine of Eternal Hell Torments Overthrown is Samuel Richardson's | excluded | |
+| other scans of the same books | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
