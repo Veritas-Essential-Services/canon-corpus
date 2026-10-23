@@ -18972,6 +18972,27 @@ Slugs `bethell-*`. Built from title pages read for round 129.
 | A general view of the doctrine of regeneration in baptism (London : J.G. & F. Rivington, 1836) | have-ocr | IA `ageneralviewofth00bethuoft` |
 | Charge to the clergy of the Diocese of Bangor : delivered in the month of September, 1843, vol. Talbot Collection of British Pamphlets (London : Printed for J.G.F. & J. Rivington, St. Paul's Churchyard, and Waterloo Place, Pall Mall, 1843) | have-ocr | IA `chargetoclergyof00chur` |
 | A Concise View of the Doctrine of Regeneration is an abridgement by another hand | excluded | |
+
+## William Maskell (round 130, my pick, 2026-10-23)
+
+Slugs `maskell-*`. Built from title pages read for round 130.
+
+| Work | Status | Where |
+|---|---|---|
+| A history of the Martin Marprelate controversy in the reign of Queen Elizabeth (London : W. Pickering, 1845) | have-ocr | IA `historyofmartinm00maskrich` |
+| The ancient liturgy of the Church of England, according tp the uses of Sarum, Bangor, York & Hereford and the modern Roman liturgy arranged in parallel culumns (London, W. Pickering, 1846) | have-ocr | IA `theancientliturg00maskuoft` |
+| Monumenta ritualia Ecclesiae Anglicanae; the occasional Offices of the Church of England according to the old use of Salisbury the Prymer in English and other prayers and forms with dissertations and notes, vol. 01 (Oxford Clarendon Press, 1882) | have-ocr | IA `monumentarituali01maskuoft` |
+| Holy baptism : a dissertation (London : William Pickering, 1848) | have-ocr | IA `holybaptismdisse00mask` |
+| An enquiry into the doctrine of the Church of England upon absolution (London: William Pickering, 1849) | have-ocr | IA `enquiryintodoctr00mask` |
+| Sermons preached in the Parish church of S. Mary Church, in the Diocese of Exeter (London, W. Pickering, 1849) | have-ocr | IA `sermonspreachedi0000mask` |
+| A first letter on the present position of the High Church Party in the Church of England, vol. Talbot Collection of British Pamphlets (London : William Pickering, 1850) | have-ocr | IA `firstletteronpre00mask` |
+| A second letter on the present position of the High Church party in the Church of England : the want of dogmatic teaching in the Reformed English Church (London : W. Pickering, 1850) | have-ocr | IA `secondletteronpr0000mask` |
+| Monumenta ritualia ecclesiæ Anglicanæ, second edition, vol. 2 (catalogued 1882) | have-ocr | IA `monumentaritual04englgoog` |
+| his South Kensington Museum handbooks on ivories, musical instruments and the industrial arts are outside this theology shelf | excluded | |
+| the 1550 and 1721 prayer books are the Church of England's, not his | excluded | |
+| The Present Position of the High-Church Party (1869) is by J. W. Joyce | excluded | |
+| other scans and reprints of the same books | excluded | |
+| a volume of the 1846 first edition whose scan text has no title page; the 1882 second edition is taken instead | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
