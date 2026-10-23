@@ -10984,3 +10984,16 @@ Slugs `winer-*`. Built from title pages read for round 48.
 | Grammar of the Chaldee language :  as contained in the Bible and the Targums (Andover : Allen, Morrill and Wardwell, 1845) | have-ocr | IA `grammarofchaldee00wine` |
 | Earlier English versions of the NT grammar (Stuart and Robinson 1825, Agnew and Ebbeke 1840, Masson 1859-1861) and later printings | alternate | not shelved |
 | German and Latin works | excluded | |
+
+## Conrad von Orelli (round 48, my pick, 2026-10-23)
+
+Slugs `orelli-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old Testament prophecy of the consummation of God's Kingdom, traced in its historical development (Edinburgh, Clark, 1885) | have-ocr | IA `oldtestamentprop00oreluoft` |
+| The prophecies of Jeremiah (Edinburgh : T. & T. Clark, 1889) | have-ocr | IA `cu31924029306136` |
+| The twelve minor prophets (Edinburgh : T. & T. Clark, 1893) | have-ocr | IA `twelveminorproph00orel` |
+| The peculiarity of the religion of the Bible (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1908) | have-ocr | IA `peculiarityofrel00orel` |
+| The Prophecies of Isaiah (Clark, 1889): no full-text scan found this round | pending | not shelved |
+| German works (Die hebräischen Synonyma 1871); the classical editor J. C. Orelli (Horace, Tacitus) is another man | excluded | |

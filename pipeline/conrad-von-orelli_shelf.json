@@ -1,0 +1,89 @@
+{
+ "_about": "Public-domain Conrad von Orelli (1846-1912), Swiss Reformed Old Testament scholar at Basel, for the Word Hoard: The Old Testament Prophecy of the Consummation of God's Kingdom (1885), The Prophecies of Jeremiah (1889), The Twelve Minor Prophets (1893), all Clark translations, and The Peculiarity of the Religion of the Bible (New York, 1908), from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "orelli"
+ ],
+ "_surname": [
+  "c. von orelli",
+  "conrad von orelli",
+  "von orelli",
+  "orelli"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "orelli-ot-prophecy": [
+   "oldtestamentprop00oreluoft",
+   "The Old Testament prophecy of the consummation of God's Kingdom, traced in its historical development (Edinburgh, Clark, 1885)"
+  ],
+  "orelli-jeremiah": [
+   "cu31924029306136",
+   "The prophecies of Jeremiah (Edinburgh : T. & T. Clark, 1889)"
+  ],
+  "orelli-minor-prophets": [
+   "twelveminorproph00orel",
+   "The twelve minor prophets (Edinburgh : T. & T. Clark, 1893)"
+  ],
+  "orelli-peculiarity": [
+   "peculiarityofrel00orel",
+   "The peculiarity of the religion of the Bible (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1908)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "orelli-other": "German works (Die hebräischen Synonyma 1871); the classical editor J. C. Orelli (Horace, Tacitus) is another man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "orelli-isaiah": "The Prophecies of Isaiah (Clark, 1889): no full-text scan found this round"
+ },
+ "_translators": {},
+ "_checks": {
+  "orelli-ot-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orelli-jeremiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "orelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "orelli-minor-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. von orelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "orelli-peculiarity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "conrad von orelli",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
