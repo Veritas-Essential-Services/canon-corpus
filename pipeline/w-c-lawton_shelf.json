@@ -1,0 +1,33 @@
+{
+ "_about": "William Cranston Lawton (1853-1941), Professor of Greek at Adelphi College, raw IA OCR of Introduction to Classical Latin Literature (New York: Charles Scribner's Sons, 1904; US public domain by date). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "William Cranston Lawton (1853-1941)",
+ "_name_words": [
+  "lawton"
+ ],
+ "_surname": [
+  "william cranston lawton",
+  "w. c. lawton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-c-lawton-introduction-classical-latin-literature-1904": [
+   "introductiontocl00lawt",
+   "Introduction to Classical Latin Literature, by William Cranston Lawton (New York: Charles Scribner's Sons, 1904)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-c-lawton-introduction-classical-latin-literature-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william cranston lawton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
