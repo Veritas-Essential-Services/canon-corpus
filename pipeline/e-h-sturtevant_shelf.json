@@ -1,0 +1,33 @@
+{
+ "_about": "Edgar Howard Sturtevant (1875-1952), linguist, raw IA OCR of The Pronunciation of Greek and Latin: the sounds and accents (1920). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "E. H. Sturtevant",
+ "_name_words": [
+  "sturtevant"
+ ],
+ "_surname": [
+  "e. h. sturtevant",
+  "sturtevant"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-h-sturtevant-pronunciation-greek-latin-1920": [
+   "pronunciationofg00stur",
+   "The Pronunciation of Greek and Latin, the sounds and accents, by E. H. Sturtevant (Chicago: The University of Chicago Press, published September 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-h-sturtevant-pronunciation-greek-latin-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sturtevant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  }
+ }
+}
