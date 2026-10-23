@@ -13013,3 +13013,17 @@ Slugs `wgoode-*`. Built from title pages read for round 65.
 | Fulfilled prophecy a proof of the truth of revealed religion: being the Warburtonian lectures for 1854-1858. With an appendix of notes, including a full investigation of Daniel's prophecy of the seventy weeks (London : Hatchard and Co., 1863) | have-ocr | IA `fulfilledprophec00good` |
 | Rome's tactics, or, A lesson for England from the past : showing that the great object of Popery since the reformation has been to subvert and ruin Protestant churches and Protestant states, by dissensions and troubles caused by disguised popish agents : with a brief notice of Rome's allies in the Church of England, vol. Talbot Collection of British Pamphlets (London : The Christian Book Society, 22, King William Street, Strand, W.C., 1868) | have-ocr | IA `romestacticsorle00good` |
 | His father William Goode (1762-1816); Perry's Historical Considerations; American reprints of single tracts | excluded | |
+
+## Charles Bradley (1789-1871) (round 66, my pick, 2026-10-23)
+
+Slugs `cbradley-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| Parochial sermons preached at Glasbury, Brecknockshire (London : Hamilton, Adams, and Co., 1828) | have-ocr | IA `parochialsermons0000brad` |
+| Sermons, preached in the parish church of High Wycombe, vol. 2 (London : Printed for Hamilton, Adams, 1833) | have-ocr | IA `sermonspreachedi02bradiala` |
+| Sermons preached chiefly at the celebration of the Lord's Supper (London : Hamilton, Adams, and Co., and Thomas Hatchard, 1850) | have-ocr | IA `sermonspreachedc0000brad` |
+| Practical sermons for every Sunday and principal holy-day in the year (London : Hamilton, 1852) | have-ocr | IA `practicalsermons0000brad` |
+| Sermons preached in the parish church of High Wycombe (London : Printed for Hamilton, Adams, 1884) | have-ocr | IA `sermonspreachedi0000brad` |
+| a548635400braduoft: Sermons adapted to the celebration of the holy sacrament of the Lord's Supper (1842); Internet Archive serves no text file for it (404); another copy is needed | pending | not shelved |
+| His Latin school editions (Eutropius, Phaedrus, Cornelius Nepos); his son G. G. Bradley, Dean of Westminster | excluded | |
