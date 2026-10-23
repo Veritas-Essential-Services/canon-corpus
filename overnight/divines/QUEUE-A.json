@@ -6526,6 +6526,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T00:30:16-05:00",
       "notes": "4 items: Doctrine of Justification, Sermons on the Gospels, Story of My Life, Sermon on the Mount"
+    },
+    {
+      "id": "d-g-monrad",
+      "status": "done",
+      "scope": "round 49",
+      "added": "2026-10-23T00:30:17-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:30:17-05:00",
+      "notes": "1 item: The World of Prayer (1879), tr. J. S. Banks"
     }
   ]
 }

@@ -11114,3 +11114,12 @@ Slugs `loy-*`. Built from title pages read for round 49.
 | Story of my life (Columbus, O., Lutheran book concern, 1905) | have-ocr | IA `storyofmylife00loym` |
 | The Sermon on the mount : a practical study of chapters V-VII of St. Matthew's Gospel (Columbus, Ohio : Lutheran Book Concern, 1909) | have-ocr | IA `sermononmountpra00loym` |
 | The Life and Deeds of Dr. Martin Luther (1869, Fick's book, Loy only translated) | excluded | |
+
+## D. G. Monrad (round 49, my pick, 2026-10-23)
+
+Slugs `monrad-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The world of prayer : or, Prayer in relation to personal religion (Edinburgh : T. & T. Clark, 1879) | have-ocr | IA `worldofprayerorp00monr` |
+| Every other Monrad in the catalogue is another person (dairy manuals, engineering, law) | excluded | |

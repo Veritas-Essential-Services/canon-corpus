@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain Ditlev Gothard Monrad (1811-1887), Danish Lutheran bishop and statesman, for the Word Hoard: The World of Prayer, or Prayer in relation to personal religion (Edinburgh: T. & T. Clark, 1879), from an Internet Archive scan. Added 2026-10-23 by lane A, round 49 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "monrad"
+ ],
+ "_surname": [
+  "d. g. monrad",
+  "bishop monrad",
+  "monrad"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "monrad-world-of-prayer": [
+   "worldofprayerorp00monr",
+   "The world of prayer : or, Prayer in relation to personal religion (Edinburgh : T. & T. Clark, 1879)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "monrad-other": "Every other Monrad in the catalogue is another person (dairy manuals, engineering, law)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "monrad-world-of-prayer": "Banks"
+ },
+ "_checks": {
+  "monrad-world-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. g. monrad",
+   "translator_claimed": "Banks",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
