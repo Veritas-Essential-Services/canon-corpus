@@ -42829,3 +42829,22 @@ Shelf: `pipeline/charles-garvice_shelf.json` (2026-10-22; added at the coordinat
 | Just a girl | have | PG 57166, `cgarvice-just-a-girl` (4594 units) |
 | Olivia | have | PG 70446, `cgarvice-olivia` (4689 units) |
 | A woman's soul | have | PG 74103, `cgarvice-womans-soul` (4339 units) |
+
+## Herbert Carter
+
+Shelf: `pipeline/herbert-carter_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Boy Scouts on Sturgeon Island; or, Marooned Among the Game-fish Poachers | have | PG 8067, `hcarter-boy-scouts-on-sturgeon-island` (1338 units) |
+| The Boy Scouts' First Camp Fire; or, Scouting with the Silver Fox Patrol | have | PG 20434, `hcarter-boy-scouts-first-camp-fire` (1377 units) |
+| The Boy Scouts in the Maine Woods; Or, The New Test for the Silver Fox Patrol | have | PG 31389, `hcarter-boy-scouts-in-the-maine-woods` (1260 units) |
+| The Boy Scouts in the Blue Ridge; Or, Marooned Among the Moonshiners | have | PG 32240, `hcarter-boy-scouts-in-the-blue-ridge` (1280 units) |
+| The Boy Scouts in the Rockies; Or, The Secret of the Hidden Silver Mine | have | PG 32354, `hcarter-boy-scouts-in-the-rockies` (1308 units) |
+| The Boy Scouts Through the Big Timber; Or, The Search for the Lost Tenderfoot | have | PG 44882, `hcarter-boy-scouts-through-the-big-timber` (1608 units) |
+| The Boy Scouts on the Trail; or, Scouting through the Big Game Country | have | PG 45028, `hcarter-boy-scouts-on-the-trail` (1314 units) |
+| The Boy Scouts Along the Susquehanna; or, The Silver Fox Patrol Caught in a Flood | have | PG 45667, `hcarter-boy-scouts-along-the-susquehanna` (1521 units) |
+| The Boy Scouts on War Trails in Belgium; Or, Caught Between Hostile Armies | have | PG 46968, `hcarter-boy-scouts-on-war-trails-in-belgium` (1581 units) |
+| The Boy Scouts at the Battle of Saratoga: The Story of General Burgoyne's Defeat | have | PG 47037, `hcarter-boy-scouts-at-the-battle-of-saratoga` (1705 units) |
+| The Boy Scouts Afoot in France; or, With the Red Cross Corps at the Marne | have | PG 47358, `hcarter-boy-scouts-afoot-in-france` (1102 units) |
+| The Boy Scouts Down in Dixie; or, The Strange Secret of Alligator Swamp | have | PG 48251, `hcarter-boy-scouts-down-in-dixie` (1242 units) |
