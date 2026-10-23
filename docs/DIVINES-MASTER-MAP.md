@@ -13541,6 +13541,21 @@ Slugs `morrison-*`. Built from title pages read for round 72.
 | Highways of the heart : a series of addresses (New York : Doran, 1926) | have-ocr | IA `highwaysofhearts0000morr` |
 | The Ever Open Door (London: Hodder and Stoughton, first published March 1929): the only scan found (everopendoor0000morr) is a reprint of October 1930 or later, so it breaks this shelf's 'printed before 1930' line; the text itself is the 1929 one. Held for Adam | pending | not shelved |
 | The Restfulness of Christ and the Unseen Vision (1912), a 42-page pamphlet of two addresses | excluded | |
+
+## C. Silvester Horne (round 72, my pick, 2026-10-23)
+
+Slugs `horne-*`. Built from title pages read for round 72.
+
+| Work | Status | Where |
+|---|---|---|
+| The story of the L.M.S., 1795-1895 (London : London missionary society ; J. Snow, 1895) | have-ocr | IA `storyoflms1795horn` |
+| A popular history of the free churches (London : J. Clarke, 1903) | have-ocr | IA `apopularhistoryo00hornuoft` |
+| Nonconformity in the XIXth century (London : National Council of Evangelical Free Churches, 1905) | have-ocr | IA `nonconformityinx0000horn` |
+| The Ministry of the Modern Church: lectures delivered to the students of Regent's Park Baptist College (London: J. Clarke, 1907) | have-ocr | IA `ministryofmodern0000horn` |
+| David Livingstone (New York, The Macmillan company, 1913) | have-ocr | IA `cu31924028680274` |
+| Pulpit, platform and parliament (London : Hodder and Stoughton, 1913) | have-ocr | IA `pulpitplatformpa00horniala` |
+| The romance of preaching (New York, Chicago [etc.] Fleming H. Revell Company, 1914) | have-ocr | IA `romanceofpreachi00horn` |
+| Let Us Pray (1897, a compiled book of collects); the 1914 In Memoriam booklet and W. B. Selbie's Life (1920), both about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
