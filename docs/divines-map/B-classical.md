@@ -10065,3 +10065,12 @@ Shelf: `pipeline/j-w-mccrindle_shelf.json`. Classical writers on India in transl
 
 Excluded: Ancient India as Described by Megasthenes and Arrian; The Invasion of India by Alexander the Great (held on the arrian shelf)
 
+
+## Luigi Palma di Cesnola (1832-1904)
+
+Shelf: `pipeline/luigi-palma-di-cesnola_shelf.json`. Cyprus, its Ancient Cities, Tombs, and Temples (1877). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Cyprus: its Ancient Cities, Tombs, and Temples (1877) |  | `cesnola-cyprus-1877` | have-raw (IA `cyprusitsancien00murrgoog`) |
+
