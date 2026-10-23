@@ -10577,3 +10577,12 @@ Shelf: `pipeline/frank-pierrepont-graves_shelf.json`. The Burial Customs of the 
 |---|---|---|---|
 | The Burial Customs of the Ancient Greeks (1891) |  | `graves-burial-customs-ancient-greeks-1891` | have (PG 49431) |
 
+
+## George Glasgow (1891-)
+
+Shelf: `pipeline/george-glasgow_shelf.json`. The Minoans (London: Jonathan Cape, 1923). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Minoans (London: Jonathan Cape, 1923) |  | `glasgow-the-minoans-1923` | have (PG 69765) |
+

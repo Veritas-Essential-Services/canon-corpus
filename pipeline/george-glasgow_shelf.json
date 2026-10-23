@@ -1,0 +1,32 @@
+{
+ "_about": "George Glasgow (b. 1891): The Minoans (Jonathan Cape, 1923). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "George Glasgow (1891-)",
+ "_name_words": [
+  "glasgow",
+  "george",
+  "minoans"
+ ],
+ "_surname": [
+  "george glasgow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "glasgow-the-minoans-1923": [
+   69765,
+   "The Minoans (London: Jonathan Cape, 1923)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "glasgow-the-minoans-1923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
