@@ -1,5 +1,5 @@
 {
- "_about": "William Watkiss Lloyd (1813-1893), raw IA OCR of The Age of Pericles (2 vols, 1875).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_about": "William Watkiss Lloyd (1813-1893), raw IA OCR of The Age of Pericles (2 vols, 1875).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted. Round eb adds The History of Sicily to the Athenian War (1872).",
  "_author": "W. Watkiss Lloyd",
  "_name_words": [
   "lloyd"
@@ -17,6 +17,10 @@
   "w-watkiss-lloyd-age-of-pericles-2-1875": [
    "agepericlesahis02lloygoog",
    "The Age of Pericles: a history of the politics and arts of Greece from the Persian to the Peloponnesian War, volume II, by William Watkiss Lloyd (London: Macmillan and Co., 1875)"
+  ],
+  "w-watkiss-lloyd-history-of-sicily-1872": [
+   "historyofsicilyt00lloyuoft",
+   "The History of Sicily to the Athenian War, with elucidations of the Sicilian odes of Pindar, by W. Watkiss Lloyd (London: John Murray, 1872)"
   ]
  },
  "_excluded": {},
@@ -42,6 +46,22 @@
    "ia_date": "1875",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "w-watkiss-lloyd-history-of-sicily-1872": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "w-watkiss-lloyd-history-of-sicily-1872": {
+   "author": "W. WATKISS LLOYD"
   }
  }
 }
