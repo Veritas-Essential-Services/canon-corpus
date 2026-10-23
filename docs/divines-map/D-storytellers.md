@@ -20950,3 +20950,40 @@ Shelf: `pipeline/storytellers-tail-40_shelf.json` (2026-10-22; added at the coor
 | The History of the Twenty-ninth Regiment of Massachusetts Volunteer Infantry in the Late War of the Rebellion | have | PG 50687, `whosborne-history-of-the-twenty-ninth-regiment-of-massachuse` (1544 units) |
 | Six giants and a griffin, and other stories | have | PG 61619, `sebotis-six-giants-and-a-griffin-and-other-stories` (327 units) |
 | The boy-artist | have | PG 25478, `fmowen-boy-artist` (616 units) |
+
+## Storytellers' tail, group 41 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-41_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Jewett Palmer, John Carl Parish, Ezra Knight Parker, Francis J. Parker, John H. Parker, Lester Shepard Parker, Louis Napoleon Parker, Richard Green Parker, Richard Parkinson, Leighton Parks, Dillwyn Parrish, Virginia Sharpe Patterson, George A. Paull, H. B. Paull, George Payson, William Farquhar Payson, Mark Guy Pearse, Robert Morris Peck, Rufus H. Peck, Hedley Peek, Louis Pendleton, Ain'Elisabet Pennanen, George Perkins, John P. Peters, Charles J. Peterson, Henry Peterson, Margaret Peterson, George H. Pettis, Henry Pettit, Charles Lincoln Phifer. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Historical Sketch of Company "B," Eighteenth Regiment Ohio Volunteer Infantry Three Months Service | have | PG 60243, `jpalmer-historical-sketch-of-company-b-eighteenth-regiment-o` (191 units) |
+| The Man with the Iron Hand | have | PG 57921, `jcparish-man-with-the-iron-hand` (590 units) |
+| Campaign of Battery D, First Rhode Island Light Artillery | have | PG 30822, `ekparker-campaign-of-battery-d-first-rhode-island-light-arti` (58 units) |
+| The Story of the Thirty-second Regiment, Massachusetts Infantry Whence it came; where it went; what it saw, and what it did | have | PG 50140, `fjparker-story-of-the-thirty-second-regiment-massachusetts-i` (743 units) |
+| History of the Gatling Gun Detachment, Fifth Army Corps, at Santiago With a Few Unvarnished Truths Concerning that Expedition | have | PG 6888, `jhparker-history-of-the-gatling-gun-detachment-fifth-army-co` (663 units) |
+| Nancy MacIntyre: A Tale of the Prairies | have | PG 13560, `lsparker-nancy-macintyre` (270 units) |
+| Pomander Walk | have | PG 47925, `lnparker-pomander-walk` (1854 units) |
+| Parker's Second Reader National Series of Selections for Reading, Designed For The Younger Classes In Schools, Academies, &C. | have | PG 16936, `rgparker-parker-s-second-reader-national-series-of-selection` (1087 units) |
+| The Old Church Clock | have | PG 61587, `rparkinson-old-church-clock` (330 units) |
+| English ways and by-ways | have | PG 76393, `lparks-english-ways-and-by-ways` (872 units) |
+| The Dream Coach | have | PG 62328, `dparrish-dream-coach` (564 units) |
+| Dickey Downy: The Autobiography of a Bird | have | PG 16255, `vspatterson-dickey-downy` (644 units) |
+| Ruby at School | have | PG 30860, `gapaull-ruby-at-school` (961 units) |
+| Englefield Grange; or, Mary Armstrong's Troubles | have | PG 34794, `hbpaull-englefield-grange` (2726 units) |
+| Golden Dreams and Leaden Realities | have | PG 49039, `gpayson-golden-dreams-and-leaden-realities` (1015 units) |
+| John Vytal: A Tale of the Lost Colony | have | PG 58403, `wfpayson-john-vytal` (2028 units) |
+| Gold and Incense: A West Country Story | have | PG 41870, `mgpearse-gold-and-incense` (174 units) |
+| The Wolf Hunters: A Story of the Buffalo Plains | have | PG 55720, `rmpeck-wolf-hunters` (1321 units) |
+| Reminiscencies of a Confederate soldier of Co. C, 2nd Va. Cavalry | have | PG 49881, `rhpeck-reminiscencies-of-a-confederate-soldier-of-co-c-2nd-v` (417 units) |
+| The Chariot of the Flesh | have | PG 48080, `hpeek-chariot-of-the-flesh` (1302 units) |
+| Captain Ted: A Boy's Adventures Among Hiding Slackers in the Great Georgia Swamp | have | PG 34333, `lpendleton-captain-ted` (1386 units) |
+| Palkkapiian päiväkirja: Romaaninovelli | have | PG 67565, `apennanen-palkkapiian-paivakirja` (535 units) |
+| A Summer in Maryland and Virginia; Or, Campaigning with the 149th Ohio Volunteer Infantry. A Sketch of Events Connected with the Service of the Regiment in Maryland and the Shenandoah Valley, Virginia | have | PG 60969, `gperkins-summer-in-maryland-and-virginia` (196 units) |
+| The Animals' Christmas Tree | have | PG 67105, `jppeters-animals-christmas-tree` (56 units) |
+| Kate Aylesford: A Story of the Refugees | have | PG 58846, `cjpeterson-kate-aylesford` (1787 units) |
+| Dulcibel: A Tale of Old Salem | have | PG 20569, `hpeterson-dulcibel` (1850 units) |
+| To Love | have | PG 26519, `mpeterson-to-love` (1590 units) |
+| Frontier service during the rebellion | have | PG 28951, `ghpettis-frontier-service-during-the-rebellion` (49 units) |
+| A Twentieth Century Idealist | have | PG 64612, `hpettit-twentieth-century-idealist` (2023 units) |
+| The Friar's Daughter: A Story of the American Occupation of the Philippines | have | PG 47782, `clphifer-friar-s-daughter` (678 units) |
