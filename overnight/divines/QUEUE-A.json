@@ -8272,6 +8272,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T04:49:40-05:00",
       "notes": "5 volumes in English (1899-1929)."
+    },
+    {
+      "id": "jan-hus=jan-hus",
+      "status": "done",
+      "scope": "round 81",
+      "added": "2026-10-23T04:49:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:49:41-05:00",
+      "notes": "4 books: two English editions of his Letters, De Ecclesia (Schaff), and the Latin Tractatus Responsivus (1927). The 1846 Letters' OCR reads Luther's 1537 preface date as 1937."
     }
   ]
 }

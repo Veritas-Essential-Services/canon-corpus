@@ -14342,6 +14342,20 @@ Slugs `zwingli-*`. Built from title pages read for round 81.
 | The Latin works and the correspondence of Huldreich Zwingli : together with selections from his German works, vol. 2 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres02zwin` |
 | The Latin works and the correspondence of Huldreich Zwingli :  together with selections from his German works, vol. 3 (New York : G.P. Putnam's Sons, Philadelphia : Heidelberg Press, 1912) | have-ocr | IA `latinworkscorres03zwin` |
 | lives of him by Christoffel, Jackson and others | excluded | |
+
+## Jan Hus (round 81, my pick, 2026-10-23)
+
+Slugs `hus-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters of John Huss written during his exile and imprisonment (Edinburgh, W. Whyte, 1846) | have-ocr | IA `lettersjohnhuss00luthgoog` |
+| The Letters of John Hus (London : Hodder and Stoughton, 1904) | have-ocr | IA `lettersofjohnhus00husjuoft` |
+| De ecclesia. The Church (New York Scribner, 1915) | have-ocr | IA `deecclesiachurch00husjuoft` |
+| Mag. Johannis Hus Tractatus responsivus : now first edited with a critical introduction and notes from the unique ms. cod. C. 116, Metropolitan chapter library, Prague (Princeton : Princeton university press, 1927) | have-ocr | IA `magjohannishustr00husj` |
+| Super IV Sententiarum (Flajshans, 1904-1906): its IA volumes still need matching | pending | not shelved |
+| the Czech collected works (Sebrané spisy) and Czech correspondence, left for a lane that takes Czech | excluded | |
+| eighteenth-century German translations | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
