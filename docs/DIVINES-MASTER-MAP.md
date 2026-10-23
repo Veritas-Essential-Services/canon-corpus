@@ -40752,3 +40752,20 @@ Shelf: `pipeline/charlotte-m-brame_shelf.json` (2026-10-22; added at the coordin
 | Love Works Wonders: A Novel | have | PG 33989, `cmbrame-love-works-wonders` (2181 units) |
 | A Fair Mystery: The Story of a Coquette | have | PG 41932, `cmbrame-fair-mystery` (5357 units) |
 | The Shadow of a Sin | have | PG 42320, `cmbrame-shadow-of-a-sin` (1625 units) |
+
+## Frank Norris
+
+Shelf: `pipeline/frank-norris_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| McTeague: A Story of San Francisco | have | PG 165, `fnorris-mcteague` (2570 units) |
+| The Octopus : A Story of California | have | PG 268, `fnorris-octopus` (3578 units) |
+| Moran of the Lady Letty | have | PG 321, `fnorris-moran-of-the-lady-letty` (1054 units) |
+| Blix | have | PG 401, `fnorris-blix` (1250 units) |
+| The pit | have | PG 4382, `fnorris-pit` (2866 units) |
+| A Deal in Wheat and Other Stories of the New and Old West | have | PG 9905, `fnorris-deal-in-wheat-and-other-stories-of-the-new-and-old-w` (1043 units) |
+| Vandover and the Brute | have | PG 14712, `fnorris-vandover-and-the-brute` (1395 units) |
+| A man's woman | have | PG 16096, `fnorris-mans-woman` (1384 units) |
+| The Surrender of Santiago An Account of the Historic Surrender of Santiago to General Shafter, July 17, 1898 | have | PG 26026, `fnorris-surrender-of-santiago-an-account-of-the-historic-sur` (66 units) |
+| The Third Circle | have | PG 48620, `fnorris-third-circle` (943 units) |

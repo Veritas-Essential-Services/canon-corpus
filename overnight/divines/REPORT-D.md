@@ -2051,3 +2051,6 @@
 
 ## 2026-10-22 22:40 CDT — charlotte-m-brame: done
 - charlotte-m-brame: new shelf, 11 Gutenberg books, 20,558 units, 127 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — frank-norris: done
+- frank-norris: new shelf, 10 Gutenberg books, 16,149 units, 1072 ~2 ids; verify 0 mismatches, 0 rights flags.

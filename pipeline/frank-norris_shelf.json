@@ -1,0 +1,149 @@
+{
+ "_about": "Frank Norris's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frank Norris",
+ "_name_words": [
+  "frank",
+  "norris"
+ ],
+ "_surname": [
+  "frank norris"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fnorris-mcteague": [
+   165,
+   "McTeague: A Story of San Francisco"
+  ],
+  "fnorris-octopus": [
+   268,
+   "The Octopus : A Story of California"
+  ],
+  "fnorris-moran-of-the-lady-letty": [
+   321,
+   "Moran of the Lady Letty"
+  ],
+  "fnorris-blix": [
+   401,
+   "Blix"
+  ],
+  "fnorris-pit": [
+   4382,
+   "The pit"
+  ],
+  "fnorris-deal-in-wheat-and-other-stories-of-the-new-and-old-w": [
+   9905,
+   "A Deal in Wheat and Other Stories of the New and Old West"
+  ],
+  "fnorris-vandover-and-the-brute": [
+   14712,
+   "Vandover and the Brute"
+  ],
+  "fnorris-mans-woman": [
+   16096,
+   "A man's woman"
+  ],
+  "fnorris-surrender-of-santiago-an-account-of-the-historic-sur": [
+   26026,
+   "The Surrender of Santiago An Account of the Historic Surrender of Santiago to General Shafter, July 17, 1898"
+  ],
+  "fnorris-third-circle": [
+   48620,
+   "The Third Circle"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fnorris-mcteague": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-octopus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-moran-of-the-lady-letty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-blix": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-pit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-deal-in-wheat-and-other-stories-of-the-new-and-old-w": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-vandover-and-the-brute": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-mans-woman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-surrender-of-santiago-an-account-of-the-historic-sur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnorris-third-circle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank norris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
