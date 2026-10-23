@@ -15739,3 +15739,25 @@ Slugs `hoyt-*`. Built from title pages read for round 95.
 | Helps upward (Boston and Chicago, United society of Christian endeavor, 1899) | have-ocr | IA `helpsupward00hoyt` |
 | The teaching of Jesus concerning His own person (New York, American tract society, 1907) | have-ocr | IA `teachingofjesusc00hoyt` |
 | A Decade of Christian Endeavor (many authors) | excluded | |
+
+## Thomas Bradbury (round 96, my pick, 2026-10-23)
+
+Slugs `bradbury-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| Five anniversary sermons upon the fifth of November; the day of our happy revolution. By T. Bradbury.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_five-anniversary-sermons_bradbury-thomas_1705` |
+| A confession of faith, at the publick ordination of Thomas Bradbury. London, July the tenth, 1707. With an exhortation to minister and people. By Mr. John Shower.  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_a-confession-of-faith-a_bradbury-thomas_1707` |
+| The Christian's joy in finishing his course. By Thomas Bradbury.  1713 (catalogued 1713) | have-ocr | IA `bim_eighteenth-century_the-christians-joy-in-f_bradbury-thomas_1713` |
+| The doctrine of justification explain'd and apply'd: in eight sermons. By Thomas Bradbury.  1716 (catalogued 1716) | have-ocr | IA `bim_eighteenth-century_the-doctrine-of-justific_bradbury-thomas_1716` |
+| The necessity of contending for revealed religion: with a sermon on the fifth of November, 1719. By Thomas Bradbury. To which is prefix'd, a letter from the Reverend Cotton Mather D.D. on the late disputes about the ever-blessed Trinity.  1720 (catalogued 1720) | have-ocr | IA `bim_eighteenth-century_the-necessity-of-contend_bradbury-thomas_1720` |
+| Twenty-eight sermons concerning offences, revilings, and a confession of the faith; preach'd at Pinners-Hall. By Thomas Bradbury.  1723 (catalogued 1723) | have-ocr | IA `bim_eighteenth-century_twenty-eight-sermons-con_bradbury-thomas_1723` |
+| The power of Christ over plagues and health, and his name, as the God of Israel, consider'd; as arguments of his supreme deity: in ten sermons. To which is prefixed, an account of the anti-Arian lecture on Wednesdays. By Thomas Bradbury.  1724 (catalogued 1724) | have-ocr | IA `bim_eighteenth-century_the-power-of-christ-over_bradbury-thomas_1724` |
+| The Mystery of godliness, consider'd in lxi. sermons : wherein the deity of Christ is prov'd upon no other evidence than the Word of God, and with no other view than for the salvation of men, vol. 2 (London : Printed for Tho. Cox, 1726) | have-ocr | IA `mysteryofgodline02brad` |
+| Jesus Christ the brightness of glory, &c. In four sermons, preach'd at the Friday-lecture, in Little St. Helens. By Thomas Bradbury.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_jesus-christ-the-brightn_bradbury-thomas_1729` |
+| The popish doctrine of justification by works, consider'd; in a sermon at Pinners-Hall, Feb. 11, 1734-5. By Thomas Bradbury.  1735 (catalogued 1735) | have-ocr | IA `bim_eighteenth-century_the-popish-doctrine-of-j_bradbury-thomas-congre_1735` |
+| The sin and danger of profane swearing expos'd, in several sermons. By Thomas Bradbury.  1742 (catalogued 1742) | have-ocr | IA `bim_eighteenth-century_the-sin-and-danger-of-pr_bradbury-thomas-congre_1742` |
+| Six sermons on Heb. VI. 12. ... By Thomas Bradbury.  1743 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_six-sermons-on-heb-vi-_bradbury-thomas-congre_1743` |
+| The duty and doctrine of baptism : in thirteen sermons (London : Printed for J. Davidson [etc.], 1749) | have-ocr | IA `dutydoctrineofba00brad` |
+| [Sermons], vol. 1 ([S.l. : s.n., 1762) | have-ocr | IA `sermons01brad` |
+| practur00earl: Practical Discourses of Singing in the Worship of God (Friday lecture, several preachers) | excluded | |
