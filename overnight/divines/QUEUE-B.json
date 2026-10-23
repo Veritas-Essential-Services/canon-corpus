@@ -2060,6 +2060,14 @@
    "started": "2026-10-23T02:12:48-05:00",
    "finished": "2026-10-23T02:20:03-05:00",
    "notes": "12 new shelves, 17 works: McCrindle 5 (Ktesias, Ptolemy, Periplus, Cosmas, Ancient India in Classical Literature), Nilsson 2, and one each for Cesnola, Headlam, Windle, Tamblyn, Ohnefalsch-Richter, Madvig (tr. Browne), Ogilvie, Granger, Halliday, Drachmann (tr. Andersen). The Periplus scan is a 1966 xerographic reprint of the 1879 edition (no new matter). Deferred to round dg: Grenfell and Hunt's papyri, Rollin's Ancient History. Not taken: dissertations on narrow topics, Coptic and Aramaic papyri (outside lane B), school histories."
+  },
+  {
+   "id": "2026-10-23dg",
+   "status": "done",
+   "scope": "Grenfell and Hunt's papyrus editions; Rollin in English",
+   "started": "2026-10-23T02:20:03-05:00",
+   "finished": "2026-10-23T02:45:00-05:00",
+   "notes": "2 new shelves, 57 works. grenfell-hunt 28: The Oxyrhynchus Papyri Parts I-XVII complete (1898-1927; part numbers checked against each title page, not IA's volume field), New Classical Fragments (1897), Revenue Laws of Ptolemy Philadelphus (1896), Fayum Towns (1900), Amherst Papyri I-II, Tebtunis I-II, the Cairo Greek Papyri catalogue (1903), Hibeh I, Logia Iesou, New Sayings of Jesus. Greek-heavy, kept per Adam's ruling. Tebtunis II exists on IA only as the 1970 EES photographic reprint (title page: Frowde 1907; IA metadata wrongly says 1938), recorded in _rights_checked. charles-rollin 29: Ancient History in six volumes (Vol. I clean PG 28558 from the 1850 Longman printing; II, IV-VI the same printing; III from Tegg's 1851 issue, whose book divisions match exactly), Roman History 16 vols (1754; IX-XVI by Crevier), Arts and Sciences of the Antients 3 vols (1768), Belles Lettres 4 vols (1778). Three title pages read from images (Roman History VI and XIII, Belles Lettres IV). Excluded: Greek Papyri Series I (empty text layer), Tebtunis III (1933)."
   }
  ]
 }

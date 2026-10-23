@@ -1482,3 +1482,8 @@
 - New shelves: j-w-mccrindle 5 (Ktesias, Ptolemy, the Periplus, Cosmas's Christian Topography, Ancient India in Classical Literature; his Megasthenes and Alexander volumes are on the arrian shelf), martin-p-nilsson 2, and one each for luigi-palma-di-cesnola, j-w-headlam, bertram-c-a-windle, w-f-tamblyn, max-ohnefalsch-richter, j-n-madvig, robert-ogilvie, frank-granger, w-r-halliday, a-b-drachmann.
 - The Periplus scan is a 1966 microfilm-xerographic reprint of the 1879 Bombay edition, with no new matter; noted in the title.
 - Next: Grenfell and Hunt's papyrus editions (the Oxyrhynchus series and the rest), then Rollin.
+
+## 2026-10-23 — Round dg: Grenfell and Hunt's papyri; Rollin
+- New shelf grenfell-hunt, 28 works: all seventeen parts of The Oxyrhynchus Papyri (1898-1927), plus New Classical Fragments, Revenue Laws of Ptolemy Philadelphus, Fayum Towns, the Amherst Papyri I-II, Tebtunis I-II, the Cairo Greek Papyri catalogue, Hibeh I, Logia Iesou and New Sayings of Jesus. Greek-heavy; kept per Adam's ruling and queued for the Greek re-OCR pass. Tebtunis II survives on IA only as the 1970 photographic reprint of the 1907 edition.
+- New shelf charles-rollin, 29 works: the Ancient History complete in six volumes (Vol. I clean Gutenberg; the rest 1850-51 London printings with identical book divisions), the Roman History in 16 volumes (1754; Crevier finished it from Vol. IX), the Arts and Sciences of the Antients (1768, 3 vols) and the Belles Lettres (1778, 4 vols). The eighteenth-century sets are long-s OCR.
+- Next: Niebuhr's Lectures on Ancient History, Wachsmuth, Hooke, Thomas Arnold, if unheld; then a fourth subject sweep.

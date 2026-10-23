@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T02:20:03-05:00",
- "note": "Rounds cq-df done 2026-10-23.",
- "resume_point": "Round dg: Grenfell and Hunt's papyrus editions (Oxyrhynchus Papyri parts 1-17, 1898-1927; Tebtunis, Hibeh, Fayum Towns, Amherst, Revenue Laws of Ptolemy Philadelphus, New Classical Fragments), Greek-heavy, kept per Adam's ruling, one shelf per editor pair; then Rollin's Ancient History (one complete English set) and Rollin's Roman History if unheld."
+ "heartbeat": "2026-10-23T02:45:00-05:00",
+ "note": "Rounds cq-dg done 2026-10-23.",
+ "resume_point": "Round dh: unheld standard histories, checked against every branch first: Niebuhr's Lectures on Ancient History (tr. Schmitz, 3 vols, if not already on the niebuhr shelf), Wachsmuth's Historical Antiquities of the Greeks (tr. Woolrych), Nathaniel Hooke's Roman History, Thomas Arnold's History of Rome; then a fourth IA subject sweep (Greek drama criticism, Roman literature histories, the Homeric question, numismatics, classical geography, Byzantine literature)."
 }
