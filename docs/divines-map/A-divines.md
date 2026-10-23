@@ -17084,3 +17084,15 @@ Slugs `wbuxton-*`. Built from title pages read for round 110.
 | Day by day duty : thirty plain sermons, including many for the principal church seasons (London : Skeffington & Son, 1905) | have-ocr | IA `daybydaydutythir0000wilm` |
 | God's heroes : a series of plain sermons (London : Skeffington & son, 1907) | have-ocr | IA `godsheroesaserie00wilmuoft` |
 | His art-history handbooks and the novel The Mysteries of Isis are left to other lanes; the anaesthetics books are by Dudley Wilmot Buxton and the history books by E. M. Wilmot-Buxton | excluded | |
+
+## J. C. Cochran (round 110, my pick, 2026-10-23)
+
+Slugs `jccochran-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| A pastoral letter to the parishioners of St. John's, Lunenburg ([Halifax, N.S.? : s.n.], 1850) | have-ocr | IA `cihm_89290` |
+| A sermon in reference to the death of the Right Rev. John Inglis, D. D., Lord Bishop of Nova Scotia : preached in St. John' s Church, Lunenburg, N.S., on Sunday the 17th November, 1850 ([Halifax, N.S.? : s.n.], 1850) | have-ocr | IA `cihm_63880` |
+| A New Year's address to the congregation of the Bishop's Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1861) | have-ocr | IA `cihm_67272` |
+| Correspondence between the Bishop of Nova Scotia and the Reverend Canon Cochran, M.A., touching the dismissal of the latter from the pastoral charge of Salem Chapel, Halifax, N.S. ([Halifax, N.S.? : s.n.], 1866) | have-ocr | IA `cihm_23366` |
+| A New Year's address to the congregation of "Trinity Church", Halifax, N.S. (Halifax, N.S. : J. Bowes, 1867), IA cihm_64130: the address is unsigned in the scan; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
