@@ -10909,6 +10909,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:59:15-05:00",
       "notes": "7 books, 1832-1861; his hymn collections left out."
+    },
+    {
+      "id": "a-david-bogue",
+      "status": "done",
+      "scope": "round 134",
+      "added": "2026-10-23T09:59:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:59:16-05:00",
+      "notes": "6 books, 1788-1849; the Test Acts pamphlet ('By a Dissenter') waits on the catalogue-attribution ruling."
     }
   ]
 }

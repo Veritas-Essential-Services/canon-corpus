@@ -19418,3 +19418,21 @@ Slugs `stow-*`. Built from title pages read for round 134.
 | The Psalmist, The Social Psalmist and Ocean Melodies are hymn collections he compiled | excluded | |
 | Helon's Pilgrimage is a translation of another man's book | excluded | |
 | The Missionary Enterprise is a collection of many writers' discourses; the Wheeler address is another man's | excluded | |
+
+## David Bogue (round 134, my pick, 2026-10-23)
+
+Slugs `bogue-*`. Built from title pages read for round 134.
+
+| Work | Status | Where |
+|---|---|---|
+| The great importance of having right sentiments in religion: a sermon, preached at an association of ministers, ... on Tuesday, the 29th of July, 1788. By the Rev. David Bogue, ...  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_the-great-importance-of-_bogue-david_1788` |
+| A sermon preached at Salters-Hall, March 30th, 1792, before the correspondent board in London of the Society in Scotland ... for Propagating Christian Knowledge in the Highlands and Islands. By David Bogue, ...  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-sal_bogue-david_1793` |
+| The diffusion of divine truth. A sermon, preached before the Religious Tract Society, on Lord's Day, May 18, 1800. ... By David Bogue.  1800 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_the-diffusion-of-divine-_bogue-david-dd_1800` |
+| An essay on the divine authority of the New Testament ([n. p.], 1804) | have-ocr | IA `essayondivineaut00bogu` |
+| Sermon on the death of the Reverend George Cran, Augustus Desgranges, and Jonathan Brain, missionaries in India from the London Missionary Society : preached at Gosport, March 17, 1811 / by David Bogue (Boston : Samuel T. Armstrong, 1811) | have-ocr | IA `sermonondeathofr00bogu` |
+| The theological lectures of [David Bogue] (New York : [publisher not identified], 1849) | have-ocr | IA `theologicallectu00bogu` |
+| The History of Dissenters from the Revolution to 1808 (IA historydissente01benngoog), written with James Bennett (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Reasons for seeking a repeal of the Corporation and Test Acts, submitted to the consideration of the candid and impartial. By a dissenter.  1790 (catalogued 1790) (IA bim_eighteenth-century_reasons-for-seeking-a-re_bogue-david-dd_1790): the title page says only 'By a Dissenter'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the travel guides, catalogues and children's books are from David Bogue the London publisher | excluded | |
+| the German translation of the Essay | excluded | |
+| other scans of the Essay and of the 1811 sermon | excluded | |
