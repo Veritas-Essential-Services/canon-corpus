@@ -42982,3 +42982,17 @@ Shelf: `pipeline/henry-william-herbert_shelf.json` (2026-10-22; added at the coo
 | Wager of Battle: A Tale of Saxon Slavery in Sherwood Forest | have | PG 45341, `hwherbert-wager-of-battle` (1192 units) |
 | The Silent Rifleman! A tale of the Texan prairies | have | PG 46304, `hwherbert-silent-rifleman-a-tale-of-the-texan-prairies` (549 units) |
 | The Knights of England, France, and Scotland | have | PG 57045, `hwherbert-knights-of-england-france-and-scotland` (1357 units) |
+
+## L. Allen Harker
+
+Shelf: `pipeline/l-allen-harker_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ffolliots of Redmarley | have | PG 22999, `laharker-ffolliots-of-redmarley` (1844 units) |
+| Jan and Her Job | have | PG 29945, `laharker-jan-and-her-job` (2658 units) |
+| Children of the Dear Cotswolds | have | PG 46548, `laharker-children-of-the-dear-cotswolds` (1547 units) |
+| Mr. Wycherly's Wards | have | PG 54418, `laharker-mr-wycherlys-wards` (2038 units) |
+| Master and Maid | have | PG 54504, `laharker-master-and-maid` (1425 units) |
+| Miss Esperance and Mr Wycherly | have | PG 54538, `laharker-miss-esperance-and-mr-wycherly` (1265 units) |
+| The Vagaries of Tod and Peter | have | PG 65162, `laharker-vagaries-of-tod-and-peter` (1720 units) |

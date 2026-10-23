@@ -1,0 +1,113 @@
+{
+ "_about": "L. Allen Harker: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "L. Allen Harker",
+ "_name_words": [
+  "allen",
+  "harker",
+  "lizzie"
+ ],
+ "_surname": [
+  "l. allen harker",
+  "lizzie allen harker",
+  "harker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "laharker-ffolliots-of-redmarley": [
+   22999,
+   "The Ffolliots of Redmarley"
+  ],
+  "laharker-jan-and-her-job": [
+   29945,
+   "Jan and Her Job"
+  ],
+  "laharker-children-of-the-dear-cotswolds": [
+   46548,
+   "Children of the Dear Cotswolds"
+  ],
+  "laharker-mr-wycherlys-wards": [
+   54418,
+   "Mr. Wycherly's Wards"
+  ],
+  "laharker-master-and-maid": [
+   54504,
+   "Master and Maid"
+  ],
+  "laharker-miss-esperance-and-mr-wycherly": [
+   54538,
+   "Miss Esperance and Mr Wycherly"
+  ],
+  "laharker-vagaries-of-tod-and-peter": [
+   65162,
+   "The Vagaries of Tod and Peter"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "laharker-ffolliots-of-redmarley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. allen harker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laharker-jan-and-her-job": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. allen harker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laharker-children-of-the-dear-cotswolds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. allen harker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laharker-mr-wycherlys-wards": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. allen harker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laharker-master-and-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. allen harker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laharker-miss-esperance-and-mr-wycherly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. allen harker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "laharker-vagaries-of-tod-and-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. allen harker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
