@@ -12550,6 +12550,22 @@ Slugs `eporter-*`. Built from title pages read for round 60.
 | Lectures on homiletics and preaching and on public prayer ; together with sermons and letters (London : Thomas Ward, 185-) | have-ocr | IA `lectureshomileti00portuoft` |
 | Lectures on Eloquence and Style (Gould and Newman ; Griffin, Wilcox, 1836) | have-ocr | IA `lecturesoneloqu00portgoog` |
 | The Young Preacher's Manual (treatises by Fenelon, Claude and others, which he collected); The Rhetorical Reader and The Biblical Reader (school readers of extracts); Ebenezer Porter Mason the astronomer | excluded | |
+
+## Heman Humphrey (round 60, my pick, 2026-10-23)
+
+Slugs `humphrey-*`. Built from title pages read for round 60.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays upon the origin, perpetuity, change, and proper observance of the sabbath (New York : Jonathan Leavitt ; Boston : Crocker and Brewster, 1829) | have-ocr | IA `essaysuponorigin00hump` |
+| Miscellaneous Discourses and Reviews (J. S. and C. Adams, 1834) | have-ocr | IA `miscellaneousdi00humpgoog` |
+| Domestic Education (J.S. & C. Adams, 1840) | have-ocr | IA `domesticeducati00unkngoog` |
+| Thirty-four letters to a son in the ministry (Amherst : J. S. & C. Adams, 1842) | have-ocr | IA `thirtyfourletter00hump` |
+| Memoir of Rev. Nathan W. Fiske, professor of intellectual and moral philosophy in Amherst college (Boston, Phillips, Sampson and co.; [etc., etc.], 1850) | have-ocr | IA `memoirofrevnatha00hump` |
+| The life and labors of the Rev. T.H. Gallaudet, LL.D (New York : Robert Carter & Brothers, 1857) | have-ocr | IA `liferevgall00hump` |
+| Revival sketches and manual (New York, American Tract Society, 1859) | have-ocr | IA `revivalsketches00hump` |
+| Great Britain, France and Belgium, a travel book (1838); his edition of The New England Primer; short addresses and funeral sermons | excluded | |
+| christianmemoirs00hump: Christian Memoirs (1836), lives of Bunyan, Halyburton, Baxter and others gathered from earlier writers; this scan has lost its title page and nothing in it names Humphrey | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
