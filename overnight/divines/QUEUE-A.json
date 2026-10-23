@@ -6607,6 +6607,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T00:30:19-05:00",
       "notes": "4 items: Romans 3, Matthew, Mark, Extent of the Atonement"
+    },
+    {
+      "id": "thomas-charles-of-bala",
+      "status": "done",
+      "scope": "round 50",
+      "added": "2026-10-23T00:36:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:36:36-05:00",
+      "notes": "2 items: Two Letters on the Welsh revival (1792), An Evangelical Catechism (1797)"
     }
   ]
 }

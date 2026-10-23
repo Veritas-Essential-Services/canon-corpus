@@ -11235,3 +11235,13 @@ Slugs `morison-*`. Built from title pages read for round 49.
 | Mark's Memoirs of Jesus Christ, a commentary on the Gospel according to Mark (London: Hamilton, Adams, 1873) | have-ocr | IA `marksmemoirsjes00morigoog` |
 | The extent of the atonement (London : Hamilton ; Glasgow : T.D. Morison, 1882) | have-ocr | IA `extentofatonemen00mori` |
 | James Cotter Morison's books (St Bernard, Gibbon, Macaulay, Irish Grievances): another man | excluded | |
+
+## Thomas Charles of Bala (round 50, my pick, 2026-10-23)
+
+Slugs `tcharles-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Two letters, giving an account of a revival of religion in Wales.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_two-letters-giving-an-a_charles-thomas_1792` |
+| An evangelical catechism. By the Rev. T. Charles, ... Recommended by the executors of the late Countess of Huntingdon for all the children in their schools attendant on her chapels.  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_an-evangelical-catechism_charles-thomas_1797` |
+| Welsh-language works (Trysorfa Ysprydol 1799, the Geiriadur) left for Adam's ruling on Welsh; the 1816 Welsh life by Jones (another author) | excluded | |
