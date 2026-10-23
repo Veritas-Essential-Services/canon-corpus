@@ -1,0 +1,525 @@
+{
+ "_about": "Storytellers' tail, group 42: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): F. C. Philips, Forbes Phillips, Michael J. Phillips, Frederick Phisterer, Garrett Chatfield Pier, Boris Pilniak, Catherine Louisa Pirkis, James Platt, John T. Platts, Albert Plummer, Ernest M. Poate, Eliza F. Pollard, Maria Louise Pool, Agnes Blake Poor, James A. Porter, Linn Boyd Porter, Austin Potter, Robert Potter, David Franklin Powell, Benjamin F. Powelson, Philip Bennett Power, George Whitefield Powers, Campbell Praed, Mara L. Pratt-Chadwick, Sydney Herman Preston, John Price-Brown, Mary Prince, David Pryde, Mary Lowell Putnam, Lemuel Ely Quigg. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 42 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "fcphilips-if-only-etc": [
+   "f. c. philips",
+   "francis charles philips",
+   "philips"
+  ],
+  "fphillips-war-and-the-weird": [
+   "forbes phillips",
+   "phillips"
+  ],
+  "mjphillips-gun-play": [
+   "michael j. phillips",
+   "phillips"
+  ],
+  "fphisterer-regular-brigade-of-the-fourteenth-army-corps-the": [
+   "frederick phisterer",
+   "phisterer"
+  ],
+  "gcpier-hanit-the-enchantress": [
+   "garrett chatfield pier"
+  ],
+  "bpilniak-tales-of-the-wilderness": [
+   "boris pilniak",
+   "pilniak"
+  ],
+  "clpirkis-disappeared-from-her-home": [
+   "catherine louisa pirkis",
+   "pirkis"
+  ],
+  "jplatt-tales-of-the-supernatural": [
+   "james platt",
+   "platt"
+  ],
+  "jtplatts-baital-pachchisi": [
+   "john t. platts",
+   "john thompson platts",
+   "platts"
+  ],
+  "aplummer-history-of-the-forty-eighth-regiment-m-v-m-during-t": [
+   "albert plummer",
+   "plummer"
+  ],
+  "empoate-trouble-at-pinelands": [
+   "ernest m. poate",
+   "poate"
+  ],
+  "efpollard-roger-the-ranger": [
+   "eliza f. pollard",
+   "pollard"
+  ],
+  "mlpool-friendship-and-folly": [
+   "maria louise pool"
+  ],
+  "abpoor-boston-neighbours-in-town-and-out": [
+   "agnes blake poor"
+  ],
+  "japorter-prince-of-anahuac": [
+   "james a. porter"
+  ],
+  "lbporter-black-adonis": [
+   "linn boyd porter"
+  ],
+  "apotter-from-wealth-to-poverty": [
+   "austin potter",
+   "potter"
+  ],
+  "rpotter-germ-growers": [
+   "robert potter",
+   "potter"
+  ],
+  "dfpowell-wolf-men": [
+   "david franklin powell",
+   "powell"
+  ],
+  "bfpowelson-history-of-company-k-of-the-140th-regiment-pennsy": [
+   "benjamin f. powelson",
+   "benjamin franklin powelson",
+   "powelson"
+  ],
+  "pbpower-one-moss-rose": [
+   "philip bennett power",
+   "power"
+  ],
+  "gwpowers-story-of-the-thirty-eighth-regiment-of-massachusett": [
+   "george whitefield powers",
+   "powers"
+  ],
+  "cpraed-lady-bridget-in-the-never-never-land": [
+   "campbell praed",
+   "praed"
+  ],
+  "mlprattchadwic-alo-man": [
+   "mara l. pratt-chadwick",
+   "mara louise pratt-chadwick",
+   "pratt-chadwick"
+  ],
+  "shpreston-abandoned-farmer": [
+   "sydney herman preston",
+   "preston"
+  ],
+  "jpricebrown-in-the-van": [
+   "john price-brown",
+   "price-brown"
+  ],
+  "mprince-history-of-mary-prince-a-west-indian-slave": [
+   "mary prince",
+   "prince"
+  ],
+  "dpryde-queer-folk-of-fife": [
+   "david pryde",
+   "pryde"
+  ],
+  "mlputnam-fifteen-days": [
+   "mary lowell putnam",
+   "putnam"
+  ],
+  "lequigg-tin-types-taken-in-the-streets-of-new-york": [
+   "lemuel ely quigg",
+   "quigg"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "fcphilips-if-only-etc": [
+   15219,
+   "If Only etc."
+  ],
+  "fphillips-war-and-the-weird": [
+   25037,
+   "War and the Weird"
+  ],
+  "mjphillips-gun-play": [
+   74150,
+   "Gun play"
+  ],
+  "fphisterer-regular-brigade-of-the-fourteenth-army-corps-the": [
+   32073,
+   "The Regular Brigade of the Fourteenth Army Corps, the Army of the Cumberland, in the Battle of Stone River, or Murfreesboro', Tennessee"
+  ],
+  "gcpier-hanit-the-enchantress": [
+   61699,
+   "Hanit the Enchantress"
+  ],
+  "bpilniak-tales-of-the-wilderness": [
+   7501,
+   "Tales of the Wilderness"
+  ],
+  "clpirkis-disappeared-from-her-home": [
+   65012,
+   "Disappeared From Her Home: A Novel"
+  ],
+  "jplatt-tales-of-the-supernatural": [
+   69397,
+   "Tales of the supernatural: Six romantic stories"
+  ],
+  "jtplatts-baital-pachchisi": [
+   54697,
+   "The Baitâl Pachchisi; Or, The Twenty-Five Tales of a Sprite Translated From the Hindi Text of Dr. Duncan Forbes"
+  ],
+  "aplummer-history-of-the-forty-eighth-regiment-m-v-m-during-t": [
+   66015,
+   "History of the Forty-Eighth Regiment M. V. M. During the Civil War"
+  ],
+  "empoate-trouble-at-pinelands": [
+   78103,
+   "The trouble at Pinelands"
+  ],
+  "efpollard-roger-the-ranger": [
+   68694,
+   "Roger the ranger: A story of border life among the Indians"
+  ],
+  "mlpool-friendship-and-folly": [
+   45687,
+   "Friendship and Folly: A Novel"
+  ],
+  "abpoor-boston-neighbours-in-town-and-out": [
+   36196,
+   "Boston Neighbours In Town and Out"
+  ],
+  "japorter-prince-of-anahuac": [
+   41698,
+   "A Prince of Anahuac: A Histori-traditional Story Antedating the Aztec Empire"
+  ],
+  "lbporter-black-adonis": [
+   26599,
+   "A Black Adonis"
+  ],
+  "apotter-from-wealth-to-poverty": [
+   6907,
+   "From Wealth to Poverty; Or, the Tricks of the Traffic. A Story of the Drink Curse"
+  ],
+  "rpotter-germ-growers": [
+   60312,
+   "The Germ Growers: An Australian story of adventure and mystery"
+  ],
+  "dfpowell-wolf-men": [
+   67866,
+   "The Wolf-Men: A Tale of Amazing Adventure in the Under-World"
+  ],
+  "bfpowelson-history-of-company-k-of-the-140th-regiment-pennsy": [
+   45626,
+   "History of Company K of the 140th Regiment Pennsylvania Volunteers (1862-'65)"
+  ],
+  "pbpower-one-moss-rose": [
+   21217,
+   "The One Moss-Rose"
+  ],
+  "gwpowers-story-of-the-thirty-eighth-regiment-of-massachusett": [
+   68845,
+   "The story of the Thirty Eighth regiment of Massachusetts volunteers"
+  ],
+  "cpraed-lady-bridget-in-the-never-never-land": [
+   4051,
+   "Lady Bridget in the Never-Never Land: a story of Australian life"
+  ],
+  "mlprattchadwic-alo-man": [
+   71257,
+   "The Alo Man"
+  ],
+  "shpreston-abandoned-farmer": [
+   48453,
+   "The Abandoned Farmer"
+  ],
+  "jpricebrown-in-the-van": [
+   35203,
+   "In the Van; or, The Builders"
+  ],
+  "mprince-history-of-mary-prince-a-west-indian-slave": [
+   17851,
+   "The History of Mary Prince, a West Indian Slave"
+  ],
+  "dpryde-queer-folk-of-fife": [
+   59829,
+   "The Queer Folk of Fife: Tales from the Kingdom"
+  ],
+  "mlputnam-fifteen-days": [
+   52113,
+   "Fifteen Days: An Extract from Edward Colvil's Journal"
+  ],
+  "lequigg-tin-types-taken-in-the-streets-of-new-york": [
+   22731,
+   "Tin-types taken in the streets of New York"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fcphilips-if-only-etc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. c. philips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fphillips-war-and-the-weird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "forbes phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjphillips-gun-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael j. phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fphisterer-regular-brigade-of-the-fourteenth-army-corps-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick phisterer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcpier-hanit-the-enchantress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "garrett chatfield pier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpilniak-tales-of-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boris pilniak",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clpirkis-disappeared-from-her-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherine louisa pirkis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jplatt-tales-of-the-supernatural": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james platt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtplatts-baital-pachchisi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john t. platts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aplummer-history-of-the-forty-eighth-regiment-m-v-m-during-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert plummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "empoate-trouble-at-pinelands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest m. poate",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efpollard-roger-the-ranger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliza f. pollard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlpool-friendship-and-folly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maria louise pool",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abpoor-boston-neighbours-in-town-and-out": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes blake poor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "japorter-prince-of-anahuac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbporter-black-adonis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "linn boyd porter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apotter-from-wealth-to-poverty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rpotter-germ-growers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dfpowell-wolf-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david franklin powell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bfpowelson-history-of-company-k-of-the-140th-regiment-pennsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin f. powelson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pbpower-one-moss-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip bennett power",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpowers-story-of-the-thirty-eighth-regiment-of-massachusett": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george whitefield powers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cpraed-lady-bridget-in-the-never-never-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "campbell praed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlprattchadwic-alo-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mara l. pratt-chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shpreston-abandoned-farmer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney herman preston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpricebrown-in-the-van": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john price-brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mprince-history-of-mary-prince-a-west-indian-slave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary prince",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dpryde-queer-folk-of-fife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david pryde",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlputnam-fifteen-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary lowell putnam",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lequigg-tin-types-taken-in-the-streets-of-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lemuel ely quigg",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -20987,3 +20987,40 @@ Shelf: `pipeline/storytellers-tail-41_shelf.json` (2026-10-22; added at the coor
 | Frontier service during the rebellion | have | PG 28951, `ghpettis-frontier-service-during-the-rebellion` (49 units) |
 | A Twentieth Century Idealist | have | PG 64612, `hpettit-twentieth-century-idealist` (2023 units) |
 | The Friar's Daughter: A Story of the American Occupation of the Philippines | have | PG 47782, `clphifer-friar-s-daughter` (678 units) |
+
+## Storytellers' tail, group 42 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-42_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: F. C. Philips, Forbes Phillips, Michael J. Phillips, Frederick Phisterer, Garrett Chatfield Pier, Boris Pilniak, Catherine Louisa Pirkis, James Platt, John T. Platts, Albert Plummer, Ernest M. Poate, Eliza F. Pollard, Maria Louise Pool, Agnes Blake Poor, James A. Porter, Linn Boyd Porter, Austin Potter, Robert Potter, David Franklin Powell, Benjamin F. Powelson, Philip Bennett Power, George Whitefield Powers, Campbell Praed, Mara L. Pratt-Chadwick, Sydney Herman Preston, John Price-Brown, Mary Prince, David Pryde, Mary Lowell Putnam, Lemuel Ely Quigg. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| If Only etc. | have | PG 15219, `fcphilips-if-only-etc` (1787 units) |
+| War and the Weird | have | PG 25037, `fphillips-war-and-the-weird` (620 units) |
+| Gun play | have | PG 74150, `mjphillips-gun-play` (96 units) |
+| The Regular Brigade of the Fourteenth Army Corps, the Army of the Cumberland, in the Battle of Stone River, or Murfreesboro', Tennessee | have | PG 32073, `fphisterer-regular-brigade-of-the-fourteenth-army-corps-the` (81 units) |
+| Hanit the Enchantress | have | PG 61699, `gcpier-hanit-the-enchantress` (1044 units) |
+| Tales of the Wilderness | have | PG 7501, `bpilniak-tales-of-the-wilderness` (1261 units) |
+| Disappeared From Her Home: A Novel | have | PG 65012, `clpirkis-disappeared-from-her-home` (560 units) |
+| Tales of the supernatural: Six romantic stories | have | PG 69397, `jplatt-tales-of-the-supernatural` (481 units) |
+| The Baitâl Pachchisi; Or, The Twenty-Five Tales of a Sprite Translated From the Hindi Text of Dr. Duncan Forbes | have | PG 54697, `jtplatts-baital-pachchisi` (344 units) |
+| History of the Forty-Eighth Regiment M. V. M. During the Civil War | have | PG 66015, `aplummer-history-of-the-forty-eighth-regiment-m-v-m-during-t` (1278 units) |
+| The trouble at Pinelands | have | PG 78103, `empoate-trouble-at-pinelands` (1826 units) |
+| Roger the ranger: A story of border life among the Indians | have | PG 68694, `efpollard-roger-the-ranger` (1382 units) |
+| Friendship and Folly: A Novel | have | PG 45687, `mlpool-friendship-and-folly` (2277 units) |
+| Boston Neighbours In Town and Out | have | PG 36196, `abpoor-boston-neighbours-in-town-and-out` (1173 units) |
+| A Prince of Anahuac: A Histori-traditional Story Antedating the Aztec Empire | have | PG 41698, `japorter-prince-of-anahuac` (2037 units) |
+| A Black Adonis | have | PG 26599, `lbporter-black-adonis` (2120 units) |
+| From Wealth to Poverty; Or, the Tricks of the Traffic. A Story of the Drink Curse | have | PG 6907, `apotter-from-wealth-to-poverty` (1177 units) |
+| The Germ Growers: An Australian story of adventure and mystery | have | PG 60312, `rpotter-germ-growers` (954 units) |
+| The Wolf-Men: A Tale of Amazing Adventure in the Under-World | have | PG 67866, `dfpowell-wolf-men` (2562 units) |
+| History of Company K of the 140th Regiment Pennsylvania Volunteers (1862-'65) | have | PG 45626, `bfpowelson-history-of-company-k-of-the-140th-regiment-pennsy` (259 units) |
+| The One Moss-Rose | have | PG 21217, `pbpower-one-moss-rose` (137 units) |
+| The story of the Thirty Eighth regiment of Massachusetts volunteers | have | PG 68845, `gwpowers-story-of-the-thirty-eighth-regiment-of-massachusett` (1537 units) |
+| Lady Bridget in the Never-Never Land: a story of Australian life | have | PG 4051, `cpraed-lady-bridget-in-the-never-never-land` (2225 units) |
+| The Alo Man | have | PG 71257, `mlprattchadwic-alo-man` (740 units) |
+| The Abandoned Farmer | have | PG 48453, `shpreston-abandoned-farmer` (877 units) |
+| In the Van; or, The Builders | have | PG 35203, `jpricebrown-in-the-van` (2366 units) |
+| The History of Mary Prince, a West Indian Slave | have | PG 17851, `mprince-history-of-mary-prince-a-west-indian-slave` (233 units) |
+| The Queer Folk of Fife: Tales from the Kingdom | have | PG 59829, `dpryde-queer-folk-of-fife` (650 units) |
+| Fifteen Days: An Extract from Edward Colvil's Journal | have | PG 52113, `mlputnam-fifteen-days` (1054 units) |
+| Tin-types taken in the streets of New York | have | PG 22731, `lequigg-tin-types-taken-in-the-streets-of-new-york` (1221 units) |
