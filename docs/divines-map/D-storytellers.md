@@ -17174,3 +17174,17 @@ Shelf: `pipeline/mary-c-rowsell_shelf.json` (2026-10-22; added at the coordinato
 | The silver dial, volume 1 (of 3) | have | PG 76370, `mcrowsell-silver-dial-volume-1-of-3` (791 units) |
 | The silver dial, volume 2 (of 3) | have | PG 76371, `mcrowsell-silver-dial-volume-2-of-3` (1696 units) |
 | The silver dial, volume 3 (of 3) | have | PG 76372, `mcrowsell-silver-dial-volume-3-of-3` (1930 units) |
+
+## Nina Rhoades
+
+Shelf: `pipeline/nina-rhoades_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Children on the Top Floor | have | PG 32279, `nrhoades-children-on-the-top-floor` (1283 units) |
+| The Girl from Arizona | have | PG 32417, `nrhoades-girl-from-arizona` (1682 units) |
+| When Gretel Was Fifteen | have | PG 50371, `nrhoades-when-gretel-was-fifteen` (1500 units) |
+| Four girls of forty years ago | have | PG 73301, `nrhoades-four-girls-of-forty-years-ago` (1722 units) |
+| A real Cinderella | have | PG 74904, `nrhoades-real-cinderella` (1240 units) |
+| Maisie's merry Christmas | have | PG 75482, `nrhoades-maisies-merry-christmas` (1551 units) |
+| Nora's twin sister | have | PG 76955, `nrhoades-noras-twin-sister` (1370 units) |

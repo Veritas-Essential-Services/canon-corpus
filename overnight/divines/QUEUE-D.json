@@ -5453,6 +5453,14 @@
       "started": "2026-10-22T23:06:03-05:00",
       "finished": "2026-10-22T23:06:03-05:00",
       "notes": "mary-c-rowsell: new shelf, 7 Gutenberg books, 7,649 units, 29 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "nina-rhoades",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Nina Rhoades; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:19-05:00",
+      "finished": "2026-10-22T23:06:19-05:00",
+      "notes": "nina-rhoades: new shelf, 7 Gutenberg books, 10,348 units, 826 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

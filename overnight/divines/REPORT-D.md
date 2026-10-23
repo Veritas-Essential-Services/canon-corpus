@@ -2351,3 +2351,6 @@
 
 ## 2026-10-22 23:06 CDT — mary-c-rowsell: done
 - mary-c-rowsell: new shelf, 7 Gutenberg books, 7,649 units, 29 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — nina-rhoades: done
+- nina-rhoades: new shelf, 7 Gutenberg books, 10,348 units, 826 ~2 ids; verify 0 mismatches, 0 rights flags.
