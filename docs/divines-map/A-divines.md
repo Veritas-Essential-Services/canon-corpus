@@ -14865,3 +14865,17 @@ Slugs `gandolphy-*`. Built from title pages read for round 87.
 | A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome (<London? : s.n.>, 1813) | have-ocr | IA `secondlettertore00ganduoft` |
 | his Liturgy (1812), a translation of Catholic service books | excluded | |
 | Correspondence on the Roman Catholic Bible Society (many hands) | excluded | |
+
+## Edward Nares (round 87, my pick, 2026-10-23)
+
+Slugs `nares-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, on the sixth commandment, "Thou shal't do no murder." By the Rev. Edward Nares, ...  1799 (catalogued 1799) | have-ocr | IA `bim_eighteenth-century_a-sermon-on-the-sixth-c_nares-edward_1799` |
+| Sermons composed for country congregations (London : Printed for F. and C. Rivington, 1803) | have-ocr | IA `sermonscomposedf00nare` |
+| A view of the evidences of Christianity at the close of the pretended Age of Reason : in eight sermons preached before the University of Oxford, at St. Mary's, in the year MDCCCV (Oxford : University Press, 1805) | have-ocr | IA `viewofevidenceso00nare` |
+| Remarks on the version of the New Testament : with the title of "An improved version upon the basis of Archbishop Newcome's new translation, with a corrected text, and notes critical and explanatory. London, 1808" (London : T. Cadell and W. Davies, 1814) | have-ocr | IA `remarksonversion00nare` |
+| Discourses on the three creeds : and on the homage offered to our saviour, on certain and particular occasions during his ministry, as expressed in the evangelical writings, by the Greek term BROSKYNEŌ (London : Printed for Baldwin, Cradock and Joy, 1819) | have-ocr | IA `discoursesonthre00nare` |
+| Man, as known to us theologically and geologically (London, Printed for J. G. & F. Rivington, 1834) | have-ocr | IA `manasknowntousth00nare` |
+| his novels (Thinks-I-to-Myself, I Says Says I), Heraldic Anomalies, the Memoirs of Lord Burghley, and his edition of Tytler's Elements of General History | excluded | |
