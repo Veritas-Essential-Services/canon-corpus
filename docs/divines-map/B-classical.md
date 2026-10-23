@@ -9781,3 +9781,12 @@ Shelf: `pipeline/leonard-whibley_shelf.json`. Athenian parties (1889) and Greek 
 | Political Parties in Athens during the Peloponnesian War (1889) |  | `whibley-political-parties-athens-1889` | have-raw (IA `politicalpartie02leongoog`) |
 | Greek Oligarchies: their Character and Organisation (1896) |  | `whibley-greek-oligarchies-1896` | have-raw (IA `greekoligarchie01whibgoog`) |
 
+
+## Albert Grenier (1878-1961)
+
+Shelf: `pipeline/albert-grenier_shelf.json`. The Roman Spirit in Religion, Thought, and Art (1926). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Roman Spirit in Religion, Thought, and Art (1926) |  | `grenier-roman-spirit-1926` | have-raw (IA `romanspiritinrel00gren`) |
+
