@@ -15385,3 +15385,19 @@ Slugs `maturin-*`. Built from title pages read for round 92.
 | Self-knowledge and self-discipline (London, New York [etc.] : Longmans, Green and co, 1909) | have-ocr | IA `selfknowledge00matuuoft` |
 | The price of unity (London, New York Longmans, Green and Co., 1912) | have-ocr | IA `priceofunity0000matu` |
 | Sermons and sermon notes (London : Longmans, 1917) | have-ocr | IA `sermonssermonnot00matuuoft` |
+
+## Charles C. Grafton (round 92, my pick, 2026-10-23)
+
+Slugs `grafton-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Rt. Rev. Charles C. Grafton (New York : Longmans, Green, 1914) | have-ocr | IA `a584305801grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 2 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305802grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 3 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305803grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 4 ([New York : Longmans, Green], 1914) | have-ocr | IA `worksofrtrevchar04grafiala` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 5 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305805grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 6 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305806grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 7 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305807grafuoft` |
+| The works of the Rt. Rev. Charles C. Grafton, vol. 8 (New York : Longmans, Green, 1914) | have-ocr | IA `a584305808grafuoft` |
+| separate printings of books gathered in the Works (Christian and Catholic, Catholic Atlas, Lineage, Journey Godward, Pusey and the Church Revival, Self-Consecration, etc.); The Church's Ministry of Grace (a many-author volume) | excluded | |
