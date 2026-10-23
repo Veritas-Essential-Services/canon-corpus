@@ -40482,3 +40482,21 @@ Shelf: `pipeline/george-w-peck_shelf.json` (2026-10-22; added at the coordinator
 | How Private George W. Peck Put Down the Rebellion or, The Funny Experiences of a Raw Recruit - 1887 | have | PG 25492, `gwpeck-how-private-george-w-peck-put-down-the-rebellion-or-t` (437 units) |
 | Peck's Bad Boy in an airship | have | PG 72237, `gwpeck-pecks-bad-boy-in-an-airship` (649 units) |
 | pg-28970 | excluded | PG 28970: Gutenberg's index of the author's works, not a book. |
+
+## Frances Trego Montgomery
+
+Shelf: `pipeline/frances-trego-montgomery_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Billy Whiskers stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Billy Whiskers' Adventures | have | PG 18990, `ftmontgomery-billy-whiskers-adventures` (703 units) |
+| Billy Whiskers: The Autobiography of a Goat | have | PG 19167, `ftmontgomery-billy-whiskers` (637 units) |
+| Zip, the Adventures of a Frisky Fox Terrier | have | PG 24482, `ftmontgomery-zip-the-adventures-of-a-frisky-fox-terrier` (326 units) |
+| Billy Whiskers' Travels | have | PG 43872, `ftmontgomery-billy-whiskers-travels` (505 units) |
+| Billy Whiskers at Home | have | PG 65433, `ftmontgomery-billy-whiskers-at-home` (624 units) |
+| Billy Whiskers at the Circus | have | PG 65655, `ftmontgomery-billy-whiskers-at-the-circus` (608 units) |
+| Billy Whiskers at the Fair | have | PG 65763, `ftmontgomery-billy-whiskers-at-the-fair` (843 units) |
+| Billy Whiskers in France | have | PG 65898, `ftmontgomery-billy-whiskers-in-france` (821 units) |
+| Billy Whiskers, Jr. | have | PG 66006, `ftmontgomery-billy-whiskers-jr` (563 units) |
+| Billy Whiskers Out for Fun | have | PG 66450, `ftmontgomery-billy-whiskers-out-for-fun` (676 units) |
+| On a lark to the planets A sequel to "The wonderful electric elephant" | have | PG 69637, `ftmontgomery-on-a-lark-to-the-planets-a-sequel-to-the-wonder` (577 units) |
