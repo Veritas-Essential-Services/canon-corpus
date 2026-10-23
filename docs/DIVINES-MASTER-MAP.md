@@ -42704,3 +42704,17 @@ Shelf: `pipeline/nat-gould_shelf.json` (2026-10-22; added at the coordinator's r
 | The Sweep Winner | have | PG 36480, `ngould-sweep-winner` (1869 units) |
 | The Runaways: A New and Original Story | have | PG 39631, `ngould-runaways` (1767 units) |
 | A Lad of Mettle | have | PG 66030, `ngould-lad-of-mettle` (2001 units) |
+
+## Montague Glass
+
+Shelf: `pipeline/montague-glass_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Potash and Perlmutter stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Potash & Perlmutter: Their Copartnership Ventures and Adventures | have | PG 18164, `mglass-potash-perlmutter` (3410 units) |
+| Abe and Mawruss: Being Further Adventures of Potash and Perlmutter | have | PG 18714, `mglass-abe-and-mawruss` (2947 units) |
+| Potash and Perlmutter Settle Things | have | PG 19948, `mglass-potash-and-perlmutter-settle-things` (943 units) |
+| Elkan Lubliner, American | have | PG 27423, `mglass-elkan-lubliner-american` (2430 units) |
+| The Competitive Nephew | have | PG 32960, `mglass-competitive-nephew` (2654 units) |
+| Worrying Won't Win | have | PG 33335, `mglass-worrying-wont-win` (817 units) |
+| Object: matrimony | have | PG 37360, `mglass-object` (323 units) |

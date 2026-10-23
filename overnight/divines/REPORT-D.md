@@ -2384,3 +2384,6 @@
 
 ## 2026-10-22 23:06 CDT — nat-gould: done
 - nat-gould: new shelf, 7 Gutenberg books, 14,811 units, 35 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — montague-glass: done
+- montague-glass: new shelf, 7 Gutenberg books, 13,524 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
