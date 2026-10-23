@@ -11484,6 +11484,19 @@ Slugs `benson-*`. Built from title pages read for round 52.
 | Sermons on various occasions, and most of them on the principal subjects of genuine Christianity, vol. 2 (London, J. Mason, 1836) | have-ocr | IA `sermonsonvarious02bens` |
 | The Life of the Rev. John de la Flechere, compiled from the narratives of the Rev. Mr. Wesley ... (1820) | have-ocr | IA `thelifeofrevjohn00bens` |
 | His Commentary on the Holy Bible (1811-1818) left for a later round; Sermons and Plans of Sermons (1824-1827) and single sermons left for later; the Gilbert memoirs (another editor) | excluded | |
+
+## Daniel D. Whedon (round 52, my pick, 2026-10-23)
+
+Slugs `whedon-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Public addresses, collegiate and popular (Boston : J.P. Jewett, 1852) | have-ocr | IA `cu31924031451622` |
+| The freedom of the will as a basis of human responsibility and a divine government : elucidated and maintained in its issue with the necessitarian theories of Hobbes, Edwards, the Princeton essayists, and other leading advocates (New York : Nelson & Phillips, 1864) | have-ocr | IA `freedomofwillasb00whed` |
+| What is Arminianism? : with a brief sketch of Arminius (Toronto : William Briggs, 1879) | have-ocr | IA `whatisarminianis00whed` |
+| Statements, theological and critical (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887) | have-ocr | IA `statementstheolo00whed` |
+| Essays, reviews, and discourses (New York, Phillips & Hunt, 1887) | have-ocr | IA `essaysreviewsdis00whed` |
+| His Commentary on the New Testament and Old Testament (1860-1880s, many volumes) left for a later round; Letter to Dr. Stevens (1859, a pamphlet); Cox's Letters on the Second Coming (another author) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

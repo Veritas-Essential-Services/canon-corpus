@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Daniel Denison Whedon (1808-1885), Methodist Episcopal theologian and editor of the Methodist Quarterly Review, for the Word Hoard: Public Addresses (1852), The Freedom of the Will (1864), What is Arminianism? (1879), Statements Theological and Critical (1887) and Essays, Reviews and Discourses (1887), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "whedon"
+ ],
+ "_surname": [
+  "d. d. whedon",
+  "daniel d. whedon",
+  "daniel denison whedon",
+  "whedon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whedon-public-addresses": [
+   "cu31924031451622",
+   "Public addresses, collegiate and popular (Boston : J.P. Jewett, 1852)"
+  ],
+  "whedon-freedom-of-will": [
+   "freedomofwillasb00whed",
+   "The freedom of the will as a basis of human responsibility and a divine government : elucidated and maintained in its issue with the necessitarian theories of Hobbes, Edwards, the Princeton essayists, and other leading advocates (New York : Nelson & Phillips, 1864)"
+  ],
+  "whedon-arminianism": [
+   "whatisarminianis00whed",
+   "What is Arminianism? : with a brief sketch of Arminius (Toronto : William Briggs, 1879)"
+  ],
+  "whedon-statements": [
+   "statementstheolo00whed",
+   "Statements, theological and critical (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887)"
+  ],
+  "whedon-essays": [
+   "essaysreviewsdis00whed",
+   "Essays, reviews, and discourses (New York, Phillips & Hunt, 1887)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "whedon-other": "His Commentary on the New Testament and Old Testament (1860-1880s, many volumes) left for a later round; Letter to Dr. Stevens (1859, a pamphlet); Cox's Letters on the Second Coming (another author)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "whedon-public-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whedon-freedom-of-will": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whedon-arminianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whedon-statements": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "whedon-essays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. d. whedon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
