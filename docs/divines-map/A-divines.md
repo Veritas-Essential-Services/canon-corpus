@@ -10947,3 +10947,17 @@ Slugs `delitzsch-*`. Built from title pages read for round 48.
 | Iris: Studies in Colour and Talks about Flowers (Edinburgh: T. & T. Clark, 1889) | have-ocr | IA `irisstudiesinco00deligoog` |
 | The 1890 fourth edition of Isaiah (cu31924063722031, cu31924063722023) and the 1880 Proverbs reprint; other copies of Job, the Psychology (1869, 1879, 1885) and Jewish Artisan Life (1883, 1902) | alternate | not shelved |
 | German works; Delitzsch's Hebrew New Testament; the Song of Songs and Ecclesiastes volume (1877), not found in a usable scan this round | excluded | |
+
+## Johann Albrecht Bengel (round 48, my pick, 2026-10-23)
+
+Slugs `bengel-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Gnomon of the New Testament, vol. 1 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350515` |
+| Gnomon of the New Testament, vol. 2 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350523` |
+| Gnomon of the New Testament, vol. 3 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350499` |
+| Gnomon of the New Testament, vol. 4 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350507` |
+| Gnomon of the New Testament, vol. 5 (Edinburgh: T. & T. Clark, 1877) | have-ocr | IA `cu31924092350531` |
+| The 1857-1859 first printing (gnomonofthenewte01benguoft etc.) and the American Lewis and Vincent translation (1860-1864, 1873) | alternate | not shelved |
+| The Latin Gnomon (Tübingen 1850); Blackley's Critical English Testament (1873, an adaptation by others); Burk's Memoir of Bengel (a life by another) | excluded | |
