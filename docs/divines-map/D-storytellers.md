@@ -14723,3 +14723,24 @@ Shelf: `pipeline/myrtle-reed_shelf.json` (2026-10-22; added at the coordinator's
 | The Shadow of Victory: A Romance of Fort Dearborn | have | PG 42894, `mreed-shadow-of-victory` (2738 units) |
 | The White Shield | have | PG 47385, `mreed-white-shield` (1567 units) |
 | The Book of Clever Beasts: Studies in Unnatural History | have | PG 53812, `mreed-book-of-clever-beasts` (836 units) |
+
+## Susanna Moodie
+
+Shelf: `pipeline/susanna-moodie_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Roughing It in the Bush | have | PG 4389, `smoodie-roughing-it-in-the-bush` (2753 units) |
+| George Leatrim | have | PG 6454, `smoodie-george-leatrim` (191 units) |
+| Life in the Clearings versus the Bush | have | PG 8132, `smoodie-life-in-the-clearings-versus-the-bush` (1667 units) |
+| Life in the Backwoods | have | PG 8393, `smoodie-life-in-the-backwoods` (986 units) |
+| Mark Hurdlestone; Or, The Two Brothers | have | PG 16836, `smoodie-mark-hurdlestone` (2113 units) |
+| The Monctons: A Novel. Volume 1 (of 2) | have | PG 20835, `smoodie-monctons` (1325 units) |
+| The Little Quaker; or, the Triumph of Virtue. A Tale for the Instruction of Youth | have | PG 23918, `smoodie-little-quaker` (432 units) |
+| Enthusiasm and Other Poems | have | PG 26611, `smoodie-enthusiasm-and-other-poems` (382 units) |
+| Flora Lyndsay; or, Passages in an Eventful Life, Vol. I. | have | PG 27373, `smoodie-flora-lyndsay` (1354 units) |
+| Flora Lyndsay; or, Passages in an Eventful Life, Vol. II. | have | PG 33167, `smoodie-flora-lyndsay-33167` (1414 units) |
+| The Monctons: A Novel. Volume 2 (of 2) | have | PG 38798, `smoodie-monctons-38798` (1367 units) |
+| The World Before Them: A Novel. Volume 2 (of 3) | have | PG 42145, `smoodie-world-before-them` (1087 units) |
+| The World Before Them: A Novel. Volume 1 (of 3) | have | PG 42165, `smoodie-world-before-them-42165` (1150 units) |
+| The World Before Them: A Novel. Volume 3 (of 3) | have | PG 42174, `smoodie-world-before-them-42174` (977 units) |
