@@ -1,0 +1,43 @@
+{
+ "_about": "Léon Brédif (1835-1909): Political Eloquence in Greece: Demosthenes, tr. M. J. MacMahon (Chicago: Griggs, 1881). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Léon Brédif (1835-1909)",
+ "_name_words": [
+  "bredif",
+  "leon",
+  "political",
+  "eloquence",
+  "demosthenes"
+ ],
+ "_surname": [
+  "brédif",
+  "bredif",
+  "bhédif"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bredif-political-eloquence-greece-1881": [
+   "politicaleloquen00bred",
+   "Political Eloquence in Greece: Demosthenes, tr. M. J. MacMahon (Chicago: Griggs, 1881)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "bredif-political-eloquence-greece-1881": "MacMahon"
+ },
+ "_checks": {
+  "bredif-political-eloquence-greece-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brédif",
+   "translator_claimed": "MacMahon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

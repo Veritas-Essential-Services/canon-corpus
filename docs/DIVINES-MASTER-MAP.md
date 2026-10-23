@@ -20392,6 +20392,15 @@ Shelf: `pipeline/k-m-westaway_shelf.json`. The Original Element in Plautus (Camb
 |---|---|---|---|
 | The Original Element in Plautus (Cambridge University Press, 1917) |  | `westaway-original-element-plautus-1917` | have-raw (IA `cu31924026478143`) |
 
+
+## Léon Brédif (1835-1909)
+
+Shelf: `pipeline/leon-bredif_shelf.json`. Political Eloquence in Greece: Demosthenes, tr. M. J. MacMahon (Chicago: Griggs, 1881) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Political Eloquence in Greece: Demosthenes, tr. M. J. MacMahon (Chicago: Griggs, 1881) |  | `bredif-political-eloquence-greece-1881` | have-raw (IA `politicaleloquen00bred`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
