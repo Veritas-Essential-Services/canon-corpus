@@ -39967,3 +39967,24 @@ Shelf: `pipeline/susanna-moodie_shelf.json` (2026-10-22; added at the coordinato
 | The World Before Them: A Novel. Volume 2 (of 3) | have | PG 42145, `smoodie-world-before-them` (1087 units) |
 | The World Before Them: A Novel. Volume 1 (of 3) | have | PG 42165, `smoodie-world-before-them-42165` (1150 units) |
 | The World Before Them: A Novel. Volume 3 (of 3) | have | PG 42174, `smoodie-world-before-them-42174` (977 units) |
+
+## Thomas A. Janvier
+
+Shelf: `pipeline/thomas-a-janvier_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In the Sargasso Sea A Novel | have | PG 9906, `tajanvier-in-the-sargasso-sea-a-novel` (513 units) |
+| Henry Hudson: A Brief Statement of His Aims and His Achievements | have | PG 13442, `tajanvier-henry-hudson` (243 units) |
+| The Christmas Kalends of Provence And Some Other Provençal Festivals | have | PG 19587, `tajanvier-christmas-kalends-of-provence-and-some-other-prove` (433 units) |
+| The Aztec Treasure-House | have | PG 21618, `tajanvier-aztec-treasure-house` (885 units) |
+| A Border Ruffian 1891 | have | PG 23803, `tajanvier-border-ruffian-1891` (93 units) |
+| Our Pirate Hoard 1891 | have | PG 23804, `tajanvier-our-pirate-hoard-1891` (89 units) |
+| For The Honor Of France 1891 | have | PG 23805, `tajanvier-for-the-honor-of-france-1891` (72 units) |
+| A Temporary Dead-Lock 1891 | have | PG 23806, `tajanvier-temporary-dead-lock-1891` (140 units) |
+| The Uncle of an Angel 1891 | have | PG 23807, `tajanvier-uncle-of-an-angel-1891` (147 units) |
+| A Romance of Tompkins Square 1891 | have | PG 23808, `tajanvier-romance-of-tompkins-square-1891` (97 units) |
+| An Idyl of the East Side 1891 | have | PG 23809, `tajanvier-idyl-of-the-east-side-1891` (90 units) |
+| Santa Fé's Partner Being Some Memorials of Events in a New-Mexican Track-end Town | have | PG 30352, `tajanvier-santa-f-s-partner-being-some-memorials-of-events-i` (476 units) |
+| Legends of the City of Mexico | have | PG 45852, `tajanvier-legends-of-the-city-of-mexico` (313 units) |
+| In Great Waters: Four Stories | have | PG 60811, `tajanvier-in-great-waters` (510 units) |

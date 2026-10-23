@@ -1,0 +1,200 @@
+{
+ "_about": "Thomas A. Janvier's stories of Mexico, Provence and New York. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Thomas A. Janvier",
+ "_name_words": [
+  "janvier"
+ ],
+ "_surname": [
+  "janvier"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tajanvier-in-the-sargasso-sea-a-novel": [
+   9906,
+   "In the Sargasso Sea A Novel"
+  ],
+  "tajanvier-henry-hudson": [
+   13442,
+   "Henry Hudson: A Brief Statement of His Aims and His Achievements"
+  ],
+  "tajanvier-christmas-kalends-of-provence-and-some-other-prove": [
+   19587,
+   "The Christmas Kalends of Provence And Some Other Provençal Festivals"
+  ],
+  "tajanvier-aztec-treasure-house": [
+   21618,
+   "The Aztec Treasure-House"
+  ],
+  "tajanvier-border-ruffian-1891": [
+   23803,
+   "A Border Ruffian 1891"
+  ],
+  "tajanvier-our-pirate-hoard-1891": [
+   23804,
+   "Our Pirate Hoard 1891"
+  ],
+  "tajanvier-for-the-honor-of-france-1891": [
+   23805,
+   "For The Honor Of France 1891"
+  ],
+  "tajanvier-temporary-dead-lock-1891": [
+   23806,
+   "A Temporary Dead-Lock 1891"
+  ],
+  "tajanvier-uncle-of-an-angel-1891": [
+   23807,
+   "The Uncle of an Angel 1891"
+  ],
+  "tajanvier-romance-of-tompkins-square-1891": [
+   23808,
+   "A Romance of Tompkins Square 1891"
+  ],
+  "tajanvier-idyl-of-the-east-side-1891": [
+   23809,
+   "An Idyl of the East Side 1891"
+  ],
+  "tajanvier-santa-f-s-partner-being-some-memorials-of-events-i": [
+   30352,
+   "Santa Fé's Partner Being Some Memorials of Events in a New-Mexican Track-end Town"
+  ],
+  "tajanvier-legends-of-the-city-of-mexico": [
+   45852,
+   "Legends of the City of Mexico"
+  ],
+  "tajanvier-in-great-waters": [
+   60811,
+   "In Great Waters: Four Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "tajanvier-in-the-sargasso-sea-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-henry-hudson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-christmas-kalends-of-provence-and-some-other-prove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-aztec-treasure-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-border-ruffian-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-our-pirate-hoard-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-for-the-honor-of-france-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-temporary-dead-lock-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-uncle-of-an-angel-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-romance-of-tompkins-square-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-idyl-of-the-east-side-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-santa-f-s-partner-being-some-memorials-of-events-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-legends-of-the-city-of-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tajanvier-in-great-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "janvier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

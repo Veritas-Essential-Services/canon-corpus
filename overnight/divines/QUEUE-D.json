@@ -4365,6 +4365,14 @@
       "started": "2026-10-22T22:33:35-05:00",
       "finished": "2026-10-22T22:33:35-05:00",
       "notes": "susanna-moodie: new shelf, 14 Gutenberg books, 17,198 units, 13 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "thomas-a-janvier",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Thomas A. Janvier; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:36-05:00",
+      "finished": "2026-10-22T22:33:36-05:00",
+      "notes": "thomas-a-janvier: new shelf, 14 Gutenberg books, 4,101 units, 376 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
