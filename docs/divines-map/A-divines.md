@@ -11387,3 +11387,18 @@ Slugs `colman-*`. Built from title pages read for round 51.
 | The case of Satan's fiery darts in blasphemous suggestions and hellish annoyances: as they were considered in several sermons, Heretofore preach'd to the congregation in Brattle Street, Boston, May 1711, and lately repeated to them May 1743 (Printed by Rogers and Fowle, 1744) | have-ocr | IA `caseofsatansfier00colm` |
 | Some forty single occasional sermons (1716-1746) left for later; his smallpox inoculation pamphlets (1721-1722, medicine) | excluded | |
 | fifteensermonsp00colmgoog, catalogued as Colman's Fifteen Sermons (1794): its title page reads 'Fifteen Sermons ... By George Whitefield', with a sermon on Whitefield by Joseph Smith (Paisley, 1794). Not Colman's book | excluded | |
+
+## Thomas Foxcroft (round 51, my pick, 2026-10-23)
+
+Slugs `foxcroft-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| A practical discourse relating to the Gospel-ministy [sic]. Preach'd by Thomas Foxcroft, A. M. At his ordination to the office of pastor of a church in Boston, on Wednesday, November 20. 1717. ... With a preface by the Reverend Mr. Benjamin Wadsworth, ...  1718 (catalogued 1718) | have-ocr | IA `bim_eighteenth-century_a-practical-discourse-re_foxcroft-thomas_1718` |
+| God the judge, putting down one, and setting up another : a sermon upon occasion of the death of our late sovereign lord King George, and the accession of His present majesty, King George, II, to the British throne (Boston in New England : Printed for S. Gerrish, at the lower end of Cornhil, 1727) | have-ocr | IA `godjudgeputtingd00foxc` |
+| Observations historical and practical on the rise and primitive state of New-England. With a special reference to the old or first gather'd church in Boston. A sermon preach'd ... Aug.23. 1730. By Thomas Foxcroft. A. M.  1730 (catalogued 1730) | have-ocr | IA `bim_eighteenth-century_observations-historical-_foxcroft-thomas_1730` |
+| The divine right of deacons. A sermon preach'd on occasion of the ordination of Mr. Zechariah Thayer, ... May 23, 1731. By Thomas Foxcroft, ...  1731 (catalogued 1731) | have-ocr | IA `bim_eighteenth-century_the-divine-right-of-deac_foxcroft-thomas_1731` |
+| Some seasonable thoughts on evangelic preaching; its nature, usefulness, and obligation. A sermon deliver'd (in part) at the Old-Church-lecture in Boston, Thursday, Oct. 23. 1740. To a numerous audience. Occasion'd by the late visit, and uncommon labours, in daily and powerful preaching, of the Rev. Mr. Whitefield.--The brother, whose praise is in the Gospel, throughout all the churches. By Thomas Fo[xcroft] (Printed by G. Rogers and D. Fo[wle] for S. Elio, 1740) | have-ocr | IA `someseasonableth00foxc` |
+| An apology in behalf of the Revd Mr. Whitefield: offering a fair solution of certain difficulties, objected against some parts of his public conduct, in point of moral honesty, and uniformity as ... set forth in a late pamphlet, intitled, A letter to the Reverend Mr. George Whitefield, publickly calling upon him to vindicate his conduct,  1745 (catalogued 1745) | have-ocr | IA `bim_eighteenth-century_an-apology-in-behalf-of-_foxcroft-thomas_1745` |
+| An humble inquiry into the rules of the Word of God, concerning the qualifications requisite to a compleat [sic] standing and full communion in the visible Christian church (Boston: Printed & sold by S. Kneeland in Queenstreet, 1749) | have-ocr | IA `anhumbleinquiry00foxcgoog` |
+| Other single sermons (1729-1760); the Artillery Company records (another body) | excluded | |
