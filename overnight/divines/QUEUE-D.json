@@ -4853,6 +4853,14 @@
       "started": "2026-10-22T22:45:20-05:00",
       "finished": "2026-10-22T22:45:20-05:00",
       "notes": "morley-roberts: new shelf, 9 Gutenberg books, 11,679 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "james-payn",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — James Payn; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:45:21-05:00",
+      "finished": "2026-10-22T22:45:21-05:00",
+      "notes": "james-payn: new shelf, 9 Gutenberg books, 7,168 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

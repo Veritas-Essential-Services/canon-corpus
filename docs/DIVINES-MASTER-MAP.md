@@ -41243,3 +41243,19 @@ Shelf: `pipeline/morley-roberts_shelf.json` (2026-10-22; added at the coordinato
 | The mate of the Vancouver | have | PG 68936, `mroberts-mate-of-the-vancouver` (802 units) |
 | The private life of Henry Maitland: A record dictated by J. H. | have | PG 69000, `mroberts-private-life-of-henry-maitland` (260 units) |
 | The prey of the strongest | have | PG 69014, `mroberts-prey-of-the-strongest` (1751 units) |
+
+## James Payn
+
+Shelf: `pipeline/james-payn_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bred in the Bone; Or, Like Father, Like Son: A Novel | have | PG 12024, `jpayn-bred-in-the-bone` (2159 units) |
+| Some Private Views | have | PG 13410, `jpayn-some-private-views` (436 units) |
+| Lost Sir Massingberd: A Romance of Real Life. v. 1/2 | have | PG 37170, `jpayn-lost-sir-massingberd` (587 units) |
+| Lost Sir Massingberd: A Romance of Real Life. v. 2/2 | have | PG 37171, `jpayn-lost-sir-massingberd-37171` (502 units) |
+| Mirk Abbey, Volume 1 (of 3) | have | PG 47771, `jpayn-mirk-abbey-volume-1-of-3` (553 units) |
+| Mirk Abbey, Volume 2 (of 3) | have | PG 47772, `jpayn-mirk-abbey-volume-2-of-3` (632 units) |
+| Mirk Abbey, Volume 3 (of 3) | have | PG 47773, `jpayn-mirk-abbey-volume-3-of-3` (480 units) |
+| The Talk of the Town, Volume 1 (of 2) | have | PG 47964, `jpayn-talk-of-the-town-volume-1-of-2` (848 units) |
+| The Talk of the Town, Volume 2 (of 2) | have | PG 47965, `jpayn-talk-of-the-town-volume-2-of-2` (971 units) |
