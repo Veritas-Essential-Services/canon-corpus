@@ -19195,3 +19195,20 @@ Slugs `fcburkitt-*`. Built from title pages read for round 132.
 | his editions and translations of other men's texts (Tyconius, the Syriac Gospels, Evangelion da-Mepharreshe, Euphemia and the Goth, S. Ephraim against Mani, the Aquila fragments, the Palestinian Syriac relics) | excluded | |
 | the Arabic grammar, Bernard's Criticism of the New Testament and Select Narratives of Holy Women are by others | excluded | |
 | Urchristentum im Orient is a German translation by Erwin Preuschen | excluded | |
+
+## Kirsopp Lake (round 132, my pick, 2026-10-23)
+
+Slugs `lake-*`. Built from title pages read for round 132.
+
+| Work | Status | Where |
+|---|---|---|
+| The text of the New Testament (London : Rivingtons, 1901) | have-ocr | IA `textofnewtestame00lake` |
+| The historical evidence for the resurrection of Jesus Christ (London, Williams & Norgate; New York, G.P. Putnam's Sons, 1907) | have-ocr | IA `historicaleviden0000lake` |
+| The early days of monasticism on Mount Athos (Oxford, The Clarendon press, 1909) | have-ocr | IA `earlydaysofmonas00lakerich` |
+| The earlier Epistles of St. Paul, their motive and origin (London, Rivingtons, 1911) | have-ocr | IA `earlierepistleso00lakeuoft` |
+| The stewardship of faith, our heritage from early Christianity (New York, London, G.P. Putnam's Sons, 1915) | have-ocr | IA `stewardshipoffai00lake` |
+| Landmarks in the history of early christianity (catalogued 1920) | have-ocr | IA `landmarksinhisto0000kirs_a1v2` |
+| The Beginnings of Christianity, Part I (1920, IA beginningschrist01unknuoft), edited with F. J. Foakes Jackson, essays by several writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| his Loeb Apostolic Fathers is a translation of other men's texts; the Codex Sinaiticus and Hermas facsimiles are editions | excluded | |
+| single journal articles and pamphlets | excluded | |
+| other scans of the same books | excluded | |
