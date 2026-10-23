@@ -1,0 +1,32 @@
+{
+ "_about": "Rhys Carpenter (1889-1980), Bryn Mawr, raw IA OCR of The Esthetic Basis of Greek Art (1921); published before 1930, so US public domain.  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Rhys Carpenter",
+ "_name_words": [
+  "carpenter"
+ ],
+ "_surname": [
+  "rhys carpenter"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rhys-carpenter-esthetic-basis-of-greek-art-1921": [
+   "estheticbasisofg00carprich",
+   "The Esthetic Basis of Greek Art of the Fifth and Fourth Centuries B.C., by Rhys Carpenter (Bryn Mawr Notes and Monographs; New York: Longmans, Green and Co., 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "rhys-carpenter-esthetic-basis-of-greek-art-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhys carpenter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
