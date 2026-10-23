@@ -17785,3 +17785,16 @@ Shelf: `pipeline/frederick-whishaw_shelf.json` (2026-10-22; added at the coordin
 | Clutterbuck's Treasure | have | PG 46582, `fwhishaw-clutterbucks-treasure` (1432 units) |
 | The Romance of the Woods | have | PG 46813, `fwhishaw-romance-of-the-woods` (454 units) |
 | Mazeppa | have | PG 56522, `fwhishaw-mazeppa` (1586 units) |
+
+## George Ethelbert Walsh
+
+Shelf: `pipeline/george-ethelbert-walsh_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bumper the White Rabbit | have | PG 18648, `gewalsh-bumper-the-white-rabbit` (714 units) |
+| Washer the Raccoon | have | PG 42575, `gewalsh-washer-the-raccoon` (587 units) |
+| Buster the Big Brown Bear | have | PG 57559, `gewalsh-buster-the-big-brown-bear` (629 units) |
+| Bumper the White Rabbit and His Friends | have | PG 57729, `gewalsh-bumper-the-white-rabbit-and-his-friends` (675 units) |
+| White Tail the Deer's Adventures | have | PG 57769, `gewalsh-white-tail-the-deers-adventures` (623 units) |
+| Bumper the White Rabbit in the Woods | have | PG 57908, `gewalsh-bumper-the-white-rabbit-in-the-woods` (670 units) |
