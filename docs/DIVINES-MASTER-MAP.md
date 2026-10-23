@@ -40211,3 +40211,21 @@ Shelf: `pipeline/may-agnes-fleming_shelf.json` (2026-10-22; added at the coordin
 | A Changed Heart: A Novel | have | PG 41672, `mafleming-changed-heart` (3778 units) |
 | The Gypsy Queen's Vow | have | PG 43489, `mafleming-gypsy-queens-vow` (3631 units) |
 | The queen of the isle | have | PG 72860, `mafleming-queen-of-the-isle` (3015 units) |
+
+## Harold Bell Wright
+
+Shelf: `pipeline/harold-bell-wright_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Re-Creation of Brian Kent | have | PG 3265, `hbwright-re-creation-of-brian-kent` (1402 units) |
+| The Shepherd of the Hills | have | PG 4735, `hbwright-shepherd-of-the-hills` (1365 units) |
+| Their Yesterdays | have | PG 6105, `hbwright-their-yesterdays` (752 units) |
+| That Printer of Udell's: A Story of the Middle West | have | PG 6384, `hbwright-that-printer-of-udells` (1780 units) |
+| The Winning of Barbara Worth | have | PG 6997, `hbwright-winning-of-barbara-worth` (2571 units) |
+| The Calling of Dan Matthews | have | PG 9314, `hbwright-calling-of-dan-matthews` (1878 units) |
+| Helen of the Old House | have | PG 9410, `hbwright-helen-of-the-old-house` (2098 units) |
+| The Eyes of the World | have | PG 11715, `hbwright-eyes-of-the-world` (2408 units) |
+| The Uncrowned King | have | PG 12991, `hbwright-uncrowned-king` (257 units) |
+| When a man's a man | have | PG 14367, `hbwright-when-a-mans-a-man` (2050 units) |
+| The Mine with the Iron Door | have | PG 65995, `hbwright-mine-with-the-iron-door` (2143 units) |
