@@ -136,7 +136,16 @@
    "Welsh Poems and Ballads"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "bor2-celtic-bards": [
+   "celticbardschief0000borr",
+   "Celtic Bards, Chiefs and Kings"
+  ],
+  "bor2-ballads-of-all-nations": [
+   "balladsofallnati0000rbri",
+   "Ballads of All Nations"
+  ]
+ },
  "titles": {
   "borrow-translations-alf-the-freebooter-little-danneved-and-s": {
    "source": "bor2-26787",
@@ -385,6 +394,23 @@
    "translated": "1825-1915 (see the Gutenberg header)",
    "translator": "George Borrow",
    "scan_edition": "Project Gutenberg 20634 (clean text)"
+  },
+  "borrow-translations-celtic-bards-chiefs-and-kings": {
+   "source": "bor2-celtic-bards",
+   "of": "Welsh, Irish and Scottish Gaelic poets",
+   "work": "Celtic Bards, Chiefs and Kings (ed. Herbert G. Wright from the manuscript)",
+   "translated": 1928,
+   "translator": "George Borrow",
+   "scan_edition": "John Murray, London, first edition 1928; archive.org scan (Trent University copy)"
+  },
+  "borrow-translations-ballads-of-all-nations": {
+   "source": "bor2-ballads-of-all-nations",
+   "of": "various (ballads from many languages)",
+   "work": "Ballads of All Nations: a selection (ed. R. Brimley Johnson)",
+   "translated": 1928,
+   "translator": "George Borrow",
+   "scan_edition": "Alfred A. Knopf, New York 1928 (manufactured in Great Britain); archive.org scan (Fort Wayne and Allen County Public Library copy)",
+   "note": "A selection; many of the ballads are also on this shelf from the Gutenberg pamphlet texts."
   }
  },
  "_pending": {},
@@ -395,7 +421,7 @@
  "_checks": {
   "bor2-20634": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -404,7 +430,7 @@
   },
   "bor2-2430": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -413,7 +439,7 @@
   },
   "bor2-25468": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -422,7 +448,7 @@
   },
   "bor2-26787": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -431,7 +457,7 @@
   },
   "bor2-26788": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -440,7 +466,7 @@
   },
   "bor2-26789": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -449,7 +475,7 @@
   },
   "bor2-26790": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -458,7 +484,7 @@
   },
   "bor2-26791": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -467,7 +493,7 @@
   },
   "bor2-26792": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -476,7 +502,7 @@
   },
   "bor2-26793": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -485,7 +511,7 @@
   },
   "bor2-26802": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -494,7 +520,7 @@
   },
   "bor2-26803": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -503,7 +529,7 @@
   },
   "bor2-26805": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -512,7 +538,7 @@
   },
   "bor2-26831": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -521,7 +547,7 @@
   },
   "bor2-26832": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -530,7 +556,7 @@
   },
   "bor2-26833": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -539,7 +565,7 @@
   },
   "bor2-26834": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -548,7 +574,7 @@
   },
   "bor2-27396": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -557,7 +583,7 @@
   },
   "bor2-27405": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -566,7 +592,7 @@
   },
   "bor2-27406": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -575,7 +601,7 @@
   },
   "bor2-27407": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -584,7 +610,7 @@
   },
   "bor2-27408": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -593,7 +619,7 @@
   },
   "bor2-27473": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -602,7 +628,7 @@
   },
   "bor2-27474": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -611,7 +637,7 @@
   },
   "bor2-28770": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -620,7 +646,7 @@
   },
   "bor2-28771": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -629,7 +655,7 @@
   },
   "bor2-28772": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -638,7 +664,7 @@
   },
   "bor2-28774": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -647,7 +673,7 @@
   },
   "bor2-29124": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -656,7 +682,7 @@
   },
   "bor2-29470": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
@@ -665,12 +691,34 @@
   },
   "bor2-54851": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george borrow",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "George Borrow"
+  },
+  "bor2-celtic-bards": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bor2-ballads-of-all-nations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george borrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -828,6 +876,26 @@
    "pg": 54851,
    "pg_copyrighted_marker": false,
    "pg_translator": "George Borrow"
+  },
+  "bor2-celtic-bards": {
+   "ia": "celticbardschief0000borr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "bor2-ballads-of-all-nations": {
+   "ia": "balladsofallnati0000rbri",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1826,
+    1835,
+    1913,
+    1923,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

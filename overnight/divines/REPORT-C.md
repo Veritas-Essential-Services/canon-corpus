@@ -354,3 +354,5 @@
 - 2026-10-23T00:22-05:00: Round 138 (2026-10-23): 21 titles, Dent Balzac x19 (Marriage 8, Bell 7, Waring 3, R. S. Scott 1) and Bain Tolstoi x2 from archive.org. 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-23T00:28-05:00: Round 139 (2026-10-23): 9 titles, Waley x2, H. A. Giles x3, Burton x4 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:35-05:00: Round 140 (2026-10-23): 4 titles, Carlyle x2 (German Romance), Borrow x2 from archive.org. 0 mismatched, 0 rights flags, no uids.

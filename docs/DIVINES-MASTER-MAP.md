@@ -20071,12 +20071,14 @@ Round 4, vetoable. Round 81 (2026-10-17), vetoable: eight titles added. Not conv
 ## Carlyle as translator (Goethe, German tales)
 
 Shelf: `pipeline/carlyle_shelf.json` · fetch `python3 pipeline/fetch_shelf.py carlyle` · titles `python3 pipeline/split_shelf_titles.py carlyle`.
-Round 4, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 4, vetoable. Round 140 (2026-10-23) added German Romance (Centenary Edition, 1898, 2 vols) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `carlyle-wilhelm-meister` | Goethe | Wilhelm Meister's Apprenticeship and Travels | Thomas Carlyle | 1824-1827 | have | PG 36483 + PG 78139 |
 | `carlyle-german-tales` | Musaeus, Tieck, Richter | German Romance tales | Thomas Carlyle | 1827 | have | PG 38779 |
+| `carlyle-german-romance-vol-1` | Musäus, Fouqué and Tieck | German Romance, vol. 1 of 2: Musäus, De La Motte Fouqué (Aslauga's Knight), Tieck | Thomas Carlyle | 1827 (this printing 1898) | have-raw | IA `germanromancetr00carlgoog` |
+| `carlyle-german-romance-vol-2` | E. T. A. Hoffmann and Jean Paul Richter | German Romance, vol. 2 of 2: Hoffmann (The Golden Pot), Richter (Schmelzle's Journey, Quintus Fixlein) | Thomas Carlyle | 1827 (this printing 1898) | have-raw | IA `germanromancetra02carl` |
 | — | — | carlyle-own-works: Sartor Resartus, The French Revolution etc.: Carlyle's own works, not translations. | — | — | excluded | — |
 
 ## Jeremiah Curtin (Sienkiewicz, Orzeszkowa, Zagoskin)
@@ -23860,7 +23862,7 @@ Round 35 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## George Borrow as translator (Romantic Ballads; The Sleeping Bard; Faustus; Welsh Poems; the Wise ballad pamphlets)
 
 Shelf: `pipeline/borrow-translations_shelf.json` · fetch `python3 pipeline/fetch_shelf.py borrow-translations` · titles `python3 pipeline/split_shelf_titles.py borrow-translations`.
-Round 35 (2026-10-10), vetoable. Lane D's borrow shelf keeps the Turkish Jester. Not converted to unit-id JSON; **no uids minted**.
+Round 35 (2026-10-10), vetoable. Lane D's borrow shelf keeps the Turkish Jester. Round 140 (2026-10-23) added Celtic Bards, Chiefs and Kings and Ballads of All Nations (both 1928) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23895,6 +23897,8 @@ Round 35 (2026-10-10), vetoable. Lane D's borrow shelf keeps the Turkish Jester.
 | `borrow-translations-ulf-van-yern-and-other-ballads` | Anonymous (Danish and other ballads; from Borrow's manuscripts) | Ulf Van Yern, and Other Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 27405 |
 | `borrow-translations-welsh-poems-and-ballads` | Welsh poets (Dafydd ap Gwilym and others) | Welsh Poems and Ballads | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 54851 |
 | `borrow-translations-wynne-the-sleeping-bard-or-visions-of-the-worl` | Ellis Wynne | The Sleeping Bard; Or, Visions of the World, Death, and Hell | George Borrow | 1825-1915 (see the Gutenberg header) | have | PG 20634 |
+| `borrow-translations-celtic-bards-chiefs-and-kings` | Welsh, Irish and Scottish Gaelic poets | Celtic Bards, Chiefs and Kings (ed. Herbert G. Wright from the manuscript) | George Borrow | 1928 | have-raw | IA `celticbardschief0000borr` |
+| `borrow-translations-ballads-of-all-nations` | various (ballads from many languages) | Ballads of All Nations: a selection (ed. R. Brimley Johnson) | George Borrow | 1928 | have-raw | IA `balladsofallnati0000rbri` |
 | — | — | pg-13879: Ewald's The Death of Balder (Borrow, 1889): Ewald has his own shelf on lane D (ewald_shelf.json); left for its owner. | — | — | excluded | — |
 
 ## Adele Szold Seltzer (Hauptmann's Atlantis; Rashi; Sudermann; Maya the Bee)
