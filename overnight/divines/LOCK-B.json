@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T01:45:21-05:00",
- "note": "Rounds cq-dc done 2026-10-23.",
- "resume_point": "Round dd: rest of the round-dc sweep list (scratchpad list is gone with the session, so re-run tools-free: IA subject search on the same 20 subjects), checked on all branches: Glotz and Homo (History of Civilization volumes, left for lane B by lane C), Toynbee (Greek Civilisation and Character, Greek Historical Thought, both 1924), Gulick, Duncker (tr. Alleyne), Trever, Crees, Tarver, Negri (Julian), Sheppard, Rushforth, Whibley (Greek Oligarchies, Political Parties), Grenier, Summers, Ashby, Monnier, Wace, Elderkin, Diehl, Seebohm (Greek tribal society), Hawes, Jouguet, Bentwich, Heidel, Dobbs, Beare, Papillon, Hardie, Marquand, Goodyear, Lethaby, Amelung, Ferriman, Launspach, Kelsey (Fifty Topics), Wyse, Bojesen; the Epochs of Ancient History series (Capes, Cox, Curteis) if unheld."
+ "heartbeat": "2026-10-23T02:02:00-05:00",
+ "note": "Rounds cq-dd done 2026-10-23.",
+ "resume_point": "Round de: leftovers of the dc sweep, each checked on all branches first: the Epochs of Ancient History series (Capes, Cox, Curteis, Ihne, Smith; take only volumes no shelf holds), Napoleon III's History of Julius Caesar (2 vols., tr. 1865-66), Hoppin's Handbook of Attic Red-figured Vases (1919), Morey's Outlines of Greek and Roman History. Then a new IA subject sweep (Rome -- Politics and government; Greece -- Politics and government; Athens (Greece) -- History; Sparta; Alexander; Hellenistic; Etruscans; Roman provinces; Roman Britain; Greek inscriptions; Papyri; Mythology Greek), worked as in rounds da-dd."
 }
