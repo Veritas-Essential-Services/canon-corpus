@@ -1,0 +1,136 @@
+{
+ "_about": "Morley Roberts's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Morley Roberts",
+ "_name_words": [
+  "morley",
+  "roberts"
+ ],
+ "_surname": [
+  "morley roberts"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mroberts-tramps-notebook": [
+   25190,
+   "A Tramp's Notebook"
+  ],
+  "mroberts-lady-penelope": [
+   45648,
+   "Lady Penelope"
+  ],
+  "mroberts-blue-peter": [
+   68796,
+   "The Blue Peter: Sea comedies"
+  ],
+  "mroberts-promotion-of-the-admiral-and-other-sea-comedies": [
+   68919,
+   "The promotion of the admiral, and other sea comedies"
+  ],
+  "mroberts-captain-balaam-of-the-cormorant-and-other-sea-comed": [
+   68920,
+   "Captain Balaam of the 'Cormorant', and other sea comedies"
+  ],
+  "mroberts-adventure-of-the-broad-arrow": [
+   68922,
+   "The adventure of the broad arrow: An Australian romance"
+  ],
+  "mroberts-mate-of-the-vancouver": [
+   68936,
+   "The mate of the Vancouver"
+  ],
+  "mroberts-private-life-of-henry-maitland": [
+   69000,
+   "The private life of Henry Maitland: A record dictated by J. H."
+  ],
+  "mroberts-prey-of-the-strongest": [
+   69014,
+   "The prey of the strongest"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mroberts-tramps-notebook": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-lady-penelope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-blue-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-promotion-of-the-admiral-and-other-sea-comedies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-captain-balaam-of-the-cormorant-and-other-sea-comed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-adventure-of-the-broad-arrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-mate-of-the-vancouver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-private-life-of-henry-maitland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mroberts-prey-of-the-strongest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morley roberts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

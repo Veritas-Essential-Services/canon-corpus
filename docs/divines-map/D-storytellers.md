@@ -15851,3 +15851,19 @@ Shelf: `pipeline/saki_shelf.json` (2026-10-22; added at the coordinator's relay 
 | When William Came | have | PG 14540, `saki-when-william-came` (686 units) |
 | The Rise of the Russian Empire | have | PG 45099, `saki-rise-of-the-russian-empire` (729 units) |
 | The Westminster Alice | have | PG 58201, `saki-westminster-alice` (324 units) |
+
+## Morley Roberts
+
+Shelf: `pipeline/morley-roberts_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Tramp's Notebook | have | PG 25190, `mroberts-tramps-notebook` (408 units) |
+| Lady Penelope | have | PG 45648, `mroberts-lady-penelope` (2819 units) |
+| The Blue Peter: Sea comedies | have | PG 68796, `mroberts-blue-peter` (1271 units) |
+| The promotion of the admiral, and other sea comedies | have | PG 68919, `mroberts-promotion-of-the-admiral-and-other-sea-comedies` (1743 units) |
+| Captain Balaam of the 'Cormorant', and other sea comedies | have | PG 68920, `mroberts-captain-balaam-of-the-cormorant-and-other-sea-comed` (1298 units) |
+| The adventure of the broad arrow: An Australian romance | have | PG 68922, `mroberts-adventure-of-the-broad-arrow` (1327 units) |
+| The mate of the Vancouver | have | PG 68936, `mroberts-mate-of-the-vancouver` (802 units) |
+| The private life of Henry Maitland: A record dictated by J. H. | have | PG 69000, `mroberts-private-life-of-henry-maitland` (260 units) |
+| The prey of the strongest | have | PG 69014, `mroberts-prey-of-the-strongest` (1751 units) |
