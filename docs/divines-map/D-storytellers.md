@@ -20617,3 +20617,40 @@ Shelf: `pipeline/storytellers-tail-31_shelf.json` (2026-10-22; added at the coor
 | Moon-madness, and other fantasies | have | PG 68685, `acgouraud-moon-madness-and-other-fantasies` (1247 units) |
 | The man among the monkeys; or, Ninety days in apeland To which are added: The philosopher and his monkeys, The professor and the crocodile, and other strange stories of men and animals | have | PG 68059, `lgozlan-man-among-the-monkeys` (1208 units) |
 | The Tale of Timber Town | have | PG 28906, `aagrace-tale-of-timber-town` (3329 units) |
+
+## Storytellers' tail, group 32 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-32_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: John W. Graham, Joseph W. Grant, Maude M. Grant, Ferdinand Heinrich Grautoff, Arthur Gray, Maxwell Gray, Donald Grayson, Edwin Green, Edward Greey, Percy Greg, Eliza Grey, Pamela Grey, Eleanor Glendower Griffith, Robert Grimshaw, R. Norman Grisewood, Joseph Rhode Grismer, Weedon Grossmith, E. Burd Grubb, Henry Gréville, George B. Guild, Mary Jary Gurney, Andrew Haggard, Montague T. Hainsselin, Marcet Haldeman-Julius, Charles Winslow Hall, George Eli Hall, Holworthy Hall, Newton Marshall Hall, Emma V. Hallett, J. O. Halliwell-Phillipps. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Neæra: A Tale of Ancient Rome | have | PG 47571, `jwgraham-nera` (3447 units) |
+| My first campaign | have | PG 33625, `jwgrant-my-first-campaign` (228 units) |
+| Windmills and wooden shoes | have | PG 58732, `mmgrant-windmills-and-wooden-shoes` (396 units) |
+| Banzai! by Parabellum | have | PG 19498, `fhgrautoff-banzai-by-parabellum` (1544 units) |
+| Tedious brief tales of Granta and Gramarye | have | PG 69438, `agray-tedious-brief-tales-of-granta-and-gramarye` (348 units) |
+| The suspicions of Ermengarde | have | PG 72999, `mgray-suspicions-of-ermengarde` (1496 units) |
+| Bob Steele in Strange Waters; or, Aboard a Strange Craft | have | PG 58627, `dgrayson-bob-steele-in-strange-waters` (2801 units) |
+| Blue Jackets; or, The Adventures of J. Thompson, A.B., Among "the Heathen Chinee" A Nautical Novel | have | PG 58270, `egreey-blue-jackets` (2804 units) |
+| Across the Zodiac The Story of a Wrecked Record | have | PG 10165, `pgreg-across-the-zodiac-the-story-of-a-wrecked-record` (1372 units) |
+| The Adventures of a Marmotte Sold for the Distressed Irish | have | PG 65674, `egrey-adventures-of-a-marmotte-sold-for-the-distressed-irish` (67 units) |
+| The children and the pictures | have | PG 64573, `pgrey-children-and-the-pictures` (1036 units) |
+| Cho-Cho and the Health Fairy | have | PG 73840, `eggriffith-cho-cho-and-the-health-fairy` (247 units) |
+| Fifty years hence: or, What may be in 1943 A prophecy supposed to be based on scientific deductions by an improved graphical method | have | PG 68096, `rgrimshaw-fifty-years-hence` (283 units) |
+| Zarlah the Martian | have | PG 13423, `rngrisewood-zarlah-the-martian` (436 units) |
+| 'Way Down East A Romance of New England Life | have | PG 16959, `jrgrismer-way-down-east-a-romance-of-new-england-life` (757 units) |
+| The Diary of a Nobody | have | PG 1026, `wgrossmith-diary-of-a-nobody` (626 units) |
+| Notes of a staff officer of our First New Jersey Brigade on the Seven Day's Battle on the peninsula in 1862 | have | PG 34216, `ebgrubb-notes-of-a-staff-officer-of-our-first-new-jersey-bri` (77 units) |
+| The Little Russian Servant | have | PG 27103, `hgreville-little-russian-servant` (109 units) |
+| A brief narrative of the Fourth Tennessee Cavalry Regiment, Wheeler's Corps, Army of Tennessee | have | PG 49238, `gbguild-brief-narrative-of-the-fourth-tennessee-cavalry-regi` (509 units) |
+| Mrs. Gurney's apology | have | PG 70275, `mjgurney-mrs-gurney-s-apology` (163 units) |
+| Hannibal's daughter | have | PG 72182, `ahaggard-hannibal-s-daughter` (1758 units) |
+| In peril on the sea | have | PG 77260, `mthainsselin-in-peril-on-the-sea` (1685 units) |
+| Dust | have | PG 945, `mhaldemanjuliu-dust` (643 units) |
+| Adrift in the Ice-Fields | have | PG 21607, `cwhall-adrift-in-the-ice-fields` (1447 units) |
+| A Balloon Ascension at Midnight | have | PG 48851, `gehall-balloon-ascension-at-midnight` (163 units) |
+| Rope | have | PG 29570, `hhall-rope` (1256 units) |
+| The Bible Story | have | PG 32736, `nmhall-bible-story` (13073 units) |
+| Natalie; Or, A Gem Among the Sea-Weeds | have | PG 10848, `evhallett-natalie` (726 units) |
+| Popular Rhymes and Nursery Tales A Sequel to the Nursery Rhymes of England | have | PG 35707, `johalliwellphi-popular-rhymes-and-nursery-tales-a-sequel-to` (1690 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 55965 Air Monster (copyright line 1932). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
