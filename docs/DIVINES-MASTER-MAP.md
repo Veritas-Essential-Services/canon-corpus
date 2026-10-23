@@ -15983,6 +15983,20 @@ Slugs `lothrop-*`. Built from title pages read for round 97.
 | Memorial of the church in Brattle square. : A discourse preached in the church in Brattle square, on the last Sunday of its use for public worship, July 30, 1871 (Boston : Press of J. Wilson and son, 1871) | have-ocr | IA `memorialofchurch0000loth` |
 | A sermon preached at the dedication of the Church of the Brattle-Square Society, on the corner of Clarendon Street and Commonwealth Avenue, Dec. 22, 1873 (Boston : Press of John Wilson and Son., 1874) | have-ocr | IA `sermonpreachedat00loth_0` |
 | Proceedings of an Ecclesiastical Council (Hollis Street, many hands) | excluded | |
+
+## S. T. Bloomfield (round 98, my pick, 2026-10-23)
+
+Slugs `bloomfield-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| Recensio synoptica annotationis sacræ : being a critical digest and synoptical arrangement of the most important annotations on the New Testament, exegetical, philological, and doctrinal : carefully collected and condensed, from the best commentators, both ancient and modern, and so digested as to form one consistent body of annotation, in which each portion is systematically attributed to its respective author, and the foreign matter translated into English : the whole accompanied with a copious body of original annotations, vol. 5 (London : C. and J. Rivington, 1826) | have-ocr | IA `recensiosynopti04bloogoog` |
+| Recensio synoptica annotationis sacrae : being a critical digest and synoptical arrangement of the most important annotations on the New Testament, exegetical, philological, and doctrinal : collected from commentators both ancient and modern, vol. 5 (London : C. and J. Rivington, 1826) | have-ocr | IA `recensiosynoptic05bloo` |
+| He Kaine Diatheke [romanized]. The Greek Testament, with English notes, critical, philological, and exegetical, partly selected and arranged from the best commentators, ancient and modern, but chiefly original. The whole being especially adapted to the use of academical students, candidates for the sacred office, and ministers, vol. 2 (Boston : Perkins and Marvin, 1837) | have-ocr | IA `hekainediatheker02bloo` |
+| A Greek and English lexicon to the New Testament (London, Printed for Longman, Orme, Brown, Green & Longmans, 1840) | have-ocr | IA `greekenglishlexi00bloo` |
+| Greek testament with English notes, critical, philological and exegetical, vol. 1 (Lond., Longman, 1855) | have-ocr | IA `greektestamentw00bloogoog` |
+| Critical annotations, additional and supplementary [&c.] (catalogued 1860) | have-ocr | IA `criticalannotat00bloogoog` |
+| historythucydid00bloogoog: his Thucydides translation (classical, not theology) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
