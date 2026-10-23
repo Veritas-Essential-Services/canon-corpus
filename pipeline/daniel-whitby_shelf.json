@@ -1,0 +1,92 @@
+{
+ "_about": "Public-domain Daniel Whitby (1638-1726), prebendary of Salisbury, commentator, for the Word Hoard: his Paraphrase and Commentary upon the Epistles (1700), A Discourse of the Necessity and Usefulness of the Christian Revelation (1705), Sermons on the Attributes of God (1710) and the Discourse on the Five Points (1735 printing), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "whitby"
+ ],
+ "_surname": [
+  "daniel whitby",
+  "whitby"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "whitby-paraphrase-epistles-1700": [
+   "bim_early-english-books-1641-1700_a-paraphrase-and-comment_whitby-daniel-1638-172_1700",
+   "A Paraphrase and Commentary upon all the Epistles of the New Testament (London, catalogued 1700)"
+  ],
+  "whitby-necessity-revelation": [
+   "discourseofneces00whit",
+   "A discourse of the necessity and usefulness of the Christian revelation : by reason of the corruptions of the principles of natural religion among Jews and heathens (London : Printed by W.B for A. and J. Churchil at the Black Swan in Pater-Noster-Row, 1705)"
+  ],
+  "whitby-attributes-of-god": [
+   "sermonsonattribu00whit",
+   "Sermons on the attributes of God : in two volumes (London : Printed for A. and J. Churchill, 1710)"
+  ],
+  "whitby-five-points": [
+   "discourseconcern00whit",
+   "A Discourse concerning : I. The true import of the words election and reprobation; and the things signified by them in Holy Scripture. II. The extent of Christ's redemption. III. The grace of God ... IV. The liberty of the will in a state of trial and probation. V. The perseverance or defectibility of the saints (London : Printed for Aaron Ward and Richard Hett, 1735)"
+  ]
+ },
+ "_alternates": {
+  "whitby-copies": "The 1718 and 1727 Paraphrase on the New Testament (only volume 2 found); Six Discourses 1801"
+ },
+ "_excluded": {
+  "whitby-latin": "Ethices compendium, the Tractatus and the Dissertatio (Latin)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "whitby-necessity-revelation": "title page read from the page image: 'A Discourse of the Necessity and Usefulness of the Christian Revelation; by reason of the corruptions of the principles of natural religion among Jews and Heathens. By Daniel Whitby, D.D. and Chantor of the Cathedral Church of Sarum. London: printed by W. B. for A. and J. Churchil ... 1705' (the scan's first pages are blank leaves, so the OCR never reaches the name)"
+ },
+ "_pending": {
+  "whitby-protestant-reconciler-1683": "The Protestant Reconciler (1683): the title page reads only 'By a Well-wisher to the Churches Peace, and a Lamenter of her sad Divisions'. It is Whitby's by universal attribution, but the page names nobody"
+ },
+ "_translators": {},
+ "_checks": {
+  "whitby-paraphrase-epistles-1700": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel whitby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1700",
+   "ia_date": "1700",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whitby-necessity-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "whitby-attributes-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whitby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitby-five-points": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whitby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1735",
+   "ia_date": "1735",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

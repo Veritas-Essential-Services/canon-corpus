@@ -10634,6 +10634,20 @@ Slugs `wheatly-*`. Built from title pages read for round 45.
 | Fifty Sermons on Several Subjects and Occasions, vol. 2 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_2` |
 | Fifty Sermons on Several Subjects and Occasions, vol. 3 (London, catalogued 1746) | have-ocr | IA `bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_3` |
 | The 1820 and later Rational Illustration; the 1753 Fifty Sermons; Sermons and Tracts (1740) | alternate | not shelved |
+
+## Daniel Whitby (round 45, my pick, 2026-10-22)
+
+Slugs `whitby-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Paraphrase and Commentary upon all the Epistles of the New Testament (London, catalogued 1700) | have-ocr | IA `bim_early-english-books-1641-1700_a-paraphrase-and-comment_whitby-daniel-1638-172_1700` |
+| A discourse of the necessity and usefulness of the Christian revelation : by reason of the corruptions of the principles of natural religion among Jews and heathens (London : Printed by W.B for A. and J. Churchil at the Black Swan in Pater-Noster-Row, 1705) | have-ocr | IA `discourseofneces00whit` |
+| Sermons on the attributes of God : in two volumes (London : Printed for A. and J. Churchill, 1710) | have-ocr | IA `sermonsonattribu00whit` |
+| A Discourse concerning : I. The true import of the words election and reprobation; and the things signified by them in Holy Scripture. II. The extent of Christ's redemption. III. The grace of God ... IV. The liberty of the will in a state of trial and probation. V. The perseverance or defectibility of the saints (London : Printed for Aaron Ward and Richard Hett, 1735) | have-ocr | IA `discourseconcern00whit` |
+| The Protestant Reconciler (1683): the title page reads only 'By a Well-wisher to the Churches Peace, and a Lamenter of her sad Divisions'. It is Whitby's by universal attribution, but the page names nobody | pending | not shelved |
+| The 1718 and 1727 Paraphrase on the New Testament (only volume 2 found); Six Discourses 1801 | alternate | not shelved |
+| Ethices compendium, the Tractatus and the Dissertatio (Latin) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
