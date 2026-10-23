@@ -1,0 +1,38 @@
+{
+ "_about": "Hugh E. Seebohm (1867-1946), son of Frederic Seebohm: On the Structure of Greek Tribal Society (1895). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Hugh Exton Seebohm (1867-1946)",
+ "_name_words": [
+  "seebohm",
+  "greek",
+  "tribal",
+  "society"
+ ],
+ "_surname": [
+  "hugh e. seebohm",
+  "h. e. seebohm",
+  "hugh exton seebohm",
+  "seebohm"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "seebohm-greek-tribal-society-1895": [
+   "onstructureofgre00seebiala",
+   "On the Structure of Greek Tribal Society: an Essay (1895)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "seebohm-greek-tribal-society-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh e. seebohm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

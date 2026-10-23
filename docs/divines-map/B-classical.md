@@ -9847,3 +9847,12 @@ Shelf: `pipeline/charles-diehl_shelf.json`. Excursions in Greece, tr. Perkins (1
 |---|---|---|---|
 | Excursions in Greece to Recently Explored Sites of Classical Interest (1893), tr. Emma R. Perkins |  | `diehl-excursions-in-greece-1893` | have-raw (IA `cu31924028258022`) |
 
+
+## Hugh E. Seebohm (1867-1946)
+
+Shelf: `pipeline/hugh-e-seebohm_shelf.json`. On the Structure of Greek Tribal Society (1895). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| On the Structure of Greek Tribal Society: an Essay (1895) |  | `seebohm-greek-tribal-society-1895` | have-raw (IA `onstructureofgre00seebiala`) |
+
