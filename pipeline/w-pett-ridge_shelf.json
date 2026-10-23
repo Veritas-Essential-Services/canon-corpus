@@ -1,0 +1,100 @@
+{
+ "_about": "W. Pett Ridge: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "W. Pett Ridge",
+ "_name_words": [
+  "pett",
+  "ridge",
+  "william"
+ ],
+ "_surname": [
+  "w. pett ridge",
+  "william pett ridge",
+  "ridge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wpridge-love-at-paddington": [
+   26135,
+   "Love at Paddington"
+  ],
+  "wpridge-erb": [
+   56029,
+   "\"Erb\""
+  ],
+  "wpridge-table-dh-te": [
+   57349,
+   "Table d'Hôte"
+  ],
+  "wpridge-mixed-grill": [
+   57704,
+   "Mixed Grill"
+  ],
+  "wpridge-son-of-the-state": [
+   57710,
+   "A Son of the State"
+  ],
+  "wpridge-amazing-years": [
+   62418,
+   "The Amazing Years"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wpridge-love-at-paddington": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. pett ridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpridge-erb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. pett ridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpridge-table-dh-te": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. pett ridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpridge-mixed-grill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. pett ridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpridge-son-of-the-state": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. pett ridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpridge-amazing-years": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. pett ridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -43618,3 +43618,16 @@ Shelf: `pipeline/cynthia-stockley_shelf.json` (2026-10-22; added at the coordina
 | Pink Gods and Blue Demons | have | PG 37258, `cstockley-pink-gods-and-blue-demons` (548 units) |
 | Wild Honey: Stories of South Africa | have | PG 37259, `cstockley-wild-honey` (1499 units) |
 | Wanderfoot (The Dream Ship) | have | PG 40059, `cstockley-wanderfoot-the-dream-ship` (1768 units) |
+
+## W. Pett Ridge
+
+Shelf: `pipeline/w-pett-ridge_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Love at Paddington | have | PG 26135, `wpridge-love-at-paddington` (891 units) |
+| "Erb" | have | PG 56029, `wpridge-erb` (1618 units) |
+| Table d'Hôte | have | PG 57349, `wpridge-table-dh-te` (996 units) |
+| Mixed Grill | have | PG 57704, `wpridge-mixed-grill` (1118 units) |
+| A Son of the State | have | PG 57710, `wpridge-son-of-the-state` (1663 units) |
+| The Amazing Years | have | PG 62418, `wpridge-amazing-years` (1616 units) |
