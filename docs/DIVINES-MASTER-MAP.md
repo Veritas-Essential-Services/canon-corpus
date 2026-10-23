@@ -19442,6 +19442,15 @@ Shelf: `pipeline/john-i-beare_shelf.json`. Greek Theories of Elementary Cognitio
 |---|---|---|---|
 | Greek Theories of Elementary Cognition from Alcmaeon to Aristotle (1906) |  | `beare-greek-theories-elementary-cognition-1906` | have-raw (IA `greektheoriesel00beargoog`) |
 
+
+## T. L. Papillon (1841-1926)
+
+Shelf: `pipeline/t-l-papillon_shelf.json`. Comparative philology for Greek and Latin (1876). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Manual of Comparative Philology as Applied to the Illustration of Greek and Latin Inflections (1876) |  | `papillon-manual-comparative-philology-1876` | have-raw (IA `amanualcomparat00papigoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
