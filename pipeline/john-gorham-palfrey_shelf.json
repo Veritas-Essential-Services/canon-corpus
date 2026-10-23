@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain John Gorham Palfrey (1796-1881), Unitarian minister of Brattle Street Church, Boston, Dexter Professor of Sacred Literature at Harvard and later historian of New England, for the Word Hoard: his religious works: Sermons on Duties belonging to the Conditions of Private Life (1834), Academical Lectures on the Jewish Scriptures and Antiquities (vols. 1-2, 1838-1840), Lowell Lectures on the Evidences of Christianity (2 vols., 1843) and The Relation between Judaism and Christianity (1854). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 78 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john gorham palfrey",
+  "john g. palfrey",
+  "j. g. palfrey"
+ ],
+ "_surname": [
+  "palfrey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "palfrey-sermons-duties": [
+   "sermonsondutiesb00palf",
+   "Sermons on duties belonging to some of the conditions and relations of private life (Boston, Charles Bowen, 1834)"
+  ],
+  "palfrey-academical-lectures-1": [
+   "academicallectur01palfiala",
+   "Academical lectures on the Jewish scriptures and antiquities, vol. 1 (Boston : J. Munroe, 1838)"
+  ],
+  "palfrey-academical-lectures-2": [
+   "academicallectu04palfgoog",
+   "Academical lectures on the Jewish scriptures and antiquities, Volume 2 (J. Munroe, 1840, 1840)"
+  ],
+  "palfrey-lowell-lectures-1": [
+   "lowelllectureson01palf",
+   "Lowell lectures on the evidences of Christianity, vol. 1 (Boston : J. Munroe, 1843)"
+  ],
+  "palfrey-lowell-lectures-2": [
+   "lowelllectureson02palf",
+   "Lowell lectures on the evidences of Christianity, vol. 2 (Boston : J. Munroe, 1843)"
+  ],
+  "palfrey-judaism-christianity": [
+   "cu31924029302076",
+   "The relation between Judaism and Christianity : illustrated in notes on passages in the New Testament containing quotations from, or references to, the Old (Boston : Crosby, Nichols, and Co., 1854)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "palfrey-history": "his History of New England and political papers (Papers on the Slave Power) are history and politics, not theology; Harmony of the Gospels is Lant Carpenter's"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "palfrey-lowell-lectures-2": "title page: 'LOWELL LECTURES ON THE EVIDENCES OF CHRISTIANITY, BY JOHN GORHAM PALFREY ... BOSTON: JAMES MUNROE AND COMPANY. MDCCCXLIII', vol. II (OCR 'PALPREY')"
+ },
+ "_pending": {
+  "palfrey-academical-lectures-3-4": "the later volumes of the Academical Lectures are on IA only as Google scans whose volume numbers are not catalogued; to be matched against their title pages"
+ },
+ "_translators": {},
+ "_checks": {
+  "palfrey-sermons-duties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "palfrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "palfrey-academical-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "palfrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1838-1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "palfrey-academical-lectures-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "palfrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "palfrey-lowell-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "palfrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "palfrey-lowell-lectures-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "palfrey-judaism-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "palfrey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

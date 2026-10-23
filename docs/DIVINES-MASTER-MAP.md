@@ -14129,6 +14129,21 @@ Slugs `quayle-*`. Built from title pages read for round 78.
 | The healing shadow (New York : The Abingdon Press, 1923) | have-ocr | IA `healingshadow00quay` |
 | Out-of-doors with Jesus (New York ; Cincinnati : The Abingdon press, 1924) | have-ocr | IA `outofdoorswithje00quay` |
 | his literary essays, nature books and verse (The Poet's Poet, A Hero and Some Other Folk, In God's Out-of-Doors, Books and Life, The Prairie and the Sea, Lowell, Poems, Beside Lake Beautiful, Recovered Yesterdays, With Earth and Sky) | excluded | |
+
+## John Gorham Palfrey (round 78, my pick, 2026-10-23)
+
+Slugs `palfrey-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on duties belonging to some of the conditions and relations of private life (Boston, Charles Bowen, 1834) | have-ocr | IA `sermonsondutiesb00palf` |
+| Academical lectures on the Jewish scriptures and antiquities, vol. 1 (Boston : J. Munroe, 1838) | have-ocr | IA `academicallectur01palfiala` |
+| Academical lectures on the Jewish scriptures and antiquities, Volume 2 (J. Munroe, 1840, 1840) | have-ocr | IA `academicallectu04palfgoog` |
+| Lowell lectures on the evidences of Christianity, vol. 1 (Boston : J. Munroe, 1843) | have-ocr | IA `lowelllectureson01palf` |
+| Lowell lectures on the evidences of Christianity, vol. 2 (Boston : J. Munroe, 1843) | have-ocr | IA `lowelllectureson02palf` |
+| The relation between Judaism and Christianity : illustrated in notes on passages in the New Testament containing quotations from, or references to, the Old (Boston : Crosby, Nichols, and Co., 1854) | have-ocr | IA `cu31924029302076` |
+| the later volumes of the Academical Lectures are on IA only as Google scans whose volume numbers are not catalogued; to be matched against their title pages | pending | not shelved |
+| his History of New England and political papers (Papers on the Slave Power) are history and politics, not theology; Harmony of the Gospels is Lant Carpenter's | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
