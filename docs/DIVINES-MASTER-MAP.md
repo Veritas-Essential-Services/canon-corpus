@@ -11656,6 +11656,20 @@ Slugs `mell-*`. Built from title pages read for round 53.
 | The doctrine of prayer; its utility; and its relation to providence (New York, Sheldon & Company, 1876) | have-ocr | IA `doctrineofprayer00mell` |
 | The botanical and agricultural works of his son P. H. Mell Jr. (another man); the Life of Patrick Hues Mell (1895, by his son) | excluded | |
 | manualofparliame00mell: Mell's Manual of Parliamentary Practice is a procedure manual, not divinity; scan front matter is also unreadable OCR. | excluded | |
+
+## Ezekiel Gilman Robinson (round 53, my pick, 2026-10-23)
+
+Slugs `egrobinson-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on preaching, delivered to the students of theology at Yale college, January and February, 1882 (New York, H. Holt and company, 1883) | have-ocr | IA `lecturesonpreac00robi` |
+| Principles and practice of morality : or, Ethical principles discussed and applied (Boston : Silver, c188) | have-ocr | IA `principlesofmor00robiuoft` |
+| Christian theology (Rochester, N.Y. : Press of E.R. Andrews, 1894) | have-ocr | IA `christiantheolog00robi` |
+| Christian evidences (catalogued 1895) | have-ocr | IA `christianevidenc00robi` |
+| Christian character : baccalaureate sermons delivered by Ezekiel Gilman Robinson (New York ; Boston ; Chicago : Silver, Burdett and co., 1896) | have-ocr | IA `christiancharact00robi` |
+| Ezekiel Gilman Robinson; an autobiography with a supplement (New York, Boston [etc.] Silver, Burdett and company, 1896) | have-ocr | IA `ezekielgilmanrob00robi` |
+| His translation of Neander's Planting and Training (held on the august-neander shelf) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
