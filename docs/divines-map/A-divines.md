@@ -16168,3 +16168,24 @@ Slugs `farley-*`. Built from title pages read for round 99.
 |---|---|---|
 | Sermon on the Death of Rev. Abijah Wines who Died Feb. 11, 1833, Delivered on the Following (John Caldwell, 1834) | have-ocr | IA `sermonondeathre00farlgoog` |
 | Discourses and essays on theological and speculative topics (Boston : Farley, 1851) | have-ocr | IA `discoursesessays00farl` |
+
+## Warren A. Candler (round 100, my pick, 2026-10-23)
+
+Slugs `candler-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The History of Sunday-schools: A Brief Historical Treatise, with Special (Phillips & Hunt, 1880) | have-ocr | IA `historysundaysc00candgoog` |
+| Not less education, but more of the right sort / by W.A. Candler (Nashville, Tenn. : Barbee & Smith, Agents, 1897) | have-ocr | IA `notlesseducation00cand` |
+| Christus auctor; a manual of Christian evidences (Nashville, Barbee & Smith, 1900) | have-ocr | IA `christusauctorma00cand` |
+| Great revivals and the great republic (Nashville, Tenn. ; Dallas, Tex. : Publishing House of the M.E. Church, South, 1904) | have-ocr | IA `greatrevivalsgre0000cand` |
+| Dangerous donations and degrading doles; or, A vast scheme for capturing and controlling the colleges and universities of the country ([Atlanta? Ga.], 1909) | have-ocr | IA `dangerousdonatio00cand` |
+| Wesley and his works : or, Methodism and missions : a volume of addresses (Nashville : Pub. House of the M.E. Church, South, 1912) | have-ocr | IA `wesleyandhiswork00canduoft` |
+| Our mission in Cuba : prepared for use in connection with Advance in the Antilles (Nashville, Tenn. : Board of Missions, Methodist Episcopal Church, South, 1913) | have-ocr | IA `ourmissionincuba00cand` |
+| 26183998.2613.emory.edu: Our National Blessings in 1895 (Thanksgiving sermon); the Emory scan has no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+| 04552590.emory.edu: High Living and High Lives; the Emory scan has no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+| 15308412.293.emory.edu: Practical Studies in the Fourth Gospel; the Emory scan has no OCR text file on Internet Archive (HTTP 404) | pending | not shelved |
+| dayofouropportun00cand: The Day of our Opportunity; the text file returned HTTP 500 | pending | not shelved |
+| 26224779.2615.emory.edu: The Church, the Fullness of Christ (1917 sermon); the Emory scan has no OCR text file on Internet Archive | pending | not shelved |
+| Christus auctor in Spanish translation (1907) | excluded | |
+| A Call to Advance (convention addresses, many speakers) | excluded | |

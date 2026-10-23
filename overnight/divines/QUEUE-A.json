@@ -9172,6 +9172,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T06:44:22-05:00",
       "notes": "Claremont Congregationalist; two books."
+    },
+    {
+      "id": "warren-a-candler",
+      "status": "done",
+      "scope": "round 100",
+      "added": "2026-10-23T06:52:21-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:52:21-05:00",
+      "notes": "Methodist bishop, Emory president; books printed 1880-1913. Five Emory scans pending (no OCR text file or server error)."
     }
   ]
 }
