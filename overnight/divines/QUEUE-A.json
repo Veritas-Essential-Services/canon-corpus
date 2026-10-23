@@ -6778,6 +6778,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T00:56:03-05:00",
       "notes": "5 items: Public Addresses, Freedom of the Will, What is Arminianism, Statements, Essays; NT commentary left for later"
+    },
+    {
+      "id": "miner-raymond",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:03-05:00",
+      "notes": "3 items: Systematic Theology 3 vols (1877)"
     }
   ]
 }

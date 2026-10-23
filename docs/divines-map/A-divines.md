@@ -11491,3 +11491,14 @@ Slugs `whedon-*`. Built from title pages read for round 52.
 | Statements, theological and critical (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1887) | have-ocr | IA `statementstheolo00whed` |
 | Essays, reviews, and discourses (New York, Phillips & Hunt, 1887) | have-ocr | IA `essaysreviewsdis00whed` |
 | His Commentary on the New Testament and Old Testament (1860-1880s, many volumes) left for a later round; Letter to Dr. Stevens (1859, a pamphlet); Cox's Letters on the Second Coming (another author) | excluded | |
+
+## Miner Raymond (round 52, my pick, 2026-10-23)
+
+Slugs `raymond-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Systematic theology, vol. 1 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo01raym` |
+| Systematic theology, vol. 2 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo02raym` |
+| Systematic theology, vol. 3 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo03raym` |
+| His 1854 Massachusetts election sermon left for later | excluded | |
