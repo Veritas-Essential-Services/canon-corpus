@@ -44651,3 +44651,15 @@ Shelf: `pipeline/grace-greenwood_shelf.json` (2026-10-22; added at the coordinat
 | Stories of Many Lands | have | PG 26736, `ggreenwood-stories-of-many-lands` (712 units) |
 | Old Wonder-Eyes, and Other Stories for Children | have | PG 48290, `ggreenwood-old-wonder-eyes-and-other-stories-for-children` (332 units) |
 | History of my pets | have | PG 71523, `ggreenwood-history-of-my-pets` (203 units) |
+
+## Charles Gilson
+
+Shelf: `pipeline/charles-gilson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Across the Cameroons: A Story of War and Adventure | have | PG 39185, `cgilson-across-the-cameroons` (1548 units) |
+| Held by Chinese Brigands | have | PG 39254, `cgilson-held-by-chinese-brigands` (1609 units) |
+| The Fire-Gods: A Tale of the Congo | have | PG 39255, `cgilson-fire-gods` (1186 units) |
+| Submarine U93 | have | PG 39387, `cgilson-submarine-u93` (1666 units) |
+| Treasure of Kings Being the Story of the Discovery of the "Big Fish," or the Quest of the Greater Treasure of the Incas of Peru. | have | PG 39399, `cgilson-treasure-of-kings-being-the-story-of-the-discovery-o` (1293 units) |

@@ -2702,3 +2702,6 @@
 
 ## 2026-10-22 23:24 CDT — grace-greenwood: done
 - grace-greenwood: new shelf, 5 Gutenberg books, 2,590 units, 258 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — charles-gilson: done
+- charles-gilson: new shelf, 5 Gutenberg books, 7,302 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
