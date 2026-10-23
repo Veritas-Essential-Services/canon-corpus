@@ -45308,3 +45308,76 @@ Shelf: `pipeline/storytellers-tail-05_shelf.json` (2026-10-22; added at the coor
 | Hetty Gray; | have | PG 15538, `rmgilbert-hetty-gray` (1251 units) |
 | The Late Miss Hollingford | have | PG 18991, `rmgilbert-late-miss-hollingford` (493 units) |
 | Terry; Or, She ought to have been a Boy | have | PG 20492, `rmgilbert-terry` (657 units) |
+
+## Storytellers' tail, group 6 (22 authors)
+
+Shelf: `pipeline/storytellers-tail-06_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 22 authors with 3 Gutenberg texts each: George Gladstone, Ernest Glanville, Sarah Grand, Grey, C. S. Guild, Charles A. Gunnison, M. Y. Halidom, Eliza Calvert Hall, S. C. Hall, Miriam Coles Harris, Katharine Haviland-Taylor, Charles Boardman Hawes, Caroline Lee Hentz, Silas K. Hocking, Forrestine C. Hooker, Charles Hooton, Houstoun, Caroline Emilia Jacobs, Leland Jamieson, Julia Kavanagh, Robert Keable, Myra Kelly. Every English text under the name at Gutenberg that no other shelf holds (64 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Waiting for sailing orders | have | PG 76233, `ggladstone-waiting-for-sailing-orders` (531 units) |
+| Stick to the raft | have | PG 77023, `ggladstone-stick-to-the-raft` (593 units) |
+| Tom Gillies | have | PG 77762, `ggladstone-tom-gillies` (977 units) |
+| In Search of the Okapi A Story of Adventure in Central Africa | have | PG 17615, `eglanville-in-search-of-the-okapi-a-story-of-adventure-in-ce` (2934 units) |
+| The Golden Rock | have | PG 36600, `eglanville-golden-rock` (3304 units) |
+| Tales from the Veld | have | PG 36602, `eglanville-tales-from-the-veld` (1411 units) |
+| Ideala | have | PG 6855, `sgrand-ideala` (1154 units) |
+| The Heavenly Twins | have | PG 8676, `sgrand-heavenly-twins` (4999 units) |
+| The Beth Book Being a Study of the Life of Elizabeth Caldwell Maclure, a Woman of Genius | have | PG 28088, `sgrand-beth-book-being-a-study-of-the-life-of-elizabeth-cald` (4630 units) |
+| Mary Seaham: A Novel. Volume 1 of 3 | have | PG 40405, `grey-mary-seaham` (805 units) |
+| Mary Seaham: A Novel. Volume 2 of 3 | have | PG 40406, `grey-mary-seaham-40406` (907 units) |
+| Mary Seaham: A Novel. Volume 3 of 3 | have | PG 40407, `grey-mary-seaham-40407` (1049 units) |
+| Violet: A Fairy Story | have | PG 35773, `csguild-violet` (415 units) |
+| Daisy; or, The Fairy Spectacles | have | PG 36759, `csguild-daisy` (638 units) |
+| Minnie; or, The Little Woman: A Fairy Story | have | PG 36760, `csguild-minnie` (635 units) |
+| In Macao | have | PG 18658, `cagunnison-in-macao` (88 units) |
+| The Beautiful Eyes of Ysidria | have | PG 18660, `cagunnison-beautiful-eyes-of-ysidria` (187 units) |
+| A Napa Christchild; and Benicia's Letters | have | PG 18725, `cagunnison-napa-christchild` (220 units) |
+| Tales of the Wonder Club, Volume I | have | PG 33688, `myhalidom-tales-of-the-wonder-club-volume-i` (2155 units) |
+| Tales of the Wonder Club, Volume II | have | PG 34817, `myhalidom-tales-of-the-wonder-club-volume-ii` (2053 units) |
+| Tales of the Wonder Club, Volume III | have | PG 36731, `myhalidom-tales-of-the-wonder-club-volume-iii` (1354 units) |
+| Aunt Jane of Kentucky | have | PG 26728, `echall-aunt-jane-of-kentucky` (950 units) |
+| The Land of Long Ago | have | PG 32203, `echall-land-of-long-ago` (586 units) |
+| Clover and Blue Grass | have | PG 33061, `echall-clover-and-blue-grass` (687 units) |
+| Turns of Fortune, and Other Tales | have | PG 15961, `schall-turns-of-fortune-and-other-tales` (506 units) |
+| The Buccaneer: A Tale | have | PG 28074, `schall-buccaneer` (2788 units) |
+| The Forlorn Hope: A Tale of Old Chelsea | have | PG 50078, `schall-forlorn-hope` (112 units) |
+| Richard Vandermarck: A Novel | have | PG 12348, `mcharris-richard-vandermarck` (1521 units) |
+| Missy: A Novel | have | PG 40129, `mcharris-missy` (1839 units) |
+| Rutledge | have | PG 40385, `mcharris-rutledge` (2713 units) |
+| Natalie Page | have | PG 59902, `khavilandtaylo-natalie-page` (1369 units) |
+| Cecilia of the Pink Roses | have | PG 60099, `khavilandtaylo-cecilia-of-the-pink-roses` (1344 units) |
+| A modern trio in an old town | have | PG 69474, `khavilandtaylo-modern-trio-in-an-old-town` (1419 units) |
+| The Mutineers A Tale of Old Days at Sea and of Adventures in the Far East as Benjamin Lathrop Set It Down Some Sixty Years Ago | have | PG 9657, `cbhawes-mutineers-a-tale-of-old-days-at-sea-and-of-adventure` (1708 units) |
+| The Great Quest A romance of 1826, wherein are recorded the experiences of Josiah Woods of Topham, and of those others with whom he sailed for Cuba and the Gulf of Guinea | have | PG 40265, `cbhawes-great-quest-a-romance-of-1826-wherein-are-recorded-t` (2419 units) |
+| The Dark Frigate | have | PG 50598, `cbhawes-dark-frigate` (1500 units) |
+| Ernest Linwood; or, The Inner Life of the Author | have | PG 20462, `clhentz-ernest-linwood` (2714 units) |
+| Helen and Arthur; or, Miss Thusa's Spinning Wheel | have | PG 23106, `clhentz-helen-and-arthur` (1779 units) |
+| Love After Marriage; and Other Stories of the Heart | have | PG 43019, `clhentz-love-after-marriage` (854 units) |
+| The Squire's Daughter | have | PG 36384, `skhocking-squire-s-daughter` (3709 units) |
+| A Gamble with Life | have | PG 39417, `skhocking-gamble-with-life` (3697 units) |
+| Her Benny: A Story of Street Life | have | PG 43325, `skhocking-her-benny` (1799 units) |
+| Prince Jan, St. Bernard | have | PG 14893, `fchooker-prince-jan-st-bernard` (671 units) |
+| Star: The Story of an Indian Pony | have | PG 39899, `fchooker-star` (696 units) |
+| The Long Dim Trail | have | PG 39937, `fchooker-long-dim-trail` (2487 units) |
+| Colin Clink, Volume 1 (of 3) | have | PG 44901, `chooton-colin-clink-volume-1-of-3` (747 units) |
+| Colin Clink, Volume 2 (of 3) | have | PG 44902, `chooton-colin-clink-volume-2-of-3` (713 units) |
+| Colin Clink, Volume 3 (of 3) | have | PG 44903, `chooton-colin-clink-volume-3-of-3` (535 units) |
+| Sink or swim? | have | PG 72560, `houstoun-sink-or-swim` (583 units) |
+| Patricia | have | PG 13895, `cejacobs-patricia` (675 units) |
+| The S. W. F. Club | have | PG 15562, `cejacobs-s-w-f-club` (1348 units) |
+| A Texas Blue Bonnet | have | PG 53192, `cejacobs-texas-blue-bonnet` (3707 units) |
+| Flood waters | have | PG 75015, `ljamieson-flood-waters` (124 units) |
+| Altitude | have | PG 76156, `ljamieson-altitude` (165 units) |
+| Storm | have | PG 76177, `ljamieson-storm` (161 units) |
+| Daisy Burns (Volume 1) | have | PG 36157, `jkavanagh-daisy-burns-volume-1` (3337 units) |
+| Daisy Burns (Volume 2) | have | PG 36158, `jkavanagh-daisy-burns-volume-2` (2936 units) |
+| Rachel Gray: A Tale Founded on Fact | have | PG 36160, `jkavanagh-rachel-gray` (1142 units) |
+| Simon Called Peter | have | PG 14579, `rkeable-simon-called-peter` (2276 units) |
+| The Priest's Tale - Père Etienne From "The New Decameron", Volume III. | have | PG 22478, `rkeable-priest-s-tale-pere-etienne-from-the-new-decameron-vo` (92 units) |
+| Peradventure; or, The Silence of God | have | PG 55994, `rkeable-peradventure` (2502 units) |
+| Little Citizens: The Humours of School Life | have | PG 6662, `mkelly-little-citizens` (1138 units) |
+| New Faces | have | PG 15449, `mkelly-new-faces` (862 units) |
+| Little Aliens | have | PG 32581, `mkelly-little-aliens` (791 units) |
+| pg-72561 | excluded | PG 72561: a second Gutenberg edition of Houstoun's Sink or swim?. |
+| pg-72562 | excluded | PG 72562: a second Gutenberg edition of Houstoun's Sink or swim?. |

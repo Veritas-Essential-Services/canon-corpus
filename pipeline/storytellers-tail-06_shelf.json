@@ -1,0 +1,1108 @@
+{
+ "_about": "Storytellers' tail, group 6: 22 authors with 3 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): George Gladstone, Ernest Glanville, Sarah Grand, Grey, C. S. Guild, Charles A. Gunnison, M. Y. Halidom, Eliza Calvert Hall, S. C. Hall, Miriam Coles Harris, Katharine Haviland-Taylor, Charles Boardman Hawes, Caroline Lee Hentz, Silas K. Hocking, Forrestine C. Hooker, Charles Hooton, Houstoun, Caroline Emilia Jacobs, Leland Jamieson, Julia Kavanagh, Robert Keable, Myra Kelly. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 6 (22 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "ggladstone-waiting-for-sailing-orders": [
+   "george gladstone",
+   "gladstone"
+  ],
+  "ggladstone-stick-to-the-raft": [
+   "george gladstone",
+   "gladstone"
+  ],
+  "ggladstone-tom-gillies": [
+   "george gladstone",
+   "gladstone"
+  ],
+  "eglanville-in-search-of-the-okapi-a-story-of-adventure-in-ce": [
+   "ernest glanville",
+   "glanville"
+  ],
+  "eglanville-golden-rock": [
+   "ernest glanville",
+   "glanville"
+  ],
+  "eglanville-tales-from-the-veld": [
+   "ernest glanville",
+   "glanville"
+  ],
+  "sgrand-ideala": [
+   "sarah grand",
+   "grand"
+  ],
+  "sgrand-heavenly-twins": [
+   "sarah grand",
+   "grand"
+  ],
+  "sgrand-beth-book-being-a-study-of-the-life-of-elizabeth-cald": [
+   "sarah grand",
+   "grand"
+  ],
+  "grey-mary-seaham": [
+   "grey",
+   "elizabeth caroline grey"
+  ],
+  "grey-mary-seaham-40406": [
+   "grey",
+   "elizabeth caroline grey"
+  ],
+  "grey-mary-seaham-40407": [
+   "grey",
+   "elizabeth caroline grey"
+  ],
+  "csguild-violet": [
+   "c. s. guild",
+   "caroline snowden guild",
+   "guild"
+  ],
+  "csguild-daisy": [
+   "c. s. guild",
+   "caroline snowden guild",
+   "guild"
+  ],
+  "csguild-minnie": [
+   "c. s. guild",
+   "caroline snowden guild",
+   "guild"
+  ],
+  "cagunnison-in-macao": [
+   "charles a. gunnison",
+   "gunnison"
+  ],
+  "cagunnison-beautiful-eyes-of-ysidria": [
+   "charles a. gunnison",
+   "gunnison"
+  ],
+  "cagunnison-napa-christchild": [
+   "charles a. gunnison",
+   "gunnison"
+  ],
+  "myhalidom-tales-of-the-wonder-club-volume-i": [
+   "m. y. halidom",
+   "halidom"
+  ],
+  "myhalidom-tales-of-the-wonder-club-volume-ii": [
+   "m. y. halidom",
+   "halidom"
+  ],
+  "myhalidom-tales-of-the-wonder-club-volume-iii": [
+   "m. y. halidom",
+   "halidom"
+  ],
+  "echall-aunt-jane-of-kentucky": [
+   "eliza calvert hall"
+  ],
+  "echall-land-of-long-ago": [
+   "eliza calvert hall"
+  ],
+  "echall-clover-and-blue-grass": [
+   "eliza calvert hall"
+  ],
+  "schall-turns-of-fortune-and-other-tales": [
+   "s. c. hall"
+  ],
+  "schall-buccaneer": [
+   "s. c. hall"
+  ],
+  "schall-forlorn-hope": [
+   "s. c. hall"
+  ],
+  "mcharris-richard-vandermarck": [
+   "miriam coles harris",
+   "harris"
+  ],
+  "mcharris-missy": [
+   "miriam coles harris",
+   "harris"
+  ],
+  "mcharris-rutledge": [
+   "miriam coles harris",
+   "harris"
+  ],
+  "khavilandtaylo-natalie-page": [
+   "katharine haviland-taylor",
+   "haviland-taylor"
+  ],
+  "khavilandtaylo-cecilia-of-the-pink-roses": [
+   "katharine haviland-taylor",
+   "haviland-taylor"
+  ],
+  "khavilandtaylo-modern-trio-in-an-old-town": [
+   "katharine haviland-taylor",
+   "haviland-taylor"
+  ],
+  "cbhawes-mutineers-a-tale-of-old-days-at-sea-and-of-adventure": [
+   "charles boardman hawes",
+   "hawes"
+  ],
+  "cbhawes-great-quest-a-romance-of-1826-wherein-are-recorded-t": [
+   "charles boardman hawes",
+   "hawes"
+  ],
+  "cbhawes-dark-frigate": [
+   "charles boardman hawes",
+   "hawes"
+  ],
+  "clhentz-ernest-linwood": [
+   "caroline lee hentz",
+   "hentz"
+  ],
+  "clhentz-helen-and-arthur": [
+   "caroline lee hentz",
+   "hentz"
+  ],
+  "clhentz-love-after-marriage": [
+   "caroline lee hentz",
+   "hentz"
+  ],
+  "skhocking-squire-s-daughter": [
+   "silas k. hocking",
+   "silas kitto hocking",
+   "hocking"
+  ],
+  "skhocking-gamble-with-life": [
+   "silas k. hocking",
+   "silas kitto hocking",
+   "hocking"
+  ],
+  "skhocking-her-benny": [
+   "silas k. hocking",
+   "silas kitto hocking",
+   "hocking"
+  ],
+  "fchooker-prince-jan-st-bernard": [
+   "forrestine c. hooker",
+   "forrestine cooper hooker"
+  ],
+  "fchooker-star": [
+   "forrestine c. hooker",
+   "forrestine cooper hooker"
+  ],
+  "fchooker-long-dim-trail": [
+   "forrestine c. hooker",
+   "forrestine cooper hooker"
+  ],
+  "chooton-colin-clink-volume-1-of-3": [
+   "charles hooton",
+   "hooton"
+  ],
+  "chooton-colin-clink-volume-2-of-3": [
+   "charles hooton",
+   "hooton"
+  ],
+  "chooton-colin-clink-volume-3-of-3": [
+   "charles hooton",
+   "hooton"
+  ],
+  "houstoun-sink-or-swim": [
+   "houstoun",
+   "matilda charlotte houstoun",
+   "houstoun"
+  ],
+  "cejacobs-patricia": [
+   "caroline emilia jacobs",
+   "jacobs"
+  ],
+  "cejacobs-s-w-f-club": [
+   "caroline emilia jacobs",
+   "jacobs"
+  ],
+  "cejacobs-texas-blue-bonnet": [
+   "caroline emilia jacobs",
+   "jacobs"
+  ],
+  "ljamieson-flood-waters": [
+   "leland jamieson",
+   "jamieson"
+  ],
+  "ljamieson-altitude": [
+   "leland jamieson",
+   "jamieson"
+  ],
+  "ljamieson-storm": [
+   "leland jamieson",
+   "jamieson"
+  ],
+  "jkavanagh-daisy-burns-volume-1": [
+   "julia kavanagh",
+   "kavanagh"
+  ],
+  "jkavanagh-daisy-burns-volume-2": [
+   "julia kavanagh",
+   "kavanagh"
+  ],
+  "jkavanagh-rachel-gray": [
+   "julia kavanagh",
+   "kavanagh"
+  ],
+  "rkeable-simon-called-peter": [
+   "robert keable",
+   "keable"
+  ],
+  "rkeable-priest-s-tale-pere-etienne-from-the-new-decameron-vo": [
+   "robert keable",
+   "keable"
+  ],
+  "rkeable-peradventure": [
+   "robert keable",
+   "keable"
+  ],
+  "mkelly-little-citizens": [
+   "myra kelly",
+   "kelly"
+  ],
+  "mkelly-new-faces": [
+   "myra kelly",
+   "kelly"
+  ],
+  "mkelly-little-aliens": [
+   "myra kelly",
+   "kelly"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "ggladstone-waiting-for-sailing-orders": [
+   76233,
+   "Waiting for sailing orders"
+  ],
+  "ggladstone-stick-to-the-raft": [
+   77023,
+   "Stick to the raft"
+  ],
+  "ggladstone-tom-gillies": [
+   77762,
+   "Tom Gillies"
+  ],
+  "eglanville-in-search-of-the-okapi-a-story-of-adventure-in-ce": [
+   17615,
+   "In Search of the Okapi A Story of Adventure in Central Africa"
+  ],
+  "eglanville-golden-rock": [
+   36600,
+   "The Golden Rock"
+  ],
+  "eglanville-tales-from-the-veld": [
+   36602,
+   "Tales from the Veld"
+  ],
+  "sgrand-ideala": [
+   6855,
+   "Ideala"
+  ],
+  "sgrand-heavenly-twins": [
+   8676,
+   "The Heavenly Twins"
+  ],
+  "sgrand-beth-book-being-a-study-of-the-life-of-elizabeth-cald": [
+   28088,
+   "The Beth Book Being a Study of the Life of Elizabeth Caldwell Maclure, a Woman of Genius"
+  ],
+  "grey-mary-seaham": [
+   40405,
+   "Mary Seaham: A Novel. Volume 1 of 3"
+  ],
+  "grey-mary-seaham-40406": [
+   40406,
+   "Mary Seaham: A Novel. Volume 2 of 3"
+  ],
+  "grey-mary-seaham-40407": [
+   40407,
+   "Mary Seaham: A Novel. Volume 3 of 3"
+  ],
+  "csguild-violet": [
+   35773,
+   "Violet: A Fairy Story"
+  ],
+  "csguild-daisy": [
+   36759,
+   "Daisy; or, The Fairy Spectacles"
+  ],
+  "csguild-minnie": [
+   36760,
+   "Minnie; or, The Little Woman: A Fairy Story"
+  ],
+  "cagunnison-in-macao": [
+   18658,
+   "In Macao"
+  ],
+  "cagunnison-beautiful-eyes-of-ysidria": [
+   18660,
+   "The Beautiful Eyes of Ysidria"
+  ],
+  "cagunnison-napa-christchild": [
+   18725,
+   "A Napa Christchild; and Benicia's Letters"
+  ],
+  "myhalidom-tales-of-the-wonder-club-volume-i": [
+   33688,
+   "Tales of the Wonder Club, Volume I"
+  ],
+  "myhalidom-tales-of-the-wonder-club-volume-ii": [
+   34817,
+   "Tales of the Wonder Club, Volume II"
+  ],
+  "myhalidom-tales-of-the-wonder-club-volume-iii": [
+   36731,
+   "Tales of the Wonder Club, Volume III"
+  ],
+  "echall-aunt-jane-of-kentucky": [
+   26728,
+   "Aunt Jane of Kentucky"
+  ],
+  "echall-land-of-long-ago": [
+   32203,
+   "The Land of Long Ago"
+  ],
+  "echall-clover-and-blue-grass": [
+   33061,
+   "Clover and Blue Grass"
+  ],
+  "schall-turns-of-fortune-and-other-tales": [
+   15961,
+   "Turns of Fortune, and Other Tales"
+  ],
+  "schall-buccaneer": [
+   28074,
+   "The Buccaneer: A Tale"
+  ],
+  "schall-forlorn-hope": [
+   50078,
+   "The Forlorn Hope: A Tale of Old Chelsea"
+  ],
+  "mcharris-richard-vandermarck": [
+   12348,
+   "Richard Vandermarck: A Novel"
+  ],
+  "mcharris-missy": [
+   40129,
+   "Missy: A Novel"
+  ],
+  "mcharris-rutledge": [
+   40385,
+   "Rutledge"
+  ],
+  "khavilandtaylo-natalie-page": [
+   59902,
+   "Natalie Page"
+  ],
+  "khavilandtaylo-cecilia-of-the-pink-roses": [
+   60099,
+   "Cecilia of the Pink Roses"
+  ],
+  "khavilandtaylo-modern-trio-in-an-old-town": [
+   69474,
+   "A modern trio in an old town"
+  ],
+  "cbhawes-mutineers-a-tale-of-old-days-at-sea-and-of-adventure": [
+   9657,
+   "The Mutineers A Tale of Old Days at Sea and of Adventures in the Far East as Benjamin Lathrop Set It Down Some Sixty Years Ago"
+  ],
+  "cbhawes-great-quest-a-romance-of-1826-wherein-are-recorded-t": [
+   40265,
+   "The Great Quest A romance of 1826, wherein are recorded the experiences of Josiah Woods of Topham, and of those others with whom he sailed for Cuba and the Gulf of Guinea"
+  ],
+  "cbhawes-dark-frigate": [
+   50598,
+   "The Dark Frigate"
+  ],
+  "clhentz-ernest-linwood": [
+   20462,
+   "Ernest Linwood; or, The Inner Life of the Author"
+  ],
+  "clhentz-helen-and-arthur": [
+   23106,
+   "Helen and Arthur; or, Miss Thusa's Spinning Wheel"
+  ],
+  "clhentz-love-after-marriage": [
+   43019,
+   "Love After Marriage; and Other Stories of the Heart"
+  ],
+  "skhocking-squire-s-daughter": [
+   36384,
+   "The Squire's Daughter"
+  ],
+  "skhocking-gamble-with-life": [
+   39417,
+   "A Gamble with Life"
+  ],
+  "skhocking-her-benny": [
+   43325,
+   "Her Benny: A Story of Street Life"
+  ],
+  "fchooker-prince-jan-st-bernard": [
+   14893,
+   "Prince Jan, St. Bernard"
+  ],
+  "fchooker-star": [
+   39899,
+   "Star: The Story of an Indian Pony"
+  ],
+  "fchooker-long-dim-trail": [
+   39937,
+   "The Long Dim Trail"
+  ],
+  "chooton-colin-clink-volume-1-of-3": [
+   44901,
+   "Colin Clink, Volume 1 (of 3)"
+  ],
+  "chooton-colin-clink-volume-2-of-3": [
+   44902,
+   "Colin Clink, Volume 2 (of 3)"
+  ],
+  "chooton-colin-clink-volume-3-of-3": [
+   44903,
+   "Colin Clink, Volume 3 (of 3)"
+  ],
+  "houstoun-sink-or-swim": [
+   72560,
+   "Sink or swim?"
+  ],
+  "cejacobs-patricia": [
+   13895,
+   "Patricia"
+  ],
+  "cejacobs-s-w-f-club": [
+   15562,
+   "The S. W. F. Club"
+  ],
+  "cejacobs-texas-blue-bonnet": [
+   53192,
+   "A Texas Blue Bonnet"
+  ],
+  "ljamieson-flood-waters": [
+   75015,
+   "Flood waters"
+  ],
+  "ljamieson-altitude": [
+   76156,
+   "Altitude"
+  ],
+  "ljamieson-storm": [
+   76177,
+   "Storm"
+  ],
+  "jkavanagh-daisy-burns-volume-1": [
+   36157,
+   "Daisy Burns (Volume 1)"
+  ],
+  "jkavanagh-daisy-burns-volume-2": [
+   36158,
+   "Daisy Burns (Volume 2)"
+  ],
+  "jkavanagh-rachel-gray": [
+   36160,
+   "Rachel Gray: A Tale Founded on Fact"
+  ],
+  "rkeable-simon-called-peter": [
+   14579,
+   "Simon Called Peter"
+  ],
+  "rkeable-priest-s-tale-pere-etienne-from-the-new-decameron-vo": [
+   22478,
+   "The Priest's Tale - Père Etienne From \"The New Decameron\", Volume III."
+  ],
+  "rkeable-peradventure": [
+   55994,
+   "Peradventure; or, The Silence of God"
+  ],
+  "mkelly-little-citizens": [
+   6662,
+   "Little Citizens: The Humours of School Life"
+  ],
+  "mkelly-new-faces": [
+   15449,
+   "New Faces"
+  ],
+  "mkelly-little-aliens": [
+   32581,
+   "Little Aliens"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-72561": "PG 72561: a second Gutenberg edition of Houstoun's Sink or swim?.",
+  "pg-72562": "PG 72562: a second Gutenberg edition of Houstoun's Sink or swim?."
+ },
+ "_held": {},
+ "_checks": {
+  "ggladstone-waiting-for-sailing-orders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gladstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggladstone-stick-to-the-raft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gladstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggladstone-tom-gillies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gladstone",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglanville-in-search-of-the-okapi-a-story-of-adventure-in-ce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest glanville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglanville-golden-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest glanville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglanville-tales-from-the-veld": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest glanville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrand-ideala": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah grand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrand-heavenly-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah grand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgrand-beth-book-being-a-study-of-the-life-of-elizabeth-cald": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah grand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grey-mary-seaham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grey-mary-seaham-40406": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grey-mary-seaham-40407": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "csguild-violet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. s. guild",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "csguild-daisy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. s. guild",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "csguild-minnie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. s. guild",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cagunnison-in-macao": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. gunnison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cagunnison-beautiful-eyes-of-ysidria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. gunnison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cagunnison-napa-christchild": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles a. gunnison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "myhalidom-tales-of-the-wonder-club-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. y. halidom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "myhalidom-tales-of-the-wonder-club-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. y. halidom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "myhalidom-tales-of-the-wonder-club-volume-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. y. halidom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "echall-aunt-jane-of-kentucky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliza calvert hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "echall-land-of-long-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliza calvert hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "echall-clover-and-blue-grass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliza calvert hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "schall-turns-of-fortune-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. c. hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "schall-buccaneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. c. hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "schall-forlorn-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. c. hall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcharris-richard-vandermarck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miriam coles harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcharris-missy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miriam coles harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcharris-rutledge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miriam coles harris",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "khavilandtaylo-natalie-page": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine haviland-taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "khavilandtaylo-cecilia-of-the-pink-roses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine haviland-taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "khavilandtaylo-modern-trio-in-an-old-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine haviland-taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbhawes-mutineers-a-tale-of-old-days-at-sea-and-of-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles boardman hawes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbhawes-great-quest-a-romance-of-1826-wherein-are-recorded-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles boardman hawes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbhawes-dark-frigate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles boardman hawes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clhentz-ernest-linwood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline lee hentz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clhentz-helen-and-arthur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline lee hentz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clhentz-love-after-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline lee hentz",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "skhocking-squire-s-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silas k. hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "skhocking-gamble-with-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silas k. hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "skhocking-her-benny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "silas k. hocking",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fchooker-prince-jan-st-bernard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "forrestine c. hooker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fchooker-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "forrestine c. hooker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fchooker-long-dim-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "forrestine c. hooker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chooton-colin-clink-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles hooton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chooton-colin-clink-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles hooton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chooton-colin-clink-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles hooton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "houstoun-sink-or-swim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "houstoun",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cejacobs-patricia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline emilia jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cejacobs-s-w-f-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline emilia jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cejacobs-texas-blue-bonnet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "caroline emilia jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljamieson-flood-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leland jamieson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljamieson-altitude": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leland jamieson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljamieson-storm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leland jamieson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkavanagh-daisy-burns-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia kavanagh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkavanagh-daisy-burns-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia kavanagh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jkavanagh-rachel-gray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julia kavanagh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rkeable-simon-called-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert keable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rkeable-priest-s-tale-pere-etienne-from-the-new-decameron-vo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert keable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rkeable-peradventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert keable",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mkelly-little-citizens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myra kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mkelly-new-faces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myra kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mkelly-little-aliens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "myra kelly",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
