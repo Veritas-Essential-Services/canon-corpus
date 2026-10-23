@@ -11619,3 +11619,14 @@ Slugs `armitage-*`. Built from title pages read for round 53.
 | A history of the Baptists : traced by their vital principles and practices : from the time of Our Lord and Saviour Jesus Christ to the year 1886 (New York : Bryan, Taylor, 1887) | have-ocr | IA `cu31924029451782` |
 | The two-volume issue of the History (historyofbaptist01armi, 02armi) and the 1893 printing | alternate | not shelved |
 | The Education and Employment of the Blind (1886, by Thomas Rhodes Armitage, another man) | excluded | |
+
+## William Cathcart (round 53, my pick, 2026-10-23)
+
+Slugs `cathcart-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| The papal system: from its origin to the present time. A historical sketch of every doctrine, claim and practice of the Church of Rome (Philadelphia, Cathcart and Turner, 1872) | have-ocr | IA `papalsystemfromi00cath` |
+| The Baptists and the American revolution (Philadelphia, S. A. George, 1876) | have-ocr | IA `baptistsamerican00cath` |
+| The baptism of the ages and of the nations (Philadelphia, American Baptist publication society, 1878) | have-ocr | IA `baptismofagesofn00cath` |
+| The Baptist Encyclopaedia (1881, many contributors; he edited it) | excluded | |
