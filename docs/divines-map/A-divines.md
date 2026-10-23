@@ -18492,3 +18492,26 @@ Slugs `bancroft-*`. Built from title pages read for round 124.
 | Sermons on those doctrines of the gospel, and on those constituent principles of the church, which Christian professors have made the subject of controversy (Worcester [Mass.]: Printed by William Manning & Son, 1822) | have-ocr | IA `sermonsonthosedo00banc` |
 | later editions and second scans of the Life of Washington | excluded | |
 | lettertomydearsi00banc, a four-page manuscript | excluded | |
+
+## J. M. Cramp (round 124, my pick, 2026-10-23)
+
+Slugs `cramp-*`. Built from title pages read for round 124.
+
+| Work | Status | Where |
+|---|---|---|
+| A text-book of popery; comprising a brief history of the Council of Trent, a translation of its doctrinal decrees, and copious extracts from the catechism published by its authority; with notes and illustrations: to which is added, in an appendix, the doctrinal decrees, and canons of the Council of Trent, in Latin, as published at Rome, anno Domini 1564: the whole intended to furnish a correct and complete view of the theological system of popery (New York, D. Appleton, 1831) | have-ocr | IA `textbookofpopery00cramrich` |
+| The Council of Trent : comprising an account of the proceedings of that assembly; and illustrating the spirit and tendency of popery (London : Religious Tract Society, sold at the Depository, [etc.], 1839) | have-ocr | IA `counciloftrentco00cramuoft` |
+| The history of the Reformation in Europe : with a chronology of the Reformation (London : Religious Tract Society ; New-York : Robert Carter, 1844) | have-ocr | IA `historyofreforma00cram` |
+| A brief memoir of the Rev. William Knibb, late missionary in Jamaica : with an appendix, containing a sketch of the history of the Baptist Missionary Society ([Montréal? : s.n.], 1846) | have-ocr | IA `cihm_91121` |
+| 1800 and 1850 : a lecture delivered before the Montreal Mechanics' Institute on Tuesday evening, January 8, 1850 ([Montreal? : s.n.], 1850) | have-ocr | IA `cihm_28572` |
+| The inaugural address, delivered by the president, June 20, 1851, and his introductory lecture to the theological course, delivered Sept. 23, 1851 : with an appendix containing a history of the college, the acts of incorporation, etc. etc ([Halifax, N.S.? : s.n.], 1851) | have-ocr | IA `cihm_44674` |
+| The "Future" of the Baptists and their duty to prepare for it : a lecture delivered at Wolfville, N.S., March 25th, 1852 ([Halifax, N.S.? : s.n.], 1852) | have-ocr | IA `cihm_64769` |
+| Prohibitory liquor law : the substance of an address delivered during the sitting of the Provincial Temperance Convention, in the Temperance Hall, Halifax, on the 23rd February, 1854 : the members of the House of Assembly and of the Legislative Council being present by invitation ([Halifax, N.S.? : s.n.], 1854) | have-ocr | IA `cihm_57060` |
+| Scripture and tradition : a reply to Mr. Maturin's letter on "The claims of the Catholic Church" ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_49779` |
+| Appendix to Scripture and tradition : a reply to Mr. Manturin's letter on "The claims of the Catholic Church" ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_92598` |
+| The succession of matryrs : a sermon preached before the Central Baptist Association of Nova Scotia, at its ninth annual session, held with the church in Granville Street, Halifax, June 20, 1859 ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_67275` |
+| What will become of the wicked? : an address (Halifax, N.S. : Christian Messenger Office, 1860) | have-ocr | IA `cihm_91734` |
+| Centenary of the Baptists in Nova Scotia : A discourse delivered at Hillsburgh, June 10, 1860 (Halifax, : printed at the "Christian Messenger" office, 1860) | have-ocr | IA `cihm_51265` |
+| counciltrentabr00cramgoog, an abridgement by another hand | excluded | |
+| the botanical Annales and the Society of Arts journal are not his | excluded | |
+| reformationineur0000cram and centenaryofbapti00cram (its OCR lacks the title page) are second scans | excluded | |
