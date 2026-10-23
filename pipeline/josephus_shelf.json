@@ -1,0 +1,77 @@
+{
+ "_about": "Flavius Josephus in English, translator per title. Here: H. St. J. Thackeray's Loeb, vols. I-III (1926-28), the volumes first printed before 1930; Greek facing, kept per Adam's 2026-10-23 ruling. Whiston's translation is held elsewhere (whiston shelf).",
+ "_author": "Flavius Josephus (37-c.100)",
+ "_name_words": [
+  "josephus",
+  "jewish",
+  "apion"
+ ],
+ "_surname": [
+  "josephus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "josephus-thackeray-loeb-v1": [
+   "josephuswithengl01joseuoft",
+   "Josephus, tr. H. St. J. Thackeray, vol. I: The Life; Against Apion (Loeb, 1926); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "josephus-thackeray-loeb-v2": [
+   "josephuswithengl02joseuoft",
+   "Josephus, tr. H. St. J. Thackeray, vol. II: The Jewish War, Books I-III (Loeb, 1927; this copy the 1956 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "josephus-thackeray-loeb-v3": [
+   "josephuswithengl03joseuoft",
+   "Josephus, tr. H. St. J. Thackeray, vol. III: The Jewish War, Books IV-VII (Loeb, 1928; this copy the 1961 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {
+  "Thackeray, Loeb vols. IV-IX (1930-65)": "first printed 1930 or later; not public domain in the US"
+ },
+ "_translators": {
+  "josephus-thackeray-loeb-v1": "Thackeray",
+  "josephus-thackeray-loeb-v2": "Thackeray",
+  "josephus-thackeray-loeb-v3": "Thackeray"
+ },
+ "_checks": {
+  "josephus-thackeray-loeb-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephus",
+   "translator_claimed": "Thackeray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "josephus-thackeray-loeb-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephus",
+   "translator_claimed": "Thackeray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "josephus-thackeray-loeb-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "josephus",
+   "translator_claimed": "Thackeray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  }
+ }
+}

@@ -11043,3 +11043,16 @@ Shelf: `pipeline/william-l-snyder_shelf.json`. The Military Annals of Greece, vo
 | The Military Annals of Greece, vol. I (Boston: Badger, 1915) |  | `snyder-military-annals-greece-v1-1915` | have-raw (IA `cu31924071186534`) |
 | The Military Annals of Greece, vol. II (Boston: Badger, 1915) |  | `snyder-military-annals-greece-v2-1915` | have-raw (IA `cu31924071186542`) |
 
+
+## Flavius Josephus (37-c.100)
+
+Shelf: `pipeline/josephus_shelf.json`. Josephus, tr. H. St. J. Thackeray, Loeb vols. I-III (1926-28) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Josephus, tr. H. St. J. Thackeray, vol. I: The Life; Against Apion (Loeb, 1926); Greek facing, kept per Adam's 2026-10-23 ruling |  | `josephus-thackeray-loeb-v1` | have-raw (IA `josephuswithengl01joseuoft`) |
+| Josephus, tr. H. St. J. Thackeray, vol. II: The Jewish War, Books I-III (Loeb, 1927; this copy the 1956 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `josephus-thackeray-loeb-v2` | have-raw (IA `josephuswithengl02joseuoft`) |
+| Josephus, tr. H. St. J. Thackeray, vol. III: The Jewish War, Books IV-VII (Loeb, 1928; this copy the 1961 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `josephus-thackeray-loeb-v3` | have-raw (IA `josephuswithengl03joseuoft`) |
+
+Excluded: Thackeray, Loeb vols. IV-IX (1930-65) (first printed 1930 or later; not public domain in the US)
+
