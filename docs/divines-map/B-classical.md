@@ -9105,3 +9105,12 @@ Shelf: `pipeline/ph-e-legrand_shelf.json`. The New Greek Comedy, tr. James Loeb 
 |---|---|---|---|
 | The New Greek Comedy (1917), tr. James Loeb |  | `legrand-new-greek-comedy-1917` | have-raw (IA `newgreekcomedy0000unse`) |
 
+
+## Emanuel Loewy (1857-1938)
+
+Shelf: `pipeline/emanuel-loewy_shelf.json`. The Rendering of Nature in Early Greek Art, tr. Fothergill (1907). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Rendering of Nature in Early Greek Art (1907), tr. John Fothergill |  | `loewy-rendering-nature-1907` | have-raw (IA `renderingnature01loewgoog`) |
+

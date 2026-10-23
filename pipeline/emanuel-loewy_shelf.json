@@ -1,0 +1,41 @@
+{
+ "_about": "Emanuel Loewy (1857-1938): The Rendering of Nature in Early Greek Art, tr. John Fothergill (1907).",
+ "_author": "Emanuel Loewy (1857-1938)",
+ "_name_words": [
+  "loewy",
+  "rendering",
+  "nature",
+  "greek",
+  "art"
+ ],
+ "_surname": [
+  "loewy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "loewy-rendering-nature-1907": [
+   "renderingnature01loewgoog",
+   "The Rendering of Nature in Early Greek Art (1907), tr. John Fothergill"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "loewy-rendering-nature-1907": "John Fothergill"
+ },
+ "_checks": {
+  "loewy-rendering-nature-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "loewy",
+   "translator_claimed": "John Fothergill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
