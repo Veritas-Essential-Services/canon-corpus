@@ -1,0 +1,39 @@
+{
+ "_about": "Henri Weil (1818-1909), French Hellenist, raw IA OCR of The Order of Words in the Ancient Languages compared with that of the Modern Languages, tr. Charles W. Super (1887). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Henri Weil",
+ "_name_words": [
+  "weil"
+ ],
+ "_surname": [
+  "henri weil",
+  "weil"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henri-weil-order-of-words-1887": [
+   "cu31924026504278",
+   "The Order of Words in the Ancient Languages compared with that of the Modern Languages, by Henri Weil, translated with notes and additions by Charles W. Super (Boston: Ginn & Company, 1887)",
+   "tr. Charles W. Super"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "henri-weil-order-of-words-1887": "Charles W. Super"
+ },
+ "_checks": {
+  "henri-weil-order-of-words-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henri weil",
+   "translator_claimed": "Charles W. Super",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
