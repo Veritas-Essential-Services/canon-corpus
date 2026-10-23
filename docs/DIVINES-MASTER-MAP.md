@@ -13611,6 +13611,22 @@ Slugs `fisk-*`. Built from title pages read for round 73.
 | Calvinistic controversy : embracing a sermon on predestination and election, and several numbers formerly published in the Christian Advocate and Journal (New York : Waugh and Mason for the Methodist Episcopal Church, 1835) | have-ocr | IA `calvinisticcontr00fisk` |
 | Travels on the continent of Europe; viz., in England, Ireland, Scotland, France, Italy, Switzerland, Germany, and the Netherlands (New-York, Harper and brothers, 1838) | have-ocr | IA `travelsoncontine00fisk` |
 | single printed sermons and addresses (1826-1835); The Methodist Preacher (1859, sermons by several hands) | excluded | |
+
+## Andrew Thomson (of St. George's, Edinburgh) (round 73, my pick, 2026-10-23)
+
+Slugs `thomson-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on hearing the word preached (Edinburgh : Printed for William Whyte, 1815) | have-ocr | IA `sermonsonhearing00thom` |
+| Lectures, Expository and Practical, on Select Portions of Scripture, vol. 1 (Edinburgh: William Blackwood, 1816; this volume's contents page reads 'Contents of volume first') | have-ocr | IA `10412998bsb` |
+| Lectures, Expository and Practical, on Select Portions of Scripture, vol. 2 (Edinburgh: William Blackwood, 1816; this volume's contents page reads 'Contents of volume second') | have-ocr | IA `10412999bsb` |
+| An Address to Christian Parents on the Religious Education of Their Children (W. Blackwood, 1821) | have-ocr | IA `anaddresstochri00thomgoog` |
+| Sermons on various subjects (Edinburgh : Printed for William Whyte, 1830) | have-ocr | IA `sermonsonvariou00thomgoog` |
+| The doctrine of universal pardon : considered and refuted in a series of sermons, with notes, critical and expository (Edinburgh : William Whyte, 1830) | have-ocr | IA `doctrineofuniver00thom` |
+| Sermons and sacramental exhortations (Edinburgh : Printed for William Whyte and Co. [etc.], 1831) | have-ocr | IA `sermonssacrament00thom` |
+| Sermons on infidelity (Windsor, Vt. : Richards and Tracy ; New York : Jonathan Leavitt, 1833) | have-ocr | IA `sermonsoninfidel00thom` |
+| Gaelic translations of his communicants' catechism; works of the younger Andrew Thomson of Edinburgh (Secession Church), a different man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

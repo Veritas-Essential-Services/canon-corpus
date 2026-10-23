@@ -1,0 +1,145 @@
+{
+ "_about": "Public-domain Andrew Mitchell Thomson (1779-1831), minister of St. George's, Edinburgh, evangelical leader in the Church of Scotland and opponent of slavery, for the Word Hoard: Sermons on Hearing the Word Preached (1815), Lectures, Expository and Practical (2 vols., 1816), An Address to Christian Parents (1821), Sermons on Various Subjects (1830), The Doctrine of Universal Pardon Considered and Refuted (1830), Sermons and Sacramental Exhortations (1831) and Sermons on Infidelity (1833). Not the Secession historian Andrew Thomson (1814-1901). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 73 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomson"
+ ],
+ "_surname": [
+  "andrew thomson",
+  "a. thomson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomson-hearing-the-word": [
+   "sermonsonhearing00thom",
+   "Sermons on hearing the word preached (Edinburgh : Printed for William Whyte, 1815)"
+  ],
+  "thomson-lectures-1": [
+   "10412998bsb",
+   "Lectures, Expository and Practical, on Select Portions of Scripture, vol. 1 (Edinburgh: William Blackwood, 1816; this volume's contents page reads 'Contents of volume first')"
+  ],
+  "thomson-lectures-2": [
+   "10412999bsb",
+   "Lectures, Expository and Practical, on Select Portions of Scripture, vol. 2 (Edinburgh: William Blackwood, 1816; this volume's contents page reads 'Contents of volume second')"
+  ],
+  "thomson-christian-parents": [
+   "anaddresstochri00thomgoog",
+   "An Address to Christian Parents on the Religious Education of Their Children (W. Blackwood, 1821)"
+  ],
+  "thomson-sermons-various": [
+   "sermonsonvariou00thomgoog",
+   "Sermons on various subjects (Edinburgh : Printed for William Whyte, 1830)"
+  ],
+  "thomson-universal-pardon": [
+   "doctrineofuniver00thom",
+   "The doctrine of universal pardon : considered and refuted in a series of sermons, with notes, critical and expository (Edinburgh : William Whyte, 1830)"
+  ],
+  "thomson-sacramental-exhortations": [
+   "sermonssacrament00thom",
+   "Sermons and sacramental exhortations (Edinburgh : Printed for William Whyte and Co. [etc.], 1831)"
+  ],
+  "thomson-sermons-infidelity": [
+   "sermonsoninfidel00thom",
+   "Sermons on infidelity (Windsor, Vt. : Richards and Tracy ; New York : Jonathan Leavitt, 1833)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "thomson-other": "Gaelic translations of his communicants' catechism; works of the younger Andrew Thomson of Edinburgh (Secession Church), a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "thomson-hearing-the-word": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-lectures-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-christian-parents": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomson-sermons-various": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomson-universal-pardon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomson-sacramental-exhortations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomson-sermons-infidelity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew thomson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -7948,6 +7948,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:54:55-05:00",
       "notes": "3 books, 1832-1838; single sermons and the many-author Methodist Preacher excluded."
+    },
+    {
+      "id": "andrew-thomson-edinburgh",
+      "status": "done",
+      "scope": "round 73",
+      "added": "2026-10-23T03:54:56-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:54:56-05:00",
+      "notes": "8 books, 1815-1833; every title page names him minister of St. George's. Not the Secession historian of the same name."
     }
   ]
 }
