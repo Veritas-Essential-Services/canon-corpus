@@ -43943,3 +43943,16 @@ Shelf: `pipeline/george-randolph-chester_shelf.json` (2026-10-22; added at the c
 | Young Wallingford | have | PG 32897, `grchester-young-wallingford` (1759 units) |
 | Get-Rich-Quick Wallingford A Cheerful Account of the Rise and Fall of an American Business Buccaneer | have | PG 37010, `grchester-get-rich-quick-wallingford-a-cheerful-account-of-t` (1695 units) |
 | The Ball of Fire | have | PG 62653, `grchester-ball-of-fire` (2093 units) |
+
+## Charles W. Chesnutt
+
+Shelf: `pipeline/charles-w-chesnutt_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The House Behind the Cedars | have | PG 472, `cwchesnutt-house-behind-the-cedars` (1011 units) |
+| Frederick Douglass A Biography | have | PG 10986, `cwchesnutt-frederick-douglass-a-biography` (265 units) |
+| The Wife of his Youth and Other Stories of the Color Line, and Selected Essays | have | PG 11057, `cwchesnutt-wife-of-his-youth-and-other-stories-of-the-color` (1258 units) |
+| The Marrow of Tradition | have | PG 11228, `cwchesnutt-marrow-of-tradition` (1552 units) |
+| The Conjure Woman | have | PG 11666, `cwchesnutt-conjure-woman` (862 units) |
+| The Colonel's Dream | have | PG 19746, `cwchesnutt-colonels-dream` (1564 units) |
