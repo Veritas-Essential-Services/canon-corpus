@@ -41434,3 +41434,19 @@ Shelf: `pipeline/mabel-osgood-wright_shelf.json` (2026-10-22; added at the coord
 | Gray Lady and the Birds: Stories of the Bird Year for Home and School | have | PG 62793, `mowright-gray-lady-and-the-birds` (2068 units) |
 | Dogtown Being Some Chapters from the Annals of the Waddles Family Set Down in the Language of Housepeople | have | PG 64041, `mowright-dogtown-being-some-chapters-from-the-annals-of-the` (1288 units) |
 | At the Sign of the Fox: A Romance | have | PG 64110, `mowright-at-the-sign-of-the-fox` (1145 units) |
+
+## Frances Mary Peard
+
+Shelf: `pipeline/frances-mary-peard_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Cartouche | have | PG 43151, `fmpeard-cartouche` (1640 units) |
+| The Career of Claudia | have | PG 43152, `fmpeard-career-of-claudia` (1706 units) |
+| Donna Teresa | have | PG 43153, `fmpeard-donna-teresa` (1550 units) |
+| An Interloper | have | PG 43154, `fmpeard-interloper` (2677 units) |
+| Thorpe Regis | have | PG 43155, `fmpeard-thorpe-regis` (1629 units) |
+| Unawares: A Story of an Old French Town | have | PG 43156, `fmpeard-unawares` (1139 units) |
+| The Swing of the Pendulum | have | PG 43157, `fmpeard-swing-of-the-pendulum` (3093 units) |
+| Two Studios | have | PG 43159, `fmpeard-two-studios` (678 units) |
+| Prentice Hugh | have | PG 43170, `fmpeard-prentice-hugh` (1396 units) |

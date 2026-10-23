@@ -1,0 +1,135 @@
+{
+ "_about": "Frances Mary Peard's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frances Mary Peard",
+ "_name_words": [
+  "peard"
+ ],
+ "_surname": [
+  "peard"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fmpeard-cartouche": [
+   43151,
+   "Cartouche"
+  ],
+  "fmpeard-career-of-claudia": [
+   43152,
+   "The Career of Claudia"
+  ],
+  "fmpeard-donna-teresa": [
+   43153,
+   "Donna Teresa"
+  ],
+  "fmpeard-interloper": [
+   43154,
+   "An Interloper"
+  ],
+  "fmpeard-thorpe-regis": [
+   43155,
+   "Thorpe Regis"
+  ],
+  "fmpeard-unawares": [
+   43156,
+   "Unawares: A Story of an Old French Town"
+  ],
+  "fmpeard-swing-of-the-pendulum": [
+   43157,
+   "The Swing of the Pendulum"
+  ],
+  "fmpeard-two-studios": [
+   43159,
+   "Two Studios"
+  ],
+  "fmpeard-prentice-hugh": [
+   43170,
+   "Prentice Hugh"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fmpeard-cartouche": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-career-of-claudia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-donna-teresa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-interloper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-thorpe-regis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-unawares": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-swing-of-the-pendulum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-two-studios": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmpeard-prentice-hugh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
