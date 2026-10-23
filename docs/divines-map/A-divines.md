@@ -10502,3 +10502,13 @@ Slugs `walker-*`. Built from title pages read for round 43.
 | Christ the purifier : ten discourses upon the sanctification of believers, through the love and grace of Jesus Christ (London : Printed for L.B. Seeley, 1817) | have-ocr | IA `christpurifierte00walk` |
 | The Christian : a course of practical sermons (Glasgow : Printed for Chalmers and Collins, 1825) | have-ocr | IA `christiancourseo00walk` |
 | Fifty-two lectures on the church catechism ; including the creed, the ten commandments, and other important subjects of practical religion (London : Hamilton, Adams, & Co., 1836) | have-ocr | IA `fiftytwolecture00lawsgoog` |
+
+## William Bromley Cadogan (round 43, my pick, 2026-10-22)
+
+Slugs `cadogan-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses of the Honourable and Reverend William Bromley Cadogan, A.M., late Rector of St. Luke's Chelsea ... : to which are now added Short observations on the Lord's Prayer, and letters to several of his friends (London : Printed for F. and C. Rivington, 1798) | have-ocr | IA `discoursesofhono00cado` |
+| The Life of the Rev. William Romaine (printed by T. Bensley; and sold by Vernor andHood; Mathews; Lewis andFienes, Chelsea; Cooke, Oxford; Smart andCowslade, Reading; andHazard, Bath, 1796) | have-ocr | IA `liferevwilliamr00cadogoog` |
+| ECCO copies of both; Liberty and Equality, two sermons (1792) | alternate | not shelved |

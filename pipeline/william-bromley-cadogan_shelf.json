@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain William Bromley Cadogan (1751-1797), evangelical rector of St Luke's Chelsea, for the Word Hoard: his Discourses, with sermons on the Lord's Prayer and letters (London: Rivington, 1798) and his Life of William Romaine (1796), from Internet Archive scans. Added 2026-10-23 by lane A, round 43 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cadogan"
+ ],
+ "_surname": [
+  "william bromley cadogan",
+  "cadogan"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cadogan-discourses": [
+   "discoursesofhono00cado",
+   "Discourses of the Honourable and Reverend William Bromley Cadogan, A.M., late Rector of St. Luke's Chelsea ... : to which are now added Short observations on the Lord's Prayer, and letters to several of his friends (London : Printed for F. and C. Rivington, 1798)"
+  ],
+  "cadogan-life-romaine": [
+   "liferevwilliamr00cadogoog",
+   "The Life of the Rev. William Romaine (printed by T. Bensley; and sold by Vernor andHood; Mathews; Lewis andFienes, Chelsea; Cooke, Oxford; Smart andCowslade, Reading; andHazard, Bath, 1796)"
+  ]
+ },
+ "_alternates": {
+  "cadogan-copies": "ECCO copies of both; Liberty and Equality, two sermons (1792)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cadogan-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william bromley cadogan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cadogan-life-romaine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cadogan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
