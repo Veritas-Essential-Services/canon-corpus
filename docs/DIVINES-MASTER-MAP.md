@@ -15052,6 +15052,24 @@ Slugs `mckenzie-*`. Built from title pages read for round 88.
 | Getting One's Bearings, etc. [Essays.] (New York : Fleming H. Revell Co, 1903) | have-ocr | IA `gettingonesbeari0000mcke` |
 | Address on some Cambridge men I have known ([Cambridge, The Society, 1908) | have-ocr | IA `addressonsomecam00mcke` |
 | Some Things Abroad (travel); Sunday-school lesson notes; books by other Alexander McKenzies (A Stage Baby, The Physiology of the Senses) | excluded | |
+
+## Joseph Wild (round 89, my pick, 2026-10-23)
+
+Slugs `wild-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| The lost ten tribes (New York, J. Huggins, 1879) | have-ocr | IA `losttentribes00wild` |
+| Seven sermons delivered by Rev. Joseph Wild, D.D., in Bond Street Congregational Church, Toronto, Ont ([Toronto? : s.n.], 1881) | have-ocr | IA `sevensermonsdeli00wilduoft` |
+| Parnell and the prophetic destiny of Ireland, sermon ([Toronto, s.n.], 1881) | have-ocr | IA `parnellprophetic00wild` |
+| Whence came the negro race? A sermon ([Toronto, s.n.], 1881) | have-ocr | IA `whencecamenegror00wild` |
+| The Conservative convention and the future destiny of Canada : a sermon and answers to letters ([Toronto? : s.n.], 1881) | have-ocr | IA `cihm_91696` |
+| Talks for the times (Toronto : Selby, 1886) | have-ocr | IA `talksfortimes0000wild` |
+| How and when the world will end (Toronto : G. Virtue, 1886) | have-ocr | IA `cihm_25770` |
+| The Bond Street pulpit : being a series of discourses (Toronto : Yeigh, Office of the "Canadian Advance", 1888) | have-ocr | IA `cihm_25767` |
+| The origin and secrets of freemasonry : being a lecture delivered by the Rev. Joseph Wild, D.D., chaplain Doric Lodge, A.F. & A. M., Toronto, in Toronto, Ont., on February 22nd, 1889 (Toronto : Yeigh, 1889) | have-ocr | IA `cihm_34511` |
+| Canada and the Jesuits : being a series of six sermons (Toronto : Published at the office of the "Canadian Advance", [188) | have-ocr | IA `canadajesuitsbei00wilduoft` |
+| Dr. Wild's Sunday evening sermons (Toronto : Rose, 1891) | have-ocr | IA `cihm_25769` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

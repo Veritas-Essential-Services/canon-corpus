@@ -1,0 +1,193 @@
+{
+ "_about": "Public-domain Joseph Wild (1834-1908), Methodist then Congregational minister of Bond Street Church, Toronto, and British-Israel preacher, for the Word Hoard: The Lost Ten Tribes, Seven Sermons, Talks for the Times, How and When the World will End, The Bond Street Pulpit, Canada and the Jesuits, Dr. Wild's Sunday Evening Sermons, and his single sermons and lectures. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 89 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joseph wild",
+  "j. wild",
+  "dr. wild"
+ ],
+ "_surname": [
+  "joseph wild",
+  "j. wild",
+  "dr. wild"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wild-lost-ten-tribes": [
+   "losttentribes00wild",
+   "The lost ten tribes (New York, J. Huggins, 1879)"
+  ],
+  "wild-seven-sermons": [
+   "sevensermonsdeli00wilduoft",
+   "Seven sermons delivered by Rev. Joseph Wild, D.D., in Bond Street Congregational Church, Toronto, Ont ([Toronto? : s.n.], 1881)"
+  ],
+  "wild-parnell": [
+   "parnellprophetic00wild",
+   "Parnell and the prophetic destiny of Ireland, sermon ([Toronto, s.n.], 1881)"
+  ],
+  "wild-negro-race": [
+   "whencecamenegror00wild",
+   "Whence came the negro race? A sermon ([Toronto, s.n.], 1881)"
+  ],
+  "wild-conservative-convention": [
+   "cihm_91696",
+   "The Conservative convention and the future destiny of Canada : a sermon and answers to letters ([Toronto? : s.n.], 1881)"
+  ],
+  "wild-talks-for-times": [
+   "talksfortimes0000wild",
+   "Talks for the times (Toronto : Selby, 1886)"
+  ],
+  "wild-world-end": [
+   "cihm_25770",
+   "How and when the world will end (Toronto : G. Virtue, 1886)"
+  ],
+  "wild-bond-street-pulpit": [
+   "cihm_25767",
+   "The Bond Street pulpit : being a series of discourses (Toronto : Yeigh, Office of the \"Canadian Advance\", 1888)"
+  ],
+  "wild-freemasonry": [
+   "cihm_34511",
+   "The origin and secrets of freemasonry : being a lecture delivered by the Rev. Joseph Wild, D.D., chaplain Doric Lodge, A.F. & A. M., Toronto, in Toronto, Ont., on February 22nd, 1889 (Toronto : Yeigh, 1889)"
+  ],
+  "wild-canada-jesuits": [
+   "canadajesuitsbei00wilduoft",
+   "Canada and the Jesuits : being a series of six sermons (Toronto : Published at the office of the \"Canadian Advance\", [188)"
+  ],
+  "wild-sunday-evening": [
+   "cihm_25769",
+   "Dr. Wild's Sunday evening sermons (Toronto : Rose, 1891)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wild-conservative-convention": "opening: 'THE CONSERVATIVE CONVENTION AND THE FUTURE DESTINY OF CANADA. A SERMON, AND ANSWERS TO LETTERS, DELIVERED BY THE Rev. JOSEPH WILD, D.D. On Sunday Evening, December 4th, 1881, in the Bond Street Congregational Church, Toronto' (OCR 'JosepH Whtp'; the text goes on 'Doctor Wild would preach')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wild-lost-ten-tribes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-seven-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wild-parnell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-negro-race": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-conservative-convention": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-talks-for-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-world-end": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-bond-street-pulpit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-freemasonry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wild-canada-jesuits": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "[1889?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wild-sunday-evening": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. wild",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
