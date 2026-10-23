@@ -15223,3 +15223,21 @@ Shelf: `pipeline/dillon-wallace_shelf.json` (2026-10-22; added at the coordinato
 | The Wilderness Castaways | have | PG 42382, `dwallace-wilderness-castaways` (1733 units) |
 | Grit A-Plenty: A Tale of the Labrador Wild | have | PG 42396, `dwallace-grit-a-plenty` (1449 units) |
 | Packing and Portaging | have | PG 44720, `dwallace-packing-and-portaging` (373 units) |
+
+## Margaret M. Robertson
+
+Shelf: `pipeline/margaret-m-robertson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Christie Redfern's Troubles | have | PG 21226, `mmrobertson-christie-redferns-troubles` (2269 units) |
+| Shenac's Work at Home | have | PG 21227, `mmrobertson-shenacs-work-at-home` (1282 units) |
+| Janet's Love and Service | have | PG 23266, `mmrobertson-janets-love-and-service` (4356 units) |
+| Stephen Grattan's Faith: A Canadian Story | have | PG 23323, `mmrobertson-stephen-grattans-faith` (227 units) |
+| Allison Bain; Or, By a Way She Knew Not | have | PG 24963, `mmrobertson-allison-bain` (2775 units) |
+| David Fleming's Forgiveness | have | PG 27930, `mmrobertson-david-flemings-forgiveness` (1670 units) |
+| The Orphans of Glen Elder | have | PG 27983, `mmrobertson-orphans-of-glen-elder` (711 units) |
+| The Inglises; Or, How the Way Opened | have | PG 28179, `mmrobertson-inglises` (1895 units) |
+| Eunice | have | PG 38196, `mmrobertson-eunice` (1406 units) |
+| The Twa Miss Dawsons | have | PG 38197, `mmrobertson-twa-miss-dawsons` (2392 units) |
+| Frederica and her Guardians; Or, The Perils of Orphanhood | have | PG 38198, `mmrobertson-frederica-and-her-guardians` (1706 units) |
