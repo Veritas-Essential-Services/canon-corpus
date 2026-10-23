@@ -1,0 +1,98 @@
+{
+ "_about": "Ada Leverson: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ada Leverson",
+ "_name_words": [
+  "ada",
+  "leverson"
+ ],
+ "_surname": [
+  "ada leverson",
+  "leverson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aleverson-loves-shadow": [
+   9786,
+   "Love's Shadow"
+  ],
+  "aleverson-love-at-second-sight": [
+   9851,
+   "Love at Second Sight"
+  ],
+  "aleverson-tenterhooks": [
+   10021,
+   "Tenterhooks"
+  ],
+  "aleverson-bird-of-paradise": [
+   27323,
+   "Bird of Paradise"
+  ],
+  "aleverson-twelfth-hour": [
+   27554,
+   "The Twelfth Hour"
+  ],
+  "aleverson-limit": [
+   28465,
+   "The Limit"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "aleverson-loves-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada leverson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aleverson-love-at-second-sight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada leverson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aleverson-tenterhooks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada leverson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aleverson-bird-of-paradise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada leverson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aleverson-twelfth-hour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada leverson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aleverson-limit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada leverson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

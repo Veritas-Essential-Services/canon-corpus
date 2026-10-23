@@ -43748,3 +43748,16 @@ Shelf: `pipeline/s-levett-yeats_shelf.json` (2026-10-22; added at the coordinato
 | A Galahad of the Creeks; The Widow Lamport | have | PG 38306, `slevettyeats-galahad-of-the-creeks` (965 units) |
 | The Chevalier d'Auriac | have | PG 38323, `slevettyeats-chevalier-dauriac` (1718 units) |
 | The traitor's way | have | PG 68914, `slevettyeats-traitors-way` (1783 units) |
+
+## Ada Leverson
+
+Shelf: `pipeline/ada-leverson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Love's Shadow | have | PG 9786, `aleverson-loves-shadow` (2190 units) |
+| Love at Second Sight | have | PG 9851, `aleverson-love-at-second-sight` (2134 units) |
+| Tenterhooks | have | PG 10021, `aleverson-tenterhooks` (1729 units) |
+| Bird of Paradise | have | PG 27323, `aleverson-bird-of-paradise` (1881 units) |
+| The Twelfth Hour | have | PG 27554, `aleverson-twelfth-hour` (2152 units) |
+| The Limit | have | PG 28465, `aleverson-limit` (2015 units) |
