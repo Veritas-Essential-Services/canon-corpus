@@ -21326,12 +21326,24 @@ Round 19 (2026-10-10), vetoable. Valera and Mármol added in round 93. Not conve
 ## Mary Howitt (Fredrika Bremer)
 
 Shelf: `pipeline/mary-howitt_shelf.json` · fetch `python3 pipeline/fetch_shelf.py mary-howitt` · titles `python3 pipeline/split_shelf_titles.py mary-howitt`.
-Round 19 (2026-10-10), vetoable. Her Andersen is on andersen_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+Round 19 (2026-10-10), vetoable. Her Andersen is on andersen_shelf.json. Round 142 (2026-10-23) added twelve archive.org scans: Bremer's novels and travels (1844-63) and Paalzow's Citizen of Prague (1846). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `mary-howitt-bremer-strife-and-peace` | Fredrika Bremer | Strife and Peace | Mary Howitt | 1843-1844 (see the Gutenberg header) | have | PG 20156 |
 | `mary-howitt-bremer-the-home-or-life-in-sweden` | Fredrika Bremer | The Home; Or, Life in Sweden | Mary Howitt | 1843-1844 (see the Gutenberg header) | have | PG 20746 |
+| `mary-howitt-bremer-hertha` | Fredrika Bremer | Hertha | Mary Howitt | 1856 | have-raw | IA `hertha00howigoog` |
+| `mary-howitt-bremer-homes-of-the-new-world-1` | Fredrika Bremer | The Homes of the New World: Impressions of America, vol. I | Mary Howitt | 1853 | have-raw | IA `homesofnewworldi01brem` |
+| `mary-howitt-bremer-homes-of-the-new-world-2` | Fredrika Bremer | The Homes of the New World: Impressions of America, vol. II | Mary Howitt | 1853 | have-raw | IA `homesofnewworldi02bremuoft` |
+| `mary-howitt-bremer-life-in-the-old-world-1` | Fredrika Bremer | Life in the Old World; or, Two Years in Switzerland and Italy, vol. I | Mary Howitt | 1860 | have-raw | IA `lifeinoldworldor01bremuoft` |
+| `mary-howitt-bremer-life-in-the-old-world-2` | Fredrika Bremer | Life in the Old World; or, Two Years in Switzerland and Italy, vol. II | Mary Howitt | 1860 | have-raw | IA `lifeinoldworldor02bremuoft` |
+| `mary-howitt-bremer-greece-and-the-greeks-1` | Fredrika Bremer | Greece and the Greeks, vol. I | Mary Howitt | 1863 | have-raw | IA `india.history.resource.77751` |
+| `mary-howitt-bremer-greece-and-the-greeks-2` | Fredrika Bremer | Greece and the Greeks, vol. II | Mary Howitt | 1863 | have-raw | IA `india.history.resource.77752` |
+| `mary-howitt-bremer-travels-in-the-holy-land-1` | Fredrika Bremer | Travels in the Holy Land, vol. I | Mary Howitt | 1862 | have-raw | IA `india.history.resource.75182` |
+| `mary-howitt-bremer-h-family-1` | Fredrika Bremer | The H-- Family; Trälinnan; Axel and Anna, vol. I | Mary Howitt | 1844 | have-raw | IA `hfamilytralinnan01bremiala` |
+| `mary-howitt-bremer-h-family-2` | Fredrika Bremer | The H-- Family; Trälinnan; Axel and Anna, vol. II | Mary Howitt | 1844 | have-raw | IA `hfamilytralinnan02bremiala` |
+| `mary-howitt-bremer-presidents-daughters` | Fredrika Bremer | The President's Daughters; Nina | Mary Howitt | 1843 (new edition, revised, 1852) | have-raw | IA `presidentsdaught00bremuoft` |
+| `mary-howitt-paalzow-citizen-of-prague` | Henriette von Paalzow | The Citizen of Prague (3 vols in one scan) | Mary Howitt | 1846 | have-raw | IA `citizenpraguetr00paalgoog` |
 | — | — | andersen: Andersen's True Story of My Life (7007) and Wonderful Stories for Children (43600) in her translation are already on andersen_shelf.json. | — | — | excluded | — |
 
 ## Lucie, Lady Duff Gordon (Meinhold's Amber Witch; The French in Algiers)
@@ -21534,7 +21546,7 @@ Round 21 (2026-10-10), vetoable. Round 133 added Foma Gordeyev and Samson in Cha
 ## Eleanor Marx Aveling (Madame Bovary, Ibsen, Lissagaray)
 
 Shelf: `pipeline/eleanor-marx-aveling_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eleanor-marx-aveling` · titles `python3 pipeline/split_shelf_titles.py eleanor-marx-aveling`.
-Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 21 (2026-10-10), vetoable. Round 142 (2026-10-23) added Bernstein's Lassalle (1893). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21543,6 +21555,7 @@ Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `eleanor-marx-aveling-ibsen-the-wild-duck` | Henrik Ibsen | The wild duck | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 73631 |
 | `eleanor-marx-aveling-lissagaray-history-of-the-commune-of-1871` | Prosper-Olivier Lissagaray | History of the Commune of 1871 | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 36043 |
 | `eleanor-marx-aveling-plekhanov-anarchism-and-socialism` | Georgi Plekhanov | Anarchism and Socialism | Eleanor Marx Aveling | 1886-1895 (see the Gutenberg header) | have | PG 30506 |
+| `eleanor-marx-aveling-bernstein-ferdinand-lassalle-as-a-social-reformer` | Eduard Bernstein | Ferdinand Lassalle as a Social Reformer | Eleanor Marx Aveling | 1893 | have-raw | IA `ferdinand_lassalle_as_a_social_reformer` |
 
 ## R. Nisbet Bain's fiction (Jókai, Jonas Lie, Gorky)
 
@@ -21781,7 +21794,7 @@ Round 23 (2026-10-10), vetoable. Round 130 added five more Life Stories from arc
 ## Grace Isabel Colbron (Groner's Joe Muller detective stories)
 
 Shelf: `pipeline/colbron_shelf.json` · fetch `python3 pipeline/fetch_shelf.py colbron` · titles `python3 pipeline/split_shelf_titles.py colbron`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 142 (2026-10-23) added Groner's Mene Tekel (1912) and Wolzogen's The Third Sex (1914). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21790,6 +21803,8 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `colbron-groner-the-case-of-the-pocket-diary-found-in-th` | Auguste Groner | The Case of the Pocket Diary Found in the Snow | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1834 |
 | `colbron-groner-the-case-of-the-pool-of-blood-in-the-pas` | Auguste Groner | The Case of the Pool of Blood in the Pastor's Study | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1835 |
 | `colbron-groner-the-case-of-the-registered-letter` | Auguste Groner | The Case of the Registered Letter | Grace Isabel Colbron | 1910 (see the Gutenberg header) | have | PG 1833 |
+| `colbron-groner-mene-tekel` | Auguste Groner | Mene Tekel: a Tale of Strange Happenings | Grace Isabel Colbron | 1912 | have-raw | IA `menetekeltaleofs00gron` |
+| `colbron-wolzogen-the-third-sex` | Ernst von Wolzogen | The Third Sex | Grace Isabel Colbron | 1914 | have-raw | IA `thirdsex00wolziala` |
 
 ## Isaac Goldberg (Baroja, Blasco Ibáñez, Brazilian Tales, Gourmont, Pinski)
 
