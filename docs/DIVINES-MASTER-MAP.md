@@ -9934,6 +9934,26 @@ Slugs `nelson-*`. Built from title pages read for round 40.
 | An address to persons of quality and estate (London : Printed by G. James, for R. S. and sold by Charles Rivington, at the Bible and Crown in St. Paul's Church-yard, 1715) | have-ocr | IA `b30528343` |
 | Other printings of the Companion (1773-1843) and of each other work | alternate | not shelved |
 | Hobart's American adaptation of the Companion for the Protestant Episcopal Church (1804-1851), shelved with Hobart if anywhere; other Robert Nelsons | excluded | |
+
+## Jeremy Collier (round 40, my pick, 2026-10-22)
+
+Slugs `collier-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 1 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi01coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 2 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi02coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 3 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi03coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 4 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi04coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 5 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi05coll` |
+| An ecclesiastical history of Great Britain, chiefly of England, vol. 6 (London: William Straker, 1840) | have-ocr | IA `anecclesiastica06collgoog` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 7 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi07coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 8 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi08coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 9 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi09coll` |
+| Short view of the immorality and profaneness of the English stage: together with the sense of antiquity upon this argument (London, Printed for S. Keble, and R. Sare, 1699) | have-ocr | IA `shortviewofimmor00coll` |
+| Several Discourses Upon Practical Subjects (Printed by W. Bowyer , for the author, 1725) | have-ocr | IA `severaldiscours00collgoog` |
+| Other scans of the 1840-1841 and 1852 History; the Essays upon Several Moral Subjects (1702-1709) | alternate | not shelved |
+| His translation of Marcus Aurelius (on marcus-aurelius on another branch); the Tertullian Apology; works by other Colliers (Arthur Collier has his own shelf) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
