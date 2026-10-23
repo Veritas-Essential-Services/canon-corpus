@@ -2753,6 +2753,10 @@ Shelf: `pipeline/greenidge_shelf.json`. Abel Hendy Jones Greenidge (1865-1906), 
 |---|---|---|---|
 | A History of Rome During the Later Republic and Early Principate |  | `greenidge-history-of-rome-later-republic` | have (PG 9781) |
 | Roman Public Life |  | `greenidge-roman-public-life` | have (PG 65392) |
+| Infamia, its place in Roman public and private law, by A. H. J. Greenidge (Oxford: Clarendon Press; London: Henry Frowde, 1894) |  | `greenidge-infamia-1894` | have-raw (IA `cu31924021131531`) |
+| A Handbook of Greek Constitutional History, by A. H. J. Greenidge (London and New York: Macmillan; no year in the OCR title page, preface dated Oxford, June 1896) |  | `greenidge-greek-constitutional-history-1896` | have-raw (IA `cu31924030430668`) |
+| The Legal Procedure of Cicero's Time, by A. H. J. Greenidge (Oxford: Clarendon Press; London and New York: Henry Frowde; also Stevens and Sons, 1901) |  | `greenidge-legal-procedure-cicero-1901` | have-raw (IA `legalprocedureof00greeuoft`) |
+| Sources for Roman History B.C. 133-70, collected and arranged by A. H. J. Greenidge and A. M. Clay (Oxford: Clarendon Press, 1903); Greek and Latin sources, kept per Adam's 2026-10-23 ruling |  | `greenidge-clay-sources-roman-history-1903` | have-raw (IA `sourcesforromanh00greeuoft`) |
 
 ## W. Warde Fowler (scholarship)
 
