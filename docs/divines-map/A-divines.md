@@ -13335,3 +13335,27 @@ Slugs `adeney-*`. Built from title pages read for round 70.
 | The New Testament story retold for young people (New York, London, The Macmillan Company, 1906) | have-ocr | IA `newtestamentstor00adenrich` |
 | The Greek and Eastern churches (Edinburgh : T. & T. Clark, 1908) | have-ocr | IA `greekandeastern00adenuoft` |
 | Jeremiah in the Pulpit Commentary (many hands); The Bible Story Re-told (1898, with W. H. Bennett's Old Testament part; his New Testament part is shelved as its own volume); journal articles | excluded | |
+
+## G. G. Findlay (round 70, my pick, 2026-10-23)
+
+Slugs `findlay-*`. Built from title pages read for round 70.
+
+| Work | Status | Where |
+|---|---|---|
+| The Epistle to the Galatians, The Expositor's Bible (New York: A. C. Armstrong, 1893) | have-ocr | IA `epistletogalatia48find` |
+| The Epistle to the Ephesians, The Expositor's Bible (New York: A. C. Armstrong, 1892) | have-ocr | IA `epistletoephesia49find` |
+| The Epistles to the Thessalonians; with introduction, notes and map (Cambridge : Univ. Press, 1891) | have-ocr | IA `epistlestothessa00find` |
+| The Epistles of Paul the Apostle to the Thessalonians, Cambridge Greek Testament (Cambridge: University Press, 1904) | have-ocr | IA `epistlespaulapo00findgoog` |
+| The books of the prophets in their historical succession, vol. 1 (London : C. H. Kelly, 1896) | have-ocr | IA `booksofprophetsi01find` |
+| The books of the prophets in their historical succession, vol. 2 (London : C. H. Kelly, 1896) | have-ocr | IA `booksofprophetsi02find` |
+| The books of the prophets in their historical succession, vol. 3 (London : C. H. Kelly, 1896) | have-ocr | IA `booksofprophetsi03find` |
+| The church of Christ as set forth in the New Testament. Being two lectures addressed to Methodists of Leeds (London, C.H. Kelly, 1893) | have-ocr | IA `churchofchristas00find` |
+| Christian doctrine and morals viewed in their connexion (London, C.H. Kelly, 1894) | have-ocr | IA `christiandoctrin00find` |
+| The Epistles of Paul the Apostle : a sketch of their origin and contents (N. Y. : W.B. Ketcham, 1894) | have-ocr | IA `epistlesofpaulap00find` |
+| Wesley's World Parish: a sketch of the hundred years' work of the Wesleyan Methodist Missionary Society (London: Hodder and Stoughton and Charles H. Kelly; undated, written for the society's centenary, catalogued 1913) | have-ocr | IA `wesleysworldpari00find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 1 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya01find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 2 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya02find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 3 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya03find` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 4 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya04finduoft` |
+| The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 5 (London: Epworth Press, 1921) | have-ocr | IA `historyofwesleya05find` |
+| Fellowship in the Life Eternal (1909, on the Epistles of John): only a 1955 reprint and undated scans were found | pending | not shelved |
