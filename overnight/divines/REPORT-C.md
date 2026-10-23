@@ -370,3 +370,5 @@
 - 2026-10-23T01:13-05:00: Round 146: Alice Werner +1, Aline Delano +2, Arthur Symons +3; nine more shelves swept with nothing to add; 0 mismatched, 0 rights flags.
 
 - 2026-10-23T01:17-05:00: Round 147: Barrett H. Clark +6; Bithell's two Canterbury Poets anthologies held (undated); 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:24-05:00: Round 148: Burnham +7 (Celebrated Crimes), Boylan +1, Bucknall +2, Brose +1, Campion +1, C. F. Atkinson +1; 1 pending; 0 mismatched, 0 rights flags.

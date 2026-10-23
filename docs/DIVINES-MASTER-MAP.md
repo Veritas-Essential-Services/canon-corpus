@@ -23115,12 +23115,13 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## R. Dillon Boylan (Werther; Schiller's Don Carlos)
 
 Shelf: `pipeline/boylan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py boylan` · titles `python3 pipeline/split_shelf_titles.py boylan`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 148 (2026-10-23) added Wilhelm Meister's Apprenticeship (Bohn, 1855). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `boylan-goethe-the-sorrows-of-young-werther` | Johann Wolfgang von Goethe | The Sorrows of Young Werther | R. Dillon Boylan | 1847-1854 (see the Gutenberg header) | have | PG 2527 |
 | `boylan-schiller-don-carlos-a-play` | Friedrich Schiller | Don Carlos: A Play | R. Dillon Boylan | 1847-1854 (see the Gutenberg header) | have | PG 6789 |
+| `boylan-goethe-wilhelm-meisters-apprenticeship` | Johann Wolfgang von Goethe | Wilhelm Meister's Apprenticeship | R. Dillon Boylan | 1855 | have-raw | IA `wilhelmmeisters00boylgoog` |
 | — | — | pg-78269: The Princess and the Tiger is a Haldeman-Julius Little Blue Book extract of his Goethe. | — | — | excluded | — |
 
 ## Thomas Holcroft (Beaumarchais's Marriage of Figaro; Trenck's Life, 2 vols)
@@ -23440,13 +23441,14 @@ Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## C. T. Campion (Schweitzer: Primeval Forest; Philosophy of Civilization)
 
 Shelf: `pipeline/campion_shelf.json` · fetch `python3 pipeline/fetch_shelf.py campion` · titles `python3 pipeline/split_shelf_titles.py campion`.
-Round 30 (2026-10-10), vetoable. On the Edge of the Primeval Forest is keyed from a 1937 reprint: flagged. Not converted to unit-id JSON; **no uids minted**.
+Round 30 (2026-10-10), vetoable. On the Edge of the Primeval Forest is keyed from a 1937 reprint: flagged. Round 148 (2026-10-23) added Schweitzer's Memoirs of Childhood and Youth (1925). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `campion-schweitzer-civilization-and-ethics` | Albert Schweitzer | Civilization and ethics | C. T. Campion | 1922-1923 (see the Gutenberg header) | have | PG 76061 |
 | `campion-schweitzer-on-the-edge-of-the-primeval-forest` | Albert Schweitzer | On the edge of the primeval forest | C. T. Campion | 1922-1923 (see the Gutenberg header) | have | PG 50015 |
 | `campion-schweitzer-the-decay-and-the-restoration-of-civiliz` | Albert Schweitzer | The decay and the restoration of civilization | C. T. Campion | 1922-1923 (see the Gutenberg header) | have | PG 75958 |
+| `campion-schweitzer-memoirs-of-childhood-and-youth` | Albert Schweitzer | Memoirs of Childhood and Youth | C. T. Campion | 1924 | have-raw | IA `memoirsofchildho0000albe_l5w0` |
 
 ## Israel Friedlaender (Dubnow's History of the Jews in Russia and Poland, 3 vols)
 
@@ -23625,12 +23627,14 @@ Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Charles Francis Atkinson (Spengler's The Decline of the West, 2 vols)
 
 Shelf: `pipeline/cf-atkinson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cf-atkinson` · titles `python3 pipeline/split_shelf_titles.py cf-atkinson`.
-Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 31 (2026-10-10), vetoable. Round 148 (2026-10-23) added Goltz's Jena to Eylau (1913); Friedell (1930) is held. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `cf-atkinson-spengler-the-decline-of-the-west-vol-1` | Oswald Spengler | The decline of the West, Volume 1 | Charles Francis Atkinson | 1926-1928 (see the Gutenberg header) | have | PG 72344 |
 | `cf-atkinson-spengler-the-decline-of-the-west-vol-2` | Oswald Spengler | The decline of the West, Volume 2 | Charles Francis Atkinson | 1926-1928 (see the Gutenberg header) | have | PG 78914 |
+| `cf-atkinson-goltz-jena-to-eylau` | Colmar von der Goltz | Jena to Eylau: the Disgrace and the Redemption of the Old-Prussian Army | Charles Francis Atkinson | 1913 | have-raw | IA `jenatoeylandisg00goltgoog` |
+| `cf-atkinson-friedell-cultural-history` | Egon Friedell | A Cultural History of the Modern Age, vol. I (Knopf, 1930; in.ernet.dli.2015.218819). A 1930 book, held under the lane's 1930 rule. Found 2026-10-23 (round 148). | Charles Francis Atkinson | 1930 | pending | — |
 
 ## H. Bencraft Joly (Dream of the Red Chamber, 2 books)
 
@@ -24047,12 +24051,14 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Benjamin Bucknall (Viollet-le-Duc)
 
 Shelf: `pipeline/bucknall_shelf.json` · fetch `python3 pipeline/fetch_shelf.py bucknall` · titles `python3 pipeline/split_shelf_titles.py bucknall`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 148 (2026-10-23) added Viollet-le-Duc's Lectures on Architecture vol. I and Mont Blanc (1877). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `bucknall-viollet-le-duc-annals-of-a-fortress` | Eugène-Emmanuel Viollet-le-Duc | Annals of a Fortress | Benjamin Bucknall | 1874-1875 (see the Gutenberg header) | have | PG 41426 |
 | `bucknall-viollet-le-duc-how-to-build-a-house` | Eugène-Emmanuel Viollet-le-Duc | How to build a house | Benjamin Bucknall | 1874-1875 (see the Gutenberg header) | have | PG 71669 |
+| `bucknall-viollet-le-duc-lectures-on-architecture-1` | Eugène Viollet-le-Duc | Lectures on Architecture, vol. I | Benjamin Bucknall | 1877 | have-raw | IA `lecturesonarchi01violgoog` |
+| `bucknall-viollet-le-duc-mont-blanc` | Eugène Viollet-le-Duc | Mont Blanc: a Treatise on Its Geodesical and Geological Constitution | Benjamin Bucknall | 1877 | have-raw | IA `montblancatreat00violgoog` |
 
 ## Laura E. Kendall (Verne, Ernest Daudet, Gaboriau)
 
@@ -24362,12 +24368,19 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## I. G. Burnham (Gautier's Mademoiselle de Maupin, 2 vols)
 
 Shelf: `pipeline/burnham-maupin_shelf.json` · fetch `python3 pipeline/fetch_shelf.py burnham-maupin` · titles `python3 pipeline/split_shelf_titles.py burnham-maupin`.
-Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Round 148 (2026-10-23) added Dumas's Celebrated Crimes (1895), seven of eight volumes. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `burnham-maupin-gautier-mademoiselle-de-maupin-volume-1-of-2` | Théophile Gautier | Mademoiselle de Maupin, Volume 1 (of 2) | I. G. Burnham | 1897-1900 (see the Gutenberg header) | have | PG 48893 |
 | `burnham-maupin-gautier-mademoiselle-de-maupin-volume-2-of-2` | Théophile Gautier | Mademoiselle de Maupin, Volume 2 (of 2) | I. G. Burnham | 1897-1900 (see the Gutenberg header) | have | PG 48894 |
+| `burnham-maupin-dumas-celebrated-crimes-1` | Alexandre Dumas | Celebrated Crimes, vol. I | I. G. Burnham | 1895 | have-raw | IA `celebratedcrimes01dumauoft` |
+| `burnham-maupin-dumas-celebrated-crimes-2` | Alexandre Dumas | Celebrated Crimes, vol. II | I. G. Burnham | 1895 | have-raw | IA `celebratedcrimes02duma_0` |
+| `burnham-maupin-dumas-celebrated-crimes-3` | Alexandre Dumas | Celebrated Crimes, vol. III | I. G. Burnham | 1895 | have-raw | IA `celebratedcrimes03dumauoft` |
+| `burnham-maupin-dumas-celebrated-crimes-5` | Alexandre Dumas | Celebrated Crimes, vol. V | I. G. Burnham | 1895 | have-raw | IA `celebratedcrimes05dumauoft` |
+| `burnham-maupin-dumas-celebrated-crimes-6` | Alexandre Dumas | Celebrated Crimes, vol. VI | I. G. Burnham | 1895 | have-raw | IA `celebratedcrimes00dumauoft` |
+| `burnham-maupin-dumas-celebrated-crimes-7` | Alexandre Dumas | Celebrated Crimes, vol. VII | I. G. Burnham | 1895 | have-raw | IA `celebratedcrimes07dumauoft` |
+| `burnham-maupin-dumas-celebrated-crimes-8` | Alexandre Dumas | Celebrated Crimes, vol. VIII | I. G. Burnham | 1895 | have-raw | IA `celebratedcrimes08dumauoft` |
 
 ## Henry F. Brownson (Balmes's Fundamental Philosophy, 2 vols)
 
@@ -24883,11 +24896,12 @@ Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Henry L. Brose: relativity from the German (Moszkowski; Weyl and Freundlich pending)
 
 Shelf: `pipeline/brose_shelf.json` · fetch `python3 pipeline/fetch_shelf.py brose` · titles `python3 pipeline/split_shelf_titles.py brose`.
-Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 37 (2026-10-10), vetoable. Round 148 (2026-10-23) added Schlick (1920). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `brose-moszkowski-einstein-the-searcher` | Alexander Moszkowski | Einstein, the searcher | Henry L. Brose | 1920-1922 (see the Gutenberg header) | have | PG 70678 |
+| `brose-schlick-space-and-time-in-contemporary-physics` | Moritz Schlick | Space and Time in Contemporary Physics | Henry L. Brose | 1920 | have-raw | IA `spacetimeinconte00schluoft` |
 | `pg-43006` | — | Weyl's Space-Time-Matter: Gutenberg publishes this physics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
 | `pg-70793` | — | Freundlich's The Foundations of Einstein's Theory of Gravitation: Gutenberg has only an HTML edition, no plain-text file. Left for a later pass that finds a period scan on the Internet Archive. | — | — | pending | — |
 
