@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Joseph Vaill (1790-1869), Congregational minister at Brimfield, Massachusetts, for the Word Hoard: An Historical Sermon at Brimfield, a Memorial Sermon of 1864, and a funeral sermon for Alfred Ely. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 127 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joseph vaill",
+  "j. vaill",
+  "vaill"
+ ],
+ "_surname": [
+  "vaill"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "vaill-historical-sermon": [
+   "historicalsermon00vail",
+   "An historical sermon delivered at Brimfield, January 7, 1821, on the occasion of a new year by Joseph Vaill, pastor of the church in Brimfield; Mr. Vaill's New-Year's sermon (Springfield [Mass.] : A. G. Tannatt, Printer, 1829)"
+  ],
+  "vaill-memorial-1864": [
+   "memorialsermonin00vail",
+   "A Memorial Sermon, in Two Parts, Preached At Brimfield, February 7th, 1864, by Rev. Joseph Vaill, D.D., Commemorative of his Settlement in that place, fifty years ago, and affectionately Dedicated to his former Charge. - Springfield; Samuel Bowles & Company, Printers, 1864 (catalogued 1864)"
+  ],
+  "vaill-alfred-ely": [
+   "sermondelivereda00vail",
+   "A sermon delivered at the funeral of Rev. Alfred Ely, D. D., late senior pastor of the Congregational Church in Monson, Mass., July 9th, 1866 by Rev. Joseph Vaill, D. D., pastor of the Second Congregational Church in Palmer, Mass (Northampton, Mass. : Bridgman & Childs, Publishers, 1866)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "vaill-litchfield": "the Litchfield County Choral Union history is by another Vaill",
+  "vaill-son-of-god": "sonofgodmanifest00vail (1814) is the ordination sermon for him preached by his father, Joseph Vaill of East Haddam",
+  "vaill-memoir-father": "memoiroflifechar00vail (1839), the memoir of his father, is by Isaac Parsons"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "vaill-historical-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaill-memorial-1864": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "vaill-alfred-ely": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vaill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

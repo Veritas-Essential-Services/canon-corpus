@@ -18719,6 +18719,19 @@ Slugs `clowes-*`. Built from title pages read for round 127.
 | The gospel according to Matthew, translated from the original Greek, and illustrated by extracts from the theological writings of that eminent servant of the Lord the hon. Emanuel Swedenborg, together with notes and observations of the translator, annexed to each chapter (London : F. Pitman, 1868) | have-ocr | IA `gospelaccordingt00clow` |
 | his translation of Swedenborg's Heaven and Hell belongs to the Swedenborg shelf | excluded | |
 | MN41948ucmf_4, a partial scan | excluded | |
+
+## Joseph Vaill (round 127, my pick, 2026-10-23)
+
+Slugs `vaill-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| An historical sermon delivered at Brimfield, January 7, 1821, on the occasion of a new year by Joseph Vaill, pastor of the church in Brimfield; Mr. Vaill's New-Year's sermon (Springfield [Mass.] : A. G. Tannatt, Printer, 1829) | have-ocr | IA `historicalsermon00vail` |
+| A Memorial Sermon, in Two Parts, Preached At Brimfield, February 7th, 1864, by Rev. Joseph Vaill, D.D., Commemorative of his Settlement in that place, fifty years ago, and affectionately Dedicated to his former Charge. - Springfield; Samuel Bowles & Company, Printers, 1864 (catalogued 1864) | have-ocr | IA `memorialsermonin00vail` |
+| A sermon delivered at the funeral of Rev. Alfred Ely, D. D., late senior pastor of the Congregational Church in Monson, Mass., July 9th, 1866 by Rev. Joseph Vaill, D. D., pastor of the Second Congregational Church in Palmer, Mass (Northampton, Mass. : Bridgman & Childs, Publishers, 1866) | have-ocr | IA `sermondelivereda00vail` |
+| the Litchfield County Choral Union history is by another Vaill | excluded | |
+| sonofgodmanifest00vail (1814) is the ordination sermon for him preached by his father, Joseph Vaill of East Haddam | excluded | |
+| memoiroflifechar00vail (1839), the memoir of his father, is by Isaac Parsons | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
