@@ -10122,3 +10122,12 @@ Shelf: `pipeline/martin-p-nilsson_shelf.json`. Time-reckoning (1920) and Minoan-
 | Primitive Time-Reckoning (1920), tr. F. J. Fielden |  | `nilsson-primitive-time-reckoning-1920` | have-raw (IA `primitivetimerec00nilsrich`) |
 | The Minoan-Mycenaean Religion and its Survival in Greek Religion (1927) |  | `nilsson-minoan-mycenaean-religion-1927` | have-raw (IA `minoanmycenaeanr0000nils`) |
 
+
+## J. N. Madvig (1804-1886)
+
+Shelf: `pipeline/j-n-madvig_shelf.json`. Syntax of the Greek Language, tr. Browne (1853). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Syntax of the Greek Language, especially of the Attic Dialect (1853), tr. Henry Browne |  | `madvig-greek-syntax-1853` | have-raw (IA `cu31924021604024`) |
+
