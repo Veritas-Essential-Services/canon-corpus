@@ -1,5 +1,5 @@
 {
- "_about": "William Emerton Heitland (1847-1935), St John's College, Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Agricola: a study of agriculture and rustic life in the Greco-Roman world, clean Gutenberg. Round du (2026-10-23), raw IA: The Roman Republic (3 vols, Cambridge, 1909) and A Short History of the Roman Republic (1911). No uids minted.",
+ "_about": "William Emerton Heitland (1847-1935), St John's College, Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Agricola: a study of agriculture and rustic life in the Greco-Roman world, clean Gutenberg. Round du (2026-10-23), raw IA: The Roman Republic (3 vols, Cambridge, 1909) and A Short History of the Roman Republic (1911). No uids minted. Round eb adds The Roman Fate (1922).",
  "_name_words": [
   "heitland"
  ],
@@ -33,6 +33,10 @@
   "heitland-short-history-roman-republic-1911": [
    "shorthistoryofro1911heit",
    "A Short History of the Roman Republic (Cambridge: University Press, 1911)"
+  ],
+  "heitland-roman-fate-1922": [
+   "romanfateessayin00heituoft",
+   "The Roman Fate: an essay in interpretation, by W. E. Heitland (Cambridge: at the University Press, 1922)"
   ]
  },
  "_checks": {
@@ -88,6 +92,22 @@
    "ia_date": "1911",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "heitland-roman-fate-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "heitland-roman-fate-1922": {
+   "author": "W E HEITLAND MA"
   }
  }
 }
