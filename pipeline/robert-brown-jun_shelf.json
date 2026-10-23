@@ -1,0 +1,33 @@
+{
+ "_about": "Robert Brown, Jun. (1844-1912), mythologist of the Euphrates school, raw IA OCR of Semitic Influence in Hellenic Mythology (1898).  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Robert Brown, Jun.",
+ "_name_words": [
+  "brown"
+ ],
+ "_surname": [
+  "robert brown, jun",
+  "robert brown"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "robert-brown-jun-semitic-influence-hellenic-mythology-1898": [
+   "semiticinfluence00brow",
+   "Semitic Influence in Hellenic Mythology, with special reference to the recent mythological works of F. Max Muller and Andrew Lang, by Robert Brown, Jun. (London: Williams and Norgate, 1898)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "robert-brown-jun-semitic-influence-hellenic-mythology-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert brown, jun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
