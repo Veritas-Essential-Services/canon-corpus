@@ -1,0 +1,174 @@
+{
+ "_about": "Maria Thompson Daviess's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Maria Thompson Daviess",
+ "_name_words": [
+  "daviess"
+ ],
+ "_surname": [
+  "daviess"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mtdaviess-road-to-providence": [
+   3745,
+   "The Road to Providence"
+  ],
+  "mtdaviess-daredevil": [
+   12931,
+   "The Daredevil"
+  ],
+  "mtdaviess-andrew-the-glad": [
+   13679,
+   "Andrew the Glad"
+  ],
+  "mtdaviess-tinder-box": [
+   14863,
+   "The Tinder-Box"
+  ],
+  "mtdaviess-phyllis": [
+   15093,
+   "Phyllis"
+  ],
+  "mtdaviess-rose-of-old-harpeth": [
+   15195,
+   "Rose of Old Harpeth"
+  ],
+  "mtdaviess-over-paradise-ridge-a-romance": [
+   15243,
+   "Over Paradise Ridge A Romance"
+  ],
+  "mtdaviess-melting-of-molly": [
+   15817,
+   "The Melting of Molly"
+  ],
+  "mtdaviess-melting-of-molly-a-volume-of-a-set-gutenberg-lists": [
+   15818,
+   "The Melting of Molly (a volume of a set Gutenberg lists under one title)"
+  ],
+  "mtdaviess-golden-bird": [
+   16963,
+   "The Golden Bird"
+  ],
+  "mtdaviess-hearts-kingdom": [
+   18756,
+   "The Heart's Kingdom"
+  ],
+  "mtdaviess-blue-grass-and-broadway": [
+   29391,
+   "Blue-grass and Broadway"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mtdaviess-road-to-providence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-daredevil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-andrew-the-glad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-tinder-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-phyllis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-rose-of-old-harpeth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-over-paradise-ridge-a-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-melting-of-molly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-melting-of-molly-a-volume-of-a-set-gutenberg-lists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-golden-bird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-hearts-kingdom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mtdaviess-blue-grass-and-broadway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daviess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

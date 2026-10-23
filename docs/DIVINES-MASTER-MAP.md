@@ -40371,3 +40371,22 @@ Shelf: `pipeline/arthur-w-marchmont_shelf.json` (2026-10-22; added at the coordi
 | In the Cause of Freedom | have | PG 67751, `awmarchmont-in-the-cause-of-freedom` (2866 units) |
 | The Queen's Advocate | have | PG 67789, `awmarchmont-queens-advocate` (4273 units) |
 | In the Name of the People | have | PG 67801, `awmarchmont-in-the-name-of-the-people` (3382 units) |
+
+## Maria Thompson Daviess
+
+Shelf: `pipeline/maria-thompson-daviess_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Road to Providence | have | PG 3745, `mtdaviess-road-to-providence` (755 units) |
+| The Daredevil | have | PG 12931, `mtdaviess-daredevil` (1007 units) |
+| Andrew the Glad | have | PG 13679, `mtdaviess-andrew-the-glad` (933 units) |
+| The Tinder-Box | have | PG 14863, `mtdaviess-tinder-box` (918 units) |
+| Phyllis | have | PG 15093, `mtdaviess-phyllis` (687 units) |
+| Rose of Old Harpeth | have | PG 15195, `mtdaviess-rose-of-old-harpeth` (642 units) |
+| Over Paradise Ridge A Romance | have | PG 15243, `mtdaviess-over-paradise-ridge-a-romance` (628 units) |
+| The Melting of Molly | have | PG 15817, `mtdaviess-melting-of-molly` (412 units) |
+| The Melting of Molly (a volume of a set Gutenberg lists under one title) | have | PG 15818, `mtdaviess-melting-of-molly-a-volume-of-a-set-gutenberg-lists` (403 units) |
+| The Golden Bird | have | PG 16963, `mtdaviess-golden-bird` (735 units) |
+| The Heart's Kingdom | have | PG 18756, `mtdaviess-hearts-kingdom` (1166 units) |
+| Blue-grass and Broadway | have | PG 29391, `mtdaviess-blue-grass-and-broadway` (1363 units) |
