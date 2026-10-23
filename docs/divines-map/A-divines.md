@@ -10479,3 +10479,16 @@ Slugs `isaac-*`. Built from title pages read for round 43.
 | Sermons, vol. 2 (T. Cadell, 1820) | have-ocr | IA `sermons00milngoog` |
 | Essay on Human Liberty (1824), authorship to confirm; Animadversions on Dr Haweis's History (1800) | alternate | not shelved |
 | A Plan of a Course of Chemical Lectures (1784, 1788) | excluded | |
+
+## Thomas Haweis (round 43, my pick, 2026-10-22)
+
+Slugs `haweis-*`. Built from title pages read for round 43.
+
+| Work | Status | Where |
+|---|---|---|
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 1 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_1` |
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 2 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_2` |
+| An impartial and succinct history of the rise, declension, and revival of the Church of Christ; from the birth of our saviour to the present time. By the Rev. T. Haweis, In three volumes. vol. 3 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_an-impartial-and-succinc_haweis-thomas_1800_3` |
+| Evangelical principles and practice: being fourteen sermons, preached in the parish-church of St. Mary Magdalen in Oxford. To which is added, The communicant's spiritual companion; or, An evangelical preparation for the Lord's Supper ... With meditations and helps for prayer, suitable to the subject (Newburyport, Printed by Edmund M. Blunt, 1803) | have-ocr | IA `evangelicalprinc00hawe` |
+| The life of William Romaine, M.A (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_the-life-of-william-roma_haweis-thomas_1797` |
+| The Google copies of the History (1800, 1807); Essays on the Evidence (1790, 1791) | alternate | not shelved |
