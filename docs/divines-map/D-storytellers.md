@@ -20247,3 +20247,40 @@ Shelf: `pipeline/storytellers-tail-21_shelf.json` (2026-10-22; added at the coor
 | The Goddess of Atvatabar Being the history of the discovery of the interior world and conquest of Atvatabar | have | PG 32825, `wrbradshaw-goddess-of-atvatabar-being-the-history-of-the-dis` (1838 units) |
 | Roster and Statistical Record of Company D, of the Eleventh Regiment Maine Infantry Volunteers With a Sketch of Its Services in the War of the Rebellion | have | PG 45503, `rbrady-roster-and-statistical-record-of-company-d-of-the-ele` (333 units) |
 | The Cruise of the Catalpa: A Poem | have | PG 61372, `jbreslin-cruise-of-the-catalpa` (62 units) |
+
+## Storytellers' tail, group 22 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-22_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: E. C. Bridgman, Sybil G. Brinton, Henry Britton, Sumner Charles Britton, Frances Freeling Broderip, Eva Wilder Brodhead, Charles Hamilton Bromby, Virginia Brooks, Robert B. Brough, William Brough, Arthur Brown, George Douglas Brown, Katharine Holland Brown, Martin Brown, Ritter Brown, Frederick W. Browne, Martha Griffith Browne, Ezra S. Brudno, Dan B. Brummitt, Lorinda Munson Bryant, Thompson Buchanan, Maria Elizabeth Budden, Charles Weathers Bump, Selina Bunbury, Oliver Bell Bunce, Ned Buntline, F. C. Burnand, E. F. Burr, Henry S. Burrage, David James Burrell. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters to Children | have | PG 54055, `ecbridgman-letters-to-children` (270 units) |
+| Old friends and new fancies | have | PG 43741, `sgbrinton-old-friends-and-new-fancies` (1330 units) |
+| Lolóma, or two years in cannibal-land: A story of old Fiji | have | PG 61740, `hbritton-loloma-or-two-years-in-cannibal-land` (663 units) |
+| Dreamy Hollow | have | PG 47010, `scbritton-dreamy-hollow` (1380 units) |
+| Tales of the Toys, Told by Themselves | have | PG 33368, `ffbroderip-tales-of-the-toys-told-by-themselves` (479 units) |
+| A Prairie Infanta | have | PG 30224, `ewbrodhead-prairie-infanta` (390 units) |
+| Alkibiades, a tale of the Great Athenian War | have | PG 67593, `chbromby-alkibiades-a-tale-of-the-great-athenian-war` (1127 units) |
+| Little Lost Sister | have | PG 25772, `vbrooks-little-lost-sister` (2314 units) |
+| The Life of Sir John Falstaff | have | PG 44900, `rbbrough-life-of-sir-john-falstaff` (1354 units) |
+| The corsair; or, the little fairy at the bottom of the sea | have | PG 76960, `wbrough-corsair` (669 units) |
+| The French Prisoners of Norman Cross: A Tale | have | PG 23836, `abrown-french-prisoners-of-norman-cross` (589 units) |
+| The House with the Green Shutters | have | PG 25876, `gdbrown-house-with-the-green-shutters` (1657 units) |
+| The Hallowell Partnership | have | PG 41052, `khbrown-hallowell-partnership` (1094 units) |
+| Cobra | have | PG 72297, `mbrown-cobra` (1175 units) |
+| When dreams come true | have | PG 28593, `rbrown-when-dreams-come-true` (1556 units) |
+| My Service in the U.S. Colored Cavalry A Paper Read before the Ohio Commandery of the Loyal Legion, March 4, 1908 | have | PG 31972, `fwbrowne-my-service-in-the-u-s-colored-cavalry-a-paper-read` (15 units) |
+| Autobiography of a Female Slave | have | PG 55813, `mgbrowne-autobiography-of-a-female-slave` (2967 units) |
+| The Sublime Jester | have | PG 65313, `esbrudno-sublime-jester` (1836 units) |
+| John Wesley, Jr. The Story of an Experiment | have | PG 10134, `dbbrummitt-john-wesley-jr-the-story-of-an-experiment` (1129 units) |
+| The Children's Book of Celebrated Pictures | have | PG 26703, `lmbryant-children-s-book-of-celebrated-pictures` (424 units) |
+| Making People Happy | have | PG 27888, `tbuchanan-making-people-happy` (1282 units) |
+| Chit-chat, or Short Tales in Short Words | have | PG 67271, `mebudden-chit-chat-or-short-tales-in-short-words` (277 units) |
+| The Mermaid of Druid Lake, and Other Stories | have | PG 31082, `cwbump-mermaid-of-druid-lake-and-other-stories` (1044 units) |
+| Fanny, the Flower-Girl; or, Honesty Rewarded. To Which are Added Other Tales | have | PG 6757, `sbunbury-fanny-the-flower-girl` (673 units) |
+| Representative Plays by American Dramatists: 1856-1911: Love in '76 An Incident of the Revolution | have | PG 15519, `obbunce-representative-plays-by-american-dramatists` (587 units) |
+| Wild Bill's Last Trail | have | PG 21113, `nbuntline-wild-bill-s-last-trail` (779 units) |
+| Happy-Thought Hall | have | PG 26281, `fcburnand-happy-thought-hall` (1559 units) |
+| Aleph, the Chaldean; or, the Messiah as Seen from Alexandria | have | PG 61041, `efburr-aleph-the-chaldean` (1671 units) |
+| History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865 | have | PG 50422, `hsburrage-history-of-the-thirty-sixth-regiment-massachusetts` (1680 units) |
+| The Centurion's Story | have | PG 29566, `djburrell-centurion-s-story` (38 units) |

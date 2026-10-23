@@ -1,0 +1,526 @@
+{
+ "_about": "Storytellers' tail, group 22: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): E. C. Bridgman, Sybil G. Brinton, Henry Britton, Sumner Charles Britton, Frances Freeling Broderip, Eva Wilder Brodhead, Charles Hamilton Bromby, Virginia Brooks, Robert B. Brough, William Brough, Arthur Brown, George Douglas Brown, Katharine Holland Brown, Martin Brown, Ritter Brown, Frederick W. Browne, Martha Griffith Browne, Ezra S. Brudno, Dan B. Brummitt, Lorinda Munson Bryant, Thompson Buchanan, Maria Elizabeth Budden, Charles Weathers Bump, Selina Bunbury, Oliver Bell Bunce, Ned Buntline, F. C. Burnand, E. F. Burr, Henry S. Burrage, David James Burrell. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 22 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "ecbridgman-letters-to-children": [
+   "e. c. bridgman",
+   "elijah coleman bridgman",
+   "bridgman"
+  ],
+  "sgbrinton-old-friends-and-new-fancies": [
+   "sybil g. brinton",
+   "sybil grace brinton",
+   "brinton"
+  ],
+  "hbritton-loloma-or-two-years-in-cannibal-land": [
+   "henry britton",
+   "britton"
+  ],
+  "scbritton-dreamy-hollow": [
+   "sumner charles britton",
+   "britton"
+  ],
+  "ffbroderip-tales-of-the-toys-told-by-themselves": [
+   "frances freeling broderip",
+   "broderip"
+  ],
+  "ewbrodhead-prairie-infanta": [
+   "eva wilder brodhead",
+   "brodhead"
+  ],
+  "chbromby-alkibiades-a-tale-of-the-great-athenian-war": [
+   "charles hamilton bromby",
+   "bromby"
+  ],
+  "vbrooks-little-lost-sister": [
+   "virginia brooks",
+   "brooks"
+  ],
+  "rbbrough-life-of-sir-john-falstaff": [
+   "robert b. brough",
+   "robert barnabas brough",
+   "brough"
+  ],
+  "wbrough-corsair": [
+   "william brough",
+   "brough"
+  ],
+  "abrown-french-prisoners-of-norman-cross": [
+   "arthur brown"
+  ],
+  "gdbrown-house-with-the-green-shutters": [
+   "george douglas brown"
+  ],
+  "khbrown-hallowell-partnership": [
+   "katharine holland brown"
+  ],
+  "mbrown-cobra": [
+   "martin brown"
+  ],
+  "rbrown-when-dreams-come-true": [
+   "ritter brown"
+  ],
+  "fwbrowne-my-service-in-the-u-s-colored-cavalry-a-paper-read": [
+   "frederick w. browne",
+   "browne"
+  ],
+  "mgbrowne-autobiography-of-a-female-slave": [
+   "martha griffith browne",
+   "browne"
+  ],
+  "esbrudno-sublime-jester": [
+   "ezra s. brudno",
+   "brudno"
+  ],
+  "dbbrummitt-john-wesley-jr-the-story-of-an-experiment": [
+   "dan b. brummitt",
+   "dan brearley brummitt",
+   "brummitt"
+  ],
+  "lmbryant-children-s-book-of-celebrated-pictures": [
+   "lorinda munson bryant",
+   "bryant"
+  ],
+  "tbuchanan-making-people-happy": [
+   "thompson buchanan",
+   "buchanan"
+  ],
+  "mebudden-chit-chat-or-short-tales-in-short-words": [
+   "maria elizabeth budden",
+   "budden"
+  ],
+  "cwbump-mermaid-of-druid-lake-and-other-stories": [
+   "charles weathers bump"
+  ],
+  "sbunbury-fanny-the-flower-girl": [
+   "selina bunbury",
+   "bunbury"
+  ],
+  "obbunce-representative-plays-by-american-dramatists": [
+   "oliver bell bunce",
+   "bunce"
+  ],
+  "nbuntline-wild-bill-s-last-trail": [
+   "ned buntline",
+   "buntline"
+  ],
+  "fcburnand-happy-thought-hall": [
+   "f. c. burnand",
+   "francis cowley burnand",
+   "burnand"
+  ],
+  "efburr-aleph-the-chaldean": [
+   "e. f. burr",
+   "enoch fitch burr"
+  ],
+  "hsburrage-history-of-the-thirty-sixth-regiment-massachusetts": [
+   "henry s. burrage",
+   "henry sweetser burrage",
+   "burrage"
+  ],
+  "djburrell-centurion-s-story": [
+   "david james burrell",
+   "burrell"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "ecbridgman-letters-to-children": [
+   54055,
+   "Letters to Children"
+  ],
+  "sgbrinton-old-friends-and-new-fancies": [
+   43741,
+   "Old friends and new fancies"
+  ],
+  "hbritton-loloma-or-two-years-in-cannibal-land": [
+   61740,
+   "Lolóma, or two years in cannibal-land: A story of old Fiji"
+  ],
+  "scbritton-dreamy-hollow": [
+   47010,
+   "Dreamy Hollow"
+  ],
+  "ffbroderip-tales-of-the-toys-told-by-themselves": [
+   33368,
+   "Tales of the Toys, Told by Themselves"
+  ],
+  "ewbrodhead-prairie-infanta": [
+   30224,
+   "A Prairie Infanta"
+  ],
+  "chbromby-alkibiades-a-tale-of-the-great-athenian-war": [
+   67593,
+   "Alkibiades, a tale of the Great Athenian War"
+  ],
+  "vbrooks-little-lost-sister": [
+   25772,
+   "Little Lost Sister"
+  ],
+  "rbbrough-life-of-sir-john-falstaff": [
+   44900,
+   "The Life of Sir John Falstaff"
+  ],
+  "wbrough-corsair": [
+   76960,
+   "The corsair; or, the little fairy at the bottom of the sea"
+  ],
+  "abrown-french-prisoners-of-norman-cross": [
+   23836,
+   "The French Prisoners of Norman Cross: A Tale"
+  ],
+  "gdbrown-house-with-the-green-shutters": [
+   25876,
+   "The House with the Green Shutters"
+  ],
+  "khbrown-hallowell-partnership": [
+   41052,
+   "The Hallowell Partnership"
+  ],
+  "mbrown-cobra": [
+   72297,
+   "Cobra"
+  ],
+  "rbrown-when-dreams-come-true": [
+   28593,
+   "When dreams come true"
+  ],
+  "fwbrowne-my-service-in-the-u-s-colored-cavalry-a-paper-read": [
+   31972,
+   "My Service in the U.S. Colored Cavalry A Paper Read before the Ohio Commandery of the Loyal Legion, March 4, 1908"
+  ],
+  "mgbrowne-autobiography-of-a-female-slave": [
+   55813,
+   "Autobiography of a Female Slave"
+  ],
+  "esbrudno-sublime-jester": [
+   65313,
+   "The Sublime Jester"
+  ],
+  "dbbrummitt-john-wesley-jr-the-story-of-an-experiment": [
+   10134,
+   "John Wesley, Jr. The Story of an Experiment"
+  ],
+  "lmbryant-children-s-book-of-celebrated-pictures": [
+   26703,
+   "The Children's Book of Celebrated Pictures"
+  ],
+  "tbuchanan-making-people-happy": [
+   27888,
+   "Making People Happy"
+  ],
+  "mebudden-chit-chat-or-short-tales-in-short-words": [
+   67271,
+   "Chit-chat, or Short Tales in Short Words"
+  ],
+  "cwbump-mermaid-of-druid-lake-and-other-stories": [
+   31082,
+   "The Mermaid of Druid Lake, and Other Stories"
+  ],
+  "sbunbury-fanny-the-flower-girl": [
+   6757,
+   "Fanny, the Flower-Girl; or, Honesty Rewarded. To Which are Added Other Tales"
+  ],
+  "obbunce-representative-plays-by-american-dramatists": [
+   15519,
+   "Representative Plays by American Dramatists: 1856-1911: Love in '76 An Incident of the Revolution"
+  ],
+  "nbuntline-wild-bill-s-last-trail": [
+   21113,
+   "Wild Bill's Last Trail"
+  ],
+  "fcburnand-happy-thought-hall": [
+   26281,
+   "Happy-Thought Hall"
+  ],
+  "efburr-aleph-the-chaldean": [
+   61041,
+   "Aleph, the Chaldean; or, the Messiah as Seen from Alexandria"
+  ],
+  "hsburrage-history-of-the-thirty-sixth-regiment-massachusetts": [
+   50422,
+   "History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865"
+  ],
+  "djburrell-centurion-s-story": [
+   29566,
+   "The Centurion's Story"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ecbridgman-letters-to-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. c. bridgman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sgbrinton-old-friends-and-new-fancies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sybil g. brinton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbritton-loloma-or-two-years-in-cannibal-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry britton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scbritton-dreamy-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sumner charles britton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ffbroderip-tales-of-the-toys-told-by-themselves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances freeling broderip",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewbrodhead-prairie-infanta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eva wilder brodhead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chbromby-alkibiades-a-tale-of-the-great-athenian-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles hamilton bromby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vbrooks-little-lost-sister": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virginia brooks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbbrough-life-of-sir-john-falstaff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert b. brough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wbrough-corsair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william brough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrown-french-prisoners-of-norman-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gdbrown-house-with-the-green-shutters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george douglas brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "khbrown-hallowell-partnership": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine holland brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbrown-cobra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martin brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbrown-when-dreams-come-true": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ritter brown",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwbrowne-my-service-in-the-u-s-colored-cavalry-a-paper-read": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick w. browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mgbrowne-autobiography-of-a-female-slave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha griffith browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esbrudno-sublime-jester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ezra s. brudno",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dbbrummitt-john-wesley-jr-the-story-of-an-experiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dan b. brummitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmbryant-children-s-book-of-celebrated-pictures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lorinda munson bryant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbuchanan-making-people-happy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thompson buchanan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mebudden-chit-chat-or-short-tales-in-short-words": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maria elizabeth budden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwbump-mermaid-of-druid-lake-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles weathers bump",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sbunbury-fanny-the-flower-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selina bunbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "obbunce-representative-plays-by-american-dramatists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oliver bell bunce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nbuntline-wild-bill-s-last-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ned buntline",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fcburnand-happy-thought-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. c. burnand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efburr-aleph-the-chaldean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. f. burr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsburrage-history-of-the-thirty-sixth-regiment-massachusetts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry s. burrage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "djburrell-centurion-s-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david james burrell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
