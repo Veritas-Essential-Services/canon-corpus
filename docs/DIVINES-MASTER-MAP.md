@@ -46046,3 +46046,64 @@ Shelf: `pipeline/storytellers-tail-14_shelf.json` (2026-10-22; added at the coor
 | The S.S. Glory | have | PG 59343, `fniven-s-s-glory` (900 units) |
 | The Airlords of Han | have | PG 25438, `pfnowlan-airlords-of-han` (566 units) |
 | Armageddon—2419 A.D. | have | PG 32530, `pfnowlan-armageddon2419-a-d` (532 units) |
+
+## Storytellers' tail, group 15 (27 authors)
+
+Shelf: `pipeline/storytellers-tail-15_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 27 authors with 2 Gutenberg texts each: Fitz James O'Brien, Standish O'Grady, William Hamilton Osborne, Francis Edward Paget, John Palmer, G. Sidney Paternoster, Ethel C. Pedley, Alice Perrin, Nora Perry, Maxwell Philip, Marjorie L. C. Pickthall, Percival Pollard, Ambrose Pratt, Ella Farman Pratt, Alfred Pretor, Sarah J. Prichard, T. J. Llewelyn Prichard, K. F. Purdon, Louise Clarke Pyrnelle, Edward A. Rand, Julius Regis, W. H. Rhodes, Henry Milner Rideout, Rita, Henry C. Rowland, Effie Adelaide Rowlands, Edwin Milton Royle. Every English text under the name at Gutenberg that no other shelf holds (52 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Diamond Lens | have | PG 23169, `fjobrien-diamond-lens` (126 units) |
+| The Coming of Cuculain | have | PG 5092, `sogrady-coming-of-cuculain` (474 units) |
+| Early Bardic Literature, Ireland. | have | PG 8109, `sogrady-early-bardic-literature-ireland` (178 units) |
+| The Red Mouse: A Mystery Romance | have | PG 36247, `whosborne-red-mouse` (2798 units) |
+| The Running Fight | have | PG 61840, `whosborne-running-fight` (2827 units) |
+| The Hope of the Katzekopfs; or, The Sorrows of Selfishness. A Fairy Tale. | have | PG 53808, `fepaget-hope-of-the-katzekopfs` (741 units) |
+| The bonfire | have | PG 75991, `fepaget-bonfire` (149 units) |
+| Rudyard Kipling | have | PG 18045, `jpalmer-rudyard-kipling` (262 units) |
+| Peter Paragon: A Tale of Youth | have | PG 56932, `jpalmer-peter-paragon` (2557 units) |
+| The Motor Pirate | have | PG 26657, `gspaternoster-motor-pirate` (1352 units) |
+| The master criminal | have | PG 71516, `gspaternoster-master-criminal` (1698 units) |
+| Dot and the Kangaroo | have | PG 3703, `ecpedley-dot-and-the-kangaroo` (623 units) |
+| Star of India | have | PG 53372, `aperrin-star-of-india` (1427 units) |
+| The Woman in the Bazaar | have | PG 61272, `aperrin-woman-in-the-bazaar` (798 units) |
+| A Flock of Girls and Boys | have | PG 10433, `nperry-flock-of-girls-and-boys` (1556 units) |
+| Hope Benham: A Story for Girls | have | PG 36105, `nperry-hope-benham` (1367 units) |
+| Emmanuel Appadocca; or, Blighted life, Volume 1 (of 2) | have | PG 75313, `mphilip-emmanuel-appadocca` (896 units) |
+| Emmanuel Appadocca; or, Blighted life, Volume 2 (of 2) | have | PG 75314, `mphilip-emmanuel-appadocca-75314` (1312 units) |
+| Dick's Desertion: A Boy's Adventures in Canadian Forests A Tale of the Early Settlement of Ontario | have | PG 34002, `mlcpickthall-dick-s-desertion` (361 units) |
+| Angels' Shoes, and Other Stories | have | PG 59197, `mlcpickthall-angels-shoes-and-other-stories` (1956 units) |
+| The Imitator: A Novel | have | PG 39724, `ppollard-imitator` (815 units) |
+| Cape of Storms: A Novel | have | PG 39781, `ppollard-cape-of-storms` (816 units) |
+| First Person Paramount | have | PG 35775, `apratt-first-person-paramount` (1965 units) |
+| The Living Mummy | have | PG 58944, `apratt-living-mummy` (1544 units) |
+| Lill's travels in Santa Claus Land, and other stories | have | PG 20112, `efpratt-lill-s-travels-in-santa-claus-land-and-other-stories` (289 units) |
+| All the World Over: Interesting Stories of Travel, Thrilling Adventure and Home Life | have | PG 67560, `efpratt-all-the-world-over` (3971 units) |
+| Ronald and I; or, Studies from Life | have | PG 63308, `apretor-ronald-and-i` (471 units) |
+| The Chapel on the Hill | have | PG 63310, `apretor-chapel-on-the-hill` (460 units) |
+| The Only Woman in the Town, and Other Tales of the American Revolution | have | PG 33334, `sjprichard-only-woman-in-the-town-and-other-tales-of-the-ame` (1229 units) |
+| The wonderful Christmas in Pumpkin Delight Lane | have | PG 74537, `sjprichard-wonderful-christmas-in-pumpkin-delight-lane` (1277 units) |
+| The Adventures and Vagaries of Twm Shôn Catti Descriptive of Life in Wales: Interspersed with Poems | have | PG 40419, `tjlprichard-adventures-and-vagaries-of-twm-shon-catti-descri` (524 units) |
+| The Comical Adventures of Twm Shon Catty (Thomas Jones, Esq.), Commonly known as the Welsh Robin Hood | have | PG 40421, `tjlprichard-comical-adventures-of-twm-shon-catty-thomas-jone` (1321 units) |
+| Candle and Crib | have | PG 24310, `kfpurdon-candle-and-crib` (126 units) |
+| The folk of Furry Farm | have | PG 74263, `kfpurdon-folk-of-furry-farm` (1572 units) |
+| Diddie, Dumps, and Tot; Or, Plantation Child-Life | have | PG 4992, `lcpyrnelle-diddie-dumps-and-tot` (926 units) |
+| Diddie, Dumps & Tot; or, Plantation child-life | have | PG 17146, `lcpyrnelle-diddie-dumps-tot` (961 units) |
+| The Knights of the White Shield Up-the-Ladder Club Series, Round One Play | have | PG 14903, `earand-knights-of-the-white-shield-up-the-ladder-club-series` (1862 units) |
+| At the Black Rocks | have | PG 40269, `earand-at-the-black-rocks` (1571 units) |
+| No. 13 Toroni | have | PG 52498, `jregis-no-13-toroni` (1734 units) |
+| The Copper House | have | PG 76903, `jregis-copper-house` (1976 units) |
+| The Case of Summerfield | have | PG 5191, `whrhodes-case-of-summerfield` (156 units) |
+| Caxton's Book: A Collection of Essays, Poems, Tales, and Sketches. | have | PG 32761, `whrhodes-caxton-s-book` (1191 units) |
+| Dragon's blood | have | PG 10321, `hmrideout-dragon-s-blood` (1391 units) |
+| Admiral's Light | have | PG 57577, `hmrideout-admiral-s-light` (814 units) |
+| The Mystery of a Turkish Bath | have | PG 25656, `rita-mystery-of-a-turkish-bath` (570 units) |
+| Two bad blue eyes | have | PG 71164, `rita-two-bad-blue-eyes` (1936 units) |
+| The Mountain of Fears | have | PG 56425, `hcrowland-mountain-of-fears` (911 units) |
+| The magnet | have | PG 76293, `hcrowland-magnet` (1745 units) |
+| Capricious Caroline | have | PG 34166, `earowlands-capricious-caroline` (2749 units) |
+| On the wings of fate | have | PG 71205, `earowlands-on-the-wings-of-fate` (1765 units) |
+| The Silent Call | have | PG 51611, `emroyle-silent-call` (2387 units) |
+| The Squaw Man: A Novel | have | PG 52804, `emroyle-squaw-man` (1609 units) |
+| pg-50332 | excluded | PG 50332: a second Gutenberg edition of Fitz James O'Brien's The Diamond Lens. |
+| pg-18891 | excluded | PG 18891: a second Gutenberg edition of Ethel C. Pedley's Dot and the Kangaroo. |
