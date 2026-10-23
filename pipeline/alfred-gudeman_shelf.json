@@ -1,0 +1,34 @@
+{
+ "_about": "Alfred Gudeman (1862-1942): Outlines of the History of Classical Philology (3rd ed., 1902). His Latin Literature of the Empire (1898) is a Latin anthology and is not taken; the 1892 Syllabus is superseded by the Outlines.",
+ "_author": "Alfred Gudeman (1862-1942)",
+ "_name_words": [
+  "gudeman",
+  "classical",
+  "philology"
+ ],
+ "_surname": [
+  "gudeman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gudeman-outlines-classical-philology-1902": [
+   "outlinesofhistor00gude",
+   "Outlines of the History of Classical Philology (3rd ed., Boston, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gudeman-outlines-classical-philology-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gudeman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

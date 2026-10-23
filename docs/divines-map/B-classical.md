@@ -8924,3 +8924,12 @@ Shelf: `pipeline/george-finlay_shelf.json`. History of Greece B.C. 146 to A.D. 1
 
 Excluded: Greece under the Romans (1844), History of the Byzantine Empire (1853), Greek Revolution (1861) etc. (absorbed into the 1877 collected edition held here)
 
+
+## Alfred Gudeman (1862-1942)
+
+Shelf: `pipeline/alfred-gudeman_shelf.json`. Outlines of the History of Classical Philology (1902). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Outlines of the History of Classical Philology (3rd ed., Boston, 1902) |  | `gudeman-outlines-classical-philology-1902` | have-raw (IA `outlinesofhistor00gude`) |
+
