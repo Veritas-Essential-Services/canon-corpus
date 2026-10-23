@@ -1,0 +1,227 @@
+{
+ "_about": "R. Austin Freeman's Dr. Thorndyke detective novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "R. Austin Freeman",
+ "_name_words": [
+  "austin",
+  "freeman"
+ ],
+ "_surname": [
+  "austin freeman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rafreeman-vanishing-man": [
+   10476,
+   "The Vanishing Man: A Detective Romance"
+  ],
+  "rafreeman-red-thumb-mark": [
+   11128,
+   "The Red Thumb Mark"
+  ],
+  "rafreeman-uttermost-farthing": [
+   12028,
+   "The Uttermost Farthing: A Savant's Vendetta"
+  ],
+  "rafreeman-mystery-of-31-new-inn": [
+   12187,
+   "The Mystery of 31 New Inn"
+  ],
+  "rafreeman-john-thorndykes-cases-related-by-christopher-jervi": [
+   13882,
+   "John Thorndyke's Cases related by Christopher Jervis and edited by R. Austin Freeman"
+  ],
+  "rafreeman-eye-of-osiris": [
+   24201,
+   "The Eye of Osiris"
+  ],
+  "rafreeman-adventures-of-dr-thorndyke-the-singing-bone": [
+   59478,
+   "The adventures of Dr. Thorndyke (The singing bone)"
+  ],
+  "rafreeman-darblay-mystery": [
+   70996,
+   "The D'Arblay mystery"
+  ],
+  "rafreeman-as-a-thief-in-the-night": [
+   72782,
+   "As a thief in the night"
+  ],
+  "rafreeman-shadow-of-the-wolf": [
+   75244,
+   "The shadow of the Wolf"
+  ],
+  "rafreeman-mystery-of-angelina-frood": [
+   76072,
+   "The mystery of Angelina Frood"
+  ],
+  "rafreeman-blue-scarab": [
+   76116,
+   "The blue scarab"
+  ],
+  "rafreeman-helen-vardons-confession": [
+   76728,
+   "Helen Vardon's confession"
+  ],
+  "rafreeman-silent-witness": [
+   76796,
+   "A silent witness"
+  ],
+  "rafreeman-golden-pool": [
+   76845,
+   "The golden pool"
+  ],
+  "rafreeman-magic-casket": [
+   76919,
+   "The magic casket"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rafreeman-vanishing-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-red-thumb-mark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-uttermost-farthing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-mystery-of-31-new-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-john-thorndykes-cases-related-by-christopher-jervi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-eye-of-osiris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-adventures-of-dr-thorndyke-the-singing-bone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-darblay-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-as-a-thief-in-the-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-shadow-of-the-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-mystery-of-angelina-frood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-blue-scarab": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-helen-vardons-confession": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-silent-witness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-golden-pool": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rafreeman-magic-casket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin freeman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

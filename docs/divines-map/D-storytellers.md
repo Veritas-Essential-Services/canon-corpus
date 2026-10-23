@@ -14076,3 +14076,26 @@ Shelf: `pipeline/randall-parrish_shelf.json` (2026-10-22; added at the coordinat
 | My Lady of Doubt | have | PG 18633, `rparrish-my-lady-of-doubt` (1756 units) |
 | Beyond the Frontier: A Romance of Early Days in the Middle West | have | PG 30319, `rparrish-beyond-the-frontier` (2169 units) |
 | repeat-editions | excluded | PG 59617: second Gutenberg editions of titles already on the shelf. |
+
+## R. Austin Freeman
+
+Shelf: `pipeline/r-austin-freeman_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Dr. Thorndyke detective stories. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Vanishing Man: A Detective Romance | have | PG 10476, `rafreeman-vanishing-man` (2216 units) |
+| The Red Thumb Mark | have | PG 11128, `rafreeman-red-thumb-mark` (1717 units) |
+| The Uttermost Farthing: A Savant's Vendetta | have | PG 12028, `rafreeman-uttermost-farthing` (873 units) |
+| The Mystery of 31 New Inn | have | PG 12187, `rafreeman-mystery-of-31-new-inn` (1681 units) |
+| John Thorndyke's Cases related by Christopher Jervis and edited by R. Austin Freeman | have | PG 13882, `rafreeman-john-thorndykes-cases-related-by-christopher-jervi` (1899 units) |
+| The Eye of Osiris | have | PG 24201, `rafreeman-eye-of-osiris` (2229 units) |
+| The adventures of Dr. Thorndyke (The singing bone) | have | PG 59478, `rafreeman-adventures-of-dr-thorndyke-the-singing-bone` (1560 units) |
+| The D'Arblay mystery | have | PG 70996, `rafreeman-darblay-mystery` (1583 units) |
+| As a thief in the night | have | PG 72782, `rafreeman-as-a-thief-in-the-night` (1704 units) |
+| The shadow of the Wolf | have | PG 75244, `rafreeman-shadow-of-the-wolf` (1323 units) |
+| The mystery of Angelina Frood | have | PG 76072, `rafreeman-mystery-of-angelina-frood` (1851 units) |
+| The blue scarab | have | PG 76116, `rafreeman-blue-scarab` (1466 units) |
+| Helen Vardon's confession | have | PG 76728, `rafreeman-helen-vardons-confession` (2794 units) |
+| A silent witness | have | PG 76796, `rafreeman-silent-witness` (2159 units) |
+| The golden pool | have | PG 76845, `rafreeman-golden-pool` (2202 units) |
+| The magic casket | have | PG 76919, `rafreeman-magic-casket` (1630 units) |
