@@ -14545,6 +14545,21 @@ Slugs `beet-*`. Built from title pages read for round 84.
 | The New Testament : its authorship, date and worth (London : Robert Culley, 1908) | have-ocr | IA `thenewtestamenti00beetuoft` |
 | Holiness, symbolic and real : a Bible study (London : R. Culley, 1910) | have-ocr | IA `holinesssymbolic00beetuoft` |
 | A theologian's workshop, tools, and methods (London ; New York : Hodder and Stoughton, 1914) | have-ocr | IA `theologiansworks00beet_0` |
+
+## Alexander Keith (round 84, my pick, 2026-10-23)
+
+Slugs `keith-*`. Built from title pages read for round 84.
+
+| Work | Status | Where |
+|---|---|---|
+| Evidence of the truth of the Christian religion, derived from the literal fulfilment of prophecy; particularly as illustrated by the history of the Jews, and by the discoveries of recent travellers (Edinburgh : Waugh & Innes, 1828) | have-ocr | IA `b22028274` |
+| The signs of the times, as denoted by the fulfilment of historical predictions, traced down from the Babylonish captivity to the present time, vol. 1 (Edinburgh : Wm. Whyte, 1832) | have-ocr | IA `b33029453_0001` |
+| The signs of the times, as denoted by the fulfilment of historical predictions, traced down from the Babylonish captivity to the present time, vol. 2 (Edinburgh : Wm. Whyte, 1832) | have-ocr | IA `b33029453_0002` |
+| The evidence of prophecy (New York, American tract society, 1833) | have-ocr | IA `evidenceofprophe01keit` |
+| Demonstration of the truth of the Christian religion ([n. p.], 1844) | have-ocr | IA `demonstrationoft00keit` |
+| Land of Israel : according to the covenant with Abraham, with Isaac, and Jacob (Edinburgh : William Whyte, 1844) | have-ocr | IA `landofisraelacco00keit` |
+| Isaiah as it is : or, Judah and Jerusalem the subjects of Isaiah's prophesying (Edinburgh : W. Whyte, 1850) | have-ocr | IA `isaiahasitisorju00keit` |
+| The Harmony of Prophecy, Or, Scriptural Illustrations of the Apocalypse (Harper, 1855) | have-ocr | IA `harmonyprophecy00keitgoog` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

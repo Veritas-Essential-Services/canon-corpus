@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain Alexander Keith (1792-1880), Church of Scotland and Free Church minister and writer on prophecy, for the Word Hoard: Evidence of the Truth of the Christian Religion from the Fulfilment of Prophecy, The Signs of the Times (2 vols.), Demonstration of the Truth of the Christian Religion, The Land of Israel, Isaiah as it is, and The Harmony of Prophecy. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 84 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander keith",
+  "a. keith"
+ ],
+ "_surname": [
+  "alexander keith",
+  "a. keith"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "keith-evidence-1828": [
+   "b22028274",
+   "Evidence of the truth of the Christian religion, derived from the literal fulfilment of prophecy; particularly as illustrated by the history of the Jews, and by the discoveries of recent travellers (Edinburgh : Waugh & Innes, 1828)"
+  ],
+  "keith-signs-1": [
+   "b33029453_0001",
+   "The signs of the times, as denoted by the fulfilment of historical predictions, traced down from the Babylonish captivity to the present time, vol. 1 (Edinburgh : Wm. Whyte, 1832)"
+  ],
+  "keith-signs-2": [
+   "b33029453_0002",
+   "The signs of the times, as denoted by the fulfilment of historical predictions, traced down from the Babylonish captivity to the present time, vol. 2 (Edinburgh : Wm. Whyte, 1832)"
+  ],
+  "keith-evidence-1833": [
+   "evidenceofprophe01keit",
+   "The evidence of prophecy (New York, American tract society, 1833)"
+  ],
+  "keith-demonstration": [
+   "demonstrationoft00keit",
+   "Demonstration of the truth of the Christian religion ([n. p.], 1844)"
+  ],
+  "keith-land-of-israel": [
+   "landofisraelacco00keit",
+   "Land of Israel : according to the covenant with Abraham, with Isaac, and Jacob (Edinburgh : William Whyte, 1844)"
+  ],
+  "keith-isaiah": [
+   "isaiahasitisorju00keit",
+   "Isaiah as it is : or, Judah and Jerusalem the subjects of Isaiah's prophesying (Edinburgh : W. Whyte, 1850)"
+  ],
+  "keith-harmony-prophecy": [
+   "harmonyprophecy00keitgoog",
+   "The Harmony of Prophecy, Or, Scriptural Illustrations of the Apocalypse (Harper, 1855)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "keith-evidence-1828": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keith-signs-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keith-signs-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keith-evidence-1833": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "keith-demonstration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "keith-land-of-israel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keith-isaiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keith-harmony-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
