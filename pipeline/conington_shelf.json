@@ -1,5 +1,5 @@
 {
- "_about": "John Conington (1825-1869), Corpus Professor of Latin at Oxford. Classical scholarship (lane B pivot, 2026-10-10): Miscellaneous Writings, ed. J. A. Symonds with a memoir by H. J. S. Smith (1872), vol. I, raw IA OCR. Vol. II is almost wholly his prose Virgil, which the virgil shelf already holds (virgil-conington-works-1880), so it is not added. His translations of Horace, Virgil and Persius are on those shelves. His Virgil commentary (with Nettleship) reads 0.73 on the OCR measure, under the bar. No uids minted.",
+ "_about": "John Conington (1825-1869), Corpus Professor of Latin at Oxford. Classical scholarship (lane B pivot, 2026-10-10): Miscellaneous Writings, ed. J. A. Symonds with a memoir by H. J. S. Smith (1872), vol. I, raw IA OCR. Vol. II is almost wholly his prose Virgil, which the virgil shelf already holds (virgil-conington-works-1880), so it is not added. His translations of Horace, Virgil and Persius are on those shelves. His Virgil commentary (with Nettleship) reads 0.73 on the OCR measure, under the bar. No uids minted. His Virgil with a commentary (Bibliotheca Classica, 3 vols., raw IA): vol. I Eclogues and Georgics (1858), vol. II Aeneid I-VI (1863), vol. III Aeneid VII-XII, third edition revised by Henry Nettleship (1883). The 1883 volume was refused earlier at OCR 0.73 for its dense line references; taken 2026-10-23 on the reasoning used for the other Latin-dense commentaries (the text reads; the measure counts Latin as noise).",
  "_name_words": [
   "conington"
  ],
@@ -13,22 +13,68 @@
   "conington-miscellaneous-writings-v1-1872": [
    "miscellaneouswri01coniuoft",
    "Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872)"
+  ],
+  "conington-virgil-v1-1858": [
+   "india.history.resource.53568",
+   "P. Vergili Maronis Opera, The Works of Virgil, with a commentary (Bibliotheca Classica), vol. I: the Eclogues and Georgics (London: Whittaker; George Bell, 1858); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions",
+   "53568_djvu.txt"
+  ],
+  "conington-virgil-v2-1863": [
+   "india.history.resource.73973",
+   "P. Vergili Maronis Opera, The Works of Virgil, with a commentary (Bibliotheca Classica), vol. II: the first six books of the Aeneid (London: Whittaker; George Bell, 1863); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions",
+   "73973_djvu.txt"
+  ],
+  "conington-virgil-v3-1883": [
+   "pvergilimaroniso03virg",
+   "P. Vergili Maronis Opera, The Works of Virgil, with a commentary (Bibliotheca Classica), vol. III: the last six books of the Aeneid, third edition revised by Henry Nettleship (London: Whittaker; George Bell, 1883); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
   ]
  },
  "_excluded": {
-  "P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg)": "refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)",
   "Miscellaneous Writings vol. II (1872; IA miscellaneouswr01smitgoog)": "the prose Virgil it carries is already on the virgil shelf (the 1880 Works of Virgil); not duplicated"
  },
  "_checks": {
   "conington-miscellaneous-writings-v1-1872": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john conington",
    "identity": "ok",
    "ia_rights": "ok: published 1872",
    "ia_date": "1872",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "conington-virgil-v1-1858": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john conington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "conington-virgil-v2-1863": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john conington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "conington-virgil-v3-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john conington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

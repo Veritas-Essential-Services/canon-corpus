@@ -2715,6 +2715,9 @@ Shelf: `pipeline/conington_shelf.json`. Conington's Miscellaneous Writings (1872
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Miscellaneous Writings of John Conington, ed. J. A. Symonds, with a memoir by H. J. S. Smith, vol. I (London: Longmans, Green, 1872) |  | `conington-miscellaneous-writings-v1-1872` | have-raw (IA `miscellaneouswri01coniuoft`) |
+| P. Vergili Maronis Opera, The Works of Virgil, with a commentary (Bibliotheca Classica), vol. I: the Eclogues and Georgics (London: Whittaker; George Bell, 1858); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `conington-virgil-v1-1858` | have-raw (IA `india.history.resource.53568`) |
+| P. Vergili Maronis Opera, The Works of Virgil, with a commentary (Bibliotheca Classica), vol. II: the first six books of the Aeneid (London: Whittaker; George Bell, 1863); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `conington-virgil-v2-1863` | have-raw (IA `india.history.resource.73973`) |
+| P. Vergili Maronis Opera, The Works of Virgil, with a commentary (Bibliotheca Classica), vol. III: the last six books of the Aeneid, third edition revised by Henry Nettleship (London: Whittaker; George Bell, 1883); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `conington-virgil-v3-1883` | have-raw (IA `pvergilimaroniso03virg`) |
 
 Excluded: P. Vergili Maronis Opera, with a commentary (with Henry Nettleship), vol. III (IA pvergilimaroniso03virg) (refused: OCR 0.73 (dense line references; sampled OCR is otherwise good)); Miscellaneous Writings vol. II (1872; IA miscellaneouswr01smitgoog) (the prose Virgil it carries is already on the virgil shelf (the 1880 Works of Virgil); not duplicated)
 
