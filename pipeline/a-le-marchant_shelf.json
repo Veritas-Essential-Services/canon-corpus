@@ -1,0 +1,33 @@
+{
+ "_about": "A. Le Marchant, raw IA OCR of Greek Religion to the Time of Hesiod (1923).  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "A. Le Marchant",
+ "_name_words": [
+  "marchant"
+ ],
+ "_surname": [
+  "a. le marchant",
+  "le marchant"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "a-le-marchant-greek-religion-to-hesiod-1923": [
+   "greekreligiontot00lema",
+   "Greek Religion to the Time of Hesiod, by A. Le Marchant (Manchester: Sherratt and Hughes, 1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "a-le-marchant-greek-religion-to-hesiod-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. le marchant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
