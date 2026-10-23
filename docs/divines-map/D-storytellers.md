@@ -18511,3 +18511,15 @@ Shelf: `pipeline/marmaduke-william-pickthall_shelf.json` (2026-10-22; added at t
 | Veiled Women | have | PG 57297, `mwpickthall-veiled-women` (1439 units) |
 | The House of Islâm | have | PG 63654, `mwpickthall-house-of-isl-m` (1500 units) |
 | Saïd the fisherman | have | PG 77078, `mwpickthall-sa-d-the-fisherman` (1576 units) |
+
+## Edward Parrott
+
+Shelf: `pipeline/edward-parrott_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Childrens' Story of the War, Volume 1 (of 10) From the Beginning of the War to the Landing of the British Army in France | have | PG 35310, `eparrott-childrens-story-of-the-war-volume-1-of-10-from-the` (1358 units) |
+| The Childrens' Story of the War, Volume 2 (of 10) From the Battle of Mons to the Fall of Antwerp. | have | PG 35314, `eparrott-childrens-story-of-the-war-volume-2-of-10-from-the` (1293 units) |
+| The Childrens' Story of the War, Volume 3 (of 10) From the First Battle of Ypres to the End of the Year 1914 | have | PG 35355, `eparrott-childrens-story-of-the-war-volume-3-of-10-from-the` (1239 units) |
+| The Children's Story of the War Volume 4 (of 10) The Story of the Year 1915 | have | PG 35386, `eparrott-childrens-story-of-the-war-volume-4-of-10-the-story` (1440 units) |
+| The Pageant of British History | have | PG 60524, `eparrott-pageant-of-british-history` (1074 units) |
