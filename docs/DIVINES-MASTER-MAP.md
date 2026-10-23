@@ -15779,6 +15779,25 @@ Slugs `zollikofer-*`. Built from title pages read for round 96.
 | Sermons on education : on reflection, on the greatness of God in the works of nature and in the government of the world, on charity, and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, and Orme ..., 1806) | have-ocr | IA `sermonsoneducat00tookgoog` |
 | Sermons on prevalent errors and vices : and on various other topics, vol. 1 (London : Printed for Longman, Hurst, Rees, Orme, and Brown, 1812) | have-ocr | IA `sermonsonpreval00zollgoog` |
 | newlyopenedtrea00zoll: A Newly Opened Treasury of Heavenly Incense, by an earlier Zollikofer (Caspar), not Georg Joachim | excluded | |
+
+## Jedidiah Morse (round 96, my pick, 2026-10-23)
+
+Slugs `morse-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The present situation of other nations of the world, contrasted with our own. : a sermon, delivered at Charlestown, in the Commonwealth of Massachusetts, February 19, 1795 ; being the day recommended by George Washington, president of the United States of America, for publick thanksgiving and prayer (Boston : [publisher not identified], 1795) | have-ocr | IA `presentsituation00mors` |
+| A sermon delivered before the Grand Lodge of free & accepted masons of the commonwealth of Massachusetts, at a public installation of the officers of the Corinthian Lodge, at Concord, ... June 25th, 1798. By Jedediah Morse, ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-delivered-befor_morse-jedidiah_1798` |
+| A sermon, preached at Charlestown, November 29, 1798, on the anniversary thanksgiving in Massachusetts. With an appendix, ... by Jedidiah Morse, ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-ch_morse-jedidiah_1798` |
+| The character and reward of a good and faithful servant illustrated in a sermon, delivered at Charlestown, April 29, 1798, the Lord's-Day following the death and interment of the Honorable James Russell, ... By ...  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_the-character-and-reward_morse-jedidiah_1798` |
+| A sermon, exhibiting the present dangers, and consequent duties of the citizens of the United States of America : Delivered at Charlestown, April 25, 1799. The day of the national fast (Charlestown [Mass.]: : Printed and sold by Samuel Etheridge, next door to Warren-Tavern., 1799) | have-ocr | IA `sermonexhibiting00morsrich` |
+| The true reasons on which the election of a Hollis professor of divinity in Harvard college, was opp, vol. c.1 (Charlestown [Mass.]: Printed for the author, 1805) | have-ocr | IA `truereasonsonwhi01mors` |
+| A discourse, delivered at the African Meeting-House, in Boston, July 14, 1808 : in grateful celebration of the abolition of the African slave-trade, by the governments of the U.S., Great Britain, and Denmark (Boston : Printed by Lincoln & Edmands, 1808) | have-ocr | IA `discoursedeliver00mors` |
+| Signs of the times. A sermon, preached before the Society for Propagating the Gospel among the Indians and Others in North America, at their anniversary, Nov. 1, 1810 (Charlestown [Mass.] Printed for the benefit of the Society, by S.T. Armstrong, 1810) | have-ocr | IA `signsoftimesserm00mors` |
+| An Appeal to the Public: On the Controversy Respecting the Revolution in Harvard College, and (Printed for the author, 1814) | have-ocr | IA `anappealtopubli00morsgoog` |
+| reviewofamerican00mors: Review of American Unitarianism, an anonymous Panoplist review; attribution is the catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| American Geography, Universal Geography, Gazetteers, Geography Made Easy: not theology | excluded | |
+| compendioushisto00morsuoft: Compendious History of New England, written with Elijah Parish | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
