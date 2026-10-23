@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Eric Peet (1882-1934), archaeologist, raw IA OCR of The Stone and Bronze Ages in Italy and Sicily (1909). Classical archaeology (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "T. Eric Peet",
+ "_name_words": [
+  "peet"
+ ],
+ "_surname": [
+  "t. eric peet",
+  "peet"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "t-eric-peet-stone-bronze-ages-italy-sicily-1909": [
+   "stonebronzeagesi00peetuoft",
+   "The Stone and Bronze Ages in Italy and Sicily, by T. Eric Peet (Oxford: at the Clarendon Press, 1909)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "t-eric-peet-stone-bronze-ages-italy-sicily-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. eric peet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
