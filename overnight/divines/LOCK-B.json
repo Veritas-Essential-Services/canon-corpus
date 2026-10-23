@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T02:02:00-05:00",
- "note": "Rounds cq-dd done 2026-10-23.",
- "resume_point": "Round de: leftovers of the dc sweep, each checked on all branches first: the Epochs of Ancient History series (Capes, Cox, Curteis, Ihne, Smith; take only volumes no shelf holds), Napoleon III's History of Julius Caesar (2 vols., tr. 1865-66), Hoppin's Handbook of Attic Red-figured Vases (1919), Morey's Outlines of Greek and Roman History. Then a new IA subject sweep (Rome -- Politics and government; Greece -- Politics and government; Athens (Greece) -- History; Sparta; Alexander; Hellenistic; Etruscans; Roman provinces; Roman Britain; Greek inscriptions; Papyri; Mythology Greek), worked as in rounds da-dd."
+ "heartbeat": "2026-10-23T02:12:48-05:00",
+ "note": "Rounds cq-de done 2026-10-23.",
+ "resume_point": "Round df: a new IA subject sweep (Rome -- Politics and government; Greece -- Politics and government; Athens (Greece) -- History; Sparta (Extinct city); Alexander, the Great; Hellenism; Etruscans; Rome -- Provinces; Great Britain -- History -- Roman period; Inscriptions, Greek; Papyri; Mythology, Greek; Greek language -- Syntax; Latin language -- Syntax), keep creators with no shelf on any branch, worked as in rounds da-dd."
 }

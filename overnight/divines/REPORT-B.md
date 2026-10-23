@@ -1470,3 +1470,9 @@
 - The six History of Civilization volumes lane C left for lane B (Glotz 2, Homo 2, Jouguet, Grenier) are now held. All are 1925-1929 printings, US public domain.
 - Title pages read from IA page images (the method lane A recorded): Heidel's Pseudo-Platonica says 'by W. A. HEIDEL' (OCR 'WAS BLD EL'). Elderkin's Cornell scan has only a half-title that names nobody, so the clean Gutenberg text (PG 37197) is used instead.
 - Not taken: the multi-author Companion to Greek Studies (Whibley ed.), Kelsey's Fifty Topics (a syllabus; his Mau translation is already shelved), Ferriman and Wyse (modern Greece), Toynbee's Greek Historical Thought (only 1950s reprints found).
+
+## 2026-10-23 — Round de: the Epochs of Ancient History and other leftovers
+- New shelves: george-w-cox 8 (general editor of Longmans' Epochs of Ancient History: History of Greece 2 vols., General History of Greece, The Athenian Empire, The Greeks and the Persians, Mythology of the Aryan Nations 2 vols., Tales of Ancient Greece), r-bosworth-smith 2 (Carthage and the Carthaginians; Rome and Carthage), napoleon-iii 2 (History of Julius Caesar, clean Gutenberg), joseph-clark-hoppin 3 (Attic red-figured vases), a-m-curteis 1 (Rise of the Macedonian Empire).
+- Extended: capes +1 (The Roman Empire of the Second Century) and merivale +3 (A General History of Rome, The Fall of the Roman Republic, The Roman Triumvirates).
+- Cox's General History of Greece prints 'GEORGE W: COX' in OCR; title page recorded under _identity_checked. The bare surname 'cox' is shared with a fiction singles shelf, so his shelf matches only on full-name forms.
+- Not found: Ihne's Epochs volume, Rome to its Capture by the Gauls. Not taken: Cox's Crusades (PG 77173) and church books, Bosworth Smith's Mohammed and Life of Lord Lawrence.
