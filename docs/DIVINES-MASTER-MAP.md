@@ -16605,6 +16605,24 @@ Slugs `tait-*`. Built from title pages read for round 104.
 | difficultiesofch00tait: a letter TO the Bishop of London by a lay member of the London Diocesan Church Building Society, not by Tait | excluded | |
 | chargedeliveredi00tait: the scan opens with Alfred Ollivant's 1860 Llandaff charge (a bound volume of several charges); not safely Tait's alone | excluded | |
 | spiritualwantsof00tait: missionaries' letters on the foreign parts of the Empire, not Tait's own text | excluded | |
+
+## Horatio Southgate (round 104, my pick, 2026-10-23)
+
+Slugs `southgate-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Encouragement to missionary effort among Mohamedans : a sermon by the Rev. Horatio Southgate, Jun., missionary of the Protestant Episcopal Church in the United States of America, to Persia, etc. ; to which are annexed an account of the meeting held at the Church of the Ascension (New York : Protestant Episcopal Press, 1836) | have-ocr | IA `encouragementtom00sout` |
+| Narrative of a Tour Through Armenia, Kurdistan, Persia and Mesopotamia: With an Introduction, vol. 1 (D. Appleton & co., 1840) | have-ocr | IA `narrativeatourt02soutgoog` |
+| A letter to a friend : in reply to a recent pamphlet, from the missionaries of the American Board of Commissioners for Foreign Missions at Constantinople (New York : D. Appleton ; Philadelphia : G.S. Appleton, 1845) | have-ocr | IA `lettertofriendin00sout` |
+| Sermon preached at the consecration of Christ Church Cathedral, Fredericton, N.B., August 31, 1853 ; by The Right Rev. Horatio Southgate, D.D (Boston : Ticknor, Reed, and Fields, 1853) | have-ocr | IA `sermonpreachedat00sout` |
+| The war in the East (New-York, Pudney & Russell, 1854) | have-ocr | IA `warineast00sout` |
+| The sermon preached on occasion of the second anniversary of the Holy Guild of the Church of the Advent : Boston, Mass. on the evening of the First Sunday in Advent, 1854 (Boston : J. Howe, 1855) | have-ocr | IA `sermonpreachedon00sout` |
+| Narrative of a visit to the Syrian (Jacobite) Church of Mesopotamia : with statements and reflections upon the present state of Christianity in Turkey and the character and prospects of the Eastern Churches (New-York : Dana and Co., 1856) | have-ocr | IA `narrativeofvisit00soutrich` |
+| Sermons for some of the principal festivals and fasts of the church and on Christian doctrine and duty : preached at the Church of the Advent, Boston, Massachusetts (New York : D. Dana, 1859) | have-ocr | IA `sermonsforsomeof00sout` |
+| The death of Lincoln (New York, J.W. Amerman, printer, 1865) | have-ocr | IA `deathoflincoln00sout` |
+| workofgoditsmean00sout: printed for private circulation; its readable text never names the preacher; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Holy Communion in Armenian (a liturgical translation) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
