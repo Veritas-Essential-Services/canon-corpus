@@ -41845,3 +41845,21 @@ Shelf: `pipeline/jos-e-badger_shelf.json` (2026-10-22; added at the coordinator'
 | Outlaw Jack; or, the mountain devil | have | PG 68673, `jebadger-outlaw-jack` (910 units) |
 | Dusky Dick: or, Old Toby Castor's great campaign A story of the last Sioux outbreak | have | PG 68699, `jebadger-dusky-dick` (841 units) |
 | The Wood King; or, Daniel Boone's last trail | have | PG 69490, `jebadger-wood-king` (772 units) |
+
+## Lady Emily Ponsonby
+
+Shelf: `pipeline/emily-ponsonby_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Violet Osborne, Volume 1 (of 3) | have | PG 77990, `eponsonby-violet-osborne-volume-1-of-3` (1019 units) |
+| Violet Osborne, Volume 2 (of 3) | have | PG 77991, `eponsonby-violet-osborne-volume-2-of-3` (921 units) |
+| Violet Osborne, Volume 3 (of 3) | have | PG 77992, `eponsonby-violet-osborne-volume-3-of-3` (964 units) |
+| Clare Abbey, volume 1 (of 2) | have | PG 79321, `eponsonby-clare-abbey-volume-1-of-2` (1108 units) |
+| Clare Abbey, volume 2 (of 2) | have | PG 79324, `eponsonby-clare-abbey-volume-2-of-2` (1174 units) |
+| The two brothers; vol. 1 [of 3] | have | PG 79388, `eponsonby-two-brothers` (1109 units) |
+| The two brothers; vol. 2 [of 3] | have | PG 79389, `eponsonby-two-brothers-79389` (812 units) |
+| The two brothers; vol. 3 [of 3] | have | PG 79390, `eponsonby-two-brothers-79390` (906 units) |
+| Nora; vol. 1 [of 3] | have | PG 79461, `eponsonby-nora` (827 units) |
+| Nora; vol. 2 [of 3] | have | PG 79462, `eponsonby-nora-79462` (918 units) |
+| Nora; vol. 3 [of 3] | have | PG 79463, `eponsonby-nora-79463` (777 units) |
