@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Lewis French Stearns (1847-1892), professor of systematic theology at Bangor Seminary, for the Word Hoard: The Evidence of Christian Experience (the Ely Lectures for 1890), Present Day Theology, and his life of Henry Boynton Smith. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 109 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "lewis french stearns",
+  "lewis f. stearns",
+  "l. f. stearns"
+ ],
+ "_surname": [
+  "lewis french stearns",
+  "lewis f. stearns",
+  "stearns"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lfstearns-evidence": [
+   "theevidenceofchr00steauoft",
+   "The evidence of Christian experience : being the Ely lectures for 1890 (New York : C. Scribner's Sons, 1890)"
+  ],
+  "lfstearns-henry-b-smith": [
+   "henryboyntonsmit00stea",
+   "Henry Boynton Smith (Boston, Houghton Mifflin, 1892)"
+  ],
+  "lfstearns-present-day": [
+   "presentdaytheolo00stea",
+   "Present day theology : a popular discussion of leading doctrines of the Christian faith (New York : C. Scribner, 1893)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "lfstearns-evidence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis french stearns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lfstearns-henry-b-smith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis f. stearns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lfstearns-present-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis french stearns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

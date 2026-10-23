@@ -17031,6 +17031,16 @@ Slugs `hole-*`. Built from title pages read for round 109.
 | Then and now (London : Hutchinson, 1901) | have-ocr | IA `thenandnow00holeuoft` |
 | A little tour in America (London : E. Arnold, 1895) | have-ocr | IA `littletourinamer00holeuoft` |
 | His rose and garden books and Irish and Riviera travel books are left to another lane | excluded | |
+
+## Lewis French Stearns (round 109, my pick, 2026-10-23)
+
+Slugs `lfstearns-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| The evidence of Christian experience : being the Ely lectures for 1890 (New York : C. Scribner's Sons, 1890) | have-ocr | IA `theevidenceofchr00steauoft` |
+| Henry Boynton Smith (Boston, Houghton Mifflin, 1892) | have-ocr | IA `henryboyntonsmit00stea` |
+| Present day theology : a popular discussion of leading doctrines of the Christian faith (New York : C. Scribner, 1893) | have-ocr | IA `presentdaytheolo00stea` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
