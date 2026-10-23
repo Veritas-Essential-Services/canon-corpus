@@ -303,3 +303,4 @@
 - 10/23 round df: third sweep, 12 new shelves, 17 works (McCrindle 5, Nilsson 2, Cesnola, Madvig, Halliday, Drachmann and others). Next: round dg, Grenfell and Hunt's papyri, then Rollin.
 - 10/23 round dg: grenfell-hunt 28 (Oxyrhynchus I-XVII complete, Tebtunis, Hibeh, Amherst, Fayum and the rest) and charles-rollin 29 (Ancient History 6, Roman History 16, Arts and Sciences 3, Belles Lettres 4). Next: round dh (Niebuhr's Lectures, Wachsmuth, Hooke, Arnold; then a fourth sweep).
 - 10/23 rounds dh-di: niebuhr +3, thomas-arnold +2, hooke 6, wachsmuth 1; fourth sweep 14 new shelves, 15 works. Subject sweeps are running dry. Next: round dj, sweep by publisher series.
+- 10/23 round dj: 7 new shelves, 17 works (Stuart Jones 5, J. A. K. Thomson 3, Sikes, Maunde Thompson, H. J. Rose, Alice Gardner 2 each, Rutherford 1). Next: round dk, publisher-series sweep.

@@ -1492,3 +1492,8 @@
 - dh: Niebuhr's Lectures on Ancient History (tr. Schmitz, 3 vols, 1852) added to niebuhr; Thomas Arnold's Later Roman Commonwealth (2 vols, 1845) added to thomas-arnold; new shelves nathaniel-hooke (Roman History, 6 vols, 1821) and wilhelm-wachsmuth (Historical Antiquities of the Greeks, 1837).
 - di: a fourth IA subject sweep gave 14 new shelves and 15 works: Marshall, Weissenborn, Hyslop, Petersson, Lutoslawski, Ackermann, Eschenburg, Maguire, Gwynn, B. C. Burt, L. M. Watt, Munk 2, Dunning, Lones. Autenrieth's Homeric Dictionary was left to the dictionaries thread.
 - The subject sweeps now return mostly held names. Next: sweep by publisher series (Macmillan handbooks, Bohn, Murray's Student's Manuals, Heroes of the Nations, Loebs of 1912-1929).
+
+## 2026-10-23 — Round dj: standard scholars missing everywhere
+- Checked a list of well-known British classical scholars against every branch; seven were unheld. New shelves: h-stuart-jones 5, j-a-k-thomson 3, e-e-sikes 2, e-maunde-thompson 2 (the palaeography handbooks), h-j-rose 2, alice-gardner 2, w-g-rutherford 1. 17 works.
+- The Lascarids of Nicaea survives on IA only as Hakkert's 1964 photographic reprint of the 1912 edition; recorded in _rights_checked.
+- Next: sweep by publisher series.
