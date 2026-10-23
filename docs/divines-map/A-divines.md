@@ -10537,3 +10537,15 @@ Slugs `hoadly-*`. Built from title pages read for round 44.
 | The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 3 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_3` |
 | Separate Sermons (1744, 1749), Sixteen Sermons (1754) and Twenty Sermons (1755), all inside the Works | alternate | not shelved |
 | Sermons on the Mode and Subjects of Baptism (1803), by another Hoadly | excluded | |
+
+## Thomas Tenison (round 44, my pick, 2026-10-22)
+
+Slugs `tenison-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| The Creed of Mr. Hobbes Examined, in a feigned conference between him and a student in divinity (London, catalogued 1670) | have-ocr | IA `bim_early-english-books-1641-1700_the-creed-of-mr-hobbes-_tenison-thomas_1670` |
+| Of Idolatry: a discourse (London, catalogued 1678) | have-ocr | IA `bim_early-english-books-1641-1700_of-idolatry-a-discourse_tenison-thomas_1678` |
+| Popery not founded on Scripture (1688), a collection of tracts by several divines that he is said to have organised: a compilation | pending | not shelved |
+| A Discourse concerning a Guide in Matters of Faith (1683; IA adiscourseconce01tenigoog): the Archive returned a server error for its text on 2026-10-23, so its title page could not be checked. Retry later | pending | not shelved |
+| His edition of Bacon's Baconiana (Bacon's remains); single sermons and the 1687-1688 conference pamphlets, left for a later round; Richard Tenison's sermons (another man) | excluded | |
