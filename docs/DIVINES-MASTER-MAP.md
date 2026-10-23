@@ -40428,3 +40428,21 @@ Shelf: `pipeline/geraldine-bonner_shelf.json` (2026-10-22; added at the coordina
 | The book of Evelyn | have | PG 68941, `gbonner-book-of-evelyn` (1817 units) |
 | The leading lady | have | PG 69322, `gbonner-leading-lady` (1201 units) |
 | The pioneer | have | PG 73040, `gbonner-pioneer` (2101 units) |
+
+## Dillon Wallace
+
+Shelf: `pipeline/dillon-wallace_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Labrador adventure and boys' books. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lure of the Labrador Wild | have | PG 4019, `dwallace-lure-of-the-labrador-wild` (1072 units) |
+| The Long Labrador Trail | have | PG 9857, `dwallace-long-labrador-trail` (949 units) |
+| Bobby of the Labrador | have | PG 14882, `dwallace-bobby-of-the-labrador` (1250 units) |
+| Troop One of the Labrador | have | PG 16048, `dwallace-troop-one-of-the-labrador` (1320 units) |
+| Ungava Bob: A Winter's Tale | have | PG 16596, `dwallace-ungava-bob` (1363 units) |
+| The Story of Grenfell of the Labrador: A Boy's Life of Wilfred T. Grenfell | have | PG 16809, `dwallace-story-of-grenfell-of-the-labrador` (891 units) |
+| Left on the Labrador: A Tale of Adventure Down North | have | PG 20059, `dwallace-left-on-the-labrador` (1381 units) |
+| The Gaunt Gray Wolf: A Tale of Adventure With Ungava Bob | have | PG 29374, `dwallace-gaunt-gray-wolf` (1380 units) |
+| The Wilderness Castaways | have | PG 42382, `dwallace-wilderness-castaways` (1733 units) |
+| Grit A-Plenty: A Tale of the Labrador Wild | have | PG 42396, `dwallace-grit-a-plenty` (1449 units) |
+| Packing and Portaging | have | PG 44720, `dwallace-packing-and-portaging` (373 units) |

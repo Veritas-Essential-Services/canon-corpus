@@ -1,0 +1,162 @@
+{
+ "_about": "Dillon Wallace's writing at Gutenberg: labrador adventure and boys' books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Dillon Wallace",
+ "_name_words": [
+  "dillon",
+  "wallace"
+ ],
+ "_surname": [
+  "dillon wallace"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dwallace-lure-of-the-labrador-wild": [
+   4019,
+   "The Lure of the Labrador Wild"
+  ],
+  "dwallace-long-labrador-trail": [
+   9857,
+   "The Long Labrador Trail"
+  ],
+  "dwallace-bobby-of-the-labrador": [
+   14882,
+   "Bobby of the Labrador"
+  ],
+  "dwallace-troop-one-of-the-labrador": [
+   16048,
+   "Troop One of the Labrador"
+  ],
+  "dwallace-ungava-bob": [
+   16596,
+   "Ungava Bob: A Winter's Tale"
+  ],
+  "dwallace-story-of-grenfell-of-the-labrador": [
+   16809,
+   "The Story of Grenfell of the Labrador: A Boy's Life of Wilfred T. Grenfell"
+  ],
+  "dwallace-left-on-the-labrador": [
+   20059,
+   "Left on the Labrador: A Tale of Adventure Down North"
+  ],
+  "dwallace-gaunt-gray-wolf": [
+   29374,
+   "The Gaunt Gray Wolf: A Tale of Adventure With Ungava Bob"
+  ],
+  "dwallace-wilderness-castaways": [
+   42382,
+   "The Wilderness Castaways"
+  ],
+  "dwallace-grit-a-plenty": [
+   42396,
+   "Grit A-Plenty: A Tale of the Labrador Wild"
+  ],
+  "dwallace-packing-and-portaging": [
+   44720,
+   "Packing and Portaging"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "dwallace-lure-of-the-labrador-wild": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-long-labrador-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-bobby-of-the-labrador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-troop-one-of-the-labrador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-ungava-bob": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-story-of-grenfell-of-the-labrador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-left-on-the-labrador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-gaunt-gray-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-wilderness-castaways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-grit-a-plenty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dwallace-packing-and-portaging": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillon wallace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
