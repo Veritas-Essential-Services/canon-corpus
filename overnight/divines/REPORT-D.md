@@ -2477,3 +2477,6 @@
 
 ## 2026-10-22 23:11 CDT — george-ethelbert-walsh: done
 - george-ethelbert-walsh: new shelf, 6 Gutenberg books, 3,898 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — frances-eleanor-trollope: done
+- frances-eleanor-trollope: new shelf, 6 Gutenberg books, 6,723 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.

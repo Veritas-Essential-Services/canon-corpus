@@ -17798,3 +17798,16 @@ Shelf: `pipeline/george-ethelbert-walsh_shelf.json` (2026-10-22; added at the co
 | Bumper the White Rabbit and His Friends | have | PG 57729, `gewalsh-bumper-the-white-rabbit-and-his-friends` (675 units) |
 | White Tail the Deer's Adventures | have | PG 57769, `gewalsh-white-tail-the-deers-adventures` (623 units) |
 | Bumper the White Rabbit in the Woods | have | PG 57908, `gewalsh-bumper-the-white-rabbit-in-the-woods` (670 units) |
+
+## Frances Eleanor Trollope
+
+Shelf: `pipeline/frances-eleanor-trollope_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Charming Fellow, Volume I | have | PG 35428, `fetrollope-charming-fellow-volume-i` (1251 units) |
+| A Charming Fellow, Volume II | have | PG 35429, `fetrollope-charming-fellow-volume-ii` (1042 units) |
+| A Charming Fellow, Volume III | have | PG 35430, `fetrollope-charming-fellow-volume-iii` (1134 units) |
+| That Unfortunate Marriage, Vol. 1 | have | PG 35943, `fetrollope-that-unfortunate-marriage-vol-1` (1066 units) |
+| That Unfortunate Marriage, Vol. 2 | have | PG 35944, `fetrollope-that-unfortunate-marriage-vol-2` (1099 units) |
+| That Unfortunate Marriage, Vol. 3 | have | PG 35945, `fetrollope-that-unfortunate-marriage-vol-3` (1131 units) |

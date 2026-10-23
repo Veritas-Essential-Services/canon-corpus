@@ -1,0 +1,99 @@
+{
+ "_about": "Frances Eleanor Trollope: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frances Eleanor Trollope",
+ "_name_words": [
+  "eleanor",
+  "frances",
+  "trollope"
+ ],
+ "_surname": [
+  "frances eleanor trollope",
+  "trollope"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fetrollope-charming-fellow-volume-i": [
+   35428,
+   "A Charming Fellow, Volume I"
+  ],
+  "fetrollope-charming-fellow-volume-ii": [
+   35429,
+   "A Charming Fellow, Volume II"
+  ],
+  "fetrollope-charming-fellow-volume-iii": [
+   35430,
+   "A Charming Fellow, Volume III"
+  ],
+  "fetrollope-that-unfortunate-marriage-vol-1": [
+   35943,
+   "That Unfortunate Marriage, Vol. 1"
+  ],
+  "fetrollope-that-unfortunate-marriage-vol-2": [
+   35944,
+   "That Unfortunate Marriage, Vol. 2"
+  ],
+  "fetrollope-that-unfortunate-marriage-vol-3": [
+   35945,
+   "That Unfortunate Marriage, Vol. 3"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fetrollope-charming-fellow-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances eleanor trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fetrollope-charming-fellow-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances eleanor trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fetrollope-charming-fellow-volume-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances eleanor trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fetrollope-that-unfortunate-marriage-vol-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances eleanor trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fetrollope-that-unfortunate-marriage-vol-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances eleanor trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fetrollope-that-unfortunate-marriage-vol-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances eleanor trollope",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
