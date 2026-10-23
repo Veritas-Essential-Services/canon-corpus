@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Annis Lee Wister (1830-1908): German popular novels for Lippincott (1868-1900): Marlitt, E. Werner, Streckfuss, Ossip Schubin, Hillern, von Glümer, Bethusy-Huc. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Annis Lee Wister (1830-1908): German popular novels for Lippincott (1868-1900): Marlitt, E. Werner, Streckfuss, Ossip Schubin, Hillern, von Glümer, Bethusy-Huc. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted. Round 134 (2026-10-23, vetoable) added from archive.org Marlitt's The Second Wife and The Bailiff's Maid, Harder's A Family Feud, Volckhausen's Why Did He Not Die?, Heimburg's A Penniless Girl, E. Oswald's Vain Forebodings, Zöge von Manteuffel's Violetta and Eichendorff's Leaves from the Life of a Good-for-Nothing (Lippincott, 1871-1889).",
  "_name_words": [
   "annis lee wister",
   "a. l. wister",
@@ -72,7 +72,40 @@
    "At the Councillor's; or, A Nameless History"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "wis-marlitt-second-wife": [
+   "secondwifearoma00marlgoog",
+   "The Second Wife"
+  ],
+  "wis-marlitt-bailiffs-maid": [
+   "bailiffsmaidaro01wistgoog",
+   "The Bailiff's Maid"
+  ],
+  "wis-harder-family-feud": [
+   "cu31924031215712",
+   "A Family Feud"
+  ],
+  "wis-volckhausen-why-did-he-not-die": [
+   "whydidhenotdieor00volciala",
+   "Why Did He Not Die?"
+  ],
+  "wis-heimburg-penniless-girl": [
+   "bub_gb_jmYYAAAAYAAJ",
+   "A Penniless Girl"
+  ],
+  "wis-oswald-vain-forebodings": [
+   "vainforebodings00smigoog",
+   "Vain Forebodings"
+  ],
+  "wis-zoge-violetta": [
+   "violettaromancea00zoge",
+   "Violetta"
+  ],
+  "wis-eichendorff-good-for-nothing": [
+   "cu31924026173736",
+   "Leaves from the Life of a Good-for-Nothing"
+  ]
+ },
  "titles": {
   "wister-bethusy-huc-the-eichhofs-a-romance": {
    "source": "wis-35311",
@@ -185,15 +218,81 @@
    "translated": "1868-1900 (see the Gutenberg header)",
    "translator": "Annis Lee Wister",
    "scan_edition": "Project Gutenberg 35229 (clean text)"
+  },
+  "wister-marlitt-the-second-wife": {
+   "source": "wis-marlitt-second-wife",
+   "of": "E. Marlitt",
+   "work": "The Second Wife: A Romance",
+   "translated": 1874,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1888 printing (first published 1874); archive.org scan (Google copy)"
+  },
+  "wister-marlitt-the-bailiffs-maid": {
+   "source": "wis-marlitt-bailiffs-maid",
+   "of": "E. Marlitt",
+   "work": "The Bailiff's Maid: A Romance",
+   "translated": 1881,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1881; archive.org scan (Google copy)"
+  },
+  "wister-harder-a-family-feud": {
+   "source": "wis-harder-family-feud",
+   "of": "Ludwig Harder",
+   "work": "A Family Feud",
+   "translated": 1877,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1877; archive.org scan (Cornell copy)"
+  },
+  "wister-volckhausen-why-did-he-not-die": {
+   "source": "wis-volckhausen-why-did-he-not-die",
+   "of": "Ad. von Volckhausen",
+   "work": "Why Did He Not Die? or, The Child from the Ebräergang",
+   "translated": 1871,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1871; archive.org scan"
+  },
+  "wister-heimburg-a-penniless-girl": {
+   "source": "wis-heimburg-penniless-girl",
+   "of": "W. Heimburg",
+   "work": "A Penniless Girl: A Novel",
+   "translated": 1885,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1885 (copyright 1884); archive.org scan (Google copy)"
+  },
+  "wister-oswald-vain-forebodings": {
+   "source": "wis-oswald-vain-forebodings",
+   "of": "E. Oswald",
+   "work": "Vain Forebodings",
+   "translated": 1886,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia (copyright 1886); archive.org scan (Google copy)"
+  },
+  "wister-zoge-von-manteuffel-violetta": {
+   "source": "wis-zoge-violetta",
+   "of": "Ursula Zöge von Manteuffel",
+   "work": "Violetta: A Romance",
+   "translated": 1886,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1886; archive.org scan"
+  },
+  "wister-eichendorff-leaves-from-the-life-of-a-good-for-nothing": {
+   "source": "wis-eichendorff-good-for-nothing",
+   "of": "Joseph von Eichendorff",
+   "work": "Leaves from the Life of a Good-for-Nothing",
+   "translated": 1889,
+   "translator": "Mrs. A. L. Wister",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1889; archive.org scan (Cornell copy)"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "ia-raimund-from-hand-to-hand": "Golo Raimund's From Hand to Hand (Lippincott, 1882; fromhandtohanda00wistgoog): her name is on the title page, but the OCR reads it 'WISTEB', so the identity gate cannot pass."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "wis-34892": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -202,7 +301,7 @@
   },
   "wis-34917": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "annis lee wister",
    "identity": "ok",
@@ -211,7 +310,7 @@
   },
   "wis-34953": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -220,7 +319,7 @@
   },
   "wis-34995": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -229,7 +328,7 @@
   },
   "wis-35116": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -238,7 +337,7 @@
   },
   "wis-35229": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -247,7 +346,7 @@
   },
   "wis-35311": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -256,7 +355,7 @@
   },
   "wis-35454": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -265,7 +364,7 @@
   },
   "wis-35531": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -274,7 +373,7 @@
   },
   "wis-35541": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -283,7 +382,7 @@
   },
   "wis-36550": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -292,7 +391,7 @@
   },
   "wis-36709": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -301,7 +400,7 @@
   },
   "wis-42426": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
@@ -310,12 +409,100 @@
   },
   "wis-43393": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. l. wister",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "A. L. Wister"
+  },
+  "wis-marlitt-second-wife": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wis-marlitt-bailiffs-maid": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wis-harder-family-feud": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wis-volckhausen-why-did-he-not-die": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wis-heimburg-penniless-girl": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wis-oswald-vain-forebodings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wis-zoge-violetta": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wis-eichendorff-good-for-nothing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. wister",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -388,6 +575,79 @@
    "pg": 43393,
    "pg_copyrighted_marker": false,
    "pg_translator": "A. L. Wister"
+  },
+  "wis-marlitt-second-wife": {
+   "ia": "secondwifearoma00marlgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1888
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wis-marlitt-bailiffs-maid": {
+   "ia": "bailiffsmaidaro01wistgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1881
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wis-harder-family-feud": {
+   "ia": "cu31924031215712",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wis-volckhausen-why-did-he-not-die": {
+   "ia": "whydidhenotdieor00volciala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1871
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wis-heimburg-penniless-girl": {
+   "ia": "bub_gb_jmYYAAAAYAAJ",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1884,
+    1885
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "title page read by eye: 'TRANSLATED BY MRS. A. L. WISTER' (the OCR garbles the name as WISTKB); the gate passes only on her name in the publisher's list at the back"
+  },
+  "wis-oswald-vain-forebodings": {
+   "ia": "vainforebodings00smigoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885,
+    1886,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wis-zoge-violetta": {
+   "ia": "violettaromancea00zoge",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1886
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "wis-eichendorff-good-for-nothing": {
+   "ia": "cu31924026173736",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856,
+    1888,
+    1889,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

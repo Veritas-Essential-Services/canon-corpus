@@ -2027,3 +2027,6 @@
 
 ## 2026-10-22 23:40 CDT — round 43 done
 - nathaniel-lardner, john-jortin, john-sharp-archbishop, philip-skelton, john-hales-of-eton, isaac-milner, thomas-haweis, samuel-walker-of-truro, william-bromley-cadogan: 9 shelves, 52 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-22 23:45 CDT — round 44 done
+- francis-atterbury, benjamin-hoadly, thomas-tenison, william-sherlock: 4 shelves, 15 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.

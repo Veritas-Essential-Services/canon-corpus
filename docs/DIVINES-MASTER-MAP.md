@@ -10518,6 +10518,58 @@ Slugs `cadogan-*`. Built from title pages read for round 43.
 | Discourses of the Honourable and Reverend William Bromley Cadogan, A.M., late Rector of St. Luke's Chelsea ... : to which are now added Short observations on the Lord's Prayer, and letters to several of his friends (London : Printed for F. and C. Rivington, 1798) | have-ocr | IA `discoursesofhono00cado` |
 | The Life of the Rev. William Romaine (printed by T. Bensley; and sold by Vernor andHood; Mathews; Lewis andFienes, Chelsea; Cooke, Oxford; Smart andCowslade, Reading; andHazard, Bath, 1796) | have-ocr | IA `liferevwilliamr00cadogoog` |
 | ECCO copies of both; Liberty and Equality, two sermons (1792) | alternate | not shelved |
+
+## Francis Atterbury (round 44, my pick, 2026-10-22)
+
+Slugs `atterbury-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons and Discourses on Several Subjects and Occasions, vol. 1 (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_1` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 2 (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_2` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 3 (London, catalogued 1745) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_3` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 4 (London, catalogued 1745) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_4` |
+| Other printings of the Sermons (1723-1774); the Epistolary Correspondence (Nichols, 1783-1787), letters to and from him with editorial notes, left for a later round | alternate | not shelved |
+| Lewis Atterbury's Sermons (his brother); the Virgil translation volumes; the Convocation pamphlets of 1700-1702 (church politics) | excluded | |
+
+## Benjamin Hoadly (round 44, my pick, 2026-10-22)
+
+Slugs `hoadly-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 1 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_1` |
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 2 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_2` |
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 3 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_3` |
+| Separate Sermons (1744, 1749), Sixteen Sermons (1754) and Twenty Sermons (1755), all inside the Works | alternate | not shelved |
+| Sermons on the Mode and Subjects of Baptism (1803), by another Hoadly | excluded | |
+
+## Thomas Tenison (round 44, my pick, 2026-10-22)
+
+Slugs `tenison-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| The Creed of Mr. Hobbes Examined, in a feigned conference between him and a student in divinity (London, catalogued 1670) | have-ocr | IA `bim_early-english-books-1641-1700_the-creed-of-mr-hobbes-_tenison-thomas_1670` |
+| Of Idolatry: a discourse (London, catalogued 1678) | have-ocr | IA `bim_early-english-books-1641-1700_of-idolatry-a-discourse_tenison-thomas_1678` |
+| Popery not founded on Scripture (1688), a collection of tracts by several divines that he is said to have organised: a compilation | pending | not shelved |
+| A Discourse concerning a Guide in Matters of Faith (1683; IA adiscourseconce01tenigoog): the Archive returned a server error for its text on 2026-10-23, so its title page could not be checked. Retry later | pending | not shelved |
+| His edition of Bacon's Baconiana (Bacon's remains); single sermons and the 1687-1688 conference pamphlets, left for a later round; Richard Tenison's sermons (another man) | excluded | |
+
+## William Sherlock (Dean of St Paul's) (round 44, my pick, 2026-10-22)
+
+Slugs `wsherlock-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| A Practical Discourse Concerning Death: By William Sherlock (printed for J. Osborn, 1751) | have-ocr | IA `apracticaldisco00shergoog` |
+| A practical discourse concerning a future judgment (London Printed for R. Ware [and others, 1749) | have-ocr | IA `practicaldiscour00sheruoft` |
+| A discourse concerning the divine providence: By William Sherlock (printed by J.R. for D . Brown, J. Walthoe, J . Nicholson, B. Tooke, J . Pemberton, and T. Ward, 1715) | have-ocr | IA `adiscourseconce01shergoog` |
+| A Vindication of the Doctrine of the Holy and Ever Blessed Trinity, and the Incarnation of the (Printed for W. Rogers, 1690) | have-ocr | IA `avindicationdoc00shergoog` |
+| A discourse concerning the knowledge of Jesus Christ, and our union and communion with Him, &c (London, Printed by J.M. for W. Kettilby, 1674) | have-ocr | IA `discoursejesus00sheruoft` |
+| The case of resistance of the supreme powers stated and resolved : according to the doctrine of the Holy Scriptures (London : Printed for Fincham Gardiner, 1684) | have-ocr | IA `caseofr00sher` |
+| Many other printings of Death and Future Judgment; the EEBO pamphlets of 1674-1700 | alternate | not shelved |
+| Thomas Sherlock's works (on the thomas-sherlock shelf); 'A papist misrepresented' (Gother's, answered by others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
@@ -20599,7 +20651,7 @@ Round 21 (2026-10-10), vetoable. His folk-tale books are on lane D's bain_shelf.
 ## Mary J. Safford (Ebers, Felix Dahn, Mühlbach, Nordau)
 
 Shelf: `pipeline/safford_shelf.json` · fetch `python3 pipeline/fetch_shelf.py safford` · titles `python3 pipeline/split_shelf_titles.py safford`.
-Round 22 (2026-10-10), vetoable. Ebers complete texts only. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Ebers complete texts only. Round 134 added nine archive.org books (Ebers, Berthet, Eschstruth, Nordau x2, Ambrosius, Boissière, Finot x2). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20626,13 +20678,22 @@ Round 22 (2026-10-10), vetoable. Ebers complete texts only. Not converted to uni
 | `safford-muhlbach-a-conspiracy-of-the-carbonari` | Luise Mühlbach | A Conspiracy of the Carbonari | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 16396 |
 | `safford-nordau-soap-bubbles` | Max Nordau | Soap bubbles | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 77764 |
 | `safford-nordau-the-dwarf-s-spectacles-and-other-fairy-t` | Max Nordau | The dwarf's spectacles, and other fairy tales | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 77279 |
+| `safford-ebers-lorenz-alma-tadema` | Georg Ebers | Lorenz Alma Tadema: His Life and Works | Mary J. Safford | 1886 | have-raw | IA `lorenzalmatadema00eber_0` |
+| `safford-berthet-the-pre-historic-world` | Élie Berthet | The Pre-historic World | Mary J. Safford | 1879 | have-raw | IA `cu31924027255359` |
+| `safford-eschstruth-the-opposite-house` | Nataly von Eschstruth | The Opposite House: A Novel | Mary J. Safford | 1894 | have-raw | IA `oppositehousenov00esch` |
+| `safford-nordau-the-right-to-love` | Max Nordau | The Right to Love | Mary J. Safford | 1895 | have-raw | IA `righttolove00nord` |
+| `safford-nordau-a-question-of-honor` | Max Nordau | A Question of Honor: A Tragedy of the Present Day in Four Acts | Mary J. Safford | 1907 | have-raw | IA `cu31924026313092` |
+| `safford-ambrosius-poems` | Johanna Ambrosius | Poems (ed. Karl Schrattenthal) | Mary J. Safford | 1896 | have-raw | IA `poemsbyjohannaam00voigiala` |
+| `safford-boissiere-the-missing-finger` | Albert Boissière | The Missing Finger: A Story of Mystery | Mary J. Safford | 1911 | have-raw | IA `cu31924027334477` |
+| `safford-finot-problems-of-the-sexes` | Jean Finot | Problems of the Sexes | Mary J. Safford | 1913 | have-raw | IA `problemsofsexes00fino` |
+| `safford-finot-the-science-of-happiness` | Jean Finot | The Science of Happiness | Mary J. Safford | 1914 | have-raw | IA `scienceofhappine00fino` |
 | — | — | ebers-volume-splits: Gutenberg's per-volume part-files of the Ebers novels are left out; the complete texts are used. | — | — | excluded | — |
 | — | — | pg-5592: The Complete Short Works of Georg Ebers is a Gutenberg compilation with more than one translator; A Question (5588) is shelved singly. | — | — | excluded | — |
 
 ## Annis Lee Wister (Marlitt, E. Werner, Ossip Schubin)
 
 Shelf: `pipeline/wister_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wister` · titles `python3 pipeline/split_shelf_titles.py wister`.
-Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Round 134 added eight Lippincott romances from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20650,6 +20711,14 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `wister-streckfuss-too-rich-a-romance` | Adolf Streckfuss | Too Rich: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 34995 |
 | `wister-werner-saint-michael-a-romance` | E. Werner | Saint Michael: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35116 |
 | `wister-werner-the-alpine-fay-a-romance` | E. Werner | The Alpine Fay: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35229 |
+| `wister-marlitt-the-second-wife` | E. Marlitt | The Second Wife: A Romance | Mrs. A. L. Wister | 1874 | have-raw | IA `secondwifearoma00marlgoog` |
+| `wister-marlitt-the-bailiffs-maid` | E. Marlitt | The Bailiff's Maid: A Romance | Mrs. A. L. Wister | 1881 | have-raw | IA `bailiffsmaidaro01wistgoog` |
+| `wister-harder-a-family-feud` | Ludwig Harder | A Family Feud | Mrs. A. L. Wister | 1877 | have-raw | IA `cu31924031215712` |
+| `wister-volckhausen-why-did-he-not-die` | Ad. von Volckhausen | Why Did He Not Die? or, The Child from the Ebräergang | Mrs. A. L. Wister | 1871 | have-raw | IA `whydidhenotdieor00volciala` |
+| `wister-heimburg-a-penniless-girl` | W. Heimburg | A Penniless Girl: A Novel | Mrs. A. L. Wister | 1885 | have-raw | IA `bub_gb_jmYYAAAAYAAJ` |
+| `wister-oswald-vain-forebodings` | E. Oswald | Vain Forebodings | Mrs. A. L. Wister | 1886 | have-raw | IA `vainforebodings00smigoog` |
+| `wister-zoge-von-manteuffel-violetta` | Ursula Zöge von Manteuffel | Violetta: A Romance | Mrs. A. L. Wister | 1886 | have-raw | IA `violettaromancea00zoge` |
+| `wister-eichendorff-leaves-from-the-life-of-a-good-for-nothing` | Joseph von Eichendorff | Leaves from the Life of a Good-for-Nothing | Mrs. A. L. Wister | 1889 | have-raw | IA `cu31924026173736` |
 
 ## A. R. Allinson (Anatole France, Brantôme, Fantômas)
 

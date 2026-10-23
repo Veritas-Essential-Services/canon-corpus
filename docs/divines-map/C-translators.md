@@ -1644,7 +1644,7 @@ Round 21 (2026-10-10), vetoable. His folk-tale books are on lane D's bain_shelf.
 ## Mary J. Safford (Ebers, Felix Dahn, Mühlbach, Nordau)
 
 Shelf: `pipeline/safford_shelf.json` · fetch `python3 pipeline/fetch_shelf.py safford` · titles `python3 pipeline/split_shelf_titles.py safford`.
-Round 22 (2026-10-10), vetoable. Ebers complete texts only. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Ebers complete texts only. Round 134 added nine archive.org books (Ebers, Berthet, Eschstruth, Nordau x2, Ambrosius, Boissière, Finot x2). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1671,13 +1671,22 @@ Round 22 (2026-10-10), vetoable. Ebers complete texts only. Not converted to uni
 | `safford-muhlbach-a-conspiracy-of-the-carbonari` | Luise Mühlbach | A Conspiracy of the Carbonari | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 16396 |
 | `safford-nordau-soap-bubbles` | Max Nordau | Soap bubbles | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 77764 |
 | `safford-nordau-the-dwarf-s-spectacles-and-other-fairy-t` | Max Nordau | The dwarf's spectacles, and other fairy tales | Mary J. Safford | 1880-1910 (see the Gutenberg header) | have | PG 77279 |
+| `safford-ebers-lorenz-alma-tadema` | Georg Ebers | Lorenz Alma Tadema: His Life and Works | Mary J. Safford | 1886 | have-raw | IA `lorenzalmatadema00eber_0` |
+| `safford-berthet-the-pre-historic-world` | Élie Berthet | The Pre-historic World | Mary J. Safford | 1879 | have-raw | IA `cu31924027255359` |
+| `safford-eschstruth-the-opposite-house` | Nataly von Eschstruth | The Opposite House: A Novel | Mary J. Safford | 1894 | have-raw | IA `oppositehousenov00esch` |
+| `safford-nordau-the-right-to-love` | Max Nordau | The Right to Love | Mary J. Safford | 1895 | have-raw | IA `righttolove00nord` |
+| `safford-nordau-a-question-of-honor` | Max Nordau | A Question of Honor: A Tragedy of the Present Day in Four Acts | Mary J. Safford | 1907 | have-raw | IA `cu31924026313092` |
+| `safford-ambrosius-poems` | Johanna Ambrosius | Poems (ed. Karl Schrattenthal) | Mary J. Safford | 1896 | have-raw | IA `poemsbyjohannaam00voigiala` |
+| `safford-boissiere-the-missing-finger` | Albert Boissière | The Missing Finger: A Story of Mystery | Mary J. Safford | 1911 | have-raw | IA `cu31924027334477` |
+| `safford-finot-problems-of-the-sexes` | Jean Finot | Problems of the Sexes | Mary J. Safford | 1913 | have-raw | IA `problemsofsexes00fino` |
+| `safford-finot-the-science-of-happiness` | Jean Finot | The Science of Happiness | Mary J. Safford | 1914 | have-raw | IA `scienceofhappine00fino` |
 | — | — | ebers-volume-splits: Gutenberg's per-volume part-files of the Ebers novels are left out; the complete texts are used. | — | — | excluded | — |
 | — | — | pg-5592: The Complete Short Works of Georg Ebers is a Gutenberg compilation with more than one translator; A Question (5588) is shelved singly. | — | — | excluded | — |
 
 ## Annis Lee Wister (Marlitt, E. Werner, Ossip Schubin)
 
 Shelf: `pipeline/wister_shelf.json` · fetch `python3 pipeline/fetch_shelf.py wister` · titles `python3 pipeline/split_shelf_titles.py wister`.
-Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Round 134 added eight Lippincott romances from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1695,6 +1704,14 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `wister-streckfuss-too-rich-a-romance` | Adolf Streckfuss | Too Rich: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 34995 |
 | `wister-werner-saint-michael-a-romance` | E. Werner | Saint Michael: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35116 |
 | `wister-werner-the-alpine-fay-a-romance` | E. Werner | The Alpine Fay: A Romance | Annis Lee Wister | 1868-1900 (see the Gutenberg header) | have | PG 35229 |
+| `wister-marlitt-the-second-wife` | E. Marlitt | The Second Wife: A Romance | Mrs. A. L. Wister | 1874 | have-raw | IA `secondwifearoma00marlgoog` |
+| `wister-marlitt-the-bailiffs-maid` | E. Marlitt | The Bailiff's Maid: A Romance | Mrs. A. L. Wister | 1881 | have-raw | IA `bailiffsmaidaro01wistgoog` |
+| `wister-harder-a-family-feud` | Ludwig Harder | A Family Feud | Mrs. A. L. Wister | 1877 | have-raw | IA `cu31924031215712` |
+| `wister-volckhausen-why-did-he-not-die` | Ad. von Volckhausen | Why Did He Not Die? or, The Child from the Ebräergang | Mrs. A. L. Wister | 1871 | have-raw | IA `whydidhenotdieor00volciala` |
+| `wister-heimburg-a-penniless-girl` | W. Heimburg | A Penniless Girl: A Novel | Mrs. A. L. Wister | 1885 | have-raw | IA `bub_gb_jmYYAAAAYAAJ` |
+| `wister-oswald-vain-forebodings` | E. Oswald | Vain Forebodings | Mrs. A. L. Wister | 1886 | have-raw | IA `vainforebodings00smigoog` |
+| `wister-zoge-von-manteuffel-violetta` | Ursula Zöge von Manteuffel | Violetta: A Romance | Mrs. A. L. Wister | 1886 | have-raw | IA `violettaromancea00zoge` |
+| `wister-eichendorff-leaves-from-the-life-of-a-good-for-nothing` | Joseph von Eichendorff | Leaves from the Life of a Good-for-Nothing | Mrs. A. L. Wister | 1889 | have-raw | IA `cu31924026173736` |
 
 ## A. R. Allinson (Anatole France, Brantôme, Fantômas)
 

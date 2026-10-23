@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain William Sherlock (1641-1707), Dean of St Paul's, father of Bishop Thomas Sherlock, for the Word Hoard: A Practical Discourse concerning Death, a Practical Discourse concerning a Future Judgment, A Discourse concerning the Divine Providence, A Vindication of the Doctrine of the Holy and Ever Blessed Trinity (1690), A Discourse concerning the Knowledge of Jesus Christ (1674) and The Case of Resistance of the Supreme Powers (1684), from Internet Archive scans. Added 2026-10-23 by lane A, round 44 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sherlock"
+ ],
+ "_surname": [
+  "william sherlock",
+  "dean sherlock",
+  "w. sherlock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wsherlock-death": [
+   "apracticaldisco00shergoog",
+   "A Practical Discourse Concerning Death: By William Sherlock (printed for J. Osborn, 1751)"
+  ],
+  "wsherlock-future-judgment": [
+   "practicaldiscour00sheruoft",
+   "A practical discourse concerning a future judgment (London Printed for R. Ware [and others, 1749)"
+  ],
+  "wsherlock-providence": [
+   "adiscourseconce01shergoog",
+   "A discourse concerning the divine providence: By William Sherlock (printed by J.R. for D . Brown, J. Walthoe, J . Nicholson, B. Tooke, J . Pemberton, and T. Ward, 1715)"
+  ],
+  "wsherlock-trinity-1690": [
+   "avindicationdoc00shergoog",
+   "A Vindication of the Doctrine of the Holy and Ever Blessed Trinity, and the Incarnation of the (Printed for W. Rogers, 1690)"
+  ],
+  "wsherlock-knowledge-christ-1674": [
+   "discoursejesus00sheruoft",
+   "A discourse concerning the knowledge of Jesus Christ, and our union and communion with Him, &c (London, Printed by J.M. for W. Kettilby, 1674)"
+  ],
+  "wsherlock-case-resistance-1684": [
+   "caseofr00sher",
+   "The case of resistance of the supreme powers stated and resolved : according to the doctrine of the Holy Scriptures (London : Printed for Fincham Gardiner, 1684)"
+  ]
+ },
+ "_alternates": {
+  "wsherlock-copies": "Many other printings of Death and Future Judgment; the EEBO pamphlets of 1674-1700"
+ },
+ "_excluded": {
+  "wsherlock-other": "Thomas Sherlock's works (on the thomas-sherlock shelf); 'A papist misrepresented' (Gother's, answered by others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wsherlock-trinity-1690": "title page text: 'A Vindication of the Doctrine of the Holy and Ever Blessed Trinity, and the Incarnation ... By William Sherlock D.D. ... London, printed for W. Rogers ... 1690' (the OCR reads the surname as 'SHEKLOCK')",
+  "wsherlock-knowledge-christ-1674": "title page text: 'A Discourse concerning the Knowledge of Jesus Christ, and our Union and Communion with him. By William Sherlock, Rector of St George Buttolph Lane, London. London, printed by J. M. for Walter Kettilby ... MDCLXXIV' (the OCR reads 'Willum sherloc^')",
+  "wsherlock-case-resistance-1684": "title page text: 'The Case of Resistance of the Supreme Powers stated and resolved, according to the doctrine of the Holy Scriptures. By William Sherlock, D.D. Rector of St. George Buttolph-Lane, London ... 1684' (the OCR garbles the name line to 'IV [L L/S UEKLOC K')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wsherlock-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wsherlock-future-judgment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wsherlock-providence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william sherlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1715",
+   "ia_date": "1715",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wsherlock-trinity-1690": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1690",
+   "ia_date": "1690",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wsherlock-knowledge-christ-1674": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1674",
+   "ia_date": "1674",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wsherlock-case-resistance-1684": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1684",
+   "ia_date": "1684",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

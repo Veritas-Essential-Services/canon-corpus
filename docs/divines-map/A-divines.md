@@ -10512,3 +10512,55 @@ Slugs `cadogan-*`. Built from title pages read for round 43.
 | Discourses of the Honourable and Reverend William Bromley Cadogan, A.M., late Rector of St. Luke's Chelsea ... : to which are now added Short observations on the Lord's Prayer, and letters to several of his friends (London : Printed for F. and C. Rivington, 1798) | have-ocr | IA `discoursesofhono00cado` |
 | The Life of the Rev. William Romaine (printed by T. Bensley; and sold by Vernor andHood; Mathews; Lewis andFienes, Chelsea; Cooke, Oxford; Smart andCowslade, Reading; andHazard, Bath, 1796) | have-ocr | IA `liferevwilliamr00cadogoog` |
 | ECCO copies of both; Liberty and Equality, two sermons (1792) | alternate | not shelved |
+
+## Francis Atterbury (round 44, my pick, 2026-10-22)
+
+Slugs `atterbury-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons and Discourses on Several Subjects and Occasions, vol. 1 (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_1` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 2 (London, catalogued 1740) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses-o_atterbury-francis_1740_2` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 3 (London, catalogued 1745) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_3` |
+| Sermons and Discourses on Several Subjects and Occasions, vol. 4 (London, catalogued 1745) | have-ocr | IA `bim_eighteenth-century_sermons-and-discourses_atterbury-francis-bish_1745_4` |
+| Other printings of the Sermons (1723-1774); the Epistolary Correspondence (Nichols, 1783-1787), letters to and from him with editorial notes, left for a later round | alternate | not shelved |
+| Lewis Atterbury's Sermons (his brother); the Virgil translation volumes; the Convocation pamphlets of 1700-1702 (church politics) | excluded | |
+
+## Benjamin Hoadly (round 44, my pick, 2026-10-22)
+
+Slugs `hoadly-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 1 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_1` |
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 2 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_2` |
+| The Works of Benjamin Hoadly, D.D. successively Bishop of Bangor, Hereford, Salisbury, and Winchester, vol. 3 (London, catalogued 1773) | have-ocr | IA `bim_eighteenth-century_the-works-of-benjamin-ho_hoadly-benjamin_1773_3` |
+| Separate Sermons (1744, 1749), Sixteen Sermons (1754) and Twenty Sermons (1755), all inside the Works | alternate | not shelved |
+| Sermons on the Mode and Subjects of Baptism (1803), by another Hoadly | excluded | |
+
+## Thomas Tenison (round 44, my pick, 2026-10-22)
+
+Slugs `tenison-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| The Creed of Mr. Hobbes Examined, in a feigned conference between him and a student in divinity (London, catalogued 1670) | have-ocr | IA `bim_early-english-books-1641-1700_the-creed-of-mr-hobbes-_tenison-thomas_1670` |
+| Of Idolatry: a discourse (London, catalogued 1678) | have-ocr | IA `bim_early-english-books-1641-1700_of-idolatry-a-discourse_tenison-thomas_1678` |
+| Popery not founded on Scripture (1688), a collection of tracts by several divines that he is said to have organised: a compilation | pending | not shelved |
+| A Discourse concerning a Guide in Matters of Faith (1683; IA adiscourseconce01tenigoog): the Archive returned a server error for its text on 2026-10-23, so its title page could not be checked. Retry later | pending | not shelved |
+| His edition of Bacon's Baconiana (Bacon's remains); single sermons and the 1687-1688 conference pamphlets, left for a later round; Richard Tenison's sermons (another man) | excluded | |
+
+## William Sherlock (Dean of St Paul's) (round 44, my pick, 2026-10-22)
+
+Slugs `wsherlock-*`. Built from title pages read for round 44.
+
+| Work | Status | Where |
+|---|---|---|
+| A Practical Discourse Concerning Death: By William Sherlock (printed for J. Osborn, 1751) | have-ocr | IA `apracticaldisco00shergoog` |
+| A practical discourse concerning a future judgment (London Printed for R. Ware [and others, 1749) | have-ocr | IA `practicaldiscour00sheruoft` |
+| A discourse concerning the divine providence: By William Sherlock (printed by J.R. for D . Brown, J. Walthoe, J . Nicholson, B. Tooke, J . Pemberton, and T. Ward, 1715) | have-ocr | IA `adiscourseconce01shergoog` |
+| A Vindication of the Doctrine of the Holy and Ever Blessed Trinity, and the Incarnation of the (Printed for W. Rogers, 1690) | have-ocr | IA `avindicationdoc00shergoog` |
+| A discourse concerning the knowledge of Jesus Christ, and our union and communion with Him, &c (London, Printed by J.M. for W. Kettilby, 1674) | have-ocr | IA `discoursejesus00sheruoft` |
+| The case of resistance of the supreme powers stated and resolved : according to the doctrine of the Holy Scriptures (London : Printed for Fincham Gardiner, 1684) | have-ocr | IA `caseofr00sher` |
+| Many other printings of Death and Future Judgment; the EEBO pamphlets of 1674-1700 | alternate | not shelved |
+| Thomas Sherlock's works (on the thomas-sherlock shelf); 'A papist misrepresented' (Gother's, answered by others) | excluded | |

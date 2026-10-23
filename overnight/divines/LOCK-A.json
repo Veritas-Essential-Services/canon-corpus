@@ -1,6 +1,6 @@
 {
-  "status": "running",
+  "status": "free",
   "holder": "2026-10-22T23:19:52-05:00",
-  "heartbeat": "2026-10-22T23:40:33-05:00",
-  "note": "rounds 42 and 43 done and pushed; round 44 next (Atterbury, Hoadly, Tenison collected editions)"
+  "heartbeat": "2026-10-22T23:45:42-05:00",
+  "note": "rounds 42-44 done and pushed 2026-10-23; resume at round 45 (candidates in DIGEST-A, 'Lane A stopped' section)"
 }

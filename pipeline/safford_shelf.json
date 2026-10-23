@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Mary J. Safford (1842-1916): Georg Ebers's later novels and his autobiography (Gottsberger, New York, 1880s-90s), Felix Dahn, Mühlbach, Heyse, Hamerling, Eckstein, Jókai's The Corsair King, Max Nordau's fairy tales and Marie Bashkirtseff. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Mary J. Safford (1842-1916): Georg Ebers's later novels and his autobiography (Gottsberger, New York, 1880s-90s), Felix Dahn, Mühlbach, Heyse, Hamerling, Eckstein, Jókai's The Corsair King, Max Nordau's fairy tales and Marie Bashkirtseff. US public domain. Added 2026-10-10 by lane C (round 22); Adam may veto. No uids minted. Round 134 (2026-10-23, vetoable) added from archive.org Ebers's Lorenz Alma Tadema (1886), Berthet's The Pre-historic World (1879), Eschstruth's The Opposite House (1894), Nordau's The Right to Love (1895) and A Question of Honor (1907), the Poems of Johanna Ambrosius (1896), Boissière's The Missing Finger (1911), and Finot's Problems of the Sexes (1913) and The Science of Happiness (1914).",
  "_name_words": [
   "mary j. safford",
   "mary j safford",
@@ -106,7 +106,44 @@
    "Soap bubbles"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "saf-ebers-alma-tadema": [
+   "lorenzalmatadema00eber_0",
+   "Lorenz Alma Tadema"
+  ],
+  "saf-berthet-pre-historic-world": [
+   "cu31924027255359",
+   "The Pre-historic World"
+  ],
+  "saf-eschstruth-opposite-house": [
+   "oppositehousenov00esch",
+   "The Opposite House"
+  ],
+  "saf-nordau-right-to-love": [
+   "righttolove00nord",
+   "The Right to Love"
+  ],
+  "saf-nordau-question-of-honor": [
+   "cu31924026313092",
+   "A Question of Honor"
+  ],
+  "saf-ambrosius-poems": [
+   "poemsbyjohannaam00voigiala",
+   "Poems by Johanna Ambrosius"
+  ],
+  "saf-boissiere-missing-finger": [
+   "cu31924027334477",
+   "The Missing Finger"
+  ],
+  "saf-finot-problems-of-the-sexes": [
+   "problemsofsexes00fino",
+   "Problems of the Sexes"
+  ],
+  "saf-finot-science-of-happiness": [
+   "scienceofhappine00fino",
+   "The Science of Happiness"
+  ]
+ },
  "titles": {
   "safford-bashkirtseff-marie-bashkirtseff-from-childhood-to-gir": {
    "source": "saf-13916",
@@ -291,6 +328,78 @@
    "translated": "1880-1910 (see the Gutenberg header)",
    "translator": "Mary J. Safford",
    "scan_edition": "Project Gutenberg 77279 (clean text)"
+  },
+  "safford-ebers-lorenz-alma-tadema": {
+   "source": "saf-ebers-alma-tadema",
+   "of": "Georg Ebers",
+   "work": "Lorenz Alma Tadema: His Life and Works",
+   "translated": 1886,
+   "translator": "Mary J. Safford",
+   "scan_edition": "W. S. Gottsberger, New York 1886; archive.org scan"
+  },
+  "safford-berthet-the-pre-historic-world": {
+   "source": "saf-berthet-pre-historic-world",
+   "of": "Élie Berthet",
+   "work": "The Pre-historic World",
+   "translated": 1879,
+   "translator": "Mary J. Safford",
+   "scan_edition": "Porter & Coates, Philadelphia (copyright 1879); archive.org scan (Cornell copy)"
+  },
+  "safford-eschstruth-the-opposite-house": {
+   "source": "saf-eschstruth-opposite-house",
+   "of": "Nataly von Eschstruth",
+   "work": "The Opposite House: A Novel",
+   "translated": 1894,
+   "translator": "Mary J. Safford",
+   "scan_edition": "Street & Smith, New York (copyright 1894); archive.org scan"
+  },
+  "safford-nordau-the-right-to-love": {
+   "source": "saf-nordau-right-to-love",
+   "of": "Max Nordau",
+   "work": "The Right to Love",
+   "translated": 1895,
+   "translator": "Mary J. Safford",
+   "scan_edition": "F. Tennyson Neely, New York and Chicago (1895); archive.org scan"
+  },
+  "safford-nordau-a-question-of-honor": {
+   "source": "saf-nordau-question-of-honor",
+   "of": "Max Nordau",
+   "work": "A Question of Honor: A Tragedy of the Present Day in Four Acts",
+   "translated": 1907,
+   "translator": "Mary J. Safford",
+   "scan_edition": "John W. Luce, Boston and London (copyright 1907); archive.org scan (Cornell copy)"
+  },
+  "safford-ambrosius-poems": {
+   "source": "saf-ambrosius-poems",
+   "of": "Johanna Ambrosius",
+   "work": "Poems (ed. Karl Schrattenthal)",
+   "translated": 1896,
+   "translator": "Mary J. Safford",
+   "scan_edition": "Roberts Brothers, Boston 1896 (from the 26th German edition); archive.org scan"
+  },
+  "safford-boissiere-the-missing-finger": {
+   "source": "saf-boissiere-missing-finger",
+   "of": "Albert Boissière",
+   "work": "The Missing Finger: A Story of Mystery",
+   "translated": 1911,
+   "translator": "Mary J. Safford",
+   "scan_edition": "Dodd, Mead, New York 1911; archive.org scan (Cornell copy)"
+  },
+  "safford-finot-problems-of-the-sexes": {
+   "source": "saf-finot-problems-of-the-sexes",
+   "of": "Jean Finot",
+   "work": "Problems of the Sexes",
+   "translated": 1913,
+   "translator": "Mary J. Safford",
+   "scan_edition": "G. P. Putnam's Sons, New York and London (copyright 1913); archive.org scan"
+  },
+  "safford-finot-the-science-of-happiness": {
+   "source": "saf-finot-science-of-happiness",
+   "of": "Jean Finot",
+   "work": "The Science of Happiness",
+   "translated": 1914,
+   "translator": "Mary J. Safford",
+   "scan_edition": "G. P. Putnam's Sons, New York and London (1914); archive.org scan"
   }
  },
  "_pending": {},
@@ -302,7 +411,7 @@
  "_checks": {
   "saf-13916": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -311,7 +420,7 @@
   },
   "saf-16396": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -320,7 +429,7 @@
   },
   "saf-26865": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -329,7 +438,7 @@
   },
   "saf-32220": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -338,7 +447,7 @@
   },
   "saf-32222": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -347,7 +456,7 @@
   },
   "saf-32461": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -356,7 +465,7 @@
   },
   "saf-33879": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -365,7 +474,7 @@
   },
   "saf-36725": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -374,7 +483,7 @@
   },
   "saf-5472": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -383,7 +492,7 @@
   },
   "saf-5482": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -392,7 +501,7 @@
   },
   "saf-5516": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -401,7 +510,7 @@
   },
   "saf-5551": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -410,7 +519,7 @@
   },
   "saf-5571": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -419,7 +528,7 @@
   },
   "saf-5577": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -428,7 +537,7 @@
   },
   "saf-5583": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -437,7 +546,7 @@
   },
   "saf-5587": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -446,7 +555,7 @@
   },
   "saf-5588": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -455,7 +564,7 @@
   },
   "saf-5599": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -464,7 +573,7 @@
   },
   "saf-56929": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -473,7 +582,7 @@
   },
   "saf-59851": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -482,7 +591,7 @@
   },
   "saf-76058": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -491,7 +600,7 @@
   },
   "saf-77279": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
@@ -500,12 +609,111 @@
   },
   "saf-77764": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary j. safford",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Mary J. Safford"
+  },
+  "saf-ebers-alma-tadema": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saf-berthet-pre-historic-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saf-eschstruth-opposite-house": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saf-nordau-right-to-love": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saf-nordau-question-of-honor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saf-ambrosius-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saf-boissiere-missing-finger": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "saf-finot-problems-of-the-sexes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "saf-finot-science-of-happiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary j. safford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -623,6 +831,90 @@
    "pg": 77764,
    "pg_copyrighted_marker": false,
    "pg_translator": "Mary J. Safford"
+  },
+  "saf-ebers-alma-tadema": {
+   "ia": "lorenzalmatadema00eber_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1836,
+    1853,
+    1857,
+    1859,
+    1886
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "saf-berthet-pre-historic-world": {
+   "ia": "cu31924027255359",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "saf-eschstruth-opposite-house": {
+   "ia": "oppositehousenov00esch",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "saf-nordau-right-to-love": {
+   "ia": "righttolove00nord",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "saf-nordau-question-of-honor": {
+   "ia": "cu31924026313092",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1907,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [
+    1934
+   ],
+   "post_1930_examined": "1934 is a Cornell gift bookplate (The gift of two friends of Cornell University 1934)"
+  },
+  "saf-ambrosius-poems": {
+   "ia": "poemsbyjohannaam00voigiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1896
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "saf-boissiere-missing-finger": {
+   "ia": "cu31924027334477",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1907,
+    1911,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "saf-finot-problems-of-the-sexes": {
+   "ia": "problemsofsexes00fino",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "saf-finot-science-of-happiness": {
+   "ia": "scienceofhappine00fino",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "title page read by eye: 'Translated from the Tenth French Edition by Mary J. Safford' (the OCR reads Saflford); the gate passes only on her name in the publisher's list at the back"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
