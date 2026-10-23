@@ -12191,6 +12191,16 @@ Slugs `araleigh-*`. Built from title pages read for round 58.
 | Thoughts for the weary and the sorrowful (Edinburgh, 1882) | have-ocr | IA `ThoughtsForTheWeary` |
 | From Dawn to The Perfect Day (catalogued 1883) | have-ocr | IA `fromdawntoperfec0000alex` |
 | Sir Walter Raleigh (1861-1922), the literary critic, and Sir Walter Raleigh (d. 1618) | excluded | |
+
+## Henry Allon (round 58, my pick, 2026-10-23)
+
+Slugs `allon-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| The vision of God, and other sermons (London : Hodder and Stoughton, 1876) | have-ocr | IA `visionofgodother00allo` |
+| The Indwelling Christ and Other Sermons (T. Whittaker, 1892) | have-ocr | IA `indwellingchris00allogoog` |
+| The Congregational Psalmist and other hymn and tune books he edited; British Quarterly Review volumes; the Memorial volume (by others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
