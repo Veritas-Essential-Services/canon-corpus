@@ -17792,3 +17792,36 @@ Slugs `wjconybeare-*`. Built from title pages read for round 118.
 | The life and epistles of St. Paul (London : Longman, Green, Longman, and Roberts, 1861) | have-ocr | IA `lifeepistlespaul00conyuoft` |
 | Perversion, Or, The Causes and Consequences of Infidelity: A Tale for the Times, vol. 3 (Smith, Elder, 1856), IA perversionorcau02conygoog: vol. 3 only, and the novel was published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | Illustrations of Anglo-Saxon Poetry is by his father J. J. Conybeare; A History of Cambridgeshire is by Edward Conybeare; the petrifactions and the 1835 Epistles are by others | excluded | |
+
+## T. R. Birks (round 118, my pick, 2026-10-23)
+
+Slugs `birks-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Village discourses; 10 sermons (catalogued 1845) | have-ocr | IA `villagediscours00birkgoog` |
+| The two later visions of Daniel: historically explained (London : Seeley, Burnside, and Seeley, 1846) | have-ocr | IA `twolatervisionso00birkrich` |
+| Memoir of the Rev. Edward Bickersteth : late rector of Watton, Herts (London : Seeleys, 1851) | have-ocr | IA `memoirrevedward03birkgoog` |
+| Horæ evangelicæ : or, the internal evidence of the Gospel history, being an inquiry into the structure and origin of the four Gospels, their historical consistency, and the characteristic design of each narrative (London : Seeleys, 1852) | have-ocr | IA `horaeevangelicae00birk` |
+| Modern popery, its strength, and its weakness, as an aggressive power : a lecture, delivered before the members of the Islington Protestant Institute at the Chapel-of-ease Parochial Schools, Liverpool-Road on Monday evening, April 19, 1852 (London : Published for the Islington Protestant Society by J.H. Jackson, 1852) | have-ocr | IA `a629417800birkuoft` |
+| Outlines of unfulfilled prophecy, an inquiry into the Scripture testimony respecting the 'good (catalogued 1854) | have-ocr | IA `outlinesunfulfi00birkgoog` |
+| THE DIFFICULTIES OF BELIEF (catalogued 1855) | have-ocr | IA `difficultiesbel00birkgoog` |
+| The Bible and modern thought (London : Religious Tract Society, 1862) | have-ocr | IA `biblemodernthou00birk` |
+| On Matter and Ether, Or The Secret Laws of Physical Change (Macmillan and co., 1862) | have-ocr | IA `onmatterandethe00birkgoog` |
+| The exodus of Israel: its difficulties examined, and its truth confirmed (London, Religious Tract Society, 1863) | have-ocr | IA `exodusofisraelit00birk` |
+| The ways of God; or, Thoughts on the difficulties of belief, in connexion with providence and (Seeley, Jackson and Halliday, 1863) | have-ocr | IA `waysgodorthough00birkgoog` |
+| The victory of divine goodness : including I. Letters to an inquirer on various doctrines of Scripture ; II. Notes on Coleridge's Confessions of an inquiring spirit ; III. Thoughts on the nature of the atonement and of eternal judgment (London : Rivingtons, 1867) | have-ocr | IA `victoryofdivineg00birk_0` |
+| Church and state : or, national religion and church establishments ; considered with reference to present controversies (London : Hatchards, 1869) | have-ocr | IA `churchstateornat00birk` |
+| The Pentateuch and its anatomists; or, The unity and authenticity of the books of Moses vindicated and confirmed, in reply to modern criticisms (London : Hatchards, 1869) | have-ocr | IA `pentateuchitsana00birk` |
+| The scripture doctrine of creation : with reference to religious nihilism and modern theories of development (London : Christian Evidence Committee of the Society for Promoting Christian Knowledge, 1872) | have-ocr | IA `scripturedoctrin00birk` |
+| First principles of moral science, a course of lectures delivered in the University of Cambridge (London, Macmillan, 1873) | have-ocr | IA `firstprincipleso00birkrich` |
+| Modern utilitarianism (London, Macmillan and co. [Micro Photo Division, Bell & Howell], 1874) | have-ocr | IA `modernutilitari00birkgoog` |
+| The uncertainties of modern physical science : being the annual address of the Victoria Institute, or, Philosophical Society of Great Britain : delivered at the House of the Society of Arts, on the 29th May, 1876, vol. Talbot Collection of British Pamphlets (London : Published for the Institute, [187) | have-ocr | IA `uncertaintiesofm00birk` |
+| Essay on the right estimation of manuscript evidence in the text of the New Testament (London : Macmillan, 1878) | have-ocr | IA `essayonrightesti00birk` |
+| Commentary on the book of Isaiah, critical, historical, and prophetical : including a revised English translation with introduction and appendices (London : Macmillan, 1878) | have-ocr | IA `commentaryonbook00birk` |
+| Supernatural revelation; or, First principles of moral theology (London, Macmillan, 1879) | have-ocr | IA `supernaturalreve00birkrich` |
+| Thoughts on the times and seasons of sacred prophecy (catalogued 1880) | have-ocr | IA `thoughtsontimes00birkgoog` |
+| Modern physical fatalism and the doctrine of evolution : including an examination of H. Spencer's First principles (London : Macmillan, 1882) | have-ocr | IA `modernphysicalfa00birkrich` |
+| The Companion psalter : or four hundred and fifty versions of the Psalms, selected and original, for public or private worship (London : Seeleys and Co., 1874), IA compar00birk: 450 versions of the Psalms, "selected and original", most by other hands (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Later editions of The Difficulties of Belief (1876) and other duplicate scans | excluded | |
+| modern-astronomy-birks-1850 (no catalogue detail) | excluded | |
