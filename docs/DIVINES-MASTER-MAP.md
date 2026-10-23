@@ -9987,6 +9987,18 @@ Slugs `deacon-*`. Built from title pages read for round 40.
 |---|---|---|
 | An essay to procure Catholic communion upon Catholic principles, reprinted from Deacon's Complete Collection of Devotions, 1734 (Tracts on Catholic Unity; London: James Darling, catalogued 1860) | have-ocr | IA `essaytoprocureca00deac` |
 | A Complete Collection of Devotions (1734) and his catechism: no scan found on the Archive | pending | not shelved |
+
+## Samuel Seabury (round 40, my pick, 2026-10-22)
+
+Slugs `seabury-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on several subjects, vol. 1 (Hudson: William E. Norman, 1815) | have-ocr | IA `discoursesonseve00seab` |
+| Discourses on several subjects, vol. 2 (Hudson: William E. Norman, 1815) | have-ocr | IA `discoursesonseve02seab` |
+| Free Thoughts on the Proceedings of the Continental Congress, A View of the Controversy, and An Alarm to the Legislature (1774-1775), published as by 'A. W. Farmer'; pseudonymous, and political rather than theological | pending | not shelved |
+| The 1798 New York printing of the Discourses (Princeton and John Carter Brown copies) and another 1815 copy | alternate | not shelved |
+| Beardsley's Life and Correspondence of Samuel Seabury (1881), a work by another; the Seabury papers' manuscript sermons; his son Samuel Seabury (1801-1872) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
