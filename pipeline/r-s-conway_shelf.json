@@ -1,0 +1,33 @@
+{
+ "_about": "Robert Seymour Conway (1864-1933), Hulme Professor of Latin at Manchester, raw IA OCR of Harvard Lectures on the Vergilian Age (Cambridge: Harvard University Press; London: Humphrey Milford, 1928; US public domain by date). His other books are not yet audited. Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Robert Seymour Conway (1864-1933)",
+ "_name_words": [
+  "conway"
+ ],
+ "_surname": [
+  "robert seymour conway",
+  "r. s. conway"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "r-s-conway-harvard-lectures-vergilian-age-1928": [
+   "vergilianage0000unse",
+   "Harvard Lectures on the Vergilian Age, by Robert Seymour Conway (Cambridge: Harvard University Press; London: Humphrey Milford, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "r-s-conway-harvard-lectures-vergilian-age-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert seymour conway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
