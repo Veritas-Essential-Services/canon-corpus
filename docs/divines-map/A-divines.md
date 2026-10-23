@@ -16636,3 +16636,16 @@ Slugs `hepworth-*`. Built from title pages read for round 104.
 | The Hepworth year book ([n. p.], 1897) | have-ocr | IA `hepworthyearbook00hepw` |
 | We Shall Live Again (E. P. Dutton & Company, 1903) | have-ocr | IA `weshallliveagain008415mbp` |
 | The Whip, Hoe, and Sword; Starboard and Port; Through Armenia on Horseback; a July 4 oration (not theology); Songs of the Unity (a hymnal) | excluded | |
+
+## Daniel P. Kidder (round 105, my pick, 2026-10-23)
+
+Slugs `kidder-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| Mormonism and the Mormons (New York : G. Lane & P. P. Sandford, 1842) | have-ocr | IA `mormonismmormons00kidd` |
+| Sketches of residence and travels in Brazil, embracing historical and geographical notices of the empire and its several provinces, vol. 1 (Philadelphia, Sorin & Ball; London, Wiley & Putnam, 1845) | have-ocr | IA `sketchesresiden06kiddgoog` |
+| A treatise on homiletics : designed to illustrate the true theory and practice of preaching the gospel (New York : Phillips & Hunt ; Cincinnati : Walden & Stowe, 1864) | have-ocr | IA `treatiseonhomile00kidd` |
+| The Christian pastorate : its character, responsibilities, and duties (Cincinnati : Hitchcock and Walden ; New York : Nelson and Phillips, 1871) | have-ocr | IA `christianpastor00kiddgoog` |
+| Sunday-school books he edited for the Methodist Sunday School Union (other authors) | excluded | |
+| Brazil and the Brazilians (written with J. C. Fletcher) | excluded | |
