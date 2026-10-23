@@ -19182,6 +19182,25 @@ Slugs `harsha-*`. Built from title pages read for round 131.
 | The Life and Choice Works of Isaac Watts is mostly Watts | excluded | |
 | the hydropathy book and later Harsha items are by others | excluded | |
 | other scans of the Doddridge life | excluded | |
+
+## F. Crawford Burkitt (round 132, my pick, 2026-10-23)
+
+Slugs `fcburkitt-*`. Built from title pages read for round 132.
+
+| Work | Status | Where |
+|---|---|---|
+| The Syriac forms of New Testament proper names (London : Henry Frowde, Oxford University press, 1884) | have-ocr | IA `syriacformsofnew00burk` |
+| The Old Latin and the Itala, with an appendix containing the text of the S. Gallen palimpsest of Jeremiah (Cambridge, University press, 1896) | have-ocr | IA `oldlatinanditala00burkuoft` |
+| Early Christianity outside the Roman Empire : two lectures delivered at Trinity College, Dublin (Cambridge : University Press, 1899) | have-ocr | IA `earlychristiani00burk` |
+| Two lectures on the Gospels (London : Macmillan, 1901) | have-ocr | IA `twolecturesonthe00burkuoft` |
+| S. Ephraim's quotations from the Gospel (Cambridge [Eng.] The University press, 1901) | have-ocr | IA `sephraimsquotati00burkuoft` |
+| Early eastern Christianity (London : J. Murray, 1904) | have-ocr | IA `earlyeasternchri00burk_1` |
+| The gospel history and its transmission (Edinburgh : T. & T. Clark, 1906) | have-ocr | IA `gospelhistoryits0000burk` |
+| The earliest sources for the life of Jesus (Boston and New York : Houghton, 1910) | have-ocr | IA `earliestsources00burk` |
+| Jewish and Christian apocalypses (London, Pub. for the British academy by H. Milford, 1914) | have-ocr | IA `jewishandchristi00burkuoft` |
+| his editions and translations of other men's texts (Tyconius, the Syriac Gospels, Evangelion da-Mepharreshe, Euphemia and the Goth, S. Ephraim against Mani, the Aquila fragments, the Palestinian Syriac relics) | excluded | |
+| the Arabic grammar, Bernard's Criticism of the New Testament and Select Narratives of Holy Women are by others | excluded | |
+| Urchristentum im Orient is a German translation by Erwin Preuschen | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -10783,6 +10783,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:42:10-05:00",
       "notes": "6 books, 1851-1866."
+    },
+    {
+      "id": "a-f-crawford-burkitt",
+      "status": "done",
+      "scope": "round 132",
+      "added": "2026-10-23T09:46:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:46:18-05:00",
+      "notes": "9 of his own studies, 1896-1914; his editions and translations of other men's texts left out."
     }
   ]
 }
