@@ -2017,9 +2017,17 @@
    "id": "2026-10-23da",
    "status": "done",
    "scope": "Wider IA subject sweep (Roman law, ancient philosophy, archaeology, numismatics, Byzantine history): first half of the candidates",
-   "started": "2026-10-23T01:20:00-05:00",
+   "started": "2026-10-23T01:01:51-05:00",
    "finished": "2026-10-23T01:18:07-05:00",
    "notes": "15 new shelves, 43 works: Roby 5, Hadley 2, Sohm 1 (tr. Ledlie, 3rd ed. 1907), Buckland 3, Amos 1, Jhering 3 (tr. Lalor, Husik, Drucker), A. S. Murray 6, Waldstein 3, Furtwangler 1 (tr. Sellers), Head 1 (Historia Numorum 1911), Burrows 1, Baikie 10 (2 PG), Hyde 2 (1 PG), J. B. Carter 2 (1 PG), C. D. Buck 2. All fetched and verified with no failures. Common-word surnames (Murray, Head, Buck, Carter, Hyde, Amos, Burrows) matched only on full-name forms. Skipped: school grammars (Roby, Hadley, Buck), superseded first editions (Murray's Sculpture 1880, Head 1887, Sohm 1892/1901), Baikie's astronomy/navy/Bible books, Waldstein's political essays."
+  },
+  {
+   "id": "2026-10-23db",
+   "status": "done",
+   "scope": "Rest of the round-da sweep list",
+   "started": "2026-10-23T01:18:07-05:00",
+   "finished": "2026-10-23T01:30:31-05:00",
+   "notes": "8 new shelves, 42 works: W. M. Ramsay 17, H. O. Taylor 10 (Mediaeval Mind 2 PG), Wheeler 2, Pears 2 (1 PG), William Miller 5 (1 PG), Hatch 2 (1 PG), Sterrett 2, J. B. Mayor 2. Title pages read for Miller's Turkish Restoration ('WILLIAM ^ILLER') and Mayor's Guide ('MATOB'). Ramsay's Galatians taken from a 1900 scan, not the 1965 Baker photolithoprint. Skipped: modern Turkey/Balkan books by Ramsay, Pears and Miller; Taylor's Prophets, Poets, and Philosophers (a 1919 reissue of Deliverance); Hatch's church-order lectures and Mayor's NT commentaries (left for lane A)."
   }
  ]
 }

@@ -1452,3 +1452,9 @@
 - Archaeology and art: a-s-murray 6 (Greek Sculpture rev. ed. 2 vols., Handbook of Greek Archaeology, Bronzes, Parthenon, Manual of Mythology), charles-waldstein 3, adolf-furtwangler 1 (Masterpieces, tr. Sellers), barclay-v-head 1 (Historia Numorum 1911), ronald-m-burrows 1, james-baikie 10 (Egypt, Crete, the Near East; 2 Gutenberg), w-w-hyde 2, jesse-benedict-carter 2, carl-darling-buck 2.
 - All 43 fetched and verified with no failures. Murray, Head, Buck, Carter, Hyde, Amos and Burrows are common words or shared surnames, so those shelves match only on full-name forms (e.g. "a. s. murray", "barclay v. head").
 - Greek- or inscription-heavy and kept per Adam's ruling: Head's Historia Numorum, Buck's two grammars, Roby's Grammar (Latin-heavy). Their English is clean.
+
+## 2026-10-23 — Round db: the rest of the sweep list
+- New shelves: w-m-ramsay 17 (Historical Geography of Asia Minor, Cities and Bishoprics of Phrygia I.1-2, the Pauline books, Thousand and One Churches with Gertrude Bell, Asianic Elements 1927), henry-osborn-taylor 10 (Ancient Ideals 2nd ed., Classical Heritage, Mediaeval Mind on Gutenberg, Deliverance, Thought and Expression 2 vols., Greek Biology, Freedom of the Mind), benjamin-ide-wheeler 2, edwin-pears 2, william-miller-historian 5, edwin-hatch 2, j-r-s-sterrett 2, j-b-mayor 2.
+- Title pages read: Miller's Turkish Restoration in Greece prints 'WILLIAM ^ILLER' in OCR; Mayor's Guide to the Choice of Classical Books prints 'JOSEPH BICKEBSTETH MATOB'. Recorded under _identity_checked.
+- Ramsay's Galatians: the first scan found was a 1965 Baker Book House photolithoprint; replaced with a scan of the 1900 Hodder edition.
+- Left for lane A: Hatch's Organization of the Early Christian Churches and Growth of Church Institutions; Mayor's Greek commentaries on James, Jude and 2 Peter. Skipped: the modern Turkey and Balkan books of Ramsay, Pears and Miller; Taylor's Prophets, Poets, and Philosophers (a reissue of Deliverance).
