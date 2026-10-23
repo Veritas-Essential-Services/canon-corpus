@@ -1,0 +1,148 @@
+{
+ "_about": "Public-domain Charles Frederic Aked (1864-1941), Baptist minister in Liverpool, of Rockefeller's Fifth Avenue church in New York, and in San Francisco, for the Word Hoard: The Courage of the Coward, A Ministry of Reconciliation, The Coming Unity, Old Events and Modern Meanings, Wells and Palm Trees, The Lord's Prayer, The Divine Drama of Job, and Japan's Message. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 100 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "charles f. aked",
+  "charles frederic aked",
+  "c. f. aked",
+  "aked"
+ ],
+ "_surname": [
+  "charles f. aked",
+  "charles frederic aked",
+  "c. f. aked",
+  "aked"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aked-courage-of-coward": [
+   "courageofcowardo00aked",
+   "The courage of the coward, and other sermons (New York, Chicago, Fleming H. Revell company, 1907)"
+  ],
+  "aked-reconciliation": [
+   "ministryofreconc00aked",
+   "A ministry of reconciliation (New York, Chicago [etc.], F.H. Revell Company, 1907)"
+  ],
+  "aked-coming-unity": [
+   "comingunity00aked",
+   "The coming unity ([New York, N.Y. : s.n.], 1908)"
+  ],
+  "aked-old-events": [
+   "oldeventsmodernm00aked",
+   "Old events and modern meanings, and other sermons (New York, Chicago [etc.] Fleming H. Revell company, 1908)"
+  ],
+  "aked-wells-palm-trees": [
+   "wellsandpalmtre00akedgoog",
+   "Wells and palm trees, cool water and abundant rest on life's rough way (New York, Dodge publishing company, 1908)"
+  ],
+  "aked-lords-prayer": [
+   "lordsprayeritsme0000char",
+   "The lord's prayer : its meaning and message for to-day (catalogued 1910)"
+  ],
+  "aked-job": [
+   "divinedramaofjob0000aked",
+   "The divine drama of Job (New York, Scribner's, 1913)"
+  ],
+  "aked-japans-message": [
+   "japansmessageto00aked",
+   "Japan's message to (San Francisco [Japan society of America], 1915)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "aked-courage-of-coward": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aked-reconciliation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles f. aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aked-coming-unity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles f. aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aked-old-events": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles f. aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aked-wells-palm-trees": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles f. aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aked-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles f. aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aked-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles f. aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aked-japans-message": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. f. aked",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -16215,3 +16215,18 @@ Slugs `mcconnell-*`. Built from title pages read for round 100.
 | Humanism and Christianity (The Macmillan Company, 1928) | have-ocr | IA `humanismchristia0000fran` |
 | Borden Parker Bowne : his life and his philosophy (New York ; Cincinnati : The Abingdon Press, 1929) | have-ocr | IA `bordenparkerbown0000mcco` |
 | Human needs and world christianity (Friendship Press, 1929) | have-ocr | IA `humanneedsworldc0000fran` |
+
+## Charles F. Aked (round 100, my pick, 2026-10-23)
+
+Slugs `aked-*`. Built from title pages read for round 100.
+
+| Work | Status | Where |
+|---|---|---|
+| The courage of the coward, and other sermons (New York, Chicago, Fleming H. Revell company, 1907) | have-ocr | IA `courageofcowardo00aked` |
+| A ministry of reconciliation (New York, Chicago [etc.], F.H. Revell Company, 1907) | have-ocr | IA `ministryofreconc00aked` |
+| The coming unity ([New York, N.Y. : s.n.], 1908) | have-ocr | IA `comingunity00aked` |
+| Old events and modern meanings, and other sermons (New York, Chicago [etc.] Fleming H. Revell company, 1908) | have-ocr | IA `oldeventsmodernm00aked` |
+| Wells and palm trees, cool water and abundant rest on life's rough way (New York, Dodge publishing company, 1908) | have-ocr | IA `wellsandpalmtre00akedgoog` |
+| The lord's prayer : its meaning and message for to-day (catalogued 1910) | have-ocr | IA `lordsprayeritsme0000char` |
+| The divine drama of Job (New York, Scribner's, 1913) | have-ocr | IA `divinedramaofjob0000aked` |
+| Japan's message to (San Francisco [Japan society of America], 1915) | have-ocr | IA `japansmessageto00aked` |
