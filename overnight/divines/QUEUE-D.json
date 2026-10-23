@@ -5805,6 +5805,14 @@
       "started": "2026-10-22T23:11:59-05:00",
       "finished": "2026-10-22T23:11:59-05:00",
       "notes": "meadows-taylor: new shelf, 6 Gutenberg books, 13,792 units, 27 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "netta-syrett",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Netta Syrett; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:12:00-05:00",
+      "finished": "2026-10-22T23:12:00-05:00",
+      "notes": "netta-syrett: new shelf, 6 Gutenberg books, 8,590 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

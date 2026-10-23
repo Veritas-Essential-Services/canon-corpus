@@ -1,0 +1,98 @@
+{
+ "_about": "Netta Syrett: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Netta Syrett",
+ "_name_words": [
+  "netta",
+  "syrett"
+ ],
+ "_surname": [
+  "netta syrett",
+  "syrett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nsyrett-magic-london": [
+   65490,
+   "Magic London"
+  ],
+  "nsyrett-old-miracle-plays-of-england": [
+   65860,
+   "The Old Miracle Plays of England"
+  ],
+  "nsyrett-rachel-and-the-seven-wonders": [
+   66321,
+   "Rachel and the Seven Wonders"
+  ],
+  "nsyrett-days-journey": [
+   71317,
+   "The day's journey"
+  ],
+  "nsyrett-nobodys-fault": [
+   71360,
+   "Nobody's fault"
+  ],
+  "nsyrett-anne-page": [
+   73015,
+   "Anne Page"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "nsyrett-magic-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "netta syrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nsyrett-old-miracle-plays-of-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "netta syrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nsyrett-rachel-and-the-seven-wonders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "netta syrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nsyrett-days-journey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "netta syrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nsyrett-nobodys-fault": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "netta syrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nsyrett-anne-page": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "netta syrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

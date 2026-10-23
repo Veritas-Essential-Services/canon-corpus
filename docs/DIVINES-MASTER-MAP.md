@@ -43200,3 +43200,16 @@ Shelf: `pipeline/meadows-taylor_shelf.json` (2026-10-22; added at the coordinato
 | Confessions of a Thug | have | PG 44881, `mtaylor-confessions-of-a-thug` (3407 units) |
 | Tara: A Mahratta Tale | have | PG 45430, `mtaylor-tara` (4295 units) |
 | Tippoo Sultaun: A tale of the Mysore war | have | PG 51665, `mtaylor-tippoo-sultaun` (3609 units) |
+
+## Netta Syrett
+
+Shelf: `pipeline/netta-syrett_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Magic London | have | PG 65490, `nsyrett-magic-london` (1202 units) |
+| The Old Miracle Plays of England | have | PG 65860, `nsyrett-old-miracle-plays-of-england` (753 units) |
+| Rachel and the Seven Wonders | have | PG 66321, `nsyrett-rachel-and-the-seven-wonders` (1223 units) |
+| The day's journey | have | PG 71317, `nsyrett-days-journey` (1645 units) |
+| Nobody's fault | have | PG 71360, `nsyrett-nobodys-fault` (1319 units) |
+| Anne Page | have | PG 73015, `nsyrett-anne-page` (2448 units) |
