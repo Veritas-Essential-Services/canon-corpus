@@ -11687,6 +11687,19 @@ Slugs `whgreen-*`. Built from title pages read for round 54.
 | General introduction to the Old Testament : the canon (New York, C. Scribner's sons, 1898) | have-ocr | IA `generalintroduct00gree` |
 | General introduction to the Old Testament; the text (New York : C. Scribner's sons, 1899) | have-ocr | IA `cu31924029277667` |
 | Class syllabi printed not published (Prophets and Prophecy, Old Testament Canon and Philology); the Hebrew Chrestomathy and Elementary Grammar; occasional sermons; German and Spanish translations of his books | excluded | |
+
+## Caspar Wistar Hodge (round 54, my pick, 2026-10-23)
+
+Slugs `cwhodge-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| Apostolic history and literature : prepared by the senior class for the use of students in Princeton Theological Seminary (Princeton : Press Printing Establishment, 1878) | have-ocr | IA `apostolichistory1878hodg` |
+| Gospel history : a syllabus ... ; printed - not published - exclusively for the use of students of the Middle class in Princeton seminary (Princeton : C.S. Robinson, Printer, 1879) | have-ocr | IA `gospelhistorysyl00hodg` |
+| New Testament criticism : lectures by C. W. Hodge, before the junior class, Princeton Theological Seminary : collated from phonographic notes by W. J. Frazer, with syllabus prepared by Dr. Hodge (Princeton : Printed not published by Press Printing Establishment, 1880) | have-ocr | IA `newtestamentcrit00hodg` |
+| The work of missions essential to the life of the church : a sermon delivered in the seminary chapel, November 7th, 1880 (Princeton : Press Printing Establishment, 1880) | have-ocr | IA `workofmissionses00hodg` |
+| A sermon preached in the United States Congregational church, at Newport, R. I., Sunday, September 25, 1881 ([n.p., 1881) | have-ocr | IA `sermonpreachedin00hodg` |
+| Caspar Wistar Hodge Jr. (1870-1937), his son: The Kantian Epistemology and Theism (1894) and The Witness of the Holy Spirit to the Bible (1913) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

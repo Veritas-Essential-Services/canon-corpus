@@ -6922,6 +6922,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T01:14:58-05:00",
       "notes": "Princeton Old Testament professor; class syllabi and translations left out. 0 uids minted."
+    },
+    {
+      "id": "caspar-wistar-hodge",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:14:58-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:14:58-05:00",
+      "notes": "Princeton New Testament professor (1830-1891); his son C. W. Hodge Jr. excluded. 0 uids minted."
     }
   ]
 }
