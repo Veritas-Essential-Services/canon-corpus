@@ -1,0 +1,32 @@
+{
+ "_about": "Frederic D. Allen (1844-1897), Professor at Yale, later Harvard, raw IA OCR of Remnants of Early Latin, selected and explained for the use of students (Boston: Ginn, first entered 1880; this printing carries a 1908 copyright line). Latin texts with English introduction and notes, kept under lane B's extension of Adam's 2026-10-23 ruling to Latin-dense volumes. Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Frederic De Forest Allen (1844-1897)",
+ "_name_words": [
+  "allen"
+ ],
+ "_surname": [
+  "frederic d. allen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "frederic-d-allen-remnants-of-early-latin": [
+   "remnantsofearlyl00alle",
+   "Remnants of Early Latin, selected and explained for the use of students, by Frederic D. Allen (Boston: Ginn; entered 1880, this printing copyright 1908); Latin texts with English notes"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "frederic-d-allen-remnants-of-early-latin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic d. allen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "[1908]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
