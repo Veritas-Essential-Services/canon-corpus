@@ -12649,6 +12649,24 @@ Slugs `gwdoane-*`. Built from title pages read for round 61.
 | The life and writings of George Washington Doane, vol. 3 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge03doan` |
 | The life and writings of George Washington Doane, vol. 4 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge04doan` |
 | Books he edited: Keble's Christian Year (American edition), Gilly's Horae Catecheticae, Charles Wharton's Remains; pamphlets in the 1852 trial controversy written by others; his son William Croswell Doane's own works | excluded | |
+
+## F. D. Huntington (round 61, my pick, 2026-10-23)
+
+Slugs `fdhuntington-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Lessons on the Parables of the Saviour (Crosby and Nichols, 1848) | have-ocr | IA `lessonsonparabl01huntgoog` |
+| Sermons for the people (Boston, Crosby, Nichols, and company; Cincinnati, G. S. Blanchard, 1856) | have-ocr | IA `sermonsforpeople00hunt_1` |
+| Christian believing and living bSermons (Boston, Crosby, Nichols, 1860) | have-ocr | IA `christianbelievi00huntrich` |
+| Human society; its providential structure, relations, and offices. Eight lectures delivered at the Brooklyn Institute, Brooklyn, N. Y (New York, R. Carter & Brothers, 1860) | have-ocr | IA `humansocietyitsp00hunt` |
+| Helps to a holy Lent (New York, E.P. Dutton & company, 1872) | have-ocr | IA `helpstoholylent00hun` |
+| Steps to a living faith ([n.p.], 1873) | have-ocr | IA `stepstolivingfai00hunt` |
+| New helps to a holy Lent (New York, E.P. Dutton and company, 1876) | have-ocr | IA `newhelpstoaholy01huntgoog` |
+| Christ in the Christian year and in the life of man : sermons for laymen's reading (Advent to Trinity) (New York : E. P. Dutton, 1878) | have-ocr | IA `christinchristia00huntrich` |
+| Fitness of Christianity to man (New York : Whittaker, 1878) | have-ocr | IA `fitnessofchristi00hunt` |
+| The Monthly Religious Magazine he edited; Hymns for the Church of Christ and Lyra Domestica (hymnals and translations edited with others); the 1860 Trinity controversy written about him | excluded | |
+| ourchurchandher00huntgoog: Our Church and her Services (London, 1866) is by Ashton Oxenden, catalogued under Huntington in error | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
