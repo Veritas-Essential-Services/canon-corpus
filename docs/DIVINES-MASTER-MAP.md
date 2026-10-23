@@ -43644,3 +43644,16 @@ Shelf: `pipeline/eugene-manlove-rhodes_shelf.json` (2026-10-22; added at the coo
 | Bransford of Rainbow Range Originally Published under the title of Bransford in Arcadia, or, The Little Eohippus | have | PG 33498, `emrhodes-bransford-of-rainbow-range-originally-published-und` (1392 units) |
 | Good men and true, and Hit the line hard | have | PG 73330, `emrhodes-good-men-and-true-and-hit-the-line-hard` (1044 units) |
 | Bransford in Arcadia | have | PG 78657, `emrhodes-bransford-in-arcadia` (1306 units) |
+
+## Alfred Ollivant
+
+Shelf: `pipeline/alfred-ollivant_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bob, Son of Battle | have | PG 2795, `aollivant-bob-son-of-battle` (2462 units) |
+| The Gentleman: A Romance of the Sea | have | PG 8396, `aollivant-gentleman` (5405 units) |
+| Boy Woodburn: A Story of the Sussex Downs | have | PG 17965, `aollivant-boy-woodburn` (4491 units) |
+| Redcoat Captain: A Story of That Country | have | PG 54575, `aollivant-redcoat-captain` (1369 units) |
+| Two Men: A Romance of Sussex | have | PG 57640, `aollivant-two-men` (3939 units) |
+| One Woman: Being the Second Part of a Romance of Sussex | have | PG 57641, `aollivant-one-woman` (3572 units) |
