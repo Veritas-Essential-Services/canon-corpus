@@ -11003,6 +11003,16 @@ Slugs `orelli-*`. Built from title pages read for round 48.
 | The peculiarity of the religion of the Bible (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1908) | have-ocr | IA `peculiarityofrel00orel` |
 | The Prophecies of Isaiah (Clark, 1889): no full-text scan found this round | pending | not shelved |
 | German works (Die hebräischen Synonyma 1871); the classical editor J. C. Orelli (Horace, Tacitus) is another man | excluded | |
+
+## August Dillmann (round 48, my pick, 2026-10-23)
+
+Slugs `dillmann-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| Genesis critically and exegetically expounded, vol. 1 (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `genesiscriticall01dill` |
+| Genesis critically and exegetically expounded, vol. 2 (Edinburgh : T. & T. Clark, 1897) | have-ocr | IA `genesiscriticall02dill` |
+| The Book of Enoch (1893, R. H. Charles's translation from Dillmann's text, Charles's book); the Ethiopic Grammar (1907, a grammar, not theology; left for later); Latin and Ethiopic editions | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
