@@ -1,0 +1,59 @@
+{
+ "_about": "Wilhelm Sigmund Teuffel (1820-1878): A History of Roman Literature, tr. Wilhelm Wagner (London, 1873), 2 vols.",
+ "_author": "W. S. Teuffel (1820-1878)",
+ "_name_words": [
+  "teuffel",
+  "roman",
+  "literature"
+ ],
+ "_surname": [
+  "teuffel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "teuffel-roman-literature-v1-1873": [
+   "india.history.resource.78413",
+   "A History of Roman Literature, vol. I: The Republican Period (1873), tr. Wilhelm Wagner",
+   "78413_djvu.txt"
+  ],
+  "teuffel-roman-literature-v2-1873": [
+   "india.history.resource.78412",
+   "A History of Roman Literature, vol. II: The Imperial Period (1873), tr. Wilhelm Wagner",
+   "78412_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "teuffel-roman-literature-v1-1873": "Wilhelm Wagner",
+  "teuffel-roman-literature-v2-1873": "Wilhelm Wagner"
+ },
+ "_checks": {
+  "teuffel-roman-literature-v1-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teuffel",
+   "translator_claimed": "Wilhelm Wagner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "teuffel-roman-literature-v2-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teuffel",
+   "translator_claimed": "Wilhelm Wagner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

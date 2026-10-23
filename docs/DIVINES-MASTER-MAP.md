@@ -18483,6 +18483,16 @@ Shelf: `pipeline/gildersleeve_shelf.json`. Essays, lectures and the Syntax of Cl
 | Hellas and Hesperia, or The Vitality of Greek Studies in America (1909) |  | `gildersleeve-hellas-hesperia-1909` | have-raw (IA `cu31924021600295`) |
 | Syntax of Classical Greek from Homer to Demosthenes, part I (1900), with C. W. E. Miller |  | `gildersleeve-syntax-classical-greek-1900` | have-raw (IA `syntaxclassical00millgoog`) |
 
+
+## W. S. Teuffel (1820-1878)
+
+Shelf: `pipeline/teuffel_shelf.json`. History of Roman Literature, tr. Wagner (1873), 2 vols. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Roman Literature, vol. I: The Republican Period (1873), tr. Wilhelm Wagner |  | `teuffel-roman-literature-v1-1873` | have-raw (IA `india.history.resource.78413`) |
+| A History of Roman Literature, vol. II: The Imperial Period (1873), tr. Wilhelm Wagner |  | `teuffel-roman-literature-v2-1873` | have-raw (IA `india.history.resource.78412`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
