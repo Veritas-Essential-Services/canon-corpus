@@ -14495,6 +14495,20 @@ Slugs `sjhunter-*`. Built from title pages read for round 83.
 | Outlines of dogmatic theology, vol. 2 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat02hunt` |
 | Outlines of dogmatic theology, vol. 3 (New York : Benziger Brothers, 1895) | have-ocr | IA `outlinesofdogmat03hunt` |
 | the second edition (1909), a later printing of the same work | excluded | |
+
+## William Cochrane (round 83, my pick, 2026-10-23)
+
+Slugs `cochrane-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| The heavenly vision : and other sermons (1863-73) (Toronto : Adam, Stevenson & Co., 1874) | have-ocr | IA `heavenlyvisionot00coch` |
+| Christ and Christian life : [serm]ons preached in Zion Church, Brantford, 1875 (Toronto : Adam, Stevenson; Brantford [Ont.] : J. Sutherland, 1876) | have-ocr | IA `cihm_08595` |
+| Warning and welcome : sermons preached in Zion Presbyterian Church, Brantford, during 1876 (Toronto : A. Stevenson; Brantford, [Ont.] : J. Sutherland, 1877) | have-ocr | IA `cihm_08844` |
+| Future punishment; or, Does death end probation? ... with illustrative notes from the writings of eminent British and American scientists and theologians (Brantford, Bradley, 1886) | have-ocr | IA `futurepunishment00cochuoft` |
+| The church and the commonwealth. Discussions and orations on questions of the day, practical, biographical, educational and doctrinal (Brantford, Ont., Bradley, Garretson & Co., 1887) | have-ocr | IA `churchcommonweal00coch` |
+| Memoirs and remains of the Reverend Walter Inglis : African missionary and Canadian pastor (Toronto, C.B. Robinson [etc., etc.], 1887) | have-ocr | IA `memoirsremainsof00coch` |
+| The Canadian Album: Men of Canada (1891-1896), a biographical dictionary he edited | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
