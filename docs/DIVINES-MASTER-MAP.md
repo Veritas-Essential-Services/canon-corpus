@@ -11064,6 +11064,18 @@ Slugs `pressense-*`. Built from title pages read for round 48.
 | The ancient world and Christianity (New York : A.C. Armstrong, [188) | have-ocr | IA `ancientworldchri00pres` |
 | Other printings of the Early Years series (1870-1886) and the 1871 abridged Jesus Christ | alternate | not shelved |
 | French originals; the works of his son Francis de Pressensé (Cardinal Manning 1897, the Russian pamphlets), another man | excluded | |
+
+## Eugene Bersier (round 48, my pick, 2026-10-23)
+
+Slugs `bersier-*`. Built from title pages read for round 48.
+
+| Work | Status | Where |
+|---|---|---|
+| The oneness of the race in its fall and its future (London : Hodder and Stoughton, 1871) | have-ocr | IA `onenessofraceini00bers` |
+| Saint Paul's vision, and other sermons (New York, A.D.F. Randolph and company, 1881) | have-ocr | IA `saintpaulsvision00bers` |
+| The Gospel in Paris : sermons (London : J. Nisbet, 1883) | have-ocr | IA `gospelinparisser00bers` |
+| Coligny; the earlier life of the great Huguenot (London Hodder and Stoughton, 1884) | have-ocr | IA `colignyearlierli00bersuoft` |
+| Margaret Muller (1872, a story by Mme Bersier); Sermons (1885) and Twelve Sermons (1891) left for a later look; French originals | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
