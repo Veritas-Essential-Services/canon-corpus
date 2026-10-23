@@ -5125,6 +5125,14 @@
       "started": "2026-10-22T22:50:26-05:00",
       "finished": "2026-10-22T22:50:26-05:00",
       "notes": "herbert-jenkins: new shelf, 7 Gutenberg books, 16,171 units, 873 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch."
+    },
+    {
+      "id": "cutcliffe-hyne",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — C. J. Cutcliffe Hyne; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:27-05:00",
+      "finished": "2026-10-22T22:50:27-05:00",
+      "notes": "cutcliffe-hyne: new shelf, 8 Gutenberg books, 10,502 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

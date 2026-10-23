@@ -41770,3 +41770,18 @@ Shelf: `pipeline/herbert-jenkins_shelf.json` (2026-10-22; added at the coordinat
 | Patricia Brent, Spinster | have | PG 33353, `hgjenkins-patricia-brent-spinster` (2377 units) |
 | Mrs. Bindle: Some Incidents from the Domestic Life of the Bindles | have | PG 37324, `hgjenkins-mrs-bindle` (2505 units) |
 | The Night Club | have | PG 52590, `hgjenkins-night-club` (1872 units) |
+
+## C. J. Cutcliffe Hyne
+
+Shelf: `pipeline/cutcliffe-hyne_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Captain Kettle adventures and other novels. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lost Continent | have | PG 285, `cjchyne-lost-continent` (1419 units) |
+| A Master of Fortune: Being Further Adventures of Captain Kettle | have | PG 12556, `cjchyne-master-of-fortune` (1724 units) |
+| The Recipe for Diamonds | have | PG 31083, `cjchyne-recipe-for-diamonds` (958 units) |
+| Through Arctic Lapland | have | PG 45862, `cjchyne-through-arctic-lapland` (815 units) |
+| Kate Meredith, Financier | have | PG 55962, `cjchyne-kate-meredith-financier` (1931 units) |
+| Prince Rupert, the Buccaneer | have | PG 57039, `cjchyne-prince-rupert-the-buccaneer` (970 units) |
+| Honor of Thieves: A Novel | have | PG 66637, `cjchyne-honor-of-thieves` (1212 units) |
+| Captain Kettle on the war-path | have | PG 78784, `cjchyne-captain-kettle-on-the-war-path` (1473 units) |
