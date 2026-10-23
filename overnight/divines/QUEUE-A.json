@@ -9361,6 +9361,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T07:05:01-05:00",
       "notes": "Methodist revivalist in Canada and Britain."
+    },
+    {
+      "id": "charles-wagner",
+      "status": "done",
+      "scope": "round 104",
+      "added": "2026-10-23T07:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T07:10:38-05:00",
+      "notes": "Paris Reformed pastor (The Simple Life), English translations only."
     }
   ]
 }

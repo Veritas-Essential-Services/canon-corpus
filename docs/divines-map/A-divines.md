@@ -16534,3 +16534,17 @@ Slugs `caughey-*`. Built from title pages read for round 103.
 | Glimpses of life in soul-saving (New York, W. C. Palmer, jr., 1868) | have-ocr | IA `glimpsesoflifein00caug` |
 | Light in the dark, through the dominions Unbelief (W. C. Palmer, 1868) | have-ocr | IA `lightindarkthrou0000revj` |
 | A Brief Memoir... of the Rev. J. Caughey (by another hand) | excluded | |
+
+## Charles Wagner (round 104, my pick, 2026-10-23)
+
+Slugs `cwagner-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Youth (New York, Dodd, Mead and Company, 1893) | have-ocr | IA `youthyou00wagnrich` |
+| Courage (New York, Dodd, Mead and company, 1894) | have-ocr | IA `courage00wagn` |
+| The simple life (New York, McClure, Phillips & Co., 1901) | have-ocr | IA `simplelife0000wagn` |
+| The better way <L'ami> (New York : McClure, Phillips, 1903) | have-ocr | IA `betterwaylami00wagniala` |
+| By the fire side (New York : McClure, Phillips & co., 1904) | have-ocr | IA `byfireside00wagn` |
+| The voice of nature (New York, J. S. Ogilvie publishing company, 1904) | have-ocr | IA `voiceofnature00wagn` |
+| Books catalogued under Wagner that are Richard Wagner's music dramas | excluded | |
