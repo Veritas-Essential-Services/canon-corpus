@@ -6469,6 +6469,14 @@
       "started": "2026-10-22T23:24:13-05:00",
       "finished": "2026-10-22T23:24:13-05:00",
       "notes": "francis-worcester-doughty: new shelf, 5 Gutenberg books, 9,171 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "maud-diver",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Maud Diver; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:24:15-05:00",
+      "finished": "2026-10-22T23:24:15-05:00",
+      "notes": "maud-diver: new shelf, 5 Gutenberg books, 15,638 units, 4509 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

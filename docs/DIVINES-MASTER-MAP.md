@@ -44771,3 +44771,15 @@ Shelf: `pipeline/francis-worcester-doughty_shelf.json` (2026-10-22; added at the
 | The Bradys' Chinese Clew; Or, The Secret Dens of Pell Street | have | PG 37092, `fwdoughty-bradys-chinese-clew` (1661 units) |
 | The Bradys After a Chinese Princess; Or, The Yellow Fiends of 'Frisco | have | PG 37314, `fwdoughty-bradys-after-a-chinese-princess` (1767 units) |
 | The Bradys' Race for Life; or, Rounding Up a Tough Trio: A Detective Story of Life | have | PG 60903, `fwdoughty-bradys-race-for-life` (2031 units) |
+
+## Maud Diver
+
+Shelf: `pipeline/maud-diver_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Far to seek | have | PG 15704, `mdiver-far-to-seek` (3643 units) |
+| The great amulet | have | PG 20238, `mdiver-great-amulet` (3454 units) |
+| Captain Desmond, V.C. | have | PG 27629, `mdiver-captain-desmond-v-c` (3218 units) |
+| Awakening | have | PG 78836, `mdiver-awakening` (2720 units) |
+| Unconquered | have | PG 78882, `mdiver-unconquered` (2603 units) |

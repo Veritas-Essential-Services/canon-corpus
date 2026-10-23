@@ -1,0 +1,85 @@
+{
+ "_about": "Maud Diver: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Maud Diver",
+ "_name_words": [
+  "diver",
+  "maud"
+ ],
+ "_surname": [
+  "maud diver",
+  "diver"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mdiver-far-to-seek": [
+   15704,
+   "Far to seek"
+  ],
+  "mdiver-great-amulet": [
+   20238,
+   "The great amulet"
+  ],
+  "mdiver-captain-desmond-v-c": [
+   27629,
+   "Captain Desmond, V.C."
+  ],
+  "mdiver-awakening": [
+   78836,
+   "Awakening"
+  ],
+  "mdiver-unconquered": [
+   78882,
+   "Unconquered"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mdiver-far-to-seek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maud diver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdiver-great-amulet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maud diver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdiver-captain-desmond-v-c": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maud diver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdiver-awakening": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maud diver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdiver-unconquered": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maud diver",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
