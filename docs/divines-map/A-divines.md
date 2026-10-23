@@ -11308,3 +11308,19 @@ Slugs `hussey-*`. Built from title pages read for round 50.
 | God's operations of grace: but no offers of his grace. To which are added, two brief treatises. The one about invitation, and the other about exhortation of sinners to come to Christ; ... By Joseph Hussey, ...  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_gods-operations-of-grac_hussey-joseph_1707` |
 | The 1693 Gospel-Feast and the 1761 reprints of the Glory of Christ | alternate | not shelved |
 | The 1791 partwork reprint | excluded | |
+
+## Thomas Prince of Boston (round 51, my pick, 2026-10-23)
+
+Slugs `prince-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| A chronological history of New-England in the form of annals : being a summary and exact account of the most material transactions and occurrences relating to this country, in the order of time wherein they happened, from the discovery by Capt. Gosnold in 1602, to the arrival of Governor Belcher, in 1730 : with an introduction, containing a brief epitome of ... events abroad, from the creation, including ... the gradual discoveries of America, and the progress of the Reformation to the discovery of New-England, vol. 1 (Boston : N.E., Printed by Kneeland & Green for S. Gerrish, 1736) | have-ocr | IA `chronologicalhis01prin` |
+| Earthquakes the works of God & Tokens of his just displeasure. Two sermons on Psal. xviii.7. At the particular fast in Boston, Nov.2. and the general thanksgiving, Nov.9. Occasioned by the late dreadful earthquake. ... By Thomas Prince, ... - The second edition corrected.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_earthquakes-the-works-of_prince-thomas_1727` |
+| The grave and death destroyed, and believers ransomed and redeemed from them. A sermon at Midleborough East-Precinct July. VII. 1728. Being the Lord's-Day after the decease & funeral of Samuel Prince, Esq; there. By Thomas Prince, M.A. a Pastor of the South Church in Boston, and one of the sons of the deceased. [Two lines from Isaiah].  1728 (catalogued 1728) | have-ocr | IA `bim_eighteenth-century_the-grave-and-death-dest_prince-thomas_1728` |
+| The sovereign God acknowledged and blessed, both in giving and taking away. A sermon occasioned by the decease of Mrs. Deborah Prince, on Friday July 20, 1744. ... Delivered at the South Church in Boston, July 29, ...  1744 (catalogued 1744) | have-ocr | IA `bim_eighteenth-century_the-sovereign-god-acknow_prince-thomas-of-bost_1744` |
+| Extraordinary events the doings of God, and marvellous in pious eyes : illustrated in a sermon at the South Church in Boston, N.E., on the general thanksgiving, Thursday, July 18, 1745 : occasion'd by taking the city of Louisbourg on the Isle of Cape-Breton, by New-England soldiers, assisted by a British squadron (Edinburgh : Printed by R. Fleming, 1746) | have-ocr | IA `extraordinaryev00prin` |
+| The salvations of God in 1746. In part set forth in a sermon at the South Church in Boston, Nov. 27, 1746 (Boston, D. Henchman, 1746) | have-ocr | IA `salvationsofgodi00prin` |
+| The Divine Promises Considered ... a Funeral Discourse occasion'd by the death of Mrs. Hannah Williams (Boston, 1746): the title page, read from the page image, names no author; attributed to Prince by the catalogue only | pending | not shelved |
+| Other copies of Extraordinary Events (1746-1747, several printings) | alternate | not shelved |
+| Other single sermons of 1727-1747 left for later; Mayhew's Indian Converts, Mason's Pequot War and Willard's Compleat Body of Divinity (Prince only wrote prefaces or edited) | excluded | |
