@@ -16882,6 +16882,24 @@ Slugs `caswall-*`. Built from title pages read for round 107.
 | Morals from the churchyard : in a series of cheerful fables (London : Chapman and Hall, 1838) | have-ocr | IA `MoralsFromTheChurchyard` |
 | His comic Oxford and "Quiz" sketches (Art of Pluck, Sketches of Young Ladies) are left to a literary lane | excluded | |
 | Hymeneal53603 (catalogue attribution doubtful) | excluded | |
+
+## George Sexton (round 107, my pick, 2026-10-23)
+
+Slugs `gsexton-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| A portraiture of Mormonism (London : W. Strange, 1849) | have-ocr | IA `portraitureofmor00sext` |
+| An impartial review of the revival movement of Messrs. Moody and Sankey : a discourse delivered in Goswell Hall, Goswell Road, London, on Sunday evening, May 16th, 1875 (London : Smart and Allen, [187) | have-ocr | IA `a633631900sextuoft` |
+| Theistic Problems: Being Essays on the Existence of God and His Relationship to Man (Hodder and Stoughton, 1880) | have-ocr | IA `theisticproblem01sextgoog` |
+| Christianity & secularism : which is the better suited to meet the wants of mankind? A written debate between the Rev. George Sexton ... and Charles Watts (London, Smart & Allen, 1882) | have-ocr | IA `christianitysecu00sextuoft` |
+| History's testimony to Christ; a discourse preached in St. Augustine's Church, Clapham, England, on Christmas morning, 1877 (Toronto, Briggs, 1884) | have-ocr | IA `historystestimon00sext` |
+| The doctrine of inmortality : as taught in the Old Testament : a discourse delivered in the Cavendish Rooms, London, England, on Sunday evening, July 11, 1875 (Toronto : W. Briggs ; Montreal : Coates ; Halifax : Huestis, 1885) | have-ocr | IA `doctrineofinmort00sext` |
+| Biblical difficulties dispelled : being an answer to queries respecting so-called discrepancies in Scripture, misunderstood and misinterpreted texts, etc., etc (Toronto : W. Briggs, 1885) | have-ocr | IA `cihm_89911` |
+| Light in the cloud: being reasons for renouncing infidelity; two sermons, preached in Augustine Church, Clapham Road, London, on Sunday, Sept. 10th, 1876 (Toronto, Briggs, [188) | have-ocr | IA `lightincloudbein00sextuoft` |
+| The folly of atheism (Philadelphia : M.E. Book Room ; Toronto : W. Briggs, 1895) | have-ocr | IA `cihm_89711` |
+| spiritualmagazi00lldgoog (a periodical volume, many hands) | excluded | |
+| Men with Tails and the vaccination lecture are not theology; left out | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
