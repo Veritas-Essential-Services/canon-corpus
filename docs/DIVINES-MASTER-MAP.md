@@ -40112,3 +40112,23 @@ Shelf: `pipeline/garrett-p-serviss_shelf.json` (2026-10-22; added at the coordin
 | Round the year with the stars The chief beauties of the starry heavens as seen with the naked eye | have | PG 68391, `gpserviss-round-the-year-with-the-stars-the-chief-beauties-o` (538 units) |
 | Astronomy in a nutshell | have | PG 72521, `gpserviss-astronomy-in-a-nutshell` (566 units) |
 | repeat-editions | excluded | PG 21670: second Gutenberg editions of titles already on the shelf. |
+
+## Natalie Sumner Lincoln
+
+Shelf: `pipeline/natalie-sumner-lincoln_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mystery novels. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Red Seal | have | PG 1747, `nslincoln-red-seal` (1788 units) |
+| I Spy | have | PG 9812, `nslincoln-i-spy` (2028 units) |
+| The Lost Despatch | have | PG 24204, `nslincoln-lost-despatch` (1870 units) |
+| The Meredith Mystery | have | PG 58597, `nslincoln-meredith-mystery` (1722 units) |
+| The Man Inside | have | PG 63223, `nslincoln-man-inside` (1810 units) |
+| The Cat's Paw | have | PG 66627, `nslincoln-cats-paw` (1937 units) |
+| The Thirteenth Letter | have | PG 67890, `nslincoln-thirteenth-letter` (1646 units) |
+| The unseen ear | have | PG 68679, `nslincoln-unseen-ear` (1759 units) |
+| The nameless man | have | PG 68810, `nslincoln-nameless-man` (1880 units) |
+| The Trevor case | have | PG 69004, `nslincoln-trevor-case` (1725 units) |
+| The official chaperon | have | PG 69388, `nslincoln-official-chaperon` (2363 units) |
+| The three strings | have | PG 73597, `nslincoln-three-strings` (1869 units) |
+| The moving finger | have | PG 74210, `nslincoln-moving-finger` (1867 units) |
