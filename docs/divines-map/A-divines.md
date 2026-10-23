@@ -11664,3 +11664,20 @@ Slugs `egrobinson-*`. Built from title pages read for round 53.
 | Christian character : baccalaureate sermons delivered by Ezekiel Gilman Robinson (New York ; Boston ; Chicago : Silver, Burdett and co., 1896) | have-ocr | IA `christiancharact00robi` |
 | Ezekiel Gilman Robinson; an autobiography with a supplement (New York, Boston [etc.] Silver, Burdett and company, 1896) | have-ocr | IA `ezekielgilmanrob00robi` |
 | His translation of Neander's Planting and Training (held on the august-neander shelf) | excluded | |
+
+## William Henry Green (round 54, my pick, 2026-10-23)
+
+Slugs `whgreen-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pentateuch vindicated from the aspersions of Bishop Colenso (New York, J. Wiley, 1863) | have-ocr | IA `pentateuchvindic00gree` |
+| A grammar of the Hebrew language (New York : John Wiley & sons, 1872) | have-ocr | IA `grammarofhebrewl1872gree` |
+| The argument of the book of Job unfolded (New York, Robert Carter & bros., 1874) | have-ocr | IA `argumentofbookof00gree` |
+| Moses and the prophets: The Old Testament in the Jewish Church (New York R. Carter, 1883) | have-ocr | IA `mosesprophetsold00gree` |
+| The Hebrew feasts in their relation to recent critical hypotheses concerning the Pentateuch (New York : Hurst, 1885) | have-ocr | IA `hebrewfeastsinth00gree` |
+| The higher criticism of the Pentateuch (New York, C. Scribner's sons, 1895) | have-ocr | IA `highercriticismo00gre` |
+| The unity of the book of Genesis (New York, C. Scribner's sons, 1895) | have-ocr | IA `unityofbookofgen00gree` |
+| General introduction to the Old Testament : the canon (New York, C. Scribner's sons, 1898) | have-ocr | IA `generalintroduct00gree` |
+| General introduction to the Old Testament; the text (New York : C. Scribner's sons, 1899) | have-ocr | IA `cu31924029277667` |
+| Class syllabi printed not published (Prophets and Prophecy, Old Testament Canon and Philology); the Hebrew Chrestomathy and Elementary Grammar; occasional sermons; German and Spanish translations of his books | excluded | |
