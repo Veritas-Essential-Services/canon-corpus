@@ -9231,3 +9231,12 @@ Shelf: `pipeline/charles-waldstein_shelf.json`. Pheidias, Herculaneum, Greek scu
 | Herculaneum: Past, Present and Future (1908), with Leonard Shoobridge |  | `waldstein-herculaneum-1908` | have-raw (IA `herculaneumpastp00wald_0`) |
 | Greek Sculpture and Modern Art: Two Lectures Delivered to the Students of the Royal Academy (1914) |  | `waldstein-greek-sculpture-modern-art-1914` | have-raw (IA `greeksculpturemo00waldrich`) |
 
+
+## Adolf Furtwängler (1853-1907)
+
+Shelf: `pipeline/adolf-furtwangler_shelf.json`. Masterpieces of Greek Sculpture, tr. Sellers (1895). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Masterpieces of Greek Sculpture: a Series of Essays on the History of Art (1895), ed. and tr. Eugénie Sellers |  | `furtwangler-masterpieces-greek-sculpture-1895` | have-raw (IA `masterpiecesofgr00furtuoft`) |
+

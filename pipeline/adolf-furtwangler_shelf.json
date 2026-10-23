@@ -1,0 +1,43 @@
+{
+ "_about": "Adolf Furtwängler (1853-1907), German archaeologist: Masterpieces of Greek Sculpture, ed. and tr. Eugénie Sellers (1895). His German works were not Englished. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Adolf Furtwängler (1853-1907)",
+ "_name_words": [
+  "furtwangler",
+  "furtwängler",
+  "greek",
+  "sculpture",
+  "masterpieces",
+  "sellers"
+ ],
+ "_surname": [
+  "furtwangler",
+  "furtwängler"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "furtwangler-masterpieces-greek-sculpture-1895": [
+   "masterpiecesofgr00furtuoft",
+   "Masterpieces of Greek Sculpture: a Series of Essays on the History of Art (1895), ed. and tr. Eugénie Sellers"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "furtwangler-masterpieces-greek-sculpture-1895": "Sellers"
+ },
+ "_checks": {
+  "furtwangler-masterpieces-greek-sculpture-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "furtwangler",
+   "translator_claimed": "Sellers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
