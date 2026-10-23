@@ -7552,6 +7552,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:51:03-05:00",
       "notes": "Universalist, New York; Humanity in the City pending. 0 uids minted."
+    },
+    {
+      "id": "henry-ware-jr",
+      "status": "done",
+      "scope": "round 64",
+      "added": "2026-10-23T02:51:03-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:51:03-05:00",
+      "notes": "Unitarian, Second Church Boston and Harvard; Jotham Anderson pending (anonymous). 0 uids minted."
     }
   ]
 }

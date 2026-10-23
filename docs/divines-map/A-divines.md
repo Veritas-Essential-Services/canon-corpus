@@ -12857,3 +12857,18 @@ Slugs `chapin-*`. Built from title pages read for round 64.
 | Christianity the perfection of true manliness (New York : H. Lyon, 1856) | have-ocr | IA `christianityper00chapgoog` |
 | humanityinthecity00chaprich: Humanity in the City (New York: De Witt & Davenport, 1854); the OCR of the title page breaks off at 'by the Rev. E. -if.', so the name is not legible; to be read from the page image | pending | not shelved |
 | Hymns for Christian Devotion (1846, with J. G. Adams) and The Fountain (a temperance annual he co-edited); Universalist collections by several hands | excluded | |
+
+## Henry Ware Jr. (round 64, my pick, 2026-10-23)
+
+Slugs `hwarejr-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on the offices and character of Jesus Christ (Boston : Office of the Christian Register, 1825) | have-ocr | IA `discoursesonoff00ware` |
+| On the formation of the Christian character : addressed to those who are seeking to lead a religious life (Cambridge [Mass.] : Hilliard and Brown ; Boston : Gray and Bowen, 1831) | have-ocr | IA `onformationofc00ware` |
+| Hints on extemporaneous preaching (Boston ; Hilliard, Gray, Little and Wilkins, 1831) | have-ocr | IA `hintsonextempora00ware` |
+| The life of the saviour (Cambridge [Mass.] : James Munroe & Co. ; Boston : Hilliard, Gray, and Co. : Russell, Odiorne, and Co., 1834) | have-ocr | IA `lifeofsaviour00ware` |
+| Memoirs of the Rev. Noah Worcester, D. D (Boston : J. Munroe, 1844) | have-ocr | IA `memoirsofrevnoah00ware` |
+| The works of Henry Ware, Jr., D.D, vol. 2 (Boston : James Munroe, 1846) | have-ocr | IA `worksofhenryware02ware` |
+| recollectionsof00ware: The Recollections of Jotham Anderson, Minister of the Gospel (Boston, 1824), a story published anonymously; nothing in this scan names Ware, so it waits for a title page or catalogue that does | pending | not shelved |
+| His father Henry Ware Sr. (1764-1845); his brother William Ware's novels; Abiel Abbot's Sermons and Priestley's Views of Christian Truth, which he edited; The Christian Disciple (a journal) | excluded | |
