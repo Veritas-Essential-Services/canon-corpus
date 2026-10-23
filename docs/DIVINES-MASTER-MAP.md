@@ -14099,6 +14099,16 @@ Slugs `coffin-*`. Built from title pages read for round 78.
 | What to preach (New York ; London : Harper & Brothers, 1926) | have-ocr | IA `whattopreach00coff` |
 | The portraits of Jesus Christ in the New Testament (New York : The Macmillan company, 1926) | have-ocr | IA `portraitsofjesus00coff_0` |
 | Hymns of the Kingdom of God, a hymnal he co-edited; everything printed 1930 or later | excluded | |
+
+## Maltbie D. Babcock (round 78, my pick, 2026-10-23)
+
+Slugs `babcock-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| Thoughts for every-day living from the spoken and written words of Maltbie Davenport Babcock (New York : C. Scribner's sons, 1901) | have-ocr | IA `thoughtsforevery00babc` |
+| Letters from Egypt and Palestine (New York : C. Scribner's sons, 1902) | have-ocr | IA `lettersfromegypt00babc` |
+| Fragments that remain from the ministry of Maltbie Davenport Babcock, pastor Brick church, New York city, 1899-1901 (New York, Chicago [etc.] Fleming H. Revell company, 1907) | have-ocr | IA `fragmentsthatrem00babc` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

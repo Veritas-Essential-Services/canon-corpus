@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain Maltbie Davenport Babcock (1858-1901), Presbyterian minister of Brown Memorial Church, Baltimore, and the Brick Church, New York, author of the hymn This is My Father's World, for the Word Hoard: Thoughts for Every-Day Living (1901), Letters from Egypt and Palestine (1902) and Fragments that Remain (1907). All three were gathered after his death from his sermons, talks and letters. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 78 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "maltbie davenport babcock",
+  "maltbie d. babcock",
+  "maltbie babcock"
+ ],
+ "_surname": [
+  "babcock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "babcock-thoughts-every-day": [
+   "thoughtsforevery00babc",
+   "Thoughts for every-day living from the spoken and written words of Maltbie Davenport Babcock (New York : C. Scribner's sons, 1901)"
+  ],
+  "babcock-letters-egypt-palestine": [
+   "lettersfromegypt00babc",
+   "Letters from Egypt and Palestine (New York : C. Scribner's sons, 1902)"
+  ],
+  "babcock-fragments-that-remain": [
+   "fragmentsthatrem00babc",
+   "Fragments that remain from the ministry of Maltbie Davenport Babcock, pastor Brick church, New York city, 1899-1901 (New York, Chicago [etc.] Fleming H. Revell company, 1907)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "babcock-thoughts-every-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "babcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "babcock-letters-egypt-palestine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "babcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "babcock-fragments-that-remain": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "babcock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
