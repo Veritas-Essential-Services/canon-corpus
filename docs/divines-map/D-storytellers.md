@@ -18595,3 +18595,15 @@ Shelf: `pipeline/margaret-hill-mccarter_shelf.json` (2026-10-22; added at the co
 | Winning the Wilderness | have | PG 27505, `mhmccarter-winning-the-wilderness` (2731 units) |
 | The Price of the Prairie: A Story of Kansas | have | PG 31524, `mhmccarter-price-of-the-prairie` (2546 units) |
 | The Reclaimers | have | PG 33959, `mhmccarter-reclaimers` (1643 units) |
+
+## Katherine Mansfield
+
+Shelf: `pipeline/katherine-mansfield_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Garden Party, and Other Stories | have | PG 1429, `kmansfield-garden-party-and-other-stories` (1534 units) |
+| In a German Pension | have | PG 1472, `kmansfield-in-a-german-pension` (955 units) |
+| Bliss, and other stories | have | PG 44385, `kmansfield-bliss-and-other-stories` (1637 units) |
+| Poems | have | PG 59276, `kmansfield-poems` (288 units) |
+| The Doves' Nest, and Other Stories | have | PG 66871, `kmansfield-doves-nest-and-other-stories` (875 units) |
