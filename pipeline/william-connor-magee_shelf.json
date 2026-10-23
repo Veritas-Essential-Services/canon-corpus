@@ -1,0 +1,86 @@
+{
+ "_about": "Public-domain William Connor Magee (1821-1891), Bishop of Peterborough and Archbishop of York, preacher, for the Word Hoard: Sermons at St Saviour's, Bath (1852), The Gospel and the Age (1884), Christ the Light of all Scripture (1892) and Growth in Grace (1892), from Internet Archive scans. Added 2026-10-23 by lane A, round 47 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "magee"
+ ],
+ "_surname": [
+  "william connor magee",
+  "w. c. magee",
+  "magee"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "magee-sermons-bath": [
+   "sermonsdelivere00magegoog",
+   "Sermons delivered at St. Saviour's church, Bath (Hatchard, 1852)"
+  ],
+  "magee-gospel-and-age": [
+   "gospelagesermons00mage",
+   "The gospel and the age : sermons on special occasions (London : Isbister, 1884)"
+  ],
+  "magee-christ-light": [
+   "christlightofall00mage",
+   "Christ the light of all Scripture (New York : T. Whitaker, 1892)"
+  ],
+  "magee-growth-in-grace": [
+   "growthingraceoth00mage",
+   "Growth in grace : and other sermons (New York : T. Whittaker, 1892)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "magee-other": "Speeches and Addresses (1893, political); Christianity and Agnosticism (1889, a controversy by several hands)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "magee-sermons-bath": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. magee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "magee-gospel-and-age": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. magee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "magee-christ-light": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "magee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "magee-growth-in-grace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. c. magee",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

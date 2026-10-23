@@ -10838,6 +10838,18 @@ Slugs `hbrowne-*`. Built from title pages read for round 47.
 | Many later printings of the Exposition | alternate | not shelved |
 | The Inspiration of Holy Scripture (New York 1879): Browne's essay from Aids to Faith bound with a portion of an essay by Ellicott; two authors in one volume | alternate | not shelved |
 | Aids to Faith (1862, many authors); examination question books on his Exposition by other hands | excluded | |
+
+## William Connor Magee (round 47, my pick, 2026-10-23)
+
+Slugs `magee-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons delivered at St. Saviour's church, Bath (Hatchard, 1852) | have-ocr | IA `sermonsdelivere00magegoog` |
+| The gospel and the age : sermons on special occasions (London : Isbister, 1884) | have-ocr | IA `gospelagesermons00mage` |
+| Christ the light of all Scripture (New York : T. Whitaker, 1892) | have-ocr | IA `christlightofall00mage` |
+| Growth in grace : and other sermons (New York : T. Whittaker, 1892) | have-ocr | IA `growthingraceoth00mage` |
+| Speeches and Addresses (1893, political); Christianity and Agnosticism (1889, a controversy by several hands) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
