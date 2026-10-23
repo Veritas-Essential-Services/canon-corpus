@@ -2186,3 +2186,6 @@
 
 ## 2026-10-23 06:27 CDT — round 96 done
 - thomas-bradbury, georg-joachim-zollikofer, jedidiah-morse, abiel-abbot-livermore, alfred-e-garvie, j-scott-lidgett: 6 shelves, 63 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 06:34 CDT — round 97 done
+- henry-codman-potter, john-codman, w-b-godbey, harvey-newcomb, james-mudge, samuel-kirkland-lothrop: 6 shelves, 71 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
