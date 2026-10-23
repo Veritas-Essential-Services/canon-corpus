@@ -18550,6 +18550,22 @@ Slugs `truett-*`. Built from title pages read for round 125.
 | God's call to America and other addresses comprising special orations delivered on widely varying occasions (Judson Press, 1923) | have-ocr | IA `godscalltoameric0000geor` |
 | Young People's Pilgrim's Progress is Bunyan's | excluded | |
 | second scans of all three books | excluded | |
+
+## Leighton Parks (round 125, my pick, 2026-10-23)
+
+Slugs `parks-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| His star in the east ([n.p.], 1887) | have-ocr | IA `hisstarineast00park` |
+| The undiscovered country : the seventy-fourth anniversary address before the American Colonization Society : delivered in the Church of the Epiphany, Washington, D.C., January 18th, 1891 (Washington, D.C. : Press of McGill & Wallace ..., 1891) | have-ocr | IA `undiscoveredcou00parkgoog` |
+| The winning of the soul : and other sermons (New York : E.P. Dutton, 1893) | have-ocr | IA `winningofsouloth00park` |
+| Moral leadership, and other sermons (New York, C. Scribner's sons, 1914) | have-ocr | IA `moralleadershipo00park` |
+| The crisis of the churches (N.Y., Scribner, 1922) | have-ocr | IA `crisisofchurches00park` |
+| What is modernism? (charles scribner's sons, 1924) | have-ocr | IA `whatismodernism0000leig` |
+| Turnpikes and dirt roads (charles scribner's sons, 1927) | have-ocr | IA `turnpikesdirtroa0000leig` |
+| English Ways and By-Ways is letters of other writers | excluded | |
+| second scans of His Star in the East and the Colonization address | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

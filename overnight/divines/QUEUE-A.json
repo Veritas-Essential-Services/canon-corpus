@@ -10432,6 +10432,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:10:38-05:00",
       "notes": "First Baptist, Dallas. Three books, all before 1930."
+    },
+    {
+      "id": "a-leighton-parks",
+      "status": "done",
+      "scope": "round 125",
+      "added": "2026-10-23T09:10:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:10:38-05:00",
+      "notes": "Emmanuel, Boston, and St Bartholomew's, New York. Seven books, all before 1930."
     }
   ]
 }
