@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T00:27:31-05:00",
- "note": "Rounds cq-cv done 2026-10-23.",
- "resume_point": "Scholars wishlist done (round cv). Next: more classical scholars with pre-1930 English work not yet shelved (check all branches first): e.g. J. B. Bury, T. R. Glover, W. Warde Fowler, J. E. Sandys, R. C. Jebb's own essays, A. W. Verrall, W. Y. Sellar, Gilbert Norwood, E. A. Gardner, Percy Gardner. Prefer clean Gutenberg; do not add Perseus files that PR #7 holds."
+ "heartbeat": "2026-10-23T00:39:07-05:00",
+ "note": "Rounds cq-cw done 2026-10-23.",
+ "resume_point": "Round cw swept unheld PG classics (LoCC PA/DE/DF/DG/B, first author, PG id on no branch). What remains on that list is mostly split volumes of held complete editions, other lanes' authors, or Italy travel books. Next: the same sweep on IA for pre-1930 classical scholarship (subject:classical philology / Greek / Roman history) by scholars with no shelf, checking every branch first."
 }

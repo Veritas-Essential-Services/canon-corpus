@@ -1980,6 +1980,14 @@
    "started": "2026-10-23T00:27:31-05:00",
    "finished": "2026-10-23T00:27:31-05:00",
    "notes": "8 new shelves, 46 works (13 clean PG). Rohde's Psyche already held (reading-lists singles shelf)."
+  },
+  {
+   "id": "2026-10-23cw",
+   "status": "done",
+   "scope": "Classics on Gutenberg not held on any branch (LoCC PA/DE/DF/DG/B sweep)",
+   "started": "2026-10-23T00:39:07-05:00",
+   "finished": "2026-10-23T00:39:07-05:00",
+   "notes": "4 new shelves (Hodgkin 11, Tenney Frank 6, Dunlop 3, St. John 3) + ACER 3 clean PG; ACER Ovid filename fixed. For lane C/D, not edited: Symonds's Studies of the Greek Poets (PG 47157, 47236) and Sketches in Italy and Greece (18893) for lane C's symonds shelf; Church's Roman Life in the Days of Cicero (13481) and Jennie Hall's Buried Cities (9628) for lane D."
   }
  ]
 }
