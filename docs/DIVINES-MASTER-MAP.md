@@ -20034,6 +20034,15 @@ Shelf: `pipeline/charles-sears-baldwin_shelf.json`. Ancient Rhetoric and Poetic 
 |---|---|---|---|
 | Ancient Rhetoric and Poetic (1924) |  | `baldwin-ancient-rhetoric-poetic-1924` | have (PG 76707) |
 
+
+## David Moore Robinson (1880-1958)
+
+Shelf: `pipeline/david-m-robinson_shelf.json`. Sappho and her Influence (Boston: Marshall Jones, 1924). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Sappho and her Influence (Boston: Marshall Jones, 1924) |  | `robinson-sappho-and-her-influence-1924` | have (PG 61505) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

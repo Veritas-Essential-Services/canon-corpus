@@ -1,0 +1,35 @@
+{
+ "_about": "David M. Robinson (1880-1958), Johns Hopkins: Sappho and her Influence (Our Debt to Greece and Rome, 1924). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "David Moore Robinson (1880-1958)",
+ "_name_words": [
+  "robinson",
+  "david",
+  "moore",
+  "sappho",
+  "influence"
+ ],
+ "_surname": [
+  "david m. robinson",
+  "david moore robinson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "robinson-sappho-and-her-influence-1924": [
+   61505,
+   "Sappho and her Influence (Boston: Marshall Jones, 1924)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "robinson-sappho-and-her-influence-1924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david m. robinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
