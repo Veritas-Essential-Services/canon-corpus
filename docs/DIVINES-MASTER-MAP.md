@@ -17737,6 +17737,31 @@ Slugs `shatford-*`. Built from title pages read for round 117.
 | Our lady of colours : a Christmas message ([Canada? : s.n.], 1929) | have-ocr | IA `cihm_80527` |
 | The Christmas box ([Canada? : s.n.], ), IA cihm_81127: the booklet prints no date and he lived until 1935, so a pre-1930 printing is not shown | pending | not shelved |
 | The shepherds : a Christmas analogy (Montreal : J. Lovell, ), IA cihm_78261: the booklet prints no date and he lived until 1935, so a pre-1930 printing is not shown | pending | not shelved |
+
+## W. E. Orchard (round 117, my pick, 2026-10-23)
+
+Slugs `orchard-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| The finality of Christ and other sermons (London : George Allen and Unwin, Ltd, 19--) | have-ocr | IA `thefinalityofchr00orchuoft` |
+| Modern theories of sin. Thesis approved for the degree of Doctor of Divinity in the University of London (London, J. Clarke, 1909) | have-ocr | IA `moderntheoriesof00orch` |
+| Sermons on God, Christ, and man (London : James Clarke, 1913) | have-ocr | IA `sermonsongodchri0000orch` |
+| The temple; a book of prayers (New York, E.P. Dutton & Co., London, J.M. Dent & Sons, ltd., 1914) | have-ocr | IA `templebookofpray00orchrich` |
+| The real war (London ; Toronto : H. Milford, Oxford University Press, 1914) | have-ocr | IA `cihm_88265` |
+| The necessity of Christ (London, Dent, 1917) | have-ocr | IA `necessityofchris00orchuoft` |
+| The outlook for religion (New York And London, Funk & Wagnalls Co., 1917) | have-ocr | IA `outlookforreligi0000orch` |
+| The true patriotism and other sermons (London : G. Allen & Unwin, 1918) | have-ocr | IA `truepatriotismot0000orch` |
+| The Order of Divine Service for public worship, the administration of the Sacraments and other rites and ceremonies, and a selection from the daily offices, compiled from ancient and modern devotions, together with an abridged and revised Psalter and Canticles pointed for chanting (London, Milford, 1921) | have-ocr | IA `orderofdivinese00orch` |
+| Oracles of God : studies in the Minor Prophets (London : Clarke, 1922) | have-ocr | IA `oraclesofgod00orchuoft` |
+| No more war, and other sermons (London, G. Allen & Unwin, 1922) | have-ocr | IA `nomorewarotherse0000orch` |
+| Foundations of faith (New York, George H. Doran Co, 1924) | have-ocr | IA `foundationsoffai0000orch` |
+| Foundations of Faith, II, Christological, vol. 1 (George H. Doran Company, 1926) | have-ocr | IA `bwb_P4-ATU-400_1` |
+| Foundations of Faith Volume 4: Eschatological (Routledge, Chapman & Hall, Incorporated, 1927) | have-ocr | IA `foundationsoffai0000unse_x4h2` |
+| Christianity and world-problems (New York : Doran, 1925) | have-ocr | IA `christianityworl0000orch` |
+| The present crisis in religion (New York, London, Harper & Brothers, 1929) | have-ocr | IA `presentcrisisinr0000orch` |
+| Books printed in 1930 or later (What is Hell?, Prayer, From Faith to Faith) left out | excluded | |
+| jstor-41224351 is by another Orchard | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
