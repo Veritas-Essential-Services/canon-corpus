@@ -43917,3 +43917,16 @@ Shelf: `pipeline/a-d-crake_shelf.json` (2026-10-22; added at the coordinator's r
 | The House of Walderne A Tale of the Cloister and the Forest in the Days of the Barons' Wars | have | PG 17012, `adcrake-house-of-walderne-a-tale-of-the-cloister-and-the-for` (2376 units) |
 | The Last Abbot of Glastonbury: A Tale of the Dissolution of the Monasteries | have | PG 53010, `adcrake-last-abbot-of-glastonbury` (1714 units) |
 | Brian Fitz-Count: A Story of Wallingford Castle and Dorchester Abbey | have | PG 54583, `adcrake-brian-fitz-count` (3488 units) |
+
+## Bertha M. Clay
+
+Shelf: `pipeline/bertha-m-clay_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A tragedy of love and hate | have | PG 71769, `bmclay-tragedy-of-love-and-hate` (1999 units) |
+| A woman's trust; or, Lady Elaine's martyrdom | have | PG 74270, `bmclay-womans-trust` (1842 units) |
+| In love's hands | have | PG 74340, `bmclay-in-loves-hands` (1497 units) |
+| Loved and lost | have | PG 74670, `bmclay-loved-and-lost` (2352 units) |
+| Margery Daw | have | PG 74956, `bmclay-margery-daw` (2249 units) |
+| Suffered in vain | have | PG 75137, `bmclay-suffered-in-vain` (2337 units) |

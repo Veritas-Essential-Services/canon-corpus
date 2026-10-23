@@ -1,0 +1,97 @@
+{
+ "_about": "Bertha M. Clay: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Bertha M. Clay",
+ "_name_words": [
+  "bertha",
+  "clay"
+ ],
+ "_surname": [
+  "bertha m. clay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bmclay-tragedy-of-love-and-hate": [
+   71769,
+   "A tragedy of love and hate"
+  ],
+  "bmclay-womans-trust": [
+   74270,
+   "A woman's trust; or, Lady Elaine's martyrdom"
+  ],
+  "bmclay-in-loves-hands": [
+   74340,
+   "In love's hands"
+  ],
+  "bmclay-loved-and-lost": [
+   74670,
+   "Loved and lost"
+  ],
+  "bmclay-margery-daw": [
+   74956,
+   "Margery Daw"
+  ],
+  "bmclay-suffered-in-vain": [
+   75137,
+   "Suffered in vain"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bmclay-tragedy-of-love-and-hate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha m. clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmclay-womans-trust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha m. clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmclay-in-loves-hands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha m. clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmclay-loved-and-lost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha m. clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmclay-margery-daw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha m. clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmclay-suffered-in-vain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bertha m. clay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
