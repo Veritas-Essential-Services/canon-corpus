@@ -2093,3 +2093,6 @@
 
 ## 2026-10-23 03:00 CDT — round 65 done
 - john-cumming, henry-blunt, hugh-stowell, william-goode-1801: 4 shelves, 57 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 03:04 CDT — round 66 done
+- charles-bradley-1789, edward-henry-bickersteth, edward-garbett, hugh-stowell-brown, capel-molyneux: 5 shelves, 25 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
