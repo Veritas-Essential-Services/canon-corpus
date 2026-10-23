@@ -15385,3 +15385,21 @@ Shelf: `pipeline/fanny-fern_shelf.json` (2026-10-22; added at the coordinator's 
 | A New Story Book for Children | have | PG 66655, `ffern-new-story-book-for-children` (321 units) |
 | The Play-day Book: New Stories for Little Folks | have | PG 67570, `ffern-play-day-book` (663 units) |
 | Shadows and sunbeams: Being a second series of Fern leaves from Fanny's portfolio | have | PG 69784, `ffern-shadows-and-sunbeams` (1316 units) |
+
+## Sara Jeannette Duncan
+
+Shelf: `pipeline/sara-jeannette-duncan_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Pool in the Desert | have | PG 1168, `sjduncan-pool-in-the-desert` (1288 units) |
+| The Story of Sonny Sahib | have | PG 4547, `sjduncan-story-of-sonny-sahib` (316 units) |
+| The Path of a Star | have | PG 5102, `sjduncan-path-of-a-star` (1372 units) |
+| The Imperialist | have | PG 5301, `sjduncan-imperialist` (1375 units) |
+| A Daughter of To-Day | have | PG 14490, `sjduncan-daughter-of-to-day` (1196 units) |
+| A Voyage of Consolation (being in the nature of a sequel to the experiences of 'An American girl in London') | have | PG 15966, `sjduncan-voyage-of-consolation-being-in-the-nature-of-a-sequ` (1665 units) |
+| Hilda: A Story of Calcutta | have | PG 18051, `sjduncan-hilda` (1378 units) |
+| An American Girl in London | have | PG 45925, `sjduncan-american-girl-in-london` (983 units) |
+| His Honour, and a Lady | have | PG 53036, `sjduncan-his-honour-and-a-lady` (1056 units) |
+| The Simple Adventures of a Memsahib | have | PG 56513, `sjduncan-simple-adventures-of-a-memsahib` (1345 units) |
+| The crow's-nest | have | PG 73588, `sjduncan-crows-nest` (364 units) |

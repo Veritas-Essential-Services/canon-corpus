@@ -4629,6 +4629,14 @@
       "started": "2026-10-22T22:40:00-05:00",
       "finished": "2026-10-22T22:40:00-05:00",
       "notes": "fanny-fern: new shelf, 11 Gutenberg books, 10,845 units, 151 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "sara-jeannette-duncan",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Sara Jeannette Duncan; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:01-05:00",
+      "finished": "2026-10-22T22:40:01-05:00",
+      "notes": "sara-jeannette-duncan: new shelf, 11 Gutenberg books, 12,338 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
