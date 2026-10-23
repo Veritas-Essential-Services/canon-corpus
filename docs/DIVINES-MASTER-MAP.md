@@ -13033,6 +13033,20 @@ Slugs `cbradley-*`. Built from title pages read for round 66.
 | Sermons preached in the parish church of High Wycombe (London : Printed for Hamilton, Adams, 1884) | have-ocr | IA `sermonspreachedi0000brad` |
 | a548635400braduoft: Sermons adapted to the celebration of the holy sacrament of the Lord's Supper (1842); Internet Archive serves no text file for it (404); another copy is needed | pending | not shelved |
 | His Latin school editions (Eutropius, Phaedrus, Cornelius Nepos); his son G. G. Bradley, Dean of Westminster | excluded | |
+
+## Edward Henry Bickersteth (round 66, my pick, 2026-10-23)
+
+Slugs `ehbickersteth-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| Poems (Cambridge : Macmillan, Barclay, and Macmillan, 1849) | have-ocr | IA `poemeng00bick` |
+| Water from the well-spring: for the Sabbath hours of afflicted believers: being a complete course of morning and evening meditations for every Sunday in the year (New York : R. Carter, 1854) | have-ocr | IA `waterfromwellspr00bick` |
+| The rock of ages (Boston, American tract society, 1860) | have-ocr | IA `rockofages00bick` |
+| The risen saints: what does Scripture reveal of their estate and employments? (catalogued 1865) | have-ocr | IA `risensaintswhat00bickgoog` |
+| Yesterday, to-day, and for ever : a poem, in twelve books (London : Rivingtons, 1866) | have-ocr | IA `todayfo00bick` |
+| The spirit of life : or Scripture testimony to the divine person and work of the Holy Ghost (London : The Religious Trat Society, 1869) | have-ocr | IA `thespiritoflifeo00bickuoft` |
+| His father's A Scripture Help (which he re-edited); The Hymnal Companion (compiled); Ocean Melodies (a collection by others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

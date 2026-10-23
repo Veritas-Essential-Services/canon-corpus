@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Edward Henry Bickersteth (1825-1906), Bishop of Exeter, poet and hymn writer ('Peace, perfect peace'), for the Word Hoard: Poems (1849), Water from the Well-Spring (1854), The Rock of Ages (1860), The Risen Saints (1865), Yesterday, To-day, and for Ever, a poem in twelve books (1866) and The Spirit of Life (1869). His father Edward Bickersteth, on his own shelf, is another man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 66 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bickersteth"
+ ],
+ "_surname": [
+  "edward henry bickersteth",
+  "e. h. bickersteth",
+  "edward h. bickersteth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ehbickersteth-poems": [
+   "poemeng00bick",
+   "Poems (Cambridge : Macmillan, Barclay, and Macmillan, 1849)"
+  ],
+  "ehbickersteth-well-spring": [
+   "waterfromwellspr00bick",
+   "Water from the well-spring: for the Sabbath hours of afflicted believers: being a complete course of morning and evening meditations for every Sunday in the year (New York : R. Carter, 1854)"
+  ],
+  "ehbickersteth-rock-of-ages": [
+   "rockofages00bick",
+   "The rock of ages (Boston, American tract society, 1860)"
+  ],
+  "ehbickersteth-risen-saints": [
+   "risensaintswhat00bickgoog",
+   "The risen saints: what does Scripture reveal of their estate and employments? (catalogued 1865)"
+  ],
+  "ehbickersteth-yesterday-today": [
+   "todayfo00bick",
+   "Yesterday, to-day, and for ever : a poem, in twelve books (London : Rivingtons, 1866)"
+  ],
+  "ehbickersteth-spirit-of-life": [
+   "thespiritoflifeo00bickuoft",
+   "The spirit of life : or Scripture testimony to the divine person and work of the Holy Ghost (London : The Religious Trat Society, 1869)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ehbickersteth-other": "His father's A Scripture Help (which he re-edited); The Hymnal Companion (compiled); Ocean Melodies (a collection by others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "ehbickersteth-spirit-of-life": "title page: 'The Spirit of Life; or, Scripture testimony to the divine person and work of the Holy Ghost, by E. H. Bickebsteth [Bickersteth], M.A., Vicar of ...'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ehbickersteth-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward henry bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ehbickersteth-well-spring": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward henry bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ehbickersteth-rock-of-ages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward henry bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "ehbickersteth-risen-saints": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. h. bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ehbickersteth-yesterday-today": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward henry bickersteth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ehbickersteth-spirit-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
