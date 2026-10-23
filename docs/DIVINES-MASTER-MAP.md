@@ -19234,6 +19234,16 @@ Shelf: `pipeline/charles-burton-gulick_shelf.json`. Daily life of the Greeks, 19
 | The Life of the Ancient Greeks, with Special Reference to Athens (1902) |  | `gulick-life-of-ancient-greeks-1902` | have-raw (IA `lifeofancientgre00guliuoft`) |
 | Modern Traits in Old Greek Life (Our Debt to Greece and Rome, 1927) |  | `gulick-modern-traits-old-greek-life` | have-raw (IA `in.gov.ignca.13567`) |
 
+
+## Max Duncker (1811-1886)
+
+Shelf: `pipeline/max-duncker_shelf.json`. History of Greece, tr. Alleyne, 2 vols. (1883-1886). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| History of Greece from the Earliest Times to the End of the Persian War, vol. I (1883), tr. S. F. Alleyne |  | `duncker-history-of-greece-vol-1` | have-raw (IA `historyofgreecef01duncuoft`) |
+| History of Greece, vol. II (1886), tr. S. F. Alleyne and Evelyn Abbott |  | `duncker-history-of-greece-vol-2` | have-raw (IA `historyofgreecef02dunc`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
