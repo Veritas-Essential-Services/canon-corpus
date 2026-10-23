@@ -41291,3 +41291,19 @@ Shelf: `pipeline/arthur-morrison_shelf.json` (2026-10-22; added at the coordinat
 | The Dorrington Deed-Box | have | PG 53341, `amorrison-dorrington-deed-box` (893 units) |
 | To London Town | have | PG 58282, `amorrison-to-london-town` (900 units) |
 | Adventures of Martin Hewitt, Third Series | have | PG 59319, `amorrison-adventures-of-martin-hewitt-third-series` (1051 units) |
+
+## Don Marquis
+
+Shelf: `pipeline/don-marquis_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Humorous stories and verse. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dreams and Dust | have | PG 458, `dmarquis-dreams-and-dust` (468 units) |
+| Danny's Own Story | have | PG 587, `dmarquis-dannys-own-story` (1563 units) |
+| The Cruise of the Jasper B. | have | PG 716, `dmarquis-cruise-of-the-jasper-b` (1389 units) |
+| Hermione and Her Little Group of Serious Thinkers | have | PG 776, `dmarquis-hermione-and-her-little-group-of-serious-thinkers` (1326 units) |
+| Carter, and Other People | have | PG 51913, `dmarquis-carter-and-other-people` (1664 units) |
+| The Revolt of the Oyster | have | PG 51917, `dmarquis-revolt-of-the-oyster` (1317 units) |
+| The Old Soak, and Hail And Farewell | have | PG 51920, `dmarquis-old-soak-and-hail-and-farewell` (417 units) |
+| pg-57714 | excluded | PG 57714: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 51925: second Gutenberg editions of titles already on the shelf. |

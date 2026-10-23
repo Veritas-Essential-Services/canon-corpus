@@ -2120,3 +2120,6 @@
 
 ## 2026-10-22 22:45 CDT — arthur-morrison: done
 - arthur-morrison: new shelf, 9 Gutenberg books, 8,772 units, 1431 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — don-marquis: done
+- don-marquis: new shelf, 7 Gutenberg books, 8,144 units, 39 ~2 ids; verify 0 mismatches, 0 rights flags.
