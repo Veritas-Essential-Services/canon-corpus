@@ -16425,6 +16425,25 @@ Slugs `jwdawson-*`. Built from title pages read for round 102.
 | Science, the ally of religion ([S.l. : s.n., 1896) | have-ocr | IA `cihm_06870` |
 | cihm_34869: The Testimony of the Holy Scriptures respecting Wine and Strong Drink (Pictou, 1858); its readable text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | Geology, zoology and McGill University papers: not theology | excluded | |
+
+## Matthew Richey (round 102, my pick, 2026-10-23)
+
+Slugs `richey-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| A short and scriptural method with Antipedobaptists (Halifax, N. S., Printed by J.S. Cunnabell, 1835) | have-ocr | IA `shortscripturalm00rich` |
+| A Memoir of the Late Rev. William Black, Wesleyan Minister, Halifax. N.S.: Including an Account (William Cunnabell, 1839) | have-ocr | IA `amemoirlaterevw00richgoog` |
+| Sermons delivered on various occasions (Toronto : J. Ryerson, 1840) | have-ocr | IA `cihm_40458` |
+| The exalted objects of the Christian ministry : a sermon preached before the conference in Kingston, U.C., 1838, and at the dedicatioon of the Wesleyan Centenary Chapel in St. John's, N.B. 1839 ([Toronto? : s.n.], 1840) | have-ocr | IA `cihm_64760` |
+| A plain statement of facts, connected with the union and separation of the British and Canadian conferences ([Toronto? : s.n.], 1840) | have-ocr | IA `cihm_42315` |
+| A letter to the editor of The Church : in answer to his remarks on the Rev. Thomas Powell's essay on apostolical succession (Kingston, Ont. : [s.n.], 1843) | have-ocr | IA `lettertoeditorof00rich` |
+| A sermon preached at the dedication of the Wesleyan Methodist Church, Ricmond Street, Toronto, on Sunday, June 29, 1845 : and of the Wesleyan Methodist Church, Great St. James Street, Montreal, on Sunday, July 27, 1845 (London : J . Mason ; Montreal : Wesleyan Book Depot, 1845) | have-ocr | IA `sermonpreachedat00rich` |
+| An address at the inauguration of the Halifax Young Men's Christian Association ([Halifax, N.S.? : s.n.], 1854) | have-ocr | IA `cihm_64816` |
+| The spirit of popery and the duty of protestants in regard to public education : eighth lecture delivered before the Protestant Alliance of Nova Scotia at Temperance Hall, Halifax, on Friday evening, April 8th, 1859 ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_94100` |
+| A sermon occasioned by the death of the Rev. William Croscombe : preached in Windsor, 30th October, and in Halifax, 6th November, 1859 ([Halifax, N.S.? : s.n.], 1859) | have-ocr | IA `cihm_39102` |
+| A Plea for the Confederation of the Colonies (political) | excluded | |
+| Poems of Ten Years, by Matthew Richey Knight (a different man) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
