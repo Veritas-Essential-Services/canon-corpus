@@ -20108,7 +20108,7 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Fred Rothwell (Bergson's Laughter; Schuré)
 
 Shelf: `pipeline/rothwell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rothwell` · titles `python3 pipeline/split_shelf_titles.py rothwell`.
-Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 24 (2026-10-10), vetoable. Round 122 (2026-10-23) added Ohnet's In Deep Abyss (1901). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20117,6 +20117,7 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `rothwell-pascal-reincarnation-a-study-in-human-evolution` | Théophile Pascal | Reincarnation: A Study in Human Evolution | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 21533 |
 | `rothwell-roujon-battles-bivouacs-a-french-soldier-s-note` | Jacques Roujon | Battles & Bivouacs: A French soldier's note-book | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 58231 |
 | `rothwell-schure-pythagoras-and-the-delphic-mysteries` | Edouard Schuré | Pythagoras and the Delphic mysteries | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 76522 |
+| `rothwell-ohnet-in-deep-abyss` | Georges Ohnet | In Deep Abyss: a Novel | Fred Rothwell | 1901 | have-raw | IA `cu31924027367147` |
 
 ## Sir Clements Markham (Hakluyt Society: Cieza de León, Quirós, Vespucci; Lazarillo)
 
@@ -23509,7 +23510,7 @@ Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: nineteenth-century continental fiction (Auerbach, Heyse, Spielhagen, E. Werner, Jókai, Bjørnson, De Coster, Mann's Royal Highness, Hugo, Laclos, Gourmont)
 
 Shelf: `pipeline/singles-continental-fiction_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-continental-fiction` · titles `python3 pipeline/split_shelf_titles.py singles-continental-fiction`.
-Round 42 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 42 (2026-10-10), vetoable. Round 122 (2026-10-23) added René Bazin ×4, Georges Ohnet ×2 and André Theuriet ×2. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23577,6 +23578,14 @@ Round 42 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-continental-fiction-werner-hermann` | E. Werner | Hermann: A Novel | Helen Keer Brown | (see the Gutenberg header) | have | PG 35142 |
 | `singles-continental-fiction-werner-partners` | E. Werner | Partners: A Novel. | H. G. Godwin | (see the Gutenberg header) | have | PG 35135 |
 | `singles-continental-fiction-werner-the-sign-of-flame` | E. Werner | The Sign of Flame | Eva Freeman Hart and E. Van Gerpen | (see the Gutenberg header) | have | PG 35069 |
+| `singles-continental-fiction-bazin-coming-harvest` | René Bazin | The Coming Harvest (Le blé qui lève) | Edna K. Hoyt | 1908 | have-raw | IA `comingharvest00baziiala` |
+| `singles-continental-fiction-bazin-barrier` | René Bazin | The Barrier (La barrière) | Mary D. Frost | 1910 | have-raw | IA `barrierlabarrier00baziiala` |
+| `singles-continental-fiction-bazin-penitent` | René Bazin | The Penitent | M. Harriet M. Capes | 1912 | have-raw | IA `penitent00baziiala` |
+| `singles-continental-fiction-bazin-gentle-france` | René Bazin | Gentle France (Douce France) | Mary Dougherty | 1913 | have-raw | IA `gentlefrance00bazirich` |
+| `singles-continental-fiction-ohnet-double-wrong` | Georges Ohnet | The Double Wrong; or, A Broken Life (Le docteur Rameau) | J. C. Curtin | 1889 | have-raw | IA `doublewrongorbro00ohne` |
+| `singles-continental-fiction-ohnet-debt-of-hatred` | Georges Ohnet | A Debt of Hatred | E. P. Robins | 1891 | have-raw | IA `debtofhatred00ohne` |
+| `singles-continental-fiction-theuriet-rustic-life` | André Theuriet | Rustic Life in France | Helen B. Dole | 1896 | have-raw | IA `cu31924014024040` |
+| `singles-continental-fiction-theuriet-mistress-of-many-moods` | André Theuriet | A Mistress of Many Moods | Charlotte Boardman Rogers | 1900 | have-raw | IA `amistressmanymo00rogegoog` |
 
 ## One-off translations: plays, verse and tale collections (Sudermann's plays incl. Edith Wharton's, Vondel's Lucifer, Cyrano, Salomé, the Noh, Baudelaire, Christine de Pisan, Kathá Sarit Ságara, Kādambarī, Old Celtic Romances)
 

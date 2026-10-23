@@ -318,3 +318,5 @@
 - 2026-10-22T22:15-05:00: resumed (network back). Garnett recheck: 30081000790570 (W&P 1925, partial upload) to _pending. Round 120: hapgood +1, jd-duff +2, singles-fiction-3 +2, singles-nonfiction-2 +2, singles-plays-poetry-2 +2. --verify --record 0 mismatched.
 
 - 2026-10-22T22:18-05:00: round 121: new eugene-schuyler (2); hapgood +1, yarmolinsky +1, singles-fiction-3 +5, singles-plays-poetry-2 +4. --verify --record 0 mismatched.
+
+- 2026-10-22T22:25-05:00: round 122: singles-continental-fiction +8 (Bazin x4, Ohnet x2, Theuriet x2), rothwell +1 (Ohnet; name form fred. rothwell added). --verify --record 0 mismatched.
