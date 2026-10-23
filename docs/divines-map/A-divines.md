@@ -10723,3 +10723,18 @@ Slugs `chandler-*`. Built from title pages read for round 46.
 | A critical history of the life of David (Oxford, The University press, 1853) | have-ocr | IA `acriticalhistor00changoog` |
 | The 1769 Sermons; the 1813 History of Persecution | alternate | not shelved |
 | Sermons against Popery (1735), a collection by several Salters' Hall ministers | excluded | |
+
+## James Foster (round 46, my pick, 2026-10-22)
+
+Slugs `foster-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on the following subjects, vol. 1 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi01fost` |
+| Sermons on the following subjects, vol. 2 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi02fost` |
+| Sermons on the following subjects, vol. 3 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi03fost` |
+| Sermons on the following subjects, vol. 4 (London : Printed for J. Noon, 1733) | have-ocr | IA `sermonsonfollowi04fost` |
+| The usefulness, truth, and excellency of the Christian revelation defended against the objections contain'd in a late book, intitled, Christianity as old as creation, &c (London , Printed for J. Noon at the White-Hart near Mercers-Chapel in Cheapside, 1734) | have-ocr | IA `usefulnesstruthe00fost` |
+| Discourses on all the principal branches of natural religion and social virtue, vol. 1 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749) | have-ocr | IA `discoursesonallp01fost` |
+| Discourses on all the principal branches of natural religion and social virtue, vol. 2 (London : Printed for the author, and sold by Mr. Noon [etc.], 1749) | have-ocr | IA `discoursesonallp02fost` |
+| The 1745 Sermons | alternate | not shelved |
