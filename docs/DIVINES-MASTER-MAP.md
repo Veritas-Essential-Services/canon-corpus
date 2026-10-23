@@ -11853,6 +11853,16 @@ Slugs `gthbedell-*`. Built from title pages read for round 55.
 | The Canterbury pilgrimage : to and from the Lambeth Conference and the Sheffield Congress (New York : A.D.F. Randolph, 1878) | have-ocr | IA `canterburypilgri00bede` |
 | The pastor. Pastoral theology (Philadelphia, London, J.B. Lippincott & co., 1880) | have-ocr | IA `pastorpastoralth00bede` |
 | Occasional sermons and convention reports | excluded | |
+
+## James Milnor (round 55, my pick, 2026-10-23)
+
+Slugs `milnor-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| Plea for the American colonization society: a sermon, preached in St. George's church, New-York, on Sunday, July 9, 1826 (New-York, J. P. Haven, 1826) | have-ocr | IA `pleaforamericanc00miln` |
+| Sermon occasioned by the death of His Excellency DeWitt Clinton, late governor of the State of New-York. Preached in St. George's church, N.Y., on Sunday, February 24, 1828 (New York : Printed by Gray and Bunce, 1828) | have-ocr | IA `sermonoccasioned00miln` |
+| John S. Stone's Memoir of the Life of James Milnor (1849, another author) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
