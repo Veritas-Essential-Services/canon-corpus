@@ -1,0 +1,64 @@
+{
+ "_about": "W. Rhys Roberts (1858-1929), Professor of Greek at Bangor and of Classics at Leeds, raw IA OCR: The Ancient Boeotians: their Character and Culture, and their Reputation (Cambridge: at the University Press, 1895); Patriotic Poetry, Greek and English, an address given on the 500th anniversary of Agincourt (1916); and Greek Rhetoric and Literary Criticism (Our Debt to Greece and Rome; New York: Longmans, Green, 1928; US public domain by date). His editions of Longinus, Demetrius and Dionysius are on those authors' shelves. Classical scholarship (lane B, round dy). No uids minted.",
+ "_author": "William Rhys Roberts (1858-1929)",
+ "_name_words": [
+  "roberts"
+ ],
+ "_surname": [
+  "w. rhys roberts",
+  "rhys roberts",
+  "william rhys roberts"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-rhys-roberts-ancient-boeotians-1895": [
+   "ancientboeotians00robeuoft",
+   "The Ancient Boeotians: their Character and Culture, and their Reputation, by W. Rhys Roberts (Cambridge: at the University Press, 1895)"
+  ],
+  "w-rhys-roberts-patriotic-poetry-1916": [
+   "patrioticpoetryg00robe",
+   "Patriotic Poetry, Greek and English: an address given on the 500th anniversary of Agincourt, with supplementary notes and references, by W. Rhys Roberts (1916)"
+  ],
+  "w-rhys-roberts-greek-rhetoric-literary-criticism-1928": [
+   "greekrhetoriclit00robe_0",
+   "Greek Rhetoric and Literary Criticism, by W. Rhys Roberts (Our Debt to Greece and Rome; New York: Longmans, Green, 1928)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-rhys-roberts-ancient-boeotians-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. rhys roberts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-rhys-roberts-patriotic-poetry-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. rhys roberts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-rhys-roberts-greek-rhetoric-literary-criticism-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. rhys roberts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "_about": "A. E. Dobbs: Philosophy and Popular Morals in Ancient Greece (1907). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Archibald Edward Dobbs (1838-)",
+ "_name_words": [
+  "dobbs",
+  "philosophy",
+  "popular",
+  "morals",
+  "greece"
+ ],
+ "_surname": [
+  "dobbs"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dobbs-philosophy-popular-morals-1907": [
+   "philosophyandpo01dobbgoog",
+   "Philosophy and Popular Morals in Ancient Greece (1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "dobbs-philosophy-popular-morals-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dobbs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

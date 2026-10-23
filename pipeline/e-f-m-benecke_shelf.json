@@ -1,0 +1,35 @@
+{
+ "_about": "E. F. M. Benecke (1870-1895), Balliol: Antimachus of Colophon and the Position of Women in Greek Poetry (posthumous, 1896). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Edward Felix Mendelssohn Benecke (1870-1895)",
+ "_name_words": [
+  "benecke",
+  "edward",
+  "felix",
+  "mendelssohn",
+  "antimachus"
+ ],
+ "_surname": [
+  "e. f. m. benecke",
+  "edward felix mendelssohn benecke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "benecke-antimachus-colophon-1896": [
+   67573,
+   "Antimachus of Colophon and the Position of Women in Greek Poetry (London: Swan Sonnenschein, 1896)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "benecke-antimachus-colophon-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. f. m. benecke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

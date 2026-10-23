@@ -1,0 +1,36 @@
+{
+ "_about": "T. L. Papillon (1841-1926): A Manual of Comparative Philology as Applied to the Illustration of Greek and Latin Inflections (1876). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Thomas Leslie Papillon (1841-1926)",
+ "_name_words": [
+  "papillon",
+  "comparative",
+  "philology",
+  "greek",
+  "latin"
+ ],
+ "_surname": [
+  "papillon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "papillon-manual-comparative-philology-1876": [
+   "amanualcomparat00papigoog",
+   "A Manual of Comparative Philology as Applied to the Illustration of Greek and Latin Inflections (1876)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "papillon-manual-comparative-philology-1876": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "papillon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

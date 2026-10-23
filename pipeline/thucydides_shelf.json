@@ -221,7 +221,7 @@
  },
  "_perseus_checks": {
   "thucydides-perseus-smith-history-of-the-peloponnesian-war": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1",
    "repo": "PerseusDL/canonical-greekLit",
@@ -233,7 +233,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -243,7 +243,7 @@
    }
   },
   "thucydides-perseus-dale-history-of-the-peloponnesian-war": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0003.tlg001.1st1K-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -254,7 +254,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -264,7 +264,7 @@
    }
   },
   "thucydides-perseus-hobbes-the-history-of-the-grecian-war": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0003.tlg001.perseus-eng4",
    "repo": "PerseusDL/canonical-greekLit",
@@ -275,7 +275,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -291,5 +291,8 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_held": {
+  "thucydides-perseus-crawley-history-of-the-peloponnesian-war": "Perseus TEI tlg0003.tlg001.perseus-eng6 (History of the Peloponnesian War, tr. Richard Crawley) is already in the PERSEUS manifest of fetch_sources.py on PR #7 (claude/project-thread-hxenem); not fetched twice (2026-10-23)"
  }
 }

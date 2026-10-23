@@ -1,5 +1,5 @@
 {
- "_about": "Thomas Arnold (1795-1842), headmaster of Rugby and Regius Professor of Modern History at Oxford: History of Rome, 3 vols., third edition (London: Fellowes, 1844-1846; vol. III posthumous, ending with the Second Punic War), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). His sermons are outside the brief. No uids minted.",
+ "_about": "Thomas Arnold (1795-1842), headmaster of Rugby and Regius Professor of Modern History at Oxford: History of Rome, 3 vols., third edition (London: Fellowes, 1844-1846; vol. III posthumous, ending with the Second Punic War), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). His sermons are outside the brief. No uids minted. History of the Later Roman Commonwealth (2 vols, 1845; his Encyclopaedia Metropolitana articles) added by lane B, round dh.",
  "_name_words": [
   "arnold"
  ],
@@ -21,12 +21,20 @@
   "thomas-arnold-history-of-rome-v3-1846": [
    "historyofrome03arnoiala",
    "History of Rome, third edition, vol. III (1846)"
+  ],
+  "thomas-arnold-later-roman-commonwealth-v1-1845": [
+   "historyoflaterro01arno",
+   "History of the Later Roman Commonwealth, from the End of the Second Punic War to the Death of Julius Caesar, and of the Reign of Augustus, vol. I (London: Fellowes, 1845)"
+  ],
+  "thomas-arnold-later-roman-commonwealth-v2-1845": [
+   "historyoflaterr02arno",
+   "History of the Later Roman Commonwealth, vol. II (London: Fellowes, 1845)"
   ]
  },
  "_checks": {
   "thomas-arnold-history-of-rome-v1-1844": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas arnold",
    "identity": "ok",
@@ -37,7 +45,7 @@
   },
   "thomas-arnold-history-of-rome-v2-1845": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas arnold",
    "identity": "ok",
@@ -48,13 +56,35 @@
   },
   "thomas-arnold-history-of-rome-v3-1846": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas arnold",
    "identity": "ok",
    "ia_rights": "ok: published 1846",
    "ia_date": "1845-1846",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomas-arnold-later-roman-commonwealth-v1-1845": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "thomas-arnold-later-roman-commonwealth-v2-1845": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas arnold",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

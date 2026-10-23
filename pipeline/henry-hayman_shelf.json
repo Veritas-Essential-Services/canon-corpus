@@ -1,0 +1,49 @@
+{
+ "_about": "Henry Hayman (1823-1904), headmaster of Rugby: The Odyssey of Homer, edited with marginal references, various readings, notes and appendices (London: David Nutt), vol. I, Books I-VI (1866) and vol. II, Books VII-XII (1873), raw IA OCR; vol. III (1882) was not found on IA. Greek text with English notes, kept per Adam's 2026-10-23 ruling. Not taken: Blaydes's English-commentary Sophocles (1859-1875), whose open scans all OCR the English as Greek letters. Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "Henry Hayman (1823-1904)",
+ "_name_words": [
+  "hayman",
+  "odyssey"
+ ],
+ "_surname": [
+  "henry hayman",
+  "hayman, henry"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-hayman-odyssey-v1-1866": [
+   "odysseyofhom01home",
+   "The Odyssey of Homer, edited by Henry Hayman, vol. I, Books I-VI (London: David Nutt, 1866); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "henry-hayman-odyssey-v2-1873": [
+   "odysseyofhom02home",
+   "The Odyssey of Homer, edited by Henry Hayman, vol. II, Books VII-XII (London: David Nutt, 1873); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-hayman-odyssey-v1-1866": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry hayman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henry-hayman-odyssey-v2-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry hayman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

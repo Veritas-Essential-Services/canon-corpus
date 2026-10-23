@@ -1,0 +1,35 @@
+{
+ "_about": "Wilton W. Blancké (1884-1949): The Dramatic Values in Plautus (1918); he taught Latin at the Central High School of Philadelphia. Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Wilton Wallace Blancke (1884-1949)",
+ "_name_words": [
+  "blancke",
+  "wilton",
+  "wallace",
+  "plautus",
+  "dramatic"
+ ],
+ "_surname": [
+  "blancké",
+  "blancke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "blancke-dramatic-values-plautus-1918": [
+   9970,
+   "The Dramatic Values in Plautus (1918)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "blancke-dramatic-values-plautus-1918": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blancké",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

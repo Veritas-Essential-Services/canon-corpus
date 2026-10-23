@@ -1,5 +1,5 @@
 {
- "_about": "Thomas Rice Holmes (1855-1933): Ancient Britain and the Invasions of Julius Caesar (clean Gutenberg) and Caesar's Conquest of Gaul, second edition, revised throughout and largely rewritten (Oxford: Clarendon Press, 1911), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Thomas Rice Holmes (1855-1933): Ancient Britain and the Invasions of Julius Caesar (clean Gutenberg) and Caesar's Conquest of Gaul, second edition, revised throughout and largely rewritten (Oxford: Clarendon Press, 1911), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round eb adds The Roman Republic and the Founder of the Empire (3 vols, 1923).",
  "_name_words": [
   "holmes"
  ],
@@ -19,12 +19,24 @@
   "rice-holmes-caesars-conquest-gaul-1911": [
    "caesarsconquesto00holm",
    "Caesar's Conquest of Gaul, second edition (Oxford: Clarendon Press, 1911)"
+  ],
+  "rice-holmes-roman-republic-1-1923": [
+   "romanrepublicfou01holm",
+   "The Roman Republic and the Founder of the Empire, by T. Rice Holmes, vol. I: from the origins to 58 B.C. (Oxford: at the Clarendon Press, 1923)"
+  ],
+  "rice-holmes-roman-republic-2-1923": [
+   "romanrepublicfou02holm",
+   "The Roman Republic and the Founder of the Empire, by T. Rice Holmes, vol. II: 58-50 B.C. (Oxford: at the Clarendon Press, 1923)"
+  ],
+  "rice-holmes-roman-republic-3-1923": [
+   "romanrepublicfou03holm",
+   "The Roman Republic and the Founder of the Empire, by T. Rice Holmes, vol. III: 50-44 B.C. (Oxford: at the Clarendon Press, 1923)"
   ]
  },
  "_checks": {
   "rice-holmes-ancient-britain-caesar": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "t. rice holmes",
    "identity": "ok",
@@ -33,7 +45,7 @@
   },
   "rice-holmes-caesars-conquest-gaul-1911": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "t. rice holmes",
    "identity": "ok",
@@ -41,6 +53,47 @@
    "ia_date": "1899",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "rice-holmes-roman-republic-1-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rice-holmes-roman-republic-2-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rice-holmes-roman-republic-3-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. rice holmes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "rice-holmes-roman-republic-1-1923": {
+   "author": "T: RICE HOLMES"
+  },
+  "rice-holmes-roman-republic-2-1923": {
+   "author": "T. RICE, HOLMES"
   }
  }
 }

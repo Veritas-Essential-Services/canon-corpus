@@ -1,0 +1,33 @@
+{
+ "_about": "William Veitch (1794-1885), Edinburgh scholar, raw IA OCR of Greek Verbs Irregular and Defective, new edition (1887); not John Veitch the philosopher, whose shelf is john-veitch. Greek-heavy: kept under Adam's 2026-10-23 Greek ruling. Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "William Veitch",
+ "_name_words": [
+  "veitch"
+ ],
+ "_surname": [
+  "william veitch",
+  "veitch"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-veitch-greek-verbs-irregular-1887": [
+   "greekverbsirregu00veituoft",
+   "Greek Verbs Irregular and Defective, embracing all the tenses used by the Greek writers, with references to the passages in which they are found, by William Veitch, new edition (Oxford: at the Clarendon Press, 1887)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-veitch-greek-verbs-irregular-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william veitch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "_about": "W. J. Woodhouse, Bangor and later Sydney: Aetolia, its Geography, Topography, and Antiquities (Oxford, 1897). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "William John Woodhouse",
+ "_name_words": [
+  "woodhouse",
+  "william",
+  "aetolia",
+  "geography"
+ ],
+ "_surname": [
+  "woodhouse",
+  "w. j. woodhouse"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "woodhouse-aetolia-1897": [
+   "cu31924028301962",
+   "Aetolia: its Geography, Topography, and Antiquities (Oxford: Clarendon Press, 1897)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "woodhouse-aetolia-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "woodhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "_about": "Angelo Mosso (1846-1910), Italian physiologist and archaeologist of prehistoric Crete and Italy: The Palaces of Crete and their Builders (1907) and The Dawn of Mediterranean Civilisation, tr. Marian C. Harrison (1910). His Fear is on a science singles shelf. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Angelo Mosso (1846-1910)",
+ "_name_words": [
+  "mosso",
+  "crete",
+  "palaces",
+  "mediterranean",
+  "civilisation"
+ ],
+ "_surname": [
+  "mosso"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mosso-palaces-of-crete-1907": [
+   "palacesofcreteth00moss",
+   "The Palaces of Crete and their Builders (1907)"
+  ],
+  "mosso-dawn-mediterranean-civilisation-1910": [
+   "dawnofmediterran00mossuoft",
+   "The Dawn of Mediterranean Civilisation (1910), tr. Marian C. Harrison"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "mosso-dawn-mediterranean-civilisation-1910": "Harrison"
+ },
+ "_checks": {
+  "mosso-palaces-of-crete-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mosso",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mosso-dawn-mediterranean-civilisation-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mosso",
+   "translator_claimed": "Harrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

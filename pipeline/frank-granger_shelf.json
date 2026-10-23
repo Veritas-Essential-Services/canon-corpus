@@ -1,0 +1,36 @@
+{
+ "_about": "Frank Granger (1864-1936), Nottingham classicist: The Worship of the Romans Viewed in Relation to the Roman Temperament (1895). His Loeb Vitruvius (1931-34) is not US public domain. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Frank Stephen Granger (1864-1936)",
+ "_name_words": [
+  "granger",
+  "worship",
+  "romans",
+  "temperament"
+ ],
+ "_surname": [
+  "frank granger",
+  "granger"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "granger-worship-of-the-romans-1895": [
+   "worshipoftheroma00granuoft",
+   "The Worship of the Romans, Viewed in Relation to the Roman Temperament (1895)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "granger-worship-of-the-romans-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank granger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

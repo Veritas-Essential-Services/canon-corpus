@@ -1,0 +1,72 @@
+{
+ "_about": "W. J. M. Starkie (1860-1920), Fellow of Trinity College, Dublin, President of Queen's College, Galway, and Resident Commissioner of National Education in Ireland: editions of Aristophanes with English commentary, raw IA. The Wasps (Macmillan, 1897), with introduction, metrical analysis, critical notes and commentary; The Acharnians (1909) and The Clouds (1911), each with introduction, English prose translation, critical notes and commentary. Greek text facing, kept per Adam's 2026-10-23 ruling.",
+ "_author": "William Joseph Myles Starkie (1860-1920)",
+ "_name_words": [
+  "starkie",
+  "aristophanes"
+ ],
+ "_surname": [
+  "w. j. m. starkie",
+  "starkie, w. j. m"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-j-m-starkie-wasps-1897": [
+   "waspsaris00aris",
+   "The Wasps of Aristophanes, with introduction, metrical analysis, critical notes and commentary (London: Macmillan, 1897); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-j-m-starkie-acharnians-1909": [
+   "achar00niansofarisarisrich",
+   "The Acharnians of Aristophanes, with introduction, English prose translation, critical notes and commentary (London: Macmillan, 1909); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-j-m-starkie-clouds-1911": [
+   "cloudsofaristoph00aris_0",
+   "The Clouds of Aristophanes, with introduction, English prose translation, critical notes and commentary, including a new transcript of the scholia in the Codex Venetus Marcianus 474 (London: Macmillan, 1911); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "w-j-m-starkie-acharnians-1909": "W. J. M. Starkie",
+  "w-j-m-starkie-clouds-1911": "W. J. M. Starkie"
+ },
+ "_checks": {
+  "w-j-m-starkie-wasps-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. m. starkie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-j-m-starkie-acharnians-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. m. starkie",
+   "translator_claimed": "W. J. M. Starkie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-j-m-starkie-clouds-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. m. starkie",
+   "translator_claimed": "W. J. M. Starkie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "A. W. Pickard-Cambridge (1873-1952), Oxford classicist: Demosthenes and the Last Days of Greek Freedom (Heroes of the Nations, 1914). His Public Orations of Demosthenes is on the demosthenes shelf, and his revision of Haigh's Attic Theatre is noted on haigh's shelf. Dithyramb, Tragedy and Comedy (1927) was not found as a usable scan. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Sir Arthur Wallace Pickard-Cambridge (1873-1952)",
+ "_name_words": [
+  "pickard",
+  "cambridge",
+  "demosthenes",
+  "greek",
+  "freedom"
+ ],
+ "_surname": [
+  "pickard-cambridge",
+  "pickard cambridge"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pickard-cambridge-demosthenes-1914": [
+   "demosthenesandl00pickgoog",
+   "Demosthenes and the Last Days of Greek Freedom, 384-322 B.C. (1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "pickard-cambridge-demosthenes-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pickard-cambridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

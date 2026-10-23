@@ -1,0 +1,58 @@
+{
+ "_about": "Max Duncker (1811-1886), German historian: History of Greece from the Earliest Times to the End of the Persian War, tr. Sarah Frances Alleyne (vol. I, 1883) and Alleyne and Evelyn Abbott (vol. II, 1886); only these two volumes were Englished. His History of Antiquity is Near Eastern history, not taken. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Max Duncker (1811-1886)",
+ "_name_words": [
+  "duncker",
+  "greece",
+  "history",
+  "persian"
+ ],
+ "_surname": [
+  "duncker"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "duncker-history-of-greece-vol-1": [
+   "historyofgreecef01duncuoft",
+   "History of Greece from the Earliest Times to the End of the Persian War, vol. I (1883), tr. S. F. Alleyne"
+  ],
+  "duncker-history-of-greece-vol-2": [
+   "historyofgreecef02dunc",
+   "History of Greece, vol. II (1886), tr. S. F. Alleyne and Evelyn Abbott"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "duncker-history-of-greece-vol-1": "Alleyne",
+  "duncker-history-of-greece-vol-2": "Alleyne"
+ },
+ "_checks": {
+  "duncker-history-of-greece-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duncker",
+   "translator_claimed": "Alleyne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883-86",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duncker-history-of-greece-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duncker",
+   "translator_claimed": "Alleyne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "_about": "Henry Furneaux (1829-1900), Fellow of Corpus Christi College, Oxford: The Annals of Tacitus, edited with introduction and notes (Oxford: Clarendon Press), vol. I Books I-VI second edition (1896), vol. II Books XI-XVI (1891); Cornelii Taciti De Germania (1894) and Vita Agricolae (1898), edited with introduction, notes and map; raw IA, Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions. Not taken: the 1907 second edition of Annals vol. I revised by Pelham and Fisher, whose only scan is a later Oxford reprint.",
+ "_author": "Henry Furneaux (1829-1900)",
+ "_name_words": [
+  "furneaux",
+  "tacitus",
+  "taciti"
+ ],
+ "_surname": [
+  "henry furneaux",
+  "furneaux, henry"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henry-furneaux-annals-1896-v1": [
+   "india.history.resource.105791",
+   "The Annals of Tacitus, edited with introduction and notes, vol. I: Books I-VI, second edition (Oxford: Clarendon Press, 1896); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions",
+   "105791_djvu.txt"
+  ],
+  "henry-furneaux-annals-1891-v2": [
+   "annaliumabexcess02taci",
+   "The Annals of Tacitus, edited with introduction and notes, vol. II: Books XI-XVI (Oxford: Clarendon Press, 1891); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "henry-furneaux-germania-1894": [
+   "degermaniaedited00taciuoft",
+   "Cornelii Taciti De Germania, edited with introduction, notes and map (Oxford: Clarendon Press, 1894)"
+  ],
+  "henry-furneaux-agricola-1898": [
+   "vitaagricolaeedi00taciuoft",
+   "Cornelii Taciti Vita Agricolae, edited with introduction, notes and map (Oxford: Clarendon Press, 1898)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "henry-furneaux-annals-1896-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry furneaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henry-furneaux-annals-1891-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry furneaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henry-furneaux-germania-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry furneaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henry-furneaux-agricola-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry furneaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

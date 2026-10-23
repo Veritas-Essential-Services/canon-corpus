@@ -1,0 +1,48 @@
+{
+ "_about": "Arthur Lincoln Frothingham (1859-1923), Princeton archaeologist, raw IA OCR of two books on Roman and Christian Rome monuments (1908, 1910); not Ellen Frothingham, whose shelf is ellen-frothingham.  Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "A. L. Frothingham",
+ "_name_words": [
+  "frothingham"
+ ],
+ "_surname": [
+  "a. l. frothingham",
+  "frothingham"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "a-l-frothingham-monuments-of-christian-rome-1908": [
+   "monumentsofchris00frotuoft",
+   "The Monuments of Christian Rome from Constantine to the Renaissance, by Arthur L. Frothingham (Handbooks of Archaeology and Antiquities; New York: The Macmillan Company, 1908)"
+  ],
+  "a-l-frothingham-roman-cities-italy-dalmatia-1910": [
+   "romancitiesinita00frotuoft",
+   "Roman Cities in Italy and Dalmatia, by A. L. Frothingham, Professor of Ancient History and Archaeology at Princeton (New York: Sturgis and Walton Company, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "a-l-frothingham-monuments-of-christian-rome-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frothingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "a-l-frothingham-roman-cities-italy-dalmatia-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. frothingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

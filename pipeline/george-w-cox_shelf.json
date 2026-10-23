@@ -1,0 +1,154 @@
+{
+ "_about": "Sir George W. Cox (1827-1902), historian and solar-myth mythologist, general editor of Longmans' Epochs of Ancient History: A History of Greece (2 vols., 1874), A General History of Greece (1876; this printing 1882), The Athenian Empire and The Greeks and the Persians (Epochs of Ancient History), The Mythology of the Aryan Nations (2 vols., 1870), and Tales of Ancient Greece (1879). His Crusades (Gutenberg 77173), his Life of Colenso and his church history are outside lane B. Classical scholarship (lane B, round de). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Sir George William Cox (1827-1902)",
+ "_name_words": [
+  "cox",
+  "greece",
+  "athenian",
+  "empire",
+  "persians",
+  "mythology",
+  "aryan"
+ ],
+ "_surname": [
+  "george w. cox",
+  "g. w. cox",
+  "george william cox"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cox-history-of-greece-vol-1": [
+   "historyofgreece01coxg",
+   "A History of Greece, vol. I (1874)"
+  ],
+  "cox-history-of-greece-vol-2": [
+   "historyofgreece02coxguoft",
+   "A History of Greece, vol. II (1874)"
+  ],
+  "cox-general-history-of-greece": [
+   "generalhistoryo00coxg",
+   "A General History of Greece from the Earliest Period to the Death of Alexander the Great (1876; this printing 1882)"
+  ],
+  "cox-athenian-empire": [
+   "athenianempire00coxguoft",
+   "The Athenian Empire, from the Flight of Xerxes to the Fall of Athens (Epochs of Ancient History)"
+  ],
+  "cox-greeks-and-persians": [
+   "greekspersians00coxg",
+   "The Greeks and the Persians (Epochs of Ancient History; this printing 1889)"
+  ],
+  "cox-mythology-aryan-nations-vol-1": [
+   "in.ernet.dli.2015.536264",
+   "The Mythology of the Aryan Nations, vol. I (1870)",
+   "2015.536264.mythology-of_djvu.txt"
+  ],
+  "cox-mythology-aryan-nations-vol-2": [
+   "mytharyannation02coxuoft",
+   "The Mythology of the Aryan Nations, vol. II (1870)"
+  ],
+  "cox-tales-of-ancient-greece-1879": [
+   "talesofancientgr00coxgrich",
+   "Tales of Ancient Greece (1879)"
+  ]
+ },
+ "_excluded": {
+  "The Crusades (PG 77173); Life of John William Colenso; Latin and Teutonic Christianity": "outside lane B",
+  "School History of Greece": "school abridgement"
+ },
+ "_checks": {
+  "cox-history-of-greece-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cox-history-of-greece-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cox-general-history-of-greece": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cox-athenian-empire": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cox-greeks-and-persians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. w. cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cox-mythology-aryan-nations-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cox-mythology-aryan-nations-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cox-tales-of-ancient-greece-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. cox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "cox-general-history-of-greece": {
+   "author": "title page read 2026-10-23: OCR gives 'By GEORGE W: COX, M.A., AUTHOR OF \"TALES OF ANCIENT GREECE,\" \"MYTHOLOGY OF ...' (colon for the period)"
+  }
+ }
+}

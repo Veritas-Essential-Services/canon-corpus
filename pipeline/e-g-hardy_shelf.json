@@ -1,0 +1,129 @@
+{
+ "_about": "E. G. Hardy (d. 1925), Vice-Principal of Jesus College, Oxford, Roman historian, raw IA OCR: Pliny's letters to Trajan with notes and introductory essays (Macmillan; the OCR reads the year as '1989', IA dates it 1889); Juvenal, Thirteen Satires, edited for schools, second edition (Macmillan, 1893); Christianity and the Roman Government (Longmans, 1894); Jesus College, in the Oxford College Histories (F. E. Robinson, 1899); Studies in Roman History (Sonnenschein / Macmillan, 1906) and its second series (Sonnenschein, 1909); Six Roman Laws, translated with introduction and notes (Clarendon Press, 1911). His translation with J. S. Mann of Schomann's Antiquities of Greece (1880) is on the schomann shelf. Latin-dense commentaries kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "Ernest George Hardy (d. 1925)",
+ "_name_words": [
+  "hardy"
+ ],
+ "_surname": [
+  "e. g. hardy",
+  "ernest george hardy",
+  "hardy, e. g."
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-g-hardy-pliny-trajan-1889": [
+   "epistulaeadtraia00plin",
+   "C. Plinii Caecilii Secundi Epistulae ad Traianum Imperatorem cum eiusdem responsis, edited with notes and introductory essays by E. G. Hardy (London and New York: Macmillan; the OCR reads the year as '1989', IA dates it 1889)"
+  ],
+  "e-g-hardy-juvenal-satires-1893": [
+   "satireseditedfor00juveuoft",
+   "The Satires of Juvenal (Saturae XIII), edited for the use of schools with notes, introduction and appendices by E. G. Hardy, second edition (London and New York: Macmillan, 1893)"
+  ],
+  "e-g-hardy-christianity-roman-government-1894": [
+   "christianityroma00hard",
+   "Christianity and the Roman Government, a study in imperial administration, by E. G. Hardy (London: Longmans, Green, 1894)"
+  ],
+  "e-g-hardy-jesus-college-1899": [
+   "jesuscollege00hardrich",
+   "Jesus College, by E. G. Hardy, Oxford College Histories (London: F. E. Robinson, 1899)"
+  ],
+  "e-g-hardy-studies-roman-history-1906": [
+   "studiesinromanhi00hardrich",
+   "Studies in Roman History, by E. G. Hardy (London: Swan Sonnenschein; New York: Macmillan, 1906)"
+  ],
+  "e-g-hardy-studies-roman-history-2-1909": [
+   "studiesinromanhi00hard",
+   "Studies in Roman History, second series, by E. G. Hardy (London: Swan Sonnenschein, 1909)"
+  ],
+  "e-g-hardy-six-roman-laws-1911": [
+   "sixromanlaws00harduoft",
+   "Six Roman Laws, translated with introduction and notes by E. G. Hardy (Oxford: Clarendon Press; London: Henry Frowde, 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-g-hardy-pliny-trajan-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-g-hardy-juvenal-satires-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-g-hardy-christianity-roman-government-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-g-hardy-jesus-college-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-g-hardy-studies-roman-history-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "e-g-hardy-studies-roman-history-2-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "e-g-hardy-six-roman-laws-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. g. hardy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "e-g-hardy-christianity-roman-government-1894": {
+   "author": "title page OCRs the author as 'BE. 6. HARDY, M.A. FORMERLY FELLOW OF JESUS COLLEGE, OXFORD' (London: Longmans, Green, 1894)"
+  }
+ }
+}

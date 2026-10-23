@@ -1,0 +1,51 @@
+{
+ "_about": "Sir Alexander Grant (1826-1884), Principal of the University of Edinburgh: The Ethics of Aristotle, illustrated with essays and notes, fourth edition revised (London: Longmans, Green, 2 vols., 1885), the Victorian Oxford commentary on the Nicomachean Ethics; vol. I the essays and Books I-IV, vol. II the rest, Greek text with English notes, kept per Adam's 2026-10-23 ruling; raw IA. His Xenophon and Aristotle for Ancient Classics for English Readers are on that series shelf.",
+ "_author": "Sir Alexander Grant, Bart. (1826-1884)",
+ "_name_words": [
+  "grant",
+  "ethics",
+  "aristotle"
+ ],
+ "_surname": [
+  "alexander grant",
+  "sir alexander grant",
+  "grant, alexander"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alexander-grant-ethics-of-aristotle-1885-v1": [
+   "ethicsofaristotl01arisuoft",
+   "The Ethics of Aristotle, illustrated with essays and notes, fourth edition revised, vol. I (London: Longmans, Green, 1885)"
+  ],
+  "alexander-grant-ethics-of-aristotle-1885-v2": [
+   "cu31924011102682",
+   "The Ethics of Aristotle, illustrated with essays and notes, fourth edition revised, vol. II (London: Longmans, Green, 1885); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "alexander-grant-ethics-of-aristotle-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alexander-grant-ethics-of-aristotle-1885-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

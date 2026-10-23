@@ -1,0 +1,33 @@
+{
+ "_about": "Welbore St. Clair Baddeley (1856-1945), writer on Rome, raw IA OCR of Recent Discoveries in the Forum 1898-1904, by an eye-witness (1904). Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "St. Clair Baddeley",
+ "_name_words": [
+  "baddeley"
+ ],
+ "_surname": [
+  "st. clair baddeley",
+  "baddeley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "st-clair-baddeley-recent-discoveries-forum-1904": [
+   "recentdiscoverie00badd",
+   "Recent Discoveries in the Forum 1898-1904, by an eye-witness, St. Clair Baddeley, a handbook for travellers (IA catalogues 1904)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "st-clair-baddeley-recent-discoveries-forum-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "st. clair baddeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

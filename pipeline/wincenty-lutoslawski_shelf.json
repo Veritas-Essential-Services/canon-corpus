@@ -1,0 +1,37 @@
+{
+ "_about": "Wincenty Lutoslawski (1863-1954), Polish philosopher: The Origin and Growth of Plato's Logic, with an Account of Plato's Style and of the Chronology of his Writings (Longmans, 1897; the 1905 reissue, which is the cleaner scan; the 1897 DLI scan is weaker OCR). Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Wincenty Lutoslawski (1863-1954)",
+ "_name_words": [
+  "lutoslawski",
+  "wincenty",
+  "plato",
+  "logic"
+ ],
+ "_surname": [
+  "lutoslawski",
+  "lutosławski",
+  "lutos"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lutoslawski-origin-growth-platos-logic": [
+   "origingrowthofpl0000winc",
+   "The Origin and Growth of Plato's Logic (London: Longmans, 1897; 1905 issue)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lutoslawski-origin-growth-platos-logic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lutoslawski",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

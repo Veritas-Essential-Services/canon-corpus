@@ -1,0 +1,32 @@
+{
+ "_about": "Frank Burr Marsh (1880-1940), University of Texas ancient historian, raw IA OCR of The Founding of the Roman Empire (1922). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Frank Burr Marsh",
+ "_name_words": [
+  "marsh"
+ ],
+ "_surname": [
+  "frank burr marsh"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "frank-burr-marsh-founding-of-the-roman-empire-1922": [
+   "foundingofromane00mars",
+   "The Founding of the Roman Empire, by Frank Burr Marsh (University of Texas Studies; Austin: University of Texas Press, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "frank-burr-marsh-founding-of-the-roman-empire-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank burr marsh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

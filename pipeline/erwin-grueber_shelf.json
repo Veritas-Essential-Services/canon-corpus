@@ -1,0 +1,33 @@
+{
+ "_about": "Erwin Grueber, Reader in Roman Law at Oxford, raw IA OCR of The Roman Law of Damage to Property, a commentary on Digest IX.2 ad legem Aquiliam (1886). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Erwin Grueber",
+ "_name_words": [
+  "grueber"
+ ],
+ "_surname": [
+  "erwin grueber",
+  "grueber"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "erwin-grueber-lex-aquilia-1886": [
+   "bub_gb_Et02AAAAIAAJ",
+   "The Roman Law of Damage to Property, being a commentary on the title of the Digest ad legem Aquiliam (IX. 2), with an introduction to the study of the Corpus Iuris Civilis, by Erwin Grueber (Oxford: at the Clarendon Press, 1886)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "erwin-grueber-lex-aquilia-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "erwin grueber",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

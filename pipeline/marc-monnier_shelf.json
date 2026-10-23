@@ -1,0 +1,35 @@
+{
+ "_about": "Marc Monnier (1827-1885), Swiss-French writer in Naples: The Wonders of Pompeii (Scribner's Illustrated Library of Wonders, 1870; translator not named). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Marc Monnier (1827-1885)",
+ "_name_words": [
+  "monnier",
+  "pompeii",
+  "wonders"
+ ],
+ "_surname": [
+  "marc monnier",
+  "monnier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "monnier-wonders-of-pompeii-1870": [
+   "wondersofpompeii00monn",
+   "The Wonders of Pompeii (1870)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "monnier-wonders-of-pompeii-1870": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marc monnier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

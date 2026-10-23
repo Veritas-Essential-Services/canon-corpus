@@ -1,0 +1,37 @@
+{
+ "_about": "H. B. Cotterill (1846-1924): Ancient Greece, a Sketch of its Art, Literature and Philosophy Viewed in Connexion with its External History (1913). His Italian histories and school editions are outside lane B. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Henry Bernard Cotterill (1846-1924)",
+ "_name_words": [
+  "cotterill",
+  "ancient",
+  "greece",
+  "sketch",
+  "art",
+  "literature"
+ ],
+ "_surname": [
+  "cotterill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cotterill-ancient-greece-1913": [
+   "ancientgreeceske00cott_0",
+   "Ancient Greece: a Sketch of its Art, Literature and Philosophy Viewed in Connexion with its External History (1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "cotterill-ancient-greece-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cotterill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "_about": "Otto J. Kuhnmuench, S.J., raw IA OCR of his Loyola anthology of early Christian Latin poets with English introductions and notes (1929); Latin-dense, kept under the Greek/Latin-facing ruling. Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Otto J. Kuhnmuench",
+ "_name_words": [
+  "kuhnmuench"
+ ],
+ "_surname": [
+  "otto j. kuhnmuench",
+  "kuhnmuench"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "otto-j-kuhnmuench-early-christian-latin-poets-1929": [
+   "earlychristianla00kuhn",
+   "Early Christian Latin Poets from the fourth to the sixth century, by Otto J. Kuhnmuench, S.J. (Chicago: Loyola University Press, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "otto-j-kuhnmuench-early-christian-latin-poets-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto j. kuhnmuench",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "_about": "Luigi Palma di Cesnola (1832-1904), American consul in Cyprus and first Director of the Metropolitan Museum: Cyprus, its Ancient Cities, Tombs, and Temples (1877), with an appendix by C. W. King and A. S. Murray. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Luigi Palma di Cesnola (1832-1904)",
+ "_name_words": [
+  "cesnola",
+  "cyprus",
+  "cities",
+  "tombs",
+  "temples"
+ ],
+ "_surname": [
+  "cesnola"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cesnola-cyprus-1877": [
+   "cyprusitsancien00murrgoog",
+   "Cyprus: its Ancient Cities, Tombs, and Temples (1877)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "cesnola-cyprus-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cesnola",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

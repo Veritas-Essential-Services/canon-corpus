@@ -1,0 +1,38 @@
+{
+ "_about": "Edith Hayward Hall (later Dohan, 1877-1943), raw IA OCR of her Vrokastro excavation report (1914).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Edith H. Hall",
+ "_name_words": [
+  "hall"
+ ],
+ "_surname": [
+  "e. h. hall",
+  "edith h. hall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "edith-h-hall-vrokastro-1914": [
+   "excavationsineas00doha",
+   "Excavations in Eastern Crete: Vrokastro, by Edith H. Hall (University of Pennsylvania Museum Anthropological Publications III.3; Philadelphia: University Museum, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "edith-h-hall-vrokastro-1914": {
+   "author": "title page OCR 'K. IT. MALL'; running heads read 'E. H. HALL — EXCAVATIONS IN EASTERN CRETE, VROKASTRO'"
+  }
+ },
+ "_checks": {
+  "edith-h-hall-vrokastro-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. h. hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "_about": "John Thomas Abdy (1822-1899), Regius Professor of Civil Law at Cambridge, raw IA OCR of A Historical Sketch of Civil Procedure among the Romans and of his and Bryan Walker's translation of The Commentaries of Gaius and Rules of Ulpian. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "J. T. Abdy",
+ "_name_words": [
+  "abdy"
+ ],
+ "_surname": [
+  "j. t. abdy",
+  "abdy"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-t-abdy-civil-procedure-among-the-romans": [
+   "historicalsketch00abdy",
+   "A Historical Sketch of Civil Procedure among the Romans, by J. T. Abdy (Cambridge: Macmillan and Co., 1857)"
+  ],
+  "j-t-abdy-gaius-and-ulpian": [
+   "commentariesofga00gaiuuoft",
+   "The Commentaries of Gaius and Rules of Ulpian, translated with notes by J. T. Abdy and Bryan Walker (Cambridge: Deighton, Bell, and Co.; IA catalogues 1876)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "j-t-abdy-civil-procedure-among-the-romans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-t-abdy-gaius-and-ulpian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. t. abdy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "j-t-abdy-civil-procedure-among-the-romans": {
+   "author": "J. T. ABJDJ"
+  }
+ }
+}

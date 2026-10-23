@@ -1,0 +1,32 @@
+{
+ "_about": "Lane Cooper (1875-1959), Professor of English at Cornell, raw IA OCR of An Aristotelian Theory of Comedy, with an adaptation of the Poetics and a translation of the Tractatus Coislinianus (New York: Harcourt, Brace, 1922; US public domain by date). His other books on Aristotle are not yet audited. Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Lane Cooper (1875-1959)",
+ "_name_words": [
+  "cooper"
+ ],
+ "_surname": [
+  "lane cooper"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lane-cooper-aristotelian-theory-of-comedy-1922": [
+   "aristoteliantheo00coop",
+   "An Aristotelian Theory of Comedy, with an adaptation of the Poetics and a translation of the Tractatus Coislinianus, by Lane Cooper (New York: Harcourt, Brace, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lane-cooper-aristotelian-theory-of-comedy-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lane cooper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "_about": "John Eyton Bickersteth Mayor (1825-1910), Kennedy Professor of Latin at Cambridge: Thirteen Satires of Juvenal with a commentary, fourth edition revised (London and New York: Macmillan, vol. I 1886, vol. II 1888), the great English commentary on Juvenal, raw IA. Latin text with English commentary dense with Latin and Greek citations, so the English-word ratio of the OCR is low (0.73, 0.78) though the text reads; kept per Adam's 2026-10-23 ruling on text-facing editions. His brother Joseph B. Mayor has the j-b-mayor shelf; his Early English Text Society edition of John Fisher sits with lane A.",
+ "_author": "John Eyton Bickersteth Mayor (1825-1910)",
+ "_name_words": [
+  "mayor",
+  "juvenal",
+  "satires"
+ ],
+ "_surname": [
+  "john e. b. mayor",
+  "j. e. b. mayor",
+  "mayor, john e. b"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-e-b-mayor-juvenal-1886-v1": [
+   "thirteensatireso0001juve",
+   "Thirteen Satires of Juvenal, with a commentary, fourth edition revised, vol. I (London and New York: Macmillan, 1886); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "j-e-b-mayor-juvenal-1888-v2": [
+   "thirteensatires01mayogoog",
+   "Thirteen Satires of Juvenal, with a commentary, vol. II (London and New York: Macmillan, 1888); Latin text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "j-e-b-mayor-juvenal-1886-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john e. b. mayor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-e-b-mayor-juvenal-1888-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john e. b. mayor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "_about": "George Miller Calhoun (1886-1942), Berkeley Hellenist, raw IA OCR of two 1926 books on Athenian business; not John C. Calhoun, whose shelf is john-c-calhoun. Ancient economic history (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "George M. Calhoun",
+ "_name_words": [
+  "calhoun"
+ ],
+ "_surname": [
+  "george m. calhoun",
+  "calhoun"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "george-m-calhoun-business-life-of-ancient-athens-1926": [
+   "businesslifeofan0000calh",
+   "The Business Life of Ancient Athens, by George M. Calhoun, introduction by Wigginton E. Creed (Chicago: University of Chicago Press, 1926)"
+  ],
+  "george-m-calhoun-ancient-greeks-standards-in-business-1926": [
+   "ancientgreeksevo00calh",
+   "The Ancient Greeks and the Evolution of Standards in Business, by George M. Calhoun (Boston: Houghton Mifflin, 1926)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "george-m-calhoun-business-life-of-ancient-athens-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george m. calhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "george-m-calhoun-ancient-greeks-standards-in-business-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george m. calhoun",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

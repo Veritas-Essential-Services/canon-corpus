@@ -1,0 +1,51 @@
+{
+ "_about": "Sir Rennell Rodd (1858-1941), diplomat and historian: The Princes of Achaia and the Chronicles of Morea, a Study of Greece in the Middle Ages (2 vols., 1907). His Greek Anthology versions are on the greek-lyric shelf. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Rennell Rodd, 1st Baron Rennell (1858-1941)",
+ "_name_words": [
+  "rodd",
+  "achaia",
+  "morea",
+  "princes"
+ ],
+ "_surname": [
+  "rennell rodd",
+  "rodd"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rodd-princes-of-achaia-vol-1": [
+   "princesofachaiac01rodd",
+   "The Princes of Achaia and the Chronicles of Morea, vol. I (1907)"
+  ],
+  "rodd-princes-of-achaia-vol-2": [
+   "princesofachaiac02rodduoft",
+   "The Princes of Achaia and the Chronicles of Morea, vol. II (1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "rodd-princes-of-achaia-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rennell rodd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rodd-princes-of-achaia-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rennell rodd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

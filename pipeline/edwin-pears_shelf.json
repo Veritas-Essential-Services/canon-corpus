@@ -1,0 +1,52 @@
+{
+ "_about": "Sir Edwin Pears (1835-1919), English barrister in Constantinople and historian of Byzantium's fall: The Destruction of the Greek Empire (1903, Gutenberg) and The Fall of Constantinople, being the Story of the Fourth Crusade (1886). His books on modern Turkey are outside lane B. Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Sir Edwin Pears (1835-1919)",
+ "_name_words": [
+  "pears",
+  "constantinople",
+  "greek",
+  "empire",
+  "crusade"
+ ],
+ "_surname": [
+  "edwin pears"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pears-destruction-of-greek-empire-pg": [
+   58119,
+   "The Destruction of the Greek Empire and the Story of the Capture of Constantinople by the Turks (1903)"
+  ]
+ },
+ "internet_archive": {
+  "pears-fall-of-constantinople-1886": [
+   "fallconstantino02peargoog",
+   "The Fall of Constantinople, being the Story of the Fourth Crusade (1886)"
+  ]
+ },
+ "_excluded": {
+  "Forty Years in Constantinople; Life of Abdul Hamid; Turkey and its People": "modern Turkey, outside lane B"
+ },
+ "_checks": {
+  "pears-destruction-of-greek-empire-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin pears",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pears-fall-of-constantinople-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin pears",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

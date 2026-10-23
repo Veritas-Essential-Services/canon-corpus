@@ -1,0 +1,51 @@
+{
+ "_about": "George Augustus Simcox (1841-1905): A History of Latin Literature from Ennius to Boethius (1883), 2 vols. His poems and school editions are not taken.",
+ "_author": "George Augustus Simcox (1841-1905)",
+ "_name_words": [
+  "simcox",
+  "latin",
+  "literature",
+  "ennius",
+  "boethius"
+ ],
+ "_surname": [
+  "simcox"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "simcox-latin-literature-v1-1883": [
+   "historyoflatinli01simcuoft",
+   "A History of Latin Literature from Ennius to Boethius, vol. I (1883)"
+  ],
+  "simcox-latin-literature-v2-1883": [
+   "historyoflatinli02simcuoft",
+   "A History of Latin Literature from Ennius to Boethius, vol. II (1883)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "simcox-latin-literature-v1-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "simcox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "simcox-latin-literature-v2-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "simcox",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "_about": "Joseph Louis Elzéar Ortolan (1802-1873), Paris jurist, raw IA OCR of The History of Roman Law, from the text of his Histoire de la législation romaine (edition of 1870), tr. Iltudus T. Prichard and David Nasmith. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "J. L. E. Ortolan",
+ "_name_words": [
+  "ortolan"
+ ],
+ "_surname": [
+  "ortolan"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ortolan-history-of-roman-law": [
+   "historyofromanla00ortouoft",
+   "The History of Roman Law, from the text of Ortolan's Histoire de la législation romaine et généalogie (edition of 1870), translated by Iltudus T. Prichard and David Nasmith (London: Butterworths; IA catalogues 1871)",
+   "tr. David Nasmith"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "ortolan-history-of-roman-law": "David Nasmith"
+ },
+ "_checks": {
+  "ortolan-history-of-roman-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ortolan",
+   "translator_claimed": "David Nasmith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

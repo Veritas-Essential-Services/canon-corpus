@@ -89,10 +89,14 @@
    "phormiotranslate00tereuoft",
    "The Phormio of Terence, translated into English prose, with a new prologue by J. B. Greenough and the Vatican miniatures (Cambridge, Mass.: C. W. Sever, 1894)",
    "tr. Morris Hicky Morgan"
+  ],
+  "plautus-nixon-v3": [
+   "plautuswithengli03plauuoft",
+   "Plautus, tr. Paul Nixon, vol. 3: The Merchant, The Braggart Warrior, The Haunted House, The Persian (Loeb, 1924; title page MCMXXIV); Latin facing"
   ]
  },
  "_excluded": {
-  "Paul Nixon, Loeb Plautus (1916-38)": "vol. 1 (PG) and vol. 2 (IA) held; vol. 3 (1924) is held back on rights because its only scan is a 1980 reprint (see plautus-nixon-v3's note below); vols. 4-5 first printed 1932 and 1938, not PD",
+  "Paul Nixon, Loeb Plautus (1916-38)": "vols. 1-3 held (vol. 1 PG; vols. 2-3 IA, vol. 3 from the 1924 printing, title page MCMXXIV); vols. 4-5 first printed 1932 and 1938, not PD",
   "Bonnell Thornton's Plautus (1767-74)": "the first-edition ECCO scans (bim_eighteenth-century_the-comedies-of-plautus-_plautus-titus-maccius_1767_1/_2/_3) read 0.65-0.70, under the bar. The revised second edition's vols. I-II (1769, Google scans, 0.796) are held as plautus-thornton-1769-v1/v2; vols. III-V (1772-74, Warner's continuation) are still wanted. comediesplautus00warngoog reads 0.772, under the bar.",
   "comediestranslat02tere": "Cooke's Terence (1755), vol. II: no readable title page in the OCR (the preface is signed Thomas Cooke). Not taken under the title-page rule; vol. I is held."
  },
@@ -116,12 +120,13 @@
   "terence-cooke-1755-v1": "thomas cooke",
   "plautus-thornton-1769-v1": "bonnell thornton",
   "plautus-thornton-1769-v2": "bonnell thornton",
-  "terence-morgan-phormio-1894": "m. h. morgan"
+  "terence-morgan-phormio-1894": "m. h. morgan",
+  "plautus-nixon-v3": "Paul Nixon"
  },
  "_checks": {
   "plautus-riley-captivi-mostellaria": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Henry T. Riley",
@@ -133,7 +138,7 @@
   },
   "terence-riley-comedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "Henry T. Riley",
@@ -145,7 +150,7 @@
   },
   "terence-colman-comedies": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "George Colman",
@@ -157,7 +162,7 @@
   },
   "terence-goodluck-andrian": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "W. R. Goodluck",
@@ -169,7 +174,7 @@
   },
   "plautus-nixon-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Paul Nixon",
@@ -181,7 +186,7 @@
   },
   "plautus-riley-comedies-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "henry thomas riley",
@@ -194,7 +199,7 @@
   },
   "plautus-riley-comedies-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "henry thomas riley",
@@ -207,7 +212,7 @@
   },
   "plautus-nixon-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "Paul Nixon",
@@ -220,7 +225,7 @@
   },
   "terence-sargeaunt-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
@@ -233,7 +238,7 @@
   },
   "terence-sargeaunt-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "John Sargeaunt",
@@ -246,7 +251,7 @@
   },
   "terence-echard-1733": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "identity": "ok",
@@ -257,7 +262,7 @@
   },
   "plautus-evans-trinummus-1883": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "h. evans",
@@ -270,7 +275,7 @@
   },
   "terence-cooke-1755-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "thomas cooke",
@@ -284,7 +289,7 @@
   },
   "plautus-thornton-1769-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "bonnell thornton",
@@ -297,7 +302,7 @@
   },
   "plautus-thornton-1769-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "plautus",
    "translator_claimed": "bonnell thornton",
@@ -310,7 +315,7 @@
   },
   "terence-morgan-phormio-1894": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "terence",
    "translator_claimed": "m. h. morgan",
@@ -320,11 +325,31 @@
    "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "plautus-nixon-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "plautus",
+   "translator_claimed": "Paul Nixon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_rights_checked": {},
  "_held": {
-  "plautus-nixon-v3": "held back on rights, not fetched: the only scan (IA plautus03plau) is a 1980 reprint of the 1924 translation carrying a 'Bibliographical Note (1979)', which is not public domain. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA plautus03plau: Plautus, vol. 3: The Merchant, The Braggart Warrior, Mostellaria, The Persian (Loeb, 1924)"
+  "plautus-perseus-riley-captivi-the-captives": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0119.phi005.perseus-eng2 (Captivi: The Captives, tr. Henry Thomas Riley) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "plautus-perseus-riley-mostellaria-or-the-haunted-house": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0119.phi013.perseus-eng2 (Mostellaria, or The Haunted House, tr. Henry Thomas Riley) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-adelphi-or-the-brothers": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi006.perseus-eng2 (Adelphi; or, The Brothers, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-andria-or-the-fair-andrian": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi001.perseus-eng2 (Andria; or, The Fair Andrian, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-eunuchus-or-the-eunuch": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi003.perseus-eng2 (Eunuchus; or, The Eunuch, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-heautontimorumenos-or-the-self-tormenter": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi002.perseus-eng2 (Heautontimorumenos; or, The Self-Tormenter, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-hecyra-the-mother-in-law": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi005.perseus-eng2 (Hecyra; The Mother-in-Law, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)",
+  "terence-perseus-colman-phormio-or-the-scheming-parasite": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0134.phi004.perseus-eng2 (Phormio; or, The Scheming Parasite, tr. George Colman) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  },
  "_surname_by_slug": {
   "plautus-riley-captivi-mostellaria": [
@@ -372,5 +397,502 @@
  },
  "_translator_unchecked": {
   "terence-echard-1733": "title page reads 'made English by Mr. Laurence Echard, revised and corrected by Dr. Echard and Sir R. L'Estrange' (eighth edition, MDCCXXXIII); the OCR prints the surname 'EC HARD' and 'Eehard'"
+ },
+ "perseus": {
+  "plautus-perseus-riley-amphitryon-or-jupiter-in-disguise": [
+   "phi0119.phi001.perseus-eng2",
+   "Amphitryon, or Jupiter in Disguise",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-asinaria-or-the-ass-dealer": [
+   "phi0119.phi002.perseus-eng2",
+   "Asinaria, or The Ass-Dealer",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-aulularia-or-the-concealed-treasure": [
+   "phi0119.phi003.perseus-eng2",
+   "Aulularia, or The Concealed Treasure",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-bacchides-or-the-twin-sisters": [
+   "phi0119.phi004.perseus-eng2",
+   "Bacchides, or The Twin Sisters",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-casina-or-the-stratagem-defeated": [
+   "phi0119.phi006.perseus-eng2",
+   "Casina, or The Stratagem Defeated",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-cistellaria-or-the-casket": [
+   "phi0119.phi007.perseus-eng2",
+   "Cistellaria, or The Casket",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-curculio-or-the-forgery": [
+   "phi0119.phi008.perseus-eng2",
+   "Curculio, or The Forgery",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-epidicus-or-the-fortunate-discovery": [
+   "phi0119.phi009.perseus-eng2",
+   "Epidicus, or The Fortunate Discovery",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-menaechmi-or-the-twin-brothers": [
+   "phi0119.phi010.perseus-eng2",
+   "Menaechmi, or The Twin Brothers",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-mercator-or-the-merchant": [
+   "phi0119.phi011.perseus-eng2",
+   "Mercator, or The Merchant",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-miles-gloriosus-or-the-braggart-captain": [
+   "phi0119.phi012.perseus-eng2",
+   "Miles Gloriosus, or The Braggart Captain",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-persa-or-the-persian": [
+   "phi0119.phi014.perseus-eng2",
+   "Persa, or The Persian",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-poenulus-or-the-young-carthaginian": [
+   "phi0119.phi015.perseus-eng2",
+   "Poenulus, or The Young Carthaginian",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-pseudolus-or-the-cheat": [
+   "phi0119.phi016.perseus-eng2",
+   "Pseudolus, or The Cheat",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-rudens-or-the-fisherman-s-rope": [
+   "phi0119.phi017.perseus-eng2",
+   "Rudens, or The Fisherman's Rope",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ],
+  "plautus-perseus-riley-stichus-or-the-parasite-rebuffed": [
+   "phi0119.phi018.perseus-eng2",
+   "Stichus, or The Parasite Rebuffed",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-trinummus-the-three-pieces-of-money": [
+   "phi0119.phi019.perseus-eng2",
+   "Trinummus: The Three Pieces of Money",
+   "Henry Thomas Riley",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 1. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1912."
+  ],
+  "plautus-perseus-riley-truculentus-or-the-churl": [
+   "phi0119.phi020.perseus-eng2",
+   "Truculentus, or The Churl",
+   "Henry Thomas Riley",
+   "Translation published 1913: US public domain (in or before 1930). Perseus source line: Plautus. The Comedies of Plautus, Volume 2. Riley, Henry Thomas, translator. London: G. Bell and Sons, Ltd., 1913."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "plautus-perseus-riley-amphitryon-or-jupiter-in-disguise": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi001.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi001/phi0119.phi001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-asinaria-or-the-ass-dealer": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi002.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi002/phi0119.phi002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-aulularia-or-the-concealed-treasure": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi003.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi003/phi0119.phi003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-bacchides-or-the-twin-sisters": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi004.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi004/phi0119.phi004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-casina-or-the-stratagem-defeated": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi006.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi006/phi0119.phi006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-cistellaria-or-the-casket": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi007.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi007/phi0119.phi007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-curculio-or-the-forgery": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi008.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi008/phi0119.phi008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-epidicus-or-the-fortunate-discovery": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi009.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi009/phi0119.phi009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-menaechmi-or-the-twin-brothers": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi010.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi010/phi0119.phi010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-mercator-or-the-merchant": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi011.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi011/phi0119.phi011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-miles-gloriosus-or-the-braggart-captain": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi012.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi012/phi0119.phi012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-persa-or-the-persian": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi014.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi014/phi0119.phi014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-poenulus-or-the-young-carthaginian": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi015.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi015/phi0119.phi015.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-pseudolus-or-the-cheat": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi016.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi016/phi0119.phi016.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-rudens-or-the-fisherman-s-rope": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi017.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi017/phi0119.phi017.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-stichus-or-the-parasite-rebuffed": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi018.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi018/phi0119.phi018.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-trinummus-the-three-pieces-of-money": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi019.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi019/phi0119.phi019.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "plautus-perseus-riley-truculentus-or-the-churl": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0119.phi020.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Riley",
+   "author_seen": "plautus",
+   "source_years": [
+    1913
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0119/phi020/phi0119.phi020.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }

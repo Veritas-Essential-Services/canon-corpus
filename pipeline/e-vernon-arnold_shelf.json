@@ -1,5 +1,5 @@
 {
- "_about": "Edward Vernon Arnold (1857-1926), professor of Latin at Bangor. Raw IA OCR: Roman Stoicism, being lectures on the history of the Stoic philosophy with special reference to its development within the Roman Empire (Cambridge University Press, 1911), clean 0.82 (Greek quotations). His surname is shared with other shelves, so only 'Vernon Arnold' is used. US public domain. No uids minted.",
+ "_about": "Edward Vernon Arnold (1857-1926), professor of Latin at Bangor. Raw IA OCR: Roman Stoicism, being lectures on the history of the Stoic philosophy with special reference to its development within the Roman Empire (Cambridge University Press, 1911), clean 0.82 (Greek quotations). His surname is shared with other shelves, so only 'Vernon Arnold' is used. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "E. Vernon Arnold",
  "_name_words": [
   "edward",
@@ -10,7 +10,12 @@
   "vernon arnold"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "arnold-roman-stoicism-pg": [
+   64488,
+   "Roman Stoicism"
+  ]
+ },
  "internet_archive": {
   "arnold-roman-stoicism-1911": [
    "romanstoicismbei00arnouoft",
@@ -19,9 +24,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "arnold-roman-stoicism-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "vernon arnold",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "arnold-roman-stoicism-1911": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "vernon arnold",
    "identity": "ok",

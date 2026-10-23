@@ -1,0 +1,42 @@
+{
+ "_about": "Wilhelm Wachsmuth (1784-1866), Leipzig historian: The Historical Antiquities of the Greeks, with Reference to their Political Institutions, tr. Edmund Woolrych (Oxford: Talboys, 1837), both volumes in one 1992 Columbia University microfilm scan of the 1837 printing. Classical scholarship (lane B, round dh). Raw IA OCR. No uids minted.",
+ "_author": "Wilhelm Wachsmuth (1784-1866)",
+ "_name_words": [
+  "wachsmuth",
+  "william",
+  "wilhelm",
+  "woolrych",
+  "antiquities",
+  "greeks"
+ ],
+ "_surname": [
+  "wachsmuth"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wachsmuth-historical-antiquities-greeks-1837": [
+   "historicalantiqu00wach",
+   "The Historical Antiquities of the Greeks, tr. Edmund Woolrych, 2 vols. in one scan (Oxford: Talboys, 1837)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "wachsmuth-historical-antiquities-greeks-1837": "Woolrych"
+ },
+ "_checks": {
+  "wachsmuth-historical-antiquities-greeks-1837": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wachsmuth",
+   "translator_claimed": "Woolrych",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -79,7 +79,46 @@
    "ia_lending": null
   }
  },
- "_held": {
-  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": "same translation as euclid-heath-v1..v3 (IA): Heath's Thirteen Books on this shelf; Perseus TEI urn:cts:greekLit:tlg1799.tlg001.perseus-eng2 (The Thirteen Books of Euclid's Elements, tr. Thomas Little Heath) is not taken as a second witness (moved here on review, 2026-10-02)"
+ "_held": {},
+ "perseus": {
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": [
+   "tlg1799.tlg001.perseus-eng2",
+   "The Thirteen Books of Euclid's Elements",
+   "Thomas Little Heath",
+   "Translation published 1908: US public domain (in or before 1930). Perseus source line: Euclid. The Thirteen Books of Euclid's Elements, Vols. 1-3. Heath, Thomas Little, editor. Cambridge, UK: Cambridge University Press, 1908."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg1799.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Heath",
+   "author_seen": "euclid",
+   "source_years": [
+    1908
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1799/tlg001/tlg1799.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_held_released": {
+  "euclid-perseus-heath-the-thirteen-books-of-euclid-s-elements": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as euclid-heath-v1..v3 (IA): Heath's Thirteen Books on this shelf; Perseus TEI urn:cts:greekLit:tlg1799.tlg001.perseus-eng2 (The Thirteen Books of Euclid's Elements, tr. Thomas Little Heath) is not taken as a second witness (moved here on review, 2026-10-02)"
  }
 }

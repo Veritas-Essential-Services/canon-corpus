@@ -11,6 +11,10 @@
    "cu31924026669642",
    "A Realist of the Aegean: a verse-translation of the Mimes of Herodas (London, 1906)",
    "tr. Hugo Sharpley"
+  ],
+  "herodas-headlam-knox-1922": [
+   "herodasmimesfrag00hero",
+   "Herodas, the Mimes and Fragments, with notes by Walter Headlam, edited by A. D. Knox (Cambridge, 1922); Greek text facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_surname": [
@@ -18,12 +22,13 @@
   "herondas"
  ],
  "_translators": {
-  "herodas-sharpley-1906": "Hugo Sharpley"
+  "herodas-sharpley-1906": "Hugo Sharpley",
+  "herodas-headlam-knox-1922": "Headlam"
  },
  "_checks": {
   "herodas-sharpley-1906": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "herodas",
    "translator_claimed": "Hugo Sharpley",
@@ -31,6 +36,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1906",
    "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "herodas-headlam-knox-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herodas",
+   "translator_claimed": "Headlam",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

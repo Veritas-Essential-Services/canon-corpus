@@ -33,6 +33,10 @@
    "romanantiquities04dion",
    "The Roman Antiquities of Dionysius Halicarnassensis, vol. 4 (London, 1758)",
    "tr. Edward Spelman"
+  ],
+  "dionysius-roberts-three-literary-letters-1901": [
+   "threeliterarylet00dionuoft",
+   "The Three Literary Letters, the Greek text edited with English translation, notes and an essay by W. Rhys Roberts (Cambridge, 1901); Greek text facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
@@ -42,7 +46,8 @@
   "dionysius"
  ],
  "_translators": {
-  "dionysius-roberts-composition": "w. rhys roberts"
+  "dionysius-roberts-composition": "w. rhys roberts",
+  "dionysius-roberts-three-literary-letters-1901": "Roberts"
  },
  "_translator_unchecked": {
   "dionysius-spelman-v1": "translator on the row (Edward Spelman) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -53,7 +58,7 @@
  "_checks": {
   "dionysius-roberts-composition": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dionysius",
    "translator_claimed": "w. rhys roberts",
@@ -64,7 +69,7 @@
   },
   "dionysius-spelman-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dionysius",
    "identity": "ok",
@@ -75,7 +80,7 @@
   },
   "dionysius-spelman-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dionysius",
    "identity": "ok",
@@ -86,7 +91,7 @@
   },
   "dionysius-spelman-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dionysius",
    "identity": "ok",
@@ -97,12 +102,25 @@
   },
   "dionysius-spelman-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "dionysius",
    "identity": "ok",
    "ia_rights": "ok: published 1758",
    "ia_date": "MDCCLVIII [1758]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dionysius-roberts-three-literary-letters-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dionysius",
+   "translator_claimed": "Roberts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

@@ -1,0 +1,37 @@
+{
+ "_about": "Walter Copland Perry (1814-1911), raw IA OCR of Greek and Roman Sculpture (1882).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Walter Copland Perry",
+ "_name_words": [
+  "perry"
+ ],
+ "_surname": [
+  "walter copland perry"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "walter-copland-perry-greek-and-roman-sculpture-1882": [
+   "greekandromansc00perrgoog",
+   "Greek and Roman Sculpture: a popular introduction to the history of Greek and Roman sculpture, by Walter Copland Perry (London: Longmans, Green, and Co., 1882)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "walter-copland-perry-greek-and-roman-sculpture-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "walter-copland-perry-greek-and-roman-sculpture-1882": {
+   "author": "WALTER rOI'LAXn T'CRKV"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "_about": "Caroline Amy Hutton (1861-1931), raw IA OCR of Greek Terracotta Statuettes (Portfolio monographs).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "C. A. Hutton",
+ "_name_words": [
+  "hutton"
+ ],
+ "_surname": [
+  "c. a. hutton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "c-a-hutton-greek-terracotta-statuettes": [
+   "cu31924031048824",
+   "Greek Terracotta Statuettes, by C. A. Hutton, with a preface by A. S. Murray (New York: The Macmillan Company; no year in the OCR, IA catalogues 1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "c-a-hutton-greek-terracotta-statuettes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. a. hutton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

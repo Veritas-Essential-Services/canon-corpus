@@ -1,0 +1,35 @@
+{
+ "_about": "T. W. Lumb: Authors of Greece, with an introduction by Cyril Alington, a survey of Greek literature with translated passages. Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Thomas Wallace Lumb",
+ "_name_words": [
+  "lumb",
+  "thomas",
+  "wallace",
+  "authors",
+  "greece"
+ ],
+ "_surname": [
+  "t. w. lumb",
+  "thomas wallace lumb"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lumb-authors-of-greece": [
+   8115,
+   "Authors of Greece, with an introduction by Cyril Alington"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lumb-authors-of-greece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. w. lumb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

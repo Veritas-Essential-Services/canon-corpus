@@ -1,0 +1,40 @@
+{
+ "_about": "J. N. Madvig (1804-1886), Copenhagen Latinist: Syntax of the Greek Language, especially of the Attic Dialect, tr. Henry Browne, ed. T. K. Arnold (1853). Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Johan Nicolai Madvig (1804-1886)",
+ "_name_words": [
+  "madvig",
+  "syntax",
+  "greek",
+  "attic"
+ ],
+ "_surname": [
+  "madvig"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "madvig-greek-syntax-1853": [
+   "cu31924021604024",
+   "Syntax of the Greek Language, especially of the Attic Dialect (1853), tr. Henry Browne"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "madvig-greek-syntax-1853": "Browne"
+ },
+ "_checks": {
+  "madvig-greek-syntax-1853": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "madvig",
+   "translator_claimed": "Browne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

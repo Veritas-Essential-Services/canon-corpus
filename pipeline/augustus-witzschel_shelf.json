@@ -1,0 +1,37 @@
+{
+ "_about": "Augustus Witzschel, raw IA OCR of The Athenian Stage: a Handbook for Students, translated from the German by the Rev. R. B. Paul and edited by the Rev. T. K. Arnold (London: Francis and John Rivington, 1850). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Augustus Witzschel",
+ "_name_words": [
+  "witzschel"
+ ],
+ "_surname": [
+  "augustus witzschel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "augustus-witzschel-athenian-stage-1850": [
+   "athenianstagehan00witzuoft",
+   "The Athenian Stage: a Handbook for Students, by Augustus Witzschel, translated from the German by the Rev. R. B. Paul, edited by the Rev. T. K. Arnold, with a plan of a Greek theatre (London: Francis and John Rivington, 1850)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "augustus-witzschel-athenian-stage-1850": {
+   "translator": "title page OCR 'TRANSLATED FROM THE GERMAN BY THE REV. R° BY PAUL, M.A., VICAR OF ST. AUGUSTINE'S, BRISTOL'"
+  }
+ },
+ "_checks": {
+  "augustus-witzschel-athenian-stage-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augustus witzschel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

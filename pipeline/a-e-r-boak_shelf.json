@@ -1,0 +1,36 @@
+{
+ "_about": "A. E. R. Boak (1888-1962), Michigan: A History of Rome to 565 A.D. (New York: Macmillan, 1921), the first edition. Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Arthur Edward Romilly Boak (1888-1962)",
+ "_name_words": [
+  "boak",
+  "arthur",
+  "edward",
+  "romilly",
+  "rome"
+ ],
+ "_surname": [
+  "boak"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boak-history-of-rome-565-1921": [
+   "cu31924028286726",
+   "A History of Rome to 565 A.D. (New York: Macmillan, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "boak-history-of-rome-565-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boak",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

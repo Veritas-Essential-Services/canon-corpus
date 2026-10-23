@@ -1,5 +1,5 @@
 {
- "_about": "Edward Lee Thorndike (1874-1949), American psychologist of learning at Teachers College, Columbia; the law of effect is his. Raw IA OCR: The Elements of Psychology, 2nd edition (New York: A. G. Seiler, 1907); Animal Intelligence, experimental studies (Macmillan, 1911); Individuality (Houghton Mifflin, Riverside Educational Monographs, copyright 1911; the verso year is the only one printed); Educational Psychology vol. I, The Original Nature of Man (Teachers College, 1913) and vol. II, The Psychology of Learning (copyright 1913, this printing 1921). Wanted: Educational Psychology vol. III (1914). US public domain. No uids minted.",
+ "_about": "Edward Lee Thorndike (1874-1949), American psychologist of learning at Teachers College, Columbia; the law of effect is his. Raw IA OCR: The Elements of Psychology, 2nd edition (New York: A. G. Seiler, 1907); Animal Intelligence, experimental studies (Macmillan, 1911); Individuality (Houghton Mifflin, Riverside Educational Monographs, copyright 1911; the verso year is the only one printed); Educational Psychology vol. I, The Original Nature of Man (Teachers College, 1913) and vol. II, The Psychology of Learning (copyright 1913, this printing 1921). Wanted: Educational Psychology vol. III (1914). US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Edward L. Thorndike",
  "_name_words": [
   "edward",
@@ -10,7 +10,12 @@
   "thorndike"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "thorndike-animal-intelligence-pg": [
+   69904,
+   "Animal Intelligence"
+  ]
+ },
  "internet_archive": {
   "thorndike-elements-of-psychology-1907": [
    "elementsofpsycho05thor",
@@ -35,9 +40,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "thorndike-animal-intelligence-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thorndike",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "thorndike-elements-of-psychology-1907": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thorndike",
    "identity": "ok",
@@ -48,7 +62,7 @@
   },
   "thorndike-animal-intelligence-1911": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thorndike",
    "identity": "ok",
@@ -59,7 +73,7 @@
   },
   "thorndike-individuality-1911": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thorndike",
    "identity": "ok",
@@ -70,7 +84,7 @@
   },
   "thorndike-educational-psychology-1913-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thorndike",
    "identity": "ok",
@@ -81,7 +95,7 @@
   },
   "thorndike-educational-psychology-1913-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thorndike",
    "identity": "ok",

@@ -1,0 +1,39 @@
+{
+ "_about": "Lauchlan MacLean Watt (1867-1957), Scottish minister and critic: Attic and Elizabethan Tragedy (London: Dent, 1908). His poems and war books are outside lane B. Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Lauchlan MacLean Watt (1867-1957)",
+ "_name_words": [
+  "watt",
+  "lauchlan",
+  "maclean",
+  "attic",
+  "elizabethan",
+  "tragedy"
+ ],
+ "_surname": [
+  "lauchlan maclean watt",
+  "maclean watt",
+  "l. maclean watt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "watt-attic-elizabethan-tragedy-1908": [
+   "atticandelizabe02wattgoog",
+   "Attic and Elizabethan Tragedy (London: Dent, 1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "watt-attic-elizabethan-tragedy-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lauchlan maclean watt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

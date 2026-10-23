@@ -1,0 +1,41 @@
+{
+ "_about": "The Greek military writers Aeneas Tacticus (On Siegecraft), Asclepiodotus (Tactics) and Onasander (The General) in English, translated by members of the Illinois Greek Club (Loeb, 1923); Greek facing, kept per Adam's 2026-10-23 ruling.",
+ "_author": "Aeneas Tacticus (4th century BC); Asclepiodotus; Onasander",
+ "_name_words": [
+  "tacticus",
+  "asclepiodotus",
+  "onasander"
+ ],
+ "_surname": [
+  "aeneas",
+  "asclepiodotus",
+  "onasander"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aeneas-tacticus-illinois-greek-club-1923": [
+   "aeneastacticusas00aene_0",
+   "Aeneas Tacticus, Asclepiodotus, Onasander, tr. the Illinois Greek Club (Loeb, 1923); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "aeneas-tacticus-illinois-greek-club-1923": "Illinois Greek Club"
+ },
+ "_checks": {
+  "aeneas-tacticus-illinois-greek-club-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aeneas",
+   "translator_claimed": "Illinois Greek Club",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

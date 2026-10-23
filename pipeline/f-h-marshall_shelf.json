@@ -1,0 +1,47 @@
+{
+ "_about": "Frederick Henry Marshall (1878-1955), Birkbeck College, raw IA OCR of Discovery in Greek Lands (1920).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.  Round ea adds The Second Athenian Confederacy (1905).",
+ "_author": "F. H. Marshall",
+ "_name_words": [
+  "marshall"
+ ],
+ "_surname": [
+  "f. h. marshall"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "f-h-marshall-discovery-in-greek-lands-1920": [
+   "discoveryingreek00marsuoft",
+   "Discovery in Greek Lands: a sketch of the principal excavations and discoveries of the last fifty years, by F. H. Marshall (Cambridge: University Press, 1920)"
+  ],
+  "f-h-marshall-second-athenian-confederacy-1905": [
+   "secondathenianco00mars",
+   "The Second Athenian Confederacy, by F. H. Marshall, Fellow of Emmanuel College (Thirlwall Prize 1905; Cambridge: University Press, 1905)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "f-h-marshall-discovery-in-greek-lands-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. h. marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "f-h-marshall-second-athenian-confederacy-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. h. marshall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

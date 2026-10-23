@@ -1,0 +1,35 @@
+{
+ "_about": "J. W. Headlam (later Headlam-Morley, 1863-1929): Election by Lot at Athens (Prince Consort Dissertation, 1891). His later diplomatic histories are outside lane B. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "James Wycliffe Headlam (1863-1929)",
+ "_name_words": [
+  "headlam",
+  "election",
+  "lot",
+  "athens"
+ ],
+ "_surname": [
+  "headlam"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "headlam-election-by-lot-1891": [
+   "electionbylotat00headgoog",
+   "Election by Lot at Athens (1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "headlam-election-by-lot-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "headlam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

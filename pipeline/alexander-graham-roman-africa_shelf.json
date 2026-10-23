@@ -1,0 +1,32 @@
+{
+ "_about": "Alexander Graham (1838-1916), architect, raw IA OCR of Roman Africa (1902).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Alexander Graham",
+ "_name_words": [
+  "graham"
+ ],
+ "_surname": [
+  "alexander graham"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alexander-graham-roman-africa-1902": [
+   "romanafricaoutl00grah",
+   "Roman Africa: an outline of the history of the Roman occupation of North Africa, based chiefly upon inscriptions and monumental remains, by Alexander Graham (London, New York and Bombay: Longmans, Green, and Co., 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "alexander-graham-roman-africa-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander graham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

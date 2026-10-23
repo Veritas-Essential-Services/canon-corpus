@@ -1,0 +1,33 @@
+{
+ "_about": "William Hugh Ferrar (1835-1871), Fellow of Trinity College Dublin, raw IA OCR of A Comparative Grammar of Sanskrit, Greek, and Latin, vol. I (1869), the only volume published. Latin and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "William Hugh Ferrar",
+ "_name_words": [
+  "ferrar"
+ ],
+ "_surname": [
+  "william hugh ferrar",
+  "ferrar"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-hugh-ferrar-comparative-grammar-1869": [
+   "comparativegramm01ferruoft",
+   "A Comparative Grammar of Sanskrit, Greek, and Latin, by William Hugh Ferrar, vol. I (London: Longmans, Green, Reader, and Dyer; Dublin: William McGee, 1869)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-hugh-ferrar-comparative-grammar-1869": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hugh ferrar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

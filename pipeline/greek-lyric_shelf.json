@@ -1,5 +1,5 @@
 {
- "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing.",
+ "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works. Two more Sappho versions added by lane B, round dk: John Myers O'Hara's (PG 42166) and H. De Vere Stacpoole's (PG 42543).",
  "_name_words": [
   "anthology",
   "epigrams",
@@ -23,6 +23,18 @@
    38230,
    "The Odes of Anacreon",
    "tr. Thomas Moore"
+  ],
+  "rodd-love-worship-death-pg": [
+   35907,
+   "Love, Worship and Death: renderings from the Greek Anthology"
+  ],
+  "sappho-ohara-1910": [
+   42166,
+   "The Poems of Sappho: An Interpretative Rendition into English, by John Myers O'Hara (1910)"
+  ],
+  "sappho-stacpoole-1920": [
+   42543,
+   "Sappho: A New Rendering, by H. De Vere Stacpoole (1920)"
   ]
  },
  "internet_archive": {
@@ -80,19 +92,64 @@
    "loveworshipdeath00roddrich",
    "Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916)",
    "tr. Rennell Rodd"
+  ],
+  "greek-anthology-paton-v1": [
+   "greekanthology01pato",
+   "The Greek Anthology, tr. W. R. Paton, vol. I (Loeb, 1916; this copy the 1927 reprint); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "greek-anthology-paton-v2": [
+   "in.gov.ignca.13476",
+   "The Greek Anthology, tr. W. R. Paton, vol. II (Loeb, 1917; this copy the 1919 reprint); Greek facing, kept per Adam's 2026-10-23 ruling",
+   "13476_djvu.txt"
+  ],
+  "greek-anthology-paton-v3": [
+   "greekanthology03pato",
+   "The Greek Anthology, tr. W. R. Paton, vol. III (Loeb, 1917; this copy the 1925 reprint); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "greek-anthology-paton-v4": [
+   "in.ernet.dli.2015.103642",
+   "The Greek Anthology, tr. W. R. Paton, vol. IV (Loeb, 1918); Greek facing, kept per Adam's 2026-10-23 ruling",
+   "2015.103642.Greek-Anthology-Vol-4_djvu.txt"
+  ],
+  "greek-anthology-paton-v5": [
+   "in.ernet.dli.2015.103643",
+   "The Greek Anthology, tr. W. R. Paton, vol. V (Loeb, 1918); Greek facing, kept per Adam's 2026-10-23 ruling",
+   "2015.103643.Greek-Anthology-Vol-5_djvu.txt"
+  ],
+  "lyra-graeca-edmonds-v1": [
+   "lyragraecabeingr01edmouoft",
+   "Lyra Graeca, ed. and tr. J. M. Edmonds, vol. I (Loeb, 1922); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "lyra-graeca-edmonds-v2": [
+   "lyragraecabeingr02unse",
+   "Lyra Graeca, ed. and tr. J. M. Edmonds, vol. II (Loeb, 1924); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "lyra-graeca-edmonds-v3": [
+   "lyragraecabeingr03edmouoft",
+   "Lyra Graeca, ed. and tr. J. M. Edmonds, vol. III (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "greek-anthology-fry-century-epigrams-1915": [
+   "centuryofgreekep00fryerich",
+   "A Century of Greek Epigrams, tr. Edward Fry, Lady Fry and Agnes Fry (privately printed, 1915); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "greek-anthology-cromer-paraphrases-1903": [
+   "paraphrasestrans00cromrich",
+   "Paraphrases and Translations from the Greek, by the Earl of Cromer (1903); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "greek-anthology-innes-verse-translations-1894": [
+   "versetranslation00innerich",
+   "Verse Translations from Greek and Latin Poets, by Arthur D. Innes (1894); Greek text with the translation, kept per Adam's 2026-10-23 ruling"
+  ],
+  "bacchylides-jebb-1905": [
+   "bacchylidespoems00bacciala",
+   "Bacchylides, the Poems and Fragments, edited with introduction, notes and prose translation by Sir Richard Jebb (Cambridge, 1905); Greek text facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
-  "Paton, The Greek Anthology (Loeb, 1916-18, 5 vols.)": "US PD by date but Greek facing; pending",
-  "Edmonds, Lyra Graeca (Loeb, 1922-27)": "Greek facing; vol. 2 (1931 scan) not yet PD; pending",
-  "Mair, Callimachus/Lycophron/Aratus (Loeb, 1921) and Oppian/Colluthus/Tryphiodorus (Loeb, 1928)": "Greek facing; pending",
   "Musaeus": "held on the late-greek-poets shelf (Arnold's Hero and Leander, musaeus-arnold-hero-leander)",
   "Carman, O'Hara, Stacpoole Sappho versions (PG 12389, 42166, 42543)": "free modern recreations, not translations; not taken",
   "bub_gb_3QevpbXOklcC": "Fawkes's Anacreon, Sappho and Musaeus, 1810 reprint (Suttaby); the 1760 edition is held as anacreon-fawkes-1760.",
-  "odesofanacreonof00anac": "The Odes of Anacreon of Teos, literally translated into English prose (1806): OCR 0.70, under the 0.78 bar.",
-  "Edward Fry, Lady Fry and Agnes Fry, A Century of Greek Epigrams (privately printed, 1915)": "IA centuryofgreekep00fryerich reads 0.759 (Greek text facing), under the bar, and Agnes Fry is a co-translator whose death year was not checked, so UK status is open; US PD by date. Not taken",
-  "Evelyn Baring, Earl of Cromer, Paraphrases and Translations from the Greek (1903)": "IA paraphrasestrans00cromrich reads 0.734 (Greek facing); under the bar, part of the Greek-facing question",
-  "Arthur D. Innes, Verse Translations from Greek and Latin Poets (1894)": "IA versetranslation00innerich reads 0.625; refused for OCR quality 2026-10-10"
+  "odesofanacreonof00anac": "The Odes of Anacreon of Teos, literally translated into English prose (1806): OCR 0.70, under the 0.78 bar."
  },
  "_surname": [
   "sappho",
@@ -117,12 +174,26 @@
   "greek-anthology-bland-1813": "robert bland",
   "greek-anthology-perry-garden-of-hellas-1891": "lilla cabot perry",
   "greek-anthology-benson-reed-of-pan-1922": "a. c. benson",
-  "greek-anthology-rodd-love-worship-death-1916": "rennell rodd"
+  "greek-anthology-rodd-love-worship-death-1916": "rennell rodd",
+  "sappho-ohara-1910": "O'Hara",
+  "sappho-stacpoole-1920": "Stacpoole",
+  "greek-anthology-paton-v1": "W. R. Paton",
+  "greek-anthology-paton-v2": "Paton",
+  "greek-anthology-paton-v3": "W. R. Paton",
+  "greek-anthology-paton-v4": "W. R. Paton",
+  "greek-anthology-paton-v5": "W. R. Paton",
+  "lyra-graeca-edmonds-v1": "J. M. Edmonds",
+  "lyra-graeca-edmonds-v2": "J. M. Edmonds",
+  "lyra-graeca-edmonds-v3": "J. M. Edmonds",
+  "greek-anthology-fry-century-epigrams-1915": "Edward Fry",
+  "greek-anthology-cromer-paraphrases-1903": "Earl of Cromer",
+  "greek-anthology-innes-verse-translations-1894": "Innes",
+  "bacchylides-jebb-1905": "Jebb"
  },
  "_checks": {
   "greek-anthology-mackail": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "greek anthology",
    "translator_claimed": "J. W. Mackail",
@@ -134,7 +205,7 @@
   },
   "sappho-wharton": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "henry thornton wharton",
@@ -145,7 +216,7 @@
   },
   "anacreon-moore": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Thomas Moore",
@@ -154,9 +225,42 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
+  "rodd-love-worship-death-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sappho-ohara-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "O'Hara",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Myers O'Hara",
+   "translator_match": true
+  },
+  "sappho-stacpoole-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "Stacpoole",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. De Vere Stacpoole",
+   "translator_match": true
+  },
   "bacchylides-poste": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bacchylides",
    "translator_claimed": "poste",
@@ -169,7 +273,7 @@
   },
   "greek-anthology-burges-1854": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "George Burges",
@@ -182,7 +286,7 @@
   },
   "anacreon-fawkes-1760": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Fawkes",
@@ -196,7 +300,7 @@
   },
   "anacreon-girdlestone-1804": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "Girdlestone",
@@ -209,7 +313,7 @@
   },
   "anacreon-arnold-1869": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "anacreon",
    "translator_claimed": "thomas james arnold",
@@ -222,7 +326,7 @@
   },
   "greek-anthology-macgregor": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "robert guthrie macgregor",
@@ -236,7 +340,7 @@
   },
   "anacreon-stanley-1815": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "thomas stanley",
@@ -249,7 +353,7 @@
   },
   "greek-anthology-bland-1813": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "robert bland",
@@ -262,7 +366,7 @@
   },
   "greek-anthology-perry-garden-of-hellas-1891": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "lilla cabot perry",
@@ -276,7 +380,7 @@
   },
   "greek-anthology-benson-reed-of-pan-1922": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "a. c. benson",
@@ -290,7 +394,7 @@
   },
   "greek-anthology-rodd-love-worship-death-1916": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sappho",
    "translator_claimed": "rennell rodd",
@@ -301,6 +405,162 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null,
    "rights_override": "London: Edward Arnold, 1916, 'All rights reserved': US PD by date. Rodd died in 1941, so UK PD since 2012 (death year from general reference)"
+  },
+  "greek-anthology-paton-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "greek-anthology-paton-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "greek-anthology-paton-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "greek-anthology-paton-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "greek-anthology-paton-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lyra-graeca-edmonds-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "J. M. Edmonds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lyra-graeca-edmonds-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "J. M. Edmonds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lyra-graeca-edmonds-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "J. M. Edmonds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-fry-century-epigrams-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anacreon",
+   "translator_claimed": "Edward Fry",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-cromer-paraphrases-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "Earl of Cromer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "greek-anthology-innes-verse-translations-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacchylides",
+   "translator_claimed": "Innes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bacchylides-jebb-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacchylides",
+   "translator_claimed": "Jebb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_surname_by_slug": {
@@ -324,6 +584,15 @@
   ],
   "anacreon-arnold-1869": [
    "anacreon"
+  ],
+  "sappho-ohara-1910": [
+   "sappho"
+  ],
+  "sappho-stacpoole-1920": [
+   "sappho"
+  ],
+  "bacchylides-jebb-1905": [
+   "bacchylides"
   ]
  },
  "_rights_checked": {

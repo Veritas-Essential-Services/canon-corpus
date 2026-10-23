@@ -1,0 +1,67 @@
+{
+ "_about": "J. Wight Duff (John Wight Duff, 1866-1944), Professor of Classics at Armstrong College, Newcastle. Classical scholarship (lane B). Clean Gutenberg: A Literary History of Rome in the Silver Age, from Tiberius to Hadrian (London: T. Fisher Unwin, 1927). Raw IA OCR: A Literary History of Rome from the Origins to the Close of the Golden Age (London: T. Fisher Unwin, 1909; Toronto scan) and The Writers of Rome (Oxford University Press, Humphrey Milford, 1923; preface dated December 1923, title-page year misread by the OCR). Not taken: Roman Satire (1936) and the Loeb Minor Latin Poets (1934), after the cutoff; the Indian-library Silver Age scans, which are the 1964 third edition. Not J. D. Duff (Lucan, Herzen), whose translator shelf is jd-duff. US public domain. No uids minted.",
+ "_author": "J. Wight Duff",
+ "_name_words": [
+  "wight",
+  "duff"
+ ],
+ "_surname": [
+  "j. wight duff",
+  "wight duff",
+  "john wight duff"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "duff-literary-history-rome-silver-age-1927": [
+   79117,
+   "A Literary History of Rome in the Silver Age, from Tiberius to Hadrian"
+  ]
+ },
+ "internet_archive": {
+  "duff-literary-history-rome-golden-age-1909": [
+   "literaryhistoryo00duffuoft",
+   "A Literary History of Rome from the Origins to the Close of the Golden Age (T. Fisher Unwin, 1909)"
+  ],
+  "duff-writers-of-rome-1923": [
+   "writersofrome0000jwig",
+   "The Writers of Rome (Oxford University Press, 1923)"
+  ]
+ },
+ "_excluded": {
+  "IA in.ernet.dli.2015.113751 / 123303": "1964 third edition of the Silver Age, not the 1927 first",
+  "IA literaryhistoryo0000jwdu": "same 1927 Silver Age as the clean Gutenberg text"
+ },
+ "_checks": {
+  "duff-literary-history-rome-silver-age-1927": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wight duff",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "duff-literary-history-rome-golden-age-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wight duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duff-writers-of-rome-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. wight duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

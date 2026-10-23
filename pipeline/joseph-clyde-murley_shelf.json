@@ -1,0 +1,32 @@
+{
+ "_about": "Joseph Clyde Murley, raw IA OCR of his Chicago dissertation (1922).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Joseph Clyde Murley",
+ "_name_words": [
+  "murley"
+ ],
+ "_surname": [
+  "joseph clyde murley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "joseph-clyde-murley-cults-of-cisalpine-gaul-1922": [
+   "cultsofcisalpine00murlrich",
+   "The Cults of Cisalpine Gaul as seen in the Inscriptions: a dissertation (University of Chicago, Department of Latin), by Joseph Clyde Murley (Menasha, Wisconsin: George Banta, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "joseph-clyde-murley-cults-of-cisalpine-gaul-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph clyde murley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

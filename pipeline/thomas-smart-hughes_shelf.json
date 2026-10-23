@@ -1,0 +1,48 @@
+{
+ "_about": "Thomas Smart Hughes (1786-1847), Cambridge clergyman and historian, raw IA OCR of Travels in Sicily, Greece and Albania (1820), 2 vols; not Thomas Hughes the novelist, whose shelf is thomas-hughes. Classical topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Thomas Smart Hughes",
+ "_name_words": [
+  "hughes"
+ ],
+ "_surname": [
+  "thomas smart hughes",
+  "hughes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomas-smart-hughes-travels-sicily-greece-albania-1-1820": [
+   "travelsinsicily01hughgoog",
+   "Travels in Sicily, Greece and Albania, by Thos. Smart Hughes, vol. I (London: J. Mawman, 1820)"
+  ],
+  "thomas-smart-hughes-travels-sicily-greece-albania-2-1820": [
+   "travelsinsicily00hughgoog",
+   "Travels in Sicily, Greece and Albania, by Thos. Smart Hughes, vol. II (London: J. Mawman, 1820)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thomas-smart-hughes-travels-sicily-greece-albania-1-1820": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hughes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thomas-smart-hughes-travels-sicily-greece-albania-2-1820": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hughes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

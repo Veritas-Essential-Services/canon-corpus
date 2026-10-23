@@ -1,0 +1,32 @@
+{
+ "_about": "John Baron Moyle (1852-1930), Fellow of New College, raw IA OCR of The Contract of Sale in the Civil Law (1892). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "J. B. Moyle",
+ "_name_words": [
+  "moyle"
+ ],
+ "_surname": [
+  "j. b. moyle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-b-moyle-contract-of-sale": [
+   "contractofsalei00moyl",
+   "The Contract of Sale in the Civil Law, with references to the laws of England, Scotland and France, by J. B. Moyle (Oxford: at the Clarendon Press; IA catalogues 1892)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "j-b-moyle-contract-of-sale": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. moyle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

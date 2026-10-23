@@ -1,0 +1,57 @@
+{
+ "_about": "Charles Henry Monro (1835-1908), Fellow of Caius, raw IA OCR of his translation of The Digest of Justinian, vols I-II (1904-1909); not D. B. Monro, whose shelf is monro. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Charles Henry Monro",
+ "_name_words": [
+  "monro"
+ ],
+ "_surname": [
+  "charles henry monro"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "c-h-monro-digest-of-justinian-1-1904": [
+   "digestofjustinia01monruoft",
+   "The Digest of Justinian, translated by Charles Henry Monro, vol. I (Cambridge: at the University Press; IA catalogues 1904)",
+   "tr. Charles Henry Monro"
+  ],
+  "c-h-monro-digest-of-justinian-2-1909": [
+   "digestofjustinia02monruoft",
+   "The Digest of Justinian, translated by Charles Henry Monro, vol. II (Cambridge: at the University Press; IA catalogues 1909)",
+   "tr. Charles Henry Monro"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "c-h-monro-digest-of-justinian-1-1904": "Charles Henry Monro",
+  "c-h-monro-digest-of-justinian-2-1909": "Charles Henry Monro"
+ },
+ "_checks": {
+  "c-h-monro-digest-of-justinian-1-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles henry monro",
+   "translator_claimed": "Charles Henry Monro",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1904-1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "c-h-monro-digest-of-justinian-2-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles henry monro",
+   "translator_claimed": "Charles Henry Monro",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -428,5 +428,8 @@
  },
  "_identity_checked": {
   "seneca-newton-tenne-tragedies-1581": "Title page read 2026-10-10 (black letter, partly garbled): '...ted into Englysh ... Mercurij nutrices, horae ... Saincte Dunstans church by Thomas Marsh'; Newton's dedication is signed 'Thomas Newton'. archive.org dates the record 1581. The other translators named on the row (Heywood, Studley, Nevile, Nuce) are from the book's own list of who translated which play, as the 1887 reprint quotes it; the OCR prints only Heywood legibly."
+ },
+ "_held": {
+  "seneca-perseus-rouse-apocolocyntosis": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi1017.phi011.perseus-eng2 (Apocolocyntosis, tr. William Henry Denham Rouse) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  }
 }

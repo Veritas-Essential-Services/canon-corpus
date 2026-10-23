@@ -1,5 +1,5 @@
 {
- "_about": "Percy Gardner (1846-1937), Oxford classical archaeologist. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Sculptured Tombs of Hellas, clean Gutenberg; A Manual of Greek Antiquities with F. B. Jevons, second edition (Griffin, 1898), raw IA OCR (Jevons died 1936). No uids minted.",
+ "_about": "Percy Gardner (1846-1937), Oxford classical archaeologist. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Sculptured Tombs of Hellas, clean Gutenberg; A Manual of Greek Antiquities with F. B. Jevons, second edition (Griffin, 1898), raw IA OCR (Jevons died 1936). No uids minted.  Round dz adds New Chapters in Greek History (1892).  Round ea adds A Grammar of Greek Art (1905) and its enlargement, The Principles of Greek Art (1914).",
  "_name_words": [
   "gardner"
  ],
@@ -18,12 +18,24 @@
   "gardner-jevons-manual-greek-antiquities-1898": [
    "manualofgreekant00gard",
    "A Manual of Greek Antiquities, books I-V by Percy Gardner, books VI-IX by F. B. Jevons, second edition (London: Charles Griffin, 1898)"
+  ],
+  "percy-gardner-new-chapters-in-greek-history-1892": [
+   "newchaptersingre00gardrich",
+   "New Chapters in Greek History: historical results of recent excavations in Greece and Asia Minor, by Percy Gardner (London: John Murray, 1892)"
+  ],
+  "percy-gardner-grammar-of-greek-art-1905": [
+   "grammarofgreekar00garduoft",
+   "A Grammar of Greek Art, by Percy Gardner (New York: The Macmillan Company; London: Macmillan, 1905)"
+  ],
+  "percy-gardner-principles-of-greek-art-1914": [
+   "principlesofgree00gard",
+   "The Principles of Greek Art, by Percy Gardner, an enlargement of his Grammar of Greek Art (New York: The Macmillan Company, 1914)"
   ]
  },
  "_checks": {
   "percy-gardner-sculptured-tombs-hellas": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "percy gardner",
    "identity": "ok",
@@ -32,13 +44,46 @@
   },
   "gardner-jevons-manual-greek-antiquities-1898": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "percy gardner",
    "identity": "ok",
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "percy-gardner-new-chapters-in-greek-history-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy gardner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "percy-gardner-grammar-of-greek-art-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy gardner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "percy-gardner-principles-of-greek-art-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percy gardner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

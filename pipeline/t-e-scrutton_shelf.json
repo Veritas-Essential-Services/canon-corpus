@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Edward Scrutton (1856-1934), later Lord Justice, raw IA OCR of The Influence of the Roman Law on the Law of England (Yorke Prize Essay for 1884). Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Thomas Edward Scrutton",
+ "_name_words": [
+  "scrutton"
+ ],
+ "_surname": [
+  "thomas edward scrutton",
+  "scrutton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "t-e-scrutton-influence-of-roman-law": [
+   "influenceofroman00scruuoft",
+   "The Influence of the Roman Law on the Law of England, being the Yorke Prize Essay of the University of Cambridge for the year 1884, by Thomas Edward Scrutton (Cambridge: at the University Press; IA catalogues 1885)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "t-e-scrutton-influence-of-roman-law": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scrutton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

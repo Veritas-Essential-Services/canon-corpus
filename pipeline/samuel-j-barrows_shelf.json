@@ -1,0 +1,32 @@
+{
+ "_about": "Samuel June Barrows (1845-1909), Unitarian minister and congressman, raw IA OCR of The Isles and Shrines of Greece (copyright 1898).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Samuel J. Barrows",
+ "_name_words": [
+  "barrows"
+ ],
+ "_surname": [
+  "samuel j. barrows"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "samuel-j-barrows-isles-and-shrines-of-greece-1898": [
+   "islesshrinesofgr00barrrich",
+   "The Isles and Shrines of Greece, by Samuel J. Barrows (Boston: Little, Brown, and Company, 1899; copyright 1898)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "samuel-j-barrows-isles-and-shrines-of-greece-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel j. barrows",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899, c1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

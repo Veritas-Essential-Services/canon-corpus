@@ -1,0 +1,41 @@
+{
+ "_about": "Johann Joachim Eschenburg (1743-1820): Manual of Classical Literature, from the German, with additions by N. W. Fiske (Philadelphia: Biddle, 1841): archaeology, geography, mythology, Greek and Roman literature and antiquities. Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Johann Joachim Eschenburg (1743-1820)",
+ "_name_words": [
+  "eschenburg",
+  "fiske",
+  "manual",
+  "classical",
+  "literature"
+ ],
+ "_surname": [
+  "eschenburg"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eschenburg-manual-classical-literature-1841": [
+   "manualofclassica00eschrich",
+   "Manual of Classical Literature, tr. N. W. Fiske (Philadelphia: Biddle, 1841)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "eschenburg-manual-classical-literature-1841": "Fiske"
+ },
+ "_checks": {
+  "eschenburg-manual-classical-literature-1841": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eschenburg",
+   "translator_claimed": "Fiske",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

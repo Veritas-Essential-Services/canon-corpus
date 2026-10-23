@@ -182,11 +182,13 @@
  },
  "_held": {
   "catullus-perseus-burton-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng3 (Carmina, tr. Sir Richard Francis Burton) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "catullus-perseus-smithers-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng4 (Carmina, tr. Leonard C. Smithers) is not taken as a second witness (moved here on review, 2026-10-02)"
+  "catullus-perseus-smithers-carmina": "same translation as catullus-burton-smithers (PG 20732): Burton's verse and Smithers's prose in one volume on this shelf; Perseus TEI urn:cts:latinLit:phi0472.phi001.perseus-eng4 (Carmina, tr. Leonard C. Smithers) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "catullus-perseus-smithers-carmina-modernized": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI phi0472.phi001.perseus-eng4 (Carmina, tr. Leonard Charles Smithers) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  },
  "_translator_unchecked": {
   "catullus-tibullus-kelly-erotica-1854": "title page OCRs the name as 'WALTEE K. KELLY' (Bohn, MDCCCLIV); the claim is not matched as written",
   "catullus-nott-1795-v1": "the title page names no translator (published anonymously); John Nott is the IA catalogue's attribution only",
   "catullus-hart-davies-1879": "title page names T. Hart-Davies, Bombay Civil Service (London: C. Kegan Paul, 1879); the OCR reads 'HAKT^DAVIES'"
- }
+ },
+ "_rights_checked": {}
 }

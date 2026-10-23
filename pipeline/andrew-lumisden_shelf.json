@@ -1,0 +1,33 @@
+{
+ "_about": "Andrew Lumisden (1720-1801), Jacobite secretary and antiquary, raw IA OCR of Remarks on the Antiquities of Rome and its Environs, second edition (posthumous, IA catalogues 1812). Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Andrew Lumisden",
+ "_name_words": [
+  "lumisden"
+ ],
+ "_surname": [
+  "andrew lumisden",
+  "lumisden"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "andrew-lumisden-antiquities-of-rome": [
+   "remarksonantiqu00lumigoog",
+   "Remarks on the Antiquities of Rome and its Environs, being a classical and topographical survey of the ruins of that celebrated city, by Andrew Lumisden, second edition (London: W. Bulmer for G. and W. Nicol; IA catalogues 1812)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "andrew-lumisden-antiquities-of-rome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lumisden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

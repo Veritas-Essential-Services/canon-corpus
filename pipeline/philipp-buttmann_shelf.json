@@ -1,0 +1,39 @@
+{
+ "_about": "Philipp Buttmann (1764-1829), Berlin grammarian and librarian, raw IA OCR of A Catalogue of Irregular Greek Verbs, tr. J. R. Fishlake (1837). Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Philipp Buttmann",
+ "_name_words": [
+  "buttmann"
+ ],
+ "_surname": [
+  "philip buttmann",
+  "buttmann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "philipp-buttmann-irregular-greek-verbs-1837": [
+   "catalogueofirreg00buttuoft",
+   "A Catalogue of Irregular Greek Verbs, with all the tenses extant, their formation, meaning, and usage, by Philip Buttmann, translated and edited by J. R. Fishlake (London: John Murray, 1837)",
+   "tr. J. R. Fishlake"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "philipp-buttmann-irregular-greek-verbs-1837": "J. R. Fishlake"
+ },
+ "_checks": {
+  "philipp-buttmann-irregular-greek-verbs-1837": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buttmann",
+   "translator_claimed": "J. R. Fishlake",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

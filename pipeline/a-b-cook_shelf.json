@@ -1,0 +1,91 @@
+{
+ "_about": "Arthur Bernard Cook (1868-1952), Laurence Professor of Classical Archaeology at Cambridge. Classical scholarship (lane B). Raw IA OCR: The Metaphysical Basis of Plato's Ethics (Cambridge: Deighton, Bell, 1895; Cornell scan) and Zeus, a Study in Ancient Religion, vol. I, Zeus God of the Bright Sky (Cambridge University Press, 1914), and vol. II, Zeus God of the Dark Sky (Thunder and Lightning), parts I and II (1925). Greek quotations throughout. Not taken: Zeus vol. III (1940), after the cutoff. US public domain. No uids minted.",
+ "_author": "Arthur Bernard Cook",
+ "_name_words": [
+  "arthur",
+  "bernard",
+  "cook"
+ ],
+ "_surname": [
+  "a. b. cook",
+  "arthur bernard cook",
+  "arthur b. cook",
+  "bernard cook"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cook-metaphysical-basis-platos-ethics-1895": [
+   "cu31924028994965",
+   "The Metaphysical Basis of Plato's Ethics (Deighton, Bell, 1895)"
+  ],
+  "cook-zeus-1-1914": [
+   "CookABZeusAncientReligionV01",
+   "Zeus, a Study in Ancient Religion, vol. I (Cambridge, 1914)",
+   "Cook-A-B_zeus-ancient-religion-v01_djvu.txt"
+  ],
+  "cook-zeus-2-1-1925": [
+   "in.ernet.dli.2015.284030",
+   "Zeus, a Study in Ancient Religion, vol. II part I (Cambridge, 1925)",
+   "2015.284030.Zeus-A_djvu.txt"
+  ],
+  "cook-zeus-2-2-1925": [
+   "p2zeusstudyinanc02cookuoft",
+   "Zeus, a Study in Ancient Religion, vol. II part II (Cambridge, 1925)"
+  ]
+ },
+ "_excluded": {
+  "Zeus vol. III (1940)": "published after 1930",
+  "IA zeusstudyinancie01cookuoft": "vol. I Toronto scan: title-page year illegible in the OCR; a scan whose title page reads 1914 used instead"
+ },
+ "_rights_checked": {
+  "cook-zeus-2-2-1925": "title page read 2026-10-23: Cambridge, at the University Press, 1925 (vol. II part II); IA's date 1914-1940 is the whole set's span"
+ },
+ "_checks": {
+  "cook-metaphysical-basis-platos-ethics-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur bernard cook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cook-zeus-1-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur bernard cook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cook-zeus-2-1-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. b. cook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cook-zeus-2-2-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. b. cook",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1940",
+   "ia_date": "1914-1940",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read 2026-10-23: Cambridge, at the University Press, 1925 (vol. II part II); IA's date 1914-1940 is the whole set's span"
+  }
+ }
+}

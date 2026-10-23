@@ -1,0 +1,89 @@
+{
+ "_about": "A. C. Pearson (1861-1935), Cambridge Greek scholar, later Regius Professor of Greek, raw IA OCR: The Fragments of Zeno and Cleanthes, with introduction and explanatory notes, the Hare Prize essay of 1889 (London: C. J. Clay / Cambridge University Press Warehouse, 1891); and his Cambridge editions of Euripides with introduction, notes and English commentary: Helena (1903), Heraclidae (1907), Phoenissae (1909). Not taken: The Fragments of Sophocles (1917, completing Jebb and Headlam), because both IA scans (cuafragmentsofso01soph, -02soph) OCR the English as Greek letters (clean ratio 0.000) and no third volume is on IA; revisit with the later Greek OCR pass. Greek-dense volumes kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dv). No uids minted.",
+ "_author": "Alfred Chilton Pearson (1861-1935)",
+ "_name_words": [
+  "pearson"
+ ],
+ "_surname": [
+  "a. c. pearson",
+  "alfred chilton pearson",
+  "pearson, a. c."
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "a-c-pearson-zeno-cleanthes-1891": [
+   "thefragmentsofze00zenouoft",
+   "The Fragments of Zeno and Cleanthes, with introduction and explanatory notes, an essay which obtained the Hare Prize in 1889, by A. C. Pearson (London: C. J. Clay and Sons, Cambridge University Press Warehouse, 1891)"
+  ],
+  "a-c-pearson-euripides-helena-1903": [
+   "helena__00euriuoft",
+   "The Helena of Euripides, edited with introduction, notes and critical appendix by A. C. Pearson (Cambridge: University Press, 1903)"
+  ],
+  "a-c-pearson-euripides-heraclidae-1907": [
+   "heraclidae00euri",
+   "The Heraclidae of Euripides, edited with introduction, notes and critical appendix by A. C. Pearson (Cambridge: University Press, 1907)"
+  ],
+  "a-c-pearson-euripides-phoenissae-1909": [
+   "phoenissaeedited00euriuoft",
+   "The Phoenissae of Euripides, edited with introduction, notes and critical appendix by A. C. Pearson (Cambridge: University Press, 1909)"
+  ]
+ },
+ "_excluded": {
+  "Fragments of Sophocles (1917), vols I-II": "cuafragmentsofso01soph and cuafragmentsofso02soph OCR the English as Greek letters (clean 0.000); vol III not on IA. Revisit after the Greek re-OCR."
+ },
+ "_checks": {
+  "a-c-pearson-zeno-cleanthes-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. pearson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "a-c-pearson-euripides-helena-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "a-c-pearson-euripides-heraclidae-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. c. pearson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "a-c-pearson-euripides-phoenissae-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "a-c-pearson-euripides-helena-1903": {
+   "author": "title page OCRs the editor as '~. €.. PRAKSON,-MA. LATE SCHOLAR OF CHRIST'S COLLEGE, CAMBRIDGE' (Cambridge: University Press, 1903)"
+  },
+  "a-c-pearson-euripides-phoenissae-1909": {
+   "author": "title page OCRs the editor as 'Aa, {PEARSON} M.A.' (Cambridge: University Press, 1909)"
+  }
+ }
+}

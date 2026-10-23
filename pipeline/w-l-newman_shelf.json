@@ -1,0 +1,86 @@
+{
+ "_about": "W. L. Newman (1834-1923), Fellow of Balliol and Reader in Ancient History at Oxford: The Politics of Aristotle, with an introduction, two prefatory essays and notes critical and explanatory (Oxford: Clarendon Press, 4 vols., 1887-1902), the standard English commentary: vol. I introduction, vol. II prefatory essays and Books I-II, vols. III-IV the remaining books, Greek text with English notes, kept per Adam's 2026-10-23 ruling; raw IA.",
+ "_author": "William Lambert Newman (1834-1923)",
+ "_name_words": [
+  "newman",
+  "politics",
+  "aristotle"
+ ],
+ "_surname": [
+  "w. l. newman",
+  "william lambert newman",
+  "newman, w. l"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-l-newman-politics-of-aristotle-1887-v1": [
+   "politicsofarist01arisuoft",
+   "The Politics of Aristotle, with an introduction, two prefatory essays and notes critical and explanatory, vol. I: Introduction (Oxford: Clarendon Press, 1887)"
+  ],
+  "w-l-newman-politics-of-aristotle-1887-v2": [
+   "cu31924005693605",
+   "The Politics of Aristotle, vol. II: Prefatory Essays, Books I and II, text and notes (Oxford: Clarendon Press, 1887); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-l-newman-politics-of-aristotle-1902-v3": [
+   "politicsofaristo03aris",
+   "The Politics of Aristotle, vol. III: Two Essays, Books III, IV and V, text and notes (Oxford: Clarendon Press, 1902); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "w-l-newman-politics-of-aristotle-1902-v4": [
+   "politicsofaristo04arisuoft",
+   "The Politics of Aristotle, vol. IV: Essay on Constitutions, Books VI-VIII, text and notes (Oxford: Clarendon Press, 1902); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-l-newman-politics-of-aristotle-1887-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-l-newman-politics-of-aristotle-1887-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-l-newman-politics-of-aristotle-1902-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "w-l-newman-politics-of-aristotle-1902-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. l. newman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1887-1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "w-l-newman-politics-of-aristotle-1887-v1": {
+   "author": "title page read in the OCR 2026-10-23: 'THE POLITICS OF ARISTOTLE WITH AN INTRODUCTION, TWO PREFATORY ESSAYS AND NOTES CRITICAL AND EXPLANATORY BY We EPONEWMAN, MA: FELLOW OF BALLIOL COLLEGE', spine 'NEWMAN VOL. I', i.e. W. L. Newman, the initials garbled; same imprint and wording as vol. II, which reads 'W. L. NEWMAN'"
+  }
+ }
+}

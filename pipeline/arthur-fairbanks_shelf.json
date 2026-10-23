@@ -1,0 +1,99 @@
+{
+ "_about": "Arthur Fairbanks (1864-1944), classical archaeologist and Director of the Boston Museum of Fine Arts: The Mythology of Greece and Rome (1907), A Handbook of Greek Religion (1910), Athenian Lekythoi (1907), A Study of the Greek Paean (1900), and Greek Gods and Heroes (MFA, 1915). His First Philosophers of Greece (1898) is already on the presocratics shelf; his sociology is outside lane B. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Arthur Fairbanks (1864-1944)",
+ "_name_words": [
+  "fairbanks",
+  "greek",
+  "mythology",
+  "religion",
+  "lekythoi",
+  "paean"
+ ],
+ "_surname": [
+  "fairbanks"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fairbanks-mythology-greece-rome-1907": [
+   "mythologyofgreec00fair",
+   "The Mythology of Greece and Rome, presented with special reference to its influence on literature (1907)"
+  ],
+  "fairbanks-handbook-greek-religion-1910": [
+   "handbookofgreekr00fairiala",
+   "A Handbook of Greek Religion (1910)"
+  ],
+  "fairbanks-athenian-lekythoi-1907": [
+   "athenianlekythoi00fair",
+   "Athenian Lekythoi with Outline Drawing in Glaze Varnish on a White Ground (1907)"
+  ],
+  "fairbanks-greek-paean-1900": [
+   "astudygreekpanw00fairgoog",
+   "A Study of the Greek Paean (1900)"
+  ],
+  "fairbanks-greek-gods-heroes-1915": [
+   "greekgodsandher00fairgoog",
+   "Greek Gods and Heroes as Represented in the Classical Collections of the Museum of Fine Arts (1915)"
+  ]
+ },
+ "_excluded": {
+  "The First Philosophers of Greece (1898)": "held on the presocratics shelf"
+ },
+ "_checks": {
+  "fairbanks-mythology-greece-rome-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fairbanks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fairbanks-handbook-greek-religion-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fairbanks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[1910]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbanks-athenian-lekythoi-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fairbanks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbanks-greek-paean-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fairbanks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fairbanks-greek-gods-heroes-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fairbanks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

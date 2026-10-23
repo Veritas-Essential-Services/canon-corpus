@@ -1,0 +1,51 @@
+{
+ "_about": "Helen McClees: The Daily Life of the Greeks and Romans as Illustrated in the Classical Collections (Metropolitan Museum of Art, 1924). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.  Round ea adds A Study of Women in Attic Inscriptions (1920).",
+ "_author": "Helen McClees (1885-)",
+ "_name_words": [
+  "mcclees",
+  "helen",
+  "daily",
+  "life",
+  "greeks",
+  "romans"
+ ],
+ "_surname": [
+  "mcclees"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mcclees-daily-life-greeks-romans-1924": [
+   68231,
+   "The Daily Life of the Greeks and Romans (New York: Metropolitan Museum of Art, 1924)"
+  ]
+ },
+ "internet_archive": {
+  "helen-mcclees-women-in-attic-inscriptions-1920": [
+   "astudywomeninat00maccgoog",
+   "A Study of Women in Attic Inscriptions, by Helen McClees (Columbia University Studies in Classical Philology; New York: Columbia University Press, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mcclees-daily-life-greeks-romans-1924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcclees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "helen-mcclees-women-in-attic-inscriptions-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcclees",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "_about": "Edward Capps (1866-1950), Princeton Hellenist and Loeb editor: From Homer to Theocritus (1901) and The Stage in the Greek Theatre (1891).",
+ "_author": "Edward Capps (1866-1950)",
+ "_name_words": [
+  "capps",
+  "homer",
+  "theocritus",
+  "stage",
+  "greek",
+  "theatre"
+ ],
+ "_surname": [
+  "capps"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "capps-homer-to-theocritus-1901": [
+   "homertotheocritu00capprich",
+   "From Homer to Theocritus: an Outline History of Classical Greek Literature with Selected Translations (1900)"
+  ],
+  "capps-stage-greek-theatre-1891": [
+   "stageingreekthea00capp",
+   "The Stage in the Greek Theatre according to the Extant Dramas (1891)"
+  ]
+ },
+ "_excluded": {
+  "fromhomertotheo00cappgoog (IA)": "fetch failed 2026-10-23; the 1900 printing homertotheocritu00capprich used instead"
+ },
+ "_checks": {
+  "capps-homer-to-theocritus-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "capps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "[1900]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "capps-stage-greek-theatre-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "capps",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

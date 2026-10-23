@@ -40,6 +40,14 @@
    "daphnischloeeliz00long",
    "Daphnis and Chloe: the Elizabethan version from Amyot's translation by Angel Day (1587), reprinted from the unique original and edited by Joseph Jacobs (London: David Nutt, 1890)",
    "tr. Angel Day"
+  ],
+  "achilles-tatius-gaselee-1917": [
+   "achillestatiuswi00achiuoft",
+   "Achilles Tatius, tr. S. Gaselee (Loeb, 1917); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "longus-thornley-edmonds-1916": [
+   "daphnischloewith00longuoft",
+   "Daphnis and Chloe, Thornley's translation revised and augmented by J. M. Edmonds; Parthenius, tr. S. Gaselee (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_surname": [
@@ -53,12 +61,14 @@
  "_translators": {
   "greek-romances-smith": "Rowland Smith",
   "heliodorus-underdowne-wright": "Thomas Underdowne",
-  "longus-day-1890": "angel day"
+  "longus-day-1890": "angel day",
+  "achilles-tatius-gaselee-1917": "S. Gaselee",
+  "longus-thornley-edmonds-1916": "Edmonds"
  },
  "_checks": {
   "greek-romances-smith": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "heliodorus",
    "translator_claimed": "Rowland Smith",
@@ -70,7 +80,7 @@
   },
   "heliodorus-underdowne-wright": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "heliodorus",
    "translator_claimed": "Thomas Underdowne",
@@ -83,7 +93,7 @@
   },
   "chariton-1764-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chariton",
    "identity": "ok",
@@ -94,7 +104,7 @@
   },
   "chariton-1764-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "chariton",
    "identity": "ok",
@@ -105,7 +115,7 @@
   },
   "xenophon-ephesius-1727": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "abrocomas",
    "identity": "ok",
@@ -116,7 +126,7 @@
   },
   "longus-day-1890": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "heliodorus",
    "translator_claimed": "angel day",
@@ -125,6 +135,32 @@
    "ia_rights": "ok: published 1890",
    "ia_date": "1890",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "achilles-tatius-gaselee-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heliodorus",
+   "translator_claimed": "S. Gaselee",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "longus-thornley-edmonds-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heliodorus",
+   "translator_claimed": "Edmonds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },

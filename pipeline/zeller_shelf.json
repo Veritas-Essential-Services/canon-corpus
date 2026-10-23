@@ -1,11 +1,13 @@
 {
- "_about": "Eduard Zeller (1814-1908) in English, tr. Oswald J. Reichel (1840-1923). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Stoics, Epicureans and Sceptics, clean Gutenberg. No uids minted.",
+ "_about": "Eduard Zeller (1814-1908) in English, tr. Oswald J. Reichel (1840-1923). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Stoics, Epicureans and Sceptics, clean Gutenberg. Round du (2026-10-23), raw IA: the rest of Zeller's Philosophy of the Greeks in English, all Longmans: A History of Greek Philosophy to the Time of Socrates (2 vols, tr. S. F. Alleyne, 1881), Socrates and the Socratic Schools (tr. Reichel, 3rd ed. revised, 1885), Plato and the Older Academy (tr. Alleyne and Alfred Goodwin, new ed., 1888), Aristotle and the Earlier Peripatetics (2 vols, tr. B. F. C. Costelloe and J. H. Muirhead, 1897), A History of Eclecticism in Greek Philosophy (tr. Alleyne, 1883), and the Outlines of the History of Greek Philosophy (tr. Alleyne and Evelyn Abbott, 1886). Not taken: his theological works (Strauss and Renan, The Contents and Origin of the Acts), which belong to the divines lanes. No uids minted.",
  "_name_words": [
   "zeller"
  ],
  "_surname": [
   "eduard zeller",
-  "zeller, eduard"
+  "zeller, eduard",
+  "e. zeller",
+  "dr. zeller"
  ],
  "ccel": {},
  "gutenberg": {
@@ -15,14 +17,52 @@
    "tr. Oswald J. Reichel"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "zeller-socrates-socratic-schools-1885": [
+   "socratesandsocr01zellgoog",
+   "Socrates and the Socratic Schools, translated from the third German edition by Oswald J. Reichel, third edition, carefully revised (London: Longmans, Green, 1885)"
+  ],
+  "zeller-plato-older-academy-1888": [
+   "platoandtheolder00zelluoft",
+   "Plato and the Older Academy, translated by Sarah Frances Alleyne and Alfred Goodwin, new edition (London: Longmans, Green, 1888)"
+  ],
+  "zeller-pre-socratic-v1-1881": [
+   "cu31924032290920",
+   "A History of Greek Philosophy from the Earliest Period to the Time of Socrates, translated by S. F. Alleyne, vol. I (London: Longmans, Green, 1881)"
+  ],
+  "zeller-pre-socratic-v2-1881": [
+   "trent_0116302121540_2",
+   "A History of Greek Philosophy from the Earliest Period to the Time of Socrates, translated by S. F. Alleyne, vol. II (London: Longmans, Green, 1881)"
+  ],
+  "zeller-eclecticism-1883": [
+   "zellershistoryof00zelluoft",
+   "A History of Eclecticism in Greek Philosophy, translated by S. F. Alleyne (London: Longmans, Green, 1883)"
+  ],
+  "zeller-outlines-greek-philosophy-1886": [
+   "outlinesofthehis00zelluoft",
+   "Outlines of the History of Greek Philosophy, translated by Sarah Frances Alleyne and Evelyn Abbott (London: Longmans, Green, 1886)"
+  ],
+  "zeller-aristotle-peripatetics-v1-1897": [
+   "aristotleandperi01zelluoft",
+   "Aristotle and the Earlier Peripatetics, translated by B. F. C. Costelloe and J. H. Muirhead, vol. I (London: Longmans, Green, 1897)"
+  ],
+  "zeller-aristotle-peripatetics-v2-1897": [
+   "cu31924032291647",
+   "Aristotle and the Earlier Peripatetics, translated by B. F. C. Costelloe and J. H. Muirhead, vol. II (London: Longmans, Green, 1897)"
+  ]
+ },
  "_translators": {
-  "zeller-stoics-epicureans-sceptics": "Oswald J. Reichel"
+  "zeller-stoics-epicureans-sceptics": "Oswald J. Reichel",
+  "zeller-socrates-socratic-schools-1885": "Oswald J. Reichel",
+  "zeller-plato-older-academy-1888": "Sarah Frances Alleyne",
+  "zeller-eclecticism-1883": "S. F. Alleyne",
+  "zeller-outlines-greek-philosophy-1886": "Sarah Frances Alleyne",
+  "zeller-aristotle-peripatetics-v1-1897": "B. F. C. Costelloe"
  },
  "_checks": {
   "zeller-stoics-epicureans-sceptics": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eduard zeller",
    "translator_claimed": "Oswald J. Reichel",
@@ -31,6 +71,118 @@
    "pg_copyrighted": false,
    "pg_translator": "Oswald J. Reichel",
    "translator_match": true
+  },
+  "zeller-socrates-socratic-schools-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Oswald J. Reichel",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zeller-plato-older-academy-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eduard zeller",
+   "translator_claimed": "Sarah Frances Alleyne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zeller-pre-socratic-v1-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. zeller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zeller-pre-socratic-v2-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eduard zeller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zeller-eclecticism-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. zeller",
+   "translator_claimed": "S. F. Alleyne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zeller-outlines-greek-philosophy-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. zeller",
+   "translator_claimed": "Sarah Frances Alleyne",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zeller-aristotle-peripatetics-v1-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. zeller",
+   "translator_claimed": "B. F. C. Costelloe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zeller-aristotle-peripatetics-v2-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. zeller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "zeller-pre-socratic-v1-1881": {
+   "translator": "title page OCRs the translator as '8. F. ALLEYNE' under 'D? E. ZELLER', IN TWO VOLUMES, VOL. I (Longmans, Green, 1881)"
+  },
+  "zeller-pre-socratic-v2-1881": {
+   "translator": "title page OCRs the translator as 'Ss. F. ALLEYNE' under 'D? E. ZELLER', IN TWO VOLUMES, VOL. II (Longmans, Green, 1881)"
+  },
+  "zeller-aristotle-peripatetics-v2-1897": {
+   "translator": "title page OCRs the translators as 'B. F. Cc. COSTELLOE, M.A.' and 'J. H. MUIRHEAD, M.A.', IN TWO VOLUMES, VOL. II (Longmans, Green, 1897)"
+  },
+  "zeller-socrates-socratic-schools-1885": {
+   "author": "title page OCRs the author as 'NEWLY TRANSLATED FROM THE THIRD GERM. EDITION OF DE ENZELLER, BY OSWALD J. REICHEL, B.C.L. & M.A.' (Longmans, Green, 1885); the facing list reads 'WORKS BY DRE. ZELLER'"
   }
  }
 }

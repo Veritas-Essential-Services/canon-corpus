@@ -1,0 +1,51 @@
+{
+ "_about": "Walther Amelung and Heinrich Holtzinger: The Museums and Ruins of Rome, English edition revised by the authors, ed. Mrs. S. Arthur Strong (2 vols., 1906; this printing 1912). Vol. I (museums) is Amelung's, vol. II (ruins) Holtzinger's. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Walther Amelung (1865-1927) and Heinrich Holtzinger",
+ "_name_words": [
+  "amelung",
+  "holtzinger",
+  "museums",
+  "ruins",
+  "rome"
+ ],
+ "_surname": [
+  "amelung"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "amelung-museums-ruins-rome-vol-1": [
+   "museumsruinsofro01amel_0",
+   "The Museums and Ruins of Rome, vol. I: The Museums (1906; this printing 1912)"
+  ],
+  "amelung-museums-ruins-rome-vol-2": [
+   "museumsruinsofro02amel_0",
+   "The Museums and Ruins of Rome, vol. II: The Ruins (1906; this printing 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "amelung-museums-ruins-rome-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amelung",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "amelung-museums-ruins-rome-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amelung",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

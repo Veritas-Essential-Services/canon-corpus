@@ -1,0 +1,36 @@
+{
+ "_about": "Helen Cox Bowerman: Roman Sacrificial Altars, an Archaeological Study of Monuments in Rome (Bryn Mawr dissertation, 1913). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Helen Cox Bowerman (1878-)",
+ "_name_words": [
+  "bowerman",
+  "helen",
+  "roman",
+  "sacrificial",
+  "altars"
+ ],
+ "_surname": [
+  "bowerman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bowerman-roman-sacrificial-altars-1913": [
+   "romansacrificial01bowe",
+   "Roman Sacrificial Altars (1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bowerman-roman-sacrificial-altars-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bowerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
