@@ -2183,3 +2183,6 @@
 
 ## 2026-10-22 22:49 CDT — charles-w-whistler: done
 - charles-w-whistler: new shelf, 8 Gutenberg books, 16,054 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — allen-upward: done
+- allen-upward: new shelf, 8 Gutenberg books, 14,748 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -5037,6 +5037,14 @@
       "started": "2026-10-22T22:49:57-05:00",
       "finished": "2026-10-22T22:49:57-05:00",
       "notes": "charles-w-whistler: new shelf, 8 Gutenberg books, 16,054 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "allen-upward",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Allen Upward; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:58-05:00",
+      "finished": "2026-10-22T22:49:58-05:00",
+      "notes": "allen-upward: new shelf, 8 Gutenberg books, 14,748 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

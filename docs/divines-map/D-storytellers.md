@@ -16229,3 +16229,18 @@ Shelf: `pipeline/charles-w-whistler_shelf.json` (2026-10-22; added at the coordi
 | King Alfred's Viking: A Story of the First English Fleet | have | PG 14034, `cwwhistler-king-alfreds-viking` (2009 units) |
 | A Sea Queen's Sailing | have | PG 15951, `cwwhistler-sea-queens-sailing` (1694 units) |
 | King Olaf's Kinsman A Story of the Last Saxon Struggle against the Danes in the Days of Ironside and Cnut | have | PG 16196, `cwwhistler-king-olafs-kinsman-a-story-of-the-last-saxon-stru` (2515 units) |
+
+## Allen Upward
+
+Shelf: `pipeline/allen-upward_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Athelstane Ford | have | PG 26677, `aupward-athelstane-ford` (1399 units) |
+| The International Spy Being the Secret History of the Russo-Japanese War | have | PG 30482, `aupward-international-spy-being-the-secret-history-of-the-ru` (2503 units) |
+| The Queen Against Owen | have | PG 30910, `aupward-queen-against-owen` (1100 units) |
+| Secret History of To-day: Being Revelations of a Diplomatic Spy | have | PG 66181, `aupward-secret-history-of-to-day` (2126 units) |
+| Lord Alistair's Rebellion | have | PG 66617, `aupward-lord-alistairs-rebellion` (2105 units) |
+| The Slaves of Society: A Comedy in Covers | have | PG 67606, `aupward-slaves-of-society` (1508 units) |
+| The club of masks | have | PG 69845, `aupward-club-of-masks` (1734 units) |
+| A crown of straw | have | PG 73325, `aupward-crown-of-straw` (2273 units) |
