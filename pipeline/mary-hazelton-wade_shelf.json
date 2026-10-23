@@ -1,0 +1,277 @@
+{
+ "_about": "Mary Hazelton Wade's Little Cousins books and biographies for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary Hazelton Blanchard Wade",
+ "_name_words": [
+  "hazelton",
+  "mary",
+  "wade"
+ ],
+ "_surname": [
+  "mary hazelton wade",
+  "hazelton wade",
+  "m. h. wade"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mhwade-bertha-our-little-german-cousin": [
+   13470,
+   "Bertha, Our Little German Cousin"
+  ],
+  "mhwade-timid-hare": [
+   14784,
+   "Timid Hare: The Little Captive"
+  ],
+  "mhwade-little-folks-of-north-america-stories-about-children": [
+   37280,
+   "Little Folks of North America Stories about children living in the different parts of North America"
+  ],
+  "mhwade-mpuke-our-little-african-cousin": [
+   41976,
+   "Mpuke, Our Little African Cousin"
+  ],
+  "mhwade-our-little-irish-cousin": [
+   41978,
+   "Our Little Irish Cousin"
+  ],
+  "mhwade-mari-our-little-norwegian-cousin": [
+   42079,
+   "Mari, Our Little Norwegian Cousin"
+  ],
+  "mhwade-our-little-turkish-cousin": [
+   42204,
+   "Our Little Turkish Cousin"
+  ],
+  "mhwade-yellow-thunder-our-little-indian-cousin": [
+   43251,
+   "Yellow Thunder, Our Little Indian Cousin"
+  ],
+  "mhwade-tessa-our-little-italian-cousin": [
+   43252,
+   "Tessa, Our Little Italian Cousin"
+  ],
+  "mhwade-our-little-hawaiian-cousin": [
+   43462,
+   "Our Little Hawaiian Cousin"
+  ],
+  "mhwade-our-little-jewish-cousin": [
+   43585,
+   "Our Little Jewish Cousin"
+  ],
+  "mhwade-our-little-cuban-cousin": [
+   43636,
+   "Our Little Cuban Cousin"
+  ],
+  "mhwade-our-little-swiss-cousin": [
+   43639,
+   "Our Little Swiss Cousin"
+  ],
+  "mhwade-our-little-german-cousin": [
+   43832,
+   "Our Little German Cousin"
+  ],
+  "mhwade-our-little-japanese-cousin": [
+   43833,
+   "Our Little Japanese Cousin"
+  ],
+  "mhwade-alila-our-little-philippine-cousin": [
+   43885,
+   "Alila, Our Little Philippine Cousin"
+  ],
+  "mhwade-our-little-siamese-cousin": [
+   43908,
+   "Our Little Siamese Cousin"
+  ],
+  "mhwade-our-little-russian-cousin": [
+   45845,
+   "Our Little Russian Cousin"
+  ],
+  "mhwade-our-little-porto-rican-cousin": [
+   45995,
+   "Our Little Porto Rican Cousin"
+  ],
+  "mhwade-our-little-eskimo-cousin": [
+   46484,
+   "Our Little Eskimo Cousin"
+  ],
+  "mhwade-coming-of-the-white-men": [
+   55959,
+   "The Coming of the White Men: Stories of How Our Country Was Discovered"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mhwade-bertha-our-little-german-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-mpuke-our-little-african-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-irish-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-mari-our-little-norwegian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-turkish-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-yellow-thunder-our-little-indian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-tessa-our-little-italian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-hawaiian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-jewish-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-cuban-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-swiss-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-german-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-japanese-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-alila-our-little-philippine-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-siamese-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-russian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-porto-rican-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-our-little-eskimo-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-coming-of-the-white-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -3877,6 +3877,14 @@
       "started": "2026-10-22T22:15:15-05:00",
       "finished": "2026-10-22T22:15:15-05:00",
       "notes": "ridgwell-cullum: new shelf, 21 Gutenberg books, 51,427 units, 160 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-hazelton-wade",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Hazelton Blanchard Wade; no minting",
+      "status": "done-with-defects",
+      "started": "2026-10-22T22:15:16-05:00",
+      "finished": "2026-10-22T22:15:16-05:00",
+      "notes": "mary-hazelton-wade: new shelf, 19 Gutenberg books, 10,802 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags; 2 failed to fetch."
     }
   ]
 }

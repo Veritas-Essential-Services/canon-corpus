@@ -38319,3 +38319,31 @@ Shelf: `pipeline/ridgwell-cullum_shelf.json` (2026-10-22; added at the coordinat
 | The Saint of the Speedway | have | PG 62533, `rcullum-saint-of-the-speedway` (1835 units) |
 | The riddle of Three-Way Creek | have | PG 74048, `rcullum-riddle-of-three-way-creek` (2236 units) |
 | The wolf pack | have | PG 74478, `rcullum-wolf-pack` (2104 units) |
+
+## Mary Hazelton Blanchard Wade
+
+Shelf: `pipeline/mary-hazelton-wade_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Books for young readers. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bertha, Our Little German Cousin | have | PG 13470, `mhwade-bertha-our-little-german-cousin` (489 units) |
+| Timid Hare: The Little Captive | pending | PG 14784, `mhwade-timid-hare` (fetch failed) |
+| Little Folks of North America Stories about children living in the different parts of North America | pending | PG 37280, `mhwade-little-folks-of-north-america-stories-about-children` (fetch failed) |
+| Mpuke, Our Little African Cousin | have | PG 41976, `mhwade-mpuke-our-little-african-cousin` (420 units) |
+| Our Little Irish Cousin | have | PG 41978, `mhwade-our-little-irish-cousin` (670 units) |
+| Mari, Our Little Norwegian Cousin | have | PG 42079, `mhwade-mari-our-little-norwegian-cousin` (607 units) |
+| Our Little Turkish Cousin | have | PG 42204, `mhwade-our-little-turkish-cousin` (620 units) |
+| Yellow Thunder, Our Little Indian Cousin | have | PG 43251, `mhwade-yellow-thunder-our-little-indian-cousin` (438 units) |
+| Tessa, Our Little Italian Cousin | have | PG 43252, `mhwade-tessa-our-little-italian-cousin` (770 units) |
+| Our Little Hawaiian Cousin | have | PG 43462, `mhwade-our-little-hawaiian-cousin` (448 units) |
+| Our Little Jewish Cousin | have | PG 43585, `mhwade-our-little-jewish-cousin` (556 units) |
+| Our Little Cuban Cousin | have | PG 43636, `mhwade-our-little-cuban-cousin` (561 units) |
+| Our Little Swiss Cousin | have | PG 43639, `mhwade-our-little-swiss-cousin` (756 units) |
+| Our Little German Cousin | have | PG 43832, `mhwade-our-little-german-cousin` (709 units) |
+| Our Little Japanese Cousin | have | PG 43833, `mhwade-our-little-japanese-cousin` (296 units) |
+| Alila, Our Little Philippine Cousin | have | PG 43885, `mhwade-alila-our-little-philippine-cousin` (467 units) |
+| Our Little Siamese Cousin | have | PG 43908, `mhwade-our-little-siamese-cousin` (715 units) |
+| Our Little Russian Cousin | have | PG 45845, `mhwade-our-little-russian-cousin` (410 units) |
+| Our Little Porto Rican Cousin | have | PG 45995, `mhwade-our-little-porto-rican-cousin` (357 units) |
+| Our Little Eskimo Cousin | have | PG 46484, `mhwade-our-little-eskimo-cousin` (488 units) |
+| The Coming of the White Men: Stories of How Our Country Was Discovered | have | PG 55959, `mhwade-coming-of-the-white-men` (1025 units) |
