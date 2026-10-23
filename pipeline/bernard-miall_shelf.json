@@ -1,10 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: Bernard Miall (1876-1953): Nexø's Pelle the Conqueror (with Jessie Muir, 1913-16), Rolland's Tolstoy (1911), Maeterlinck's Poems (1915), Fabre and his biographers, Brieux, and wartime and Latin-American history. Only his translations printed before 1931 are shelved. US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Bernard Miall (1876-1953): Nexø's Pelle the Conqueror (with Jessie Muir, 1913-16), Rolland's Tolstoy (1911), Maeterlinck's Poems (1915), Fabre and his biographers, Brieux, and wartime and Latin-American history. Only his translations printed before 1931 are shelved. US public domain. Added 2026-10-10 by lane C (round 20); Adam may veto. No uids minted. Round 131 (2026-10-23, vetoable) added twenty-six archive.org books Gutenberg lacks: Maeterlinck (Sister Beatrice and Ardiane and Barbe Bleue; The Great Secret), Le Bon (The Psychology of Revolution; The World in Revolt), Rolland's A Musical Tour through the Land of the Past, Anatole France's On Life and Letters (fourth series), Bismarck's New Chapters, Bernstein's My Years of Exile, Alexinsky x3, Poincaré, Sabatier, Hamon, Amar, Héricourt, Müller-Freienfels, and travel and wartime books (Bertrand, d'Ollone, Cabaton, Walle, Hérubel, Barthez, Gerlache, Massart, Sauter).",
  "_name_words": [
-  "bernard miall"
+  "bernard miall",
+  "a. b. miall"
  ],
  "_surname": [
-  "bernard miall"
+  "bernard miall",
+  "a. b. miall"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -50,7 +52,114 @@
    "Pelle the Conqueror — Complete"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mia-maeterlinck-sister-beatrice": [
+   "sisterbeatricear00maetiala",
+   "Sister Beatrice and Ardiane and Barbe Bleue"
+  ],
+  "mia-maeterlinck-great-secret": [
+   "greatsecret00maetiala",
+   "The Great Secret"
+  ],
+  "mia-lebon-psychology-of-revolution": [
+   "cu31924024309753",
+   "The Psychology of Revolution"
+  ],
+  "mia-lebon-world-in-revolt": [
+   "worldinrevoltpsy00lebo",
+   "The World in Revolt"
+  ],
+  "mia-rolland-musical-tour": [
+   "musicaltourthrou00roll",
+   "A Musical Tour through the Land of the Past"
+  ],
+  "mia-france-on-life-and-letters-4": [
+   "onlifelettersbya0000mial",
+   "On Life and Letters, fourth series"
+  ],
+  "mia-bismarck-new-chapters": [
+   "newchaptersofhis00bismuoft",
+   "New Chapters of Bismarck's Autobiography"
+  ],
+  "mia-bernstein-my-years-of-exile": [
+   "myyearsofexilere00bernuoft",
+   "My Years of Exile"
+  ],
+  "mia-alexinsky-modern-russia": [
+   "modernrussia00alek",
+   "Modern Russia"
+  ],
+  "mia-alexinsky-russia-and-the-great-war": [
+   "russiagreatwar00alek",
+   "Russia and the Great War"
+  ],
+  "mia-alexinsky-russia-and-europe": [
+   "russiaeurope00alekuoft",
+   "Russia and Europe"
+  ],
+  "mia-poincare-how-france-is-governed": [
+   "howfranceisgover00poiniala",
+   "How France Is Governed"
+  ],
+  "mia-sabatier-frenchmans-thoughts": [
+   "frenchmansthough00sabauoft",
+   "A Frenchman's Thoughts on the War"
+  ],
+  "mia-hamon-lessons-of-the-world-war": [
+   "lessonsofworldwa00hamoiala",
+   "Lessons of the World-War"
+  ],
+  "mia-amar-physiology-of-industrial-organisation": [
+   "physiologyofindu00amariala",
+   "The Physiology of Industrial Organisation"
+  ],
+  "mia-hericourt-social-diseases": [
+   "socialdiseasestu00heriiala",
+   "The Social Diseases"
+  ],
+  "mia-muller-freienfels-mysteries-of-the-soul": [
+   "in.ernet.dli.2015.218670",
+   "Mysteries of the Soul",
+   "2015.218670.Mysteries-Of_djvu.txt"
+  ],
+  "mia-bertrand-kingdom-of-the-barotsi": [
+   "kingdomofbarotsi00bert",
+   "The Kingdom of the Barotsi"
+  ],
+  "mia-dollone-in-forbidden-china": [
+   "forbiddenchina00olloiala",
+   "In Forbidden China"
+  ],
+  "mia-cabaton-java-sumatra": [
+   "javasumatraother00cabauoft",
+   "Java, Sumatra and the Other Islands of the Dutch East Indies"
+  ],
+  "mia-walle-bolivia": [
+   "boliviaitspeople00walluoft",
+   "Bolivia"
+  ],
+  "mia-herubel-sea-fisheries": [
+   "seafisheriesthei00hrrich",
+   "Sea Fisheries"
+  ],
+  "mia-barthez-empress-eugenie": [
+   "empresseugnieh00bart",
+   "The Empress Eugénie and Her Circle"
+  ],
+  "mia-gerlache-belgium-in-war-time": [
+   "belgiuminwartime00gerlrich",
+   "Belgium in War Time"
+  ],
+  "mia-massart-secret-press-in-belgium": [
+   "secretpressinbel00massrich",
+   "The Secret Press in Belgium"
+  ],
+  "mia-sauter-among-the-brahmins": [
+   "india.history.resource.89036",
+   "Among the Brahmins and Pariahs",
+   "89036_djvu.txt"
+  ]
+ },
  "titles": {
   "bernard-miall-brieux-woman-on-her-own-false-gods-and-the-red": {
    "source": "mia-27201",
@@ -133,18 +242,231 @@
    "translated": "1911-1921 (see the Gutenberg header)",
    "translator": "Bernard Miall",
    "scan_edition": "Project Gutenberg 49435 (clean text)"
+  },
+  "bernard-miall-maeterlinck-sister-beatrice-and-ardiane-and-barbe-bleue": {
+   "source": "mia-maeterlinck-sister-beatrice",
+   "of": "Maurice Maeterlinck",
+   "work": "Sister Beatrice and Ardiane and Barbe Bleue: Two Plays",
+   "translated": 1901,
+   "translator": "Bernard Miall",
+   "scan_edition": "Dodd, Mead, New York 1906 (copyright 1901); archive.org scan"
+  },
+  "bernard-miall-maeterlinck-the-great-secret": {
+   "source": "mia-maeterlinck-great-secret",
+   "of": "Maurice Maeterlinck",
+   "work": "The Great Secret",
+   "translated": 1922,
+   "translator": "Bernard Miall",
+   "scan_edition": "The Century Co., New York 1922; archive.org scan"
+  },
+  "bernard-miall-le-bon-the-psychology-of-revolution": {
+   "source": "mia-lebon-psychology-of-revolution",
+   "of": "Gustave Le Bon",
+   "work": "The Psychology of Revolution",
+   "translated": 1913,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London (English translation first published 1913); archive.org scan (Cornell copy)"
+  },
+  "bernard-miall-le-bon-the-world-in-revolt": {
+   "source": "mia-lebon-world-in-revolt",
+   "of": "Gustave Le Bon",
+   "work": "The World in Revolt: A Psychological Study of Our Times",
+   "translated": 1921,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London, first published 1921; archive.org scan"
+  },
+  "bernard-miall-rolland-a-musical-tour-through-the-land-of-the-past": {
+   "source": "mia-rolland-musical-tour",
+   "of": "Romain Rolland",
+   "work": "A Musical Tour through the Land of the Past",
+   "translated": 1922,
+   "translator": "Bernard Miall",
+   "scan_edition": "Henry Holt, New York 1922; archive.org scan"
+  },
+  "bernard-miall-france-on-life-and-letters-4": {
+   "source": "mia-france-on-life-and-letters-4",
+   "of": "Anatole France",
+   "work": "On Life and Letters, Fourth Series",
+   "translated": 1924,
+   "translator": "Bernard Miall",
+   "scan_edition": "John Lane, The Bodley Head, 1924 (English translation edited by J. Lewis May and Bernard Miall); archive.org scan"
+  },
+  "bernard-miall-bismarck-new-chapters-of-his-autobiography": {
+   "source": "mia-bismarck-new-chapters",
+   "of": "Otto von Bismarck",
+   "work": "New Chapters of Bismarck's Autobiography",
+   "translated": 1920,
+   "translator": "Bernard Miall",
+   "scan_edition": "Hodder and Stoughton, London (US copyright 1920); archive.org scan (Toronto copy)"
+  },
+  "bernard-miall-bernstein-my-years-of-exile": {
+   "source": "mia-bernstein-my-years-of-exile",
+   "of": "Eduard Bernstein",
+   "work": "My Years of Exile: Reminiscences of a Socialist",
+   "translated": 1921,
+   "translator": "Bernard Miall",
+   "scan_edition": "Leonard Parsons, London, first published January 1921; archive.org scan (Toronto copy)"
+  },
+  "bernard-miall-alexinsky-modern-russia": {
+   "source": "mia-alexinsky-modern-russia",
+   "of": "Gregor Alexinsky",
+   "work": "Modern Russia",
+   "translated": 1913,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London (first published 1913; the OCR blurs the year); archive.org scan"
+  },
+  "bernard-miall-alexinsky-russia-and-the-great-war": {
+   "source": "mia-alexinsky-russia-and-the-great-war",
+   "of": "Gregor Alexinsky",
+   "work": "Russia and the Great War",
+   "translated": 1915,
+   "translator": "Bernard Miall",
+   "scan_edition": "Charles Scribner's Sons, New York 1915; archive.org scan"
+  },
+  "bernard-miall-alexinsky-russia-and-europe": {
+   "source": "mia-alexinsky-russia-and-europe",
+   "of": "Gregor Alexinsky",
+   "work": "Russia and Europe",
+   "translated": 1917,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London, first published 1917; archive.org scan (Toronto copy)"
+  },
+  "bernard-miall-poincare-how-france-is-governed": {
+   "source": "mia-poincare-how-france-is-governed",
+   "of": "Raymond Poincaré",
+   "work": "How France Is Governed",
+   "translated": 1913,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London, first published 1913; archive.org scan"
+  },
+  "bernard-miall-sabatier-a-frenchmans-thoughts-on-the-war": {
+   "source": "mia-sabatier-frenchmans-thoughts",
+   "of": "Paul Sabatier",
+   "work": "A Frenchman's Thoughts on the War",
+   "translated": 1915,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London 1915; archive.org scan (Toronto copy)"
+  },
+  "bernard-miall-hamon-lessons-of-the-world-war": {
+   "source": "mia-hamon-lessons-of-the-world-war",
+   "of": "Augustin Hamon",
+   "work": "Lessons of the World-War",
+   "translated": 1919,
+   "translator": "Bernard Miall",
+   "scan_edition": "Dodd, Mead, New York 1919 (introduction by Patrick Geddes); archive.org scan"
+  },
+  "bernard-miall-amar-the-physiology-of-industrial-organisation": {
+   "source": "mia-amar-physiology-of-industrial-organisation",
+   "of": "Jules Amar",
+   "work": "The Physiology of Industrial Organisation and the Re-employment of the Disabled",
+   "translated": 1918,
+   "translator": "Bernard Miall",
+   "scan_edition": "Library Press, London (1919 in the front matter; ed. A. F. Stanley Kent); archive.org scan"
+  },
+  "bernard-miall-hericourt-the-social-diseases": {
+   "source": "mia-hericourt-social-diseases",
+   "of": "J. Héricourt",
+   "work": "The Social Diseases: Tuberculosis, Syphilis, Alcoholism, Sterility",
+   "translated": 1920,
+   "translator": "Bernard Miall",
+   "scan_edition": "George Routledge, London, and E. P. Dutton, New York, 1920 (with a final chapter by the translator); archive.org scan"
+  },
+  "bernard-miall-muller-freienfels-mysteries-of-the-soul": {
+   "source": "mia-muller-freienfels-mysteries-of-the-soul",
+   "of": "Richard Müller-Freienfels",
+   "work": "Mysteries of the Soul",
+   "translated": 1929,
+   "translator": "Bernard Miall",
+   "scan_edition": "George Allen & Unwin, London, first published in Great Britain 1929; archive.org scan (Digital Library of India copy)"
+  },
+  "bernard-miall-bertrand-the-kingdom-of-the-barotsi": {
+   "source": "mia-bertrand-kingdom-of-the-barotsi",
+   "of": "Alfred Bertrand",
+   "work": "The Kingdom of the Barotsi, Upper Zambezia",
+   "translated": 1899,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London, and J. C. Juta, Cape Town, 1899 (translated by \"A. B. Miall\"); archive.org scan"
+  },
+  "bernard-miall-dollone-in-forbidden-china": {
+   "source": "mia-dollone-in-forbidden-china",
+   "of": "Henri d'Ollone",
+   "work": "In Forbidden China: The D'Ollone Mission, 1906-1909",
+   "translated": 1912,
+   "translator": "Bernard Miall",
+   "scan_edition": "Small, Maynard, Boston 1912 (from the second French edition); archive.org scan"
+  },
+  "bernard-miall-cabaton-java-sumatra": {
+   "source": "mia-cabaton-java-sumatra",
+   "of": "A. Cabaton",
+   "work": "Java, Sumatra, and the Other Islands of the Dutch East Indies",
+   "translated": 1911,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London 1911 (with a preface by the translator); archive.org scan (Toronto copy)"
+  },
+  "bernard-miall-walle-bolivia": {
+   "source": "mia-walle-bolivia",
+   "of": "Paul Walle",
+   "work": "Bolivia: Its People and Its Resources",
+   "translated": 1914,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London (1914); archive.org scan (Toronto copy)"
+  },
+  "bernard-miall-herubel-sea-fisheries": {
+   "source": "mia-herubel-sea-fisheries",
+   "of": "Marcel A. Hérubel",
+   "work": "Sea Fisheries: Their Treasures and Toilers",
+   "translated": 1912,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London 1912; archive.org scan"
+  },
+  "bernard-miall-barthez-the-empress-eugenie-and-her-circle": {
+   "source": "mia-barthez-empress-eugenie",
+   "of": "E. Barthez",
+   "work": "The Empress Eugénie and Her Circle",
+   "translated": 1913,
+   "translator": "Bernard Miall",
+   "scan_edition": "Brentano's, New York 1913; archive.org scan"
+  },
+  "bernard-miall-gerlache-belgium-in-war-time": {
+   "source": "mia-gerlache-belgium-in-war-time",
+   "of": "Adrien de Gerlache de Gomery",
+   "work": "Belgium in War Time",
+   "translated": 1917,
+   "translator": "Bernard Miall",
+   "scan_edition": "Hodder and Stoughton, London and New York (1917); archive.org scan"
+  },
+  "bernard-miall-massart-the-secret-press-in-belgium": {
+   "source": "mia-massart-secret-press-in-belgium",
+   "of": "Jean Massart",
+   "work": "The Secret Press in Belgium",
+   "translated": 1918,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London 1918; archive.org scan"
+  },
+  "bernard-miall-sauter-among-the-brahmins-and-pariahs": {
+   "source": "mia-sauter-among-the-brahmins",
+   "of": "J. A. Sauter",
+   "work": "Among the Brahmins and Pariahs",
+   "translated": 1924,
+   "translator": "Bernard Miall",
+   "scan_edition": "T. Fisher Unwin, London, first published 1924; archive.org scan"
   }
  },
- "_pending": {},
+ "_pending": {
+  "ia-master-johann-dietz": "Master Johann Dietz, Surgeon in the Army of the Great Elector (George Allen & Unwin, London; masterjohanndiet00diet): the scan prints no English publication year (catalogued 1923), so it waits under the undated-printing rule.",
+  "ia-aulard-french-revolution": "Aulard's The French Revolution: A Political History, 1789-1804 (Fisher Unwin/Scribner, 1910, 4 vols): the scans on archive.org mix printings and one carries a 1963 year, so the set needs sorting before it is shelved.",
+  "ia-maeterlinck-life-of-the-ant": "Maeterlinck's The Life of the Ant (1930; dli.ernet.206075): a 1930 publication, so it waits on Adam's 1930 ruling."
+ },
  "_excluded": {
   "teixeira": "The Wonders of Instinct (3754) and The Life of the Scorpion (66744), shared with Teixeira de Mattos, are on teixeira-de-mattos_shelf.json.",
-  "pelle-volumes": "Pelle the Conqueror's four Gutenberg part-files (7791-7794) are left out; the complete text (7795) is used."
+  "pelle-volumes": "Pelle the Conqueror's four Gutenberg part-files (7791-7794) are left out; the complete text (7795) is used.",
+  "ia-not-shelved-round-131": "You and the Universe (dli.bengal.10689.12142) is Paul Karlson's 1936 book, catalogued as 1913; Erzberger's The League of Nations (1919) splits his name in the OCR ('BERNARD MI ALL'), so the identity gate cannot pass; Women on Her Own (in.ernet.dli.2015.164076) is the Brieux volume already shelved from Gutenberg; Some Fascinating Women of the Renaissance (dli.ministry.06404) names him only in an advertisement for another book."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "mia-18350": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -153,7 +475,7 @@
   },
   "mia-27201": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -162,7 +484,7 @@
   },
   "mia-3489": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -171,7 +493,7 @@
   },
   "mia-45261": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -180,7 +502,7 @@
   },
   "mia-49435": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -189,7 +511,7 @@
   },
   "mia-50043": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -198,7 +520,7 @@
   },
   "mia-51716": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -207,7 +529,7 @@
   },
   "mia-62541": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -216,7 +538,7 @@
   },
   "mia-72936": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
@@ -225,12 +547,298 @@
   },
   "mia-7795": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bernard miall",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Bernard Miall; Jessie Muir"
+  },
+  "mia-maeterlinck-sister-beatrice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-maeterlinck-great-secret": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-lebon-psychology-of-revolution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mia-lebon-world-in-revolt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-rolland-musical-tour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-france-on-life-and-letters-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mia-bismarck-new-chapters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-bernstein-my-years-of-exile": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "[1921]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-alexinsky-modern-russia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-alexinsky-russia-and-the-great-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-alexinsky-russia-and-europe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "[1917]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-poincare-how-france-is-governed": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-sabatier-frenchmans-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "[1915]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-hamon-lessons-of-the-world-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-amar-physiology-of-industrial-organisation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-hericourt-social-diseases": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-muller-freienfels-mysteries-of-the-soul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mia-bertrand-kingdom-of-the-barotsi": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. b. miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-dollone-in-forbidden-china": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "[1912]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-cabaton-java-sumatra": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-walle-bolivia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "[1914]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-herubel-sea-fisheries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-barthez-empress-eugenie": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-gerlache-belgium-in-war-time": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-massart-secret-press-in-belgium": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "[c1918]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mia-sauter-among-the-brahmins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard miall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -283,6 +891,312 @@
    "pg": 7795,
    "pg_copyrighted_marker": false,
    "pg_translator": "Bernard Miall"
+  },
+  "mia-maeterlinck-sister-beatrice": {
+   "ia": "sisterbeatricear00maetiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1440,
+    1885,
+    1900,
+    1901,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-maeterlinck-great-secret": {
+   "ia": "greatsecret00maetiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1875,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-lebon-psychology-of-revolution": {
+   "ia": "cu31924024309753",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-lebon-world-in-revolt": {
+   "ia": "worldinrevoltpsy00lebo",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-rolland-musical-tour": {
+   "ia": "musicaltourthrou00roll",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1662,
+    1693,
+    1700,
+    1722,
+    1900,
+    1903,
+    1906,
+    1909,
+    1910,
+    1913,
+    1922
+   ],
+   "post_1930_years_in_front_15k": [
+    1950,
+    1951
+   ],
+   "post_1930_examined": "1950 and 1951 are due-date stamps on the library slip"
+  },
+  "mia-france-on-life-and-letters-4": {
+   "ia": "onlifelettersbya0000mial",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844,
+    1879,
+    1892,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-bismarck-new-chapters": {
+   "ia": "newchaptersofhis00bismuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1797,
+    1829,
+    1830,
+    1832,
+    1835,
+    1849,
+    1858,
+    1859,
+    1873,
+    1874,
+    1878,
+    1879,
+    1881,
+    1882,
+    1884,
+    1886,
+    1887,
+    1888,
+    1890,
+    1891,
+    1892,
+    1898,
+    1900,
+    1904,
+    1909,
+    1918,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-bernstein-my-years-of-exile": {
+   "ia": "myyearsofexilere00bernuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1872,
+    1878,
+    1920,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-alexinsky-modern-russia": {
+   "ia": "modernrussia00alek",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-alexinsky-russia-and-the-great-war": {
+   "ia": "russiagreatwar00alek",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904,
+    1906,
+    1914,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-alexinsky-russia-and-europe": {
+   "ia": "russiaeurope00alekuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1741,
+    1763,
+    1801,
+    1812
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-poincare-how-france-is-governed": {
+   "ia": "howfranceisgover00poiniala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791,
+    1870,
+    1875,
+    1882,
+    1884,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-sabatier-frenchmans-thoughts": {
+   "ia": "frenchmansthough00sabauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-hamon-lessons-of-the-world-war": {
+   "ia": "lessonsofworldwa00hamoiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1884,
+    1885,
+    1886,
+    1889,
+    1890,
+    1891,
+    1893,
+    1895,
+    1897,
+    1905,
+    1913,
+    1915,
+    1916,
+    1917,
+    1918,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-amar-physiology-of-industrial-organisation": {
+   "ia": "physiologyofindu00amariala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-hericourt-social-diseases": {
+   "ia": "socialdiseasestu00heriiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-muller-freienfels-mysteries-of-the-soul": {
+   "ia": "in.ernet.dli.2015.218670",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-bertrand-kingdom-of-the-barotsi": {
+   "ia": "kingdomofbarotsi00bert",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-dollone-in-forbidden-china": {
+   "ia": "forbiddenchina00olloiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-cabaton-java-sumatra": {
+   "ia": "javasumatraother00cabauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-walle-bolivia": {
+   "ia": "boliviaitspeople00walluoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1845,
+    1879,
+    1904,
+    1908,
+    1910,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-herubel-sea-fisheries": {
+   "ia": "seafisheriesthei00hrrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1853,
+    1862,
+    1883,
+    1899,
+    1901,
+    1907,
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-barthez-empress-eugenie": {
+   "ia": "empresseugnieh00bart",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1854,
+    1856,
+    1857,
+    1858,
+    1859,
+    1862,
+    1863,
+    1865
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-gerlache-belgium-in-war-time": {
+   "ia": "belgiuminwartime00gerlrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1814,
+    1831,
+    1835,
+    1914,
+    1915,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-massart-secret-press-in-belgium": {
+   "ia": "secretpressinbel00massrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1915,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mia-sauter-among-the-brahmins": {
+   "ia": "india.history.resource.89036",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
