@@ -10278,3 +10278,19 @@ Slugs `hurd-*`. Built from title pages read for round 42.
 | An introduction to the study of the prophecies concerning the Christian church : and in particular, concerning the Church of Papal Rome ; in twelve sermons, preached in Lincoln's-Inn-Chapel, at the lecture of the Right Reverend William Warburton, Lord Bishop of Gloucester (London : Printed by W. Bowyer and J. Nichols for T. Cadell, 1772) | have-ocr | IA `a588161800hurduoft` |
 | The Google copies of the 1811 Works (worksrichardhur14-17hurdgoog); the Boston 1809 Introduction | alternate | not shelved |
 | His editions of Addison and Warburton (other men's works); the 1911 Letters on Chivalry school edition; the 1860 Memoirs by another hand | excluded | |
+
+## Robert Lowth (round 42, my pick, 2026-10-22)
+
+Slugs `lowth-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Isaiah, a new translation : with a preliminary dissertation, and notes critical, philological, and explanatory, vol. 1 (London : Printed by J. Nichols, for T. Cadell, 1795) | have-ocr | IA `isaiahnewtransla01lowt` |
+| Isaiah, a new translation : with a preliminary dissertation, and notes critical, philological, and explanatory, vol. 2 (London : Printed by J. Nichols, for T. Cadell, 1795) | have-ocr | IA `isaiahnewtransla02lowt` |
+| Lectures on the sacred poetry of the Hebrews, vol. 1 (London : Ogles, Duncan, and Cochran, 1816) | have-ocr | IA `lecturesonsacred01lowt` |
+| Lectures on the sacred poetry of the Hebrews, vol. 2 (London : Ogles, Duncan, and Cochran, 1816) | have-ocr | IA `lecturesonsacred02lowt` |
+| A larger confutation of Bishop Hare's system of Hebrew metre, in a letter to the Rev. Dr. Edwards : in answer to his Latin epistle (London : Miller, 1766) | have-ocr | IA `largerconfutatio00lowt` |
+| The life of William of Wykeham, Bishop of Winchester : collected from records, registers, manuscripts, and other authentic evidences (London : Printed for A. Miller and R. and J. Dodsley, 1759) | have-ocr | IA `lifeofwilliamofw00lowt` |
+| A Letter to the Right Reverend Author of the Divine Legation (third edition, London 1766; IA cu31924102766080): its title page reads only 'By a late Professor in the University of Oxford'. It is Lowth's by universal attribution, but the page names nobody, so it waits for Adam | pending | not shelved |
+| Isaiah 1815; the 1787 Gregory translation of the Lectures (India copies); De sacra poesi Hebraeorum 1753 (Latin original) | alternate | not shelved |
+| A Short Introduction to English Grammar: not divinity | excluded | |
