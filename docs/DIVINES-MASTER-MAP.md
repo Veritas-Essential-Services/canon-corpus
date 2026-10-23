@@ -14957,6 +14957,27 @@ Slugs `stennett-*`. Built from title pages read for round 88.
 | bim_eighteenth-century_the-faithful-minister-re_stennett-samuel_1782: OCR of the title page breaks off at 'By SAMUEL'; the pamphlet also carries Abraham Booth's address; needs a page-image check | pending | not shelved |
 | The Works of Samuel Stennett (1824), which reprints the same discourses | excluded | |
 | Memoirs of William Ward (1825), by his nephew Samuel Stennett (1772-?), a different man | excluded | |
+
+## Joseph John Gurney (round 88, my pick, 2026-10-23)
+
+Slugs `gurney-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| Observations on the religious peculiarities of the Society of Friends (Philadelphia, S. Potter & co. [etc.], 1825) | have-ocr | IA `observationsonre00gurn` |
+| Essays on the evidences, doctrines, and practical operation, of Christianity (London : R.B. Seeley and W. Burnside, 1831) | have-ocr | IA `essaysonevidence00gurn` |
+| Brief remarks on the history, authority, and use of the Sabbath (Andover : Flagg, Gould and Newman, 1833) | have-ocr | IA `briefremarksonhi0000gurn` |
+| Biblical notes and dissertations chiefly intended to confirm and illustrate the doctrine of the Deity of Christ; with some remarks on the practical importance of that doctrine (London, Rivington, 1833) | have-ocr | IA `biblicalnotesdis00gurnuoft` |
+| Reminiscences of Chalmers, Simeon, Wilberforce, &c ([S.l. : s.n., 1833) | have-ocr | IA `reminiscencesofc00gurn` |
+| Sabbatical verses (London : J. and A. Arch, 1837) | have-ocr | IA `sabbaticalverses00gurn` |
+| Sermons and prayers, delivered in the city of Philadelphia. Taken in short-hand (Philadelphia, Kay & Brother, 1838) | have-ocr | IA `sermonsprayersde00gurn` |
+| The minor works of Joseph John Gurney, vol. 1 (London : Harvey & Darton, 1839) | have-ocr | IA `minorworksofjose01gurn` |
+| The minor works of Joseph John Gurney, vol. 2 (London : Harvey & Darton, 1839) | have-ocr | IA `minorworksofjose02gurn` |
+| The practical importance of faith in the deity of Christ, vol. no.747 (London : The Religious Tract Society; sold at the depository, 56, Paternoster Row, and 65, St. Paul's Churchyard, 1839) | have-ocr | IA `practicalimporta747gurn` |
+| Four lectures on the evidences of Christianity ([n. p.], 1857) | have-ocr | IA `fourlecturesonev00gurn` |
+| Thoughts on habit and discipline (Philadelphia : H. Longstreth, 1871) | have-ocr | IA `thoughtsonhabitd00gurn` |
+| papalhierarchica00gurn: the OCR never shows the author's name (title page garbled); needs a page-image check | pending | not shelved |
+| A Winter in the West Indies (travel letters to Henry Clay), the prison notes written with Elizabeth Fry, his anti-slavery speech and his Irish report; Braithwaite's Memoirs of Gurney (by another author) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
