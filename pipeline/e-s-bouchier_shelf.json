@@ -1,0 +1,32 @@
+{
+ "_about": "E. S. Bouchier, raw IA OCR of Life and Letters in Roman Africa (Oxford: B. H. Blackwell, 1913; US public domain by date). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Edmund Spenser Bouchier (1876-1944)",
+ "_name_words": [
+  "bouchier"
+ ],
+ "_surname": [
+  "e. s. bouchier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-s-bouchier-life-and-letters-roman-africa-1913": [
+   "lifelettersinrom00boucrich",
+   "Life and Letters in Roman Africa, by E. S. Bouchier (Oxford: B. H. Blackwell; London: Humphrey Milford, 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-s-bouchier-life-and-letters-roman-africa-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. s. bouchier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
