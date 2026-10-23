@@ -38,14 +38,34 @@
    "generalhistoryof04poly",
    "The General History of Polybius, vol. 4 (1773)",
    "tr. James Hampton"
+  ],
+  "polybius-paton-loeb-v2": [
+   "polybiushistorie0000wrpa_v3i1",
+   "The Histories, tr. W. R. Paton, vol. II (Loeb, 1922); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "polybius-paton-loeb-v3": [
+   "polybiushistorie0000wrpa_j3y3",
+   "The Histories, tr. W. R. Paton, vol. III (Loeb, 1923); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "polybius-paton-loeb-v4": [
+   "polybius0004wrpa",
+   "The Histories, tr. W. R. Paton, vol. IV (Loeb, 1925); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "polybius-paton-loeb-v5": [
+   "polybius0005wrpa",
+   "The Histories, tr. W. R. Paton, vol. V (Loeb, 1926); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "polybius-paton-loeb-v6": [
+   "polybius0006wrpa",
+   "The Histories, tr. W. R. Paton, vol. VI (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_cross_ref": {
   "dryden-polybius-lucian": "Dryden shelf (lane C): Dryden's character of Polybius"
  },
  "_excluded": {
-  "W. R. Paton, Loeb (1922-27)": "on Perseus, US PD by date; pending",
-  "Perseus tlg0543.tlg001.perseus-eng2 (Shuckburgh)": "Perseus header gives a 1962 reprint as its source (rights gate refused it); the same 1889 Shuckburgh text is already held here from Gutenberg"
+  "Perseus tlg0543.tlg001.perseus-eng2 (Shuckburgh)": "Perseus header gives a 1962 reprint as its source (rights gate refused it); the same 1889 Shuckburgh text is already held here from Gutenberg",
+  "W. R. Paton, Loeb vol. I (1922)": "vols. II-VI held (polybius-paton-loeb-*). Vol. I's only open scan (polybiushistorie0000unse_i3k3; title page image read 2026-10-23: 'with an English translation by W. R. Paton ... MCMXXII') never names Paton in its OCR, and the gate's translator check takes no override; wanted from another scan"
  },
  "_surname": [
   "polybius"
@@ -55,7 +75,12 @@
   "polybius-shuckburgh-v2": "Evelyn S. Shuckburgh",
   "polybius-hampton-v1": "hampton",
   "polybius-hampton-v2": "mr. hampton",
-  "polybius-hampton-v4": "mr. hampton"
+  "polybius-hampton-v4": "mr. hampton",
+  "polybius-paton-loeb-v2": "Paton",
+  "polybius-paton-loeb-v3": "W. R. Paton",
+  "polybius-paton-loeb-v4": "W. R. Paton",
+  "polybius-paton-loeb-v5": "W. R. Paton",
+  "polybius-paton-loeb-v6": "W. R. Paton"
  },
  "_translator_unchecked": {
   "polybius-hampton-v3": "translator on the row (James Hampton) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
@@ -63,7 +88,7 @@
  "_checks": {
   "polybius-shuckburgh-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "polybius",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -75,7 +100,7 @@
   },
   "polybius-shuckburgh-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "polybius",
    "translator_claimed": "Evelyn S. Shuckburgh",
@@ -87,7 +112,7 @@
   },
   "polybius-hampton-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "polybius",
    "translator_claimed": "hampton",
@@ -100,7 +125,7 @@
   },
   "polybius-hampton-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "polybius",
    "translator_claimed": "mr. hampton",
@@ -113,7 +138,7 @@
   },
   "polybius-hampton-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "polybius",
    "identity": "ok",
@@ -124,7 +149,7 @@
   },
   "polybius-hampton-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "polybius",
    "translator_claimed": "mr. hampton",
@@ -132,6 +157,71 @@
    "identity": "ok",
    "ia_rights": "ok: published 1773",
    "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-paton-loeb-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-paton-loeb-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-paton-loeb-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-paton-loeb-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "polybius-paton-loeb-v6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "polybius",
+   "translator_claimed": "W. R. Paton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

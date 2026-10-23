@@ -655,6 +655,11 @@ Shelf: `pipeline/polybius_shelf.json`. Shuckburgh (1889), complete, clean Gutenb
 | The General History of Polybius, vol. 2 (1772) | James Hampton | `polybius-hampton-v2` | have-raw (IA `generalhistoryof02poly`) |
 | The General History of Polybius, vol. 3 (1773; volume per catalogue) | James Hampton | `polybius-hampton-v3` | have-raw (IA `generalhistoryof03poly`) |
 | The General History of Polybius, vol. 4 (1773) | James Hampton | `polybius-hampton-v4` | have-raw (IA `generalhistoryof04poly`) |
+| The Histories, tr. W. R. Paton, vol. II (Loeb, 1922); Greek facing, kept per Adam's 2026-10-23 ruling |  | `polybius-paton-loeb-v2` | have-raw (IA `polybiushistorie0000wrpa_v3i1`) |
+| The Histories, tr. W. R. Paton, vol. III (Loeb, 1923); Greek facing, kept per Adam's 2026-10-23 ruling |  | `polybius-paton-loeb-v3` | have-raw (IA `polybiushistorie0000wrpa_j3y3`) |
+| The Histories, tr. W. R. Paton, vol. IV (Loeb, 1925); Greek facing, kept per Adam's 2026-10-23 ruling |  | `polybius-paton-loeb-v4` | have-raw (IA `polybius0004wrpa`) |
+| The Histories, tr. W. R. Paton, vol. V (Loeb, 1926); Greek facing, kept per Adam's 2026-10-23 ruling |  | `polybius-paton-loeb-v5` | have-raw (IA `polybius0005wrpa`) |
+| The Histories, tr. W. R. Paton, vol. VI (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling |  | `polybius-paton-loeb-v6` | have-raw (IA `polybius0006wrpa`) |
 
 Pending (wishlist): Paton's Loeb (1922-27) is on PR #7 as Perseus TEI; 
 
