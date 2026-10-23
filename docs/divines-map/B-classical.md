@@ -855,6 +855,7 @@ Shelf: `pipeline/marcus-aurelius_shelf.json`. Long (1862) and Chrystal (1902), c
 | Meditations of the Emperor Marcus Aurelius Antoninus, newly translated from the Greek, with notes and an account of his life, second edition, vol. I (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v1` | have-raw (IA `meditationsempe01gatagoog`) |
 | Meditations of the Emperor Marcus Aurelius Antoninus, vol. II (Glasgow: Robert and Andrew Foulis, 1749) | anonymous (the title page names no translator) | `marcus-aurelius-foulis-1749-v2` | have-raw (IA `meditationsempe02gatagoog`) |
 | The Meditations of Marcus Aurelius Antoninus, with the Manual of Epictetus and a Summary of Christian Morality, freely translated from the original Greek (London: Longman, Brown, Green and Longmans, 1844) | Henry M'Cormac | `marcus-aurelius-mccormac-1844` | have-raw (IA `meditationsmarc00arrigoog`) |
+| The Communings with Himself of Marcus Aurelius Antoninus, revised text and translation by C. R. Haines (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling |  | `marcus-aurelius-haines-loeb-1916` | have-raw (IA `thecommuningswit00marcuoft`) |
 
 Pending (wishlist): Haines's Loeb (1916; Greek facing).
 
