@@ -11528,3 +11528,15 @@ Slugs `rsfoster-*`. Built from title pages read for round 52.
 | Studies in theology, vol. 5 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog05fost` |
 | Studies in theology, vol. 6 (New York : Hunt & Eaton, 1889) | have-ocr | IA `studiesintheolog06fost` |
 | The Ingham Lectures (1872, several authors); memoirs of others he introduced | excluded | |
+
+## John Miley (Methodist) (round 52, my pick, 2026-10-23)
+
+Slugs `miley-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Treatise on class meetings (Cincinnati, Printed at the Methodist concern for the author, 1851) | have-ocr | IA `treatiseonclassm00mile` |
+| The atonement in Christ (New York : Phillips & Hunt ; Cincinnati : Cranston & Stowe, 1879) | have-ocr | IA `atonementinchris00mile_0` |
+| Systematic theology, vol. 1 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892) | have-ocr | IA `systematictheolo01mile` |
+| Systematic theology, vol. 2 (New York, Hunt & Eaton; Cincinnati, Cranston & Stowe, 1892) | have-ocr | IA `systematictheolo02mile` |
+| The Rev. John Miley of Dublin (Rome under Paganism 1843, History of the Papal States 1850): another man | excluded | |
