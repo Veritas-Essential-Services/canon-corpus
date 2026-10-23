@@ -19460,6 +19460,15 @@ Shelf: `pipeline/w-r-hardie_shelf.json`. Lectures on Classical Subjects (1903). 
 |---|---|---|---|
 | Lectures on Classical Subjects (1903) |  | `hardie-lectures-classical-subjects-1903` | have-raw (IA `lecturesonclassi00hard`) |
 
+
+## Allan Marquand (1853-1924)
+
+Shelf: `pipeline/allan-marquand_shelf.json`. Greek Architecture (1909). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Architecture (1909) |  | `marquand-greek-architecture-1909` | have-raw (IA `greekarchitectur00marq_0`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
