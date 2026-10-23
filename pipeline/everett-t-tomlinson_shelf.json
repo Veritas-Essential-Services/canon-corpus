@@ -1,0 +1,137 @@
+{
+ "_about": "Everett T. Tomlinson's writing at Gutenberg: boys' books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Everett T. Tomlinson",
+ "_name_words": [
+  "everett",
+  "tomlinson"
+ ],
+ "_surname": [
+  "everett t. tomlinson",
+  "everett tomlinson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ettomlinson-winning-his-w": [
+   15801,
+   "Winning His \"W\": A Story of Freshman Year at College"
+  ],
+  "ettomlinson-scouting-with-daniel-boone": [
+   31590,
+   "Scouting with Daniel Boone"
+  ],
+  "ettomlinson-story-of-general-pershing": [
+   31914,
+   "The Story of General Pershing"
+  ],
+  "ettomlinson-boys-of-old-monmouth": [
+   34864,
+   "The Boys of Old Monmouth: A Story of Washington's Campaign in New Jersey in 1778"
+  ],
+  "ettomlinson-young-sharpshooter-at-antietam": [
+   39473,
+   "The Young Sharpshooter at Antietam"
+  ],
+  "ettomlinson-scouting-with-kit-carson": [
+   40927,
+   "Scouting with Kit Carson"
+  ],
+  "ettomlinson-camping-on-the-st-lawrence": [
+   42623,
+   "Camping on the St. Lawrence; Or, On the Trail of the Early Discoverers"
+  ],
+  "ettomlinson-ward-hill-the-senior": [
+   52610,
+   "Ward Hill, the Senior"
+  ],
+  "ettomlinson-pennant": [
+   72863,
+   "The pennant"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ettomlinson-winning-his-w": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-scouting-with-daniel-boone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-story-of-general-pershing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-boys-of-old-monmouth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-young-sharpshooter-at-antietam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-scouting-with-kit-carson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-camping-on-the-st-lawrence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-ward-hill-the-senior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ettomlinson-pennant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "everett t. tomlinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -15995,3 +15995,19 @@ Shelf: `pipeline/dane-coolidge_shelf.json` (2026-10-22; added at the coordinator
 | The Texican | have | PG 50387, `dcoolidge-texican` (901 units) |
 | The Desert Trail | have | PG 52358, `dcoolidge-desert-trail` (1797 units) |
 | The man-killers | have | PG 70972, `dcoolidge-man-killers` (1072 units) |
+
+## Everett T. Tomlinson
+
+Shelf: `pipeline/everett-t-tomlinson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Boys' books. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Winning His "W": A Story of Freshman Year at College | have | PG 15801, `ettomlinson-winning-his-w` (1801 units) |
+| Scouting with Daniel Boone | have | PG 31590, `ettomlinson-scouting-with-daniel-boone` (1548 units) |
+| The Story of General Pershing | have | PG 31914, `ettomlinson-story-of-general-pershing` (668 units) |
+| The Boys of Old Monmouth: A Story of Washington's Campaign in New Jersey in 1778 | have | PG 34864, `ettomlinson-boys-of-old-monmouth` (1627 units) |
+| The Young Sharpshooter at Antietam | have | PG 39473, `ettomlinson-young-sharpshooter-at-antietam` (1871 units) |
+| Scouting with Kit Carson | have | PG 40927, `ettomlinson-scouting-with-kit-carson` (1430 units) |
+| Camping on the St. Lawrence; Or, On the Trail of the Early Discoverers | have | PG 42623, `ettomlinson-camping-on-the-st-lawrence` (2105 units) |
+| Ward Hill, the Senior | have | PG 52610, `ettomlinson-ward-hill-the-senior` (1494 units) |
+| The pennant | have | PG 72863, `ettomlinson-pennant` (2667 units) |
