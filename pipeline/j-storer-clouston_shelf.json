@@ -1,0 +1,123 @@
+{
+ "_about": "J. Storer Clouston's writing at Gutenberg: comic novels and mysteries. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "J. Storer Clouston",
+ "_name_words": [
+  "clouston",
+  "storer"
+ ],
+ "_surname": [
+  "storer clouston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jsclouston-count-bunker-being-a-bald-yet-veracious-chronicle": [
+   1613,
+   "Count Bunker Being a Bald Yet Veracious Chronicle Containing Some Further Particulars of Two Gentlemen Whose Previous Careers Were Touched Upon in a Tome Entitled \"The Lunatic at Large\""
+  ],
+  "jsclouston-vandrad-the-viking": [
+   5120,
+   "Vandrad the Viking; Or, The Feud and the Spell"
+  ],
+  "jsclouston-man-from-the-clouds": [
+   9852,
+   "The Man from the Clouds"
+  ],
+  "jsclouston-lunatic-at-large": [
+   20485,
+   "The Lunatic at Large"
+  ],
+  "jsclouston-prodigal-father": [
+   25899,
+   "The Prodigal Father"
+  ],
+  "jsclouston-simon": [
+   26306,
+   "Simon"
+  ],
+  "jsclouston-spy-in-black": [
+   33996,
+   "The Spy in Black"
+  ],
+  "jsclouston-adventures-of-m-dharicot": [
+   50273,
+   "The Adventures of M. D'Haricot"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jsclouston-count-bunker-being-a-bald-yet-veracious-chronicle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsclouston-vandrad-the-viking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsclouston-man-from-the-clouds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsclouston-lunatic-at-large": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsclouston-prodigal-father": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsclouston-simon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsclouston-spy-in-black": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsclouston-adventures-of-m-dharicot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "storer clouston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

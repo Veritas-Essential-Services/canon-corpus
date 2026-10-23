@@ -41815,3 +41815,18 @@ Shelf: `pipeline/edith-k-dunton_shelf.json` (2026-10-22; added at the coordinato
 | Betty Wales & Co.: A story for girls | have | PG 68551, `ekdunton-betty-wales-co` (1350 units) |
 | Betty Wales on the campus | have | PG 69132, `ekdunton-betty-wales-on-the-campus` (1380 units) |
 | Betty Wales decides | have | PG 73169, `ekdunton-betty-wales-decides` (1262 units) |
+
+## J. Storer Clouston
+
+Shelf: `pipeline/j-storer-clouston_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Comic novels and mysteries. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Count Bunker Being a Bald Yet Veracious Chronicle Containing Some Further Particulars of Two Gentlemen Whose Previous Careers Were Touched Upon in a Tome Entitled "The Lunatic at Large" | have | PG 1613, `jsclouston-count-bunker-being-a-bald-yet-veracious-chronicle` (2387 units) |
+| Vandrad the Viking; Or, The Feud and the Spell | have | PG 5120, `jsclouston-vandrad-the-viking` (1287 units) |
+| The Man from the Clouds | have | PG 9852, `jsclouston-man-from-the-clouds` (1687 units) |
+| The Lunatic at Large | have | PG 20485, `jsclouston-lunatic-at-large` (2061 units) |
+| The Prodigal Father | have | PG 25899, `jsclouston-prodigal-father` (2503 units) |
+| Simon | have | PG 26306, `jsclouston-simon` (2604 units) |
+| The Spy in Black | have | PG 33996, `jsclouston-spy-in-black` (1622 units) |
+| The Adventures of M. D'Haricot | have | PG 50273, `jsclouston-adventures-of-m-dharicot` (2682 units) |
