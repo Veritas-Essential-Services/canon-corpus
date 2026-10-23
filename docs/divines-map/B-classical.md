@@ -8543,6 +8543,17 @@ Shelf: `pipeline/gilbert-murray_shelf.json`. Six books, 1897-1922.
 | The Rise of the Greek Epic (Oxford, 1907) |  | `murray-rise-of-the-greek-epic-1907` | have-raw (IA `riseofgreekepic00murruoft`) |
 | The Interpretation of Ancient Greek Literature (Oxford, 1909) |  | `murray-interpretation-of-ancient-greek-literature-1909` | have-raw (IA `interpretationof00murr_0`) |
 | Tradition and Progress (Houghton Mifflin, 1922) |  | `murray-tradition-and-progress-1922` | have-raw (IA `traditionprogres00murruoft`) |
+| Andromache: A Play in Three Acts |  | `gilbert-murray-andromache-pg` | have (PG 38909, clean witness) |
+| The Frogs of Aristophanes, translated into English rhyming verse by Gilbert Murray (London: George Allen and Sons, 1908) |  | `gilbert-murray-frogs-1908` | have-raw (IA `frogstranslatedi00arisuoft`) |
+| The Story of Nefrekepta from a demotic papyrus, put into verse by Gilbert Murray (Oxford: Clarendon Press; London: Henry Frowde, MCMXI [1911]) |  | `gilbert-murray-nefrekepta-1911` | have-raw (IA `storyofnefrekept00murr`) |
+| What English Poetry may still learn from Greek, by Gilbert Murray (Oxford: Clarendon Press, 1912) |  | `gilbert-murray-what-english-poetry-1912` | have-raw (IA `whatenglishpoetr00murr`) |
+| Hamlet and Orestes, a study in traditional types, by Gilbert Murray (Oxford University Press American Branch; London: Humphrey Milford, 1914) |  | `gilbert-murray-hamlet-and-orestes-1914` | have-raw (IA `hamletorestesstu00murr`) |
+| The Stoic Philosophy, by Gilbert Murray (London: Watts; George Allen and Unwin, 1915) |  | `gilbert-murray-stoic-philosophy-1915` | have-raw (IA `thestoicphilosop00murruoft`) |
+| Religio Grammatici, the religion of a man of letters, presidential address to the Classical Association, January 8, 1918, by Gilbert Murray (Boston and New York: Houghton Mifflin, MCMXVIII [1918]) |  | `gilbert-murray-religio-grammatici-1918` | have-raw (IA `religiogrammati04murrgoog`) |
+| Aristophanes and the War Party, by Gilbert Murray (London: George Allen and Unwin, first published 1919; the OCR reads the year as 'igig') |  | `gilbert-murray-aristophanes-war-party-1919` | have-raw (IA `aristophaneswarp00murriala`) |
+| Our Great War and the Great War of the Ancient Greeks, by Gilbert Murray (New York: Thomas Seltzer, 1920) |  | `gilbert-murray-our-great-war-1920` | have-raw (IA `ourgreatwargreat00murruoft`) |
+| Essays and Addresses, by Gilbert Murray (London: George Allen and Unwin; first published November 1921, this the reprint of March 1922) |  | `gilbert-murray-essays-and-addresses-1921` | have-raw (IA `essaysaddresses00murriala`) |
+| The Classical Tradition in Poetry, the Charles Eliot Norton Lectures, by Gilbert Murray (London: Oxford University Press, Humphrey Milford, MCMXXVII [1927]; printed at the Harvard University Press) |  | `gilbert-murray-classical-tradition-poetry-1927` | have-raw (IA `in.ernet.dli.2015.73462`) |
 
 Pending (wishlist): The Classical Tradition in Poetry (1927; no dated pre-1931 scan found).
 
