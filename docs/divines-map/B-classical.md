@@ -10695,3 +10695,12 @@ Shelf: `pipeline/w-g-holmes_shelf.json`. The Age of Justinian and Theodora, vol.
 | The Age of Justinian and Theodora, vol. 1 of 2 (2nd ed., Bell, 1912) |  | `holmes-age-justinian-theodora-v1` | have (PG 65337) |
 | The Age of Justinian and Theodora, vol. 2 of 2 (2nd ed., Bell, 1912) |  | `holmes-age-justinian-theodora-v2` | have (PG 65717) |
 
+
+## William Sandys Wright Vaux (1818-1885)
+
+Shelf: `pipeline/w-s-w-vaux_shelf.json`. Ancient History from the Monuments: Greek Cities and Islands of Asia Minor (London, 1877). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Ancient History from the Monuments: Greek Cities and Islands of Asia Minor (London, 1877) |  | `vaux-greek-cities-islands-asia-minor` | have (PG 66663) |
+

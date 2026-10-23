@@ -1,0 +1,36 @@
+{
+ "_about": "W. S. W. Vaux (1818-1885), British Museum keeper of coins and antiquities: Greek Cities and Islands of Asia Minor (Ancient History from the Monuments, London, 1877). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "William Sandys Wright Vaux (1818-1885)",
+ "_name_words": [
+  "vaux",
+  "william",
+  "sandys",
+  "wright",
+  "asia",
+  "minor"
+ ],
+ "_surname": [
+  "w. s. w. vaux",
+  "vaux"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "vaux-greek-cities-islands-asia-minor": [
+   66663,
+   "Ancient History from the Monuments: Greek Cities and Islands of Asia Minor (London, 1877)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "vaux-greek-cities-islands-asia-minor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. s. w. vaux",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
