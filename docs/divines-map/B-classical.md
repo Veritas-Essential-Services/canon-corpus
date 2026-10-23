@@ -11254,3 +11254,16 @@ Shelf: `pipeline/w-w-merry_shelf.json`. Homer's Odyssey I-XII with James Riddell
 |---|---|---|---|
 | Homer's Odyssey, Books I-XII, edited with English notes, appendices etc., by W. Walter Merry and James Riddell, second edition revised (Oxford: Clarendon Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `w-w-merry-odyssey-i-xii-1886` | have-raw (IA `odysseyho01home`) |
 
+## James S. Reid (1846-1926)
+
+Shelf: `pipeline/j-s-reid_shelf.json`. Municipalities of the Roman Empire (1913) and Cicero editions with notes. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Municipalities of the Roman Empire (Cambridge: University Press, 1913) |  | `j-s-reid-municipalities-1913` | have-raw (IA `municipalitesofr00reidrich`) |
+| M. Tulli Ciceronis Academica, the text revised and explained (London: Macmillan, 1885); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `j-s-reid-academica-1885` | have-raw (IA `mtulliciceronisa00cice`) |
+| M. Tulli Ciceronis Pro P. Cornelio Sulla Oratio ad Iudices, edited for schools and colleges (Cambridge: University Press, 1886 issue); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `j-s-reid-pro-sulla-1886` | have-raw (IA `mtulliciceronis02reidgoog`) |
+| M. Tulli Ciceronis Pro A. Licinio Archia Poeta Oratio ad Iudices, edited for schools and colleges, new edition with corrections and additions (Cambridge: University Press, 1889); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `j-s-reid-pro-archia-1889` | have-raw (IA `proalicinioarchi00ciceuoft`) |
+| M. Tulli Ciceronis Pro L. Cornelio Balbo Oratio ad Iudices, edited for schools and colleges (Cambridge: University Press, 1890); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `j-s-reid-pro-balbo-1890` | have-raw (IA `prolcorneliobalb00ciceuoft`) |
+| M. Tulli Ciceronis Pro T. Annio Milone ad Iudices Oratio, edited for schools and colleges, stereotyped edition (Cambridge: University Press, 1897); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `j-s-reid-pro-milone-1897` | have-raw (IA `protanniomilonea00cice`) |
+
