@@ -1,5 +1,5 @@
 {
- "_about": "Herbert Weir Smyth (1857-1937), Professor of Greek at Bryn Mawr and later Harvard, raw IA OCR: The Dialects of North Greece (Baltimore: Isaac Friedenwald, 1887, reprinted from the American Journal of Philology); The Sounds and Inflections of the Greek Dialects: Ionic (Oxford: Clarendon Press, 1894); Greek Melic Poets (Macmillan, 1900). His Loeb Aeschylus is on the aeschylus shelf from Perseus. Greek-dense volumes kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dv). No uids minted.",
+ "_about": "Herbert Weir Smyth (1857-1937), Professor of Greek at Bryn Mawr and later Harvard, raw IA OCR: The Dialects of North Greece (Baltimore: Isaac Friedenwald, 1887, reprinted from the American Journal of Philology); The Sounds and Inflections of the Greek Dialects: Ionic (Oxford: Clarendon Press, 1894); Greek Melic Poets (Macmillan, 1900). His Loeb Aeschylus is on the aeschylus shelf from Perseus. Greek-dense volumes kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dv). No uids minted. Round eb adds A Greek Grammar for Colleges (1920; Greek-heavy, kept under Adam's 2026-10-23 Greek ruling). Aeschylean Tragedy (1924) was refused: Smyth's name never appears in its OCR.",
  "_author": "Herbert Weir Smyth (1857-1937)",
  "_name_words": [
   "smyth"
@@ -23,6 +23,11 @@
   "h-w-smyth-greek-melic-poets-1900": [
    "greekmelicpoets00smytuoft",
    "Greek Melic Poets, by Herbert Weir Smyth (London: Macmillan; New York: Macmillan, 1900)"
+  ],
+  "h-w-smyth-greek-grammar-for-colleges-1920": [
+   "smyth-greek-grammar-for-colleges-1920",
+   "A Greek Grammar for Colleges, by Herbert Weir Smyth (New York, Cincinnati, Chicago, Boston, Atlanta: American Book Company, copyright 1920)",
+   "Smyth, A Greek Grammar for Colleges (1920)_djvu.txt"
   ]
  },
  "_excluded": {},
@@ -58,6 +63,17 @@
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "h-w-smyth-greek-grammar-for-colleges-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert weir smyth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
