@@ -1749,3 +1749,6 @@
 
 ## 2026-10-22 22:15 CDT — tw-speight: done
 - tw-speight: new shelf, 20 Gutenberg books, 20,938 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — edwin-l-sabin: done
+- edwin-l-sabin: new shelf, 20 Gutenberg books, 37,030 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags.

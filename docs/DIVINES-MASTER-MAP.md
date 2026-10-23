@@ -38430,3 +38430,30 @@ Shelf: `pipeline/tw-speight_shelf.json` (2026-10-22; added at the coordinator's 
 | In the Dead of Night: A Novel. Volume 2 (of 3) | have | PG 57946, `twspeight-in-the-dead-of-night-57946` (926 units) |
 | In the Dead of Night: A Novel. Volume 3 (of 3) | have | PG 57947, `twspeight-in-the-dead-of-night-57947` (1024 units) |
 | The Grey Monk | have | PG 57950, `twspeight-grey-monk` (2150 units) |
+
+## Edwin L. Sabin
+
+Shelf: `pipeline/edwin-l-sabin_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Frontier stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (20 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Pluck on the Long Trail; Or, Boy Scouts in the Rockies | have | PG 20710, `elsabin-pluck-on-the-long-trail` (2002 units) |
+| Gold Seekers of '49 | have | PG 23192, `elsabin-gold-seekers-of-49` (2071 units) |
+| Desert Dust | have | PG 27437, `elsabin-desert-dust` (2151 units) |
+| Boys' Book of Frontier Fighters | have | PG 31130, `elsabin-boys-book-of-frontier-fighters` (2232 units) |
+| Boys' Book of Indian Warriors and Heroic Indian Women | have | PG 31131, `elsabin-boys-book-of-indian-warriors-and-heroic-indian-women` (2105 units) |
+| The great Pike's Peak rush | have | PG 37943, `elsabin-great-pikes-peak-rush` (2061 units) |
+| Beaufort Chums | have | PG 54887, `elsabin-beaufort-chums` (2314 units) |
+| When You Were a Boy | have | PG 58165, `elsabin-when-you-were-a-boy` (1739 units) |
+| With Carson and Frémont Being the Adventures, in the Years 1842-'43-'44, on Trail Over Mountains and Through Deserts From the East of the Rockies to the West of the Sierras, of Scout Christopher Carson and Lieutenant John Charles Frémont, Leading Their Brave Company Including the Boy Oliver | have | PG 59807, `elsabin-with-carson-and-fr-mont-being-the-adventures-in-the` (1674 units) |
+| On the Plains with Custer The Western Life and Deeds of the Chief With the Yellow Hair, Under Whom Served Boy Bugler Ned Fletcher, When in the Troublous Years 1866–1876 the Fighting Seventh Cavalry Helped to Win Pioneer Kansas, Nebraska, and Dakota for White Civilization and Today's Peace | have | PG 60157, `elsabin-on-the-plains-with-custer-the-western-life-and-deeds` (1681 units) |
+| With Sam Houston in Texas A Boy Volunteer in the Texas Struggles for Independence, When in the Years 1835-1836 the Texas Colonists Threw Off the Unjust Rule of Mexico, and by Heroic Deeds Established, Under the Guidance of the Bluff Sam Houston, Their Own Free Republic Which To-day is the Great Lone Star State | have | PG 62898, `elsabin-with-sam-houston-in-texas-a-boy-volunteer-in-the-tex` (2431 units) |
+| Buffalo Bill and the Overland Trail Being the story of how boy and man worked hard and played hard to blaze the white trail, by wagon train, stage coach and pony express, across the great plains and the mountains beyond, that the American republic might expand and flourish | have | PG 64231, `elsabin-buffalo-bill-and-the-overland-trail-being-the-story` (2146 units) |
+| Opening the West With Lewis and Clark By Boat, Horse and Foot Up the Great River Missouri, Across the Stony Mountains and on to the Pacific, When in the Years 1804, 1805, 1806, Young Captain Lewis, the Long Knife, and His Friend Captain Clark, the Red Head Chief, Aided by Sacajawea, the Birdwoman, Conducted Their Little Band of Men Tried and True Through the Unknown New United States | have | PG 64903, `elsabin-opening-the-west-with-lewis-and-clark-by-boat-horse` (1787 units) |
+| General Crook and the Fighting Apaches Treating Also of the Part Borne by Jimmie Dunn in the days, 1871-1886, When With Soldiers and Pack-trains and Indian Scouts, but Employing the Stronger Weapons of Kindness, Firmness and Honesty, the Gray Fox Worked Hard to the End That the White Men and the Red Men in the Southwest as in the Northwest Might Better Understand One Another | have | PG 65954, `elsabin-general-crook-and-the-fighting-apaches-treating-also` (1938 units) |
+| Lost with Lieutenant Pike How from the Pawnee Village the boy named Scar Head marched with the young American Chief clear into the Snowy Mountains; how in the dead of winter they searched for the Lost River and thought that they had found it; and how the Spanish Soldiery came upon them and took them down to Santa Fé of New Mexico, where another surprise awaited them | have | PG 67142, `elsabin-lost-with-lieutenant-pike-how-from-the-pawnee-villag` (2012 units) |
+| Easy come, easy go | have | PG 68450, `elsabin-easy-come-easy-go` (199 units) |
+| Into Mexico with General Scott When attached to the Fourth United States Infantry, Division of Major-General William J. Worth, Corps of the famous Major-General Winfield Scott, known as Old Fuss and Feathers, campaign of 1847, lad Jerry Cameron marched and fought beside Second Lieutenant U. S. Grant all the way from Cera Cruz to the City of Mexico, where six thousand American soldiers planted the Stars and Stripes in the midst of one hundred and fifty thousand amazed people | have | PG 68652, `elsabin-into-mexico-with-general-scott-when-attached-to-the` (2103 units) |
+| Opening the iron trail | have | PG 73521, `elsabin-opening-the-iron-trail` (2092 units) |
+| The other half | have | PG 73550, `elsabin-other-half` (125 units) |
+| With George Washington into the wilderness | have | PG 74602, `elsabin-with-george-washington-into-the-wilderness` (2167 units) |
