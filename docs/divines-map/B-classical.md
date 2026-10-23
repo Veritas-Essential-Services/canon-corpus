@@ -11472,3 +11472,12 @@ Shelf: `pipeline/arthur-palmer_shelf.json`. New shelf, round dv. Raw IA OCR, eve
 
 Excluded: Propertius, Elegiarum libri IV (1880) (elegiarumlibrii00palmgoog: a Latin recension with Latin preface, no English text; out of scope for an English shelf.)
 
+## Henry Jackson (1839-1921)
+
+Shelf: `pipeline/henry-jackson_shelf.json`. New shelf, round dv. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Fifth Book of the Nicomachean Ethics of Aristotle, edited for the Syndics of the University Press by Henry Jackson (Cambridge: University Press; London: Cambridge Warehouse; Cambridge: Deighton, Bell, 1879) |  | `henry-jackson-nicomachean-ethics-v-1879` | have-raw (IA `thefifthbookofth00arisuoft`) |
+| Texts to illustrate a course of elementary lectures on the history of Greek philosophy from Thales to Aristotle, by Henry Jackson (London: Macmillan; New York: Macmillan, 1901; the OCR reads the year as 'IQOI'); Greek-dense, kept for the later Greek re-OCR |  | `henry-jackson-texts-greek-philosophy-1901` | have-raw (IA `textstoillustra00jackgoog`) |
+
