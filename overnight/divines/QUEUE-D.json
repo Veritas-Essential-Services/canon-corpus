@@ -5109,6 +5109,14 @@
       "started": "2026-10-22T22:50:23-05:00",
       "finished": "2026-10-22T22:50:23-05:00",
       "notes": "robert-leighton: new shelf, 8 Gutenberg books, 11,770 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "henry-herbert-knibbs",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Henry Herbert Knibbs; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:50:25-05:00",
+      "finished": "2026-10-22T22:50:25-05:00",
+      "notes": "henry-herbert-knibbs: new shelf, 8 Gutenberg books, 14,451 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

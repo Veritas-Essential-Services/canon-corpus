@@ -16364,3 +16364,18 @@ Shelf: `pipeline/robert-leighton_shelf.json` (2026-10-22; added at the coordinat
 | Sergeant Silk, the Prairie Scout | have | PG 35180, `rleighton-sergeant-silk-the-prairie-scout` (1100 units) |
 | The Golden Galleon Being a Narrative of the Adventures of Master Gilbert Oglander, and of how, in the Year 1591, he fought under the gallant Sir Richard Grenville in the Great Sea-fight off Flores, on board her Majesty's Ship the Revenge | have | PG 35940, `rleighton-golden-galleon-being-a-narrative-of-the-adventures` (1790 units) |
 | Dreadnoughts of the Dogger: A Story of the War on the North Sea | have | PG 50914, `rleighton-dreadnoughts-of-the-dogger` (1542 units) |
+
+## Henry Herbert Knibbs
+
+Shelf: `pipeline/henry-herbert-knibbs_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Western novels and verse. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jim Waring of Sonora-Town; Or, Tang of Life | have | PG 12189, `hhknibbs-jim-waring-of-sonora-town` (2871 units) |
+| Partners of Chance | have | PG 14085, `hhknibbs-partners-of-chance` (1721 units) |
+| Sundown Slim | have | PG 16334, `hhknibbs-sundown-slim` (1872 units) |
+| The Ridin' Kid from Powder River | have | PG 16530, `hhknibbs-ridin-kid-from-powder-river` (3048 units) |
+| Overland Red: A Romance of the Moonstone Cañon Trail | have | PG 19763, `hhknibbs-overland-red` (2343 units) |
+| Lost Farm Camp | have | PG 35034, `hhknibbs-lost-farm-camp` (2305 units) |
+| Maurice and the bay mare | have | PG 71377, `hhknibbs-maurice-and-the-bay-mare` (78 units) |
+| Five miles to Perdition | have | PG 79385, `hhknibbs-five-miles-to-perdition` (213 units) |

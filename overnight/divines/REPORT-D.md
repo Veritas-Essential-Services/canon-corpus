@@ -2210,3 +2210,6 @@
 
 ## 2026-10-22 22:50 CDT — robert-leighton: done
 - robert-leighton: new shelf, 8 Gutenberg books, 11,770 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — henry-herbert-knibbs: done
+- henry-herbert-knibbs: new shelf, 8 Gutenberg books, 14,451 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
