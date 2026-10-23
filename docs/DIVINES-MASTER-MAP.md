@@ -41024,3 +41024,20 @@ Shelf: `pipeline/hl-sayler_shelf.json` (2026-10-22; added at the coordinator's r
 | A Cruise in the Sky; or, The Legend of the Great Pink Pearl | have | PG 57882, `hlsayler-cruise-in-the-sky` (1356 units) |
 | Battling the Bighorn; or, The Aeroplane in the Rockies | have | PG 58381, `hlsayler-battling-the-bighorn` (1301 units) |
 | When Scout Meets Scout; or, The Aeroplane Spy | have | PG 58709, `hlsayler-when-scout-meets-scout` (1302 units) |
+
+## John Richardson
+
+Shelf: `pipeline/major-john-richardson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Canadian frontier romances. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Wacousta : a tale of the Pontiac conspiracy — Volume 1 | have | PG 4719, `jrichardson-wacousta` (506 units) |
+| Wacousta : a tale of the Pontiac conspiracy — Volume 2 | have | PG 4720, `jrichardson-wacousta-4720` (509 units) |
+| Wacousta : a tale of the Pontiac conspiracy — Volume 3 | have | PG 4911, `jrichardson-wacousta-4911` (526 units) |
+| Wacousta : a tale of the Pontiac conspiracy (Complete) | have | PG 4912, `jrichardson-wacousta-4912` (1541 units) |
+| The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American War — Volume 1 | have | PG 5106, `jrichardson-canadian-brothers` (805 units) |
+| The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American War — Volume 2 | have | PG 5107, `jrichardson-canadian-brothers-5107` (806 units) |
+| The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American War — Complete | have | PG 5108, `jrichardson-canadian-brothers-5108` (1610 units) |
+| Hardscrabble; or, the fall of Chicago: a tale of Indian warfare | have | PG 5169, `jrichardson-hardscrabble` (856 units) |
+| Wau-nan-gee; Or, the Massacre at Chicago: A Romance of the American Revolution | have | PG 31745, `jrichardson-wau-nan-gee` (869 units) |
+| Matilda Montgomerie; Or, The Prophecy Fulfilled | have | PG 39758, `jrichardson-matilda-montgomerie` (1591 units) |

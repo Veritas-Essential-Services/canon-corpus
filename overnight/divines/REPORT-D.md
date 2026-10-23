@@ -2072,3 +2072,6 @@
 
 ## 2026-10-22 22:43 CDT — hl-sayler: done
 - hl-sayler: new shelf, 10 Gutenberg books, 13,720 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:43 CDT — major-john-richardson: done
+- major-john-richardson: new shelf, 10 Gutenberg books, 9,619 units, 1276 ~2 ids; verify 0 mismatches, 0 rights flags.
