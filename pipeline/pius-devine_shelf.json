@@ -30,7 +30,8 @@
  "_excluded": {},
  "_rights_checked": {},
  "_identity_checked": {
-  "pdevine-auxilium-3": "Title page (OCR): \"AUXILIUM PRAEDICATORUM [OCR: A UX ILIUM PRsEDICA TORUM]... WITH HINTS AS TO THEIR USE IN SERMONS. The Rev. PIUS DEVINE, Passionist\""
+  "pdevine-auxilium-3": "Title page (OCR): \"AUXILIUM PRAEDICATORUM [OCR: A UX ILIUM PRsEDICA TORUM]... WITH HINTS AS TO THEIR USE IN SERMONS. The Rev. PIUS DEVINE, Passionist\"",
+  "pdevine-short-gloss": "Title page (OCR): \"AUXILIUM PRAEDICATORUM [OCR: A UX ILIUM PRyEDICATORUM]; [or, a Short Gloss upon the Gospels,] WITH HINTS AS TO THEIR USE IN SERMONS. VOL. II. S. MARK & S. LUKE. The Rev. PIUS DEVINE, Passionist. Dublin: M. H. Gill and Son... 1884\""
  },
  "_pending": {},
  "_translators": {},
@@ -62,7 +63,7 @@
    "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pius devine",
-   "identity": "MISMATCH: none of the title words ['auxilium', 'praedicatorum'] anywhere in the ia text",
+   "identity": "identity_override",
    "ia_rights": "ok: published 1884",
    "ia_date": "1884",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
