@@ -1614,6 +1614,16 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | Love, Worship and Death: renderings from the Greek Anthology |  | `rodd-love-worship-death-pg` | have (PG 35907, clean witness) |
 | The Poems of Sappho: An Interpretative Rendition into English, by John Myers O'Hara (1910) |  | `sappho-ohara-1910` | have (PG 42166, clean witness) |
 | Sappho: A New Rendering, by H. De Vere Stacpoole (1920) |  | `sappho-stacpoole-1920` | have (PG 42543, clean witness) |
+| The Greek Anthology, tr. W. R. Paton, vol. I (Loeb, 1916; this copy the 1927 reprint); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-paton-v1` | have-raw (IA `greekanthology01pato`) |
+| The Greek Anthology, tr. W. R. Paton, vol. II (Loeb, 1917; this copy the 1919 reprint); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-paton-v2` | have-raw (IA `in.gov.ignca.13476`) |
+| The Greek Anthology, tr. W. R. Paton, vol. III (Loeb, 1917; this copy the 1925 reprint); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-paton-v3` | have-raw (IA `greekanthology03pato`) |
+| The Greek Anthology, tr. W. R. Paton, vol. IV (Loeb, 1918); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-paton-v4` | have-raw (IA `in.ernet.dli.2015.103642`) |
+| The Greek Anthology, tr. W. R. Paton, vol. V (Loeb, 1918); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-paton-v5` | have-raw (IA `in.ernet.dli.2015.103643`) |
+| Lyra Graeca, ed. and tr. J. M. Edmonds, vol. I (Loeb, 1922); Greek facing, kept per Adam's 2026-10-23 ruling |  | `lyra-graeca-edmonds-v1` | have-raw (IA `lyragraecabeingr01edmouoft`) |
+| Lyra Graeca, ed. and tr. J. M. Edmonds, vol. II (Loeb, 1924); Greek facing, kept per Adam's 2026-10-23 ruling |  | `lyra-graeca-edmonds-v2` | have-raw (IA `lyragraecabeingr02unse`) |
+| Lyra Graeca, ed. and tr. J. M. Edmonds, vol. III (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling |  | `lyra-graeca-edmonds-v3` | have-raw (IA `lyragraecabeingr03edmouoft`) |
+| A Century of Greek Epigrams, tr. Edward Fry, Lady Fry and Agnes Fry (privately printed, 1915); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-fry-century-epigrams-1915` | have-raw (IA `centuryofgreekep00fryerich`) |
+| Paraphrases and Translations from the Greek, by the Earl of Cromer (1903); Greek facing, kept per Adam's 2026-10-23 ruling |  | `greek-anthology-cromer-paraphrases-1903` | have-raw (IA `paraphrasestrans00cromrich`) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
