@@ -13444,3 +13444,13 @@ Slugs `watkinson-*`. Built from title pages read for round 71.
 | Frugality in the spiritual life (New York, Chicago [etc.] F. H. Revell company, 1908) | have-ocr | IA `frugalityinspir00watkgoog` |
 | The fatal barter (New York, Chicago [etc.] F. H. Revell company, 1909) | have-ocr | IA `fatalbarter00watk` |
 | The Preacher's Commentary on the Book of Psalms (1879; not checked as his); his papers in The London Quarterly Review | excluded | |
+
+## H. W. Webb-Peploe (round 71, my pick, 2026-10-23)
+
+Slugs `peploe-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| The life of privilege : possession, peace, and power (New York : Fleming H. Revell, 1896) | have-ocr | IA `lifeofprivilegep00webb` |
+| The victorious life : the post-conference addresses delivered at East Northfield, Mass., August 17-25, 1895 (New York : The Baker & Taylor Co., 1896) | have-ocr | IA `victoriouslifepo00webb` |
+| The titles of Jehovah: A course of sermons (James Nisbet & Co., Limited, 1901) | have-ocr | IA `titlesofjehovahc0000unse` |

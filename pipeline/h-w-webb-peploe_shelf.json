@@ -1,0 +1,69 @@
+{
+ "_about": "Public-domain Hanmer William Webb-Peploe (1837-1923), vicar of St. Paul's, Onslow Square, and a leading Keswick speaker, for the Word Hoard: The Life of Privilege (1896), The Victorious Life, his Northfield addresses (1896), and The Titles of Jehovah (1901). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 71 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "peploe",
+  "webb-peploe"
+ ],
+ "_surname": [
+  "peploe",
+  "webb-peploe"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "peploe-life-of-privilege": [
+   "lifeofprivilegep00webb",
+   "The life of privilege : possession, peace, and power (New York : Fleming H. Revell, 1896)"
+  ],
+  "peploe-victorious-life": [
+   "victoriouslifepo00webb",
+   "The victorious life : the post-conference addresses delivered at East Northfield, Mass., August 17-25, 1895 (New York : The Baker & Taylor Co., 1896)"
+  ],
+  "peploe-titles-of-jehovah": [
+   "titlesofjehovahc0000unse",
+   "The titles of Jehovah: A course of sermons (James Nisbet & Co., Limited, 1901)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "peploe-life-of-privilege": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peploe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peploe-victorious-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peploe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peploe-titles-of-jehovah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peploe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
