@@ -19139,6 +19139,16 @@ Shelf: `pipeline/jessie-may-tatlock_shelf.json`. Greek and Roman Mythology (1917
 |---|---|---|---|
 | Greek and Roman Mythology (1917) |  | `tatlock-greek-roman-mythology-1917` | have-raw (IA `greekromanmythol00tatl`) |
 
+
+## T. A. B. Spratt (1811-1888)
+
+Shelf: `pipeline/t-a-b-spratt_shelf.json`. Travels and Researches in Crete, 2 vols. (1865). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Travels and Researches in Crete, vol. I (1865) |  | `spratt-travels-crete-vol-1` | have-raw (IA `travelsresearche01spra`) |
+| Travels and Researches in Crete, vol. II (1865) |  | `spratt-travels-crete-vol-2` | have-raw (IA `travelsandresea02spragoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
