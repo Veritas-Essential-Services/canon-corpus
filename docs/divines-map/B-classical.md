@@ -1795,6 +1795,11 @@ Shelf: `pipeline/pausanias_shelf.json`. Shilleto (Gutenberg); Taylor 1824 vols. 
 | Pausanias's Description of Greece, translated with a commentary, in six volumes, vol. I: Translation (London: Macmillan, 1898) | J. G. Frazer | `pausanias-frazer-1898-v1` | have-raw (IA `india.history.resource.91327`) |
 | Description of Greece, tr. W. H. S. Jones, vol. I: Books I-II (Loeb, 1918); Greek facing, kept per Adam's 2026-10-23 ruling |  | `pausanias-jones-loeb-v1` | have-raw (IA `pausaniasgreece01pausuoft`) |
 | Description of Greece, tr. W. H. S. Jones and H. A. Ormerod, vol. II: Books III-V (Loeb, 1926); Greek facing, kept per Adam's 2026-10-23 ruling |  | `pausanias-jones-loeb-v2` | have-raw (IA `pausaniasgreece02pausuoft`) |
+| Pausanias's Description of Greece, translated with a commentary by J. G. Frazer, in six volumes, vol. II: Commentary on Book I (London: Macmillan; New York: The Macmillan Company, 1898) |  | `pausanias-frazer-1898-v2` | have-raw (IA `india.history.resource.91332`) |
+| Pausanias's Description of Greece, translated with a commentary by J. G. Frazer, in six volumes, vol. III: Commentary on Books II-V (London: Macmillan; New York: The Macmillan Company, 1898; the OCR reads the year as 'I898') |  | `pausanias-frazer-1898-v3` | have-raw (IA `pausaniassdescri03paus`) |
+| Pausanias's Description of Greece, translated with a commentary by J. G. Frazer, in six volumes, vol. IV: Commentary on Books VI-VIII (London: Macmillan; New York: The Macmillan Company, 1898) |  | `pausanias-frazer-1898-v4` | have-raw (IA `pausaniassdescri04pausuoft`) |
+| Pausanias's Description of Greece, translated with a commentary by J. G. Frazer, in six volumes, vol. V: Commentary on Books IX, X, Addenda (London: Macmillan; New York: The Macmillan Company, 1898) |  | `pausanias-frazer-1898-v5` | have-raw (IA `india.history.resource.91330`) |
+| Pausanias's Description of Greece, translated with a commentary by J. G. Frazer, in six volumes, vol. VI: Indices and Maps (London: Macmillan; New York: The Macmillan Company, 1898) |  | `pausanias-frazer-1898-v6` | have-raw (IA `india.history.resource.91331`) |
 
 Pending (wishlist): Jones Loeb (Greek facing)
 
