@@ -19044,6 +19044,16 @@ Shelf: `pipeline/otto-seemann_shelf.json`. Mythology of Greece and Rome, ed. Bia
 |---|---|---|---|
 | The Mythology of Greece and Rome, with Special Reference to its Use in Art, ed. G. H. Bianchi |  | `seemann-mythology-greece-rome` | have-raw (IA `mythologyofgreec01seem`) |
 
+
+## Angelo Mosso (1846-1910)
+
+Shelf: `pipeline/angelo-mosso_shelf.json`. Prehistoric Crete and the Mediterranean, 1907-1910. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Palaces of Crete and their Builders (1907) |  | `mosso-palaces-of-crete-1907` | have-raw (IA `palacesofcreteth00moss`) |
+| The Dawn of Mediterranean Civilisation (1910), tr. Marian C. Harrison |  | `mosso-dawn-mediterranean-civilisation-1910` | have-raw (IA `dawnofmediterran00mossuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
