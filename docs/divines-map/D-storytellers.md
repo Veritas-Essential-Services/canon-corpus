@@ -21024,3 +21024,40 @@ Shelf: `pipeline/storytellers-tail-42_shelf.json` (2026-10-22; added at the coor
 | The Queer Folk of Fife: Tales from the Kingdom | have | PG 59829, `dpryde-queer-folk-of-fife` (650 units) |
 | Fifteen Days: An Extract from Edward Colvil's Journal | have | PG 52113, `mlputnam-fifteen-days` (1054 units) |
 | Tin-types taken in the streets of New York | have | PG 22731, `lequigg-tin-types-taken-in-the-streets-of-new-york` (1221 units) |
+
+## Storytellers' tail, group 43 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-43_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Hugh Quigley, Alanson M. Randol, W. B. Rands, Robin Ranger, R. C. Rankin, George R. Ray, Theodore Reichardt, Maurice Renard, Harrison Rhodes, Ben. E. Rich, Alfred Bate Richards, Norval Richardson, A. G. Riddle, Ameen Fares Rihani, Henry Hiram Riley, William Y. W. Ripley, R. V. Risley, Anna Cora Ogden Mowatt Ritchie, Edward Mott Robbins, Sarah Stuart Robbins, James Roberts, Alexander Robertson, Arthur Somers Roche, A. S. Roe, Robert M. Rogers, Maro O. Rolfe, Amanda McKittrick Ros, Albert Ross, Benjamin Rotch, Louis de Rougemont. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Cross and the Shamrock Or, How To Defend The Faith. An Irish-American Catholic Tale Of Real Life, Descriptive Of The Temptations, Sufferings, Trials, And Triumphs Of The Children Of St. Patrick In The Great Republic Of Washington. A Book For The Entertainment And Special Instructions Of The Catholic Male And Female Servants Of The United States. | have | PG 16958, `hquigley-cross-and-the-shamrock-or-how-to-defend-the-faith-a` (861 units) |
+| Last Days of the Rebellion The Second New York Cavalry (Harris' Light) at Appomattox Station and Appomattox Court House, April 8 and 9, 1865 | have | PG 31974, `amrandol-last-days-of-the-rebellion-the-second-new-york-cava` (15 units) |
+| Lilliput Lyrics | have | PG 53030, `wbrands-lilliput-lyrics` (1094 units) |
+| Up in the garret | have | PG 63049, `rranger-up-in-the-garret` (146 units) |
+| History of the Seventh Ohio Volunteer Cavalry | have | PG 31584, `rcrankin-history-of-the-seventh-ohio-volunteer-cavalry` (401 units) |
+| Kasba (White Partridge): A Story of Hudson Bay | have | PG 53176, `grray-kasba-white-partridge` (1172 units) |
+| Diary of Battery A, First Regiment Rhode Island Light Artillery | have | PG 32111, `treichardt-diary-of-battery-a-first-regiment-rhode-island-li` (811 units) |
+| New Bodies for Old | have | PG 59647, `mrenard-new-bodies-for-old` (1915 units) |
+| A Gentleman from Mississippi | have | PG 10844, `hrhodes-gentleman-from-mississippi` (1484 units) |
+| Mr. Durant of Salt Lake City, "That Mormon" | have | PG 56685, `berich-mr-durant-of-salt-lake-city-that-mormon` (806 units) |
+| Cromwell: A Drama, in Five Acts | have | PG 14448, `abrichards-cromwell` (1215 units) |
+| The Lead of Honour | have | PG 46381, `nrichardson-lead-of-honour` (1985 units) |
+| Bart Ridgeley: A Story of Northern Ohio | have | PG 12249, `agriddle-bart-ridgeley` (2004 units) |
+| The Book of Khalid | have | PG 29257, `afrihani-book-of-khalid` (849 units) |
+| The Puddleford Papers; Or, Humors of the West | have | PG 36678, `hhriley-puddleford-papers` (1633 units) |
+| Vermont riflemen in the war for the union, 1861 to 1865 | have | PG 35088, `wywripley-vermont-riflemen-in-the-war-for-the-union-1861-to` (316 units) |
+| The Sentimental Vikings | have | PG 32191, `rvrisley-sentimental-vikings` (411 units) |
+| Fairy Fingers A Novel | have | PG 24664, `acomritchie-fairy-fingers-a-novel` (4465 units) |
+| Civil War Experiences, 1862-1865 Chickamauga, Mission Ridge, Buzzard Roost, Resaca, Rome, New Hope Church, Kenesaw Mountain, Peach Tree Creek, Atlanta, Jonesboro, Averysboro, Bentonville | have | PG 38859, `emrobbins-civil-war-experiences-1862-1865-chickamauga-missio` (88 units) |
+| Miss Ashton's New Pupil: A School Girl's Story | have | PG 28743, `ssrobbins-miss-ashton-s-new-pupil` (1587 units) |
+| The Coyote A Western Story | have | PG 29602, `jroberts-coyote-a-western-story` (2018 units) |
+| Joe Leslie's Wife; or, a Skeleton in the Closet | have | PG 64125, `arobertson-joe-leslie-s-wife` (2472 units) |
+| Find the Woman | have | PG 42740, `asroche-find-the-woman` (2485 units) |
+| I've Been Thinking; or, the Secret of Success | have | PG 39461, `asroe-i-ve-been-thinking` (2582 units) |
+| The 125th Regiment, Illinois Volunteer Infantry: Attention Batallion! | have | PG 52399, `rmrogers-125th-regiment-illinois-volunteer-infantry` (477 units) |
+| The Phantom Rider; or The Giant Chief's Fate: A tale of the old Dahcotah country | have | PG 66193, `morolfe-phantom-rider` (950 units) |
+| Irene Iddesleigh | have | PG 34181, `amros-irene-iddesleigh` (489 units) |
+| A New Sensation | have | PG 40937, `aross-new-sensation` (1836 units) |
+| Suggestions for the Prevention of Juvenile Depravity | have | PG 67892, `brotch-suggestions-for-the-prevention-of-juvenile-depravity` (39 units) |
+| The Adventures of Louis de Rougemont | have | PG 1194, `ldrougemont-adventures-of-louis-de-rougemont` (759 units) |

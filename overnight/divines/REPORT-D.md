@@ -2873,3 +2873,6 @@
 
 ## 2026-10-22 23:54 CDT — storytellers-tail-42: done
 - storytellers-tail-42: new shelf, 30 Gutenberg books, 34,359 units, 3511 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:54 CDT — storytellers-tail-43: done
+- storytellers-tail-43: new shelf, 30 Gutenberg books, 37,365 units, 1035 ~2 ids; verify 0 mismatches, 0 rights flags.
