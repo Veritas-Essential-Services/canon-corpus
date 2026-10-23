@@ -11156,3 +11156,17 @@ Slugs `pyesmith-*`. Built from title pages read for round 49.
 | First lines of Christian theology : in the form of a syllabus, prepared for the use of the students in the Old College, Homerton, with subsequent additions and elucidations (London : Jackson and Walford, 1860) | have-ocr | IA `firstlinesofchri00smit` |
 | The 1818-1821 first edition and the 1847 fourth edition of the Scripture Testimony; the 1842 and 1847 Four Discourses; the 1854 First Lines | alternate | not shelved |
 | Elementary Geology (1841, another man's book in the same catalogue); his pamphlets against the Christian Evidence Society (1828-1829) left for later | excluded | |
+
+## Archibald Hall (round 49, my pick, 2026-10-23)
+
+Slugs `ahall-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| An humble attempt to exhibit a scriptural view of the constitution, order, discipline, and fellowship, of the gospel-church. With an appendix, ... By Archibald Hall.  1769 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_an-humble-attempt-to-exh_hall-archibald_1769` |
+| Church-fellowships. Being an essay on the principles, obligations, and ends of the communion of saints in the gospel-church. By Archibald Hall.  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_church-fellowships-bein_hall-archibald_1770` |
+| An appeal to the public: in four parts. Containing, some general observations ; a preface, wherein the nature and seasons of public covenanting are explained ... A defence of solemn covenanting, ... A display of the spirit, principles, and fallacy of the said defence. By Archibald Hall, ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_an-appeal-to-the-public_hall-archibald_1774` |
+| Grace and holiness: ... being the substance of two discourses, delivered at Wells's-Street, near Oxford-Street, August 4th and 5th, 1776; and now published, ... with considerable enlargements. By Archibald Hall.  1777 (catalogued 1777) | have-ocr | IA `bim_eighteenth-century_grace-and-holiness-_hall-archibald_1777` |
+| A treatise on the faith and influence of the gospel (Glasgow : Printed for William Collins, 1831) | have-ocr | IA `treatiseonfaithi00hall` |
+| The 1795 reprint of the Humble Attempt | alternate | not shelved |
+| The Montreal medical pamphlets of another Archibald Hall (1842-1867) | excluded | |
