@@ -17831,6 +17831,20 @@ Slugs `birks-*`. Built from title pages read for round 118.
 | The Companion psalter : or four hundred and fifty versions of the Psalms, selected and original, for public or private worship (London : Seeleys and Co., 1874), IA compar00birk: 450 versions of the Psalms, "selected and original", most by other hands (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | Later editions of The Difficulties of Belief (1876) and other duplicate scans | excluded | |
 | modern-astronomy-birks-1850 (no catalogue detail) | excluded | |
+
+## Crawford Howell Toy (round 118, my pick, 2026-10-23)
+
+Slugs `toy-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| The history of the religion of Israel : an Old Testament primer (Boston : Unitarian Sunday-School Society, 1884) | have-ocr | IA `historyreligionis00toyc` |
+| Quotations in the New Testament (New York, Scribner, 1884) | have-ocr | IA `quotationsinn00toyc` |
+| Judaism and Christianity; a sketch of the progress of thought from Old Testament to New Testament (Boston, Little, Brown, 1890) | have-ocr | IA `judaismchristian00toyc` |
+| A critical and exegetical commentary on the book of Proverbs (New York, C. Scribner's sons, 1899) | have-ocr | IA `criticalexegetic00toyc` |
+| The Book of the Prophet Ezekiel: A New English Translation, with Explanatory Notes and Pictorial (Dodd, 1899) | have-ocr | IA `bookprophetezek03toygoog` |
+| The book of the prophet Ezekiel: Critical Edition of the Hebrew Text with Notes (John Hopkins Press, 1899) | have-ocr | IA `bookprophetezek01toygoog` |
+| booksofsamuel05erdm (Erdmann's commentary in Lange's series, which Toy translated) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
