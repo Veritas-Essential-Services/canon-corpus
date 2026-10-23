@@ -14030,3 +14030,26 @@ Shelf: `pipeline/cyrus-townsend-brady_shelf.json` (2026-10-22; added at the coor
 | The island of the stairs | have | PG 69130, `ctbrady-island-of-the-stairs` (1580 units) |
 | Hearts and the highway | have | PG 78498, `ctbrady-hearts-and-the-highway` (1985 units) |
 | Web of steel | have | PG 78753, `ctbrady-web-of-steel` (1986 units) |
+
+## Marion Ames Taggart
+
+Shelf: `pipeline/marion-ames-taggart_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Pilgrim Maid: A Story of Plymouth Colony in 1620 | have | PG 39323, `mataggart-pilgrim-maid` (1517 units) |
+| Six Girls and Bob: A Story of Patty-Pans and Green Fields | have | PG 47655, `mataggart-six-girls-and-bob` (1639 units) |
+| The Wyndham Girls | have | PG 47739, `mataggart-wyndham-girls` (1317 units) |
+| The Little Grey House | have | PG 48363, `mataggart-little-grey-house` (1113 units) |
+| Six Girls and the Tea Room | have | PG 48389, `mataggart-six-girls-and-the-tea-room` (1455 units) |
+| The Blissylvania Post-Office | have | PG 48552, `mataggart-blissylvania-post-office` (872 units) |
+| The Daughters of the Little Grey House | have | PG 48604, `mataggart-daughters-of-the-little-grey-house` (1304 units) |
+| Winnetou, the Apache Knight | have | PG 56823, `mataggart-winnetou-the-apache-knight` (1546 units) |
+| Pussy-Cat Town | have | PG 63458, `mataggart-pussy-cat-town` (644 units) |
+| The Annes | have | PG 65784, `mataggart-annes` (1917 units) |
+| Hollyhock House: A Story for Girls | have | PG 65869, `mataggart-hollyhock-house` (1222 units) |
+| Miss Lochinvar: A Story for Girls | have | PG 66018, `mataggart-miss-lochinvar` (790 units) |
+| The cable | have | PG 73770, `mataggart-cable` (1862 units) |
+| Beth's wonder-winter | have | PG 75689, `mataggart-beths-wonder-winter` (1768 units) |
+| Three girls and especially one | have | PG 78414, `mataggart-three-girls-and-especially-one` (666 units) |
+| The queer little man | have | PG 78419, `mataggart-queer-little-man` (1253 units) |

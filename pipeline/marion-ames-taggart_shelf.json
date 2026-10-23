@@ -1,0 +1,226 @@
+{
+ "_about": "Marion Ames Taggart's stories for young readers (the Six Girls books and Catholic juveniles). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Marion Ames Taggart",
+ "_name_words": [
+  "taggart"
+ ],
+ "_surname": [
+  "taggart"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mataggart-pilgrim-maid": [
+   39323,
+   "A Pilgrim Maid: A Story of Plymouth Colony in 1620"
+  ],
+  "mataggart-six-girls-and-bob": [
+   47655,
+   "Six Girls and Bob: A Story of Patty-Pans and Green Fields"
+  ],
+  "mataggart-wyndham-girls": [
+   47739,
+   "The Wyndham Girls"
+  ],
+  "mataggart-little-grey-house": [
+   48363,
+   "The Little Grey House"
+  ],
+  "mataggart-six-girls-and-the-tea-room": [
+   48389,
+   "Six Girls and the Tea Room"
+  ],
+  "mataggart-blissylvania-post-office": [
+   48552,
+   "The Blissylvania Post-Office"
+  ],
+  "mataggart-daughters-of-the-little-grey-house": [
+   48604,
+   "The Daughters of the Little Grey House"
+  ],
+  "mataggart-winnetou-the-apache-knight": [
+   56823,
+   "Winnetou, the Apache Knight"
+  ],
+  "mataggart-pussy-cat-town": [
+   63458,
+   "Pussy-Cat Town"
+  ],
+  "mataggart-annes": [
+   65784,
+   "The Annes"
+  ],
+  "mataggart-hollyhock-house": [
+   65869,
+   "Hollyhock House: A Story for Girls"
+  ],
+  "mataggart-miss-lochinvar": [
+   66018,
+   "Miss Lochinvar: A Story for Girls"
+  ],
+  "mataggart-cable": [
+   73770,
+   "The cable"
+  ],
+  "mataggart-beths-wonder-winter": [
+   75689,
+   "Beth's wonder-winter"
+  ],
+  "mataggart-three-girls-and-especially-one": [
+   78414,
+   "Three girls and especially one"
+  ],
+  "mataggart-queer-little-man": [
+   78419,
+   "The queer little man"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mataggart-pilgrim-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-six-girls-and-bob": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-wyndham-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-little-grey-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-six-girls-and-the-tea-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-blissylvania-post-office": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-daughters-of-the-little-grey-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-winnetou-the-apache-knight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-pussy-cat-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-annes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-hollyhock-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-miss-lochinvar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-cable": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-beths-wonder-winter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-three-girls-and-especially-one": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mataggart-queer-little-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "taggart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
