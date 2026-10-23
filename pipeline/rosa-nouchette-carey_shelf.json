@@ -1,0 +1,204 @@
+{
+ "_about": "Rosa Nouchette Carey's domestic novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Rosa Nouchette Carey",
+ "_name_words": [
+  "carey",
+  "nouchette",
+  "rosa"
+ ],
+ "_surname": [
+  "rosa nouchette carey",
+  "rosa n. carey",
+  "nouchette carey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rncarey-herb-of-grace": [
+   4005,
+   "Herb of Grace"
+  ],
+  "rncarey-esther": [
+   6850,
+   "Esther : a book for girls"
+  ],
+  "rncarey-uncle-max": [
+   16080,
+   "Uncle Max"
+  ],
+  "rncarey-doctor-luttrells-first-patient": [
+   22883,
+   "Doctor Luttrell's First Patient"
+  ],
+  "rncarey-not-like-other-girls": [
+   28463,
+   "Not Like Other Girls"
+  ],
+  "rncarey-our-bessie": [
+   28651,
+   "Our Bessie"
+  ],
+  "rncarey-wee-wifie": [
+   28717,
+   "Wee Wifie"
+  ],
+  "rncarey-lover-or-friend": [
+   28925,
+   "Lover or Friend"
+  ],
+  "rncarey-heriots-choice": [
+   35901,
+   "Heriot's Choice: A Tale"
+  ],
+  "rncarey-mollies-prince": [
+   40083,
+   "Mollie's Prince: A Novel"
+  ],
+  "rncarey-averil": [
+   48228,
+   "Averil"
+  ],
+  "rncarey-queenies-whim-volume-1-of-3": [
+   74805,
+   "Queenie's whim, Volume 1 (of 3)"
+  ],
+  "rncarey-queenies-whim-volume-2-of-3": [
+   74806,
+   "Queenie's whim, Volume 2 (of 3)"
+  ],
+  "rncarey-queenies-whim-volume-3-of-3": [
+   74807,
+   "Queenie's whim, Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rncarey-herb-of-grace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-esther": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-uncle-max": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-doctor-luttrells-first-patient": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-not-like-other-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-our-bessie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-wee-wifie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-lover-or-friend": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-heriots-choice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-mollies-prince": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-averil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-queenies-whim-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-queenies-whim-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rncarey-queenies-whim-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa nouchette carey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

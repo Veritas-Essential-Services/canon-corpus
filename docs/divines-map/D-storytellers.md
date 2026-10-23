@@ -14322,3 +14322,24 @@ Shelf: `pipeline/harold-frederic_shelf.json` (2026-10-22; added at the coordinat
 | The Lawton Girl | have | PG 55339, `hfrederic-lawton-girl` (2056 units) |
 | Marsena, and Other Stories of the Wartime | have | PG 56005, `hfrederic-marsena-and-other-stories-of-the-wartime` (584 units) |
 | pg-57537 | excluded | PG 57537: Gutenberg's index of the author's works, not a book. |
+
+## Rosa Nouchette Carey
+
+Shelf: `pipeline/rosa-nouchette-carey_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Domestic novels. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Herb of Grace | have | PG 4005, `rncarey-herb-of-grace` (2613 units) |
+| Esther : a book for girls | have | PG 6850, `rncarey-esther` (1431 units) |
+| Uncle Max | have | PG 16080, `rncarey-uncle-max` (3565 units) |
+| Doctor Luttrell's First Patient | have | PG 22883, `rncarey-doctor-luttrells-first-patient` (1297 units) |
+| Not Like Other Girls | have | PG 28463, `rncarey-not-like-other-girls` (3610 units) |
+| Our Bessie | have | PG 28651, `rncarey-our-bessie` (1503 units) |
+| Wee Wifie | have | PG 28717, `rncarey-wee-wifie` (2550 units) |
+| Lover or Friend | have | PG 28925, `rncarey-lover-or-friend` (4634 units) |
+| Heriot's Choice: A Tale | have | PG 35901, `rncarey-heriots-choice` (4401 units) |
+| Mollie's Prince: A Novel | have | PG 40083, `rncarey-mollies-prince` (2584 units) |
+| Averil | have | PG 48228, `rncarey-averil` (1327 units) |
+| Queenie's whim, Volume 1 (of 3) | have | PG 74805, `rncarey-queenies-whim-volume-1-of-3` (1115 units) |
+| Queenie's whim, Volume 2 (of 3) | have | PG 74806, `rncarey-queenies-whim-volume-2-of-3` (1188 units) |
+| Queenie's whim, Volume 3 (of 3) | have | PG 74807, `rncarey-queenies-whim-volume-3-of-3` (1311 units) |
