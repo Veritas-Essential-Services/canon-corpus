@@ -18040,6 +18040,18 @@ Slugs `lavington-*`. Built from title pages read for round 120.
 | God the giver of victory : a sermon, preached at Bideford, Devon, on the 29th of November, 1759, being the day appointed for a general thanksgiving, for the success of His Majesty's arms (London : Printed for J. Buckland ... [and 2 others], 1760) | have-ocr | IA `cihm_20289` |
 | Sermons, and other discourses, vol. 2 (London : Printed for Gale, Curtis, and Fenner, 1815) | have-ocr | IA `sermonsandother01lavigoog` |
 | Sacramental meditations (catalogued 1833) | have-ocr | IA `sacramentalmedi00lavigoog` |
+
+## F. Homes Dudden (round 120, my pick, 2026-10-23)
+
+Slugs `dudden-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| Gregory the great (catalogued 1905) | have-ocr | IA `gregorygreat0000fhom` |
+| Christ and Christ's religion : sermons (Edinburgh : T. & T. Clark, 1910) | have-ocr | IA `cu31924029358524` |
+| The future life : four sermons preached at St. John's Notting Hill, in June, 1915 (London ; New York : Longmans, Green, 1915) | have-ocr | IA `futurelifefourse00duddrich` |
+| The dead and the living and other sermons (London ; New York [etc.] : Longmans, Green and co., 1920) | have-ocr | IA `deadandlivingand00dudduoft` |
+| The Life and Times of St. Ambrose (1935) is after 1930 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

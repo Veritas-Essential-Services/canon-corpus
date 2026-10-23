@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain F. Homes Dudden, Anglican divine and later Master of Pembroke College, Oxford, for the Word Hoard: Gregory the Great, his Place in History and Thought, and three books of sermons: Christ and Christ's Religion, The Future Life, and The Dead and the Living. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 120 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "f. homes dudden",
+  "frederick homes dudden",
+  "homes dudden",
+  "dudden"
+ ],
+ "_surname": [
+  "dudden"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dudden-gregory": [
+   "gregorygreat0000fhom",
+   "Gregory the great (catalogued 1905)"
+  ],
+  "dudden-christ-religion": [
+   "cu31924029358524",
+   "Christ and Christ's religion : sermons (Edinburgh : T. & T. Clark, 1910)"
+  ],
+  "dudden-future-life": [
+   "futurelifefourse00duddrich",
+   "The future life : four sermons preached at St. John's Notting Hill, in June, 1915 (London ; New York : Longmans, Green, 1915)"
+  ],
+  "dudden-dead-and-living": [
+   "deadandlivingand00dudduoft",
+   "The dead and the living and other sermons (London ; New York [etc.] : Longmans, Green and co., 1920)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dudden-ambrose": "The Life and Times of St. Ambrose (1935) is after 1930"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dudden-gregory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dudden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dudden-christ-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dudden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dudden-future-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dudden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dudden-dead-and-living": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dudden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
