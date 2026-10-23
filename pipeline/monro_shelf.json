@@ -1,5 +1,5 @@
 {
- "_about": "David Binning Monro (1836-1905), Provost of Oriel. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Modes of Ancient Greek Music, clean Gutenberg. No uids minted.",
+ "_about": "David Binning Monro (1836-1905), Provost of Oriel. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Modes of Ancient Greek Music, clean Gutenberg. No uids minted. A Grammar of the Homeric Dialect, second edition (Clarendon Press, 1891), and Homer's Odyssey, Books XIII-XXIV, edited with English notes and appendices (Clarendon Press, MDCCCCI), Greek text with English commentary, kept per Adam's 2026-10-23 ruling; raw IA.",
  "_name_words": [
   "monro"
  ],
@@ -15,16 +15,47 @@
    "The Modes of Ancient Greek Music"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "monro-homeric-grammar-1891": [
+   "grammarofhomeric00monr",
+   "A Grammar of the Homeric Dialect, second edition, revised and enlarged (Oxford: Clarendon Press, 1891); Greek-heavy, kept per Adam's 2026-10-23 ruling"
+  ],
+  "monro-odyssey-xiii-xxiv-1901": [
+   "homersodyssey00homeiala",
+   "Homer's Odyssey, Books XIII-XXIV, edited with English notes and appendices (Oxford: Clarendon Press, MDCCCCI); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ]
+ },
  "_checks": {
   "monro-modes-ancient-greek-music": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "d. b. monro",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "monro-homeric-grammar-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. b. monro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "monro-odyssey-xiii-xxiv-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. b. monro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
