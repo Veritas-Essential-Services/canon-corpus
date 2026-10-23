@@ -1,0 +1,99 @@
+{
+ "_about": "Gilbert Norwood (1880-1954), Greek and Latin drama: books published 1908-1925 (US public domain by date).",
+ "_author": "Gilbert Norwood (1880-1954)",
+ "_name_words": [
+  "norwood",
+  "greek",
+  "tragedy",
+  "bacchae",
+  "euripides",
+  "terence",
+  "writers"
+ ],
+ "_surname": [
+  "norwood"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "norwood-riddle-of-the-bacchae-1908": [
+   "riddleofbacchael00norw",
+   "The Riddle of the Bacchae: the Last Stage of Euripides' Religious Views (1908)"
+  ],
+  "norwood-greek-tragedy-1920": [
+   "greektragedy00norw",
+   "Greek Tragedy (1920)"
+  ],
+  "norwood-euripides-and-shaw-1921": [
+   "cu31924085469827",
+   "Euripides and Shaw, with Other Essays (1921)"
+  ],
+  "norwood-art-of-terence-1923": [
+   "artofterence00norwuoft",
+   "The Art of Terence (1923)"
+  ],
+  "norwood-writers-of-greece-1925": [
+   "in.ernet.dli.2015.123894",
+   "The Writers of Greece (1925)",
+   "2015.123894.The-Writers-Of-Greece_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "norwood-riddle-of-the-bacchae-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "norwood-greek-tragedy-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "norwood-euripides-and-shaw-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "norwood-art-of-terence-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "norwood-writers-of-greece-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

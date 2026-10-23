@@ -8995,3 +8995,16 @@ Shelf: `pipeline/croiset_shelf.json`. Abridged History of Greek Literature, tr. 
 |---|---|---|---|
 | An Abridged History of Greek Literature (1904), tr. George F. Heffelbower |  | `croiset-abridged-greek-literature-1904` | have-raw (IA `anabridgedhisto00croigoog`) |
 
+
+## Gilbert Norwood (1880-1954)
+
+Shelf: `pipeline/gilbert-norwood_shelf.json`. Greek and Latin drama, 1908-1925. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Riddle of the Bacchae: the Last Stage of Euripides' Religious Views (1908) |  | `norwood-riddle-of-the-bacchae-1908` | have-raw (IA `riddleofbacchael00norw`) |
+| Greek Tragedy (1920) |  | `norwood-greek-tragedy-1920` | have-raw (IA `greektragedy00norw`) |
+| Euripides and Shaw, with Other Essays (1921) |  | `norwood-euripides-and-shaw-1921` | have-raw (IA `cu31924085469827`) |
+| The Art of Terence (1923) |  | `norwood-art-of-terence-1923` | have-raw (IA `artofterence00norwuoft`) |
+| The Writers of Greece (1925) |  | `norwood-writers-of-greece-1925` | have-raw (IA `in.ernet.dli.2015.123894`) |
+
