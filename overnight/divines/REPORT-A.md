@@ -2081,3 +2081,6 @@
 
 ## 2026-10-23 02:31 CDT — round 61 done
 - george-w-bethune, arthur-cleveland-coxe, george-washington-doane, frederic-dan-huntington, henry-b-whipple: 5 shelves, 41 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 02:36 CDT — round 62 done
+- william-m-taylor, howard-crosby, john-hall-1829: 3 shelves, 38 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
