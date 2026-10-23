@@ -12401,6 +12401,13 @@ Shelf: `pipeline/jane-harrison_shelf.json`. Jane Ellen Harrison (1850-1928), New
 | Prolegomena to the Study of Greek Religion |  | `jane-harrison-prolegomena-greek-religion` | have (PG 78248) |
 | Primitive Athens as Described by Thucydides |  | `jane-harrison-primitive-athens` | have (PG 73789) |
 | Ancient Art and Ritual |  | `jane-harrison-ancient-art-ritual` | have (PG 17087) |
+| Myths of the Odyssey in Art and Literature, by J. E. Harrison (London: Rivingtons, MDCCCLXXXII [1882]) |  | `jane-harrison-myths-of-the-odyssey-1882` | have-raw (IA `cu31924026672265`) |
+| Introductory Studies in Greek Art, by Jane E. Harrison (London: T. Fisher Unwin; no year in the OCR title page, IA dates it 1885) |  | `jane-harrison-introductory-studies-greek-art-1885` | have-raw (IA `introductorystud00harr_0`) |
+| Manual of Ancient Sculpture, by Pierre Paris, edited and augmented by Jane E. Harrison (London: H. Grevel; Philadelphia: J. B. Lippincott, 1890) |  | `jane-harrison-paris-manual-ancient-sculpture-1890` | have-raw (IA `manualofancients00pari`) |
+| Themis, a study of the social origins of Greek religion, by Jane Ellen Harrison, with an excursus on the ritual forms preserved in Greek tragedy by Gilbert Murray and a chapter on the origin of the Olympic games by F. M. Cornford (Cambridge: University Press, 1912; the OCR reads the year as '[912') |  | `jane-harrison-themis-1912` | have-raw (IA `themisstudyofsoc00harr`) |
+| Aspects, Aorists and the Classical Tripos, by Jane Ellen Harrison (Cambridge: University Press, 1919) |  | `jane-harrison-aspects-aorists-1919` | have-raw (IA `aspectsaoristscl00harrrich`) |
+| Epilegomena to the Study of Greek Religion, by Jane Ellen Harrison (Cambridge: University Press, 1921) |  | `jane-harrison-epilegomena-1921` | have-raw (IA `epilegomenatostu00harruoft`) |
+| Mythology, by Jane Ellen Harrison (Boston: Marshall Jones, copyright 1924, printed November 1924) |  | `jane-harrison-mythology-1924` | have-raw (IA `mythology0000harr_f3d2`) |
 
 Excluded: PG 75986 (Reminiscences of a Student's Life) (memoir, outside the brief)
 
