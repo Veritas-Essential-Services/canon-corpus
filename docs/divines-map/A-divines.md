@@ -10200,3 +10200,23 @@ Slugs `gibson-*`. Built from title pages read for round 41.
 | Synodus Anglicana (Oxford, Univ. Press, 1854) | have-ocr | IA `synodusanglicana00gibsuoft` |
 | A Preservative against Popery (1738; Cumming's 1848 edition in 18 volumes): a collection of discourses by many divines that Gibson compiled, held with the other many-author compilations for Adam's ruling | pending | not shelved |
 | His Saxon Chronicle (1692) and Camden edition (philology and antiquities); the Speculum Dioeceseos Lincolniensis (1913, records edited by others) | excluded | |
+
+## Thomas Secker (round 41, my pick, 2026-10-22)
+
+Slugs `secker-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| Works of Thomas Secker, vol. 1 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker01seckiala` |
+| Works of Thomas Secker, vol. 2 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker02seckiala` |
+| Works of Thomas Secker, vol. 3 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker03seckiala` |
+| Works of Thomas Secker, vol. 4 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker04seckiala` |
+| Works of Thomas Secker, vol. 5 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker05seckiala` |
+| Works of Thomas Secker, vol. 6 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker06seckiala` |
+| Works of Thomas Secker, vol. 7 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker07seckiala` |
+| Works of Thomas Secker, vol. 8 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker08seckiala` |
+| Works of Thomas Secker, vol. 9 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker09seckiala` |
+| Works of Thomas Secker, vol. 10 (London: J. and F. Rivington and others, catalogued 1771-1780) | have-ocr | IA `worksofsecker10seckiala` |
+| Works of Thomas Secker, vol. 11: Lectures on the Catechism of the Church of England, vol. I, fourth edition (London: J. and F. Rivington and B. White, 1771) | have-ocr | IA `worksofsecker11seckiala` |
+| Works of Thomas Secker, vol. 12: Lectures on the Catechism of the Church of England, vol. II, fourth edition (London: J. and F. Rivington and B. White, 1771) | have-ocr | IA `worksofsecker12seckiala` |
+| The separate Sermons on Several Subjects (1771, seven volumes) and Lectures on the Catechism (1771), both inside the Works; the Nine Sermons (1758) | alternate | not shelved |
