@@ -16123,3 +16123,17 @@ Slugs `hellmuth-*`. Built from title pages read for round 99.
 | The annual address of the Rt. Rev. I. Hellmuth, D.D., D.C.L., Bishop of Huron, delivered before the synod of the diocese, in "Bishop Cronyn Hall," London, Ont., June 4, 1873 ([London, Ont.? : s.n.], 1873) | have-ocr | IA `cihm_13185` |
 | Hellmuth College prospectuses, programmes and concert bills (ephemera) | excluded | |
 | The Doctrine and Practice of Indulgences (a two-sided controversy) | excluded | |
+
+## W. H. P. Faunce (round 99, my pick, 2026-10-23)
+
+Slugs `faunce-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| The two bands : a sermon (Springfield, Mass. : Cyrus W. Atwood, 1887) | have-ocr | IA `MN41733ucmf_5` |
+| Annual sermon before the American Seamen's Friend Society at its sixty-seventh anniversary, Sunday, May 12th, 1895 by Rev. W.H. P. Faunce in the First Avenue Baptist Church, New York City (New York : American Seamen's Friend Society, 1895) | have-ocr | IA `annualsermonbefo00faun` |
+| The educational ideal in the ministry (New York : The Macmillan company, 1908) | have-ocr | IA `educationalideal00faunuoft` |
+| What does Christianity mean? (New York, Chicago, Fleming H. Revell Co, 1912) | have-ocr | IA `whatdoeschrist00faun` |
+| The social aspects of foreign missions (New York : Missionary Education Movement of the U.S. and Canada, 1914) | have-ocr | IA `thesocialaspects00faunuoft` |
+| Religion and war (New York, Cincinnati, The Abingdon press, 1918) | have-ocr | IA `religionwar00faun` |
+| The new horizon of state and church (New York : Macmillan, 1918) | have-ocr | IA `newhorizonofstat00faunrich` |
