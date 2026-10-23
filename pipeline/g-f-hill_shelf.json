@@ -1,5 +1,5 @@
 {
- "_about": "George Francis Hill (1867-1948), Keeper of Coins at the British Museum, raw IA OCR of Sources for Greek History between the Persian and Peloponnesian Wars (1897), the ancient testimonia in Greek and Latin; kept under Adam's 2026-10-23 Greek ruling. Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_about": "George Francis Hill (1867-1948), Keeper of Coins at the British Museum, raw IA OCR of Sources for Greek History between the Persian and Peloponnesian Wars (1897), the ancient testimonia in Greek and Latin; kept under Adam's 2026-10-23 Greek ruling. Greek history (lane B, round eb: eighth IA subject sweep). No uids minted. Round ec adds his Handbook of Greek and Roman Coins (1899), Illustrations of School Classics (1903), Coins of Ancient Sicily (1903) and Historical Greek Coins (1906); the British Museum coin catalogues are museum catalogues and were left out.",
  "_author": "G. F. Hill",
  "_name_words": [
   "hill"
@@ -13,6 +13,22 @@
   "g-f-hill-sources-for-greek-history-1897": [
    "sourcesforgreekh00hilluoft",
    "Sources for Greek History between the Persian and Peloponnesian Wars, collected and arranged by G. F. Hill (Oxford: at the Clarendon Press, 1897)"
+  ],
+  "g-f-hill-handbook-greek-roman-coins-1899": [
+   "handbookofgreekr00hillrich",
+   "A Handbook of Greek and Roman Coins, by G. F. Hill (Handbooks of Archaeology and Antiquities; London: Macmillan and Co.; New York: The Macmillan Company, 1899)"
+  ],
+  "g-f-hill-illustrations-of-school-classics-1903": [
+   "illustrationsofs00hilluoft",
+   "Illustrations of School Classics, arranged and described by G. F. Hill (London: Macmillan and Co.; New York: The Macmillan Company, 1903)"
+  ],
+  "g-f-hill-coins-of-ancient-sicily-1903": [
+   "coinsofancientsi00hillrich",
+   "Coins of Ancient Sicily, by G. F. Hill (Westminster: Archibald Constable & Co., 1903)"
+  ],
+  "g-f-hill-historical-greek-coins-1906": [
+   "historicalgreekc00hilluoft",
+   "Historical Greek Coins, described by G. F. Hill (London: Archibald Constable and Company, 1906)"
   ]
  },
  "_excluded": {},
@@ -25,6 +41,50 @@
    "identity": "ok",
    "ia_rights": "ok: published 1897",
    "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "g-f-hill-handbook-greek-roman-coins-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. f. hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "g-f-hill-illustrations-of-school-classics-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. f. hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "g-f-hill-coins-of-ancient-sicily-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. f. hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "g-f-hill-historical-greek-coins-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. f. hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
