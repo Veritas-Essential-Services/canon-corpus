@@ -1,0 +1,47 @@
+{
+ "_about": "Sir Charles Fellows (1799-1860), explorer of Lycia, raw IA OCR of two accounts of the Xanthus marbles (1843, 1848).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Charles Fellows",
+ "_name_words": [
+  "fellows"
+ ],
+ "_surname": [
+  "charles fellows"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "charles-fellows-xanthian-marbles-1843": [
+   "xanthianmarblest00fell",
+   "The Xanthian Marbles: their acquisition, and transmission to England, by Charles Fellows (London: John Murray, 1843)"
+  ],
+  "charles-fellows-ionic-trophy-monument-1848": [
+   "accountofionictr00fell",
+   "Account of the Ionic Trophy Monument excavated at Xanthus, by Sir Charles Fellows (London: John Murray, 1848)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "charles-fellows-xanthian-marbles-1843": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles fellows",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "charles-fellows-ionic-trophy-monument-1848": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles fellows",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
