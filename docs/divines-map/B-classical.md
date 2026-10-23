@@ -8615,6 +8615,7 @@ Shelf: `pipeline/f-m-cornford_shelf.json`. Three books, 1907-1914.
 | Thucydides Mythistoricus (Arnold, 1907) |  | `cornford-thucydides-mythistoricus-1907` | have-raw (IA `in.ernet.dli.2015.45448`) |
 | From Religion to Philosophy (Arnold, 1912) |  | `cornford-from-religion-to-philosophy-1912` | have-raw (IA `india.history.resource.117546`) |
 | The Origin of Attic Comedy (Arnold, 1914) |  | `cornford-origin-of-attic-comedy-1914` | have-raw (IA `cu31924022693117`) |
+| Greek Religious Thought from Homer to the Age of Alexander, by F. M. Cornford (London and Toronto: J. M. Dent, MCMXXIII [1923]) |  | `cornford-greek-religious-thought-1923` | have-raw (IA `greekreligiousth00cornuoft`) |
 
 ## A. D. Lindsay (Kant and Bergson)
 
