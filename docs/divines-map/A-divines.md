@@ -13720,3 +13720,19 @@ Slugs `oxenden-*`. Built from title pages read for round 74.
 | Short lectures on the Sunday Gospels : from Advent to Easter (London : Longmans, Green, 1902) | have-ocr | IA `shortlecturesont00oxenuoft` |
 | A Simple Exposition of the Psalms, vol. 2 (London: Hatchards, 1872) | have-ocr | IA `simpleexposition02oxen` |
 | Family Prayers (with C. H. Ramsden); The Cottage Library (series); tracts of under 60 pages; the Cree translation of The Pathway of Safety by John Mackay; later reprints of The Pathway of Safety (1859-1896), the same book as Counsel to the Awakened | excluded | |
+
+## Anthony W. Thorold (round 75, my pick, 2026-10-23)
+
+Slugs `thorold-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| The presence of Christ (New York : A.D.F. Randolph, 1880) | have-ocr | IA `presenceofchrist00thor` |
+| The gospel of Christ (New York : A.D.F. Randolph & Co., 1881) | have-ocr | IA `gospelofchrist00thor_0` |
+| The yoke of Christ in the duties and circumstances of life (New York : A.D.F. Randolph, 1883) | have-ocr | IA `yokeofchristindu00thor` |
+| Questions of faith and duty (Philadelphia, Pa. : J.B. Lippincott Co., 1892) | have-ocr | IA `questionsoffaith00thor` |
+| The gospel of work (New York : E.P. Dutton, 1893) | have-ocr | IA `gospelofwork00thor` |
+| The tenderness of Christ (London : Isbister, 1895) | have-ocr | IA `thetendernessofc00thoruoft` |
+| On money (N.Y. : Dodd, Mead and co., 1896) | have-ocr | IA `onmoneythorold00thoriala` |
+| On Letter Writing (Isbister & company , limited, 1896) | have-ocr | IA `onletterwriting00thorgoog` |
+| diocesan charges and pastoral letters under about 120 pages; Selections from the Works of Bishop Thorold (1898, compiled by others) | excluded | |
