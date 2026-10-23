@@ -20321,3 +20321,40 @@ Shelf: `pipeline/storytellers-tail-23_shelf.json` (2026-10-22; added at the coor
 | Educating by story-telling | have | PG 58255, `kdcather-educating-by-story-telling` (3255 units) |
 | Legendary & romantic tales of Indian history | have | PG 70300, `hcaunter-legendary-romantic-tales-of-indian-history` (2545 units) |
 | 6,000 Tons of Gold | have | PG 58269, `hrchamberlain-6-000-tons-of-gold` (904 units) |
+
+## Storytellers' tail, group 24 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-24_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Julius Chambers, Edgar Chambless, Katherine Chandler, S. E. Chapman, Jennie Chappell, J. Smeaton Chase, Clara de Chatelain, H. C. Chatfield-Taylor, Frank H. Cheley, H. V. Cheney, Victor Cherbuliez, George Tomkyns Chesney, Greville John Chester, Frank Samuel Child, Richard Washburn Child, Charlotte E. Chittenden, William Harvey Christie, Henry Martyn Cist, Felicia Buttz Clark, Mary Clark, Thomas M. Clark, William H. Clark, Benjamin Clarke, Laurence Clarke, Marcus Andrew Hislop Clarke, Mary Cowden Clarke, William Clarke, E. H. Clement, Coates, Sylvanus Cobb. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| "In Sargasso." Missing, a romance | have | PG 74830, `jchambers-in-sargasso-missing-a-romance` (889 units) |
+| Roadtown | have | PG 58964, `echambless-roadtown` (368 units) |
+| The Bird-Woman of the Lewis and Clark Expedition | have | PG 5742, `kchandler-bird-woman-of-the-lewis-and-clark-expedition` (140 units) |
+| Doctor Jones' Picnic | have | PG 27434, `sechapman-doctor-jones-picnic` (1257 units) |
+| The youngest princess | have | PG 79303, `jchappell-youngest-princess` (552 units) |
+| The Penance of Magdalena and Other Tales of the California Missions | have | PG 9063, `jschase-penance-of-magdalena-and-other-tales-of-the-californ` (155 units) |
+| Up! Horsie! An Original Fairy Tale | have | PG 23477, `cdchatelain-up-horsie-an-original-fairy-tale` (48 units) |
+| With Edge Tools | have | PG 33528, `hcchatfieldtay-with-edge-tools` (1173 units) |
+| Buffalo Roost: A Story of a Young Men's Christian Association Boys' Department | have | PG 14175, `fhcheley-buffalo-roost` (958 units) |
+| The Rivals of Acadia An Old Story of the New World | have | PG 17351, `hvcheney-rivals-of-acadia-an-old-story-of-the-new-world` (829 units) |
+| Samuel Brohl and Company | have | PG 2470, `vcherbuliez-samuel-brohl-and-company` (1167 units) |
+| The Battle of Dorking | have | PG 65882, `gtchesney-battle-of-dorking` (104 units) |
+| Evelyn Manwaring | have | PG 76400, `gjchester-evelyn-manwaring` (492 units) |
+| The House With Sixty Closets: A Christmas Story for Young Folks and Old Children | have | PG 42961, `fschild-house-with-sixty-closets` (505 units) |
+| The blue wall | have | PG 24451, `rwchild-blue-wall` (1947 units) |
+| What Two Children Did | have | PG 15541, `cechittenden-what-two-children-did` (1053 units) |
+| A Love Story | have | PG 8883, `whchristie-love-story` (2017 units) |
+| The Army of the Cumberland | have | PG 3686, `hmcist-army-of-the-cumberland` (5 units) |
+| Virgilia; or, Out of the Lion's Mouth | have | PG 7938, `fbclark-virgilia` (614 units) |
+| The Early Life of Washington Designed for the Instruction and Amusement of the Young | have | PG 58822, `mclark-early-life-of-washington-designed-for-the-instruction` (171 units) |
+| John Whopper The Newsboy | have | PG 30463, `tmclark-john-whopper-the-newsboy` (156 units) |
+| Reminiscences of the Thirty-Fourth Regiment, Mass. Vol. Infantry | have | PG 33357, `whclark-reminiscences-of-the-thirty-fourth-regiment-mass-vol` (49 units) |
+| The toll-keepers | have | PG 78722, `bclarke-toll-keepers` (250 units) |
+| Bernard Treves's Boots: A Novel of the Secret Service | have | PG 42459, `lclarke-bernard-treves-s-boots` (2923 units) |
+| For the Term of His Natural Life | have | PG 3424, `mahclarke-for-the-term-of-his-natural-life` (3467 units) |
+| Little Paulina: Christmas in Russia | have | PG 64103, `mcclarke-little-paulina` (214 units) |
+| Three Courses and a Dessert Comprising Three Sets of Tales, West Country, Irish, and Legal; and a Melange | have | PG 44560, `wclarke-three-courses-and-a-dessert-comprising-three-sets-of` (2584 units) |
+| The Bull-Run Rout Scenes Attending the First Clash of Volunteers in the Civil War | have | PG 32951, `ehclement-bull-run-rout-scenes-attending-the-first-clash-of` (48 units) |
+| How little Bessie kept the wolf from the door | have | PG 74108, `coates-how-little-bessie-kept-the-wolf-from-the-door` (712 units) |
+| The Smuggler of King's Cove; or, The Old Chapel Mystery | have | PG 49860, `scobb-smuggler-of-king-s-cove` (1774 units) |
