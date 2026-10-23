@@ -20305,6 +20305,21 @@ Shelf: `pipeline/edward-foord_shelf.json`. The Byzantine Empire: the Rearguard o
 |---|---|---|---|
 | The Byzantine Empire: the Rearguard of European Civilization (1911) |  | `foord-byzantine-empire-1911` | have-raw (IA `cu31924085212151`) |
 
+
+## Sir Frederic George Kenyon (1863-1952)
+
+Shelf: `pipeline/f-g-kenyon_shelf.json`. Classical Texts from Papyri in the British Museum, including the Poems of Herodas (1891); The Palaeography of Greek Papyri (Oxford: Clarendon Press, 1899); Greek Papyri in the British Museum: Catalogue, with Texts, vol. I (1893); Greek Papyri in the British Museum, vol. II (1898); Greek Papyri in the British Museum, vol. III, ed. Kenyon and H. I. Bell (1907); Greek Papyri in the British Museum, vol. IV: The Aphrodito Papyri, ed. H. I. Bell (1910); Greek Papyri in the British Museum, vol. V, ed. H. I. Bell (1917) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Classical Texts from Papyri in the British Museum, including the Poems of Herodas (1891) |  | `kenyon-classical-texts-papyri-1891` | have-raw (IA `classicaltextsf00brit`) |
+| The Palaeography of Greek Papyri (Oxford: Clarendon Press, 1899) |  | `kenyon-palaeography-greek-papyri-1899` | have-raw (IA `palaeographyofgr00kenyuoft`) |
+| Greek Papyri in the British Museum: Catalogue, with Texts, vol. I (1893) |  | `kenyon-greek-papyri-british-museum-v1-1893` | have-raw (IA `cu31924022695088`) |
+| Greek Papyri in the British Museum, vol. II (1898) |  | `kenyon-greek-papyri-british-museum-v2-1898` | have-raw (IA `cu31924022695096`) |
+| Greek Papyri in the British Museum, vol. III, ed. Kenyon and H. I. Bell (1907) |  | `kenyon-bell-greek-papyri-british-museum-v3-1907` | have-raw (IA `cu31924022695104`) |
+| Greek Papyri in the British Museum, vol. IV: The Aphrodito Papyri, ed. H. I. Bell (1910) |  | `bell-greek-papyri-british-museum-v4-1910` | have-raw (IA `cu31924022695112`) |
+| Greek Papyri in the British Museum, vol. V, ed. H. I. Bell (1917) |  | `bell-greek-papyri-british-museum-v5-1917` | have-raw (IA `cu31924022695120`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
