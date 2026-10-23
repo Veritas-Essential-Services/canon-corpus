@@ -45924,3 +45924,64 @@ Shelf: `pipeline/storytellers-tail-12_shelf.json` (2026-10-22; added at the coor
 | The Old Market-Cart | have | PG 45552, `fbgriswold-old-market-cart` (504 units) |
 | The Inn at the Red Oak | have | PG 9856, `lgriswold-inn-at-the-red-oak` (1290 units) |
 | Deering of Deal; Or, The Spirit of the School | have | PG 47597, `lgriswold-deering-of-deal` (1785 units) |
+
+## Storytellers' tail, group 13 (27 authors)
+
+Shelf: `pipeline/storytellers-tail-13_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 27 authors with 2 Gutenberg texts each: Clara F. Guernsey, Rena I. Halsey, Olive Harper, S. Frances Harrison, Frances Noyes Hart, James Hay, J. W. Hayes, Headon Hill, John A. Hill, Edwin Hodder, Heinrich Hoffmann, Winifred Holtby, Pauline E. Hopkins, Faye Huntington, Stanley Portal Hyatt, Caroline Elliott Hoogs Jacobs, Will James, W. H. P. Jarvis, William Johnston, Susan Morrow Jones, Ralph S. Kendall, Arthur Lee Knight, Helen C. Knight, Elinor Macartney Lane, D. Lange, Harriet Lewis, George Lippard. Every English text under the name at Gutenberg that no other shelf holds (54 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Eva's Adventures in Shadow-Land | have | PG 53899, `cfguernsey-eva-s-adventures-in-shadow-land` (1050 units) |
+| The Merman and the Figure-Head | have | PG 53901, `cfguernsey-merman-and-the-figure-head` (495 units) |
+| Blue Robin, the Girl Pioneer | have | PG 36846, `rihalsey-blue-robin-the-girl-pioneer` (2045 units) |
+| The Liberty Girl | have | PG 44928, `rihalsey-liberty-girl` (1321 units) |
+| The shoemaker | have | PG 69408, `oharper-shoemaker` (1236 units) |
+| The sociable ghost | have | PG 76737, `oharper-sociable-ghost` (733 units) |
+| Crowded Out! and Other Sketches | have | PG 8652, `sfharrison-crowded-out-and-other-sketches` (914 units) |
+| Ringfield: A Novel | have | PG 26768, `sfharrison-ringfield` (1491 units) |
+| Contact, and Other Stories | have | PG 61138, `fnhart-contact-and-other-stories` (1691 units) |
+| The Bellamy trial | have | PG 75325, `fnhart-bellamy-trial` (3772 units) |
+| The Winning Clue | have | PG 20152, `jhay-winning-clue` (2570 units) |
+| "No Clue!": A Mystery Story | have | PG 26396, `jhay-no-clue` (1968 units) |
+| Pleiades Club—Telegraphers' Paradise on Planet Mars | have | PG 56450, `jwhayes-pleiades-clubtelegraphers-paradise-on-planet-mars` (556 units) |
+| Portland, Oregon, A.D. 1999, and other sketches | have | PG 62495, `jwhayes-portland-oregon-a-d-1999-and-other-sketches` (672 units) |
+| A Traitor's Wooing | have | PG 33453, `hhill-traitor-s-wooing` (1597 units) |
+| The Duke Decides | have | PG 37413, `hhill-duke-decides` (1116 units) |
+| Danger signals | have | PG 19007, `jahill-danger-signals` (1930 units) |
+| Stories of the Railroad | have | PG 37038, `jahill-stories-of-the-railroad` (1191 units) |
+| Life in London | have | PG 9940, `ehodder-life-in-london` (779 units) |
+| Our Christmas party | have | PG 72621, `ehodder-our-christmas-party` (603 units) |
+| Struwwelpeter: Merry Stories and Funny Pictures | have | PG 12116, `hhoffmann-struwwelpeter` (61 units) |
+| Slovenly Betsy | have | PG 19915, `hhoffmann-slovenly-betsy` (100 units) |
+| The Crowded Street | have | PG 68629, `wholtby-crowded-street` (2630 units) |
+| Anderby Wold | have | PG 74443, `wholtby-anderby-wold` (2269 units) |
+| Of one blood: or, The hidden self | have | PG 69255, `pehopkins-of-one-blood` (1122 units) |
+| Winona | have | PG 70087, `pehopkins-winona` (1077 units) |
+| Stories of Great Men | have | PG 35331, `fhuntington-stories-of-great-men` (296 units) |
+| Mabel Wynn | have | PG 73786, `fhuntington-mabel-wynn` (1415 units) |
+| People of Position | have | PG 29274, `sphyatt-people-of-position` (965 units) |
+| The Law of the Bolo | have | PG 55526, `sphyatt-law-of-the-bolo` (962 units) |
+| Blue Bonnet's Ranch Party | have | PG 21960, `cehjacobs-blue-bonnet-s-ranch-party` (2156 units) |
+| Blue Bonnet in Boston; or, Boarding-School Days at Miss North's | have | PG 23916, `cehjacobs-blue-bonnet-in-boston` (3266 units) |
+| Smoky, the cow horse | have | PG 69798, `wjames-smoky-the-cow-horse` (1197 units) |
+| On the dodge | have | PG 78416, `wjames-on-the-dodge` (139 units) |
+| The Great Gold Rush: A Tale of the Klondike | have | PG 35486, `whpjarvis-great-gold-rush` (1890 units) |
+| As Others See Us: Being the Diary of a Canadian Debutante | have | PG 67312, `whpjarvis-as-others-see-us` (1533 units) |
+| The Apartment Next Door | have | PG 11240, `wjohnston-apartment-next-door` (1350 units) |
+| The Kopje Farm | have | PG 68999, `wjohnston-kopje-farm` (1123 units) |
+| The La Chance Mine Mystery | have | PG 27209, `smjones-la-chance-mine-mystery` (859 units) |
+| A Girl of the North: A Story of London and Canada | have | PG 48845, `smjones-girl-of-the-north` (2545 units) |
+| The Luck of the Mounted: A Tale of the Royal Northwest Mounted Police | have | PG 15940, `rskendall-luck-of-the-mounted` (1228 units) |
+| Benton of the Royal Mounted: A Tale of the Royal Northwest Mounted Police | have | PG 41889, `rskendall-benton-of-the-royal-mounted` (1678 units) |
+| Leaves from a middy's log | have | PG 71750, `alknight-leaves-from-a-middy-s-log` (1284 units) |
+| The mid of the maintop | have | PG 77070, `alknight-mid-of-the-maintop` (273 units) |
+| "Puffing Billy" and the Prize "Rocket" or, the story of the Stephensons and our Railways. | have | PG 39926, `hcknight-puffing-billy-and-the-prize-rocket-or-the-story-of` (623 units) |
+| The Rocket: The Story of the Stephensons, Father and Son | have | PG 50119, `hcknight-rocket` (351 units) |
+| Katrine: A Novel | have | PG 14263, `emlane-katrine` (1543 units) |
+| Nancy Stair: A Novel | have | PG 28366, `emlane-nancy-stair` (1748 units) |
+| The Lure of the Mississippi | have | PG 41877, `dlange-lure-of-the-mississippi` (1498 units) |
+| The gold rock of the Chippewa | have | PG 69747, `dlange-gold-rock-of-the-chippewa` (680 units) |
+| Neva's three lovers: a novel | have | PG 68274, `hlewis-neva-s-three-lovers` (1593 units) |
+| Neva's choice A sequel to "Neva's three lovers" | have | PG 68439, `hlewis-neva-s-choice-a-sequel-to-neva-s-three-lovers` (1877 units) |
+| New York: Its Upper Ten and Lower Million | have | PG 57785, `glippard-new-york` (4847 units) |
+| The Mysteries of Florence | have | PG 62760, `glippard-mysteries-of-florence` (2764 units) |
