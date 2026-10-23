@@ -43852,3 +43852,16 @@ Shelf: `pipeline/tom-gallon_shelf.json` (2026-10-22; added at the coordinator's 
 | The Idol of the Blind: A Novel | have | PG 47211, `tgallon-idol-of-the-blind` (2472 units) |
 | The Second Dandy Chater | have | PG 47271, `tgallon-second-dandy-chater` (1529 units) |
 | Tinman | have | PG 48989, `tgallon-tinman` (1588 units) |
+
+## Izola L. Forrester
+
+Shelf: `pipeline/izola-l-forrester_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Kit of Greenacre Farm | have | PG 15029, `ilforrester-kit-of-greenacre-farm` (1082 units) |
+| Greenacre Girls | have | PG 47854, `ilforrester-greenacre-girls` (1299 units) |
+| The Polly Page Ranch Club | have | PG 56773, `ilforrester-polly-page-ranch-club` (1591 units) |
+| The Polly Page Yacht Club | have | PG 56834, `ilforrester-polly-page-yacht-club` (1625 units) |
+| Jean of Greenacres | have | PG 60526, `ilforrester-jean-of-greenacres` (1204 units) |
+| The dangerous inheritance | have | PG 75383, `ilforrester-dangerous-inheritance` (1246 units) |
