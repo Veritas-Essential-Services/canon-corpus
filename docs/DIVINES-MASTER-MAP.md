@@ -10768,6 +10768,22 @@ Slugs `jtaylor-*`. Built from title pages read for round 46.
 | A paraphrase with notes on the Epistle to the Romans : to which is prefix'd a key to the apostolic writings, or an essay to explain the Gospel scheme, and the principal words and phrases the apostles have used in describing it (London : J. Waugh, 1745) | have-ocr | IA `paraphrasewithno00tayl` |
 | The Hebrew Concordance (1754-1757), a reference work; the 1762 Scripture Account of Prayer | excluded | |
 | IA scripturedoctrin00tayl_1 (catalogued under Taylor as The Scripture Doctrine of Atonement, 1809) is in fact Stephen West's Scripture Doctrine of Atonement, by its title page: the fetcher's name check caught the mis-cataloguing | excluded | |
+
+## Job Orton (round 46, my pick, 2026-10-22)
+
+Slugs `orton-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The practical works of the Rev. Job Orton, S.T.P. : now first collected, consisting of discourses, sacramental meditations, and letters with copius indexes. To which is prefixed a memoir of the author, vol. 1 (London, T. Tegg, 1842) | have-ocr | IA `practicalworksof01orto` |
+| The practical works of the Rev. Job Orton, S.T.P. : now first collected, consisting of discourses, sacramental meditations, and letters with copius indexes. To which is prefixed a memoir of the author, vol. 2 (London, T. Tegg, 1842) | have-ocr | IA `practicalworksof02orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 1 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi01orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 2 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi02orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 3 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi03orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 4 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi04orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 5 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi05orto` |
+| A short and plain exposition of the Old Testament : with devotional and practical reflections for the use of families, vol. 6 (Shrewsbury : J. and W. Eddowes, 1791) | have-ocr | IA `shortplainexposi06orto` |
+| The 1805 and 1822 Expositions; separate Discourses to the Aged, Sacramental Meditations, Religious Exercises (in the Practical Works); Memoirs of Doddridge (1766) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
