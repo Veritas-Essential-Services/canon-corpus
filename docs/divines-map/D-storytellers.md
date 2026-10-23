@@ -17954,3 +17954,16 @@ Shelf: `pipeline/bessie-marchant_shelf.json` (2026-10-22; added at the coordinat
 | A Canadian Farm Mystery; Or, Pam the Pioneer | have | PG 48372, `bmarchant-canadian-farm-mystery` (1434 units) |
 | The Youngest Sister: A Tale of Manitoba | have | PG 48942, `bmarchant-youngest-sister` (1790 units) |
 | By Honour Bound: A School Story for Girls | have | PG 65558, `bmarchant-by-honour-bound` (1217 units) |
+
+## Lucas Malet
+
+Shelf: `pipeline/lucas-malet_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Far Horizon | have | PG 8569, `lmalet-far-horizon` (1627 units) |
+| Deadham Hard: A Romance | have | PG 12520, `lmalet-deadham-hard` (2413 units) |
+| The History of Sir Richard Calmady: A Romance | have | PG 23784, `lmalet-history-of-sir-richard-calmady` (3888 units) |
+| The Gateless Barrier | have | PG 34619, `lmalet-gateless-barrier` (816 units) |
+| Little Peter: A Christmas Morality for Children of any Age | have | PG 45666, `lmalet-little-peter` (541 units) |
+| Adrian Savage: A Novel | have | PG 56577, `lmalet-adrian-savage` (1909 units) |
