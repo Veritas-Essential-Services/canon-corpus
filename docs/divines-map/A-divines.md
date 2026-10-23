@@ -17475,3 +17475,13 @@ Slugs `fulford-*`. Built from title pages read for round 114.
 | 1679baconianaorc00baco (Bacon's remains) | excluded | |
 | cihm_46610: by Francis Drummond Fulford, Esq., per its title page, a different man | excluded | |
 | misapplicationof00fulf: by Francis Drummond Fulford, Esq., per its title page, a different man | excluded | |
+
+## Floyd W. Tomkins (round 114, my pick, 2026-10-23)
+
+Slugs `tomkins-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| Following Christ; practical thoughts for daily Christian living (Philadelphia, G.W. Jacobs & Co, 1901) | have-ocr | IA `followingchristp00tomk` |
+| The Christian life; what it is, and how to live it (New York, E.P. Dutton & Co., 1905) | have-ocr | IA `christianlifewha00tomk` |
+| Sunshine on life's way; being selections from his writings (New York, Dutton, 1913) | have-ocr | IA `sunshineonlifesw00tomk` |
