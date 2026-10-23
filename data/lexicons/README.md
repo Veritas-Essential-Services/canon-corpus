@@ -20,3 +20,21 @@ rule 2).
   keys and `mtime=0` so the bytes are reproducible.
 - Honesty: senses are the parser's SHORT sense (the first `Defn:` or numbered sense),
   not the whole entry. Quotations, etymologies and notes are left out by design.
+
+## brewer-1894.paras.json.gz
+
+<!-- prov: 2026-10-19 claude-opus-5-5 drafted -->
+**Brewer's Dictionary of Phrase and Fable, New and Enlarged Edition of 1894.** Public
+domain (Brewer d. 1897). Not a finished dictionary but the WORKING TEXT the converter
+reads: the paragraphs `pipeline/extract_brewer.py` takes from Adam's PDF (pinned by its
+sha256 in `fetch_sources.py`, `LOCAL_SOURCES`), page by page, furniture dropped.
+
+- Why it is committed: the PDF cannot be fetched, so without this a fresh clone (the
+  hosted Armarium's rebuild) could not build Brewer's. Adam's ruling, 2026-10-19: commit
+  the working text of public-domain books built from his own files.
+- `fetch_sources.py` unpacks it into `data/corpus/lexicons/` and refuses it unless the
+  unpacked bytes match the pinned sha256
+  `fb9e705796fd0f5dbb0725a6d0c2c74a754d05004a1ec871952152dfecd9ea6a`.
+- Reproducible: `extract_brewer.py` writes compact JSON and gzips with `mtime=0`, so the
+  same PDF gives the same bytes. 2.8 MB compressed, 8.0 MB unpacked; 60,071 paragraphs.
+- Shape: `{source_sha256, pages, toc: [[letter, page]], furniture_lines, paras: [{p, top, lines}]}`.

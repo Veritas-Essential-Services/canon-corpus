@@ -1,0 +1,27 @@
+[
+  {
+    "id": "12766fa8-868b-5a8d-9285-42e7fd6325c4",
+    "createdAt": "2026-10-06T00:00:00.000Z",
+    "updatedAt": "2026-10-06T00:00:00.000Z",
+    "title": "Requiem",
+    "source": "Robert Louis Stevenson, Underwoods (1887)",
+    "category": "Poetry",
+    "translation": "",
+    "text": "UNDER the wide and starry sky,\nDig the grave and let me lie.\nGlad did I live and gladly die,\n   And I laid me down with a will.\n\nThis be the verse you grave for me:\nHere he lies where he longed to be;\nHome is the sailor, home from sea,\n   And the hunter home from the hill.",
+    "notes": "Heroic addendum (proposed), beside AO Year 1, Term 3.\nText: Underwoods (1898), Project Gutenberg #438.\nUS public domain: the text hosted here is from Underwoods (1898), published before 1931, so its 95-year US term has run out. Project Gutenberg #438. First published 1887 in Underwoods.\nWord Hoard poetry:robert-louis-stevenson.requiem · wh-5F4D8GKEE6",
+    "tags": [
+      "poetry",
+      "addendum-heroic",
+      "heroic",
+      "year-1",
+      "robert-louis-stevenson"
+    ],
+    "srs": {
+      "reps": 0,
+      "ease": 2.5,
+      "interval": 0,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    "history": []
+  }
+]
