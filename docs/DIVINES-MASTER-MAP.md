@@ -15470,6 +15470,23 @@ Slugs `mathieson-*`. Built from title pages read for round 93.
 | Anniversary sermon delivered by the Rev. Dr. Mathieson before the St. Andrew's society, Montreal, November 30th., 1863 ([Montreal, Becket], 1863) | have-ocr | IA `anniversarysermo00math` |
 | The vanity of earthly objects of attachment (Montreal, Printed by Lovell, 1864) | have-ocr | IA `vanityofearthlyo00math` |
 | Synod reports, the Weir v. Mathieson law reports, and Croil's Life of Mathieson | excluded | |
+
+## George Albert Coe (round 93, my pick, 2026-10-23)
+
+Slugs `coe-*`. Built from title pages read for round 93.
+
+| Work | Status | Where |
+|---|---|---|
+| The spiritual life, studies in the science of religion (New York, Eaton, 1900) | have-ocr | IA `spirituallifestu00coeguoft` |
+| The religion of a mature mind (Chicago : F. H. Revell, 1902) | have-ocr | IA `religionofmature00coegrich` |
+| Education in religion and morals (Chicago : F.H. Revell, c190) | have-ocr | IA `educationinrelig00coeguoft` |
+| Can religion be taught? The inauguration of George Albert Coe ... as Skinner and McAlpin professor of practical theology [Union theological seminary] November sixteenth, 1909 (New York, 1909) | have-ocr | IA `canreligionbetau0000coeg` |
+| The psychology of religion (Chicago, University of Chicago Press, [191) | have-ocr | IA `psychologyofreli00coegrich` |
+| A social theory of religious education (New York, C. Scribner's Sons, 1917) | have-ocr | IA `socialtheoryofre0000coeg` |
+| What ails our youth? (New York, C. Scribner's Sons, 1924) | have-ocr | IA `whatailsouryouth00coeg` |
+| The motives of men (New York : Scribner's, 1929) | have-ocr | IA `motivesofmen00coeg` |
+| What is Christian education? (New York ; London : C. Scribner's sons, 1929) | have-ocr | IA `whatischristiane00coeg` |
+| his fraternity history, the memoir of his wife, a school-law book and a Sunday-school curriculum outline; everything printed from 1930 on | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
