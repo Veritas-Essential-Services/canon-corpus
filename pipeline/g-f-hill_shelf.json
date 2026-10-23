@@ -1,0 +1,32 @@
+{
+ "_about": "George Francis Hill (1867-1948), Keeper of Coins at the British Museum, raw IA OCR of Sources for Greek History between the Persian and Peloponnesian Wars (1897), the ancient testimonia in Greek and Latin; kept under Adam's 2026-10-23 Greek ruling. Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "G. F. Hill",
+ "_name_words": [
+  "hill"
+ ],
+ "_surname": [
+  "g. f. hill"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "g-f-hill-sources-for-greek-history-1897": [
+   "sourcesforgreekh00hilluoft",
+   "Sources for Greek History between the Persian and Peloponnesian Wars, collected and arranged by G. F. Hill (Oxford: at the Clarendon Press, 1897)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "g-f-hill-sources-for-greek-history-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. f. hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
