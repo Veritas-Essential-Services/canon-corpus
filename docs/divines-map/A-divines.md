@@ -17338,3 +17338,23 @@ Slugs `smellie-*`. Built from title pages read for round 113.
 | The Reformation in its literature (London and New York : A. Melrose, 1925) | have-ocr | IA `reformationinits00smel` |
 | The natural-history, anatomy and Lives of Gregory, Kames and Hume are by the eighteenth-century William and Alexander Smellie | excluded | |
 | menofcovenant0000alex (a 1960 reprint) | excluded | |
+
+## Sylvanus Stall (round 113, my pick, 2026-10-23)
+
+Slugs `stall-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Ministers' hand-book to Lutheran hymns, in the "Book of worship" (Easton, Pa. : Skinner & Finch, Printers, 1879) | have-ocr | IA `minist00stal` |
+| How to pay church debts : and how to keep churches out of debt (New York : I. K. Funk, 1881) | have-ocr | IA `howtopaychurchde00stal` |
+| Methods of church work : religious, social and financial (New York : Funk & Wagnalls, 1887) | have-ocr | IA `methodsofchurchw0000unse` |
+| Five minute object sermons to children : ... through eye-gate and ear-gate into the city of child-soul (New York : Funk & Wagnalls, 1894) | have-ocr | IA `fiveminuteobje00stal` |
+| Bible selections for daily devotion; 365 readings (New York, London [etc.] Funk & Wagnalls company, 1896) | have-ocr | IA `bibleselectionsf00stal` |
+| Talks To The King's Children (catalogued 1896) | have-ocr | IA `talkstokingschil0000sylv` |
+| What a young man ought to know (Philadelphia ; London : Vir ; Toronto : W. Briggs, 1897) | have-ocr | IA `cihm_64641` |
+| What a young husband ought to know (Philadelphia ; London : Vir, 1897) | have-ocr | IA `b20442671` |
+| What a man of forty-five ought to know (Philadelphia : The Vir Publishing Company; [etc, etc., 1901) | have-ocr | IA `whatmanoffortyfi00stal` |
+| What a Young Boy ought to Know (The Vir Publishing Company, 1905) | have-ocr | IA `whatyoungboyough0000sylv` |
+| With the Children on Sundays (The Uplift Publishing Company, 1911) | have-ocr | IA `withchildrenonsu0000sylv` |
+| What parents should teach their children (Philadelphia, Boston [etc.] American Baptist publication society, 1912) | have-ocr | IA `whatparentsshoul00stal` |
+| What a Young Girl Ought to Know is by Mary Wood-Allen; the Finnish and Armenian translations and his salesmen's manual are left out | excluded | |
