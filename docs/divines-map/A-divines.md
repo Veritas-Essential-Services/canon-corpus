@@ -17709,3 +17709,25 @@ Slugs `keedy-*`. Built from title pages read for round 117.
 | Moral leadership and the ministry (Boston, Horace Worth company, 1912) | have-ocr | IA `moralleadershipm00keed` |
 | The exceeding worth of joining the church (Boston : Horace Worth, 1918) | have-ocr | IA `exceedingworthof00keed` |
 | naturalnessofchr0000edwa (a 2009 printing) | excluded | |
+
+## Allan Pearson Shatford (round 117, my pick, 2026-10-23)
+
+Slugs `shatford-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| The church and the book ([Montréal? : s.n.], 1908) | have-ocr | IA `cihm_65311` |
+| The priest and the people : sermon preached on the third Sunday after Epiphany, January 24th, 1909, in the Church of St. James the Apostle, Montreal ([Montréal? : s.n.], 1909) | have-ocr | IA `cihm_86211` |
+| The three kings of Orient : a prable for Chritmas (Montreal : J, Lovell & Son, 1910) | have-ocr | IA `cihm_76593` |
+| The four Marys : A study in missions ([Toronto?] : Woman's Auxiliary to the M.S.C.C., 1910) | have-ocr | IA `fourmarysstudyin00shat` |
+| The innocents : a Christmas study ([Montréal? : s.n.], 1912) | have-ocr | IA `cihm_76578` |
+| The keystone and the arch : sermon delivered to the Royal Arch Masons of Montreal on Sunday, November 22nd, 1914 ... in the Church of St. James the Apostle ([Montréal? : s.n.], 1914) | have-ocr | IA `cihm_86209` |
+| The year of jubilee : a brief sketch of fifty years' work in the church of St. James the Apostle, Montreal, 1864-1914 (Montreal, Quebec : John Lovell & Son, 1914) | have-ocr | IA `yearofjubileebri00shat` |
+| The light of life : an address ([Montréal? : s.n.], 1914) | have-ocr | IA `cihm_65306` |
+| Duty and faith : war-sermons preached in St. Margaret's Church, Westminister, London (Folkestone [England] : Herald Works, 1916) | have-ocr | IA `cihm_65330` |
+| The return : a Christmas study ([Canada? : s.n.], 1918) | have-ocr | IA `cihm_76574` |
+| Sermons (Mons, Belgium : s.n., 1918) | have-ocr | IA `sermons00shat` |
+| Six marks of a Christian (Philadelphia ; Chicago [etc.] : The John C. Winston company, 1925) | have-ocr | IA `sixmarksofchrist00shat` |
+| Our lady of colours : a Christmas message ([Canada? : s.n.], 1929) | have-ocr | IA `cihm_80527` |
+| The Christmas box ([Canada? : s.n.], ), IA cihm_81127: the booklet prints no date and he lived until 1935, so a pre-1930 printing is not shown | pending | not shelved |
+| The shepherds : a Christmas analogy (Montreal : J. Lovell, ), IA cihm_78261: the booklet prints no date and he lived until 1935, so a pre-1930 printing is not shown | pending | not shelved |
