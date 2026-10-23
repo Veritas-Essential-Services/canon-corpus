@@ -44109,3 +44109,15 @@ Shelf: `pipeline/c-c-waddell_shelf.json` (2026-10-22; added at the coordinator's
 | Nick Carter Stories No. 146, June 26, 1915: Paying the Price; or, Nick Carter's Perilous Venture | have | PG 67618, `ccwaddell-nick-carter-stories-no-146-june-26-1915` (1151 units) |
 | Nick Carter Stories No. 145, June 19, 1915: An Unsolved Mystery; Or, Nick Carter's Government Case | have | PG 68022, `ccwaddell-nick-carter-stories-no-145-june-19-1915` (1166 units) |
 | Nick Carter Stories No. 143, June 5, 1915: The sultan's pearls; or, Nick Carter's Porto Rico trail | have | PG 68499, `ccwaddell-nick-carter-stories-no-143-june-5-1915` (1214 units) |
+
+## Metta Victoria Fuller Victor
+
+Shelf: `pipeline/metta-victoria-fuller-victor_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Blunders of a Bashful Man | have | PG 20754, `mvfvictor-blunders-of-a-bashful-man` (1205 units) |
+| The Bad Boy at Home, and His Experiences in Trying to Become an Editor 1885 | have | PG 25303, `mvfvictor-bad-boy-at-home-and-his-experiences-in-trying-to-b` (319 units) |
+| Alice Wilde: The Raftsman's Daughter. A Forest Romance | have | PG 46586, `mvfvictor-alice-wilde` (884 units) |
+| The Dead Letter: An American Romance | have | PG 46708, `mvfvictor-dead-letter` (1381 units) |
+| Nat Wolfe; or, The gold hunters: A romance of Pike's Peak and New York | have | PG 68363, `mvfvictor-nat-wolfe` (729 units) |
