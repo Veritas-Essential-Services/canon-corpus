@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain George Washington Doane (1799-1859), Episcopal Bishop of New Jersey and founder of Burlington College, for the Word Hoard: Songs by the Way (1824) and The Life and Writings of George Washington Doane (1860-61, four volumes, edited with a memoir by his son William Croswell Doane), which gather his sermons, charges, addresses and poems. from Internet Archive scans. Added 2026-10-23 by lane A, round 61 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "doane"
+ ],
+ "_surname": [
+  "george washington doane",
+  "g. w. doane",
+  "george w. doane",
+  "bishop doane"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gwdoane-songs-by-the-way": [
+   "songsbywaychiefl00doan",
+   "Songs by the way : chiefly devotional , with translations and imitations (New York : E. Bliss and E. White, 1824)"
+  ],
+  "gwdoane-life-and-writings-1": [
+   "lifewritingsofge01doan",
+   "The life and writings of George Washington Doane, vol. 1 (New York [etc.] : D. Appleton and Co., 1860)"
+  ],
+  "gwdoane-life-and-writings-2": [
+   "lifewritingsofge02doan",
+   "The life and writings of George Washington Doane, vol. 2 (New York [etc.] : D. Appleton and Co., 1860)"
+  ],
+  "gwdoane-life-and-writings-3": [
+   "lifewritingsofge03doan",
+   "The life and writings of George Washington Doane, vol. 3 (New York [etc.] : D. Appleton and Co., 1860)"
+  ],
+  "gwdoane-life-and-writings-4": [
+   "lifewritingsofge04doan",
+   "The life and writings of George Washington Doane, vol. 4 (New York [etc.] : D. Appleton and Co., 1860)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gwdoane-other": "Books he edited: Keble's Christian Year (American edition), Gilly's Horae Catecheticae, Charles Wharton's Remains; pamphlets in the 1852 trial controversy written by others; his son William Croswell Doane's own works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gwdoane-songs-by-the-way": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. doane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gwdoane-life-and-writings-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george washington doane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwdoane-life-and-writings-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george washington doane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwdoane-life-and-writings-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george washington doane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gwdoane-life-and-writings-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george washington doane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

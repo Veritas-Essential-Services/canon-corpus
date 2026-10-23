@@ -12636,6 +12636,19 @@ Slugs `coxe-*`. Built from title pages read for round 61.
 | The Paschal : poems for passion-tide and Easter (New York : James Pott & Co., 1889) | have-ocr | IA `paschalp00coxe` |
 | Holy writ and modern thought : a review of times and teachers (New York : Dutton, 1892) | have-ocr | IA `holywritmodernth00coxe` |
 | The American edition of the Ante-Nicene Fathers, which he edited (translations by others); Guettee's The Papacy, which he introduced; William Croswell's Poems, which he edited | excluded | |
+
+## George Washington Doane (round 61, my pick, 2026-10-23)
+
+Slugs `gwdoane-*`. Built from title pages read for round 61.
+
+| Work | Status | Where |
+|---|---|---|
+| Songs by the way : chiefly devotional , with translations and imitations (New York : E. Bliss and E. White, 1824) | have-ocr | IA `songsbywaychiefl00doan` |
+| The life and writings of George Washington Doane, vol. 1 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge01doan` |
+| The life and writings of George Washington Doane, vol. 2 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge02doan` |
+| The life and writings of George Washington Doane, vol. 3 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge03doan` |
+| The life and writings of George Washington Doane, vol. 4 (New York [etc.] : D. Appleton and Co., 1860) | have-ocr | IA `lifewritingsofge04doan` |
+| Books he edited: Keble's Christian Year (American edition), Gilly's Horae Catecheticae, Charles Wharton's Remains; pamphlets in the 1852 trial controversy written by others; his son William Croswell Doane's own works | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
