@@ -2279,3 +2279,6 @@
 
 ## 2026-10-23 09:18 CDT — round 127 done
 - henry-a-brann, john-clowes, joseph-vaill-brimfield, samuel-h-virgin, william-parkinson-baptist, morgan-cowie, robert-easton-montreal: 7 shelves, 29 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:25 CDT — round 128 done
+- william-burkitt, thomas-stackhouse, j-f-ostervald, george-pretyman-tomline, jacob-duche: 5 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
