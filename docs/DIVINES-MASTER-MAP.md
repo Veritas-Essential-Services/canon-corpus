@@ -18841,6 +18841,33 @@ Shelf: `pipeline/carl-darling-buck_shelf.json`. Oscan-Umbrian and Greek dialects
 
 Excluded: A Latin Grammar (1903) (school grammar, skipped by lane B rule)
 
+
+## Sir William Mitchell Ramsay (1851-1939)
+
+Shelf: `pipeline/w-m-ramsay_shelf.json`. Asia Minor, Phrygia, and Paul in his Roman setting, 1890-1927. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Historical Geography of Asia Minor (1890; RGS Supplementary Papers IV) |  | `ramsay-historical-geography-asia-minor-1890` | have-raw (IA `historicalgeogra01rams`) |
+| The Cities and Bishoprics of Phrygia, vol. I part I: The Lycos Valley and South-Western Phrygia (1895) |  | `ramsay-cities-bishoprics-phrygia-1-1` | have-raw (IA `citiesbishoprics01rams`) |
+| The Cities and Bishoprics of Phrygia, vol. I part II: West and West-Central Phrygia (1897) |  | `ramsay-cities-bishoprics-phrygia-1-2` | have-raw (IA `citiesbishoprics02rams`) |
+| The Church in the Roman Empire before A.D. 170 (1893) |  | `ramsay-church-in-roman-empire-1893` | have-raw (IA `churchinromanemp00rams`) |
+| St. Paul the Traveller and the Roman Citizen (1895) |  | `ramsay-st-paul-the-traveller-1895` | have-raw (IA `stpaultravelerro0000rams`) |
+| Was Christ Born at Bethlehem? A Study on the Credibility of St. Luke (1898) |  | `ramsay-was-christ-born-at-bethlehem-1898` | have-raw (IA `waschristbornatb00ramsuoft`) |
+| A Historical Commentary on St. Paul's Epistle to the Galatians (1900) |  | `ramsay-galatians-1900` | have-raw (IA `historicalcommen0000rams`) |
+| The Education of Christ: Hill-side Reveries (1902) |  | `ramsay-education-of-christ-1902` | have-raw (IA `educationofchris00ramsrich`) |
+| The Letters to the Seven Churches of Asia and their Place in the Plan of the Apocalypse (1904) |  | `ramsay-letters-seven-churches-1904` | have-raw (IA `sevenchlettersto00ramsrich`) |
+| Pauline and Other Studies in Early Christian History (1906) |  | `ramsay-pauline-other-studies-1906` | have-raw (IA `paulineotherstud00rams`) |
+| The Cities of St. Paul: their Influence on his Life and Thought (1907) |  | `ramsay-cities-of-st-paul-1907` | have-raw (IA `citiesofstpaulth00ramsuoft`) |
+| Luke the Physician, and Other Studies in the History of Religion (1908) |  | `ramsay-luke-the-physician-1908` | have-raw (IA `cu31924029244758`) |
+| The Thousand and One Churches (1909), with Gertrude L. Bell |  | `ramsay-thousand-and-one-churches-1909` | have-raw (IA `thousandonechurc0000rams`) |
+| The Teaching of Paul in Terms of the Present Day (1913) |  | `ramsay-teaching-of-paul-1913` | have-raw (IA `teachingofpaulin0000rams`) |
+| The Bearing of Recent Discovery on the Trustworthiness of the New Testament (1915) |  | `ramsay-bearing-of-recent-discovery-1915` | have-raw (IA `cu31924029303760`) |
+| The Intermixture of Races in Asia Minor: some of its Causes and Effects (1916) |  | `ramsay-intermixture-of-races-1916` | have-raw (IA `intermixtureofra00ramsuoft`) |
+| Asianic Elements in Greek Civilisation: the Gifford Lectures, 1915-16 (1927) |  | `ramsay-asianic-elements-1927` | have-raw (IA `asianicelementsi00rams`) |
+
+Excluded: Impressions of Turkey (1897); The Revolution in Constantinople and Turkey (1909) (modern Turkey, outside lane B); Studies in the History and Art of the Eastern Provinces (1906) (multi-author volume he edited)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
