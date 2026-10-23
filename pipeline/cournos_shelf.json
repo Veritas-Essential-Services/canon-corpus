@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: John Cournos (1881-1966) as translator: Sologub's The Created Legend (1916) and The Old House and Other Tales (1915). His Little Demon is on aldington_shelf.json. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: John Cournos (1881-1966) as translator: Sologub's The Created Legend (1916) and The Old House and Other Tales (1915). His Little Demon is on aldington_shelf.json. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted. From archive.org (2026-10-23): Short Stories out of Soviet Russia (Dutton, 1929).",
  "_name_words": [
   "john cournos"
  ],
@@ -18,7 +18,12 @@
    "The Created Legend"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cou-ia-soviet-short-stories": [
+   "shortstoriesouto0000john",
+   "Short Stories out of Soviet Russia"
+  ]
+ },
  "titles": {
   "cournos-sologub-the-created-legend": {
    "source": "cou-7480",
@@ -35,19 +40,28 @@
    "translated": "1915-1916 (see the Gutenberg header)",
    "translator": "John Cournos",
    "scan_edition": "Project Gutenberg 48452 (clean text)"
+  },
+  "cournos-short-stories-out-of-soviet-russia": {
+   "source": "cou-ia-soviet-short-stories",
+   "of": "Various Soviet authors",
+   "work": "Short Stories out of Soviet Russia",
+   "translated": "1929",
+   "translator": "John Cournos",
+   "scan_edition": "E. P. Dutton & Co., New York, 1929; \"compiled and translated by John Cournos\""
   }
  },
  "_pending": {},
  "_excluded": {
   "pg-48912": "The Little Demon is on aldington_shelf.json (lane C).",
   "pg-68357": "Short-Story Masterpieces vol. 4 is an anthology edited by Esenwein; Cournos is one of several translators.",
-  "pg-74071": "Short-Story Masterpieces vol. 3: same reason."
+  "pg-74071": "Short-Story Masterpieces vol. 3: same reason.",
+  "archive-sweep-2026-10-23": "2026-10-23: Andreyev's Silence (1908, silencetranslate00andruoft) does not carry his name in its OCR. Chekhov's That Worthless Fellow Platonov (1930) is a 1930 book. His Best British Short Stories volumes and A Modern Plutarch are his own editing and writing, not translation."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "cou-48452": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john cournos",
    "identity": "ok",
@@ -56,12 +70,23 @@
   },
   "cou-7480": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john cournos",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "John Cournos"
+  },
+  "cou-ia-soviet-short-stories": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cournos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -74,6 +99,19 @@
    "pg": 7480,
    "pg_copyrighted_marker": false,
    "pg_translator": "John Cournos"
+  },
+  "cou-ia-soviet-short-stories": {
+   "ia": "shortstoriesouto0000john",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1899,
+    1922,
+    1929
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ],
+   "post_1930_examined": "2026 is the Internet Archive digitising line; the title page reads Dutton 1929"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

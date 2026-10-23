@@ -23277,7 +23277,7 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Mrs. Chapman Coleman (Luise Mühlbach's historical novels)
 
 Shelf: `pipeline/chapman-coleman_shelf.json` · fetch `python3 pipeline/fetch_shelf.py chapman-coleman` · titles `python3 pipeline/split_shelf_titles.py chapman-coleman`.
-Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 30 (2026-10-10), vetoable. Round 149 (2026-10-23) added Mühlbach's Goethe and Schiller (1906 printing). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23286,6 +23286,7 @@ Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `chapman-coleman-muhlbach-goethe-and-schiller-an-historical-romanc` | Luise Mühlbach | Goethe and Schiller: An Historical Romance | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 46883 |
 | `chapman-coleman-muhlbach-mohammed-ali-and-his-house` | Luise Mühlbach | Mohammed Ali and His House | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 3320 |
 | `chapman-coleman-muhlbach-queen-hortense-a-life-picture-of-the-nap` | Luise Mühlbach | Queen Hortense: A Life Picture of the Napoleonic Era | Mrs. Chapman Coleman | 1867-1869 (see the Gutenberg header) | have | PG 12019 |
+| `chapman-coleman-muhlbach-goethe-and-schiller` | Luise Mühlbach | Goethe and Schiller: an Historical Romance | Chapman Coleman | 1906 (this printing; the translation is older) | have-raw | IA `goeandschiller00colegoog` |
 
 ## Count de Soissons (Sienkiewicz, Orzeszkowa, Kraszewski)
 
@@ -23350,12 +23351,13 @@ Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## John Cournos (Sologub's The Created Legend; The Old House)
 
 Shelf: `pipeline/cournos_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cournos` · titles `python3 pipeline/split_shelf_titles.py cournos`.
-Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 30 (2026-10-10), vetoable. Round 149 (2026-10-23) added Short Stories out of Soviet Russia (1929). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `cournos-sologub-the-created-legend` | Fyodor Sologub | The Created Legend | John Cournos | 1915-1916 (see the Gutenberg header) | have | PG 7480 |
 | `cournos-sologub-the-old-house-and-other-tales` | Fyodor Sologub | The Old House, and Other Tales | John Cournos | 1915-1916 (see the Gutenberg header) | have | PG 48452 |
+| `cournos-short-stories-out-of-soviet-russia` | Various Soviet authors | Short Stories out of Soviet Russia | John Cournos | 1929 | have-raw | IA `shortstoriesouto0000john` |
 | — | — | pg-48912: The Little Demon is on aldington_shelf.json (lane C). | — | — | excluded | — |
 | — | — | pg-68357: Short-Story Masterpieces vol. 4 is an anthology edited by Esenwein; Cournos is one of several translators. | — | — | excluded | — |
 | — | — | pg-74071: Short-Story Masterpieces vol. 3: same reason. | — | — | excluded | — |
@@ -24435,12 +24437,13 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## E. B. Cowell (the Sarva-Darsana-Samgraha; the Tattva-Muktavali)
 
 Shelf: `pipeline/cowell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cowell` · titles `python3 pipeline/split_shelf_titles.py cowell`.
-Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Round 149 (2026-10-23) added the Buddha-karita in SBE vol. XLIX (1894). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `cowell-gaudapurnanandacakravarti-the-tattva-muktavali` | active 17th century Gaudapurnanandacakravarti | The Tattva-Muktavali | E. B. Cowell | 1882 (see the Gutenberg header) | have | PG 7175 |
 | `cowell-madhava-the-sarva-darsana-samgraha-or-review-of` | Madhava | The Sarva-Darsana-Samgraha Or, Review of the Different Systems of Hindu Philosophy | E. B. Cowell (with Archibald Edward Gough) | 1882 (see the Gutenberg header) | have | PG 34125 |
+| `cowell-asvaghosha-buddha-karita-sbe-49` | Asvaghosha and others | Buddhist Mahâyâna Texts (Sacred Books of the East, vol. XLIX): Part I, The Buddha-karita of Asvaghosha | Edward Byles Cowell | 1894 | have-raw | IA `buddhistmahy01cowe` |
 
 ## William Whiston (The Works of Josephus, 5 titles)
 
@@ -25000,13 +25003,14 @@ Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Charles R. Murphy's Verhaeren (the three books of love poems)
 
 Shelf: `pipeline/cr-murphy_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cr-murphy` · titles `python3 pipeline/split_shelf_titles.py cr-murphy`.
-Round 38 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 38 (2026-10-10), vetoable. Round 149 (2026-10-23) added Angellier's To the Lost Friend (1913). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `cr-murphy-verhaeren-afternoon` | Emile Verhaeren | Afternoon | Charles R. Murphy | 1916-1917 (see the Gutenberg header) | have | PG 45466 |
 | `cr-murphy-verhaeren-the-evening-hours` | Emile Verhaeren | The Evening Hours | Charles R. Murphy | 1916-1917 (see the Gutenberg header) | have | PG 45467 |
 | `cr-murphy-verhaeren-the-sunlit-hours` | Emile Verhaeren | The Sunlit Hours | Charles R. Murphy | 1916-1917 (see the Gutenberg header) | have | PG 45465 |
+| `cr-murphy-angellier-to-the-lost-friend` | Auguste Angellier | To the Lost Friend: a Sonnet-Sequence | Mildred J. Knight and Charles R. Murphy | 1913 | have-raw | IA `tolostfriendaso00angegoog` |
 
 ## John Henry Brady: Alemán's Guzman d'Alfarache via Le Sage (3 vols)
 
