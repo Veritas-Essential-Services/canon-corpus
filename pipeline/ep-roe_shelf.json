@@ -1,0 +1,269 @@
+{
+ "_about": "E. P. Roe's novels, Barriers Burned Away and the rest, and his garden books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edward Payson Roe",
+ "_name_words": [
+  "edward",
+  "payson",
+  "roe"
+ ],
+ "_surname": [
+  "e. p. roe",
+  "edward payson roe",
+  "edward p. roe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eproe-he-fell-in-love-with-his-wife": [
+   2271,
+   "He Fell in Love with His Wife"
+  ],
+  "eproe-face-illumined": [
+   2501,
+   "A Face Illumined"
+  ],
+  "eproe-driven-back-to-eden": [
+   5269,
+   "Driven Back to Eden"
+  ],
+  "eproe-miss-lou": [
+   5309,
+   "\"Miss Lou\""
+  ],
+  "eproe-taken-alive": [
+   5320,
+   "Taken Alive"
+  ],
+  "eproe-home-acre": [
+   5418,
+   "The Home Acre"
+  ],
+  "eproe-without-a-home": [
+   5433,
+   "Without a Home"
+  ],
+  "eproe-original-belle": [
+   5437,
+   "An Original Belle"
+  ],
+  "eproe-opening-a-chestnut-burr": [
+   6028,
+   "Opening a Chestnut Burr"
+  ],
+  "eproe-what-can-she-do": [
+   6090,
+   "What Can She Do?"
+  ],
+  "eproe-from-jest-to-earnest": [
+   6102,
+   "From Jest to Earnest"
+  ],
+  "eproe-day-of-fate": [
+   6113,
+   "A Day of Fate"
+  ],
+  "eproe-success-with-small-fruits": [
+   6117,
+   "Success with Small Fruits"
+  ],
+  "eproe-his-sombre-rivals": [
+   6128,
+   "His Sombre Rivals"
+  ],
+  "eproe-knight-of-the-nineteenth-century": [
+   6311,
+   "A Knight of the Nineteenth Century"
+  ],
+  "eproe-natures-serial-story": [
+   6412,
+   "Nature's Serial Story"
+  ],
+  "eproe-barriers-burned-away": [
+   6627,
+   "Barriers Burned Away"
+  ],
+  "eproe-earth-trembled": [
+   6719,
+   "The Earth Trembled"
+  ],
+  "eproe-young-girls-wooing": [
+   12876,
+   "A Young Girl's Wooing"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "eproe-he-fell-in-love-with-his-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-face-illumined": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-driven-back-to-eden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-miss-lou": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-taken-alive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-home-acre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-without-a-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-original-belle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-opening-a-chestnut-burr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-what-can-she-do": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-from-jest-to-earnest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-day-of-fate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-success-with-small-fruits": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-his-sombre-rivals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-knight-of-the-nineteenth-century": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-natures-serial-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-barriers-burned-away": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-earth-trembled": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eproe-young-girls-wooing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. roe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -3957,6 +3957,14 @@
       "started": "2026-10-22T22:15:35-05:00",
       "finished": "2026-10-22T22:15:35-05:00",
       "notes": "bernard-capes: new shelf, 19 Gutenberg books, 42,875 units, 2049 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ep-roe",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Edward Payson Roe; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:15:38-05:00",
+      "finished": "2026-10-22T22:15:38-05:00",
+      "notes": "ep-roe: new shelf, 19 Gutenberg books, 43,142 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -38588,3 +38588,29 @@ Shelf: `pipeline/bernard-capes_shelf.json` (2026-10-22; added at the coordinator
 | Historical vignettes, 2nd series | have | PG 70685, `bcapes-historical-vignettes-2nd-series` (1095 units) |
 | The story of Fifine | have | PG 71461, `bcapes-story-of-fifine` (1972 units) |
 | Loaves and fishes | have | PG 71615, `bcapes-loaves-and-fishes` (2447 units) |
+
+## Edward Payson Roe
+
+Shelf: `pipeline/ep-roe_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| He Fell in Love with His Wife | have | PG 2271, `eproe-he-fell-in-love-with-his-wife` (2070 units) |
+| A Face Illumined | have | PG 2501, `eproe-face-illumined` (3246 units) |
+| Driven Back to Eden | have | PG 5269, `eproe-driven-back-to-eden` (1164 units) |
+| "Miss Lou" | have | PG 5309, `eproe-miss-lou` (2134 units) |
+| Taken Alive | have | PG 5320, `eproe-taken-alive` (2145 units) |
+| The Home Acre | have | PG 5418, `eproe-home-acre` (344 units) |
+| Without a Home | have | PG 5433, `eproe-without-a-home` (2486 units) |
+| An Original Belle | have | PG 5437, `eproe-original-belle` (2935 units) |
+| Opening a Chestnut Burr | have | PG 6028, `eproe-opening-a-chestnut-burr` (2799 units) |
+| What Can She Do? | have | PG 6090, `eproe-what-can-she-do` (2647 units) |
+| From Jest to Earnest | have | PG 6102, `eproe-from-jest-to-earnest` (2982 units) |
+| A Day of Fate | have | PG 6113, `eproe-day-of-fate` (2897 units) |
+| Success with Small Fruits | have | PG 6117, `eproe-success-with-small-fruits` (1073 units) |
+| His Sombre Rivals | have | PG 6128, `eproe-his-sombre-rivals` (1916 units) |
+| A Knight of the Nineteenth Century | have | PG 6311, `eproe-knight-of-the-nineteenth-century` (2534 units) |
+| Nature's Serial Story | have | PG 6412, `eproe-natures-serial-story` (2010 units) |
+| Barriers Burned Away | have | PG 6627, `eproe-barriers-burned-away` (2855 units) |
+| The Earth Trembled | have | PG 6719, `eproe-earth-trembled` (2664 units) |
+| A Young Girl's Wooing | have | PG 12876, `eproe-young-girls-wooing` (2241 units) |
