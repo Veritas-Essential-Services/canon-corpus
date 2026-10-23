@@ -11141,3 +11141,18 @@ Slugs `dykes-*`. Built from title pages read for round 49.
 | The Christian minister and his duties (Edinburgh, T. & T. Clark, 1909) | have-ocr | IA `christianministe00dyke` |
 | The divine worker in creation and providence (Edinburgh : T. & T. Clark, 1909) | have-ocr | IA `thedivineworkeri00dykeuoft` |
 | Problems of Faith (1875, a symposium by several authors); the Autobiography of Donald Fraser (1892, Fraser's book) | excluded | |
+
+## John Pye Smith (round 49, my pick, 2026-10-23)
+
+Slugs `pyesmith-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scripture testimony to the Messiah : an inquiry with a view to a satisfactory determination of the doctrine taught in the Holy Scriptures concerning the person of Christ, vol. 1 (London : Jackson and Walford ... [et al.], 1837) | have-ocr | IA `scripturetestim04smitgoog` |
+| The Scripture Testimony to the Messiah: An Inquiry with a View to a, vol. 2 (Jackson and Walford... [et al.], 1837) | have-ocr | IA `scripturetestim05smitgoog` |
+| The Scripture testimony to the Messiah : an inquiry with a view to a satisfactory determination of the doctrine taught in the Holy Scriptures concerning the person of Christ, vol. 3 (London : Jackson and Walford ... [et al.], 1837) | have-ocr | IA `scripturetestim06smitgoog` |
+| Four Discourses of the Sacrifice and Priesthood of Jesus Christ (catalogued 1828) | have-ocr | IA `fourdiscoursesof0000john` |
+| On the relation between the Holy Scriptures and some of geological science (New York : D. Appleton, 1840) | have-ocr | IA `onrelationbetwee00smitrich` |
+| First lines of Christian theology : in the form of a syllabus, prepared for the use of the students in the Old College, Homerton, with subsequent additions and elucidations (London : Jackson and Walford, 1860) | have-ocr | IA `firstlinesofchri00smit` |
+| The 1818-1821 first edition and the 1847 fourth edition of the Scripture Testimony; the 1842 and 1847 Four Discourses; the 1854 First Lines | alternate | not shelved |
+| Elementary Geology (1841, another man's book in the same catalogue); his pamphlets against the Christian Evidence Society (1828-1829) left for later | excluded | |

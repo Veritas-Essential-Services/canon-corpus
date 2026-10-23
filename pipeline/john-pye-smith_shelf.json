@@ -1,0 +1,120 @@
+{
+ "_about": "Public-domain John Pye Smith (1774-1851), Congregationalist divine and tutor of Homerton College, for the Word Hoard: The Scripture Testimony to the Messiah (3rd ed., 3 vols, 1837), Four Discourses on the Sacrifice and Priesthood of Jesus Christ (1828), On the Relation between the Holy Scriptures and some parts of Geological Science (1840) and First Lines of Christian Theology (1854), from Internet Archive scans. Added 2026-10-23 by lane A, round 49 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "smith"
+ ],
+ "_surname": [
+  "john pye smith",
+  "j. pye smith",
+  "pye smith",
+  "john pye-smith",
+  "pye-smith"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pyesmith-scripture-testimony-1": [
+   "scripturetestim04smitgoog",
+   "The Scripture testimony to the Messiah : an inquiry with a view to a satisfactory determination of the doctrine taught in the Holy Scriptures concerning the person of Christ, vol. 1 (London : Jackson and Walford ... [et al.], 1837)"
+  ],
+  "pyesmith-scripture-testimony-2": [
+   "scripturetestim05smitgoog",
+   "The Scripture Testimony to the Messiah: An Inquiry with a View to a, vol. 2 (Jackson and Walford... [et al.], 1837)"
+  ],
+  "pyesmith-scripture-testimony-3": [
+   "scripturetestim06smitgoog",
+   "The Scripture testimony to the Messiah : an inquiry with a view to a satisfactory determination of the doctrine taught in the Holy Scriptures concerning the person of Christ, vol. 3 (London : Jackson and Walford ... [et al.], 1837)"
+  ],
+  "pyesmith-four-discourses": [
+   "fourdiscoursesof0000john",
+   "Four Discourses of the Sacrifice and Priesthood of Jesus Christ (catalogued 1828)"
+  ],
+  "pyesmith-geology": [
+   "onrelationbetwee00smitrich",
+   "On the relation between the Holy Scriptures and some of geological science (New York : D. Appleton, 1840)"
+  ],
+  "pyesmith-first-lines": [
+   "firstlinesofchri00smit",
+   "First lines of Christian theology : in the form of a syllabus, prepared for the use of the students in the Old College, Homerton, with subsequent additions and elucidations (London : Jackson and Walford, 1860)"
+  ]
+ },
+ "_alternates": {
+  "pyesmith-copies": "The 1818-1821 first edition and the 1847 fourth edition of the Scripture Testimony; the 1842 and 1847 Four Discourses; the 1854 First Lines"
+ },
+ "_excluded": {
+  "pyesmith-other": "Elementary Geology (1841, another man's book in the same catalogue); his pamphlets against the Christian Evidence Society (1828-1829) left for later"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "pyesmith-scripture-testimony-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pye smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pyesmith-scripture-testimony-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pye smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pyesmith-scripture-testimony-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pye smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pyesmith-four-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pye smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pyesmith-geology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john pye smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pyesmith-first-lines": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pye smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
