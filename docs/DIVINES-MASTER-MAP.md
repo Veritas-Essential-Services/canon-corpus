@@ -14911,6 +14911,24 @@ Slugs `burnap-*`. Built from title pages read for round 87.
 | The old and the new : or, Discourses and proceedings at the dedication of the re-modelled Unitarian church in Charleston, S.C., on Sunday, April 2, 1954. Preceded by the farewell discourse delivered in the old church, on Sunday, April 4, 1852. <With engravings of the former and present edifices.> (Charleston, S.G. Courtenay, 1854) | have-ocr | IA `oldandnewordisc00burngoog` |
 | Christianity, its essence and evidence: or, An analsys of the New Testament into historical facts, doctrines, opinions, and phraseology (Boston, Crosby, Nicols, and company, 1855) | have-ocr | IA `christianityitse00burn` |
 | The Professions (oration), Origin and Causes of Democracy in America, Memoir of Henry A. Ingalls | excluded | |
+
+## Andrew Leete Stone (round 87, my pick, 2026-10-23)
+
+Slugs `alstone-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached in Park street church, on the Sunday succeeding the death of Daniel Webster (Boston, Ticknor, Reed, and Fields, 1853) | have-ocr | IA `sermonpreachedin00ston` |
+| The war and the patriot's duty (Boston, H. Hoyt, 1861) | have-ocr | IA `warpatriotsduty00ston` |
+| Praise for victory. A sermon, preached in Park Street Church, Boston, February 23, 1862. by A.L. Stone (Press of T.R. Marvin, 1862) | have-ocr | IA `praiseforvictory00ston` |
+| Emancipation. A discourse delivered in Park street church on fast day morning, April 3, 1862 (Boston, Henry Hoyt, 1862) | have-ocr | IA `emancipationdisc00ston` |
+| National Godliness : a sermon, preached in Park Street Church : on occasion of the annual state fast, April 7, 1864, vol. 1 (Boston : T.R. Marvin, 1864) | have-ocr | IA `nationalgodlines01ston` |
+| A discourse occasioned by the death of Abraham Lincoln : who was assassinated in Washington, Friday, April 14th, 1865. Preached in the Park Street Church, Boston, on the next Lord's day (Boston : Printed for J.K. Wiggin, 1865) | have-ocr | IA `discourseoccasio00ston` |
+| The work of New England in the future of our country (Boston, W. V. Spencer, 1865) | have-ocr | IA `workofnewengland00ston` |
+| Memorial discourses (Boston : H. Hoyt, 1866) | have-ocr | IA `memorialdiscours00ston` |
+| Plea for the monthly concert : a sermon / by Rev. A.L. Stone. -- ([s.l. : s.n.], 1870) | have-ocr | IA `pleaformonthlyco00ston` |
+| Leaves from a finished pastorate (New York : A.D.F. Randolph ; San Francisco : Samuel Carson, 1882) | have-ocr | IA `leavesfromfinish0000ston` |
+| his 1854 Fourth of July oration to the city of Boston | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
