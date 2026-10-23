@@ -19320,3 +19320,16 @@ Slugs `darlow-*`. Built from title pages read for round 133.
 | God's Image in Ebony (1912, IA godsimageinebony00darluoft): not yet checked whether the sketches are his or collected from others | pending | not shelved |
 | Let Us Pray (selected collects) and the Letters of George Borrow are other men's words he collected or edited | excluded | |
 | other scans of The Greatest Book in the World | excluded | |
+
+## A. J. Maas (round 133, my pick, 2026-10-23)
+
+Slugs `maas-*`. Built from title pages read for round 133.
+
+| Work | Status | Where |
+|---|---|---|
+| The life of Jesus Christ according to the Gospel history (St. Louis : B. Herder, 1891) | have-ocr | IA `thelifeofjesusch00maasuoft` |
+| A day in the temple ([n. p.], 1892) | have-ocr | IA `dayintemple00maas` |
+| Christ in type and prophecy (New York : Benziger Brothers, 1893) | have-ocr | IA `christintypeandp00maasuoft` |
+| The Gospel according to Saint Matthew with an explanatory and critical commentary (St. Louis : Herder, 1898) | have-ocr | IA `gospelofmatthew00maasuoft` |
+| The Proper Object of the Devotion to the Sacred Heart is Vermeersch's | excluded | |
+| other scans of the same books | excluded | |
