@@ -9760,6 +9760,20 @@ Slugs `thorndike-*`. Built from title pages read for round 40.
 | Theological works, vol. 6 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalworks06thoruoft` |
 | Other scans of the LACT set: the Robarts and Google copies and the theologicalworks0000thor_* scans; the 1841 Right of the Church (BSB) | alternate | not shelved |
 | Edward L. Thorndike the psychologist and other Thorndikes | excluded | |
+
+## John Bramhall (round 40, my pick, 2026-10-22)
+
+Slugs `bramhall-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever01bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever02bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 3 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever03bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 4 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever04bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 5 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever05bram` |
+| Toronto (bramhallsworks0*bramuoft) and Google copies of the same set; the Google 1852 issue | alternate | not shelved |
+| The Rawdon Papers (1819, letters by many hands); The Story of Stanislaus (1914), by another Bramhall | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
