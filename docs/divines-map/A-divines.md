@@ -18695,3 +18695,21 @@ Slugs `brann-*`. Built from title pages read for round 127.
 | The Glories of the Catholic Church (1894-95), IA GloriesOfTheCatholicChurchV2: an anthology of many writers that he edited (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | Kelly's Universal Readers and Primer are school readers | excluded | |
 | second scans of Waifs and Strays | excluded | |
+
+## John Clowes (round 127, my pick, 2026-10-23)
+
+Slugs `clowes-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| The true end and design of the Lord's Supper : together with the nature of the preparation, necessary for a right and profitable reception thereof ; opened and explained, in two dialogues, between a father and his son (Manchester : Printed by M. Wardle, 1810) | have-ocr | IA `trueenddesignofl00clow` |
+| Sermons on various subjects (New York : Published for the Proprieters by Gallaudent and Wells, 1815) | have-ocr | IA `sermonsonvariou00clow` |
+| Letters on the human body : principally designed to prove, that the body is a mere effect derived from the soul, as its instrumental cause, and thus from God, as its primary cause; and that consequently in every human body may be seen a demonstration of the continual presence and operation of the causes, of which it is the effect (Warwick : W. Rose, 1826) | have-ocr | IA `lettersonhumanbo00clow` |
+| Affectionate address to the clergy on the theological writings of Emanuel Swedenborg : Tract no. 18 (Boston ; New York : [s.n.], 1846) | have-ocr | IA `affectionateaddr00clow` |
+| Dialogues on the nature, design and evidence of the theological writings of Emanuel Swedenborg / by Rev. John Clowes (Publ. under the direction of The New Church Printing Fund, 1850) | have-ocr | IA `dialoguesonnatur00clow` |
+| The Gospel according to John : translated from the original Greek, and illustrated by extracts from the theological writings of Emanuel Swedenborg : together with notes and observations by the translator annexed to each chapter (London : J.S. Hodson, 1853) | have-ocr | IA `gospelaccordingt53clow` |
+| The gospel according to Mark (London : White, 1858) | have-ocr | IA `cu31924029341702` |
+| Miracles of Jesus Christ : explained according to their spiritual meaning, in the way of question and answer / by the Rev. J. Clowes (Manchester : Published by the Manchester Printing Society of the New Jerusalem Church, 1867) | have-ocr | IA `miraclesofjesusc00clow` |
+| The gospel according to Matthew, translated from the original Greek, and illustrated by extracts from the theological writings of that eminent servant of the Lord the hon. Emanuel Swedenborg, together with notes and observations of the translator, annexed to each chapter (London : F. Pitman, 1868) | have-ocr | IA `gospelaccordingt00clow` |
+| his translation of Swedenborg's Heaven and Hell belongs to the Swedenborg shelf | excluded | |
+| MN41948ucmf_4, a partial scan | excluded | |
