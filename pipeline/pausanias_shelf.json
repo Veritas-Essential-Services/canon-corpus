@@ -44,10 +44,18 @@
    "Pausanias's Description of Greece, translated with a commentary, in six volumes, vol. I: Translation (London: Macmillan, 1898)",
    "91327_djvu.txt",
    "tr. J. G. Frazer"
+  ],
+  "pausanias-jones-loeb-v1": [
+   "pausaniasgreece01pausuoft",
+   "Description of Greece, tr. W. H. S. Jones, vol. I: Books I-II (Loeb, 1918); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "pausanias-jones-loeb-v2": [
+   "pausaniasgreece02pausuoft",
+   "Description of Greece, tr. W. H. S. Jones and H. A. Ormerod, vol. II: Books III-V (Loeb, 1926); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
-  "Jones, Loeb (1918-)": "Greek facing; pending"
+  "Jones, Loeb (1918-)": "vols. I-II (1918, 1926) taken as pausanias-jones-loeb-*; vols. III-IV (1933-35) are not public domain"
  },
  "_surname": [
   "pausanias"
@@ -57,7 +65,9 @@
   "pausanias-shilleto-v2": "A. R. Shilleto",
   "pausanias-attica-verrall": "Margaret de G. Verrall",
   "pausanias-taylor-v3": "Thomas Taylor",
-  "pausanias-frazer-1898-v1": "j. g. frazer"
+  "pausanias-frazer-1898-v1": "j. g. frazer",
+  "pausanias-jones-loeb-v1": "W. H. S. Jones",
+  "pausanias-jones-loeb-v2": "W. H. S. Jones"
  },
  "_translator_unchecked": {
   "pausanias-taylor-v1": "translator on the row (Thomas Taylor (attributed by catalogue)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -66,7 +76,7 @@
  "_checks": {
   "pausanias-shilleto-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pausanias",
    "translator_claimed": "A. R. Shilleto",
@@ -78,7 +88,7 @@
   },
   "pausanias-shilleto-v2": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pausanias",
    "translator_claimed": "A. R. Shilleto",
@@ -90,7 +100,7 @@
   },
   "pausanias-taylor-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pausanias",
    "identity": "ok",
@@ -101,7 +111,7 @@
   },
   "pausanias-taylor-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pausanias",
    "identity": "ok",
@@ -112,7 +122,7 @@
   },
   "pausanias-attica-verrall": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pausanias",
    "translator_claimed": "Margaret de G. Verrall",
@@ -125,7 +135,7 @@
   },
   "pausanias-taylor-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pausanias",
    "translator_claimed": "Thomas Taylor",
@@ -138,7 +148,7 @@
   },
   "pausanias-frazer-1898-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "pausanias",
    "translator_claimed": "j. g. frazer",
@@ -147,6 +157,32 @@
    "ia_rights": "ok: published 1898",
    "ia_date": "1898",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pausanias-jones-loeb-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "W. H. S. Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-jones-loeb-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "W. H. S. Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

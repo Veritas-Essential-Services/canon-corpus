@@ -1757,6 +1757,8 @@ Shelf: `pipeline/pausanias_shelf.json`. Shilleto (Gutenberg); Taylor 1824 vols. 
 | Mythology and Monuments of Ancient Athens: being a translation of a portion of the Attica of Pausanias (1890) | Margaret de G. Verrall; commentary Jane E. Harrison | `pausanias-attica-verrall` | have-raw (IA `mythologymonume00pausgoog`) |
 | The Description of Greece by Pausanias, vol. 3 (2nd ed., 1824) | Thomas Taylor (attributed by catalogue) | `pausanias-taylor-v3` | have-raw (IA `descriptiongree00pausgoog`) |
 | Pausanias's Description of Greece, translated with a commentary, in six volumes, vol. I: Translation (London: Macmillan, 1898) | J. G. Frazer | `pausanias-frazer-1898-v1` | have-raw (IA `india.history.resource.91327`) |
+| Description of Greece, tr. W. H. S. Jones, vol. I: Books I-II (Loeb, 1918); Greek facing, kept per Adam's 2026-10-23 ruling |  | `pausanias-jones-loeb-v1` | have-raw (IA `pausaniasgreece01pausuoft`) |
+| Description of Greece, tr. W. H. S. Jones and H. A. Ormerod, vol. II: Books III-V (Loeb, 1926); Greek facing, kept per Adam's 2026-10-23 ruling |  | `pausanias-jones-loeb-v2` | have-raw (IA `pausaniasgreece02pausuoft`) |
 
 Pending (wishlist): Jones Loeb (Greek facing)
 
