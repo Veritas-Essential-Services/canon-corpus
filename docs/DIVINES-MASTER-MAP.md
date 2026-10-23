@@ -20097,6 +20097,15 @@ Shelf: `pipeline/frank-justus-miller_shelf.json`. Studies in the Poetry of Italy
 |---|---|---|---|
 | Studies in the Poetry of Italy, Part I: Roman (Chautauqua, 1901) |  | `miller-studies-poetry-italy-roman-1901` | have (PG 35174) |
 
+
+## Frank Pierrepont Graves (1869-1956)
+
+Shelf: `pipeline/frank-pierrepont-graves_shelf.json`. The Burial Customs of the Ancient Greeks (1891). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Burial Customs of the Ancient Greeks (1891) |  | `graves-burial-customs-ancient-greeks-1891` | have (PG 49431) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
