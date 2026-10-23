@@ -44831,3 +44831,15 @@ Shelf: `pipeline/george-waldo-browne_shelf.json` (2026-10-22; added at the coord
 | Cavalry Curt; Or, The Wizard Scout of the Army | have | PG 67404, `gwbrowne-cavalry-curt` (1283 units) |
 | Little Hickory; or, Ragged Rob's young republic | have | PG 68532, `gwbrowne-little-hickory` (1466 units) |
 | The Woodranger | have | PG 77515, `gwbrowne-woodranger` (1381 units) |
+
+## Earl Derr Biggers
+
+Shelf: `pipeline/earl-derr-biggers_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Agony Column | have | PG 1814, `edbiggers-agony-column` (611 units) |
+| Seven Keys to Baldpate | have | PG 30836, `edbiggers-seven-keys-to-baldpate` (1920 units) |
+| Inside the Lines | have | PG 56036, `edbiggers-inside-the-lines` (1455 units) |
+| Love Insurance | have | PG 56077, `edbiggers-love-insurance` (2611 units) |
+| The house without a key | have | PG 73771, `edbiggers-house-without-a-key` (2900 units) |

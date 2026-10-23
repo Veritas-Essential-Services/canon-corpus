@@ -1,0 +1,86 @@
+{
+ "_about": "Earl Derr Biggers: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Earl Derr Biggers",
+ "_name_words": [
+  "biggers",
+  "derr",
+  "earl"
+ ],
+ "_surname": [
+  "earl derr biggers",
+  "biggers"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "edbiggers-agony-column": [
+   1814,
+   "The Agony Column"
+  ],
+  "edbiggers-seven-keys-to-baldpate": [
+   30836,
+   "Seven Keys to Baldpate"
+  ],
+  "edbiggers-inside-the-lines": [
+   56036,
+   "Inside the Lines"
+  ],
+  "edbiggers-love-insurance": [
+   56077,
+   "Love Insurance"
+  ],
+  "edbiggers-house-without-a-key": [
+   73771,
+   "The house without a key"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "edbiggers-agony-column": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earl derr biggers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edbiggers-seven-keys-to-baldpate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earl derr biggers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edbiggers-inside-the-lines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earl derr biggers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edbiggers-love-insurance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earl derr biggers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edbiggers-house-without-a-key": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "earl derr biggers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
