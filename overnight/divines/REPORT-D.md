@@ -1704,3 +1704,6 @@
 
 ## 2026-10-22 22:10 CDT — ann-s-stephens: done
 - ann-s-stephens: new shelf, 29 Gutenberg books, 87,204 units, 1709 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:10 CDT — molly-elliot-seawell: done
+- molly-elliot-seawell: new shelf, 28 Gutenberg books, 28,378 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags.

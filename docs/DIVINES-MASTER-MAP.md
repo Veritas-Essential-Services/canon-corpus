@@ -37980,3 +37980,38 @@ Shelf: `pipeline/ann-s-stephens_shelf.json` (2026-10-22; added at the coordinato
 | The rejected wife | have | PG 78470, `asstephens-rejected-wife` (3142 units) |
 | Bertha's engagement | have | PG 78552, `asstephens-berthas-engagement` (4440 units) |
 | The wife's secret | have | PG 79478, `asstephens-wifes-secret` (3368 units) |
+
+## Molly Elliot Seawell
+
+Shelf: `pipeline/molly-elliot-seawell_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical romances and boys' sea stories. Every English text under the name at Gutenberg that no other shelf holds (28 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Betty at Fort Blizzard | have | PG 18022, `meseawell-betty-at-fort-blizzard` (895 units) |
+| Francezka | have | PG 31804, `meseawell-francezka` (1938 units) |
+| Throckmorton: A Novel | have | PG 36829, `meseawell-throckmorton` (1263 units) |
+| Twelve Naval Captains Being a Record of Certain Americans Who Made Themselves Immortal | have | PG 46406, `meseawell-twelve-naval-captains-being-a-record-of-certain-am` (537 units) |
+| The Rock of the Lion | have | PG 47785, `meseawell-rock-of-the-lion` (1182 units) |
+| Betty's Virginia Christmas | have | PG 59594, `meseawell-bettys-virginia-christmas` (619 units) |
+| Maid Marian, and Other Stories | have | PG 61194, `meseawell-maid-marian-and-other-stories` (1010 units) |
+| Paul Jones | have | PG 61784, `meseawell-paul-jones` (852 units) |
+| Quarterdeck and Fok'sle: Stories of the Sea | have | PG 62483, `meseawell-quarterdeck-and-foksle` (1026 units) |
+| The Jugglers: A Story | have | PG 62927, `meseawell-jugglers` (910 units) |
+| The Son of Columbus | have | PG 63173, `meseawell-son-of-columbus` (611 units) |
+| Decatur and Somers | have | PG 63209, `meseawell-decatur-and-somers` (762 units) |
+| The Last Duchess of Belgarde | have | PG 66592, `meseawell-last-duchess-of-belgarde` (280 units) |
+| The Secret of Toni | have | PG 66975, `meseawell-secret-of-toni` (1099 units) |
+| The History of the Lady Betty Stair | have | PG 67280, `meseawell-history-of-the-lady-betty-stair` (366 units) |
+| A Strange, Sad Comedy | have | PG 67659, `meseawell-strange-sad-comedy` (1013 units) |
+| Despotism and Democracy: A Study in Washington Society and Politics | have | PG 67721, `meseawell-despotism-and-democracy` (843 units) |
+| The Loves of the Lady Arabella | have | PG 68033, `meseawell-loves-of-the-lady-arabella` (814 units) |
+| The Berkeleys and their neighbors | have | PG 68290, `meseawell-berkeleys-and-their-neighbors` (1086 units) |
+| The lively adventures of Gavin Hamilton | have | PG 68630, `meseawell-lively-adventures-of-gavin-hamilton` (1107 units) |
+| The fortunes of Fifi | have | PG 68758, `meseawell-fortunes-of-fifi` (1021 units) |
+| Children of destiny | have | PG 69193, `meseawell-children-of-destiny` (1366 units) |
+| Papa Bouchard | have | PG 70469, `meseawell-papa-bouchard` (893 units) |
+| The House of Egremont | have | PG 71284, `meseawell-house-of-egremont` (2358 units) |
+| A Virginia cavalier | have | PG 71672, `meseawell-virginia-cavalier` (1118 units) |
+| The victory | have | PG 72927, `meseawell-victory` (1634 units) |
+| The sprightly romance of Marsac | have | PG 75477, `meseawell-sprightly-romance-of-marsac` (728 units) |
+| The Chateau of Montplaisir | have | PG 77315, `meseawell-chateau-of-montplaisir` (1047 units) |
