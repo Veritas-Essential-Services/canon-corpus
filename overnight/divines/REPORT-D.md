@@ -2303,3 +2303,9 @@
 
 ## 2026-10-22 22:59 CDT — harry-leon-wilson: done
 - harry-leon-wilson: new shelf, 11 Gutenberg books, 21,059 units, 14 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:01 CDT — christie-works: records refreshed
+- christie-works: new shelf, 16 Gutenberg books, 39,475 units, 664 ~2 ids; verify 0 mismatches, 0 rights flags (The Big Four, The Seven Dials Mystery and The Mysterious Mr. Quin taken: their texts carry the 1927-1930 copyright and its renewal, which is no sign of later matter).
+
+## 2026-10-22 23:01 CDT — max-brand: records refreshed
+- max-brand: new shelf, 18 Gutenberg books, 31,214 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags (The Garden of Eden taken: copyright 1922, renewed 1950).

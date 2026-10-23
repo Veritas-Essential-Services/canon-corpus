@@ -151,9 +151,11 @@ def scan():
         body = body[:e.start()] if e else body
         front = body[:20000]
         # an old-format file carries Gutenberg's own legal small print after the
-        # START line ("Copyright laws are changing", "501(c)(3)"): not a book's line
+        # START line ("Copyright laws are changing", "501(c)(3)"): not a book's line.
+        # A renewal ("Copyright renewed 1955") renews the original year's text,
+        # so it is no sign of later matter; the original line still counts.
         front = "\n".join(l for l in front.splitlines()
-                          if not re.search(r"(?i)gutenberg|copyright laws|501\(c\)|small print|this header|etext", l))
+                          if not re.search(r"(?i)gutenberg|copyright laws|501\(c\)|small print|this header|etext|renew", l))
         hits = sorted({int(y) for y in COPY.findall(front)})
         if hits:
             moved.append((slug, row, hits))
