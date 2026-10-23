@@ -46715,3 +46715,40 @@ Shelf: `pipeline/storytellers-tail-27_shelf.json` (2026-10-22; added at the coor
 | Hiwa: A Tale of Ancient Hawaii | have | PG 61148, `epdole-hiwa` (377 units) |
 | May Brooke | have | PG 16902, `ahdorsey-may-brooke` (1242 units) |
 | Playing Santa Claus, and Other Christmas Tales | have | PG 54803, `spdoughty-playing-santa-claus-and-other-christmas-tales` (925 units) |
+
+## Storytellers' tail, group 28 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-28_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Alfred Bruce Douglas, Ellsworth Douglass, Edmund Downey, C. W. Doyle, Bernard Drachman, Ioulia D. Dragoume, M. E. Drewsen, Fortuné Du Boisgobey, William Atherton DuPuy, Scian Dubh, C. H. Dudley Ward, Edward Duffy, Dundas, Abigail Scott Duniway, Hal Dunning, H. Mortimer Durand, Francis A. Durivage, Seymour Eaton, Charlotte O'Conor Eccles, Eric Rücker Eddison, Milan C. Edson, Julia Edwards, George Egerton, George Dyre Eldridge, Francis Perry Elliott, James Carson Elliott, James Tandy Ellis, Samuel K. Ellis, Walter Emanuel, N. S. Emerson. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Placid Pug, and Other Rhymes | have | PG 45292, `abdouglas-placid-pug-and-other-rhymes` (420 units) |
+| Pharaoh's Broker Being the Very Remarkable Experiences in Another World of Isidor Werner | have | PG 25295, `edouglass-pharaoh-s-broker-being-the-very-remarkable-experie` (1059 units) |
+| Through green glasses | have | PG 77138, `edowney-through-green-glasses` (1375 units) |
+| The Taming of the Jungle | have | PG 35644, `cwdoyle-taming-of-the-jungle` (819 units) |
+| From the Heart of Israel: Jewish Tales and Types | have | PG 60189, `bdrachman-from-the-heart-of-israel` (561 units) |
+| Under Greek Skies | have | PG 55523, `iddragoume-under-greek-skies` (1703 units) |
+| Wood Cottage | have | PG 77064, `medrewsen-wood-cottage` (534 units) |
+| The Red Lottery Ticket | have | PG 40491, `fduboisgobey-red-lottery-ticket` (1080 units) |
+| Uncle Sam, Detective | have | PG 45474, `wadupuy-uncle-sam-detective` (849 units) |
+| Ridgeway: An Historical Romance of the Fenian Invasion of Canada | have | PG 9476, `sdubh-ridgeway` (543 units) |
+| The 56th Division (1st London Territorial Division) | have | PG 50379, `chdudleyward-56th-division-1st-london-territorial-division` (1395 units) |
+| History of the 159th Regiment, N.Y.S.V. | have | PG 24195, `eduffy-history-of-the-159th-regiment-n-y-s-v` (156 units) |
+| The little cap | have | PG 70921, `dundas-little-cap` (243 units) |
+| From the West to the West | have | PG 75131, `asduniway-from-the-west-to-the-west` (2545 units) |
+| White Wolf's Law: A Western Story | have | PG 46457, `hdunning-white-wolf-s-law` (2148 units) |
+| The Thirteenth Hussars in the Great War | have | PG 61769, `hmdurand-thirteenth-hussars-in-the-great-war` (3175 units) |
+| The Three Brides, Love in a Cottage, and Other Tales | have | PG 17669, `fadurivage-three-brides-love-in-a-cottage-and-other-tales` (2587 units) |
+| More About Teddy B. and Teddy G., the Roosevelt Bears Being Volume Two Depicting Their Further Travels and Adventures | have | PG 65424, `seaton-more-about-teddy-b-and-teddy-g-the-roosevelt-bears-be` (749 units) |
+| The Rejuvenation of Miss Semaphore: A Farcical Novel | have | PG 65871, `coeccles-rejuvenation-of-miss-semaphore` (1023 units) |
+| The Worm Ouroboros: A Romance | have | PG 67090, `ereddison-worm-ouroboros` (2523 units) |
+| Solaris Farm: A Story of the Twentieth Century | have | PG 31373, `mcedson-solaris-farm` (1123 units) |
+| Beautiful but poor | have | PG 68929, `jedwards-beautiful-but-poor` (1595 units) |
+| Keynotes | have | PG 74778, `gegerton-keynotes` (544 units) |
+| The Millbank Case: A Maine Mystery of To-day | have | PG 66051, `gdeldridge-millbank-case` (1572 units) |
+| The Haunted Pajamas | have | PG 33780, `fpelliott-haunted-pajamas` (2717 units) |
+| The Southern Soldier Boy: A Thousand Shots for the Confederacy | have | PG 31453, `jcelliott-southern-soldier-boy` (169 units) |
+| Shawn of Skarrow | have | PG 26934, `jtellis-shawn-of-skarrow` (496 units) |
+| The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion | have | PG 24307, `skellis-twenty-fifth-regiment-connecticut-volunteers-in-the` (341 units) |
+| A Dog Day; or, The Angel in the House | have | PG 51306, `wemanuel-dog-day` (157 units) |
+| Dungeon Rock; or, the pirate's cave, at Lynn | have | PG 72083, `nsemerson-dungeon-rock` (352 units) |
