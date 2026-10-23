@@ -2808,6 +2808,14 @@ Shelf: `pipeline/burnet_shelf.json`. John Burnet (1863-1928), Professor of Greek
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Early Greek Philosophy |  | `burnet-early-greek-philosophy` | have (PG 67097) |
+| Greek Philosophy, Part I: Thales to Plato (London: Macmillan, 1914) |  | `burnet-greek-philosophy-thales-to-plato-1914` | have-raw (IA `p1greekphilosoph00burnuoft`) |
+| The Ethics of Aristotle, edited with an introduction and notes (London: Methuen, 1900); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `burnet-ethics-of-aristotle-1900` | have-raw (IA `ethicsofaristotl0000aris`) |
+| Plato's Phaedo, edited with introduction and notes (Oxford: Clarendon Press, 1911); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `burnet-phaedo-1911` | have-raw (IA `cu31924026679484`) |
+| Aristotle on Education, being extracts from the Ethics and Politics, translated and edited (Cambridge: University Press, 1903) |  | `burnet-aristotle-on-education-1903` | have-raw (IA `aristotleoneduca00arisuoft`) |
+| The Socratic Doctrine of the Soul (London: for the British Academy, by Oxford University Press, 1916) |  | `burnet-socratic-doctrine-of-the-soul-1916` | have-raw (IA `socraticdoctrine00burn`) |
+| The Greek Strain in English Literature, an address (1920) |  | `burnet-greek-strain-1920` | have-raw (IA `greekstrainineng00burnrich`) |
+| Aristotle, the British Academy annual lecture on a master mind, Henriette Hertz Trust, from the Proceedings of the British Academy vol. XI (London: Humphrey Milford, 1924) |  | `burnet-aristotle-lecture-1924` | have-raw (IA `aristotle00burn`) |
+| Platonism (Sather Classical Lectures; Berkeley: University of California Press, 1928; this scan a University Microfilms facsimile of that edition) |  | `burnet-platonism-1928` | have-raw (IA `trent_0116400978064`) |
 
 ## Eduard Zeller (scholarship)
 

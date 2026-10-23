@@ -1,5 +1,5 @@
 {
- "_about": "John Burnet (1863-1928), Professor of Greek at St Andrews. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Early Greek Philosophy, clean Gutenberg. The presocratics shelf passed this book over as a study, not a translation; it is taken here as scholarship. No uids minted.",
+ "_about": "John Burnet (1863-1928), Professor of Greek at St Andrews. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Early Greek Philosophy, clean Gutenberg. The presocratics shelf passed this book over as a study, not a translation; it is taken here as scholarship. No uids minted. Also raw IA: Greek Philosophy, Part I: Thales to Plato (1914); The Ethics of Aristotle, edited with an introduction and notes (Methuen, 1900; Greek text with English notes, kept per Adam's 2026-10-23 ruling); Plato's Phaedo, edited with introduction and notes (Clarendon Press, 1911; likewise); Aristotle on Education, extracts from the Ethics and Politics translated and edited (Cambridge, 1903); The Socratic Doctrine of the Soul (British Academy, 1916); The Greek Strain in English Literature (an address, 1920); Aristotle (British Academy master-mind lecture, 1924); Platonism (Sather lectures; University of California Press, 1928; this scan a University Microfilms facsimile of that edition).",
  "_name_words": [
   "burnet"
  ],
@@ -14,16 +14,148 @@
    "Early Greek Philosophy"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "burnet-greek-philosophy-thales-to-plato-1914": [
+   "p1greekphilosoph00burnuoft",
+   "Greek Philosophy, Part I: Thales to Plato (London: Macmillan, 1914)"
+  ],
+  "burnet-ethics-of-aristotle-1900": [
+   "ethicsofaristotl0000aris",
+   "The Ethics of Aristotle, edited with an introduction and notes (London: Methuen, 1900); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "burnet-phaedo-1911": [
+   "cu31924026679484",
+   "Plato's Phaedo, edited with introduction and notes (Oxford: Clarendon Press, 1911); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "burnet-aristotle-on-education-1903": [
+   "aristotleoneduca00arisuoft",
+   "Aristotle on Education, being extracts from the Ethics and Politics, translated and edited (Cambridge: University Press, 1903)"
+  ],
+  "burnet-socratic-doctrine-of-the-soul-1916": [
+   "socraticdoctrine00burn",
+   "The Socratic Doctrine of the Soul (London: for the British Academy, by Oxford University Press, 1916)"
+  ],
+  "burnet-greek-strain-1920": [
+   "greekstrainineng00burnrich",
+   "The Greek Strain in English Literature, an address (1920)"
+  ],
+  "burnet-aristotle-lecture-1924": [
+   "aristotle00burn",
+   "Aristotle, the British Academy annual lecture on a master mind, Henriette Hertz Trust, from the Proceedings of the British Academy vol. XI (London: Humphrey Milford, 1924)"
+  ],
+  "burnet-platonism-1928": [
+   "trent_0116400978064",
+   "Platonism (Sather Classical Lectures; Berkeley: University of California Press, 1928; this scan a University Microfilms facsimile of that edition)"
+  ]
+ },
  "_checks": {
   "burnet-early-greek-philosophy": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john burnet",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "burnet-greek-philosophy-thales-to-plato-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-ethics-of-aristotle-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burnet-phaedo-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burnet-aristotle-on-education-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-socratic-doctrine-of-the-soul-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burnet-greek-strain-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnet-aristotle-lecture-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burnet-platonism-1928": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john burnet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "burnet-greek-strain-1920": {
+   "author": "title page read in the OCR 2026-10-23: 'THE GREEK STRAIN IN ENGLISH LITERATURE AN ADDRESS DELIVERED BY PROFESSOR JOHN (JHJRNET, F.B.A.', i.e. John Burnet, President of the Classical Association of Scotland (so the address says), the surname garbled"
+  },
+  "burnet-aristotle-on-education-1903": {
+   "author": "title page read in the OCR 2026-10-23: 'being extracts from the Ethics and Politics, translated and edited by fous Bunser, Professor of Greek ... United College of St Salvator and St Leonard, St Andrews. Cambridge: At the University Press', i.e. John Burnet, the name garbled; IA records Burnet"
+  },
+  "burnet-ethics-of-aristotle-1900": {
+   "author": "title page read in the OCR 2026-10-23: 'THE ETHICS OF ARISTOTLE EDITED WITH AN INTRODUCTION AND NOTES BY JOH NVBURNET, MUA. PROFESSOR OF GREEK IN THE UNITED COLLEGE OF ST SALVATOR AND ST LEONARD, ST ANDREWS. METHUEN & CO. ... LONDON 1900', i.e. John Burnet, the name split by the OCR"
   }
  }
 }
