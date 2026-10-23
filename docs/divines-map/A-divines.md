@@ -10010,3 +10010,28 @@ Slugs `wwhite-*`. Built from title pages read for round 40.
 | The Case of the Episcopal Churches in the United States Considered (1782), published anonymously; not found as a scan | pending | not shelved |
 | Other scans of the Memoirs (1820, 1836, the 1880 De Costa edition) and of the Commentaries; Bishop White's Opinions (1846), a compilation from his works by another hand | alternate | not shelved |
 | Four Sermons on Christian Baptism (1791) and Christian Baptism (1808), by a different William White, a Baptist | excluded | |
+
+## John Henry Hobart (round 40, my pick, 2026-10-22)
+
+Slugs `hobart-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A companion for the altar : consisting of a short explanation of the Lord's supper, and meditations and prayers, proper to be used before, and during, the receiving of the Holy Communion, according to the form presrcibed by the Protestant Episcopal church, in the United States of America (New York : Printed for Peter A. Mesier, 1804) | have-ocr | IA `companionforaltahc00hoba` |
+| A companion for the festivals and fasts of the Protestant Episcopal Church in the United States of America : principally selected and altered from Nelson's companion for the festivals and fasts of the Church of England (New-York : Printed and sold by T. &amp; J. Swords, 1804) | have-ocr | IA `acompanionforfe00hobagoog` |
+| An apology for apostolic order and its advocates : occasioned by the strictures and denunciations of the Christian's Magazine, in a series of letters addressed to the Rev. John M. Mason (New York : T. and J. Swords, 1807) | have-ocr | IA `apologyforaposto00hoba` |
+| Sermons on the principal events and truths of redemption : to which are annexed, an address and dissertation on the state of the departed, and the descent of Christ into hell, vol. 1 (London : Printed for C. and J. Rivington, 1824) | have-ocr | IA `sermonsonprinci00hobagoog` |
+| The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 1 (New York : Swords, Stanford, 1832) | have-ocr | IA `posthumousworkso01hoba` |
+| The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 2 (New York : Swords, Stanford, 1832) | have-ocr | IA `posthumousworkso02hoba` |
+| The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 3 (New York : Swords, Stanford, 1832) | have-ocr | IA `posthumousworkso03hoba` |
+| The Christian's manual of faith and devotion : containing dialogues and prayers suited to the various exercises of the Christian life, and an exhortation to ejaculatory prayer, with forms of ejaculatory and other prayers (New York : Stanford and Swords, 1844) | have-ocr | IA `christiansmanual00hoba` |
+| The State of the departed (New York : Stanford and Swords, 1846) | have-ocr | IA `stateofdeparted00hoba` |
+| The correspondence of John Henry Hobart, vol. 1 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof01hoba` |
+| The correspondence of John Henry Hobart, vol. 2 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof02hoba` |
+| The correspondence of John Henry Hobart, vol. 3 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof03hoba` |
+| The correspondence of John Henry Hobart, vol. 4 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof04hoba` |
+| The correspondence of John Henry Hobart, vol. 5 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof05hoba` |
+| The correspondence of John Henry Hobart, vol. 6 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof06hoba` |
+| Other printings of the Companion for the Altar (1830-1857), the Festivals and Fasts (1817-1851), the Apology (1844), the Christian's Manual (1849, 1850); the Letter to the Vestry of Trinity Church (1811) and the Reply on Bible societies (1823); other scans of the Posthumous Works and Correspondence | alternate | not shelved |
+| A Collection of the Essays on Episcopacy (1806), which he edited from the Albany Centinel, mostly by others | excluded | |
+| Instruction and Encouragement for Lent (New York, 1859) [instructionencou00hoba]: by the Rev. J. H. Hobart, D.D., the bishop's son John Henry Hobart (1817-1889), who entered the copyright in 1859; not the bishop's | excluded | |
