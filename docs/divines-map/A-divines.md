@@ -17550,3 +17550,12 @@ Slugs `bridgman-*`. Built from title pages read for round 115.
 | Steps Christward; counsels for young Christians (Boston, Chicago, The Pilgrim press, 1903) | have-ocr | IA `stepschristwardc00bri` |
 | Real religion; friendly talks to the average man on clean and useful living (Boston, New York, Pilgrim Press, 1910) | have-ocr | IA `realreligionfrie00brid` |
 | New England in the life of the world; a record of adventure and achievement (Boston, Chicago, The Pilgrim Press, 1910) | have-ocr | IA `newenglandinlife00brid` |
+
+## Charles Comfort Tiffany (round 115, my pick, 2026-10-23)
+
+Slugs `cctiffany-*`. Built from title pages read for round 115.
+
+| Work | Status | Where |
+|---|---|---|
+| A history of the Protestant Episcopal church in the United States of America (New York : Christian Literature, 1895) | have-ocr | IA `historyofprotest00tiff` |
+| The prayer book and the Christian life : or, The conception of the Christian life implied in the Book of common prayer (New York : C. Scribner's Sons, 1898) | have-ocr | IA `prayerbookchrist00tiff` |
