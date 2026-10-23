@@ -15686,6 +15686,31 @@ Slugs `olin-*`. Built from title pages read for round 95.
 | Inaugural address delivered by the Rev. Stephen Olin, president of Randolph-Macon College, on the occasion of his induction into office, 5th March, 1834 (Richmond : Printed by Nesbitt & Walker, 1834) | have-ocr | IA `inauguraladdress00olin` |
 | College life; its theory and practice (New York : Harper & Brothers, Publishers, 1867) | have-ocr | IA `collegelifeitsth00olin` |
 | Travels in Egypt, Arabia Petraea and the Holy Land and Greece and the Golden Horn (travel); his Life and Letters (by others); separate printings of discourses gathered in the Works; 1918 addresses by a later Stephen Olin | excluded | |
+
+## Theophilus Lindsey (round 95, my pick, 2026-10-23)
+
+Slugs `lindsey-*`. Built from title pages read for round 95.
+
+| Work | Status | Where |
+|---|---|---|
+| Apology of Theophilus Lindsey, M.A. on resigning the vicarage of Catterick, Yorkshire (London : Printed for J. Johnson, 1774) | have-ocr | IA `apologyoftheophi00lind` |
+| A sermon preached at the opening of the chapel in Essex-House, Essex-Street, ... on Sunday, April 17, 1774. By Theophilus Lindsey, M.A. To which is added, a summary account of the reformed liturgy, on the plan of the late Dr. Samuel Clarke, ...  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_lindsey-theophilus_1774_1` |
+| A sequel to The apology on resigning the vicarage of Catterick, Yorkshire. By Theophilus Lindsey, M.A.  1776 (catalogued 1776) | have-ocr | IA `bim_eighteenth-century_a-sequel-to-the-apology-_lindsey-theophilus_1776` |
+| A sermon preached at the opening of the new chapel at Essex-Street, Strand, on Sunday, March 29, 1778. By Theophilus Lindsey, M.A.  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_lindsey-theophilus_1778` |
+| Two dissertations. I. On the preface to St. John's Gospel. II. On praying to Jesus Christ. By Theophilus Lindsey, A.M. With a short postscript by Dr. Jebb.  1779 (catalogued 1779) | have-ocr | IA `bim_eighteenth-century_two-dissertations-i-on_lindsey-theophilus_1779` |
+| The catechist: or, an inquiry into the doctrine of the scriptures, concerning the only true God and object of religious worship. In two parts. By Theophilus Lindsey, A.M.  1781 (catalogued 1781) | have-ocr | IA `bim_eighteenth-century_the-catechist-or-an-in_lindsey-theophilus_1781` |
+| An historical view of the state of the Unitarian doctrine and worship from the reformation to our own times : With some account of the obstructions which it has met with at different periods (London : Printed for J. Johnson ..., 1783) | have-ocr | IA `historicalviewof00lind` |
+| Vindiciae Priestleianae: an address to the students of Oxford and Cambridge, occasioned by a letter to Dr. Priestley from a person calling himself an undergraduate, but publicly and uncontradictedly ascribed to Dr. Horne (London : J. Johnson, 1788) | have-ocr | IA `vindiciaepriestl00lind` |
+| A second address to the students of Oxford and Cambridge, relating to Jesus Christ, and the origin of the great errors concerning him; with a list of the false readings of the scriptures, ... By Theophilus Lindsey, ...  1790 (catalogued 1790) | have-ocr | IA `bim_eighteenth-century_a-second-address-to-the-_lindsey-theophilus_1790` |
+| A list of the false readings of the scriptures, and the mistranslations of the English Bible, which contribute to support the great errors concerning Jesus Christ. By Theophilus Lindsey, ...  1790 (catalogued 1790) | have-ocr | IA `bim_eighteenth-century_a-list-of-the-false-read_lindsey-theophilus_1790` |
+| Conversations on Christian idolatry, in the year 1791. Published by Theophilus Lindsey, M.A.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_conversations-on-christi_lindsey-theophilus_1792` |
+| On prayer; and forms of prayer, their defects, and remedy; a sermon, preached at the chapel in Essex Street, Strand; on Sunday, April xiv, MDCCXCIII. By Theophilus Lindsey, M.A.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_on-prayer-and-forms-of-_lindsey-theophilus_1793` |
+| A discourse addressed to the congregation at the chapel in Essex Street, Strand, on resigning the pastoral office among them. By Theophilus Lindsey, M.A.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-discourse-addressed-to_lindsey-theophilus_1793` |
+| Conversations on the divine government : Shewing that every thing is from God, and for good, to all (London : Printed for J. Johnson, 1802) | have-ocr | IA `conversationsond00lindiala` |
+| Sermons : with appropriate prayers annexed, vol. 1 (London : Printed for J. Johnson, 1810) | have-ocr | IA `sermonswithappr00lindgoog` |
+| bim_eighteenth-century_a-farewel-address-to-the_lindsey-theophilus_1773: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; the 1774 printing could replace it | pending | not shelved |
+| examinationofmrr00lind: printed without the author's name on the title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Polish Partition (satire, attribution doubtful), Letters of Theophilus Lindsey (1920 selection, edited), Unitarian Society tracts (many authors), and reprints of the Apology | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
