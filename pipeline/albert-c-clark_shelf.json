@@ -1,5 +1,5 @@
 {
- "_about": "Albert Curtis Clark (1859-1937), Corpus Professor of Latin at Oxford, raw IA OCR of The Cursus in Mediaeval and Vulgar Latin (1910). Latin and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_about": "Albert Curtis Clark (1859-1937), Corpus Professor of Latin at Oxford, raw IA OCR of The Cursus in Mediaeval and Vulgar Latin (1910). Latin and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted. Round ec adds his Pro Milone with English commentary (1895); a Classical Review issue (Fictitious MSS. of Bosius) and the Latin-dense Vetus Cluniacensis were passed over.",
  "_author": "Albert C. Clark",
  "_name_words": [
   "clark"
@@ -13,6 +13,10 @@
   "albert-c-clark-cursus-1910": [
    "cursusinmediaeva00claruoft",
    "The Cursus in Mediaeval and Vulgar Latin, by Albert C. Clark, a paper read to the Oxford Philological Society on February 18, 1910 (Oxford: at the Clarendon Press, 1910)"
+  ],
+  "albert-c-clark-pro-milone-1895": [
+   "protanniomilonea00ciceuoft",
+   "M. Tulli Ciceronis Pro T. Annio Milone ad iudices oratio, with introduction and commentary by Albert C. Clark (Oxford: at the Clarendon Press, 1895)"
   ]
  },
  "_excluded": {},
@@ -25,6 +29,17 @@
    "identity": "ok",
    "ia_rights": "ok: published 1910",
    "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "albert-c-clark-pro-milone-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert c. clark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
