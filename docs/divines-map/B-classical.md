@@ -10800,3 +10800,12 @@ Shelf: `pipeline/fred-morrow-fling_shelf.json`. A Source Book of Greek History (
 |---|---|---|---|
 | A Source Book of Greek History (Boston: Heath, 1907) |  | `fling-source-book-greek-history-1907` | have-raw (IA `cu31924028262859`) |
 
+
+## Friedrich Lohr
+
+Shelf: `pipeline/friedrich-lohr_shelf.json`. A Day in Ancient Rome, rev. Edgar S. Shumway (Boston: Heath, 1885) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Day in Ancient Rome, rev. Edgar S. Shumway (Boston: Heath, 1885) |  | `lohr-day-in-ancient-rome-1885` | have-raw (IA `cu31924028274029`) |
+
