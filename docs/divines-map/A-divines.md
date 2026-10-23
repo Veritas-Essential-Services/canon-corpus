@@ -11294,3 +11294,17 @@ Slugs `irons-*`. Built from title pages read for round 50.
 | Zion's hymns ([London] : Printed for the Author, 1827) | have-ocr | IA `zionshymns00iron` |
 | Judah : the book of Psalms paraphrased in spiritual songs for public worship (London : Sold at the Author's house, 1847) | have-ocr | IA `judahblm00iron` |
 | William Josiah Irons's books (On the Holy Catholic Church 1837, the Prayer-book pamphlet 1863): another man | excluded | |
+
+## Joseph Hussey (round 50, my pick, 2026-10-23)
+
+Slugs `hussey-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| The gospel-feast opened: ...  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1641-1700_the-gospel-feast-opened_hussey-joseph_1692` |
+| A warning from the winds. A sermon preach'd upon Wednesday, January XIX. 1703/4. being the day of publick humiliation, for the late terrible, and awakning storm of wind, ... November xxvi, xxvii. 1703. ... To which is subnected a laborious exercitation upon Eph. 2. 2. ... By Joseph Hussey, ...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_a-warning-from-the-winds_hussey-joseph_1704` |
+| The stroke of divine soveraignty: or, a sermon on the death of Mrs. Mary Hussey, my late dear wife, who sweetly slept in Jesus, January 29. 1703/4. ... By Joseph Hussey, ...  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_the-stroke-of-divine-sov_hussey-joseph_1704` |
+| The glory of Christ unveil'd, or the excellency of Christ vindicated in his person, love, righteousness, &c. being an explication of the mystery which was kept secret since the world began: ... Occasion'd by divers notorious errours in the writings of Mr. John Hunt ... and many other writers, preachers and professours of the Gospel ... By Joseph Hussey, ...  1706 (catalogued 1706) | have-ocr | IA `bim_eighteenth-century_the-glory-of-christ-unve_hussey-joseph_1706` |
+| God's operations of grace: but no offers of his grace. To which are added, two brief treatises. The one about invitation, and the other about exhortation of sinners to come to Christ; ... By Joseph Hussey, ...  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_gods-operations-of-grac_hussey-joseph_1707` |
+| The 1693 Gospel-Feast and the 1761 reprints of the Glory of Christ | alternate | not shelved |
+| The 1791 partwork reprint | excluded | |
