@@ -11324,3 +11324,14 @@ Shelf: `pipeline/arthur-sidgwick_shelf.json`. Sidgwick's Aeschylus for the Clare
 | P. Vergili Maronis Opera, with introduction and English notes by A. Sidgwick, vol. I, introduction and text (Cambridge: University Press, stereotyped edition, 1897 printing); Latin text with English introduction, kept per Adam's 2026-10-23 ruling |  | `arthur-sidgwick-virgil-v1-1897` | have-raw (IA `pvergilimaronis13virggoog`) |
 | P. Vergili Maronis Opera, with introduction and English notes by A. Sidgwick, vol. II, notes (Cambridge: University Press, stereotyped edition, 1899 printing; first edition 1890) |  | `arthur-sidgwick-virgil-v2-1899` | have-raw (IA `pvergilimaroniso02virg_0`) |
 
+## T. E. Page (1850-1936)
+
+Shelf: `pipeline/t-e-page_shelf.json`. Page's Macmillan school editions: Horace's Odes, Virgil's Bucolics and Georgics, and the Acts of the Apostles. Round dt. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Q. Horati Flacci Carminum Libri IV, the Odes of Horace, with introduction and notes by T. E. Page, new edition (London: Macmillan, 1890; first edition 1883, reprinted 1886, 1889); Latin text with English notes, kept per Adam's 2026-10-23 ruling |  | `t-e-page-horace-odes-1890` | have-raw (IA `qhoratiiflaccica1890hora`) |
+| Virgil, Bucolica et Georgica, with introduction and notes by T. E. Page (London and New York: Macmillan, 1898); Latin text with English notes, kept per Adam's 2026-10-23 ruling |  | `t-e-page-bucolica-georgica-1898` | have-raw (IA `bucolicaetgeorgi00virguoft`) |
+| The Acts of the Apostles, being the Greek text as revised by Drs. Westcott and Hort, with explanatory notes by Thomas Ethelbert Page (London: Macmillan, 1886); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `t-e-page-acts-greek-1886` | have-raw (IA `actsofapostlesbe00pagerich`) |
+| The Acts of the Apostles, with introduction and notes by T. E. Page and A. S. Walpole (London: Macmillan, 1895) |  | `t-e-page-walpole-acts-1895` | have-raw (IA `actsofapostleswi00page`) |
+
