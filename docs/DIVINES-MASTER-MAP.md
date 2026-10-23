@@ -40973,3 +40973,20 @@ Shelf: `pipeline/eva-march-tappan_shelf.json` (2026-10-22; added at the coordina
 | Ella, a little schoolgirl of the sixties | have | PG 70282, `emtappan-ella-a-little-schoolgirl-of-the-sixties` (788 units) |
 | The house with the silver door | have | PG 77025, `emtappan-house-with-the-silver-door` (618 units) |
 | Hero stories of France | have | PG 79765, `emtappan-hero-stories-of-france` (490 units) |
+
+## Robert Neilson Stephens
+
+Shelf: `pipeline/robert-neilson-stephens_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical romances. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tales from Bohemia | have | PG 8869, `rnstephens-tales-from-bohemia` (1529 units) |
+| The Mystery of Murray Davenport: A Story of New York at the Present Day | have | PG 9185, `rnstephens-mystery-of-murray-davenport` (1396 units) |
+| An Enemy to the King From the Recently Discovered Memoirs of the Sieur de la Tournoire | have | PG 9965, `rnstephens-enemy-to-the-king-from-the-recently-discovered-me` (2082 units) |
+| Philip Winwood A Sketch of the Domestic History of an American Captain in the War of Independence; Embracing Events that Occurred between and during the Years 1763 and 1786, in New York and London: written by His Enemy in War, Herbert Russell, Lieutenant in the Loyalist Forces. | have | PG 15506, `rnstephens-philip-winwood-a-sketch-of-the-domestic-history-o` (1841 units) |
+| The Bright Face of Danger Being an Account of Some Adventures of Henri de Launay, Son of the Sieur de la Tournoire | have | PG 30417, `rnstephens-bright-face-of-danger-being-an-account-of-some-ad` (1480 units) |
+| The Continental Dragoon A Love Story of Philipse Manor-House in 1778 | have | PG 30589, `rnstephens-continental-dragoon-a-love-story-of-philipse-mano` (1542 units) |
+| A Gentleman Player; His Adventures on a Secret Mission for Queen Elizabeth | have | PG 34650, `rnstephens-gentleman-player` (1873 units) |
+| The Road to Paris: A Story of Adventure | have | PG 35488, `rnstephens-road-to-paris` (1963 units) |
+| Captain Ravenshaw; Or, The Maid of Cheapside. A Romance of Elizabethan London | have | PG 47738, `rnstephens-captain-ravenshaw` (1999 units) |
+| The Flight of Georgiana: A Story of Love and Peril in England in 1746 | have | PG 56364, `rnstephens-flight-of-georgiana` (1451 units) |

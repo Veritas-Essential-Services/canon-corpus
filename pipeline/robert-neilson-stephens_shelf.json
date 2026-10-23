@@ -1,0 +1,149 @@
+{
+ "_about": "Robert Neilson Stephens's writing at Gutenberg: historical romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Robert Neilson Stephens",
+ "_name_words": [
+  "neilson",
+  "stephens"
+ ],
+ "_surname": [
+  "neilson stephens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rnstephens-tales-from-bohemia": [
+   8869,
+   "Tales from Bohemia"
+  ],
+  "rnstephens-mystery-of-murray-davenport": [
+   9185,
+   "The Mystery of Murray Davenport: A Story of New York at the Present Day"
+  ],
+  "rnstephens-enemy-to-the-king-from-the-recently-discovered-me": [
+   9965,
+   "An Enemy to the King From the Recently Discovered Memoirs of the Sieur de la Tournoire"
+  ],
+  "rnstephens-philip-winwood-a-sketch-of-the-domestic-history-o": [
+   15506,
+   "Philip Winwood A Sketch of the Domestic History of an American Captain in the War of Independence; Embracing Events that Occurred between and during the Years 1763 and 1786, in New York and London: written by His Enemy in War, Herbert Russell, Lieutenant in the Loyalist Forces."
+  ],
+  "rnstephens-bright-face-of-danger-being-an-account-of-some-ad": [
+   30417,
+   "The Bright Face of Danger Being an Account of Some Adventures of Henri de Launay, Son of the Sieur de la Tournoire"
+  ],
+  "rnstephens-continental-dragoon-a-love-story-of-philipse-mano": [
+   30589,
+   "The Continental Dragoon A Love Story of Philipse Manor-House in 1778"
+  ],
+  "rnstephens-gentleman-player": [
+   34650,
+   "A Gentleman Player; His Adventures on a Secret Mission for Queen Elizabeth"
+  ],
+  "rnstephens-road-to-paris": [
+   35488,
+   "The Road to Paris: A Story of Adventure"
+  ],
+  "rnstephens-captain-ravenshaw": [
+   47738,
+   "Captain Ravenshaw; Or, The Maid of Cheapside. A Romance of Elizabethan London"
+  ],
+  "rnstephens-flight-of-georgiana": [
+   56364,
+   "The Flight of Georgiana: A Story of Love and Peril in England in 1746"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rnstephens-tales-from-bohemia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-mystery-of-murray-davenport": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-enemy-to-the-king-from-the-recently-discovered-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-philip-winwood-a-sketch-of-the-domestic-history-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-bright-face-of-danger-being-an-account-of-some-ad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-continental-dragoon-a-love-story-of-philipse-mano": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-gentleman-player": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-road-to-paris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-captain-ravenshaw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnstephens-flight-of-georgiana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "neilson stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
