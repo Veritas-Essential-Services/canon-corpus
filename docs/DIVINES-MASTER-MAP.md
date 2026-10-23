@@ -16389,6 +16389,20 @@ Slugs `mott-*`. Built from title pages read for round 102.
 | The decisive hour of Christian missions (New York : Student Volunteer Movement for Foreign Missions, 1910) | have-ocr | IA `decisivehourofch0000mott` |
 | The Continuation Committee (Edinburgh : International Missionary Council, 1910) | have-ocr | IA `continuationcomm00mott` |
 | Men and Religion (1911, several authors) | excluded | |
+
+## Willis D. Weatherford (round 102, my pick, 2026-10-23)
+
+Slugs `weatherford-*`. Built from title pages read for round 102.
+
+| Work | Status | Where |
+|---|---|---|
+| Fundamental Religious Principles in Browning's Poetry (Smith & Lamar, agents , Publishing house of the M. E. church, South, 1907) | have-ocr | IA `fundamentalreli00weatgoog` |
+| Negro life in the South, present conditions and needs (New York, Young Men's Christian Association Press, 1910) | have-ocr | IA `negrolifesouth00weatrich` |
+| Introducing men to Christ : fundamental studies (New York : Association Press, 1911) | have-ocr | IA `introducingmento00weat` |
+| Personal elements in religious life (Nashville, Tenn. ; Dallas, Tex. : Publishing House Methodist Episcopal Church, South, 1916) | have-ocr | IA `personalelements00weat` |
+| Christian life a normal experience : a study in the reality and growth of Christian experience (New York : Association Press, 1919) | have-ocr | IA `christianlifenor00weat` |
+| The Negro from Africa to America (1924, history) and books after 1930 | excluded | |
+| Present Forces in Negro Progress and Interracial Cooperation (several authors) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
