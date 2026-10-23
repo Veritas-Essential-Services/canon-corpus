@@ -16319,3 +16319,18 @@ Shelf: `pipeline/old-sleuth_shelf.json` (2026-10-22; added at the coordinator's 
 | A Successful Shadow; Or, A Detective's Successful Quest | have | PG 26175, `oldsleuth-successful-shadow` (1012 units) |
 | The Twin Ventriloquists; or, Nimble Ike and Jack the Juggler A Tale of Strategy and Jugglery | have | PG 43765, `oldsleuth-twin-ventriloquists` (1248 units) |
 | Nimble Ike, the Trick Ventriloquist: A Rousing Tale of Fun and Frolic | have | PG 67179, `oldsleuth-nimble-ike-the-trick-ventriloquist` (2016 units) |
+
+## H. C. McNeile (Sapper)
+
+Shelf: `pipeline/hc-mcneile_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Bulldog Drummond and war stories. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| No Man's Land | have | PG 23874, `hcmcneile-no-mans-land` (1430 units) |
+| Mufti | have | PG 24945, `hcmcneile-mufti` (1629 units) |
+| Men, Women and Guns | have | PG 36211, `hcmcneile-men-women-and-guns` (1270 units) |
+| The Man in Ratcatcher, and Other Stories | have | PG 49590, `hcmcneile-man-in-ratcatcher-and-other-stories` (1863 units) |
+| Bull-dog Drummond: The Adventures of a Demobilised Officer Who Found Peace Dull | have | PG 49935, `hcmcneile-bull-dog-drummond` (2222 units) |
+| The Dinner Club | have | PG 60525, `hcmcneile-dinner-club` (1764 units) |
+| The Valley of the Shadow | have | PG 61669, `hcmcneile-valley-of-the-shadow` (200 units) |
+| The seven missionaries | have | PG 74118, `hcmcneile-seven-missionaries` (154 units) |

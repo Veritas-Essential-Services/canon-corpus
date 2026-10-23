@@ -1,0 +1,124 @@
+{
+ "_about": "H. C. McNeile (Sapper)'s writing at Gutenberg: bulldog Drummond and war stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "H. C. McNeile (Sapper)",
+ "_name_words": [
+  "mcneile",
+  "sapper"
+ ],
+ "_surname": [
+  "sapper",
+  "mcneile"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hcmcneile-no-mans-land": [
+   23874,
+   "No Man's Land"
+  ],
+  "hcmcneile-mufti": [
+   24945,
+   "Mufti"
+  ],
+  "hcmcneile-men-women-and-guns": [
+   36211,
+   "Men, Women and Guns"
+  ],
+  "hcmcneile-man-in-ratcatcher-and-other-stories": [
+   49590,
+   "The Man in Ratcatcher, and Other Stories"
+  ],
+  "hcmcneile-bull-dog-drummond": [
+   49935,
+   "Bull-dog Drummond: The Adventures of a Demobilised Officer Who Found Peace Dull"
+  ],
+  "hcmcneile-dinner-club": [
+   60525,
+   "The Dinner Club"
+  ],
+  "hcmcneile-valley-of-the-shadow": [
+   61669,
+   "The Valley of the Shadow"
+  ],
+  "hcmcneile-seven-missionaries": [
+   74118,
+   "The seven missionaries"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hcmcneile-no-mans-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sapper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcmcneile-mufti": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sapper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcmcneile-men-women-and-guns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sapper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcmcneile-man-in-ratcatcher-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sapper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcmcneile-bull-dog-drummond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sapper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcmcneile-dinner-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sapper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcmcneile-valley-of-the-shadow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcneile",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcmcneile-seven-missionaries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcneile",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
