@@ -4781,6 +4781,14 @@
       "started": "2026-10-22T22:44:08-05:00",
       "finished": "2026-10-22T22:44:08-05:00",
       "notes": "opie-read: new shelf, 9 Gutenberg books, 15,087 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch."
+    },
+    {
+      "id": "anna-chapin-ray",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Anna Chapin Ray; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:44:24-05:00",
+      "finished": "2026-10-22T22:44:24-05:00",
+      "notes": "anna-chapin-ray: new shelf, 10 Gutenberg books, 17,992 units, 8 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

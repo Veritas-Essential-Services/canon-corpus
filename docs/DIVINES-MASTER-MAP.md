@@ -41092,3 +41092,20 @@ Shelf: `pipeline/opie-read_shelf.json` (2026-10-22; added at the coordinator's r
 | Up Terrapin River | pending | PG 44879, `oread-up-terrapin-river` (fetch failed) |
 | Judge Elbridge | have | PG 46699, `oread-judge-elbridge` (1794 units) |
 | My Young Master: A Novel | have | PG 59834, `oread-my-young-master` (1333 units) |
+
+## Anna Chapin Ray
+
+Shelf: `pipeline/anna-chapin-ray_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| On the Firing Line | have | PG 3605, `acray-on-the-firing-line` (1818 units) |
+| Half a Dozen Girls | have | PG 6360, `acray-half-a-dozen-girls` (1780 units) |
+| Phebe, Her Profession A Sequel to Teddy: Her Book | have | PG 12584, `acray-phebe-her-profession-a-sequel-to-teddy` (1861 units) |
+| The Brentons | have | PG 21763, `acray-brentons` (2465 units) |
+| In Blue Creek Cañon | have | PG 24014, `acray-in-blue-creek-ca-on` (1235 units) |
+| Teddy: Her Book A Story of Sweet Sixteen | have | PG 24361, `acray-teddy` (1930 units) |
+| The Dominant Strain | have | PG 29760, `acray-dominant-strain` (2057 units) |
+| The Cadets of Flemming Hall | have | PG 59005, `acray-cadets-of-flemming-hall` (1376 units) |
+| By the Good Sainte Anne: A Story of Modern Quebec | have | PG 60175, `acray-by-the-good-sainte-anne` (2111 units) |
+| Half a dozen boys | have | PG 72769, `acray-half-a-dozen-boys` (1359 units) |
