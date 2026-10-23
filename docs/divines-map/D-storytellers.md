@@ -16289,3 +16289,18 @@ Shelf: `pipeline/mary-e-ropes_shelf.json` (2026-10-22; added at the coordinator'
 | A child shall lead them | have | PG 77390, `meropes-child-shall-lead-them` (619 units) |
 | The story of Mary Jones and her Bible | have | PG 77715, `meropes-story-of-mary-jones-and-her-bible` (492 units) |
 | The mystery of Hoyle's Mouth | have | PG 79697, `meropes-mystery-of-hoyles-mouth` (742 units) |
+
+## Roger Pocock
+
+Shelf: `pipeline/roger-pocock_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure novels and frontier writing. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Man in the Open | have | PG 33423, `rpocock-man-in-the-open` (1659 units) |
+| Curly: A Tale of the Arizona Desert | have | PG 41447, `rpocock-curly` (2099 units) |
+| The wolf trail | have | PG 69946, `rpocock-wolf-trail` (2004 units) |
+| The Blackguard | have | PG 70120, `rpocock-blackguard` (849 units) |
+| The chariot of the sun | have | PG 70224, `rpocock-chariot-of-the-sun` (2237 units) |
+| The cheerful blackguard | have | PG 70400, `rpocock-cheerful-blackguard` (2013 units) |
+| Captains of adventure | have | PG 72176, `rpocock-captains-of-adventure` (1184 units) |
+| Horses | have | PG 73259, `rpocock-horses` (1449 units) |
