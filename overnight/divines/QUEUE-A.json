@@ -5615,6 +5615,15 @@
       "added_by": "lane A",
       "finished": "2026-10-17T23:45:16-05:00",
       "notes": "built and verified"
+    },
+    {
+      "id": "william-laud",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:40:37-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:40:37-05:00",
+      "notes": "Library of Anglo-Catholic Theology Works, 7 vols in 9 parts."
     }
   ]
 }

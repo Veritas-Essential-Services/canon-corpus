@@ -9723,6 +9723,24 @@ Slugs `zanchi-*`. Built from title pages read for round 39.
 | H. Zanchius his Confession of Christian Religion, which now at length being 70 yeares of age he caused to bee published, Englished (Cambridge: John Legat, 1599) | have-ocr | IA `bim_early-english-books-1475-1640_h-zanchius-his-confessi_zanchius-h_1599` |
 | The Doctrine of Absolute Predestination, 'translated in great measure from the Latin of Jerom Zanchius' by Augustus Toplady (1769; later printings 1773, 1779, 1793, 1811): Toplady's free version, also in vol. 5 of his Works on the toplady shelf; held for Adam, as in round 39 | pending | not shelved |
 | Latin works (De Religione Christiana 1605, the Miscellanea 1605 and 1608, the 1592 anti-Arian tract); the discourse taken out of Zanchius in Perkins's Case of Conscience (1592, Perkins's book) | excluded | |
+
+## William Laud (round 40, my pick, 2026-10-22)
+
+Slugs `laud-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `worksofmostrever01laud_0` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos02lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 3 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos03lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 4 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos04lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 5:1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `worksofmostrever51laud` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 5:2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `worksofmostrever52laud` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 6, pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemo106lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 6, pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `pt2worksofwlaud06lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 7 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos07lauduoft` |
+| Other scans of the LACT Works (Toronto Robarts, Illinois, Google and Princeton copies); the separate Oxford printings of the Private Devotions (1838), the Conference with Fisher (1839), the three speeches (1840) and the Sermons (1829), all contained in the Works; his 1621-1628 sermons and 1637 Star-Chamber speech in first printings (EEBO) | alternate | not shelved |
+| The 1637 Scottish Book of Common Prayer (a liturgy of the Church of Scotland, not his work); Original Letters on his benefactions (1841, documents by others); biographies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
