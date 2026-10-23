@@ -2387,3 +2387,6 @@
 
 ## 2026-10-22 23:06 CDT — montague-glass: done
 - montague-glass: new shelf, 7 Gutenberg books, 13,524 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — wa-fraser: done
+- wa-fraser: new shelf, 7 Gutenberg books, 11,308 units, 194 ~2 ids; verify 0 mismatches, 0 rights flags.

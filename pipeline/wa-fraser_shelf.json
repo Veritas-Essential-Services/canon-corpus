@@ -1,0 +1,112 @@
+{
+ "_about": "William Alexander Fraser: Animal and frontier stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Alexander Fraser",
+ "_name_words": [
+  "alexander",
+  "fraser",
+  "william"
+ ],
+ "_surname": [
+  "w. a. fraser",
+  "william alexander fraser"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wafraser-thoroughbreds": [
+   9088,
+   "Thoroughbreds"
+  ],
+  "wafraser-caste": [
+   16752,
+   "Caste"
+  ],
+  "wafraser-outcasts": [
+   19387,
+   "The Outcasts"
+  ],
+  "wafraser-three-sapphires": [
+   35179,
+   "The Three Sapphires"
+  ],
+  "wafraser-sa-zada-tales": [
+   38289,
+   "The Sa'-Zada Tales"
+  ],
+  "wafraser-mooswa-others-of-the-boundaries": [
+   42226,
+   "Mooswa & Others of the Boundaries"
+  ],
+  "wafraser-bulldog-carney": [
+   45926,
+   "Bulldog Carney"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wafraser-thoroughbreds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wafraser-caste": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wafraser-outcasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wafraser-three-sapphires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wafraser-sa-zada-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wafraser-mooswa-others-of-the-boundaries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wafraser-bulldog-carney": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. a. fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

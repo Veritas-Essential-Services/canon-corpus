@@ -42718,3 +42718,17 @@ Shelf: `pipeline/montague-glass_shelf.json` (2026-10-22; added at the coordinato
 | The Competitive Nephew | have | PG 32960, `mglass-competitive-nephew` (2654 units) |
 | Worrying Won't Win | have | PG 33335, `mglass-worrying-wont-win` (817 units) |
 | Object: matrimony | have | PG 37360, `mglass-object` (323 units) |
+
+## William Alexander Fraser
+
+Shelf: `pipeline/wa-fraser_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Animal and frontier stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Thoroughbreds | have | PG 9088, `wafraser-thoroughbreds` (2673 units) |
+| Caste | have | PG 16752, `wafraser-caste` (1541 units) |
+| The Outcasts | have | PG 19387, `wafraser-outcasts` (461 units) |
+| The Three Sapphires | have | PG 35179, `wafraser-three-sapphires` (1861 units) |
+| The Sa'-Zada Tales | have | PG 38289, `wafraser-sa-zada-tales` (1197 units) |
+| Mooswa & Others of the Boundaries | have | PG 42226, `wafraser-mooswa-others-of-the-boundaries` (1632 units) |
+| Bulldog Carney | have | PG 45926, `wafraser-bulldog-carney` (1943 units) |
