@@ -10622,3 +10622,12 @@ Shelf: `pipeline/j-f-dobson_shelf.json`. The Greek Orators (London: Methuen, 191
 |---|---|---|---|
 | The Greek Orators (London: Methuen, 1919) |  | `dobson-greek-orators-1919` | have (PG 74925) |
 
+
+## John Oakesmith
+
+Shelf: `pipeline/john-oakesmith_shelf.json`. The Religion of Plutarch (London: Longmans, 1902). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Religion of Plutarch (London: Longmans, 1902) |  | `oakesmith-religion-of-plutarch-1902` | have (PG 72730) |
+
