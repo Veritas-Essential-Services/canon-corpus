@@ -2272,3 +2272,6 @@
 
 ## 2026-10-22 22:59 CDT — guy-thorne: done
 - guy-thorne: new shelf, 17 Gutenberg books, 28,337 units, 101 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — samuel-hopkins-adams: done
+- samuel-hopkins-adams: new shelf, 15 Gutenberg books, 38,545 units, 6387 ~2 ids; verify 0 mismatches, 0 rights flags.

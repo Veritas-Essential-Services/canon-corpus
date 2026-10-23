@@ -16754,3 +16754,27 @@ Shelf: `pipeline/guy-thorne_shelf.json` (2026-10-22; added at the coordinator's 
 | "I Believe" and other essays | have | PG 41178, `gthorne-i-believe-and-other-essays` (981 units) |
 | The Serf | have | PG 41829, `gthorne-serf` (1376 units) |
 | held-elsewhere | excluded | PG 41935: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Samuel Hopkins Adams
+
+Shelf: `pipeline/samuel-hopkins-adams_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing; pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Unspeakable Perk | have | PG 5009, `shadams-unspeakable-perk` (2245 units) |
+| Average Jones | have | PG 6864, `shadams-average-jones` (2761 units) |
+| From a Bench in Our Square | have | PG 10944, `shadams-from-a-bench-in-our-square` (2102 units) |
+| Success: A Novel | have | PG 15431, `shadams-success` (6602 units) |
+| The Clarion | have | PG 16447, `shadams-clarion` (4443 units) |
+| Little Miss Grouch A Narrative Based on the Log of Alexander Forsyth Smith's Maiden Transatlantic Voyage | have | PG 22196, `shadams-little-miss-grouch-a-narrative-based-on-the-log-of-a` (1690 units) |
+| The Secret of Lonesome Cove | have | PG 36335, `shadams-secret-of-lonesome-cove` (2359 units) |
+| The Flying Death | have | PG 44324, `shadams-flying-death` (1476 units) |
+| The Great American Fraud The Patent Medicine Evil | have | PG 44325, `shadams-great-american-fraud-the-patent-medicine-evil` (541 units) |
+| Wanted: A Husband. A Novel | have | PG 44326, `shadams-wanted` (1909 units) |
+| The Beggar's Purse: A Fairy Tale of Familiar Finance | have | PG 44327, `shadams-beggars-purse` (174 units) |
+| Our Square and the People in It | have | PG 44328, `shadams-our-square-and-the-people-in-it` (1876 units) |
+| Common Cause: A Novel of the War in America | have | PG 55400, `shadams-common-cause` (4232 units) |
+| The Health Master | have | PG 57543, `shadams-health-master` (2276 units) |
+| Flaming Youth | have | PG 61582, `shadams-flaming-youth` (3859 units) |
+| pg-57676 | excluded | PG 57676: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 10008: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
