@@ -9771,3 +9771,13 @@ Shelf: `pipeline/g-mcn-rushforth_shelf.json`. Latin Historical Inscriptions (189
 |---|---|---|---|
 | Latin Historical Inscriptions Illustrating the History of the Early Empire (1893) |  | `rushforth-latin-historical-inscriptions-1893` | have-raw (IA `latinhistoricali00rush`) |
 
+
+## Leonard Whibley (1862-1941)
+
+Shelf: `pipeline/leonard-whibley_shelf.json`. Athenian parties (1889) and Greek oligarchies (1896). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Political Parties in Athens during the Peloponnesian War (1889) |  | `whibley-political-parties-athens-1889` | have-raw (IA `politicalpartie02leongoog`) |
+| Greek Oligarchies: their Character and Organisation (1896) |  | `whibley-greek-oligarchies-1896` | have-raw (IA `greekoligarchie01whibgoog`) |
+
