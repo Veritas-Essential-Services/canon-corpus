@@ -22631,7 +22631,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Barrett H. Clark (Rostand, Rolland and other French plays)
 
 Shelf: `pipeline/barrett-clark_shelf.json` · fetch `python3 pipeline/fetch_shelf.py barrett-clark` · titles `python3 pipeline/split_shelf_titles.py barrett-clark`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 147 (2026-10-23) added six archive.org scans: Rolland, Sardou, Brieux, Hervieu (with MacClintock) and two French play collections. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -22640,6 +22640,12 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `barrett-clark-pailleron-the-art-of-being-bored-a-comedy-in-three` | Edouard Pailleron | The Art of Being Bored: A Comedy in Three Acts | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 53334 |
 | `barrett-clark-rolland-the-fourteenth-of-july-and-danton-two-pl` | Romain Rolland | The Fourteenth of July, and Danton: Two Plays of the French Revolution | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 49438 |
 | `barrett-clark-rostand-the-romancers-a-comedy-in-three-acts` | Edmond Rostand | The Romancers: A Comedy in Three Acts | Barrett H. Clark | 1914-1918 (see the Gutenberg header) | have | PG 17581 |
+| `barrett-clark-rolland-the-peoples-theater` | Romain Rolland | The People's Theater | Barrett H. Clark | 1918 | have-raw | IA `peoplestheatertr00rolluoft` |
+| `barrett-clark-three-modern-plays-from-the-french` | Henri Lavedan; Jules Lemaître; Maurice Donnay | Three Modern Plays from the French: The Prince d'Aurec, The Pardon, The Other Danger | Barrett H. Clark | 1914 | have-raw | IA `threemodernplays00laveiala` |
+| `barrett-clark-sardou-patrie` | Victorien Sardou | Patrie: an Historical Drama in Five Acts | Barrett H. Clark | 1915 | have-raw | IA `patrieanhistoric00sardiala` |
+| `barrett-clark-hervieu-the-labyrinth` | Paul Hervieu | The Labyrinth (Le Dédale) | Barrett H. Clark and Lander MacClintock | 1913 | have-raw | IA `labyrinthledda00herviala` |
+| `barrett-clark-four-plays-of-the-free-theater` | François de Curel; Jean Jullien; Georges de Porto-Riche; Georges Ancey | Four Plays of the Free Theater: The Fossils, The Serenade, Françoise' Luck, The Dupe | Barrett H. Clark | 1915 | have-raw | IA `fourplaysfreeth00clargoog` |
+| `barrett-clark-brieux-artists-families` | Eugène Brieux | Artists' Families (Ménages d'artistes) | Barrett H. Clark | 1918 | have-raw | IA `in.ernet.dli.2015.89436` |
 
 ## E. M. Lamond (Grisar's Luther, 6 vols)
 
@@ -23905,6 +23911,7 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 |---|---|---|---|---|---|---|
 | `bithell-gozzi-turandot-princess-of-china-a-chinoiserie` | Carlo Gozzi | Turandot, Princess of China: A Chinoiserie in Three Acts | Jethro Bithell | 1913-1914 (see the Gutenberg header) | have | PG 26730 |
 | `bithell-zweig-emile-verhaeren` | Stefan Zweig | Émile Verhaeren | Jethro Bithell | 1913-1914 (see the Gutenberg header) | have | PG 35387 |
+| `bithell-canterbury-poets` | — | Contemporary Belgian Poetry (1911) and Contemporary French Poetry (1912), Walter Scott's Canterbury Poets: his own selections and translations, but these printings carry no year and the Belgian scan's credit line is lost in the OCR. Found 2026-10-23 (round 147). | Jethro Bithell | — | pending | — |
 
 ## M. Prichard Agnetti (Fogazzaro's The Patriot; Leila)
 
