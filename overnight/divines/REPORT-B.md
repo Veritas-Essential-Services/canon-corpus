@@ -1522,3 +1522,8 @@
 - 16 volumes not held anywhere: Thackeray's Josephus I-III and Allinson's Menander and the Illinois Greek Club's Aeneas Tacticus (three new shelves), Colson's Philo I-II, Gulick's Athenaeus II-III, Gaselee's Achilles Tatius, the Thornley-Edmonds Daphnis and Chloe, Wright's Lives of the Sophists, Edmonds's Characters, Robson's Arrian I, Nixon's Plautus III and Rolfe's Suetonius I (both from first printings, clearing two old rights holds).
 - Refused after reading the printing lines: Livy II (the 1939 impression corrected the translation), Ovid Metamorphoses I (1921 second edition), Cicero's Tusculans (1945 revision).
 - Next: other entries refused for Greek-heavy OCR, then Polybius I, Babbitt's Moralia, Harmon's Lucian.
+
+## 2026-10-23 — Rounds do and dp: the rest of the Greek ruling
+- do: Murphy's Select Dialogues of Lucian (1804) and Innes's Verse Translations (1894) taken back. Harmon's Lucian and Babbitt's Moralia turned out to be complete already from Perseus.
+- dp: 18 scholarly editions that print the Greek with an English translation: Jebb's Sophocles complete in seven parts, Kennedy's Oedipus, Verrall's Agamemnon, Choephori and Eumenides, Tucker's Supplices and Choephori, Rhys Roberts's Longinus and Dionysius, Archer-Hind's Timaeus, Jebb's Bacchylides, Headlam and Knox's Herodas.
+- Eight of these OCR the editor's name as Greek, so the gate cannot see it; the title pages were read and recorded, and no translator is claimed to the gate for them.

@@ -2124,6 +2124,22 @@
    "started": "2026-10-23T04:35:56-05:00",
    "finished": "2026-10-23T04:35:56-05:00",
    "notes": "16 volumes: new shelves josephus 3 (Thackeray I-III, 1926-28), menander 1 (Allinson 1921), aeneas-tacticus 1 (Illinois Greek Club 1923); and philo-judaeus 2 (Colson and Whitaker I-II, 1929), athenaeus 2 (Gulick II-III), greek-romances 2 (Gaselee's Achilles Tatius 1917; Thornley-Edmonds Daphnis and Chloe 1916), plautus-nixon-v3 on roman-comedy (1924 printing; clears the old rights hold), suetonius-rolfe-v1 (1914 printing; clears the old hold), Wright's Lives of the Sophists, Edmonds's Theophrastus Characters 1929, Robson's Arrian I 1929. Refused: Livy II (both open scans are the 1939 impression, whose preface says errors of translation were corrected), Ovid Metamorphoses I (only the 1921 second edition in a 1971 printing), Cicero's Tusculans (only the 1945 revision), Athenaeus I (no open scan). Not lane B: Apostolic Fathers, Clement, Augustine, Basil, Bede (lane A)."
+  },
+  {
+   "id": "2026-10-23do",
+   "status": "done",
+   "scope": "other _excluded/_held entries refused for Greek-heavy OCR, plus Polybius I, Babbitt's Moralia and Harmon's Lucian",
+   "started": "2026-10-23T04:50:56-05:00",
+   "finished": "2026-10-23T04:50:56-05:00",
+   "notes": "Two taken back: Murphy's Select Dialogues of Lucian (1804, Greek with literal translation) and Innes's Verse Translations from Greek and Latin Poets (1894). Harmon's Loeb Lucian I-IV and Babbitt's Moralia I-II are already complete from Perseus (every piece in those volumes is a perseus row), so no scans added; the lucian note now says so. Polybius I: no other open scan. Verrall's Ion and Hort's and Swete's Greek-OCR copies stay refused: their English is unreadable, not just their Greek."
+  },
+  {
+   "id": "2026-10-23dp",
+   "status": "done",
+   "scope": "scholarly editions printing the Greek text with an English translation, now allowed by Adam's ruling",
+   "started": "2026-10-23T04:50:56-05:00",
+   "finished": "2026-10-23T04:50:56-05:00",
+   "notes": "18 volumes on 7 shelves: Jebb's Sophocles, the Plays and Fragments, all seven parts (Cambridge, 1883-96, in printings to 1924); Kennedy's Oedipus Tyrannus (1885); Verrall's Agamemnon (1889), Choephori (1893) and Eumenides (1908); Tucker's Supplices (1889) and Choephori (1901); Rhys Roberts's Longinus (1907) and Dionysius's Three Literary Letters (1901); Archer-Hind's Timaeus (1888); Jebb's Bacchylides (1905); Headlam and Knox's Herodas (1922). Eight of these render the editor's name as Greek in their OCR, so no translator is claimed to the gate for them; each title page was read and recorded under _identity_checked.translator. Not found: Verrall's Seven against Thebes (1887)."
   }
  ]
 }

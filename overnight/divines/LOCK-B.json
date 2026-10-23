@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T04:35:56-05:00",
- "note": "Rounds cq-dn done 2026-10-23.",
- "resume_point": "Round do: the rest of Adam's 10/23 ruling. Search every lane B shelf's _excluded and _held for entries refused for OCR because of Greek (words like 'Greek', 'bilingual', 'under the bar', 'OCR 0.') that are not Greek-facing Loebs, re-probe, and take those whose English reads cleanly. Then Polybius vol. I from a scan that names Paton, Plutarch's Moralia I-II (Babbitt 1927-28) where Perseus is partial, and the Harmon Lucian vols. I-IV against the Perseus rows."
+ "heartbeat": "2026-10-23T04:50:56-05:00",
+ "note": "Rounds cq-dp done 2026-10-23.",
+ "resume_point": "Round dq: small Bohn-era gaps found by the Bohn sweep (Sewell's Horace Odes 1850, the Bohn Tacitus 2 vols 1854, C. R. Kennedy's Specimens of Greek and Latin Verse 1853, Middleton's Life of Cicero), then more Greek-text-with-translation editions (Paley? no translation; check Sandys, Headlam's Agamemnon, Wedd, Shuckburgh) and Latin-text-with-translation editions (Mayor, Conington's Persius is held)."
 }
