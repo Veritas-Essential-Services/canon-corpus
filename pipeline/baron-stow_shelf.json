@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Baron Stow, Baptist pastor in Boston, for the Word Hoard: his Memoir of Harriet Dow, Voluntary Associations, Efficiency of Primitive Religion, Question Book of Christian Doctrine, Missionary Papers, Christian Brotherhood, and Little Mary. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 134 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "baron stow",
+  "b. stow",
+  "stow"
+ ],
+ "_surname": [
+  "stow"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stow-harriet-dow": [
+   "memoirharrietdo00stowgoog",
+   "Memoir of Harriet Dow: Of Newport, N.H., who Became a Christian at the Age of Eight Years. In (J. Loring [etc.], 1832)"
+  ],
+  "stow-voluntary-associations": [
+   "voluntaryassocia00stow",
+   "Voluntary associations--their use and abuse : a discourse delivered in the meeting house of the (Boston, Massachusetts : Gould, Kendall & Lincoln, 1837)"
+  ],
+  "stow-primitive-religion": [
+   "efficiencyofprim00stow",
+   "Efficiency of primitive religions : a discourse delivered before the General Convention of the Baptist Denomination in the United States, at its ninth triennial session, held in the Oliver Street Baptist Church, New York, April 25, 1838 / by Baron Stow (Boston : Gould, Kendall and Lincoln, 1838)"
+  ],
+  "stow-question-book": [
+   "questionbookofch00stow",
+   "Question book of Christian doctrine; for Bible classes, and the more advanced pupils in Sabbath schools (Philadelphia, American Baptist publication society, 1843)"
+  ],
+  "stow-missionary-papers": [
+   "missionarypapers00stow",
+   "Missionary papers : published originally in the Missionary Magazine / by Baron Stow (Missionary Rooms, 1859)"
+  ],
+  "stow-christian-brotherhood": [
+   "christianbrother00stow",
+   "Christian brotherhood (catalogued 1859)"
+  ],
+  "stow-little-mary": [
+   "littlemaryillust00stow",
+   "Little Mary : an illustration of the power of Jesus to save even the youngest (Boston : Gould and Lincoln, 1861)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "stow-hymnals": "The Psalmist, The Social Psalmist and Ocean Melodies are hymn collections he compiled",
+  "stow-helon": "Helon's Pilgrimage is a translation of another man's book",
+  "stow-others": "The Missionary Enterprise is a collection of many writers' discourses; the Wheeler address is another man's"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "stow-harriet-dow": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stow-voluntary-associations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stow-primitive-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stow-question-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "stow-missionary-papers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stow-christian-brotherhood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "stow-little-mary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

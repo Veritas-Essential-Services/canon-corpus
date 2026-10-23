@@ -2282,3 +2282,21 @@
 
 ## 2026-10-23 09:25 CDT — round 128 done
 - william-burkitt, thomas-stackhouse, j-f-ostervald, george-pretyman-tomline, jacob-duche: 5 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:32 CDT — round 129 done
+- charles-henry-brent, lewis-sperry-chafer, percy-dearmer, john-pulsford, milton-valentine, christopher-bethell: 6 shelves, 42 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:37 CDT — round 130 done
+- william-maskell, t-b-kilpatrick, jonathan-brierley, james-h-mcconkey, martin-wells-knapp: 5 shelves, 43 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:42 CDT — round 131 done
+- george-rawlinson, william-r-whittingham, andrew-c-zenos, james-strahan, samuel-zane-batten, francis-jacox, d-a-harsha: 7 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:46 CDT — round 132 done
+- f-crawford-burkitt, kirsopp-lake, frederick-carl-eiselen, j-g-pike, l-a-lambert, r-a-redford: 6 shelves, 39 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:50 CDT — round 133 done
+- henry-scudder, samuel-m-janney, t-h-darlow, a-j-maas, cecil-john-cadoux, w-w-everts: 6 shelves, 30 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 09:59 CDT — round 134 done
+- john-shower, baron-stow, david-bogue, jonathan-mayhew-wainwright, thomas-whittemore, richard-fiddes: 6 shelves, 72 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.

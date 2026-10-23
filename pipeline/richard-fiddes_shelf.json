@@ -1,0 +1,224 @@
+{
+ "_about": "Public-domain Richard Fiddes, Church of England divine and rector of Halsham in Holderness, for the Word Hoard: Theologia Speculativa, Practical Discourses and Fifty-Two Practical Discourses, The Doctrine of a Future State, A General Treatise of Morality, his letter to a free-thinker, his Life of Cardinal Wolsey, and his sermons of 1703 to 1715. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 134 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "richard fiddes",
+  "r. fiddes",
+  "fiddes"
+ ],
+ "_surname": [
+  "fiddes"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fiddes-thanksgiving-1702": [
+   "bim_eighteenth-century_a-sermon-preached-on-the_fiddes-richard_1703",
+   "A sermon preached on the Thanksgiving day: December, 3d. 1702. For the signal successes vouchsafed to her Majesties forces to sea and land: ... By Richard Fiddes, ...  1703 (catalogued 1703)"
+  ],
+  "fiddes-january-1704": [
+   "bim_eighteenth-century_a-sermon-preachd-januar_fiddes-richard_1704",
+   "A sermon preach'd January the 31st. 1703/4. ... By Richard Fiddes, ...  1704 (catalogued 1704)"
+  ],
+  "fiddes-thanksgiving-1705": [
+   "bim_eighteenth-century_a-thanks-giving-sermon-o_fiddes-richard_1705",
+   "A thanks-giving sermon on the 23 of August, 1705. Or a discourse showing that God in the government of the world acts by particular wills.  1705 (catalogued 1705)"
+  ],
+  "fiddes-future-judgment": [
+   "bim_eighteenth-century_the-proofs-and-influence_fiddes-richard_1710",
+   "The proofs and influence, of a future judgment. Considered upon Acts, XXIV.25. By Richard Fiddes, ...  1710 (catalogued 1710)"
+  ],
+  "fiddes-practical-discourses-1712": [
+   "bim_eighteenth-century_practical-discourses-on-_fiddes-richard_1712",
+   "Practical discourses on several subjects. By Richard Fiddes, ...  1712 (catalogued 1712)"
+  ],
+  "fiddes-beeford-1715": [
+   "bim_eighteenth-century_a-sermon-preachd-at-bee_fiddes-richard_1715",
+   "A sermon preach'd at Beeford in Holderness, on occasion of the death of her late excellent Majesty Queen Anne. By Ric Fiddes, ...  1715 (catalogued 1715)"
+  ],
+  "fiddes-theologia-speculativa": [
+   "bim_eighteenth-century_theologia-speculativa-o_fiddes-richard_1718_0",
+   "Theologia speculativa: or, the first part of a body of divinity under that title. Wherein are explain'd the principles of natural and reveal'd religion. By Richard Fiddes, ...  1718 (catalogued 1718)"
+  ],
+  "fiddes-fifty-two-discourses": [
+   "bim_eighteenth-century_fifty-two-practical-disc_fiddes-richard_1720",
+   "Fifty two practical discourses on several subjects. Six of which were never before published. By Richard Fiddes, ...  1720 (catalogued 1720)"
+  ],
+  "fiddes-free-thinker": [
+   "bim_eighteenth-century_a-letter-in-answer-to-o_fiddes-richard_1721",
+   "A letter, in answer to one from a free-thinker: occasion'd by the late Duke of Buckinghamshire's epitaph. ... To which is prefix'd, a version of the epitaph, agreeable to the explication given of it in the answer. With an introduction, containing extracts of two letters relating to the conduct of that noble lord. By Richard Fiddes, ...  1721 (catalogued 1721)"
+  ],
+  "fiddes-future-state": [
+   "bim_eighteenth-century_the-doctrine-of-a-future_fiddes-richard_1721",
+   "The doctrine of a future state, and that of the soul's immortality, asserted and distinctly proved; in a second letter to a free thinker. Occasion'd by the late D. of Buckinghamshire's epitaph. By Richard Fiddes, ...  1721 (catalogued 1721)"
+  ],
+  "fiddes-treatise-morality": [
+   "generaltreatiseo00fidd",
+   "A general treatise of morality, form'd upon the principles of natural reason only : with a preface in answer to two essays lately published in the Fable of the bees : and some incidental remarks upon an Inquiry concerning virtue, by the Right Honourable Anthony Earl of Shaftsbury (London : Printed for S. Billingsley ..., 1724)"
+  ],
+  "fiddes-wolsey": [
+   "lifeofcardinalwo00fidduoft",
+   "The life of Cardinal Wolsey (London : Printed for J. Knapton ... [et al.], 1726)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fiddes-homer": "the prefatory epistle on Homer's Iliad is literary",
+  "fiddes-political": "the Remarks on The State Anatomy and the Answer to Britanicus are political pamphlets; The State Anatomy itself is Toland's",
+  "fiddes-dups": "the 1713 scan of Practical Discourses and the ECCO copy of the Wolsey"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "fiddes-thanksgiving-1702": "Title page: 'A SERMON Preached on the Thanksgiving day, December 3d. 1702 ... By Richard Fiddes, Rector of Halsham in Holderness' (OCR reads Fidaes).",
+  "fiddes-january-1704": "Title page, read from the page image: 'A SERMON PREACH'D JANUARY The 31th. 1703. Being the Day on which the Anniversary of the Martyrdom of K. CHARLES the First, was then kept. By Richard Fiddes, Rector of Halsham in Holderness.' 1704.",
+  "fiddes-future-judgment": "Title page, read from the page image: 'THE PROOFS AND INFLUENCE, OF A Future Judgment. Considered upon Acts, XXIV. 25. By Richard Fiddes, Rector of Halsham in Holderness. York.'",
+  "fiddes-practical-discourses-1712": "Title page, read from the page image (stained): 'Practical Discourses On Several SUBJECTS. By RICHARD FIDDES, Rector of Halsham, in Holderness, in the County of YORK. London, 1712.'",
+  "fiddes-theologia-speculativa": {
+   "author": "Title page: 'By RICHARD FIDDES, D. D. Rector of Halsham, and Chaplain to the Right Honourable ... Earl' (OCR splits FID DES).",
+   "title": "Catalogue title 'Theologia speculativa: or, the first part of a body of divinity under that title' (1718); the OCR of the title page is unreadable above the author line."
+  },
+  "fiddes-fifty-two-discourses": "Half-title, read from the page image: 'Dr. FIDDES's FIFTY TWO Practical Discourses ON SEVERAL SUBJECTS.'",
+  "fiddes-free-thinker": "Title page, read from the page image: 'A LETTER, IN ANSWER To one from a FREE-THINKER: Occasion'd by the late Duke of Buckinghamshire's EPITAPH ... By RICHARD FIDDES, D.D.' London, 1721."
+ },
+ "_pending": {
+  "fiddes-lords-supper": "A preparative to the Lord's Supper. Or, a discourse, wherein the nature of this Holy Sacrament, ... To which is added, an appendix, with meditations and prayers form'd on the principal parts of the discourse; ... By R. Fiddes, ...  1718 (catalogued 1718) (IA bim_eighteenth-century_a-preparative-to-the-lor_fiddes-richard_1718): the scan starts at the dedication and has no title page; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "fiddes-thanksgiving-1702": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1703",
+   "ia_date": "1703",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-january-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-thanksgiving-1705": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fiddes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-future-judgment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-practical-discourses-1712": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1712",
+   "ia_date": "1712",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-beeford-1715": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fiddes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1715",
+   "ia_date": "1715",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-theologia-speculativa": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1718",
+   "ia_date": "1718",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-fifty-two-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-free-thinker": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-future-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fiddes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-treatise-morality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fiddes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1724",
+   "ia_date": "1724",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fiddes-wolsey": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fiddes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

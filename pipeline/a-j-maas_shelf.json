@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Anthony John Maas, Jesuit scripture scholar and rector of Woodstock College, Maryland, for the Word Hoard: The Life of Jesus Christ according to the Gospel History, A Day in the Temple, Christ in Type and Prophecy, and his commentary on the Gospel according to Saint Matthew. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 133 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "anthony john maas",
+  "a. j. maas",
+  "anthony j. maas",
+  "maas"
+ ],
+ "_surname": [
+  "maas"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maas-life-of-jesus": [
+   "thelifeofjesusch00maasuoft",
+   "The life of Jesus Christ according to the Gospel history (St. Louis : B. Herder, 1891)"
+  ],
+  "maas-day-in-temple": [
+   "dayintemple00maas",
+   "A day in the temple ([n. p.], 1892)"
+  ],
+  "maas-christ-in-type": [
+   "christintypeandp00maasuoft",
+   "Christ in type and prophecy (New York : Benziger Brothers, 1893)"
+  ],
+  "maas-matthew": [
+   "gospelofmatthew00maasuoft",
+   "The Gospel according to Saint Matthew with an explanatory and critical commentary (St. Louis : Herder, 1898)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "maas-translation": "The Proper Object of the Devotion to the Sacred Heart is Vermeersch's",
+  "maas-dups": "other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "maas-life-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maas-day-in-temple": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "maas-christ-in-type": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maas-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
