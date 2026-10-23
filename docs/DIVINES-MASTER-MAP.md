@@ -19291,6 +19291,15 @@ Shelf: `pipeline/j-g-sheppard_shelf.json`. The Fall of Rome and the Rise of the 
 |---|---|---|---|
 | The Fall of Rome and the Rise of the New Nationalities: a Series of Lectures (1861; this printing 1892) |  | `sheppard-fall-of-rome` | have-raw (IA `fallofromeriseof00shepuoft`) |
 
+
+## G. McN. Rushforth (1862-1938)
+
+Shelf: `pipeline/g-mcn-rushforth_shelf.json`. Latin Historical Inscriptions (1893); Latin-heavy. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Latin Historical Inscriptions Illustrating the History of the Early Empire (1893) |  | `rushforth-latin-historical-inscriptions-1893` | have-raw (IA `latinhistoricali00rush`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
