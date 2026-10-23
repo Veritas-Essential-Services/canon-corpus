@@ -19821,6 +19821,15 @@ Shelf: `pipeline/benjamin-c-burt_shelf.json`. A Brief History of Greek Philosoph
 |---|---|---|---|
 | A Brief History of Greek Philosophy (Boston: Ginn, 1889) |  | `burt-brief-history-greek-philosophy-1889` | have-raw (IA `briefhistoryofgr00burt`) |
 
+
+## Constantin Ackermann
+
+Shelf: `pipeline/constantin-ackermann_shelf.json`. The Christian Element in Plato and the Platonic Philosophy, tr. S. R. Asbury (1861). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Christian Element in Plato and the Platonic Philosophy, tr. S. R. Asbury (1861) |  | `ackermann-christian-element-plato-1861` | have-raw (IA `christianelement00acke`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
