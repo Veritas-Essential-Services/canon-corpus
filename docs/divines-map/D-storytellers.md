@@ -14530,3 +14530,25 @@ Shelf: `pipeline/david-christie-murray_shelf.json` (2026-10-22; added at the coo
 | VC — A Chronicle of Castle Barfield and of the Crimea | have | PG 22275, `dcmurray-vc-a-chronicle-of-castle-barfield-and-of-the-crimea` (806 units) |
 | Despair's Last Journey | have | PG 22276, `dcmurray-despairs-last-journey` (2977 units) |
 | The Great War of 189-: A Forecast | have | PG 57707, `dcmurray-great-war-of-189` (977 units) |
+
+## Samuel Merwin
+
+Shelf: `pipeline/samuel-merwin_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Short Line War | have | PG 8385, `smerwin-short-line-war` (1659 units) |
+| Calumet "K" | have | PG 18154, `smerwin-calumet-k` (1759 units) |
+| The Road to Frontenac | have | PG 28958, `smerwin-road-to-frontenac` (2140 units) |
+| Drugging a Nation: The Story of China and the Opium Curse | have | PG 33586, `smerwin-drugging-a-nation` (384 units) |
+| The Road Builders | have | PG 41825, `smerwin-road-builders` (1426 units) |
+| The Merry Anne | have | PG 51916, `smerwin-merry-anne` (2893 units) |
+| Henry Is Twenty: A Further Episodic History of Henry Calverly, 3rd | have | PG 51948, `smerwin-henry-is-twenty` (3361 units) |
+| In Red and Gold | have | PG 51974, `smerwin-in-red-and-gold` (1965 units) |
+| The Trufflers: A Story | have | PG 51985, `smerwin-trufflers` (2723 units) |
+| Anthony the Absolute | have | PG 52507, `smerwin-anthony-the-absolute` (1928 units) |
+| Hills of Han: A Romantic Incident | have | PG 53997, `smerwin-hills-of-han` (2368 units) |
+| The Whip Hand: A Tale of the Pine Country | have | PG 54102, `smerwin-whip-hand` (1633 units) |
+| His Little World: The Story of Hunch Badeau | have | PG 54103, `smerwin-his-little-world` (1040 units) |
+| pg-57716 | excluded | PG 57716: Gutenberg's index of the author's works, not a book. |
+| repeat-editions | excluded | PG 30431: second Gutenberg editions of titles already on the shelf. |

@@ -1,0 +1,190 @@
+{
+ "_about": "Samuel Merwin's novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Samuel Merwin",
+ "_name_words": [
+  "merwin"
+ ],
+ "_surname": [
+  "merwin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "smerwin-short-line-war": [
+   8385,
+   "The Short Line War"
+  ],
+  "smerwin-calumet-k": [
+   18154,
+   "Calumet \"K\""
+  ],
+  "smerwin-road-to-frontenac": [
+   28958,
+   "The Road to Frontenac"
+  ],
+  "smerwin-drugging-a-nation": [
+   33586,
+   "Drugging a Nation: The Story of China and the Opium Curse"
+  ],
+  "smerwin-road-builders": [
+   41825,
+   "The Road Builders"
+  ],
+  "smerwin-merry-anne": [
+   51916,
+   "The Merry Anne"
+  ],
+  "smerwin-henry-is-twenty": [
+   51948,
+   "Henry Is Twenty: A Further Episodic History of Henry Calverly, 3rd"
+  ],
+  "smerwin-in-red-and-gold": [
+   51974,
+   "In Red and Gold"
+  ],
+  "smerwin-trufflers": [
+   51985,
+   "The Trufflers: A Story"
+  ],
+  "smerwin-anthony-the-absolute": [
+   52507,
+   "Anthony the Absolute"
+  ],
+  "smerwin-hills-of-han": [
+   53997,
+   "Hills of Han: A Romantic Incident"
+  ],
+  "smerwin-whip-hand": [
+   54102,
+   "The Whip Hand: A Tale of the Pine Country"
+  ],
+  "smerwin-his-little-world": [
+   54103,
+   "His Little World: The Story of Hunch Badeau"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57716": "PG 57716: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 30431: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "smerwin-short-line-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-calumet-k": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-road-to-frontenac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-drugging-a-nation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-road-builders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-merry-anne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-henry-is-twenty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-in-red-and-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-trufflers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-anthony-the-absolute": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-hills-of-han": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-whip-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "smerwin-his-little-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "merwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

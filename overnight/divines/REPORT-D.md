@@ -1898,3 +1898,6 @@
 
 ## 2026-10-22 22:31 CDT — david-christie-murray: done
 - david-christie-murray: new shelf, 15 Gutenberg books, 10,354 units, 109 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:31 CDT — samuel-merwin: done
+- samuel-merwin: new shelf, 13 Gutenberg books, 25,279 units, 65 ~2 ids; verify 0 mismatches, 0 rights flags.
