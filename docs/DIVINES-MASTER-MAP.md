@@ -41194,3 +41194,20 @@ Shelf: `pipeline/egerton-castle_shelf.json` (2026-10-22; added at the coordinato
 | A Little House in War Time | have | PG 63618, `ecastle-little-house-in-war-time` (1037 units) |
 | Pamela Pounce: A tale of tempestuous petticoats | have | PG 69413, `ecastle-pamela-pounce` (2130 units) |
 | The star dreamer: A romance | have | PG 69711, `ecastle-star-dreamer` (2525 units) |
+
+## Ada Cambridge
+
+Shelf: `pipeline/ada-cambridge_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Australian novels. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Sisters | have | PG 4218, `acambridge-sisters` (1861 units) |
+| Thirty Years in Australia | have | PG 37825, `acambridge-thirty-years-in-australia` (515 units) |
+| A Humble Enterprise | have | PG 37866, `acambridge-humble-enterprise` (1064 units) |
+| A Mere Chance: A Novel. Vol. 1 | have | PG 38083, `acambridge-mere-chance` (759 units) |
+| A Mere Chance: A Novel. Vol. 2 | have | PG 38084, `acambridge-mere-chance-38084` (878 units) |
+| A Mere Chance: A Novel. Vol. 3 | have | PG 38085, `acambridge-mere-chance-38085` (638 units) |
+| Materfamilias | have | PG 40659, `acambridge-materfamilias` (934 units) |
+| The Retrospect | have | PG 42270, `acambridge-retrospect` (565 units) |
+| The Three Miss Kings: An Australian Story | have | PG 50476, `acambridge-three-miss-kings` (1621 units) |
+| In two years' time, Vol. 1 (of 2) | have | PG 73287, `acambridge-in-two-years-time-vol-1-of-2` (553 units) |
