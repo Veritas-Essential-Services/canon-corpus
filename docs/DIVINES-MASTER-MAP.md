@@ -13788,6 +13788,23 @@ Slugs `brooke-*`. Built from title pages read for round 75.
 | The spikenard and other sermons (London, Lindsey Press, 1919) | have-ocr | IA `spikenardotherse0000broo` |
 | his literary books (English Literature primer, Milton, Riquet of the Tuft, Tennyson, Browning, Shakespeare, Poems from Shelley and others): not theology | excluded | |
 | IA item christinmodernli00broorich carries J. W. Chadwick's The Faith of Reason, not Brooke; replaced by christinmodernli00broo_0 | excluded | |
+
+## W. Morley Punshon (round 75, my pick, 2026-10-23)
+
+Slugs `punshon-*`. Built from title pages read for round 75.
+
+| Work | Status | Where |
+|---|---|---|
+| The Huguenots (London, J. Nisbet and co., 1859) | have-ocr | IA `huguenots00puns` |
+| Sermons (New York, 1860) | have-ocr | IA `sermons00puns` |
+| Select lectures and sermons of the Rev. William Morley Punshon (Cincinnati : C. Moore, 1860) | have-ocr | IA `punshonslectures00punsuoft` |
+| Life thoughts (catalogued 1880) | have-ocr | IA `lifethoughts00puns` |
+| Sabbath chimes : meditations in verse for the Sundays of a year (London : James Nisbet, 1867) | have-ocr | IA `chimmed00puns` |
+| The prodigal son : four discourses (Toronto : S. Rose, 1868) | have-ocr | IA `prodigalsonfourd00puns` |
+| Lectures and sermons (Toronto Adam, Stevenson, 1873) | have-ocr | IA `lecturessermons00punsuoft` |
+| Lectures (London : Woolmer, 1882) | have-ocr | IA `lectures00punsiala` |
+| Sermons [ed. by W. Arthur] (catalogued 1882) | have-ocr | IA `sermonsedbywart00punsgoog` |
+| pamphlets of under 60 pages; memoirs and sketches of him by others (1871, 1881, 1883) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

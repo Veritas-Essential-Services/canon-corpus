@@ -1,0 +1,161 @@
+{
+ "_about": "Public-domain William Morley Punshon (1824-1881), Wesleyan Methodist preacher and lecturer, President of the Wesleyan Conference, for the Word Hoard: The Huguenots (1859), his Sermons (1860), Select Lectures and Sermons (1860), Life Thoughts (1863), Sabbath Chimes, meditations in verse (1867), The Prodigal Son (1868), Lectures and Sermons (1873), his collected Lectures (1882) and a second volume of Sermons edited by William Arthur (1882). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 75 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "punshon"
+ ],
+ "_surname": [
+  "punshon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "punshon-huguenots": [
+   "huguenots00puns",
+   "The Huguenots (London, J. Nisbet and co., 1859)"
+  ],
+  "punshon-sermons-1860": [
+   "sermons00puns",
+   "Sermons (New York, 1860)"
+  ],
+  "punshon-select-lectures-sermons": [
+   "punshonslectures00punsuoft",
+   "Select lectures and sermons of the Rev. William Morley Punshon (Cincinnati : C. Moore, 1860)"
+  ],
+  "punshon-life-thoughts": [
+   "lifethoughts00puns",
+   "Life thoughts (catalogued 1880)"
+  ],
+  "punshon-sabbath-chimes": [
+   "chimmed00puns",
+   "Sabbath chimes : meditations in verse for the Sundays of a year (London : James Nisbet, 1867)"
+  ],
+  "punshon-prodigal-son": [
+   "prodigalsonfourd00puns",
+   "The prodigal son : four discourses (Toronto : S. Rose, 1868)"
+  ],
+  "punshon-lectures-and-sermons": [
+   "lecturessermons00punsuoft",
+   "Lectures and sermons (Toronto Adam, Stevenson, 1873)"
+  ],
+  "punshon-lectures": [
+   "lectures00punsiala",
+   "Lectures (London : Woolmer, 1882)"
+  ],
+  "punshon-sermons-1882": [
+   "sermonsedbywart00punsgoog",
+   "Sermons [ed. by W. Arthur] (catalogued 1882)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "punshon-other": "pamphlets of under 60 pages; memoirs and sketches of him by others (1871, 1881, 1883)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "punshon-life-thoughts": "title page: 'LIFE THOUGHTS. Rev. W. MORLEY PUNSHON, M.A. TWELFTH THOUSAND. W. P. NIMMO'; extracts from his sermons compiled by a hearer from note-books"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "punshon-huguenots": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "punshon-sermons-1860": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "punshon-select-lectures-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "punshon-life-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "punshon-sabbath-chimes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "punshon-prodigal-son": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "punshon-lectures-and-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "punshon-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "punshon-sermons-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "punshon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
