@@ -1,0 +1,177 @@
+{
+ "_about": "Public-domain Thomas Gunn Selby (1846-1910), Wesleyan Methodist missionary in China and later minister in England, for the Word Hoard: his sermons and lectures: The Imperfect Angel (1892), The Lesson of a Dilemma (1893), The Holy Spirit and Christian Privilege (1894), The Ministry of the Lord Jesus (1896), The Theology of Modern Fiction, the Fernley lecture (1896), The Unheeding God (1899), The God of the Trail (1902), The Alienated Crown (1904), The Strenuous Gospel (1906) and The God-lit City (1911). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 79 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "thomas gunn selby",
+  "thomas g. selby",
+  "t. g. selby"
+ ],
+ "_surname": [
+  "selby",
+  "thomas g. selby"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "selby-imperfect-angel": [
+   "imperfectangelot0000thom_p4h6",
+   "The imperfect angel, and other sermons (catalogued 1892)"
+  ],
+  "selby-lesson-of-dilemma": [
+   "lessonofdilemmao0000thom",
+   "The lesson of a dilemma and other sermonsm (Hodder and Stoughton, 1893)"
+  ],
+  "selby-holy-spirit": [
+   "TheHolySpiritAndChristianPrivilege",
+   "The Holy Spirit and Christian privilege (London, C. H. Kelly, 1894)"
+  ],
+  "selby-ministry-lord-jesus": [
+   "ministryoflordje00selb",
+   "The ministry of the Lord Jesus (London : C. Kelly, 1896)"
+  ],
+  "selby-theology-modern-fiction": [
+   "theologyofmodern00selb",
+   "The theology of modern fiction being the twenty-sixth Fernley lecture delivered in Liverpool, July, 1896 (London : C.H. Kelley, 1896)"
+  ],
+  "selby-unheeding-god": [
+   "unheedinggod00selb",
+   "The unheeding God (London : Hodder and Stoughton, 1899)"
+  ],
+  "selby-god-of-trail": [
+   "godoftrail0000thom",
+   "The God of the Trail (Hodder and Stoughton, 1902)"
+  ],
+  "selby-alienated-crown": [
+   "alienatedcrown0000thom_w8i7",
+   "The alienated crown (James Robinson, 1904)"
+  ],
+  "selby-strenuous-gospel": [
+   "strenuousgospels00selb",
+   "The strenuous gospel : sermons (Cincinnati : Jennings and Graham ; New York : Eaton and Mains, 1910)"
+  ],
+  "selby-god-lit-city": [
+   "godlitcity0000selb",
+   "The God-lit city (London : C.H. Kelly, 1911)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "selby-china": "his books of Chinese stories and life (The Chinaman in his Own Stories, Chinamen at Home, As the Chinese See Us)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "selby-imperfect-angel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selby-lesson-of-dilemma": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selby-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selby-ministry-lord-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selby-theology-modern-fiction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selby-unheeding-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selby-god-of-trail": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selby-alienated-crown": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "selby-strenuous-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selby-god-lit-city": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "selby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

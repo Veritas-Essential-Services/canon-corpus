@@ -14177,6 +14177,24 @@ Slugs `momerie-*`. Built from title pages read for round 79.
 | Preaching and hearing : and other sermons (Edinburgh : William Blackwood and Sons, 1890) | have-ocr | IA `preachinghearing00momeiala` |
 | The religion of the future : and other essays (Edinburgh ; London : W. Blackwood, 1893) | have-ocr | IA `religionoffuture0000mome` |
 | Immortality and other sermons (Edinburgh : W. Blackwood and Sons, 1901) | have-ocr | IA `immortalityother00mome` |
+
+## Thomas G. Selby (round 79, my pick, 2026-10-23)
+
+Slugs `selby-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| The imperfect angel, and other sermons (catalogued 1892) | have-ocr | IA `imperfectangelot0000thom_p4h6` |
+| The lesson of a dilemma and other sermonsm (Hodder and Stoughton, 1893) | have-ocr | IA `lessonofdilemmao0000thom` |
+| The Holy Spirit and Christian privilege (London, C. H. Kelly, 1894) | have-ocr | IA `TheHolySpiritAndChristianPrivilege` |
+| The ministry of the Lord Jesus (London : C. Kelly, 1896) | have-ocr | IA `ministryoflordje00selb` |
+| The theology of modern fiction being the twenty-sixth Fernley lecture delivered in Liverpool, July, 1896 (London : C.H. Kelley, 1896) | have-ocr | IA `theologyofmodern00selb` |
+| The unheeding God (London : Hodder and Stoughton, 1899) | have-ocr | IA `unheedinggod00selb` |
+| The God of the Trail (Hodder and Stoughton, 1902) | have-ocr | IA `godoftrail0000thom` |
+| The alienated crown (James Robinson, 1904) | have-ocr | IA `alienatedcrown0000thom_w8i7` |
+| The strenuous gospel : sermons (Cincinnati : Jennings and Graham ; New York : Eaton and Mains, 1910) | have-ocr | IA `strenuousgospels00selb` |
+| The God-lit city (London : C.H. Kelly, 1911) | have-ocr | IA `godlitcity0000selb` |
+| his books of Chinese stories and life (The Chinaman in his Own Stories, Chinamen at Home, As the Chinese See Us) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
