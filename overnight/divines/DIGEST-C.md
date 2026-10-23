@@ -2308,3 +2308,5 @@ Ids were checked across all branches: no clashes. Verified and recorded: 0 misma
 - **Dent Balzac, vols. 21, 26, 31, 33 and 39** (Toronto scans of the *Comédie humaine*): the archive.org items hold no files at all, so they cannot be fetched. Closed.
 
 Verified and recorded: 0 mismatched, 0 rights flags. No uids minted.
+
+**Round 161 (2026-10-23), hand-back.** Garnett's 1925 Heinemann *War and Peace* (`30081000790570`) was rechecked: still 264 page texts, with no full-text file or PDF, so it stays in garnett `_pending`. The lane is handed back free. The resume point in LOCK-C names this item first, then the held list. The Dutt/Fleming credit question and the Muther joint credit are still open.
