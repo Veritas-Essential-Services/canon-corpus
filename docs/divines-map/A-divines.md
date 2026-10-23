@@ -14414,3 +14414,14 @@ Slugs `williamson-*`. Built from title pages read for round 82.
 | Sermons for the times and the people (New York : H. Lyon, 1855) | have-ocr | IA `sermonsfortimesp00will` |
 | The philosophy of Universalism ([n.p.], 1866) | have-ocr | IA `philosophyofuniv00will` |
 | The Universalist Church Companion (a service book he compiled); Twelve Sermons of the 1853 Universalist convention (many preachers) | excluded | |
+
+## John Medley (round 82, my pick, 2026-10-23)
+
+Slugs `medley-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons published at the request of many of his late parishioners (London : F. & J. Rivington ; Exeter [England] : P.A. Hannaford, 1845) | have-ocr | IA `cihm_53092` |
+| Four charges to the clergy of the diocese, by John, Lord Bishop of Fredericton : at his triennial visitations, holden in Christ Church Cathedral, Fredericton, 1853, 1856, 1859, 1862 (Oxford : H. Hammans; London : Rivingtons, 1863) | have-ocr | IA `cihm_23054` |
+| The book of Job : with an introduction, a summary of each chapter, and brief notes in explanation of obscure passages (St. John, N.B. [s.n.], 1879) | have-ocr | IA `cihm_05195` |
+| his share in the Library of the Fathers translation of Chrysostom on 1 Corinthians (1839), which belongs with that series; pamphlets of under 60 pages | excluded | |
