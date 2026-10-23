@@ -1,0 +1,177 @@
+{
+ "_about": "Will Levington Comfort's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Will Levington Comfort",
+ "_name_words": [
+  "comfort",
+  "levington",
+  "will"
+ ],
+ "_surname": [
+  "will levington comfort",
+  "levington comfort"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wlcomfort-red-fleece": [
+   6351,
+   "Red Fleece"
+  ],
+  "wlcomfort-fate-knocks-at-the-door": [
+   11655,
+   "Fate Knocks at the Door: A Novel"
+  ],
+  "wlcomfort-son-of-power": [
+   19970,
+   "Son of Power"
+  ],
+  "wlcomfort-child-and-country": [
+   27793,
+   "Child and Country: A Book of the Younger Generation"
+  ],
+  "wlcomfort-she-buildeth-her-house": [
+   34825,
+   "She Buildeth Her House"
+  ],
+  "wlcomfort-hive": [
+   44208,
+   "The Hive"
+  ],
+  "wlcomfort-last-ditch": [
+   46152,
+   "The Last Ditch"
+  ],
+  "wlcomfort-down-among-men": [
+   68390,
+   "Down among men"
+  ],
+  "wlcomfort-public-square": [
+   69035,
+   "The Public Square"
+  ],
+  "wlcomfort-lot-company": [
+   69038,
+   "Lot & Company"
+  ],
+  "wlcomfort-somewhere-south-in-sonora": [
+   70867,
+   "Somewhere south in Sonora"
+  ],
+  "wlcomfort-routledge-rides-alone": [
+   73334,
+   "Routledge rides alone"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wlcomfort-red-fleece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-fate-knocks-at-the-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-son-of-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-child-and-country": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-she-buildeth-her-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-hive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-last-ditch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-down-among-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-public-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-lot-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-somewhere-south-in-sonora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlcomfort-routledge-rides-alone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "will levington comfort",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

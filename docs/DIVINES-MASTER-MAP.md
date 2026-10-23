@@ -40390,3 +40390,22 @@ Shelf: `pipeline/maria-thompson-daviess_shelf.json` (2026-10-22; added at the co
 | The Golden Bird | have | PG 16963, `mtdaviess-golden-bird` (735 units) |
 | The Heart's Kingdom | have | PG 18756, `mtdaviess-hearts-kingdom` (1166 units) |
 | Blue-grass and Broadway | have | PG 29391, `mtdaviess-blue-grass-and-broadway` (1363 units) |
+
+## Will Levington Comfort
+
+Shelf: `pipeline/will-levington-comfort_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Red Fleece | have | PG 6351, `wlcomfort-red-fleece` (1468 units) |
+| Fate Knocks at the Door: A Novel | have | PG 11655, `wlcomfort-fate-knocks-at-the-door` (1987 units) |
+| Son of Power | have | PG 19970, `wlcomfort-son-of-power` (2154 units) |
+| Child and Country: A Book of the Younger Generation | have | PG 27793, `wlcomfort-child-and-country` (1015 units) |
+| She Buildeth Her House | have | PG 34825, `wlcomfort-she-buildeth-her-house` (1439 units) |
+| The Hive | have | PG 44208, `wlcomfort-hive` (1152 units) |
+| The Last Ditch | have | PG 46152, `wlcomfort-last-ditch` (1605 units) |
+| Down among men | have | PG 68390, `wlcomfort-down-among-men` (1857 units) |
+| The Public Square | have | PG 69035, `wlcomfort-public-square` (1979 units) |
+| Lot & Company | have | PG 69038, `wlcomfort-lot-company` (1596 units) |
+| Somewhere south in Sonora | have | PG 70867, `wlcomfort-somewhere-south-in-sonora` (1392 units) |
+| Routledge rides alone | have | PG 73334, `wlcomfort-routledge-rides-alone` (1377 units) |
