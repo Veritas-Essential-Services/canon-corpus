@@ -1,0 +1,152 @@
+{
+ "_about": "Public-domain Elijah Parish (1762-1825), Congregational minister of Byfield, Massachusetts, and Federalist preacher, for the Word Hoard: his sermons (on paganism, Ruin or Separation from Anti-Christ, the 1810 election sermon, A Protest against the War, his fast-day discourses of 1813 and 1814, the 1814 missionary sermon), Sacred Geography (1813) and Sermons Practical and Doctrinal (1826). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 89 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "elijah parish",
+  "e. parish"
+ ],
+ "_surname": [
+  "elijah parish",
+  "e. parish"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "parish-ruin-separation": [
+   "ruinorseparation00pari",
+   "Ruin or separation from Anti-Christ. A sermon preached at Byfield, April 7, 1808, on the annual fast in the commonwealth of Massachusetts (Newburyport [Mass.] E.W. & W.B. Allen, 1808)"
+  ],
+  "parish-election-1810": [
+   "cu31924104014737",
+   "A sermon, preached at Boston : before His Excellency Christopher Gore, governor, His Honor David Cobb, Lieut. Governor, the Council and legislature, upon the annual election, May 30, 1810 (Boston : Printed by subscription, 1810)"
+  ],
+  "parish-protest-war": [
+   "cihm_49660",
+   "A protest against the war : a discourse delivered at Byfield, fast day, July 23, 1812 (Newburyport [Mass.] : From the press of E.W. Allen, 1812)"
+  ],
+  "parish-fast-1813": [
+   "cihm_92044",
+   "A discourse, delivered at Byfield, state of Massachusetts, on the annual fast, April 8, 1813 ([Halifax, N.S.?] : Anthony H. Holland, printer, 1813)"
+  ],
+  "parish-missionary-1814": [
+   "cihm_39962",
+   "A sermon preached at Boston, November 3, 1814, before the Society for Propagating the Gospel among the Indians and Others in North America (Boston : Printed by Nathaniel Willis ... for S.T. Armstrong ..., 1814)"
+  ],
+  "parish-fast-1814": [
+   "discoursedeliver00pariuoft",
+   "A discourse, delivered at Bayfield, on the public fast, April 7, 1814 (Newburyport : Published by William B. Allen, 1814)"
+  ],
+  "parish-sacred-geography": [
+   "sacredgeographyo00pari",
+   "Sacred geography, or, A gazetteer of the Bible : containing, in alphabetical order, a geographical description of all the countries, kingdoms, nations and tribes of men, with all the villages, towns, cities, provinces, hills mountains, rivers, lakes, seas, and islands, mentioned in the Sacred Scriptures, or Apocrypha, including an account of the religion, government, population, fulfilment of prophecies, and present condition of the most important places (Boston : Samuel T. Armstrong, 1813)"
+  ],
+  "parish-sermons": [
+   "sermonspractical00pari",
+   "Sermons practical and doctrinal (Boston : Crocker & Brewster, 1826)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "parish-secular": "the geography and New England history written with Jedidiah Morse, his 1799 Fourth of July oration, the Hubbard eulogy, and the Wheelock memoirs written with David McClure"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "parish-fast-1813": "title page: 'A DISCOURSE DELIVERED AT BYFIELD, STATE OF MASSACHUSETTS, ON THE ANNUAL FAST, APRIL 8, 1813. BY ELIJAH PARISH' (a Halifax reprint, 'Printed ... at the Recorder Office'; OCR 'ELIFAH PARISH', 'Exiyan Partsu, D. D. Of Byfield')",
+  "parish-missionary-1814": "title page: 'SERMON PREACHED AT BOSTON, NOVEMBER 3, 1814, BEFORE THE SOCIETY FOR PROPAGATING THE GOSPEL AMONG THE INDIANS AND OTHERS IN NORTH-AMERICA. BY ELIJAH PARISH, D.D.' (OCR 'ELIWAH PARISH')"
+ },
+ "_pending": {
+  "parish-paganism": "bim_eighteenth-century_the-excellence-of-the-go_parish-elijah_1798: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR"
+ },
+ "_translators": {},
+ "_checks": {
+  "parish-ruin-separation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah parish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "parish-election-1810": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah parish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parish-protest-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. parish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parish-fast-1813": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parish-missionary-1814": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parish-fast-1814": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah parish",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parish-sacred-geography": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah parish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parish-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elijah parish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

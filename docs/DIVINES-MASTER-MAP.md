@@ -15070,6 +15070,23 @@ Slugs `wild-*`. Built from title pages read for round 89.
 | The origin and secrets of freemasonry : being a lecture delivered by the Rev. Joseph Wild, D.D., chaplain Doric Lodge, A.F. & A. M., Toronto, in Toronto, Ont., on February 22nd, 1889 (Toronto : Yeigh, 1889) | have-ocr | IA `cihm_34511` |
 | Canada and the Jesuits : being a series of six sermons (Toronto : Published at the office of the "Canadian Advance", [188) | have-ocr | IA `canadajesuitsbei00wilduoft` |
 | Dr. Wild's Sunday evening sermons (Toronto : Rose, 1891) | have-ocr | IA `cihm_25769` |
+
+## Elijah Parish (round 89, my pick, 2026-10-23)
+
+Slugs `parish-*`. Built from title pages read for round 89.
+
+| Work | Status | Where |
+|---|---|---|
+| Ruin or separation from Anti-Christ. A sermon preached at Byfield, April 7, 1808, on the annual fast in the commonwealth of Massachusetts (Newburyport [Mass.] E.W. & W.B. Allen, 1808) | have-ocr | IA `ruinorseparation00pari` |
+| A sermon, preached at Boston : before His Excellency Christopher Gore, governor, His Honor David Cobb, Lieut. Governor, the Council and legislature, upon the annual election, May 30, 1810 (Boston : Printed by subscription, 1810) | have-ocr | IA `cu31924104014737` |
+| A protest against the war : a discourse delivered at Byfield, fast day, July 23, 1812 (Newburyport [Mass.] : From the press of E.W. Allen, 1812) | have-ocr | IA `cihm_49660` |
+| A discourse, delivered at Byfield, state of Massachusetts, on the annual fast, April 8, 1813 ([Halifax, N.S.?] : Anthony H. Holland, printer, 1813) | have-ocr | IA `cihm_92044` |
+| A sermon preached at Boston, November 3, 1814, before the Society for Propagating the Gospel among the Indians and Others in North America (Boston : Printed by Nathaniel Willis ... for S.T. Armstrong ..., 1814) | have-ocr | IA `cihm_39962` |
+| A discourse, delivered at Bayfield, on the public fast, April 7, 1814 (Newburyport : Published by William B. Allen, 1814) | have-ocr | IA `discoursedeliver00pariuoft` |
+| Sacred geography, or, A gazetteer of the Bible : containing, in alphabetical order, a geographical description of all the countries, kingdoms, nations and tribes of men, with all the villages, towns, cities, provinces, hills mountains, rivers, lakes, seas, and islands, mentioned in the Sacred Scriptures, or Apocrypha, including an account of the religion, government, population, fulfilment of prophecies, and present condition of the most important places (Boston : Samuel T. Armstrong, 1813) | have-ocr | IA `sacredgeographyo00pari` |
+| Sermons practical and doctrinal (Boston : Crocker & Brewster, 1826) | have-ocr | IA `sermonspractical00pari` |
+| bim_eighteenth-century_the-excellence-of-the-go_parish-elijah_1798: eighteenth-century pamphlet whose OCR is too garbled to show the author or read the text; needs re-OCR | pending | not shelved |
+| the geography and New England history written with Jedidiah Morse, his 1799 Fourth of July oration, the Hubbard eulogy, and the Wheelock memoirs written with David McClure | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
