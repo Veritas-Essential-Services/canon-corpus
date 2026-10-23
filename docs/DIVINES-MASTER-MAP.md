@@ -11408,6 +11408,21 @@ Slugs `foxcroft-*`. Built from title pages read for round 51.
 | An apology in behalf of the Revd Mr. Whitefield: offering a fair solution of certain difficulties, objected against some parts of his public conduct, in point of moral honesty, and uniformity as ... set forth in a late pamphlet, intitled, A letter to the Reverend Mr. George Whitefield, publickly calling upon him to vindicate his conduct,  1745 (catalogued 1745) | have-ocr | IA `bim_eighteenth-century_an-apology-in-behalf-of-_foxcroft-thomas_1745` |
 | An humble inquiry into the rules of the Word of God, concerning the qualifications requisite to a compleat [sic] standing and full communion in the visible Christian church (Boston: Printed & sold by S. Kneeland in Queenstreet, 1749) | have-ocr | IA `anhumbleinquiry00foxcgoog` |
 | Other single sermons (1729-1760); the Artillery Company records (another body) | excluded | |
+
+## Joseph Sewall (round 51, my pick, 2026-10-23)
+
+Slugs `sewall-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| Rulers must be just, ruling in the fear of God. A sermon preach'd before the Honourable, the Lieutenant Governour, the Council & representatives of the province of the Massachusetts-Bay in New-England, May 27, 1724.... By Joseph Sewall,...  1724 (catalogued 1724) | have-ocr | IA `bim_eighteenth-century_rulers-must-be-just-rul_sewall-joseph_1724` |
+| The duty of a people to stand in awe of God, and not sin, when under His terrible judgments. A sermon preach'd at the South meeting house in Boston, the evening after the earthquake, which was in the night between the 29th & 30th of October, 1727.  1 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_the-duty-of-a-people-to-_sewall-joseph_1727` |
+| Jehovah is the king and saviour of his people. A sermon preach'd at the Boston lecture, August 17. 1727. Upon the awful tidings of the death of His late Majesty King George, June 11th. By Joseph Sewall, A.M. Pastor of a church of Christ in Boston. [Four lines from Psalms].  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_jehovah-is-the-king-and-_sewall-joseph_1727` |
+| Repentance the sure way to escape destruction. Two sermons on Jrr. 18. 7,8. preach'd December 21st. on a publick fast occasioned by the earthquake the night after the Lord's-day Octob. 29th. and on the Lord's-day December 24th. 1727.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_repentance-the-sure-way-_sewall-joseph_1727` |
+| Nineveh's repentance and deliverance. A sermon preach'd before His Excellency the Governor the Honourable Council and representatives of the province of the Massachusetts-Bay, ...  1740 (catalogued 1740) | have-ocr | IA `bim_eighteenth-century_ninevehs-repentance-and_sewall-joseph_1740` |
+| The Holy Spirit convincing the world of sin, of righteousness, and of judgment, considered in four sermons: the two former delivered at the Tuesday-evening lecture in Brattle-Street, January 20th & March 3: the other at the Old-South Church in Boston, April 17 & 26, 1741. By Joseph Sewall, D.D. [Three lines from Romans].  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_the-holy-spirit-convinci_sewall-joseph_1741` |
+| All flesh is as grass; but the word of the Lord endureth for ever. A sermon preached at the Thursday lecture in Boston, January 1st. 1740,1. ...  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_all-flesh-is-as-grass-b_sewall-joseph_1741` |
+| Samuel Sewall's works (his father, another man); the 1872 botany (another Sewall) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,141 @@
+{
+ "_about": "Public-domain Joseph Sewall (1688-1769), minister of the Old South Church, Boston, for the Word Hoard: Rulers must be Just (1724), The Duty of a People to Stand in Awe of God (1727), Jehovah is the King and Saviour of his People (1727), Repentance the Sure Way to Escape Destruction (1727), Nineveh's Repentance and Deliverance (1740), The Holy Spirit Convincing the World of Sin (1741) and All Flesh is as Grass (1741), from Internet Archive scans of Eighteenth Century Collections. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sewall"
+ ],
+ "_surname": [
+  "joseph sewall",
+  "j. sewall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sewall-rulers-must-be-just": [
+   "bim_eighteenth-century_rulers-must-be-just-rul_sewall-joseph_1724",
+   "Rulers must be just, ruling in the fear of God. A sermon preach'd before the Honourable, the Lieutenant Governour, the Council & representatives of the province of the Massachusetts-Bay in New-England, May 27, 1724.... By Joseph Sewall,...  1724 (catalogued 1724)"
+  ],
+  "sewall-duty-of-a-people": [
+   "bim_eighteenth-century_the-duty-of-a-people-to-_sewall-joseph_1727",
+   "The duty of a people to stand in awe of God, and not sin, when under His terrible judgments. A sermon preach'd at the South meeting house in Boston, the evening after the earthquake, which was in the night between the 29th & 30th of October, 1727.  1 (catalogued 1727)"
+  ],
+  "sewall-jehovah-is-king": [
+   "bim_eighteenth-century_jehovah-is-the-king-and-_sewall-joseph_1727",
+   "Jehovah is the king and saviour of his people. A sermon preach'd at the Boston lecture, August 17. 1727. Upon the awful tidings of the death of His late Majesty King George, June 11th. By Joseph Sewall, A.M. Pastor of a church of Christ in Boston. [Four lines from Psalms].  1727 (catalogued 1727)"
+  ],
+  "sewall-repentance": [
+   "bim_eighteenth-century_repentance-the-sure-way-_sewall-joseph_1727",
+   "Repentance the sure way to escape destruction. Two sermons on Jrr. 18. 7,8. preach'd December 21st. on a publick fast occasioned by the earthquake the night after the Lord's-day Octob. 29th. and on the Lord's-day December 24th. 1727.  1727 (catalogued 1727)"
+  ],
+  "sewall-nineveh": [
+   "bim_eighteenth-century_ninevehs-repentance-and_sewall-joseph_1740",
+   "Nineveh's repentance and deliverance. A sermon preach'd before His Excellency the Governor the Honourable Council and representatives of the province of the Massachusetts-Bay, ...  1740 (catalogued 1740)"
+  ],
+  "sewall-holy-spirit": [
+   "bim_eighteenth-century_the-holy-spirit-convinci_sewall-joseph_1741",
+   "The Holy Spirit convincing the world of sin, of righteousness, and of judgment, considered in four sermons: the two former delivered at the Tuesday-evening lecture in Brattle-Street, January 20th & March 3: the other at the Old-South Church in Boston, April 17 & 26, 1741. By Joseph Sewall, D.D. [Three lines from Romans].  1741 (catalogued 1741)"
+  ],
+  "sewall-all-flesh": [
+   "bim_eighteenth-century_all-flesh-is-as-grass-b_sewall-joseph_1741",
+   "All flesh is as grass; but the word of the Lord endureth for ever. A sermon preached at the Thursday lecture in Boston, January 1st. 1740,1. ...  1741 (catalogued 1741)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "sewall-other": "Samuel Sewall's works (his father, another man); the 1872 botany (another Sewall)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "sewall-jehovah-is-king": {
+   "author": "title page read from the page image: 'Jehovah is the King and Saviour of his People. A Sermon preach'd at the Boston Lecture, August 17. 1727, upon the awful tidings of the death of his late Majesty King George ... By Joseph Sewall, A.M., Pastor of a Church of Christ in Boston. Boston, 1727' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'Jehovah is the King and Saviour of his People. A Sermon preach'd at the Boston Lecture, August 17. 1727, upon the awful tidings of the death of his late Majesty King George ... By Joseph Sewall, A.M., Pastor of a Church of Christ in Boston. Boston, 1727' (OCR of the scan is unreadable)"
+  },
+  "sewall-repentance": {
+   "author": "title page read from the page image: 'Repentance the sure Way to Escape Destruction. Two Sermons ... occasioned by the Earthquake ... By Joseph Sewall, M.A., Pastor of a Church of Christ in Boston. Boston: printed for D. Henchman, 1727' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'Repentance the sure Way to Escape Destruction. Two Sermons ... occasioned by the Earthquake ... By Joseph Sewall, M.A., Pastor of a Church of Christ in Boston. Boston: printed for D. Henchman, 1727' (OCR of the scan is unreadable)"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "sewall-rulers-must-be-just": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "MISMATCH: surname ['joseph sewall', 'j. sewall'] never appears as a word in the ia text",
+   "ia_rights": "ok: published 1724",
+   "ia_date": "1724",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sewall-duty-of-a-people": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "MISMATCH: surname ['joseph sewall', 'j. sewall'] never appears as a word in the ia text",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sewall-jehovah-is-king": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sewall-repentance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sewall-nineveh": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "MISMATCH: surname ['joseph sewall', 'j. sewall'] never appears as a word in the ia text",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sewall-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "MISMATCH: surname ['joseph sewall', 'j. sewall'] never appears as a word in the ia text",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sewall-all-flesh": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "MISMATCH: surname ['joseph sewall', 'j. sewall'] never appears as a word in the ia text",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
