@@ -1,0 +1,363 @@
+{
+ "_about": "Public-domain William Mackergo Taylor (1829-1895), Scottish-born Congregational minister of the Broadway Tabernacle, New York, for the Word Hoard: his Bible biographies (David, Elijah, Peter, Daniel, Moses, Paul, Joseph, Ruth and Esther), The Ministry of the Word (1876), The Gospel Miracles (1880), The Parables of our Saviour (1886), The Miracles of our Saviour (1890), The Scottish Pulpit (1887), John Knox (1885) and several volumes of sermons, 1865-1893. from Internet Archive scans. Added 2026-10-23 by lane A, round 62 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "taylor",
+  "mackergo"
+ ],
+ "_surname": [
+  "william m. taylor",
+  "wm. m. taylor",
+  "w. m. taylor",
+  "william mackergo taylor"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wmtaylor-miracles-helps-to-faith": [
+   "miracleshelpstof00tayl",
+   "Miracles; helps to faith, not hindrances (Edinburgh : W. Olphant, 1865)"
+  ],
+  "wmtaylor-lost-found": [
+   "lostfoundwandere00tayl",
+   "The lost found and the wanderer welcomed (New York : Scribner, Armstrong, 1873)"
+  ],
+  "wmtaylor-david": [
+   "davidkingofisrae00tayliala",
+   "David, king of Israel: his life and its lessons (New York : Harper & brothers, 1875)"
+  ],
+  "wmtaylor-elijah": [
+   "elijahprophet0000tayl_g4x0",
+   "Elijah the Prophet (New York: Harper & Brothers; preface dated December 1875, printing year illegible in the OCR)"
+  ],
+  "wmtaylor-ministry-of-word": [
+   "ministryofword00tayl",
+   "The ministry of the word (New York : Anson D. F. Randolph, 1876)"
+  ],
+  "wmtaylor-peter": [
+   "cu31924029333675",
+   "Peter, the apostle (New York : Harper, 1876)"
+  ],
+  "wmtaylor-gods-word-mans-light": [
+   "godswordmansligh00tayl",
+   "God's word, man's light and guide : a course of lectures on the Bible before the New York Sunday School Association (New York : American Tract Society, 1877)"
+  ],
+  "wmtaylor-songs-in-night": [
+   "songsinnight00tayl",
+   "Songs in the night (New York, A. D. F. Randolph & company, 1877)"
+  ],
+  "wmtaylor-daniel": [
+   "danielbeloved00tayl",
+   "Daniel the beloved (New York : Harper, 1878)"
+  ],
+  "wmtaylor-limitations-of-life": [
+   "limitationsoflif00tayl_0",
+   "The limitations of life, and other sermons (New York, A. C. Armstrong & son, 1879)"
+  ],
+  "wmtaylor-moses": [
+   "moseslawgiver00tayl",
+   "Moses : the law-giver (New York : Harper & bros., 1879)"
+  ],
+  "wmtaylor-gospel-miracles": [
+   "gospelmiraclesin00tayl",
+   "The Gospel miracles in their relation to Christ and Christianity (New York : A. D. F. Randolf and Company, 1880)"
+  ],
+  "wmtaylor-paul": [
+   "paulmissionary00tayl",
+   "Paul, the missionary (New York, Harper & brothers, 1882)"
+  ],
+  "wmtaylor-contrary-winds": [
+   "contrarywindsan00taylgoog",
+   "Contrary winds, and other sermons (New York, A.C. Armstrong & son, 1883)"
+  ],
+  "wmtaylor-jesus-at-well": [
+   "jesusatwelljohni00tayl",
+   "Jesus at the well, John iv. 1-42 (New York : A. D. F. Randolph & company, 1884)"
+  ],
+  "wmtaylor-john-knox": [
+   "johnknox00tayl",
+   "John Knox (New York, A. C. Armstrong & Son, 1885)"
+  ],
+  "wmtaylor-joseph": [
+   "josephprimemini00taylgoog",
+   "Joseph the prime-minister (New York, Harper & brothers, 1886)"
+  ],
+  "wmtaylor-parables": [
+   "parablesofoursav00tayl",
+   "The parables of our Saviour, expounded and illustrated (New York, A.C. Armstrong, 1886)"
+  ],
+  "wmtaylor-scottish-pulpit": [
+   "scottishpulpit00tayluoft",
+   "The Scottish pulpit : from the reformation to the present day (London : Charles Burnet & Co, 1887)"
+  ],
+  "wmtaylor-miracles-of-saviour": [
+   "miraclesofoursav00tayl",
+   "The miracles of Our Saviour, expounded and illustrated (New York : A. C. Armstrong, 1890)"
+  ],
+  "wmtaylor-ruth-and-esther": [
+   "ruthgleaneresthe01tayl",
+   "Ruth the gleaner and Esther the queen (New York, Harper and brothers, 1891)"
+  ],
+  "wmtaylor-boy-jesus": [
+   "boyjesusotherser00tayl",
+   "The boy Jesus; and other sermons (New York, Armstrong, 1893)"
+  ]
+ },
+ "_alternates": {
+  "wmtaylor-elijah": "elijahprophet00tayl (a 1903 printing whose scan has lost its title page) swapped for this copy, whose title page reads 'by the Rev. William M. Taylor, D.D., Minister of the Broadway Tabernacle, New York City'"
+ },
+ "_excluded": {
+  "wmtaylor-other": "Other William Taylors (of Norwich, the arithmetic teachers, Bishop William Taylor the Methodist missionary); funeral addresses for others in which he spoke among several speakers"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "wmtaylor-lost-found": "title page: 'The Lost Found, and the Wanderer Welcomed, by William M. 'Baylor [Taylor], D.D., Minister of the Broadway Tabernacle, New York' (New York: Scribner, Armstrong, 1873)",
+  "wmtaylor-miracles-of-saviour": "title page: 'The Miracles of our Saviour expounded and illustrated, by Wiltjato M. Xa-ylor [William M. Taylor], D.D., LL.D., Pastor of the Broadway Tabernacle, New York City' (New York: A. C. Armstrong, 1890)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wmtaylor-miracles-helps-to-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wmtaylor-lost-found": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-david": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-elijah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wmtaylor-ministry-of-word": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-peter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wmtaylor-gods-word-mans-light": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-songs-in-night": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wmtaylor-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-limitations-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wmtaylor-moses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-gospel-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-contrary-winds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-jesus-at-well": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wmtaylor-john-knox": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wm. m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wmtaylor-joseph": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-scottish-pulpit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-miracles-of-saviour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wmtaylor-ruth-and-esther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wmtaylor-boy-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william m. taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

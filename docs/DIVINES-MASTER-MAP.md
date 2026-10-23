@@ -12677,6 +12677,37 @@ Slugs `whipple-*`. Built from title pages read for round 61.
 | Five sermons (New York : E.P. Dutton, 1890) | have-ocr | IA `fivesermons0000whip` |
 | Lights and shadows of a long episcopate; being reminiscences and recollections of the Right Reverend Henry Benjamin Whipple, D.D., LL. D., Bishop of Minnesota (New York : The Macmillan company; London : Macmillan & co., ltd., 1899) | have-ocr | IA `lightsshadowsofl00whip_0` |
 | A Century of Dishonor (Helen Hunt Jackson, with his preface); Heard's History of the Sioux War; other Whipples | excluded | |
+
+## William M. Taylor (round 62, my pick, 2026-10-23)
+
+Slugs `wmtaylor-*`. Built from title pages read for round 62.
+
+| Work | Status | Where |
+|---|---|---|
+| Miracles; helps to faith, not hindrances (Edinburgh : W. Olphant, 1865) | have-ocr | IA `miracleshelpstof00tayl` |
+| The lost found and the wanderer welcomed (New York : Scribner, Armstrong, 1873) | have-ocr | IA `lostfoundwandere00tayl` |
+| David, king of Israel: his life and its lessons (New York : Harper & brothers, 1875) | have-ocr | IA `davidkingofisrae00tayliala` |
+| Elijah the Prophet (New York: Harper & Brothers; preface dated December 1875, printing year illegible in the OCR) | have-ocr | IA `elijahprophet0000tayl_g4x0` |
+| The ministry of the word (New York : Anson D. F. Randolph, 1876) | have-ocr | IA `ministryofword00tayl` |
+| Peter, the apostle (New York : Harper, 1876) | have-ocr | IA `cu31924029333675` |
+| God's word, man's light and guide : a course of lectures on the Bible before the New York Sunday School Association (New York : American Tract Society, 1877) | have-ocr | IA `godswordmansligh00tayl` |
+| Songs in the night (New York, A. D. F. Randolph & company, 1877) | have-ocr | IA `songsinnight00tayl` |
+| Daniel the beloved (New York : Harper, 1878) | have-ocr | IA `danielbeloved00tayl` |
+| The limitations of life, and other sermons (New York, A. C. Armstrong & son, 1879) | have-ocr | IA `limitationsoflif00tayl_0` |
+| Moses : the law-giver (New York : Harper & bros., 1879) | have-ocr | IA `moseslawgiver00tayl` |
+| The Gospel miracles in their relation to Christ and Christianity (New York : A. D. F. Randolf and Company, 1880) | have-ocr | IA `gospelmiraclesin00tayl` |
+| Paul, the missionary (New York, Harper & brothers, 1882) | have-ocr | IA `paulmissionary00tayl` |
+| Contrary winds, and other sermons (New York, A.C. Armstrong & son, 1883) | have-ocr | IA `contrarywindsan00taylgoog` |
+| Jesus at the well, John iv. 1-42 (New York : A. D. F. Randolph & company, 1884) | have-ocr | IA `jesusatwelljohni00tayl` |
+| John Knox (New York, A. C. Armstrong & Son, 1885) | have-ocr | IA `johnknox00tayl` |
+| Joseph the prime-minister (New York, Harper & brothers, 1886) | have-ocr | IA `josephprimemini00taylgoog` |
+| The parables of our Saviour, expounded and illustrated (New York, A.C. Armstrong, 1886) | have-ocr | IA `parablesofoursav00tayl` |
+| The Scottish pulpit : from the reformation to the present day (London : Charles Burnet & Co, 1887) | have-ocr | IA `scottishpulpit00tayluoft` |
+| The miracles of Our Saviour, expounded and illustrated (New York : A. C. Armstrong, 1890) | have-ocr | IA `miraclesofoursav00tayl` |
+| Ruth the gleaner and Esther the queen (New York, Harper and brothers, 1891) | have-ocr | IA `ruthgleaneresthe01tayl` |
+| The boy Jesus; and other sermons (New York, Armstrong, 1893) | have-ocr | IA `boyjesusotherser00tayl` |
+| elijahprophet00tayl (a 1903 printing whose scan has lost its title page) swapped for this copy, whose title page reads 'by the Rev. William M. Taylor, D.D., Minister of the Broadway Tabernacle, New York City' | alternate | not shelved |
+| Other William Taylors (of Norwich, the arithmetic teachers, Bishop William Taylor the Methodist missionary); funeral addresses for others in which he spoke among several speakers | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
