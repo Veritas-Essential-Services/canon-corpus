@@ -10944,3 +10944,12 @@ Shelf: `pipeline/thomas-james-lacey_shelf.json`. A Study of Social Heredity as I
 |---|---|---|---|
 | A Study of Social Heredity as Illustrated in the Greek People (1916) |  | `lacey-social-heredity-greek-people-1916` | have-raw (IA `cu31924028255457`) |
 
+
+## William John Woodhouse
+
+Shelf: `pipeline/w-j-woodhouse_shelf.json`. Aetolia: its Geography, Topography, and Antiquities (Oxford: Clarendon Press, 1897) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Aetolia: its Geography, Topography, and Antiquities (Oxford: Clarendon Press, 1897) |  | `woodhouse-aetolia-1897` | have-raw (IA `cu31924028301962`) |
+
