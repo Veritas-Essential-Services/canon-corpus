@@ -11694,3 +11694,17 @@ Slugs `cwhodge-*`. Built from title pages read for round 54.
 | The work of missions essential to the life of the church : a sermon delivered in the seminary chapel, November 7th, 1880 (Princeton : Press Printing Establishment, 1880) | have-ocr | IA `workofmissionses00hodg` |
 | A sermon preached in the United States Congregational church, at Newport, R. I., Sunday, September 25, 1881 ([n.p., 1881) | have-ocr | IA `sermonpreachedin00hodg` |
 | Caspar Wistar Hodge Jr. (1870-1937), his son: The Kantian Epistemology and Theism (1894) and The Witness of the Holy Spirit to the Bible (1913) | excluded | |
+
+## Lyman Atwater (round 54, my pick, 2026-10-23)
+
+Slugs `atwater-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| The completion of two centuries (Bridgeport, Conn., Standard office, 1839) | have-ocr | IA `completionoftwoc00atwa` |
+| Death disarmed of its sting : a tribute to the memory of the Hon. Roger Minott Sherman, being the discourse preached at his funeral, January 2, 1845 (New Haven : Printed by B.L. Hamlen, 1845) | have-ocr | IA `deathdisarmedofi00atwa` |
+| Manual of elementary logic (Philadelphia, J. B. Lippincott & co., 1867) | have-ocr | IA `manualofelementa00atwa` |
+| The life and character of Nathaniel Hewit, D.D. : a discourse preached at his funeral, in the Presbyterian Church, Bridgeport, Conn., February 6, 1867 (New York : Printed by Edward O. Jenkins, 1867) | have-ocr | IA `lifecharacterofn00atwa` |
+| A discourse commemorative of the late Dr. Charles Hodge. Delivered in the chapel of the College of New Jersey by request of the president, October 13th, and repeated in the First Presbyterian Church, Princeton, at the request of its session, October 20th, 1878 (Princeton, C. S. Robinson, printer, 1878) | have-ocr | IA `discoursecommemo00atwa` |
+| Notes on metaphysics from lectures given by Lyman H. Atwater… (Princeton, N.J., 1880) | have-ocr | IA `notesonmetaphysi00atwa` |
+| The Biblical Repertory and Princeton Review volumes he edited (journals, many authors); Future Paper Money (economics) | excluded | |
