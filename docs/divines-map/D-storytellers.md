@@ -13196,3 +13196,32 @@ Shelf: `pipeline/david-graham-phillips_shelf.json` (2026-10-22; added at the coo
 | The Master Rogue: The Confessions of a Croesus | have | PG 67089, `dgphillips-master-rogue` (836 units) |
 | A Woman Ventures: A Novel | have | PG 67130, `dgphillips-woman-ventures` (1669 units) |
 | The Husband's Story: A Novel | have | PG 67406, `dgphillips-husbands-story` (2814 units) |
+
+## Mary Hartwell Catherwood
+
+Shelf: `pipeline/mary-hartwell-catherwood_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical romances of New France and the Midwest. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Old Caravan Days | have | PG 6909, `mhcatherwood-old-caravan-days` (1150 units) |
+| The Chase of Saint-Castin and Other Stories of the French in the New World | have | PG 12199, `mhcatherwood-chase-of-saint-castin-and-other-stories-of-the` (897 units) |
+| Lazarre | have | PG 15108, `mhcatherwood-lazarre` (3567 units) |
+| Old Kaskaskia | have | PG 18423, `mhcatherwood-old-kaskaskia` (876 units) |
+| The Lady of Fort St. John | have | PG 18631, `mhcatherwood-lady-of-fort-st-john` (1224 units) |
+| The Cursed Patois From "Mackinac And Lake Stories", 1899 | have | PG 23247, `mhcatherwood-cursed-patois-from-mackinac-and-lake-stories-18` (112 units) |
+| The Black Feather From "Mackinac And Lake Stories", 1899 | have | PG 23248, `mhcatherwood-black-feather-from-mackinac-and-lake-stories-18` (65 units) |
+| The Blue Man From "Mackinac And Lake Stories", 1899 | have | PG 23249, `mhcatherwood-blue-man-from-mackinac-and-lake-stories-1899` (83 units) |
+| The Skeleton On Round Island From "Mackinac And Lake Stories", 1899 | have | PG 23250, `mhcatherwood-skeleton-on-round-island-from-mackinac-and-lake` (77 units) |
+| Marianson From "Mackinac And Lake Stories", 1899 | have | PG 23251, `mhcatherwood-marianson-from-mackinac-and-lake-stories-1899` (115 units) |
+| The Indian On The Trail From "Mackinac And Lake Stories", 1899 | have | PG 23252, `mhcatherwood-indian-on-the-trail-from-mackinac-and-lake-stor` (165 units) |
+| The Mothers Of Honoré From "Mackinac And Lake Stories", 1899 | have | PG 23253, `mhcatherwood-mothers-of-honor-from-mackinac-and-lake-stories` (124 units) |
+| The Cobbler In The Devil's Kitchen From "Mackinac And Lake Stories", 1899 | have | PG 23254, `mhcatherwood-cobbler-in-the-devils-kitchen-from-mackinac-and` (130 units) |
+| A British Islander From "Mackinac And Lake Stories", 1899 | have | PG 23255, `mhcatherwood-british-islander-from-mackinac-and-lake-stories` (67 units) |
+| The King Of Beaver, and Beaver Lights From "Mackinac And Lake Stories", 1899 | have | PG 23256, `mhcatherwood-king-of-beaver-and-beaver-lights-from-mackinac` (338 units) |
+| Heroes of the Middle West: The French | have | PG 25556, `mhcatherwood-heroes-of-the-middle-west` (502 units) |
+| The Story of Tonty | have | PG 41273, `mhcatherwood-story-of-tonty` (933 units) |
+| The Romance of Dollard | have | PG 50418, `mhcatherwood-romance-of-dollard` (1279 units) |
+| Mackinac and Lake Stories | have | PG 55392, `mhcatherwood-mackinac-and-lake-stories` (1347 units) |
+| The Queen of the Swamp, and other plain Americans | have | PG 74271, `mhcatherwood-queen-of-the-swamp-and-other-plain-americans` (1288 units) |
+| Rocky Fork | have | PG 76984, `mhcatherwood-rocky-fork` (1468 units) |
+| held-elsewhere | excluded | PG 48747: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

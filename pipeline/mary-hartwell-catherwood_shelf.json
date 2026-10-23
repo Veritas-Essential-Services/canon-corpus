@@ -1,0 +1,293 @@
+{
+ "_about": "Mary Hartwell Catherwood's romances of New France and Midwestern stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary Hartwell Catherwood",
+ "_name_words": [
+  "catherwood"
+ ],
+ "_surname": [
+  "catherwood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mhcatherwood-old-caravan-days": [
+   6909,
+   "Old Caravan Days"
+  ],
+  "mhcatherwood-chase-of-saint-castin-and-other-stories-of-the": [
+   12199,
+   "The Chase of Saint-Castin and Other Stories of the French in the New World"
+  ],
+  "mhcatherwood-lazarre": [
+   15108,
+   "Lazarre"
+  ],
+  "mhcatherwood-old-kaskaskia": [
+   18423,
+   "Old Kaskaskia"
+  ],
+  "mhcatherwood-lady-of-fort-st-john": [
+   18631,
+   "The Lady of Fort St. John"
+  ],
+  "mhcatherwood-cursed-patois-from-mackinac-and-lake-stories-18": [
+   23247,
+   "The Cursed Patois From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-black-feather-from-mackinac-and-lake-stories-18": [
+   23248,
+   "The Black Feather From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-blue-man-from-mackinac-and-lake-stories-1899": [
+   23249,
+   "The Blue Man From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-skeleton-on-round-island-from-mackinac-and-lake": [
+   23250,
+   "The Skeleton On Round Island From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-marianson-from-mackinac-and-lake-stories-1899": [
+   23251,
+   "Marianson From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-indian-on-the-trail-from-mackinac-and-lake-stor": [
+   23252,
+   "The Indian On The Trail From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-mothers-of-honor-from-mackinac-and-lake-stories": [
+   23253,
+   "The Mothers Of Honoré From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-cobbler-in-the-devils-kitchen-from-mackinac-and": [
+   23254,
+   "The Cobbler In The Devil's Kitchen From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-british-islander-from-mackinac-and-lake-stories": [
+   23255,
+   "A British Islander From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-king-of-beaver-and-beaver-lights-from-mackinac": [
+   23256,
+   "The King Of Beaver, and Beaver Lights From \"Mackinac And Lake Stories\", 1899"
+  ],
+  "mhcatherwood-heroes-of-the-middle-west": [
+   25556,
+   "Heroes of the Middle West: The French"
+  ],
+  "mhcatherwood-story-of-tonty": [
+   41273,
+   "The Story of Tonty"
+  ],
+  "mhcatherwood-romance-of-dollard": [
+   50418,
+   "The Romance of Dollard"
+  ],
+  "mhcatherwood-mackinac-and-lake-stories": [
+   55392,
+   "Mackinac and Lake Stories"
+  ],
+  "mhcatherwood-queen-of-the-swamp-and-other-plain-americans": [
+   74271,
+   "The Queen of the Swamp, and other plain Americans"
+  ],
+  "mhcatherwood-rocky-fork": [
+   76984,
+   "Rocky Fork"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 48747: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "mhcatherwood-old-caravan-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-chase-of-saint-castin-and-other-stories-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-lazarre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-old-kaskaskia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-lady-of-fort-st-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-cursed-patois-from-mackinac-and-lake-stories-18": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-black-feather-from-mackinac-and-lake-stories-18": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-blue-man-from-mackinac-and-lake-stories-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-skeleton-on-round-island-from-mackinac-and-lake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-marianson-from-mackinac-and-lake-stories-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-indian-on-the-trail-from-mackinac-and-lake-stor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-mothers-of-honor-from-mackinac-and-lake-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-cobbler-in-the-devils-kitchen-from-mackinac-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-british-islander-from-mackinac-and-lake-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-king-of-beaver-and-beaver-lights-from-mackinac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-heroes-of-the-middle-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-story-of-tonty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-romance-of-dollard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-mackinac-and-lake-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-queen-of-the-swamp-and-other-plain-americans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhcatherwood-rocky-fork": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "catherwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
