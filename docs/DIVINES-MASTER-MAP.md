@@ -47561,3 +47561,40 @@ Shelf: `pipeline/storytellers-tail-48_shelf.json` (2026-10-22; added at the coor
 | The Doors of Death | have | PG 32671, `abwaltermire-doors-of-death` (189 units) |
 | Great Possessions | have | PG 17952, `wward-great-possessions` (1879 units) |
 | The Squirrels and other animals Or, Illustrations of the habits and instincts of many of the smaller British quadrupeds | have | PG 33434, `gwaring-squirrels-and-other-animals-or-illustrations-of-the` (316 units) |
+
+## Storytellers' tail, group 49 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-49_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Henry Edward Warner, Maude Radford Warren, Elizabeth Waterhouse, Samuel R. Watkins, Arthur Waugh, Joseph Laing Waugh, Charles Stokes Wayne, Frank J. Webb, Charles W. Webber, J. E. C. Welldon, Philip P. Wells, Louis Wertheimber, Frederic West, William Westall, Frank N. Westcott, Claude H. Wetmore, Ebenezer Wheelwright, James Edson White, Matthew White, Victor L. Whitechurch, Richard Whiteing, John Harvey Whitson, Mary Emily Donelson Wilcox, Ernst von Wildenbruch, Sampson Vryling Stoddard Wilder, Theodore Wilder, Rounsevelle Wildman, Charles Dwight Willard, James Willcocks, Blanche Colton Williams. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| That House I Bought: A little leaf from life | have | PG 49479, `hewarner-that-house-i-bought` (378 units) |
+| King Arthur and His Knights | have | PG 21865, `mrwarren-king-arthur-and-his-knights` (1253 units) |
+| The island of anarchy: A fragment of history in the 20th century | have | PG 69449, `ewaterhouse-island-of-anarchy` (157 units) |
+| "Co. Aytch," Maury Grays, First Tennessee Regiment | have | PG 13202, `srwatkins-co-aytch-maury-grays-first-tennessee-regiment` (657 units) |
+| The Square Book of Animals | have | PG 39656, `awaugh-square-book-of-animals` (37 units) |
+| Betty Grier | have | PG 35356, `jlwaugh-betty-grier` (798 units) |
+| A Prince to Order | have | PG 54916, `cswayne-prince-to-order` (1366 units) |
+| The Garies and Their Friends | have | PG 11214, `fjwebb-garies-and-their-friends` (2561 units) |
+| Spiritual vampirism: The history of Etherial Softdown, and her friends of the "New Light" | have | PG 69201, `cwwebber-spiritual-vampirism` (1220 units) |
+| Gerald Eversley's Friendship: A Study in Real Life | have | PG 67914, `jecwelldon-gerald-eversley-s-friendship` (852 units) |
+| Bible Stories and Religious Classics | have | PG 10380, `ppwells-bible-stories-and-religious-classics` (1308 units) |
+| A Muramasa blade | have | PG 72602, `lwertheimber-muramasa-blade` (297 units) |
+| Owen's Fortune; Or, "Durable Riches" | have | PG 36493, `fwest-owen-s-fortune` (393 units) |
+| Mr. Fortescue: An Andean Romance | have | PG 14779, `wwestall-mr-fortescue` (2106 units) |
+| Hepsey Burke | have | PG 28517, `fnwestcott-hepsey-burke` (1529 units) |
+| Incaland A Story of Adventure in the Interior of Peru and the Closing Chapters of the War with Chile | have | PG 53204, `chwetmore-incaland-a-story-of-adventure-in-the-interior-of-p` (1761 units) |
+| The Salem Belle: A Tale of 1692 | have | PG 63957, `ewheelwright-salem-belle` (483 units) |
+| Best Stories from the Best Book: An Illustrated Bible Companion for the Home | have | PG 46970, `jewhite-best-stories-from-the-best-book` (1279 units) |
+| Two Boys and a Fortune; Or, The Tyler Will | have | PG 4997, `mwhite-two-boys-and-a-fortune` (2132 units) |
+| The Templeton case | have | PG 75669, `vlwhitechurch-templeton-case` (2389 units) |
+| The island | have | PG 73620, `rwhiteing-island` (795 units) |
+| Justin Wingate, Ranchman | have | PG 42423, `jhwhitson-justin-wingate-ranchman` (1782 units) |
+| Christmas under three flags | have | PG 75118, `medwilcox-christmas-under-three-flags` (137 units) |
+| Good Blood | have | PG 23223, `evwildenbruch-good-blood` (249 units) |
+| The Village in the Mountains; Conversion of Peter Bayssière; and History of a Bible | have | PG 10831, `svswilder-village-in-the-mountains` (226 units) |
+| The history of Company C, Seventh Regiment, O.V.I | have | PG 33962, `twilder-history-of-company-c-seventh-regiment-o-v-i` (410 units) |
+| Tales of the Malayan Coast From Penang to the Philippines | have | PG 27784, `rwildman-tales-of-the-malayan-coast-from-penang-to-the-phili` (1032 units) |
+| The Fall of Ulysses: An Elephant Story | have | PG 61624, `cdwillard-fall-of-ulysses` (97 units) |
+| With the Indians in France | have | PG 77003, `jwillcocks-with-the-indians-in-france` (4290 units) |
+| How to study "The best short stories" | have | PG 74565, `bcwilliams-how-to-study-the-best-short-stories` (1307 units) |

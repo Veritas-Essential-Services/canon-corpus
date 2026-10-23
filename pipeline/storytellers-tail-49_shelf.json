@@ -1,0 +1,527 @@
+{
+ "_about": "Storytellers' tail, group 49: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Henry Edward Warner, Maude Radford Warren, Elizabeth Waterhouse, Samuel R. Watkins, Arthur Waugh, Joseph Laing Waugh, Charles Stokes Wayne, Frank J. Webb, Charles W. Webber, J. E. C. Welldon, Philip P. Wells, Louis Wertheimber, Frederic West, William Westall, Frank N. Westcott, Claude H. Wetmore, Ebenezer Wheelwright, James Edson White, Matthew White, Victor L. Whitechurch, Richard Whiteing, John Harvey Whitson, Mary Emily Donelson Wilcox, Ernst von Wildenbruch, Sampson Vryling Stoddard Wilder, Theodore Wilder, Rounsevelle Wildman, Charles Dwight Willard, James Willcocks, Blanche Colton Williams. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 49 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "hewarner-that-house-i-bought": [
+   "henry edward warner",
+   "warner"
+  ],
+  "mrwarren-king-arthur-and-his-knights": [
+   "maude radford warren",
+   "warren"
+  ],
+  "ewaterhouse-island-of-anarchy": [
+   "elizabeth waterhouse",
+   "waterhouse"
+  ],
+  "srwatkins-co-aytch-maury-grays-first-tennessee-regiment": [
+   "samuel r. watkins",
+   "samuel rush watkins",
+   "watkins"
+  ],
+  "awaugh-square-book-of-animals": [
+   "arthur waugh",
+   "waugh"
+  ],
+  "jlwaugh-betty-grier": [
+   "joseph laing waugh",
+   "waugh"
+  ],
+  "cswayne-prince-to-order": [
+   "charles stokes wayne",
+   "wayne"
+  ],
+  "fjwebb-garies-and-their-friends": [
+   "frank j. webb"
+  ],
+  "cwwebber-spiritual-vampirism": [
+   "charles w. webber",
+   "charles wilkins webber",
+   "webber"
+  ],
+  "jecwelldon-gerald-eversley-s-friendship": [
+   "j. e. c. welldon",
+   "james edward cowell welldon",
+   "welldon"
+  ],
+  "ppwells-bible-stories-and-religious-classics": [
+   "philip p. wells",
+   "philip patterson wells"
+  ],
+  "lwertheimber-muramasa-blade": [
+   "louis wertheimber",
+   "wertheimber"
+  ],
+  "fwest-owen-s-fortune": [
+   "frederic west"
+  ],
+  "wwestall-mr-fortescue": [
+   "william westall",
+   "westall"
+  ],
+  "fnwestcott-hepsey-burke": [
+   "frank n. westcott",
+   "frank nash westcott",
+   "westcott"
+  ],
+  "chwetmore-incaland-a-story-of-adventure-in-the-interior-of-p": [
+   "claude h. wetmore",
+   "wetmore"
+  ],
+  "ewheelwright-salem-belle": [
+   "ebenezer wheelwright",
+   "wheelwright"
+  ],
+  "jewhite-best-stories-from-the-best-book": [
+   "james edson white"
+  ],
+  "mwhite-two-boys-and-a-fortune": [
+   "matthew white"
+  ],
+  "vlwhitechurch-templeton-case": [
+   "victor l. whitechurch",
+   "victor lorenzo whitechurch",
+   "whitechurch"
+  ],
+  "rwhiteing-island": [
+   "richard whiteing",
+   "whiteing"
+  ],
+  "jhwhitson-justin-wingate-ranchman": [
+   "john harvey whitson",
+   "whitson"
+  ],
+  "medwilcox-christmas-under-three-flags": [
+   "mary emily donelson wilcox",
+   "wilcox"
+  ],
+  "evwildenbruch-good-blood": [
+   "ernst von wildenbruch",
+   "wildenbruch"
+  ],
+  "svswilder-village-in-the-mountains": [
+   "sampson vryling stoddard wilder",
+   "wilder"
+  ],
+  "twilder-history-of-company-c-seventh-regiment-o-v-i": [
+   "theodore wilder",
+   "wilder"
+  ],
+  "rwildman-tales-of-the-malayan-coast-from-penang-to-the-phili": [
+   "rounsevelle wildman",
+   "wildman"
+  ],
+  "cdwillard-fall-of-ulysses": [
+   "charles dwight willard",
+   "willard"
+  ],
+  "jwillcocks-with-the-indians-in-france": [
+   "james willcocks",
+   "willcocks"
+  ],
+  "bcwilliams-how-to-study-the-best-short-stories": [
+   "blanche colton williams",
+   "williams"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hewarner-that-house-i-bought": [
+   49479,
+   "That House I Bought: A little leaf from life"
+  ],
+  "mrwarren-king-arthur-and-his-knights": [
+   21865,
+   "King Arthur and His Knights"
+  ],
+  "ewaterhouse-island-of-anarchy": [
+   69449,
+   "The island of anarchy: A fragment of history in the 20th century"
+  ],
+  "srwatkins-co-aytch-maury-grays-first-tennessee-regiment": [
+   13202,
+   "\"Co. Aytch,\" Maury Grays, First Tennessee Regiment"
+  ],
+  "awaugh-square-book-of-animals": [
+   39656,
+   "The Square Book of Animals"
+  ],
+  "jlwaugh-betty-grier": [
+   35356,
+   "Betty Grier"
+  ],
+  "cswayne-prince-to-order": [
+   54916,
+   "A Prince to Order"
+  ],
+  "fjwebb-garies-and-their-friends": [
+   11214,
+   "The Garies and Their Friends"
+  ],
+  "cwwebber-spiritual-vampirism": [
+   69201,
+   "Spiritual vampirism: The history of Etherial Softdown, and her friends of the \"New Light\""
+  ],
+  "jecwelldon-gerald-eversley-s-friendship": [
+   67914,
+   "Gerald Eversley's Friendship: A Study in Real Life"
+  ],
+  "ppwells-bible-stories-and-religious-classics": [
+   10380,
+   "Bible Stories and Religious Classics"
+  ],
+  "lwertheimber-muramasa-blade": [
+   72602,
+   "A Muramasa blade"
+  ],
+  "fwest-owen-s-fortune": [
+   36493,
+   "Owen's Fortune; Or, \"Durable Riches\""
+  ],
+  "wwestall-mr-fortescue": [
+   14779,
+   "Mr. Fortescue: An Andean Romance"
+  ],
+  "fnwestcott-hepsey-burke": [
+   28517,
+   "Hepsey Burke"
+  ],
+  "chwetmore-incaland-a-story-of-adventure-in-the-interior-of-p": [
+   53204,
+   "Incaland A Story of Adventure in the Interior of Peru and the Closing Chapters of the War with Chile"
+  ],
+  "ewheelwright-salem-belle": [
+   63957,
+   "The Salem Belle: A Tale of 1692"
+  ],
+  "jewhite-best-stories-from-the-best-book": [
+   46970,
+   "Best Stories from the Best Book: An Illustrated Bible Companion for the Home"
+  ],
+  "mwhite-two-boys-and-a-fortune": [
+   4997,
+   "Two Boys and a Fortune; Or, The Tyler Will"
+  ],
+  "vlwhitechurch-templeton-case": [
+   75669,
+   "The Templeton case"
+  ],
+  "rwhiteing-island": [
+   73620,
+   "The island"
+  ],
+  "jhwhitson-justin-wingate-ranchman": [
+   42423,
+   "Justin Wingate, Ranchman"
+  ],
+  "medwilcox-christmas-under-three-flags": [
+   75118,
+   "Christmas under three flags"
+  ],
+  "evwildenbruch-good-blood": [
+   23223,
+   "Good Blood"
+  ],
+  "svswilder-village-in-the-mountains": [
+   10831,
+   "The Village in the Mountains; Conversion of Peter Bayssière; and History of a Bible"
+  ],
+  "twilder-history-of-company-c-seventh-regiment-o-v-i": [
+   33962,
+   "The history of Company C, Seventh Regiment, O.V.I"
+  ],
+  "rwildman-tales-of-the-malayan-coast-from-penang-to-the-phili": [
+   27784,
+   "Tales of the Malayan Coast From Penang to the Philippines"
+  ],
+  "cdwillard-fall-of-ulysses": [
+   61624,
+   "The Fall of Ulysses: An Elephant Story"
+  ],
+  "jwillcocks-with-the-indians-in-france": [
+   77003,
+   "With the Indians in France"
+  ],
+  "bcwilliams-how-to-study-the-best-short-stories": [
+   74565,
+   "How to study \"The best short stories\""
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hewarner-that-house-i-bought": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry edward warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mrwarren-king-arthur-and-his-knights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maude radford warren",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewaterhouse-island-of-anarchy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth waterhouse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srwatkins-co-aytch-maury-grays-first-tennessee-regiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel r. watkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awaugh-square-book-of-animals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur waugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlwaugh-betty-grier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph laing waugh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cswayne-prince-to-order": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles stokes wayne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fjwebb-garies-and-their-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank j. webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cwwebber-spiritual-vampirism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles w. webber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jecwelldon-gerald-eversley-s-friendship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. e. c. welldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ppwells-bible-stories-and-religious-classics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip p. wells",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lwertheimber-muramasa-blade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis wertheimber",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwest-owen-s-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic west",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwestall-mr-fortescue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william westall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fnwestcott-hepsey-burke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank n. westcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chwetmore-incaland-a-story-of-adventure-in-the-interior-of-p": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "claude h. wetmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewheelwright-salem-belle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ebenezer wheelwright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jewhite-best-stories-from-the-best-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james edson white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwhite-two-boys-and-a-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vlwhitechurch-templeton-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "victor l. whitechurch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwhiteing-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard whiteing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhwhitson-justin-wingate-ranchman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john harvey whitson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "medwilcox-christmas-under-three-flags": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary emily donelson wilcox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evwildenbruch-good-blood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernst von wildenbruch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "svswilder-village-in-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sampson vryling stoddard wilder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twilder-history-of-company-c-seventh-regiment-o-v-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore wilder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwildman-tales-of-the-malayan-coast-from-penang-to-the-phili": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rounsevelle wildman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwillard-fall-of-ulysses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles dwight willard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jwillcocks-with-the-indians-in-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james willcocks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bcwilliams-how-to-study-the-best-short-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blanche colton williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
