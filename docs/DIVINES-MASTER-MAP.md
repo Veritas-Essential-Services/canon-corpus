@@ -42578,3 +42578,17 @@ Shelf: `pipeline/melville-davisson-post_shelf.json` (2026-10-22; added at the co
 | The Strange Schemes of Randolph Mason | have | PG 51956, `mdpost-strange-schemes-of-randolph-mason` (834 units) |
 | The Mountain School-Teacher | have | PG 51958, `mdpost-mountain-school-teacher` (989 units) |
 | Walker of the Secret Service | have | PG 62740, `mdpost-walker-of-the-secret-service` (1894 units) |
+
+## Henry Wallace Phillips
+
+Shelf: `pipeline/henry-wallace-phillips_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Western comic stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Red Saunders: His Adventures West & East | have | PG 12196, `hwphillips-red-saunders` (893 units) |
+| Mr. Scraggs | have | PG 12197, `hwphillips-mr-scraggs` (712 units) |
+| Fables for the Times | have | PG 13494, `hwphillips-fables-for-the-times` (127 units) |
+| Red Saunders' Pets and Other Critters | have | PG 19265, `hwphillips-red-saunders-pets-and-other-critters` (834 units) |
+| The Mascot of Sweet Briar Gulch | have | PG 25809, `hwphillips-mascot-of-sweet-briar-gulch` (467 units) |
+| Plain Mary Smith: A Romance of Red Saunders | have | PG 35787, `hwphillips-plain-mary-smith` (1106 units) |
+| Trolley Folly | have | PG 57494, `hwphillips-trolley-folly` (939 units) |
