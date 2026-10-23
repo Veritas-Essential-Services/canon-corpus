@@ -8802,3 +8802,12 @@ Shelf: `pipeline/tadeusz-zielinski_shelf.json`. His two pre-1930 books in Englis
 | Our Debt to Antiquity (1909), tr. H. A. Strong and Hugh Stewart |  | `zielinski-our-debt-to-antiquity-1909` | have-raw (IA `ourdebttoantiqui00zieluoft`) |
 | The Religion of Ancient Greece (1926), tr. George Rapall Noyes |  | `zielinski-religion-ancient-greece-1926` | have-raw (IA `religionofancien0000ziel_e5q1`) |
 
+
+## Ulrich von Wilamowitz-Moellendorff (1848-1931)
+
+Shelf: `pipeline/wilamowitz_shelf.json`. The 1908 Oxford lectures in Gilbert Murray's translation; German works out of scope. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Historical Writing, and Apollo: two lectures delivered before the University of Oxford, June 3 and 4, 1908, tr. Gilbert Murray |  | `wilamowitz-greek-historical-writing-apollo-1908` | have-raw (IA `greekhistoricalw00wilauoft`) |
+

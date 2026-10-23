@@ -1,0 +1,40 @@
+{
+ "_about": "Ulrich von Wilamowitz-Moellendorff (1848-1931). His one English book before 1930: the 1908 Oxford lectures, translated by Gilbert Murray. His German works are out of scope for this English shelf.",
+ "_author": "Ulrich von Wilamowitz-Moellendorff (1848-1931)",
+ "_name_words": [
+  "wilamowitz",
+  "historical",
+  "writing",
+  "apollo"
+ ],
+ "_surname": [
+  "wilamowitz"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wilamowitz-greek-historical-writing-apollo-1908": [
+   "greekhistoricalw00wilauoft",
+   "Greek Historical Writing, and Apollo: two lectures delivered before the University of Oxford, June 3 and 4, 1908, tr. Gilbert Murray"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "wilamowitz-greek-historical-writing-apollo-1908": "Gilbert Murray"
+ },
+ "_checks": {
+  "wilamowitz-greek-historical-writing-apollo-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilamowitz",
+   "translator_claimed": "Gilbert Murray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
