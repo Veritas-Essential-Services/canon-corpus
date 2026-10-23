@@ -10805,6 +10805,27 @@ Slugs `maclaurin-*`. Built from title pages read for round 46.
 | The works of the Rev. John Maclaurin, vol. 2 (Edinburgh : J. Maclaren, 1860) | have-ocr | IA `worksofrevjohnma02macl` |
 | An essay on the prophecies relating to the Messiah (Edinburgh, W. Gray, 1773) | have-ocr | IA `anessayonprophe00maclgoog` |
 | The 1798, 1818 and 1830 Works; Sermons and Essays (1800, 1811) | alternate | not shelved |
+
+## Charles John Ellicott (round 47, my pick, 2026-10-23)
+
+Slugs `ellicott-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| St. Paul's Epistle to the Galatians : with a critical and grammatical commentary and a revised translation (London : Longmans, Green, 1867) | have-ocr | IA `cu31924029294118` |
+| St. Paul's Epistle to the Ephesians : with a practical and grammatical commentary, and a rev. translation (London : Longman, Green, Longman, Roberts & Green, 1864) | have-ocr | IA `stpaulsepistletoephe00elli` |
+| St. Paul's epistles to the Philippians, the Colossians and Philemon : with a critical and grammatical commentary, and a revised translation (London : Longman, Green, Longman, Roberts & Green, 1865) | have-ocr | IA `stpaulsepistles00elligoog` |
+| St. Paul's epistles to the Thessalonians : with a critical and grammatical commentary, and a revised translation (London : Longman, Green, Longman, Roberts & Green, 1866) | have-ocr | IA `stpaulsepistles00elliuoft` |
+| St. Paul's First epistle to the Corinthians : with a critical and grammatical commentary (London : Longmans, Green, 1887) | have-ocr | IA `stpaulsfirstepis00elli` |
+| Historical lectures on the life of Our Lord Jesus Christ : being the Hulsean lectures for the year 1859 (London : J. W. Parker, 1859) | have-ocr | IA `historicallectur1860elli` |
+| The destiny of the creature : and other sermons, preached before the University of Cambridge (London : Parker, Son, and Bourn, 1862) | have-ocr | IA `destinyofcreatur1862elli` |
+| Considerations on the revision of the English version of the New Testament (London : Longmans, Green, Reader, and Dyer, 1870) | have-ocr | IA `considerationson00elli` |
+| Modern unbelief : its principles and characteristics, six addresses (London : The Christian Evidence Committee of the Society for Promoting Christian Knowledge ; New York : Pott, Young, 1877) | have-ocr | IA `ModernUnbelief` |
+| Christus comprobator ; or, The testimony of Christ to the Old Testament : seven addresses (London : Society for promoting Christian knowledge, 1892) | have-ocr | IA `christuscomproba00elli` |
+| Sermons at Gloucester (London : James Nisbet & Co., 1905) | have-ocr | IA `sermonsatglouces00elliuoft` |
+| The Boston 1866 Commentaries (two volumes), Ellicott's Commentaries 1890, other printings of each | alternate | not shelved |
+| The Pastoral Epistles (1869; IA pastoralepistles1869elli): the scan's OCR read the English as Greek and is unusable; another copy is needed | alternate | not shelved |
+| The New and Old Testament Commentaries for English Readers, Aids to Faith and the Homiletical Lectures: volumes he edited, written by many hands | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
