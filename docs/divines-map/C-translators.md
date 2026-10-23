@@ -2406,7 +2406,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Arthur Livingston (Blasco Ibáñez, Quiroga, Farrère)
 
 Shelf: `pipeline/livingston_shelf.json` · fetch `python3 pipeline/fetch_shelf.py livingston` · titles `python3 pipeline/split_shelf_titles.py livingston`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 156 (2026-10-23) added two Pirandello volumes from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2414,6 +2414,8 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `livingston-ibanez-mayflower-flor-de-mayo-a-tale-of-the-val` | Vicente Blasco Ibáñez | Mayflower (Flor de mayo): A Tale of the Valencian Seashore | Arthur Livingston | 1917-1923 (see the Gutenberg header) | have | PG 29577 |
 | `livingston-montessori-the-montessori-elementary-material` | Maria Montessori | The Montessori Elementary Material | Arthur Livingston | 1917-1923 (see the Gutenberg header) | have | PG 42869 |
 | `livingston-quiroga-south-american-jungle-tales` | Horacio Quiroga | South American Jungle Tales | Arthur Livingston | 1917-1923 (see the Gutenberg header) | have | PG 46051 |
+| `livingston-pirandello-the-late-mattia-pascal` | Luigi Pirandello | The Late Mattia Pascal | Arthur Livingston | 1923 | have-raw | IA `latemattiapascal0000luig_g7m8` |
+| `livingston-pirandello-the-one-act-plays` | Luigi Pirandello | The One-Act Plays of Luigi Pirandello | Elisabeth Abbott, Arthur Livingston and Blanche Valentine Mitchell | 1928 | have-raw | IA `oneactplaysoflui0000arth` |
 | — | — | pg-11674: The Torrent (with Isaac Goldberg) is on isaac-goldberg_shelf.json. | — | — | excluded | — |
 
 ## Barrett H. Clark (Rostand, Rolland and other French plays)
@@ -2438,7 +2440,7 @@ Round 25 (2026-10-10), vetoable. Round 147 (2026-10-23) added six archive.org sc
 ## E. M. Lamond (Grisar's Luther, 6 vols)
 
 Shelf: `pipeline/lamond_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lamond` · titles `python3 pipeline/split_shelf_titles.py lamond`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 156 (2026-10-23) added Bayer's Book of the Popes from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2448,6 +2450,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `lamond-grisar-luther-vol-4-of-6` | Hartmann Grisar | Luther, vol. 4 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49135 |
 | `lamond-grisar-luther-vol-5-of-6` | Hartmann Grisar | Luther, vol. 5 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 49171 |
 | `lamond-grisar-luther-vol-6-of-6` | Hartmann Grisar | Luther, vol. 6 of 6 | E. M. Lamond | 1913-1917 (see the Gutenberg header) | have | PG 54811 |
+| `lamond-bayer-the-book-of-the-popes` | F. J. Bayer | The Book of the Popes | E. M. Lamond | 1926 | have-raw | IA `bookofpopesbydrf00baye` |
 
 ## Julius West (Chekhov's Plays, Second Series)
 
@@ -2850,7 +2853,7 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Florence Simmonds (Corroyer's Gothic Architecture; Duhamel; Le Goffic)
 
 Shelf: `pipeline/florence-simmonds_shelf.json` · fetch `python3 pipeline/fetch_shelf.py florence-simmonds` · titles `python3 pipeline/split_shelf_titles.py florence-simmonds`.
-Round 29 (2026-10-10), vetoable. Round 153 (2026-10-23) added six from archive.org: Gómez Carrillo, Ricci, Reinach (2), Meier-Graefe vol. I (with Chrystal), Destrée. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 153 (2026-10-23) added six from archive.org: Gómez Carrillo, Ricci, Reinach (2), Meier-Graefe vol. I (with Chrystal), Destrée. Round 156 (2026-10-23) added Montessori's Advanced Method vol. I (with Lily Hutchinson). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2863,6 +2866,7 @@ Round 29 (2026-10-10), vetoable. Round 153 (2026-10-23) added six from archive.o
 | `florence-simmonds-meier-graefe-modern-art-1` | Julius Meier-Graefe | Modern Art, vol. I | Florence Simmonds and George W. Chrystal | 1908 | have-raw | IA `modernartbeinga00meiegoog` |
 | `florence-simmonds-reinach-orpheus` | Salomon Reinach | Orpheus: A General History of Religions | Florence Simmonds | 1909 | have-raw | IA `orpheusageneral00simmgoog` |
 | `florence-simmonds-destree-renaissance-of-sculpture-in-belgium` | Olivier Georges Destrée | The Renaissance of Sculpture in Belgium | Florence Simmonds | 1895 | have-raw | IA `renaissanceofscu00dest` |
+| `florence-simmonds-montessori-advanced-method-1` | Maria Montessori | The Advanced Montessori Method, vol. I: Spontaneous Activity in Education | Florence Simmonds and Lily Hutchinson | 1917 | have-raw | IA `b1680399_I` |
 
 ## Bernard Guilbert Guerney (Bunin; Kuprin's Sulamith and Yama)
 
@@ -3656,12 +3660,15 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Lionel Strachey (Memoirs of Madame Vigée Lebrun; The Gray Nun)
 
 Shelf: `pipeline/lionel-strachey_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lionel-strachey` · titles `python3 pipeline/split_shelf_titles.py lionel-strachey`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 156 (2026-10-23) added three memoirs from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `lionel-strachey-eschstruth-the-gray-nun` | Nataly von Eschstruth | The Gray Nun | Lionel Strachey | 1903-1905 (see the Gutenberg header) | have | PG 23220 |
 | `lionel-strachey-vigee-lebrun-the-memoirs-of-madame-vigee-lebrun` | Louise-Elisabeth Vigée-Lebrun | The Memoirs of Madame Vigée Lebrun | Lionel Strachey | 1903-1905 (see the Gutenberg header) | have | PG 31934 |
+| `lionel-strachey-ruete-memoirs-of-an-arabian-princess` | Emily Ruete (Salamah bint Said) | Memoirs of an Arabian Princess | Lionel Strachey | 1907 | have-raw | IA `memoirsanarabia00stragoog` |
+| `lionel-strachey-saint-elme-memoirs-of-a-contemporary` | Ida Saint-Elme | Memoirs of a Contemporary, 1790-1815 | Lionel Strachey | 1902 | have-raw | IA `memoirsacontemp00stragoog` |
+| `lionel-strachey-memoirs-of-the-countess-potocka` | Countess Anna Potocka (ed. Casimir Stryienski) | Memoirs of the Countess Potocka | Lionel Strachey | 1901 | have-raw | IA `memoirscountess00potogoog` |
 
 ## Edward Storer (Il Novellino; Pirandello's Three Plays)
 
@@ -3776,12 +3783,13 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## George Kamensky (Mendeleyev's Principles of Chemistry, 2 vols)
 
 Shelf: `pipeline/kamensky_shelf.json` · fetch `python3 pipeline/fetch_shelf.py kamensky` · titles `python3 pipeline/split_shelf_titles.py kamensky`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 156 (2026-10-23) added Mendeleev's Ether from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `kamensky-mendeleyev-the-principles-of-chemistry-vol-1` | Dmitry Ivanovich Mendeleyev | The Principles of Chemistry, Volume I | George Kamensky | 1891 (see the Gutenberg header) | have | PG 51326 |
 | `kamensky-mendeleyev-the-principles-of-chemistry-vol-2` | Dmitry Ivanovich Mendeleyev | The Principles of Chemistry, Volume II | George Kamensky | 1891 (see the Gutenberg header) | have | PG 54210 |
+| `kamensky-mendeleev-a-chemical-conception-of-the-ether` | Dmitri Mendeleev | An Attempt towards a Chemical Conception of the Ether | George Kamensky | 1904 | have-raw | IA `anattempttoward00mendgoog` |
 
 ## Benjamin Bucknall (Viollet-le-Duc)
 
@@ -3805,6 +3813,8 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `laura-kendall-daudet-which-or-between-two-women` | Ernest Daudet | Which? Or, Between Two Women | Laura E. Kendall | 1886-1888 (see the Gutenberg header) | have | PG 21838 |
 | `laura-kendall-gaboriau-a-thousand-francs-reward-and-military-sk` | Emile Gaboriau | A Thousand Francs Reward; and, Military Sketches | Laura E. Kendall | 1886-1888 (see the Gutenberg header) | have | PG 43730 |
 | `laura-kendall-verne-ticket-no-9672` | Jules Verne | Ticket No. "9672" | Laura E. Kendall | 1886-1888 (see the Gutenberg header) | have | PG 13527 |
+| `laura-kendall-laurie-schoolboy-days-japan` | André Laurie | Schoolboy Days in Japan (Estes and Lauriat; year illegible, archive.org 1895) | Laura E. Kendall | 1895? | pending | — |
+| `laura-kendall-laurie-schoolboy-days-russia` | André Laurie | Schoolboy Days in Russia (Dana Estes; year illegible, archive.org 1892) | Laura E. Kendall | 1892? | pending | — |
 
 ## R. S. Townsend (Turgenev's Virgin Soil; Tolstoi for the Young)
 
@@ -3992,12 +4002,13 @@ Round 33 (2026-10-10), vetoable. Perez the Mouse is keyed from a 1935 reprint: f
 ## Emily Jakowleff and Dora B. Montefiore (Gorky)
 
 Shelf: `pipeline/jakowleff-montefiore_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jakowleff-montefiore` · titles `python3 pipeline/split_shelf_titles.py jakowleff-montefiore`.
-Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Round 156 (2026-10-23) added Twenty-Six Men and a Girl from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `jakowleff-montefiore-gorky-the-orloff-couple-and-malva` | Maksim Gorky | The Orloff Couple, and Malva | Emily Jakowleff and Dora B. Montefiore | 1901-1902 (see the Gutenberg header) | have | PG 55582 |
 | `jakowleff-montefiore-gorky-the-outcasts-and-other-stories` | Maksim Gorky | The Outcasts, and Other Stories | Emily Jakowleff and Dora B. Montefiore (with Vera Volkhovsky) | 1901-1902 (see the Gutenberg header) | have | PG 55861 |
+| `jakowleff-montefiore-gorky-twenty-six-men-and-a-girl` | Maxim Gorky | Twenty-Six Men and a Girl, and Other Stories | Emily Jakowleff and Dora B. Montefiore | 1915 (this printing) | have-raw | IA `twentysixmenandg0000maxi_h7z7` |
 
 ## Edgar Jepson (Leblanc's Arsène Lupin; Leroux)
 
@@ -4841,12 +4852,13 @@ Round 38 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Leon Simon (Ahad Ha'am; Einstein's About Zionism, 1930)
 
 Shelf: `pipeline/leon-simon_shelf.json` · fetch `python3 pipeline/fetch_shelf.py leon-simon` · titles `python3 pipeline/split_shelf_titles.py leon-simon`.
-Round 38 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 38 (2026-10-10), vetoable. Round 156 (2026-10-23) added Pinsker and Political Zionism from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `leon-simon-ahad-ha-am-ten-essays-on-zionism-and-judaism` | Ahad Ha'am | Ten Essays on Zionism and Judaism | Leon Simon | 1922-1930 (see the Gutenberg header) | have | PG 67667 |
 | `leon-simon-einstein-about-zionism` | Albert Einstein | About Zionism | Leon Simon | 1922-1930 (see the Gutenberg header) | have | PG 79647 |
+| `leon-simon-ahad-haam-pinsker-and-political-zionism` | Ahad Ha-Am (Asher Ginzberg) | Pinsker and Political Zionism | Leon Simon | 1916 | have-raw | IA `pinskerpolitical00ahadiala` |
 
 ## Jane Minot Sedgwick's George Sand
 
@@ -4871,12 +4883,13 @@ Round 38 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## James Burton Robertson: Schlegel's Philosophy of History (2 vols)
 
 Shelf: `pipeline/jb-robertson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jb-robertson` · titles `python3 pipeline/split_shelf_titles.py jb-robertson`.
-Round 38 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 38 (2026-10-10), vetoable. Round 156 (2026-10-23) added Anti-Janus from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `jb-robertson-schlegel-the-philosophy-of-history-vol-1-of-2` | Friedrich von Schlegel | The Philosophy of History, Vol. 1 of 2 | James Burton Robertson | 1835 (see the Gutenberg header) | have | PG 38365 |
 | `jb-robertson-schlegel-the-philosophy-of-history-vol-2-of-2` | Friedrich von Schlegel | The Philosophy of History, Vol. 2 of 2 | James Burton Robertson | 1835 (see the Gutenberg header) | have | PG 48275 |
+| `jb-robertson-hergenrother-anti-janus` | Joseph Hergenröther | Anti-Janus: An Historico-Theological Criticism of the Work Entitled "The Pope and the Council" by Janus | James Burton Robertson | 1870 | have-raw | IA `antijanusanhist00robegoog` |
 
 ## Edwin Gile Rich (Saint-Saëns; Lafond)
 
@@ -5112,12 +5125,13 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Smith Ely Jelliffe (Silberer; Rank)
 
 Shelf: `pipeline/jelliffe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jelliffe` · titles `python3 pipeline/split_shelf_titles.py jelliffe`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 156 (2026-10-23) added Dejerine and Gauckler from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `jelliffe-rank-the-myth-of-the-birth-of-the-hero-a-psyc` | Otto Rank | The Myth of the Birth of the Hero: A psychological interpretation of mythology | Smith Ely Jelliffe (with F. Robbins) | 1914-1917 (see the Gutenberg header) | have | PG 66192 |
 | `jelliffe-silberer-hidden-symbolism-of-alchemy-and-the-occu` | Herbert Silberer | Hidden Symbolism of Alchemy and the Occult Arts | Smith Ely Jelliffe | 1914-1917 (see the Gutenberg header) | have | PG 27755 |
+| `jelliffe-dejerine-gauckler-the-psychoneuroses` | J. Dejerine and E. Gauckler | The Psychoneuroses and their Treatment by Psychotherapy | Smith Ely Jelliffe | 1913 | have-raw | IA `b21271136` |
 
 ## J. V. Huntington: Franchère's Voyage to the Northwest Coast
 

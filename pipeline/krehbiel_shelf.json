@@ -66,7 +66,9 @@
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Paderewski's Manru libretto (Schirmer, 1901; manruoperainthre00pade) is 'translated and adapted', and the OCR garbles the translator's name on the title page, so it is left off."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "kre-4042": {

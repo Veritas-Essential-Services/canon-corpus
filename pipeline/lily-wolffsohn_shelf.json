@@ -52,7 +52,9 @@
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Sonya Kovalevsky (Unwin, 1895) is translated by A. de Furuhjelm and A. M. Clive Bayley; she wrote only the biographical note."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "lwo-32271": {

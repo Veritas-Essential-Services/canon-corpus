@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Lionel Strachey (1864-1927): The Memoirs of Madame Vigée Lebrun (1903) and Nataly von Eschstruth's The Gray Nun (1905). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Lionel Strachey (1864-1927): The Memoirs of Madame Vigée Lebrun (1903) and Nataly von Eschstruth's The Gray Nun (1905). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted. From archive.org (2026-10-23): the Memoirs of an Arabian Princess (1907), Saint-Elme's Memoirs of a Contemporary (1902) and the Memoirs of the Countess Potocka (1901).",
  "_name_words": [
   "lionel strachey"
  ],
@@ -18,7 +18,20 @@
    "The Memoirs of Madame Vigée Lebrun"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lst-ia-ruete-arabian-princess": [
+   "memoirsanarabia00stragoog",
+   "Ruete: Memoirs of an Arabian Princess"
+  ],
+  "lst-ia-saint-elme-contemporary": [
+   "memoirsacontemp00stragoog",
+   "Saint-Elme: Memoirs of a Contemporary"
+  ],
+  "lst-ia-potocka-memoirs": [
+   "memoirscountess00potogoog",
+   "Memoirs of the Countess Potocka"
+  ]
+ },
  "titles": {
   "lionel-strachey-eschstruth-the-gray-nun": {
    "source": "lst-23220",
@@ -35,6 +48,30 @@
    "translated": "1903-1905 (see the Gutenberg header)",
    "translator": "Lionel Strachey",
    "scan_edition": "Project Gutenberg 31934 (clean text)"
+  },
+  "lionel-strachey-ruete-memoirs-of-an-arabian-princess": {
+   "source": "lst-ia-ruete-arabian-princess",
+   "of": "Emily Ruete (Salamah bint Said)",
+   "work": "Memoirs of an Arabian Princess",
+   "translated": "1907",
+   "translator": "Lionel Strachey",
+   "scan_edition": "Doubleday, Page & Company, New York, 1907"
+  },
+  "lionel-strachey-saint-elme-memoirs-of-a-contemporary": {
+   "source": "lst-ia-saint-elme-contemporary",
+   "of": "Ida Saint-Elme",
+   "work": "Memoirs of a Contemporary, 1790-1815",
+   "translated": "1902",
+   "translator": "Lionel Strachey",
+   "scan_edition": "Doubleday, Page & Company, New York, 1902"
+  },
+  "lionel-strachey-memoirs-of-the-countess-potocka": {
+   "source": "lst-ia-potocka-memoirs",
+   "of": "Countess Anna Potocka (ed. Casimir Stryienski)",
+   "work": "Memoirs of the Countess Potocka",
+   "translated": "1901",
+   "translator": "Lionel Strachey",
+   "scan_edition": "Doubleday & McClure Co., New York, 1901 (authorised translation)"
   }
  },
  "_pending": {},
@@ -43,7 +80,7 @@
  "_checks": {
   "lst-23220": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lionel strachey",
    "identity": "ok",
@@ -52,12 +89,45 @@
   },
   "lst-31934": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lionel strachey",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Lionel Strachey"
+  },
+  "lst-ia-ruete-arabian-princess": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lionel strachey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lst-ia-saint-elme-contemporary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lionel strachey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lst-ia-potocka-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lionel strachey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -70,6 +140,55 @@
    "pg": 31934,
    "pg_copyrighted_marker": false,
    "pg_translator": "Lionel Strachey"
+  },
+  "lst-ia-ruete-arabian-princess": {
+   "ia": "memoirsanarabia00stragoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1886,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lst-ia-saint-elme-contemporary": {
+   "ia": "memoirsacontemp00stragoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1790,
+    1799,
+    1800,
+    1806,
+    1814,
+    1828,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "lst-ia-potocka-memoirs": {
+   "ia": "memoirscountess00potogoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1794,
+    1798,
+    1801,
+    1802,
+    1803,
+    1805,
+    1806,
+    1807,
+    1808,
+    1810,
+    1811,
+    1812,
+    1813,
+    1815,
+    1818,
+    1820,
+    1829,
+    1900,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

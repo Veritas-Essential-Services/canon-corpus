@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: George Kamensky: Mendeleyev's The Principles of Chemistry, edited by T. A. Lawson (1891, 2 vols). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: George Kamensky: Mendeleyev's The Principles of Chemistry, edited by T. A. Lawson (1891, 2 vols). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted. From archive.org (2026-10-23): Mendeleev's An Attempt towards a Chemical Conception of the Ether (Longmans, 1904).",
  "_name_words": [
   "george kamensky",
   "kamensky"
@@ -20,7 +20,12 @@
    "The Principles of Chemistry, Volume II"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "kam-ia-mendeleev-ether": [
+   "anattempttoward00mendgoog",
+   "Mendeleev: A Chemical Conception of the Ether"
+  ]
+ },
  "titles": {
   "kamensky-mendeleyev-the-principles-of-chemistry-vol-1": {
    "source": "kam-51326",
@@ -37,6 +42,14 @@
    "translated": "1891 (see the Gutenberg header)",
    "translator": "George Kamensky",
    "scan_edition": "Project Gutenberg 54210 (clean text)"
+  },
+  "kamensky-mendeleev-a-chemical-conception-of-the-ether": {
+   "source": "kam-ia-mendeleev-ether",
+   "of": "Dmitri Mendeleev",
+   "work": "An Attempt towards a Chemical Conception of the Ether",
+   "translated": "1904",
+   "translator": "George Kamensky",
+   "scan_edition": "Longmans, Green, and Co., London, New York and Bombay, 1904"
   }
  },
  "_pending": {},
@@ -45,7 +58,7 @@
  "_checks": {
   "kam-51326": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george kamensky",
    "identity": "ok",
@@ -54,12 +67,24 @@
   },
   "kam-54210": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george kamensky",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "George Kamensky"
+  },
+  "kam-ia-mendeleev-ether": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george kamensky",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +97,15 @@
    "pg": 54210,
    "pg_copyrighted_marker": false,
    "pg_translator": "George Kamensky"
+  },
+  "kam-ia-mendeleev-ether": {
+   "ia": "anattempttoward00mendgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

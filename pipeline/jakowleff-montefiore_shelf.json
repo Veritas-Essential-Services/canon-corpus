@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Emily Jakowleff and Dora B. Montefiore: Gorky's The Orloff Couple and Malva (1901) and The Outcasts and Other Stories (1902). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Emily Jakowleff and Dora B. Montefiore: Gorky's The Orloff Couple and Malva (1901) and The Outcasts and Other Stories (1902). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted. From archive.org (2026-10-23): Gorky's Twenty-Six Men and a Girl, and Other Stories (Stokes, 1915 printing).",
  "_name_words": [
   "emily jakowleff",
   "dora b. montefiore",
@@ -22,7 +22,12 @@
    "The Outcasts, and Other Stories"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "jam-ia-gorky-twenty-six-men": [
+   "twentysixmenandg0000maxi_h7z7",
+   "Gorky: Twenty-Six Men and a Girl"
+  ]
+ },
  "titles": {
   "jakowleff-montefiore-gorky-the-orloff-couple-and-malva": {
    "source": "jam-55582",
@@ -39,6 +44,14 @@
    "translated": "1901-1902 (see the Gutenberg header)",
    "translator": "Emily Jakowleff and Dora B. Montefiore (with Vera Volkhovsky)",
    "scan_edition": "Project Gutenberg 55861 (clean text)"
+  },
+  "jakowleff-montefiore-gorky-twenty-six-men-and-a-girl": {
+   "source": "jam-ia-gorky-twenty-six-men",
+   "of": "Maxim Gorky",
+   "work": "Twenty-Six Men and a Girl, and Other Stories",
+   "translated": "1915 (this printing)",
+   "translator": "Emily Jakowleff and Dora B. Montefiore",
+   "scan_edition": "Frederick A. Stokes Company, New York, 1915 (printed in Great Britain; introduction by Edward Garnett)"
   }
  },
  "_pending": {},
@@ -47,7 +60,7 @@
  "_checks": {
   "jam-55582": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emily jakowleff",
    "identity": "ok",
@@ -56,12 +69,23 @@
   },
   "jam-55861": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emily jakowleff",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Emily Jakowleff; Dora B. Montefiore; Vera Volkhovsky"
+  },
+  "jam-ia-gorky-twenty-six-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emily jakowleff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -74,6 +98,15 @@
    "pg": 55861,
    "pg_copyrighted_marker": false,
    "pg_translator": "Emily Jakowleff"
+  },
+  "jam-ia-gorky-twenty-six-men": {
+   "ia": "twentysixmenandg0000maxi_h7z7",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

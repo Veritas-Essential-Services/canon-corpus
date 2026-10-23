@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Leon Simon (1881-1965): Ahad Ha'am's Ten Essays on Zionism and Judaism (1922) and Einstein's About Zionism (1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Leon Simon (1881-1965): Ahad Ha'am's Ten Essays on Zionism and Judaism (1922) and Einstein's About Zionism (1930). Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted. From archive.org (2026-10-23): Ahad Ha-Am's Pinsker and Political Zionism (pamphlet, London, 1916).",
  "_name_words": [
   "leon simon"
  ],
@@ -18,7 +18,12 @@
    "About Zionism"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lsi-ia-ahad-haam-pinsker": [
+   "pinskerpolitical00ahadiala",
+   "Ahad Ha-Am: Pinsker and Political Zionism"
+  ]
+ },
  "titles": {
   "leon-simon-ahad-ha-am-ten-essays-on-zionism-and-judaism": {
    "source": "lsi-67667",
@@ -36,6 +41,14 @@
    "translator": "Leon Simon",
    "scan_edition": "Project Gutenberg 79647 (clean text)",
    "note": "Soncino Press, London, 1930; no copyright line printed. A 1930 publication entered the US public domain on 1 January 2026."
+  },
+  "leon-simon-ahad-haam-pinsker-and-political-zionism": {
+   "source": "lsi-ia-ahad-haam-pinsker",
+   "of": "Ahad Ha-Am (Asher Ginzberg)",
+   "work": "Pinsker and Political Zionism",
+   "translated": "1916",
+   "translator": "Leon Simon",
+   "scan_edition": "\"The Zionist\", London, 1916 (Zionist Pamphlets, second series)"
   }
  },
  "_pending": {},
@@ -44,7 +57,7 @@
  "_checks": {
   "lsi-67667": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "leon simon",
    "identity": "ok",
@@ -53,12 +66,23 @@
   },
   "lsi-79647": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "leon simon",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Leon Simon"
+  },
+  "lsi-ia-ahad-haam-pinsker": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leon simon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -71,6 +95,23 @@
    "pg": 79647,
    "pg_copyrighted_marker": false,
    "pg_translator": "Leon Simon"
+  },
+  "lsi-ia-ahad-haam-pinsker": {
+   "ia": "pinskerpolitical00ahadiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882,
+    1883,
+    1891,
+    1896,
+    1898,
+    1901,
+    1902,
+    1904,
+    1912,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
