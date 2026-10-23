@@ -13267,6 +13267,10 @@ Shelf: `pipeline/capes_shelf.json`. Roman History: The Early Empire (1876) and U
 | Roman History: The Early Empire, from the assassination of Julius Caesar to that of Domitian (London: Longmans, Green, 1876) |  | `capes-early-empire-1876` | have-raw (IA `romanhistoryearl00cape`) |
 | University Life in Ancient Athens (London: Longmans, Green, 1877) |  | `capes-university-life-athens-1877` | have-raw (IA `1877universityli00capeuoft`) |
 | The Roman Empire of the Second Century, or the Age of the Antonines (Epochs of Ancient History; London: Longmans, Green, 1876; this printing 1887) |  | `capes-roman-empire-second-century` | have-raw (IA `romanempireseco01unkngoog`) |
+| Livy, by W. W. Capes, Classical Writers, ed. John Richard Green (London: Macmillan, 1879) |  | `capes-livy-1879` | have-raw (IA `livycape00capeuoft`) |
+| Livy Books XXI and XXII, Hannibal's First Campaign in Italy, edited with introductions, notes, appendices and maps by the Rev. W. W. Capes (London: Macmillan, 1879); Latin text with English notes, kept per Adam's 2026-10-23 ruling |  | `capes-livy-xxi-xxii-1879` | have-raw (IA `livyhannibalsfi00livygoog`) |
+| Stoicism, by the Rev. W. W. Capes, Chief Ancient Philosophies (London: Society for Promoting Christian Knowledge; New York: Pott, Young, 1880) |  | `capes-stoicism-1880` | have-raw (IA `stoicis00cape`) |
+| C. Sallusti Crispi De Coniuratione Catilinae liber, De Bello Iugurthino liber, edited by W. W. Capes (Oxford: Clarendon Press, 1884); Latin text with English notes, kept per Adam's 2026-10-23 ruling |  | `capes-sallust-1884` | have-raw (IA `deconiurationec00capegoog`) |
 
 ## J. L. Strachan-Davidson (scholarship)
 

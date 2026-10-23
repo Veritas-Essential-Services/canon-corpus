@@ -1,5 +1,5 @@
 {
- "_about": "William Wolfe Capes (1834-1914), Reader in Ancient History at Oxford: Roman History: The Early Empire (Longmans, 1876) and University Life in Ancient Athens (Longmans, 1877), raw IA OCR. His Stoicism (SPCK) is held back: the scan's imprint year is illegible. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Added 2026-10-23 (round de): The Roman Empire of the Second Century (Epochs of Ancient History).",
+ "_about": "William Wolfe Capes (1834-1914), Reader in Ancient History at Oxford: Roman History: The Early Empire (Longmans, 1876) and University Life in Ancient Athens (Longmans, 1877), raw IA OCR. His Stoicism (SPCK) is held back: the scan's imprint year is illegible. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Added 2026-10-23 (round de): The Roman Empire of the Second Century (Epochs of Ancient History). Round dw (2026-10-23) added, raw IA OCR with title pages read: Livy (Classical Writers, 1879); Livy Books XXI and XXII, Hannibal's First Campaign in Italy (1879); Stoicism (Chief Ancient Philosophies, SPCK, 1880); Sallust's Catiline and Jugurtha (Clarendon Press, 1884). Not taken: his Polybius, History of the Achaean League (1888), whose only scan OCRs the English as Greek letters.",
  "_name_words": [
   "capes"
  ],
@@ -22,6 +22,22 @@
   "capes-roman-empire-second-century": [
    "romanempireseco01unkngoog",
    "The Roman Empire of the Second Century, or the Age of the Antonines (Epochs of Ancient History; London: Longmans, Green, 1876; this printing 1887)"
+  ],
+  "capes-livy-1879": [
+   "livycape00capeuoft",
+   "Livy, by W. W. Capes, Classical Writers, ed. John Richard Green (London: Macmillan, 1879)"
+  ],
+  "capes-livy-xxi-xxii-1879": [
+   "livyhannibalsfi00livygoog",
+   "Livy Books XXI and XXII, Hannibal's First Campaign in Italy, edited with introductions, notes, appendices and maps by the Rev. W. W. Capes (London: Macmillan, 1879); Latin text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "capes-stoicism-1880": [
+   "stoicis00cape",
+   "Stoicism, by the Rev. W. W. Capes, Chief Ancient Philosophies (London: Society for Promoting Christian Knowledge; New York: Pott, Young, 1880)"
+  ],
+  "capes-sallust-1884": [
+   "deconiurationec00capegoog",
+   "C. Sallusti Crispi De Coniuratione Catilinae liber, De Bello Iugurthino liber, edited by W. W. Capes (Oxford: Clarendon Press, 1884); Latin text with English notes, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_checks": {
@@ -55,6 +71,50 @@
    "identity": "ok",
    "ia_rights": "ok: published 1887",
    "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "capes-livy-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "capes-livy-xxi-xxii-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "capes-stoicism-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "capes-sallust-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
