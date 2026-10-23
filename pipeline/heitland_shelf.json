@@ -1,5 +1,5 @@
 {
- "_about": "William Emerton Heitland (1847-1935), St John's College, Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Agricola: a study of agriculture and rustic life in the Greco-Roman world, clean Gutenberg. No uids minted.",
+ "_about": "William Emerton Heitland (1847-1935), St John's College, Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Agricola: a study of agriculture and rustic life in the Greco-Roman world, clean Gutenberg. Round du (2026-10-23), raw IA: The Roman Republic (3 vols, Cambridge, 1909) and A Short History of the Roman Republic (1911). No uids minted.",
  "_name_words": [
   "heitland"
  ],
@@ -15,16 +15,79 @@
    "Agricola: a study of agriculture and rustic life in the Greco-Roman world"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "heitland-roman-republic-v1-1909": [
+   "india.history.resource.90861",
+   "The Roman Republic, vol. I (Cambridge: University Press, 1909)",
+   "90861_djvu.txt"
+  ],
+  "heitland-roman-republic-v2-1909": [
+   "bwb_P9-BHU-645",
+   "The Roman Republic, vol. II (Cambridge: University Press; the OCR reads the year as 1999, IA dates it 1909, and the imprint's Berlin and Leipzig agents fit 1909)"
+  ],
+  "heitland-roman-republic-v3-1909": [
+   "india.history.resource.91231",
+   "The Roman Republic, vol. III (Cambridge: University Press, 1909)",
+   "91231_djvu.txt"
+  ],
+  "heitland-short-history-roman-republic-1911": [
+   "shorthistoryofro1911heit",
+   "A Short History of the Roman Republic (Cambridge: University Press, 1911)"
+  ]
+ },
  "_checks": {
   "heitland-agricola": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william emerton heitland",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "heitland-roman-republic-v1-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. heitland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heitland-roman-republic-v2-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heitland, william emerton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heitland-roman-republic-v3-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. heitland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heitland-short-history-roman-republic-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. e. heitland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
