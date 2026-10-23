@@ -18615,6 +18615,16 @@ Shelf: `pipeline/ernest-g-sihler_shelf.json`. Caesar, Cicero, and paganism and C
 | Cicero of Arpinum: a Political and Literary Biography (1914) |  | `sihler-cicero-of-arpinum-1914` | have-raw (IA `ciceroarpinumap00sihlgoog`) |
 | From Augustus to Augustine: Essays and Studies dealing with the Contact and Conflict of Classic Paganism and Christianity (1923) |  | `sihler-augustus-to-augustine-1923` | have-raw (IA `fromaugustustoau0000erne_j4p1`) |
 
+
+## Roy C. Flickinger (1876-1942)
+
+Shelf: `pipeline/roy-c-flickinger_shelf.json`. The Greek theater, 1904 and 1918. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Greek Theater and its Drama (Chicago, 1918) |  | `flickinger-greek-theater-drama-1918` | have-raw (IA `dli.ministry.02416`) |
+| Plutarch as a Source of Information on the Greek Theater (1904) |  | `flickinger-plutarch-greek-theater-1904` | have-raw (IA `plutarchasasour01flicgoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

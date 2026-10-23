@@ -1,0 +1,57 @@
+{
+ "_about": "Roy Caston Flickinger (1876-1942): The Greek Theater and its Drama (1918) and Plutarch as a Source of Information on the Greek Theater (1904).",
+ "_author": "Roy C. Flickinger (1876-1942)",
+ "_name_words": [
+  "flickinger",
+  "greek",
+  "theater",
+  "drama",
+  "plutarch"
+ ],
+ "_surname": [
+  "flickinger"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "flickinger-greek-theater-drama-1918": [
+   "dli.ministry.02416",
+   "The Greek Theater and its Drama (Chicago, 1918)",
+   "23237.157.H.189_djvu.txt"
+  ],
+  "flickinger-plutarch-greek-theater-1904": [
+   "plutarchasasour01flicgoog",
+   "Plutarch as a Source of Information on the Greek Theater (1904)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "flickinger-greek-theater-drama-1918": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "flickinger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "flickinger-plutarch-greek-theater-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "flickinger-plutarch-greek-theater-1904": {
+   "author": "Chicago dissertation (University of Chicago Press, August 1904); the preface is signed 'Roy C. Flickinger, Epworth University, Oklahoma', which the OCR reads as 'Pliokinger'"
+  }
+ }
+}
