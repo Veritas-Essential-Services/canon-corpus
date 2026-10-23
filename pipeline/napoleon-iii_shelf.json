@@ -1,0 +1,47 @@
+{
+ "_about": "Napoleon III (1808-1873): History of Julius Caesar (2 vols., 1865-66), the English translation published with the French original, clean on Gutenberg. Classical scholarship (lane B, round de). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Napoleon III, Emperor of the French (1808-1873)",
+ "_name_words": [
+  "napoleon",
+  "julius",
+  "caesar",
+  "history"
+ ],
+ "_surname": [
+  "napoleon",
+  "louis napoleon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "napoleon-iii-julius-caesar-vol-1-pg": [
+   45456,
+   "History of Julius Caesar, vol. 1 of 2 (1865)"
+  ],
+  "napoleon-iii-julius-caesar-vol-2-pg": [
+   45532,
+   "History of Julius Caesar, vol. 2 of 2 (1866)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "napoleon-iii-julius-caesar-vol-1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "napoleon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "napoleon-iii-julius-caesar-vol-2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "napoleon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

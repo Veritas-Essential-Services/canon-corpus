@@ -10016,3 +10016,13 @@ Shelf: `pipeline/r-bosworth-smith_shelf.json`. Carthage and the Punic Wars, 1878
 
 Excluded: Mohammed and Mohammedanism; Life of Lord Lawrence (outside lane B)
 
+
+## Napoleon III (1808-1873)
+
+Shelf: `pipeline/napoleon-iii_shelf.json`. History of Julius Caesar, 2 vols. (Gutenberg). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| History of Julius Caesar, vol. 1 of 2 (1865) |  | `napoleon-iii-julius-caesar-vol-1-pg` | have (PG 45456) |
+| History of Julius Caesar, vol. 2 of 2 (1866) |  | `napoleon-iii-julius-caesar-vol-2-pg` | have (PG 45532) |
+
