@@ -3829,6 +3829,14 @@
       "started": "2026-10-22T22:13:03-05:00",
       "finished": "2026-10-22T22:13:03-05:00",
       "notes": "mrs-de-horne-vaizey: new shelf, 23 Gutenberg books, 28,636 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "harvey-ralphson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — G. Harvey Ralphson; no minting",
+      "status": "done-with-defects",
+      "started": "2026-10-22T22:13:25-05:00",
+      "finished": "2026-10-22T22:13:25-05:00",
+      "notes": "harvey-ralphson: new shelf, 21 Gutenberg books, 34,391 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags; 2 failed to fetch."
     }
   ]
 }

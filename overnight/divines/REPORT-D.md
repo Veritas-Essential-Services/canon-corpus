@@ -1719,3 +1719,6 @@
 
 ## 2026-10-22 22:13 CDT — mrs-de-horne-vaizey: done
 - mrs-de-horne-vaizey: new shelf, 23 Gutenberg books, 28,636 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:13 CDT — harvey-ralphson: done
+- harvey-ralphson: new shelf, 21 Gutenberg books, 34,391 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags; 2 failed to fetch.

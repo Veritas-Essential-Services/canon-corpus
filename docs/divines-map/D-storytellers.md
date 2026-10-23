@@ -13079,3 +13079,33 @@ Shelf: `pipeline/mrs-de-horne-vaizey_shelf.json` (2026-10-22; added at the coord
 | What a Man Wills | have | PG 32935, `gdhvaizey-what-a-man-wills` (1226 units) |
 | An Unknown Lover | have | PG 32936, `gdhvaizey-unknown-lover` (1453 units) |
 | A Girl in Spring-Time | have | PG 36874, `gdhvaizey-girl-in-spring-time` (671 units) |
+
+## G. Harvey Ralphson
+
+Shelf: `pipeline/harvey-ralphson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers. Every English text under the name at Gutenberg that no other shelf holds (23 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Boy Scouts in Mexico; Or, On Guard with Uncle Sam | have | PG 2191, `ghralphson-boy-scouts-in-mexico` (1544 units) |
+| Boy Scouts in a Submarine; Or, Searching an Ocean Floor | have | PG 6108, `ghralphson-boy-scouts-in-a-submarine` (1852 units) |
+| Boy Scouts in the Coal Caverns; Or, The Light in Tunnel Six | pending | PG 6338, `ghralphson-boy-scouts-in-the-coal-caverns` (fetch failed) |
+| Boy Scouts in an Airship; Or, The Warning from the Sky | have | PG 6904, `ghralphson-boy-scouts-in-an-airship` (1553 units) |
+| The Boy Scout Camera Club; Or, the Confession of a Photograph | have | PG 7356, `ghralphson-boy-scout-camera-club` (1817 units) |
+| Boy Scouts on Motorcycles; Or, With the Flying Squadron | have | PG 11469, `ghralphson-boy-scouts-on-motorcycles` (1669 units) |
+| Boy Scouts in Northern Wilds; Or, The Signal from the Hills | pending | PG 12526, `ghralphson-boy-scouts-in-northern-wilds` (fetch failed) |
+| Boy Scouts in Southern Waters; Or, Spaniard's Treasure Chest | have | PG 13859, `ghralphson-boy-scouts-in-southern-waters` (1901 units) |
+| Boy Scouts on a Long Hike; Or, To the Rescue in the Black Water Swamps | have | PG 18952, `ghralphson-boy-scouts-on-a-long-hike` (1007 units) |
+| The Call of the Beaver Patrol; Or, A Break in the Glacier | have | PG 20040, `ghralphson-call-of-the-beaver-patrol` (3155 units) |
+| Boy Scouts in the Philippines; Or, The Key to the Treaty Box | have | PG 20208, `ghralphson-boy-scouts-in-the-philippines` (1742 units) |
+| Boy Scouts on Hudson Bay; Or, The Disappearing Fleet | have | PG 22674, `ghralphson-boy-scouts-on-hudson-bay` (1381 units) |
+| Boy Scouts Mysterious Signal; Or, Perils of the Black Bear Patrol | have | PG 22991, `ghralphson-boy-scouts-mysterious-signal` (1645 units) |
+| Boy Scouts in the North Sea; Or, The Mystery of a Sub | have | PG 25798, `ghralphson-boy-scouts-in-the-north-sea` (1789 units) |
+| Boy Scouts in the Canal Zone; Or, The Plot Against Uncle Sam | have | PG 26540, `ghralphson-boy-scouts-in-the-canal-zone` (1702 units) |
+| Boy Scouts on the Great Divide; Or, The Ending of the Trail | have | PG 31487, `ghralphson-boy-scouts-on-the-great-divide` (1405 units) |
+| Boy Scouts in the Northwest; Or, Fighting Forest Fires | have | PG 37487, `ghralphson-boy-scouts-in-the-northwest` (1615 units) |
+| Over There with the Canadians at Vimy Ridge | have | PG 46348, `ghralphson-over-there-with-the-canadians-at-vimy-ridge` (953 units) |
+| Boy Scouts on the Open Plains; Or, The Round-Up Not Ordered | have | PG 46477, `ghralphson-boy-scouts-on-the-open-plains` (1384 units) |
+| Boy Scouts in the North Sea; Or, the Mystery of "U-13" | have | PG 60345, `ghralphson-boy-scouts-in-the-north-sea-60345` (1840 units) |
+| Boy Scouts with Joffre; Or, In the Trenches in Belgium | have | PG 60370, `ghralphson-boy-scouts-with-joffre` (1852 units) |
+| Over There with the Marines at Chateau Thierry | have | PG 63462, `ghralphson-over-there-with-the-marines-at-chateau-thierry` (839 units) |
+| Boy Scouts in California; or, The Flag on the Cliff | have | PG 65418, `ghralphson-boy-scouts-in-california` (1746 units) |

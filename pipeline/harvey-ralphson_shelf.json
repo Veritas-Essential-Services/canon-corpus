@@ -1,0 +1,301 @@
+{
+ "_about": "G. Harvey Ralphson's Boy Scouts series books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "G. Harvey Ralphson",
+ "_name_words": [
+  "harvey",
+  "ralphson"
+ ],
+ "_surname": [
+  "ralphson",
+  "harvey ralphson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ghralphson-boy-scouts-in-mexico": [
+   2191,
+   "Boy Scouts in Mexico; Or, On Guard with Uncle Sam"
+  ],
+  "ghralphson-boy-scouts-in-a-submarine": [
+   6108,
+   "Boy Scouts in a Submarine; Or, Searching an Ocean Floor"
+  ],
+  "ghralphson-boy-scouts-in-the-coal-caverns": [
+   6338,
+   "Boy Scouts in the Coal Caverns; Or, The Light in Tunnel Six"
+  ],
+  "ghralphson-boy-scouts-in-an-airship": [
+   6904,
+   "Boy Scouts in an Airship; Or, The Warning from the Sky"
+  ],
+  "ghralphson-boy-scout-camera-club": [
+   7356,
+   "The Boy Scout Camera Club; Or, the Confession of a Photograph"
+  ],
+  "ghralphson-boy-scouts-on-motorcycles": [
+   11469,
+   "Boy Scouts on Motorcycles; Or, With the Flying Squadron"
+  ],
+  "ghralphson-boy-scouts-in-northern-wilds": [
+   12526,
+   "Boy Scouts in Northern Wilds; Or, The Signal from the Hills"
+  ],
+  "ghralphson-boy-scouts-in-southern-waters": [
+   13859,
+   "Boy Scouts in Southern Waters; Or, Spaniard's Treasure Chest"
+  ],
+  "ghralphson-boy-scouts-on-a-long-hike": [
+   18952,
+   "Boy Scouts on a Long Hike; Or, To the Rescue in the Black Water Swamps"
+  ],
+  "ghralphson-call-of-the-beaver-patrol": [
+   20040,
+   "The Call of the Beaver Patrol; Or, A Break in the Glacier"
+  ],
+  "ghralphson-boy-scouts-in-the-philippines": [
+   20208,
+   "Boy Scouts in the Philippines; Or, The Key to the Treaty Box"
+  ],
+  "ghralphson-boy-scouts-on-hudson-bay": [
+   22674,
+   "Boy Scouts on Hudson Bay; Or, The Disappearing Fleet"
+  ],
+  "ghralphson-boy-scouts-mysterious-signal": [
+   22991,
+   "Boy Scouts Mysterious Signal; Or, Perils of the Black Bear Patrol"
+  ],
+  "ghralphson-boy-scouts-in-the-north-sea": [
+   25798,
+   "Boy Scouts in the North Sea; Or, The Mystery of a Sub"
+  ],
+  "ghralphson-boy-scouts-in-the-canal-zone": [
+   26540,
+   "Boy Scouts in the Canal Zone; Or, The Plot Against Uncle Sam"
+  ],
+  "ghralphson-boy-scouts-on-the-great-divide": [
+   31487,
+   "Boy Scouts on the Great Divide; Or, The Ending of the Trail"
+  ],
+  "ghralphson-boy-scouts-in-the-northwest": [
+   37487,
+   "Boy Scouts in the Northwest; Or, Fighting Forest Fires"
+  ],
+  "ghralphson-over-there-with-the-canadians-at-vimy-ridge": [
+   46348,
+   "Over There with the Canadians at Vimy Ridge"
+  ],
+  "ghralphson-boy-scouts-on-the-open-plains": [
+   46477,
+   "Boy Scouts on the Open Plains; Or, The Round-Up Not Ordered"
+  ],
+  "ghralphson-boy-scouts-in-the-north-sea-60345": [
+   60345,
+   "Boy Scouts in the North Sea; Or, the Mystery of \"U-13\""
+  ],
+  "ghralphson-boy-scouts-with-joffre": [
+   60370,
+   "Boy Scouts with Joffre; Or, In the Trenches in Belgium"
+  ],
+  "ghralphson-over-there-with-the-marines-at-chateau-thierry": [
+   63462,
+   "Over There with the Marines at Chateau Thierry"
+  ],
+  "ghralphson-boy-scouts-in-california": [
+   65418,
+   "Boy Scouts in California; or, The Flag on the Cliff"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ghralphson-boy-scouts-in-mexico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-a-submarine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-an-airship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scout-camera-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-on-motorcycles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-southern-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-on-a-long-hike": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-call-of-the-beaver-patrol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-the-philippines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-on-hudson-bay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-mysterious-signal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-the-north-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-the-canal-zone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-on-the-great-divide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-the-northwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-over-there-with-the-canadians-at-vimy-ridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-on-the-open-plains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-the-north-sea-60345": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-with-joffre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-over-there-with-the-marines-at-chateau-thierry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-california": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
