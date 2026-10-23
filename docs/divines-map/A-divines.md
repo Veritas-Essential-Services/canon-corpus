@@ -16548,3 +16548,30 @@ Slugs `cwagner-*`. Built from title pages read for round 104.
 | By the fire side (New York : McClure, Phillips & co., 1904) | have-ocr | IA `byfireside00wagn` |
 | The voice of nature (New York, J. S. Ogilvie publishing company, 1904) | have-ocr | IA `voiceofnature00wagn` |
 | Books catalogued under Wagner that are Richard Wagner's music dramas | excluded | |
+
+## John Edgar McFadyen (round 104, my pick, 2026-10-23)
+
+Slugs `mcfadyen-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| The messages of the prophetic and priestly historians (New York : C. Scribner's Sons, 1901) | have-ocr | IA `messagesofprophe0000mcfa` |
+| The divine pursuit ([n. p.], 1901) | have-ocr | IA `divinepursuit00mcfa` |
+| In the hour of silence (Chicago, New York [etc.] Fleming H. Revell company, 1902) | have-ocr | IA `inhourofsilence00mcfa` |
+| Old Testament criticism and the Christian church (New York, C. Scribner's sons, 1903) | have-ocr | IA `oldtestamentcrit00mcfa` |
+| The messages of the psalmists; the Psalms of the Old Testament arranged in their natural grouping and freely rendered in paraphrase (New York, C. Scribner's Sons, 1904) | have-ocr | IA `messagesofpsalmi00mcfarich` |
+| Introduction to the Old Testament (New York : A.C. Armstrong, 1905) | have-ocr | IA `introductiontool00mcfa` |
+| The prayers of the Bible (Toronto : Westminster, [190) | have-ocr | IA `prayersofbible00mcfauoft` |
+| Ten studies in the Psalms (New York, Young men's Christian association press, 1907) | have-ocr | IA `tenstudiesinpsal00mcfa` |
+| The city with foundations (New York : A.C. Armstrong, 1909) | have-ocr | IA `citywithfoundati00mcfa` |
+| The book of the prophecies of Isaiah (New York, The Macmillan company, 1910) | have-ocr | IA `bookofprophecies00mcfa` |
+| The way of prayer (Boston, New York [etc.] The Pilgrim press, 1910) | have-ocr | IA `wayofprayer00mcfa` |
+| The epistles to the Corinthians (London : Hodder and Stoughton, 1911) | have-ocr | IA `theepistlestothe00mcfauoft` |
+| A cry for justice; a study in Amos (Edinburgh T. & T. Clark, 1912) | have-ocr | IA `cryforjusticestu00mcfauoft` |
+| The historical narrative of the Old Testament (Edinburgh : T. & T. Clark, pref) | have-ocr | IA `thehistoricalnar00mcfauoft` |
+| The psalms in modern speech and rhythmical form (London J. Clarke, 1916) | have-ocr | IA `thepsalmsinmoder00mcfauoft` |
+| The problem of pain : a study in the Book of Job (London : J. Clarke, 1917) | have-ocr | IA `theproblemofpain00mcfauoft` |
+| Isaiah in modern speech (London : J.Clarke, [191) | have-ocr | IA `isaiahinmodernsp00mcfauoft` |
+| Jeremiah in modern speech (London, Clarke, [191) | have-ocr | IA `jeremiahinmodern00mcfauoft` |
+| The use of the Old Testament in the light of modern knowledge (London : J. Clarke, pref) | have-ocr | IA `useoftheoldtesta00mcfauoft` |
+| An Introductory Hebrew Grammar (A. B. Davidson's, which he revised) | excluded | |
