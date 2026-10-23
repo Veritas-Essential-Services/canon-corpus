@@ -1,0 +1,109 @@
+{
+ "_about": "Mary C. Rowsell: Historical tales for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary C. Rowsell",
+ "_name_words": [
+  "rowsell"
+ ],
+ "_surname": [
+  "rowsell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mcrowsell-honor-bright": [
+   64615,
+   "Honor Bright: A Story of the Days of King Charles"
+  ],
+  "mcrowsell-ninon-de-lenclos-and-her-century": [
+   71953,
+   "Ninon de l'Enclos and her century"
+  ],
+  "mcrowsell-life-story-of-charlotte-de-la-tr-moille-countess-o": [
+   72524,
+   "The life-story of Charlotte de la Trémoille, Countess of Derby"
+  ],
+  "mcrowsell-traitor-or-patriot": [
+   74255,
+   "Traitor or patriot?"
+  ],
+  "mcrowsell-silver-dial-volume-1-of-3": [
+   76370,
+   "The silver dial, volume 1 (of 3)"
+  ],
+  "mcrowsell-silver-dial-volume-2-of-3": [
+   76371,
+   "The silver dial, volume 2 (of 3)"
+  ],
+  "mcrowsell-silver-dial-volume-3-of-3": [
+   76372,
+   "The silver dial, volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mcrowsell-honor-bright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowsell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcrowsell-ninon-de-lenclos-and-her-century": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowsell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcrowsell-life-story-of-charlotte-de-la-tr-moille-countess-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowsell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcrowsell-traitor-or-patriot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowsell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcrowsell-silver-dial-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowsell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcrowsell-silver-dial-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowsell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcrowsell-silver-dial-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowsell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

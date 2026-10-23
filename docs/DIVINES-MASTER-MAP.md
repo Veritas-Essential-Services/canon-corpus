@@ -42536,3 +42536,17 @@ Shelf: `pipeline/marah-ellis-ryan_shelf.json` (2026-10-22; added at the coordina
 | Told in the Hills: A Novel | have | PG 36246, `meryan-told-in-the-hills` (2402 units) |
 | For the Soul of Rafael | have | PG 39995, `meryan-for-the-soul-of-rafael` (1997 units) |
 | The Druid Path | have | PG 77880, `meryan-druid-path` (2505 units) |
+
+## Mary C. Rowsell
+
+Shelf: `pipeline/mary-c-rowsell_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical tales for young readers. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Honor Bright: A Story of the Days of King Charles | have | PG 64615, `mcrowsell-honor-bright` (228 units) |
+| Ninon de l'Enclos and her century | have | PG 71953, `mcrowsell-ninon-de-lenclos-and-her-century` (799 units) |
+| The life-story of Charlotte de la Trémoille, Countess of Derby | have | PG 72524, `mcrowsell-life-story-of-charlotte-de-la-tr-moille-countess-o` (520 units) |
+| Traitor or patriot? | have | PG 74255, `mcrowsell-traitor-or-patriot` (1685 units) |
+| The silver dial, volume 1 (of 3) | have | PG 76370, `mcrowsell-silver-dial-volume-1-of-3` (791 units) |
+| The silver dial, volume 2 (of 3) | have | PG 76371, `mcrowsell-silver-dial-volume-2-of-3` (1696 units) |
+| The silver dial, volume 3 (of 3) | have | PG 76372, `mcrowsell-silver-dial-volume-3-of-3` (1930 units) |
