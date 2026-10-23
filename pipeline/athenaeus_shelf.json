@@ -71,5 +71,8 @@
    "pg_translator": "Charles Duke Yonge",
    "translator_match": true
   }
+ },
+ "_held": {
+  "athenaeus-perseus-yonge-the-deipnosophists": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0008.tlg001.perseus-eng2 (The Deipnosophists, tr. Charles Duke Yonge) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  }
 }
