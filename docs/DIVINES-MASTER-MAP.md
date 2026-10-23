@@ -18180,6 +18180,19 @@ Slugs `gotwald-*`. Built from title pages read for round 122.
 | Gettysburg : Lincoln's address and our educational institutions (Your, Pa. : The Board of Education, 1907) | have-ocr | IA `gettysburglincol00gotw` |
 | Sermons for Festival Days (German Literary Board, 1911) | have-ocr | IA `sermonsforfestiv0000lago` |
 | The Faithful Missionary is Nieritz translated by William H. Gotwald | excluded | |
+
+## A. H. Tuttle (round 122, my pick, 2026-10-23)
+
+Slugs `tuttle-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The Safety of Our Young Men (The Winthrop Press, 1901) | have-ocr | IA `safetyouryoungm00tuttgoog` |
+| The living word (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1904) | have-ocr | IA `livingword00tutt` |
+| Nathan Bangs (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1909) | have-ocr | IA `nathanbangs0000tutt` |
+| Egypt to Canaan : lectures on the spiritual meanings of the Exodus (New York : Eaton & Mains, 1912) | have-ocr | IA `egypttocanaanlec0000tutt` |
+| History of the Roseville Methodist Episcopal Church of the Newark Annual Conference of the Methodist Episcopal Church, Newark, New Jersey, 1857-1927 ([New Jersey?] : [publisher not identified], 1927) | have-ocr | IA `historyofrosevil0000tutt` |
+| Mary Porter Gamewell and her Story of the Siege in Peking (1907), IA cu31924023085594: Tuttle's memoir joined to Mary Gamewell's own narrative (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
