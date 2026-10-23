@@ -1,6 +1,6 @@
 {
-  "status": "free",
-  "holder": "2026-10-22T23:19:52-05:00",
-  "heartbeat": "2026-10-22T23:45:42-05:00",
-  "note": "rounds 42-44 done and pushed 2026-10-23; resume at round 45 (candidates in DIGEST-A, 'Lane A stopped' section)"
+  "status": "running",
+  "holder": "2026-10-22T23:46:24-05:00",
+  "heartbeat": "2026-10-22T23:46:24-05:00",
+  "note": "retaken 2026-10-23 at the coordinator's request (Adam: clear the backlog): round 45 onward"
 }
