@@ -15534,6 +15534,20 @@ Slugs `heywood-*`. Built from title pages read for round 94.
 | The Rev. Oliver Heywood, B.A., 1630-1702 : his autobiography, diaries, anecdote and event books : illustrating the general and family history of Yorkshire and Lancashire, vol. 3 (Brighouse : A.B. Bayes, 1881) | have-ocr | IA `revoliverheywood03heyw` |
 | the 1667-1701 first printings (Early English Books), whose texts are in the Whole Works; left for the EEBO first-editions work | excluded | |
 | The Nonconformist Register (a register of baptisms, marriages and deaths) | excluded | |
+
+## James Janeway (round 94, my pick, 2026-10-23)
+
+Slugs `janeway-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| Invisibles, realities, demonstrated in the holy life and triumphant death of Mr. John Janeway, fellow of King's College in Cambridge (Pittsfield [Mass.] Printed by Phinehas Allen, 1814) | have-ocr | IA `invisiblesrealit00jane` |
+| The saints' encouragement to diligence in Christ's service : with motives and means to Christian activity ; to which is added as an example to prove the point handled, the death-bed experiences of Mrs. B (London : Religious Tract Society, 1833) | have-ocr | IA `saintsencouragem00jane` |
+| tokenforchildren00jane: the scan is an Appleton juvenile reprint whose OCR never names Janeway; needs a page-image check | pending | not shelved |
+| bim_eighteenth-century_a-token-for-mariners-co_janeway-james_1708: eighteenth-century printing with no author named in the readable OCR; attribution is the catalogue's | pending | not shelved |
+| bim_eighteenth-century_a-token-for-youth-contai_janeway-james_1720: eighteenth-century printing with no author named in the readable OCR; attribution is the catalogue's | pending | not shelved |
+| the 1667-1680 first printings (Early English Books), left for the EEBO first-editions work | excluded | |
+| extracts and abridgements by John Wesley and James Wheatley | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
