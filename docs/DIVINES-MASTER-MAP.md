@@ -12855,6 +12855,7 @@ Shelf: `pipeline/tyrrell_shelf.json`. Robert Yelverton Tyrrell (1844-1914), Trin
 | The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. V, second edition (Dublin: Hodges, Figgis, 1915); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `tyrrell-purser-cicero-v5-1915` | have-raw (IA `correspondenceof05ciceuoft`) |
 | The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. VI (Dublin: Hodges, Figgis; London: Longmans, Green, 1899); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `tyrrell-purser-cicero-v6-1899` | have-raw (IA `correspondencem04cicegoog`) |
 | The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. VII: Index (Dublin: Hodges, Figgis, 1901) |  | `tyrrell-purser-cicero-v7-index-1901` | have-raw (IA `correspondencem00unkngoog`) |
+| The Bacchae of Euripides, with a revision of the text and a commentary, by Robert Yelverton Tyrrell (London and New York: Macmillan, 1892; the second edition, 'after more than twenty years'); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `tyrrell-bacchae-1892` | have-raw (IA `bacchaeeuri00euri`) |
 
 ## F. B. Jevons (scholarship)
 
@@ -20091,6 +20092,7 @@ Shelf: `pipeline/e-e-sikes_shelf.json`. The Anthropology of the Greeks (London: 
 |---|---|---|---|
 | The Anthropology of the Greeks (London: Nutt, 1914) |  | `sikes-anthropology-of-the-greeks-1914` | have-raw (IA `anthropologyofgr0000sike`) |
 | Roman Poetry (London: Methuen, 1923) |  | `sikes-roman-poetry-1923` | have-raw (IA `romanpoetry00sike`) |
+| The Homeric Hymns, edited with preface, apparatus criticus, notes and appendices, by Thomas W. Allen and E. E. Sikes (London: Macmillan; New York: The Macmillan Company, 1904); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `sikes-homeric-hymns-1904` | have-raw (IA `homerichymnsedit00homeuoft`) |
 
 
 ## Sir Edward Maunde Thompson (1840-1929)
@@ -20808,6 +20810,26 @@ Shelf: `pipeline/h-a-holden_shelf.json`. Cicero and Plutarch editions with Engli
 | Plutarch's Life of Themistocles, with introduction, critical and explanatory notes, indices and map, third edition (London and New York: Macmillan, 1892 on the title page; the OCR also shows 1907, perhaps a later impression); Greek text with English commentary, Greek-heavy, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-themistocles-1892` | have-raw (IA `lifethemistocle00holdgoog`) |
 | Plutarch's Life of Lucius Cornelius Sulla, with introduction, notes and lexicon (Cambridge: University Press, 1886); Greek text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-sulla-1886` | have-raw (IA `plutarchslifeofl00plut`) |
 | Plutarch's Life of Pericles, with introduction, critical and explanatory notes and indices (London: Macmillan, 1894); Greek text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions |  | `h-a-holden-pericles-1894` | have-raw (IA `lifeofpericleswi00plut`) |
+
+## W. Rennie (1878-1951)
+
+Shelf: `pipeline/w-rennie_shelf.json`. Rennie's Acharnians (Edward Arnold, 1909), Greek text with English commentary. Round dt. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Acharnians of Aristophanes, with introduction, critical notes and commentary, by W. Rennie (London: Edward Arnold, 1909); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `w-rennie-acharnians-1909` | have-raw (IA `acharniansofaris00renn`) |
+
+## F. A. Paley (1815-1888)
+
+Shelf: `pipeline/f-a-paley_shelf.json`. Paley's English commentaries on Euripides (Bibliotheca Classica vols. II-III; school editions) and his verse renderings of the comic fragments. Round dt. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Euripides, with an English Commentary, vol. II, by F. A. Paley (Bibliotheca Classica; London: Whittaker and Co.; George Bell, 1858); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `f-a-paley-euripides-v2-1858` | have-raw (IA `india.history.resource.53572`) |
+| Euripides, with an English Commentary, vol. III, by F. A. Paley (Bibliotheca Classica; London: Whittaker and Co.; George Bell, 1860); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `f-a-paley-euripides-v3-1860` | have-raw (IA `bibliothecaclass0003fapa`) |
+| The Phoenissae of Euripides, with brief notes, by F. A. Paley (Cambridge: Deighton, Bell, and Co.; London: Whittaker and Co., G. Bell and Sons, 1870); Greek text with English notes |  | `f-a-paley-phoenissae-1870` | have-raw (IA `phoenissaeofeuri00euririch`) |
+| The Iphigenia in Tauris of Euripides, with brief notes, by the late F. A. Paley (London: George Bell and Sons; Cambridge: Deighton Bell, 1904); Greek text with English notes |  | `f-a-paley-iphigenia-tauris-1904` | have-raw (IA `iphigeniaintauri00euri_0`) |
+| Fragments of the Greek Comic Poets, with renderings in English verse, by F. A. Paley (London: Swan Sonnenschein, 1889) |  | `f-a-paley-greek-comic-fragments-1889` | have-raw (IA `fragmentsgreekc00palegoog`) |
 
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
