@@ -1,5 +1,5 @@
 {
- "_about": "John Conington (1825-1869), Corpus Professor of Latin at Oxford. Classical scholarship (lane B pivot, 2026-10-10): Miscellaneous Writings, ed. J. A. Symonds with a memoir by H. J. S. Smith (1872), vol. I, raw IA OCR. Vol. II is almost wholly his prose Virgil, which the virgil shelf already holds (virgil-conington-works-1880), so it is not added. His translations of Horace, Virgil and Persius are on those shelves. His Virgil commentary (with Nettleship) reads 0.73 on the OCR measure, under the bar. No uids minted. His Virgil with a commentary (Bibliotheca Classica, 3 vols., raw IA): vol. I Eclogues and Georgics (1858), vol. II Aeneid I-VI (1863), vol. III Aeneid VII-XII, third edition revised by Henry Nettleship (1883). The 1883 volume was refused earlier at OCR 0.73 for its dense line references; taken 2026-10-23 on the reasoning used for the other Latin-dense commentaries (the text reads; the measure counts Latin as noise).",
+ "_about": "John Conington (1825-1869), Corpus Professor of Latin at Oxford. Classical scholarship (lane B pivot, 2026-10-10): Miscellaneous Writings, ed. J. A. Symonds with a memoir by H. J. S. Smith (1872), vol. I, raw IA OCR. Vol. II is almost wholly his prose Virgil, which the virgil shelf already holds (virgil-conington-works-1880), so it is not added. His translations of Horace, Virgil and Persius are on those shelves. His Virgil commentary (with Nettleship) reads 0.73 on the OCR measure, under the bar. No uids minted. His Virgil with a commentary (Bibliotheca Classica, 3 vols., raw IA): vol. I Eclogues and Georgics (1858), vol. II Aeneid I-VI (1863), vol. III Aeneid VII-XII, third edition revised by Henry Nettleship (1883). The 1883 volume was refused earlier at OCR 0.73 for its dense line references; taken 2026-10-23 on the reasoning used for the other Latin-dense commentaries (the text reads; the measure counts Latin as noise). Round dy (2026-10-23), raw IA: his Choephoroe of Aeschylus (1857).",
  "_name_words": [
   "conington"
  ],
@@ -27,6 +27,10 @@
   "conington-virgil-v3-1883": [
    "pvergilimaroniso03virg",
    "P. Vergili Maronis Opera, The Works of Virgil, with a commentary (Bibliotheca Classica), vol. III: the last six books of the Aeneid, third edition revised by Henry Nettleship (London: Whittaker; George Bell, 1883); Latin text with English commentary, kept per the 2026-10-23 reasoning on text-facing editions"
+  ],
+  "conington-choephoroe-1857": [
+   "choephoroeofaesc00aescrich",
+   "The Choephoroe of Aeschylus, with notes, critical and explanatory, by John Conington (London: John W. Parker and Son, 1857); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
@@ -75,6 +79,18 @@
    "ia_rights": "ok: published 1881",
    "ia_date": "1881",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "conington-choephoroe-1857": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john conington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }
