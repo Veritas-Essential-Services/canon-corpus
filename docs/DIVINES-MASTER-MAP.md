@@ -44495,3 +44495,15 @@ Shelf: `pipeline/philip-verrill-mighels_shelf.json` (2026-10-22; added at the co
 | As It Was in the Beginning | have | PG 22554, `pvmighels-as-it-was-in-the-beginning` (2258 units) |
 | The Crystal Sceptre: A Story of Adventure | have | PG 60860, `pvmighels-crystal-sceptre` (1019 units) |
 | When a witch is young: a historical novel | have | PG 68249, `pvmighels-when-a-witch-is-young` (2484 units) |
+
+## Margaret Hill McCarter
+
+Shelf: `pipeline/margaret-hill-mccarter_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Master's Degree | have | PG 1348, `mhmccarter-masters-degree` (1309 units) |
+| Vanguards of the Plains: A Romance of the Old Santa Fé Trail | have | PG 13345, `mhmccarter-vanguards-of-the-plains` (2083 units) |
+| Winning the Wilderness | have | PG 27505, `mhmccarter-winning-the-wilderness` (2731 units) |
+| The Price of the Prairie: A Story of Kansas | have | PG 31524, `mhmccarter-price-of-the-prairie` (2546 units) |
+| The Reclaimers | have | PG 33959, `mhmccarter-reclaimers` (1643 units) |

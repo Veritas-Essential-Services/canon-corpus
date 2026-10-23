@@ -2663,3 +2663,6 @@
 
 ## 2026-10-22 23:22 CDT — philip-verrill-mighels: done
 - philip-verrill-mighels: new shelf, 5 Gutenberg books, 9,690 units, 23 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:22 CDT — margaret-hill-mccarter: done
+- margaret-hill-mccarter: new shelf, 5 Gutenberg books, 10,312 units, 614 ~2 ids; verify 0 mismatches, 0 rights flags.
