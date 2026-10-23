@@ -15512,3 +15512,19 @@ Slugs `wilkes-*`. Built from title pages read for round 93.
 | Brief annals of Zion Church, Montreal, from 1832 to 10th May, 1871 : with lists of office-bearers and members and reports for 1870 ([Montreal? : s.n.], 1871) | have-ocr | IA `cihm_42749` |
 | cihm_89276: the author line of the title page is lost in the OCR; catalogued under Wilkes; needs a page-image check | pending | not shelved |
 | Jesuits' Estates in Canada (1850, attribution uncertain) | excluded | |
+
+## Oliver Heywood (round 94, my pick, 2026-10-23)
+
+Slugs `heywood-*`. Built from title pages read for round 94.
+
+| Work | Status | Where |
+|---|---|---|
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 1 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo01heyw` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 2 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo02heyw` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 03 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo03heywuoft` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 04 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo04heywuoft` |
+| The whole works of the Rev. Oliver Heywood : including some Tracts extremely scarce, and others from unpublished Manuscripts ; with memoirs of his life, vol. 05 (Idle : [s.n.], 1825) | have-ocr | IA `wholeworksofrevo05heywuoft` |
+| Heart treasure : or, The furniture of the soul (Philadelphia : American Baptist Publication Society, 1852) | have-ocr | IA `hearttreasureorf00heyw` |
+| The Rev. Oliver Heywood, B.A., 1630-1702 : his autobiography, diaries, anecdote and event books : illustrating the general and family history of Yorkshire and Lancashire, vol. 3 (Brighouse : A.B. Bayes, 1881) | have-ocr | IA `revoliverheywood03heyw` |
+| the 1667-1701 first printings (Early English Books), whose texts are in the Whole Works; left for the EEBO first-editions work | excluded | |
+| The Nonconformist Register (a register of baptisms, marriages and deaths) | excluded | |
