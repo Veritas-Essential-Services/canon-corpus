@@ -11590,3 +11590,14 @@ Shelf: `pipeline/l-c-purser_shelf.json`. New shelf, round dw. Raw IA OCR, title 
 |---|---|---|---|
 | The Story of Cupid and Psyche as related by Apuleius, edited by Louis C. Purser (London: George Bell, 1910) |  | `l-c-purser-cupid-and-psyche-1910` | have-raw (IA `storyofcupidpsyc00apulrich`) |
 
+## J. U. Powell (1865-1932)
+
+Shelf: `pipeline/j-u-powell_shelf.json`. New shelf, round dx. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| New Chapters in the History of Greek Literature, recent discoveries in Greek poetry and prose of the fourth and following centuries B.C., edited by J. U. Powell and E. A. Barber (Oxford: Clarendon Press, 1921) |  | `j-u-powell-barber-new-chapters-1921` | have-raw (IA `cu31924022691343`) |
+| New Chapters in the History of Greek Literature, second series, some recent discoveries in Greek poetry and prose, chiefly of the fourth century B.C. and later times, edited by J. U. Powell and E. A. Barber (Oxford: Clarendon Press, 1929) |  | `j-u-powell-barber-new-chapters-2-1929` | have-raw (IA `newchaptersinhis0000powe_h1p0`) |
+
+Excluded: Euripides, Phoenissae (1911, IA euripidouphoini00euriuoft) (the scan OCRs the English as Greek letters (clean 0.000); revisit after the Greek re-OCR)
+
