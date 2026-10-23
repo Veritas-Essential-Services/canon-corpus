@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain Daniel Rowland (1713-1790), Welsh Calvinistic Methodist preacher of Llangeitho, for the Word Hoard: his English sermons, Eight Sermons upon Practical Subjects (1774) and Three Sermons upon Practical Subjects (1778), from Internet Archive scans of Eighteenth Century Collections. Added 2026-10-23 by lane A, round 50 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rowland",
+  "rowlands"
+ ],
+ "_surname": [
+  "daniel rowland",
+  "daniel rowlands",
+  "d. rowland",
+  "d. rowlands"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rowland-eight-sermons": [
+   "bim_eighteenth-century_eight-sermons-upon-prac_rowland-daniel_1774",
+   "Eight sermons, upon practical subjects; preached at the new church in Langeitho, South Wales; by the Rev. Mr. Daniel Rowland: and now attempted to be translated from the original British.  1774 (catalogued 1774)"
+  ],
+  "rowland-three-sermons": [
+   "bim_eighteenth-century_three-sermons-upon-pract_rowland-daniel_1778",
+   "Three sermons upon practical subjects, ... Preached at the New-church in Langeitho, South-Wales. By the Rev. Mr. Daniel Rowland, ... And now attempted to be translated from the original British. By the Rev. John Davies, ...  1778 (catalogued 1778)"
+  ]
+ },
+ "_alternates": {
+  "rowland-copies": "The second 1774 copy and the 1788 Eight Sermons"
+ },
+ "_excluded": {
+  "rowland-other": "Welsh-language sermons and hymns (1743-1792) left for Adam's ruling on Welsh; Owen's Memoir of Daniel Rowlands (1840, another author)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "rowland-eight-sermons": "title page read from the page image: 'Eight Sermons upon Practical Subjects, preached at the New Church in Langeitho, South Wales, by the Rev. Mr. Daniel Rowland, and now attempted to be translated from the original British. London: printed for the editor (Thomas Davies, Haverfordwest)' (OCR garbles the title page)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rowland-eight-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1774",
+   "ia_date": "1774",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rowland-three-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daniel rowland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

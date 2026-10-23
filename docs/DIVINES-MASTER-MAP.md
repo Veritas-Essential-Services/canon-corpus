@@ -11251,6 +11251,17 @@ Slugs `tcharles-*`. Built from title pages read for round 50.
 | Two letters, giving an account of a revival of religion in Wales.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_two-letters-giving-an-a_charles-thomas_1792` |
 | An evangelical catechism. By the Rev. T. Charles, ... Recommended by the executors of the late Countess of Huntingdon for all the children in their schools attendant on her chapels.  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_an-evangelical-catechism_charles-thomas_1797` |
 | Welsh-language works (Trysorfa Ysprydol 1799, the Geiriadur) left for Adam's ruling on Welsh; the 1816 Welsh life by Jones (another author) | excluded | |
+
+## Daniel Rowland (round 50, my pick, 2026-10-23)
+
+Slugs `rowland-*`. Built from title pages read for round 50.
+
+| Work | Status | Where |
+|---|---|---|
+| Eight sermons, upon practical subjects; preached at the new church in Langeitho, South Wales; by the Rev. Mr. Daniel Rowland: and now attempted to be translated from the original British.  1774 (catalogued 1774) | have-ocr | IA `bim_eighteenth-century_eight-sermons-upon-prac_rowland-daniel_1774` |
+| Three sermons upon practical subjects, ... Preached at the New-church in Langeitho, South-Wales. By the Rev. Mr. Daniel Rowland, ... And now attempted to be translated from the original British. By the Rev. John Davies, ...  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_three-sermons-upon-pract_rowland-daniel_1778` |
+| The second 1774 copy and the 1788 Eight Sermons | alternate | not shelved |
+| Welsh-language sermons and hymns (1743-1792) left for Adam's ruling on Welsh; Owen's Memoir of Daniel Rowlands (1840, another author) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
