@@ -19205,6 +19205,16 @@ Shelf: `pipeline/gustave-glotz_shelf.json`. Aegean civilization and Greek econom
 | The Aegean Civilization (1925), tr. M. R. Dobie and E. M. Riley |  | `glotz-aegean-civilization-1925` | have-raw (IA `geancivilization00glot`) |
 | Ancient Greece at Work: an Economic History of Greece from the Homeric Period to the Roman Conquest (1926), tr. M. R. Dobie |  | `glotz-ancient-greece-at-work-1926` | have-raw (IA `dli.ministry.09177`) |
 
+
+## Léon Homo (1872-1957)
+
+Shelf: `pipeline/leon-homo_shelf.json`. Primitive Italy, tr. Childe (1927), and Roman Political Institutions (1929). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Primitive Italy and the Beginnings of Roman Imperialism (1927), tr. V. Gordon Childe |  | `homo-primitive-italy-1927` | have-raw (IA `dli.ministry.18969`) |
+| Roman Political Institutions from City to State (1929), tr. M. R. Dobie |  | `homo-roman-political-institutions-1929` | have-raw (IA `dli.ernet.7961`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
