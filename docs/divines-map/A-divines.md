@@ -13117,3 +13117,21 @@ Slugs `ephammond-*`. Built from title pages read for round 67.
 | The conversion of children (New York : Funk & Wagnalls, 1882) | have-ocr | IA `conversionofchil00hamm` |
 | Early conversion (New York, J. S. Ogilvie publishing company, 1901) | have-ocr | IA `earlyconversion00hamm` |
 | Hymn and tune books he compiled (Hymns of Salvation, New Praises of Jesus, The Song Evangel); The Reaper and the Harvest (P. C. Headley's account of his work); Henry Hammond, on his own shelf | excluded | |
+
+## William Taylor (1821-1902) (round 67, my pick, 2026-10-23)
+
+Slugs `wtaylorbp-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Seven years' street preaching in San Francisco, California; embracing incidents, triumphant death scenes, etc (New York, The author, 1857) | have-ocr | IA `sevenyearsstree00tayl` |
+| California life illustrated (New York, Pub. for the author, by Carlton & Porter, 1858) | have-ocr | IA `californialifei04taylgoog` |
+| Model preacher: comprised in a series of letters illustrating the best mode of preaching the gospel (Cincinnati, Swormstedt & Poe, 1860) | have-ocr | IA `modelpreachercom00tayl` |
+| How to be saved and how to save the world, vol. 1 (Adelaide : Alfred Waddy, 1866) | have-ocr | IA `howtobesavedhowt00tayl` |
+| Christian adventures in South Africa (London : Jackson, Walford, and Hodder, 1867) | have-ocr | IA `christianadventu00tayl_0` |
+| The election of grace (London : Hodder and Stoughton ; New York : Nelson and Phillips, 1868) | have-ocr | IA `electionofgrace0000tayl` |
+| Reconciliation, or, How to be saved (London : S.W. Partridge ; New York : Nelson and Phillips, 1874) | have-ocr | IA `reconciliationor0000tayl` |
+| Infancy and manhood of Christian life (London : S.W. Partridge ; New York : Nelson and Phillips, 1875) | have-ocr | IA `infancymanhoodof0000tayl` |
+| Four years' campaign in India (New York : Nelson & Phillips, 1875) | have-ocr | IA `cu31924022906006` |
+| Our South American cousins (New York, Nelson and Phillips; London, Hodder and Stoughton, 1878) | have-ocr | IA `cu31924021167378` |
+| Other William Taylors (of Norwich, the arithmetic teachers); William M. Taylor of New York (his own shelf) | excluded | |
