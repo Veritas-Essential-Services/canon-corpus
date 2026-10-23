@@ -1,0 +1,32 @@
+{
+ "_about": "William Stebbing, Hon. Fellow of Worcester College, Oxford, biographer of Ralegh, raw IA OCR of his English verse renderings of Latin poetry (1920); not Susan Stebbing, whose shelf is susan-stebbing. Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "William Stebbing",
+ "_name_words": [
+  "stebbing"
+ ],
+ "_surname": [
+  "william stebbing"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-stebbing-some-masterpieces-of-latin-poetry-1920": [
+   "cu31924026922967",
+   "Some Masterpieces of Latin Poetry, thought into English verse by William Stebbing (London: T. Fisher Unwin, first published 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-stebbing-some-masterpieces-of-latin-poetry-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william stebbing",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
