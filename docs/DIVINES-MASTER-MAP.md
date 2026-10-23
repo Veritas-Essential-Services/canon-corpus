@@ -16930,6 +16930,21 @@ Slugs `wdsnodgrass-*`. Built from title pages read for round 108.
 | Perfect sanctification : an article from the Princeton review for July, 1842 (Princeton, N.J. : Printed by John T. Robinson, 1842) | have-ocr | IA `perfectsanctific00snod` |
 | Discourses on the Apostolical Succession (1844), IA discoursesonap00snod: text file returned a server error | pending | not shelved |
 | discoursesdelive00murr (Murray Street Church discourses by several ministers) | excluded | |
+
+## William Snodgrass (round 108, my pick, 2026-10-23)
+
+Slugs `wsnodgrass-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| An address delivered at the inauguration of the Charlottetown Young Men's Christian Association : on the evening of February 6, 1856 ([Charlottetown, P.E.I.? : s.n.], 1856) | have-ocr | IA `cihm_41778` |
+| A Sermon, preached on the 1st March, 1857, being the first Sabbath after the funeral of Hew Ramsay, Esq (Montreal : Printed by John Lovell, 1857) | have-ocr | IA `sermonpreachedon00snod` |
+| Night of death : a sermon, preached on the 7th Oct., 1860, being the first Sabbath after the funeral of the Honourable Peter M'Gill (Montreal : Printed by Owler and Stevenson, 1860) | have-ocr | IA `nightofdeathserm00snod` |
+| The good centurion, an example for Scotchmen in Canada (Montreal, Becket, 1862) | have-ocr | IA `goodcenturionexa00snod` |
+| The two builders, or, The conclusion of the matter ([Montreal? : s.n.], 1863) | have-ocr | IA `cihm_43040` |
+| The sacredness of learning; address delivered at the opening of session 1864-65, Queen's college (Kingston, [s.n.], 1864) | have-ocr | IA `sacrednessoflear00snod` |
+| A minister's farewell (Montreal, Printed by J. Lovell, 1864) | have-ocr | IA `ministersfarewel00snod` |
+| The sanctification and apostolical-succession books are by William D. Snodgrass of New York (his own shelf) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
