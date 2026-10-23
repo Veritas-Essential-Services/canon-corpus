@@ -13017,3 +13017,35 @@ Shelf: `pipeline/francis-lynde_shelf.json` (2026-10-22; added at the coordinator
 | The tenderfoots | have | PG 73462, `flynde-tenderfoots` (2127 units) |
 | The Donovan chance | have | PG 74848, `flynde-donovan-chance` (1367 units) |
 | The golden spider | have | PG 75002, `flynde-golden-spider` (1258 units) |
+
+## Richard Marsh
+
+Shelf: `pipeline/richard-marsh_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian thrillers and supernatural tales. Every English text under the name at Gutenberg that no other shelf holds (25 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Beetle: A Mystery | have | PG 5164, `rmarsh-beetle` (3171 units) |
+| Miss Arnott's Marriage | have | PG 37963, `rmarsh-miss-arnotts-marriage` (2382 units) |
+| Between the Dark and the Daylight | have | PG 37966, `rmarsh-between-the-dark-and-the-daylight` (2136 units) |
+| A Duel | have | PG 38054, `rmarsh-duel` (2471 units) |
+| A Second Coming | have | PG 38156, `rmarsh-second-coming` (1784 units) |
+| A Hero of Romance | have | PG 38160, `rmarsh-hero-of-romance` (2111 units) |
+| A Master of Deception | have | PG 38161, `rmarsh-master-of-deception` (2164 units) |
+| A Woman Perfected | have | PG 38181, `rmarsh-woman-perfected` (2612 units) |
+| Amusement Only | have | PG 38188, `rmarsh-amusement-only` (2628 units) |
+| The Coward Behind the Curtain | have | PG 40347, `rmarsh-coward-behind-the-curtain` (1646 units) |
+| The Crime and the Criminal | have | PG 40348, `rmarsh-crime-and-the-criminal` (3561 units) |
+| The Chase of the Ruby | have | PG 40349, `rmarsh-chase-of-the-ruby` (1544 units) |
+| The Datchet Diamonds | have | PG 40353, `rmarsh-datchet-diamonds` (1416 units) |
+| Confessions of a Young Lady: Her Doings and Misdoings | have | PG 40354, `rmarsh-confessions-of-a-young-lady` (2632 units) |
+| The Woman with One Hand, and Mr. Ely's Engagement | have | PG 40449, `rmarsh-woman-with-one-hand-and-mr-elys-engagement` (1740 units) |
+| Violet Forster's Lover | have | PG 40450, `rmarsh-violet-forsters-lover` (2194 units) |
+| Under One Flag | have | PG 40451, `rmarsh-under-one-flag` (2214 units) |
+| The Twickenham Peerage | have | PG 40452, `rmarsh-twickenham-peerage` (3110 units) |
+| Tom Ossington's Ghost | have | PG 40453, `rmarsh-tom-ossingtons-ghost` (1439 units) |
+| Frivolities, Especially Addressed to Those Who Are Tired of Being Serious | have | PG 40454, `rmarsh-frivolities-especially-addressed-to-those-who-are-tir` (2111 units) |
+| The goddess: a demon | have | PG 64930, `rmarsh-goddess` (2061 units) |
+| The Magnetic Girl | have | PG 64957, `rmarsh-magnetic-girl` (1465 units) |
+| The Joss: A Reversion | have | PG 64997, `rmarsh-joss` (2343 units) |
+| Expelled | have | PG 76920, `rmarsh-expelled` (1426 units) |
+| Judith Lee | have | PG 79142, `rmarsh-judith-lee` (2087 units) |

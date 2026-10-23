@@ -1713,3 +1713,6 @@
 
 ## 2026-10-22 22:11 CDT — francis-lynde: done
 - francis-lynde: new shelf, 26 Gutenberg books, 50,415 units, 105 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:12 CDT — richard-marsh: done
+- richard-marsh: new shelf, 25 Gutenberg books, 54,448 units, 1206 ~2 ids; verify 0 mismatches, 0 rights flags.

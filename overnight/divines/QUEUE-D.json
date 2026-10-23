@@ -3813,6 +3813,14 @@
       "started": "2026-10-22T22:11:59-05:00",
       "finished": "2026-10-22T22:11:59-05:00",
       "notes": "francis-lynde: new shelf, 26 Gutenberg books, 50,415 units, 105 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "richard-marsh",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Richard Marsh; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:12:21-05:00",
+      "finished": "2026-10-22T22:12:21-05:00",
+      "notes": "richard-marsh: new shelf, 25 Gutenberg books, 54,448 units, 1206 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
