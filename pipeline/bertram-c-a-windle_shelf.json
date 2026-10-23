@@ -1,0 +1,34 @@
+{
+ "_about": "Sir Bertram Windle (1858-1929), anatomist and antiquary: The Romans in Britain (1923). His science and Catholic apologetics are outside lane B. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Sir Bertram Coghill Alan Windle (1858-1929)",
+ "_name_words": [
+  "windle",
+  "romans",
+  "britain"
+ ],
+ "_surname": [
+  "windle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "windle-romans-in-britain-1923": [
+   "romansinbritain0000wind",
+   "The Romans in Britain (1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "windle-romans-in-britain-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "windle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

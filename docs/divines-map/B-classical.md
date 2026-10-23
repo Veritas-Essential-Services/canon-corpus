@@ -10083,3 +10083,12 @@ Shelf: `pipeline/j-w-headlam_shelf.json`. Election by Lot at Athens (1891). Not 
 |---|---|---|---|
 | Election by Lot at Athens (1891) |  | `headlam-election-by-lot-1891` | have-raw (IA `electionbylotat00headgoog`) |
 
+
+## Sir Bertram Windle (1858-1929)
+
+Shelf: `pipeline/bertram-c-a-windle_shelf.json`. The Romans in Britain (1923). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Romans in Britain (1923) |  | `windle-romans-in-britain-1923` | have-raw (IA `romansinbritain0000wind`) |
+
