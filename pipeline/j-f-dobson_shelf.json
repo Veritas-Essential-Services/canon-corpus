@@ -1,0 +1,35 @@
+{
+ "_about": "J. F. Dobson (1875-1947), Bristol: The Greek Orators (Methuen, 1919). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "John Frederic Dobson (1875-1947)",
+ "_name_words": [
+  "dobson",
+  "john",
+  "frederic",
+  "greek",
+  "orators"
+ ],
+ "_surname": [
+  "j. f. dobson",
+  "john frederic dobson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dobson-greek-orators-1919": [
+   74925,
+   "The Greek Orators (London: Methuen, 1919)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "dobson-greek-orators-1919": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. f. dobson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

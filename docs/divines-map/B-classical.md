@@ -10613,3 +10613,12 @@ Shelf: `pipeline/hubert-j-treston_shelf.json`. Poine: A Study in Ancient Greek B
 |---|---|---|---|
 | Poine: A Study in Ancient Greek Blood-Vengeance (London: Longmans, 1923) |  | `treston-poine-1923` | have (PG 69344) |
 
+
+## John Frederic Dobson (1875-1947)
+
+Shelf: `pipeline/j-f-dobson_shelf.json`. The Greek Orators (London: Methuen, 1919). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Greek Orators (London: Methuen, 1919) |  | `dobson-greek-orators-1919` | have (PG 74925) |
+
