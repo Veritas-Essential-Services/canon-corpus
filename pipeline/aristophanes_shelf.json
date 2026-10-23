@@ -358,5 +358,8 @@
  },
  "_rights_checked": {
   "aristophanes-frere-frogs-everyman-1911": "Everyman's Library, first issued 1911, this printing 1922 ('Reprinted 1917, 1922'): US PD by date. Every translator named (Frere d. 1846, Hickie, Mitchell, Cumberland) is nineteenth-century or earlier, and the introduction is Frere's own 1820 essay. The only other text is an unsigned short bibliography of English translations (the series is 'edited by Ernest Rhys'); UK status of that note was not checked"
+ },
+ "_held": {
+  "aristophanes-perseus-hickie-clouds": "same translation as a clean Gutenberg copy already on this shelf; Perseus TEI tlg0019.tlg003.perseus-eng2 (Clouds, tr. William James Hickie) is not taken as a second witness (2026-10-23 audit, per the 2026-10-02 review rule)"
  }
 }
