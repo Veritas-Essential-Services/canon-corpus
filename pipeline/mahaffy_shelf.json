@@ -1,5 +1,5 @@
 {
- "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR. Round du (2026-10-23), raw IA: his translation of Kuno Fischer's Commentary on Kant's Critick (1866), Kant's Critical Philosophy for English Readers vol. I with J. H. Bernard (1889; vol. II, the Prolegomena translated, is on the kant shelf), Twelve Lectures on Primitive Civilizations (1869), the Euripides primer (1879), Old Greek Life (1880), Greek Antiquities (1889 printing), Alexander's Empire (1887), Greek Pictures (1890), the Flinders Petrie Papyri I-II (1891, 1893), The Empire of the Ptolemies (1895), A Survey of Greek Civilization (1897), A History of Egypt under the Ptolemaic Dynasty (1899). Not taken: The Decay of Modern Preaching (1882), outside the classical brief.",
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR. Round du (2026-10-23), raw IA: Kant's Critical Philosophy for English Readers vol. I with J. H. Bernard (1889; vol. II, the Prolegomena translated, is on the kant shelf), Twelve Lectures on Primitive Civilizations (1869), the Euripides primer (1879), Old Greek Life (1880), Greek Antiquities (1889 printing), Alexander's Empire (1887), Greek Pictures (1890), the Flinders Petrie Papyri I-II (1891, 1893), The Empire of the Ptolemies (1895), A Survey of Greek Civilization (1897), A History of Egypt under the Ptolemaic Dynasty (1899). Not taken: his translation of Kuno Fischer's Commentary on Kant's Critick (1866), already on the kuno-fischer shelf; The Decay of Modern Preaching (1882), outside the classical brief.",
  "_name_words": [
   "mahaffy"
  ],
@@ -52,10 +52,6 @@
   "mahaffy-greek-world-roman-sway-1890": [
    "greekworldunder01mahagoog",
    "The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890)"
-  ],
-  "mahaffy-fischer-commentary-kant-1866": [
-   "acommentaryonka00mahagoog",
-   "A Commentary on Kant's Critick of the Pure Reason, translated from the History of Modern Philosophy of Kuno Fischer, with an introduction, by John Pentland Mahaffy (London: Longmans, Green, 1866)"
   ],
   "mahaffy-twelve-lectures-primitive-civilizations-1869": [
    "twelvelectureson00maharich",
@@ -215,17 +211,6 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   },
-  "mahaffy-fischer-commentary-kant-1866": {
-   "kind": "ia",
-   "checked": "2026-10-23",
-   "name_check": "surname",
-   "author_seen": null,
-   "identity": "identity_override",
-   "ia_rights": "ok: published 1866",
-   "ia_date": "1866",
-   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-   "ia_lending": null
-  },
   "mahaffy-twelve-lectures-primitive-civilizations-1869": {
    "kind": "ia",
    "checked": "2026-10-23",
@@ -362,10 +347,6 @@
  "_identity_checked": {
   "mahaffy-classical-greek-literature-v2-1880": {
    "author": "title page read 2026-10-10: OCR gives 'REV. J?°P*MAHAFFY, M.A. FELLOW AND PROFESSOR OF ANCIENT HISTORY, TRINITY COLLEGE, DUBLIN', in two volumes, vol. II, Harper 1880 (J. P. Mahaffy); stray marks defeat the surname test"
-  },
-  "mahaffy-fischer-commentary-kant-1866": {
-   "author": "title page OCRs the name as 'JOHN PENTLAOT) MAHAFFY, A.M., PELLOW AND TUTOR OF TRINITY COLLEGE, DUBLIX' (Longmans, Green, 1866), under 'TRANSLATED FROM THE HISTORY OF MODERN PHILOSOPHY, BT PROFESSOR KUNO FISCHER, OF JENA'",
-   "translator": "same title-page reading: Mahaffy is the translator of Fischer's text"
   },
   "mahaffy-euripides-classical-writers-1879": {
    "author": "title page OCRs the name as 'j..P, MAHAFFY, AM, FELLOW OF TRINITY COLLEGE AND PROFESSOR OF ANCIENT HISTORY IN THE UNIVERSITY OF DUBLIN' (Classical Writers, ed. John Richard Green; Macmillan, 1879)"

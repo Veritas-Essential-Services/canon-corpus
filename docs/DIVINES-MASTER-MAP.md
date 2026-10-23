@@ -12321,7 +12321,6 @@ Shelf: `pipeline/mahaffy_shelf.json`. John Pentland Mahaffy (1839-1919), Trinity
 | A History of Classical Greek Literature, vol. II, The Prose Writers (New York: Harper, 1880) |  | `mahaffy-classical-greek-literature-v2-1880` | have-raw (IA `historyofclassi02maha`) |
 | Prolegomena to Ancient History (London: Longmans, Green, 1871) |  | `mahaffy-prolegomena-ancient-history-1871` | have-raw (IA `prolegomenatoanc00maharich`) |
 | The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890) |  | `mahaffy-greek-world-roman-sway-1890` | have-raw (IA `greekworldunder01mahagoog`) |
-| A Commentary on Kant's Critick of the Pure Reason, translated from the History of Modern Philosophy of Kuno Fischer, with an introduction, by John Pentland Mahaffy (London: Longmans, Green, 1866) |  | `mahaffy-fischer-commentary-kant-1866` | have-raw (IA `acommentaryonka00mahagoog`) |
 | Twelve Lectures on Primitive Civilizations and their Physical Conditions, delivered at the Alexandra College (London: Longmans, Green, 1869) |  | `mahaffy-twelve-lectures-primitive-civilizations-1869` | have-raw (IA `twelvelectureson00maharich`) |
 | Euripides (Classical Writers, ed. J. R. Green; London: Macmillan, 1879) |  | `mahaffy-euripides-classical-writers-1879` | have-raw (IA `dli.ministry.12605`) |
 | Old Greek Life (History Primers; London: Macmillan, 1880) |  | `mahaffy-old-greek-life-1880` | have-raw (IA `oldgreeklife00maha`) |
@@ -19802,7 +19801,6 @@ Shelf: `pipeline/j-w-mccrindle_shelf.json`. Classical writers on India in transl
 |---|---|---|---|
 | Ancient India as Described by Ktesias the Knidian (1882) |  | `mccrindle-ktesias-1882` | have-raw (IA `dli.ministry.00252`) |
 | Ancient India as Described by Ptolemy (1885) |  | `mccrindle-ptolemy-1885` | have-raw (IA `ancientindiaasd00mccrgoog`) |
-| The Commerce and Navigation of the Erythraean Sea (1879; 1966 xerographic reprint) |  | `mccrindle-erythraean-sea-1879` | have-raw (IA `commercenavigati00mccruoft`) |
 | The Christian Topography of Cosmas, an Egyptian Monk (Hakluyt Society, 1897) |  | `mccrindle-cosmas-christian-topography-1897` | have-raw (IA `in.ernet.dli.2015.47307`) |
 | Ancient India as Described in Classical Literature (1901) |  | `mccrindle-ancient-india-classical-literature-1901` | have-raw (IA `in.ernet.dli.2015.279542`) |
 
@@ -19862,7 +19860,6 @@ Shelf: `pipeline/martin-p-nilsson_shelf.json`. Time-reckoning (1920) and Minoan-
 
 | Work | Author | Slug | Status |
 |---|---|---|---|
-| Primitive Time-Reckoning (1920), tr. F. J. Fielden |  | `nilsson-primitive-time-reckoning-1920` | have-raw (IA `primitivetimerec00nilsrich`) |
 | The Minoan-Mycenaean Religion and its Survival in Greek Religion (1927) |  | `nilsson-minoan-mycenaean-religion-1927` | have-raw (IA `minoanmycenaeanr0000nils`) |
 
 
@@ -19901,14 +19898,6 @@ Shelf: `pipeline/w-r-halliday_shelf.json`. Roman religion from Numa to Augustus 
 |---|---|---|---|
 | Lectures on the History of Roman Religion from Numa to Augustus (1922) |  | `halliday-roman-religion-1922` | have-raw (IA `lecturesonhistor00halluoft`) |
 
-
-## A. B. Drachmann (1860-1935)
-
-Shelf: `pipeline/a-b-drachmann_shelf.json`. Atheism in Pagan Antiquity (1922). Not minted. Not minted.
-
-| Work | Author | Slug | Status |
-|---|---|---|---|
-| Atheism in Pagan Antiquity (1922), tr. Ingeborg Andersen |  | `drachmann-atheism-pagan-antiquity-1922` | have-raw (IA `atheisminpaganan0000abdr`) |
 
 
 ## Bernard P. Grenfell (1869-1926) and Arthur S. Hunt (1871-1934)
