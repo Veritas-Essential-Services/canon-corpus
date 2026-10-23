@@ -1,0 +1,40 @@
+{
+ "_about": "A. B. Drachmann (1860-1935), Copenhagen classicist: Atheism in Pagan Antiquity (1922), English translation by Ingeborg Andersen revised by the author. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Anders Bjørn Drachmann (1860-1935)",
+ "_name_words": [
+  "drachmann",
+  "atheism",
+  "pagan",
+  "antiquity"
+ ],
+ "_surname": [
+  "drachmann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "drachmann-atheism-pagan-antiquity-1922": [
+   "atheisminpaganan0000abdr",
+   "Atheism in Pagan Antiquity (1922), tr. Ingeborg Andersen"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "drachmann-atheism-pagan-antiquity-1922": "Andersen"
+ },
+ "_checks": {
+  "drachmann-atheism-pagan-antiquity-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "drachmann",
+   "translator_claimed": "Andersen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

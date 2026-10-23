@@ -19687,6 +19687,15 @@ Shelf: `pipeline/w-r-halliday_shelf.json`. Roman religion from Numa to Augustus 
 |---|---|---|---|
 | Lectures on the History of Roman Religion from Numa to Augustus (1922) |  | `halliday-roman-religion-1922` | have-raw (IA `lecturesonhistor00halluoft`) |
 
+
+## A. B. Drachmann (1860-1935)
+
+Shelf: `pipeline/a-b-drachmann_shelf.json`. Atheism in Pagan Antiquity (1922). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Atheism in Pagan Antiquity (1922), tr. Ingeborg Andersen |  | `drachmann-atheism-pagan-antiquity-1922` | have-raw (IA `atheisminpaganan0000abdr`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
