@@ -19022,3 +19022,106 @@ Shelf: `pipeline/storytellers-tail-01_shelf.json` (2026-10-22; added at the coor
 | Caprice | have | PG 70073, `rfirbank-caprice` (1662 units) |
 | pg-58800 | excluded | PG 58800: a second Gutenberg edition of David Belasco's The Girl of the Golden West. |
 | pg-46830 | excluded | PG 46830: a second Gutenberg edition of Michael Fairless's The Roadmender. |
+
+## Storytellers' tail, group 2 (24 authors)
+
+Shelf: `pipeline/storytellers-tail-02_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 24 authors with 4 Gutenberg texts each: James Fiske, James Elroy Flecker, Homer Eon Flint, Perceval Gibbon, Sutton E. Griggs, Cosmo Hamilton, Sidford F. Hamp, Henry Sydnor Harrison, Joseph Hatton, Francis L. Hawks, Herbert Hayens, Violet Hunt, Malcolm Jameson, Edgar Jepson, James Johonnot, Coulson Kernahan, George A. Lawrence, Will Lillibridge, Nelson Lloyd, Charles Battell Loomis, Crittenden Marriott, Charles Robert Maturin, Charles Clark Munn, John R. Musick. Every English text under the name at Gutenberg that no other shelf holds (96 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Belgians to the Front | have | PG 18838, `jfiske-belgians-to-the-front` (884 units) |
+| Facing the German Foe | have | PG 19957, `jfiske-facing-the-german-foe` (943 units) |
+| Shelled by an Unseen Foe | have | PG 21787, `jfiske-shelled-by-an-unseen-foe` (858 units) |
+| Under Fire For Servia | have | PG 33480, `jfiske-under-fire-for-servia` (963 units) |
+| Forty-Two Poems | have | PG 3039, `jeflecker-forty-two-poems` (288 units) |
+| Hassan : the story of Hassan of Bagdad, and how he came to make the golden journey to Samarkand : a play in five acts | have | PG 3834, `jeflecker-hassan` (1205 units) |
+| The Last Generation: A Story of the Future | have | PG 32769, `jeflecker-last-generation` (218 units) |
+| The King of Alsander | have | PG 41460, `jeflecker-king-of-alsander` (1447 units) |
+| The Blind Spot | have | PG 4920, `heflint-blind-spot` (3136 units) |
+| The Emancipatrix | have | PG 5699, `heflint-emancipatrix` (827 units) |
+| The Lord of Death and the Queen of Life | have | PG 5703, `heflint-lord-of-death-and-the-queen-of-life` (1123 units) |
+| The Devolutionist and the Emancipatrix | have | PG 5965, `heflint-devolutionist-and-the-emancipatrix` (1715 units) |
+| The Second Class Passenger: Fifteen Stories | have | PG 17932, `pgibbon-second-class-passenger` (2316 units) |
+| Vrouw Grobelaar and Her Leading Cases: Seventeen Short Stories | have | PG 20355, `pgibbon-vrouw-grobelaar-and-her-leading-cases` (1224 units) |
+| Those Who Smiled, and Eleven Other Stories | have | PG 23993, `pgibbon-those-who-smiled-and-eleven-other-stories` (2069 units) |
+| Flower o' the Peach | have | PG 44195, `pgibbon-flower-o-the-peach` (2837 units) |
+| Imperium in Imperio: A Study of the Negro Race Problem. A Novel | have | PG 15454, `segriggs-imperium-in-imperio` (883 units) |
+| The hindered hand | have | PG 24577, `segriggs-hindered-hand` (1566 units) |
+| Overshadowed: A Novel | have | PG 36033, `segriggs-overshadowed` (621 units) |
+| Unfettered: A Novel | have | PG 38830, `segriggs-unfettered` (987 units) |
+| Who Cares? A Story of Adolescence | have | PG 3641, `chamilton-who-cares-a-story-of-adolescence` (1733 units) |
+| The Rustle of Silk | have | PG 35079, `chamilton-rustle-of-silk` (1463 units) |
+| The Sins of the Children: A Novel | have | PG 37664, `chamilton-sins-of-the-children` (1567 units) |
+| Scandal | have | PG 50317, `chamilton-scandal` (1969 units) |
+| The Boys of Crawford's Basin The Story of a Mountain Ranch in the Early Days of Colorado | have | PG 26434, `sfhamp-boys-of-crawford-s-basin-the-story-of-a-mountain-ranc` (1458 units) |
+| The Trail of The Badger: A Story of the Colorado Border Thirty Years Ago | have | PG 43989, `sfhamp-trail-of-the-badger` (1486 units) |
+| Coco Bolo: King of the Floating Islands | have | PG 63075, `sfhamp-coco-bolo` (681 units) |
+| The treasure of Mushroom Rock | have | PG 74105, `sfhamp-treasure-of-mushroom-rock` (1354 units) |
+| Captivating Mary Carstairs | have | PG 9993, `hsharrison-captivating-mary-carstairs` (2274 units) |
+| V. V.'s Eyes | have | PG 13985, `hsharrison-v-v-s-eyes` (4399 units) |
+| Queed: A Novel | have | PG 14303, `hsharrison-queed` (3180 units) |
+| Angela's Business | have | PG 34297, `hsharrison-angela-s-business` (2392 units) |
+| Henry Irving's Impressions of America Narrated in a Series of Sketches, Chronicles, and Conversations | have | PG 52357, `jhatton-henry-irving-s-impressions-of-america-narrated-in-a` (1768 units) |
+| The Tallants of Barton, vol. 1 (of 3) | have | PG 70686, `jhatton-tallants-of-barton-vol-1-of-3` (1077 units) |
+| The Tallants of Barton, vol. 2 (of 3) : A tale of fortune and finance | have | PG 70822, `jhatton-tallants-of-barton-vol-2-of-3` (897 units) |
+| The Tallants of Barton, vol. 3 (of 3) | have | PG 70827, `jhatton-tallants-of-barton-vol-3-of-3` (939 units) |
+| The Girl's Cabinet of Instructive and Moral Stories | have | PG 10915, `flhawks-girl-s-cabinet-of-instructive-and-moral-stories` (38 units) |
+| The Adventures of Daniel Boone: the Kentucky rifleman | have | PG 27431, `flhawks-adventures-of-daniel-boone` (260 units) |
+| Natural History Or, Uncle Philip's Conversations with the Children about Tools and Trades among Inferior Animals | have | PG 44377, `flhawks-natural-history-or-uncle-philip-s-conversations-with` (743 units) |
+| The adventures of Hernan Cortes, the conqueror of Mexico | have | PG 49760, `flhawks-adventures-of-hernan-cortes-the-conqueror-of-mexico` (287 units) |
+| At the Point of the Sword | have | PG 22595, `hhayens-at-the-point-of-the-sword` (2828 units) |
+| My Sword's My Fortune: A Story of Old France | have | PG 27325, `hhayens-my-sword-s-my-fortune` (2847 units) |
+| The Red, White, and Green | have | PG 40137, `hhayens-red-white-and-green` (3688 units) |
+| The Gayton Scholarship: A School Story | have | PG 46020, `hhayens-gayton-scholarship` (1364 units) |
+| The Celebrity at Home | have | PG 41556, `vhunt-celebrity-at-home` (1416 units) |
+| The Human Interest: A Study in Incompatibilities | have | PG 58526, `vhunt-human-interest` (1651 units) |
+| The Cat | have | PG 67785, `vhunt-cat` (889 units) |
+| Tales of the uneasy | have | PG 78605, `vhunt-tales-of-the-uneasy` (1959 units) |
+| If You're Smart— | have | PG 61498, `mjameson-if-you-re-smart` (126 units) |
+| 4-1/2B, Eros | have | PG 61863, `mjameson-4-1-2b-eros` (184 units) |
+| Stellar Showboat | have | PG 62255, `mjameson-stellar-showboat` (216 units) |
+| The giftie gien | have | PG 69667, `mjameson-giftie-gien` (124 units) |
+| The Loudwater Mystery | have | PG 9808, `ejepson-loudwater-mystery` (1608 units) |
+| The Admirable Tinker Child of the World | have | PG 19010, `ejepson-admirable-tinker-child-of-the-world` (1377 units) |
+| The Terrible Twins | have | PG 19043, `ejepson-terrible-twins` (1655 units) |
+| Happy Pollyooly: The Rich Little Poor Girl | have | PG 19310, `ejepson-happy-pollyooly` (1737 units) |
+| Ten Great Events in History | have | PG 8507, `jjohonnot-ten-great-events-in-history` (611 units) |
+| Friends in Feathers and Fur, and Other Neighbors: For Young Folks | have | PG 28077, `jjohonnot-friends-in-feathers-and-fur-and-other-neighbors` (735 units) |
+| Stories of Heroic Deeds for Boys and Girls Historical Series - Book II | have | PG 47764, `jjohonnot-stories-of-heroic-deeds-for-boys-and-girls-histori` (433 units) |
+| Book of cats and dogs, and other friends, for little folks | have | PG 69242, `jjohonnot-book-of-cats-and-dogs-and-other-friends-for-little` (489 units) |
+| In good company | have | PG 51572, `ckernahan-in-good-company` (1040 units) |
+| Captain Shannon | have | PG 72825, `ckernahan-captain-shannon` (822 units) |
+| A dead man's diary | have | PG 72971, `ckernahan-dead-man-s-diary` (374 units) |
+| The Dumpling | have | PG 73740, `ckernahan-dumpling` (1018 units) |
+| Guy Livingstone; or, 'Thorough' | have | PG 17084, `galawrence-guy-livingstone` (1441 units) |
+| Sword and Gown: A Novel | have | PG 19121, `galawrence-sword-and-gown` (734 units) |
+| Border and Bastille | have | PG 19705, `galawrence-border-and-bastille` (537 units) |
+| Barren Honour: A Novel | have | PG 34616, `galawrence-barren-honour` (1181 units) |
+| Where the Trail Divides | have | PG 11683, `wlillibridge-where-the-trail-divides` (1425 units) |
+| Ben Blair The Story of a Plainsman | have | PG 17844, `wlillibridge-ben-blair-the-story-of-a-plainsman` (2203 units) |
+| The Dominant Dollar | have | PG 27857, `wlillibridge-dominant-dollar` (2237 units) |
+| A Breath of Prairie and other stories | have | PG 29245, `wlillibridge-breath-of-prairie-and-other-stories` (2091 units) |
+| The Soldier of the Valley | have | PG 17156, `nlloyd-soldier-of-the-valley` (1265 units) |
+| David Malcolm | have | PG 23741, `nlloyd-david-malcolm` (1110 units) |
+| The Chronic Loafer | have | PG 54572, `nlloyd-chronic-loafer` (1320 units) |
+| Mrs. Radigan: Her Biography, with that of Miss Pearl Veal, and the Memoirs of J. Madison Mudison | have | PG 55678, `nlloyd-mrs-radigan` (825 units) |
+| Just Irish | have | PG 40465, `cbloomis-just-irish` (691 units) |
+| Minerva's Manoeuvres: The Cheerful Facts of a "Return to Nature" | have | PG 56872, `cbloomis-minerva-s-manoeuvres` (2618 units) |
+| Araminta and the Automobile | have | PG 63009, `cbloomis-araminta-and-the-automobile` (268 units) |
+| The Four-Masted Cat-Boat, and Other Truthful Tales | have | PG 63863, `cbloomis-four-masted-cat-boat-and-other-truthful-tales` (793 units) |
+| The ward of Tecumseh | have | PG 69052, `cmarriott-ward-of-tecumseh` (1403 units) |
+| The isle of dead ships | have | PG 69065, `cmarriott-isle-of-dead-ships` (1033 units) |
+| Via Berlin | have | PG 69244, `cmarriott-via-berlin` (1235 units) |
+| Out of Russia | have | PG 71328, `cmarriott-out-of-russia` (1407 units) |
+| Melmoth the Wanderer, Vol. 1 | have | PG 53685, `crmaturin-melmoth-the-wanderer-vol-1` (248 units) |
+| Melmoth the Wanderer, Vol. 2 | have | PG 53686, `crmaturin-melmoth-the-wanderer-vol-2` (163 units) |
+| Melmoth the Wanderer, Vol. 3 | have | PG 53687, `crmaturin-melmoth-the-wanderer-vol-3` (345 units) |
+| Melmoth the Wanderer, Vol. 4 | have | PG 53688, `crmaturin-melmoth-the-wanderer-vol-4` (538 units) |
+| Pocket Island: A Story of Country Life in New England | have | PG 20057, `ccmunn-pocket-island` (635 units) |
+| Uncle Terry: A Story of the Maine Coast | have | PG 28446, `ccmunn-uncle-terry` (1304 units) |
+| Rockhaven | have | PG 33787, `ccmunn-rockhaven` (1401 units) |
+| The Girl From Tim's Place | have | PG 34202, `ccmunn-girl-from-tim-s-place` (1848 units) |
+| Sustained honor: The Age of Liberty Established | have | PG 10370, `jrmusick-sustained-honor` (2488 units) |
+| A Century Too Soon: The Age of Tyranny | have | PG 10387, `jrmusick-century-too-soon` (2140 units) |
+| The Witch of Salem; or, Credulity Run Mad | have | PG 26282, `jrmusick-witch-of-salem` (2511 units) |
+| Brother Against Brother; or, The Tompkins Mystery. A Story of the Great American Rebellion. | have | PG 40541, `jrmusick-brother-against-brother` (2538 units) |
