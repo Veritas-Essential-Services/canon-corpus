@@ -1,0 +1,99 @@
+{
+ "_about": "Paul Laurence Dunbar: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Paul Laurence Dunbar",
+ "_name_words": [
+  "dunbar",
+  "laurence",
+  "paul"
+ ],
+ "_surname": [
+  "paul laurence dunbar",
+  "dunbar"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pldunbar-strength-of-gideon-and-other-stories": [
+   15886,
+   "The Strength of Gideon and Other Stories"
+  ],
+  "pldunbar-sport-of-the-gods": [
+   17854,
+   "The Sport of the Gods"
+  ],
+  "pldunbar-complete-poems-of-paul-laurence-dunbar": [
+   18338,
+   "The Complete Poems of Paul Laurence Dunbar"
+  ],
+  "pldunbar-heart-of-happy-hollow": [
+   24716,
+   "The heart of Happy Hollow"
+  ],
+  "pldunbar-uncalled": [
+   25171,
+   "The uncalled"
+  ],
+  "pldunbar-folks-from-dixie": [
+   74993,
+   "Folks from Dixie"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "pldunbar-strength-of-gideon-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul laurence dunbar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pldunbar-sport-of-the-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul laurence dunbar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pldunbar-complete-poems-of-paul-laurence-dunbar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul laurence dunbar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pldunbar-heart-of-happy-hollow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul laurence dunbar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pldunbar-uncalled": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul laurence dunbar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pldunbar-folks-from-dixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul laurence dunbar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

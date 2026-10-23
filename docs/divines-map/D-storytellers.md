@@ -18136,3 +18136,16 @@ Shelf: `pipeline/leo-edwards_shelf.json` (2026-10-22; added at the coordinator's
 | Poppy Ott and the galloping snail | have | PG 71367, `ledwards-poppy-ott-and-the-galloping-snail` (1634 units) |
 | Poppy Ott and the stuttering parrot | have | PG 75550, `ledwards-poppy-ott-and-the-stuttering-parrot` (1813 units) |
 | Jerry Todd and the rose-colored cat | have | PG 77687, `ledwards-jerry-todd-and-the-rose-colored-cat` (1843 units) |
+
+## Paul Laurence Dunbar
+
+Shelf: `pipeline/paul-laurence-dunbar_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Strength of Gideon and Other Stories | have | PG 15886, `pldunbar-strength-of-gideon-and-other-stories` (1516 units) |
+| The Sport of the Gods | have | PG 17854, `pldunbar-sport-of-the-gods` (1041 units) |
+| The Complete Poems of Paul Laurence Dunbar | have | PG 18338, `pldunbar-complete-poems-of-paul-laurence-dunbar` (1865 units) |
+| The heart of Happy Hollow | have | PG 24716, `pldunbar-heart-of-happy-hollow` (1064 units) |
+| The uncalled | have | PG 25171, `pldunbar-uncalled` (1124 units) |
+| Folks from Dixie | have | PG 74993, `pldunbar-folks-from-dixie` (1058 units) |
