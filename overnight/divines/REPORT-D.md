@@ -2248,3 +2248,6 @@
 
 ## 2026-10-22 22:56 CDT — forster-works: done
 - forster-works: new shelf, 11 Gutenberg books, 12,778 units, 263 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:56 CDT — christie-works: done
+- christie-works: new shelf, 13 Gutenberg books, 31,468 units, 664 ~2 ids; verify 0 mismatches, 0 rights flags.

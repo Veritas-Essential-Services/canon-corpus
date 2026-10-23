@@ -1,0 +1,192 @@
+{
+ "_about": "Agatha Christie: Completes the author at Gutenberg beside the reading-list shelf. Pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Agatha Christie",
+ "_name_words": [
+  "agatha",
+  "christie"
+ ],
+ "_surname": [
+  "agatha christie"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "achristie-secret-adversary": [
+   1155,
+   "The Secret Adversary"
+  ],
+  "achristie-murder-on-the-links": [
+   58866,
+   "The Murder on the Links"
+  ],
+  "achristie-man-in-the-brown-suit": [
+   61168,
+   "The Man in the Brown Suit"
+  ],
+  "achristie-poirot-investigates": [
+   61262,
+   "Poirot Investigates"
+  ],
+  "achristie-secret-of-chimneys": [
+   65238,
+   "The Secret of Chimneys"
+  ],
+  "achristie-plymouth-express-affair": [
+   66446,
+   "The Plymouth Express Affair"
+  ],
+  "achristie-hunters-lodge-case": [
+   67160,
+   "The Hunter's Lodge Case"
+  ],
+  "achristie-missing-will": [
+   67173,
+   "The Missing Will"
+  ],
+  "achristie-murder-of-roger-ackroyd": [
+   69087,
+   "The murder of Roger Ackroyd"
+  ],
+  "achristie-mystery-of-the-blue-train": [
+   72824,
+   "The mystery of the Blue Train"
+  ],
+  "achristie-murder-at-the-vicarage": [
+   78220,
+   "Murder at the vicarage"
+  ],
+  "achristie-giants-bread": [
+   78262,
+   "Giants' bread"
+  ],
+  "achristie-partners-in-crime": [
+   78342,
+   "Partners in crime"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 863: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 70114 The Big Four (copyright line 1955); PG 75288 The Seven Dials mystery (copyright line 1957); PG 78084 The mysterious Mr. Quin (copyright line 1958). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "achristie-secret-adversary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-murder-on-the-links": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-man-in-the-brown-suit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-poirot-investigates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-secret-of-chimneys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-plymouth-express-affair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-hunters-lodge-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-missing-will": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-murder-of-roger-ackroyd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-mystery-of-the-blue-train": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-murder-at-the-vicarage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-giants-bread": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "achristie-partners-in-crime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agatha christie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

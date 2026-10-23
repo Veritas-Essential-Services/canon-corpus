@@ -41935,3 +41935,25 @@ Shelf: `pipeline/forster-works_shelf.json` (2026-10-22; added at the coordinator
 | Anonymity | have | PG 74818, `emforster-anonymity` (40 units) |
 | repeat-editions | excluded | PG 2946: second Gutenberg editions of titles already on the shelf. |
 | held-elsewhere | excluded | PG 61221: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Agatha Christie
+
+Shelf: `pipeline/christie-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Secret Adversary | have | PG 1155, `achristie-secret-adversary` (3124 units) |
+| The Murder on the Links | have | PG 58866, `achristie-murder-on-the-links` (2630 units) |
+| The Man in the Brown Suit | have | PG 61168, `achristie-man-in-the-brown-suit` (2597 units) |
+| Poirot Investigates | have | PG 61262, `achristie-poirot-investigates` (1983 units) |
+| The Secret of Chimneys | have | PG 65238, `achristie-secret-of-chimneys` (3545 units) |
+| The Plymouth Express Affair | have | PG 66446, `achristie-plymouth-express-affair` (211 units) |
+| The Hunter's Lodge Case | have | PG 67160, `achristie-hunters-lodge-case` (148 units) |
+| The Missing Will | have | PG 67173, `achristie-missing-will` (103 units) |
+| The murder of Roger Ackroyd | have | PG 69087, `achristie-murder-of-roger-ackroyd` (3179 units) |
+| The mystery of the Blue Train | have | PG 72824, `achristie-mystery-of-the-blue-train` (3286 units) |
+| Murder at the vicarage | have | PG 78220, `achristie-murder-at-the-vicarage` (3338 units) |
+| Giants' bread | have | PG 78262, `achristie-giants-bread` (4416 units) |
+| Partners in crime | have | PG 78342, `achristie-partners-in-crime` (2908 units) |
+| held-elsewhere | excluded | PG 863: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 70114 The Big Four (copyright line 1955); PG 75288 The Seven Dials mystery (copyright line 1957); PG 78084 The mysterious Mr. Quin (copyright line 1958). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
