@@ -1,0 +1,61 @@
+{
+ "_about": "Eduard Munk (1803-1871), German literary historian, in two English adaptations of his histories of Greek and Roman literature: The Student's Manual of Greek Tragedy, ed. A. W. Verrall from D. B. Kitchin's translation (1891), and The Student's Cicero, adapted by W. Y. Fausset (1889). Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Eduard Munk (1803-1871)",
+ "_name_words": [
+  "munk",
+  "eduard",
+  "verrall",
+  "fausset",
+  "greek",
+  "tragedy",
+  "cicero"
+ ],
+ "_surname": [
+  "munk"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "munk-students-manual-greek-tragedy-1891": [
+   "studentsmanualo00munk",
+   "The Student's Manual of Greek Tragedy, ed. A. W. Verrall, tr. D. B. Kitchin (1891)"
+  ],
+  "munk-students-cicero-1889": [
+   "studentsciceroad00munkrich",
+   "The Student's Cicero, adapted by W. Y. Fausset (London: Swan Sonnenschein, 1889)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "munk-students-manual-greek-tragedy-1891": "Kitchin",
+  "munk-students-cicero-1889": "Fausset"
+ },
+ "_checks": {
+  "munk-students-manual-greek-tragedy-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "munk",
+   "translator_claimed": "Kitchin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "munk-students-cicero-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "munk",
+   "translator_claimed": "Fausset",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

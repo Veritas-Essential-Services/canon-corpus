@@ -19839,6 +19839,16 @@ Shelf: `pipeline/edmund-weissenborn_shelf.json`. Homeric Life, tr. G. C. Scoggin
 |---|---|---|---|
 | Homeric Life, tr. G. C. Scoggin and C. G. Burkitt (New York: American Book Company, 1903) |  | `weissenborn-homeric-life-1903` | have-raw (IA `homericlife00weisuoft`) |
 
+
+## Eduard Munk (1803-1871)
+
+Shelf: `pipeline/eduard-munk_shelf.json`. The Student's Manual of Greek Tragedy, ed. A. W. Verrall, tr. D. B. Kitchin (1891); The Student's Cicero, adapted by W. Y. Fausset (London: Swan Sonnenschein, 1889). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Student's Manual of Greek Tragedy, ed. A. W. Verrall, tr. D. B. Kitchin (1891) |  | `munk-students-manual-greek-tragedy-1891` | have-raw (IA `studentsmanualo00munk`) |
+| The Student's Cicero, adapted by W. Y. Fausset (London: Swan Sonnenschein, 1889) |  | `munk-students-cicero-1889` | have-raw (IA `studentsciceroad00munkrich`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
