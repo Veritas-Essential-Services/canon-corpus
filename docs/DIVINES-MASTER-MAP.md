@@ -20296,6 +20296,15 @@ Shelf: `pipeline/e-h-klotsche_shelf.json`. The Supernatural in the Tragedies of 
 |---|---|---|---|
 | The Supernatural in the Tragedies of Euripides (1919) |  | `klotsche-supernatural-euripides-1919` | have-raw (IA `cu31924026667802`) |
 
+
+## Edward A. Foord
+
+Shelf: `pipeline/edward-foord_shelf.json`. The Byzantine Empire: the Rearguard of European Civilization (1911) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Byzantine Empire: the Rearguard of European Civilization (1911) |  | `foord-byzantine-empire-1911` | have-raw (IA `cu31924085212151`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
