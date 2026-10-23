@@ -6077,6 +6077,14 @@
       "started": "2026-10-22T23:19:08-05:00",
       "finished": "2026-10-22T23:19:08-05:00",
       "notes": "willis-boyd-allen: new shelf, 6 Gutenberg books, 4,844 units, 108 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "deborah-alcock",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Deborah Alcock; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:19:10-05:00",
+      "finished": "2026-10-22T23:19:10-05:00",
+      "notes": "deborah-alcock: new shelf, 5 Gutenberg books, 9,814 units, 651 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

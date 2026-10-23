@@ -44008,3 +44008,16 @@ Shelf: `pipeline/willis-boyd-allen_shelf.json` (2026-10-22; added at the coordin
 | Christmas on Wheels | have | PG 64094, `wballen-christmas-on-wheels` (47 units) |
 | Silver Rags | have | PG 66956, `wballen-silver-rags` (1092 units) |
 | In the Morning | have | PG 67246, `wballen-in-the-morning` (323 units) |
+
+## Deborah Alcock
+
+Shelf: `pipeline/deborah-alcock_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Spanish brothers | have | PG 40346, `dalcock-spanish-brothers` (2467 units) |
+| The Czar | have | PG 49782, `dalcock-czar` (2402 units) |
+| By far Euphrates | have | PG 49915, `dalcock-by-far-euphrates` (1681 units) |
+| Under the Southern Cross | have | PG 77308, `dalcock-under-the-southern-cross` (1939 units) |
+| The dark year of Dundee | have | PG 77324, `dalcock-dark-year-of-dundee` (1325 units) |
+| repeat-editions | excluded | PG 44262: second Gutenberg editions of titles already on the shelf. |
