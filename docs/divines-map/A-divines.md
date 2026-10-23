@@ -18772,3 +18772,20 @@ Slugs `easton-*`. Built from title pages read for round 127.
 | A sermon, delivered before the members of the Female Benevolent Society, in Montreal, September 8, 1816 (Montreal : Printed by Nahum Mower, 1816) | have-ocr | IA `cihm_55046` |
 | A sermon on the imperfection of the present state (Montreal : Printed by Nahum Mower, 1820) | have-ocr | IA `cihm_92335` |
 | the description of pictures (1752), the chemistry papers and the division-courts letter are by other men | excluded | |
+
+## William Burkitt (round 128, my pick, 2026-10-23)
+
+Slugs `burkitt-*`. Built from title pages read for round 128.
+
+| Work | Status | Where |
+|---|---|---|
+| The people's zeal provok't...  1680 (catalogued 1680) | have-ocr | IA `bim_early-english-books-1641-1700_the-peoples-zeal-provok_burkitt-william_1680` |
+| An argumentative and practical discourse of infant-baptism. ...  1692 (catalogued 1692) | have-ocr | IA `bim_early-english-books-1641-1700_an-argumentative-and-pra_burkitt-william_1692` |
+| The poor man's help,...  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_the-poor-mans-help-_burkitt-william_1694` |
+| The poor man's help, and young man's guide: containing I. Doctrinal instructions ... II. Practical directions ... III. Particular advices ... Unto which is added principles of religion; ... with Forms of prayer ... also, divine hymns ... By W. Burkit (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_the-poor-mans-help-and_burkitt-william_1712` |
+| An help and guide to Christian families: containing I. Doctrinal instructions ... II. Practical directions ... III. Particular advice ... Unto which are added, principles of religion, ... With forms of prayer ... Also divine hymns on several occasions. By William Burkitt, M.A. ...  1764 (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_an-help-and-guide-to-chr_burkitt-william_1764` |
+| Expository notes, with practical observations upon the New Testament of our Lord and Saviour Jesus Christ. Wherein the whole of the sacred text is recited, the sense explained, and the instructive example of the blessed Jesus, and His apostles, to our imitation recommended (New Haven, Printed by Abel Morse, for the Rev. David Austin of Elizabeth-town, 1794) | have-ocr | IA `expositorynotesw00burk` |
+| 10481386bsb, a German translation | excluded | |
+| the 1697, 1705 and 1795 Poor Man's Help and the 1832 Expository Notes are other editions | excluded | |
+| Criticism of the New Testament (1902) is F. C. Burkitt and others | excluded | |
+| bim_eighteenth-century_family-instruction-or-_burkitt-william_1704_0: the scan is a different book, a 1751 Oxford sermon by Henry Whitfield | excluded | |

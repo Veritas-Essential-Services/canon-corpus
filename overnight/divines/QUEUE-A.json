@@ -10576,6 +10576,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:18:45-05:00",
       "notes": "St Peter Street, Montreal. Three CIHM sermons."
+    },
+    {
+      "id": "a-william-burkitt",
+      "status": "done",
+      "scope": "round 128",
+      "added": "2026-10-23T09:25:38-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:25:38-05:00",
+      "notes": "Vicar of Dedham. Expository Notes on the NT, Poor Man's Help, Infant-Baptism, family guides. One wrong scan excluded."
     }
   ]
 }
