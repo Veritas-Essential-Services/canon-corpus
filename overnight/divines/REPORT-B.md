@@ -1556,3 +1556,11 @@
 ## 2026-10-23 — Round dv: histories of Greek philosophy, and twelve more scholars
 
 38 volumes on 12 new shelves, all gated (fetch, verify, record). The English histories of Greek philosophy beside Zeller were mostly held already (Gomperz, Windelband, Ueberweg, Erdmann, Schwegler, Benn); the gaps filled were Ritter (tr. Morrison, vols II and IV), Archer Butler's Lectures (1856) and Wallace's Outlines of Aristotle. Then new shelves for B. H. Kennedy, Henry Hayman, A. C. Pearson, E. G. Hardy, Arthur Palmer, Henry Jackson, E. A. Sonnenschein, G. E. Underhill and Herbert Weir Smyth. Garbled OCR names are quoted from the title page in `_identity_checked`; Ritter vol II, with no date in the record, carries `_rights_checked`. Refused: Blaydes, Shilleto and Pearson's Fragments of Sophocles, because every scan OCRs the English as Greek letters (revisit with the Greek re-OCR), and Palmer's Propertius, a Latin-only recension.
+
+## 2026-10-23 — Round dw: filling out ten scholar shelves
+
+44 volumes, all gated (fetch, verify, record). Existing shelves audited against Internet Archive for works they lacked: Warde Fowler +7 (his City-State and the late Virgil studies), Greenidge +4, Rutherford +8 (including the three volumes of Scholia Aristophanica, translated), Capes +4, Tucker +4, A. E. Taylor +5, Mackail +3, Bury +1, Butcher +1, Cornford +1. New shelves for Walter Headlam (5) and L. C. Purser (1). 
+
+A fetch fix came out of the gate: Digital Library of India items keep the uploader's text file name, so the fetcher's default URL is a 404. Two Cornford rows failed for that reason; 24 such rows on 21 shelves now name their file, read from IA metadata.
+
+Refused: Tucker's Thucydides VIII, Capes's Achaean League, Bury's Isthmian Odes and the Mahaffy-Bury Hippolytus, because every scan OCRs the English as Greek letters (revisit after the Greek re-OCR).

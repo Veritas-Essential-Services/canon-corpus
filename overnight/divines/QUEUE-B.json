@@ -2188,6 +2188,14 @@
    "started": "2026-10-23T06:46:00-05:00",
    "finished": "2026-10-23T07:12:17-05:00",
    "notes": "38 volumes, 12 new shelves. heinrich-ritter (History of Ancient Philosophy tr. Morrison, vols II and IV; vol III has no readable title page, vol I not on IA); w-archer-butler (Lectures on Ancient Philosophy 2 vols 1856); edwin-wallace (Outlines of the Philosophy of Aristotle); b-h-kennedy (Birds 1874, Theaetetus, Virgil 1881, Studia Sophoclea 1874, Latin Grammar 1879); henry-hayman (Odyssey I-II); a-c-pearson (Zeno and Cleanthes 1891, Euripides Helena, Heraclidae, Phoenissae); e-g-hardy (Pliny to Trajan, Juvenal, Christianity and the Roman Government, Jesus College, Studies in Roman History I-II, Six Roman Laws); arthur-palmer (Heroides XIV 1874, Horace Satires 1888, Amphitruo 1890, Catullus 1896, Heroides 1898); henry-jackson (Nicomachean Ethics V 1879, Texts 1901); e-a-sonnenschein (Captivi, Mostellaria, Rudens, Bentley's Plautine Emendations); g-e-underhill (Hellenica commentary 1900); h-w-smyth (Dialects of North Greece, Ionic, Greek Melic Poets). Already held, not added: Gomperz, Windelband, Ueberweg, Erdmann, Schwegler, Benn, Schomann (schomann shelf). Refused: Blaydes and Shilleto (every scan OCRs the English as Greek letters), Pearson's Fragments of Sophocles 1917 (same), Palmer's Propertius (Latin only)."
+  },
+  {
+   "id": "2026-10-23dw",
+   "status": "done",
+   "scope": "audit of existing Victorian and Edwardian scholar shelves for missing works; new shelves for Walter Headlam and L. C. Purser; IA file-name fix for DLI rows",
+   "started": "2026-10-23T07:15:00-05:00",
+   "finished": "2026-10-23T07:36:26-05:00",
+   "notes": "44 volumes. warde-fowler +7 (City-State 1893, Messianic Eclogue 1907, Roman Ideas of Deity 1914, Gathering of the Clans 1916, Aeneas at the Site of Rome 1918, Death of Turnus 1919, Roman Essays 1920); greenidge +4 (Infamia, Greek Constitutional History, Legal Procedure of Cicero's Time, Sources for Roman History); w-g-rutherford +8 (First Greek Grammar and Syntax, Thucydides IV, Scholia Aristophanica 3 vols, St. Paul translations 1900 and 1908); capes +4 (Livy, Livy XXI-XXII, Stoicism, Sallust); t-g-tucker +4 (Proem to the Republic, Frogs, Life in Ancient Athens, Foreign Debt of English Literature); walter-headlam new (5); bury +1 (Student's Roman Empire from a dated 1893 scan, clearing the undated hold); butcher +1 (Demosthenes); mackail +3; a-e-taylor +5; f-m-cornford +1; l-c-purser new (Cupid and Psyche 1910). Fix: 24 Digital Library of India rows on 21 shelves now name their IA text file; the fetcher's default <id>_djvu.txt URL was a 404 for them (two Cornford rows failed the gate this round). Refused: Tucker's Thucydides VIII, Capes's Achaean League, Bury's Isthmian Odes, the Mahaffy-Bury Hippolytus (scans OCR the English as Greek letters). Held already: how-wells, w-w-merry (no gaps checked this round)."
   }
  ]
 }
