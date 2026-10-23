@@ -1,5 +1,5 @@
 {
- "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR.",
+ "_about": "John Pentland Mahaffy (1839-1919), Trinity College Dublin. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Rambles and Studies in Greece, Problems in Greek History, What Have the Greeks Done for Modern Civilisation?, Old Greek Education, clean Gutenberg; also Social Life in Greece (1894 reprint of the seventh edition) and Greek Life and Thought (1896) as raw IA OCR. No uids minted. Also A History of Classical Greek Literature, 2 vols. (New York: Harper, 1880, the first edition's year), raw IA OCR; vol. I carries an appendix on Homer by A. H. Sayce (died 1933). Also Prolegomena to Ancient History (Longmans, 1871) and The Greek World under Roman Sway (Macmillan, 1890), raw IA OCR. Round du (2026-10-23), raw IA: his translation of Kuno Fischer's Commentary on Kant's Critick (1866), Kant's Critical Philosophy for English Readers vol. I with J. H. Bernard (1889; vol. II, the Prolegomena translated, is on the kant shelf), Twelve Lectures on Primitive Civilizations (1869), the Euripides primer (1879), Old Greek Life (1880), Greek Antiquities (1889 printing), Alexander's Empire (1887), Greek Pictures (1890), the Flinders Petrie Papyri I-II (1891, 1893), The Empire of the Ptolemies (1895), A Survey of Greek Civilization (1897), A History of Egypt under the Ptolemaic Dynasty (1899). Not taken: The Decay of Modern Preaching (1882), outside the classical brief.",
  "_name_words": [
   "mahaffy"
  ],
@@ -52,6 +52,61 @@
   "mahaffy-greek-world-roman-sway-1890": [
    "greekworldunder01mahagoog",
    "The Greek World under Roman Sway, from Polybius to Plutarch (London: Macmillan, 1890)"
+  ],
+  "mahaffy-fischer-commentary-kant-1866": [
+   "acommentaryonka00mahagoog",
+   "A Commentary on Kant's Critick of the Pure Reason, translated from the History of Modern Philosophy of Kuno Fischer, with an introduction, by John Pentland Mahaffy (London: Longmans, Green, 1866)"
+  ],
+  "mahaffy-twelve-lectures-primitive-civilizations-1869": [
+   "twelvelectureson00maharich",
+   "Twelve Lectures on Primitive Civilizations and their Physical Conditions, delivered at the Alexandra College (London: Longmans, Green, 1869)"
+  ],
+  "mahaffy-euripides-classical-writers-1879": [
+   "dli.ministry.12605",
+   "Euripides (Classical Writers, ed. J. R. Green; London: Macmillan, 1879)",
+   "E09303_Euripides_djvu.txt"
+  ],
+  "mahaffy-old-greek-life-1880": [
+   "oldgreeklife00maha",
+   "Old Greek Life (History Primers; London: Macmillan, 1880)"
+  ],
+  "mahaffy-alexanders-empire-1887": [
+   "storyofalexander00mahauoft",
+   "The Story of Alexander's Empire (The Story of the Nations; New York: G. P. Putnam's Sons; London: T. Fisher Unwin, 1887)"
+  ],
+  "mahaffy-greek-antiquities-1889": [
+   "greekantiquities00mahauoft",
+   "Greek Antiquities (History Primers: Classical Antiquities I; London: Macmillan, 1889 printing; first edition 1876)"
+  ],
+  "mahaffy-greek-pictures-1890": [
+   "cu31924028241242",
+   "Greek Pictures, Drawn with Pen and Pencil (London: The Religious Tract Society, 1890)"
+  ],
+  "mahaffy-flinders-petrie-papyri-i-1891": [
+   "flinderspetriepa01maha",
+   "On the Flinders Petrie Papyri, with transcriptions, commentaries and index (Cunningham Memoirs VIII; Dublin: Royal Irish Academy, 1891); Greek transcriptions with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "mahaffy-flinders-petrie-papyri-ii-1893": [
+   "flinderspetriepamaha",
+   "On the Flinders Petrie Papyri, part II (Cunningham Memoirs IX; Dublin: Royal Irish Academy, 1893); Greek transcriptions with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "mahaffy-empire-of-the-ptolemies-1895": [
+   "india.history.resource.105850",
+   "The Empire of the Ptolemies (London: Macmillan, 1895)",
+   "105850_djvu.txt"
+  ],
+  "mahaffy-survey-of-greek-civilization-1897": [
+   "india.history.resource.91983",
+   "A Survey of Greek Civilization (London: Macmillan, 1897)",
+   "91983_djvu.txt"
+  ],
+  "mahaffy-egypt-ptolemaic-dynasty-1899": [
+   "ahistoryegyptun00mahagoog",
+   "A History of Egypt under the Ptolemaic Dynasty (A History of Egypt, vol. IV; London: Methuen, 1899)"
+  ],
+  "mahaffy-bernard-kants-critical-philosophy-v1-1889": [
+   "criticalphilosop01kant",
+   "Kant's Critical Philosophy for English Readers, by John P. Mahaffy and John H. Bernard, a new and completed edition, vol. I (London: Macmillan, 1889)"
   ]
  },
  "_excluded": {
@@ -60,7 +115,7 @@
  "_checks": {
   "mahaffy-rambles-studies-greece": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -69,7 +124,7 @@
   },
   "mahaffy-problems-greek-history": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -78,7 +133,7 @@
   },
   "mahaffy-what-have-greeks-done": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -87,7 +142,7 @@
   },
   "mahaffy-old-greek-education": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -96,7 +151,7 @@
   },
   "mahaffy-social-life-greece-1894": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -107,7 +162,7 @@
   },
   "mahaffy-greek-life-thought-1896": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -118,7 +173,7 @@
   },
   "mahaffy-classical-greek-literature-v1-1880": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -129,7 +184,7 @@
   },
   "mahaffy-classical-greek-literature-v2-1880": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -140,7 +195,7 @@
   },
   "mahaffy-prolegomena-ancient-history-1871": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john p. mahaffy",
    "identity": "ok",
@@ -151,7 +206,7 @@
   },
   "mahaffy-greek-world-roman-sway-1890": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. p. mahaffy",
    "identity": "ok",
@@ -159,11 +214,165 @@
    "ia_date": "1890",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "mahaffy-fischer-commentary-kant-1866": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-twelve-lectures-primitive-civilizations-1869": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-euripides-classical-writers-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-old-greek-life-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-alexanders-empire-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-greek-antiquities-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-greek-pictures-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-flinders-petrie-papyri-i-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-flinders-petrie-papyri-ii-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-empire-of-the-ptolemies-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-survey-of-greek-civilization-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mahaffy-egypt-ptolemaic-dynasty-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mahaffy-bernard-kants-critical-philosophy-v1-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. mahaffy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_identity_checked": {
   "mahaffy-classical-greek-literature-v2-1880": {
    "author": "title page read 2026-10-10: OCR gives 'REV. J?°P*MAHAFFY, M.A. FELLOW AND PROFESSOR OF ANCIENT HISTORY, TRINITY COLLEGE, DUBLIN', in two volumes, vol. II, Harper 1880 (J. P. Mahaffy); stray marks defeat the surname test"
+  },
+  "mahaffy-fischer-commentary-kant-1866": {
+   "author": "title page OCRs the name as 'JOHN PENTLAOT) MAHAFFY, A.M., PELLOW AND TUTOR OF TRINITY COLLEGE, DUBLIX' (Longmans, Green, 1866), under 'TRANSLATED FROM THE HISTORY OF MODERN PHILOSOPHY, BT PROFESSOR KUNO FISCHER, OF JENA'",
+   "translator": "same title-page reading: Mahaffy is the translator of Fischer's text"
+  },
+  "mahaffy-euripides-classical-writers-1879": {
+   "author": "title page OCRs the name as 'j..P, MAHAFFY, AM, FELLOW OF TRINITY COLLEGE AND PROFESSOR OF ANCIENT HISTORY IN THE UNIVERSITY OF DUBLIN' (Classical Writers, ed. John Richard Green; Macmillan, 1879)"
+  },
+  "mahaffy-greek-pictures-1890": {
+   "author": "title page OCRs the name as 'J.^ P} MAHAFFY, M.A., D.D.' (The Religious Tract Society, 1890)"
   }
- }
+ },
+ "_translators": {}
 }
