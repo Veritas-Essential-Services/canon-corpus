@@ -19311,6 +19311,21 @@ Slugs `janney-*`. Built from title pages read for round 133.
 | The Last of the Lenapé is poetry, outside this theology shelf | excluded | |
 | the Penn treaty addresses and delegates' report are by others | excluded | |
 | other scans of the same books | excluded | |
+
+## T. H. Darlow (round 133, my pick, 2026-10-23)
+
+Slugs `darlow-*`. Built from title pages read for round 133.
+
+| Work | Status | Where |
+|---|---|---|
+| Via sacra ([New York] : Hodder and Stoughton : George H. Doran Co., 1911) | have-ocr | IA `viasacra0000darl` |
+| More golden than gold (Bible House, 1912) | have-ocr | IA `bwb_KU-342-840` |
+| At home in the Bible (Toronto ; New York : Hodder and Stoughton, 1923) | have-ocr | IA `athomeinbible00darl` |
+| The greatest book in the world (Garden city, N.Y. : Doubleday, Doran and Co., 1927) | have-ocr | IA `greatestbookinwo00darl` |
+| William robertson nicoll life and letters (catalogued 1925) | have-ocr | IA `williamrobertson0000thda` |
+| God's Image in Ebony (1912, IA godsimageinebony00darluoft): not yet checked whether the sketches are his or collected from others | pending | not shelved |
+| Let Us Pray (selected collects) and the Letters of George Borrow are other men's words he collected or edited | excluded | |
+| other scans of The Greatest Book in the World | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
