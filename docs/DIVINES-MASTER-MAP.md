@@ -12346,7 +12346,7 @@ Shelf: `pipeline/burnet_shelf.json`. John Burnet (1863-1928), Professor of Greek
 | Plato's Phaedo, edited with introduction and notes (Oxford: Clarendon Press, 1911); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `burnet-phaedo-1911` | have-raw (IA `cu31924026679484`) |
 | Aristotle on Education, being extracts from the Ethics and Politics, translated and edited (Cambridge: University Press, 1903) |  | `burnet-aristotle-on-education-1903` | have-raw (IA `aristotleoneduca00arisuoft`) |
 | The Socratic Doctrine of the Soul (London: for the British Academy, by Oxford University Press, 1916) |  | `burnet-socratic-doctrine-of-the-soul-1916` | have-raw (IA `socraticdoctrine00burn`) |
-| The Greek Strain in English Literature, an address (1920) |  | `burnet-greek-strain-1920` | have-raw (IA `greekstrainineng00burnrich`) |
+| The Greek Strain in English Literature, an address to the Classical Association of Scotland and the Scottish branch of the English Association (no imprint in the OCR; IA dates it 1920) |  | `burnet-greek-strain-1920` | have-raw (IA `greekstrainineng00burnrich`) |
 | Aristotle, the British Academy annual lecture on a master mind, Henriette Hertz Trust, from the Proceedings of the British Academy vol. XI (London: Humphrey Milford, 1924) |  | `burnet-aristotle-lecture-1924` | have-raw (IA `aristotle00burn`) |
 | Platonism (Sather Classical Lectures; Berkeley: University of California Press, 1928; this scan a University Microfilms facsimile of that edition) |  | `burnet-platonism-1928` | have-raw (IA `trent_0116400978064`) |
 
@@ -18627,7 +18627,7 @@ Shelf: `pipeline/gildersleeve_shelf.json`. Essays, lectures and the Syntax of Cl
 | Essays and Studies, Educational and Literary (1890) |  | `gildersleeve-essays-studies-1890` | have-raw (IA `essaysstudiesedu00gild`) |
 | Hellas and Hesperia, or The Vitality of Greek Studies in America (1909) |  | `gildersleeve-hellas-hesperia-1909` | have-raw (IA `cu31924021600295`) |
 | Syntax of Classical Greek from Homer to Demosthenes, part I (1900), with C. W. E. Miller |  | `gildersleeve-syntax-classical-greek-1900` | have-raw (IA `syntaxclassical00millgoog`) |
-| Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (New York: Harper, 1885; this copy the 1890 printing); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `gildersleeve-pindar-olympian-pythian-1885` | have-raw (IA `cu31924074825963`) |
+| Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (New York, Cincinnati, Chicago: American Book Company; copyright 1885, this copy a later printing, 1890 per IA); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `gildersleeve-pindar-olympian-pythian-1885` | have-raw (IA `cu31924074825963`) |
 
 
 ## W. S. Teuffel (1820-1878)
