@@ -18397,6 +18397,20 @@ Shelf: `pipeline/thomas-hodgkin_shelf.json`. Italy and her Invaders complete (8 
 
 Excluded: George Fox (1896), Human Progress and the Inward Light (1911) (Quaker writings, out of lane B scope (lane A may want them)); Letters of Cassiodorus (1886) (held on the cassiodorus shelf)
 
+
+## Tenney Frank (1876-1939)
+
+Shelf: `pipeline/tenney-frank_shelf.json`. Roman history and Latin poets, 1914-1930; two clean PG. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Vergil: a Biography (1922) |  | `frank-vergil-pg` | have (PG 10960) |
+| Life and Literature in the Roman Republic (Sather Lectures, 1930) |  | `frank-life-literature-roman-republic-pg` | have (PG 69272) |
+| Roman Imperialism (1914) |  | `frank-roman-imperialism-1914` | have-raw (IA `romanimperialism00franuoft`) |
+| An Economic History of Rome to the End of the Republic (1920) |  | `frank-economic-history-rome-1920` | have-raw (IA `economichistoryo00franuoft`) |
+| A History of Rome (1923) |  | `frank-history-of-rome-1923` | have-raw (IA `in.ernet.dli.2015.169106`) |
+| Catullus and Horace: Two Poets in their Environment (1928) |  | `frank-catullus-horace-1928` | have-raw (IA `catullushorace0000unse`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
