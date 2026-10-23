@@ -11645,6 +11645,17 @@ Slugs `broaddus-*`. Built from title pages read for round 53.
 |---|---|---|
 | The sermons and other writings of the Rev. Andrew Broaddus : with a memoir of his life (New York : Lewis Colby, 1852) | have-ocr | IA `sermonsotherwrit00broa` |
 | The Virginia Selection of Psalms, Hymns and Spiritual Songs (1840, his compilation); the Broaddus family history (1888, another author) | excluded | |
+
+## P. H. Mell (round 53, my pick, 2026-10-23)
+
+Slugs `mell-*`. Built from title pages read for round 53.
+
+| Work | Status | Where |
+|---|---|---|
+| Baptism in its modes and subjects (Charleston : Southern Baptist Publication Society, 1853) | have-ocr | IA `baptisminitsmode00mell` |
+| The doctrine of prayer; its utility; and its relation to providence (New York, Sheldon & Company, 1876) | have-ocr | IA `doctrineofprayer00mell` |
+| The botanical and agricultural works of his son P. H. Mell Jr. (another man); the Life of Patrick Hues Mell (1895, by his son) | excluded | |
+| manualofparliame00mell: Mell's Manual of Parliamentary Practice is a procedure manual, not divinity; scan front matter is also unreadable OCR. | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
