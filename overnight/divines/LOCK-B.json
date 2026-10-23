@@ -1,7 +1,7 @@
 {
  "status": "free",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T06:45:49-05:00",
- "note": "Rounds cq-du done 2026-10-23.",
- "resume_point": "Round dv: the English histories of Greek philosophy beside Zeller, not held on any branch (Gomperz's Greek Thinkers tr. Magnus and Berry, Windelband's History of Ancient Philosophy, Ueberweg tr. Morris, Ritter tr. Morrison, Erdmann tr. Hough, Schwegler tr. Stirling, Benn's Greek Philosophers); then B. H. Kennedy, Blaydes, Hayman. Check every title against all branches (tools/heldia.py + unheld.py) and read every title page and imprint before writing the row title."
+ "heartbeat": "2026-10-23T07:12:17-05:00",
+ "note": "Rounds cq-dv done 2026-10-23.",
+ "resume_point": "Round dw: more Victorian, Edwardian and American classical scholars not yet shelved on any branch (Walter Headlam, W. G. Rutherford, T. G. Tucker, W. Warde Fowler, A. H. J. Greenidge, J. S. Reid, L. C. Purser, W. W. Capes, W. W. Merry, How and Wells, Arthur Platt, F. M. Cornford, A. E. Taylor, J. W. Mackail, S. H. Butcher, J. B. Bury). Check every title against all branches (tools/heldia.py + unheld.py, then dupetitles.py) and read every title page and imprint before writing the row title."
 }
