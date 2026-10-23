@@ -39819,3 +39819,25 @@ Shelf: `pipeline/zona-gale_shelf.json` (2026-10-22; added at the coordinator's r
 | The loves of Pelleas and Etarre | have | PG 68268, `zgale-loves-of-pelleas-and-etarre` (1907 units) |
 | Yellow gentians and blue | have | PG 78523, `zgale-yellow-gentians-and-blue` (598 units) |
 | repeat-editions | excluded | PG 77922: second Gutenberg editions of titles already on the shelf. |
+
+## Holman Day
+
+Shelf: `pipeline/holman-day_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Landloper: The Romance of a Man on Foot | have | PG 4712, `hday-landloper` (2992 units) |
+| When Egypt Went Broke: A Novel | have | PG 4733, `hday-when-egypt-went-broke` (1959 units) |
+| All-Wool Morrison Time -- Today, Place -- the United States, Period of Action -- Twenty-four Hours | have | PG 7931, `hday-all-wool-morrison-time-today-place-the-united-states-pe` (2135 units) |
+| The Ramrodders: A Novel | have | PG 15278, `hday-ramrodders` (2369 units) |
+| The Skipper and the Skipped: Being the Shore Log of Cap'n Aaron Sproul | have | PG 16631, `hday-skipper-and-the-skipped` (2851 units) |
+| The Rainy Day Railroad War | have | PG 22666, `hday-rainy-day-railroad-war` (996 units) |
+| Joan of Arc of the North Woods | have | PG 22667, `hday-joan-of-arc-of-the-north-woods` (2294 units) |
+| Blow The Man Down: A Romance Of The Coast | have | PG 24793, `hday-blow-the-man-down` (4388 units) |
+| King Spruce, A Novel | have | PG 34948, `hday-king-spruce-a-novel` (2441 units) |
+| Squire Phin | have | PG 55340, `hday-squire-phin` (2465 units) |
+| Up in Maine: Stories of Yankee Life Told in Verse | have | PG 55341, `hday-up-in-maine` (4632 units) |
+| Pine Tree Ballads: Rhymed Stories of Unplaned Human Natur' up in Maine | have | PG 55342, `hday-pine-tree-ballads` (3466 units) |
+| Where Your Treasure Is: Being the Personal Narrative of Ross Sidney, Diver | have | PG 55360, `hday-where-your-treasure-is` (3726 units) |
+| Salvage—extra special | have | PG 75075, `hday-salvage-extra-special` (202 units) |
+| pg-57488 | excluded | PG 57488: Gutenberg's index of the author's works, not a book. |

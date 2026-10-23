@@ -1,0 +1,203 @@
+{
+ "_about": "Holman Day's Maine novels and verse. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Holman Day",
+ "_name_words": [
+  "day",
+  "holman"
+ ],
+ "_surname": [
+  "holman day"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hday-landloper": [
+   4712,
+   "The Landloper: The Romance of a Man on Foot"
+  ],
+  "hday-when-egypt-went-broke": [
+   4733,
+   "When Egypt Went Broke: A Novel"
+  ],
+  "hday-all-wool-morrison-time-today-place-the-united-states-pe": [
+   7931,
+   "All-Wool Morrison Time -- Today, Place -- the United States, Period of Action -- Twenty-four Hours"
+  ],
+  "hday-ramrodders": [
+   15278,
+   "The Ramrodders: A Novel"
+  ],
+  "hday-skipper-and-the-skipped": [
+   16631,
+   "The Skipper and the Skipped: Being the Shore Log of Cap'n Aaron Sproul"
+  ],
+  "hday-rainy-day-railroad-war": [
+   22666,
+   "The Rainy Day Railroad War"
+  ],
+  "hday-joan-of-arc-of-the-north-woods": [
+   22667,
+   "Joan of Arc of the North Woods"
+  ],
+  "hday-blow-the-man-down": [
+   24793,
+   "Blow The Man Down: A Romance Of The Coast"
+  ],
+  "hday-king-spruce-a-novel": [
+   34948,
+   "King Spruce, A Novel"
+  ],
+  "hday-squire-phin": [
+   55340,
+   "Squire Phin"
+  ],
+  "hday-up-in-maine": [
+   55341,
+   "Up in Maine: Stories of Yankee Life Told in Verse"
+  ],
+  "hday-pine-tree-ballads": [
+   55342,
+   "Pine Tree Ballads: Rhymed Stories of Unplaned Human Natur' up in Maine"
+  ],
+  "hday-where-your-treasure-is": [
+   55360,
+   "Where Your Treasure Is: Being the Personal Narrative of Ross Sidney, Diver"
+  ],
+  "hday-salvage-extra-special": [
+   75075,
+   "Salvage—extra special"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57488": "PG 57488: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "hday-landloper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-when-egypt-went-broke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-all-wool-morrison-time-today-place-the-united-states-pe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-ramrodders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-skipper-and-the-skipped": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-rainy-day-railroad-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-joan-of-arc-of-the-north-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-blow-the-man-down": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-king-spruce-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-squire-phin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-up-in-maine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-pine-tree-ballads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-where-your-treasure-is": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hday-salvage-extra-special": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holman day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
