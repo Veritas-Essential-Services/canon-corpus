@@ -38752,3 +38752,28 @@ Shelf: `pipeline/alex-mcveigh-miller_shelf.json` (2026-10-22; added at the coord
 | Thorns of regret | have | PG 79130, `amcmiller-thorns-of-regret` (1915 units) |
 | A little southern beauty | have | PG 79414, `amcmiller-little-southern-beauty` (1368 units) |
 | Mrs. Mayo's second husband | have | PG 79570, `amcmiller-mrs-mayos-second-husband` (81 units) |
+
+## Florence Warden
+
+Shelf: `pipeline/florence-warden_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian sensation and mystery novels. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wharf by the Docks: A Novel | have | PG 16092, `fwarden-wharf-by-the-docks` (2141 units) |
+| A Witch of the Hills, v. 1 [of 2] | have | PG 38291, `fwarden-witch-of-the-hills-v-1-of-2` (795 units) |
+| A Witch of the Hills, v. 2 [of 2] | have | PG 38292, `fwarden-witch-of-the-hills-v-2-of-2` (823 units) |
+| The Dazzling Miss Davison | have | PG 65117, `fwarden-dazzling-miss-davison` (2064 units) |
+| A Perfect Fool: A Novel | have | PG 65401, `fwarden-perfect-fool` (1993 units) |
+| Joan, the Curate | have | PG 65957, `fwarden-joan-the-curate` (1463 units) |
+| St. Cuthbert's tower | have | PG 68544, `fwarden-st-cuthberts-tower` (2691 units) |
+| Forge and furnace: A novel | have | PG 68689, `fwarden-forge-and-furnace` (1896 units) |
+| A vagrant wife | have | PG 69261, `fwarden-vagrant-wife` (2624 units) |
+| The house on the marsh | have | PG 71788, `fwarden-house-on-the-marsh` (2262 units) |
+| The white countess | have | PG 71864, `fwarden-white-countess` (2214 units) |
+| The fog princes | have | PG 72077, `fwarden-fog-princes` (1765 units) |
+| Sea Mew Abbey | have | PG 72089, `fwarden-sea-mew-abbey` (1956 units) |
+| A lady in black | have | PG 72314, `fwarden-lady-in-black` (1453 units) |
+| Scheherazade: a London night's entertainment | have | PG 72450, `fwarden-scheherazade` (2409 units) |
+| The mis-rule of three | have | PG 72669, `fwarden-mis-rule-of-three` (2207 units) |
+| The mill house mystery | have | PG 73223, `fwarden-mill-house-mystery` (1949 units) |
+| Mystery of the inn by the shore | have | PG 73798, `fwarden-mystery-of-the-inn-by-the-shore` (1977 units) |

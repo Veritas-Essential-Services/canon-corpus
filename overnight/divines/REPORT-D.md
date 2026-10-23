@@ -1787,3 +1787,6 @@
 
 ## 2026-10-22 22:19 CDT — alex-mcveigh-miller: done
 - alex-mcveigh-miller: new shelf, 39 Gutenberg books, 77,993 units, 3628 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:19 CDT — florence-warden: done
+- florence-warden: new shelf, 18 Gutenberg books, 34,682 units, 217 ~2 ids; verify 0 mismatches, 0 rights flags.
