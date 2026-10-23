@@ -9290,3 +9290,13 @@ Shelf: `pipeline/w-w-hyde_shelf.json`. Greek athletics and religion, 1921-1923. 
 | Olympic Victor Monuments and Greek Athletic Art (1921) |  | `hyde-olympic-victor-monuments-pg` | have (PG 61792) |
 | Greek Religion and its Survivals (1923) |  | `hyde-greek-religion-survivals-1923` | have-raw (IA `greekreligionits0000hyde_n0k8`) |
 
+
+## Jesse Benedict Carter (1872-1917)
+
+Shelf: `pipeline/jesse-benedict-carter_shelf.json`. Roman religion, 1906-1911. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Religion of Numa, and Other Essays on the Religion of Ancient Rome (1906) |  | `carter-religion-of-numa-pg` | have (PG 18222) |
+| The Religious Life of Ancient Rome: a Study in the Development of Religious Consciousness (1911) |  | `carter-religious-life-ancient-rome-1911` | have-raw (IA `religiouslifeofa00cartuoft`) |
+
