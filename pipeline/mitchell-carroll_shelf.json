@@ -1,5 +1,5 @@
 {
- "_about": "Mitchell Carroll (1870-1925), George Washington University: Greek Women (copyright 1907). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_about": "Mitchell Carroll (1870-1925), George Washington University: Greek Women (copyright 1907). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted. Lane B round ec added The Attica of Pausanias (Ginn, 1907), his edition of the Greek text with English introduction and notes, raw IA OCR; Greek-heavy, kept under Adam's 2026-10-23 Greek ruling.",
  "_author": "Mitchell Carroll (1870-1925)",
  "_name_words": [
   "carroll",
@@ -17,7 +17,12 @@
    "Greek Women (copyright 1907)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "mitchell-carroll-attica-of-pausanias-1907": [
+   "atticaofpausania00pausuoft",
+   "The Attica of Pausanias, edited by Mitchell Carroll (Boston: Ginn and Company, copyright 1907)"
+  ]
+ },
  "_excluded": {},
  "_checks": {
   "carroll-greek-women-1907": {
@@ -28,6 +33,17 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "mitchell-carroll-attica-of-pausanias-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mitchell carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "[1907]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
