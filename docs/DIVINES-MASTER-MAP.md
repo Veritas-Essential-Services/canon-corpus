@@ -17041,6 +17041,21 @@ Slugs `lfstearns-*`. Built from title pages read for round 109.
 | The evidence of Christian experience : being the Ely lectures for 1890 (New York : C. Scribner's Sons, 1890) | have-ocr | IA `theevidenceofchr00steauoft` |
 | Henry Boynton Smith (Boston, Houghton Mifflin, 1892) | have-ocr | IA `henryboyntonsmit00stea` |
 | Present day theology : a popular discussion of leading doctrines of the Christian faith (New York : C. Scribner, 1893) | have-ocr | IA `presentdaytheolo00stea` |
+
+## Peter Thacher (round 109, my pick, 2026-10-23)
+
+Slugs `pthacher-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| An oration delivered at Watertown, March 5, 1776. : To commemorate the bloody massacre at Boston: perpetrated March 5, 1770 (Watertown [Mass.] : Printed and sold by Benjamin Edes, on the bridge, 1776) | have-ocr | IA `orationdelivered00thac` |
+| A reply to the strictures of Mr. J. S. a layman, upon the pamphlet entitled Observations upon the present state upon the present state of the clergy in New-England, &c. By Peter Thacher, A.M. author of said pamphlet.  1784 (catalogued 1784) | have-ocr | IA `bim_eighteenth-century_a-reply-to-the-stricture_thacher-peter_1784` |
+| A sermon preached to the society in Brattle-street, Boston, March 25th, 1798 : and occasioned by the death of Madam Rebecca Gill, consort of his Honor Moses Gill, Esq., lieutenant-governor of the commonwealth of Massachusetts, who died March 19th, 1798, ætat. 70 (Boston : Printed by Rhoades and Laughton ..., 1798) | have-ocr | IA `sermonpreachedto00thac` |
+| A sermon, delivered at the First Church in Boston, April 6, 1798,  1798 (catalogued 1798) | have-ocr | IA `bim_eighteenth-century_a-sermon-delivered-at-t_thacher-peter-pastor-o_1798` |
+| A sermon preached June 12, 1799, before His Honor Moses Gill, esquire, lieutenant governor and commander in chief (Boston: Printed by Young & Minns, Printers to the Government of Massachusetts, 1799) | have-ocr | IA `sermonpreachedju00thac` |
+| A sermon preached to the Church and Society in Brattle-Street, Boston, Dec. 29, 1799 : and occasioned by the completion of a century from its first establishment (Boston : Printed by Young & Minns ..., 1800) | have-ocr | IA `sermonpreachedto00thac_0` |
+| The Rest which Remaineth to the People of God (1778), IA bim_eighteenth-century_the-rest-which-remaineth_thacher-peter-pastor-o_1778: the text file holds the tail of a microfilm reel of other items, not this sermon | pending | not shelved |
+| The 1696 Saints' Victory and the 1730 Man's Frailty are by earlier Peter Thachers of Milton and Middleborough; the court reports are by Judge Peter O. Thacher | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
