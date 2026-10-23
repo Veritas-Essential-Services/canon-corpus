@@ -1,0 +1,85 @@
+{
+ "_about": "Jacques Futrelle: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Jacques Futrelle",
+ "_name_words": [
+  "futrelle",
+  "jacques"
+ ],
+ "_surname": [
+  "jacques futrelle",
+  "futrelle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jfutrelle-elusive-isabel": [
+   10943,
+   "Elusive Isabel"
+  ],
+  "jfutrelle-diamond-master": [
+   14896,
+   "The Diamond Master"
+  ],
+  "jfutrelle-leak": [
+   37146,
+   "The Leak"
+  ],
+  "jfutrelle-chase-of-the-golden-plate": [
+   38981,
+   "The Chase of the Golden Plate"
+  ],
+  "jfutrelle-problem-of-cell-13": [
+   57669,
+   "The problem of Cell 13"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jfutrelle-elusive-isabel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacques futrelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfutrelle-diamond-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacques futrelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfutrelle-leak": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacques futrelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfutrelle-chase-of-the-golden-plate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacques futrelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfutrelle-problem-of-cell-13": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacques futrelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

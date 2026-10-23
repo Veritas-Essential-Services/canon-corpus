@@ -44663,3 +44663,15 @@ Shelf: `pipeline/charles-gilson_shelf.json` (2026-10-22; added at the coordinato
 | The Fire-Gods: A Tale of the Congo | have | PG 39255, `cgilson-fire-gods` (1186 units) |
 | Submarine U93 | have | PG 39387, `cgilson-submarine-u93` (1666 units) |
 | Treasure of Kings Being the Story of the Discovery of the "Big Fish," or the Quest of the Greater Treasure of the Incas of Peru. | have | PG 39399, `cgilson-treasure-of-kings-being-the-story-of-the-discovery-o` (1293 units) |
+
+## Jacques Futrelle
+
+Shelf: `pipeline/jacques-futrelle_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Elusive Isabel | have | PG 10943, `jfutrelle-elusive-isabel` (1265 units) |
+| The Diamond Master | have | PG 14896, `jfutrelle-diamond-master` (777 units) |
+| The Leak | have | PG 37146, `jfutrelle-leak` (163 units) |
+| The Chase of the Golden Plate | have | PG 38981, `jfutrelle-chase-of-the-golden-plate` (1333 units) |
+| The problem of Cell 13 | have | PG 57669, `jfutrelle-problem-of-cell-13` (2722 units) |
