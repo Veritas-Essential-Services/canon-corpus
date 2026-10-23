@@ -2795,13 +2795,14 @@ Round 29 (2026-10-10), vetoable. Round 151 (2026-10-23) added Moons of Nippon (1
 ## Ellen Frothingham (Lessing's Laocoon; Hermann and Dorothea; Auerbach's Edelweiss)
 
 Shelf: `pipeline/ellen-frothingham_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ellen-frothingham` · titles `python3 pipeline/split_shelf_titles.py ellen-frothingham`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 152 (2026-10-23) added Lessing's Nathan the Wise (1867). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `ellen-frothingham-auerbach-edelweiss-a-story` | Berthold Auerbach | Edelweiss: A Story | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 33007 |
 | `ellen-frothingham-goethe-hermann-and-dorothea` | Johann Wolfgang von Goethe | Hermann and Dorothea | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 1958 |
 | `ellen-frothingham-lessing-laocoon` | Gotthold Ephraim Lessing | Laocoon | Ellen Frothingham | 1869-1874 (see the Gutenberg header) | have | PG 73078 |
+| `ellen-frothingham-lessing-nathan-the-wise` | Gotthold Ephraim Lessing | Nathan the Wise: a Dramatic Poem | Ellen Frothingham | 1867 | have-raw | IA `nathanwiseadram01fiscgoog` |
 | `frothingham-sappho-1876` | — | Grillparzer's Sappho (Roberts Brothers, Boston, 1876; archive.org sapphotragedyinf00grilrich): the only scan found is a 1972 University Microfilms xerographic facsimile, so it waits on the facsimile ruling. | — | — | pending | — |
 
 ## R. Dillon Boylan (Werther; Schiller's Don Carlos)
@@ -4058,6 +4059,7 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 |---|---|---|---|---|---|---|
 | `fanny-copeland-brlic-mazuranic-croatian-tales-of-long-ago` | Ivana Brlic-Mazuranic | Croatian Tales of Long Ago | Fanny S. Copeland | 1915-1924 (see the Gutenberg header) | have | PG 60095 |
 | `fanny-copeland-tucic-the-slav-nations` | Srdan Tucic | The Slav Nations | Fanny S. Copeland | 1915-1924 (see the Gutenberg header) | have | PG 54348 |
+| `fanny-copeland-vosnjak-bulwark` | Bogumil Vošnjak | A Bulwark against Germany: the Fight of the Slovenes (George Allen & Unwin, London; bulwarkagainstg00vosnuoft). The title page prints no year; archive.org dates it 1917. Found 2026-10-23 (round 152). | Fanny S. Copeland | — | pending | — |
 
 ## Oliver C. Colt (Marbot's Memoirs; Tartarin de Tarascon)
 
@@ -4954,6 +4956,7 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 |---|---|---|---|---|---|---|
 | `ella-mcmahon-caussade-abandonment-or-absolute-surrender-to-div` | Jean Pierre de Caussade | Abandonment; or, Absolute Surrender to Divine Providence | Ella McMahon | 1884-1887 (see the Gutenberg header) | have | PG 52057 |
 | `ella-mcmahon-francis-maxims-and-counsels-of-st-francis-de-sal` | St. Francis de Sales | Maxims and counsels of St. Francis de Sales for every day of the year | Ella McMahon | 1884-1887 (see the Gutenberg header) | have | PG 73661 |
+| `ella-mcmahon-golden-sands` | — | Golden Sands: a Collection of Little Counsels for the Sanctification and Happiness of Daily Life, translated from the French by Miss Ella McMahon (Benziger, New York; goldensandsacol00sylvgoog). The title page prints no year. Found 2026-10-23 (round 152). | Ella McMahon | — | pending | — |
 
 ## John Maver: Zúñiga's Historical View of the Philippine Islands (2 vols)
 
@@ -5098,12 +5101,14 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## F. Appleby Holt (Gilliard's Thirteen Years at the Russian Court; Benoît)
 
 Shelf: `pipeline/fa-holt_shelf.json` · fetch `python3 pipeline/fetch_shelf.py fa-holt` · titles `python3 pipeline/split_shelf_titles.py fa-holt`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 152 (2026-10-23) added Paléologue's An Ambassador's Memoirs vols. I-II (1925). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `fa-holt-benoit-the-secret-spring` | Pierre Benoît | The secret spring | F. Appleby Holt (with H. W. Fox) | 1920-1921 (see the Gutenberg header) | have | PG 69281 |
 | `fa-holt-gilliard-thirteen-years-at-the-russian-court-a-pe` | Pierre Gilliard | Thirteen years at the Russian court (a personal record of the last years and death of the Czar Nicholas II. and his family) | F. Appleby Holt | 1920-1921 (see the Gutenberg header) | have | PG 60546 |
+| `fa-holt-paleologue-an-ambassadors-memoirs-1` | Maurice Paléologue | An Ambassador's Memoirs, vol. I (July 1914 - June 2nd, 1915) | F. A. Holt | 1925 | have-raw | IA `ambassadorsmemoi0001maur` |
+| `fa-holt-paleologue-an-ambassadors-memoirs-2` | Maurice Paléologue | An Ambassador's Memoirs, vol. II | F. A. Holt | 1925 | have-raw | IA `ambassadorsmemoi0002maur` |
 
 ## Nora Kathleen Hills's Vimar picture books
 
@@ -5118,12 +5123,13 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Emily Hill: Karasowski's Chopin (2 vols)
 
 Shelf: `pipeline/emily-hill_shelf.json` · fetch `python3 pipeline/fetch_shelf.py emily-hill` · titles `python3 pipeline/split_shelf_titles.py emily-hill`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 152 (2026-10-23) added Elterlein's Beethoven's Pianoforte Sonatas (1886). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `emily-hill-karasowski-frederic-chopin-his-life-letters-and-wor-vol-1` | Maurycy Karasowski | Frederic Chopin: His Life, Letters, and Works,  v. 1 (of  2) | Emily Hill | 1879 (see the Gutenberg header) | have | PG 46577 |
 | `emily-hill-karasowski-frederic-chopin-his-life-letters-and-wor-vol-2` | Maurycy Karasowski | Frederic Chopin: His Life, Letters, and Works,  v. 2 (of  2) | Emily Hill | 1879 (see the Gutenberg header) | have | PG 46573 |
+| `emily-hill-elterlein-beethovens-pianoforte-sonatas` | Ernst von Elterlein | Beethoven's Pianoforte Sonatas Explained for the Lovers of the Musical Art | Emily Hill | 1886 (this printing) | have-raw | IA `beethovenspianof00gottuoft` |
 
 ## William Frederick Harvey (Nyrop; Nordau)
 
@@ -5313,12 +5319,15 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Eleanor Stimson Brooks (Duhamel; Rolland)
 
 Shelf: `pipeline/eleanor-brooks_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eleanor-brooks` · titles `python3 pipeline/split_shelf_titles.py eleanor-brooks`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 152 (2026-10-23) added Le Roy, Chauvelot and Berguer (1919-23). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `eleanor-brooks-duhamel-the-heart-s-domain` | Georges Duhamel | The Heart's Domain | Eleanor Stimson Brooks | 1919-1925 (see the Gutenberg header) | have | PG 66564 |
 | `eleanor-brooks-rolland-summer` | Romain Rolland | Summer | Eleanor Stimson Brooks (with Van Wyck Brooks) | 1919-1925 (see the Gutenberg header) | have | PG 66882 |
+| `eleanor-brooks-le-roy-jacquou-the-rebel` | Eugène Le Roy | Jacquou the Rebel (Jacquou le croquant) | Eleanor Stimson Brooks | 1919 | have-raw | IA `jacquourebeljac00broogoog` |
+| `eleanor-brooks-chauvelot-mysterious-india` | Robert Chauvelot | Mysterious India: Its Rajahs, Its Brahmans, Its Fakirs | Eleanor Stimson Brooks | 1921 | have-raw | IA `mysteriousindia00broogoog` |
+| `eleanor-brooks-berguer-some-aspects-of-the-life-of-jesus` | Georges Berguer | Some Aspects of the Life of Jesus from the Psychological and Psycho-analytic Point of View | Eleanor Stimson Brooks and Van Wyck Brooks | 1923 | have-raw | IA `someaspectsoflif00berg` |
 
 ## Van Wyck Brooks: Bazalgette's Thoreau
 

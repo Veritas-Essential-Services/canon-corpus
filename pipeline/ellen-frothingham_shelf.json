@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Ellen Frothingham (1835-1902): Goethe's Hermann and Dorothea (1870), Lessing's Laocoon (1874) and Auerbach's Edelweiss (1869). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Ellen Frothingham (1835-1902): Goethe's Hermann and Dorothea (1870), Lessing's Laocoon (1874) and Auerbach's Edelweiss (1869). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted. From archive.org (2026-10-23): Lessing's Nathan the Wise (Holt, 1867).",
  "_name_words": [
   "ellen frothingham"
  ],
@@ -22,7 +22,12 @@
    "Laocoon"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "efr-ia-lessing-nathan": [
+   "nathanwiseadram01fiscgoog",
+   "Lessing: Nathan the Wise"
+  ]
+ },
  "titles": {
   "ellen-frothingham-auerbach-edelweiss-a-story": {
    "source": "efr-33007",
@@ -47,6 +52,14 @@
    "translated": "1869-1874 (see the Gutenberg header)",
    "translator": "Ellen Frothingham",
    "scan_edition": "Project Gutenberg 73078 (clean text)"
+  },
+  "ellen-frothingham-lessing-nathan-the-wise": {
+   "source": "efr-ia-lessing-nathan",
+   "of": "Gotthold Ephraim Lessing",
+   "work": "Nathan the Wise: a Dramatic Poem",
+   "translated": "1867",
+   "translator": "Ellen Frothingham",
+   "scan_edition": "Henry Holt and Company, New York, entered 1867 (Google scan); with Kuno Fischer's essay on the poem"
   }
  },
  "_pending": {
@@ -57,7 +70,7 @@
  "_checks": {
   "efr-1958": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen frothingham",
    "identity": "ok",
@@ -66,7 +79,7 @@
   },
   "efr-33007": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen frothingham",
    "identity": "ok",
@@ -75,12 +88,23 @@
   },
   "efr-73078": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ellen frothingham",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ellen Frothingham"
+  },
+  "efr-ia-lessing-nathan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen frothingham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -98,6 +122,18 @@
    "pg": 73078,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ellen Frothingham"
+  },
+  "efr-ia-lessing-nathan": {
+   "ia": "nathanwiseadram01fiscgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1729,
+    1746,
+    1752,
+    1753,
+    1867
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

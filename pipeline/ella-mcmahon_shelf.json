@@ -37,7 +37,9 @@
    "scan_edition": "Project Gutenberg 73661 (clean text)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "ella-mcmahon-golden-sands": "Golden Sands: a Collection of Little Counsels for the Sanctification and Happiness of Daily Life, translated from the French by Miss Ella McMahon (Benziger, New York; goldensandsacol00sylvgoog). The title page prints no year; the text cites 1881."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {

@@ -378,3 +378,5 @@
 - 2026-10-23T01:31-05:00: Round 150: L. Dora Schmitz +8, Denis Florence MacCarthy +1; 0 mismatched, 0 rights flags.
 
 - 2026-10-23T01:37-05:00: Round 151: E. G. Martin +6, Drillien +3, Dunstan +1, Edna Underwood +1, Dorothy Bussy +1; 2 pending (undated); 0 mismatched, 0 rights flags.
+
+- 2026-10-23T01:42-05:00: Round 152: Eleanor Stimson Brooks +3, Ellen Frothingham +1, Emily Hill +1, F. A. Holt +2; 2 pending (undated); 0 mismatched, 0 rights flags.

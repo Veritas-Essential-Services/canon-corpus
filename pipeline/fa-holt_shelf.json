@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: F. Appleby Holt (1888-1980): Gilliard's Thirteen Years at the Russian Court (1921) and, with H. W. Fox, Benoît's The Secret Spring. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: F. Appleby Holt (1888-1980): Gilliard's Thirteen Years at the Russian Court (1921) and, with H. W. Fox, Benoît's The Secret Spring. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted. From archive.org (2026-10-23): Paléologue's An Ambassador's Memoirs, vols. I and II (Doran, 1925); no scan of vol. III naming him was found.",
  "_name_words": [
   "f. appleby holt",
   "f. a. holt",
@@ -22,7 +22,16 @@
    "The secret spring"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "fah-ia-paleologue-memoirs-1": [
+   "ambassadorsmemoi0001maur",
+   "Paléologue: An Ambassador's Memoirs 1"
+  ],
+  "fah-ia-paleologue-memoirs-2": [
+   "ambassadorsmemoi0002maur",
+   "Paléologue: An Ambassador's Memoirs 2"
+  ]
+ },
  "titles": {
   "fa-holt-benoit-the-secret-spring": {
    "source": "fah-69281",
@@ -39,6 +48,22 @@
    "translated": "1920-1921 (see the Gutenberg header)",
    "translator": "F. Appleby Holt",
    "scan_edition": "Project Gutenberg 60546 (clean text)"
+  },
+  "fa-holt-paleologue-an-ambassadors-memoirs-1": {
+   "source": "fah-ia-paleologue-memoirs-1",
+   "of": "Maurice Paléologue",
+   "work": "An Ambassador's Memoirs, vol. I (July 1914 - June 2nd, 1915)",
+   "translated": "1925",
+   "translator": "F. A. Holt",
+   "scan_edition": "George H. Doran Company, New York, 1925"
+  },
+  "fa-holt-paleologue-an-ambassadors-memoirs-2": {
+   "source": "fah-ia-paleologue-memoirs-2",
+   "of": "Maurice Paléologue",
+   "work": "An Ambassador's Memoirs, vol. II",
+   "translated": "1925",
+   "translator": "F. A. Holt",
+   "scan_edition": "George H. Doran Company, New York, 1925"
   }
  },
  "_pending": {},
@@ -47,7 +72,7 @@
  "_checks": {
   "fah-60546": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "f. appleby holt",
    "identity": "ok",
@@ -56,12 +81,34 @@
   },
   "fah-69281": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "f. a. holt",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "H. W. Fox; F. A. Holt"
+  },
+  "fah-ia-paleologue-memoirs-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. a. holt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fah-ia-paleologue-memoirs-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. a. holt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -74,6 +121,31 @@
    "pg": 69281,
    "pg_copyrighted_marker": false,
    "pg_translator": "H. W. Fox"
+  },
+  "fah-ia-paleologue-memoirs-1": {
+   "ia": "ambassadorsmemoi0001maur",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913,
+    1914,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fah-ia-paleologue-memoirs-2": {
+   "ia": "ambassadorsmemoi0002maur",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1858,
+    1861,
+    1863,
+    1892,
+    1915,
+    1916,
+    1925
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
