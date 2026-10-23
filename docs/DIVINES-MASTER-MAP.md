@@ -10148,6 +10148,16 @@ Slugs `wilkins-*`. Built from title pages read for round 41.
 | Of the principles and duties of natural religion : two books (London : Printed for J. Walthoe, J. Knapton [etc.], 1734) | have-ocr | IA `ofprinciplesduti00wilk` |
 | Other printings of each (1718 Gift of Prayer and others) | alternate | not shelved |
 | His natural philosophy (The Discovery of a World in the Moone 1638, Mathematicall Magick 1648, Mercury 1641/1694, the Mathematical and Philosophical Works 1708, 1802): outside lane A's theology scope | excluded | |
+
+## John Overall (round 41, my pick, 2026-10-22)
+
+Slugs `overall-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The convocation book of MDCVI ... concerning the government of God's Catholic Church and the kingdom of the whole world (Oxford, Parker, 1844) | have-ocr | IA `convocationbooko00overuoft` |
+| Sancroft's 1690 first printing and other scans of the 1844 edition | alternate | not shelved |
+| A Catechism of the Constitution of the United States (1892-1895), by a later Overall | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
