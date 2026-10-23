@@ -17578,3 +17578,17 @@ Shelf: `pipeline/william-john-hopkins_shelf.json` (2026-10-22; added at the coor
 | The clammer and the submarine | have | PG 39456, `wjhopkins-clammer-and-the-submarine` (1027 units) |
 | She Blows! And Sparm at That! | have | PG 58028, `wjhopkins-she-blows-and-sparm-at-that` (1458 units) |
 | The clammer | have | PG 70399, `wjhopkins-clammer` (821 units) |
+
+## George V. Hobart
+
+Shelf: `pipeline/george-v-hobart_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| You Can Search Me | have | PG 12607, `gvhobart-you-can-search-me` (564 units) |
+| Get Next! | have | PG 12608, `gvhobart-get-next` (388 units) |
+| Back to the Woods: The Story of a Fall from Grace | have | PG 12609, `gvhobart-back-to-the-woods` (551 units) |
+| The Silly Syclopedia A Terrible Thing in the Form of a Literary Torpedo which is Launched for Hilarious Purposes Only Inaccurate in Every Particular Containing Copious Etymological Derivations and Other Useless Things | have | PG 15705, `gvhobart-silly-syclopedia-a-terrible-thing-in-the-form-of-a` (926 units) |
+| Skiddoo! | have | PG 19668, `gvhobart-skiddoo` (444 units) |
+| You Should Worry Says John Henry | have | PG 20584, `gvhobart-you-should-worry-says-john-henry` (711 units) |
+| Down the line with John Henry | have | PG 68504, `gvhobart-down-the-line-with-john-henry` (533 units) |

@@ -2429,3 +2429,6 @@
 
 ## 2026-10-22 23:11 CDT — william-john-hopkins: done
 - william-john-hopkins: new shelf, 7 Gutenberg books, 8,673 units, 1218 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — george-v-hobart: done
+- george-v-hobart: new shelf, 7 Gutenberg books, 4,117 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
