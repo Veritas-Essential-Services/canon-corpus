@@ -1435,3 +1435,8 @@
 - New shelves: george-finlay 7 (History of Greece 146 B.C.-1864, Tozer's 1877 edition complete), alfred-gudeman 1, maxime-collignon 2 (tr. J. H. Wright; tr. Jane Harrison), gildersleeve 3, teuffel 2 (tr. Wagner 1873), g-a-simcox 2, f-w-bussell 4, croiset 1 (tr. Heffelbower), gilbert-norwood 5 (1908-1925), j-c-stobart 2, edward-capps 2.
 - Not taken: Gudeman's Latin Literature of the Empire (a Latin anthology, 0.58), the 1892 Gudeman Syllabus (superseded), school grammars and readers, theology and English-literature books by the same men.
 - Gildersleeve's Syntax (0.73) and Teuffel (0.83-0.85) score low because of Greek and Latin quotation; their English is clean. Kept, per Adam's Greek ruling.
+
+## 2026-10-23 — Round cy: Duruy
+- victor-duruy 16: A History of Greece and of the Greek People (Boston, 1892; 4 vols. in 8 sections, complete) and History of Rome and of the Roman People (Boston, 1883; vols. I-III, IV section I, V-VIII). Each section identified from its title page, because IA's volume fields are inconsistent.
+- Gap: Rome vol. IV section II. The only Boston scan has no text layer, and the London (Kelly) edition divides its parts differently (its IV.2 covers Nero to Trajan), so it cannot stand in. Recorded under _excluded.
+- The Greece scans never name the translator, so no translator is claimed for them. Rome vols. III and VI print the surname 'pURUY' in OCR; title pages read and recorded under _identity_checked.

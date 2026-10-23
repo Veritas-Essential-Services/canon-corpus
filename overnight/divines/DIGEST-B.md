@@ -293,3 +293,4 @@
 - 10/23 round cv: the scholars wishlist, 8 new shelves, 46 works: Sayce 24 (13 clean PG), Rostovtzeff 6, Tarn 3, Zielinski 2, Wilamowitz 1, Postgate 4, Munro 2, Robinson Ellis 4. Three post-1920 scans are later reprints of pre-1930 texts (title pages read and recorded).
 - 10/23 round cw: unheld Gutenberg classics: Hodgkin 11 (Italy and her Invaders complete), Tenney Frank 6, Dunlop 3, St. John 3, ACER +3 clean PG; ACER Ovid fetch fixed. Notes left for lanes C and D (Symonds's Greek Poets; Church, Jennie Hall).
 - 10/23 round cx: IA subject sweep, 11 new scholar shelves, 31 works (Finlay complete 7 vols, Gildersleeve, Teuffel, Simcox, Bussell, Norwood, Stobart, Capps, Collignon, Croiset, Gudeman). Next: Duruy's Greece and Rome.
+- 10/23 round cy: Duruy 16 sections (Greece complete; Rome less vol. IV section II, which has no usable scan).
