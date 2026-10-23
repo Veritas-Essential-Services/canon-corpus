@@ -18735,3 +18735,16 @@ Slugs `virgin-*`. Built from title pages read for round 127.
 |---|---|---|
 | Mastership of the sea : a discourse before the American Seamen's Friend Society, at its sixty-sixth anniversary, Sunday evening, May 7th, 1894 in the Pilgrim Church, Madison Avenue and One Hundred and Twenty-First Street, New York City / by Samuel H. Virgin (New York : American Seamen's Friend Society, 1894) | have-ocr | IA `mastershipofsead00virg` |
 | Spiritual sanity and other sermons (New York, Boston [etc.] American tract society, 1905) | have-ocr | IA `spiritualsanityo00virg` |
+
+## William Parkinson (round 127, my pick, 2026-10-23)
+
+Slugs `parkinson-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon, delivered in the meeting house of the First Baptist church in the city of New York, August 20th, 1812. Being a day recommended, by the constituted authorities of the nation, as a day of special humiliation and prayer, on account of the present war (New-York, Printed for J. Tiebout, 1812) | have-ocr | IA `sermondeliveredi00park` |
+| Jubilee : a sermon, containing a history of the origin of the First Baptist Church in the City of New York, and its progress, during the first fifty years since its constitution (with explanatory notes) : delivered in the meeting-house of said church, Jan. 1, 1813 (New-York : Printed for the proprietor, 1813) | have-ocr | IA `jubileesermoncon00park_0` |
+| A sermon; being one of a series of sermons on the XXXIII chapter of Deuteronomy ([New York], 1828) | have-ocr | IA `sermonbeingoneof00park` |
+| A Selection of Hymns and Spiritual Songs (1817), IA selectionofhym1817park: a hymnal he compiled (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| cihm_20977 and jubileesermonco00park are other scans or a later edition | excluded | |
+| A Discussion of the Weekly Sabbath is by another author | excluded | |
