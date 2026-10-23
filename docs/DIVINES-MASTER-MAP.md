@@ -44783,3 +44783,15 @@ Shelf: `pipeline/maud-diver_shelf.json` (2026-10-22; added at the coordinator's 
 | Captain Desmond, V.C. | have | PG 27629, `mdiver-captain-desmond-v-c` (3218 units) |
 | Awakening | have | PG 78836, `mdiver-awakening` (2720 units) |
 | Unconquered | have | PG 78882, `mdiver-unconquered` (2603 units) |
+
+## Mrs. George Cupples
+
+Shelf: `pipeline/george-cupples_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Carry's Rose; or, the Magic of Kindness. A Tale for the Young | have | PG 20896, `gcupples-carrys-rose` (213 units) |
+| Bluff Crag; or, A Good Word Costs Nothing | have | PG 21636, `gcupples-bluff-crag` (245 units) |
+| The Cockatoo's Story | have | PG 21685, `gcupples-cockatoos-story` (413 units) |
+| My Pretty Scrap-Book: Picture Pages and Pleasant Stories for Little Readers | have | PG 45302, `gcupples-my-pretty-scrap-book` (241 units) |
+| The Stocking-Knitter's Manual: A Handy Book for the Work-Table | have | PG 57273, `gcupples-stocking-knitters-manual` (180 units) |

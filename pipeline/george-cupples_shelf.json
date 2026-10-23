@@ -1,0 +1,85 @@
+{
+ "_about": "Mrs. George Cupples: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mrs. George Cupples",
+ "_name_words": [
+  "cupples",
+  "george"
+ ],
+ "_surname": [
+  "george cupples",
+  "cupples"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gcupples-carrys-rose": [
+   20896,
+   "Carry's Rose; or, the Magic of Kindness. A Tale for the Young"
+  ],
+  "gcupples-bluff-crag": [
+   21636,
+   "Bluff Crag; or, A Good Word Costs Nothing"
+  ],
+  "gcupples-cockatoos-story": [
+   21685,
+   "The Cockatoo's Story"
+  ],
+  "gcupples-my-pretty-scrap-book": [
+   45302,
+   "My Pretty Scrap-Book: Picture Pages and Pleasant Stories for Little Readers"
+  ],
+  "gcupples-stocking-knitters-manual": [
+   57273,
+   "The Stocking-Knitter's Manual: A Handy Book for the Work-Table"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gcupples-carrys-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cupples",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcupples-bluff-crag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cupples",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcupples-cockatoos-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cupples",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcupples-my-pretty-scrap-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cupples",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcupples-stocking-knitters-manual": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george cupples",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
