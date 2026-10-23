@@ -9706,3 +9706,14 @@ Slugs `chemnitz-*`. Built from title pages read for round 39.
 | A Discouerie and Batterie of the Great Fort of Unwritten Traditions: otherwise, An Examination of the Counsell of Trent touching the Decree of Traditions, done by Martinus Chemnitius in Latine and translated into English by R. V. (London: Thomas Purfoot and William Pounsonbie, 1582) | have-ocr | IA `bim_early-english-books-1475-1640_a-discouerie-and-batteri_martinus-chemnitius_1582` |
 | A Substantial and Godly Exposition of the Praier commonly called the Lords Praier, written in Latin by D. Martine Chemnitius, newly translated out of Latine into English (Cambridge: John Legate; catalogued 1598) | have-ocr | IA `bim_early-english-books-1475-1640_a-substantial-and-godly-_martinus-chemnitius_1598` |
 | His Latin works (De Duabus Naturis 1580, the Examen ed. Preuss 1861); Christian and Bogislav Philipp von Chemnitz; the 1971-89 Concordia translations (in copyright); a mislabelled 'Concordia' item dated 1537 | excluded | |
+
+## Girolamo Zanchi (round 39, my pick, 2026-10-22)
+
+Slugs `zanchi-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| An Excellent and Learned Treatise, of the Spirituall Mariage betweene Christ and the Church, and every Faithfull Man, written in Latine by H. Zanchius and translated into English (Cambridge: John Legate, 1592) | have-ocr | IA `bim_early-english-books-1475-1640_an-excellent-and-learned_zanchius-hieronymus_1592` |
+| H. Zanchius his Confession of Christian Religion, which now at length being 70 yeares of age he caused to bee published, Englished (Cambridge: John Legat, 1599) | have-ocr | IA `bim_early-english-books-1475-1640_h-zanchius-his-confessi_zanchius-h_1599` |
+| The Doctrine of Absolute Predestination, 'translated in great measure from the Latin of Jerom Zanchius' by Augustus Toplady (1769; later printings 1773, 1779, 1793, 1811): Toplady's free version, also in vol. 5 of his Works on the toplady shelf; held for Adam, as in round 39 | pending | not shelved |
+| Latin works (De Religione Christiana 1605, the Miscellanea 1605 and 1608, the 1592 anti-Arian tract); the discourse taken out of Zanchius in Perkins's Case of Conscience (1592, Perkins's book) | excluded | |

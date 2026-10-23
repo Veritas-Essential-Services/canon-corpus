@@ -5463,10 +5463,12 @@
     },
     {
       "id": "girolamo-zanchi",
-      "status": "queued",
+      "status": "done",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:32:15-05:00",
+      "notes": "Rebuilt on resume: the 1592 Spirituall Mariage and the 1599 Confession (both Cambridge, Legate); verify 0 mismatched, 0 uids minted. Toplady's Zanchius stays pending for Adam."
     },
     {
       "id": "franciscus-junius",
