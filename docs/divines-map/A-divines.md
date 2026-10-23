@@ -11708,3 +11708,19 @@ Slugs `atwater-*`. Built from title pages read for round 54.
 | A discourse commemorative of the late Dr. Charles Hodge. Delivered in the chapel of the College of New Jersey by request of the president, October 13th, and repeated in the First Presbyterian Church, Princeton, at the request of its session, October 20th, 1878 (Princeton, C. S. Robinson, printer, 1878) | have-ocr | IA `discoursecommemo00atwa` |
 | Notes on metaphysics from lectures given by Lyman H. Atwater… (Princeton, N.J., 1880) | have-ocr | IA `notesonmetaphysi00atwa` |
 | The Biblical Repertory and Princeton Review volumes he edited (journals, many authors); Future Paper Money (economics) | excluded | |
+
+## Roswell D. Hitchcock (round 54, my pick, 2026-10-23)
+
+Slugs `hitchcock-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| A eulogy on Daniel Webster (Brunswick, J. Griffin, 1852) | have-ocr | IA `eulogyondanielwe01hitc` |
+| An address on colportage : before the American Tract Society, at their forty-first anniversary in Boston, May 30, 1855 (Boston / American Tract Society, 1855) | have-ocr | IA `addressoncolport00hitc` |
+| Our national sin: a sermon, preached on the day of the national fast, September 26, 1861, in the South Reformed Dutch church, New York city (New York, Baker & Godwin, printers, 1861) | have-ocr | IA `ournationalsinse00hitc` |
+| The life, writings and character of Edward Robinson, read before the N. Y. Historical Society (New York : A. D. F. Randolph, 1863) | have-ocr | IA `lifewritingschar00hitc` |
+| Hitchcock's New and complete analysis of the Holy Bible : or, The whole of the Old and New Testaments arranged according to subjects in twenty-seven books (New York : A.J. Johnson, 1871) | have-ocr | IA `hitchcocksnewcom71hitc` |
+| Socialism (New York, A. D. F. Randolph & company, 1879) | have-ocr | IA `socialism00hitc` |
+| Διδαχη των δωδεκα ̓αποστολων Teaching of the Twelve Apostles (Charles Scribner's Sons, 1884) | have-ocr | IA `teachingoftwelve00hitc` |
+| Eternal atonement (New York, C. Scribner's sons, 1888) | have-ocr | IA `eternalatonement00hitc` |
+| Hymn books he co-edited (Hymns and Songs of Praise, Carmina Sanctorum); the Tauler life and East of the Jordan, which he only introduced; the 1881 Revised New Testament reprint; the 1952 Topical Bible reissues | excluded | |

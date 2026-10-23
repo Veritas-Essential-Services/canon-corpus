@@ -6940,6 +6940,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T01:14:59-05:00",
       "notes": "Princeton moral philosopher; journal volumes left out. 0 uids minted."
+    },
+    {
+      "id": "roswell-d-hitchcock",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:14:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:14:59-05:00",
+      "notes": "Union Seminary church historian; hymn books and works he only introduced left out. 0 uids minted."
     }
   ]
 }
