@@ -1,0 +1,137 @@
+{
+ "_about": "Public-domain Joseph Benson (1749-1821), Wesleyan Methodist preacher and commentator, for the Word Hoard: Two Sermons on Sanctification (1782), Remarks on Dr. Priestley's System of Materialism (1788), A Defence of the Methodists (1793), An Apology for the People called Methodists (1801), Sermons on Various Occasions (vol. 1, 1802; vol. 2, 1836) and The Life of the Rev. John de la Flechere (1820), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "benson"
+ ],
+ "_surname": [
+  "joseph benson",
+  "jos. benson",
+  "j. benson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "benson-sanctification": [
+   "bim_eighteenth-century_two-sermons-on-sanctifi_benson-joseph_1782",
+   "Two sermons, on sanctification. By Joseph Benson.  1782 (catalogued 1782)"
+  ],
+  "benson-priestley": [
+   "bim_eighteenth-century_remarks-on-dr-priestley_benson-joseph_1788",
+   "Remarks on Dr. Priestley's system of materialism, mechanism, and necessity, in a series of letters to the Reverend Mr. Wesley, introductory to an essay towards the proof of an immortal spirit in man.  1788 (catalogued 1788)"
+  ],
+  "benson-defence-of-methodists": [
+   "bim_eighteenth-century_a-defence-of-the-methodi_benson-joseph_1793",
+   "A defence of the Methodists, in five letters, addressed to the Rev. Dr. Tatham, containing sundry remarks on a late discourse, preached by that gentleman at four of the churches in Oxford, and entitled \"A sermon suitable to the times.\" By Joseph Benson.  1793 (catalogued 1793)"
+  ],
+  "benson-apology": [
+   "apologyforpeople00bens",
+   "An apology for the people called Methodists : containing a concise account of their origin and progress, doctrine, discipline, and designs, humbly submitted to the consideration of the friends of true Christianity (London : Printed by G. Story ..., sold by G. Whitfield [and 5 others], 1801)"
+  ],
+  "benson-sermons-1": [
+   "sermonsonvarious01bens",
+   "Sermons on various occasions : and most of them on the principal subjects of genuine Christianity (London : Printed at the Conference Office, G. Story, Agent, sold by G. Whitefield, and at the Methodist preaching houses in town and country, 1802)"
+  ],
+  "benson-sermons-2": [
+   "sermonsonvarious02bens",
+   "Sermons on various occasions, and most of them on the principal subjects of genuine Christianity, vol. 2 (London, J. Mason, 1836)"
+  ],
+  "benson-life-of-fletcher": [
+   "thelifeofrevjohn00bens",
+   "The Life of the Rev. John de la Flechere, compiled from the narratives of the Rev. Mr. Wesley ... (1820)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "benson-other": "His Commentary on the Holy Bible (1811-1818) left for a later round; Sermons and Plans of Sermons (1824-1827) and single sermons left for later; the Gilbert memoirs (another editor)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "benson-defence-of-methodists": {
+   "author": "title page read from the page image: 'A Defence of the Methodists, in five letters, addressed to the Rev. Dr. Tatham, containing sundry remarks on a late discourse preached by that gentleman at four of the churches in Oxford ... By Joseph Benson. The second edition. London: printed by G. Paramore, 1793' (OCR of the title page is unreadable)",
+   "title": "title page read from the page image: 'A Defence of the Methodists, in five letters, addressed to the Rev. Dr. Tatham, containing sundry remarks on a late discourse preached by that gentleman at four of the churches in Oxford ... By Joseph Benson. The second edition. London: printed by G. Paramore, 1793' (OCR of the title page is unreadable)"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "benson-sanctification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1782",
+   "ia_date": "1782",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-priestley": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1788",
+   "ia_date": "1788",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-defence-of-methodists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-apology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1801",
+   "ia_date": "1801",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "benson-life-of-fletcher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

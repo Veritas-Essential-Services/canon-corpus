@@ -11463,3 +11463,18 @@ Slugs `bangs-*`. Built from title pages read for round 52.
 | A history of the Methodist Episcopal Church, vol. 3 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet03banguoft` |
 | A history of the Methodist Episcopal Church, vol. 4 (New York T. Mason and G. Lane, 1839) | have-ocr | IA `ahistoryofthemet04banguoft` |
 | The Methodist Review (a periodical he edited); Watson's Biblical and Theological Dictionary (1832, Watson's book, Bangs only revised it); the Authentic History of the Missions (1832) left for later | excluded | |
+
+## Joseph Benson (round 52, my pick, 2026-10-23)
+
+Slugs `benson-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Two sermons, on sanctification. By Joseph Benson.  1782 (catalogued 1782) | have-ocr | IA `bim_eighteenth-century_two-sermons-on-sanctifi_benson-joseph_1782` |
+| Remarks on Dr. Priestley's system of materialism, mechanism, and necessity, in a series of letters to the Reverend Mr. Wesley, introductory to an essay towards the proof of an immortal spirit in man.  1788 (catalogued 1788) | have-ocr | IA `bim_eighteenth-century_remarks-on-dr-priestley_benson-joseph_1788` |
+| A defence of the Methodists, in five letters, addressed to the Rev. Dr. Tatham, containing sundry remarks on a late discourse, preached by that gentleman at four of the churches in Oxford, and entitled "A sermon suitable to the times." By Joseph Benson.  1793 (catalogued 1793) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-methodi_benson-joseph_1793` |
+| An apology for the people called Methodists : containing a concise account of their origin and progress, doctrine, discipline, and designs, humbly submitted to the consideration of the friends of true Christianity (London : Printed by G. Story ..., sold by G. Whitfield [and 5 others], 1801) | have-ocr | IA `apologyforpeople00bens` |
+| Sermons on various occasions : and most of them on the principal subjects of genuine Christianity (London : Printed at the Conference Office, G. Story, Agent, sold by G. Whitefield, and at the Methodist preaching houses in town and country, 1802) | have-ocr | IA `sermonsonvarious01bens` |
+| Sermons on various occasions, and most of them on the principal subjects of genuine Christianity, vol. 2 (London, J. Mason, 1836) | have-ocr | IA `sermonsonvarious02bens` |
+| The Life of the Rev. John de la Flechere, compiled from the narratives of the Rev. Mr. Wesley ... (1820) | have-ocr | IA `thelifeofrevjohn00bens` |
+| His Commentary on the Holy Bible (1811-1818) left for a later round; Sermons and Plans of Sermons (1824-1827) and single sermons left for later; the Gilbert memoirs (another editor) | excluded | |
