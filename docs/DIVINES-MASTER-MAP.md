@@ -14895,6 +14895,22 @@ Slugs `derham-*`. Built from title pages read for round 87.
 | Physico-theology : or, a demonstration of the being and attributes of God, from his works of creation : being the substance of sixteen sermons preached in St. Mary-le-Bow-Church, London, at the honourable Mr. Boyle's lectures in the years 1711, and 1712 (London : Printed for W. and J. Innys, 1720) | have-ocr | IA `physicotheologyo00derh` |
 | Astro-theology : or a demonstration of the being and attributes of God, from a survey of the heavens (London : Printed for W. and J. Innys, 1721) | have-ocr | IA `astrotheologyord00derh` |
 | The Artificial Clock-maker, his Philosophical Transactions papers, and his editions of John Ray and Robert Hooke | excluded | |
+
+## George W. Burnap (round 87, my pick, 2026-10-23)
+
+Slugs `burnap-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| Sectarianism both Catholic and Protestant : a lecture (Baltimore : W.R. Lucas & J.N. Wight, 1835) | have-ocr | IA `sectarianismbot00burngoog` |
+| Lectures on the history of Christianity (Baltimore, Cushing & brother [etc.], 1842) | have-ocr | IA `lecturesonhisto00burngoog` |
+| Expository lectures on the principal passages of the Scriptures which relate to the doctrine of the Trinity (Boston, J. Munroe and company, 1845) | have-ocr | IA `expositorylectur00burn` |
+| The sphere and duties of woman : a course of lectures (Baltimore, Md. : J. Murphy ; Pittsburg, Pa. : G. Quigley, 1848) | have-ocr | IA `spheredutiesofwo00burn` |
+| Lectures on the doctrines of Christianity, in controversy between Unitarians and other denominations of Christians (Boston and Cambridge, J. Munroe and company, 1848) | have-ocr | IA `lecturesondoctr00burngoog` |
+| Discourse on the rectitude of human nature (Boston, W. Crosby and H. P. Nichols, 1850) | have-ocr | IA `discourseonrect00burngoog` |
+| The old and the new : or, Discourses and proceedings at the dedication of the re-modelled Unitarian church in Charleston, S.C., on Sunday, April 2, 1954. Preceded by the farewell discourse delivered in the old church, on Sunday, April 4, 1852. <With engravings of the former and present edifices.> (Charleston, S.G. Courtenay, 1854) | have-ocr | IA `oldandnewordisc00burngoog` |
+| Christianity, its essence and evidence: or, An analsys of the New Testament into historical facts, doctrines, opinions, and phraseology (Boston, Crosby, Nicols, and company, 1855) | have-ocr | IA `christianityitse00burn` |
+| The Professions (oration), Origin and Causes of Democracy in America, Memoir of Henry A. Ingalls | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
