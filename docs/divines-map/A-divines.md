@@ -17452,3 +17452,26 @@ Slugs `dmagie-*`. Built from title pages read for round 114.
 | A discourse delivered in the Second Presbyterian Church, Elizabeth, N.J. August 6th, 1863 on occasion of the public thanksgiving appointed by Abraham Lincoln, President of the United States, to commemorate the signal victories vouchsafed to the Federal arms (New York : Printed by Francis Hart & Co., 1863) | have-ocr | IA `discoursedeliver00magi` |
 | The Roman-history books and Loeb Historia Augusta are by the classicist David Magie (1877-1960) | excluded | |
 | ourtrueencourage0000revd (a bound volume of several sermons) and ASPC0023580100 (an American Tract Society committee minute) | excluded | |
+
+## Francis Fulford (round 114, my pick, 2026-10-23)
+
+Slugs `fulford-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| A pastoral letter addressed to the clergy of his diocese ([Montreal? : s.n., 1851) | have-ocr | IA `cihm_22260` |
+| An address delivered in the chapel of the General Theological Seminary of the Protestant Episcopal Church in the United States on Friday, November 13th, 1852 (New York : Church Depository, 1852) | have-ocr | IA `cihm_44526` |
+| A charge, delivered to the clergy of the Dioceses of Montreal, on the 17th January, 1855, at the triennial visitation, held in the Cathedral Church of Montreal (Montreal : J. Lovell, 1855) | have-ocr | IA `cihm_63046` |
+| Five occasional lectures (Montreal, John Lovell, 1859) | have-ocr | IA `fiveoccasionall00fulf` |
+| A charge, delivered to the clergy of the Diocese of Montreal, on the 19th January, 1859, at the third triennial visitation, held in St. John's Church, Montreal ([Montréal? : s.n.], 1859) | have-ocr | IA `cihm_89864` |
+| A letter to the bishops and clergy of the United Church of England and Ireland in Canada ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_22969` |
+| Second letter to the Bishops and clergy of the United Church of England and Ireland in Canada ([Montreal? : s.n.], 1862) | have-ocr | IA `cihm_22971` |
+| A sermon, preached on Sunday, 5th January, 1862, in Christ Church Cathedral, Montreal, after the death of H.R.H. the Prince Consort (Montreal : Printed by John Lovell, 1862) | have-ocr | IA `sermonpreachedon00fulf` |
+| A letter to the bishops, clergy and laity of the United Church of England and Ireland in the Province of Canada ([Montreal? : s.n.], 1864) | have-ocr | IA `cihm_44527` |
+| Sermons, Addresses, and Statistics of the Diocese of Montreal (Dawson Brothers, 1865) | have-ocr | IA `sermonsaddresse00fulfgoog` |
+| The sermon preached at the opening of the triennial meeting of the General Convention of the Protestant Episcopal Church in the United States of America : in St. Luke's Church, Philadelphia, October 4th, 1865 / by Francis Fulford (King & Baird, Printers, 1865) | have-ocr | IA `sermonpreachedat00fulf` |
+| A pan-Anglican synod : a sermon preached at the general ordination held by the Right Reverend the Lord Bishop of Oxford, in the Cathedral Church of Christ in Oxford, on Sunday Dec. 23, 1866 (Oxford : Rivingtons; Montreal : Dawsons, 1867) | have-ocr | IA `albertatest_01254` |
+| Replies, correspondence, resolutions and addresses written TO him by others (cihm_35389, cihm_35390, cihm_36433, cihm_22970, cihm_89234, cihm_50565, cihm_23635) are not his | excluded | |
+| 1679baconianaorc00baco (Bacon's remains) | excluded | |
+| cihm_46610: by Francis Drummond Fulford, Esq., per its title page, a different man | excluded | |
+| misapplicationof00fulf: by Francis Drummond Fulford, Esq., per its title page, a different man | excluded | |
