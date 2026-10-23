@@ -12893,3 +12893,20 @@ Slugs `jfclarke-*`. Built from title pages read for round 64.
 | Anti-slavery days, a sketch of the struggle which ended in the abolition of slavery in the United States (New York, Lovell, 1880) | have-ocr | IA `antislaverydayss00clar` |
 | commonsenseinrel00essarich: Common-Sense in Religion (1873); nothing in the opening of this scan names Clarke; another copy can replace it | pending | not shelved |
 | Memoirs of Margaret Fuller Ossoli (with Emerson and W. H. Channing); his Book of Worship, Service Book and Disciples' Hymn Book (compiled); Exotics (verse translations); Christianity and Modern Thought and Unitarian Affirmations (lectures by several hands); Adam Clarke, Samuel Clarke and William Newton Clarke, on their own shelves | excluded | |
+
+## Hosea Ballou (round 64, my pick, 2026-10-23)
+
+Slugs `hballou-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| A treatise on atonement : in which the finite nature of sin is argued, its cause and consequences as such; the necessity and nature of atonement; and its glorious consequences, in the final reconciliation of all men to holiness and happiness (Portsmouth, N.H. : printed at the Oracle Press, 1812) | have-ocr | IA `treatiseonatonem00ball` |
+| Notes on the parables of the New Testament (Portsmouth, N. H. : Printed at the Gazette Office, 1812) | have-ocr | IA `notesonparableso00ball` |
+| A series of lecture sermons : delivered at the second Universalist meeting in Boston (Boston : Printed and published by Henry Bowen, 1818) | have-ocr | IA `seriesoflectures1818ball` |
+| A series of letters in defence of divine revelation : in reply to Rev. Abner Kneeland's serious inquiry into the authenticity of the same (Boston : H. Bowen, 1820) | have-ocr | IA `seriesoflettersi00ball` |
+| The eleven sermons which were preached (Philadelphia : E. T. Scott, 1822) | have-ocr | IA `elevensermonswhi00ball` |
+| An examination of the doctrine of future retribution (Boston, The Trumpet office, 1834) | have-ocr | IA `examinationofdoc00ball` |
+| Nine sermons on important doctrinal and practical subjects : delivered in Philadelphia, November, 1834 (Philadelphia : Thomas, 1835) | have-ocr | IA `ninesermonsonimp00ball` |
+| A voice to Universalists (Boston, J. M. Usher, 1849) | have-ocr | IA `voicetouniversal00ball` |
+| Sermons on important doctrinal subjects : with critical and explanatory notes (Boston : J. M. Usher, 1856) | have-ocr | IA `sermonsonimporta00ball_0` |
+| The Universalist Hymn Book and Hymns Composed by Different Authors (compiled); the works of Hosea Ballou 2nd | excluded | |

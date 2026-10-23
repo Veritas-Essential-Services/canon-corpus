@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain Hosea Ballou (1771-1852), Universalist minister of the Second Universalist Society, Boston, for the Word Hoard: A Treatise on Atonement (1812), Notes on the Parables of the New Testament (1812), A Series of Lecture Sermons (1818), A Series of Letters in Defence of Divine Revelation (1820), The Eleven Sermons (1822), An Examination of the Doctrine of Future Retribution (1834), Nine Sermons on Important Doctrinal and Practical Subjects (1835), A Voice to Universalists (1849) and Sermons on Important Doctrinal Subjects (1856). Hosea Ballou 2nd (1796-1861), his grand-nephew, is another man. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 64 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ballou"
+ ],
+ "_surname": [
+  "hosea ballou",
+  "h. ballou"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hballou-atonement": [
+   "treatiseonatonem00ball",
+   "A treatise on atonement : in which the finite nature of sin is argued, its cause and consequences as such; the necessity and nature of atonement; and its glorious consequences, in the final reconciliation of all men to holiness and happiness (Portsmouth, N.H. : printed at the Oracle Press, 1812)"
+  ],
+  "hballou-parables": [
+   "notesonparableso00ball",
+   "Notes on the parables of the New Testament (Portsmouth, N. H. : Printed at the Gazette Office, 1812)"
+  ],
+  "hballou-lecture-sermons": [
+   "seriesoflectures1818ball",
+   "A series of lecture sermons : delivered at the second Universalist meeting in Boston (Boston : Printed and published by Henry Bowen, 1818)"
+  ],
+  "hballou-divine-revelation": [
+   "seriesoflettersi00ball",
+   "A series of letters in defence of divine revelation : in reply to Rev. Abner Kneeland's serious inquiry into the authenticity of the same (Boston : H. Bowen, 1820)"
+  ],
+  "hballou-eleven-sermons": [
+   "elevensermonswhi00ball",
+   "The eleven sermons which were preached (Philadelphia : E. T. Scott, 1822)"
+  ],
+  "hballou-future-retribution": [
+   "examinationofdoc00ball",
+   "An examination of the doctrine of future retribution (Boston, The Trumpet office, 1834)"
+  ],
+  "hballou-nine-sermons": [
+   "ninesermonsonimp00ball",
+   "Nine sermons on important doctrinal and practical subjects : delivered in Philadelphia, November, 1834 (Philadelphia : Thomas, 1835)"
+  ],
+  "hballou-voice-to-universalists": [
+   "voicetouniversal00ball",
+   "A voice to Universalists (Boston, J. M. Usher, 1849)"
+  ],
+  "hballou-doctrinal-sermons": [
+   "sermonsonimporta00ball_0",
+   "Sermons on important doctrinal subjects : with critical and explanatory notes (Boston : J. M. Usher, 1856)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hballou-other": "The Universalist Hymn Book and Hymns Composed by Different Authors (compiled); the works of Hosea Ballou 2nd"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "hballou-atonement": "title page: 'A Treatise on Atonement ... the final reconciliation of all men to holiness and happiness, by Hoseaballou [Hosea Ballou], of Barnard, ordained pastor of the United Societies of Barnard, Woodstock, Hartland'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hballou-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hballou-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hballou-lecture-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hballou-divine-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hballou-eleven-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hballou-future-retribution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hballou-nine-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hballou-voice-to-universalists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hballou-doctrinal-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hosea ballou",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
