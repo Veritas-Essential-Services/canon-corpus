@@ -14251,6 +14251,21 @@ Slugs `mountain-*`. Built from title pages read for round 80.
 | A journal of visitation in a portion of the Diocese of Quebec (London : Society for the Propagation of the Gospel; sold by Rivingtons ..., 1847) | have-ocr | IA `journalofvisitat00moun` |
 | Sermons (London : Bell and Daldy, 1865) | have-ocr | IA `mountainssermons00mounuoft` |
 | the 1866 memoir of him by his son Armine W. Mountain; pamphlets of under 60 pages | excluded | |
+
+## Ralph C. Horner (round 80, my pick, 2026-10-23)
+
+Slugs `horner-*`. Built from title pages read for round 80.
+
+| Work | Status | Where |
+|---|---|---|
+| From the altar to the upper room : in four parts (Toronto : W. Briggs; Montreal : C.W. Coates, 1891) | have-ocr | IA `cihm_07858` |
+| Pentecost (Toronto : W. Briggs; Montreal : C.W. Coates, 1891) | have-ocr | IA `cihm_07862` |
+| Notes on Boland, or, Mr. Wesley and the second work of grace (Boston : McDonald & Gil; Toronto : W. Briggs, 1893) | have-ocr | IA `cihm_07860` |
+| Original and inbred sin (Ottawa : [s.n.], 1896) | have-ocr | IA `cihm_07861` |
+| Fragments from the feast, or, 18 sermons (Belleville : 'Cruse of Oil'Tract Repository, 1902) | have-ocr | IA `cihm_97987` |
+| The children of the Bible (Ottawa : R.C. Horner, 1903) | have-ocr | IA `cihm_74636` |
+| Revival sermons (Ottawa : Holiness Movement Pub. House, 1910) | have-ocr | IA `cihm_74657` |
+| Gospel Tent Hymns (a hymnal); The Feast of 1905, which mixes his addresses with others' testimonies | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

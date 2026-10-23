@@ -8218,6 +8218,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T04:44:16-05:00",
       "notes": "4 books (Bishop of Montreal, then Quebec)."
+    },
+    {
+      "id": "ralph-c-horner=ralph-c-horner",
+      "status": "done",
+      "scope": "round 80",
+      "added": "2026-10-23T04:44:16-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:44:16-05:00",
+      "notes": "7 books from Canadiana microfiche scans. The bare form 'horner' is shared with a history shelf, so only his full name forms are used."
     }
   ]
 }
