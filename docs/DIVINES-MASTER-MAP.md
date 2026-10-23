@@ -20169,6 +20169,15 @@ Shelf: `pipeline/john-wilson-ross_shelf.json`. Tacitus and Bracciolini: The Anna
 |---|---|---|---|
 | Tacitus and Bracciolini: The Annals Forged in the XVth Century (1878) |  | `ross-tacitus-and-bracciolini-1878` | have (PG 9098) |
 
+
+## Sister Mary Rosaria (1880-)
+
+Shelf: `pipeline/mary-rosaria_shelf.json`. The Nurse in Greek Life (1917). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Nurse in Greek Life (1917) |  | `rosaria-nurse-in-greek-life-1917` | have (PG 64215) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
