@@ -9799,3 +9799,12 @@ Shelf: `pipeline/walter-c-summers_shelf.json`. The Silver Age of Latin Literatur
 |---|---|---|---|
 | The Silver Age of Latin Literature from Tiberius to Trajan (1920) |  | `summers-silver-age-latin-literature-1920` | have-raw (IA `silverageoflatin00summuoft`) |
 
+
+## Thomas Ashby (1874-1931)
+
+Shelf: `pipeline/thomas-ashby_shelf.json`. The Roman Campagna in Classical Times (1927). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Roman Campagna in Classical Times (1927) |  | `ashby-roman-campagna-1927` | have-raw (IA `romancampagnainc0000ashb_c4u5`) |
+
