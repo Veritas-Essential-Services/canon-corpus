@@ -1,0 +1,32 @@
+{
+ "_about": "James Turney Allen (1873-1948), Berkeley Hellenist, raw IA OCR of The Greek Theater of the Fifth Century before Christ (1919-1920). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "James Turney Allen",
+ "_name_words": [
+  "allen"
+ ],
+ "_surname": [
+  "james turney allen"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "james-turney-allen-greek-theater-fifth-century": [
+   "greektheateroffi0000alle",
+   "The Greek Theater of the Fifth Century before Christ, by James Turney Allen (University of California Publications in Classical Philology, vol. 7; Berkeley: University of California Press; preface dated May 12, 1919, IA catalogues 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "james-turney-allen-greek-theater-fifth-century": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james turney allen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
