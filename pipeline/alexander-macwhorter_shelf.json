@@ -1,0 +1,77 @@
+{
+ "_about": "Public-domain Alexander Macwhorter (1734-1807), Presbyterian minister of Newark, New Jersey, and army chaplain in the Revolution, for the Word Hoard: The Blessedness of the Liberal, and his two-volume Series of Sermons upon the Most Important Principles of our Holy Religion. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 106 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander macwhorter",
+  "alexander m'whorter",
+  "a. macwhorter",
+  "macwhorter",
+  "m'whorter"
+ ],
+ "_surname": [
+  "alexander macwhorter",
+  "alexander m'whorter",
+  "a. macwhorter",
+  "macwhorter",
+  "m'whorter"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "macwhorter-blessedness-liberal": [
+   "blessednessoflib05macw",
+   "The blessedness of the liberal : a sermon preached in the Middle Dutch Church, before the New-York Missionary Society, at their first Institution, November 1, 1796 (New-York : Printed by T. and J. Swords ..., 1796)"
+  ],
+  "macwhorter-sermons-1": [
+   "seriesofsermonsu01macw",
+   "A series of sermons, upon the most important principles of our holy religion, vol. 1 (Newark, Printed by Pennington & Gould, for the author, 1803)"
+  ],
+  "macwhorter-sermons-2": [
+   "sermonsonmostimp02macw",
+   "Sermons on the most important principles of our holy religion, vol. 2 (Newark : Printed by Pennington & Gould, 1803)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "macwhorter-yahveh": "Yahveh Christ (1857), by a later Alexander MacWhorter"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "macwhorter-blessedness-liberal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander m'whorter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macwhorter-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander macwhorter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macwhorter-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander macwhorter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

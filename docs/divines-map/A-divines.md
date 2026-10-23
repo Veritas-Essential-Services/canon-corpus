@@ -16752,3 +16752,14 @@ Slugs `belfrage-*`. Built from title pages read for round 106.
 | Counsels for the sanctuary and for civil life; or, Discourses to various classes in the Church (Oliver & Boyd, 1829) | have-ocr | IA `counselsforsanc00belfgoog` |
 | A practical exposition of the Assembly's shorter catechism: exhibiting a system of theology in a popular form, and particularly adapted for family instruction. 2 (catalogued 1835) | have-ocr | IA `10479480bsb` |
 | Memoir of Alexander Waugh (written with James Hay) | excluded | |
+
+## Alexander Macwhorter (round 106, my pick, 2026-10-23)
+
+Slugs `macwhorter-*`. Built from title pages read for round 106.
+
+| Work | Status | Where |
+|---|---|---|
+| The blessedness of the liberal : a sermon preached in the Middle Dutch Church, before the New-York Missionary Society, at their first Institution, November 1, 1796 (New-York : Printed by T. and J. Swords ..., 1796) | have-ocr | IA `blessednessoflib05macw` |
+| A series of sermons, upon the most important principles of our holy religion, vol. 1 (Newark, Printed by Pennington & Gould, for the author, 1803) | have-ocr | IA `seriesofsermonsu01macw` |
+| Sermons on the most important principles of our holy religion, vol. 2 (Newark : Printed by Pennington & Gould, 1803) | have-ocr | IA `sermonsonmostimp02macw` |
+| Yahveh Christ (1857), by a later Alexander MacWhorter | excluded | |
