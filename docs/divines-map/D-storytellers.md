@@ -17032,3 +17032,18 @@ Shelf: `pipeline/sherwood-anderson_shelf.json` (2026-10-22; added at the coordin
 | A story teller's story | have | PG 74755, `sanderson-story-tellers-story` (1388 units) |
 | Many Marriages | have | PG 76745, `sanderson-many-marriages` (911 units) |
 | Tar | have | PG 79204, `sanderson-tar` (1257 units) |
+
+## Arthur Hornblow
+
+Shelf: `pipeline/arthur-hornblow_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels from stage plays. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lion and the Mouse; a Story of an American Life | have | PG 5119, `ahornblow-lion-and-the-mouse` (1751 units) |
+| The Lion and the Mouse: A Story of American Life | have | PG 14204, `ahornblow-lion-and-the-mouse-14204` (1767 units) |
+| Bought and Paid For; From the Play of George Broadhurst | have | PG 16249, `ahornblow-bought-and-paid-for` (2607 units) |
+| The Mask: A Story of Love and Adventure | have | PG 20131, `ahornblow-mask` (2218 units) |
+| The easiest way | have | PG 21116, `ahornblow-easiest-way` (2290 units) |
+| The Third Degree: A Narrative of Metropolitan Life | have | PG 28505, `ahornblow-third-degree` (2322 units) |
+| By Right of Conquest: A Novel | have | PG 33187, `ahornblow-by-right-of-conquest` (1424 units) |
+| John Marsh's Millions | have | PG 33192, `ahornblow-john-marshs-millions` (2154 units) |

@@ -2321,3 +2321,6 @@
 
 ## 2026-10-22 23:04 CDT — sherwood-anderson: done
 - sherwood-anderson: new shelf, 10 Gutenberg books, 9,649 units, 2279 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:04 CDT — arthur-hornblow: done
+- arthur-hornblow: new shelf, 8 Gutenberg books, 16,533 units, 9 ~2 ids; verify 0 mismatches, 0 rights flags.
