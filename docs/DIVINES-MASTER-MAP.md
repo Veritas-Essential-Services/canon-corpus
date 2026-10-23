@@ -47006,3 +47006,40 @@ Shelf: `pipeline/storytellers-tail-33_shelf.json` (2026-10-22; added at the coor
 | My tussle with the devil, and other stories | have | PG 77686, `ohenry-my-tussle-with-the-devil-and-other-stories` (730 units) |
 | History of the Twelfth West Virginia Volunteer Infantry | have | PG 45233, `whewitt-history-of-the-twelfth-west-virginia-volunteer-infan` (715 units) |
 | John Smith's Funny Adventures on a Crutch Or The Remarkable Peregrinations of a One-legged Soldier after the War | have | PG 49961, `afhill-john-smith-s-funny-adventures-on-a-crutch-or-the-rema` (2128 units) |
+
+## Storytellers' tail, group 34 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-34_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Isaac J. Hill, Ashton Hilliers, V. M. Hillyer, John Wetmore Hinsdale, Frederick L. Hitchcock, John Oliver Hobbes, William Reginald Hodder, George B. Hodge, Charles Fenno Hoffman, Anna M. Holstein, W. Holt-White, Herbert M. Hopkins, R. H. Horne, Roy Horniman, Magdalene Horsfall, Robert J. Horton, W. Houghton, Edward Mandell House, E. Everett Howe, John Howell, Marie Stevens Howland, Jane L. Hoxie, Charles Eustis Hubbard, Walter Hubbell, Charles B. Hudson, Alfred Henry Huth, Henry Iliowizi, Mary E. Ireland, Richard B. Irwin, Charles Ross Jackson. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Sketch of the 29th Regiment of Connecticut Colored Troops | have | PG 60700, `ijhill-sketch-of-the-29th-regiment-of-connecticut-colored-tr` (83 units) |
+| The Master-Girl | have | PG 59039, `ahilliers-master-girl` (685 units) |
+| A Child's History of the World | have | PG 67149, `vmhillyer-child-s-history-of-the-world` (2562 units) |
+| History of the Seventy-Second Regiment of the North Carolina Troops in the War Between the States, 1861-'65 | have | PG 62649, `jwhinsdale-history-of-the-seventy-second-regiment-of-the-nor` (166 units) |
+| War from the inside | have | PG 29313, `flhitchcock-war-from-the-inside` (1436 units) |
+| Robert Orange Being a Continuation of the History of Robert Orange | have | PG 27997, `johobbes-robert-orange-being-a-continuation-of-the-history-o` (2088 units) |
+| The daughter of the dawn | have | PG 73312, `wrhodder-daughter-of-the-dawn` (1511 units) |
+| Sketch of the First Kentucky Brigade | have | PG 34891, `gbhodge-sketch-of-the-first-kentucky-brigade` (49 units) |
+| The Man in the Reservoir | have | PG 23167, `cfhoffman-man-in-the-reservoir` (41 units) |
+| Three years in field hospitals of the Army of the Potomac | have | PG 70170, `amholstein-three-years-in-field-hospitals-of-the-army-of-the` (258 units) |
+| The Crime Club | have | PG 46566, `wholtwhite-crime-club` (2862 units) |
+| The Mayor of Warwick | have | PG 18700, `hmhopkins-mayor-of-warwick` (1423 units) |
+| Memoirs of a London doll | have | PG 73444, `rhhorne-memoirs-of-a-london-doll` (349 units) |
+| Israel Rank | have | PG 73104, `rhorniman-israel-rank` (2699 units) |
+| The Fairy Latchkey | have | PG 63535, `mhorsfall-fairy-latchkey` (825 units) |
+| The mountain man | have | PG 79704, `rjhorton-mountain-man` (554 units) |
+| Country Walks of a Naturalist with His Children | have | PG 23941, `whoughton-country-walks-of-a-naturalist-with-his-children` (422 units) |
+| Philip Dru: Administrator; A Story of Tomorrow, 1920-1935 | have | PG 6711, `emhouse-philip-dru` (940 units) |
+| The chronicles of Break o'Day | have | PG 79241, `eehowe-chronicles-of-break-o-day` (2689 units) |
+| The life and adventures of Alexander Selkirk, the real Robinson Crusoe | have | PG 70639, `jhowell-life-and-adventures-of-alexander-selkirk-the-real-ro` (197 units) |
+| Papa's own girl: A novel | have | PG 69737, `mshowland-papa-s-own-girl` (2020 units) |
+| The Campaign of the Forty-fifth Regiment, Massachusetts Volunteer Militia "The Cadet Regiment" | have | PG 48303, `cehubbard-campaign-of-the-forty-fifth-regiment-massachusetts` (331 units) |
+| The Haunted House: A True Ghost Story Being an account of the mysterious manifestations that have taken place in the presence of Esther Cox, the young girl who is possessed of devils, and has become known throughout the entire dominion as the great Amherst mystery | have | PG 16975, `whubbell-haunted-house` (225 units) |
+| The Crimson Conquest: A Romance of Pizarro and Peru | have | PG 52920, `cbhudson-crimson-conquest` (2255 units) |
+| A true relation of the travels and perilous adventures of Mathew Dudgeon, gentleman | have | PG 77420, `ahhuth-true-relation-of-the-travels-and-perilous-adventures` (217 units) |
+| The Weird Orient: Nine Mystic Tales | have | PG 42963, `hiliowizi-weird-orient` (575 units) |
+| Hilda's Mascot: A Tale of "Maryland, My Maryland" | have | PG 40620, `meireland-hilda-s-mascot` (1616 units) |
+| History of the Nineteenth Army Corps | have | PG 24606, `rbirwin-history-of-the-nineteenth-army-corps` (1189 units) |
+| Quintus Oakes: A Detective Story | have | PG 41790, `crjackson-quintus-oakes` (1648 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 14127 A Kindergarten Story Book (copyright line 1966). The text names a 1931 or later copyright, so it is not taken until Adam rules. |

@@ -1,0 +1,525 @@
+{
+ "_about": "Storytellers' tail, group 34: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Isaac J. Hill, Ashton Hilliers, V. M. Hillyer, John Wetmore Hinsdale, Frederick L. Hitchcock, John Oliver Hobbes, William Reginald Hodder, George B. Hodge, Charles Fenno Hoffman, Anna M. Holstein, W. Holt-White, Herbert M. Hopkins, R. H. Horne, Roy Horniman, Magdalene Horsfall, Robert J. Horton, W. Houghton, Edward Mandell House, E. Everett Howe, John Howell, Marie Stevens Howland, Jane L. Hoxie, Charles Eustis Hubbard, Walter Hubbell, Charles B. Hudson, Alfred Henry Huth, Henry Iliowizi, Mary E. Ireland, Richard B. Irwin, Charles Ross Jackson. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 34 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "ijhill-sketch-of-the-29th-regiment-of-connecticut-colored-tr": [
+   "isaac j. hill"
+  ],
+  "ahilliers-master-girl": [
+   "ashton hilliers",
+   "hilliers"
+  ],
+  "vmhillyer-child-s-history-of-the-world": [
+   "v. m. hillyer",
+   "virgil mores hillyer",
+   "hillyer"
+  ],
+  "jwhinsdale-history-of-the-seventy-second-regiment-of-the-nor": [
+   "john wetmore hinsdale",
+   "hinsdale"
+  ],
+  "flhitchcock-war-from-the-inside": [
+   "frederick l. hitchcock",
+   "frederick lyman hitchcock",
+   "hitchcock"
+  ],
+  "johobbes-robert-orange-being-a-continuation-of-the-history-o": [
+   "john oliver hobbes",
+   "hobbes"
+  ],
+  "wrhodder-daughter-of-the-dawn": [
+   "william reginald hodder",
+   "hodder"
+  ],
+  "gbhodge-sketch-of-the-first-kentucky-brigade": [
+   "george b. hodge",
+   "george baird hodge",
+   "hodge"
+  ],
+  "cfhoffman-man-in-the-reservoir": [
+   "charles fenno hoffman",
+   "hoffman"
+  ],
+  "amholstein-three-years-in-field-hospitals-of-the-army-of-the": [
+   "anna m. holstein",
+   "anna morris holstein",
+   "holstein"
+  ],
+  "wholtwhite-crime-club": [
+   "w. holt-white",
+   "william holt-white",
+   "holt-white"
+  ],
+  "hmhopkins-mayor-of-warwick": [
+   "herbert m. hopkins",
+   "herbert müller hopkins",
+   "hopkins"
+  ],
+  "rhhorne-memoirs-of-a-london-doll": [
+   "r. h. horne",
+   "richard h. horne",
+   "horne"
+  ],
+  "rhorniman-israel-rank": [
+   "roy horniman",
+   "horniman"
+  ],
+  "mhorsfall-fairy-latchkey": [
+   "magdalene horsfall",
+   "horsfall"
+  ],
+  "rjhorton-mountain-man": [
+   "robert j. horton",
+   "horton"
+  ],
+  "whoughton-country-walks-of-a-naturalist-with-his-children": [
+   "w. houghton",
+   "william houghton",
+   "houghton"
+  ],
+  "emhouse-philip-dru": [
+   "edward mandell house",
+   "house"
+  ],
+  "eehowe-chronicles-of-break-o-day": [
+   "e. everett howe",
+   "edward everett howe"
+  ],
+  "jhowell-life-and-adventures-of-alexander-selkirk-the-real-ro": [
+   "john howell",
+   "howell"
+  ],
+  "mshowland-papa-s-own-girl": [
+   "marie stevens howland",
+   "howland"
+  ],
+  "jlhoxie-kindergarten-story-book": [
+   "jane l. hoxie",
+   "jane lincoln hoxie",
+   "hoxie"
+  ],
+  "cehubbard-campaign-of-the-forty-fifth-regiment-massachusetts": [
+   "charles eustis hubbard",
+   "hubbard"
+  ],
+  "whubbell-haunted-house": [
+   "walter hubbell",
+   "hubbell"
+  ],
+  "cbhudson-crimson-conquest": [
+   "charles b. hudson",
+   "charles bradford hudson",
+   "hudson"
+  ],
+  "ahhuth-true-relation-of-the-travels-and-perilous-adventures": [
+   "alfred henry huth"
+  ],
+  "hiliowizi-weird-orient": [
+   "henry iliowizi",
+   "iliowizi"
+  ],
+  "meireland-hilda-s-mascot": [
+   "mary e. ireland",
+   "mary eliza ireland",
+   "ireland"
+  ],
+  "rbirwin-history-of-the-nineteenth-army-corps": [
+   "richard b. irwin",
+   "richard biddle irwin",
+   "irwin"
+  ],
+  "crjackson-quintus-oakes": [
+   "charles ross jackson",
+   "jackson"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "ijhill-sketch-of-the-29th-regiment-of-connecticut-colored-tr": [
+   60700,
+   "A Sketch of the 29th Regiment of Connecticut Colored Troops"
+  ],
+  "ahilliers-master-girl": [
+   59039,
+   "The Master-Girl"
+  ],
+  "vmhillyer-child-s-history-of-the-world": [
+   67149,
+   "A Child's History of the World"
+  ],
+  "jwhinsdale-history-of-the-seventy-second-regiment-of-the-nor": [
+   62649,
+   "History of the Seventy-Second Regiment of the North Carolina Troops in the War Between the States, 1861-'65"
+  ],
+  "flhitchcock-war-from-the-inside": [
+   29313,
+   "War from the inside"
+  ],
+  "johobbes-robert-orange-being-a-continuation-of-the-history-o": [
+   27997,
+   "Robert Orange Being a Continuation of the History of Robert Orange"
+  ],
+  "wrhodder-daughter-of-the-dawn": [
+   73312,
+   "The daughter of the dawn"
+  ],
+  "gbhodge-sketch-of-the-first-kentucky-brigade": [
+   34891,
+   "Sketch of the First Kentucky Brigade"
+  ],
+  "cfhoffman-man-in-the-reservoir": [
+   23167,
+   "The Man in the Reservoir"
+  ],
+  "amholstein-three-years-in-field-hospitals-of-the-army-of-the": [
+   70170,
+   "Three years in field hospitals of the Army of the Potomac"
+  ],
+  "wholtwhite-crime-club": [
+   46566,
+   "The Crime Club"
+  ],
+  "hmhopkins-mayor-of-warwick": [
+   18700,
+   "The Mayor of Warwick"
+  ],
+  "rhhorne-memoirs-of-a-london-doll": [
+   73444,
+   "Memoirs of a London doll"
+  ],
+  "rhorniman-israel-rank": [
+   73104,
+   "Israel Rank"
+  ],
+  "mhorsfall-fairy-latchkey": [
+   63535,
+   "The Fairy Latchkey"
+  ],
+  "rjhorton-mountain-man": [
+   79704,
+   "The mountain man"
+  ],
+  "whoughton-country-walks-of-a-naturalist-with-his-children": [
+   23941,
+   "Country Walks of a Naturalist with His Children"
+  ],
+  "emhouse-philip-dru": [
+   6711,
+   "Philip Dru: Administrator; A Story of Tomorrow, 1920-1935"
+  ],
+  "eehowe-chronicles-of-break-o-day": [
+   79241,
+   "The chronicles of Break o'Day"
+  ],
+  "jhowell-life-and-adventures-of-alexander-selkirk-the-real-ro": [
+   70639,
+   "The life and adventures of Alexander Selkirk, the real Robinson Crusoe"
+  ],
+  "mshowland-papa-s-own-girl": [
+   69737,
+   "Papa's own girl: A novel"
+  ],
+  "cehubbard-campaign-of-the-forty-fifth-regiment-massachusetts": [
+   48303,
+   "The Campaign of the Forty-fifth Regiment, Massachusetts Volunteer Militia \"The Cadet Regiment\""
+  ],
+  "whubbell-haunted-house": [
+   16975,
+   "The Haunted House: A True Ghost Story Being an account of the mysterious manifestations that have taken place in the presence of Esther Cox, the young girl who is possessed of devils, and has become known throughout the entire dominion as the great Amherst mystery"
+  ],
+  "cbhudson-crimson-conquest": [
+   52920,
+   "The Crimson Conquest: A Romance of Pizarro and Peru"
+  ],
+  "ahhuth-true-relation-of-the-travels-and-perilous-adventures": [
+   77420,
+   "A true relation of the travels and perilous adventures of Mathew Dudgeon, gentleman"
+  ],
+  "hiliowizi-weird-orient": [
+   42963,
+   "The Weird Orient: Nine Mystic Tales"
+  ],
+  "meireland-hilda-s-mascot": [
+   40620,
+   "Hilda's Mascot: A Tale of \"Maryland, My Maryland\""
+  ],
+  "rbirwin-history-of-the-nineteenth-army-corps": [
+   24606,
+   "History of the Nineteenth Army Corps"
+  ],
+  "crjackson-quintus-oakes": [
+   41790,
+   "Quintus Oakes: A Detective Story"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 14127 A Kindergarten Story Book (copyright line 1966). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "ijhill-sketch-of-the-29th-regiment-of-connecticut-colored-tr": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isaac j. hill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahilliers-master-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ashton hilliers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vmhillyer-child-s-history-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "v. m. hillyer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jwhinsdale-history-of-the-seventy-second-regiment-of-the-nor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john wetmore hinsdale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flhitchcock-war-from-the-inside": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick l. hitchcock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "johobbes-robert-orange-being-a-continuation-of-the-history-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john oliver hobbes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wrhodder-daughter-of-the-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william reginald hodder",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbhodge-sketch-of-the-first-kentucky-brigade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george b. hodge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfhoffman-man-in-the-reservoir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles fenno hoffman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amholstein-three-years-in-field-hospitals-of-the-army-of-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna m. holstein",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wholtwhite-crime-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. holt-white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmhopkins-mayor-of-warwick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert m. hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhhorne-memoirs-of-a-london-doll": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. h. horne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhorniman-israel-rank": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roy horniman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhorsfall-fairy-latchkey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "magdalene horsfall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rjhorton-mountain-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert j. horton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whoughton-country-walks-of-a-naturalist-with-his-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. houghton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emhouse-philip-dru": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward mandell house",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eehowe-chronicles-of-break-o-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. everett howe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhowell-life-and-adventures-of-alexander-selkirk-the-real-ro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john howell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mshowland-papa-s-own-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marie stevens howland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cehubbard-campaign-of-the-forty-fifth-regiment-massachusetts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles eustis hubbard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whubbell-haunted-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter hubbell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbhudson-crimson-conquest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles b. hudson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ahhuth-true-relation-of-the-travels-and-perilous-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred henry huth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hiliowizi-weird-orient": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry iliowizi",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meireland-hilda-s-mascot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary e. ireland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbirwin-history-of-the-nineteenth-army-corps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard b. irwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "crjackson-quintus-oakes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles ross jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
