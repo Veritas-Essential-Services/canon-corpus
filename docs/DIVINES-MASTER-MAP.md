@@ -9887,6 +9887,18 @@ Slugs `leslie-*`. Built from title pages read for round 40.
 | The theological works of the Reverend Mr. Charles Leslie, in two volumes, vol. 2 (London: W. Bowyer, 1721) | have-ocr | IA `bim_eighteenth-century_the-theological-works-of_leslie-charles_1721_2` |
 | The Oxford 1832 Theological Works in seven volumes (only vols. 1, 2, 3 and 7 are on the Archive, so the complete 1721 folio is shelved instead); separate printings of the Short and Easy Method with the Deists (1698-1841), the Snake in the Grass (1696-1698), the Case of the Regale (1700, 1838), Five Discourses (1700) | alternate | not shelved |
 | His Jacobite political journalism (The Rehearsal) and works by other Charles Leslies | excluded | |
+
+## John Kettlewell (round 40, my pick, 2026-10-22)
+
+Slugs `kettlewell-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| [Works] A compleat collection of the Works of the Reverend and learned John Kettlewell, ... In two volumes. The several treatises printed from copies revis'd and improv'd by the author, a little before his death. ... To which is prefix'd, the life of the author. ... With an appendix of several original papers.  1719: Vol 1, vol. 1 (catalogued 1719) | have-ocr | IA `bim_eighteenth-century_works-a-compleat-colle_kettlewell-john_1719_1` |
+| [Works] A compleat collection of the Works of the Reverend and learned John Kettlewell, ... In two volumes. The several treatises printed from copies revis'd and improv'd by the author, a little before his death. ... To which is prefix'd, the life of the author. ... With an appendix of several original papers.  1719: Vol 2, vol. 2 (catalogued 1719) | have-ocr | IA `bim_eighteenth-century_works-a-compleat-colle_kettlewell-john_1719_2` |
+| The measures of Christian obedience : or, A discourse shewing what obedience is indispensably necessary to a regenerate state, and what defects are consistent with it; for the promotion of piety, and the peace of troubled consciences (London : Printed by J. Macock, for Robert Kettlewell, 1681) | have-ocr | IA `measuresofchrist00ket` |
+| Separate printings, 1683-1737, of the Help and Exhortation to Worthy Communicating, the Practical Believer, Christian Prudence, Christian Communion, Death Made Comfortable, the Companion for the Penitent and Five Discourses, all in the Works | alternate | not shelved |
+| Books by Samuel Kettlewell (Thomas a Kempis and the Brothers of Common Life, 1882; the authorship of the De Imitatione, 1877; Three Venerable Ladies, 1874) and other later Kettlewells | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
