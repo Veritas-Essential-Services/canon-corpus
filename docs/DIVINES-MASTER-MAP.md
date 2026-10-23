@@ -21730,7 +21730,7 @@ Round 23 (2026-10-10), vetoable. Taine's Italy: Rome and Naples and Art in the N
 ## Charles Timothy Brooks (Goethe's Faust; Jean Paul)
 
 Shelf: `pipeline/ct-brooks_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ct-brooks` · titles `python3 pipeline/split_shelf_titles.py ct-brooks`.
-Round 23 (2026-10-10), vetoable. His Busch stays on wilhelm-busch. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. His Busch stays on wilhelm-busch. Round 141 (2026-10-23) added five translations from archive.org scans; Schiller's Homage of the Arts fails the identity gate. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21740,6 +21740,11 @@ Round 23 (2026-10-10), vetoable. His Busch stays on wilhelm-busch. Not converted
 | `ct-brooks-jean-paul-the-invisible-lodge` | Jean Paul | The Invisible Lodge | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 36353 |
 | `ct-brooks-jean-paul-titan-a-romance-v-1-of-2` | Jean Paul | Titan: A Romance. v. 1 (of 2) | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 35664 |
 | `ct-brooks-jean-paul-titan-a-romance-v-2-of-2` | Jean Paul | Titan: A Romance. v. 2 (of 2) | Charles Timothy Brooks | 1856-1883 (see the Gutenberg header) | have | PG 36403 |
+| `ct-brooks-songs-and-ballads-from-uhland-korner-burger` | Uhland, Körner, Bürger and other German lyric poets | Songs and Ballads, translated from Uhland, Körner, Bürger and other German Lyric Poets (Specimens of Foreign Standard Literature, vol. XIV, ed. George Ripley) | Charles T. Brooks | 1842 | have-raw | IA `balladstran00broo` |
+| `ct-brooks-german-lyric-poetry` | various German lyric poets | German Lyric Poetry: a Collection of Songs and Ballads | Charles T. Brooks | 1863 | have-raw | IA `germanlyricpoetr01broo` |
+| `ct-brooks-kortum-the-jobsiad` | Carl Arnold Kortum | The Jobsiad: a Grotesco-Comico-Heroic Poem | Charles T. Brooks | 1863 | have-raw | IA `jobsiad00kort` |
+| `ct-brooks-schefer-the-laymans-breviary` | Leopold Schefer | The Layman's Breviary, or Meditations for Every Day in the Year | Charles T. Brooks | 1867 | have-raw | IA `laymansbreviary00scherich` |
+| `ct-brooks-auerbach-poet-and-merchant` | Berthold Auerbach | Poet and Merchant: a Picture of Life from the Times of Moses Mendelssohn | Charles T. Brooks | 1877 | have-raw | IA `poetmerchantpict00auerrich` |
 | — | — | busch: Max and Maurice (28847) is on wilhelm-busch_shelf.json; Plish and Plum (37188) is left for that shelf's owner. | — | — | excluded | — |
 
 ## Lady Wallace (Mozart, Beethoven and Mendelssohn letters; Nohl's Mozart, Polko's Mendelssohn, Palleske's Schiller, Grimm's Empress Alexandra, Fernán Caballero; Auerbach)
@@ -21773,7 +21778,7 @@ Round 23 (2026-10-10), vetoable. Round 104 (2026-10-17) added 11 period archive.
 ## Ellen E. Frewer (Verne's Dick Sands; Schweinfurth; Holub)
 
 Shelf: `pipeline/frewer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py frewer` · titles `python3 pipeline/split_shelf_titles.py frewer`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 141 (2026-10-23) added four translations from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21783,11 +21788,15 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `frewer-schweinfurth-the-heart-of-africa-vol-1-of-2` | Georg August Schweinfurth | The heart of Africa, Vol. 1 (of 2) | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 71621 |
 | `frewer-schweinfurth-the-heart-of-africa-vol-2-of-2` | Georg August Schweinfurth | The heart of Africa, Vol. 2 (of 2) | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 71622 |
 | `frewer-verne-dick-sands-the-boy-captain` | Jules Verne | Dick Sands, the Boy Captain | Ellen E. Frewer | 1873-1881 (see the Gutenberg header) | have | PG 9150 |
+| `frewer-verne-adventures-of-three-englishmen-and-three-russians` | Jules Verne | The Adventures of Three Englishmen and Three Russians in South Africa | Ellen E. Frewer | 1876 | have-raw | IA `india.history.resource.84919` |
+| `frewer-verne-hector-servadac` | Jules Verne | Hector Servadac | Ellen E. Frewer | 1878 | have-raw | IA `verne-jules-hector-servadac-scribner-armstrong-1878` |
+| `frewer-verne-the-tribulations-of-a-chinaman` | Jules Verne | The Tribulations of a Chinaman in China | Ellen E. Frewer | 1880 | have-raw | IA `tribulationsach01verngoog` |
+| `frewer-barbou-victor-hugo-and-his-times` | Alfred Barbou | Victor Hugo and His Times | Ellen E. Frewer | 1882 | have-raw | IA `victorhugohistim00barbiala` |
 
 ## Laura Ensor (Loti, Daudet, Maupassant)
 
 Shelf: `pipeline/laura-ensor_shelf.json` · fetch `python3 pipeline/fetch_shelf.py laura-ensor` · titles `python3 pipeline/split_shelf_titles.py laura-ensor`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 141 (2026-10-23) added three translations from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21797,6 +21806,9 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `laura-ensor-massalska-memoirs-of-the-princesse-de-ligne-vol-1` | Apolonia Helena Massalska | Memoirs of the Princesse de Ligne, Vol. 1 (of 2) | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 71048 |
 | `laura-ensor-massalska-memoirs-of-the-princesse-de-ligne-vol-2` | Apolonia Helena Massalska | Memoirs of the Princesse de Ligne, Vol. 2 (of 2) | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 71051 |
 | `laura-ensor-maupassant-afloat-sur-l-eau` | Guy de Maupassant | Afloat (Sur l'eau) | Laura Ensor | 1887-1896 (see the Gutenberg header) | have | PG 49318 |
+| `laura-ensor-daudet-recollections-of-a-literary-man` | Alphonse Daudet | Recollections of a Literary Man (Souvenirs d'un homme de lettres) | Laura Ensor | 1889 | have-raw | IA `recollectionsofl00dauduoft` |
+| `laura-ensor-daudet-thirty-years-of-paris` | Alphonse Daudet | Thirty Years of Paris and of My Literary Life | Laura Ensor | 1888 | have-raw | IA `thirtyyearsofpar00dauduoft` |
+| `laura-ensor-barthelemy-saint-hilaire-the-buddha-and-his-religion` | Jules Barthélemy-Saint-Hilaire | The Buddha and His Religion | Laura Ensor | 1895 | have-raw | IA `in.ernet.dli.2015.215947` |
 
 ## Dora Knowlton Ranous (D'Annunzio's The Flame; Zibeline)
 
@@ -22231,6 +22243,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `fleming-voltaire-a-philosophical-dictionary-volume-09` | Voltaire | A Philosophical Dictionary, Volume 09 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35629 |
 | `fleming-voltaire-a-philosophical-dictionary-volume-10` | Voltaire | A Philosophical Dictionary, Volume 10 | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 35630 |
 | `fleming-voltaire-the-works-of-voltaire-vol-iv-of-xliii` | Voltaire | The Works of Voltaire, Vol. IV of XLIII. | William F. Fleming | 1901 (see the Gutenberg header) | have | PG 49726 |
+| `fleming-st-hubert-rest` | — | The rest of the St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901; 22 numbered volumes in two parts each). Cornell scans cu31924088380435 to cu31924088380625 cover the Romances, Charles XII, Peter the Great, the Age of Louis XIV, Ancient and Modern History, the Essays, The Maid of Orleans, the Henriade and Letters, and the dramas. The set's title page credits the whole edition jointly: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming'. Most prose volumes are Smollett's eighteenth-century translations as Fleming revised them, and no single volume says which is which. Crediting each volume to Fleming alone would claim more than the books do, so the volumes wait for a ruling: shelve them as 'Smollett, revised by Fleming', or leave them off. Found 2026-10-23 (round 141). The Philosophical Dictionary and vol. IV are already shelved from Gutenberg. | — | — | pending | — |
 
 ## M. L. McClure (Maspero's History of Egypt and the Ancient East)
 
@@ -23859,6 +23872,7 @@ Round 34 (2026-10-10), vetoable. Not R. C. Dutt (Lane D's dutt shelf). Not conve
 | `mn-dutt-valmiki-the-ramayana-vol-3` | Valmiki (attributed) | The Rāmāyana, Volume 3. Yuddhakāndam | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 60188 |
 | `mn-dutt-valmiki-the-ramayana-vol-4` | Valmiki (attributed) | The Rāmāyana, Volume 4. Uttara Kānda | Manmatha Nath Dutt | 1891-1897 (see the Gutenberg header) | have | PG 62496 |
 | `mn-dutt-vishnupuranam` | Anonymous (the Vishnu Purana) | A Prose English Translation of Vishnupuranam (Based on Professor H. H. Wilson's translation.) | Manmatha Nath Dutt (after H. H. Wilson) | 1891-1897 (see the Gutenberg header) | have | PG 66208 |
+| `mn-dutt-edited-and-published` | — | About twenty more of Dutt's Calcutta volumes are on archive.org: the Mahabharata parvas (Adi 1895, Bhishma, Shanti 1903, Anushasana 1905), the Srimadbhagavatam (1895-96), the Agni (1903-04), Garuda (1908) and Markandeya (1896) Puranas, the Mahanirvana Tantram (1900), the Kamandakiya Nitisara (1896), the Manu Samhita (1909), and the Dharma Sastra samhitas (1902-08). Every title page read says 'a prose English translation ... edited and published by Manmatha Nath Dutt'. It does not say 'translated by': he is named as editor and publisher, and he is known to have employed translators. The lane's rule leaves off books where a person is named only as editor, so these wait for a ruling. Shelving them would credit Dutt as the catalogues and Gutenberg already do (the Ramayana, Harivamsha and Vishnupuranam on this shelf rest on that credit). The DLI scans of Agni Puranam vols. 2-4 (in.ernet.dli.2015.33600-33602) are modern reprints with a Calcutta PIN code and are refused either way. Found 2026-10-23 (round 141). | — | — | pending | — |
 
 ## George Saintsbury (Marguerite of Navarre's Heptameron, 5 vols)
 

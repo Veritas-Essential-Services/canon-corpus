@@ -147,7 +147,9 @@
    "scan_edition": "Project Gutenberg 49726 (clean text)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "fleming-st-hubert-rest": "The rest of the St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901; 22 numbered volumes in two parts each). Cornell scans cu31924088380435 to cu31924088380625 cover the Romances, Charles XII, Peter the Great, the Age of Louis XIV, Ancient and Modern History, the Essays, The Maid of Orleans, the Henriade and Letters, and the dramas. The set's title page credits the whole edition jointly: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming'. Most prose volumes are Smollett's eighteenth-century translations as Fleming revised them, and no single volume says which is which. Crediting each volume to Fleming alone would claim more than the books do, so the volumes wait for a ruling: shelve them as 'Smollett, revised by Fleming', or leave them off. Found 2026-10-23 (round 141). The Philosophical Dictionary and vol. IV are already shelved from Gutenberg."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {

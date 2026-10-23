@@ -87,7 +87,9 @@
    "scan_edition": "Project Gutenberg 66208 (clean text)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "mn-dutt-edited-and-published": "About twenty more of Dutt's Calcutta volumes are on archive.org: the Mahabharata parvas (Adi 1895, Bhishma, Shanti 1903, Anushasana 1905), the Srimadbhagavatam (1895-96), the Agni (1903-04), Garuda (1908) and Markandeya (1896) Puranas, the Mahanirvana Tantram (1900), the Kamandakiya Nitisara (1896), the Manu Samhita (1909), and the Dharma Sastra samhitas (1902-08). Every title page read says 'a prose English translation ... edited and published by Manmatha Nath Dutt'. It does not say 'translated by': he is named as editor and publisher, and he is known to have employed translators. The lane's rule leaves off books where a person is named only as editor, so these wait for a ruling. Shelving them would credit Dutt as the catalogues and Gutenberg already do (the Ramayana, Harivamsha and Vishnupuranam on this shelf rest on that credit). The DLI scans of Agni Puranam vols. 2-4 (in.ernet.dli.2015.33600-33602) are modern reprints with a Calcutta PIN code and are refused either way. Found 2026-10-23 (round 141)."
+ },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {

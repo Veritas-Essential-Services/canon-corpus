@@ -38,7 +38,28 @@
    "Titan: A Romance. v. 2 (of 2)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ctb-songs-and-ballads": [
+   "balladstran00broo",
+   "Songs and Ballads from Uhland, Körner, Bürger"
+  ],
+  "ctb-german-lyric-poetry": [
+   "germanlyricpoetr01broo",
+   "German Lyric Poetry"
+  ],
+  "ctb-jobsiad": [
+   "jobsiad00kort",
+   "The Jobsiad"
+  ],
+  "ctb-laymans-breviary": [
+   "laymansbreviary00scherich",
+   "The Layman's Breviary"
+  ],
+  "ctb-poet-and-merchant": [
+   "poetmerchantpict00auerrich",
+   "Poet and Merchant"
+  ]
+ },
  "titles": {
   "ct-brooks-goethe-faust-a-tragedy-part-1-translated-from-t": {
    "source": "ctb-14460",
@@ -87,17 +108,58 @@
    "translated": "1856-1883 (see the Gutenberg header)",
    "translator": "Charles Timothy Brooks",
    "scan_edition": "Project Gutenberg 36403 (clean text)"
+  },
+  "ct-brooks-songs-and-ballads-from-uhland-korner-burger": {
+   "source": "ctb-songs-and-ballads",
+   "of": "Uhland, Körner, Bürger and other German lyric poets",
+   "work": "Songs and Ballads, translated from Uhland, Körner, Bürger and other German Lyric Poets (Specimens of Foreign Standard Literature, vol. XIV, ed. George Ripley)",
+   "translated": 1842,
+   "translator": "Charles T. Brooks",
+   "scan_edition": "James Munroe, Boston 1842; archive.org scan (Princeton Theological Seminary copy)"
+  },
+  "ct-brooks-german-lyric-poetry": {
+   "source": "ctb-german-lyric-poetry",
+   "of": "various German lyric poets",
+   "work": "German Lyric Poetry: a Collection of Songs and Ballads",
+   "translated": 1863,
+   "translator": "Charles T. Brooks",
+   "scan_edition": "Willis P. Hazard, Philadelphia 1863; archive.org scan"
+  },
+  "ct-brooks-kortum-the-jobsiad": {
+   "source": "ctb-jobsiad",
+   "of": "Carl Arnold Kortum",
+   "work": "The Jobsiad: a Grotesco-Comico-Heroic Poem",
+   "translated": 1863,
+   "translator": "Charles T. Brooks",
+   "scan_edition": "F. Leypoldt, Philadelphia, and Trübner, London 1863; archive.org scan (Princeton Theological Seminary copy)"
+  },
+  "ct-brooks-schefer-the-laymans-breviary": {
+   "source": "ctb-laymans-breviary",
+   "of": "Leopold Schefer",
+   "work": "The Layman's Breviary, or Meditations for Every Day in the Year",
+   "translated": 1867,
+   "translator": "Charles T. Brooks",
+   "scan_edition": "Roberts Brothers, Boston 1867; archive.org scan"
+  },
+  "ct-brooks-auerbach-poet-and-merchant": {
+   "source": "ctb-poet-and-merchant",
+   "of": "Berthold Auerbach",
+   "work": "Poet and Merchant: a Picture of Life from the Times of Moses Mendelssohn",
+   "translated": 1877,
+   "translator": "Charles T. Brooks",
+   "scan_edition": "Henry Holt, New York 1877 (Leisure Hour Series); archive.org scan"
   }
  },
  "_pending": {},
  "_excluded": {
-  "busch": "Max and Maurice (28847) is on wilhelm-busch_shelf.json; Plish and Plum (37188) is left for that shelf's owner."
+  "busch": "Max and Maurice (28847) is on wilhelm-busch_shelf.json; Plish and Plum (37188) is left for that shelf's owner.",
+  "ctb-schiller-homage": "Schiller's Homage of the Arts, with pieces from Rückert and Freiligrath (James Munroe, Boston 1847): Brooks's translation. Both archive.org scans (schillershomageo00broouoft, schillershomageo00broo) garble his name on the title page ('CHARLES T.' BROOKS', 'CHARLES TV BROOKS'), so they fail the identity gate. Left off 2026-10-23 (round 141), like other gate failures."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "ctb-14460": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles timothy brooks",
    "identity": "ok",
@@ -106,7 +168,7 @@
   },
   "ctb-35664": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles timothy brooks",
    "identity": "ok",
@@ -115,7 +177,7 @@
   },
   "ctb-36071": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles timothy brooks",
    "identity": "ok",
@@ -124,7 +186,7 @@
   },
   "ctb-36087": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles timothy brooks",
    "identity": "ok",
@@ -133,7 +195,7 @@
   },
   "ctb-36353": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles timothy brooks",
    "identity": "ok",
@@ -142,12 +204,68 @@
   },
   "ctb-36403": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles timothy brooks",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-songs-and-ballads": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles t. brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ctb-german-lyric-poetry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles t. brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ctb-jobsiad": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles t. brooks",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ctb-laymans-breviary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. t. brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ctb-poet-and-merchant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles t. brooks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -180,6 +298,64 @@
    "pg": 36403,
    "pg_copyrighted_marker": false,
    "pg_translator": "Charles Timothy Brooks"
+  },
+  "ctb-songs-and-ballads": {
+   "ia": "balladstran00broo",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1842
+   ],
+   "post_1930_years_in_front_15k": [
+    1935
+   ],
+   "post_1930_examined": "1935 is a library accession stamp (FEB 19 1935); the imprint is James Munroe, Boston 1842"
+  },
+  "ctb-german-lyric-poetry": {
+   "ia": "germanlyricpoetr01broo",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1842
+   ],
+   "post_1930_years_in_front_15k": [
+    2013
+   ],
+   "post_1930_examined": "2013 is the archive.org digitising line; the imprint reads Willis P. Hazard, Philadelphia, 18 63 (1863)"
+  },
+  "ctb-jobsiad": {
+   "ia": "jobsiad00kort",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1745,
+    1824,
+    1863
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ctb-laymans-breviary": {
+   "ia": "laymansbreviary00scherich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1784,
+    1813,
+    1825,
+    1829,
+    1831,
+    1834,
+    1835,
+    1837,
+    1839,
+    1846,
+    1867
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ctb-poet-and-merchant": {
+   "ia": "poetmerchantpict00auerrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1877
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

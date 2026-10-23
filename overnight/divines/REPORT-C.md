@@ -356,3 +356,5 @@
 - 2026-10-23T00:28-05:00: Round 139 (2026-10-23): 9 titles, Waley x2, H. A. Giles x3, Burton x4 from archive.org. 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-23T00:35-05:00: Round 140 (2026-10-23): 4 titles, Carlyle x2 (German Romance), Borrow x2 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-23T00:45-05:00: Round 141 (2026-10-23): 12 titles, Ensor x3, Brooks x5, Frewer x4 from archive.org; Fleming Voltaire and Dutt volumes held for a ruling. 0 mismatched, 0 rights flags, no uids.
