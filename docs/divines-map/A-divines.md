@@ -13594,3 +13594,14 @@ Slugs `haldeman-*`. Built from title pages read for round 73.
 | Why I Preach the Second Coming (New York: Fleming H. Revell, copyright 1919) | have-ocr | IA `whyipreachsecond00halduoft` |
 | Can the Dead Communicate with the Living? (New York: Fleming H. Revell, copyright 1920) | have-ocr | IA `candeadcommunica00haldiala` |
 | pamphlets of under 100 pages (Theosophy or Christianity, Mental Assassination, The Second Coming of Christ 1917, Why I Am Opposed to the Interchurch World Movement) | excluded | |
+
+## Wilbur Fisk (round 73, my pick, 2026-10-23)
+
+Slugs `fisk-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| A Discussion on Universal Salvation: In Three Lectures and Five Answers Against that Doctrine (B. Waugh and T. Mason, 1832) | have-ocr | IA `adiscussiononun00fiskgoog` |
+| Calvinistic controversy : embracing a sermon on predestination and election, and several numbers formerly published in the Christian Advocate and Journal (New York : Waugh and Mason for the Methodist Episcopal Church, 1835) | have-ocr | IA `calvinisticcontr00fisk` |
+| Travels on the continent of Europe; viz., in England, Ireland, Scotland, France, Italy, Switzerland, Germany, and the Netherlands (New-York, Harper and brothers, 1838) | have-ocr | IA `travelsoncontine00fisk` |
+| single printed sermons and addresses (1826-1835); The Methodist Preacher (1859, sermons by several hands) | excluded | |
