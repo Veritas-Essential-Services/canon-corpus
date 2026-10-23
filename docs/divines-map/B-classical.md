@@ -2744,6 +2744,9 @@ Shelf: `pipeline/mackail_shelf.json`. John William Mackail (1859-1945): Latin Li
 |---|---|---|---|
 | Latin Literature |  | `mackail-latin-literature` | have (PG 8894) |
 | Lectures on Greek Poetry (London: Longmans, Green, 1910) |  | `mackail-lectures-greek-poetry-1910` | have-raw (IA `lecturesongreekp00mackuoft`) |
+| The Springs of Helicon, a study in the progress of English poetry from Chaucer to Milton, by J. W. Mackail (New York, London, Bombay and Calcutta: Longmans, Green; copyright 1909, the OCR reads the imprint year as '7929') |  | `mackail-springs-of-helicon-1909` | have-raw (IA `bwb_S0-EJT-149`) |
+| Virgil and his Meaning to the World of To-day, by J. W. Mackail (Boston: Marshall Jones, copyright 1922) |  | `mackail-virgil-and-his-meaning-1922` | have-raw (IA `virgilandhismea00mackgoog`) |
+| Classical Studies, by J. W. Mackail (London: John Murray, first edition; no year in the OCR title page, IA dates it 1925) |  | `mackail-classical-studies-1925` | have-raw (IA `classicalstudies0000unse_i2j2`) |
 
 ## A. H. J. Greenidge (scholarship)
 
