@@ -408,6 +408,8 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Eumenides of Aeschylus, with an introduction, commentary and translation by A. W. Verrall (1908); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-verrall-eumenides-1908` | have-raw (IA `eumenides00aescrich`) |
 | The 'Supplices' of Aeschylus, a revised text with introduction, critical notes, commentary and translation by T. G. Tucker (London: Macmillan, 1889); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-tucker-supplices-1889` | have-raw (IA `cu31924026461263`) |
 | The Choephori of Aeschylus, with critical notes, commentary, translation and a recension of the scholia by T. G. Tucker (1901); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-tucker-choephori-1901` | have-raw (IA `choephoriofaesch0000tgtu`) |
+| The Seven against Thebes of Aeschylus, with introduction, critical notes, commentary, translation and a recension of the Medicean scholia (Cambridge: at the University Press, 1908); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-tucker-seven-1908` | have-raw (IA `sevenagainsttheb0000edtr`) |
+| The Agamemnon of Aeschylus, with verse translation, introduction and notes by the late Walter Headlam, edited by A. C. Pearson (Cambridge: at the University Press, 1910); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-headlam-pearson-agamemnon-1910` | have-raw (IA `agamemnonwithver00aescuoft`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 

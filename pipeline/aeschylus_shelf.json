@@ -1,5 +1,5 @@
 {
- "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03, four single-play Prometheus Bound translations, raw IA OCR: Augusta Webster's (1866), C. B. Cayley's (1867), Paul Elmer More's (1899) and Edwyn Robert Bevan's (1902). Janet Case's Temple Dramatists edition (Greek facing, undated scan) was not taken. Also four Agamemnons, raw IA OCR: J. S. Harford's (Murray, 1831; translator from the catalogue only), H. H. Milman's (Murray, 1865, with his Bacchae of Euripides), W. R. Paton's (Nutt, 1907) and Locke Ellis's (1920). Not taken: Trevelyan's Cambridge Oresteia (1920, Greek facing, OCR 0.51) and the Greek-facing school editions (Conington, Kennedy, Davies, Verrall, Goodwin).",
+ "_about": "Aeschylus in English, translator per title. Complete in two translators: E. H. Plumptre (verse; Tragedies and Fragments) and John Stuart Blackie (verse, 1850; Lyrical Dramas). Also E. D. A. Morshead (verse; House of Atreus 1881 and Four Plays), T. A. Buckley (prose, Bohn), Gilbert Murray (Agamemnon, rhyming verse; Gutenberg clears it as US PD; Murray d. 1957, not PD in life+70 countries). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03, four single-play Prometheus Bound translations, raw IA OCR: Augusta Webster's (1866), C. B. Cayley's (1867), Paul Elmer More's (1899) and Edwyn Robert Bevan's (1902). Janet Case's Temple Dramatists edition (Greek facing, undated scan) was not taken. Also four Agamemnons, raw IA OCR: J. S. Harford's (Murray, 1831; translator from the catalogue only), H. H. Milman's (Murray, 1865, with his Bacchae of Euripides), W. R. Paton's (Nutt, 1907) and Locke Ellis's (1920). Not taken: Trevelyan's Cambridge Oresteia (1920, Greek facing, OCR 0.51) and the Greek-facing school editions (Conington, Kennedy, Davies, Verrall, Goodwin). T. G. Tucker's Seven against Thebes (Cambridge, 1908) and Walter Headlam's verse Agamemnon, edited by A. C. Pearson (Cambridge, 1910), both Greek facing, raw IA.",
  "_name_words": [
   "aeschylus",
   "aeschylos",
@@ -153,6 +153,14 @@
   "aeschylus-tucker-choephori-1901": [
    "choephoriofaesch0000tgtu",
    "The Choephori of Aeschylus, with critical notes, commentary, translation and a recension of the scholia by T. G. Tucker (1901); Greek text facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "aeschylus-tucker-seven-1908": [
+   "sevenagainsttheb0000edtr",
+   "The Seven against Thebes of Aeschylus, with introduction, critical notes, commentary, translation and a recension of the Medicean scholia (Cambridge: at the University Press, 1908); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "aeschylus-headlam-pearson-agamemnon-1910": [
+   "agamemnonwithver00aescuoft",
+   "The Agamemnon of Aeschylus, with verse translation, introduction and notes by the late Walter Headlam, edited by A. C. Pearson (Cambridge: at the University Press, 1910); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
@@ -249,7 +257,9 @@
   "aeschylus-davies-agamemnon-1868": "John Fletcher Davies",
   "aeschylus-kennedy-agamemnon-1882": "Benjamin Hall Kennedy",
   "aeschylus-verrall-choephori-1893": "Verrall",
-  "aeschylus-verrall-eumenides-1908": "Verrall"
+  "aeschylus-verrall-eumenides-1908": "Verrall",
+  "aeschylus-tucker-seven-1908": "T. G. Tucker",
+  "aeschylus-headlam-pearson-agamemnon-1910": "Walter Headlam"
  },
  "_checks": {
   "aeschylus-plumptre": {
@@ -625,6 +635,32 @@
    "ia_rights": "ok: published 1901",
    "ia_date": "1901",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-tucker-seven-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "T. G. Tucker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aeschylus-headlam-pearson-agamemnon-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aeschylus",
+   "translator_claimed": "Walter Headlam",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  },
