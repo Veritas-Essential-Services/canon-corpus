@@ -12771,6 +12771,7 @@ Shelf: `pipeline/bury_shelf.json`. Bury's Later Roman Empire (1889, 2 vols.), Ea
 | A History of Freedom of Thought (1913) |  | `bury-history-of-freedom-of-thought` | have (PG 10684) |
 | The Idea of Progress (1920) |  | `bury-idea-of-progress` | have (PG 4557) |
 | The Nemean Odes of Pindar, edited with introductions and commentary (London: Macmillan, 1890); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `bury-pindar-nemean-odes-1890` | have-raw (IA `nemeanodesofpind00pind`) |
+| A History of the Roman Empire from its foundation to the death of Marcus Aurelius (27 B.C.-180 A.D.), by J. B. Bury, The Student's Series (New York: Harper and Brothers, 1893) |  | `bury-students-roman-empire-1893` | have-raw (IA `historyofromanem00buryuoft`) |
 
 Excluded: The Student's Roman Empire (IA studentsromanemp00buryuoft) (no year on the scan's title page; held back under the undated rule); A History of the Later Roman Empire vol. II (IA historyoflaterro02buryuoft) (no year on the scan's title page; the dated 1889 copy is taken)
 
