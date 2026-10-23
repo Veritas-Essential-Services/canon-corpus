@@ -14109,6 +14109,26 @@ Slugs `babcock-*`. Built from title pages read for round 78.
 | Thoughts for every-day living from the spoken and written words of Maltbie Davenport Babcock (New York : C. Scribner's sons, 1901) | have-ocr | IA `thoughtsforevery00babc` |
 | Letters from Egypt and Palestine (New York : C. Scribner's sons, 1902) | have-ocr | IA `lettersfromegypt00babc` |
 | Fragments that remain from the ministry of Maltbie Davenport Babcock, pastor Brick church, New York city, 1899-1901 (New York, Chicago [etc.] Fleming H. Revell company, 1907) | have-ocr | IA `fragmentsthatrem00babc` |
+
+## William A. Quayle (round 78, my pick, 2026-10-23)
+
+Slugs `quayle-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| The blessed life; being a series of meditations on manhood and womanhood in Christ (Cincinnati, Jennings & Pye; New York, Eaton & Mains, 1901) | have-ocr | IA `blessedlifebeing00quay` |
+| Eternity in the heart, and other sermons (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1904) | have-ocr | IA `eternityinhearto00quay` |
+| God's calendar (Cincinnati : Jennings and Graham ; New York, Eaton and Mains, 1907) | have-ocr | IA `godscalendar00quay` |
+| The book of Ruth (New York, Dodge Publishing Company, 1910) | have-ocr | IA `bookofruth00quay` |
+| The pastor-preacher (Cincinnati, Jennings & Graham; New York, Eaton & Mains, 1910) | have-ocr | IA `pastorpreacher00quay` |
+| Laymen in action (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1912) | have-ocr | IA `laymeninaction0000quay` |
+| The climb to God; being a collection of pulpit and private prayers which are meant to gird the spiritual life (Cincinnati, Jennings & Graham; New York, Eaton & Mains, 1913) | have-ocr | IA `climbtogodbeingc00quay` |
+| The dynamite of God (New York, Cincinnati, The Methodist book concern, 1918) | have-ocr | IA `dynamiteofgod00quay` |
+| The throne of grace : a volume of personal prayers, with a prelude (New York : Methodist Book Concern, 1919) | have-ocr | IA `throneofgracevol00quay` |
+| The uncommon commonplace (New York : Abingdon Press, 1921) | have-ocr | IA `uncommoncommonpl00quay` |
+| The healing shadow (New York : The Abingdon Press, 1923) | have-ocr | IA `healingshadow00quay` |
+| Out-of-doors with Jesus (New York ; Cincinnati : The Abingdon press, 1924) | have-ocr | IA `outofdoorswithje00quay` |
+| his literary essays, nature books and verse (The Poet's Poet, A Hero and Some Other Folk, In God's Out-of-Doors, Books and Life, The Prairie and the Sea, Lowell, Poems, Beside Lake Beautiful, Recovered Yesterdays, With Earth and Sky) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

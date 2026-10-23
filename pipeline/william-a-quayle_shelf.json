@@ -1,0 +1,208 @@
+{
+ "_about": "Public-domain William Alfred Quayle (1860-1925), bishop of the Methodist Episcopal Church, for the Word Hoard: his religious books: The Blessed Life (1901), Eternity in the Heart (1904), God's Calendar (1907), The Book of Ruth (1910), The Pastor-Preacher (1910), Laymen in Action (1912), The Climb to God, prayers (1913), The Dynamite of God (1918), The Throne of Grace, prayers (1919), The Uncommon Commonplace (1921), The Healing Shadow (1923) and Out-of-Doors with Jesus (1924). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 78 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william a. quayle",
+  "william alfred quayle",
+  "bishop quayle"
+ ],
+ "_surname": [
+  "quayle"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "quayle-blessed-life": [
+   "blessedlifebeing00quay",
+   "The blessed life; being a series of meditations on manhood and womanhood in Christ (Cincinnati, Jennings & Pye; New York, Eaton & Mains, 1901)"
+  ],
+  "quayle-eternity-in-heart": [
+   "eternityinhearto00quay",
+   "Eternity in the heart, and other sermons (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1904)"
+  ],
+  "quayle-gods-calendar": [
+   "godscalendar00quay",
+   "God's calendar (Cincinnati : Jennings and Graham ; New York, Eaton and Mains, 1907)"
+  ],
+  "quayle-book-of-ruth": [
+   "bookofruth00quay",
+   "The book of Ruth (New York, Dodge Publishing Company, 1910)"
+  ],
+  "quayle-pastor-preacher": [
+   "pastorpreacher00quay",
+   "The pastor-preacher (Cincinnati, Jennings & Graham; New York, Eaton & Mains, 1910)"
+  ],
+  "quayle-laymen-in-action": [
+   "laymeninaction0000quay",
+   "Laymen in action (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1912)"
+  ],
+  "quayle-climb-to-god": [
+   "climbtogodbeingc00quay",
+   "The climb to God; being a collection of pulpit and private prayers which are meant to gird the spiritual life (Cincinnati, Jennings & Graham; New York, Eaton & Mains, 1913)"
+  ],
+  "quayle-dynamite-of-god": [
+   "dynamiteofgod00quay",
+   "The dynamite of God (New York, Cincinnati, The Methodist book concern, 1918)"
+  ],
+  "quayle-throne-of-grace": [
+   "throneofgracevol00quay",
+   "The throne of grace : a volume of personal prayers, with a prelude (New York : Methodist Book Concern, 1919)"
+  ],
+  "quayle-uncommon-commonplace": [
+   "uncommoncommonpl00quay",
+   "The uncommon commonplace (New York : Abingdon Press, 1921)"
+  ],
+  "quayle-healing-shadow": [
+   "healingshadow00quay",
+   "The healing shadow (New York : The Abingdon Press, 1923)"
+  ],
+  "quayle-out-of-doors-with-jesus": [
+   "outofdoorswithje00quay",
+   "Out-of-doors with Jesus (New York ; Cincinnati : The Abingdon press, 1924)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "quayle-other": "his literary essays, nature books and verse (The Poet's Poet, A Hero and Some Other Folk, In God's Out-of-Doors, Books and Life, The Prairie and the Sea, Lowell, Poems, Beside Lake Beautiful, Recovered Yesterdays, With Earth and Sky)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "quayle-book-of-ruth": "title page: 'THE BOOK OF RUTH WITH A SYNTHESIS [BY] WILLIAM A. QUAYLE ... DODGE PUBLISHING COMPANY ... Copyright, 1910' (OCR 'A?§UAYLE')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "quayle-blessed-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "quayle-eternity-in-heart": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quayle-gods-calendar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quayle-book-of-ruth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "quayle-pastor-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quayle-laymen-in-action": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quayle-climb-to-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quayle-dynamite-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quayle-throne-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quayle-uncommon-commonplace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "quayle-healing-shadow": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quayle-out-of-doors-with-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "quayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
