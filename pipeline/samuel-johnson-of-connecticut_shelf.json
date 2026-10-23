@@ -1,0 +1,42 @@
+{
+ "_about": "Public-domain Samuel Johnson (1696-1772), Anglican missionary in Connecticut and first president of King's College, New York, for the Word Hoard: The Elements of Philosophy (London: Millar, 1754), from an Internet Archive scan. Not Dr Samuel Johnson the lexicographer. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "johnson"
+ ],
+ "_surname": [
+  "samuel johnson, d.d",
+  "samuel johnson, d. d"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "johnson-ct-elements-philosophy": [
+   "elementsofphilos00john",
+   "The elements of philosophy: containing, I. The most useful parts of logic, ... II. A brief view both of ... moral philosophy, ... By Samuel Johnson, D.D (London : printed for A. Millar, 1754)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "johnson-ct-other": "Beardsley's Life and Correspondence (1874, by another hand); Elementa Philosophica 1752 (the same work, earlier printing, kept off for now)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "johnson-ct-elements-philosophy": "title page text: 'The Elements of Philosophy ... To which is added, An Original Letter concerning the Settlement of Bishops in America. By Samuel Johnson, D.D. The third edition' (the OCR splits the surname 'JOHNS O N'); the letter on American bishops marks the Connecticut divine, not the lexicographer"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "johnson-ct-elements-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

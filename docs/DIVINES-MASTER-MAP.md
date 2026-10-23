@@ -10374,6 +10374,15 @@ Slugs `hey-*`. Built from title pages read for round 42.
 | Lectures in divinity (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini00heyj` |
 | Lectures in divinity, vol. 4 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini04heyj` |
 | The 1841 two-volume reprint | alternate | not shelved |
+
+## Samuel Johnson of Connecticut (round 42, my pick, 2026-10-22)
+
+Slugs `johnson-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The elements of philosophy: containing, I. The most useful parts of logic, ... II. A brief view both of ... moral philosophy, ... By Samuel Johnson, D.D (London : printed for A. Millar, 1754) | have-ocr | IA `elementsofphilos00john` |
+| Beardsley's Life and Correspondence (1874, by another hand); Elementa Philosophica 1752 (the same work, earlier printing, kept off for now) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
