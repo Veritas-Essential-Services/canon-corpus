@@ -18391,3 +18391,15 @@ Shelf: `pipeline/s-s-van-dine_shelf.json` (2026-10-22; added at the coordinator'
 | The Greene murder case | have | PG 72719, `ssvandine-greene-murder-case` (2878 units) |
 | The Bishop murder case | have | PG 75157, `ssvandine-bishop-murder-case` (2653 units) |
 | The scarab murder case | have | PG 78655, `ssvandine-scarab-murder-case` (2867 units) |
+
+## D. F. E. Sykes
+
+Shelf: `pipeline/d-f-e-sykes_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Sister Gertrude: A Tale of the West Riding | have | PG 53919, `dfesykes-sister-gertrude` (870 units) |
+| Ben o' Bill's, the Luddite: A Yorkshire Tale | have | PG 54030, `dfesykes-ben-o-bills-the-luddite` (1525 units) |
+| Tom Pinder, Foundling: A Story of the Holmfirth Flood | have | PG 54121, `dfesykes-tom-pinder-foundling` (1555 units) |
+| Miriam: A Tale of Pole Moor and the Greenfield Hills | have | PG 54333, `dfesykes-miriam` (1327 units) |
+| Ealing and Its Vicinity | have | PG 66937, `dfesykes-ealing-and-its-vicinity` (70 units) |

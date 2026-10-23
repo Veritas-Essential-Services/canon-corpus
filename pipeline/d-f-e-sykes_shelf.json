@@ -1,0 +1,84 @@
+{
+ "_about": "D. F. E. Sykes: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "D. F. E. Sykes",
+ "_name_words": [
+  "sykes"
+ ],
+ "_surname": [
+  "d. f. e. sykes",
+  "sykes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dfesykes-sister-gertrude": [
+   53919,
+   "Sister Gertrude: A Tale of the West Riding"
+  ],
+  "dfesykes-ben-o-bills-the-luddite": [
+   54030,
+   "Ben o' Bill's, the Luddite: A Yorkshire Tale"
+  ],
+  "dfesykes-tom-pinder-foundling": [
+   54121,
+   "Tom Pinder, Foundling: A Story of the Holmfirth Flood"
+  ],
+  "dfesykes-miriam": [
+   54333,
+   "Miriam: A Tale of Pole Moor and the Greenfield Hills"
+  ],
+  "dfesykes-ealing-and-its-vicinity": [
+   66937,
+   "Ealing and Its Vicinity"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "dfesykes-sister-gertrude": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. f. e. sykes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dfesykes-ben-o-bills-the-luddite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. f. e. sykes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dfesykes-tom-pinder-foundling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. f. e. sykes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dfesykes-miriam": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. f. e. sykes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dfesykes-ealing-and-its-vicinity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. f. e. sykes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
