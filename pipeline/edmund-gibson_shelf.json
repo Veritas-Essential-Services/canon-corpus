@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Edmund Gibson (1669-1748), Bishop of London, the church's great canonist, for the Word Hoard: Codex Juris Ecclesiastici Anglicani (London, 1713, two volumes) and Synodus Anglicana (Oxford, 1854), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gibson"
+ ],
+ "_surname": [
+  "edmund gibson",
+  "edm. gibson",
+  "edmundus gibson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gibson-codex-1": [
+   "codexjuriseccles01chur",
+   "Codex juris ecclesiastici anglicani, or, The statutes, constitutions, canons, rubricks and articles, of the Church of England, methodically digested under their proper heads. : with a commentary, historical and juridical : before it, is an introductory discourse, concerning the present state of the power, discipline and laws, of the Church of England, and after it, an appendix of instruments, ancient and modern, vol. 1 (London : Printed by J. Baskett ... : and by the assigns of Thomas Newcomb, and Henry Hills, deceas'd : and are to be sold by R. Whitledge ..., 1713)"
+  ],
+  "gibson-codex-2": [
+   "codexjuriseccles02chur",
+   "Codex juris ecclesiastici anglicani, or, The statutes, constitutions, canons, rubricks and articles, of the Church of England, methodically digested under their proper heads. : with a commentary, historical and juridical : before it, is an introductory discourse, concerning the present state of the power, discipline and laws, of the Church of England, and after it, an appendix of instruments, ancient and modern, vol. 2 (London : Printed by J. Baskett ... : and by the assigns of Thomas Newcomb, and Henry Hills, deceas'd : and are to be sold by R. Whitledge ..., 1713)"
+  ],
+  "gibson-synodus-anglicana-1854": [
+   "synodusanglicana00gibsuoft",
+   "Synodus Anglicana (Oxford, Univ. Press, 1854)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gibson-other": "His Saxon Chronicle (1692) and Camden edition (philology and antiquities); the Speculum Dioeceseos Lincolniensis (1913, records edited by others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "gibson-preservative": "A Preservative against Popery (1738; Cumming's 1848 edition in 18 volumes): a collection of discourses by many divines that Gibson compiled, held with the other many-author compilations for Adam's ruling"
+ },
+ "_translators": {},
+ "_checks": {
+  "gibson-codex-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gibson-codex-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gibson-synodus-anglicana-1854": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund gibson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

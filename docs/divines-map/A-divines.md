@@ -10188,3 +10188,15 @@ Slugs `wake-*`. Built from title pages read for round 41.
 | A brief discourse of the real presence of the body and blood of Christ in the celebration of the Holy Eucharist : wherein the witty artifices of the Bishop of Meaux and of Monsieur Maimbourg are obviated, whereby they would draw in the Protestants to imbrace the doctrine of transubstantiation (London : Printed for Walter Kettilby, 1686) [breof00more]: a bound volume of three tracts; only a binder's handwritten contents list gives them to 'Abp Wake', and the printed title page carries no author, only the imprimatur | pending | not shelved |
 | Other printings of the Apostolical Fathers (1693-1893) and the 1909 Burton edition | alternate | not shelved |
 | Hone's Apocryphal New Testament (1820-1901), a compilation that reprints some of Wake's translations; the Speculum Dioeceseos Lincolniensis (1913), his diocesan records edited by others | excluded | |
+
+## Edmund Gibson (round 41, my pick, 2026-10-22)
+
+Slugs `gibson-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| Codex juris ecclesiastici anglicani, or, The statutes, constitutions, canons, rubricks and articles, of the Church of England, methodically digested under their proper heads. : with a commentary, historical and juridical : before it, is an introductory discourse, concerning the present state of the power, discipline and laws, of the Church of England, and after it, an appendix of instruments, ancient and modern, vol. 1 (London : Printed by J. Baskett ... : and by the assigns of Thomas Newcomb, and Henry Hills, deceas'd : and are to be sold by R. Whitledge ..., 1713) | have-ocr | IA `codexjuriseccles01chur` |
+| Codex juris ecclesiastici anglicani, or, The statutes, constitutions, canons, rubricks and articles, of the Church of England, methodically digested under their proper heads. : with a commentary, historical and juridical : before it, is an introductory discourse, concerning the present state of the power, discipline and laws, of the Church of England, and after it, an appendix of instruments, ancient and modern, vol. 2 (London : Printed by J. Baskett ... : and by the assigns of Thomas Newcomb, and Henry Hills, deceas'd : and are to be sold by R. Whitledge ..., 1713) | have-ocr | IA `codexjuriseccles02chur` |
+| Synodus Anglicana (Oxford, Univ. Press, 1854) | have-ocr | IA `synodusanglicana00gibsuoft` |
+| A Preservative against Popery (1738; Cumming's 1848 edition in 18 volumes): a collection of discourses by many divines that Gibson compiled, held with the other many-author compilations for Adam's ruling | pending | not shelved |
+| His Saxon Chronicle (1692) and Camden edition (philology and antiquities); the Speculum Dioeceseos Lincolniensis (1913, records edited by others) | excluded | |
