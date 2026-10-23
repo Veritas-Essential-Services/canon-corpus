@@ -12055,3 +12055,22 @@ Slugs `briggs-*`. Built from title pages read for round 57.
 | A critical and exegetical commentary on the book of Psalms, vol. pt. 2 (New York, C. Scribner's sons, 1906) | have-ocr | IA `criticalexegetic1906brig2` |
 | highercriticismo00brig_0: the 1892 first edition; that scan lacks its title page | alternate | not shelved |
 | Pamphlets and papers by others in the heresy case (the Presbytery's charges, Warfield's answer, reviews of the inaugural); Briggs's own short pamphlets 1890-1894; Briggs, Driver and Brown's Hebrew Lexicon (held as BDB elsewhere) | excluded | |
+
+## Newman Smyth (round 57, my pick, 2026-10-23)
+
+Slugs `nsmyth-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The religious feeling. A study for faith (New York : Scribner, Armstrong & Co., 1877) | have-ocr | IA `religiousfeeling00smyt_0` |
+| Old faiths in new light (New York, Scribner, 1879) | have-ocr | IA `oldfaithsnew00smytuoft` |
+| The orthodox theology of to-day (New York : C. Scribner, 1881) | have-ocr | IA `orthodoxtheology0000smyt` |
+| The reality of faith (New York : C. Scribner's Sons, 1884) | have-ocr | IA `realityoffaith00smyt` |
+| The Morality of the Old Testament (Cassell, 1886) | have-ocr | IA `moralityoldtest00smytgoog` |
+| Christian facts and forces (New York, C. Scribner's sons, 1887) | have-ocr | IA `christianfactsfo00smyt` |
+| Personal creeds : or, How to form a working-theory of life (New York : C. Scribner's sons, 1890) | have-ocr | IA `personalcreedsor00smyt` |
+| Christian ethics (New York, C. Scribner's sons, 1892) | have-ocr | IA `christianethicsc00smyt` |
+| The place of death in evolution (New York : C. Scribner's Sons, 1897) | have-ocr | IA `placeofdeathinev0000smyt` |
+| Through science to faith (New York : C. Scribner's Sons, 1902) | have-ocr | IA `throughscienceto00smyt` |
+| Passing Protestantism and coming Catholicism (New York : C. Scribner's sons, 1908) | have-ocr | IA `passingprotestan00smyt` |
+| His translation of Dorner on the Future State (1883, Dorner's book); a Berlin guidebook miscatalogued under his name | excluded | |
