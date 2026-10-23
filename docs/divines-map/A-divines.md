@@ -15268,3 +15268,21 @@ Slugs `mckim-*`. Built from title pages read for round 91.
 | America summoned to a holy war; a sermon delivered in the Church of the Epiphany ([Washington], 1917) | have-ocr | IA `americasummonedt00mcki` |
 | For God and country (New York, E. P. Dutton & company, 1918) | have-ocr | IA `forgodcountry00mcki` |
 | his Confederate memoir and writings (A Soldier's Recollections, The Soul of Lee, The Motives and Aims of the Soldiers of the South, The Numerical Strength of the Confederate Army); a county history he contributed to | excluded | |
+
+## John Cordner (round 91, my pick, 2026-10-23)
+
+Slugs `cordner-*`. Built from title pages read for round 91.
+
+| Work | Status | Where |
+|---|---|---|
+| Jesus : a Christmas sermon preached in the Unitarian Church, Montreal, Christmas day, 1851 (Montreal : John C. Becket, 1851) | have-ocr | IA `jesuschristmasse00cord` |
+| Christ, the Son of God. A discourse in review of the Rev. Dr. Wilkes' sermon, entitle "Who is Chirst?" (Montreal : James Potts, Herald Office, 1851) | have-ocr | IA `christsonofgoddi00cord` |
+| Philosophic origin and historic progress of the Doctrine of the Trinity : a lecture, delivered in the Unitarian Church Montreal, on Sunday Evening, January 26th, 1851 (Montreal : John C. Becket, 1851) | have-ocr | IA `philosophicorigi00cord` |
+| A pastoral letter to the Christian congregation assembling for worship and edification in the Unitarian Church, Montreal ([Montréal? : s.n.], 1853) | have-ocr | IA `cihm_89272` |
+| The foundations of nationality, a discourse, preached in the Unitarian Church, Montreal, on the Sunday after the great railway celebration, November, 1856 (Montreal : Henry Rose, 1856) | have-ocr | IA `foundationsofnat00cord` |
+| The Christian idea of sacrifice : a discourse preached at the dedication of the Church of the Messiah, Montreal, on Sunday, 12th September, 1858 / by Rev. John Cordner (Montreal : Henry Rose, 1858) | have-ocr | IA `christianideaofs00cord` |
+| Righteousness exalteth a nation; a discourse concerning the relation of morality to national wellbeing (Montreal, Rose, 1860) | have-ocr | IA `righteousnessexa00cord` |
+| Twenty-five sermons : a memorial of twenty-five years' ministry (Montreal : Printed by J. Lovell, 1868) | have-ocr | IA `twentyfivesermon00cord` |
+| Is Protestantism a failure? : the question considered in five lectures : also a discourse on Christian monotheism ([S.l. : s.n.], 1869) | have-ocr | IA `cihm_00237` |
+| his civic orations before the New England Society of Montreal (The Vision of the Pilgrim Fathers, The American Conflict, Canada and the United States) | excluded | |
+| Who is Christ? by Henry Wilkes, the sermon he answered | excluded | |

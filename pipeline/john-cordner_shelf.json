@@ -1,0 +1,163 @@
+{
+ "_about": "Public-domain John Cordner (1816-1894), Irish-born minister of the Unitarian Church of the Messiah, Montreal, for the Word Hoard: his sermons and lectures: Jesus (a Christmas sermon), Christ the Son of God (a reply to Henry Wilkes), The Philosophic Origin and Historic Progress of the Doctrine of the Trinity, a pastoral letter, The Foundations of Nationality, The Christian Idea of Sacrifice, Righteousness Exalteth a Nation, Twenty-five Sermons (1868) and Is Protestantism a Failure? (1869). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 91 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john cordner",
+  "j. cordner"
+ ],
+ "_surname": [
+  "john cordner",
+  "j. cordner",
+  "cordner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cordner-jesus-christmas": [
+   "jesuschristmasse00cord",
+   "Jesus : a Christmas sermon preached in the Unitarian Church, Montreal, Christmas day, 1851 (Montreal : John C. Becket, 1851)"
+  ],
+  "cordner-christ-son-of-god": [
+   "christsonofgoddi00cord",
+   "Christ, the Son of God. A discourse in review of the Rev. Dr. Wilkes' sermon, entitle \"Who is Chirst?\" (Montreal : James Potts, Herald Office, 1851)"
+  ],
+  "cordner-trinity": [
+   "philosophicorigi00cord",
+   "Philosophic origin and historic progress of the Doctrine of the Trinity : a lecture, delivered in the Unitarian Church Montreal, on Sunday Evening, January 26th, 1851 (Montreal : John C. Becket, 1851)"
+  ],
+  "cordner-pastoral-letter": [
+   "cihm_89272",
+   "A pastoral letter to the Christian congregation assembling for worship and edification in the Unitarian Church, Montreal ([Montréal? : s.n.], 1853)"
+  ],
+  "cordner-nationality": [
+   "foundationsofnat00cord",
+   "The foundations of nationality, a discourse, preached in the Unitarian Church, Montreal, on the Sunday after the great railway celebration, November, 1856 (Montreal : Henry Rose, 1856)"
+  ],
+  "cordner-sacrifice": [
+   "christianideaofs00cord",
+   "The Christian idea of sacrifice : a discourse preached at the dedication of the Church of the Messiah, Montreal, on Sunday, 12th September, 1858 / by Rev. John Cordner (Montreal : Henry Rose, 1858)"
+  ],
+  "cordner-righteousness": [
+   "righteousnessexa00cord",
+   "Righteousness exalteth a nation; a discourse concerning the relation of morality to national wellbeing (Montreal, Rose, 1860)"
+  ],
+  "cordner-twenty-five-sermons": [
+   "twentyfivesermon00cord",
+   "Twenty-five sermons : a memorial of twenty-five years' ministry (Montreal : Printed by J. Lovell, 1868)"
+  ],
+  "cordner-protestantism-failure": [
+   "cihm_00237",
+   "Is Protestantism a failure? : the question considered in five lectures : also a discourse on Christian monotheism ([S.l. : s.n.], 1869)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cordner-addresses": "his civic orations before the New England Society of Montreal (The Vision of the Pilgrim Fathers, The American Conflict, Canada and the United States)",
+  "cordner-wilkes": "Who is Christ? by Henry Wilkes, the sermon he answered"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cordner-jesus-christmas": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-christ-son-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-trinity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-pastoral-letter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-nationality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-sacrifice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-righteousness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-twenty-five-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cordner-protestantism-failure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cordner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
