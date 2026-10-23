@@ -5517,10 +5517,12 @@
     },
     {
       "id": "jonathan-mayhew",
-      "status": "queued",
+      "status": "done",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:11:11-05:00",
+      "notes": "Rebuilt on resume: 22 first printings, 1749-1766, all Internet Archive; verify --record 0 mismatched (seven title pages read where OCR garbled the name as Mathew or May Hew), 0 uids minted. Veto point: Mayhew was an Arminian and anti-Trinitarian forerunner of Unitarianism."
     },
     {
       "id": "david-brainerd",

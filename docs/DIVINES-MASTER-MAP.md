@@ -9543,6 +9543,37 @@ Slugs `nwtaylor-*`. Built from title pages read for round 39.
 | Review of Dr. Tyler's Strictures (New Haven, 1830, MN41642ucmf_4): first printed unsigned in the Christian Spectator; the title page names no author, the catalogue credits Taylor | pending | not shelved |
 | Other scans: practicalsermons00tayl_0, cu31924031765633, practicalsermon00taylgoog; moralgovernment01taylrich, moralgovernment02taylrich, lecturesonmoral04taylgoog; essayslecturese01taylgoog, essayslectureset00tayl_0 | alternate | not shelved |
 | Timothy Dwight's ordination sermon for him (1812, dignityexcellen00dwig); MacWhorter's Yahveh Christ (1857); two manuscript letters (1831); Jeremy Taylor and other Taylors | excluded | |
+
+## Jonathan Mayhew (round 39, my pick, 2026-10-22)
+
+Slugs `mayhew-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Seven Sermons upon the following Subjects, preached at a Lecture in the West Meeting-house in Boston (Boston: Rogers and Fowle, 1749) | have-ocr | IA `sevensermonsupon00mayh` |
+| A Discourse concerning Unlimited Submission and Non-Resistance to the Higher Powers, with some Reflections on the Resistance made to King Charles I (Boston: D. Fowle, 1750) | have-ocr | IA `discourseconcer00mayh` |
+| A Sermon preached at Boston in New-England, May 26, 1751, occasioned by the much-lamented Death of His Royal Highness Frederick, Prince of Wales (Boston: Richard Draper and Daniel Gookin, 1751) | have-ocr | IA `sermonpreachedat00mayh` |
+| A Sermon preached in the Audience of His Excellency William Shirley, Esq., the Council and the House of Representatives (Boston: S. Kneeland, 1754) | have-ocr | IA `sermonpreachedin00mayh` |
+| Sermons upon the following Subjects: On Hearing the Word, On Receiving it with Meekness, On Renouncing ... (Boston: Richard Draper, 1755) | have-ocr | IA `sermonsuponfollo00mayh` |
+| A Discourse on Rev. XV. 3d, 4th, occasioned by the Earthquakes in November, 1755, delivered in the West-Meeting-House, Boston, December 18 (Boston: Edes & Gill, and R. Draper, 1755) | have-ocr | IA `discourseonrevxv00mayh` |
+| Two Discourses delivered Nov. 23, 1758, being the Day appointed by Authority to be observed as a Day of Public Thanksgiving (Boston: R. Draper, 1758) | have-ocr | IA `twodiscoursesdeliv00mayh` |
+| Two Discourses delivered October 25th, 1759, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more particularly in the Reduction of Quebec (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1759) | have-ocr | IA `twodiscoursesdelivered00mayh` |
+| Two Discourses delivered October 9th, 1760, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more especially in the intire Reduction of Canada (Boston: R. Draper, Edes and Gill, and T. and J. Fleet, 1760) | have-ocr | IA `twodiscoursesdel00mayh` |
+| A Discourse occasioned by the Death of the Honourable Stephen Sewall, Esq., Chief Justice (Boston: Richard Draper, 1760) | have-ocr | IA `discourseoccasio00mayh` |
+| God's Hand and Providence to be religiously acknowledged in Public Calamities: a Sermon occasioned by the Great Fire in Boston, New-England, Thursday March 20, 1760 (Boston: Richard Draper, Edes and Gill, and Thomas and John Fleet, 1760) | have-ocr | IA `godshandproviden00mayh` |
+| Practical Discourses delivered on occasion of the Earthquakes in November, 1755 (Boston: Richard Draper, 1760) | have-ocr | IA `practicaldiscour00mayh` |
+| A Discourse occasioned by the Death of King George II and the Happy Accession of His Majesty King George III (Boston: Edes & Gill, 1761) | have-ocr | IA `discourseoccasio02mayh` |
+| Striving to enter in at the Strait Gate explain'd and inculcated, and the Connexion of Salvation therewith proved, in Two Sermons on Luke XIII. 24 (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1761) | have-ocr | IA `strivingtoenteri00mayh` |
+| Christian Sobriety: being Eight Sermons on Titus II. 6, preached with a special View to the Benefit of the Young Men usually attending the Public Worship at the West Church in Boston (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, 1763) | have-ocr | IA `christiansobriet00mayh` |
+| Two Sermons on the Nature, Extent and Perfection of the Divine Goodness, delivered December 9, 1762 (Boston: D. and J. Kneeland, 1763) | have-ocr | IA `twosermonsonnatu00mayh` |
+| Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, with Remarks on the Mistakes of East Apthorp (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, MDCCLXIII) | have-ocr | IA `bim_eighteenth-century_observations-on-the-char_mayhew-jonathan_1763` |
+| A Defence of the Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, against an Anonymous Pamphlet (catalogued 1763) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-observa_mayhew-jonathan_1763` |
+| Remarks on an Anonymous Tract, entitled An Answer to Dr. Mayhew's Observations on the Charter and Conduct of the Society for the Propagation of the Gospel (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_remarks-on-the-anonymous_mayhew-jonathan_1764` |
+| A Letter of Reproof to Mr. John Cleaveland of Ipswich, occasioned by a Defamatory Libel published under his Name (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_a-letter-of-reproof-to-m_mayhew-jonathan_1764` |
+| Popish Idolatry: a Discourse delivered in the Chapel of Harvard College in Cambridge, New England, May 8, 1765, at the Lecture founded by the Honorable Paul Dudley (Boston: R. & S. Draper, Edes & Gill, and T. & J. Fleet, 1765) | have-ocr | IA `popishidolatrydi00mayh` |
+| The Snare Broken: a Thanksgiving Discourse preached at the Desire of the West Church in Boston, Friday May 23, 1766, occasioned by the Repeal of the Stamp Act (Boston: R. & S. Draper, 1766) | have-ocr | IA `snarebrokenthank00mayh` |
+| Other scans: the bim_eighteenth-century_ copies of the 1749, 1750, 1755, 1759, 1760, 1761, 1763, 1765 and 1766 printings; wsb/wsp image-only copies; cihm microfiche of the 1759 Two Discourses; the 1818 reprints of the 1750 Discourse; Sermons to Young Men (London, 1767, 2 vols, a reprint of Christian Sobriety) | alternate | not shelved |
+| Secker's Answer to Dr. Mayhew's Observations (1764); Experience Mayhew, Thomas Mayhew and other Mayhews; Chauncy's sermon on his death (on the Charles Chauncy shelf) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
