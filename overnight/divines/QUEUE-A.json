@@ -6823,6 +6823,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T00:56:05-05:00",
       "notes": "3 items: Lincoln funeral address, Hundred Years of Methodism, Lectures on Preaching"
+    },
+    {
+      "id": "peter-cartwright",
+      "status": "done",
+      "scope": "round 52",
+      "added": "2026-10-23T00:56:05-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T00:56:05-05:00",
+      "notes": "2 items: Autobiography (1856), Fifty Years as a Presiding Elder (1871)"
     }
   ]
 }

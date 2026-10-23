@@ -11551,3 +11551,14 @@ Slugs `msimpson-*`. Built from title pages read for round 52.
 | A hundred years of Methodism (New York : Hunt & Eaton, 1876) | have-ocr | IA `hundredyearsofme00simp` |
 | Lectures on preaching, delivered before the Theological department of Yale college (New York, Nelson & Philips; Cincinnati, Hitchcock & Walden, 1879) | have-ocr | IA `lecturesonpreac00simp` |
 | The Cyclopaedia of Methodism (1878, many contributors, he edited it); Our Martyr President (1865, many preachers) | excluded | |
+
+## Peter Cartwright (round 52, my pick, 2026-10-23)
+
+Slugs `cartwright-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Autobiography of Peter Cartwright : the backwoods preacher (Cincinnati : Hitchcock and Walden, [185) | have-ocr | IA `autobiographyofp00cartuoft` |
+| Fifty years as a presiding elder (Cincinnati : Hitchcock and Walden ; New York : Carlton and Lanahan, 1871) | have-ocr | IA `fiftyyearsaspres1871cart` |
+| Many other printings of the Autobiography (1856-1920) | alternate | not shelved |
+| German and Swedish translations | excluded | |

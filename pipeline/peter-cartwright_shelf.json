@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain Peter Cartwright (1785-1872), Methodist circuit rider of Kentucky and Illinois, for the Word Hoard: Autobiography of Peter Cartwright, the Backwoods Preacher (1856) and Fifty Years as a Presiding Elder (1871), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cartwright"
+ ],
+ "_surname": [
+  "peter cartwright",
+  "p. cartwright"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cartwright-autobiography": [
+   "autobiographyofp00cartuoft",
+   "Autobiography of Peter Cartwright : the backwoods preacher (Cincinnati : Hitchcock and Walden, [185)"
+  ],
+  "cartwright-fifty-years": [
+   "fiftyyearsaspres1871cart",
+   "Fifty years as a presiding elder (Cincinnati : Hitchcock and Walden ; New York : Carlton and Lanahan, 1871)"
+  ]
+ },
+ "_alternates": {
+  "cartwright-copies": "Many other printings of the Autobiography (1856-1920)"
+ },
+ "_excluded": {
+  "cartwright-other": "German and Swedish translations"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cartwright-autobiography": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter cartwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "[1856]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cartwright-fifty-years": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter cartwright",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
