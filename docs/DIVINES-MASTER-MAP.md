@@ -19794,6 +19794,15 @@ Shelf: `pipeline/nathaniel-hooke_shelf.json`. The Roman History, from the Buildi
 
 Excluded: romanhistoryfro00unkngoog (1830 Rivington six-volume edition: Vol. I has no scan on IA, so the complete 1821 set was taken instead)
 
+
+## Wilhelm Wachsmuth (1784-1866)
+
+Shelf: `pipeline/wilhelm-wachsmuth_shelf.json`. The Historical Antiquities of the Greeks, tr. Woolrych (1837). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Historical Antiquities of the Greeks, tr. Edmund Woolrych, 2 vols. in one scan (Oxford: Talboys, 1837) |  | `wachsmuth-historical-antiquities-greeks-1837` | have-raw (IA `historicalantiqu00wach`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
