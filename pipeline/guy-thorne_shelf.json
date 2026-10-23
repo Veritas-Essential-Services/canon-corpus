@@ -1,0 +1,242 @@
+{
+ "_about": "Guy Thorne: Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Guy Thorne",
+ "_name_words": [
+  "guy",
+  "thorne"
+ ],
+ "_surname": [
+  "guy thorne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gthorne-butterfly-on-the-wheel": [
+   36467,
+   "A Butterfly on the Wheel: A Novel"
+  ],
+  "gthorne-house-of-torment-a-tale-of-the-remarkable-adventures": [
+   36721,
+   "House of Torment A Tale of the Remarkable Adventures of Mr. John Commendone, Gentleman to King Phillip II of Spain at the English Court"
+  ],
+  "gthorne-city-in-the-clouds": [
+   37270,
+   "The City in the Clouds"
+  ],
+  "gthorne-chance-in-chains": [
+   37591,
+   "Chance in Chains: A Story of Monte Carlo"
+  ],
+  "gthorne-oscar-wilde": [
+   38251,
+   "Oscar Wilde"
+  ],
+  "gthorne-when-it-was-dark": [
+   39666,
+   "When It Was Dark: The Story of a Great Conspiracy"
+  ],
+  "gthorne-great-acceptance": [
+   39999,
+   "The Great Acceptance: The Life Story of F. N. Charrington"
+  ],
+  "gthorne-air-pirate": [
+   40361,
+   "The Air Pirate"
+  ],
+  "gthorne-soul-stealer": [
+   40520,
+   "The Soul Stealer"
+  ],
+  "gthorne-lost-cause": [
+   40539,
+   "A Lost Cause"
+  ],
+  "gthorne-angel": [
+   40571,
+   "The Angel"
+  ],
+  "gthorne-secret-service-submarine": [
+   40581,
+   "The Secret Service Submarine: A Story of the Present War"
+  ],
+  "gthorne-hypocrite": [
+   40651,
+   "The Hypocrite"
+  ],
+  "gthorne-socialist": [
+   40734,
+   "The Socialist"
+  ],
+  "gthorne-drunkard": [
+   41139,
+   "The Drunkard"
+  ],
+  "gthorne-i-believe-and-other-essays": [
+   41178,
+   "\"I Believe\" and other essays"
+  ],
+  "gthorne-serf": [
+   41829,
+   "The Serf"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 41935: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "gthorne-butterfly-on-the-wheel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-house-of-torment-a-tale-of-the-remarkable-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-city-in-the-clouds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-chance-in-chains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-oscar-wilde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-when-it-was-dark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-great-acceptance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-air-pirate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-soul-stealer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-lost-cause": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-angel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-secret-service-submarine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-hypocrite": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-socialist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-drunkard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-i-believe-and-other-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gthorne-serf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "guy thorne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

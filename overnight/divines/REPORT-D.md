@@ -2269,3 +2269,6 @@
 
 ## 2026-10-22 22:58 CDT — ev-lucas: done
 - ev-lucas: new shelf, 21 Gutenberg books, 22,635 units, 736 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — guy-thorne: done
+- guy-thorne: new shelf, 17 Gutenberg books, 28,337 units, 101 ~2 ids; verify 0 mismatches, 0 rights flags.

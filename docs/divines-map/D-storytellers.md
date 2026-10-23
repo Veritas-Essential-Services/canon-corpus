@@ -16729,3 +16729,28 @@ Shelf: `pipeline/ev-lucas_shelf.json` (2026-10-22; added at the coordinator's re
 | Over Bemerton's | have | PG 76344, `evlucas-over-bemertons` (1349 units) |
 | A cat book | have | PG 79268, `evlucas-cat-book` (57 units) |
 | held-elsewhere | excluded | PG 38172: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Guy Thorne
+
+Shelf: `pipeline/guy-thorne_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A Butterfly on the Wheel: A Novel | have | PG 36467, `gthorne-butterfly-on-the-wheel` (2075 units) |
+| House of Torment A Tale of the Remarkable Adventures of Mr. John Commendone, Gentleman to King Phillip II of Spain at the English Court | have | PG 36721, `gthorne-house-of-torment-a-tale-of-the-remarkable-adventures` (1876 units) |
+| The City in the Clouds | have | PG 37270, `gthorne-city-in-the-clouds` (1908 units) |
+| Chance in Chains: A Story of Monte Carlo | have | PG 37591, `gthorne-chance-in-chains` (706 units) |
+| Oscar Wilde | have | PG 38251, `gthorne-oscar-wilde` (1615 units) |
+| When It Was Dark: The Story of a Great Conspiracy | have | PG 39666, `gthorne-when-it-was-dark` (2765 units) |
+| The Great Acceptance: The Life Story of F. N. Charrington | have | PG 39999, `gthorne-great-acceptance` (1093 units) |
+| The Air Pirate | have | PG 40361, `gthorne-air-pirate` (1689 units) |
+| The Soul Stealer | have | PG 40520, `gthorne-soul-stealer` (1528 units) |
+| A Lost Cause | have | PG 40539, `gthorne-lost-cause` (1186 units) |
+| The Angel | have | PG 40571, `gthorne-angel` (2081 units) |
+| The Secret Service Submarine: A Story of the Present War | have | PG 40581, `gthorne-secret-service-submarine` (1103 units) |
+| The Hypocrite | have | PG 40651, `gthorne-hypocrite` (1000 units) |
+| The Socialist | have | PG 40734, `gthorne-socialist` (1865 units) |
+| The Drunkard | have | PG 41139, `gthorne-drunkard` (3490 units) |
+| "I Believe" and other essays | have | PG 41178, `gthorne-i-believe-and-other-essays` (981 units) |
+| The Serf | have | PG 41829, `gthorne-serf` (1376 units) |
+| held-elsewhere | excluded | PG 41935: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
