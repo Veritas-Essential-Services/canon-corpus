@@ -19849,6 +19849,15 @@ Shelf: `pipeline/eduard-munk_shelf.json`. The Student's Manual of Greek Tragedy,
 | The Student's Manual of Greek Tragedy, ed. A. W. Verrall, tr. D. B. Kitchin (1891) |  | `munk-students-manual-greek-tragedy-1891` | have-raw (IA `studentsmanualo00munk`) |
 | The Student's Cicero, adapted by W. Y. Fausset (London: Swan Sonnenschein, 1889) |  | `munk-students-cicero-1889` | have-raw (IA `studentsciceroad00munkrich`) |
 
+
+## Johann Joachim Eschenburg (1743-1820)
+
+Shelf: `pipeline/j-j-eschenburg_shelf.json`. Manual of Classical Literature, tr. N. W. Fiske (Philadelphia: Biddle, 1841). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Manual of Classical Literature, tr. N. W. Fiske (Philadelphia: Biddle, 1841) |  | `eschenburg-manual-classical-literature-1841` | have-raw (IA `manualofclassica00eschrich`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
