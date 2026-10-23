@@ -13196,6 +13196,21 @@ Slugs `prideaux-*`. Built from title pages read for round 68.
 | The Original and Right of Tithes, for the Maintenance of the Ministry in a Christian Church Truly Stated (Norwich: Fr. Collins, 1710) | have-ocr | IA `bim_eighteenth-century_the-original-and-right-o_prideaux-humphrey_1710` |
 | Directions to Church-Wardens for the Faithful Discharge of their Office, second edition (Norwich, 1704) | have-ocr | IA `bim_eighteenth-century_directions-to-church-war_prideaux-humphrey_1704` |
 | Marmora Oxoniensia (Latin, 1676); French and Dutch translations of the Connection; the many later printings of the Connection (1716-1749 folio and octavo, 1749 Google copies), duplicates of the 1725 set shelved | excluded | |
+
+## Richard Allestree (round 68, my pick, 2026-10-23)
+
+Slugs `allestree-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| The Practice of Christian Graces, or The Whole Duty of Man, with Private Devotions (London: D. Maxwell for T. Garthwait, 1658): the first edition of The Whole Duty of Man | have-ocr | IA `bim_early-english-books-1641-1700_the-practice-of-christia_allestree-richard_1658` |
+| Private Devotions for Several Occasions (London, 1660) | have-ocr | IA `bim_early-english-books-1641-1700_private-devotions-for-se_allestree-richard_1660` |
+| The Gentleman's Calling (London: T. Garthwait, 1660) | have-ocr | IA `allestreegentlemanscalling` |
+| The Causes of the Decay of Christian Piety (London: R. Norton for T. Garthwait, 1667) | have-ocr | IA `causesofdecayofc00alle` |
+| The Government of the Tongue, fifth impression (Oxford: at the Theater; title-page date read as M.DC.LXVII, but the imprimatur is dated 24 January 1675 and the book first appeared in 1674, so this printing is 1675 or later) | have-ocr | IA `bim_early-english-books-1641-1700_the-government-of-the-to_allestree-richard_1667` |
+| almanacs of 1617-1643 under the name Richard Allestree: by the Derbyshire almanac-maker of that name, not the divine | excluded | |
+| Forty Sermons (1684) not found in a usable scan this round | excluded | |
+| The Whole Duty of Man (London: T. Garthwait, 1659; bim_early-english-books-1641-1700_the-whole-duty-of-man-_allestree-richard_1659): a later printing of the 1658 first edition shelved | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

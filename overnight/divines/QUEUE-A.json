@@ -7741,6 +7741,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:23:11-05:00",
       "notes": "9 books: the Connection (ninth edition, 4 vols., 1725), Validity of Orders, Life of Mahomet, Letter to the Deists (anonymous), Tithes, Directions to Church-Wardens."
+    },
+    {
+      "id": "richard-allestree",
+      "status": "done",
+      "scope": "round 68",
+      "added": "2026-10-23T03:23:11-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:23:11-05:00",
+      "notes": "5 books, all anonymous 'by the author of The Whole Duty of Man'; attribution is scholarly consensus. Whole Duty first edition (1658); 1659 printing and the almanac-maker excluded."
     }
   ]
 }
