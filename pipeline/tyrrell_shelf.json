@@ -1,5 +1,5 @@
 {
- "_about": "Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry, lectures delivered in 1893 on the Percy Turnbull Memorial Foundation (Boston and New York: Houghton, Mifflin, 1895): Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895), raw IA OCR. Added 2026-10-23: Essays on Greek Literature (London: Macmillan, 1909), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also raw IA: The Correspondence of M. Tullius Cicero, with L. C. Purser (Dublin: Hodges, Figgis, 7 vols.), the latest edition found for each volume: I (3rd ed. 1904), II (1st ed. 1886), III (1st ed. 1890), IV (2nd ed. 1918), V (2nd ed. 1915), VI (1899), VII index (1901); Latin text with English commentary, kept per Adam's 2026-10-23 ruling.",
+ "_about": "Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry, lectures delivered in 1893 on the Percy Turnbull Memorial Foundation (Boston and New York: Houghton, Mifflin, 1895): Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895), raw IA OCR. Added 2026-10-23: Essays on Greek Literature (London: Macmillan, 1909), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Also raw IA: The Correspondence of M. Tullius Cicero, with L. C. Purser (Dublin: Hodges, Figgis, 7 vols.), the latest edition found for each volume: I (3rd ed. 1904), II (1st ed. 1886), III (1st ed. 1890), IV (2nd ed. 1918), V (2nd ed. 1915), VI (1899), VII index (1901); Latin text with English commentary, kept per Adam's 2026-10-23 ruling. Round dt: his Bacchae (Macmillan, 1892).",
  "_name_words": [
   "tyrrell"
  ],
@@ -46,6 +46,10 @@
   "tyrrell-purser-cicero-v7-index-1901": [
    "correspondencem00unkngoog",
    "The Correspondence of M. Tullius Cicero, arranged according to its chronological order, with a revision of the text, a commentary and introductory essays, by R. Y. Tyrrell and L. C. Purser, vol. VII: Index (Dublin: Hodges, Figgis, 1901)"
+  ],
+  "tyrrell-bacchae-1892": [
+   "bacchaeeuri00euri",
+   "The Bacchae of Euripides, with a revision of the text and a commentary, by Robert Yelverton Tyrrell (London and New York: Macmillan, 1892; the second edition, 'after more than twenty years'); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_checks": {
@@ -146,6 +150,17 @@
    "ia_rights": "ok: published 1894",
    "ia_date": "1894",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tyrrell-bacchae-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert yelverton tyrrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
