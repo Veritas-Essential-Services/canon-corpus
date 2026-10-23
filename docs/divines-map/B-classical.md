@@ -9073,6 +9073,12 @@ Shelf: `pipeline/j-p-postgate_shelf.json`. English essays and the Lucan VII-VIII
 | Dead Language and Dead Languages, with special reference to Latin (Liverpool inaugural lecture, 1910) |  | `postgate-dead-language-1910` | have-raw (IA `deadlanguagedead00postrich`) |
 | Lucan, De Bello Civili Liber VII, with introduction, notes and critical appendix (Cambridge, 1896) |  | `postgate-lucan-vii-1896` | have-raw (IA `debellocivililib00lucauoft`) |
 | Lucan, De Bello Civili Liber VIII, with introduction and notes (Cambridge, 1917) |  | `postgate-lucan-viii-1917` | have-raw (IA `debellocivilil00luca`) |
+| The New Latin Primer, edited by J. P. Postgate with the co-operation of C. A. Vince (London, Paris, New York and Melbourne: Cassell, 1888) |  | `j-p-postgate-new-latin-primer-1888` | have-raw (IA `cu31924031210721`) |
+| Select Elegies of Propertius, edited with introduction, notes and appendices by J. P. Postgate (London: Macmillan, 1919; first edition printed 1881, this a reprint) |  | `j-p-postgate-select-elegies-propertius-1881` | have-raw (IA `selectelegiesofp0000jppo_r3r6`) |
+| Selections from Tibullus and others, edited by J. P. Postgate (London: Macmillan; New York: The Macmillan Company, 1903) |  | `j-p-postgate-selections-tibullus-1903` | have-raw (IA `selectionsfromt00tibu`) |
+| Sermo Latinus, by J. P. Postgate, new and enlarged edition (London: Macmillan, 1913; first edition 1889) |  | `j-p-postgate-sermo-latinus-1913` | have-raw (IA `sermolatinus0000post`) |
+| Translation and Translations, theory and practice, by J. P. Postgate (London: G. Bell, 1922) |  | `j-p-postgate-translation-and-translations-1922` | have-raw (IA `cu31924012540567`) |
+| A Short Guide to the Accentuation of Ancient Greek, by J. P. Postgate (London: Hodder and Stoughton, 1924) |  | `j-p-postgate-accentuation-ancient-greek-1924` | have-raw (IA `shortguidetoacce0000jppo`) |
 
 
 ## H. A. J. Munro (1819-1885)

@@ -1,5 +1,5 @@
 {
- "_about": "John Percival Postgate (1853-1926), Latinist. English essays, and his Lucan editions with English introduction and notes (Latin text). His Loeb Tibullus is held on the catullus shelf. Latin-text editions without English apparatus (Corpus Poetarum Latinorum, the Propertius and Catullus texts) not taken.",
+ "_about": "John Percival Postgate (1853-1926), Latinist. English essays, and his Lucan editions with English introduction and notes (Latin text). His Loeb Tibullus is held on the catullus shelf. Latin-text editions without English apparatus (Corpus Poetarum Latinorum, the Propertius and Catullus texts) not taken. Round dx (2026-10-23) added, raw IA OCR with title pages read: The New Latin Primer (Cassell, 1888); Select Elegies of Propertius (Macmillan, 1919 printing; first printed 1881); Selections from Tibullus and others (Macmillan, 1903); Sermo Latinus, new and enlarged edition (Macmillan, 1913); Translation and Translations (G. Bell, 1922); A Short Guide to the Accentuation of Ancient Greek (Hodder and Stoughton, 1924).",
  "_author": "J. P. Postgate (1853-1926)",
  "_name_words": [
   "postgate",
@@ -32,6 +32,30 @@
   "postgate-lucan-viii-1917": [
    "debellocivilil00luca",
    "Lucan, De Bello Civili Liber VIII, with introduction and notes (Cambridge, 1917)"
+  ],
+  "j-p-postgate-new-latin-primer-1888": [
+   "cu31924031210721",
+   "The New Latin Primer, edited by J. P. Postgate with the co-operation of C. A. Vince (London, Paris, New York and Melbourne: Cassell, 1888)"
+  ],
+  "j-p-postgate-select-elegies-propertius-1881": [
+   "selectelegiesofp0000jppo_r3r6",
+   "Select Elegies of Propertius, edited with introduction, notes and appendices by J. P. Postgate (London: Macmillan, 1919; first edition printed 1881, this a reprint)"
+  ],
+  "j-p-postgate-selections-tibullus-1903": [
+   "selectionsfromt00tibu",
+   "Selections from Tibullus and others, edited by J. P. Postgate (London: Macmillan; New York: The Macmillan Company, 1903)"
+  ],
+  "j-p-postgate-sermo-latinus-1913": [
+   "sermolatinus0000post",
+   "Sermo Latinus, by J. P. Postgate, new and enlarged edition (London: Macmillan, 1913; first edition 1889)"
+  ],
+  "j-p-postgate-translation-and-translations-1922": [
+   "cu31924012540567",
+   "Translation and Translations, theory and practice, by J. P. Postgate (London: G. Bell, 1922)"
+  ],
+  "j-p-postgate-accentuation-ancient-greek-1924": [
+   "shortguidetoacce0000jppo",
+   "A Short Guide to the Accentuation of Ancient Greek, by J. P. Postgate (London: Hodder and Stoughton, 1924)"
   ]
  },
  "_excluded": {},
@@ -77,6 +101,73 @@
    "identity": "ok",
    "ia_rights": "ok: published 1917",
    "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-p-postgate-new-latin-primer-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-p-postgate-select-elegies-propertius-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-p-postgate-selections-tibullus-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-p-postgate-sermo-latinus-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-p-postgate-translation-and-translations-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-p-postgate-accentuation-ancient-greek-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "postgate",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
