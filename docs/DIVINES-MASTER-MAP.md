@@ -12386,6 +12386,19 @@ Slugs `jharris-*`. Built from title pages read for round 59.
 | The pre-adamite earth; contributions to theological science (London : Ward, [184) | have-ocr | IA `preadamiteearthc00harr` |
 | Man primeval: or, The constitution and primitive condition of the human being. A contribution to theological science (Botson, Gould, Kendall and Lincoln, 1850, 1850) | have-ocr | IA `manprimevalorcon01harr` |
 | Other John Harrises: the lexicographer (1666-1719), the Bishop of Llandaff, the Australian and American writers of that name | excluded | |
+
+## Robert Halley (round 59, my pick, 2026-10-23)
+
+Slugs `halley-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| The Sinfulness of Colonial Slavery: A Lecture, Delivered at the Monthly Meeting of (Hamilton, Adams, and Co., 1833) | have-ocr | IA `sinfulnesscolon00hallgoog` |
+| The Sacraments; an inquiry into the nature of the symbolic institutions of the Christian religion, usually called the Sacraments, vol. 2 (London, Jackson and Walford, 1844) | have-ocr | IA `sacramentsinquir02hall` |
+| A reply to the lectures of the Rev. Charles Stovel on Christian discipleship and baptism, and to the strictures of the Rev. Dr. Wardlaw, in an appendix to his dissertation on infant baptism (London : Jackson and Walford, 1847) | have-ocr | IA `replytolectureso00hall` |
+| Lancashire, its Puritanism and Nonconformity (Manchester, Tubbs, 1872) | have-ocr | IA `lancashireitspu00hall` |
+| The relation of the Church to the State (catalogued 1870) | have-ocr | IA `relationchurcht00hallgoog` |
+| Edmond Halley the astronomer; Robert Halley's own memoir by his son | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

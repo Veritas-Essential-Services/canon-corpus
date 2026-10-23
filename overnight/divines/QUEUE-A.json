@@ -7300,6 +7300,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T02:15:18-05:00",
       "notes": "Principal of New College, London; Mammon was an anonymous prize essay, identity quoted. 0 uids minted."
+    },
+    {
+      "id": "robert-halley",
+      "status": "done",
+      "scope": "round 59",
+      "added": "2026-10-23T02:15:18-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T02:15:18-05:00",
+      "notes": "Manchester Congregationalist, Principal of New College. 0 uids minted."
     }
   ]
 }

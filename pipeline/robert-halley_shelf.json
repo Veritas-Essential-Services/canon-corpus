@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Robert Halley (1796-1876), Congregational minister in Manchester and Principal of New College, London, for the Word Hoard: The Sinfulness of Colonial Slavery (1833), The Sacraments, an Inquiry (vol. 2, 1844), a Reply to lectures on the Church, Lancashire: its Puritanism and Nonconformity (1869) and The Relation of the Church to the State. from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "halley"
+ ],
+ "_surname": [
+  "robert halley",
+  "r. halley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "halley-colonial-slavery": [
+   "sinfulnesscolon00hallgoog",
+   "The Sinfulness of Colonial Slavery: A Lecture, Delivered at the Monthly Meeting of (Hamilton, Adams, and Co., 1833)"
+  ],
+  "halley-sacraments-2": [
+   "sacramentsinquir02hall",
+   "The Sacraments; an inquiry into the nature of the symbolic institutions of the Christian religion, usually called the Sacraments, vol. 2 (London, Jackson and Walford, 1844)"
+  ],
+  "halley-reply-lectures": [
+   "replytolectureso00hall",
+   "A reply to the lectures of the Rev. Charles Stovel on Christian discipleship and baptism, and to the strictures of the Rev. Dr. Wardlaw, in an appendix to his dissertation on infant baptism (London : Jackson and Walford, 1847)"
+  ],
+  "halley-lancashire": [
+   "lancashireitspu00hall",
+   "Lancashire, its Puritanism and Nonconformity (Manchester, Tubbs, 1872)"
+  ],
+  "halley-church-and-state": [
+   "relationchurcht00hallgoog",
+   "The relation of the Church to the State (catalogued 1870)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "halley-other": "Edmond Halley the astronomer; Robert Halley's own memoir by his son"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "halley-colonial-slavery": "title page (after the Google notice): 'The Sinfulness of Colonial Slavery, a lecture delivered at the monthly meeting of Congregational ministers and churches, in the meeting-house of Dr. Pye Smith, Hackney, on February 7th, 1833, by Robert H alley [Halley], second edition'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "halley-colonial-slavery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "halley-sacraments-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert halley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "halley-reply-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert halley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "halley-lancashire": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert halley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "halley-church-and-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert halley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
