@@ -1,0 +1,35 @@
+{
+ "_about": "Torsten Petersson (b. 1878), University of California: Cicero, a Biography (1920). Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Torsten Petersson (1878-)",
+ "_name_words": [
+  "petersson",
+  "torsten",
+  "cicero",
+  "biography"
+ ],
+ "_surname": [
+  "petersson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "petersson-cicero-biography-1920": [
+   "cicerobiography00peteuoft",
+   "Cicero: A Biography (Berkeley: University of California Press, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "petersson-cicero-biography-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "petersson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

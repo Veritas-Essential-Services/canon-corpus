@@ -19903,6 +19903,15 @@ Shelf: `pipeline/thomas-maguire_shelf.json`. Essays on the Platonic Ethics (Lond
 |---|---|---|---|
 | Essays on the Platonic Ethics (London: Longmans, 1870) |  | `maguire-essays-platonic-ethics-1870` | have-raw (IA `essaysonplatoni00magugoog`) |
 
+
+## Torsten Petersson (1878-)
+
+Shelf: `pipeline/torsten-petersson_shelf.json`. Cicero: A Biography (Berkeley: University of California Press, 1920). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Cicero: A Biography (Berkeley: University of California Press, 1920) |  | `petersson-cicero-biography-1920` | have-raw (IA `cicerobiography00peteuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
