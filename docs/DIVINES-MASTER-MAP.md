@@ -44265,3 +44265,15 @@ Shelf: `pipeline/edward-parrott_shelf.json` (2026-10-22; added at the coordinato
 | The Childrens' Story of the War, Volume 3 (of 10) From the First Battle of Ypres to the End of the Year 1914 | have | PG 35355, `eparrott-childrens-story-of-the-war-volume-3-of-10-from-the` (1239 units) |
 | The Children's Story of the War Volume 4 (of 10) The Story of the Year 1915 | have | PG 35386, `eparrott-childrens-story-of-the-war-volume-4-of-10-the-story` (1440 units) |
 | The Pageant of British History | have | PG 60524, `eparrott-pageant-of-british-history` (1074 units) |
+
+## W. H. H. Murray
+
+Shelf: `pipeline/w-h-h-murray_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| How Deacon Tubman and Parson Whitney Kept New Year's And Other Stories | have | PG 16308, `whhmurray-how-deacon-tubman-and-parson-whitney-kept-new-year` (504 units) |
+| A Ride With A Mad Horse In A Freight-Car 1898 | have | PG 23168, `whhmurray-ride-with-a-mad-horse-in-a-freight-car-1898` (21 units) |
+| Holiday Tales: Christmas in the Adirondacks | have | PG 28098, `whhmurray-holiday-tales` (424 units) |
+| The Busted Ex-Texan, and Other Stories | have | PG 28502, `whhmurray-busted-ex-texan-and-other-stories` (228 units) |
+| How John Norton the Trapper Kept His Christmas | have | PG 38279, `whhmurray-how-john-norton-the-trapper-kept-his-christmas` (237 units) |

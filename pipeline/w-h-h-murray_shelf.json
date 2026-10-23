@@ -1,0 +1,88 @@
+{
+ "_about": "W. H. H. Murray: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "W. H. H. Murray",
+ "_name_words": [
+  "harrison",
+  "henry",
+  "murray",
+  "william"
+ ],
+ "_surname": [
+  "w. h. h. murray",
+  "william henry harrison murray",
+  "murray"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "whhmurray-how-deacon-tubman-and-parson-whitney-kept-new-year": [
+   16308,
+   "How Deacon Tubman and Parson Whitney Kept New Year's And Other Stories"
+  ],
+  "whhmurray-ride-with-a-mad-horse-in-a-freight-car-1898": [
+   23168,
+   "A Ride With A Mad Horse In A Freight-Car 1898"
+  ],
+  "whhmurray-holiday-tales": [
+   28098,
+   "Holiday Tales: Christmas in the Adirondacks"
+  ],
+  "whhmurray-busted-ex-texan-and-other-stories": [
+   28502,
+   "The Busted Ex-Texan, and Other Stories"
+  ],
+  "whhmurray-how-john-norton-the-trapper-kept-his-christmas": [
+   38279,
+   "How John Norton the Trapper Kept His Christmas"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "whhmurray-how-deacon-tubman-and-parson-whitney-kept-new-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. h. murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhmurray-ride-with-a-mad-horse-in-a-freight-car-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. h. murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhmurray-holiday-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. h. murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhmurray-busted-ex-texan-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. h. murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhmurray-how-john-norton-the-trapper-kept-his-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. h. murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
