@@ -1932,6 +1932,22 @@
    "started": "2026-10-17T23:26:45-05:00",
    "finished": "2026-10-17T23:32:31-05:00",
    "notes": "8 new shelves, 32 vols"
+  },
+  {
+   "id": "2026-10-23cq",
+   "status": "done",
+   "scope": "Classical scholarship: Farnell, Wight Duff, A. B. Cook, W. M. Lindsay, E. M. Cope, Tyrrell",
+   "started": "2026-10-22T22:00:09-05:00",
+   "finished": "2026-10-22T22:35:19-05:00",
+   "notes": "farnell +7; 4 new shelves (22 vols); tyrrell +1"
+  },
+  {
+   "id": "2026-10-23cr",
+   "status": "done",
+   "scope": "Aegean archaeology and anthropology: Evans, Hogarth, Myres, H. R. Hall, Hartland",
+   "started": "2026-10-22T22:35:19-05:00",
+   "finished": "2026-10-22T22:35:19-05:00",
+   "notes": "5 new shelves, 46 works"
   }
  ]
 }

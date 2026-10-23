@@ -2681,14 +2681,23 @@ Excluded: PG 75986 (Reminiscences of a Student's Life) (memoir, outside the brie
 
 ## L. R. Farnell (scholarship)
 
-Shelf: `pipeline/farnell_shelf.json`. Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford: 2 clean Gutenberg texts. Not minted.
+Shelf: `pipeline/farnell_shelf.json`. Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford: 3 clean Gutenberg texts, 6 raw IA volumes (Cults of the Greek States I-V, Higher Aspects of Greek Religion). Not minted.
 
-| Work | Translator | Slug | Status |
+| Work | Author | Slug | Status |
 |---|---|---|---|
 | Outline-History of Greek Religion |  | `farnell-outline-history-greek-religion` | have (PG 71402) |
 | Greece and Babylon |  | `farnell-greece-and-babylon` | have (PG 71562) |
+| The Evolution of Religion |  | `farnell-evolution-of-religion` | have (PG 71722) |
+| The Cults of the Greek States, vol. I (Clarendon Press, 1896) |  | `farnell-cults-greek-states-1-1896` | have-raw (IA `cu31924058563051`) |
+| The Cults of the Greek States, vol. II (Clarendon Press, 1896) |  | `farnell-cults-greek-states-2-1896` | have-raw (IA `thecultsofthegre02farnuoft`) |
+| The Cults of the Greek States, vol. III (Clarendon Press, 1907) |  | `farnell-cults-greek-states-3-1907` | have-raw (IA `cu31924058563044`) |
+| The Cults of the Greek States, vol. IV (Clarendon Press, 1907) |  | `farnell-cults-greek-states-4-1907` | have-raw (IA `in.ernet.dli.2015.56575`) |
+| The Cults of the Greek States, vol. V (Clarendon Press, 1909) |  | `farnell-cults-greek-states-5-1909` | have-raw (IA `cultsofthegreek05farnuoft`) |
+| The Higher Aspects of Greek Religion (Scribner, 1912) |  | `farnell-higher-aspects-greek-religion-1912` | have-raw (IA `higheraspectsofg00farn`) |
 
-Excluded: PG 71722 (The Evolution of Religion) (comparative religion, outside the classical brief)
+Pending (wishlist): Greek Hero Cults and Ideas of Immortality (1921); The Attributes of God (1925); The Works of Pindar (1930) (no usable scan found)
+
+Excluded: IA Evolution of Religion scans (duplicate of the clean Gutenberg text (PG 71722))
 
 ## F. Haverfield (scholarship)
 
@@ -3130,11 +3139,12 @@ Shelf: `pipeline/nettleship_shelf.json`. Lectures and Essays on Subjects Connect
 
 ## R. Y. Tyrrell (scholarship)
 
-Shelf: `pipeline/tyrrell_shelf.json`. Latin Poetry: Lectures Delivered in 1893 (1895). Raw IA OCR. Not minted.
+Shelf: `pipeline/tyrrell_shelf.json`. Robert Yelverton Tyrrell (1844-1914), Trinity College Dublin: Latin Poetry (1895) and Essays on Greek Literature (1909). Raw IA OCR. Not minted.
 
-| Work | Translator | Slug | Status |
+| Work | Author | Slug | Status |
 |---|---|---|---|
 | Latin Poetry: lectures delivered in 1893 on the Percy Turnbull Memorial Foundation in the Johns Hopkins University (Boston and New York: Houghton, Mifflin, 1895) |  | `tyrrell-latin-poetry-1895` | have-raw (IA `latinpoetrylectu00tyrr`) |
+| Essays on Greek Literature (Macmillan, 1909) |  | `tyrrell-essays-greek-literature-1909` | have-raw (IA `essaysongreeklit00tyrruoft`) |
 
 ## F. B. Jevons (scholarship)
 
@@ -8418,6 +8428,171 @@ Shelf: `pipeline/thomas-whittaker_shelf.json`. Neo-Platonism and late antique th
 | Macrobius, or philosophy, science and letters in the year 400 (Cambridge, 1923) |  | `whittaker-macrobius-1923` | have-raw (IA `macrobus0000thom`) |
 
 Pending (wishlist): Schopenhauer; Comte and Mill; The Theory of Abstract Ethics (held: no dated scan)
+
+## J. Wight Duff (scholarship)
+
+Shelf: `pipeline/j-wight-duff_shelf.json`. J. Wight Duff (1866-1944), Armstrong College, Newcastle: the two Literary Histories of Rome and The Writers of Rome. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Literary History of Rome in the Silver Age, from Tiberius to Hadrian |  | `duff-literary-history-rome-silver-age-1927` | have (PG 79117) |
+| A Literary History of Rome from the Origins to the Close of the Golden Age (T. Fisher Unwin, 1909) |  | `duff-literary-history-rome-golden-age-1909` | have-raw (IA `literaryhistoryo00duffuoft`) |
+| The Writers of Rome (Oxford University Press, 1923) |  | `duff-writers-of-rome-1923` | have-raw (IA `writersofrome0000jwig`) |
+
+Pending (wishlist): Roman Satire (1936), after the cutoff
+
+Excluded: IA in.ernet.dli.2015.113751 / 123303 (1964 third edition of the Silver Age, not the 1927 first); IA literaryhistoryo0000jwdu (same 1927 Silver Age as the clean Gutenberg text)
+
+## A. B. Cook (scholarship)
+
+Shelf: `pipeline/a-b-cook_shelf.json`. Arthur Bernard Cook (1868-1952), Cambridge: Plato's Ethics and Zeus I-II. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Metaphysical Basis of Plato's Ethics (Deighton, Bell, 1895) |  | `cook-metaphysical-basis-platos-ethics-1895` | have-raw (IA `cu31924028994965`) |
+| Zeus, a Study in Ancient Religion, vol. I (Cambridge, 1914) |  | `cook-zeus-1-1914` | have-raw (IA `CookABZeusAncientReligionV01`) |
+| Zeus, a Study in Ancient Religion, vol. II part I (Cambridge, 1925) |  | `cook-zeus-2-1-1925` | have-raw (IA `in.ernet.dli.2015.284030`) |
+| Zeus, a Study in Ancient Religion, vol. II part II (Cambridge, 1925) |  | `cook-zeus-2-2-1925` | have-raw (IA `p2zeusstudyinanc02cookuoft`) |
+
+Pending (wishlist): Zeus vol. III (1940), after the cutoff
+
+Excluded: Zeus vol. III (1940) (published after 1930); IA zeusstudyinancie01cookuoft (vol. I Toronto scan: title-page year illegible in the OCR; a scan whose title page reads 1914 used instead)
+
+## W. M. Lindsay (scholarship)
+
+Shelf: `pipeline/w-m-lindsay_shelf.json`. Wallace Martin Lindsay (1858-1937), St Andrews: Latin philology and palaeography, his English-language studies. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Latin Language, an historical account of Latin sounds, stems and flexions (Oxford, 1894) |  | `lindsay-latin-language-1894` | have-raw (IA `latinlanguagehis00linduoft`) |
+| A Short Historical Latin Grammar (Oxford, 1895) |  | `lindsay-short-historical-latin-grammar-1895` | have-raw (IA `latingrammarsh00linduoft`) |
+| A Short Historical Latin Grammar, 2nd ed. (Oxford, 1915) |  | `lindsay-short-historical-latin-grammar-1915` | have-raw (IA `shorthistoricall00linduoft`) |
+| An Introduction to Latin Textual Emendation, based on the text of Plautus (Macmillan, 1896) |  | `lindsay-latin-textual-emendation-1896` | have-raw (IA `introductiontola00linduoft`) |
+| Handbook of Latin Inscriptions illustrating the history of the language (Allyn and Bacon, 1897) |  | `lindsay-handbook-latin-inscriptions-1897` | have-raw (IA `handbookoflatini00linduoft`) |
+| Nonius Marcellus' Dictionary of Republican Latin (Oxford, 1901) |  | `lindsay-nonius-marcellus-dictionary-1901` | have-raw (IA `noniusmarcellusd00linduoft`) |
+| The Ancient Editions of Plautus (Oxford, 1904) |  | `lindsay-ancient-editions-plautus-1904` | have-raw (IA `ancienteditionso00linduoft`) |
+| Syntax of Plautus (Oxford, 1907) |  | `lindsay-syntax-of-plautus-1907` | have-raw (IA `syntaxofplautus00linduoft`) |
+| Contractions in Early Latin Minuscule MSS. (Oxford, 1908) |  | `lindsay-contractions-minuscule-mss-1908` | have-raw (IA `cu31924006481125`) |
+| Notae Latinae, an account of abbreviation in Latin MSS. of the early minuscule period (Cambridge, 1915) |  | `lindsay-notae-latinae-1915` | have-raw (IA `notaelatinae00linduoft`) |
+| Early Latin Verse (Oxford, 1922) |  | `lindsay-early-latin-verse-1922` | have-raw (IA `earlylatinverse00linduoft`) |
+
+Pending (wishlist): The Codex Turnebi of Plautus (1898); The Ancient Editions of Martial (1903); Ancient Lore in Medieval Latin Glossaries (1921) (mostly Latin apparatus)
+
+Excluded: Latin text editions (Isidore 1911, Captivi 1900, Plautus, Martial, Terence) (Latin texts, not English scholarship); Codex Turnebi 1898, Ancient Editions of Martial 1903, Ancient Lore 1921 (mostly Latin collation and apparatus; held as wishlist)
+
+## E. M. Cope (scholarship)
+
+Shelf: `pipeline/e-m-cope_shelf.json`. Edward Meredith Cope (1818-1873), Trinity College, Cambridge: Aristotle's Rhetoric. His Gorgias and Phaedo are on the plato shelf. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| An Introduction to Aristotle's Rhetoric (Macmillan, 1867) |  | `cope-introduction-aristotles-rhetoric-1867` | have-raw (IA `introductiontoar00copeuoft`) |
+| The Rhetoric of Aristotle with a Commentary, vol. I (Cambridge, 1877) |  | `cope-rhetoric-of-aristotle-1-1877` | have-raw (IA `therhetoricofari01arisuoft`) |
+| The Rhetoric of Aristotle with a Commentary, vol. II (Cambridge, 1877) |  | `cope-rhetoric-of-aristotle-2-1877` | have-raw (IA `herhetoricofaris02arisuoft`) |
+| The Rhetoric of Aristotle with a Commentary, vol. III (Cambridge, 1877) |  | `cope-rhetoric-of-aristotle-3-1877` | have-raw (IA `rhetoricaristot11sandgoog`) |
+
+Excluded: IA herhetoricofaris03arisuoft (vol. III text layer is Greek-only OCR (no English recovered); the Google scan of an 1877 copy used instead); Plato's Gorgias and Phaedo (already on the plato shelf (plato-cope-gorgias-1864, plato-cope-phaedo-1875))
+
+## Arthur Evans (scholarship)
+
+Shelf: `pipeline/arthur-evans_shelf.json`. Sir Arthur Evans (1851-1941), Knossos and the Ashmolean: Palace of Minos I-III (4 vols.) and eight other works. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Palace of Minos, vol. I (Macmillan, 1921) |  | `evans-palace-of-minos-1-1921` | have-raw (IA `palaceofminoscom01evanuoft`) |
+| The Palace of Minos, vol. II part I (Macmillan, 1928) |  | `evans-palace-of-minos-2-1-1928` | have-raw (IA `palaceofminos0000arth`) |
+| The Palace of Minos, vol. II part II (Macmillan, 1928) |  | `evans-palace-of-minos-2-2-1928` | have-raw (IA `palaceofminos0000unse_b0f9`) |
+| The Palace of Minos, vol. III (Macmillan, 1930) |  | `evans-palace-of-minos-3-1930` | have-raw (IA `palaceofminoscom03evan`) |
+| The Mycenaean Tree and Pillar Cult and its Mediterranean Relations (Macmillan, 1901) |  | `evans-mycenaean-tree-pillar-cult-1901` | have-raw (IA `mycenaeantreepil00evanuoft`) |
+| Cretan Pictographs and Prae-Phoenician Script (Quaritch, 1895) |  | `evans-cretan-pictographs-1895` | have-raw (IA `cu31924028235038`) |
+| Scripta Minoa, the written documents of Minoan Crete, vol. I (Oxford, 1909) |  | `evans-scripta-minoa-1-1909` | have-raw (IA `scriptaminoawrit01evanuoft`) |
+| The Prehistoric Tombs of Knossos (Quaritch, 1906) |  | `evans-prehistoric-tombs-knossos-1906` | have-raw (IA `prehistorictombs00evan`) |
+| Through Bosnia and the Herzegovina on Foot during the Insurrection, 2nd ed. (Longmans, 1877) |  | `evans-through-bosnia-1877` | have-raw (IA `throughbosniaher00evanrich`) |
+| Antiquarian Researches in Illyricum, parts I-IV (Society of Antiquaries, 1883) |  | `evans-antiquarian-researches-illyricum-1883` | have-raw (IA `antiquarianresea00evan`) |
+| The 'Horsemen' of Tarentum (Quaritch, 1889) |  | `evans-horsemen-of-tarentum-1889` | have-raw (IA `horsemenoftarent00evaniala`) |
+| Syracusan 'Medallions' and their Engravers (Quaritch, 1892) |  | `evans-syracusan-medallions-1892` | have-raw (IA `syracusanmedalli00evaniala`) |
+
+Pending (wishlist): Palace of Minos vol. IV (1935) and Index (1936), after the cutoff
+
+Excluded: Palace of Minos vol. IV (1935) and Index (1936) (published after 1930); IA b24878959 (1914 Smithsonian offprint; the scan holds more than the 21-page article)
+
+## D. G. Hogarth (scholarship)
+
+Shelf: `pipeline/d-g-hogarth_shelf.json`. David George Hogarth (1862-1927), Keeper of the Ashmolean: ten works of archaeology and travel. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Devia Cypria, notes of an archaeological journey in Cyprus in 1888 (Frowde, 1889) |  | `hogarth-devia-cypria-1889` | have-raw (IA `deviacyprianotes00hoga`) |
+| A Wandering Scholar in the Levant (John Murray, 1896) |  | `hogarth-wandering-scholar-levant-1896` | have-raw (IA `awanderingschol00hogagoog`) |
+| Philip and Alexander of Macedon, two essays in biography (John Murray, 1897) |  | `hogarth-philip-and-alexander-1897` | have-raw (IA `philipandalexan01hogagoog`) |
+| Authority and Archaeology Sacred and Profane, ed. Hogarth (John Murray, 1899) |  | `hogarth-authority-and-archaeology-1899` | have-raw (IA `authorityarchaeo00hogauoft`) |
+| The Nearer East (Heinemann, 1902) |  | `hogarth-nearer-east-1902` | have-raw (IA `nearerea00hoga`) |
+| The Penetration of Arabia (Lawrence and Bullen, 1904) |  | `hogarth-penetration-of-arabia-1904` | have-raw (IA `penetrationofar00hoga`) |
+| Ionia and the East, six lectures (Oxford, 1909) |  | `hogarth-ionia-and-the-east-1909` | have-raw (IA `ioniaeastsixlec00hoga`) |
+| Accidents of an Antiquary's Life (Macmillan, 1910) |  | `hogarth-accidents-antiquarys-life-1910` | have-raw (IA `cu31924028519027`) |
+| The Ancient East (Home University Library, 1915) |  | `hogarth-ancient-east-1915` | have-raw (IA `ancienteast00hoga`) |
+| Hittite Seals, with particular reference to the Ashmolean Collection (Oxford, 1920) |  | `hogarth-hittite-seals-1920` | have-raw (IA `hittitesealswith00hogauoft`) |
+
+Pending (wishlist): The Life of Charles M. Doughty (1928), lending-library scan only
+
+Excluded: The Life of Charles M. Doughty (1928) (lending-library scan only (bwb)); IA awanderingschol01hogagoog (its text file would not download (HTTP 500); the other Google scan of the same 1896 edition used)
+
+## J. L. Myres (scholarship)
+
+Shelf: `pipeline/j-l-myres_shelf.json`. Sir John Linton Myres (1869-1954), Wykeham Professor of Ancient History: eight works. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Catalogue of the Cyprus Museum (Oxford, 1899) |  | `myres-catalogue-cyprus-museum-1899` | have-raw (IA `catalogueofcypru00myreuoft`) |
+| Greek Lands and the Greek People (Oxford, 1910) |  | `myres-greek-lands-greek-people-1910` | have-raw (IA `greeklandsgreekp00myreiala`) |
+| The Value of Ancient History (1910) |  | `myres-value-of-ancient-history-1910` | have-raw (IA `valueofancienthi00myre`) |
+| The Dawn of History (Home University Library, 1911) |  | `myres-dawn-of-history-1911` | have-raw (IA `dawnofhistory0000myre`) |
+| Herodotus, outline analysis of books I-VI (Oxford, 1912) |  | `myres-herodotus-outline-1912` | have-raw (IA `herodotusoutline00myrerich`) |
+| Handbook of the Cesnola Collection of Antiquities from Cyprus (Metropolitan Museum of Art, 1914) |  | `myres-cesnola-collection-handbook-1914` | have-raw (IA `handbookofcesnol00metruoft`) |
+| The Influence of Anthropology on the Course of Political Science (University of California, 1916) |  | `myres-influence-of-anthropology-1916` | have-raw (IA `influenceanthro00myrerich`) |
+| The Political Ideas of the Greeks (Abingdon Press, 1927) |  | `myres-political-ideas-of-the-greeks-1927` | have-raw (IA `politicalideasof00myre`) |
+
+Pending (wishlist): Who Were the Greeks? (1930), no 1930 printing found
+
+Excluded: PG 53646 Anthropology and the Classics (on the r-r-marett shelf)
+
+## H. R. Hall (scholarship)
+
+Shelf: `pipeline/h-r-hall_shelf.json`. Harry Reginald Hall (1873-1930), British Museum: Aegean and Near Eastern history. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery (with L. W. King) |  | `hall-king-history-egypt-chaldea-1906` | have (PG 17321) |
+| The Oldest Civilization of Greece, studies of the Mycenaean age (Nutt, 1901) |  | `hall-oldest-civilization-of-greece-1901` | have-raw (IA `oldestcivilizati00halluoft`) |
+| Days Before History, revised ed. (Harrap, 1908) |  | `hall-days-before-history-1908` | have-raw (IA `daysbeforehistor00hallrich`) |
+| The Ancient History of the Near East (Methuen, 1913) |  | `hall-ancient-history-near-east-1913` | have-raw (IA `ancienthistoryo00hall`) |
+| Aegean Archaeology, an introduction to the archaeology of prehistoric Greece (Warner, 1915) |  | `hall-aegean-archaeology-1915` | have-raw (IA `cu31924028272379`) |
+
+Pending (wishlist): British Museum guides and catalogues
+
+Excluded: British Museum guides and catalogues (1904-1929) (institutional catalogues, not his own scholarship; wishlist)
+
+## E. S. Hartland (scholarship)
+
+Shelf: `pipeline/e-s-hartland_shelf.json`. Edwin Sidney Hartland (1848-1927), folklorist: myth, folklore and primitive religion. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Science of Fairy Tales |  | `hartland-science-of-fairy-tales` | have (PG 24614) |
+| The Legend of Perseus, vol. 1, The Supernatural Birth |  | `hartland-legend-of-perseus-1` | have (PG 71074) |
+| The Legend of Perseus, vol. 2, The Life-Token |  | `hartland-legend-of-perseus-2` | have (PG 71107) |
+| The Legend of Perseus, vol. 3, Andromeda. Medusa. |  | `hartland-legend-of-perseus-3` | have (PG 71141) |
+| Ritual and Belief |  | `hartland-ritual-and-belief` | have (PG 71238) |
+| Primitive Paternity, vol. I (Nutt, 1909) |  | `hartland-primitive-paternity-1-1909` | have-raw (IA `primitivepaterni01hartuoft`) |
+| Primitive Paternity, vol. II (Nutt, 1910) |  | `hartland-primitive-paternity-2-1910` | have-raw (IA `primitivepaterni02hartuoft`) |
+| The Legend of St. Kenelm (1916) |  | `hartland-legend-of-st-kenelm-1916` | have-raw (IA `legendofstkenelm00hartrich`) |
+| Primitive Society, the beginnings of the family and the reckoning of descent (Methuen, 1921) |  | `hartland-primitive-society-1921` | have-raw (IA `primitivesociety00hartuoft`) |
+| The Evolution of Kinship, an African study (Oxford, 1922) |  | `hartland-evolution-of-kinship-1922` | have-raw (IA `evolutionofkinsh00hartrich`) |
+| Primitive Law (Methuen, 1924) |  | `hartland-primitive-law-1924` | have-raw (IA `primitivelaw0000hart`) |
+
+Pending (wishlist): English Fairy and Other Folk Tales (undated Scott Library scan)
+
+Excluded: IA englishfairyothe00hartiala (Scott Library printing with no year on its title page; held)
 
 ## Perseus census (overflow)
 

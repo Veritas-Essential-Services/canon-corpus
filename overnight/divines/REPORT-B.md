@@ -1387,3 +1387,13 @@
 - ernest-albee 1, james-bonar 6, g-s-brett 5, w-r-boyce-gibson 4
 - j-s-haldane 3, william-wallace-oxford 4, robert-adamson 5, thomas-whittaker 4
 - held: three undated Whittaker scans; Haldane's 1929 Gifford lectures (restricted scan)
+
+## 2026-10-22 22:35 CDT — Rounds cq and cr (new thread; network restored)
+- Network: gutenberg.org, archive.org and ccel.org all answer 200 again.
+- farnell +7: Cults of the Greek States I-V (1896-1909; vol. III the 1907 Cornell scan, vol. II identified by content), Higher Aspects of Greek Religion (1912), Evolution of Religion (PG 71722, the old scope exclusion lifted per the cq plan). Held: Greek Hero Cults (1921), Attributes of God (1925), Works of Pindar (1930).
+- New shelves: j-wight-duff 3 (Silver Age from clean PG 79117), a-b-cook 4 (Zeus I-II), w-m-lindsay 11, e-m-cope 4 (Rhetoric commentary 3 vols); tyrrell +1 (Essays on Greek Literature 1909)
+- Round cr new shelves: arthur-evans 12 (Palace of Minos I, II.1-2, III; III is 1930, US PD since 2026), d-g-hogarth 10, j-l-myres 8, h-r-hall 5 (King and Hall from PG 17321), e-s-hartland 11 (5 clean PG)
+- Identity overrides (title pages read): Lindsay Ancient Editions of Plautus; three Evans first-name misreadings; two Hall initials misreadings. Title-page years read where IA's date is a set span: Zeus II.2 (1925), Palace of Minos I (1921), III (1930).
+- OCR note: this session measured clean-word share with a wordfreq English lexicon over Latin-letter words only (Greek ignored); its numbers run higher than the 0.78-bar measure earlier rounds used, so they are not comparable. Every volume taken scored 0.79+ even counting Greek tokens as unclean.
+- Held: Hartland's English Fairy and Other Folk Tales (undated Scott Library scan)
+- Commits pushed to claude/project-thread-yu0x73 (draft PR into claude/armarium-divines), not to the relay branch directly.

@@ -1,7 +1,7 @@
 {
- "status": "blocked",
- "holder": "2026-10-02T17:07:01-05:00",
- "heartbeat": "2026-10-22T18:25:04-05:00",
- "note": "Resumed 2026-10-22 at Adam's relay, then blocked: this session's network policy refuses archive.org and gutenberg.org, so nothing can be fetched or rights-checked. Nothing committed since the pause.",
- "resume_point": "Round cq, corrected 2026-10-22: haigh, tyrrell, nettleship, ridgeway and farnell shelves already exist (an earlier name check missed bare-surname shelves), so drop those from the new-shelf plan. Farnell additions ready once the network is back: Cults of the Greek States vols. I (thecultsofthegre01farnuoft, 1896; name check fails, needs an identity override or another scan), III (cultsofgreekstat03farnuoft, 1907), IV (cultsgreekstate02farngoog, 1907, OCR reads '1997'), V (culto5, 1909, clean 0.782); Evolution of Religion (cu31924029056781, 1905); Higher Aspects of Greek Religion (higheraspectsofg00farn, 1912). Vol. II scans fail the OCR gate; Greek Hero Cults and Attributes of God scans show no printed year. Still new: j-wight-duff (Literary History of Rome 1909), a-b-cook (Plato's Ethics 1895, Zeus), w-m-lindsay (The Latin Language 1894), e-m-cope (Introduction to Aristotle's Rhetoric 1867, Review of Aristotle's Ethics 1867); tyrrell +1 (Essays on Greek Literature 1909). Then round cr: Arthur Evans, D. G. Hogarth, J. L. Myres, H. R. Hall, E. S. Hartland (check bare-surname shelves first: grep -x on the surname too)."
+ "status": "free",
+ "holder": "2026-10-22T22:00:09-05:00",
+ "heartbeat": "2026-10-22T22:35:19-05:00",
+ "note": "Resumed 2026-10-23 in a new thread (network restored): rounds cq and cr done.",
+ "resume_point": "Round cs, new names (none has a shelf on any branch as of 2026-10-23): A. H. Sayce, M. Rostovtzeff (English versions 1922-1930), W. W. Tarn, Erwin Rohde (Psyche, tr. Hillis 1925), Thaddeus Zielinski (tr. 1926), Wilamowitz (Greek Historical Writing, tr. Murray 1908), J. P. Postgate, H. A. J. Munro, Robinson Ellis. Rebuild the all-branches shelf list first (grep bare surnames too). Then Western philosophy wishlists (Hegel Science of Logic in a 1929 printing, Weber Protestant Ethic in a 1930 printing)."
 }

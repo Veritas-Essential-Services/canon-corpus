@@ -286,3 +286,4 @@
 - 23:32 cp: Albee, Bonar, Brett, Boyce Gibson, J. S. Haldane, Wallace, Adamson, Whittaker (32 vols)
 - 23:34 PAUSED at Adam's request after cp. Resume point in LOCK-B.json: round cq (Farnell, Haigh, Tyrrell, Wight Duff, A. B. Cook, Nettleship, W. M. Lindsay), then cr (Evans, Hogarth, Ridgeway, Myres, H. R. Hall, Hartland).
 - 18:25 10/22 resumed, then BLOCKED: network policy refuses archive.org and gutenberg.org. Resume point corrected in LOCK-B.json (haigh, tyrrell, nettleship, ridgeway, farnell shelves already exist).
+- 22:35 10/22 rounds cq-cr (network back): farnell +7 (Cults of the Greek States complete), 9 new shelves (Wight Duff, A. B. Cook, W. M. Lindsay, E. M. Cope, Arthur Evans, Hogarth, Myres, H. R. Hall, Hartland), tyrrell +1; 77 works. No decisions needed. On a draft PR into the relay branch.
