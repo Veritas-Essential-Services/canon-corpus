@@ -154,6 +154,18 @@
   "acer-cicero-1871": [
    11448,
    "Cicero, by W. Lucas Collins (Ancient Classics for English Readers, 1871)"
+  ],
+  "acer-aristophanes-pg": [
+   59107,
+   "Aristophanes, by W. Lucas Collins (Ancient Classics for English Readers)"
+  ],
+  "acer-homer-pg": [
+   59306,
+   "Homer: The Iliad; The Odyssey, by W. Lucas Collins (Ancient Classics for English Readers)"
+  ],
+  "acer-virgil-pg": [
+   59887,
+   "Virgil, by W. Lucas Collins (Ancient Classics for English Readers)"
   ]
  },
  "internet_archive": {
@@ -235,7 +247,8 @@
   ],
   "acer-ovid-1876": [
    "ovid_20231009",
-   "Ovid, by Alfred Church (Blackwood, 1876)"
+   "Ovid, by Alfred Church (Blackwood, 1876)",
+   "Ovid_djvu.txt"
   ],
   "acer-catullus-tibullus-propertius-1876": [
    "catullustibullus00davi",
@@ -266,7 +279,34 @@
  "_checks": {
   "acer-cicero-1871": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acer-aristophanes-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acer-homer-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander grant",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acer-virgil-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -275,7 +315,7 @@
   },
   "acer-homer-iliad-1870": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -286,7 +326,7 @@
   },
   "acer-homer-odyssey-1870": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -297,7 +337,7 @@
   },
   "acer-herodotus-1870": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "swayne",
    "identity": "ok",
@@ -308,7 +348,7 @@
   },
   "acer-virgil-1870": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -319,7 +359,7 @@
   },
   "acer-horace-1870": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "theodore martin",
    "identity": "ok",
@@ -330,7 +370,7 @@
   },
   "acer-aeschylus-1870": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "copleston",
    "title_weak": true,
@@ -342,7 +382,7 @@
   },
   "acer-xenophon-1871": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alexander grant",
    "identity": "ok",
@@ -353,7 +393,7 @@
   },
   "acer-sophocles-1871": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -364,7 +404,7 @@
   },
   "acer-pliny-1872": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brodribb",
    "identity": "ok",
@@ -375,7 +415,7 @@
   },
   "acer-euripides-1872": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "donne",
    "identity": "ok",
@@ -386,7 +426,7 @@
   },
   "acer-juvenal-1872": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "walford",
    "identity": "ok",
@@ -397,7 +437,7 @@
   },
   "acer-aristophanes-1872": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -408,7 +448,7 @@
   },
   "acer-hesiod-theognis-1873": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "davies",
    "identity": "ok",
@@ -419,7 +459,7 @@
   },
   "acer-plautus-terence-1873": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -430,7 +470,7 @@
   },
   "acer-tacitus-1873": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "donne",
    "identity": "ok",
@@ -441,7 +481,7 @@
   },
   "acer-lucian-1873": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -452,7 +492,7 @@
   },
   "acer-plato-1874": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -463,7 +503,7 @@
   },
   "acer-greek-anthology-1874": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "neaves",
    "identity": "ok",
@@ -474,7 +514,7 @@
   },
   "acer-livy-1876": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -485,7 +525,7 @@
   },
   "acer-ovid-1876": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alfred church",
    "identity": "ok",
@@ -496,7 +536,7 @@
   },
   "acer-catullus-tibullus-propertius-1876": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "davies",
    "identity": "ok",
@@ -507,7 +547,7 @@
   },
   "acer-demosthenes-1877": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brodribb",
    "identity": "ok",
@@ -518,7 +558,7 @@
   },
   "acer-aristotle-1877": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alex. grant",
    "identity": "ok",
@@ -529,7 +569,7 @@
   },
   "acer-thucydides-1878": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "collins",
    "identity": "ok",
@@ -540,7 +580,7 @@
   },
   "acer-lucretius-1878": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mallock",
    "identity": "ok",
@@ -551,7 +591,7 @@
   },
   "acer-pindar-1879": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "morice",
    "identity": "ok",

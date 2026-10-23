@@ -8430,6 +8430,9 @@ Shelf: `pipeline/ancient-classics-for-english-readers_shelf.json`. The Victorian
 | Thucydides, by W. Lucas Collins (Blackwood, 1878) |  | `acer-thucydides-1878` | have-raw (IA `thucydides00collgoog`) |
 | Lucretius, by W. H. Mallock (Blackwood, 1878) |  | `acer-lucretius-1878` | have-raw (IA `lucretius00mallgoog`) |
 | Pindar, by F. D. Morice (Blackwood, 1879) |  | `acer-pindar-1879` | have-raw (IA `pindarmo00mori`) |
+| Aristophanes, by W. Lucas Collins (Ancient Classics for English Readers) |  | `acer-aristophanes-pg` | have (PG 59107, clean witness) |
+| Homer: The Iliad; The Odyssey, by W. Lucas Collins (Ancient Classics for English Readers) |  | `acer-homer-pg` | have (PG 59306, clean witness) |
+| Virgil, by W. Lucas Collins (Ancient Classics for English Readers) |  | `acer-virgil-pg` | have (PG 59887, clean witness) |
 
 ## Philosophical Classics for English Readers (Blackwood series, 1880-1890)
 
