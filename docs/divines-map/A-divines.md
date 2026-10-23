@@ -16649,3 +16649,16 @@ Slugs `kidder-*`. Built from title pages read for round 105.
 | The Christian pastorate : its character, responsibilities, and duties (Cincinnati : Hitchcock and Walden ; New York : Nelson and Phillips, 1871) | have-ocr | IA `christianpastor00kiddgoog` |
 | Sunday-school books he edited for the Methodist Sunday School Union (other authors) | excluded | |
 | Brazil and the Brazilians (written with J. C. Fletcher) | excluded | |
+
+## Manton Eastburn (round 105, my pick, 2026-10-23)
+
+Slugs `eastburn-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures, explanatory and practical, on the Epistle of St. Paul to the Philippians (New York, G. & C. & H. Carvill, 1833) | have-ocr | IA `lecturesexplanat00east` |
+| A sermon preached in Trinity Church, Boston, on Saturday, February 18, 1843: on occasion of the interment of the Rt. Rev. Alexander Viets Griswold, D.D., bishop of the Eastern diocese, and senior and presiding bishop of the Protestant Episcopal church in the United States (Boston, J. B. Dow, 1843) | have-ocr | IA `sermonpreachedin00east` |
+| The Gospel : a sermon preached in St. Luke's Church, Rochester, on Wednesday, October 18, 1854, at the consecration of the Rev. Henry Washington Lee, D.D., Rector of that parish, as Bishop of the Diocese of Iowa / by Manton Eastburn (D. Hoyt, 1854) | have-ocr | IA `gospelsermonprea00east` |
+| moderationofprot00east: The Moderation of the Protestant Episcopal Church (1849); the text file returned HTTP 500 | pending | not shelved |
+| Tributes to the Memory of Henry Anthon (several hands) | excluded | |
+| Consecration of St. John's Memorial Chapel (proceedings) | excluded | |
