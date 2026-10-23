@@ -1,0 +1,108 @@
+{
+ "_about": "F. A. Paley (1815-1888), Cambridge classical scholar and Classical Examiner in the University of London: English commentaries and verse renderings, raw IA. Euripides with an English Commentary (Bibliotheca Classica, ed. George Long and A. J. Macleane; London: Whittaker; George Bell), vol. II (1858) and vol. III (1860); vol. I was not found on IA in a readable scan. The Phoenissae of Euripides with brief notes (Cambridge: Deighton, Bell, 1870); The Iphigenia in Tauris with brief notes (George Bell, 1904, posthumous reissue); Fragments of the Greek Comic Poets, with renderings in English verse (Swan Sonnenschein, 1889). Greek text with English commentary, kept per Adam's 2026-10-23 ruling. His Pindar (1868) is on the pindar shelf, his Philebus (1879) on the plato shelf, his prose Aeschylus (1864) on the aeschylus shelf. Not taken: The Epics of Hesiod, 2nd ed. 1883 (epicshesiod00hesigoog: only 91k characters of text for a full commentary, a partial OCR). Classical scholarship (lane B, round dt). No uids minted.",
+ "_author": "Frederick Apthorp Paley (1815-1888)",
+ "_name_words": [
+  "paley",
+  "euripides"
+ ],
+ "_surname": [
+  "f. a. paley",
+  "paley, f. a"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "f-a-paley-euripides-v2-1858": [
+   "india.history.resource.53572",
+   "Euripides, with an English Commentary, vol. II, by F. A. Paley (Bibliotheca Classica; London: Whittaker and Co.; George Bell, 1858); Greek text with English commentary, kept per Adam's 2026-10-23 ruling",
+   "53572_djvu.txt"
+  ],
+  "f-a-paley-euripides-v3-1860": [
+   "bibliothecaclass0003fapa",
+   "Euripides, with an English Commentary, vol. III, by F. A. Paley (Bibliotheca Classica; London: Whittaker and Co.; George Bell, 1860); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "f-a-paley-phoenissae-1870": [
+   "phoenissaeofeuri00euririch",
+   "The Phoenissae of Euripides, with brief notes, by F. A. Paley (Cambridge: Deighton, Bell, and Co.; London: Whittaker and Co., G. Bell and Sons, 1870); Greek text with English notes"
+  ],
+  "f-a-paley-iphigenia-tauris-1904": [
+   "iphigeniaintauri00euri_0",
+   "The Iphigenia in Tauris of Euripides, with brief notes, by the late F. A. Paley (London: George Bell and Sons; Cambridge: Deighton Bell, 1904); Greek text with English notes"
+  ],
+  "f-a-paley-greek-comic-fragments-1889": [
+   "fragmentsgreekc00palegoog",
+   "Fragments of the Greek Comic Poets, with renderings in English verse, by F. A. Paley (London: Swan Sonnenschein, 1889)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "f-a-paley-greek-comic-fragments-1889": "F. A. Paley"
+ },
+ "_identity_checked": {
+  "f-a-paley-iphigenia-tauris-1904": {
+   "author": "title page OCRs the name as 'BY THE LATE ΤΑ PRY MOA ED, XDITOR OF AESCHYLUS, EURIPIDES, ETC.' (George Bell, 1904); IA records the editor as Paley, F. A. (Frederick Apthorp), 1815-1888"
+  },
+  "f-a-paley-phoenissae-1870": {
+   "author": "title page OCRs the name as 'By Ay PALEY, ΜΑΣ, CLASSICAL EXAMINER IN THE UNIVERSITY OF LONDON' (Deighton, Bell, 1870)"
+  }
+ },
+ "_checks": {
+  "f-a-paley-euripides-v2-1858": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. a. paley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "f-a-paley-euripides-v3-1860": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. a. paley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "f-a-paley-phoenissae-1870": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. a. paley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "f-a-paley-iphigenia-tauris-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "f-a-paley-greek-comic-fragments-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. a. paley",
+   "translator_claimed": "F. A. Paley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
