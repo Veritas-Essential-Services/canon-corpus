@@ -9496,3 +9496,13 @@ Shelf: `pipeline/jay-hambidge_shelf.json`. Dynamic symmetry in Greek vases and t
 | Dynamic Symmetry: the Greek Vase (1920) |  | `hambidge-dynamic-symmetry-greek-vase-1920` | have-raw (IA `dynamicsymmetry00hamb`) |
 | The Parthenon and Other Greek Temples: their Dynamic Symmetry (1924) |  | `hambidge-parthenon-greek-temples-1924` | have-raw (IA `parthenonothergr0000hamb`) |
 
+
+## Rennell Rodd (1858-1941)
+
+Shelf: `pipeline/rennell-rodd_shelf.json`. The Princes of Achaia, 2 vols. (1907). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Princes of Achaia and the Chronicles of Morea, vol. I (1907) |  | `rodd-princes-of-achaia-vol-1` | have-raw (IA `princesofachaiac01rodd`) |
+| The Princes of Achaia and the Chronicles of Morea, vol. II (1907) |  | `rodd-princes-of-achaia-vol-2` | have-raw (IA `princesofachaiac02rodduoft`) |
+
