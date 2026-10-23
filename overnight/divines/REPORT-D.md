@@ -2099,3 +2099,6 @@
 
 ## 2026-10-22 22:45 CDT — neil-munro: done
 - neil-munro: new shelf, 9 Gutenberg books, 12,334 units, 53 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — egerton-castle: done
+- egerton-castle: new shelf, 10 Gutenberg books, 18,865 units, 1406 ~2 ids; verify 0 mismatches, 0 rights flags.

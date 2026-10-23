@@ -15801,3 +15801,20 @@ Shelf: `pipeline/neil-munro_shelf.json` (2026-10-22; added at the coordinator's 
 | The daft days | have | PG 49906, `nmunro-daft-days` (270 units) |
 | Jaunty Jock, and Other Stories | have | PG 50438, `nmunro-jaunty-jock-and-other-stories` (860 units) |
 | pg-57542 | excluded | PG 57542: Gutenberg's index of the author's works, not a book. |
+
+## Egerton Castle
+
+Shelf: `pipeline/egerton-castle_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Romances (many with Agnes Castle). Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Light of Scarthey: A Romance | have | PG 26045, `ecastle-light-of-scarthey` (2962 units) |
+| "If Youth but Knew!" | have | PG 44286, `ecastle-if-youth-but-knew` (1906 units) |
+| The Pride of Jennico: Being a Memoir of Captain Basil Jennico | have | PG 51238, `ecastle-pride-of-jennico` (1160 units) |
+| Our sentimental garden | have | PG 51779, `ecastle-our-sentimental-garden` (1456 units) |
+| Rose of the World | have | PG 55696, `ecastle-rose-of-the-world` (2215 units) |
+| The Bath Comedy | have | PG 56227, `ecastle-bath-comedy` (1320 units) |
+| "My Merry Rockhurst" Being Some Episodes in the Life of Viscount Rockhurst, a Friend of King Charles the Second, and at One Time Constable of His Majesty's Tower of London | have | PG 57407, `ecastle-my-merry-rockhurst-being-some-episodes-in-the-life-o` (2154 units) |
+| A Little House in War Time | have | PG 63618, `ecastle-little-house-in-war-time` (1037 units) |
+| Pamela Pounce: A tale of tempestuous petticoats | have | PG 69413, `ecastle-pamela-pounce` (2130 units) |
+| The star dreamer: A romance | have | PG 69711, `ecastle-star-dreamer` (2525 units) |
