@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain William Julius Mann (1819-1892), German-American Lutheran pastor in Philadelphia and confessional theologian, for the Word Hoard: A Plea for the Augsburg Confession (1856), Lutheranism in America (1857) and the Life and Times of Henry Melchior Muhlenberg (1887), from Internet Archive scans. His German-language books are left for Adam's ruling. Added 2026-10-23 by lane A, round 54 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mann"
+ ],
+ "_surname": [
+  "w. j. mann",
+  "william j. mann",
+  "william julius mann",
+  "wm. j. mann"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wjmann-plea-augsburg": [
+   "apleafortheaugs00mannuoft",
+   "A plea for the Augsburg Confession : in answer to the objections of the Definite platform ; an address to all ministers and laymen of the evangelical church of the United States (Philadelphia : Lindsay & Blakiston, 1856)"
+  ],
+  "wjmann-lutheranism-america": [
+   "lutheranisminam00manngoog",
+   "Lutheranism in America: An Essay on the Present Condition of the Lutheran (Lindsay & Blakiston, 1857)"
+  ],
+  "wjmann-muhlenberg": [
+   "lifetimesofhenry00mannrich",
+   "Life and times of Henry Melchior Muhlenberg. By William J. Mann (Philadelphia, G. W. Frederick, 1887)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "wjmann-german": "German-language works (Heilsbotschaft sermons, Die gute alte Zeit in Pennsylvanien, Muhlenbergs Leben, Ein Aufgang im Abendland, Leben William Penns): pending Adam's ruling on non-English works"
+ },
+ "_translators": {},
+ "_checks": {
+  "wjmann-plea-augsburg": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. mann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wjmann-lutheranism-america": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. mann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wjmann-muhlenberg": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. j. mann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

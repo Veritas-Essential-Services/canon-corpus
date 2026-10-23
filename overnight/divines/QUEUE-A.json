@@ -6958,6 +6958,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T01:14:59-05:00",
       "notes": "American Lutheran editor; Ministerial Appeal identified from the signed letters. 0 uids minted."
+    },
+    {
+      "id": "william-julius-mann",
+      "status": "done",
+      "scope": "round 54",
+      "added": "2026-10-23T01:15:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T01:15:00-05:00",
+      "notes": "Confessional Lutheran, Philadelphia; German-language works pending Adam. 0 uids minted."
     }
   ]
 }

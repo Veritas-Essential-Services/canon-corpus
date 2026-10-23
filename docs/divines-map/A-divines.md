@@ -11736,3 +11736,14 @@ Slugs `kurtz-*`. Built from title pages read for round 54.
 | Why are you a Lutheran? or, A series of dissertations, explanatory of the doctrines, government, discipline, liturgical economy, distinctive traits, etc., of the Evangelical Lutheran Church in the United States (Baltimore, Evangelical Lutheran Church, 1843) | have-ocr | IA `whyareyouluthera00kurt` |
 | Year-book of the Reformation (Baltimore: Printed at Publication Rooms, 1844) | have-ocr | IA `yearbookofreform00kurt` |
 | Lutheran Prayer Book (1866, a compilation); Benjamin Putnam Kurtz (1878-1950), the literary critic, is another man | excluded | |
+
+## William Julius Mann (round 54, my pick, 2026-10-23)
+
+Slugs `wjmann-*`. Built from title pages read for round 54.
+
+| Work | Status | Where |
+|---|---|---|
+| A plea for the Augsburg Confession : in answer to the objections of the Definite platform ; an address to all ministers and laymen of the evangelical church of the United States (Philadelphia : Lindsay & Blakiston, 1856) | have-ocr | IA `apleafortheaugs00mannuoft` |
+| Lutheranism in America: An Essay on the Present Condition of the Lutheran (Lindsay & Blakiston, 1857) | have-ocr | IA `lutheranisminam00manngoog` |
+| Life and times of Henry Melchior Muhlenberg. By William J. Mann (Philadelphia, G. W. Frederick, 1887) | have-ocr | IA `lifetimesofhenry00mannrich` |
+| German-language works (Heilsbotschaft sermons, Die gute alte Zeit in Pennsylvanien, Muhlenbergs Leben, Ein Aufgang im Abendland, Leben William Penns): pending Adam's ruling on non-English works | pending | not shelved |
