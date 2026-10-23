@@ -4141,6 +4141,14 @@
       "started": "2026-10-22T22:24:42-05:00",
       "finished": "2026-10-22T22:24:42-05:00",
       "notes": "ralph-connor: new shelf, 15 Gutenberg books, 32,450 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "guy-boothby",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Guy Boothby; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:43-05:00",
+      "finished": "2026-10-22T22:24:43-05:00",
+      "notes": "guy-boothby: new shelf, 16 Gutenberg books, 22,130 units, 45 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

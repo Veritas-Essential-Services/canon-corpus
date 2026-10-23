@@ -39188,3 +39188,26 @@ Shelf: `pipeline/ralph-connor_shelf.json` (2026-10-22; added at the coordinator'
 | Beyond the Marshes | have | PG 24724, `rconnor-beyond-the-marshes` (67 units) |
 | The Gaspards of Pine Croft: A Romance of the Windermere | have | PG 59499, `rconnor-gaspards-of-pine-croft` (2534 units) |
 | pg-59408 | excluded | PG 59408: Gutenberg's index of the author's works, not a book. |
+
+## Guy Boothby
+
+Shelf: `pipeline/guy-boothby_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure and Dr Nikola novels. Every English text under the name at Gutenberg that no other shelf holds (16 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| My Strangest Case | have | PG 10585, `gboothby-my-strangest-case` (1256 units) |
+| A Bid for Fortune; Or, Dr. Nikola's Vendetta | have | PG 21640, `gboothby-bid-for-fortune` (1930 units) |
+| "Long Live the King!" | have | PG 32132, `gboothby-long-live-the-king` (1264 units) |
+| The Red Rat's Daughter | have | PG 33004, `gboothby-red-rats-daughter` (1523 units) |
+| Pharos, The Egyptian: A Romance | have | PG 33610, `gboothby-pharos-the-egyptian` (1335 units) |
+| The Childerbridge Mystery | have | PG 35277, `gboothby-childerbridge-mystery` (1022 units) |
+| A Crime of the Under-seas | have | PG 36118, `gboothby-crime-of-the-under-seas` (1130 units) |
+| The Kidnapped President | have | PG 36492, `gboothby-kidnapped-president` (1454 units) |
+| A Cabinet Secret | have | PG 36892, `gboothby-cabinet-secret` (1111 units) |
+| In Strange Company: A Story of Chili and the Southern Seas | have | PG 37081, `gboothby-in-strange-company` (1581 units) |
+| The Beautiful White Devil | have | PG 37948, `gboothby-beautiful-white-devil` (1677 units) |
+| The Marriage of Esther | have | PG 39731, `gboothby-marriage-of-esther` (1733 units) |
+| 'Farewell, Nikola' | have | PG 39906, `gboothby-farewell-nikola` (1301 units) |
+| Sheilah McLeod: A Heroine of the Back Blocks | have | PG 41269, `gboothby-sheilah-mcleod` (1209 units) |
+| The Mystery of the Clasped Hands: A Novel | have | PG 42807, `gboothby-mystery-of-the-clasped-hands` (1385 units) |
+| A Prince of Swindlers | have | PG 54771, `gboothby-prince-of-swindlers` (1219 units) |
