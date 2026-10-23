@@ -1,0 +1,36 @@
+{
+ "_about": "Seymour Van Santvoord (1858-1938): The House of Caesar and the Imperial Disease (Troy, N.Y., 1902). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Seymour Van Santvoord (1858-1938)",
+ "_name_words": [
+  "santvoord",
+  "seymour",
+  "house",
+  "caesar"
+ ],
+ "_surname": [
+  "van santvoord",
+  "santvoord"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "van-santvoord-house-of-caesar-1902": [
+   "cu31924028313819",
+   "The House of Caesar and the Imperial Disease (1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "van-santvoord-house-of-caesar-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van santvoord",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

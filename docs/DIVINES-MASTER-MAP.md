@@ -20446,6 +20446,15 @@ Shelf: `pipeline/raymond-henry-lacey_shelf.json`. The Equestrian Officials of Tr
 |---|---|---|---|
 | The Equestrian Officials of Trajan and Hadrian: their Careers (Princeton, 1917) |  | `lacey-equestrian-officials-trajan-hadrian-1917` | have-raw (IA `cu31924006776748`) |
 
+
+## Seymour Van Santvoord (1858-1938)
+
+Shelf: `pipeline/seymour-van-santvoord_shelf.json`. The House of Caesar and the Imperial Disease (1902) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The House of Caesar and the Imperial Disease (1902) |  | `van-santvoord-house-of-caesar-1902` | have-raw (IA `cu31924028313819`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
