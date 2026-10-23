@@ -1,0 +1,35 @@
+{
+ "_about": "Aubrey Gwynn (1892-1983), Jesuit historian: Roman Education from Cicero to Quintilian (Oxford: Clarendon, 1926). US public domain as a 1926 publication. Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Aubrey Gwynn (1892-1983)",
+ "_name_words": [
+  "gwynn",
+  "aubrey",
+  "roman",
+  "education"
+ ],
+ "_surname": [
+  "gwynn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gwynn-roman-education-cicero-quintilian-1926": [
+   "romaneducationfr0000gwyn_n9h9",
+   "Roman Education from Cicero to Quintilian (Oxford: Clarendon Press, 1926)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gwynn-roman-education-cicero-quintilian-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gwynn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

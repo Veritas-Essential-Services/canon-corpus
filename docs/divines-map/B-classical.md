@@ -10274,3 +10274,12 @@ Shelf: `pipeline/wilhelm-wachsmuth_shelf.json`. The Historical Antiquities of th
 |---|---|---|---|
 | The Historical Antiquities of the Greeks, tr. Edmund Woolrych, 2 vols. in one scan (Oxford: Talboys, 1837) |  | `wachsmuth-historical-antiquities-greeks-1837` | have-raw (IA `historicalantiqu00wach`) |
 
+
+## Aubrey Gwynn (1892-1983)
+
+Shelf: `pipeline/aubrey-gwynn_shelf.json`. Roman Education from Cicero to Quintilian (Oxford: Clarendon Press, 1926). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Roman Education from Cicero to Quintilian (Oxford: Clarendon Press, 1926) |  | `gwynn-roman-education-cicero-quintilian-1926` | have-raw (IA `romaneducationfr0000gwyn_n9h9`) |
+
