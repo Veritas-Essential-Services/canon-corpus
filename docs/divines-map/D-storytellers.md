@@ -13088,11 +13088,11 @@ Shelf: `pipeline/harvey-ralphson_shelf.json` (2026-10-22; added at the coordinat
 |---|---|---|
 | Boy Scouts in Mexico; Or, On Guard with Uncle Sam | have | PG 2191, `ghralphson-boy-scouts-in-mexico` (1544 units) |
 | Boy Scouts in a Submarine; Or, Searching an Ocean Floor | have | PG 6108, `ghralphson-boy-scouts-in-a-submarine` (1852 units) |
-| Boy Scouts in the Coal Caverns; Or, The Light in Tunnel Six | pending | PG 6338, `ghralphson-boy-scouts-in-the-coal-caverns` (fetch failed) |
+| Boy Scouts in the Coal Caverns; Or, The Light in Tunnel Six | have | PG 6338, `ghralphson-boy-scouts-in-the-coal-caverns` (1482 units) |
 | Boy Scouts in an Airship; Or, The Warning from the Sky | have | PG 6904, `ghralphson-boy-scouts-in-an-airship` (1553 units) |
 | The Boy Scout Camera Club; Or, the Confession of a Photograph | have | PG 7356, `ghralphson-boy-scout-camera-club` (1817 units) |
 | Boy Scouts on Motorcycles; Or, With the Flying Squadron | have | PG 11469, `ghralphson-boy-scouts-on-motorcycles` (1669 units) |
-| Boy Scouts in Northern Wilds; Or, The Signal from the Hills | pending | PG 12526, `ghralphson-boy-scouts-in-northern-wilds` (fetch failed) |
+| Boy Scouts in Northern Wilds; Or, The Signal from the Hills | have | PG 12526, `ghralphson-boy-scouts-in-northern-wilds` (1514 units) |
 | Boy Scouts in Southern Waters; Or, Spaniard's Treasure Chest | have | PG 13859, `ghralphson-boy-scouts-in-southern-waters` (1901 units) |
 | Boy Scouts on a Long Hike; Or, To the Rescue in the Black Water Swamps | have | PG 18952, `ghralphson-boy-scouts-on-a-long-hike` (1007 units) |
 | The Call of the Beaver Patrol; Or, A Break in the Glacier | have | PG 20040, `ghralphson-call-of-the-beaver-patrol` (3155 units) |
@@ -13261,8 +13261,8 @@ Shelf: `pipeline/mary-hazelton-wade_shelf.json` (2026-10-22; added at the coordi
 | Work | Status | Where |
 |---|---|---|
 | Bertha, Our Little German Cousin | have | PG 13470, `mhwade-bertha-our-little-german-cousin` (489 units) |
-| Timid Hare: The Little Captive | pending | PG 14784, `mhwade-timid-hare` (fetch failed) |
-| Little Folks of North America Stories about children living in the different parts of North America | pending | PG 37280, `mhwade-little-folks-of-north-america-stories-about-children` (fetch failed) |
+| Timid Hare: The Little Captive | have | PG 14784, `mhwade-timid-hare` (338 units) |
+| Little Folks of North America Stories about children living in the different parts of North America | have | PG 37280, `mhwade-little-folks-of-north-america-stories-about-children` (652 units) |
 | Mpuke, Our Little African Cousin | have | PG 41976, `mhwade-mpuke-our-little-african-cousin` (420 units) |
 | Our Little Irish Cousin | have | PG 41978, `mhwade-our-little-irish-cousin` (670 units) |
 | Mari, Our Little Norwegian Cousin | have | PG 42079, `mhwade-mari-our-little-norwegian-cousin` (607 units) |
@@ -13299,7 +13299,7 @@ Shelf: `pipeline/the-duchess_shelf.json` (2026-10-22; added at the coordinator's
 | How to Marry Well | have | PG 27624, `duchess-how-to-marry-well` (18 units) |
 | A Bachelor's Dream | have | PG 27838, `duchess-bachelors-dream` (621 units) |
 | Only an Irish Girl | have | PG 27839, `duchess-only-an-irish-girl` (787 units) |
-| Rossmoyne | pending | PG 31492, `duchess-rossmoyne` (fetch failed) |
+| Rossmoyne | have | PG 31492, `duchess-rossmoyne` (3905 units) |
 | Portia; Or, By Passions Rocked | have | PG 31825, `duchess-portia` (3201 units) |
 | Faith and Unfaith: A Novel | have | PG 33312, `duchess-faith-and-unfaith` (3169 units) |
 | Airy Fairy Lilian | have | PG 35228, `duchess-airy-fairy-lilian` (3792 units) |

@@ -1,5 +1,5 @@
 {
- "_about": "G. Harvey Ralphson's Boy Scouts series books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_about": "G. Harvey Ralphson's Boy Scouts series books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto). Two books print the house name Archibald Lee Fletcher; the Gutenberg catalogue credits them to Ralphson, so those two check for the printed name.",
  "_author": "G. Harvey Ralphson",
  "_name_words": [
   "harvey",
@@ -126,6 +126,15 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
+  "ghralphson-boy-scouts-in-the-coal-caverns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald lee fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "ghralphson-boy-scouts-in-an-airship": {
    "kind": "gutenberg",
    "checked": "2026-10-23",
@@ -149,6 +158,15 @@
    "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ralphson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghralphson-boy-scouts-in-northern-wilds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald lee fletcher",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
@@ -297,5 +315,17 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_surname_by_slug": {
+  "ghralphson-boy-scouts-in-the-coal-caverns": [
+   "archibald lee fletcher",
+   "ralphson",
+   "harvey ralphson"
+  ],
+  "ghralphson-boy-scouts-in-northern-wilds": [
+   "archibald lee fletcher",
+   "ralphson",
+   "harvey ralphson"
+  ]
  }
 }

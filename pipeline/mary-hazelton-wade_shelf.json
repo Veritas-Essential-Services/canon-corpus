@@ -111,6 +111,24 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
+  "mhwade-timid-hare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton blanchard wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhwade-little-folks-of-north-america-stories-about-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary hazelton blanchard wade",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "mhwade-mpuke-our-little-african-cousin": {
    "kind": "gutenberg",
    "checked": "2026-10-23",
@@ -273,5 +291,19 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_surname_by_slug": {
+  "mhwade-timid-hare": [
+   "mary hazelton blanchard wade",
+   "mary hazelton wade",
+   "hazelton wade",
+   "m. h. wade"
+  ],
+  "mhwade-little-folks-of-north-america-stories-about-children": [
+   "mary hazelton blanchard wade",
+   "mary hazelton wade",
+   "hazelton wade",
+   "m. h. wade"
+  ]
  }
 }

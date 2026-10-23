@@ -1779,3 +1779,8 @@
 
 ## 2026-10-22 22:15 CDT — williamsons: done
 - williamsons: new shelf, 34 Gutenberg books, 54,524 units, 2542 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:16 CDT — three name-gate refusals cleared
+- harvey-ralphson: new shelf, 23 Gutenberg books, 37,387 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug).
+- mary-hazelton-wade: new shelf, 21 Gutenberg books, 11,792 units, 72 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 2, see _surname_by_slug).
+- the-duchess: new shelf, 21 Gutenberg books, 44,271 units, 1329 ~2 ids; verify 0 mismatches, 0 rights flags (name check per book for 1, see _surname_by_slug).

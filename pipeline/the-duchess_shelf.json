@@ -1,5 +1,5 @@
 {
- "_about": "The Duchess (Margaret Wolfe Hungerford)'s Victorian romances, Molly Bawn and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_about": "The Duchess (Margaret Wolfe Hungerford)'s Victorian romances, Molly Bawn and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto). Rossmoyne's title page reads only 'by the author of'; Gutenberg's header names 'Duchess', which is what that one book checks for.",
  "_author": "The Duchess (Margaret Wolfe Hungerford)",
  "_name_words": [
   "duchess",
@@ -200,6 +200,15 @@
    "pg_copyrighted": false,
    "pg_translator": null
   },
+  "duchess-rossmoyne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "duchess",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "duchess-portia": {
    "kind": "gutenberg",
    "checked": "2026-10-23",
@@ -281,5 +290,12 @@
    "pg_copyrighted": false,
    "pg_translator": null
   }
+ },
+ "_surname_by_slug": {
+  "duchess-rossmoyne": [
+   "duchess",
+   "the duchess",
+   "hungerford"
+  ]
  }
 }
