@@ -16198,3 +16198,19 @@ Shelf: `pipeline/madeline-brandeis_shelf.json` (2026-10-22; added at the coordin
 | Little Jeanne of France | have | PG 40806, `mbrandeis-little-jeanne-of-france` (690 units) |
 | Shaun O'Day of Ireland | have | PG 41015, `mbrandeis-shaun-oday-of-ireland` (742 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 36333 Little Erik of Sweden (copyright line 1938); PG 40592 The Little Spanish Dancer (copyright line 1936); PG 40608 Mitz and Fritz of Germany (copyright line 1933); PG 40621 Little Tony of Italy (copyright line 1934); PG 40856 Little Philippe of Belgium (copyright line 1930). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Frederick Orin Bartlett
+
+Shelf: `pipeline/frederick-orin-bartlett_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Seventh Noon | have | PG 20429, `fobartlett-seventh-noon` (2551 units) |
+| The Triflers | have | PG 20458, `fobartlett-triflers` (2720 units) |
+| One way out | have | PG 28315, `fobartlett-one-way-out` (903 units) |
+| The Web of the Golden Spider | have | PG 29104, `fobartlett-web-of-the-golden-spider` (2113 units) |
+| The Wall Street Girl | have | PG 29654, `fobartlett-wall-street-girl` (2567 units) |
+| The Prodigal Pro Tem | have | PG 67997, `fobartlett-prodigal-pro-tem` (2881 units) |
+| Big Laurel | have | PG 76048, `fobartlett-big-laurel` (1517 units) |
+| New lives for old | have | PG 76684, `fobartlett-new-lives-for-old` (733 units) |
+| Joan and Co. | have | PG 78046, `fobartlett-joan-and-co` (3034 units) |
