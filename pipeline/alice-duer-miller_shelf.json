@@ -1,0 +1,164 @@
+{
+ "_about": "Alice Duer Miller's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Alice Duer Miller",
+ "_name_words": [
+  "alice",
+  "duer",
+  "miller"
+ ],
+ "_surname": [
+  "alice duer miller",
+  "duer miller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "admiller-happiest-time-of-their-lives": [
+   11325,
+   "The happiest time of their lives"
+  ],
+  "admiller-are-women-people-a-book-of-rhymes-for-suffrage-time": [
+   11689,
+   "Are Women People? A Book of Rhymes for Suffrage Times"
+  ],
+  "admiller-ladies-must-live": [
+   12789,
+   "Ladies Must Live"
+  ],
+  "admiller-beauty-and-the-bolshevist": [
+   13146,
+   "The Beauty and the Bolshevist"
+  ],
+  "admiller-burglar-and-the-blizzard": [
+   14835,
+   "The Burglar and the Blizzard: A Christmas Story"
+  ],
+  "admiller-come-out-of-the-kitchen-a-romance": [
+   33145,
+   "Come Out of the Kitchen! A Romance"
+  ],
+  "admiller-manslaughter": [
+   33985,
+   "Manslaughter"
+  ],
+  "admiller-priceless-pearl": [
+   64192,
+   "The Priceless Pearl"
+  ],
+  "admiller-are-parents-people": [
+   64917,
+   "Are Parents People?"
+  ],
+  "admiller-things": [
+   66862,
+   "Things"
+  ],
+  "admiller-less-than-kin": [
+   71674,
+   "Less than kin"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "admiller-happiest-time-of-their-lives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-are-women-people-a-book-of-rhymes-for-suffrage-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-ladies-must-live": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-beauty-and-the-bolshevist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-burglar-and-the-blizzard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-come-out-of-the-kitchen-a-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-manslaughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-priceless-pearl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-are-parents-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "admiller-less-than-kin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice duer miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

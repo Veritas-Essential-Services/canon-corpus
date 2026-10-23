@@ -15277,3 +15277,21 @@ Shelf: `pipeline/frances-trego-montgomery_shelf.json` (2026-10-22; added at the 
 | Billy Whiskers, Jr. | have | PG 66006, `ftmontgomery-billy-whiskers-jr` (563 units) |
 | Billy Whiskers Out for Fun | have | PG 66450, `ftmontgomery-billy-whiskers-out-for-fun` (676 units) |
 | On a lark to the planets A sequel to "The wonderful electric elephant" | have | PG 69637, `ftmontgomery-on-a-lark-to-the-planets-a-sequel-to-the-wonder` (577 units) |
+
+## Alice Duer Miller
+
+Shelf: `pipeline/alice-duer-miller_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The happiest time of their lives | have | PG 11325, `admiller-happiest-time-of-their-lives` (2128 units) |
+| Are Women People? A Book of Rhymes for Suffrage Times | have | PG 11689, `admiller-are-women-people-a-book-of-rhymes-for-suffrage-time` (331 units) |
+| Ladies Must Live | have | PG 12789, `admiller-ladies-must-live` (1435 units) |
+| The Beauty and the Bolshevist | have | PG 13146, `admiller-beauty-and-the-bolshevist` (576 units) |
+| The Burglar and the Blizzard: A Christmas Story | have | PG 14835, `admiller-burglar-and-the-blizzard` (641 units) |
+| Come Out of the Kitchen! A Romance | have | PG 33145, `admiller-come-out-of-the-kitchen-a-romance` (1703 units) |
+| Manslaughter | have | PG 33985, `admiller-manslaughter` (1719 units) |
+| The Priceless Pearl | have | PG 64192, `admiller-priceless-pearl` (848 units) |
+| Are Parents People? | have | PG 64917, `admiller-are-parents-people` (2036 units) |
+| Things | have | PG 66862, `admiller-things` (146 units) |
+| Less than kin | have | PG 71674, `admiller-less-than-kin` (1176 units) |
