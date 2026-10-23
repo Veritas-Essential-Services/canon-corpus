@@ -1,0 +1,329 @@
+{
+ "_about": "Public-domain William Le Roy Stidger (1885-1949), Methodist preacher and later professor of homiletics at Boston University, for the Word Hoard: his books printed before 1930, among them Giant Hours with Poet Preachers, Soldier Silhouettes on our Front, Star Dust from the Dugouts, Outdoor Men and Minds, Flash-Lights from the Seven Seas, Standing Room Only, There are Sermons in Books, The Place of Books in the Life we Live, Flames of Faith, Henry Ford, Symphonic Sermons, That God's House may be Filled, Finding God in Books, Building up the Mid-Week Service, Building Sermons with Symphonic Themes, Pulpit Prayers and Paragraphs, God is at the Organ, The High Faith of Fiction and Drama, and Preaching out of the Overflow. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 116 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william l. stidger",
+  "william le roy stidger",
+  "w. l. stidger",
+  "stidger"
+ ],
+ "_surname": [
+  "william l. stidger",
+  "william le roy stidger",
+  "stidger"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stidger-lincoln-poems": [
+   "lincolnbookofpoe00stid",
+   "The Lincoln book of poems (Boston, R. G. Badger, 1911)"
+  ],
+  "stidger-poet-preachers": [
+   "gianthourswithpo0000stid",
+   "Giant hours with poet preachers (New York, Cincinnati, The Abingdon press, 1918)"
+  ],
+  "stidger-soldier-silhouettes": [
+   "soldiersilhouett0000will",
+   "Soldier silhouettes on our front (charles scribner's sons, 1918)"
+  ],
+  "stidger-star-dust": [
+   "stardustfromdugo00stid",
+   "Star dust from the dugouts : a reconstruction book (New York : Abingdon Press, 1919)"
+  ],
+  "stidger-outdoor-men": [
+   "outdoormenminds00stid",
+   "Outdoor men and minds (New York, Cincinnati, The Abingdon press, 1920)"
+  ],
+  "stidger-flash-lights": [
+   "flashlightsfroms00stid",
+   "Flash-lights from the seven seas (New York, George H. Doran company, 1921)"
+  ],
+  "stidger-standing-room": [
+   "standingroomonly0000stid",
+   "Standing room only (New York : George H. Doran, 1921)"
+  ],
+  "stidger-sermons-in-books": [
+   "therearesermonsi0000will_a0z1",
+   "There are sermons in books (catalogued 1922)"
+  ],
+  "stidger-place-of-books": [
+   "placeofbooksinli0000stid",
+   "The place of books in the life we live (New York : George H. Doran company, 1922)"
+  ],
+  "stidger-flames-faith": [
+   "flamesoffaith0000stid",
+   "Flames of faith (New York, Cincinnati, The Abingdon press, 1922)"
+  ],
+  "stidger-henry-ford": [
+   "henryfordmanhism0000will",
+   "Henry Ford: the man and his motives (catalogued 1923)"
+  ],
+  "stidger-symphonic": [
+   "symphonicsermons0000stid",
+   "Symphonic sermons : a new method in homiletics and its effective use, with sermons and suggested themes (New York : George H. Doran co., 1924)"
+  ],
+  "stidger-gods-house": [
+   "thatgodshousemay0000stid",
+   "That God's house may be filled; a book of modern church methods and workable plans (New York, George H. Doran Co, 1924)"
+  ],
+  "stidger-finding-god": [
+   "findinggodinbook00stid",
+   "Finding God in books (New York : George H. Doran company, 1925)"
+  ],
+  "stidger-mid-week": [
+   "buildingupmidwee0000stid",
+   "Building up the mid-week service (New York : George II. Doran Company, 1926)"
+  ],
+  "stidger-building-sermons": [
+   "buildingsermonsw0000stid",
+   "Building sermons with symphonic themes (New York, George H. Doran company, 1926)"
+  ],
+  "stidger-pulpit-prayers": [
+   "pulpitprayerspar00stid",
+   "Pulpit prayers and paragraphs, editorials, commandments and beatitudes (New York : George H. Doran company, 1926)"
+  ],
+  "stidger-organ": [
+   "godisatorgan0000stid",
+   "God is at the organ (New York, Cincinnati, The Abingdon Press, 1927)"
+  ],
+  "stidger-fiction-drama": [
+   "highfaithofficti0000stid",
+   "The high faith of fiction and drama (Garden City, New York, Doubleday, Doran and Co., 1928)"
+  ],
+  "stidger-overflow": [
+   "preachingoutofov0000stid",
+   "Preaching out of the overflow (Nashville, Tenn., Cokesbury press, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "stidger-immortality": "If I had only one sermon to preach on immortality (New York, London, Harper & brothers, 1929), IA ifihadonlyoneser0000stid: sermons by many preachers which he edited; this scan is a second printing with no date (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "stidger-lincoln-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stidger-poet-preachers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-soldier-silhouettes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-star-dust": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "stidger-outdoor-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "stidger-flash-lights": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "stidger-standing-room": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-sermons-in-books": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-place-of-books": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-flames-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-henry-ford": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-symphonic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-gods-house": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-finding-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-mid-week": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-building-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-pulpit-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-organ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-fiction-drama": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stidger-overflow": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william l. stidger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -17666,6 +17666,34 @@ Slugs `jhpotts-*`. Built from title pages read for round 116.
 | My gift to thee; present time verses (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1910) | have-ocr | IA `mygifttotheepres00pott` |
 | Every life a delight (New York, Cincinnati, The Abingdon Press, 1914) | have-ocr | IA `everylifedelight00pott` |
 | principlesofchur00perr_0 is by Perry; Asa Gray letters and agriculture papers are by others | excluded | |
+
+## William L. Stidger (round 116, my pick, 2026-10-23)
+
+Slugs `stidger-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lincoln book of poems (Boston, R. G. Badger, 1911) | have-ocr | IA `lincolnbookofpoe00stid` |
+| Giant hours with poet preachers (New York, Cincinnati, The Abingdon press, 1918) | have-ocr | IA `gianthourswithpo0000stid` |
+| Soldier silhouettes on our front (charles scribner's sons, 1918) | have-ocr | IA `soldiersilhouett0000will` |
+| Star dust from the dugouts : a reconstruction book (New York : Abingdon Press, 1919) | have-ocr | IA `stardustfromdugo00stid` |
+| Outdoor men and minds (New York, Cincinnati, The Abingdon press, 1920) | have-ocr | IA `outdoormenminds00stid` |
+| Flash-lights from the seven seas (New York, George H. Doran company, 1921) | have-ocr | IA `flashlightsfroms00stid` |
+| Standing room only (New York : George H. Doran, 1921) | have-ocr | IA `standingroomonly0000stid` |
+| There are sermons in books (catalogued 1922) | have-ocr | IA `therearesermonsi0000will_a0z1` |
+| The place of books in the life we live (New York : George H. Doran company, 1922) | have-ocr | IA `placeofbooksinli0000stid` |
+| Flames of faith (New York, Cincinnati, The Abingdon press, 1922) | have-ocr | IA `flamesoffaith0000stid` |
+| Henry Ford: the man and his motives (catalogued 1923) | have-ocr | IA `henryfordmanhism0000will` |
+| Symphonic sermons : a new method in homiletics and its effective use, with sermons and suggested themes (New York : George H. Doran co., 1924) | have-ocr | IA `symphonicsermons0000stid` |
+| That God's house may be filled; a book of modern church methods and workable plans (New York, George H. Doran Co, 1924) | have-ocr | IA `thatgodshousemay0000stid` |
+| Finding God in books (New York : George H. Doran company, 1925) | have-ocr | IA `findinggodinbook00stid` |
+| Building up the mid-week service (New York : George II. Doran Company, 1926) | have-ocr | IA `buildingupmidwee0000stid` |
+| Building sermons with symphonic themes (New York, George H. Doran company, 1926) | have-ocr | IA `buildingsermonsw0000stid` |
+| Pulpit prayers and paragraphs, editorials, commandments and beatitudes (New York : George H. Doran company, 1926) | have-ocr | IA `pulpitprayerspar00stid` |
+| God is at the organ (New York, Cincinnati, The Abingdon Press, 1927) | have-ocr | IA `godisatorgan0000stid` |
+| The high faith of fiction and drama (Garden City, New York, Doubleday, Doran and Co., 1928) | have-ocr | IA `highfaithofficti0000stid` |
+| Preaching out of the overflow (Nashville, Tenn., Cokesbury press, 1929) | have-ocr | IA `preachingoutofov0000stid` |
+| If I had only one sermon to preach on immortality (New York, London, Harper & brothers, 1929), IA ifihadonlyoneser0000stid: sermons by many preachers which he edited; this scan is a second printing with no date (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
