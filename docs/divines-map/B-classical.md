@@ -9280,3 +9280,13 @@ Shelf: `pipeline/james-baikie_shelf.json`. Ancient Egypt, Crete and the Near Eas
 
 Excluded: Through the Telescope; Peeps at the Royal Navy; Lands and Peoples of the Bible; The Bible Story (outside lane B)
 
+
+## Walter Woodburn Hyde (1871-1966)
+
+Shelf: `pipeline/w-w-hyde_shelf.json`. Greek athletics and religion, 1921-1923. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Olympic Victor Monuments and Greek Athletic Art (1921) |  | `hyde-olympic-victor-monuments-pg` | have (PG 61792) |
+| Greek Religion and its Survivals (1923) |  | `hyde-greek-religion-survivals-1923` | have-raw (IA `greekreligionits0000hyde_n0k8`) |
+
