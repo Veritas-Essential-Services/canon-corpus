@@ -9416,3 +9416,13 @@ Shelf: `pipeline/j-r-s-sterrett_shelf.json`. Epigraphy of Asia Minor, 1888-1889;
 | An Epigraphical Journey in Asia Minor, during the Summer of 1884 (1888) |  | `sterrett-epigraphical-journey-1888` | have-raw (IA `anepigraphicalj00stergoog`) |
 | Leaflets from the Notebook of an Archaeological Traveler in Asia Minor (1889) |  | `sterrett-leaflets-from-notebook-1889` | have-raw (IA `leafletsfromnote00ster`) |
 
+
+## Joseph Bickersteth Mayor (1828-1916)
+
+Shelf: `pipeline/j-b-mayor_shelf.json`. Ancient philosophy sketch (1881) and a guide to classical books (1874). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Sketch of Ancient Philosophy from Thales to Cicero (Pitt Press, 1st ed. 1881; IA dates this copy 1885) |  | `mayor-sketch-ancient-philosophy-1881` | have-raw (IA `sketchofancientp00mayouoft`) |
+| A Guide to the Choice of Classical Books (1874) |  | `mayor-guide-choice-classical-books-1874` | have-raw (IA `guidetochoicecl00mayogoog`) |
+
