@@ -2459,3 +2459,6 @@
 
 ## 2026-10-22 23:11 CDT — kate-langley-bosher: done
 - kate-langley-bosher: new shelf, 7 Gutenberg books, 4,766 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — robert-montgomery-bird: done
+- robert-montgomery-bird: new shelf, 7 Gutenberg books, 9,104 units, 825 ~2 ids; verify 0 mismatches, 0 rights flags.

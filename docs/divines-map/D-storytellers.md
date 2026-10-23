@@ -17718,3 +17718,17 @@ Shelf: `pipeline/kate-langley-bosher_shelf.json` (2026-10-22; added at the coord
 | Mary Cary: "Frequently Martha" | have | PG 15571, `klbosher-mary-cary` (745 units) |
 | Kitty Canary: A Novel | have | PG 16946, `klbosher-kitty-canary` (231 units) |
 | "Bobbie", a Story of the Confederacy | have | PG 67150, `klbosher-bobbie-a-story-of-the-confederacy` (193 units) |
+
+## Robert Montgomery Bird
+
+Shelf: `pipeline/robert-montgomery-bird_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Nick of the Woods; Or, Adventures of Prairie Life | have | PG 13970, `rmbird-nick-of-the-woods` (1265 units) |
+| Calavar; or, The Knight of The Conquest, A Romance of Mexico | have | PG 34121, `rmbird-calavar` (2452 units) |
+| The Infidel; or, the Fall of Mexico. Vol. I. | have | PG 34529, `rmbird-infidel` (1091 units) |
+| The Infidel; or, the Fall of Mexico. Vol. II. | have | PG 34530, `rmbird-infidel-34530` (748 units) |
+| Sheppard Lee, Written by Himself. Vol. 1 (of 2) | have | PG 46621, `rmbird-sheppard-lee-written-by-himself-vol-1-of-2` (865 units) |
+| Sheppard Lee, Written by Himself. Vol. 2 (of 2) | have | PG 46622, `rmbird-sheppard-lee-written-by-himself-vol-2-of-2` (811 units) |
+| The Hawks of Hawk-Hollow: A Tradition of Pennsylavania | have | PG 65637, `rmbird-hawks-of-hawk-hollow` (1872 units) |
