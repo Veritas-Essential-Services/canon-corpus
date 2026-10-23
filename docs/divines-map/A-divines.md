@@ -12910,3 +12910,15 @@ Slugs `hballou-*`. Built from title pages read for round 64.
 | A voice to Universalists (Boston, J. M. Usher, 1849) | have-ocr | IA `voicetouniversal00ball` |
 | Sermons on important doctrinal subjects : with critical and explanatory notes (Boston : J. M. Usher, 1856) | have-ocr | IA `sermonsonimporta00ball_0` |
 | The Universalist Hymn Book and Hymns Composed by Different Authors (compiled); the works of Hosea Ballou 2nd | excluded | |
+
+## Thomas Starr King (round 64, my pick, 2026-10-23)
+
+Slugs `starrking-*`. Built from title pages read for round 64.
+
+| Work | Status | Where |
+|---|---|---|
+| The White Hills (Boston, Crosby Nichols and company, 1860) | have-ocr | IA `whitehills00king` |
+| Patriotism, and other papers. With a biographical sketch by Hon. Richard Frothingham (Tompkins, 1864) | have-ocr | IA `patriotismotherp00king` |
+| Christianity and humanity (Boston, J.R. Osgood and company, 1877) | have-ocr | IA `christianityhuma00king` |
+| Substance and show : and other lectures (Boston : Houghton, Osgood and company, 1879) | have-ocr | IA `substanceshowoth00kingrich` |
+| The New Discussion of the Trinity (1860, by several hands); Christian pamphlet volumes | excluded | |
