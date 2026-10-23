@@ -1,5 +1,5 @@
 {
- "_about": "Horace in English, translator per title: John Conington (verse; Odes and Carmen Saeculare; Satires, Epistles and Art of Poetry), the 'Handy Literal Translations' prose Works (translator unnamed), Eugene and Roswell Field's Echoes from the Sabine Farm (free verse versions). Clean Gutenberg. Dryden's Horace on the Dryden shelf (lane C). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03, verse Odes as raw IA OCR: C. S. Mathews (1867), H. H. Pierce (1884) and W. H. Cudworth (privately printed, 1917).",
+ "_about": "Horace in English, translator per title: John Conington (verse; Odes and Carmen Saeculare; Satires, Epistles and Art of Poetry), the 'Handy Literal Translations' prose Works (translator unnamed), Eugene and Roswell Field's Echoes from the Sabine Farm (free verse versions). Clean Gutenberg. Dryden's Horace on the Dryden shelf (lane C). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report. Added 2026-10-03, verse Odes as raw IA OCR: C. S. Mathews (1867), H. H. Pierce (1884) and W. H. Cudworth (privately printed, 1917). William Sewell's literal and rhythmical Odes and Epodes (Bohn, 1850), raw IA.",
  "_name_words": [
   "horace",
   "horatius",
@@ -209,6 +209,10 @@
    "cu31924026490668",
    "The Lyrics of Horace, done into English rhyme (London: Rivingtons, 1870)",
    "tr. Thomas Charles Baring"
+  ],
+  "horace-sewell-odes-epodes-1850": [
+   "odesepodesofhor00hora",
+   "The Odes and Epodes of Horace, translated literally and rhythmically (London: Henry G. Bohn, MDCCCL)"
   ]
  },
  "_cross_ref": {
@@ -262,7 +266,8 @@
   "horace-mills-nineteen-odes-1920": "william hathorn mills",
   "horace-smart-verse-1767-v2": "christopher smart",
   "horace-smart-verse-1767-v4": "christopher smart",
-  "horace-baring-lyrics-1870": "thomas charles baring"
+  "horace-baring-lyrics-1870": "thomas charles baring",
+  "horace-sewell-odes-epodes-1850": "W. Sewell"
  },
  "_translator_unchecked": {
   "horace-literal-works": "no single translator to check: unnamed ('Handy Literal Translations')",
@@ -277,7 +282,7 @@
  "_checks": {
   "horace-conington-odes": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "John Conington",
@@ -289,7 +294,7 @@
   },
   "horace-conington-satires-epistles": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "John Conington",
@@ -301,7 +306,7 @@
   },
   "horace-literal-works": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "identity": "ok",
@@ -310,7 +315,7 @@
   },
   "horace-field-sabine-farm": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatius flaccus",
    "translator_claimed": "Roswell Martin Field",
@@ -322,7 +327,7 @@
   },
   "horace-fairclough-satires-epistles": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "H. Rushton Fairclough",
@@ -335,7 +340,7 @@
   },
   "horace-smart-buckley-1869": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatius flaccus",
    "translator_claimed": "C. Smart",
@@ -348,7 +353,7 @@
   },
   "horace-lonsdale-lee-1874": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatius flaccus",
    "translator_claimed": "James Lonsdale",
@@ -361,7 +366,7 @@
   },
   "horace-martin-odes-1866": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatius flaccus",
    "identity": "ok",
@@ -372,7 +377,7 @@
   },
   "horace-lytton-1869": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "Lord Lytton",
@@ -385,7 +390,7 @@
   },
   "horace-gladstone-1894": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "W. E. Gladstone",
@@ -398,7 +403,7 @@
   },
   "horace-bennett-loeb-odes": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "Bennett",
@@ -412,7 +417,7 @@
   },
   "horace-martin-works-1881-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatius flaccus",
    "translator_claimed": "Theodore Martin",
@@ -425,7 +430,7 @@
   },
   "horace-martin-works-1881-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "Theodore Martin",
@@ -438,7 +443,7 @@
   },
   "horace-pierce-odes-1884": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "Henry Hubbard Pierce",
@@ -451,7 +456,7 @@
   },
   "horace-mathews-odes-1867": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatius flaccus",
    "translator_claimed": "Charles Stephens Mathews",
@@ -464,7 +469,7 @@
   },
   "horace-cudworth-odes-1917": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "Warren H. Cudworth",
@@ -477,7 +482,7 @@
   },
   "horace-francis-1825-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "philip francis",
@@ -490,7 +495,7 @@
   },
   "horace-francis-1825-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "works of horace",
    "translator_claimed": "philip francis",
@@ -503,7 +508,7 @@
   },
   "horace-deazeley-odes-1895": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "Deazeley",
@@ -516,7 +521,7 @@
   },
   "horace-hughes-1867": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "christopher hughes",
@@ -529,7 +534,7 @@
   },
   "horace-forsyth-odes-1876": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "w. e. h. forsyth",
@@ -542,7 +547,7 @@
   },
   "horace-hague-1892": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "identity": "ok",
@@ -553,7 +558,7 @@
   },
   "horace-marris-odes-1912": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "w. s. marris",
@@ -566,7 +571,7 @@
   },
   "horace-whyte-melville-1850": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "whyte melville",
@@ -579,7 +584,7 @@
   },
   "horace-ravensworth-odes-1858": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "Ravensworth",
@@ -592,7 +597,7 @@
   },
   "horace-obrien-odes-i-1860": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "O'Brien",
@@ -605,7 +610,7 @@
   },
   "horace-phelps-odes-1897": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "philip e. phelps",
@@ -618,7 +623,7 @@
   },
   "horace-green-odes-1903": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "identity": "ok",
@@ -629,7 +634,7 @@
   },
   "horace-sargent-echoes-1893": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "mr. sargent",
@@ -642,7 +647,7 @@
   },
   "horace-coutts-pollock-icarian-1920": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "francis coutts",
@@ -655,7 +660,7 @@
   },
   "horace-native-of-america-1786": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "identity": "ok",
@@ -666,7 +671,7 @@
   },
   "horace-jones-odes-i-ii-1865": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "hugo nicholas jones",
@@ -679,7 +684,7 @@
   },
   "horace-fenwick-odes-ii-1918": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "gerard fenwick",
@@ -692,7 +697,7 @@
   },
   "horace-mills-nineteen-odes-1920": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "odes of horace",
    "translator_claimed": "william hathorn mills",
@@ -705,7 +710,7 @@
   },
   "horace-smart-prose-1780-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "title_weak": true,
@@ -717,7 +722,7 @@
   },
   "horace-smart-prose-1780-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "title_weak": true,
@@ -729,7 +734,7 @@
   },
   "horace-smart-verse-1767-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "identity": "ok",
@@ -740,7 +745,7 @@
   },
   "horace-smart-verse-1767-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "horatian",
    "translator_claimed": "christopher smart",
@@ -753,7 +758,7 @@
   },
   "horace-smart-verse-1767-v4": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "christopher smart",
@@ -766,7 +771,7 @@
   },
   "horace-baring-lyrics-1870": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "thomas charles baring",
@@ -775,6 +780,19 @@
    "ia_rights": "ok: published 1870",
    "ia_date": "1870",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horace-sewell-odes-epodes-1850": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "odes of horace",
+   "translator_claimed": "W. Sewell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
    "ia_lending": null
   }
  },
