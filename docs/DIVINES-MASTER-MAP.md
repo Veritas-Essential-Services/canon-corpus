@@ -10266,6 +10266,24 @@ Slugs `porteus-*`. Built from title pages read for round 42.
 | The beneficial effects of Christianity : on the temporal concerns of mankind, proved from history and from facts (London : Printed by Luke Hansard ... for T. Cadell and W. Davies ... T. Payne ... and F.C. and J. Rivington ..., 1806) | have-ocr | IA `beneficialeffect0000port` |
 | Other printings of the Lectures (London 1802, two volumes) and of the Sermons (1783-1808, Hartford 1806) | alternate | not shelved |
 | The French translation Heureux effets (1808); the poetical anthologies that reprint his Death | excluded | |
+
+## Richard Hurd (round 42, my pick, 2026-10-22)
+
+Slugs `hurd-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 1 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu01hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 2 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu02hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 3 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu03hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 4 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu04hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 5 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu05hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 6 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu06hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 7 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu07hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 8 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu08hurd` |
+| An introduction to the study of the prophecies concerning the Christian church : and in particular, concerning the Church of Papal Rome ; in twelve sermons, preached in Lincoln's-Inn-Chapel, at the lecture of the Right Reverend William Warburton, Lord Bishop of Gloucester (London : Printed by W. Bowyer and J. Nichols for T. Cadell, 1772) | have-ocr | IA `a588161800hurduoft` |
+| The Google copies of the 1811 Works (worksrichardhur14-17hurdgoog); the Boston 1809 Introduction | alternate | not shelved |
+| His editions of Addison and Warburton (other men's works); the 1911 Letters on Chivalry school edition; the 1860 Memoirs by another hand | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
