@@ -17688,3 +17688,14 @@ Slugs `stidger-*`. Built from title pages read for round 116.
 | The high faith of fiction and drama (Garden City, New York, Doubleday, Doran and Co., 1928) | have-ocr | IA `highfaithofficti0000stid` |
 | Preaching out of the overflow (Nashville, Tenn., Cokesbury press, 1929) | have-ocr | IA `preachingoutofov0000stid` |
 | If I had only one sermon to preach on immortality (New York, London, Harper & brothers, 1929), IA ifihadonlyoneser0000stid: sermons by many preachers which he edited; this scan is a second printing with no date (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+
+## Charles Herbert Rust (round 117, my pick, 2026-10-23)
+
+Slugs `chrust-*`. Built from title pages read for round 117.
+
+| Work | Status | Where |
+|---|---|---|
+| A church on wheels ; or, ten years on a chapel car (Philadelphia : American Baptist Publication Society, 1905) | have-ocr | IA `churchonwheels00rust` |
+| Practical ideals in evangelism (Philadelphia : Griffith & Rowland Press, 1906) | have-ocr | IA `practicalidealsi00rust` |
+| The church a field of service (catalogued 1914) | have-ocr | IA `churchfieldofser0000char` |
+| Personal religion (Boston, Mass. : Gorham Press, 1915) | have-ocr | IA `personalreligion00rust` |
