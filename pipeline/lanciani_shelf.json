@@ -1,5 +1,5 @@
 {
- "_about": "Rodolfo Lanciani (1847-1929), Roman archaeologist, writing in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Pagan and Christian Rome, clean Gutenberg. No uids minted.",
+ "_about": "Rodolfo Lanciani (1847-1929), Roman archaeologist, writing in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Pagan and Christian Rome, clean Gutenberg. No uids minted.  Round dz (antiquities sweep) adds eight of his English books on Roman topography and archaeology.",
  "_name_words": [
   "lanciani"
  ],
@@ -14,16 +14,137 @@
    "Pagan and Christian Rome"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "lanciani-ancient-rome-recent-discoveries-1888": [
+   "ancientromeinlig00lanciala",
+   "Ancient Rome in the Light of Recent Discoveries, by Rodolfo Lanciani (Boston and New York: Houghton Mifflin; copyright 1888)"
+  ],
+  "lanciani-ruins-and-excavations-1897": [
+   "cu31924028273997",
+   "The Ruins and Excavations of Ancient Rome: a companion book for students and travelers, by Rodolfo Lanciani (Boston and New York: Houghton, Mifflin and Company; copyright 1897)"
+  ],
+  "lanciani-destruction-of-ancient-rome-1899": [
+   "destructionofanc00lancuoft",
+   "The Destruction of Ancient Rome: a sketch of the history of the monuments, by Rodolfo Lanciani (New York: Macmillan; London: Macmillan, 1899)"
+  ],
+  "lanciani-new-tales-of-old-rome-1901": [
+   "cu31924028330300",
+   "New Tales of Old Rome, by Rodolfo Lanciani (Boston and New York: Houghton, Mifflin and Company, 1901)"
+  ],
+  "lanciani-golden-days-renaissance-rome-1906": [
+   "goldendaysofrena00lanciala",
+   "The Golden Days of the Renaissance in Rome, from the pontificate of Julius II to that of Paul III, by Rodolfo Lanciani (Boston and New York: Houghton, Mifflin and Company, 1906)"
+  ],
+  "lanciani-wanderings-roman-campagna-1909": [
+   "wanderingsinroma00lancuoft",
+   "Wanderings in the Roman Campagna, by Rodolfo Lanciani (Boston and New York: Houghton Mifflin Company, 1909)"
+  ],
+  "lanciani-roman-forum-photographic-1910": [
+   "cu31924028274557",
+   "The Roman Forum: a photographic description of its monuments, by Rodolfo Lanciani (Rome: Frank and Co., 1910)"
+  ],
+  "lanciani-wanderings-ancient-roman-churches-1924": [
+   "wanderingsthroug0000lanc",
+   "Wanderings through Ancient Roman Churches, by Rodolfo Lanciani (Boston and New York: Houghton Mifflin, Riverside Press, 1924)"
+  ]
+ },
  "_checks": {
   "lanciani-pagan-christian-rome": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rodolfo lanciani",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "lanciani-ancient-rome-recent-discoveries-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lanciani-ruins-and-excavations-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lanciani-destruction-of-ancient-rome-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899. --",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lanciani-new-tales-of-old-rome-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lanciani-golden-days-renaissance-rome-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lanciani-wanderings-roman-campagna-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lanciani-roman-forum-photographic-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rodolfo lanciani",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lanciani-wanderings-ancient-roman-churches-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lanciani, rodolfo",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }
