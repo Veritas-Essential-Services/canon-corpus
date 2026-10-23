@@ -9806,6 +9806,33 @@ Slugs `heylyn-*`. Built from title pages read for round 40.
 | A Coale from the Altar (1636), printed as by 'a judicious and learned divine'; the attribution to Heylyn is the catalogue's, not the title page's | pending | not shelved |
 | Other printings of each work (1660-1674 Ecclesia Restaurata, 1668 and 1719 Cyprianus, 1672 Aerius, 1673 Theologia Veterum; the Google and Cambridge 1849 sets) | alternate | not shelved |
 | His geographies (Microcosmus 1621-1639, Cosmographie 1652-1703), A Help to English History, the Survey of France, the History of St George, Augustus, and his Civil War newsletters: secular works, outside lane A's theology scope; and sermons by John Heylyn (1685-1759), a different man | excluded | |
+
+## Simon Patrick (round 40, my pick, 2026-10-22)
+
+Slugs `patrick-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Works : including his autobiography, vol. 1 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks01patruoft` |
+| Works : including his autobiography, vol. 2 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks02patruoft` |
+| Works : including his autobiography, vol. 3 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks03patruoft` |
+| Works : including his autobiography, vol. 4 (Oxford: University Press, 1858) | have-ocr | IA `worksincludinghi04patruoft` |
+| Works : including his autobiography, vol. 5 (Oxford: University Press, 1858) | have-ocr | IA `worksincludinghi05patruoft` |
+| Works : including his autobiography, vol. 6 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks06patruoft` |
+| Works : including his autobiography, vol. 7 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks07patruoft` |
+| Works : including his autobiography, vol. 8 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks08patruoft` |
+| Works : including his autobiography, vol. 9 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks09patruoft` |
+| A paraphrase upon the books of Ecclesiastes, and the Song of Solomon, with arguments to each chapter, and annotations thereupon (London, Printed for Rich. Royston, 1685) | have-ocr | IA `aparaphraseupon00patruoft` |
+| A commentary upon the first book of Moses called Genesis (London, Ri. Chiswell, 1704) | have-ocr | IA `acommentaryupont00patruoft` |
+| A commentary upon the second book of Moses, called Exodus (London : Printed for Ri. Chiswell, 1704) | have-ocr | IA `uponse00patr` |
+| A commentary upon the third book of Moses, called Leviticus (London, Ri. Chiswell, 1704) | have-ocr | IA `mosesthirdbook00patruoft` |
+| A commentary upon the fourth Book of Moses, called Numbers (London : Printed for Ri Chiswell, 1699) | have-ocr | IA `cfo00patr` |
+| A commentary upon the fifth book of Moses, called Deuteronomy (London, Ri. Chiswell, 1704) | have-ocr | IA `commentaryuponfi03patruoft` |
+| A commentary upon the Books of Joshua, Judges and Ruth (London : Printed for Ri. Chiswell, 1702) | have-ocr | IA `comnbo00patr` |
+| A commentary upon the two books of Samuel (London : Printed for Ri. Chiswell, 1703) | have-ocr | IA `commentaryupontw00patriala` |
+| A commentary upon the two Books of Kings (London : Printed for Ri. Chiswell, 1705) | have-ocr | IA `towbooksking00patruoft` |
+| Other scans of the 1858 Works (Princeton, Illinois, Google) and of the commentaries (1695-1705 printings); the 1822 and 1845 Patrick-Lowth-Arnald-Whitby Critical Commentary, a joint work in which his part is the Old Testament historical books; separate 19th-century reprints of the Heart's Ease, Discourse concerning Prayer, Treatise of Repentance and Advice to a Friend, all contained in the Works | alternate | not shelved |
+| John Smith's Select Discourses (1660, 1859), which Patrick edited and preached the funeral sermon for; on john-smith-platonist | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

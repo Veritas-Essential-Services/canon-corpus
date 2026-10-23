@@ -5660,6 +5660,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T22:51:23-05:00",
       "notes": "Church histories and controversy; secular geography excluded; Coale from the Altar pending (anonymous)."
+    },
+    {
+      "id": "simon-patrick",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:51:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:51:24-05:00",
+      "notes": "1858 Works (9 vols), Ecclesiastes/Song paraphrase, OT commentaries Genesis-Kings; commentary title pages say only 'Symon, Lord Bishop of Ely'."
     }
   ]
 }
