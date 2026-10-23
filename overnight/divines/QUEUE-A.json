@@ -10351,6 +10351,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T08:58:45-05:00",
       "notes": "Provost of King's. Sermons, Bangorian letters, Forty-Five Sermons; four title pages read from images or OCR."
+    },
+    {
+      "id": "a-john-guyse",
+      "status": "done",
+      "scope": "round 123",
+      "added": "2026-10-23T08:58:46-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T08:58:46-05:00",
+      "notes": "London Independent. Nineteen items; ten title pages read from images or OCR. Catechism remarks pending; one scan was another man's sermon."
     }
   ]
 }
