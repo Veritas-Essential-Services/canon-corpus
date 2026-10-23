@@ -40518,3 +40518,21 @@ Shelf: `pipeline/alice-duer-miller_shelf.json` (2026-10-22; added at the coordin
 | Are Parents People? | have | PG 64917, `admiller-are-parents-people` (2036 units) |
 | Things | have | PG 66862, `admiller-things` (146 units) |
 | Less than kin | have | PG 71674, `admiller-less-than-kin` (1176 units) |
+
+## Archibald Marshall
+
+Shelf: `pipeline/archibald-marshall_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Squire's Daughter: Being the First Book in the Chronicles of the Clintons | have | PG 31381, `amarshall-squires-daughter` (1628 units) |
+| Abington Abbey: A Novel | have | PG 35106, `amarshall-abington-abbey` (1535 units) |
+| The Eldest Son | have | PG 38646, `amarshall-eldest-son` (2256 units) |
+| The Honour of the Clintons | have | PG 38647, `amarshall-honour-of-the-clintons` (1917 units) |
+| Peter Binney: A Novel | have | PG 38694, `amarshall-peter-binney` (1185 units) |
+| The Graftons: A Novel | have | PG 39587, `amarshall-graftons` (1539 units) |
+| The Hall and the Grange: A Novel | have | PG 39595, `amarshall-hall-and-the-grange` (1547 units) |
+| Upsidonia | have | PG 39905, `amarshall-upsidonia` (1263 units) |
+| A Spring Walk in Provence | have | PG 46035, `amarshall-spring-walk-in-provence` (1291 units) |
+| Sir Harry: A Love Story | have | PG 54673, `amarshall-sir-harry` (1462 units) |
+| Peggy in Toyland | have | PG 68749, `amarshall-peggy-in-toyland` (1015 units) |
