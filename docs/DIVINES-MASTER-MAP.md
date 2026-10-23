@@ -13076,6 +13076,16 @@ Slugs `hsbrown-*`. Built from title pages read for round 66.
 | Lectures to working men (Philip, 1870) | have-ocr | IA `lecturestoworki00browgoog` |
 | Manliness and other Sermons (catalogued 1889) | have-ocr | IA `manlinessotherse0000hugh` |
 | His uncle Hugh Stowell's works (hugh-stowell shelf); memoirs of him by others | excluded | |
+
+## Capel Molyneux (round 66, my pick, 2026-10-23)
+
+Slugs `molyneux-*`. Built from title pages read for round 66.
+
+| Work | Status | Where |
+|---|---|---|
+| Baptismal regeneration compared with the word of God and the standards of the Church of England (catalogued 1842) | have-ocr | IA `baptismalregene00molygoog` |
+| Gethsemane, lectures (catalogued 1854) | have-ocr | IA `gethsemanelectu00molygoog` |
+| Other Molyneuxes (William Molyneux of Dublin and others) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
