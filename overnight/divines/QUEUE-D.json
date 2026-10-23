@@ -6149,6 +6149,14 @@
       "started": "2026-10-22T23:20:05-05:00",
       "finished": "2026-10-22T23:20:05-05:00",
       "notes": "metta-victoria-fuller-victor: new shelf, 5 Gutenberg books, 4,518 units, 51 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "s-s-van-dine",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — S. S. Van Dine; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:22-05:00",
+      "finished": "2026-10-22T23:20:22-05:00",
+      "notes": "s-s-van-dine: new shelf, 5 Gutenberg books, 13,459 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

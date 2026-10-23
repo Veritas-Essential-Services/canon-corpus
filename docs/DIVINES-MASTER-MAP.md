@@ -44121,3 +44121,15 @@ Shelf: `pipeline/metta-victoria-fuller-victor_shelf.json` (2026-10-22; added at 
 | Alice Wilde: The Raftsman's Daughter. A Forest Romance | have | PG 46586, `mvfvictor-alice-wilde` (884 units) |
 | The Dead Letter: An American Romance | have | PG 46708, `mvfvictor-dead-letter` (1381 units) |
 | Nat Wolfe; or, The gold hunters: A romance of Pike's Peak and New York | have | PG 68363, `mvfvictor-nat-wolfe` (729 units) |
+
+## S. S. Van Dine
+
+Shelf: `pipeline/s-s-van-dine_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Benson murder case | have | PG 70634, `ssvandine-benson-murder-case` (2645 units) |
+| The "Canary" murder case | have | PG 70788, `ssvandine-canary-murder-case` (2416 units) |
+| The Greene murder case | have | PG 72719, `ssvandine-greene-murder-case` (2878 units) |
+| The Bishop murder case | have | PG 75157, `ssvandine-bishop-murder-case` (2653 units) |
+| The scarab murder case | have | PG 78655, `ssvandine-scarab-murder-case` (2867 units) |
