@@ -1,0 +1,151 @@
+{
+ "_about": "Edna Lyall: Novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edna Lyall",
+ "_name_words": [
+  "edna",
+  "lyall"
+ ],
+ "_surname": [
+  "edna lyall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "elyall-autobiography-of-a-slander": [
+   1273,
+   "The Autobiography of a Slander"
+  ],
+  "elyall-derrick-vaughan-novelist": [
+   1665,
+   "Derrick Vaughan, Novelist"
+  ],
+  "elyall-we-two": [
+   2007,
+   "We Two: A Novel"
+  ],
+  "elyall-wayfaring-men": [
+   54100,
+   "Wayfaring Men: A Novel"
+  ],
+  "elyall-in-spite-of-all": [
+   55324,
+   "In Spite of All: A Novel"
+  ],
+  "elyall-hardy-norseman": [
+   55825,
+   "A Hardy Norseman"
+  ],
+  "elyall-donovan-volume-1-of-3": [
+   78456,
+   "Donovan, Volume 1 (of 3)"
+  ],
+  "elyall-donovan-volume-2-of-3": [
+   78457,
+   "Donovan, Volume 2 (of 3)"
+  ],
+  "elyall-donovan-volume-3-of-3": [
+   78458,
+   "Donovan, Volume 3 (of 3)"
+  ],
+  "elyall-knight-errant": [
+   78660,
+   "Knight-errant"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 36641: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "elyall-autobiography-of-a-slander": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-derrick-vaughan-novelist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-we-two": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-wayfaring-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-in-spite-of-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-hardy-norseman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-donovan-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-donovan-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-donovan-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elyall-knight-errant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna lyall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

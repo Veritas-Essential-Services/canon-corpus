@@ -1,0 +1,175 @@
+{
+ "_about": "May Agnes Fleming's popular romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "May Agnes Fleming",
+ "_name_words": [
+  "agnes",
+  "fleming"
+ ],
+ "_surname": [
+  "agnes fleming"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mafleming-midnight-queen": [
+   2950,
+   "The Midnight Queen"
+  ],
+  "mafleming-terrible-secret": [
+   7063,
+   "A Terrible Secret: A Novel"
+  ],
+  "mafleming-baronets-bride": [
+   15317,
+   "The Baronet's Bride; Or, A Woman's Vengeance"
+  ],
+  "mafleming-unseen-bridegroom": [
+   15875,
+   "The Unseen Bridegroom; Or, Wedded For a Week"
+  ],
+  "mafleming-kate-danton-or-captain-dantons-daughters": [
+   19512,
+   "Kate Danton, or, Captain Danton's Daughters: A Novel"
+  ],
+  "mafleming-norines-revenge-and-sir-noels-heir": [
+   33664,
+   "Norine's Revenge, and, Sir Noel's Heir"
+  ],
+  "mafleming-actress-daughter": [
+   35035,
+   "The Actress' Daughter: A Novel"
+  ],
+  "mafleming-sharing-her-crime": [
+   35462,
+   "Sharing Her Crime: A Novel"
+  ],
+  "mafleming-sir-noels-heir": [
+   35931,
+   "Sir Noel's Heir: A Novel"
+  ],
+  "mafleming-changed-heart": [
+   41672,
+   "A Changed Heart: A Novel"
+  ],
+  "mafleming-gypsy-queens-vow": [
+   43489,
+   "The Gypsy Queen's Vow"
+  ],
+  "mafleming-queen-of-the-isle": [
+   72860,
+   "The queen of the isle"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mafleming-midnight-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-terrible-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-baronets-bride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-unseen-bridegroom": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-kate-danton-or-captain-dantons-daughters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-norines-revenge-and-sir-noels-heir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-actress-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-sharing-her-crime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-sir-noels-heir": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-changed-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-gypsy-queens-vow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mafleming-queen-of-the-isle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "agnes fleming",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

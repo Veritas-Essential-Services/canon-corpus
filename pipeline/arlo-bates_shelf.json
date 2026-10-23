@@ -1,0 +1,201 @@
+{
+ "_about": "Arlo Bates's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arlo Bates",
+ "_name_words": [
+  "arlo",
+  "bates"
+ ],
+ "_surname": [
+  "arlo bates"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abates-puritans": [
+   8522,
+   "The Puritans"
+  ],
+  "abates-philistines": [
+   8570,
+   "The Philistines"
+  ],
+  "abates-pagans": [
+   8671,
+   "The Pagans"
+  ],
+  "abates-prince-vance": [
+   29005,
+   "Prince Vance: The Story of a Prince with a Court in His Box"
+  ],
+  "abates-intoxicated-ghost-and-other-stories": [
+   40312,
+   "The Intoxicated Ghost, and other stories"
+  ],
+  "abates-mr-jacobs": [
+   41125,
+   "Mr. Jacobs: A Tale of the Drummer, the Reporter, and the Prestidigitateur"
+  ],
+  "abates-book-o-nine-tales": [
+   41189,
+   "A Book o' Nine Tales."
+  ],
+  "abates-albrecht": [
+   41764,
+   "Albrecht"
+  ],
+  "abates-diary-of-a-saint": [
+   41801,
+   "The Diary of a Saint"
+  ],
+  "abates-talks-on-the-study-of-literature": [
+   42773,
+   "Talks on the study of literature."
+  ],
+  "abates-love-in-a-cloud": [
+   42831,
+   "Love in a Cloud: A Comedy in Filigree"
+  ],
+  "abates-talks-on-writing-english-first-series": [
+   47494,
+   "Talks on Writing English. First Series"
+  ],
+  "abates-pattys-perversities": [
+   48396,
+   "Patty's Perversities"
+  ],
+  "abates-talks-on-teaching-literature": [
+   50082,
+   "Talks on Teaching Literature"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "abates-puritans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-philistines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-pagans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-prince-vance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-intoxicated-ghost-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-mr-jacobs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-book-o-nine-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-albrecht": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-diary-of-a-saint": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-talks-on-the-study-of-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-love-in-a-cloud": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-talks-on-writing-english-first-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-pattys-perversities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abates-talks-on-teaching-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arlo bates",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

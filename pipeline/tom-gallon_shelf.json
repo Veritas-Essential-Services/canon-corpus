@@ -1,0 +1,98 @@
+{
+ "_about": "Tom Gallon: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Tom Gallon",
+ "_name_words": [
+  "gallon",
+  "tom"
+ ],
+ "_surname": [
+  "tom gallon",
+  "gallon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tgallon-dead-mans-love": [
+   41137,
+   "Dead Man's Love"
+  ],
+  "tgallon-jimmy-quixote": [
+   41754,
+   "Jimmy Quixote: A Novel"
+  ],
+  "tgallon-cruise-of-the-make-believes": [
+   46403,
+   "The Cruise of the Make-Believes"
+  ],
+  "tgallon-idol-of-the-blind": [
+   47211,
+   "The Idol of the Blind: A Novel"
+  ],
+  "tgallon-second-dandy-chater": [
+   47271,
+   "The Second Dandy Chater"
+  ],
+  "tgallon-tinman": [
+   48989,
+   "Tinman"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "tgallon-dead-mans-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tom gallon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tgallon-jimmy-quixote": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tom gallon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tgallon-cruise-of-the-make-believes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tom gallon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tgallon-idol-of-the-blind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tom gallon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tgallon-second-dandy-chater": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tom gallon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tgallon-tinman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tom gallon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

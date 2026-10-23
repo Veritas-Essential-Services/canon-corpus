@@ -1,0 +1,122 @@
+{
+ "_about": "Henry Herbert Knibbs's writing at Gutenberg: western novels and verse. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Henry Herbert Knibbs",
+ "_name_words": [
+  "knibbs"
+ ],
+ "_surname": [
+  "knibbs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hhknibbs-jim-waring-of-sonora-town": [
+   12189,
+   "Jim Waring of Sonora-Town; Or, Tang of Life"
+  ],
+  "hhknibbs-partners-of-chance": [
+   14085,
+   "Partners of Chance"
+  ],
+  "hhknibbs-sundown-slim": [
+   16334,
+   "Sundown Slim"
+  ],
+  "hhknibbs-ridin-kid-from-powder-river": [
+   16530,
+   "The Ridin' Kid from Powder River"
+  ],
+  "hhknibbs-overland-red": [
+   19763,
+   "Overland Red: A Romance of the Moonstone Cañon Trail"
+  ],
+  "hhknibbs-lost-farm-camp": [
+   35034,
+   "Lost Farm Camp"
+  ],
+  "hhknibbs-maurice-and-the-bay-mare": [
+   71377,
+   "Maurice and the bay mare"
+  ],
+  "hhknibbs-five-miles-to-perdition": [
+   79385,
+   "Five miles to Perdition"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hhknibbs-jim-waring-of-sonora-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhknibbs-partners-of-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhknibbs-sundown-slim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhknibbs-ridin-kid-from-powder-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhknibbs-overland-red": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhknibbs-lost-farm-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhknibbs-maurice-and-the-bay-mare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhknibbs-five-miles-to-perdition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "_about": "Ralph Connor's (Charles W. Gordon's) Canadian frontier novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ralph Connor",
+ "_name_words": [
+  "connor",
+  "ralph"
+ ],
+ "_surname": [
+  "ralph connor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rconnor-corporal-cameron-of-the-north-west-mounted-police": [
+   3241,
+   "Corporal Cameron of the North West Mounted Police: A Tale of the Macleod Trail"
+  ],
+  "rconnor-doctor": [
+   3242,
+   "The Doctor : A Tale of the Rockies"
+  ],
+  "rconnor-glengarry-school-days": [
+   3243,
+   "Glengarry School Days: A Story of Early Days in Glengarry"
+  ],
+  "rconnor-to-him-that-hath": [
+   3244,
+   "To Him That Hath: A Tale of the West of Today"
+  ],
+  "rconnor-black-rock": [
+   3245,
+   "Black Rock: A Tale of the Selkirks"
+  ],
+  "rconnor-patrol-of-the-sun-dance-trail": [
+   3247,
+   "The Patrol of the Sun Dance Trail"
+  ],
+  "rconnor-sky-pilot": [
+   3248,
+   "The Sky Pilot: A Tale of the Foothills"
+  ],
+  "rconnor-major": [
+   3249,
+   "The Major"
+  ],
+  "rconnor-man-from-glengarry": [
+   3287,
+   "The Man from Glengarry: A Tale of the Ottawa"
+  ],
+  "rconnor-sky-pilot-in-no-mans-land": [
+   3288,
+   "The Sky Pilot in No Man's Land"
+  ],
+  "rconnor-foreigner": [
+   3466,
+   "The Foreigner: A Tale of Saskatchewan"
+  ],
+  "rconnor-prospector": [
+   3658,
+   "The Prospector: A Tale of the Crow's Nest Pass"
+  ],
+  "rconnor-michael-mcgrath-postmaster": [
+   19257,
+   "Michael McGrath, Postmaster"
+  ],
+  "rconnor-beyond-the-marshes": [
+   24724,
+   "Beyond the Marshes"
+  ],
+  "rconnor-gaspards-of-pine-croft": [
+   59499,
+   "The Gaspards of Pine Croft: A Romance of the Windermere"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59408": "PG 59408: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "rconnor-corporal-cameron-of-the-north-west-mounted-police": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-doctor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-glengarry-school-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-to-him-that-hath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-black-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-patrol-of-the-sun-dance-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-sky-pilot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-major": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-man-from-glengarry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-sky-pilot-in-no-mans-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-foreigner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-prospector": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-michael-mcgrath-postmaster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-beyond-the-marshes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rconnor-gaspards-of-pine-croft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph connor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

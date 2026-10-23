@@ -1,0 +1,313 @@
+{
+ "_about": "Mary Shelley: Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary Shelley",
+ "_name_words": [
+  "author",
+  "frankenstein",
+  "mary",
+  "shelley",
+  "wollstonecraft"
+ ],
+ "_surname": [
+  "mary shelley",
+  "mary wollstonecraft shelley",
+  "author of frankenstein"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mwshelley-notes-to-the-complete-poetical-works-of-percy-byss": [
+   4695,
+   "Notes to the Complete Poetical Works of Percy Bysshe Shelley"
+  ],
+  "mwshelley-proserpine-and-midas": [
+   6447,
+   "Proserpine and Midas"
+  ],
+  "mwshelley-mathilda": [
+   15238,
+   "Mathilda"
+  ],
+  "mwshelley-last-man": [
+   18247,
+   "The Last Man"
+  ],
+  "mwshelley-history-of-a-six-weeks-tour-through-a-part-of-fran": [
+   52790,
+   "History of a Six Weeks' Tour Through a Part of France, Switzerland, Germany, and Holland: With Letters Descriptive of a Sail Round the Lake of Geneva, and of the Glaciers of Chamouni."
+  ],
+  "mwshelley-tales-and-stories-now-first-collected": [
+   56665,
+   "Tales and Stories Now First Collected"
+  ],
+  "mwshelley-valperga-volume-1-of-3-or-the-life-and-adventures": [
+   63337,
+   "Valperga Volume 1 (of 3) or, The life and adventures of Castruccio, prince of Lucca"
+  ],
+  "mwshelley-valperga-volume-2-of-3-or-the-life-and-adventures": [
+   63338,
+   "Valperga Volume 2 (of 3) or, The life and adventures of Castruccio, prince of Lucca"
+  ],
+  "mwshelley-valperga-volume-3-of-3-or-the-life-and-adventures": [
+   63339,
+   "Valperga Volume 3 (of 3) or, The life and adventures of Castruccio, prince of Lucca"
+  ],
+  "mwshelley-falkner": [
+   64329,
+   "Falkner: A Novel"
+  ],
+  "mwshelley-lodore-vol-1-of-3": [
+   64555,
+   "Lodore, Vol. 1 (of 3)"
+  ],
+  "mwshelley-lodore-vol-2-of-3": [
+   64556,
+   "Lodore, Vol. 2 (of 3)"
+  ],
+  "mwshelley-lodore-vol-3-of-3": [
+   64557,
+   "Lodore, Vol. 3 (of 3)"
+  ],
+  "mwshelley-eminent-literary-and-scientific-men-of-italy-spain": [
+   65030,
+   "Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 1 (of 3)"
+  ],
+  "mwshelley-eminent-literary-and-scientific-men-of-italy-spain-65110": [
+   65110,
+   "Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 2 (of 3)"
+  ],
+  "mwshelley-eminent-literary-and-scientific-men-of-italy-spain-65228": [
+   65228,
+   "Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 3 (of 3)"
+  ],
+  "mwshelley-lives-of-the-most-eminent-literary-and-scientific": [
+   65317,
+   "Lives of the most eminent literary and scientific men of France, Vol. 1 (of 2)"
+  ],
+  "mwshelley-lives-of-the-most-eminent-literary-and-scientific-65361": [
+   65361,
+   "Lives of the most eminent literary and scientific men of France, Vol. 2 (of 2)"
+  ],
+  "mwshelley-heir-of-mondolfo": [
+   66545,
+   "The Heir of Mondolfo"
+  ],
+  "mwshelley-fortunes-of-perkin-warbeck": [
+   66749,
+   "The Fortunes of Perkin Warbeck: a romance"
+  ],
+  "mwshelley-rambles-in-germany-and-italy-in-1840-1842-and-1843": [
+   74280,
+   "Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 1 of 2"
+  ],
+  "mwshelley-rambles-in-germany-and-italy-in-1840-1842-and-1843-74301": [
+   74301,
+   "Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 2 of 2"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "same-title-elsewhere": "PG 41445 (mshelley), 42324 (mshelley): another edition of a title already on the named shelf; not taken twice.",
+  "held-elsewhere": "PG 84: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "mwshelley-notes-to-the-complete-poetical-works-of-percy-byss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-proserpine-and-midas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-mathilda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-last-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-history-of-a-six-weeks-tour-through-a-part-of-fran": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-tales-and-stories-now-first-collected": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-valperga-volume-1-of-3-or-the-life-and-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-valperga-volume-2-of-3-or-the-life-and-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-valperga-volume-3-of-3-or-the-life-and-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-falkner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-lodore-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-lodore-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-lodore-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-eminent-literary-and-scientific-men-of-italy-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-eminent-literary-and-scientific-men-of-italy-spain-65110": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-eminent-literary-and-scientific-men-of-italy-spain-65228": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-lives-of-the-most-eminent-literary-and-scientific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-lives-of-the-most-eminent-literary-and-scientific-65361": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-heir-of-mondolfo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-fortunes-of-perkin-warbeck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-rambles-in-germany-and-italy-in-1840-1842-and-1843": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwshelley-rambles-in-germany-and-italy-in-1840-1842-and-1843-74301": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft shelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

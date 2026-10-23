@@ -1,0 +1,216 @@
+{
+ "_about": "Louis Joseph Vance's Lone Wolf and other mystery novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Louis Joseph Vance",
+ "_name_words": [
+  "joseph",
+  "louis",
+  "vance"
+ ],
+ "_surname": [
+  "louis joseph vance",
+  "louis j. vance"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ljvance-brass-bowl": [
+   8741,
+   "The Brass Bowl"
+  ],
+  "ljvance-lone-wolf": [
+   9378,
+   "The Lone Wolf: A Melodrama"
+  ],
+  "ljvance-fortune-hunter": [
+   9747,
+   "The Fortune Hunter"
+  ],
+  "ljvance-black-bag": [
+   9779,
+   "The Black Bag"
+  ],
+  "ljvance-false-faces": [
+   9908,
+   "The False Faces: Further Adventures from the History of the Lone Wolf"
+  ],
+  "ljvance-bronze-bell": [
+   9927,
+   "The Bronze Bell"
+  ],
+  "ljvance-alias-the-lone-wolf": [
+   10327,
+   "Alias the Lone Wolf"
+  ],
+  "ljvance-red-masquerade": [
+   10496,
+   "Red Masquerade: Being the Story of the Lone Wolf's Daughter"
+  ],
+  "ljvance-day-of-days": [
+   15873,
+   "The Day of Days: An Extravaganza"
+  ],
+  "ljvance-nobody": [
+   29671,
+   "Nobody"
+  ],
+  "ljvance-bandbox": [
+   31021,
+   "The Bandbox"
+  ],
+  "ljvance-destroying-angel": [
+   32302,
+   "The Destroying Angel"
+  ],
+  "ljvance-linda-lee-incorporated": [
+   36445,
+   "Linda Lee, Incorporated: A Novel"
+  ],
+  "ljvance-joan-thursday": [
+   36502,
+   "Joan Thursday: A Novel"
+  ],
+  "ljvance-lone-wolf-returns": [
+   59177,
+   "The Lone Wolf Returns"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ljvance-brass-bowl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-lone-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-fortune-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-black-bag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-false-faces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-bronze-bell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-alias-the-lone-wolf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-red-masquerade": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-day-of-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-nobody": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-bandbox": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-destroying-angel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-linda-lee-incorporated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-joan-thursday": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljvance-lone-wolf-returns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis joseph vance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

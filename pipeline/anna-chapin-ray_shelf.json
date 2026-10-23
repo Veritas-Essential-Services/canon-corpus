@@ -1,0 +1,151 @@
+{
+ "_about": "Anna Chapin Ray's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Anna Chapin Ray",
+ "_name_words": [
+  "anna",
+  "chapin",
+  "ray"
+ ],
+ "_surname": [
+  "anna chapin ray",
+  "chapin ray"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "acray-on-the-firing-line": [
+   3605,
+   "On the Firing Line"
+  ],
+  "acray-half-a-dozen-girls": [
+   6360,
+   "Half a Dozen Girls"
+  ],
+  "acray-phebe-her-profession-a-sequel-to-teddy": [
+   12584,
+   "Phebe, Her Profession A Sequel to Teddy: Her Book"
+  ],
+  "acray-brentons": [
+   21763,
+   "The Brentons"
+  ],
+  "acray-in-blue-creek-ca-on": [
+   24014,
+   "In Blue Creek Cañon"
+  ],
+  "acray-teddy": [
+   24361,
+   "Teddy: Her Book A Story of Sweet Sixteen"
+  ],
+  "acray-dominant-strain": [
+   29760,
+   "The Dominant Strain"
+  ],
+  "acray-cadets-of-flemming-hall": [
+   59005,
+   "The Cadets of Flemming Hall"
+  ],
+  "acray-by-the-good-sainte-anne": [
+   60175,
+   "By the Good Sainte Anne: A Story of Modern Quebec"
+  ],
+  "acray-half-a-dozen-boys": [
+   72769,
+   "Half a dozen boys"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "acray-on-the-firing-line": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-half-a-dozen-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-phebe-her-profession-a-sequel-to-teddy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-brentons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-in-blue-creek-ca-on": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-teddy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-dominant-strain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-cadets-of-flemming-hall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-by-the-good-sainte-anne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acray-half-a-dozen-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna chapin ray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

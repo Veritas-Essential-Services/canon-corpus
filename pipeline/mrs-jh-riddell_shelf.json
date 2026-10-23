@@ -1,0 +1,252 @@
+{
+ "_about": "Mrs. J. H. Riddell's ghost stories and novels of City life. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mrs. J. H. Riddell",
+ "_name_words": [
+  "riddell"
+ ],
+ "_surname": [
+  "riddell"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jhriddell-uninhabited-house": [
+   8602,
+   "The Uninhabited House"
+  ],
+  "jhriddell-mortomleys-estate": [
+   39552,
+   "Mortomley's Estate: A Novel. Vol. 2 (of 3)"
+  ],
+  "jhriddell-mortomleys-estate-39611": [
+   39611,
+   "Mortomley's Estate: A Novel. Vol. 1 (of 3)"
+  ],
+  "jhriddell-mortomleys-estate-39661": [
+   39661,
+   "Mortomley's Estate: A Novel. Vol. 3 (of 3)"
+  ],
+  "jhriddell-earls-promise": [
+   70755,
+   "The Earl's promise"
+  ],
+  "jhriddell-earls-promise-a-volume-of-a-set-gutenberg-lists-un": [
+   70756,
+   "The Earl's promise (a volume of a set Gutenberg lists under one title)"
+  ],
+  "jhriddell-earls-promise-a-volume-of-a-set-gutenberg-lists-un-70757": [
+   70757,
+   "The Earl's promise (a volume of a set Gutenberg lists under one title)"
+  ],
+  "jhriddell-far-above-rubies-vol-1-of-3": [
+   71112,
+   "Far above rubies (Vol. 1 of 3)"
+  ],
+  "jhriddell-far-above-rubies-vol-2-of-3": [
+   71113,
+   "Far above rubies (Vol. 2 of 3)"
+  ],
+  "jhriddell-far-above-rubies-vol-3-of-3": [
+   71114,
+   "Far above rubies (Vol. 3 of 3)"
+  ],
+  "jhriddell-phemie-keller": [
+   71357,
+   "Phemie Keller"
+  ],
+  "jhriddell-phemie-keller-a-volume-of-a-set-gutenberg-lists-un": [
+   71358,
+   "Phemie Keller (a volume of a set Gutenberg lists under one title)"
+  ],
+  "jhriddell-phemie-keller-a-volume-of-a-set-gutenberg-lists-un-71359": [
+   71359,
+   "Phemie Keller (a volume of a set Gutenberg lists under one title)"
+  ],
+  "jhriddell-moors-and-the-fens-volume-1-of-3": [
+   77931,
+   "The moors and the fens, volume 1 (of 3)"
+  ],
+  "jhriddell-moors-and-the-fens-volume-2-of-3": [
+   78846,
+   "The moors and the fens, volume 2 (of 3)"
+  ],
+  "jhriddell-maxwell-drewitt-vol-1-of-2": [
+   78945,
+   "Maxwell Drewitt, vol. 1 of 2"
+  ],
+  "jhriddell-maxwell-drewitt-vol-2-of-2": [
+   79387,
+   "Maxwell Drewitt, vol. 2 of 2"
+  ],
+  "jhriddell-moors-and-the-fens-volume-3-of-3": [
+   79751,
+   "The moors and the fens, volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jhriddell-uninhabited-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-mortomleys-estate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-mortomleys-estate-39611": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-mortomleys-estate-39661": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-earls-promise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-earls-promise-a-volume-of-a-set-gutenberg-lists-un": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-earls-promise-a-volume-of-a-set-gutenberg-lists-un-70757": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-far-above-rubies-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-far-above-rubies-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-far-above-rubies-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-phemie-keller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-phemie-keller-a-volume-of-a-set-gutenberg-lists-un": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-phemie-keller-a-volume-of-a-set-gutenberg-lists-un-71359": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-moors-and-the-fens-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-moors-and-the-fens-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-maxwell-drewitt-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-maxwell-drewitt-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhriddell-moors-and-the-fens-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "riddell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

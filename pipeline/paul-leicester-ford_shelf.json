@@ -1,0 +1,112 @@
+{
+ "_about": "Paul Leicester Ford: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Paul Leicester Ford",
+ "_name_words": [
+  "ford",
+  "leicester",
+  "paul"
+ ],
+ "_surname": [
+  "paul leicester ford",
+  "leicester ford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "plford-janice-meredith": [
+   5719,
+   "Janice Meredith: A Story of the American Revolution"
+  ],
+  "plford-true-george-washington-10th-ed": [
+   12300,
+   "The True George Washington [10th Ed.]"
+  ],
+  "plford-wanted-a-match-maker": [
+   14211,
+   "Wanted—A Match Maker"
+  ],
+  "plford-honorable-peter-stirling-and-what-people-thought-of-h": [
+   14532,
+   "The Honorable Peter Stirling and What People Thought of Him"
+  ],
+  "plford-great-k-a-robbery": [
+   25333,
+   "The Great K. & A. Robbery"
+  ],
+  "plford-story-of-an-untold-love": [
+   36439,
+   "The Story of an Untold Love"
+  ],
+  "plford-tattle-tales-of-cupid": [
+   71597,
+   "Tattle-tales of Cupid"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "plford-janice-meredith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul leicester ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plford-true-george-washington-10th-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul leicester ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plford-wanted-a-match-maker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul leicester ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plford-honorable-peter-stirling-and-what-people-thought-of-h": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul leicester ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plford-great-k-a-robbery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul leicester ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plford-story-of-an-untold-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul leicester ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "plford-tattle-tales-of-cupid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul leicester ford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

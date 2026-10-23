@@ -1,0 +1,86 @@
+{
+ "_about": "Arthur J. Rees: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Arthur J. Rees",
+ "_name_words": [
+  "arthur",
+  "john",
+  "rees"
+ ],
+ "_surname": [
+  "arthur j. rees",
+  "arthur john rees"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ajrees-hampstead-mystery": [
+   10082,
+   "The Hampstead Mystery"
+  ],
+  "ajrees-moon-rock": [
+   12509,
+   "The Moon Rock"
+  ],
+  "ajrees-shrieking-pit": [
+   20494,
+   "The Shrieking Pit"
+  ],
+  "ajrees-hand-in-the-dark": [
+   20546,
+   "The Hand in the Dark"
+  ],
+  "ajrees-mystery-of-the-downs": [
+   45658,
+   "The Mystery of the Downs"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ajrees-hampstead-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. rees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajrees-moon-rock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. rees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajrees-shrieking-pit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. rees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajrees-hand-in-the-dark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. rees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajrees-mystery-of-the-downs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. rees",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

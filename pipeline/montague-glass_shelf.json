@@ -1,0 +1,110 @@
+{
+ "_about": "Montague Glass: Potash and Perlmutter stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Montague Glass",
+ "_name_words": [
+  "glass",
+  "montague"
+ ],
+ "_surname": [
+  "montague glass"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mglass-potash-perlmutter": [
+   18164,
+   "Potash & Perlmutter: Their Copartnership Ventures and Adventures"
+  ],
+  "mglass-abe-and-mawruss": [
+   18714,
+   "Abe and Mawruss: Being Further Adventures of Potash and Perlmutter"
+  ],
+  "mglass-potash-and-perlmutter-settle-things": [
+   19948,
+   "Potash and Perlmutter Settle Things"
+  ],
+  "mglass-elkan-lubliner-american": [
+   27423,
+   "Elkan Lubliner, American"
+  ],
+  "mglass-competitive-nephew": [
+   32960,
+   "The Competitive Nephew"
+  ],
+  "mglass-worrying-wont-win": [
+   33335,
+   "Worrying Won't Win"
+  ],
+  "mglass-object": [
+   37360,
+   "Object: matrimony"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mglass-potash-perlmutter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague glass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mglass-abe-and-mawruss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague glass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mglass-potash-and-perlmutter-settle-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague glass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mglass-elkan-lubliner-american": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague glass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mglass-competitive-nephew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague glass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mglass-worrying-wont-win": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague glass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mglass-object": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "montague glass",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

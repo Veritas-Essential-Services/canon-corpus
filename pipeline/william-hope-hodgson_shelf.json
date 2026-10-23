@@ -1,0 +1,86 @@
+{
+ "_about": "William Hope Hodgson: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Hope Hodgson",
+ "_name_words": [
+  "hodgson",
+  "hope",
+  "william"
+ ],
+ "_surname": [
+  "william hope hodgson",
+  "hodgson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "whhodgson-house-on-the-borderland": [
+   10002,
+   "The House on the Borderland"
+  ],
+  "whhodgson-boats-of-the-glen-carrig-being-an-account-of-their": [
+   10542,
+   "The Boats of the \"Glen Carrig\" Being an account of their Adventures in the Strange places of the Earth, after the foundering of the good ship Glen Carrig through striking upon a hidden rock in the unknown seas to the Southward; as told by John Winterstraw, Gent., to his son James Winterstraw, in the year 1757, and by him committed very properly and legibly to manuscript"
+  ],
+  "whhodgson-night-land": [
+   10662,
+   "The Night Land"
+  ],
+  "whhodgson-carnacki-the-ghost-finder": [
+   10832,
+   "Carnacki, the Ghost Finder"
+  ],
+  "whhodgson-ghost-pirates": [
+   10966,
+   "The Ghost Pirates"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "whhodgson-house-on-the-borderland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hope hodgson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhodgson-boats-of-the-glen-carrig-being-an-account-of-their": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hope hodgson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhodgson-night-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hope hodgson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhodgson-carnacki-the-ghost-finder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hope hodgson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whhodgson-ghost-pirates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hope hodgson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

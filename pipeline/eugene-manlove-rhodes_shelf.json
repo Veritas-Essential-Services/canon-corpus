@@ -1,0 +1,99 @@
+{
+ "_about": "Eugene Manlove Rhodes: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Eugene Manlove Rhodes",
+ "_name_words": [
+  "eugene",
+  "manlove",
+  "rhodes"
+ ],
+ "_surname": [
+  "eugene manlove rhodes",
+  "rhodes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "emrhodes-desire-of-the-moth": [
+   11960,
+   "The desire of the moth ;"
+  ],
+  "emrhodes-copper-streak-trail": [
+   14545,
+   "Copper Streak Trail"
+  ],
+  "emrhodes-stepsons-of-light": [
+   32704,
+   "Stepsons of Light"
+  ],
+  "emrhodes-bransford-of-rainbow-range-originally-published-und": [
+   33498,
+   "Bransford of Rainbow Range Originally Published under the title of Bransford in Arcadia, or, The Little Eohippus"
+  ],
+  "emrhodes-good-men-and-true-and-hit-the-line-hard": [
+   73330,
+   "Good men and true, and Hit the line hard"
+  ],
+  "emrhodes-bransford-in-arcadia": [
+   78657,
+   "Bransford in Arcadia"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "emrhodes-desire-of-the-moth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene manlove rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emrhodes-copper-streak-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene manlove rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emrhodes-stepsons-of-light": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene manlove rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emrhodes-bransford-of-rainbow-range-originally-published-und": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene manlove rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emrhodes-good-men-and-true-and-hit-the-line-hard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene manlove rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emrhodes-bransford-in-arcadia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene manlove rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

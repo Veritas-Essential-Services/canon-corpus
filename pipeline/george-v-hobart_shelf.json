@@ -1,0 +1,113 @@
+{
+ "_about": "George V. Hobart: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George V. Hobart",
+ "_name_words": [
+  "george",
+  "hobart",
+  "vere"
+ ],
+ "_surname": [
+  "george v. hobart",
+  "george vere hobart",
+  "hobart"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gvhobart-you-can-search-me": [
+   12607,
+   "You Can Search Me"
+  ],
+  "gvhobart-get-next": [
+   12608,
+   "Get Next!"
+  ],
+  "gvhobart-back-to-the-woods": [
+   12609,
+   "Back to the Woods: The Story of a Fall from Grace"
+  ],
+  "gvhobart-silly-syclopedia-a-terrible-thing-in-the-form-of-a": [
+   15705,
+   "The Silly Syclopedia A Terrible Thing in the Form of a Literary Torpedo which is Launched for Hilarious Purposes Only Inaccurate in Every Particular Containing Copious Etymological Derivations and Other Useless Things"
+  ],
+  "gvhobart-skiddoo": [
+   19668,
+   "Skiddoo!"
+  ],
+  "gvhobart-you-should-worry-says-john-henry": [
+   20584,
+   "You Should Worry Says John Henry"
+  ],
+  "gvhobart-down-the-line-with-john-henry": [
+   68504,
+   "Down the line with John Henry"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gvhobart-you-can-search-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george v. hobart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvhobart-get-next": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george v. hobart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvhobart-back-to-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george v. hobart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvhobart-silly-syclopedia-a-terrible-thing-in-the-form-of-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george v. hobart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvhobart-skiddoo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george v. hobart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvhobart-you-should-worry-says-john-henry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george v. hobart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gvhobart-down-the-line-with-john-henry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george v. hobart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

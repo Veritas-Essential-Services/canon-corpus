@@ -1,0 +1,395 @@
+{
+ "_about": "B. L. Farjeon's novels, detective stories and Christmas books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "B. L. Farjeon",
+ "_name_words": [
+  "farjeon"
+ ],
+ "_surname": [
+  "farjeon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "blfarjeon-miser-farebrother": [
+   39111,
+   "Miser Farebrother: A Novel (vol. 1 of 3)"
+  ],
+  "blfarjeon-miser-farebrother-39878": [
+   39878,
+   "Miser Farebrother: A Novel (vol. 2 of 3)"
+  ],
+  "blfarjeon-miser-farebrother-39879": [
+   39879,
+   "Miser Farebrother: A Novel (vol. 3 of 3)"
+  ],
+  "blfarjeon-great-porter-square": [
+   42905,
+   "Great Porter Square: A Mystery. v. 1"
+  ],
+  "blfarjeon-great-porter-square-42906": [
+   42906,
+   "Great Porter Square: A Mystery. v. 2"
+  ],
+  "blfarjeon-great-porter-square-42907": [
+   42907,
+   "Great Porter Square: A Mystery. v. 3"
+  ],
+  "blfarjeon-aaron-the-jew": [
+   42972,
+   "Aaron the Jew: A Novel"
+  ],
+  "blfarjeon-house-of-the-white-shadows": [
+   42973,
+   "The House of the White Shadows"
+  ],
+  "blfarjeon-toilers-of-babylon": [
+   42974,
+   "Toilers of Babylon: A Novel"
+  ],
+  "blfarjeon-blade-o-grass-golden-grain-and-bread-and-cheese-an": [
+   43190,
+   "Blade-O'-Grass. Golden Grain. and Bread and Cheese and Kisses."
+  ],
+  "blfarjeon-samuel-boyd-of-catchpole-square": [
+   43198,
+   "Samuel Boyd of Catchpole Square: A Mystery"
+  ],
+  "blfarjeon-last-tenant": [
+   43199,
+   "The Last Tenant"
+  ],
+  "blfarjeon-betrayal-of-john-fordham": [
+   45525,
+   "The Betrayal of John Fordham"
+  ],
+  "blfarjeon-londons-heart": [
+   45792,
+   "London's Heart: A Novel"
+  ],
+  "blfarjeon-secret-inheritance-volume-1-of-3": [
+   45880,
+   "A Secret Inheritance (Volume 1 of 3)"
+  ],
+  "blfarjeon-secret-inheritance-volume-2-of-3": [
+   45881,
+   "A Secret Inheritance (Volume 2 of 3)"
+  ],
+  "blfarjeon-secret-inheritance-volume-3-of-3": [
+   45882,
+   "A Secret Inheritance (Volume 3 of 3)"
+  ],
+  "blfarjeon-grif": [
+   45919,
+   "Grif: A Story of Australian Life"
+  ],
+  "blfarjeon-devlin-the-barber": [
+   53044,
+   "Devlin the Barber"
+  ],
+  "blfarjeon-at-the-sign-of-the-silver-flagon": [
+   53062,
+   "At the Sign of the Silver Flagon"
+  ],
+  "blfarjeon-nine-of-hearts": [
+   53085,
+   "The Nine of Hearts: A Novel"
+  ],
+  "blfarjeon-self-doomed": [
+   53096,
+   "Self-Doomed: A Novel"
+  ],
+  "blfarjeon-basil-and-annette": [
+   53224,
+   "Basil and Annette: A Novel"
+  ],
+  "blfarjeon-mystery-of-m-felix": [
+   53263,
+   "The Mystery of M. Felix"
+  ],
+  "blfarjeon-fair-jewess": [
+   53296,
+   "A Fair Jewess"
+  ],
+  "blfarjeon-joshua-marvel": [
+   53509,
+   "Joshua Marvel"
+  ],
+  "blfarjeon-duchess-of-rosemary-lane": [
+   53558,
+   "The Duchess of Rosemary Lane: A Novel"
+  ],
+  "blfarjeon-shield-of-love": [
+   53598,
+   "The Shield of Love"
+  ],
+  "blfarjeon-jessie-trim": [
+   53724,
+   "Jessie Trim"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "blfarjeon-miser-farebrother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-miser-farebrother-39878": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-miser-farebrother-39879": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-great-porter-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-great-porter-square-42906": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-great-porter-square-42907": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-aaron-the-jew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-house-of-the-white-shadows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-toilers-of-babylon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-blade-o-grass-golden-grain-and-bread-and-cheese-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-samuel-boyd-of-catchpole-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-last-tenant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-betrayal-of-john-fordham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-londons-heart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-secret-inheritance-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-secret-inheritance-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-secret-inheritance-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-grif": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-devlin-the-barber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-at-the-sign-of-the-silver-flagon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-nine-of-hearts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-self-doomed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-basil-and-annette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-mystery-of-m-felix": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-fair-jewess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-joshua-marvel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-duchess-of-rosemary-lane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-shield-of-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blfarjeon-jessie-trim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "farjeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

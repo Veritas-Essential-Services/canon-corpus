@@ -1,0 +1,911 @@
+{
+ "_about": "Storytellers' tail, group 15: 27 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Fitz James O'Brien, Standish O'Grady, William Hamilton Osborne, Francis Edward Paget, John Palmer, G. Sidney Paternoster, Ethel C. Pedley, Alice Perrin, Nora Perry, Maxwell Philip, Marjorie L. C. Pickthall, Percival Pollard, Ambrose Pratt, Ella Farman Pratt, Alfred Pretor, Sarah J. Prichard, T. J. Llewelyn Prichard, K. F. Purdon, Louise Clarke Pyrnelle, Edward A. Rand, Julius Regis, W. H. Rhodes, Henry Milner Rideout, Rita, Henry C. Rowland, Effie Adelaide Rowlands, Edwin Milton Royle. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 15 (27 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "fjobrien-diamond-lens": [
+   "fitz james o'brien",
+   "o'brien"
+  ],
+  "sogrady-coming-of-cuculain": [
+   "standish o'grady",
+   "o'grady"
+  ],
+  "sogrady-early-bardic-literature-ireland": [
+   "standish o'grady",
+   "o'grady"
+  ],
+  "whosborne-red-mouse": [
+   "william hamilton osborne",
+   "osborne"
+  ],
+  "whosborne-running-fight": [
+   "william hamilton osborne",
+   "osborne"
+  ],
+  "fepaget-hope-of-the-katzekopfs": [
+   "francis edward paget",
+   "paget"
+  ],
+  "fepaget-bonfire": [
+   "francis edward paget",
+   "paget"
+  ],
+  "jpalmer-rudyard-kipling": [
+   "john palmer"
+  ],
+  "jpalmer-peter-paragon": [
+   "john palmer"
+  ],
+  "gspaternoster-motor-pirate": [
+   "g. sidney paternoster",
+   "paternoster"
+  ],
+  "gspaternoster-master-criminal": [
+   "g. sidney paternoster",
+   "paternoster"
+  ],
+  "ecpedley-dot-and-the-kangaroo": [
+   "ethel c. pedley",
+   "pedley"
+  ],
+  "aperrin-star-of-india": [
+   "alice perrin",
+   "perrin"
+  ],
+  "aperrin-woman-in-the-bazaar": [
+   "alice perrin",
+   "perrin"
+  ],
+  "nperry-flock-of-girls-and-boys": [
+   "nora perry",
+   "perry"
+  ],
+  "nperry-hope-benham": [
+   "nora perry",
+   "perry"
+  ],
+  "mphilip-emmanuel-appadocca": [
+   "maxwell philip",
+   "philip"
+  ],
+  "mphilip-emmanuel-appadocca-75314": [
+   "maxwell philip",
+   "philip"
+  ],
+  "mlcpickthall-dick-s-desertion": [
+   "marjorie l. c. pickthall",
+   "marjorie lowry christie pickthall",
+   "pickthall"
+  ],
+  "mlcpickthall-angels-shoes-and-other-stories": [
+   "marjorie l. c. pickthall",
+   "marjorie lowry christie pickthall",
+   "pickthall"
+  ],
+  "ppollard-imitator": [
+   "percival pollard",
+   "pollard"
+  ],
+  "ppollard-cape-of-storms": [
+   "percival pollard",
+   "pollard"
+  ],
+  "apratt-first-person-paramount": [
+   "ambrose pratt",
+   "pratt"
+  ],
+  "apratt-living-mummy": [
+   "ambrose pratt",
+   "pratt"
+  ],
+  "efpratt-lill-s-travels-in-santa-claus-land-and-other-stories": [
+   "ella farman pratt",
+   "pratt"
+  ],
+  "efpratt-all-the-world-over": [
+   "ella farman pratt",
+   "pratt"
+  ],
+  "apretor-ronald-and-i": [
+   "alfred pretor",
+   "pretor"
+  ],
+  "apretor-chapel-on-the-hill": [
+   "alfred pretor",
+   "pretor"
+  ],
+  "sjprichard-only-woman-in-the-town-and-other-tales-of-the-ame": [
+   "sarah j. prichard",
+   "sarah johnson prichard",
+   "prichard"
+  ],
+  "sjprichard-wonderful-christmas-in-pumpkin-delight-lane": [
+   "sarah j. prichard",
+   "sarah johnson prichard",
+   "prichard"
+  ],
+  "tjlprichard-adventures-and-vagaries-of-twm-shon-catti-descri": [
+   "t. j. llewelyn prichard",
+   "thomas jeffery llewelyn prichard",
+   "prichard"
+  ],
+  "tjlprichard-comical-adventures-of-twm-shon-catty-thomas-jone": [
+   "t. j. llewelyn prichard",
+   "thomas jeffery llewelyn prichard",
+   "prichard"
+  ],
+  "kfpurdon-candle-and-crib": [
+   "k. f. purdon",
+   "katherine frances purdon",
+   "purdon"
+  ],
+  "kfpurdon-folk-of-furry-farm": [
+   "k. f. purdon",
+   "katherine frances purdon",
+   "purdon"
+  ],
+  "lcpyrnelle-diddie-dumps-and-tot": [
+   "louise clarke pyrnelle",
+   "pyrnelle"
+  ],
+  "lcpyrnelle-diddie-dumps-tot": [
+   "louise clarke pyrnelle",
+   "pyrnelle"
+  ],
+  "earand-knights-of-the-white-shield-up-the-ladder-club-series": [
+   "edward a. rand",
+   "edward augustus rand"
+  ],
+  "earand-at-the-black-rocks": [
+   "edward a. rand",
+   "edward augustus rand"
+  ],
+  "jregis-no-13-toroni": [
+   "julius regis",
+   "regis"
+  ],
+  "jregis-copper-house": [
+   "julius regis",
+   "regis"
+  ],
+  "whrhodes-case-of-summerfield": [
+   "w. h. rhodes",
+   "william henry rhodes",
+   "rhodes"
+  ],
+  "whrhodes-caxton-s-book": [
+   "w. h. rhodes",
+   "william henry rhodes",
+   "rhodes"
+  ],
+  "hmrideout-dragon-s-blood": [
+   "henry milner rideout",
+   "rideout"
+  ],
+  "hmrideout-admiral-s-light": [
+   "henry milner rideout",
+   "rideout"
+  ],
+  "rita-mystery-of-a-turkish-bath": [
+   "rita"
+  ],
+  "rita-two-bad-blue-eyes": [
+   "rita"
+  ],
+  "hcrowland-mountain-of-fears": [
+   "henry c. rowland",
+   "henry cottrell rowland",
+   "rowland"
+  ],
+  "hcrowland-magnet": [
+   "henry c. rowland",
+   "henry cottrell rowland",
+   "rowland"
+  ],
+  "earowlands-capricious-caroline": [
+   "effie adelaide rowlands",
+   "rowlands"
+  ],
+  "earowlands-on-the-wings-of-fate": [
+   "effie adelaide rowlands",
+   "rowlands"
+  ],
+  "emroyle-silent-call": [
+   "edwin milton royle",
+   "royle"
+  ],
+  "emroyle-squaw-man": [
+   "edwin milton royle",
+   "royle"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "fjobrien-diamond-lens": [
+   23169,
+   "The Diamond Lens"
+  ],
+  "sogrady-coming-of-cuculain": [
+   5092,
+   "The Coming of Cuculain"
+  ],
+  "sogrady-early-bardic-literature-ireland": [
+   8109,
+   "Early Bardic Literature, Ireland."
+  ],
+  "whosborne-red-mouse": [
+   36247,
+   "The Red Mouse: A Mystery Romance"
+  ],
+  "whosborne-running-fight": [
+   61840,
+   "The Running Fight"
+  ],
+  "fepaget-hope-of-the-katzekopfs": [
+   53808,
+   "The Hope of the Katzekopfs; or, The Sorrows of Selfishness. A Fairy Tale."
+  ],
+  "fepaget-bonfire": [
+   75991,
+   "The bonfire"
+  ],
+  "jpalmer-rudyard-kipling": [
+   18045,
+   "Rudyard Kipling"
+  ],
+  "jpalmer-peter-paragon": [
+   56932,
+   "Peter Paragon: A Tale of Youth"
+  ],
+  "gspaternoster-motor-pirate": [
+   26657,
+   "The Motor Pirate"
+  ],
+  "gspaternoster-master-criminal": [
+   71516,
+   "The master criminal"
+  ],
+  "ecpedley-dot-and-the-kangaroo": [
+   3703,
+   "Dot and the Kangaroo"
+  ],
+  "aperrin-star-of-india": [
+   53372,
+   "Star of India"
+  ],
+  "aperrin-woman-in-the-bazaar": [
+   61272,
+   "The Woman in the Bazaar"
+  ],
+  "nperry-flock-of-girls-and-boys": [
+   10433,
+   "A Flock of Girls and Boys"
+  ],
+  "nperry-hope-benham": [
+   36105,
+   "Hope Benham: A Story for Girls"
+  ],
+  "mphilip-emmanuel-appadocca": [
+   75313,
+   "Emmanuel Appadocca; or, Blighted life, Volume 1 (of 2)"
+  ],
+  "mphilip-emmanuel-appadocca-75314": [
+   75314,
+   "Emmanuel Appadocca; or, Blighted life, Volume 2 (of 2)"
+  ],
+  "mlcpickthall-dick-s-desertion": [
+   34002,
+   "Dick's Desertion: A Boy's Adventures in Canadian Forests A Tale of the Early Settlement of Ontario"
+  ],
+  "mlcpickthall-angels-shoes-and-other-stories": [
+   59197,
+   "Angels' Shoes, and Other Stories"
+  ],
+  "ppollard-imitator": [
+   39724,
+   "The Imitator: A Novel"
+  ],
+  "ppollard-cape-of-storms": [
+   39781,
+   "Cape of Storms: A Novel"
+  ],
+  "apratt-first-person-paramount": [
+   35775,
+   "First Person Paramount"
+  ],
+  "apratt-living-mummy": [
+   58944,
+   "The Living Mummy"
+  ],
+  "efpratt-lill-s-travels-in-santa-claus-land-and-other-stories": [
+   20112,
+   "Lill's travels in Santa Claus Land, and other stories"
+  ],
+  "efpratt-all-the-world-over": [
+   67560,
+   "All the World Over: Interesting Stories of Travel, Thrilling Adventure and Home Life"
+  ],
+  "apretor-ronald-and-i": [
+   63308,
+   "Ronald and I; or, Studies from Life"
+  ],
+  "apretor-chapel-on-the-hill": [
+   63310,
+   "The Chapel on the Hill"
+  ],
+  "sjprichard-only-woman-in-the-town-and-other-tales-of-the-ame": [
+   33334,
+   "The Only Woman in the Town, and Other Tales of the American Revolution"
+  ],
+  "sjprichard-wonderful-christmas-in-pumpkin-delight-lane": [
+   74537,
+   "The wonderful Christmas in Pumpkin Delight Lane"
+  ],
+  "tjlprichard-adventures-and-vagaries-of-twm-shon-catti-descri": [
+   40419,
+   "The Adventures and Vagaries of Twm Shôn Catti Descriptive of Life in Wales: Interspersed with Poems"
+  ],
+  "tjlprichard-comical-adventures-of-twm-shon-catty-thomas-jone": [
+   40421,
+   "The Comical Adventures of Twm Shon Catty (Thomas Jones, Esq.), Commonly known as the Welsh Robin Hood"
+  ],
+  "kfpurdon-candle-and-crib": [
+   24310,
+   "Candle and Crib"
+  ],
+  "kfpurdon-folk-of-furry-farm": [
+   74263,
+   "The folk of Furry Farm"
+  ],
+  "lcpyrnelle-diddie-dumps-and-tot": [
+   4992,
+   "Diddie, Dumps, and Tot; Or, Plantation Child-Life"
+  ],
+  "lcpyrnelle-diddie-dumps-tot": [
+   17146,
+   "Diddie, Dumps & Tot; or, Plantation child-life"
+  ],
+  "earand-knights-of-the-white-shield-up-the-ladder-club-series": [
+   14903,
+   "The Knights of the White Shield Up-the-Ladder Club Series, Round One Play"
+  ],
+  "earand-at-the-black-rocks": [
+   40269,
+   "At the Black Rocks"
+  ],
+  "jregis-no-13-toroni": [
+   52498,
+   "No. 13 Toroni"
+  ],
+  "jregis-copper-house": [
+   76903,
+   "The Copper House"
+  ],
+  "whrhodes-case-of-summerfield": [
+   5191,
+   "The Case of Summerfield"
+  ],
+  "whrhodes-caxton-s-book": [
+   32761,
+   "Caxton's Book: A Collection of Essays, Poems, Tales, and Sketches."
+  ],
+  "hmrideout-dragon-s-blood": [
+   10321,
+   "Dragon's blood"
+  ],
+  "hmrideout-admiral-s-light": [
+   57577,
+   "Admiral's Light"
+  ],
+  "rita-mystery-of-a-turkish-bath": [
+   25656,
+   "The Mystery of a Turkish Bath"
+  ],
+  "rita-two-bad-blue-eyes": [
+   71164,
+   "Two bad blue eyes"
+  ],
+  "hcrowland-mountain-of-fears": [
+   56425,
+   "The Mountain of Fears"
+  ],
+  "hcrowland-magnet": [
+   76293,
+   "The magnet"
+  ],
+  "earowlands-capricious-caroline": [
+   34166,
+   "Capricious Caroline"
+  ],
+  "earowlands-on-the-wings-of-fate": [
+   71205,
+   "On the wings of fate"
+  ],
+  "emroyle-silent-call": [
+   51611,
+   "The Silent Call"
+  ],
+  "emroyle-squaw-man": [
+   52804,
+   "The Squaw Man: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-50332": "PG 50332: a second Gutenberg edition of Fitz James O'Brien's The Diamond Lens.",
+  "pg-18891": "PG 18891: a second Gutenberg edition of Ethel C. Pedley's Dot and the Kangaroo."
+ },
+ "_held": {},
+ "_checks": {
+  "fjobrien-diamond-lens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fitz james o'brien",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sogrady-coming-of-cuculain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "standish o'grady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sogrady-early-bardic-literature-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "standish o'grady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whosborne-red-mouse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hamilton osborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whosborne-running-fight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william hamilton osborne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fepaget-hope-of-the-katzekopfs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis edward paget",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fepaget-bonfire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis edward paget",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpalmer-rudyard-kipling": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jpalmer-peter-paragon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gspaternoster-motor-pirate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. sidney paternoster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gspaternoster-master-criminal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. sidney paternoster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecpedley-dot-and-the-kangaroo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ethel c. pedley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aperrin-star-of-india": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice perrin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aperrin-woman-in-the-bazaar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice perrin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nperry-flock-of-girls-and-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nora perry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nperry-hope-benham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nora perry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mphilip-emmanuel-appadocca": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maxwell philip",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mphilip-emmanuel-appadocca-75314": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maxwell philip",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlcpickthall-dick-s-desertion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marjorie l. c. pickthall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlcpickthall-angels-shoes-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marjorie l. c. pickthall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ppollard-imitator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percival pollard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ppollard-cape-of-storms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "percival pollard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apratt-first-person-paramount": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ambrose pratt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apratt-living-mummy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ambrose pratt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efpratt-lill-s-travels-in-santa-claus-land-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ella farman pratt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "efpratt-all-the-world-over": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ella farman pratt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apretor-ronald-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred pretor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apretor-chapel-on-the-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred pretor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjprichard-only-woman-in-the-town-and-other-tales-of-the-ame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah j. prichard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjprichard-wonderful-christmas-in-pumpkin-delight-lane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah j. prichard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tjlprichard-adventures-and-vagaries-of-twm-shon-catti-descri": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. j. llewelyn prichard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tjlprichard-comical-adventures-of-twm-shon-catty-thomas-jone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. j. llewelyn prichard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kfpurdon-candle-and-crib": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "k. f. purdon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kfpurdon-folk-of-furry-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "k. f. purdon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lcpyrnelle-diddie-dumps-and-tot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise clarke pyrnelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lcpyrnelle-diddie-dumps-tot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise clarke pyrnelle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "earand-knights-of-the-white-shield-up-the-ladder-club-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward a. rand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "earand-at-the-black-rocks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward a. rand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jregis-no-13-toroni": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius regis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jregis-copper-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "julius regis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whrhodes-case-of-summerfield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whrhodes-caxton-s-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. rhodes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmrideout-dragon-s-blood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry milner rideout",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hmrideout-admiral-s-light": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry milner rideout",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rita-mystery-of-a-turkish-bath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rita",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rita-two-bad-blue-eyes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rita",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcrowland-mountain-of-fears": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. rowland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcrowland-magnet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. rowland",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "earowlands-capricious-caroline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "effie adelaide rowlands",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "earowlands-on-the-wings-of-fate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "effie adelaide rowlands",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emroyle-silent-call": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin milton royle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emroyle-squaw-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin milton royle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

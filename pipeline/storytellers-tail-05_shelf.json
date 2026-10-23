@@ -1,0 +1,1144 @@
+{
+ "_about": "Storytellers' tail, group 5: 22 authors with 3 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Harry Coghill, E. Burke Collins, Matthew M. Colton, Nathaniel Conklin, Marvin Dana, J. Frank Davis, W. W. Denslow, Dowdall, Byron A. Dunn, J. Allan Dunn, Harry Stillwell Edwards, Alfred Elwes, Hal G. Evarts, William R. Eyster, Justus Miles Forman, Ellen Thorneycroft Fowler, Alexander Fraser, James A. Frye, Anna Fuller, Hugh S. Fullerton, Nathan Gallizier, Rosa M. Gilbert. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 5 (22 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "hcoghill-canadian-heroine-volume-1-a-novel": [
+   "harry coghill",
+   "coghill"
+  ],
+  "hcoghill-canadian-heroine-volume-2-a-novel": [
+   "harry coghill",
+   "coghill"
+  ],
+  "hcoghill-canadian-heroine-volume-3-a-novel": [
+   "harry coghill",
+   "coghill"
+  ],
+  "ebcollins-her-dark-inheritance": [
+   "e. burke collins",
+   "collins"
+  ],
+  "ebcollins-bitter-reckoning": [
+   "e. burke collins",
+   "collins"
+  ],
+  "ebcollins-lillian-s-vow": [
+   "e. burke collins",
+   "collins"
+  ],
+  "mmcolton-frank-armstrong-at-college": [
+   "matthew m. colton",
+   "colton"
+  ],
+  "mmcolton-frank-armstrong-at-queens": [
+   "matthew m. colton",
+   "colton"
+  ],
+  "mmcolton-frank-armstrong-drop-kicker": [
+   "matthew m. colton",
+   "colton"
+  ],
+  "nconklin-miss-prudence": [
+   "nathaniel conklin",
+   "conklin"
+  ],
+  "nconklin-tessa-wadsworth-s-discipline": [
+   "nathaniel conklin",
+   "conklin"
+  ],
+  "nconklin-growing-up": [
+   "nathaniel conklin",
+   "conklin"
+  ],
+  "mdana-within-the-law": [
+   "marvin dana"
+  ],
+  "mdana-shooting-of-dan-mcgrew-a-novel-based-on-the-famous-poe": [
+   "marvin dana"
+  ],
+  "mdana-lake-mystery": [
+   "marvin dana"
+  ],
+  "jfdavis-back-home": [
+   "j. frank davis",
+   "james francis davis"
+  ],
+  "jfdavis-splashes-of-red": [
+   "j. frank davis",
+   "james francis davis"
+  ],
+  "jfdavis-conversation": [
+   "j. frank davis",
+   "james francis davis"
+  ],
+  "wwdenslow-denslow-s-three-bears": [
+   "w. w. denslow",
+   "william wallace denslow",
+   "denslow"
+  ],
+  "wwdenslow-denslow-s-humpty-dumpty": [
+   "w. w. denslow",
+   "william wallace denslow",
+   "denslow"
+  ],
+  "wwdenslow-billy-bounce": [
+   "w. w. denslow",
+   "william wallace denslow",
+   "denslow"
+  ],
+  "dowdall-three-loving-ladies": [
+   "dowdall",
+   "dowdall"
+  ],
+  "dowdall-joking-apart": [
+   "dowdall",
+   "dowdall"
+  ],
+  "dowdall-book-of-martha": [
+   "dowdall",
+   "dowdall"
+  ],
+  "badunn-raiding-with-morgan": [
+   "byron a. dunn",
+   "byron archibald dunn"
+  ],
+  "badunn-courier-of-the-ozarks": [
+   "byron a. dunn",
+   "byron archibald dunn"
+  ],
+  "badunn-general-nelson-s-scout": [
+   "byron a. dunn",
+   "byron archibald dunn"
+  ],
+  "jadunn-man-to-his-mate": [
+   "j. allan dunn"
+  ],
+  "jadunn-rimrock-trail": [
+   "j. allan dunn"
+  ],
+  "jadunn-gray-god": [
+   "j. allan dunn"
+  ],
+  "hsedwards-eneas-africanus": [
+   "harry stillwell edwards",
+   "edwards"
+  ],
+  "hsedwards-sons-and-fathers": [
+   "harry stillwell edwards",
+   "edwards"
+  ],
+  "hsedwards-just-sweethearts": [
+   "harry stillwell edwards",
+   "edwards"
+  ],
+  "aelwes-adventures-of-a-dog-and-a-good-dog-too": [
+   "alfred elwes",
+   "elwes"
+  ],
+  "aelwes-adventures-of-a-bear-and-a-great-bear-too": [
+   "alfred elwes",
+   "elwes"
+  ],
+  "aelwes-adventures-of-a-cat-and-a-fine-cat-too": [
+   "alfred elwes",
+   "elwes"
+  ],
+  "hgevarts-settling-of-the-sage": [
+   "hal g. evarts",
+   "hal george evarts",
+   "evarts"
+  ],
+  "hgevarts-yellow-horde": [
+   "hal g. evarts",
+   "hal george evarts",
+   "evarts"
+  ],
+  "hgevarts-tumbleweeds": [
+   "hal g. evarts",
+   "hal george evarts",
+   "evarts"
+  ],
+  "wreyster-free-trapper-s-pass": [
+   "william r. eyster",
+   "william reynolds eyster",
+   "eyster"
+  ],
+  "wreyster-wild-nat-the-trooper": [
+   "william r. eyster",
+   "william reynolds eyster",
+   "eyster"
+  ],
+  "wreyster-luckless-trapper": [
+   "william r. eyster",
+   "william reynolds eyster",
+   "eyster"
+  ],
+  "jmforman-jason": [
+   "justus miles forman",
+   "forman"
+  ],
+  "jmforman-quest": [
+   "justus miles forman",
+   "forman"
+  ],
+  "jmforman-island-of-enchantment": [
+   "justus miles forman",
+   "forman"
+  ],
+  "etfowler-farringdons": [
+   "ellen thorneycroft fowler",
+   "fowler"
+  ],
+  "etfowler-ten-degrees-backward": [
+   "ellen thorneycroft fowler",
+   "fowler"
+  ],
+  "etfowler-concerning-isabel-carnaby": [
+   "ellen thorneycroft fowler",
+   "fowler"
+  ],
+  "afraser-daughters-of-belgravia": [
+   "alexander fraser",
+   "fraser"
+  ],
+  "afraser-daughters-of-belgravia-52505": [
+   "alexander fraser",
+   "fraser"
+  ],
+  "afraser-daughters-of-belgravia-52606": [
+   "alexander fraser",
+   "fraser"
+  ],
+  "jafrye-fables-of-field-and-staff": [
+   "james a. frye",
+   "james albert frye"
+  ],
+  "jafrye-from-headquarters": [
+   "james a. frye",
+   "james albert frye"
+  ],
+  "jafrye-first-regiment-massachusetts-heavy-artillery-united-s": [
+   "james a. frye",
+   "james albert frye"
+  ],
+  "afuller-peak-and-prairie-from-a-colorado-sketch-book": [
+   "anna fuller"
+  ],
+  "afuller-venetian-june": [
+   "anna fuller"
+  ],
+  "afuller-bookful-of-girls": [
+   "anna fuller"
+  ],
+  "hsfullerton-jimmy-kirkland-and-the-plot-for-a-pennant": [
+   "hugh s. fullerton",
+   "hugh stuart fullerton",
+   "fullerton"
+  ],
+  "hsfullerton-jimmy-kirkland-of-the-cascade-college-team": [
+   "hugh s. fullerton",
+   "hugh stuart fullerton",
+   "fullerton"
+  ],
+  "hsfullerton-tales-of-the-turf": [
+   "hugh s. fullerton",
+   "hugh stuart fullerton",
+   "fullerton"
+  ],
+  "ngallizier-hill-of-venus": [
+   "nathan gallizier",
+   "gallizier"
+  ],
+  "ngallizier-sorceress-of-rome": [
+   "nathan gallizier",
+   "gallizier"
+  ],
+  "ngallizier-under-the-witches-moon": [
+   "nathan gallizier",
+   "gallizier"
+  ],
+  "rmgilbert-hetty-gray": [
+   "rosa m. gilbert",
+   "rosa mulholland gilbert",
+   "gilbert"
+  ],
+  "rmgilbert-late-miss-hollingford": [
+   "rosa m. gilbert",
+   "rosa mulholland gilbert",
+   "gilbert"
+  ],
+  "rmgilbert-terry": [
+   "rosa m. gilbert",
+   "rosa mulholland gilbert",
+   "gilbert"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hcoghill-canadian-heroine-volume-1-a-novel": [
+   18002,
+   "A Canadian Heroine, Volume 1 A Novel"
+  ],
+  "hcoghill-canadian-heroine-volume-2-a-novel": [
+   18122,
+   "A Canadian Heroine, Volume 2 A Novel"
+  ],
+  "hcoghill-canadian-heroine-volume-3-a-novel": [
+   18132,
+   "A Canadian Heroine, Volume 3 A Novel"
+  ],
+  "ebcollins-her-dark-inheritance": [
+   46363,
+   "Her Dark Inheritance"
+  ],
+  "ebcollins-bitter-reckoning": [
+   70139,
+   "A bitter reckoning;"
+  ],
+  "ebcollins-lillian-s-vow": [
+   76634,
+   "Lillian's vow"
+  ],
+  "mmcolton-frank-armstrong-at-college": [
+   47966,
+   "Frank Armstrong at College"
+  ],
+  "mmcolton-frank-armstrong-at-queens": [
+   48848,
+   "Frank Armstrong at Queens"
+  ],
+  "mmcolton-frank-armstrong-drop-kicker": [
+   48849,
+   "Frank Armstrong, Drop Kicker"
+  ],
+  "nconklin-miss-prudence": [
+   10322,
+   "Miss Prudence: A Story of Two Girls' Lives."
+  ],
+  "nconklin-tessa-wadsworth-s-discipline": [
+   37003,
+   "Tessa Wadsworth's Discipline: A Story of the Development of a Young Girl's Life"
+  ],
+  "nconklin-growing-up": [
+   42408,
+   "Growing Up: A Story of the Girlhood of Judith Mackenzie"
+  ],
+  "mdana-within-the-law": [
+   905,
+   "Within the Law: From the Play of Bayard Veiller"
+  ],
+  "mdana-shooting-of-dan-mcgrew-a-novel-based-on-the-famous-poe": [
+   36232,
+   "The Shooting of Dan McGrew, A Novel. Based on the Famous Poem of Robert Service"
+  ],
+  "mdana-lake-mystery": [
+   59790,
+   "The Lake Mystery"
+  ],
+  "jfdavis-back-home": [
+   73567,
+   "Back home"
+  ],
+  "jfdavis-splashes-of-red": [
+   73618,
+   "Splashes of red"
+  ],
+  "jfdavis-conversation": [
+   77793,
+   "Conversation"
+  ],
+  "wwdenslow-denslow-s-three-bears": [
+   19772,
+   "Denslow's Three Bears"
+  ],
+  "wwdenslow-denslow-s-humpty-dumpty": [
+   25883,
+   "Denslow's Humpty Dumpty"
+  ],
+  "wwdenslow-billy-bounce": [
+   48537,
+   "Billy Bounce"
+  ],
+  "dowdall-three-loving-ladies": [
+   67610,
+   "Three Loving Ladies"
+  ],
+  "dowdall-joking-apart": [
+   70958,
+   "Joking apart"
+  ],
+  "dowdall-book-of-martha": [
+   71196,
+   "The book of Martha"
+  ],
+  "badunn-raiding-with-morgan": [
+   29786,
+   "Raiding with Morgan"
+  ],
+  "badunn-courier-of-the-ozarks": [
+   35207,
+   "The Courier of the Ozarks"
+  ],
+  "badunn-general-nelson-s-scout": [
+   49529,
+   "General Nelson's Scout"
+  ],
+  "jadunn-man-to-his-mate": [
+   28597,
+   "A Man to His Mate"
+  ],
+  "jadunn-rimrock-trail": [
+   28638,
+   "Rimrock Trail"
+  ],
+  "jadunn-gray-god": [
+   77501,
+   "The gray god"
+  ],
+  "hsedwards-eneas-africanus": [
+   33594,
+   "Eneas Africanus"
+  ],
+  "hsedwards-sons-and-fathers": [
+   36112,
+   "Sons and Fathers"
+  ],
+  "hsedwards-just-sweethearts": [
+   69685,
+   "Just sweethearts: A Christmas love story"
+  ],
+  "aelwes-adventures-of-a-dog-and-a-good-dog-too": [
+   20741,
+   "The Adventures of a Dog, and a Good Dog Too"
+  ],
+  "aelwes-adventures-of-a-bear-and-a-great-bear-too": [
+   28671,
+   "The Adventures of a Bear, and a Great Bear Too"
+  ],
+  "aelwes-adventures-of-a-cat-and-a-fine-cat-too": [
+   32518,
+   "The Adventures of a Cat, and a Fine Cat Too!"
+  ],
+  "hgevarts-settling-of-the-sage": [
+   18856,
+   "The Settling of the Sage"
+  ],
+  "hgevarts-yellow-horde": [
+   25082,
+   "The Yellow Horde"
+  ],
+  "hgevarts-tumbleweeds": [
+   72909,
+   "Tumbleweeds"
+  ],
+  "wreyster-free-trapper-s-pass": [
+   53422,
+   "Free Trapper's Pass; or, the Gold-seeker's Daughter!"
+  ],
+  "wreyster-wild-nat-the-trooper": [
+   65587,
+   "Wild Nat, the Trooper; or, The Cedar Swamp Brigade"
+  ],
+  "wreyster-luckless-trapper": [
+   68371,
+   "The luckless trapper; or, The haunted hunter"
+  ],
+  "jmforman-jason": [
+   13261,
+   "Jason: A Romance"
+  ],
+  "jmforman-quest": [
+   43527,
+   "The Quest: A Romance"
+  ],
+  "jmforman-island-of-enchantment": [
+   47723,
+   "The Island of Enchantment"
+  ],
+  "etfowler-farringdons": [
+   19798,
+   "The Farringdons"
+  ],
+  "etfowler-ten-degrees-backward": [
+   57464,
+   "Ten Degrees Backward"
+  ],
+  "etfowler-concerning-isabel-carnaby": [
+   74380,
+   "Concerning Isabel Carnaby"
+  ],
+  "afraser-daughters-of-belgravia": [
+   52243,
+   "Daughters of Belgravia; vol. 1 of 3"
+  ],
+  "afraser-daughters-of-belgravia-52505": [
+   52505,
+   "Daughters of Belgravia; vol. 2 of 3"
+  ],
+  "afraser-daughters-of-belgravia-52606": [
+   52606,
+   "Daughters of Belgravia; vol. 3 of 3"
+  ],
+  "jafrye-fables-of-field-and-staff": [
+   48545,
+   "Fables of Field and Staff"
+  ],
+  "jafrye-from-headquarters": [
+   48821,
+   "From Headquarters: Odd Tales Picked up in the Volunteer Service"
+  ],
+  "jafrye-first-regiment-massachusetts-heavy-artillery-united-s": [
+   51510,
+   "The First regiment Massachusetts heavy artillery, United States volunteers, in the Spanish-American war of 1898"
+  ],
+  "afuller-peak-and-prairie-from-a-colorado-sketch-book": [
+   22231,
+   "Peak and Prairie From a Colorado Sketch-book"
+  ],
+  "afuller-venetian-june": [
+   23859,
+   "A Venetian June"
+  ],
+  "afuller-bookful-of-girls": [
+   28538,
+   "A Bookful of Girls"
+  ],
+  "hsfullerton-jimmy-kirkland-and-the-plot-for-a-pennant": [
+   32044,
+   "Jimmy Kirkland and the Plot for a Pennant"
+  ],
+  "hsfullerton-jimmy-kirkland-of-the-cascade-college-team": [
+   62989,
+   "Jimmy Kirkland of the Cascade College Team"
+  ],
+  "hsfullerton-tales-of-the-turf": [
+   75271,
+   "Tales of the turf"
+  ],
+  "ngallizier-hill-of-venus": [
+   39970,
+   "The Hill of Venus"
+  ],
+  "ngallizier-sorceress-of-rome": [
+   43938,
+   "The Sorceress of Rome"
+  ],
+  "ngallizier-under-the-witches-moon": [
+   44827,
+   "Under the Witches' Moon: A Romantic Tale of Mediaeval Rome"
+  ],
+  "rmgilbert-hetty-gray": [
+   15538,
+   "Hetty Gray;"
+  ],
+  "rmgilbert-late-miss-hollingford": [
+   18991,
+   "The Late Miss Hollingford"
+  ],
+  "rmgilbert-terry": [
+   20492,
+   "Terry; Or, She ought to have been a Boy"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hcoghill-canadian-heroine-volume-1-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry coghill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcoghill-canadian-heroine-volume-2-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry coghill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcoghill-canadian-heroine-volume-3-a-novel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry coghill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebcollins-her-dark-inheritance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. burke collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebcollins-bitter-reckoning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. burke collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebcollins-lillian-s-vow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. burke collins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmcolton-frank-armstrong-at-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew m. colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmcolton-frank-armstrong-at-queens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew m. colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmcolton-frank-armstrong-drop-kicker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew m. colton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nconklin-miss-prudence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathaniel conklin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nconklin-tessa-wadsworth-s-discipline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathaniel conklin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nconklin-growing-up": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathaniel conklin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdana-within-the-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marvin dana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdana-shooting-of-dan-mcgrew-a-novel-based-on-the-famous-poe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marvin dana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mdana-lake-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marvin dana",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfdavis-back-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. frank davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfdavis-splashes-of-red": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. frank davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfdavis-conversation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. frank davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwdenslow-denslow-s-three-bears": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. denslow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwdenslow-denslow-s-humpty-dumpty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. denslow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwdenslow-billy-bounce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. w. denslow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dowdall-three-loving-ladies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dowdall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dowdall-joking-apart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dowdall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dowdall-book-of-martha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dowdall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "badunn-raiding-with-morgan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "byron a. dunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "badunn-courier-of-the-ozarks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "byron a. dunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "badunn-general-nelson-s-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "byron a. dunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jadunn-man-to-his-mate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. allan dunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jadunn-rimrock-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. allan dunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jadunn-gray-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. allan dunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsedwards-eneas-africanus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry stillwell edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsedwards-sons-and-fathers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry stillwell edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsedwards-just-sweethearts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harry stillwell edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aelwes-adventures-of-a-dog-and-a-good-dog-too": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aelwes-adventures-of-a-bear-and-a-great-bear-too": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aelwes-adventures-of-a-cat-and-a-fine-cat-too": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred elwes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgevarts-settling-of-the-sage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hal g. evarts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgevarts-yellow-horde": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hal g. evarts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgevarts-tumbleweeds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hal g. evarts",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wreyster-free-trapper-s-pass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william r. eyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wreyster-wild-nat-the-trooper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william r. eyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wreyster-luckless-trapper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william r. eyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmforman-jason": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justus miles forman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmforman-quest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justus miles forman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmforman-island-of-enchantment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "justus miles forman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etfowler-farringdons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen thorneycroft fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etfowler-ten-degrees-backward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen thorneycroft fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etfowler-concerning-isabel-carnaby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellen thorneycroft fowler",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afraser-daughters-of-belgravia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afraser-daughters-of-belgravia-52505": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afraser-daughters-of-belgravia-52606": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander fraser",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jafrye-fables-of-field-and-staff": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. frye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jafrye-from-headquarters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. frye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jafrye-first-regiment-massachusetts-heavy-artillery-united-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. frye",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afuller-peak-and-prairie-from-a-colorado-sketch-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afuller-venetian-june": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "afuller-bookful-of-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anna fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsfullerton-jimmy-kirkland-and-the-plot-for-a-pennant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh s. fullerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsfullerton-jimmy-kirkland-of-the-cascade-college-team": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh s. fullerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hsfullerton-tales-of-the-turf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh s. fullerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngallizier-hill-of-venus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan gallizier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngallizier-sorceress-of-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan gallizier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngallizier-under-the-witches-moon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan gallizier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmgilbert-hetty-gray": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa m. gilbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmgilbert-late-miss-hollingford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa m. gilbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmgilbert-terry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosa m. gilbert",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

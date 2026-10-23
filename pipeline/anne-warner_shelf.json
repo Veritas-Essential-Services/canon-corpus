@@ -1,0 +1,149 @@
+{
+ "_about": "Anne Warner's writing at Gutenberg: humorous novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Anne Warner",
+ "_name_words": [
+  "anne",
+  "warner"
+ ],
+ "_surname": [
+  "anne warner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "awarner-rejuvenation-of-aunt-mary": [
+   15775,
+   "The Rejuvenation of Aunt Mary"
+  ],
+  "awarner-susan-clegg-and-her-friend-mrs-lathrop": [
+   15899,
+   "Susan Clegg and Her Friend Mrs. Lathrop"
+  ],
+  "awarner-susan-clegg-and-her-neighbors-affairs": [
+   18987,
+   "Susan Clegg and Her Neighbors' Affairs"
+  ],
+  "awarner-susan-clegg-and-a-man-in-the-house": [
+   22872,
+   "Susan Clegg and a Man in the House"
+  ],
+  "awarner-womans-will": [
+   27225,
+   "A Woman's Will"
+  ],
+  "awarner-seeing-france-with-uncle-john": [
+   35574,
+   "Seeing France with Uncle John"
+  ],
+  "awarner-tigress": [
+   37236,
+   "The Tigress"
+  ],
+  "awarner-susan-clegg-and-her-love-affairs": [
+   37289,
+   "Susan Clegg and Her Love Affairs"
+  ],
+  "awarner-in-a-mysterious-way": [
+   37515,
+   "In a Mysterious Way"
+  ],
+  "awarner-sunshine-jane": [
+   37972,
+   "Sunshine Jane"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "awarner-rejuvenation-of-aunt-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-susan-clegg-and-her-friend-mrs-lathrop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-susan-clegg-and-her-neighbors-affairs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-susan-clegg-and-a-man-in-the-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-womans-will": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-seeing-france-with-uncle-john": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-tigress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-susan-clegg-and-her-love-affairs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-in-a-mysterious-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "awarner-sunshine-jane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

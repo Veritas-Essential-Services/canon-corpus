@@ -1,0 +1,122 @@
+{
+ "_about": "Mary E. Ropes's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary E. Ropes",
+ "_name_words": [
+  "ropes"
+ ],
+ "_surname": [
+  "ropes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "meropes-margies-venture": [
+   73708,
+   "Margie's venture"
+  ],
+  "meropes-two-brave-boys-and-the-wrong-twin": [
+   74440,
+   "Two brave boys, and, The wrong twin"
+  ],
+  "meropes-two-little-finns": [
+   74471,
+   "Two little Finns"
+  ],
+  "meropes-what-happened-to-tad": [
+   74793,
+   "What happened to Tad"
+  ],
+  "meropes-on-the-face-of-the-flood": [
+   76666,
+   "On the face of the flood"
+  ],
+  "meropes-child-shall-lead-them": [
+   77390,
+   "A child shall lead them"
+  ],
+  "meropes-story-of-mary-jones-and-her-bible": [
+   77715,
+   "The story of Mary Jones and her Bible"
+  ],
+  "meropes-mystery-of-hoyles-mouth": [
+   79697,
+   "The mystery of Hoyle's Mouth"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "meropes-margies-venture": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meropes-two-brave-boys-and-the-wrong-twin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meropes-two-little-finns": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meropes-what-happened-to-tad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meropes-on-the-face-of-the-flood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meropes-child-shall-lead-them": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meropes-story-of-mary-jones-and-her-bible": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "meropes-mystery-of-hoyles-mouth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ropes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

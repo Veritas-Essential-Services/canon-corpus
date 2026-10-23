@@ -1,0 +1,201 @@
+{
+ "_about": "G. J. Whyte-Melville's hunting and historical novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "G. J. Whyte-Melville",
+ "_name_words": [
+  "melville",
+  "whyte"
+ ],
+ "_surname": [
+  "whyte melville"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gjwmelville-m-or-n-similia-similibus-curantur": [
+   11085,
+   "M. or N. \"Similia similibus curantur.\""
+  ],
+  "gjwmelville-kate-coventry": [
+   21759,
+   "Kate Coventry: An Autobiography"
+  ],
+  "gjwmelville-riding-recollections-5th-ed": [
+   35521,
+   "Riding Recollections, 5th ed."
+  ],
+  "gjwmelville-interpreter": [
+   40660,
+   "The Interpreter: A Tale of the War"
+  ],
+  "gjwmelville-katerfelto": [
+   40883,
+   "Katerfelto: A Story of Exmoor"
+  ],
+  "gjwmelville-contraband": [
+   41418,
+   "Contraband; Or, A Losing Hazard"
+  ],
+  "gjwmelville-general-bounce": [
+   41828,
+   "General Bounce; Or, The Lady and the Locusts"
+  ],
+  "gjwmelville-sarchedon": [
+   42393,
+   "Sarchedon: A Legend of the Great Queen"
+  ],
+  "gjwmelville-gladiators-a-tale-of-rome-and-jud-a": [
+   47822,
+   "The Gladiators. A Tale of Rome and Judæa"
+  ],
+  "gjwmelville-queens-maries": [
+   49953,
+   "The Queen's Maries: A Romance of Holyrood"
+  ],
+  "gjwmelville-satanella": [
+   56753,
+   "Satanella: A Story of Punchestown"
+  ],
+  "gjwmelville-market-harborough-and-inside-the-bar": [
+   56862,
+   "Market Harborough, and Inside the Bar"
+  ],
+  "gjwmelville-cerise": [
+   65619,
+   "Cerise: A Tale of the Last Century"
+  ],
+  "gjwmelville-bones-and-i": [
+   71789,
+   "Bones and I"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gjwmelville-m-or-n-similia-similibus-curantur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-kate-coventry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-riding-recollections-5th-ed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-interpreter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-katerfelto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-contraband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-general-bounce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-sarchedon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-gladiators-a-tale-of-rome-and-jud-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-queens-maries": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-satanella": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-market-harborough-and-inside-the-bar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-cerise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gjwmelville-bones-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "whyte melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

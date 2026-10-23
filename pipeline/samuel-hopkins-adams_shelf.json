@@ -1,0 +1,219 @@
+{
+ "_about": "Samuel Hopkins Adams: Novels and other writing; pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Samuel Hopkins Adams",
+ "_name_words": [
+  "adams",
+  "hopkins",
+  "samuel"
+ ],
+ "_surname": [
+  "samuel hopkins adams",
+  "hopkins adams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "shadams-unspeakable-perk": [
+   5009,
+   "The Unspeakable Perk"
+  ],
+  "shadams-average-jones": [
+   6864,
+   "Average Jones"
+  ],
+  "shadams-from-a-bench-in-our-square": [
+   10944,
+   "From a Bench in Our Square"
+  ],
+  "shadams-success": [
+   15431,
+   "Success: A Novel"
+  ],
+  "shadams-clarion": [
+   16447,
+   "The Clarion"
+  ],
+  "shadams-little-miss-grouch-a-narrative-based-on-the-log-of-a": [
+   22196,
+   "Little Miss Grouch A Narrative Based on the Log of Alexander Forsyth Smith's Maiden Transatlantic Voyage"
+  ],
+  "shadams-secret-of-lonesome-cove": [
+   36335,
+   "The Secret of Lonesome Cove"
+  ],
+  "shadams-flying-death": [
+   44324,
+   "The Flying Death"
+  ],
+  "shadams-great-american-fraud-the-patent-medicine-evil": [
+   44325,
+   "The Great American Fraud The Patent Medicine Evil"
+  ],
+  "shadams-wanted": [
+   44326,
+   "Wanted: A Husband. A Novel"
+  ],
+  "shadams-beggars-purse": [
+   44327,
+   "The Beggar's Purse: A Fairy Tale of Familiar Finance"
+  ],
+  "shadams-our-square-and-the-people-in-it": [
+   44328,
+   "Our Square and the People in It"
+  ],
+  "shadams-common-cause": [
+   55400,
+   "Common Cause: A Novel of the War in America"
+  ],
+  "shadams-health-master": [
+   57543,
+   "The Health Master"
+  ],
+  "shadams-flaming-youth": [
+   61582,
+   "Flaming Youth"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57676": "PG 57676: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 10008: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "shadams-unspeakable-perk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-average-jones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-from-a-bench-in-our-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-success": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-clarion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-little-miss-grouch-a-narrative-based-on-the-log-of-a": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-secret-of-lonesome-cove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-flying-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-great-american-fraud-the-patent-medicine-evil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-wanted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-beggars-purse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-our-square-and-the-people-in-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-common-cause": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-health-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "shadams-flaming-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel hopkins adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

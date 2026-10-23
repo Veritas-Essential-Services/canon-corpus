@@ -1,0 +1,164 @@
+{
+ "_about": "Sara Jeannette Duncan's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Sara Jeannette Duncan",
+ "_name_words": [
+  "duncan",
+  "jeannette",
+  "sara"
+ ],
+ "_surname": [
+  "sara jeannette duncan",
+  "jeannette duncan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sjduncan-pool-in-the-desert": [
+   1168,
+   "The Pool in the Desert"
+  ],
+  "sjduncan-story-of-sonny-sahib": [
+   4547,
+   "The Story of Sonny Sahib"
+  ],
+  "sjduncan-path-of-a-star": [
+   5102,
+   "The Path of a Star"
+  ],
+  "sjduncan-imperialist": [
+   5301,
+   "The Imperialist"
+  ],
+  "sjduncan-daughter-of-to-day": [
+   14490,
+   "A Daughter of To-Day"
+  ],
+  "sjduncan-voyage-of-consolation-being-in-the-nature-of-a-sequ": [
+   15966,
+   "A Voyage of Consolation (being in the nature of a sequel to the experiences of 'An American girl in London')"
+  ],
+  "sjduncan-hilda": [
+   18051,
+   "Hilda: A Story of Calcutta"
+  ],
+  "sjduncan-american-girl-in-london": [
+   45925,
+   "An American Girl in London"
+  ],
+  "sjduncan-his-honour-and-a-lady": [
+   53036,
+   "His Honour, and a Lady"
+  ],
+  "sjduncan-simple-adventures-of-a-memsahib": [
+   56513,
+   "The Simple Adventures of a Memsahib"
+  ],
+  "sjduncan-crows-nest": [
+   73588,
+   "The crow's-nest"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "sjduncan-pool-in-the-desert": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-story-of-sonny-sahib": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-path-of-a-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-imperialist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-daughter-of-to-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-voyage-of-consolation-being-in-the-nature-of-a-sequ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-hilda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-american-girl-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-his-honour-and-a-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-simple-adventures-of-a-memsahib": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sjduncan-crows-nest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sara jeannette duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

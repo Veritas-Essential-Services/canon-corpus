@@ -1,0 +1,112 @@
+{
+ "_about": "Louise Jordan Miln: Novels of China. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Louise Jordan Miln",
+ "_name_words": [
+  "jordan",
+  "louise",
+  "miln"
+ ],
+ "_surname": [
+  "louise jordan miln",
+  "jordan miln"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ljmiln-green-goddess": [
+   48112,
+   "The Green Goddess"
+  ],
+  "ljmiln-invisible-foe-a-story-adapted-from-the-play-by-walter": [
+   50188,
+   "The Invisible Foe A Story Adapted from the Play by Walter Hackett"
+  ],
+  "ljmiln-when-we-were-strolling-players-in-the-east": [
+   56262,
+   "When We Were Strolling Players in the East"
+  ],
+  "ljmiln-quaint-korea": [
+   56623,
+   "Quaint Korea"
+  ],
+  "ljmiln-mr-and-mrs-s-n": [
+   59200,
+   "Mr. and Mrs. Sên"
+  ],
+  "ljmiln-mr-wu-based-on-the-play-mr-wu-by-h-m-vernon-and-harol": [
+   66877,
+   "Mr. Wu Based on the Play \"Mr. Wu\" by H. M. Vernon and Harold Owen"
+  ],
+  "ljmiln-ruben-and-ivy-s-n": [
+   77722,
+   "Ruben and Ivy Sên"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ljmiln-green-goddess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise jordan miln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljmiln-invisible-foe-a-story-adapted-from-the-play-by-walter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise jordan miln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljmiln-when-we-were-strolling-players-in-the-east": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise jordan miln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljmiln-quaint-korea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise jordan miln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljmiln-mr-and-mrs-s-n": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise jordan miln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljmiln-mr-wu-based-on-the-play-mr-wu-by-h-m-vernon-and-harol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise jordan miln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljmiln-ruben-and-ivy-s-n": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise jordan miln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

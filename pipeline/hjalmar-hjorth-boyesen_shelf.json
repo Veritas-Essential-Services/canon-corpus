@@ -1,0 +1,112 @@
+{
+ "_about": "Hjalmar Hjorth Boyesen: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Hjalmar Hjorth Boyesen",
+ "_name_words": [
+  "boyesen",
+  "hjalmar",
+  "hjorth"
+ ],
+ "_surname": [
+  "hjalmar hjorth boyesen",
+  "boyesen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hhboyesen-tales-from-two-hemispheres": [
+   299,
+   "Tales from Two Hemispheres"
+  ],
+  "hhboyesen-boyhood-in-norway": [
+   784,
+   "Boyhood in Norway: Stories of Boy-Life in the Land of the Midnight Sun"
+  ],
+  "hhboyesen-ilka-on-the-hill-top-and-other-stories": [
+   13929,
+   "Ilka on the Hill-Top and Other Stories"
+  ],
+  "hhboyesen-essays-on-scandinavian-literature": [
+   19908,
+   "Essays on Scandinavian Literature"
+  ],
+  "hhboyesen-good-for-nothing-1876": [
+   23174,
+   "A Good-For-Nothing 1876"
+  ],
+  "hhboyesen-story-of-norway": [
+   34646,
+   "The Story of Norway"
+  ],
+  "hhboyesen-modern-vikings": [
+   53070,
+   "The Modern Vikings: Stories of Life and Sport in the Norseland"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hhboyesen-tales-from-two-hemispheres": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hjalmar hjorth boyesen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhboyesen-boyhood-in-norway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hjalmar hjorth boyesen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhboyesen-ilka-on-the-hill-top-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hjalmar hjorth boyesen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhboyesen-essays-on-scandinavian-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hjalmar hjorth boyesen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhboyesen-good-for-nothing-1876": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hjalmar hjorth boyesen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhboyesen-story-of-norway": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hjalmar hjorth boyesen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhboyesen-modern-vikings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hjalmar hjorth boyesen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "_about": "Frederick Orin Bartlett's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frederick Orin Bartlett",
+ "_name_words": [
+  "bartlett",
+  "frederick",
+  "orin"
+ ],
+ "_surname": [
+  "frederick orin bartlett",
+  "orin bartlett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fobartlett-seventh-noon": [
+   20429,
+   "The Seventh Noon"
+  ],
+  "fobartlett-triflers": [
+   20458,
+   "The Triflers"
+  ],
+  "fobartlett-one-way-out": [
+   28315,
+   "One way out"
+  ],
+  "fobartlett-web-of-the-golden-spider": [
+   29104,
+   "The Web of the Golden Spider"
+  ],
+  "fobartlett-wall-street-girl": [
+   29654,
+   "The Wall Street Girl"
+  ],
+  "fobartlett-prodigal-pro-tem": [
+   67997,
+   "The Prodigal Pro Tem"
+  ],
+  "fobartlett-big-laurel": [
+   76048,
+   "Big Laurel"
+  ],
+  "fobartlett-new-lives-for-old": [
+   76684,
+   "New lives for old"
+  ],
+  "fobartlett-joan-and-co": [
+   78046,
+   "Joan and Co."
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fobartlett-seventh-noon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-triflers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-one-way-out": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-web-of-the-golden-spider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-wall-street-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-prodigal-pro-tem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-big-laurel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-new-lives-for-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fobartlett-joan-and-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick orin bartlett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

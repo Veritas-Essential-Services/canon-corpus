@@ -1,0 +1,278 @@
+{
+ "_about": "Edwin L. Sabin's frontier stories and Trail series for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edwin L. Sabin",
+ "_name_words": [
+  "sabin"
+ ],
+ "_surname": [
+  "sabin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "elsabin-pluck-on-the-long-trail": [
+   20710,
+   "Pluck on the Long Trail; Or, Boy Scouts in the Rockies"
+  ],
+  "elsabin-gold-seekers-of-49": [
+   23192,
+   "Gold Seekers of '49"
+  ],
+  "elsabin-desert-dust": [
+   27437,
+   "Desert Dust"
+  ],
+  "elsabin-boys-book-of-frontier-fighters": [
+   31130,
+   "Boys' Book of Frontier Fighters"
+  ],
+  "elsabin-boys-book-of-indian-warriors-and-heroic-indian-women": [
+   31131,
+   "Boys' Book of Indian Warriors and Heroic Indian Women"
+  ],
+  "elsabin-great-pikes-peak-rush": [
+   37943,
+   "The great Pike's Peak rush"
+  ],
+  "elsabin-beaufort-chums": [
+   54887,
+   "Beaufort Chums"
+  ],
+  "elsabin-when-you-were-a-boy": [
+   58165,
+   "When You Were a Boy"
+  ],
+  "elsabin-with-carson-and-fr-mont-being-the-adventures-in-the": [
+   59807,
+   "With Carson and Frémont Being the Adventures, in the Years 1842-'43-'44, on Trail Over Mountains and Through Deserts From the East of the Rockies to the West of the Sierras, of Scout Christopher Carson and Lieutenant John Charles Frémont, Leading Their Brave Company Including the Boy Oliver"
+  ],
+  "elsabin-on-the-plains-with-custer-the-western-life-and-deeds": [
+   60157,
+   "On the Plains with Custer The Western Life and Deeds of the Chief With the Yellow Hair, Under Whom Served Boy Bugler Ned Fletcher, When in the Troublous Years 1866–1876 the Fighting Seventh Cavalry Helped to Win Pioneer Kansas, Nebraska, and Dakota for White Civilization and Today's Peace"
+  ],
+  "elsabin-with-sam-houston-in-texas-a-boy-volunteer-in-the-tex": [
+   62898,
+   "With Sam Houston in Texas A Boy Volunteer in the Texas Struggles for Independence, When in the Years 1835-1836 the Texas Colonists Threw Off the Unjust Rule of Mexico, and by Heroic Deeds Established, Under the Guidance of the Bluff Sam Houston, Their Own Free Republic Which To-day is the Great Lone Star State"
+  ],
+  "elsabin-buffalo-bill-and-the-overland-trail-being-the-story": [
+   64231,
+   "Buffalo Bill and the Overland Trail Being the story of how boy and man worked hard and played hard to blaze the white trail, by wagon train, stage coach and pony express, across the great plains and the mountains beyond, that the American republic might expand and flourish"
+  ],
+  "elsabin-opening-the-west-with-lewis-and-clark-by-boat-horse": [
+   64903,
+   "Opening the West With Lewis and Clark By Boat, Horse and Foot Up the Great River Missouri, Across the Stony Mountains and on to the Pacific, When in the Years 1804, 1805, 1806, Young Captain Lewis, the Long Knife, and His Friend Captain Clark, the Red Head Chief, Aided by Sacajawea, the Birdwoman, Conducted Their Little Band of Men Tried and True Through the Unknown New United States"
+  ],
+  "elsabin-general-crook-and-the-fighting-apaches-treating-also": [
+   65954,
+   "General Crook and the Fighting Apaches Treating Also of the Part Borne by Jimmie Dunn in the days, 1871-1886, When With Soldiers and Pack-trains and Indian Scouts, but Employing the Stronger Weapons of Kindness, Firmness and Honesty, the Gray Fox Worked Hard to the End That the White Men and the Red Men in the Southwest as in the Northwest Might Better Understand One Another"
+  ],
+  "elsabin-lost-with-lieutenant-pike-how-from-the-pawnee-villag": [
+   67142,
+   "Lost with Lieutenant Pike How from the Pawnee Village the boy named Scar Head marched with the young American Chief clear into the Snowy Mountains; how in the dead of winter they searched for the Lost River and thought that they had found it; and how the Spanish Soldiery came upon them and took them down to Santa Fé of New Mexico, where another surprise awaited them"
+  ],
+  "elsabin-easy-come-easy-go": [
+   68450,
+   "Easy come, easy go"
+  ],
+  "elsabin-into-mexico-with-general-scott-when-attached-to-the": [
+   68652,
+   "Into Mexico with General Scott When attached to the Fourth United States Infantry, Division of Major-General William J. Worth, Corps of the famous Major-General Winfield Scott, known as Old Fuss and Feathers, campaign of 1847, lad Jerry Cameron marched and fought beside Second Lieutenant U. S. Grant all the way from Cera Cruz to the City of Mexico, where six thousand American soldiers planted the Stars and Stripes in the midst of one hundred and fifty thousand amazed people"
+  ],
+  "elsabin-opening-the-iron-trail": [
+   73521,
+   "Opening the iron trail"
+  ],
+  "elsabin-other-half": [
+   73550,
+   "The other half"
+  ],
+  "elsabin-with-george-washington-into-the-wilderness": [
+   74602,
+   "With George Washington into the wilderness"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "elsabin-pluck-on-the-long-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-gold-seekers-of-49": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-desert-dust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-boys-book-of-frontier-fighters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-boys-book-of-indian-warriors-and-heroic-indian-women": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-great-pikes-peak-rush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-beaufort-chums": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-when-you-were-a-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-with-carson-and-fr-mont-being-the-adventures-in-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-on-the-plains-with-custer-the-western-life-and-deeds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-with-sam-houston-in-texas-a-boy-volunteer-in-the-tex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-buffalo-bill-and-the-overland-trail-being-the-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-opening-the-west-with-lewis-and-clark-by-boat-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-general-crook-and-the-fighting-apaches-treating-also": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-lost-with-lieutenant-pike-how-from-the-pawnee-villag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-easy-come-easy-go": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-into-mexico-with-general-scott-when-attached-to-the": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-opening-the-iron-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-other-half": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elsabin-with-george-washington-into-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sabin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

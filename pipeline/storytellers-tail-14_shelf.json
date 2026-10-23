@@ -1,0 +1,930 @@
+{
+ "_about": "Storytellers' tail, group 14: 27 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): John Luther Long, Samuel Lover, Ruth Lynn, Charles MacFarlane, William Maginn, César Malan, Mary E. Mann, Edward Marshall, Jean N. McIlwraith, Maria J. McIntosh, William McLennan, Marian Hurd McNeely, Rufus Merrill, Miriam Michelson, Weymer Jay Mills, D. M. Moir, Dorothea Moore, John Trotwood Moore, Martha Morton, Louise Chandler Moulton, Frank Andrew Munsey, Charles Augustus Murray, Frank Lewis Nason, J. B. Naylor, Richard Newton, Frederick Niven, Philip Francis Nowlan. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 14 (27 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jllong-way-of-the-gods": [
+   "john luther long"
+  ],
+  "jllong-heimweh": [
+   "john luther long"
+  ],
+  "slover-handy-andy": [
+   "samuel lover",
+   "lover"
+  ],
+  "slover-handy-andy-21817": [
+   "samuel lover",
+   "lover"
+  ],
+  "rlynn-corrie": [
+   "ruth lynn"
+  ],
+  "rlynn-mysterious-locket": [
+   "ruth lynn"
+  ],
+  "cmacfarlane-legend-of-reading-abbey": [
+   "charles macfarlane",
+   "macfarlane"
+  ],
+  "cmacfarlane-camp-of-refuge": [
+   "charles macfarlane",
+   "macfarlane"
+  ],
+  "wmaginn-military-sketch-book-vol-2-of-2-reminiscences-of-sev": [
+   "william maginn",
+   "maginn"
+  ],
+  "wmaginn-military-sketch-book-vol-1-of-2-reminiscences-of-sev": [
+   "william maginn",
+   "maginn"
+  ],
+  "cmalan-theobald-the-iron-hearted": [
+   "césar malan",
+   "malan"
+  ],
+  "cmalan-stories-from-switzerland": [
+   "césar malan",
+   "malan"
+  ],
+  "memann-mrs-day-s-daughters": [
+   "mary e. mann"
+  ],
+  "memann-sheaf-of-corn": [
+   "mary e. mann"
+  ],
+  "emarshall-in-old-kentucky": [
+   "edward marshall",
+   "marshall"
+  ],
+  "emarshall-old-flute-player": [
+   "edward marshall",
+   "marshall"
+  ],
+  "jnmcilwraith-making-of-mary": [
+   "jean n. mcilwraith",
+   "jean newton mcilwraith",
+   "mcilwraith"
+  ],
+  "jnmcilwraith-span-o-life": [
+   "jean n. mcilwraith",
+   "jean newton mcilwraith",
+   "mcilwraith"
+  ],
+  "mjmcintosh-evenings-at-donaldson-manor": [
+   "maria j. mcintosh",
+   "maria jane mcintosh",
+   "mcintosh"
+  ],
+  "mjmcintosh-aunt-kitty-s-tales": [
+   "maria j. mcintosh",
+   "maria jane mcintosh",
+   "mcintosh"
+  ],
+  "wmclennan-span-o-life": [
+   "william mclennan",
+   "mclennan"
+  ],
+  "wmclennan-spanish-john-being-a-memoir-now-first-published-in": [
+   "william mclennan",
+   "mclennan"
+  ],
+  "mhmcneely-when-she-came-home-from-college": [
+   "marian hurd mcneely",
+   "mcneely"
+  ],
+  "mhmcneely-miss-billy": [
+   "marian hurd mcneely",
+   "mcneely"
+  ],
+  "rmerrill-book-about-animals": [
+   "rufus merrill",
+   "merrill"
+  ],
+  "rmerrill-stories-about-indians": [
+   "rufus merrill",
+   "merrill"
+  ],
+  "mmichelson-in-the-bishop-s-carriage": [
+   "miriam michelson",
+   "michelson"
+  ],
+  "mmichelson-madigans": [
+   "miriam michelson",
+   "michelson"
+  ],
+  "wjmills-ghosts-of-their-ancestors": [
+   "weymer jay mills",
+   "mills"
+  ],
+  "wjmills-through-the-gates-of-old-romance": [
+   "weymer jay mills",
+   "mills"
+  ],
+  "dmmoir-life-of-mansie-wauch-tailor-in-dalkeith-written-by-hi": [
+   "d. m. moir",
+   "david macbeth moir"
+  ],
+  "dmmoir-life-of-mansie-wauch-tailor-in-dalkeith": [
+   "d. m. moir",
+   "david macbeth moir"
+  ],
+  "dmoore-head-of-the-lower-school": [
+   "dorothea moore"
+  ],
+  "dmoore-sydney-lisle-the-heiress-of-st-quentin": [
+   "dorothea moore"
+  ],
+  "jtmoore-bishop-of-cottontown": [
+   "john trotwood moore"
+  ],
+  "jtmoore-jack-ballington-forester": [
+   "john trotwood moore"
+  ],
+  "mmorton-her-lord-and-master": [
+   "martha morton",
+   "morton"
+  ],
+  "mmorton-val-sinestra": [
+   "martha morton",
+   "morton"
+  ],
+  "lcmoulton-new-bed-time-stories": [
+   "louise chandler moulton",
+   "moulton"
+  ],
+  "lcmoulton-more-bed-time-stories": [
+   "louise chandler moulton",
+   "moulton"
+  ],
+  "famunsey-under-fire": [
+   "frank andrew munsey",
+   "munsey"
+  ],
+  "famunsey-boy-broker": [
+   "frank andrew munsey",
+   "munsey"
+  ],
+  "camurray-prairie-bird": [
+   "charles augustus murray",
+   "murray"
+  ],
+  "camurray-hassan": [
+   "charles augustus murray",
+   "murray"
+  ],
+  "flnason-blue-goose": [
+   "frank lewis nason",
+   "nason"
+  ],
+  "flnason-vision-of-elijah-berl": [
+   "frank lewis nason",
+   "nason"
+  ],
+  "jbnaylor-little-green-goblin": [
+   "j. b. naylor",
+   "james ball naylor",
+   "naylor"
+  ],
+  "jbnaylor-sign-of-the-prophet": [
+   "j. b. naylor",
+   "james ball naylor",
+   "naylor"
+  ],
+  "rnewton-life-of-jesus-christ-for-the-young-vol-3": [
+   "richard newton",
+   "newton"
+  ],
+  "rnewton-life-of-jesus-christ-for-the-young-vol-4-and-his-lif": [
+   "richard newton",
+   "newton"
+  ],
+  "fniven-lost-cabin-mine": [
+   "frederick niven",
+   "niven"
+  ],
+  "fniven-s-s-glory": [
+   "frederick niven",
+   "niven"
+  ],
+  "pfnowlan-airlords-of-han": [
+   "philip francis nowlan",
+   "nowlan"
+  ],
+  "pfnowlan-armageddon2419-a-d": [
+   "philip francis nowlan",
+   "nowlan"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jllong-way-of-the-gods": [
+   33616,
+   "The Way of the Gods"
+  ],
+  "jllong-heimweh": [
+   74942,
+   "Heimweh; The siren; The loaded gun; Liebereich; \"Iupiter Tonans;\" \"Sis;\" Thor's emerald; Guile"
+  ],
+  "slover-handy-andy": [
+   7180,
+   "Handy Andy: A Tale of Irish Life. Volume 2"
+  ],
+  "slover-handy-andy-21817": [
+   21817,
+   "Handy Andy: A Tale of Irish Life. Volume 1"
+  ],
+  "rlynn-corrie": [
+   75031,
+   "Corrie"
+  ],
+  "rlynn-mysterious-locket": [
+   79291,
+   "The mysterious locket"
+  ],
+  "cmacfarlane-legend-of-reading-abbey": [
+   41804,
+   "A Legend of Reading Abbey"
+  ],
+  "cmacfarlane-camp-of-refuge": [
+   46744,
+   "The Camp of Refuge: A Tale of the Conquest of the Isle of Ely"
+  ],
+  "wmaginn-military-sketch-book-vol-2-of-2-reminiscences-of-sev": [
+   57327,
+   "The Military Sketch-Book, Vol. 2 (of 2) Reminiscences of seventeen years in the service abroad and at home"
+  ],
+  "wmaginn-military-sketch-book-vol-1-of-2-reminiscences-of-sev": [
+   58449,
+   "The Military Sketch-Book. Vol. 1 (of 2) Reminiscences of seventeen years in the service abroad and at home"
+  ],
+  "cmalan-theobald-the-iron-hearted": [
+   11107,
+   "Theobald, the Iron-Hearted; Or, Love to Enemies"
+  ],
+  "cmalan-stories-from-switzerland": [
+   62568,
+   "Stories from Switzerland"
+  ],
+  "memann-mrs-day-s-daughters": [
+   7941,
+   "Mrs. Day's Daughters"
+  ],
+  "memann-sheaf-of-corn": [
+   26417,
+   "A Sheaf of Corn"
+  ],
+  "emarshall-in-old-kentucky": [
+   13933,
+   "In Old Kentucky"
+  ],
+  "emarshall-old-flute-player": [
+   17841,
+   "The Old Flute-Player: A Romance of To-day"
+  ],
+  "jnmcilwraith-making-of-mary": [
+   19343,
+   "The Making of Mary"
+  ],
+  "jnmcilwraith-span-o-life": [
+   33731,
+   "The Span o' Life: A Tale of Louisbourg & Quebec"
+  ],
+  "mjmcintosh-evenings-at-donaldson-manor": [
+   20018,
+   "Evenings at Donaldson Manor; Or, The Christmas Guest"
+  ],
+  "mjmcintosh-aunt-kitty-s-tales": [
+   42837,
+   "Aunt Kitty's Tales"
+  ],
+  "wmclennan-span-o-life": [
+   33731,
+   "The Span o' Life: A Tale of Louisbourg & Quebec"
+  ],
+  "wmclennan-spanish-john-being-a-memoir-now-first-published-in": [
+   61224,
+   "Spanish John Being a Memoir, Now First Published in Complete Form, of the Early Life and Adventures of Colonel John McDonell, Known as \"Spanish John,\" When a Lieutenant in the Company of St. James of the Regiment Irlandia, in the Service of the King of Spain Operating in Italy"
+  ],
+  "mhmcneely-when-she-came-home-from-college": [
+   54033,
+   "When she came home from college"
+  ],
+  "mhmcneely-miss-billy": [
+   60495,
+   "Miss Billy"
+  ],
+  "rmerrill-book-about-animals": [
+   10737,
+   "Book about Animals"
+  ],
+  "rmerrill-stories-about-indians": [
+   33142,
+   "Stories About Indians"
+  ],
+  "mmichelson-in-the-bishop-s-carriage": [
+   481,
+   "In the Bishop's Carriage"
+  ],
+  "mmichelson-madigans": [
+   21243,
+   "The Madigans"
+  ],
+  "wjmills-ghosts-of-their-ancestors": [
+   36991,
+   "The ghosts of their ancestors"
+  ],
+  "wjmills-through-the-gates-of-old-romance": [
+   47702,
+   "Through the Gates of Old Romance"
+  ],
+  "dmmoir-life-of-mansie-wauch-tailor-in-dalkeith-written-by-hi": [
+   20767,
+   "The Life of Mansie Wauch Tailor in Dalkeith, written by himself"
+  ],
+  "dmmoir-life-of-mansie-wauch-tailor-in-dalkeith": [
+   23739,
+   "The Life of Mansie Wauch tailor in Dalkeith"
+  ],
+  "dmoore-head-of-the-lower-school": [
+   56594,
+   "Head of the Lower School"
+  ],
+  "dmoore-sydney-lisle-the-heiress-of-st-quentin": [
+   61208,
+   "Sydney Lisle, the Heiress of St. Quentin"
+  ],
+  "jtmoore-bishop-of-cottontown": [
+   23637,
+   "The Bishop of Cottontown: A Story of the Southern Cotton Mills"
+  ],
+  "jtmoore-jack-ballington-forester": [
+   45652,
+   "Jack Ballington, Forester"
+  ],
+  "mmorton-her-lord-and-master": [
+   48337,
+   "Her Lord and Master"
+  ],
+  "mmorton-val-sinestra": [
+   64282,
+   "Val Sinestra"
+  ],
+  "lcmoulton-new-bed-time-stories": [
+   60418,
+   "New Bed-Time Stories"
+  ],
+  "lcmoulton-more-bed-time-stories": [
+   60581,
+   "More Bed-Time Stories"
+  ],
+  "famunsey-under-fire": [
+   27935,
+   "Under Fire: A Tale of New England Village Life"
+  ],
+  "famunsey-boy-broker": [
+   28887,
+   "The Boy Broker; Or, Among the Kings of Wall Street"
+  ],
+  "camurray-prairie-bird": [
+   47357,
+   "The Prairie-Bird"
+  ],
+  "camurray-hassan": [
+   50760,
+   "Hassan; or, The Child of the Pyramid: An Egyptian Tale"
+  ],
+  "flnason-blue-goose": [
+   31485,
+   "The Blue Goose"
+  ],
+  "flnason-vision-of-elijah-berl": [
+   32107,
+   "The Vision of Elijah Berl"
+  ],
+  "jbnaylor-little-green-goblin": [
+   61441,
+   "The Little Green Goblin"
+  ],
+  "jbnaylor-sign-of-the-prophet": [
+   72275,
+   "The sign of the prophet"
+  ],
+  "rnewton-life-of-jesus-christ-for-the-young-vol-3": [
+   11509,
+   "The Life of Jesus Christ for the Young, Vol. 3"
+  ],
+  "rnewton-life-of-jesus-christ-for-the-young-vol-4-and-his-lif": [
+   67268,
+   "The Life of Jesus Christ for the Young, Vol. 4 And His Life Depicted in a Gallery of Eighty Paintings"
+  ],
+  "fniven-lost-cabin-mine": [
+   43975,
+   "The Lost Cabin Mine"
+  ],
+  "fniven-s-s-glory": [
+   59343,
+   "The S.S. Glory"
+  ],
+  "pfnowlan-airlords-of-han": [
+   25438,
+   "The Airlords of Han"
+  ],
+  "pfnowlan-armageddon2419-a-d": [
+   32530,
+   "Armageddon—2419 A.D."
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jllong-way-of-the-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john luther long",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jllong-heimweh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john luther long",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "slover-handy-andy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel lover",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "slover-handy-andy-21817": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel lover",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlynn-corrie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lynn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlynn-mysterious-locket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth lynn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmacfarlane-legend-of-reading-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles macfarlane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmacfarlane-camp-of-refuge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles macfarlane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmaginn-military-sketch-book-vol-2-of-2-reminiscences-of-sev": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william maginn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmaginn-military-sketch-book-vol-1-of-2-reminiscences-of-sev": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william maginn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmalan-theobald-the-iron-hearted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "césar malan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmalan-stories-from-switzerland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "césar malan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "memann-mrs-day-s-daughters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary e. mann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "memann-sheaf-of-corn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary e. mann",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emarshall-in-old-kentucky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emarshall-old-flute-player": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jnmcilwraith-making-of-mary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jean n. mcilwraith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jnmcilwraith-span-o-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jean n. mcilwraith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjmcintosh-evenings-at-donaldson-manor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maria j. mcintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjmcintosh-aunt-kitty-s-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maria j. mcintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmclennan-span-o-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william mclennan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmclennan-spanish-john-being-a-memoir-now-first-published-in": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william mclennan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhmcneely-when-she-came-home-from-college": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marian hurd mcneely",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhmcneely-miss-billy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marian hurd mcneely",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmerrill-book-about-animals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rufus merrill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmerrill-stories-about-indians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rufus merrill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmichelson-in-the-bishop-s-carriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miriam michelson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmichelson-madigans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "miriam michelson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjmills-ghosts-of-their-ancestors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weymer jay mills",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjmills-through-the-gates-of-old-romance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "weymer jay mills",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmmoir-life-of-mansie-wauch-tailor-in-dalkeith-written-by-hi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. m. moir",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmmoir-life-of-mansie-wauch-tailor-in-dalkeith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "d. m. moir",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmoore-head-of-the-lower-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothea moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dmoore-sydney-lisle-the-heiress-of-st-quentin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dorothea moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtmoore-bishop-of-cottontown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john trotwood moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jtmoore-jack-ballington-forester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john trotwood moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmorton-her-lord-and-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha morton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmorton-val-sinestra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha morton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lcmoulton-new-bed-time-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise chandler moulton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lcmoulton-more-bed-time-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise chandler moulton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "famunsey-under-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank andrew munsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "famunsey-boy-broker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank andrew munsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "camurray-prairie-bird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "camurray-hassan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles augustus murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flnason-blue-goose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank lewis nason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flnason-vision-of-elijah-berl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank lewis nason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbnaylor-little-green-goblin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. naylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbnaylor-sign-of-the-prophet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. naylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnewton-life-of-jesus-christ-for-the-young-vol-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard newton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rnewton-life-of-jesus-christ-for-the-young-vol-4-and-his-lif": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard newton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fniven-lost-cabin-mine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick niven",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fniven-s-s-glory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick niven",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pfnowlan-airlords-of-han": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip francis nowlan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pfnowlan-armageddon2419-a-d": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip francis nowlan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

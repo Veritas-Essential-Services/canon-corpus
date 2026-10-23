@@ -1,0 +1,162 @@
+{
+ "_about": "Archibald Marshall's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Archibald Marshall",
+ "_name_words": [
+  "archibald",
+  "marshall"
+ ],
+ "_surname": [
+  "archibald marshall"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "amarshall-squires-daughter": [
+   31381,
+   "The Squire's Daughter: Being the First Book in the Chronicles of the Clintons"
+  ],
+  "amarshall-abington-abbey": [
+   35106,
+   "Abington Abbey: A Novel"
+  ],
+  "amarshall-eldest-son": [
+   38646,
+   "The Eldest Son"
+  ],
+  "amarshall-honour-of-the-clintons": [
+   38647,
+   "The Honour of the Clintons"
+  ],
+  "amarshall-peter-binney": [
+   38694,
+   "Peter Binney: A Novel"
+  ],
+  "amarshall-graftons": [
+   39587,
+   "The Graftons: A Novel"
+  ],
+  "amarshall-hall-and-the-grange": [
+   39595,
+   "The Hall and the Grange: A Novel"
+  ],
+  "amarshall-upsidonia": [
+   39905,
+   "Upsidonia"
+  ],
+  "amarshall-spring-walk-in-provence": [
+   46035,
+   "A Spring Walk in Provence"
+  ],
+  "amarshall-sir-harry": [
+   54673,
+   "Sir Harry: A Love Story"
+  ],
+  "amarshall-peggy-in-toyland": [
+   68749,
+   "Peggy in Toyland"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "amarshall-squires-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-abington-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-eldest-son": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-honour-of-the-clintons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-peter-binney": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-graftons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-hall-and-the-grange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-upsidonia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-spring-walk-in-provence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-sir-harry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amarshall-peggy-in-toyland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "archibald marshall",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

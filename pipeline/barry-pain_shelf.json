@@ -1,0 +1,136 @@
+{
+ "_about": "Barry Pain's writing at Gutenberg: humorous and weird stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Barry Pain",
+ "_name_words": [
+  "barry",
+  "pain"
+ ],
+ "_surname": [
+  "barry pain"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bpain-eliza": [
+   23783,
+   "Eliza"
+  ],
+  "bpain-marge-askinforit": [
+   26024,
+   "Marge Askinforit"
+  ],
+  "bpain-if-winter-dont-a-b-c-d-e-f-notsomuchinson": [
+   27375,
+   "If Winter Don't A.B.C.D.E.F. Notsomuchinson"
+  ],
+  "bpain-new-gulliver-and-other-stories": [
+   33542,
+   "The New Gulliver, and Other Stories"
+  ],
+  "bpain-here-and-hereafter": [
+   35148,
+   "Here and Hereafter"
+  ],
+  "bpain-exiles-of-faloo": [
+   44718,
+   "The Exiles of Faloo"
+  ],
+  "bpain-in-a-canadian-canoe": [
+   67322,
+   "In a Canadian Canoe; The Nine Muses Minus One, and Other Stories"
+  ],
+  "bpain-wilhelmina-in-london": [
+   71322,
+   "Wilhelmina in London"
+  ],
+  "bpain-problem-club": [
+   75598,
+   "The Problem Club"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bpain-eliza": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-marge-askinforit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-if-winter-dont-a-b-c-d-e-f-notsomuchinson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-new-gulliver-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-here-and-hereafter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-exiles-of-faloo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-in-a-canadian-canoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-wilhelmina-in-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bpain-problem-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barry pain",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

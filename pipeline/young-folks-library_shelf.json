@@ -1,0 +1,319 @@
+{
+ "_about": "The Young Folks' Library: Selections from the Choicest Literature of All Lands, Thomas Bailey Aldrich editor-in-chief, each volume under its own editor (Boston: Hall & Locke, 1901-1902; volume 1 is the 1910 printing). All twenty volumes: 11 and 14 from Gutenberg, the rest from Internet Archive scans, raw OCR; some are Google scans, whose OCR is rougher. Each scan was matched to its volume by its contents and title page, not by Internet Archive's volume field, which is often wrong. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "Thomas Bailey Aldrich (editor-in-chief)",
+ "_name_words": [
+  "aldrich",
+  "young",
+  "folks",
+  "library"
+ ],
+ "_surname": [
+  "thomas bailey aldrich",
+  "young folks"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "yfl-v11-wonders-of-earth": [
+   15884,
+   "Young Folks' Library, vol. 11: Wonders of Earth, Sea and Sky, ed. Edward S. Holden (Hall & Locke)"
+  ],
+  "yfl-v14-a-book-of-natural-history": [
+   18274,
+   "Young Folks' Library, vol. 14: A Book of Natural History, ed. David Starr Jordan (Hall & Locke)"
+  ]
+ },
+ "internet_archive": {
+  "yfl-v01-the-story-teller": [
+   "storyteller00nort",
+   "Young Folks' Library, vol. 1: The Story Teller, ed. Charles Eliot Norton (1910 printing) (Hall & Locke)"
+  ],
+  "yfl-v02-the-merry-maker": [
+   "bwb_T4-AKB-837_2",
+   "Young Folks' Library, vol. 2: The Merry Maker, ed. Joel Chandler Harris (Hall & Locke)"
+  ],
+  "yfl-v03-famous-fairy-tales": [
+   "youngfolkslibra01aldrgoog",
+   "Young Folks' Library, vol. 3: Famous Fairy Tales, ed. Roswell Field (Hall & Locke)"
+  ],
+  "yfl-v04-tales-of-fantasy": [
+   "talesoffantasy00jenk",
+   "Young Folks' Library, vol. 4: Tales of Fantasy, ed. Tudor Jenks (Hall & Locke)"
+  ],
+  "yfl-v05-myths-and-legends": [
+   "youngfolkslibrar05aldr",
+   "Young Folks' Library, vol. 5: Myths and Legends, ed. Thomas J. Shahan (Hall & Locke)"
+  ],
+  "yfl-v06-the-animal-story-book": [
+   "youngfolkslibrar06aldr",
+   "Young Folks' Library, vol. 6: The Animal Story Book, ed. Ernest Thompson Seton (Hall & Locke)"
+  ],
+  "yfl-v07-school-and-college-days": [
+   "youngfolkslibrar07aldr",
+   "Young Folks' Library, vol. 7: School and College Days, ed. Kirk Munroe and Mary Hartwell Catherwood (Hall & Locke)"
+  ],
+  "yfl-v08-the-book-of-adventure": [
+   "youngfolkslibra00aldrgoog",
+   "Young Folks' Library, vol. 8: The Book of Adventure, ed. Nathan Haskell Dole (Hall & Locke)"
+  ],
+  "yfl-v09-famous-explorers": [
+   "youngfolkslibrar09aldr",
+   "Young Folks' Library, vol. 9: Famous Explorers, ed. Edwin Erle Sparks (Hall & Locke)"
+  ],
+  "yfl-v10-brave-deeds": [
+   "bravedeeds01unkngoog",
+   "Young Folks' Library, vol. 10: Brave Deeds, ed. John Townsend Trowbridge (Hall & Locke)"
+  ],
+  "yfl-v12-famous-travels": [
+   "youngfolkslibrar12aldr",
+   "Young Folks' Library, vol. 12: Famous Travels, ed. George A. Henty (Hall & Locke)"
+  ],
+  "yfl-v13-sea-stories": [
+   "youngfolkslibrar13aldr",
+   "Young Folks' Library, vol. 13: Sea Stories, ed. Cyrus Townsend Brady (Hall & Locke)"
+  ],
+  "yfl-v15-historic-scenes-in-fiction": [
+   "youngfolkslibrar15aldr",
+   "Young Folks' Library, vol. 15: Historic Scenes in Fiction, ed. Henry van Dyke (Hall & Locke)"
+  ],
+  "yfl-v16-famous-battles-by-land-and-sea": [
+   "famousbattlesby00unkngoog",
+   "Young Folks' Library, vol. 16: Famous Battles by Land and Sea, ed. John D. Long (Hall & Locke)"
+  ],
+  "yfl-v17-men-who-have-risen": [
+   "youngfolkslibrar17aldr",
+   "Young Folks' Library, vol. 17: Men Who Have Risen, ed. Hamilton Wright Mabie (Hall & Locke)"
+  ],
+  "yfl-v18-the-book-of-patriotism": [
+   "youngfolkslibrar18aldr",
+   "Young Folks' Library, vol. 18: The Book of Patriotism, ed. George Frisbie Hoar (Hall & Locke)"
+  ],
+  "yfl-v19-leaders-of-men": [
+   "youngfolkslibrar19aldr",
+   "Young Folks' Library, vol. 19: Leaders of Men, or History Told in Biography, ed. William Rainey Harper (Hall & Locke)"
+  ],
+  "yfl-v20-famous-poems": [
+   "famouspoems00aldr",
+   "Young Folks' Library, vol. 20: Famous Poems, selected by Thomas Bailey Aldrich (Hall & Locke)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "yfl-v11-wonders-of-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yfl-v14-a-book-of-natural-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "yfl-v01-the-story-teller": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "yfl-v02-the-merry-maker": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v03-famous-fairy-tales": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "yfl-v04-tales-of-fantasy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "[c1902]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "yfl-v05-myths-and-legends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v06-the-animal-story-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v07-school-and-college-days": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v08-the-book-of-adventure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "yfl-v09-famous-explorers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v10-brave-deeds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "yfl-v12-famous-travels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v13-sea-stories": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v15-historic-scenes-in-fiction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v16-famous-battles-by-land-and-sea": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "yfl-v17-men-who-have-risen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v18-the-book-of-patriotism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v19-leaders-of-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "yfl-v20-famous-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas bailey aldrich",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

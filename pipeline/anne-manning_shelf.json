@@ -1,0 +1,136 @@
+{
+ "_about": "Anne Manning's writing at Gutenberg: historical tales (Mary Powell and the rest). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Anne Manning",
+ "_name_words": [
+  "anne",
+  "manning"
+ ],
+ "_surname": [
+  "anne manning"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "amanning-jacques-bonneval": [
+   13896,
+   "Jacques Bonneval; Or, The Days of the Dragonnades"
+  ],
+  "amanning-mary-powell-deborahs-diary": [
+   21431,
+   "Mary Powell & Deborah's Diary"
+  ],
+  "amanning-duchess-of-trajetto": [
+   42296,
+   "The Duchess of Trajetto"
+  ],
+  "amanning-household-of-sir-thomas-more": [
+   45187,
+   "The Household of Sir Thomas More"
+  ],
+  "amanning-year-nine": [
+   49290,
+   "The Year Nine: A Tale of the Tyrol"
+  ],
+  "amanning-colloquies-of-edward-osborne-citizen-and-clothworke": [
+   51557,
+   "The Colloquies of Edward Osborne, Citizen and Clothworker of London"
+  ],
+  "amanning-old-chelsea-bun-house": [
+   51829,
+   "The Old Chelsea Bun-House: A Tale of the Last Century"
+  ],
+  "amanning-cherry-violet": [
+   61080,
+   "Cherry & Violet: A Tale of the Great Plague"
+  ],
+  "amanning-day-of-small-things": [
+   62219,
+   "The Day of Small Things"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "amanning-jacques-bonneval": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-mary-powell-deborahs-diary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-duchess-of-trajetto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-household-of-sir-thomas-more": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-year-nine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-colloquies-of-edward-osborne-citizen-and-clothworke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-old-chelsea-bun-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-cherry-violet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "amanning-day-of-small-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "anne manning",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

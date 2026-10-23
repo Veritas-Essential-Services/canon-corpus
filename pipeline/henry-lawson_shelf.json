@@ -1,0 +1,125 @@
+{
+ "_about": "Henry Lawson's writing at Gutenberg: australian bush stories and verse. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Henry Lawson",
+ "_name_words": [
+  "henry",
+  "lawson"
+ ],
+ "_surname": [
+  "henry lawson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hlawson-in-the-days-when-the-world-was-wide-and-other-verses": [
+   214,
+   "In the Days When the World Was Wide, and Other Verses"
+  ],
+  "hlawson-joe-wilson-and-his-mates": [
+   1036,
+   "Joe Wilson and His Mates"
+  ],
+  "hlawson-on-the-track": [
+   1231,
+   "On the Track"
+  ],
+  "hlawson-over-the-sliprails": [
+   1313,
+   "Over the Sliprails"
+  ],
+  "hlawson-children-of-the-bush": [
+   7065,
+   "Children of the Bush"
+  ],
+  "hlawson-while-the-billy-boils": [
+   7144,
+   "While the Billy Boils"
+  ],
+  "hlawson-rising-of-the-court": [
+   7447,
+   "The Rising of the Court"
+  ],
+  "hlawson-verses-popular-and-humorous": [
+   52066,
+   "Verses popular and humorous"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57706": "PG 57706: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "hlawson-in-the-days-when-the-world-was-wide-and-other-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlawson-joe-wilson-and-his-mates": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlawson-on-the-track": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlawson-over-the-sliprails": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlawson-children-of-the-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlawson-while-the-billy-boils": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlawson-rising-of-the-court": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlawson-verses-popular-and-humorous": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry lawson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

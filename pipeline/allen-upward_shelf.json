@@ -1,0 +1,123 @@
+{
+ "_about": "Allen Upward's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Allen Upward",
+ "_name_words": [
+  "allen",
+  "upward"
+ ],
+ "_surname": [
+  "allen upward"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aupward-athelstane-ford": [
+   26677,
+   "Athelstane Ford"
+  ],
+  "aupward-international-spy-being-the-secret-history-of-the-ru": [
+   30482,
+   "The International Spy Being the Secret History of the Russo-Japanese War"
+  ],
+  "aupward-queen-against-owen": [
+   30910,
+   "The Queen Against Owen"
+  ],
+  "aupward-secret-history-of-to-day": [
+   66181,
+   "Secret History of To-day: Being Revelations of a Diplomatic Spy"
+  ],
+  "aupward-lord-alistairs-rebellion": [
+   66617,
+   "Lord Alistair's Rebellion"
+  ],
+  "aupward-slaves-of-society": [
+   67606,
+   "The Slaves of Society: A Comedy in Covers"
+  ],
+  "aupward-club-of-masks": [
+   69845,
+   "The club of masks"
+  ],
+  "aupward-crown-of-straw": [
+   73325,
+   "A crown of straw"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "aupward-athelstane-ford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aupward-international-spy-being-the-secret-history-of-the-ru": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aupward-queen-against-owen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aupward-secret-history-of-to-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aupward-lord-alistairs-rebellion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aupward-slaves-of-society": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aupward-club-of-masks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aupward-crown-of-straw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "allen upward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "_about": "The Children's Book: A Collection of the Best and Most Famous Stories and Poems in the English Language, chosen by Horace E. Scudder (Boston: Houghton, Mifflin, 1881), the one-volume household anthology that the later multi-volume children's sets grew from. Internet Archive scan, raw OCR. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "Horace E. Scudder (editor)",
+ "_name_words": [
+  "scudder",
+  "horace",
+  "children"
+ ],
+ "_surname": [
+  "scudder"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "scudder-childrens-book-1881": [
+   "childrensbookcol00scud",
+   "The Children's Book: A Collection of the Best and Most Famous Stories and Poems in the English Language (Houghton, Mifflin, 1881)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "scudder-childrens-book-1881": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "scudder",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "c1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

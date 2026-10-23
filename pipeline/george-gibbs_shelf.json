@@ -1,0 +1,190 @@
+{
+ "_about": "George Gibbs's (1870-1942) novels. Not George Gibbs the ethnologist (1815-1873). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George Gibbs",
+ "_name_words": [
+  "george",
+  "gibbs"
+ ],
+ "_surname": [
+  "george gibbs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ggibbs-madcap": [
+   11584,
+   "Madcap"
+  ],
+  "ggibbs-paradise-garden": [
+   15570,
+   "Paradise Garden: The Satirical Narrative of a Great Experiment"
+  ],
+  "ggibbs-secret-witness": [
+   25689,
+   "The Secret Witness"
+  ],
+  "ggibbs-vagrant-duke": [
+   29617,
+   "The Vagrant Duke"
+  ],
+  "ggibbs-maker-of-opportunities": [
+   38702,
+   "The Maker of Opportunities"
+  ],
+  "ggibbs-golden-bough": [
+   41844,
+   "The Golden Bough"
+  ],
+  "ggibbs-pike-cutlass": [
+   42138,
+   "Pike & Cutlass: Hero Tales of Our Navy"
+  ],
+  "ggibbs-forbidden-way": [
+   47899,
+   "The Forbidden Way"
+  ],
+  "ggibbs-splendid-outcast": [
+   47900,
+   "The Splendid Outcast"
+  ],
+  "ggibbs-in-search-of-mademoiselle": [
+   48336,
+   "In Search of Mademoiselle"
+  ],
+  "ggibbs-love-of-monsieur": [
+   51468,
+   "The Love of Monsieur"
+  ],
+  "ggibbs-silent-battle": [
+   54544,
+   "The Silent Battle"
+  ],
+  "ggibbs-yellow-dove": [
+   55077,
+   "The Yellow Dove"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59164": "PG 59164: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "ggibbs-madcap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-paradise-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-secret-witness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-vagrant-duke": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-maker-of-opportunities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-golden-bough": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-pike-cutlass": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-forbidden-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-splendid-outcast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-in-search-of-mademoiselle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-love-of-monsieur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-silent-battle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggibbs-yellow-dove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george gibbs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

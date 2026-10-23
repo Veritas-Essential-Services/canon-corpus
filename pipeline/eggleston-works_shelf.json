@@ -1,0 +1,177 @@
+{
+ "_about": "Edward Eggleston: Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Edward Eggleston",
+ "_name_words": [
+  "edward",
+  "eggleston"
+ ],
+ "_surname": [
+  "edward eggleston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eeggleston-mystery-of-metropolisville": [
+   12195,
+   "The Mystery of Metropolisville"
+  ],
+  "eeggleston-end-of-the-world": [
+   14051,
+   "The End of the World: A Love Story"
+  ],
+  "eeggleston-hoosier-schoolmaster": [
+   15099,
+   "The Hoosier Schoolmaster: A Story of Backwoods Life in Indiana"
+  ],
+  "eeggleston-stories-of-american-life-and-adventure": [
+   15597,
+   "Stories of American Life and Adventure"
+  ],
+  "eeggleston-queer-stories-for-boys-and-girls": [
+   19896,
+   "Queer Stories for Boys and Girls"
+  ],
+  "eeggleston-hoosier-school-boy": [
+   23771,
+   "The Hoosier School-boy"
+  ],
+  "eeggleston-duffels": [
+   25661,
+   "Duffels"
+  ],
+  "eeggleston-faith-doctor": [
+   27168,
+   "The Faith Doctor: A Story of New York"
+  ],
+  "eeggleston-graysons": [
+   34266,
+   "The Graysons: A Story of Illinois"
+  ],
+  "eeggleston-beginners-of-a-nation-a-history-of-the-source-and": [
+   39882,
+   "The Beginners of a Nation A History of the Source and Rise of the Earliest English Settlements in America, with Special Reference to the Life and Character of the People"
+  ],
+  "eeggleston-mr-blakes-walking-stick": [
+   52935,
+   "Mr. Blake's Walking-Stick: A Christmas Story for Boys and Girls"
+  ],
+  "eeggleston-circuit-rider": [
+   74840,
+   "The circuit rider"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 10070: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "eeggleston-mystery-of-metropolisville": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-end-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-hoosier-schoolmaster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-stories-of-american-life-and-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-queer-stories-for-boys-and-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-hoosier-school-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-duffels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-faith-doctor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-graysons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-beginners-of-a-nation-a-history-of-the-source-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-mr-blakes-walking-stick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eeggleston-circuit-rider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward eggleston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

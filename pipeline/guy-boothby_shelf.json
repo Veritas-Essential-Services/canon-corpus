@@ -1,0 +1,226 @@
+{
+ "_about": "Guy Boothby's adventure novels, the Dr Nikola books among them. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Guy Boothby",
+ "_name_words": [
+  "boothby"
+ ],
+ "_surname": [
+  "boothby"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gboothby-my-strangest-case": [
+   10585,
+   "My Strangest Case"
+  ],
+  "gboothby-bid-for-fortune": [
+   21640,
+   "A Bid for Fortune; Or, Dr. Nikola's Vendetta"
+  ],
+  "gboothby-long-live-the-king": [
+   32132,
+   "\"Long Live the King!\""
+  ],
+  "gboothby-red-rats-daughter": [
+   33004,
+   "The Red Rat's Daughter"
+  ],
+  "gboothby-pharos-the-egyptian": [
+   33610,
+   "Pharos, The Egyptian: A Romance"
+  ],
+  "gboothby-childerbridge-mystery": [
+   35277,
+   "The Childerbridge Mystery"
+  ],
+  "gboothby-crime-of-the-under-seas": [
+   36118,
+   "A Crime of the Under-seas"
+  ],
+  "gboothby-kidnapped-president": [
+   36492,
+   "The Kidnapped President"
+  ],
+  "gboothby-cabinet-secret": [
+   36892,
+   "A Cabinet Secret"
+  ],
+  "gboothby-in-strange-company": [
+   37081,
+   "In Strange Company: A Story of Chili and the Southern Seas"
+  ],
+  "gboothby-beautiful-white-devil": [
+   37948,
+   "The Beautiful White Devil"
+  ],
+  "gboothby-marriage-of-esther": [
+   39731,
+   "The Marriage of Esther"
+  ],
+  "gboothby-farewell-nikola": [
+   39906,
+   "'Farewell, Nikola'"
+  ],
+  "gboothby-sheilah-mcleod": [
+   41269,
+   "Sheilah McLeod: A Heroine of the Back Blocks"
+  ],
+  "gboothby-mystery-of-the-clasped-hands": [
+   42807,
+   "The Mystery of the Clasped Hands: A Novel"
+  ],
+  "gboothby-prince-of-swindlers": [
+   54771,
+   "A Prince of Swindlers"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gboothby-my-strangest-case": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-bid-for-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-long-live-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-red-rats-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-pharos-the-egyptian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-childerbridge-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-crime-of-the-under-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-kidnapped-president": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-cabinet-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-in-strange-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-beautiful-white-devil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-marriage-of-esther": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-farewell-nikola": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-sheilah-mcleod": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-mystery-of-the-clasped-hands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gboothby-prince-of-swindlers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boothby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

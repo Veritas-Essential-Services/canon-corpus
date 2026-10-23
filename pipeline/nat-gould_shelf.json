@@ -1,0 +1,110 @@
+{
+ "_about": "Nat Gould: Racing novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Nat Gould",
+ "_name_words": [
+  "gould",
+  "nat"
+ ],
+ "_surname": [
+  "nat gould"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ngould-rider-in-khaki": [
+   24804,
+   "The Rider in Khaki: A Novel"
+  ],
+  "ngould-settling-day": [
+   35496,
+   "Settling Day"
+  ],
+  "ngould-fast-as-the-wind": [
+   35618,
+   "Fast as the Wind: A Novel"
+  ],
+  "ngould-second-string": [
+   35782,
+   "The Second String"
+  ],
+  "ngould-sweep-winner": [
+   36480,
+   "The Sweep Winner"
+  ],
+  "ngould-runaways": [
+   39631,
+   "The Runaways: A New and Original Story"
+  ],
+  "ngould-lad-of-mettle": [
+   66030,
+   "A Lad of Mettle"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ngould-rider-in-khaki": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nat gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngould-settling-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nat gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngould-fast-as-the-wind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nat gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngould-second-string": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nat gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngould-sweep-winner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nat gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngould-runaways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nat gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ngould-lad-of-mettle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nat gould",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

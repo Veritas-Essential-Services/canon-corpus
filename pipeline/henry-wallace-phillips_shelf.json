@@ -1,0 +1,112 @@
+{
+ "_about": "Henry Wallace Phillips: Western comic stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Henry Wallace Phillips",
+ "_name_words": [
+  "henry",
+  "phillips",
+  "wallace"
+ ],
+ "_surname": [
+  "henry wallace phillips",
+  "wallace phillips"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hwphillips-red-saunders": [
+   12196,
+   "Red Saunders: His Adventures West & East"
+  ],
+  "hwphillips-mr-scraggs": [
+   12197,
+   "Mr. Scraggs"
+  ],
+  "hwphillips-fables-for-the-times": [
+   13494,
+   "Fables for the Times"
+  ],
+  "hwphillips-red-saunders-pets-and-other-critters": [
+   19265,
+   "Red Saunders' Pets and Other Critters"
+  ],
+  "hwphillips-mascot-of-sweet-briar-gulch": [
+   25809,
+   "The Mascot of Sweet Briar Gulch"
+  ],
+  "hwphillips-plain-mary-smith": [
+   35787,
+   "Plain Mary Smith: A Romance of Red Saunders"
+  ],
+  "hwphillips-trolley-folly": [
+   57494,
+   "Trolley Folly"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hwphillips-red-saunders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wallace phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwphillips-mr-scraggs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wallace phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwphillips-fables-for-the-times": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wallace phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwphillips-red-saunders-pets-and-other-critters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wallace phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwphillips-mascot-of-sweet-briar-gulch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wallace phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwphillips-plain-mary-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wallace phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwphillips-trolley-folly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wallace phillips",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

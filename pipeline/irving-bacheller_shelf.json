@@ -1,0 +1,254 @@
+{
+ "_about": "Irving Bacheller's novels, Eben Holden and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Irving Bacheller",
+ "_name_words": [
+  "bacheller"
+ ],
+ "_surname": [
+  "bacheller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ibacheller-eben-holden": [
+   2799,
+   "Eben Holden: A Tale of the North Country"
+  ],
+  "ibacheller-master-of-silence": [
+   7486,
+   "The Master of Silence: A Romance"
+  ],
+  "ibacheller-keeping-up-with-lizzie": [
+   11503,
+   "Keeping up with Lizzie"
+  ],
+  "ibacheller-darrel-of-the-blessed-isles": [
+   12102,
+   "Darrel of the Blessed Isles"
+  ],
+  "ibacheller-dri-and-i": [
+   12440,
+   "D'Ri and I: A Tale of Daring Deeds in the Second War with the British. Being the Memoirs of Colonel Ramon Bell, U.S.A."
+  ],
+  "ibacheller-light-in-the-clearing": [
+   14150,
+   "The Light in the Clearing: A Tale of the North Country in the Time of Silas Wright"
+  ],
+  "ibacheller-in-the-days-of-poor-richard": [
+   15608,
+   "In the Days of Poor Richard"
+  ],
+  "ibacheller-vergilius": [
+   16491,
+   "Vergilius: A Tale of the Coming of Christ"
+  ],
+  "ibacheller-man-for-the-ages": [
+   17237,
+   "A Man for the Ages: A Story of the Builders of Democracy"
+  ],
+  "ibacheller-charge-it": [
+   29568,
+   "'Charge It': Keeping Up With Harry"
+  ],
+  "ibacheller-prodigal-village": [
+   44796,
+   "The Prodigal Village: A Christmas Tale"
+  ],
+  "ibacheller-hand-made-gentleman": [
+   50002,
+   "The Hand-Made Gentleman: A Tale of the Battles of Peace"
+  ],
+  "ibacheller-turning-of-griggsby": [
+   50087,
+   "The Turning of Griggsby: Being a Story of Keeping up with Dan'l Webster"
+  ],
+  "ibacheller-marryers": [
+   50088,
+   "The Marryers: A History Gathered from a Brief of the Honorable Socrates Potter"
+  ],
+  "ibacheller-silas-strong-emperor-of-the-woods": [
+   50091,
+   "Silas Strong, Emperor of the Woods"
+  ],
+  "ibacheller-keeping-up-with-william-in-which-the-honorable-so": [
+   50093,
+   "Keeping Up with William In which the Honorable Socrates Potter Talks of the Relative Merits of Sense Common and Preferred"
+  ],
+  "ibacheller-eben-holdens-last-day-a-fishing": [
+   52454,
+   "Eben Holden's Last Day A-Fishing"
+  ],
+  "ibacheller-in-various-moods": [
+   52457,
+   "In Various Moods: Poems and Verses"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57684": "PG 57684: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "ibacheller-eben-holden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-master-of-silence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-keeping-up-with-lizzie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-darrel-of-the-blessed-isles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-dri-and-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-light-in-the-clearing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-in-the-days-of-poor-richard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-vergilius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-man-for-the-ages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-charge-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-prodigal-village": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-hand-made-gentleman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-turning-of-griggsby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-marryers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-silas-strong-emperor-of-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-keeping-up-with-william-in-which-the-honorable-so": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-eben-holdens-last-day-a-fishing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ibacheller-in-various-moods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bacheller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

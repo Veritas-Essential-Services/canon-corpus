@@ -1,0 +1,162 @@
+{
+ "_about": "Harold Bell Wright's novels, The Shepherd of the Hills and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Harold Bell Wright",
+ "_name_words": [
+  "bell",
+  "wright"
+ ],
+ "_surname": [
+  "bell wright"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hbwright-re-creation-of-brian-kent": [
+   3265,
+   "The Re-Creation of Brian Kent"
+  ],
+  "hbwright-shepherd-of-the-hills": [
+   4735,
+   "The Shepherd of the Hills"
+  ],
+  "hbwright-their-yesterdays": [
+   6105,
+   "Their Yesterdays"
+  ],
+  "hbwright-that-printer-of-udells": [
+   6384,
+   "That Printer of Udell's: A Story of the Middle West"
+  ],
+  "hbwright-winning-of-barbara-worth": [
+   6997,
+   "The Winning of Barbara Worth"
+  ],
+  "hbwright-calling-of-dan-matthews": [
+   9314,
+   "The Calling of Dan Matthews"
+  ],
+  "hbwright-helen-of-the-old-house": [
+   9410,
+   "Helen of the Old House"
+  ],
+  "hbwright-eyes-of-the-world": [
+   11715,
+   "The Eyes of the World"
+  ],
+  "hbwright-uncrowned-king": [
+   12991,
+   "The Uncrowned King"
+  ],
+  "hbwright-when-a-mans-a-man": [
+   14367,
+   "When a man's a man"
+  ],
+  "hbwright-mine-with-the-iron-door": [
+   65995,
+   "The Mine with the Iron Door"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hbwright-re-creation-of-brian-kent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-shepherd-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-their-yesterdays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-that-printer-of-udells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-winning-of-barbara-worth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-calling-of-dan-matthews": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-helen-of-the-old-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-eyes-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-uncrowned-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-when-a-mans-a-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbwright-mine-with-the-iron-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bell wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

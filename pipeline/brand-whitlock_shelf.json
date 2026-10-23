@@ -1,0 +1,98 @@
+{
+ "_about": "Brand Whitlock: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Brand Whitlock",
+ "_name_words": [
+  "brand",
+  "whitlock"
+ ],
+ "_surname": [
+  "brand whitlock",
+  "whitlock"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bwhitlock-her-infinite-variety": [
+   35727,
+   "Her Infinite Variety"
+  ],
+  "bwhitlock-turn-of-the-balance": [
+   40398,
+   "The Turn of the Balance"
+  ],
+  "bwhitlock-happy-average": [
+   45728,
+   "The Happy Average"
+  ],
+  "bwhitlock-13th-district": [
+   62902,
+   "The 13th District: A Story of a Candidate"
+  ],
+  "bwhitlock-gold-brick": [
+   67596,
+   "The Gold Brick"
+  ],
+  "bwhitlock-forty-years-of-it": [
+   67648,
+   "Forty Years of It"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bwhitlock-her-infinite-variety": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brand whitlock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bwhitlock-turn-of-the-balance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brand whitlock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bwhitlock-happy-average": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brand whitlock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bwhitlock-13th-district": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brand whitlock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bwhitlock-gold-brick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brand whitlock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bwhitlock-forty-years-of-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brand whitlock",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "_about": "John Richardson's writing at Gutenberg: canadian frontier romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "John Richardson",
+ "_name_words": [
+  "john",
+  "major",
+  "richardson"
+ ],
+ "_surname": [
+  "major richardson",
+  "john richardson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jrichardson-wacousta": [
+   4719,
+   "Wacousta : a tale of the Pontiac conspiracy — Volume 1"
+  ],
+  "jrichardson-wacousta-4720": [
+   4720,
+   "Wacousta : a tale of the Pontiac conspiracy — Volume 2"
+  ],
+  "jrichardson-wacousta-4911": [
+   4911,
+   "Wacousta : a tale of the Pontiac conspiracy — Volume 3"
+  ],
+  "jrichardson-wacousta-4912": [
+   4912,
+   "Wacousta : a tale of the Pontiac conspiracy (Complete)"
+  ],
+  "jrichardson-canadian-brothers": [
+   5106,
+   "The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American War — Volume 1"
+  ],
+  "jrichardson-canadian-brothers-5107": [
+   5107,
+   "The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American War — Volume 2"
+  ],
+  "jrichardson-canadian-brothers-5108": [
+   5108,
+   "The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American War — Complete"
+  ],
+  "jrichardson-hardscrabble": [
+   5169,
+   "Hardscrabble; or, the fall of Chicago: a tale of Indian warfare"
+  ],
+  "jrichardson-wau-nan-gee": [
+   31745,
+   "Wau-nan-gee; Or, the Massacre at Chicago: A Romance of the American Revolution"
+  ],
+  "jrichardson-matilda-montgomerie": [
+   39758,
+   "Matilda Montgomerie; Or, The Prophecy Fulfilled"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jrichardson-wacousta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-wacousta-4720": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-wacousta-4911": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-wacousta-4912": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-canadian-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-canadian-brothers-5107": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-canadian-brothers-5108": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-hardscrabble": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-wau-nan-gee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrichardson-matilda-montgomerie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "major richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

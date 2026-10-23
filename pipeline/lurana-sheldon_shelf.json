@@ -1,0 +1,111 @@
+{
+ "_about": "Lurana Sheldon: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Lurana Sheldon",
+ "_name_words": [
+  "lurana",
+  "sheldon"
+ ],
+ "_surname": [
+  "lurana sheldon",
+  "sheldon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lsheldon-for-gold-or-soul-the-story-of-a-great-department-st": [
+   11166,
+   "For Gold or Soul? The Story of a Great Department Store"
+  ],
+  "lsheldon-my-queen": [
+   57249,
+   "My Queen: A Weekly Journal for Young Women. Issue 1. September 29, 1900. From Farm to Fortune; or Only a Farmer's Daughter"
+  ],
+  "lsheldon-my-queen-57274": [
+   57274,
+   "My Queen: A Weekly Journal for Young Women. Issue 2, October 6, 1900 Marion Marlowe's Courage; or, A Brave Girl's Struggle for Life and Honor"
+  ],
+  "lsheldon-my-queen-57582": [
+   57582,
+   "My Queen: A Weekly Journal for Young Women. Issue 3, October 13, 1900 Marion Marlowe's True Heart; or, How a Daughter Forgave"
+  ],
+  "lsheldon-my-queen-58021": [
+   58021,
+   "My Queen: A Weekly Journal for Young Women. Issue 4, October 20, 1900 Marion Marlowe's Noble Work; or, The Tragedy at the Hospital"
+  ],
+  "lsheldon-my-queen-58022": [
+   58022,
+   "My Queen: A Weekly Journal for Young Women. Issue 5, October 27, 1900 Marion Marlowe Entrapped; or, The Victim of Professional Jealousy"
+  ],
+  "lsheldon-death-to-the-inquisitive-a-story-of-sinful-love": [
+   58387,
+   "Death to the Inquisitive! A story of sinful love"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lsheldon-for-gold-or-soul-the-story-of-a-great-department-st": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lurana sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsheldon-my-queen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lurana sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsheldon-my-queen-57274": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lurana sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsheldon-my-queen-57582": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lurana sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsheldon-my-queen-58021": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lurana sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsheldon-my-queen-58022": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lurana sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsheldon-death-to-the-inquisitive-a-story-of-sinful-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lurana sheldon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

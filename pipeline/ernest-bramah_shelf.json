@@ -1,0 +1,109 @@
+{
+ "_about": "Ernest Bramah: Kai Lung tales and Max Carrados detective stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ernest Bramah",
+ "_name_words": [
+  "bramah"
+ ],
+ "_surname": [
+  "bramah"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ebramah-wallet-of-kai-lung": [
+   1076,
+   "The Wallet of Kai Lung"
+  ],
+  "ebramah-mirror-of-kong-ho": [
+   1077,
+   "The Mirror of Kong Ho"
+  ],
+  "ebramah-kai-lungs-golden-hours": [
+   1267,
+   "Kai Lung's Golden Hours"
+  ],
+  "ebramah-four-max-carrados-detective-stories": [
+   12932,
+   "Four Max Carrados Detective Stories"
+  ],
+  "ebramah-secret-of-the-league": [
+   34522,
+   "The Secret of the League: The Story of a Social War"
+  ],
+  "ebramah-max-carrados": [
+   34732,
+   "Max Carrados"
+  ],
+  "ebramah-eyes-of-max-carrados": [
+   77788,
+   "The eyes of Max Carrados"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ebramah-wallet-of-kai-lung": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bramah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebramah-mirror-of-kong-ho": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bramah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebramah-kai-lungs-golden-hours": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bramah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebramah-four-max-carrados-detective-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bramah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebramah-secret-of-the-league": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bramah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebramah-max-carrados": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bramah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ebramah-eyes-of-max-carrados": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bramah",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

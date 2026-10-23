@@ -1,0 +1,86 @@
+{
+ "_about": "Philip Verrill Mighels: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Philip Verrill Mighels",
+ "_name_words": [
+  "mighels",
+  "philip",
+  "verrill"
+ ],
+ "_surname": [
+  "philip verrill mighels",
+  "mighels"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pvmighels-bruvver-jims-baby": [
+   16608,
+   "Bruvver Jim's Baby"
+  ],
+  "pvmighels-furnace-of-gold": [
+   16629,
+   "The Furnace of Gold"
+  ],
+  "pvmighels-as-it-was-in-the-beginning": [
+   22554,
+   "As It Was in the Beginning"
+  ],
+  "pvmighels-crystal-sceptre": [
+   60860,
+   "The Crystal Sceptre: A Story of Adventure"
+  ],
+  "pvmighels-when-a-witch-is-young": [
+   68249,
+   "When a witch is young: a historical novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "pvmighels-bruvver-jims-baby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip verrill mighels",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pvmighels-furnace-of-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip verrill mighels",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pvmighels-as-it-was-in-the-beginning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip verrill mighels",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pvmighels-crystal-sceptre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip verrill mighels",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pvmighels-when-a-witch-is-young": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "philip verrill mighels",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

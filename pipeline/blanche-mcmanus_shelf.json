@@ -1,0 +1,135 @@
+{
+ "_about": "Blanche McManus's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Blanche McManus",
+ "_name_words": [
+  "mcmanus"
+ ],
+ "_surname": [
+  "mcmanus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bmcmanus-our-little-hindu-cousin": [
+   41977,
+   "Our Little Hindu Cousin"
+  ],
+  "bmcmanus-our-little-dutch-cousin": [
+   42203,
+   "Our Little Dutch Cousin"
+  ],
+  "bmcmanus-our-little-english-cousin": [
+   43250,
+   "Our Little English Cousin"
+  ],
+  "bmcmanus-our-little-scotch-cousin": [
+   43546,
+   "Our Little Scotch Cousin"
+  ],
+  "bmcmanus-our-little-french-cousin": [
+   43831,
+   "Our Little French Cousin"
+  ],
+  "bmcmanus-nabul-our-little-egyptian-cousin": [
+   44731,
+   "Nabul, Our Little Egyptian Cousin"
+  ],
+  "bmcmanus-our-little-arabian-cousin": [
+   46042,
+   "Our Little Arabian Cousin"
+  ],
+  "bmcmanus-romantic-ireland": [
+   46429,
+   "Romantic Ireland; volume 1/2"
+  ],
+  "bmcmanus-romantic-ireland-46439": [
+   46439,
+   "Romantic Ireland; volume 2/2"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bmcmanus-our-little-hindu-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-our-little-dutch-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-our-little-english-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-our-little-scotch-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-our-little-french-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-nabul-our-little-egyptian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-our-little-arabian-cousin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-romantic-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcmanus-romantic-ireland-46439": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcmanus",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

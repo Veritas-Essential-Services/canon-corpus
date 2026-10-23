@@ -1,0 +1,110 @@
+{
+ "_about": "Leonard Merrick: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Leonard Merrick",
+ "_name_words": [
+  "leonard",
+  "merrick"
+ ],
+ "_surname": [
+  "leonard merrick"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lmerrick-chair-on-the-boulevard": [
+   9928,
+   "A Chair on the Boulevard"
+  ],
+  "lmerrick-quaint-companions-with-an-introduction-by-h-g-wells": [
+   43616,
+   "The Quaint Companions With an Introduction by H. G. Wells"
+  ],
+  "lmerrick-to-tell-you-the-truth": [
+   43742,
+   "To Tell You the Truth"
+  ],
+  "lmerrick-man-who-was-good": [
+   43837,
+   "The Man Who Was Good"
+  ],
+  "lmerrick-one-mans-view": [
+   43971,
+   "One Man's View"
+  ],
+  "lmerrick-cynthia-with-an-introduction-by-maurice-hewlett": [
+   44465,
+   "Cynthia With an Introduction by Maurice Hewlett"
+  ],
+  "lmerrick-conrad-in-quest-of-his-youth": [
+   56226,
+   "Conrad in Quest of His Youth: An Extravagance of Temperament"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lmerrick-chair-on-the-boulevard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard merrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmerrick-quaint-companions-with-an-introduction-by-h-g-wells": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard merrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmerrick-to-tell-you-the-truth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard merrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmerrick-man-who-was-good": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard merrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmerrick-one-mans-view": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard merrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmerrick-cynthia-with-an-introduction-by-maurice-hewlett": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard merrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lmerrick-conrad-in-quest-of-his-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard merrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

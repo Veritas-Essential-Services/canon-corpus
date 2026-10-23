@@ -1,0 +1,214 @@
+{
+ "_about": "David Christie Murray's novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "David Christie Murray",
+ "_name_words": [
+  "christie",
+  "murray"
+ ],
+ "_surname": [
+  "christie murray"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dcmurray-recollections-with-photogravure-portrait-of-the-aut": [
+   22200,
+   "Recollections With Photogravure Portrait of the Author and a number of Original Letters, of which one by George Meredith and another by Robert Louis Stevenson are reproduced in facsimile"
+  ],
+  "dcmurray-aunt-rachel-a-rustic-sentimental-comedy": [
+   22202,
+   "Aunt Rachel A Rustic Sentimental Comedy"
+  ],
+  "dcmurray-my-contemporaries-in-fiction": [
+   22203,
+   "My Contemporaries In Fiction"
+  ],
+  "dcmurray-making-of-a-novelist-an-experiment-in-autobiography": [
+   22204,
+   "The Making Of A Novelist An Experiment In Autobiography"
+  ],
+  "dcmurray-in-direst-peril": [
+   22205,
+   "In Direst Peril"
+  ],
+  "dcmurray-old-meerschaum-from-coals-of-fire-and-other-stories": [
+   22206,
+   "An Old Meerschaum From Coals Of Fire And Other Stories, Volume II. (of III.)"
+  ],
+  "dcmurray-romance-of-giovanni-calvotti-from-coals-of-fire-and": [
+   22207,
+   "The Romance Of Giovanni Calvotti From Coals Of Fire And Other Stories, Volume II. (of III.)"
+  ],
+  "dcmurray-cruel-barbara-allen-from-coals-of-fire-and-other-st": [
+   22208,
+   "Cruel Barbara Allen From Coals Of Fire And Other Stories, Volume II. (of III.)"
+  ],
+  "dcmurray-schwartz": [
+   22271,
+   "Schwartz: A History From \"Schwartz\" by David Christie Murray"
+  ],
+  "dcmurray-young-mr-barters-repentance-from-schwartz-by-david": [
+   22272,
+   "Young Mr. Barter's Repentance From \"Schwartz\" by David Christie Murray"
+  ],
+  "dcmurray-bulldog-and-butterfly-from-schwartz-by-david-christ": [
+   22273,
+   "Bulldog And Butterfly From \"Schwartz\" by David Christie Murray"
+  ],
+  "dcmurray-julia-and-her-romeo": [
+   22274,
+   "Julia And Her Romeo: A Chronicle Of Castle Barfield From \"Schwartz\" by David Christie Murray"
+  ],
+  "dcmurray-vc-a-chronicle-of-castle-barfield-and-of-the-crimea": [
+   22275,
+   "VC — A Chronicle of Castle Barfield and of the Crimea"
+  ],
+  "dcmurray-despairs-last-journey": [
+   22276,
+   "Despair's Last Journey"
+  ],
+  "dcmurray-great-war-of-189": [
+   57707,
+   "The Great War of 189-: A Forecast"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "dcmurray-recollections-with-photogravure-portrait-of-the-aut": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-aunt-rachel-a-rustic-sentimental-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-my-contemporaries-in-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-making-of-a-novelist-an-experiment-in-autobiography": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-in-direst-peril": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-old-meerschaum-from-coals-of-fire-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-romance-of-giovanni-calvotti-from-coals-of-fire-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-cruel-barbara-allen-from-coals-of-fire-and-other-st": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-schwartz": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-young-mr-barters-repentance-from-schwartz-by-david": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-bulldog-and-butterfly-from-schwartz-by-david-christ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-julia-and-her-romeo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-vc-a-chronicle-of-castle-barfield-and-of-the-crimea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-despairs-last-journey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dcmurray-great-war-of-189": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "christie murray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

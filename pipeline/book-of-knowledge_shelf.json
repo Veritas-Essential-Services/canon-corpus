@@ -1,0 +1,321 @@
+{
+ "_about": "The Book of Knowledge: The Children's Encyclopedia, edited by Arthur Mee and Holland Thompson (New York: The Grolier Society), the American edition of Mee's Children's Encyclopaedia, in twenty volumes. All twenty from Internet Archive scans, raw OCR; seventeen from the 1918 printing, volumes 16 and 18 from the 1919 printing and volume 8 from the 1923 printing (the earliest open scans of those volumes). Each scan's volume was checked by its title page or, for volumes 8, 10, 16 and 18 whose OCR lost it, by the set's continuous page numbers. Much of each volume is pictures and captions, kept only as text. Added 2026-10-23 at Adam's ask for old children's sets (the fact sets).",
+ "_author": "Arthur Mee and Holland Thompson (editors)",
+ "_name_words": [
+  "knowledge",
+  "grolier",
+  "children",
+  "encyclopedia"
+ ],
+ "_surname": [
+  "grolier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "book-of-knowledge-v01": [
+   "bookofknowledgec0000arth_r2z4",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 1 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v02": [
+   "bookofknowledgec0000arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 2 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v03": [
+   "bookofknowledgec0003arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 3 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v04": [
+   "bookofknowledgec0004arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 4 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v05": [
+   "bookofknowledgec0000arth_t5y1",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 5 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v06": [
+   "bwb_T5-ARE-234",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 6 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v07": [
+   "bookofknowledgec0007arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 7 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v08": [
+   "bookofknowledgec0008arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 8 (Grolier Society, 1923 printing)"
+  ],
+  "book-of-knowledge-v09": [
+   "bookofknowledgec0009arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 9 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v10": [
+   "bookofknowledgec0010arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 10 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v11": [
+   "bookofknowledgec0011arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 11 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v12": [
+   "bookofknowledgec0012arth_i9d1",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 12 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v13": [
+   "bookofknowledgec0000na",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 13 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v14": [
+   "bookofknowledgec0014arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 14 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v15": [
+   "bookofknowledgec0015arth_g5j5",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 15 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v16": [
+   "bookofknowledge0016arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 16 (Grolier Society, 1919 printing)"
+  ],
+  "book-of-knowledge-v17": [
+   "newbookofknowled0017arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 17 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v18": [
+   "bookofknowledge0018arth",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 18 (Grolier Society, 1919 printing)"
+  ],
+  "book-of-knowledge-v19": [
+   "thebookofknowled0019na",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 19 (Grolier Society, 1918 printing)"
+  ],
+  "book-of-knowledge-v20": [
+   "bookofknowledge0000arth_p6m1",
+   "The Book of Knowledge: The Children's Encyclopedia, vol. 20 (Grolier Society, 1918 printing)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "book-of-knowledge-v01": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v02": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v03": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v04": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v05": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v06": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v07": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v08": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v09": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v10": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v11": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v12": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v13": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v14": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v15": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v16": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v17": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v18": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v19": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "book-of-knowledge-v20": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "grolier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

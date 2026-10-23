@@ -1,0 +1,161 @@
+{
+ "_about": "Lady Emily Ponsonby's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Lady Emily Ponsonby",
+ "_name_words": [
+  "ponsonby"
+ ],
+ "_surname": [
+  "ponsonby"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eponsonby-violet-osborne-volume-1-of-3": [
+   77990,
+   "Violet Osborne, Volume 1 (of 3)"
+  ],
+  "eponsonby-violet-osborne-volume-2-of-3": [
+   77991,
+   "Violet Osborne, Volume 2 (of 3)"
+  ],
+  "eponsonby-violet-osborne-volume-3-of-3": [
+   77992,
+   "Violet Osborne, Volume 3 (of 3)"
+  ],
+  "eponsonby-clare-abbey-volume-1-of-2": [
+   79321,
+   "Clare Abbey, volume 1 (of 2)"
+  ],
+  "eponsonby-clare-abbey-volume-2-of-2": [
+   79324,
+   "Clare Abbey, volume 2 (of 2)"
+  ],
+  "eponsonby-two-brothers": [
+   79388,
+   "The two brothers; vol. 1 [of 3]"
+  ],
+  "eponsonby-two-brothers-79389": [
+   79389,
+   "The two brothers; vol. 2 [of 3]"
+  ],
+  "eponsonby-two-brothers-79390": [
+   79390,
+   "The two brothers; vol. 3 [of 3]"
+  ],
+  "eponsonby-nora": [
+   79461,
+   "Nora; vol. 1 [of 3]"
+  ],
+  "eponsonby-nora-79462": [
+   79462,
+   "Nora; vol. 2 [of 3]"
+  ],
+  "eponsonby-nora-79463": [
+   79463,
+   "Nora; vol. 3 [of 3]"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "eponsonby-violet-osborne-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-violet-osborne-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-violet-osborne-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-clare-abbey-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-clare-abbey-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-two-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-two-brothers-79389": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-two-brothers-79390": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-nora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-nora-79462": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eponsonby-nora-79463": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ponsonby",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

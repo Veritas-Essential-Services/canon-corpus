@@ -1,0 +1,99 @@
+{
+ "_about": "George Ethelbert Walsh: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George Ethelbert Walsh",
+ "_name_words": [
+  "ethelbert",
+  "george",
+  "walsh"
+ ],
+ "_surname": [
+  "george ethelbert walsh",
+  "walsh"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gewalsh-bumper-the-white-rabbit": [
+   18648,
+   "Bumper the White Rabbit"
+  ],
+  "gewalsh-washer-the-raccoon": [
+   42575,
+   "Washer the Raccoon"
+  ],
+  "gewalsh-buster-the-big-brown-bear": [
+   57559,
+   "Buster the Big Brown Bear"
+  ],
+  "gewalsh-bumper-the-white-rabbit-and-his-friends": [
+   57729,
+   "Bumper the White Rabbit and His Friends"
+  ],
+  "gewalsh-white-tail-the-deers-adventures": [
+   57769,
+   "White Tail the Deer's Adventures"
+  ],
+  "gewalsh-bumper-the-white-rabbit-in-the-woods": [
+   57908,
+   "Bumper the White Rabbit in the Woods"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gewalsh-bumper-the-white-rabbit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george ethelbert walsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gewalsh-washer-the-raccoon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george ethelbert walsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gewalsh-buster-the-big-brown-bear": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george ethelbert walsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gewalsh-bumper-the-white-rabbit-and-his-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george ethelbert walsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gewalsh-white-tail-the-deers-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george ethelbert walsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gewalsh-bumper-the-white-rabbit-in-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george ethelbert walsh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

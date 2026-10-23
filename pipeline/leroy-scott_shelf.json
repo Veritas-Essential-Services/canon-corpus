@@ -1,0 +1,110 @@
+{
+ "_about": "Leroy Scott: Novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Leroy Scott",
+ "_name_words": [
+  "leroy",
+  "scott"
+ ],
+ "_surname": [
+  "leroy scott"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lscott-children-of-the-whirlwind": [
+   3321,
+   "Children of the Whirlwind"
+  ],
+  "lscott-no-13-washington-square": [
+   13844,
+   "No. 13 Washington Square"
+  ],
+  "lscott-counsel-for-the-defense": [
+   28820,
+   "Counsel for the Defense"
+  ],
+  "lscott-walking-delegate": [
+   41154,
+   "The Walking Delegate"
+  ],
+  "lscott-to-him-that-hath": [
+   41180,
+   "To Him That Hath"
+  ],
+  "lscott-mary-regan": [
+   71337,
+   "Mary Regan"
+  ],
+  "lscott-shears-of-destiny": [
+   73803,
+   "The shears of destiny"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "lscott-children-of-the-whirlwind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leroy scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lscott-no-13-washington-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leroy scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lscott-counsel-for-the-defense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leroy scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lscott-walking-delegate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leroy scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lscott-to-him-that-hath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leroy scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lscott-mary-regan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leroy scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lscott-shears-of-destiny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leroy scott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

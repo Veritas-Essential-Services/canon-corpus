@@ -1,0 +1,126 @@
+{
+ "_about": "Mabell S. C. Smith's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mabell S. C. Smith",
+ "_name_words": [
+  "clarke",
+  "mabell",
+  "shippie",
+  "smith"
+ ],
+ "_surname": [
+  "mabell s. c. smith",
+  "shippie clarke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mscsmith-ethel-mortons-enterprise": [
+   11660,
+   "Ethel Morton's Enterprise"
+  ],
+  "mscsmith-ethel-morton-at-rose-house": [
+   15550,
+   "Ethel Morton at Rose House"
+  ],
+  "mscsmith-ethel-mortons-holidays": [
+   19834,
+   "Ethel Morton's Holidays"
+  ],
+  "mscsmith-tar-heel-baron": [
+   26112,
+   "A Tar-Heel Baron"
+  ],
+  "mscsmith-ethel-morton-at-sweetbrier-lodge": [
+   35364,
+   "Ethel Morton at Sweetbrier Lodge"
+  ],
+  "mscsmith-ethel-morton-and-the-christmas-ship": [
+   36007,
+   "Ethel Morton and the Christmas Ship"
+  ],
+  "mscsmith-ethel-morton-at-chautauqua": [
+   36010,
+   "Ethel Morton at Chautauqua"
+  ],
+  "mscsmith-twenty-centuries-of-paris": [
+   63570,
+   "Twenty Centuries of Paris"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mscsmith-ethel-mortons-enterprise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscsmith-ethel-morton-at-rose-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscsmith-ethel-mortons-holidays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscsmith-tar-heel-baron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscsmith-ethel-morton-at-sweetbrier-lodge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscsmith-ethel-morton-and-the-christmas-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscsmith-ethel-morton-at-chautauqua": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mscsmith-twenty-centuries-of-paris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mabell s. c. smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

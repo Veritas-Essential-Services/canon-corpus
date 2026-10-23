@@ -1,0 +1,85 @@
+{
+ "_about": "Katherine Mansfield: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Katherine Mansfield",
+ "_name_words": [
+  "katherine",
+  "mansfield"
+ ],
+ "_surname": [
+  "katherine mansfield",
+  "mansfield"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kmansfield-garden-party-and-other-stories": [
+   1429,
+   "The Garden Party, and Other Stories"
+  ],
+  "kmansfield-in-a-german-pension": [
+   1472,
+   "In a German Pension"
+  ],
+  "kmansfield-bliss-and-other-stories": [
+   44385,
+   "Bliss, and other stories"
+  ],
+  "kmansfield-poems": [
+   59276,
+   "Poems"
+  ],
+  "kmansfield-doves-nest-and-other-stories": [
+   66871,
+   "The Doves' Nest, and Other Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "kmansfield-garden-party-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine mansfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmansfield-in-a-german-pension": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine mansfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmansfield-bliss-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine mansfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmansfield-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine mansfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kmansfield-doves-nest-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katherine mansfield",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

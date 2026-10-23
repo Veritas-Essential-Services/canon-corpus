@@ -1,0 +1,397 @@
+{
+ "_about": "Marietta Holley: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Marietta Holley",
+ "_name_words": [
+  "holley",
+  "marietta"
+ ],
+ "_surname": [
+  "marietta holley",
+  "holley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mholley-samantha-at-saratoga": [
+   3425,
+   "Samantha at Saratoga"
+  ],
+  "mholley-sweet-cicely-or-josiah-allen-as-a-politician": [
+   7251,
+   "Sweet Cicely — or Josiah Allen as a Politician"
+  ],
+  "mholley-samantha-on-the-woman-question": [
+   7833,
+   "Samantha on the Woman Question"
+  ],
+  "mholley-samantha-among-the-brethren-volume-1": [
+   9443,
+   "Samantha among the Brethren — Volume 1"
+  ],
+  "mholley-samantha-among-the-brethren-volume-2": [
+   9444,
+   "Samantha among the Brethren — Volume 2"
+  ],
+  "mholley-samantha-among-the-brethren-volume-3": [
+   9445,
+   "Samantha among the Brethren — Volume 3"
+  ],
+  "mholley-samantha-among-the-brethren-volume-4": [
+   9446,
+   "Samantha among the Brethren — Volume 4"
+  ],
+  "mholley-samantha-among-the-brethren-volume-5": [
+   9447,
+   "Samantha among the Brethren — Volume 5"
+  ],
+  "mholley-samantha-among-the-brethren-volume-6": [
+   9448,
+   "Samantha among the Brethren — Volume 6"
+  ],
+  "mholley-samantha-among-the-brethren-volume-7": [
+   9449,
+   "Samantha among the Brethren — Volume 7"
+  ],
+  "mholley-samantha-among-the-brethren-complete": [
+   9450,
+   "Samantha Among the Brethren, Complete"
+  ],
+  "mholley-poems": [
+   10216,
+   "Poems"
+  ],
+  "mholley-samantha-at-the-st-louis-exposition": [
+   12386,
+   "Samantha at the St. Louis Exposition"
+  ],
+  "mholley-samantha-at-the-worlds-fair": [
+   18091,
+   "Samantha at the World's Fair"
+  ],
+  "mholley-samantha-at-coney-island-and-a-thousand-other-island": [
+   28467,
+   "Samantha at Coney Island, and a Thousand Other Islands"
+  ],
+  "mholley-around-the-world-with-josiah-allens-wife": [
+   30190,
+   "Around the World with Josiah Allen's Wife"
+  ],
+  "mholley-my-opinions-and-betsey-bobbets-designed-as-a-beacon": [
+   55594,
+   "My Opinions and Betsey Bobbet's Designed as a Beacon Light to Guide Women to Life, Liberty, and the Pursuit of Happiness, But Which May Be Read by Members of the Sterner Sect, without Injury to Themselves or the Book"
+  ],
+  "mholley-lament-of-the-mormon-wife": [
+   58556,
+   "The Lament of the Mormon Wife: A Poem"
+  ],
+  "mholley-josiahs-alarm-and-abel-perrys-funeral": [
+   59100,
+   "Josiah's Alarm, and Abel Perry's Funeral"
+  ],
+  "mholley-josiahs-secret": [
+   59159,
+   "Josiah's Secret: A Play"
+  ],
+  "mholley-betsey-bobbett": [
+   59271,
+   "Betsey Bobbett: A Drama"
+  ],
+  "mholley-josiah-allen-on-the-woman-question": [
+   59283,
+   "Josiah Allen on the Woman Question"
+  ],
+  "mholley-samantha-on-the-race-problem": [
+   61608,
+   "Samantha on the Race Problem"
+  ],
+  "mholley-my-wayward-pardner": [
+   63859,
+   "My Wayward Pardner; or, My Trials with Josiah, America, the Widow Bump, and Etcetery"
+  ],
+  "mholley-josiah-allens-wife-as-a-p-a-and-p-i": [
+   64621,
+   "Josiah Allen's Wife as a P. A. and P. I.: Samantha at the Centennial. Designed As a Bright and Shining Light, to Pierce the Fogs of Error and Injustice That Surround Society and Josiah, and to Bring More Clearly to View the Path That Leads Straight on to Virtue and Happiness."
+  ],
+  "mholley-samantha-among-the-colored-folks": [
+   66411,
+   "Samantha Among the Colored Folks: \"My Ideas on the Race Problem\""
+  ],
+  "mholley-samantha-in-europe": [
+   66972,
+   "Samantha in Europe"
+  ],
+  "mholley-samantha-on-childrens-rights": [
+   67174,
+   "Samantha on Children's Rights"
+  ],
+  "mholley-tirzah-anns-summer-trip-and-other-sketches": [
+   74177,
+   "Tirzah Ann's summer trip, and other sketches"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mholley-samantha-at-saratoga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-sweet-cicely-or-josiah-allen-as-a-politician": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-on-the-woman-question": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-volume-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-volume-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-volume-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-volume-6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-volume-7": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-brethren-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-at-the-st-louis-exposition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-at-the-worlds-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-at-coney-island-and-a-thousand-other-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-around-the-world-with-josiah-allens-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-my-opinions-and-betsey-bobbets-designed-as-a-beacon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-lament-of-the-mormon-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-josiahs-alarm-and-abel-perrys-funeral": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-josiahs-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-betsey-bobbett": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-josiah-allen-on-the-woman-question": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-on-the-race-problem": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-my-wayward-pardner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-josiah-allens-wife-as-a-p-a-and-p-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-among-the-colored-folks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-in-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-samantha-on-childrens-rights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mholley-tirzah-anns-summer-trip-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marietta holley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

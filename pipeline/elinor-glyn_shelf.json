@@ -1,0 +1,253 @@
+{
+ "_about": "Elinor Glyn's romances and her Visits of Elizabeth. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Elinor Glyn",
+ "_name_words": [
+  "elinor",
+  "glyn"
+ ],
+ "_surname": [
+  "elinor glyn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eglyn-point-of-view": [
+   5310,
+   "The Point of View"
+  ],
+  "eglyn-three-weeks": [
+   8899,
+   "Three Weeks"
+  ],
+  "eglyn-his-hour": [
+   9470,
+   "His Hour"
+  ],
+  "eglyn-price-of-things": [
+   9809,
+   "The Price of Things"
+  ],
+  "eglyn-visits-of-elizabeth": [
+   10959,
+   "The Visits of Elizabeth"
+  ],
+  "eglyn-reflections-of-ambrosine": [
+   11624,
+   "The reflections of Ambrosine"
+  ],
+  "eglyn-elizabeth-visits-america": [
+   11900,
+   "Elizabeth Visits America"
+  ],
+  "eglyn-reason-why": [
+   12450,
+   "The Reason Why"
+  ],
+  "eglyn-halcyone": [
+   13530,
+   "Halcyone"
+  ],
+  "eglyn-beyond-the-rocks": [
+   16692,
+   "Beyond The Rocks: A Love Story"
+  ],
+  "eglyn-man-and-the-moment": [
+   17048,
+   "The Man and the Moment"
+  ],
+  "eglyn-red-hair": [
+   17821,
+   "Red Hair"
+  ],
+  "eglyn-man-and-maid": [
+   20512,
+   "Man and Maid"
+  ],
+  "eglyn-damsel-and-the-sage": [
+   20718,
+   "The Damsel and the Sage: A Woman's Whimsies"
+  ],
+  "eglyn-three-things": [
+   25215,
+   "Three Things"
+  ],
+  "eglyn-career-of-katherine-bush": [
+   40893,
+   "The Career of Katherine Bush"
+  ],
+  "eglyn-your-affectionate-godmother": [
+   49715,
+   "Your Affectionate Godmother"
+  ],
+  "eglyn-vicissitudes-of-evangeline": [
+   51644,
+   "The Vicissitudes of Evangeline"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "eglyn-point-of-view": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-three-weeks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-his-hour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-price-of-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-visits-of-elizabeth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-reflections-of-ambrosine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-elizabeth-visits-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-reason-why": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-halcyone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-beyond-the-rocks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-man-and-the-moment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-red-hair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-man-and-maid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-damsel-and-the-sage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-three-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-career-of-katherine-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-your-affectionate-godmother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglyn-vicissitudes-of-evangeline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elinor glyn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
