@@ -42690,3 +42690,17 @@ Shelf: `pipeline/edwin-lefevre_shelf.json` (2026-10-22; added at the coordinator
 | The Plunderers: A Novel | have | PG 51970, `elefevre-plunderers` (2745 units) |
 | Wall Street stories | have | PG 54130, `elefevre-wall-street-stories` (831 units) |
 | Reminiscences of a Stock Operator | have | PG 60979, `elefevre-reminiscences-of-a-stock-operator` (1477 units) |
+
+## Nat Gould
+
+Shelf: `pipeline/nat-gould_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Racing novels. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rider in Khaki: A Novel | have | PG 24804, `ngould-rider-in-khaki` (2275 units) |
+| Settling Day | have | PG 35496, `ngould-settling-day` (2556 units) |
+| Fast as the Wind: A Novel | have | PG 35618, `ngould-fast-as-the-wind` (2097 units) |
+| The Second String | have | PG 35782, `ngould-second-string` (2246 units) |
+| The Sweep Winner | have | PG 36480, `ngould-sweep-winner` (1869 units) |
+| The Runaways: A New and Original Story | have | PG 39631, `ngould-runaways` (1767 units) |
+| A Lad of Mettle | have | PG 66030, `ngould-lad-of-mettle` (2001 units) |
