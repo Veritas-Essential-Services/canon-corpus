@@ -16998,3 +16998,16 @@ Slugs `hnewland-*`. Built from title pages read for round 109.
 | The Seasons of the Church, what they teach, vol. 3 (1856), IA seasonsofchurchw03newluoft: a series of sermons he EDITED, not shown to be all his own (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | The 1829 Apology for the Established Church in Ireland and the 1832 reply to Doyle are by Henry Newland, Dean of Ferns, a different man | excluded | |
 | The Life of Antonio de Dominis (1859) is by Henry Newland, D.D., Dean of Ferns, per its title page; a different man | excluded | |
+
+## John Franklin Genung (round 109, my pick, 2026-10-23)
+
+Slugs `genung-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| The epic of the inner life : being the book of Job (Boston : Houghton, Mifflin, 1893) | have-ocr | IA `epicofinnerlifeb00genuuoft` |
+| What a carpenter did with his Bible: an address by John Franklin Genung (New York, Boston, T. Y. Crowell & company, 1898) | have-ocr | IA `whatcarpenterdid00genu` |
+| Ecclesiastes : words of Koheleth, son of David, King in Jerusalem (Boston : Houghton, Mifflin, 1904) | have-ocr | IA `ecclesiastesword00genuuoft` |
+| The Hebrew literature of wisdom in the light of to-day; a synthesis (Boston and New York, Houghton, Mifflin and company, 1906) | have-ocr | IA `hebrewliterature00genu` |
+| A guidebook to the Biblical literature (Boston, New York [etc.] Ginn and company, 1919) | have-ocr | IA `guidebooktobibli00genu` |
+| His rhetoric textbooks and the Tennyson study are not theology; left out | excluded | |
