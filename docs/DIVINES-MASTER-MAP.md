@@ -19414,6 +19414,16 @@ Shelf: `pipeline/norman-bentwich_shelf.json`. Philo, Josephus and Hellenism, 191
 | Josephus (1914) |  | `bentwich-josephus-1914` | have-raw (IA `josephus00bentiala`) |
 | Hellenism (1919) |  | `bentwich-hellenism-1919` | have-raw (IA `hellenism01bentgoog`) |
 
+
+## W. A. Heidel (1868-1941)
+
+Shelf: `pipeline/w-a-heidel_shelf.json`. Two 1896 studies on Plato and Aristotle. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Pseudo-Platonica (1896) |  | `heidel-pseudo-platonica-1896` | have-raw (IA `pseudoplatonica00heidrich`) |
+| The Necessary and the Contingent in the Aristotelian System (1896) |  | `heidel-necessary-contingent-aristotle-1896` | have-raw (IA `cu31924028999740`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
