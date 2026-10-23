@@ -1,5 +1,5 @@
 {
- "_about": "Walter Leaf (1852-1927): Troy, a Study in Homeric Geography (London: Macmillan, 1912) and Homer and History (Macmillan, 1915), raw IA OCR. His Iliad with Lang and Myers (PG 3059) is on the lang shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. A Companion to the Iliad for English Readers (1892), a book-by-book commentary keyed to the Lang-Leaf-Myers prose translation; and his Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition (Macmillan, 2 vols., 1900-1902), Greek text with English commentary, kept per Adam's 2026-10-23 ruling; all raw IA.",
+ "_about": "Walter Leaf (1852-1927): Troy, a Study in Homeric Geography (London: Macmillan, 1912) and Homer and History (Macmillan, 1915), raw IA OCR. His Iliad with Lang and Myers (PG 3059) is on the lang shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. A Companion to the Iliad for English Readers (1892), a book-by-book commentary keyed to the Lang-Leaf-Myers prose translation; and his Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition (Macmillan, 2 vols., 1900-1902), Greek text with English commentary, kept per Adam's 2026-10-23 ruling; all raw IA. Round dy (2026-10-23), raw IA: The Story of Achilles with J. H. Pratt (second edition, 1882), the Elementary Classics Iliad VI with M. A. Bayfield (1899 reprint of 1893), his verse translations Quatrains from the Greek (1919, privately printed) and Little Poems from the Greek (1922, versions of epigrams from the Greek Anthology), and the paper Skepsis in the Troad (1923). Not taken: Versions from Hafiz (1898, Persian) and Banking (1926, outside the classical brief).",
  "_name_words": [
   "leaf"
  ],
@@ -29,6 +29,26 @@
   "walter-leaf-iliad-commentary-1902-v2": [
    "cu31924011101650",
    "The Iliad, edited with apparatus criticus, prolegomena, notes and appendices, second edition, vol. II: Books XIII-XXIV (London: Macmillan, 1902; first edition 1888); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
+  ],
+  "walter-leaf-pratt-story-of-achilles-1882": [
+   "storyofachillesf00home",
+   "The Story of Achilles, from Homer's Iliad, edited with notes and introduction by the late John Henry Pratt and Walter Leaf, second edition (London: Macmillan, 1882); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "walter-leaf-bayfield-iliad-vi-1899": [
+   "sixthbookofiliad0000walt",
+   "The Sixth Book of the Iliad, edited with notes, introduction, and vocabulary by Walter Leaf and M. A. Bayfield (Elementary Classics; London: Macmillan, 1899 reprint of the 1893 first edition); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "walter-leaf-quatrains-from-the-greek-1919": [
+   "quatrainsfromgre00leaf",
+   "Quatrains from the Greek, by Walter Leaf (Edinburgh: R. & R. Clark, 1919; printed for private circulation)"
+  ],
+  "walter-leaf-little-poems-from-the-greek-1922": [
+   "littlepoemsfromg00leafiala",
+   "Little Poems from the Greek, by Walter Leaf (New York: Robert M. McBride, 1922)"
+  ],
+  "walter-leaf-skepsis-in-the-troad-1923": [
+   "skepsisintroad00leaf",
+   "Skepsis in the Troad, by W. Leaf ([Manchester], 1923; Columbia microfilm)"
   ]
  },
  "_checks": {
@@ -84,6 +104,61 @@
    "identity": "ok",
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walter-leaf-pratt-story-of-achilles-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walter-leaf-bayfield-iliad-vi-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walter-leaf-quatrains-from-the-greek-1919": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "walter-leaf-little-poems-from-the-greek-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter leaf",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "walter-leaf-skepsis-in-the-troad-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leaf, walter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
