@@ -14991,6 +14991,25 @@ Slugs `meikle-*`. Built from title pages read for round 88.
 | The traveller; or, Meditations on various subjects. Written on board a man of war. To which is added, Converse with the world unseen (Albany, E.Torrey and W.Seaver; E. & E. Hosford, printers, 1812) | have-ocr | IA `travellerormedit00meik` |
 | The select remains of Mr. James Meikle, late surgeon in Carnwath, or, Extracts from manuscripts found among his papers (Pittsburgh : R. Patterson & Lambdin, 1818) | have-ocr | IA `selectremainsofm00meik` |
 | The Nature of the Mediatorial Dispensation (1853), by Rev. James Meikle of Beith, a different man | excluded | |
+
+## F. X. Weninger (round 88, my pick, 2026-10-23)
+
+Slugs `weninger-*`. Built from title pages read for round 88.
+
+| Work | Status | Where |
+|---|---|---|
+| A manual of the Catholic religion for catechists, teachers and self-instruction ([n.p.], 1861) | have-ocr | IA `manualofcatholic00weni` |
+| Catholicity, protestantism and infidelity. An appeal to candid Americans (N.Y., O'Shea, 1861) | have-ocr | IA `catholicityprote00weniuoft` |
+| Easter in heaven (New York : D. and J. Sadler, 1863) | have-ocr | IA `easterinheav00weniuoft` |
+| On the apostolical and infallible authority of the Pope : when teaching the faithful, and on his relation to a general council (New York : D.& J. Sadlier ; Cincinnati, OH : J.P. Walsh, 1868) | have-ocr | IA `apostolicalautho00weniuoft` |
+| Photographic views : or, Religious and moral truths reflected in the universe (New York : P. O'Shea, 1873) | have-ocr | IA `photographicview00weniuoft` |
+| The pharisees and persecutors of the Church in our days : a sermon preached on Easter Sunday, 1875 / by F.X. Weninger (P. O'Shea, 1875) | have-ocr | IA `phariseespersecu00weni` |
+| Lives of the Saints,with a Practical Instruction on the Life of each Saints, for every  day in the year, vol. 1 (P. O'Shea, New York, 1877) | have-ocr | IA `livesofsaintswit0001revf` |
+| Lives of the saints, with a practical instruction on the life of each saint, for every day in year, vol. 2 (New York, P. O'Shea, 1877) | have-ocr | IA `livesofsaintswit02weni` |
+| Reply to Hon. R.W. Thompson, Secretary of the Navy, addressed to the American people (New York : P. O'Shea, 1877) | have-ocr | IA `ReplyToHonRWThompson` |
+| Original, short and practical sermons for every Sunday of the ecclesiastical year (Cincinnati : C. J. H. Lowen, 1881) | have-ocr | IA `originalshortand00weniuoft` |
+| Original, short and practical conferences : containing thirty-six conferences ... intended as a three year's course (Cincinnati, OH : [s.n, 1883) | have-ocr | IA `originalconferen00weniuoft` |
+| his German and French books (Ostern im Himmel, Die Unfehlbarkeit des Papstes, Der Monat Maria, Fest-Predigten, catechisms, Catholicisme protestantisme et infidélité) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
