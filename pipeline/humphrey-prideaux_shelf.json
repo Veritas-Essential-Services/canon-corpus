@@ -1,0 +1,169 @@
+{
+ "_about": "Public-domain Humphrey Prideaux (1648-1724), Dean of Norwich, orientalist and church historian, for the Word Hoard: The Old and New Testament Connected in the History of the Jews and Neighbouring Nations (ninth edition, 4 vols., 1725), The Validity of the Orders of the Church of England (1688), The True Nature of Imposture Fully Display'd in the Life of Mahomet (1698), A Letter to the Deists (1696), The Original and Right of Tithes (1710) and Directions to Church-Wardens (second edition, 1704). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 68 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "prideaux"
+ ],
+ "_surname": [
+  "prideaux",
+  "prideux",
+  "prideaus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "prideaux-connection-1725-v1": [
+   "bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_1",
+   "The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part I, vol. 1, ninth edition (London: R. Knaplock and J. Tonson, 1725)"
+  ],
+  "prideaux-connection-1725-v2": [
+   "bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_2",
+   "The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part I, vol. 2, ninth edition (London: R. Knaplock and J. Tonson, 1725)"
+  ],
+  "prideaux-connection-1725-v3": [
+   "bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_3",
+   "The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part II, vol. 3, ninth edition (London: R. Knaplock and J. Tonson, 1725)"
+  ],
+  "prideaux-connection-1725-v4": [
+   "bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_4",
+   "The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part II, vol. 4, ninth edition (London: R. Knaplock and J. Tonson, 1725)"
+  ],
+  "prideaux-validity-orders-1688": [
+   "thevalidityoford00priduoft",
+   "The Validity of the Orders of the Church of England, made out against the objections of the Papists (London: Aylmer, 1688)"
+  ],
+  "prideaux-imposture-mahomet-1698": [
+   "thetruenature00priduoft",
+   "The True Nature of Imposture Fully Display'd in the Life of Mahomet (London: Rogers, 1698)"
+  ],
+  "prideaux-letter-deists-1696": [
+   "bim_early-english-books-1641-1700_a-letter-to-the-deists_prideaux-humphrey_1696",
+   "A Letter to the Deists (London, 1696)"
+  ],
+  "prideaux-tithes-1710": [
+   "bim_eighteenth-century_the-original-and-right-o_prideaux-humphrey_1710",
+   "The Original and Right of Tithes, for the Maintenance of the Ministry in a Christian Church Truly Stated (Norwich: Fr. Collins, 1710)"
+  ],
+  "prideaux-church-wardens-1704": [
+   "bim_eighteenth-century_directions-to-church-war_prideaux-humphrey_1704",
+   "Directions to Church-Wardens for the Faithful Discharge of their Office, second edition (Norwich, 1704)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "prideaux-other": "Marmora Oxoniensia (Latin, 1676); French and Dutch translations of the Connection; the many later printings of the Connection (1716-1749 folio and octavo, 1749 Google copies), duplicates of the 1725 set shelved"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "prideaux-connection-1725-v2": "title page read from the page image: 'By Humphrey Prideaux, D.D. Dean of Norwich. Part I. Vol. II. The Ninth Edition' (London, 1725; OCR garbled)",
+  "prideaux-connection-1725-v4": "title page read from the page image: 'By Humphrey Prideaux, D.D. Dean of Norwich. Part II. Vol. IV. The Ninth Edition' (London, 1725; OCR garbled)",
+  "prideaux-letter-deists-1696": "title page read from the page image names no author ('A Letter to the Deists. London, Printed for Edward Castle, next Scotland-Yard, by Whitehall, 1696'): published anonymously; Prideaux's, and reprinted with his True Nature of Imposture from 1697",
+  "prideaux-tithes-1710": "title page OCR reads 'PRIDEAUS, D.D. Dean of Norwich ... Norwich, Printed by Fr. Collins' (the P read as a thorn; OCR garbled)",
+  "prideaux-church-wardens-1704": "title page read from the page image: 'For the Use of the Arch-Deaconry of Suffolk ... By Humphrey Prideaux, D.D. Arch-Deacon of Suffolk' (Norwich, 1704; OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "prideaux-connection-1725-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prideaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "prideaux-connection-1725-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "prideaux-connection-1725-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prideaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "prideaux-connection-1725-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "prideaux-validity-orders-1688": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prideaux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1688",
+   "ia_date": "1688",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "prideaux-imposture-mahomet-1698": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "prideaux",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1698",
+   "ia_date": "1698",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "prideaux-letter-deists-1696": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1696",
+   "ia_date": "1696",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "prideaux-tithes-1710": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1710",
+   "ia_date": "1710",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "prideaux-church-wardens-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -13179,6 +13179,23 @@ Slugs `mede-*`. Built from title pages read for round 68.
 | The Reverence of Gods House (London: M. Flesher for John Clark, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-reverence-of-gods-ho_mede-joseph_1638` |
 | The Works, 1672 printing (bim_early-english-books-1641-1700_the-vvorks-of-_mede-joseph_1672): an earlier edition of the same collected works; the 1677 edition is shelved | excluded | |
 | Latin works (Clavis Apocalyptica 1627 and 1632); Cooper's 1833 translation of the Clavis (translator's English, kept off a Mede shelf) | excluded | |
+
+## Humphrey Prideaux (round 68, my pick, 2026-10-23)
+
+Slugs `prideaux-*`. Built from title pages read for round 68.
+
+| Work | Status | Where |
+|---|---|---|
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part I, vol. 1, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_1` |
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part I, vol. 2, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_2` |
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part II, vol. 3, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_3` |
+| The Old and New Testament Connected in the History of the Jews and Neighbouring Nations, Part II, vol. 4, ninth edition (London: R. Knaplock and J. Tonson, 1725) | have-ocr | IA `bim_eighteenth-century_the-old-and-new-testamen_prideaux-humphrey_1725_4` |
+| The Validity of the Orders of the Church of England, made out against the objections of the Papists (London: Aylmer, 1688) | have-ocr | IA `thevalidityoford00priduoft` |
+| The True Nature of Imposture Fully Display'd in the Life of Mahomet (London: Rogers, 1698) | have-ocr | IA `thetruenature00priduoft` |
+| A Letter to the Deists (London, 1696) | have-ocr | IA `bim_early-english-books-1641-1700_a-letter-to-the-deists_prideaux-humphrey_1696` |
+| The Original and Right of Tithes, for the Maintenance of the Ministry in a Christian Church Truly Stated (Norwich: Fr. Collins, 1710) | have-ocr | IA `bim_eighteenth-century_the-original-and-right-o_prideaux-humphrey_1710` |
+| Directions to Church-Wardens for the Faithful Discharge of their Office, second edition (Norwich, 1704) | have-ocr | IA `bim_eighteenth-century_directions-to-church-war_prideaux-humphrey_1704` |
+| Marmora Oxoniensia (Latin, 1676); French and Dutch translations of the Connection; the many later printings of the Connection (1716-1749 folio and octavo, 1749 Google copies), duplicates of the 1725 set shelved | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
