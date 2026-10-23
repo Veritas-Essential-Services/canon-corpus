@@ -1,0 +1,717 @@
+{
+ "_about": "Public-domain Louis Albert Banks (1855-1933), Methodist Episcopal preacher and evangelist, for the Word Hoard: his books of sermons, revival sermons, prayer-meeting talks and illustrations printed 1892-1925, among them The People's Christ (1892), the 'and His Friends' revival series (1895-1907), Windows for Sermons (1902), Sermons which have Won Souls (1908), The Great Themes of the Bible (1911) and Christ's Soul-Searching Parables (1925), with Immortal Hymns and their Story (1897) and his life of T. DeWitt Talmage (1902). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 76 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "louis albert banks",
+  "louis a. banks",
+  "l. a. banks"
+ ],
+ "_surname": [
+  "banks"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "labanks-peoples-christ": [
+   "peopleschristvol00bank",
+   "The people's Christ; a volume of sermons and other addresses and papers (Boston, Lee and Shepard, 1892)"
+  ],
+  "labanks-white-slaves": [
+   "whiteslavesoropp00bankrich",
+   "White slaves; or, The oppression of the worthy poor (Boston : Lee and Shepard, 1893)"
+  ],
+  "labanks-honeycombs-of-life": [
+   "honeycombsoflife00bank",
+   "The honeycombs of life : a volume of sermons and addresses (Boston : Lee and Shepard, 1894)"
+  ],
+  "labanks-christ-dream": [
+   "christdream00bank",
+   "The Christ dream (New York : Hunt & Eaton, 1895)"
+  ],
+  "labanks-christ-and-his-friends": [
+   "christhisfriends00bank",
+   "Christ and His friends; a series of revival sermons (New York, London and Toronto, Funk & Wagnalls company, 1895)"
+  ],
+  "labanks-heavenly-trade-winds": [
+   "heavenlytradewin00bank",
+   "Heavenly trade-winds (Cincinnati : Cranston & Curts, 1895)"
+  ],
+  "labanks-saloon-keepers-ledger": [
+   "saloonkeepersled00bank",
+   "The saloon-keeper's ledger; a series of temperance revival discourses (New York, London and Toronto, Funk & Wagnalls company, 1895)"
+  ],
+  "labanks-fisherman-and-friends": [
+   "fishermanhisfrie00bank",
+   "The fisherman and His friends; a series of revival sermons (New York, Funk & Wagnalls, 1896)"
+  ],
+  "labanks-christ-brotherhood": [
+   "christbrotherhoo0000bank",
+   "The Christ brotherhood (New York : Hunt & Eaton ; Cincinnati : Curts & Jennings, 1897)"
+  ],
+  "labanks-immortal-hymns": [
+   "immortalhymnsthe00bank",
+   "Immortal hymns and their story : the narrative of the conception and striking experiences of blessing attending the use of some of the world's greatest hymns (Cleveland : The Burrows Brothers Company, 1897)"
+  ],
+  "labanks-unexpected-christ": [
+   "unexpectedchrist00bank_0",
+   "The unexpected Christ; a series of evangelistic sermons (New York, W. B. Ketcham, 1898)"
+  ],
+  "labanks-paul-and-friends": [
+   "paulhisfriendsse00bank",
+   "Paul and his friends : a series of revival sermons (New York : Funk & Wagnalls Co., 1898)"
+  ],
+  "labanks-anecdotes-and-morals": [
+   "anecdotesmoralsv00bank",
+   "Anecdotes and morals : a volume of illustrations from current life (New York : Funk & Wagnalls, 1898)"
+  ],
+  "labanks-christian-gentleman": [
+   "christiangentle00bankgoog",
+   "The Christian gentleman (New York : Funk & Wagnalls, 1898)"
+  ],
+  "labanks-prayer-meeting-talks": [
+   "yearsprayermeeti00bank",
+   "A year's prayer-meeting talks (New York and London, Funk & Wagnalls company, 1899)"
+  ],
+  "labanks-john-and-friends": [
+   "johnhisfriendsse00bank",
+   "John and his friends: a series of revival sermons (New York, London, Funk and Wagnals Co., 1899)"
+  ],
+  "labanks-my-young-man": [
+   "myyoungman00bank",
+   "My young man (New York, London, Funk & Wagnalls company, 1899)"
+  ],
+  "labanks-lords-arrows": [
+   "lordsarrowsvolum0000bank",
+   "The Lord's arrows; a volume of Sunday morning sermons (Curts & Jennings, 1900)"
+  ],
+  "labanks-david-and-friends": [
+   "davidhisfriendss00bank",
+   "David and his friends; a series of revival sermons (New York and London, Funk & Wagnalls co., 1900)"
+  ],
+  "labanks-fresh-bait": [
+   "freshbaitforfish00bank",
+   "Fresh bait for fishers of men (Cleveland, Ohio, F. M. Barton, 1900)"
+  ],
+  "labanks-poetry-and-morals": [
+   "poetrymoralssugg00bank",
+   "Poetry and morals; suggestive and illustrative anecdotes and poetical quotations for the use of preachers (New York and London, Funk & Wagnalls company, 1900)"
+  ],
+  "labanks-motherhood-of-god": [
+   "motherhoodofgods00bank",
+   "The motherhood of God; a series of discourses (Cincinnati, Jennings & Pye; New York, Eaton & Mains, 1901)"
+  ],
+  "labanks-unused-rainbows": [
+   "unusedrainbowspr00bank",
+   "Unused rainbows : prayer meeting talks (Chicago : Revell, 1901)"
+  ],
+  "labanks-windows-for-sermons": [
+   "windowsforsermon00bank",
+   "Windows for sermons; a study of the art of sermonic illustration, together with four hundred fresh illustrations suited for sermons and reform addresses (New York, London, Funk & Wagnalls co., 1902)"
+  ],
+  "labanks-soul-winning-stories": [
+   "soulwinningstori00bank",
+   "Soul winning stories (New York : George H. Doran Co., c190)"
+  ],
+  "labanks-kings-stewards": [
+   "kingsstewards00bank",
+   "The King's stewards (New York, American tract society, 1902)"
+  ],
+  "labanks-healing-of-souls": [
+   "healingofsoulsse00bank",
+   "The healing of souls; a series of revival sermons (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1902)"
+  ],
+  "labanks-talmage-life": [
+   "tdewitttalmagehi00bankuoft",
+   "T. De Witt Talmage : his life and work (Philadelphia : Printed by J.C. Winston, c190)"
+  ],
+  "labanks-great-archers": [
+   "greatarchersthei00bank",
+   "Great archers and their weapons and Fresh arrows from many quivers (Cleveland, Ohio, F. M. Barton, 1903)"
+  ],
+  "labanks-great-portraits": [
+   "greatportraitsof00bank",
+   "The great portraits of the Bible (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1903)"
+  ],
+  "labanks-trail-of-moses": [
+   "ontrailofmoses0000loui",
+   "On the Trail of Moses (Funk & Wagnalls Company, 1903)"
+  ],
+  "labanks-religious-life-americans": [
+   "religiouslifeoff00bank",
+   "The religious life of famous Americans (Boston, New York [etc.] American tract society, 1904)"
+  ],
+  "labanks-thirty-one-revival-sermons": [
+   "thirtyonerevival0000loui",
+   "Thirty-one Revival Sermons (Revell, 1904)"
+  ],
+  "labanks-great-promises": [
+   "greatpromisesofb00bank",
+   "The great promises of the Bible (New York Cincinnati, 1906)"
+  ],
+  "labanks-sinner-and-friends": [
+   "sinnerhisfriends0000loui",
+   "The sinner and his friends: a volume of evangelistic sermons (catalogued 1907)"
+  ],
+  "labanks-sermons-won-souls": [
+   "sermonswhichhave00bank",
+   "Sermons which have won souls (New York and London, Funk & Wagnalls company, 1908)"
+  ],
+  "labanks-problems-of-youth": [
+   "problemsofyouths00bank",
+   "The problems of youth; a series of discourses for young people on themes from the book of Proverbs (New York and London, Funk & Wagnalls company, 1909)"
+  ],
+  "labanks-worlds-childhood": [
+   "worldschildhoods00bankrich",
+   "The world's childhood; a series of Sunday evening sermons from themes drawn from the first three chapters of Genesis (New York, Funk & Wagnalls, 1910)"
+  ],
+  "labanks-sunday-night-evangel": [
+   "sundaynightevang00bank",
+   "The Sunday-night evangel; a series of Sunday evening discourses delivered in Independence Avenue Methodist Episcopal Church, Kansas City, Missouri (New York, London, Funk and Wagnalls Company, 1911)"
+  ],
+  "labanks-great-themes": [
+   "greatthemesofbib00bank",
+   "The great themes of the Bible (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1911)"
+  ],
+  "labanks-great-sinners": [
+   "greatsinnersofbi00bank",
+   "The great sinners of the Bible (New York ; Cincinnati : The Methodist Book Concern, 1919)"
+  ],
+  "labanks-winds-of-god": [
+   "windsofgod00bank",
+   "The winds of God (New York and London, Funk and Wagnalls company, 1920)"
+  ],
+  "labanks-new-ten-commandments": [
+   "newtencommandmen00bank",
+   "The new ten commandments, and other sermons (New York, Chicago [etc.] Fleming H. Revell company, 1922)"
+  ],
+  "labanks-wonderful-conversions": [
+   "wonderfulbibleco00bank",
+   "Wonderful Bible conversions (New York, Chicago [etc.] : Fleming H. Revell company, 1923)"
+  ],
+  "labanks-dramatic-stories-jesus": [
+   "dramaticstorieso0000loui",
+   "Dramatic Stories of Jesus (Funk & Wagnalls, 1924)"
+  ],
+  "labanks-soul-searching-parables": [
+   "christssoulsearc00bank",
+   "Christ's soul-searching parables : evangelistic sermons on the parables of Jesus (New York ; Chicago [etc.] : Fleming H. Revell company, 1925)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "labanks-secular": "books for boys and on American history and biography (An Oregon Boyhood, The Hall of Fame, Youth of Famous Americans, The Lincoln Legion, Capital Stories, Immortal Songs of Camp and Field), the prohibition handbook Ammunition for Final Drive on Booze, and pamphlets of under 60 pages",
+  "labanks-spurgeon": "Spurgeon's Illustrative Anecdotes (1906) is Spurgeon's matter, which he only arranged"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "labanks-peoples-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-white-slaves": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-honeycombs-of-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-christ-dream": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-christ-and-his-friends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-heavenly-trade-winds": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-saloon-keepers-ledger": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-fisherman-and-friends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-christ-brotherhood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-immortal-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-unexpected-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-paul-and-friends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-anecdotes-and-morals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-christian-gentleman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-prayer-meeting-talks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-john-and-friends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-my-young-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-lords-arrows": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-david-and-friends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-fresh-bait": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-poetry-and-morals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-motherhood-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-unused-rainbows": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-windows-for-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-soul-winning-stories": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "c1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-kings-stewards": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-healing-of-souls": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-talmage-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "c1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-great-archers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-great-portraits": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-trail-of-moses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-religious-life-americans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-thirty-one-revival-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-great-promises": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-sinner-and-friends": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-sermons-won-souls": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-problems-of-youth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-worlds-childhood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-sunday-night-evangel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "labanks-great-themes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-great-sinners": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-winds-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-new-ten-commandments": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "labanks-wonderful-conversions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-dramatic-stories-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "labanks-soul-searching-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "banks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

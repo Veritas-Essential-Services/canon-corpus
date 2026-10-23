@@ -13869,6 +13869,61 @@ Slugs `burrell-*`. Built from title pages read for round 76.
 | Life and letters of St. Paul (New York : American tract society, 1925) | have-ocr | IA `lifelettersofstp00burr` |
 | The golden parable (New York ; Chicago [etc.] : Fleming H. Revell company, 1926) | have-ocr | IA `goldenparable00burr_0` |
 | pamphlets of under 60 pages; Hints and Helps on the Sunday-school Lessons (1894), an annual written with others | excluded | |
+
+## Louis Albert Banks (round 76, my pick, 2026-10-23)
+
+Slugs `labanks-*`. Built from title pages read for round 76.
+
+| Work | Status | Where |
+|---|---|---|
+| The people's Christ; a volume of sermons and other addresses and papers (Boston, Lee and Shepard, 1892) | have-ocr | IA `peopleschristvol00bank` |
+| White slaves; or, The oppression of the worthy poor (Boston : Lee and Shepard, 1893) | have-ocr | IA `whiteslavesoropp00bankrich` |
+| The honeycombs of life : a volume of sermons and addresses (Boston : Lee and Shepard, 1894) | have-ocr | IA `honeycombsoflife00bank` |
+| The Christ dream (New York : Hunt & Eaton, 1895) | have-ocr | IA `christdream00bank` |
+| Christ and His friends; a series of revival sermons (New York, London and Toronto, Funk & Wagnalls company, 1895) | have-ocr | IA `christhisfriends00bank` |
+| Heavenly trade-winds (Cincinnati : Cranston & Curts, 1895) | have-ocr | IA `heavenlytradewin00bank` |
+| The saloon-keeper's ledger; a series of temperance revival discourses (New York, London and Toronto, Funk & Wagnalls company, 1895) | have-ocr | IA `saloonkeepersled00bank` |
+| The fisherman and His friends; a series of revival sermons (New York, Funk & Wagnalls, 1896) | have-ocr | IA `fishermanhisfrie00bank` |
+| The Christ brotherhood (New York : Hunt & Eaton ; Cincinnati : Curts & Jennings, 1897) | have-ocr | IA `christbrotherhoo0000bank` |
+| Immortal hymns and their story : the narrative of the conception and striking experiences of blessing attending the use of some of the world's greatest hymns (Cleveland : The Burrows Brothers Company, 1897) | have-ocr | IA `immortalhymnsthe00bank` |
+| The unexpected Christ; a series of evangelistic sermons (New York, W. B. Ketcham, 1898) | have-ocr | IA `unexpectedchrist00bank_0` |
+| Paul and his friends : a series of revival sermons (New York : Funk & Wagnalls Co., 1898) | have-ocr | IA `paulhisfriendsse00bank` |
+| Anecdotes and morals : a volume of illustrations from current life (New York : Funk & Wagnalls, 1898) | have-ocr | IA `anecdotesmoralsv00bank` |
+| The Christian gentleman (New York : Funk & Wagnalls, 1898) | have-ocr | IA `christiangentle00bankgoog` |
+| A year's prayer-meeting talks (New York and London, Funk & Wagnalls company, 1899) | have-ocr | IA `yearsprayermeeti00bank` |
+| John and his friends: a series of revival sermons (New York, London, Funk and Wagnals Co., 1899) | have-ocr | IA `johnhisfriendsse00bank` |
+| My young man (New York, London, Funk & Wagnalls company, 1899) | have-ocr | IA `myyoungman00bank` |
+| The Lord's arrows; a volume of Sunday morning sermons (Curts & Jennings, 1900) | have-ocr | IA `lordsarrowsvolum0000bank` |
+| David and his friends; a series of revival sermons (New York and London, Funk & Wagnalls co., 1900) | have-ocr | IA `davidhisfriendss00bank` |
+| Fresh bait for fishers of men (Cleveland, Ohio, F. M. Barton, 1900) | have-ocr | IA `freshbaitforfish00bank` |
+| Poetry and morals; suggestive and illustrative anecdotes and poetical quotations for the use of preachers (New York and London, Funk & Wagnalls company, 1900) | have-ocr | IA `poetrymoralssugg00bank` |
+| The motherhood of God; a series of discourses (Cincinnati, Jennings & Pye; New York, Eaton & Mains, 1901) | have-ocr | IA `motherhoodofgods00bank` |
+| Unused rainbows : prayer meeting talks (Chicago : Revell, 1901) | have-ocr | IA `unusedrainbowspr00bank` |
+| Windows for sermons; a study of the art of sermonic illustration, together with four hundred fresh illustrations suited for sermons and reform addresses (New York, London, Funk & Wagnalls co., 1902) | have-ocr | IA `windowsforsermon00bank` |
+| Soul winning stories (New York : George H. Doran Co., c190) | have-ocr | IA `soulwinningstori00bank` |
+| The King's stewards (New York, American tract society, 1902) | have-ocr | IA `kingsstewards00bank` |
+| The healing of souls; a series of revival sermons (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1902) | have-ocr | IA `healingofsoulsse00bank` |
+| T. De Witt Talmage : his life and work (Philadelphia : Printed by J.C. Winston, c190) | have-ocr | IA `tdewitttalmagehi00bankuoft` |
+| Great archers and their weapons and Fresh arrows from many quivers (Cleveland, Ohio, F. M. Barton, 1903) | have-ocr | IA `greatarchersthei00bank` |
+| The great portraits of the Bible (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1903) | have-ocr | IA `greatportraitsof00bank` |
+| On the Trail of Moses (Funk & Wagnalls Company, 1903) | have-ocr | IA `ontrailofmoses0000loui` |
+| The religious life of famous Americans (Boston, New York [etc.] American tract society, 1904) | have-ocr | IA `religiouslifeoff00bank` |
+| Thirty-one Revival Sermons (Revell, 1904) | have-ocr | IA `thirtyonerevival0000loui` |
+| The great promises of the Bible (New York Cincinnati, 1906) | have-ocr | IA `greatpromisesofb00bank` |
+| The sinner and his friends: a volume of evangelistic sermons (catalogued 1907) | have-ocr | IA `sinnerhisfriends0000loui` |
+| Sermons which have won souls (New York and London, Funk & Wagnalls company, 1908) | have-ocr | IA `sermonswhichhave00bank` |
+| The problems of youth; a series of discourses for young people on themes from the book of Proverbs (New York and London, Funk & Wagnalls company, 1909) | have-ocr | IA `problemsofyouths00bank` |
+| The world's childhood; a series of Sunday evening sermons from themes drawn from the first three chapters of Genesis (New York, Funk & Wagnalls, 1910) | have-ocr | IA `worldschildhoods00bankrich` |
+| The Sunday-night evangel; a series of Sunday evening discourses delivered in Independence Avenue Methodist Episcopal Church, Kansas City, Missouri (New York, London, Funk and Wagnalls Company, 1911) | have-ocr | IA `sundaynightevang00bank` |
+| The great themes of the Bible (New York, Eaton & Mains; Cincinnati, Jennings & Graham, 1911) | have-ocr | IA `greatthemesofbib00bank` |
+| The great sinners of the Bible (New York ; Cincinnati : The Methodist Book Concern, 1919) | have-ocr | IA `greatsinnersofbi00bank` |
+| The winds of God (New York and London, Funk and Wagnalls company, 1920) | have-ocr | IA `windsofgod00bank` |
+| The new ten commandments, and other sermons (New York, Chicago [etc.] Fleming H. Revell company, 1922) | have-ocr | IA `newtencommandmen00bank` |
+| Wonderful Bible conversions (New York, Chicago [etc.] : Fleming H. Revell company, 1923) | have-ocr | IA `wonderfulbibleco00bank` |
+| Dramatic Stories of Jesus (Funk & Wagnalls, 1924) | have-ocr | IA `dramaticstorieso0000loui` |
+| Christ's soul-searching parables : evangelistic sermons on the parables of Jesus (New York ; Chicago [etc.] : Fleming H. Revell company, 1925) | have-ocr | IA `christssoulsearc00bank` |
+| books for boys and on American history and biography (An Oregon Boyhood, The Hall of Fame, Youth of Famous Americans, The Lincoln Legion, Capital Stories, Immortal Songs of Camp and Field), the prohibition handbook Ammunition for Final Drive on Booze, and pamphlets of under 60 pages | excluded | |
+| Spurgeon's Illustrative Anecdotes (1906) is Spurgeon's matter, which he only arranged | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
