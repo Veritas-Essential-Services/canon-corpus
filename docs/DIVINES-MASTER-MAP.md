@@ -15201,6 +15201,24 @@ Slugs `ravenscroft-*`. Built from title pages read for round 90.
 | A sermon preached on Sunday, December 20, 1829, at the consecration of Christ Church, Raleigh, N.C. / by John Stark Ravenscroft (Raleigh, N.C. : The Vestry ; New York : Protestant Episcopal Press [printer], 1830) | have-ocr | IA `sermonpreachedon00rave` |
 | the 1856 reissue of the Works (same texts) | excluded | |
 | Biographical Sketch (1850), by another hand | excluded | |
+
+## Frank W. Gunsaulus (round 90, my pick, 2026-10-23)
+
+Slugs `gunsaulus-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| November at Eastwood: sermons (Columbus, Ohio, A. H. Smythe, [188) | have-ocr | IA `MN5047ucmf_9` |
+| Young men in history (Chicago, New York : Fleming H. Revell, 1898) | have-ocr | IA `youngmeninhistor00guns` |
+| The man of Galilee : a biographical study of the life of Jesus Christ ([s. l. : s. n.], 1899) | have-ocr | IA `manofgalileebiog00guns` |
+| Paths to power: Central church sermons (New York, Chicago [etc.] Fleming H. Revell company, 1905) | have-ocr | IA `pathstopowercent00guns` |
+| Paths to the city of God (New York, Chicago, Fleming H. Revell company, 1906) | have-ocr | IA `pathstocityofgod00guns` |
+| The transfiguration of Christ, by Frank Wakeley Gunsaulus (Boston, Houghton, Mifflin, 1907) | have-ocr | IA `transfigurationo0000guns` |
+| The minister and the spiritual life (New York ; Chicago [etc.] : Fleming H. Revell company, 1911) | have-ocr | IA `ministerspiritua00guns` |
+| Sermon delivered by Dr. Frank W. Gunsaulus, August 25, 1912 in the Cathedral Woods Heart's Delight Farm ([Chicago : Privately printed for W.H. Miner, Chazy, N.Y., by the Lammers-Shilling Company], 1913) | have-ocr | IA `sermondeliveredb00guns` |
+| Martin Luther and the morning hour in Europe; two lectures delivered at the University of Chicago, October 16 and 17 (Chicago, Ill., The University of Chicago Press, 1917) | have-ocr | IA `martinluthermorn0000guns` |
+| Prayers of Frank W. Gunsaulus (New York, Chicago [etc.] Fleming H. Revell company, 1922) | have-ocr | IA `prayersoffrankwg00guns` |
+| Monk and Knight (a novel), his poems, The Higher Ministries of Recent English Poetry, the Gladstone biography, art-exhibition addresses and catalogues | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

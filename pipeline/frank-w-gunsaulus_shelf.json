@@ -1,0 +1,179 @@
+{
+ "_about": "Public-domain Frank Wakeley Gunsaulus (1856-1921), Congregational pastor of Central Church, Chicago, and founding president of Armour Institute, for the Word Hoard: his religious books only: November at Eastwood (sermons), The Man of Galilee, Paths to Power, Paths to the City of God, The Transfiguration of Christ, The Minister and the Spiritual Life (Yale lectures), Young Men in History, Martin Luther and the Morning Hour in Europe, a 1912 sermon and his Prayers (1922). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 90 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frank w. gunsaulus",
+  "frank wakeley gunsaulus",
+  "f. w. gunsaulus"
+ ],
+ "_surname": [
+  "frank w. gunsaulus",
+  "frank wakeley gunsaulus",
+  "f. w. gunsaulus",
+  "gunsaulus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gunsaulus-november-eastwood": [
+   "MN5047ucmf_9",
+   "November at Eastwood: sermons (Columbus, Ohio, A. H. Smythe, [188)"
+  ],
+  "gunsaulus-young-men-history": [
+   "youngmeninhistor00guns",
+   "Young men in history (Chicago, New York : Fleming H. Revell, 1898)"
+  ],
+  "gunsaulus-man-of-galilee": [
+   "manofgalileebiog00guns",
+   "The man of Galilee : a biographical study of the life of Jesus Christ ([s. l. : s. n.], 1899)"
+  ],
+  "gunsaulus-paths-to-power": [
+   "pathstopowercent00guns",
+   "Paths to power: Central church sermons (New York, Chicago [etc.] Fleming H. Revell company, 1905)"
+  ],
+  "gunsaulus-city-of-god": [
+   "pathstocityofgod00guns",
+   "Paths to the city of God (New York, Chicago, Fleming H. Revell company, 1906)"
+  ],
+  "gunsaulus-transfiguration": [
+   "transfigurationo0000guns",
+   "The transfiguration of Christ, by Frank Wakeley Gunsaulus (Boston, Houghton, Mifflin, 1907)"
+  ],
+  "gunsaulus-minister-spiritual-life": [
+   "ministerspiritua00guns",
+   "The minister and the spiritual life (New York ; Chicago [etc.] : Fleming H. Revell company, 1911)"
+  ],
+  "gunsaulus-sermon-1912": [
+   "sermondeliveredb00guns",
+   "Sermon delivered by Dr. Frank W. Gunsaulus, August 25, 1912 in the Cathedral Woods Heart's Delight Farm ([Chicago : Privately printed for W.H. Miner, Chazy, N.Y., by the Lammers-Shilling Company], 1913)"
+  ],
+  "gunsaulus-martin-luther": [
+   "martinluthermorn0000guns",
+   "Martin Luther and the morning hour in Europe; two lectures delivered at the University of Chicago, October 16 and 17 (Chicago, Ill., The University of Chicago Press, 1917)"
+  ],
+  "gunsaulus-prayers": [
+   "prayersoffrankwg00guns",
+   "Prayers of Frank W. Gunsaulus (New York, Chicago [etc.] Fleming H. Revell company, 1922)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gunsaulus-literary": "Monk and Knight (a novel), his poems, The Higher Ministries of Recent English Poetry, the Gladstone biography, art-exhibition addresses and catalogues"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gunsaulus-november-eastwood": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank wakeley gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "[1880]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gunsaulus-young-men-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gunsaulus-man-of-galilee": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gunsaulus-paths-to-power": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gunsaulus-city-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gunsaulus-transfiguration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank wakeley gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gunsaulus-minister-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gunsaulus-sermon-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gunsaulus-martin-luther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gunsaulus-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank w. gunsaulus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
