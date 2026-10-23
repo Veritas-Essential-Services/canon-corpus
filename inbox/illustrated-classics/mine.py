@@ -112,8 +112,10 @@ def colourfulness(rgb):
     return round(math.sqrt(srg ** 2 + syb ** 2) + 0.3 * math.sqrt(mrg ** 2 + myb ** 2), 1)  # Hasler-Suesstrunk
 
 
-def regions(cols, rows, cells, text_cells):
-    """Connected non-text ink, as cell boxes, inside a 3% margin."""
+def regions(cols, rows, cells, text_cells, reach=(1, 1)):
+    """Connected non-text ink, as cell boxes, inside a 3% margin. reach widens what
+    counts as touching (rows, cols): with no OCR, words and lines are bridged so a
+    block of print becomes one region that looks_like_text can recognise."""
     mx, my = max(1, cols * 3 // 100), max(1, rows * 3 // 100)
     on = set()
     for r in range(my, rows - my):
@@ -129,8 +131,8 @@ def regions(cols, rows, cells, text_cells):
         while stack:
             r, c = stack.pop()
             comp.append((r, c))
-            for dr in (-1, 0, 1):
-                for dc in (-1, 0, 1):
+            for dr in range(-reach[0], reach[0] + 1):
+                for dc in range(-reach[1], reach[1] + 1):
                     nb = (r + dr, c + dc)
                     if nb in on and nb not in seen:
                         seen.add(nb)
@@ -140,6 +142,17 @@ def regions(cols, rows, cells, text_cells):
         rs, cs = [p[0] for p in comp], [p[1] for p in comp]
         out.append({"cells": len(comp), "box": (min(cs), min(rs), max(cs) + 1, max(rs) + 1)})
     return out
+
+
+def looks_like_text(g, cols, cells):
+    """With no OCR to go by: a block of print shows blank gaps between its lines,
+    a picture does not. Share of the region's rows that are nearly empty."""
+    l, t, r, b = g["box"]
+    prof = [sum(cells[y * cols + x] for x in range(l, r)) for y in range(t, b)]
+    if len(prof) < 4 or max(prof) == 0:
+        return False
+    gaps = sum(1 for v in prof if v < 0.25 * max(prof)) / len(prof)
+    return gaps > 0.25 and (r - l) / cols > 0.3
 
 
 def guess_region(box, cols, rows, text_top, text_bottom):
@@ -185,27 +198,38 @@ def mine(slug, ident):
         return
     os.makedirs(out, exist_ok=True)
     zips = [f for f in os.listdir(src) if f.endswith("_jp2.zip")]
-    if not zips:
-        print(ident, "no JP2 zip; skipped")
+    folder = os.path.join(src, "pages")
+    if not zips and not os.path.isdir(folder):
+        print(ident, "no JP2 zip or pages/ folder; skipped")
         return
     words = page_words(os.path.join(src, ident + "_djvu.xml"))
     acc = access_leaves(os.path.join(src, ident + "_scandata.xml"))
     pnums = printed_numbers(os.path.join(src, ident + "_page_numbers.json"))
-    zf = zipfile.ZipFile(os.path.join(src, zips[0]))
-    names = sorted(n for n in zf.namelist() if n.lower().endswith(".jp2"))
+    if zips:
+        zf = zipfile.ZipFile(os.path.join(src, zips[0]))
+        names = sorted(n for n in zf.namelist() if n.lower().endswith(".jp2"))
+        opener = zf.open
+    else:                                   # a book kept as one image per page (fetch_commons_pages.py)
+        names = sorted(os.path.join(folder, f) for f in os.listdir(folder) if not f.endswith(".part"))
+        opener = lambda n: open(n, "rb")
     rows_out, plates, orns = [], [], []
     for name in names:
         stem = os.path.splitext(os.path.basename(name))[0]
-        leaf = int(re.search(r"_(\d+)$", stem).group(1))
+        leaf = int(re.search(r"(\d+)$", stem).group(1))
         if acc is not None and leaf not in acc:
             continue
         n = acc.index(leaf) if acc is not None else len(rows_out)
-        with zf.open(name) as fh:
+        with opener(name) as fh:
             im = Image.open(fh)
-            im.reduce = 2                       # quarter size: plenty for finding ink
-            im.load()
+            if name.lower().endswith(".jp2"):
+                im.reduce = 2                   # quarter size: plenty for finding ink
+                im.load()
+                full_w, full_h = im.size[0] * 4, im.size[1] * 4
+            else:
+                full_w, full_h = im.size
+                im.draft("RGB", (full_w // 4, full_h // 4))
+                im = im.resize((max(1, full_w // 4), max(1, full_h // 4)))
             rgb = im.convert("RGB")
-        full_w, full_h = im.size[0] * 4, im.size[1] * 4
         grey = rgb.convert("L")
         cols, rws, cells, _ = ink_grid(grey)
         ww, wh, boxes = words.get(stem, (0, 0, []))
@@ -222,7 +246,13 @@ def mine(slug, ident):
                         text_cells.add((rr, cc))
         text_top = min(tops) if len(boxes) > 20 else None
         text_bottom = max(bots) if len(boxes) > 20 else None
-        regs = regions(cols, rws, cells, text_cells)
+        regs = regions(cols, rws, cells, text_cells, (1, 1) if boxes else (2, 3))
+        if not boxes:                           # no OCR: drop blocks that look like print
+            printed = [g for g in regs if looks_like_text(g, cols, cells)]
+            regs = [g for g in regs if g not in printed]
+            if printed:
+                text_top = min(g["box"][1] for g in printed)
+                text_bottom = max(g["box"][3] for g in printed)
         ink = round(sum(cells) / len(cells), 3)
         col = colourfulness(rgb)
         found = []
@@ -235,7 +265,7 @@ def mine(slug, ident):
         big = any(f["kind_guess"] == "plate" for f in found)
         if ink < 0.01 and not found:
             kind = "blank"
-        elif big and len(boxes) < 60:
+        elif big and len(boxes) < 60 and not (not boxes and text_top is not None):
             kind = "plate"
         elif found:
             kind = "text+art"
