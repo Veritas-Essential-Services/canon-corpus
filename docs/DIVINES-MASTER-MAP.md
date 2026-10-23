@@ -16987,6 +16987,23 @@ Slugs `machale-*`. Built from title pages read for round 109.
 | Letters of Hierophilos to the English People on the moral and political state of Ireland (1822), IA 10280103bsb: signed only "Hierophilos"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | 10775010bsb (a German translation by another hand) | excluded | |
 | His Irish translations of Moore's Melodies and the Ballad History are literary; left out | excluded | |
+
+## Henry Newland (round 109, my pick, 2026-10-23)
+
+Slugs `hnewland-*`. Built from title pages read for round 109.
+
+| Work | Status | Where |
+|---|---|---|
+| Three lectures on tractarianism : delivered in the town hall, Brighton (London, 1849) | have-ocr | IA `threelecturesont00newl` |
+| Socinianism : the inevitable result of the Manchester and Salford scheme of national education, vol. Talbot Collection of British Pamphlets (London : Joseph Henry Batty, 159, Fleet Street, 1851) | have-ocr | IA `socinianisminevi00newl` |
+| The Lord is at hand : a sermon preached at S. Peter's Chapel, Charlotte Street, Pimlico, on Friday, 14th December, 1852 (London : J. Masters, 1852) | have-ocr | IA `a622772800newluoft` |
+| Confirmation and first communion : a series of essays, lectures, sermons, conversations, and heads of catechising, relative to the preparation of catechumens (London : Joseph Masters, 1860) | have-ocr | IA `confirmationfirs00newl` |
+| A practical and exegetical commentary on the Epistle of St. Paul to the Philippians : in which are exhibited the results of the most learned theological criticisms, from the age of the early Fathers down to the present time (Oxford : J. H. and Jas. Parker, 1860) | have-ocr | IA `practicalexegeti00newl` |
+| The Erne, its legends and its fly-fishing (London, Chapman and Hall, 1851) | have-ocr | IA `erneitslegendsit00newlrich` |
+| Forest scenes in Norway and Sweden: being extracts from the journal of a fisherman (London, G. Routledge & Co., 1855) | have-ocr | IA `forestscenesinno00newlrich` |
+| The Seasons of the Church, what they teach, vol. 3 (1856), IA seasonsofchurchw03newluoft: a series of sermons he EDITED, not shown to be all his own (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| The 1829 Apology for the Established Church in Ireland and the 1832 reply to Doyle are by Henry Newland, Dean of Ferns, a different man | excluded | |
+| The Life of Antonio de Dominis (1859) is by Henry Newland, D.D., Dean of Ferns, per its title page; a different man | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
