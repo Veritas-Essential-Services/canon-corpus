@@ -1,0 +1,32 @@
+{
+ "_about": "Thomas Taylor the Platonist (1758-1835), translator of Plato, Aristotle and the Neoplatonists (rows on those shelves), raw IA OCR of his Eleusinian and Bacchic Mysteries in Wilder's 1891 edition.  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Thomas Taylor",
+ "_name_words": [
+  "taylor"
+ ],
+ "_surname": [
+  "thomas taylor"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomas-taylor-eleusinian-and-bacchic-mysteries-4th-ed-1891": [
+   "eleusinianbacch00tayluoft",
+   "The Eleusinian and Bacchic Mysteries: a dissertation, by Thomas Taylor, edited with introduction, notes, emendations and glossary by Alexander Wilder, fourth edition (New York: J. W. Bouton, 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thomas-taylor-eleusinian-and-bacchic-mysteries-4th-ed-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
