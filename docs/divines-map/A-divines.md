@@ -17199,3 +17199,36 @@ Slugs `rintoul-*`. Built from title pages read for round 111.
 | A Sermon on Dancing, preached by a minister in Canada West (1843), IA cihm_40457: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | Sermon and addresses, on the occasion of the admission, by the Presbytery of Toronto, of the Rev. John Barclay, A.M. to the pastoral charge of the congregation of St. Andrew's Church, Toronto, on the 6th December, 1842 (Toronto, Printed at the British Colonist Office, 1843), IA sermonaddresseso00rint: his sermon bound with addresses by James George and John Tawse (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | cihm_49446 (a pastoral letter of the Synod, a corporate document) | excluded | |
+
+## W. C. E. Newbolt (round 112, my pick, 2026-10-23)
+
+Slugs `newbolt-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| Penitence and peace. Being addresses on the fifty-first and twenty-third psalms (London, 1892) | have-ocr | IA `penitencepeacebe0000newb` |
+| Counsels of faith and practice : being sermons preached on various occasions / by W.C.E. Newbolt (London : Longmans, 1894) | have-ocr | IA `counselsoffaithp00newb` |
+| Speculum sacerdotum : or, The divine model of the priestly life (London, N.Y. : Longmans, Green, 1894) | have-ocr | IA `SpeculumSacerdotum` |
+| The prayer-book : its voice and teaching ; being spiritual addresses bearing on the Book of Common Prayer (London : Longmans, Green, 1894) | have-ocr | IA `theprayerbookits00newbuoft` |
+| Quiet days & retreats : being some thoughts on their observance (Oxford : Mowbray, 1894) | have-ocr | IA `QuietDaysRetreats` |
+| The Gospel of experience : or, the witness of human life to the truth of revelation, being the Boyle lectures for 1895 (London : Longmans, Green & Co, 1896) | have-ocr | IA `thegospelofexper00newbuoft` |
+| Priestly ideals : being a course of practical lectures delivered in St. Paul's Cathedral to "Our Society" and other clergy, in Lent, 1898 (London, New York : Longmans, Green, 1899) | have-ocr | IA `priestlyidealsbe00newb` |
+| Religion (London, New York [etc.] Longmans, Green & Co., 1899) | have-ocr | IA `religion00newb` |
+| Handbook to the Gospel according to S. Matthew : for the use of teachers and students (London : Rivingtons, 1900) | have-ocr | IA `handbooktogospel00newb` |
+| Words of exhortation; sermons preached at S. Paul's and elsewhere (London, New York Longmans, Green, and Co., 1900) | have-ocr | IA `wordsofexhortati0000newb` |
+| The dial of prayer; being devotions for every hour for those who would wish to live near to God (London, New York Longmans, Green and Co., 1900) | have-ocr | IA `TheDialOfPrayer` |
+| Apostles of the Lord : being six lectures on pastoral theology delivered in the Divinity School, Cambridge, Lent term, 1901 (London ; New York : Longmans, Green, 1901) | have-ocr | IA `ApostlesOfTheLord` |
+| Priestly blemishes : Or, Some secret hindrances to the realization of priestly ideals: a sequal, being a second source of practical lectures delivered ... "Our Society" and other clergy, in Lent, 1902 (Longmans, Green, and Co., 1902) | have-ocr | IA `priestlyblemishe0000unse` |
+| The Church of England : an appeal to facts and principles (London : Longmans, Green, and Co., 1903) | have-ocr | IA `churchofenglanda00newbuoft` |
+| The cardinal virtues (London, New York : Hodder and Stoughton, 1903) | have-ocr | IA `cardinalvirtues00newb` |
+| The church catechism; the Christian's manual (London, New York : Longmans, Green, 1903) | have-ocr | IA `churchcatechismc00newbiala` |
+| Handbook to The gospel according to S. John (Rivingtons, 1906) | have-ocr | IA `handbooktogospel0000revw` |
+| Fundamental Christianity : four sermons preached in St. Paul's Cathedral on the Sundays in August, 1906, vol. Talbot Collection of British Pamphlets (London : G.J. Palmer & Sons, 7, Portugal Street, W.C., [190) | have-ocr | IA `fundamentalchris00newb` |
+| The Sacrament of the Altar (catalogued 1908) | have-ocr | IA `sacramentofaltar0000revw` |
+| The Holy Eucharist : a series of lectures delivered to the members of the St. Paul's Lecture Society (London : Longmans, Green, 1911) | have-ocr | IA `holyeucharistser00newbuoft` |
+| Confirmation (London, Wells Gardner, Darton, 1912) | have-ocr | IA `confirmation0000newb` |
+| The ministry of the word (longmans, gree, and co., 1913) | have-ocr | IA `ministryofword0000wcen` |
+| The fruit of the spirit : being ten addresses bearing on the spiritual life (London ; New York : Longmans, Green, 1913) | have-ocr | IA `thefruitofthespi00newbuoft` |
+| Christian marriage at the cross-roads : being five addresses (London : Skeffington & Son, [192) | have-ocr | IA `christianmarriag00newb` |
+| Years that are past; being some recollections of a long life (London : W. Gardner, Darton & co., ltd., 1921) | have-ocr | IA `cu31924029450925` |
+| Liddon's Life of Pusey and Pusey's Spiritual Letters, which he co-edited, and the many-author Cathedrals of England, are other men's works | excluded | |
