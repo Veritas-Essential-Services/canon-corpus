@@ -38827,3 +38827,28 @@ Shelf: `pipeline/luis-senarens_shelf.json` (2026-10-22; added at the coordinator
 | Frank Reade, Jr., With His New Steam Man in Central America | have | PG 66206, `lsenarens-frank-reade-jr-with-his-new-steam-man-in-central-a` (1542 units) |
 | Frank Reade, Jr., with his new steam horse in the great American desert or, The sandy trail of death | have | PG 68067, `lsenarens-frank-reade-jr-with-his-new-steam-horse-in-the-gre` (1552 units) |
 | Frank Reade, Jr., with his new steam man in Mexico or, hot work among the greasers | have | PG 68349, `lsenarens-frank-reade-jr-with-his-new-steam-man-in-mexico-or` (1635 units) |
+
+## St. George Rathborne
+
+Shelf: `pipeline/st-george-rathborne_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure stories for boys. Every English text under the name at Gutenberg that no other shelf holds (18 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The House Boat Boys; Or, Drifting Down to the Sunny South | have | PG 4941, `sgrathborne-house-boat-boys` (1465 units) |
+| Miss Caprice | have | PG 15979, `sgrathborne-miss-caprice` (2212 units) |
+| Canoe Mates in Canada; Or, Three Boys Afloat on the Saskatchewan | have | PG 19489, `sgrathborne-canoe-mates-in-canada` (979 units) |
+| Chums in Dixie; or, The Strange Cruise of a Motorboat | have | PG 21507, `sgrathborne-chums-in-dixie` (1095 units) |
+| Rocky Mountain Boys; Or, Camping in the Big Game Country | have | PG 37803, `sgrathborne-rocky-mountain-boys` (1064 units) |
+| The Pioneer Boys of the Ohio; or, Clearing the Wilderness | have | PG 46794, `sgrathborne-pioneer-boys-of-the-ohio` (1753 units) |
+| The Pioneer Boys on the Great Lakes; or, On the Trail of the Iroquois | have | PG 46795, `sgrathborne-pioneer-boys-on-the-great-lakes` (1598 units) |
+| The Pioneer Boys of the Mississippi; or, The Homestead in the Wilderness | have | PG 46796, `sgrathborne-pioneer-boys-of-the-mississippi` (1585 units) |
+| The Pioneer Boys of the Missouri; or, In the Country of the Sioux | have | PG 46797, `sgrathborne-pioneer-boys-of-the-missouri` (1686 units) |
+| The Pioneer Boys of the Yellowstone; or, Lost in the Land of Wonders | have | PG 46798, `sgrathborne-pioneer-boys-of-the-yellowstone` (1830 units) |
+| The Pioneer Boys of the Columbia; or, In the Wilderness of the Great Northwest | have | PG 46799, `sgrathborne-pioneer-boys-of-the-columbia` (1715 units) |
+| Old Broadbrim Into the Heart of Australia or, A Strange Bargain and Its Consequences | have | PG 48034, `sgrathborne-old-broadbrim-into-the-heart-of-australia-or-a-s` (2395 units) |
+| Camp Mates in Michigan; or, with Pack and Paddle in the Pine Woods | have | PG 50253, `sgrathborne-camp-mates-in-michigan` (1195 units) |
+| Miss Fairfax of Virginia: A Romance of Love and Adventure Under the Palmettos | have | PG 52599, `sgrathborne-miss-fairfax-of-virginia` (2713 units) |
+| The Camp Fire Boys at Log Cabin Bend; Or, Four Chums Afoot in the Tall Timber | have | PG 62683, `sgrathborne-camp-fire-boys-at-log-cabin-bend` (1157 units) |
+| The Hunter Hercules, or, The Champion Rider of the Plains: A Romance of the Prairies | have | PG 66249, `sgrathborne-hunter-hercules-or-the-champion-rider-of-the-pla` (1052 units) |
+| The spider's web | have | PG 72718, `sgrathborne-spiders-web` (1567 units) |
+| My Hildegarde | have | PG 74522, `sgrathborne-my-hildegarde` (2616 units) |
