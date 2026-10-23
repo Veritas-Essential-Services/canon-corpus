@@ -19275,3 +19275,15 @@ Slugs `redford-*`. Built from title pages read for round 132.
 | Vox Die; the doctrine of the Spirit (Cincinnati, Curts and Jennings, 1889) | have-ocr | IA `voxdiedoctrineof00redf` |
 | Christendom from the Standpoint of Italy is a conference report | excluded | |
 | another scan of Vox Dei | excluded | |
+
+## Henry Scudder (round 133, my pick, 2026-10-23)
+
+Slugs `hscudder-*`. Built from title pages read for round 133.
+
+| Work | Status | Where |
+|---|---|---|
+| A key of heaven: the Lords prayer opened, ...  1620 (catalogued 1620) | have-ocr | IA `bim_early-english-books-1475-1640_a-key-of-heaven-the-lor_scudder-henry_1620` |
+| The christians daily walke in holy securitie and peace.  1627 (catalogued 1627) | have-ocr | IA `bim_early-english-books-1475-1640_the-christians-daily-wal_scudder-henry_1627` |
+| The godly man's choice: ...  1644 (England : Printed by Matthew Simmons for Henry Overton ..., 1644) | have-ocr | IA `bim_early-english-books-1641-1700_the-godly-mans-choice-_scudder-henry_1644` |
+| the 1642 and 1664 editions and an undated later printing of the Daily Walk | excluded | |
+| other Scudders' books | excluded | |
