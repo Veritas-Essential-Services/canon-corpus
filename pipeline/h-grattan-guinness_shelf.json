@@ -1,0 +1,176 @@
+{
+ "_about": "Public-domain Henry Grattan Guinness (1835-1910), Irish evangelist, founder of the East London Training Institute and writer on prophecy, for the Word Hoard: Sermons (1860), The Approaching End of the Age (1880), Light for the Last Days (1886), The Wide World and our Work in it (1886), Romanism and the Reformation (1887), The Divine Programme of the World's History (1888), The New World of Central Africa (1890), The City of the Seven Hills (1891), Creation Centred in Christ (1896) and History Unveiling Prophecy (1905), from Internet Archive scans. Added 2026-10-23 by lane A, round 58 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "guinness"
+ ],
+ "_surname": [
+  "h. grattan guinness",
+  "henry grattan guinness",
+  "grattan guinness"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "guinness-sermons": [
+   "sermons0000revh_s2o4",
+   "Sermons (New York Robert Carter and Brothers 530 broadway, 1860)"
+  ],
+  "guinness-approaching-end": [
+   "approachingendof00guin",
+   "The approaching end of the age viewed in the light of history, prophecy, and science (London : Hodder and Stoughton, 1880)"
+  ],
+  "guinness-light-last-days": [
+   "lightforlastdays00guin",
+   "Light for the last days : a study historic and prophetic (Toronto : S.R. Briggs, 1886)"
+  ],
+  "guinness-wide-world": [
+   "wideworldourwork00guin",
+   "The wide world and our work in it : or, the story of the East London Institute for Home and Foreign Missions (London : Hodder and Stoughton, 1886)"
+  ],
+  "guinness-romanism": [
+   "romanismreformat00guinuoft",
+   "Romanism and the Reformation from the standpoint of prophecy (Toronto, S.R. Briggs, [188)"
+  ],
+  "guinness-divine-programme": [
+   "thedivineprogram00guinuoft",
+   "The divine programme of the world's history (London : Harley House, 1892)"
+  ],
+  "guinness-central-africa": [
+   "newworldofcentra00guin_0",
+   "New world of Central Africa : with a history of the first Christian mission on the Congo (London : Hodder and Stoughton, 1890)"
+  ],
+  "guinness-seven-hills": [
+   "cu31924013475896",
+   "The city of the seven hills (London, J. Nisbet, 1891)"
+  ],
+  "guinness-creation": [
+   "creationcentred01guingoog",
+   "Creation centred in Christ, vol. 1 (London, Hodder & Stoughton, 1896)"
+  ],
+  "guinness-history-unveiling": [
+   "HistoryUnveilingProphecy",
+   "History unveiling prophecy : or, Time as an interpreter (New York : F.H. Revell, 1905)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "guinness-other": "Congo-language scripture epitome; Congo reform pamphlets and books by his children (Not unto Us, Bokwala); uploads without scans"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "guinness-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "guinness-approaching-end": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guinness-light-last-days": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "guinness-wide-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guinness-romanism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "[1887?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guinness-divine-programme": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guinness-central-africa": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "guinness-seven-hills": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "guinness-creation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "guinness-history-unveiling": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. grattan guinness",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

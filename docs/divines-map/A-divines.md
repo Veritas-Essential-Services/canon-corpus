@@ -12214,3 +12214,21 @@ Slugs `jbbrown-*`. Built from title pages read for round 58.
 | The higher life, its reality, experiences and destiny (London, King, 1874) | have-ocr | IA `higherlifeitsrea00browuoft` |
 | The doctrine of annihilation in the light of the gospel of love (London, H. S. King & co., 1875) | have-ocr | IA `doctrineofannihi00brow` |
 | His father James Baldwin Brown (1785-1843): Memoirs of Howard and The Investigator; Our Morals and Manners (1872, a short tract) | excluded | |
+
+## H. Grattan Guinness (round 58, my pick, 2026-10-23)
+
+Slugs `guinness-*`. Built from title pages read for round 58.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons (New York Robert Carter and Brothers 530 broadway, 1860) | have-ocr | IA `sermons0000revh_s2o4` |
+| The approaching end of the age viewed in the light of history, prophecy, and science (London : Hodder and Stoughton, 1880) | have-ocr | IA `approachingendof00guin` |
+| Light for the last days : a study historic and prophetic (Toronto : S.R. Briggs, 1886) | have-ocr | IA `lightforlastdays00guin` |
+| The wide world and our work in it : or, the story of the East London Institute for Home and Foreign Missions (London : Hodder and Stoughton, 1886) | have-ocr | IA `wideworldourwork00guin` |
+| Romanism and the Reformation from the standpoint of prophecy (Toronto, S.R. Briggs, [188) | have-ocr | IA `romanismreformat00guinuoft` |
+| The divine programme of the world's history (London : Harley House, 1892) | have-ocr | IA `thedivineprogram00guinuoft` |
+| New world of Central Africa : with a history of the first Christian mission on the Congo (London : Hodder and Stoughton, 1890) | have-ocr | IA `newworldofcentra00guin_0` |
+| The city of the seven hills (London, J. Nisbet, 1891) | have-ocr | IA `cu31924013475896` |
+| Creation centred in Christ, vol. 1 (London, Hodder & Stoughton, 1896) | have-ocr | IA `creationcentred01guingoog` |
+| History unveiling prophecy : or, Time as an interpreter (New York : F.H. Revell, 1905) | have-ocr | IA `HistoryUnveilingProphecy` |
+| Congo-language scripture epitome; Congo reform pamphlets and books by his children (Not unto Us, Bokwala); uploads without scans | excluded | |
