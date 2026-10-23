@@ -1859,6 +1859,8 @@ Shelf: `pipeline/procopius_shelf.json`. Dewing Wars I-VI, the Secret History, St
 | History of the Wars, Books V and VI: The Gothic War | H. B. Dewing | `procopius-dewing-gothic` | have (PG 20298) |
 | The Secret History of the Court of Justinian | translator not named in the file | `procopius-secret-history` | have (PG 12916) |
 | Of the Buildings of Justinian | Aubrey Stewart | `procopius-stewart-buildings` | have (PG 65404) |
+| History of the Wars, Books VI.16-VII.35, tr. H. B. Dewing, vol. IV (Loeb, 1924; this copy the 1962 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `procopius-dewing-v4` | have-raw (IA `procopiuswitheng04procuoft`) |
+| History of the Wars, Books VII.36-VIII (The Gothic War), tr. H. B. Dewing, vol. V (Loeb, 1928; this copy the 1962 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `procopius-dewing-v5` | have-raw (IA `procopiuswitheng05procuoft`) |
 
 Pending (wishlist): Dewing Wars VII-VIII
 
