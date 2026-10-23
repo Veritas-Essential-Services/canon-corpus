@@ -4477,6 +4477,14 @@
       "started": "2026-10-22T22:36:33-05:00",
       "finished": "2026-10-22T22:36:33-05:00",
       "notes": "edgar-saltus: new shelf, 15 Gutenberg books, 13,845 units, 230 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bloundelle-burton",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — John Bloundelle-Burton; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:36:49-05:00",
+      "finished": "2026-10-22T22:36:49-05:00",
+      "notes": "bloundelle-burton: new shelf, 14 Gutenberg books, 20,599 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

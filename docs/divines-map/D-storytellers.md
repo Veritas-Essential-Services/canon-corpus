@@ -15028,3 +15028,24 @@ Shelf: `pipeline/edgar-saltus_shelf.json` (2026-10-22; added at the coordinator'
 | Balzac | have | PG 46859, `esaltus-balzac` (1641 units) |
 | Mr. Incoul's Misadventure | have | PG 47061, `esaltus-mr-incouls-misadventure` (712 units) |
 | The Monster | have | PG 47654, `esaltus-monster` (1606 units) |
+
+## John Bloundelle-Burton
+
+Shelf: `pipeline/bloundelle-burton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical romances. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| In the Day of Adversity | have | PG 33643, `jbburton-in-the-day-of-adversity` (1971 units) |
+| Across the Salt Seas: A Romance of the War of Succession | have | PG 52102, `jbburton-across-the-salt-seas` (1718 units) |
+| The Silent Shore: A Romance | have | PG 52209, `jbburton-silent-shore` (1200 units) |
+| The Hispaniola Plate (1683-1893) | have | PG 52210, `jbburton-hispaniola-plate-1683-1893` (1433 units) |
+| The Seafarers | have | PG 52548, `jbburton-seafarers` (757 units) |
+| Clash of Arms: A Romance | have | PG 52586, `jbburton-clash-of-arms` (1784 units) |
+| Traitor and True: A Romance | have | PG 52649, `jbburton-traitor-and-true` (1385 units) |
+| Denounced: A Romance | have | PG 52733, `jbburton-denounced` (1766 units) |
+| The Scourge of God: A Romance of Religious Persecution | have | PG 52734, `jbburton-scourge-of-god` (1636 units) |
+| Fortune's My Foe: A Romance | have | PG 52781, `jbburton-fortunes-my-foe` (1211 units) |
+| A Bitter Heritage: A Modern Story of Love and Adventure | have | PG 52956, `jbburton-bitter-heritage` (1358 units) |
+| The Land of Bondage: A Romance | have | PG 52957, `jbburton-land-of-bondage` (1176 units) |
+| Servants of Sin: A Romance | have | PG 52970, `jbburton-servants-of-sin` (1334 units) |
+| The Sword of Gideon | have | PG 52979, `jbburton-sword-of-gideon` (1870 units) |
