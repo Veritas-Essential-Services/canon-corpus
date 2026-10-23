@@ -1,0 +1,139 @@
+{
+ "_about": "Augusta J. Evans's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Augusta J. Evans",
+ "_name_words": [
+  "augusta",
+  "evans",
+  "jane"
+ ],
+ "_surname": [
+  "augusta j. evans",
+  "augusta jane evans",
+  "augusta evans"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ajevans-at-the-mercy-of-tiberius": [
+   4209,
+   "At the Mercy of Tiberius"
+  ],
+  "ajevans-beulah": [
+   4246,
+   "Beulah"
+  ],
+  "ajevans-st-elmo": [
+   4553,
+   "St. Elmo"
+  ],
+  "ajevans-inez": [
+   15470,
+   "Inez: A Tale of the Alamo"
+  ],
+  "ajevans-infelice": [
+   17718,
+   "Infelice"
+  ],
+  "ajevans-macaria": [
+   27811,
+   "Macaria"
+  ],
+  "ajevans-vashti": [
+   31620,
+   "Vashti; Or, Until Death Us Do Part"
+  ],
+  "ajevans-speckled-bird": [
+   36029,
+   "A Speckled Bird"
+  ],
+  "ajevans-devota": [
+   43080,
+   "Devota"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ajevans-at-the-mercy-of-tiberius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-beulah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-st-elmo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-inez": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-infelice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-macaria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-vashti": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-speckled-bird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajevans-devota": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "augusta j. evans",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

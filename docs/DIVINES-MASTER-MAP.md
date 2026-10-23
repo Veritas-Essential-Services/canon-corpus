@@ -41339,3 +41339,19 @@ Shelf: `pipeline/elijah-kellogg_shelf.json` (2026-10-22; added at the coordinato
 | The Hard-Scrabble of Elm Island | have | PG 54767, `ekellogg-hard-scrabble-of-elm-island` (1577 units) |
 | The Turning of the Tide; Or, Radcliffe Rich and His Patients | have | PG 54772, `ekellogg-turning-of-the-tide` (1318 units) |
 | Forest Glen; or, The Mohawk's Friendship | have | PG 63160, `ekellogg-forest-glen` (1384 units) |
+
+## Augusta J. Evans
+
+Shelf: `pipeline/augusta-j-evans_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| At the Mercy of Tiberius | have | PG 4209, `ajevans-at-the-mercy-of-tiberius` (3228 units) |
+| Beulah | have | PG 4246, `ajevans-beulah` (3706 units) |
+| St. Elmo | have | PG 4553, `ajevans-st-elmo` (3589 units) |
+| Inez: A Tale of the Alamo | have | PG 15470, `ajevans-inez` (1503 units) |
+| Infelice | have | PG 17718, `ajevans-infelice` (4377 units) |
+| Macaria | have | PG 27811, `ajevans-macaria` (2152 units) |
+| Vashti; Or, Until Death Us Do Part | have | PG 31620, `ajevans-vashti` (3568 units) |
+| A Speckled Bird | have | PG 36029, `ajevans-speckled-bird` (2513 units) |
+| Devota | have | PG 43080, `ajevans-devota` (228 units) |
