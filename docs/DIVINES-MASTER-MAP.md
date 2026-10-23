@@ -12651,6 +12651,8 @@ Shelf: `pipeline/thomas-arnold_shelf.json`. Arnold's History of Rome, third edit
 | History of Rome, third edition, vol. I (1844) |  | `thomas-arnold-history-of-rome-v1-1844` | have-raw (IA `historyofrome001arno`) |
 | History of Rome, third edition, vol. II (1845) |  | `thomas-arnold-history-of-rome-v2-1845` | have-raw (IA `historyofrome02arnoiala`) |
 | History of Rome, third edition, vol. III (1846) |  | `thomas-arnold-history-of-rome-v3-1846` | have-raw (IA `historyofrome03arnoiala`) |
+| History of the Later Roman Commonwealth, vol. I (London: Fellowes, 1845) |  | `thomas-arnold-later-roman-commonwealth-v1-1845` | have-raw (IA `historyoflaterro01arno`) |
+| History of the Later Roman Commonwealth, vol. II (London: Fellowes, 1845) |  | `thomas-arnold-later-roman-commonwealth-v2-1845` | have-raw (IA `historyoflaterr02arno`) |
 
 ## K. O. Müller (scholarship)
 
