@@ -14356,6 +14356,34 @@ Slugs `hus-*`. Built from title pages read for round 81.
 | Super IV Sententiarum (Flajshans, 1904-1906): its IA volumes still need matching | pending | not shelved |
 | the Czech collected works (Sebrané spisy) and Czech correspondence, left for a lane that takes Czech | excluded | |
 | eighteenth-century German translations | excluded | |
+
+## Hensley Henson (round 81, my pick, 2026-10-23)
+
+Slugs `henson-*`. Built from title pages read for round 81.
+
+| Work | Status | Where |
+|---|---|---|
+| Light and leaven : historical and social sermons to general congregations (London : Methuen, 1897) | have-ocr | IA `lightleavenhisto0000hens` |
+| Apostolic Christianity : notes and inferences mainly based on S. Paul's Epistles to the Corinthians (London : Methuen, 1898) | have-ocr | IA `apostolicchristi00hensuoft` |
+| Dissent in England, vol. c.1 (London : Rivingtons, 1900) | have-ocr | IA `dissentinengland01hens` |
+| Godly union and concord : sermons preached mainly in Westminster Abbey in the interest of Christian fraternity (London : John Murray, 1902) | have-ocr | IA `godlyunionandcon00hensuoft` |
+| Cross-bench Views of Current Church Questions (E. Arnold, 1902) | have-ocr | IA `crossbenchviews00hensgoog` |
+| Studies in English religion in the seventeenth century, St. Margaret's lectures, 1903 (London, J. Murray, 1903) | have-ocr | IA `studiesinenglish00hensuoft` |
+| Notes on Popular Rationalism (Isbister, 1904) | have-ocr | IA `notesonpopularr00hensgoog` |
+| The value of the Bible : and other sermons, 1902-1904 (London ; New York : Macmillan, 1904) | have-ocr | IA `valuebibleandot00hensgoog` |
+| Religion in the schools; addresses on fundamental Christianity, delivered in S. Margaret's. Westminster, during Lent 1906 (London : Macmillian, 1906) | have-ocr | IA `religioninschool00hens` |
+| Christian marriage (London : Cassell, 1907) | have-ocr | IA `christianmarriag00hensuoft` |
+| Christ and the nation : Westminster and other sermons (London : T. Fisher Unwin, 1908) | have-ocr | IA `christnationwest0000hens` |
+| The National Church: Essays on Its History and Constitution and Criticisms of Its Present (Macmillan, 1908) | have-ocr | IA `nationalchurche00hensgoog` |
+| The liberty of prophesying : with its just limits and temper considered with reference to the circumstances of the modern church : Lyman Beecher lectures delivered 1909, before the Yale Divinity School, and three sermons (New Haven : Yale University Press, 1910) | have-ocr | IA `libertyofprophes00hensuoft` |
+| Westminster sermons (New York : Armstrong, 1910) | have-ocr | IA `westminstersermo00hensuoft` |
+| Puritanism in England (London, New York [etc.] : Hodder and Stoughton, 1912) | have-ocr | IA `puritanisminengl00hens` |
+| War-time sermons (London, Macmillan, 1915) | have-ocr | IA `wartimesermons0000hens` |
+| Robertson of Brighton, 1816-1853 (London : Smith, Elder, 1916) | have-ocr | IA `robertsonofbrigh00hensuoft` |
+| Notes On Spiritual Healing (catalogued 1925) | have-ocr | IA `notesonspiritual0000herb` |
+| The Book and the Vote (Hodder and Stoughton, 1928) | have-ocr | IA `bookvote0000herb` |
+| Disestablishment (catalogued 1929) | have-ocr | IA `disestablishment0000herb` |
+| volumes he only edited with many contributors (Church Problems, 1900; Criticism of the New Testament, 1902); pamphlets and single sermons of under 100 pages; everything printed 1930 or later, including his Retrospect of an Unimportant Life | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
