@@ -18672,6 +18672,20 @@ Slugs `rader-*`. Built from title pages read for round 126.
 | The Empty Cottage at Silver Falls is fiction | excluded | |
 | second scans of God's Blessed Man | excluded | |
 | roundroundworld00radegoog: the catalogue says 1922, but this printing reads "Copyright, 1932" (Revell), after the 1930 cutoff | excluded | |
+
+## James De Normandie (round 126, my pick, 2026-10-23)
+
+Slugs `de-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| The Lord reigneth : a few words on Sunday morning, April 16th, 1865, after the assassination of Abraham Lincoln ([Portsmouth? N.H. : s.n., 1865) | have-ocr | IA `lordreignethfeww00deno` |
+| Harriet Ryan Albee: A Memorial Sketch (G. H. Ellis, printer, 1901) | have-ocr | IA `harrietryanalbe00normgoog` |
+| In Memoriam: A Sketch of the Life of the Rev. Francis Bickford Hornbrooke (Newton Graphic Pub., 1905) | have-ocr | IA `inmemoriamasket01normgoog` |
+| The Beauty of Wisdom (1903), IA beautyofwisdomvo00deno: daily readings from ancient writers he compiled (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Phillips Brooks and the church universal : a sermon preached to the First Church, Eliot Square, Roxbury, Boston, January 29, 1893 ([Boston] : Women's Alliance of the First Church, 1893) (IA phillipsbrooksch00deno): the OCR text is unreadable throughout (no title word survives); a re-OCR or cleaner scan is wanted | pending | not shelved |
+| the Unitarian Review, a periodical | excluded | |
+| Massachusetts Historical Society proceedings | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
