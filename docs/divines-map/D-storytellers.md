@@ -14486,3 +14486,25 @@ Shelf: `pipeline/richard-dowling_shelf.json` (2026-10-22; added at the coordinat
 | Tempest-Driven: A Romance (Vol. 3 of 3) | have | PG 42752, `rdowling-tempest-driven-42752` (942 units) |
 | An Isle of Surrey: A Novel | have | PG 42756, `rdowling-isle-of-surrey` (2633 units) |
 | Ignorant Essays | have | PG 53169, `rdowling-ignorant-essays` (297 units) |
+
+## Louis Joseph Vance
+
+Shelf: `pipeline/louis-joseph-vance_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Mystery and adventure novels. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Brass Bowl | have | PG 8741, `ljvance-brass-bowl` (1897 units) |
+| The Lone Wolf: A Melodrama | have | PG 9378, `ljvance-lone-wolf` (2348 units) |
+| The Fortune Hunter | have | PG 9747, `ljvance-fortune-hunter` (2320 units) |
+| The Black Bag | have | PG 9779, `ljvance-black-bag` (2500 units) |
+| The False Faces: Further Adventures from the History of the Lone Wolf | have | PG 9908, `ljvance-false-faces` (2609 units) |
+| The Bronze Bell | have | PG 9927, `ljvance-bronze-bell` (2150 units) |
+| Alias the Lone Wolf | have | PG 10327, `ljvance-alias-the-lone-wolf` (2720 units) |
+| Red Masquerade: Being the Story of the Lone Wolf's Daughter | have | PG 10496, `ljvance-red-masquerade` (1993 units) |
+| The Day of Days: An Extravaganza | have | PG 15873, `ljvance-day-of-days` (2480 units) |
+| Nobody | have | PG 29671, `ljvance-nobody` (2103 units) |
+| The Bandbox | have | PG 31021, `ljvance-bandbox` (2183 units) |
+| The Destroying Angel | have | PG 32302, `ljvance-destroying-angel` (2413 units) |
+| Linda Lee, Incorporated: A Novel | have | PG 36445, `ljvance-linda-lee-incorporated` (2895 units) |
+| Joan Thursday: A Novel | have | PG 36502, `ljvance-joan-thursday` (3329 units) |
+| The Lone Wolf Returns | have | PG 59177, `ljvance-lone-wolf-returns` (2503 units) |
