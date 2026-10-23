@@ -17634,3 +17634,17 @@ Shelf: `pipeline/willis-george-emerson_shelf.json` (2026-10-22; added at the coo
 | Emerson on Sound Money A Speech, 1896 | have | PG 52460, `wgemerson-emerson-on-sound-money-a-speech-1896` (102 units) |
 | The Treasure of Hidden Valley | have | PG 52461, `wgemerson-treasure-of-hidden-valley` (2285 units) |
 | pg-57541 | excluded | PG 57541: Gutenberg's index of the author's works, not a book. |
+
+## Christabel R. Coleridge
+
+Shelf: `pipeline/christabel-r-coleridge_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Maud Florence Nellie; or, Don't care! | have | PG 43117, `crcoleridge-maud-florence-nellie` (1175 units) |
+| Amethyst: The Story of a Beauty | have | PG 43121, `crcoleridge-amethyst` (2142 units) |
+| An English Squire | have | PG 43148, `crcoleridge-english-squire` (3178 units) |
+| Waynflete | have | PG 43149, `crcoleridge-waynflete` (1897 units) |
+| The Constant Prince | have | PG 43150, `crcoleridge-constant-prince` (1050 units) |
+| Kingsworth; or, The Aim of a Life | have | PG 43158, `crcoleridge-kingsworth` (1109 units) |
+| Hugh Crichton's Romance | have | PG 43162, `crcoleridge-hugh-crichtons-romance` (2968 units) |

@@ -5693,6 +5693,14 @@
       "started": "2026-10-22T23:11:43-05:00",
       "finished": "2026-10-22T23:11:43-05:00",
       "notes": "willis-george-emerson: new shelf, 6 Gutenberg books, 8,262 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "christabel-r-coleridge",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Christabel R. Coleridge; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:44-05:00",
+      "finished": "2026-10-22T23:11:44-05:00",
+      "notes": "christabel-r-coleridge: new shelf, 7 Gutenberg books, 13,519 units, 44 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
