@@ -15883,3 +15883,19 @@ Shelf: `pipeline/james-payn_shelf.json` (2026-10-22; added at the coordinator's 
 | Mirk Abbey, Volume 3 (of 3) | have | PG 47773, `jpayn-mirk-abbey-volume-3-of-3` (480 units) |
 | The Talk of the Town, Volume 1 (of 2) | have | PG 47964, `jpayn-talk-of-the-town-volume-1-of-2` (848 units) |
 | The Talk of the Town, Volume 2 (of 2) | have | PG 47965, `jpayn-talk-of-the-town-volume-2-of-2` (971 units) |
+
+## Barry Pain
+
+Shelf: `pipeline/barry-pain_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Humorous and weird stories. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Eliza | have | PG 23783, `bpain-eliza` (712 units) |
+| Marge Askinforit | have | PG 26024, `bpain-marge-askinforit` (432 units) |
+| If Winter Don't A.B.C.D.E.F. Notsomuchinson | have | PG 27375, `bpain-if-winter-dont-a-b-c-d-e-f-notsomuchinson` (635 units) |
+| The New Gulliver, and Other Stories | have | PG 33542, `bpain-new-gulliver-and-other-stories` (1222 units) |
+| Here and Hereafter | have | PG 35148, `bpain-here-and-hereafter` (2766 units) |
+| The Exiles of Faloo | have | PG 44718, `bpain-exiles-of-faloo` (1275 units) |
+| In a Canadian Canoe; The Nine Muses Minus One, and Other Stories | have | PG 67322, `bpain-in-a-canadian-canoe` (1213 units) |
+| Wilhelmina in London | have | PG 71322, `bpain-wilhelmina-in-london` (582 units) |
+| The Problem Club | have | PG 75598, `bpain-problem-club` (579 units) |

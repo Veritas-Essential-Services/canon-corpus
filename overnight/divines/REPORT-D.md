@@ -2114,3 +2114,6 @@
 
 ## 2026-10-22 22:45 CDT — james-payn: done
 - james-payn: new shelf, 9 Gutenberg books, 7,168 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — barry-pain: done
+- barry-pain: new shelf, 9 Gutenberg books, 9,416 units, 354 ~2 ids; verify 0 mismatches, 0 rights flags.
