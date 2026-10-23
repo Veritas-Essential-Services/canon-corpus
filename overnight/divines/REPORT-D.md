@@ -2468,3 +2468,6 @@
 
 ## 2026-10-22 23:11 CDT — a-d-t-whitney: done
 - a-d-t-whitney: new shelf, 6 Gutenberg books, 12,126 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — brand-whitlock: done
+- brand-whitlock: new shelf, 6 Gutenberg books, 11,472 units, 2575 ~2 ids; verify 0 mismatches, 0 rights flags.

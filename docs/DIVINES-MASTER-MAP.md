@@ -43135,3 +43135,16 @@ Shelf: `pipeline/a-d-t-whitney_shelf.json` (2026-10-22; added at the coordinator
 | The Other Girls | have | PG 16329, `adtwhitney-other-girls` (2731 units) |
 | Faith Gartney's Girlhood | have | PG 18896, `adtwhitney-faith-gartneys-girlhood` (2173 units) |
 | Mother Goose for Grown Folks | have | PG 45301, `adtwhitney-mother-goose-for-grown-folks` (2765 units) |
+
+## Brand Whitlock
+
+Shelf: `pipeline/brand-whitlock_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Her Infinite Variety | have | PG 35727, `bwhitlock-her-infinite-variety` (671 units) |
+| The Turn of the Balance | have | PG 40398, `bwhitlock-turn-of-the-balance` (4035 units) |
+| The Happy Average | have | PG 45728, `bwhitlock-happy-average` (1733 units) |
+| The 13th District: A Story of a Candidate | have | PG 62902, `bwhitlock-13th-district` (2728 units) |
+| The Gold Brick | have | PG 67596, `bwhitlock-gold-brick` (1456 units) |
+| Forty Years of It | have | PG 67648, `bwhitlock-forty-years-of-it` (849 units) |
