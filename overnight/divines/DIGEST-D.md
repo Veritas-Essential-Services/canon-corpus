@@ -1000,4 +1000,23 @@ Adam asked Lane D to correct the rough Internet Archive volumes itself and hand 
 - How it was done: a majority vote over 4 scans of the printing, tesseract, scanner-habit rules, and those hand readings.
 - Unresolved: 14 index spots on pages 224-326.
 
-Tools are in `tools-D/ocr/` and the fix list is `data/ocr-fixes/latchkeyofmybook06mill.json`; the fix list is a committed exception Adam approved. `run.sh` rebuilds the corrected text byte-for-byte. Next: Little Classics (Google scans).
+Tools are in `tools-D/ocr/` and the fix list is `data/ocr-fixes/latchkeyofmybook06mill.json`; the fix list is a committed exception Adam approved. `run.sh` rebuilds the corrected text byte-for-byte.
+
+### Little Classics, five roughest volumes (2026-10-23)
+
+Garbled words in the body, before and after, with the number of hand readings:
+
+| Volume | Scan | Before | After | Readings |
+|---|---|---|---|---|
+| Tragedy | `vol3littleclassi00john` | 807 | 0 | 223 |
+| Love | `vol6littleclassi00john` | 738 | 1 | 346 |
+| Narrative Poems | `littleclassics15johngoog` | 408 | 2 | 255 |
+| Heroism | `vol11littleclass00john` | 919 | 0 | 253 |
+| Authors | `littleclassics04johngoog` | 1,985 | 0 | 1,017 |
+
+Second sweeps also fixed real-word slips (lie/he, bad/had, li/h), lost drop caps, headings and page numbers. Authors also had 71 dates with an old-style 6 read as 0 or 8; each was read off the image.
+
+Open for Adam:
+- The Authors general index (pp. 259-266) is scrambled in both scans. It is left as is. Typing it would go past the word-level exception; the other choice is rebuilding it from the volumes' own contents.
+- This Authors scan lacks printed p. 50 (its leaf 55 is a faded reshoot of p. 48), so the twin scan's page stands in.
+- The other 12 Little Classics volumes scored A or B and were not swept.
