@@ -18658,6 +18658,20 @@ Slugs `bristol-*`. Built from title pages read for round 126.
 | Francis Asbury, Centennial Addresses (1917), IA francisasburycen00roge: addresses by several men (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | Richard the Third and the Primrose Criticism and Shakespeare and America are literary studies | excluded | |
 | lifeofchaplainmc0000fran, a second scan | excluded | |
+
+## Paul Rader (round 126, my pick, 2026-10-23)
+
+Slugs `rader-*`. Built from title pages read for round 126.
+
+| Work | Status | Where |
+|---|---|---|
+| Paul Rader's sermons (New York : The Book Stall, 1916) | have-ocr | IA `paulraderssermon00rade` |
+| How to win, and other victory messages (New York city, The Book stall, 1919) | have-ocr | IA `howtowinothervic00rade` |
+| God's Blessed Man (catalogued 1922) | have-ocr | IA `godsblessedman0000paul` |
+| Tabernacle Hymns No. 2 (1921), IA tabernaclehymnsn00rade: a hymnal he compiled from many writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| The Empty Cottage at Silver Falls is fiction | excluded | |
+| second scans of God's Blessed Man | excluded | |
+| roundroundworld00radegoog: the catalogue says 1922, but this printing reads "Copyright, 1932" (Revell), after the 1930 cutoff | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
