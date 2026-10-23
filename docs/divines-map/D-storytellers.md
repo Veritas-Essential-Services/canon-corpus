@@ -18619,3 +18619,15 @@ Shelf: `pipeline/julia-magruder_shelf.json` (2026-10-22; added at the coordinato
 | The Princess Sonia | have | PG 62637, `jmagruder-princess-sonia` (787 units) |
 | Across the Chasm | have | PG 63250, `jmagruder-across-the-chasm` (1141 units) |
 | Miss Ayr of Virginia, & other stories | have | PG 74718, `jmagruder-miss-ayr-of-virginia-other-stories` (1020 units) |
+
+## James M. Ludlow
+
+Shelf: `pipeline/james-m-ludlow_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Captain of the Janizaries A story of the times of Scanderberg and the fall of Constantinople | have | PG 40519, `jmludlow-captain-of-the-janizaries-a-story-of-the-times-of-s` (2001 units) |
+| A King of Tyre: A Tale of the Times of Ezra and Nehemiah | have | PG 44290, `jmludlow-king-of-tyre` (1285 units) |
+| Deborah: A tale of the times of Judas Maccabaeus | have | PG 53851, `jmludlow-deborah` (2430 units) |
+| The Baritone's Parish; or, "All Things to All Men" | have | PG 59724, `jmludlow-baritones-parish` (212 units) |
+| The age of the crusades | have | PG 72852, `jmludlow-age-of-the-crusades` (1432 units) |
