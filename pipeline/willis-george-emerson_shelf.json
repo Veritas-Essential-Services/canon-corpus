@@ -1,0 +1,101 @@
+{
+ "_about": "Willis George Emerson: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Willis George Emerson",
+ "_name_words": [
+  "emerson",
+  "george",
+  "willis"
+ ],
+ "_surname": [
+  "willis george emerson",
+  "emerson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wgemerson-smoky-god": [
+   3007,
+   "The Smoky God; Or, A Voyage to the Inner World"
+  ],
+  "wgemerson-vendetta-of-the-hills": [
+   52289,
+   "A Vendetta of the Hills"
+  ],
+  "wgemerson-buell-hampton": [
+   52449,
+   "Buell Hampton"
+  ],
+  "wgemerson-my-pardner-and-i-gray-rocks": [
+   52458,
+   "My \"Pardner\" and I (Gray Rocks): A Story of the Middle-West"
+  ],
+  "wgemerson-emerson-on-sound-money-a-speech-1896": [
+   52460,
+   "Emerson on Sound Money A Speech, 1896"
+  ],
+  "wgemerson-treasure-of-hidden-valley": [
+   52461,
+   "The Treasure of Hidden Valley"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57541": "PG 57541: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "wgemerson-smoky-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis george emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgemerson-vendetta-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis george emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgemerson-buell-hampton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis george emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgemerson-my-pardner-and-i-gray-rocks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis george emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgemerson-emerson-on-sound-money-a-speech-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis george emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wgemerson-treasure-of-hidden-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "willis george emerson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

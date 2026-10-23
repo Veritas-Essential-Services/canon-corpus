@@ -17620,3 +17620,17 @@ Shelf: `pipeline/l-allen-harker_shelf.json` (2026-10-22; added at the coordinato
 | Master and Maid | have | PG 54504, `laharker-master-and-maid` (1425 units) |
 | Miss Esperance and Mr Wycherly | have | PG 54538, `laharker-miss-esperance-and-mr-wycherly` (1265 units) |
 | The Vagaries of Tod and Peter | have | PG 65162, `laharker-vagaries-of-tod-and-peter` (1720 units) |
+
+## Willis George Emerson
+
+Shelf: `pipeline/willis-george-emerson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Smoky God; Or, A Voyage to the Inner World | have | PG 3007, `wgemerson-smoky-god` (292 units) |
+| A Vendetta of the Hills | have | PG 52289, `wgemerson-vendetta-of-the-hills` (2295 units) |
+| Buell Hampton | have | PG 52449, `wgemerson-buell-hampton` (1913 units) |
+| My "Pardner" and I (Gray Rocks): A Story of the Middle-West | have | PG 52458, `wgemerson-my-pardner-and-i-gray-rocks` (1375 units) |
+| Emerson on Sound Money A Speech, 1896 | have | PG 52460, `wgemerson-emerson-on-sound-money-a-speech-1896` (102 units) |
+| The Treasure of Hidden Valley | have | PG 52461, `wgemerson-treasure-of-hidden-valley` (2285 units) |
+| pg-57541 | excluded | PG 57541: Gutenberg's index of the author's works, not a book. |

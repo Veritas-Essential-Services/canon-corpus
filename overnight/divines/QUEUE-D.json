@@ -5685,6 +5685,14 @@
       "started": "2026-10-22T23:11:27-05:00",
       "finished": "2026-10-22T23:11:27-05:00",
       "notes": "l-allen-harker: new shelf, 7 Gutenberg books, 12,497 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "willis-george-emerson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Willis George Emerson; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:11:43-05:00",
+      "finished": "2026-10-22T23:11:43-05:00",
+      "notes": "willis-george-emerson: new shelf, 6 Gutenberg books, 8,262 units, 2 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
