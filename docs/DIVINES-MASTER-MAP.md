@@ -43891,3 +43891,16 @@ Shelf: `pipeline/paul-laurence-dunbar_shelf.json` (2026-10-22; added at the coor
 | The heart of Happy Hollow | have | PG 24716, `pldunbar-heart-of-happy-hollow` (1064 units) |
 | The uncalled | have | PG 25171, `pldunbar-uncalled` (1124 units) |
 | Folks from Dixie | have | PG 74993, `pldunbar-folks-from-dixie` (1058 units) |
+
+## L. Dougall
+
+Shelf: `pipeline/l-dougall_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| What Necessity Knows | have | PG 16398, `ldougall-what-necessity-knows` (2757 units) |
+| The Mormon Prophet | have | PG 17279, `ldougall-mormon-prophet` (1691 units) |
+| The Zeit-Geist | have | PG 18054, `ldougall-zeit-geist` (526 units) |
+| A Dozen Ways Of Love | have | PG 18086, `ldougall-dozen-ways-of-love` (1571 units) |
+| The Mermaid: A Love Tale | have | PG 20054, `ldougall-mermaid` (1359 units) |
+| The Summit House Mystery; Or, The Earthly Purgatory | have | PG 55189, `ldougall-summit-house-mystery` (1625 units) |
