@@ -9639,3 +9639,40 @@ Slugs `eliot-*`. Built from title pages read for round 39.
 | The Massachusett Bible (1663, 1685) and New Testament (1661), the Indian Primers (1669, 1687, 1720, 1747, 1877, 1880) and his Massachusett translations of Bayly and Shepard: not English | excluded | |
 | The Day-Breaking (1647), The Clear Sun-shine (1648, on the Thomas Shepard shelf), Strength out of Weaknesse and A Farther Discovery (1865 reprints): tracts by Wilson, Shepard, Whitfield and the Corporation, with letters of his | excluded | |
 | Poems or Epigrams (1658) by another John Eliot; John Eliot, M.D. (1694); Walker's Ten New England Leaders (1901); books about him | excluded | |
+
+## Thomas Hooker of Hartford (round 39, my pick, 2026-10-22)
+
+Slugs `thooker-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The Soules Vocation or Effectual Calling to Christ, by T. H. (London: John Haviland for Andrew Crooke, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-soules-vocation_hooker-thomas_1638` |
+| The Soules Exaltation: a Treatise containing the Soules Union with Christ, the Soules Benefit from Union with Christ, and the Soules Justification, by T. H. (London, 1638) | have-ocr | IA `soulesexaltation00hook` |
+| The Unbeleevers Preparing for Christ, by T. Hooker (London: Tho. Cotes for Andrew Crooke, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-unbelievers-preparin_hooker-thomas_1638` |
+| The Soules Possession of Christ, whereunto is annexed a Sermon preached at the Funerall of Mr. Wilmott, by T. H. (London: M. F. for Francis Eglesfield, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-soules-possession-of_hooker-thomas_1638` |
+| Three Godly Sermons: The Wrath of God against Sinners; Gods Eternitie and Mans Humanitie; The Plantation of the Righteous, by T. H. (London: M. P. for John Stafford, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_three-godly-sermons-i-_hooker-thomas_1638` |
+| Foure Learned and Godly Treatises: The Carnall Hypocrite, The Churches Deliverances, The Deceitfulnesse of Sinne, The Benefit of Afflictions, by T. H. (London: Tho. Cotes for Andrew Crooke, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_foure-learned-and-godly-_hooker-thomas_1638` |
+| The Christians Two Chiefe Lessons, viz. Selfe-Deniall and Selfe-Tryall, as also the Priviledge of Adoption, in three Treatises, by T. H. (London: T. B. for P. Stephens and C. Meredith, 1640) | have-ocr | IA `christianstwochi00hook` |
+| The Soules Implantation into the Naturall Olive, by T. H., carefully corrected and much enlarged (London: R. Young, 1640) | have-ocr | IA `soulesimplantati00hook` |
+| The Paterne of Perfection, exhibited in Gods Image on Adam, with some Miscellanies, by T. H. (London: for R. Y. and F. Clifton, 1640) | have-ocr | IA `bim_early-english-books-1475-1640_the-paterne-of-perfectio_hooker-thomas_1640` |
+| The Danger of Desertion: or A Farwell Sermon of Mr. Thomas Hooker, sometimes Minister at Chelmsford in Essex, second edition (London: G. M. for George Edwards, 1641) | have-ocr | IA `bim_early-english-books-1641-1700_the-danger-of-desertion_hooker-thomas_1641` |
+| An Exposition of the Principles of Religion, by Tho. Hooker (London: for R. Dawlman, 1645) | have-ocr | IA `bim_early-english-books-1641-1700_an-exposition-of-the-pri_hooker-thomas_1645` |
+| A Briefe Exposition of the Lords Prayer, by Mr. Tho. Hooker, Preacher of Gods Word (London: Moses Bell for Benjamin Allen, 1645) | have-ocr | IA `abriefeexpositi00hookgoog` |
+| Heavens Treasury Opened, in a Fruitfull Exposition of the Lords Prayer, together with the Principall Grounds of Christian Religion, by Tho. Hooker (London: for R. Dawlman, 1645) | have-ocr | IA `bim_early-english-books-1641-1700_heavens-treasury-opened_hooker-thomas_1645` |
+| The Saints Guide, in Three Treatises, by Thomas Hooker, Minister in New-England (London: for John Stafford, 1645) | have-ocr | IA `bim_early-english-books-1641-1700_the-saints-guide-_hooker-thomas_1645` |
+| The Immortality of the Soule: the Excellencie of Christ Jesus treated on, by T. H. (London, 1646) | have-ocr | IA `bim_early-english-books-1641-1700_the-immortality-of-the-s_hooker-thomas_1646` |
+| A Survey of the Summe of Church-Discipline, wherein the Way of the Churches of New-England is warranted out of the Word, by Tho. Hooker, late Pastor of the Church at Hartford upon Connecticott (London, 1648) | have-ocr | IA `surveyofsummeofc00hook_0` |
+| The Covenant of Grace Opened, being severall Sermons preached at Hartford in New-England, by Mr. Thomas Hooker (London: G. Dawson, 1649) | have-ocr | IA `bim_early-english-books-1641-1700_the-covenant-of-grace-op_hooker-thomas_1649` |
+| A Comment upon Christ's Last Prayer in the Seventeenth of John, by Mr. Thomas Hooker, late Pastor of the Church at Hartford, printed from the Author's own Papers (London: Peter Cole, catalogued 1656) | have-ocr | IA `bim_early-english-books-1641-1700_a-comment-upon-christs-_hooker-thomas_1656` |
+| The Application of Redemption, by the Effectual Work of the Word and Spirit of Christ, the First Eight Books (London: Peter Cole, catalogued 1656) | have-ocr | IA `bim_early-english-books-1641-1700_the-application-of-redem_hooker-thomas_1656` |
+| The Application of Redemption, the Ninth and Tenth Books, by Mr. Thomas Hooker, late Pastor of the Church at Hartford, printed from the Author's Papers, attested by Thomas Goodwin and Philip Nye (London: Peter Cole, 1657) | have-ocr | IA `bim_early-english-books-1641-1700_the-application-of-redem_hooker-thomas_1657` |
+| The Poor Doubting Christian Drawn to Christ (catalogued 1845) | have-ocr | IA `poordoubtingchr00hookgoog` |
+| Abstracts of Two Sermons by Rev. Thomas Hooker, from the Shorthand Notes of Mr. Henry Wolcott (catalogued 1860) | have-ocr | IA `abstractsoftwose00hookrich` |
+| Rev. Thomas Hooker's Letter, in reply to Governor Winthrop (catalogued 1860) | have-ocr | IA `revthomashookers00hookrich` |
+| The Soules Preparation for Christ, or A Treatise of Contrition (London: for Robert Dawlman, 1632, bim ..._1632_0): the title page, read from the page image, names no author | pending | not shelved |
+| The Poore Doubting Christian Drawne to Christ, fourth edition (London, 1637): the title page names no author; the 1845 edition, which names him, is shelved | pending | not shelved |
+| The Soules Humiliation (London: I. L. for Andrew Crooke, 1637): no printed author; only a manuscript 'By Thomas Hooker' on the title page | pending | not shelved |
+| The Soules Implantation (London: R. Young, 1637): the title page names no author; the enlarged 1640 edition 'By T. H.' is shelved | pending | not shelved |
+| Heautonaparnumenos: or A Treatise of Self-Denyall (London: W. Wilson for Richard Royston, 1646): the title page names no author | pending | not shelved |
+| Other copies: the 1635 and 1638 Soules Preparation, the 1638 Humiliation, the 1641-1700 Poor Doubting Christian printings, sovlesvocationor0000thom, the bim Exaltation and Implantation 1640, surveyofsummeofc00hook and surveyofsumme00hookrich and the bim Survey, the 1659 Application, The Wrath of God against Sinners (1638, the first of the Three Godly Sermons); The Soules Ingrafting into Christ (1637): its scan has only 3 KB of text | alternate | not shelved |
+| Richard Hooker (his own shelf); Thomas Hooker Leavitt's books on peat; William Jackson Hooker; 1956-82 facsimiles | excluded | |

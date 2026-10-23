@@ -5480,10 +5480,12 @@
     },
     {
       "id": "thomas-hooker-of-hartford",
-      "status": "queued",
+      "status": "done",
       "scope": "round 39: colonial American divines and continental Reformers, before 1930",
       "added": "2026-10-18T04:24Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:29:19-05:00",
+      "notes": "Rebuilt on resume: 23 items, the 1637-1657 first printings, the 1845 Poor Doubting Christian and two 1860 Hartford reprints; verify --record 0 mismatched, 0 uids minted. His early books OCR badly, so each title page was read from the scan's page image: most say 'By T. H.', recorded in _identity_checked; five whose title page names no one (Preparation 1632, Poore Doubting Christian 1637, Humiliation 1637, Implantation 1637, Self-Denyall 1646) are pending. Veto point: the 'By T. H.' attributions."
     },
     {
       "id": "john-eliot-of-roxbury",
