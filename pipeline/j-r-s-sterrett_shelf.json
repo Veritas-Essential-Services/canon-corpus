@@ -1,0 +1,52 @@
+{
+ "_about": "J. R. S. Sterrett (1851-1914), American epigraphist of Asia Minor: An Epigraphical Journey in Asia Minor (Papers of the American School at Athens II, 1888) and Leaflets from the Notebook of an Archaeological Traveler in Asia Minor (1889). Inscription-heavy; kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "John Robert Sitlington Sterrett (1851-1914)",
+ "_name_words": [
+  "sterrett",
+  "epigraphical",
+  "asia",
+  "minor",
+  "journey",
+  "archaeological"
+ ],
+ "_surname": [
+  "sterrett"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sterrett-epigraphical-journey-1888": [
+   "anepigraphicalj00stergoog",
+   "An Epigraphical Journey in Asia Minor, during the Summer of 1884 (1888)"
+  ],
+  "sterrett-leaflets-from-notebook-1889": [
+   "leafletsfromnote00ster",
+   "Leaflets from the Notebook of an Archaeological Traveler in Asia Minor (1889)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sterrett-epigraphical-journey-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sterrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sterrett-leaflets-from-notebook-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sterrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

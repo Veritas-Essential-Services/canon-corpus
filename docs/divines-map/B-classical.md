@@ -9406,3 +9406,13 @@ Shelf: `pipeline/edwin-hatch_shelf.json`. Greek ideas in the early Church (Guten
 | The Influence of Greek Ideas and Usages upon the Christian Church (1890) |  | `hatch-influence-of-greek-ideas-pg` | have (PG 72255) |
 | Essays in Biblical Greek (1889) |  | `hatch-essays-in-biblical-greek-1889` | have-raw (IA `essaysinbiblical00hatcuoft`) |
 
+
+## J. R. S. Sterrett (1851-1914)
+
+Shelf: `pipeline/j-r-s-sterrett_shelf.json`. Epigraphy of Asia Minor, 1888-1889; inscription-heavy. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| An Epigraphical Journey in Asia Minor, during the Summer of 1884 (1888) |  | `sterrett-epigraphical-journey-1888` | have-raw (IA `anepigraphicalj00stergoog`) |
+| Leaflets from the Notebook of an Archaeological Traveler in Asia Minor (1889) |  | `sterrett-leaflets-from-notebook-1889` | have-raw (IA `leafletsfromnote00ster`) |
+
