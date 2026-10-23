@@ -17050,3 +17050,18 @@ Slugs `pthacher-*`. Built from title pages read for round 109.
 | A sermon preached to the Church and Society in Brattle-Street, Boston, Dec. 29, 1799 : and occasioned by the completion of a century from its first establishment (Boston : Printed by Young & Minns ..., 1800) | have-ocr | IA `sermonpreachedto00thac_0` |
 | The Rest which Remaineth to the People of God (1778), IA bim_eighteenth-century_the-rest-which-remaineth_thacher-peter-pastor-o_1778: the text file holds the tail of a microfilm reel of other items, not this sermon | pending | not shelved |
 | The 1696 Saints' Victory and the 1730 Man's Frailty are by earlier Peter Thachers of Milton and Middleborough; the court reports are by Judge Peter O. Thacher | excluded | |
+
+## John McClintock (round 110, my pick, 2026-10-23)
+
+Slugs `mcclintock-*`. Built from title pages read for round 110.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourse delivered on the day of the funeral of President Lincoln, Wednesday, April 19, 1865, in St. Paul's Church, New York (New York : Press of J.M. Bradstreet & Son, 1865) | have-ocr | IA `discoursedeliver00mccl` |
+| Living words; or, Unwritten sermons (New York : Carlton & Lanahan; San Francisco E. Thomas [etc., etc.], 1871) | have-ocr | IA `07416210.emory.edu` |
+| Analysis of Watson's Theological institutes (New York, Pub. by G. Lane & P. P. Sabdford, 1842), IA analysisofwatson00mccl: the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Sketches of eminent Methodist ministers (New York : Published by Carlton & Phillips, 1854), IA sketchesofeminen00mccliala: a collection he EDITED, chapters by several hands (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| His Latin and Greek school grammars are not theology; left out | excluded | |
+| His translation of Neander's Life of Jesus Christ and his editions of Olin and Watson are other men's works | excluded | |
+| The Cyclopaedia of Biblical, Theological and Ecclesiastical Literature, with James Strong, is a many-volume joint work; left for its own decision | excluded | |
+| John Beedle's Sleigh Ride is by another John McClintock | excluded | |
