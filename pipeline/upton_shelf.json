@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: George P. Upton (1834-1919): McClurg's Life Stories for Young People (Chicago, 1904-1911), translated from German juvenile biographies and legends (Charlemagne, Columbus, Maria Theresa, Beethoven, Mozart, the Nibelungs, Gudrun, Frithiof), plus Nohl's Lives of Wagner, Haydn and Liszt and Max Müller's Memories. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: George P. Upton (1834-1919): McClurg's Life Stories for Young People (Chicago, 1904-1911), translated from German juvenile biographies and legends (Charlemagne, Columbus, Maria Theresa, Beethoven, Mozart, the Nibelungs, Gudrun, Frithiof), plus Nohl's Lives of Wagner, Haydn and Liszt and Max Müller's Memories. US public domain. Added 2026-10-10 by lane C (round 23); Adam may veto. No uids minted. Round 130 (2026-10-23, vetoable) added five more Life Stories for Young People from archive.org: Lenk's Marie Antoinette's Youth (1908), Campe's Francisco Pizarro, Brüschweiler-Wilhelm's Benjamin Franklin and the Erik the Red volume (1911), and Pleninger's David Livingstone (1912).",
  "_name_words": [
   "george p. upton",
   "george putnam upton",
@@ -154,7 +154,28 @@
    "The Nibelungs"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "upt-lenk-marie-antoinettes-youth": [
+   "marieantoinettes00tsch",
+   "Marie Antoinette's Youth"
+  ],
+  "upt-campe-francisco-pizarro": [
+   "franciscopizarro00camp",
+   "Francisco Pizarro"
+  ],
+  "upt-bruschweiler-benjamin-franklin": [
+   "benjaminfranklin00br",
+   "Benjamin Franklin"
+  ],
+  "upt-erik-the-red": [
+   "erikredleiflucky001832",
+   "Erik the Red, Leif the Lucky"
+  ],
+  "upt-pleninger-david-livingstone": [
+   "davidlivingstone00plie",
+   "David Livingstone"
+  ]
+ },
  "titles": {
   "upton-becker-achilles": {
    "source": "upt-62453",
@@ -435,6 +456,46 @@
    "translated": "1875-1911 (see the Gutenberg header)",
    "translator": "George P. Upton",
    "scan_edition": "Project Gutenberg 65747 (clean text)"
+  },
+  "upton-lenk-marie-antoinettes-youth": {
+   "source": "upt-lenk-marie-antoinettes-youth",
+   "of": "Heinrich von Lenk",
+   "work": "Marie Antoinette's Youth (Life Stories for Young People)",
+   "translated": 1908,
+   "translator": "George P. Upton",
+   "scan_edition": "A. C. McClurg, Chicago 1908; archive.org scan"
+  },
+  "upton-campe-francisco-pizarro": {
+   "source": "upt-campe-francisco-pizarro",
+   "of": "Joachim Heinrich Campe",
+   "work": "Francisco Pizarro (Life Stories for Young People)",
+   "translated": 1911,
+   "translator": "George P. Upton",
+   "scan_edition": "A. C. McClurg, Chicago, published September 1911; archive.org scan"
+  },
+  "upton-bruschweiler-wilhelm-benjamin-franklin": {
+   "source": "upt-bruschweiler-benjamin-franklin",
+   "of": "J. Brüschweiler-Wilhelm",
+   "work": "Benjamin Franklin (Life Stories for Young People)",
+   "translated": 1911,
+   "translator": "George P. Upton",
+   "scan_edition": "A. C. McClurg, Chicago, published September 1911; archive.org scan"
+  },
+  "upton-erik-the-red-leif-the-lucky": {
+   "source": "upt-erik-the-red",
+   "of": "from the German (Life Stories for Young People)",
+   "work": "Erik the Red, Leif the Lucky and Other Pre-Columbian Discoverers of America",
+   "translated": 1911,
+   "translator": "George P. Upton",
+   "scan_edition": "A. C. McClurg, Chicago 1911; archive.org scan"
+  },
+  "upton-pleninger-david-livingstone": {
+   "source": "upt-pleninger-david-livingstone",
+   "of": "Gustav Pleninger",
+   "work": "David Livingstone (Life Stories for Young People)",
+   "translated": 1912,
+   "translator": "George P. Upton",
+   "scan_edition": "A. C. McClurg, Chicago, published September 1912; archive.org scan"
   }
  },
  "_pending": {},
@@ -445,7 +506,7 @@
  "_checks": {
   "upt-14521": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -454,7 +515,7 @@
   },
   "upt-31526": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -463,7 +524,7 @@
   },
   "upt-59626": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -472,7 +533,7 @@
   },
   "upt-59689": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -481,7 +542,7 @@
   },
   "upt-59691": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -490,7 +551,7 @@
   },
   "upt-59732": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -499,7 +560,7 @@
   },
   "upt-59733": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -508,7 +569,7 @@
   },
   "upt-59750": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -517,7 +578,7 @@
   },
   "upt-59751": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -526,7 +587,7 @@
   },
   "upt-59882": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -535,7 +596,7 @@
   },
   "upt-59929": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -544,7 +605,7 @@
   },
   "upt-59956": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -553,7 +614,7 @@
   },
   "upt-60236": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -562,7 +623,7 @@
   },
   "upt-60257": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -571,7 +632,7 @@
   },
   "upt-60408": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -580,7 +641,7 @@
   },
   "upt-61788": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -589,7 +650,7 @@
   },
   "upt-62366": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -598,7 +659,7 @@
   },
   "upt-62449": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -607,7 +668,7 @@
   },
   "upt-62451": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -616,7 +677,7 @@
   },
   "upt-62453": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -625,7 +686,7 @@
   },
   "upt-62527": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -634,7 +695,7 @@
   },
   "upt-62650": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -643,7 +704,7 @@
   },
   "upt-62656": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -652,7 +713,7 @@
   },
   "upt-62742": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -661,7 +722,7 @@
   },
   "upt-62965": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -670,7 +731,7 @@
   },
   "upt-65142": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -679,7 +740,7 @@
   },
   "upt-65302": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -688,7 +749,7 @@
   },
   "upt-65431": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -697,7 +758,7 @@
   },
   "upt-65549": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -706,7 +767,7 @@
   },
   "upt-65606": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -715,7 +776,7 @@
   },
   "upt-65747": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -724,7 +785,7 @@
   },
   "upt-65827": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -733,7 +794,7 @@
   },
   "upt-67827": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -742,7 +803,7 @@
   },
   "upt-68522": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
@@ -751,12 +812,67 @@
   },
   "upt-73227": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george p. upton",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "George P. Upton"
+  },
+  "upt-lenk-marie-antoinettes-youth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "upt-campe-francisco-pizarro": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "upt-bruschweiler-benjamin-franklin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "upt-erik-the-red": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upt-pleninger-david-livingstone": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george p. upton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -934,6 +1050,93 @@
    "pg": 73227,
    "pg_copyrighted_marker": false,
    "pg_translator": "George P. Upton"
+  },
+  "upt-lenk-marie-antoinettes-youth": {
+   "ia": "marieantoinettes00tsch",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1755,
+    1756,
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "upt-campe-francisco-pizarro": {
+   "ia": "franciscopizarro00camp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1465,
+    1468,
+    1475,
+    1493,
+    1509,
+    1513,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "upt-bruschweiler-benjamin-franklin": {
+   "ia": "benjaminfranklin00br",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1492,
+    1500,
+    1607,
+    1620,
+    1622,
+    1623,
+    1626,
+    1629,
+    1630,
+    1641,
+    1663,
+    1700,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "upt-erik-the-red": {
+   "ia": "erikredleiflucky001832",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1467,
+    1477,
+    1837,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "upt-pleninger-david-livingstone": {
+   "ia": "davidlivingstone00plie",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1813,
+    1836,
+    1838,
+    1840,
+    1841,
+    1842,
+    1848,
+    1849,
+    1850,
+    1852,
+    1853,
+    1854,
+    1855,
+    1856,
+    1858,
+    1859,
+    1862,
+    1863,
+    1866,
+    1867,
+    1869,
+    1871,
+    1872,
+    1873,
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

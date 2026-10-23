@@ -1019,7 +1019,7 @@ Round 14 (2026-10-10), vetoable. Memoirs and Portraits added round 97, Molière 
 ## Ernest Alfred Vizetelly (Zola, incl. the Three Cities)
 
 Shelf: `pipeline/vizetelly_shelf.json` · fetch `python3 pipeline/fetch_shelf.py vizetelly` · titles `python3 pipeline/split_shelf_titles.py vizetelly`.
-Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 14 (2026-10-10), vetoable. Round 130 added Germinal (1901). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1040,6 +1040,7 @@ Round 14 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `vizetelly-zola-theresa-raquin` | Émile Zola | Theresa Raquin | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 6626 |
 | `vizetelly-zola-truth-v-rit` | Émile Zola | Truth [Vérité] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55849 |
 | `vizetelly-zola-work-travail` | Émile Zola | Work [Travail] | Ernest Alfred Vizetelly | 1886-1906 (Chatto and Windus) | have | PG 55282 |
+| `vizetelly-zola-germinal` | Émile Zola | Germinal; or, Master and Man | Ernest Alfred Vizetelly | 1901 | have-raw | IA `dli.ministry.13435` |
 | — | — | three-cities-parts: Gutenberg also splits Lourdes, Rome and Paris into volumes (8511-8515, 8721-8725, 9165-9167) and has a trilogy omnibus (9170); the complete single-novel texts (8516, 8726, 9169) are used, so nothing is held twice. | — | — | excluded | — |
 
 ## Leo Wiener's Complete Works of Count Tolstoy (1904-05)
@@ -1115,7 +1116,7 @@ Round 16 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## S. S. Koteliansky and his Bloomsbury collaborators (Chekhov, Gorky, Bunin, Shestov)
 
 Shelf: `pipeline/koteliansky_shelf.json` · fetch `python3 pipeline/fetch_shelf.py koteliansky` · titles `python3 pipeline/split_shelf_titles.py koteliansky`.
-Round 17 (2026-10-10), vetoable. UK status varies by co-translator. Not converted to unit-id JSON; **no uids minted**.
+Round 17 (2026-10-10), vetoable. UK status varies by co-translator. Round 130 added five archive.org books (Dostoevsky x3, Chekhov, Hippius). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1130,6 +1131,11 @@ Round 17 (2026-10-10), vetoable. UK status varies by co-translator. Not converte
 | `koteliansky-kuprin-river-of-life` | Kuprin | The River of Life, and Other Stories | S. S. Koteliansky and J. M. Murry | 1916 | have | PG 58406 |
 | `koteliansky-shestov-all-things-are-possible` | Shestov | All Things are Possible | S. S. Koteliansky (foreword by D. H. Lawrence) | 1920 | have | PG 57369 |
 | `koteliansky-shestov-anton-tchekhov` | Shestov | Anton Tchekhov, and Other Essays | S. S. Koteliansky and J. M. Murry | 1916 | have | PG 56758 |
+| `koteliansky-dostoevsky-pages-from-the-journal-of-an-author` | Fyodor Dostoevsky | Pages from the Journal of an Author | S. S. Koteliansky and J. Middleton Murry | 1916 | have-raw | IA `pagesfromjourna00murrgoog` |
+| `koteliansky-chekhov-my-life-and-other-stories` | Anton Chekhov | My Life and Other Stories | S. S. Koteliansky and Gilbert Cannan | 1920 | have-raw | IA `mylifeotherstori00chekuoft` |
+| `koteliansky-hippius-the-green-ring` | Zinaida Hippius | The Green Ring: A Play in Four Acts | S. S. Koteliansky | 1920 | have-raw | IA `greenringplayinf00gippuoft` |
+| `koteliansky-dostoevsky-letters-and-reminiscences` | Fyodor Dostoevsky and others | Dostoevsky: Letters and Reminiscences | S. S. Koteliansky and J. Middleton Murry | 1923 | have-raw | IA `dostoevskyletter00dostuoft` |
+| `koteliansky-dostoevskaya-dostoevsky-portrayed-by-his-wife` | Anna Grigorievna Dostoevskaya | Dostoevsky Portrayed by His Wife: The Diary and Reminiscences of Mme. Dostoevsky | S. S. Koteliansky | 1926 | have-raw | IA `dostoevskyportra0000ssko` |
 
 ## Marian Fell (Chekhov, Korolenko)
 
@@ -1740,7 +1746,7 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## George P. Upton (McClurg's Life Stories for Young People; Nohl's composer lives)
 
 Shelf: `pipeline/upton_shelf.json` · fetch `python3 pipeline/fetch_shelf.py upton` · titles `python3 pipeline/split_shelf_titles.py upton`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 130 added five more Life Stories from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1779,6 +1785,11 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `upton-willys-swiss-heroes-an-historical-romance-of-th` | A. A. Willys | Swiss Heroes: An Historical Romance of the Time of Charles the Bold | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 61788 |
 | `upton-wurdig-prince-eugene-the-noble-knight` | L. (Ludwig) Würdig | Prince Eugene, the Noble Knight | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 59733 |
 | `upton-ziemssen-johann-sebastian-bach` | Ludwig Ziemssen | Johann Sebastian Bach | George P. Upton | 1875-1911 (see the Gutenberg header) | have | PG 65747 |
+| `upton-lenk-marie-antoinettes-youth` | Heinrich von Lenk | Marie Antoinette's Youth (Life Stories for Young People) | George P. Upton | 1908 | have-raw | IA `marieantoinettes00tsch` |
+| `upton-campe-francisco-pizarro` | Joachim Heinrich Campe | Francisco Pizarro (Life Stories for Young People) | George P. Upton | 1911 | have-raw | IA `franciscopizarro00camp` |
+| `upton-bruschweiler-wilhelm-benjamin-franklin` | J. Brüschweiler-Wilhelm | Benjamin Franklin (Life Stories for Young People) | George P. Upton | 1911 | have-raw | IA `benjaminfranklin00br` |
+| `upton-erik-the-red-leif-the-lucky` | from the German (Life Stories for Young People) | Erik the Red, Leif the Lucky and Other Pre-Columbian Discoverers of America | George P. Upton | 1911 | have-raw | IA `erikredleiflucky001832` |
+| `upton-pleninger-david-livingstone` | Gustav Pleninger | David Livingstone (Life Stories for Young People) | George P. Upton | 1912 | have-raw | IA `davidlivingstone00plie` |
 | — | — | upton-immensee-1907: Storm's Immensee (McClurg, 1907; archive.org immenseestorm00storiala) is catalogued as Upton's translation, but the scan's title page is lost and his name appears nowhere in its text, so the gate cannot check it. | — | — | excluded | — |
 
 ## Grace Isabel Colbron (Groner's Joe Muller detective stories)

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Ernest Alfred Vizetelly (1853-1922): Zola in English (Chatto and Windus, 1886-1906), translator and editor of the authorised English Zola, including the Three Cities. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Ernest Alfred Vizetelly (1853-1922): Zola in English (Chatto and Windus, 1886-1906), translator and editor of the authorised English Zola, including the Three Cities. US public domain (pre-1931), PD everywhere. Added 2026-10-10 by lane C (round 14); Adam may veto. No uids minted. Round 130 (2026-10-23, vetoable) added Zola's Germinal (Chatto, 1901) from archive.org.",
  "_name_words": [
   "ernest alfred vizetelly",
   "ernest a. vizetelly",
@@ -84,7 +84,13 @@
    "Money (L'Argent)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "vi-zola-germinal": [
+   "dli.ministry.13435",
+   "Germinal",
+   "E07252_Germinal_Or_Master_And_Man_djvu.txt"
+  ]
+ },
  "titles": {
   "vizetelly-zola-abbe-mourets-transgression": {
    "source": "vi-14200",
@@ -222,17 +228,27 @@
    "translated": "1886-1906 (Chatto and Windus)",
    "translator": "Ernest Alfred Vizetelly",
    "scan_edition": "Project Gutenberg 55282 (clean text)"
+  },
+  "vizetelly-zola-germinal": {
+   "source": "vi-zola-germinal",
+   "of": "Émile Zola",
+   "work": "Germinal; or, Master and Man",
+   "translated": 1901,
+   "translator": "Ernest Alfred Vizetelly",
+   "scan_edition": "Chatto & Windus, London 1901; archive.org scan (Digital Library of India copy)",
+   "note": "The title page says \"edited\"; his preface explains the translation is practically a new one, using some passages of earlier versions whose copyright he bought, so he called himself editor."
   }
  },
  "_pending": {},
  "_excluded": {
-  "three-cities-parts": "Gutenberg also splits Lourdes, Rome and Paris into volumes (8511-8515, 8721-8725, 9165-9167) and has a trilogy omnibus (9170); the complete single-novel texts (8516, 8726, 9169) are used, so nothing is held twice."
+  "three-cities-parts": "Gutenberg also splits Lourdes, Rome and Paris into volumes (8511-8515, 8721-8725, 9165-9167) and has a trilogy omnibus (9170); the complete single-novel texts (8516, 8726, 9169) are used, so nothing is held twice.",
+  "ia-edited-zola": "Zola volumes where Vizetelly is named only as editor and does not claim the translation: The Dram-Shop (Marion, 1915; his revision of an earlier translation), The Joy of Life (Marion, 1915) and The Honour of the Army (Chatto, 1901; 'various hands', only two stories his). Doctor Pascal (Chatto, 1893; dli.ministry.01748) is his, but the OCR mangles his name past the identity gate. The Mysteries of Marseilles (Hutchinson, 1895) is Edward Vizetelly's."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "vi-15900": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -241,7 +257,7 @@
   },
   "vi-5135": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -250,7 +266,7 @@
   },
   "vi-10330": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -259,7 +275,7 @@
   },
   "vi-14200": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -268,7 +284,7 @@
   },
   "vi-54726": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -277,7 +293,7 @@
   },
   "vi-55282": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -286,7 +302,7 @@
   },
   "vi-55849": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -295,7 +311,7 @@
   },
   "vi-56590": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -304,7 +320,7 @@
   },
   "vi-56654": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -313,7 +329,7 @@
   },
   "vi-56799": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -322,7 +338,7 @@
   },
   "vi-56860": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -331,7 +347,7 @@
   },
   "vi-5744": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -340,7 +356,7 @@
   },
   "vi-6626": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -349,7 +365,7 @@
   },
   "vi-8516": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -358,7 +374,7 @@
   },
   "vi-8726": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -367,7 +383,7 @@
   },
   "vi-9169": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
@@ -376,12 +392,23 @@
   },
   "vi-56987": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ernest alfred vizetelly",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-zola-germinal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest alfred vizetelly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -471,6 +498,17 @@
    "pg": 56987,
    "pg_copyrighted_marker": false,
    "pg_translator": "Ernest Alfred Vizetelly"
+  },
+  "vi-zola-germinal": {
+   "ia": "dli.ministry.13435",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1854,
+    1884
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "the imprint year 1901 reads IQOL in the OCR"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

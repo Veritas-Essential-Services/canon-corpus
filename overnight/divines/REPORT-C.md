@@ -334,3 +334,5 @@
 - 2026-10-22T23:06-05:00: Round 128 (2026-10-23): 11 titles, Teixeira de Mattos on archive.org (Maeterlinck x3, memoirs, travel, Zola). 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-22T23:13-05:00: Round 129 (2026-10-23): 15 titles, Clara Bell on archive.org (Galdós, Loti, Ebers, Spitta x3 and others). War and Peace and Gloria pending for missing volumes. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:20-05:00: Round 130 (2026-10-23): 11 titles, Upton x5, Vizetelly x1, Koteliansky x5 from archive.org. 0 mismatched, 0 rights flags, no uids.

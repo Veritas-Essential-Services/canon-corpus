@@ -4000,6 +4000,14 @@
    "finished": "2026-10-22T23:13-05:00",
    "scope": "Clara Bell on archive.org (sweep of Gutenberg-only translator shelves)",
    "notes": "15 titles on clara-bell; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r130-upton-vizetelly-koteliansky",
+   "status": "done",
+   "started": "2026-10-22T23:20-05:00",
+   "finished": "2026-10-22T23:20-05:00",
+   "scope": "Upton, Vizetelly, Koteliansky on archive.org",
+   "notes": "11 titles on upton, vizetelly, koteliansky; 0 mismatched, 0 rights flags"
   }
  ]
 }
