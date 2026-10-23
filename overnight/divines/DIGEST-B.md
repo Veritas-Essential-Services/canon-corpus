@@ -300,3 +300,4 @@
 - 10/23 round dc: fresh 20-subject sweep; 25 new shelves, 36 works (Fairbanks 5, Timayenis 3, Rodd, Mosso, Spratt, Platner, Hambidge 2 each, 18 singles). Next: round dd, the rest of the list (Glotz, Homo, Toynbee, Gulick, Duncker and others).
 - 10/23 round dd: 34 new shelves, 46 works, incl. the six History of Civilization volumes lane C left for lane B (Glotz, Homo, Jouguet, Grenier), Duncker's Greece, Negri's Julian, Toynbee 1924, Bentwich 3. Next: round de (Epochs of Ancient History gaps, Napoleon III's Caesar, Hoppin), then a new sweep.
 - 10/23 round de: G. W. Cox 8, Bosworth Smith 2, Napoleon III's Julius Caesar 2 (PG), Hoppin 3, Curteis 1, capes +1, merivale +3 (20 works). Next: round df, a new subject sweep.
+- 10/23 round df: third sweep, 12 new shelves, 17 works (McCrindle 5, Nilsson 2, Cesnola, Madvig, Halliday, Drachmann and others). Next: round dg, Grenfell and Hunt's papyri, then Rollin.

@@ -1476,3 +1476,9 @@
 - Extended: capes +1 (The Roman Empire of the Second Century) and merivale +3 (A General History of Rome, The Fall of the Roman Republic, The Roman Triumvirates).
 - Cox's General History of Greece prints 'GEORGE W: COX' in OCR; title page recorded under _identity_checked. The bare surname 'cox' is shared with a fiction singles shelf, so his shelf matches only on full-name forms.
 - Not found: Ihne's Epochs volume, Rome to its Capture by the Gauls. Not taken: Cox's Crusades (PG 77173) and church books, Bosworth Smith's Mohammed and Life of Lord Lawrence.
+
+## 2026-10-23 — Round df: a third subject sweep
+- Swept 20 more IA subjects (Roman and Greek politics, Athens, Sparta, Alexander, Etruscans, Roman provinces, Roman Britain, Greek and Latin inscriptions, papyri, Greek mythology, Greek and Latin syntax, Roman and Greek religion, the Republic and the Empire). Fewer unshelved scholars remain than in the first two sweeps.
+- New shelves: j-w-mccrindle 5 (Ktesias, Ptolemy, the Periplus, Cosmas's Christian Topography, Ancient India in Classical Literature; his Megasthenes and Alexander volumes are on the arrian shelf), martin-p-nilsson 2, and one each for luigi-palma-di-cesnola, j-w-headlam, bertram-c-a-windle, w-f-tamblyn, max-ohnefalsch-richter, j-n-madvig, robert-ogilvie, frank-granger, w-r-halliday, a-b-drachmann.
+- The Periplus scan is a 1966 microfilm-xerographic reprint of the 1879 Bombay edition, with no new matter; noted in the title.
+- Next: Grenfell and Hunt's papyrus editions (the Oxyrhynchus series and the rest), then Rollin.
