@@ -10312,6 +10312,15 @@ Slugs `field-*`. Built from title pages read for round 42.
 | Of the church, five books, vol. 3 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook03fiel` |
 | Of the church, five books, vol. 4 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook04fiel` |
 | The Google copies (churchfivebooks00-03fielgoog) | alternate | not shelved |
+
+## Thomas Bisse (round 42, my pick, 2026-10-22)
+
+Slugs `bisse-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The Beauty of Holiness in the Common Prayer: As Set Forth in Four Sermons Preached at the Rolls (R.P. and C. Williams, 1814) | have-ocr | IA `beautyholinessi00bissgoog` |
+| The 1842 printing | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
