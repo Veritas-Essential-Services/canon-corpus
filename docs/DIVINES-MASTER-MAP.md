@@ -41466,3 +41466,19 @@ Shelf: `pipeline/roy-norton_shelf.json` (2026-10-22; added at the coordinator's 
 | Gratitude | have | PG 71939, `rnorton-gratitude` (137 units) |
 | Salvage | have | PG 73244, `rnorton-salvage` (145 units) |
 | "Old Harmless" | have | PG 73247, `rnorton-old-harmless` (160 units) |
+
+## Blanche McManus
+
+Shelf: `pipeline/blanche-mcmanus_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Our Little Hindu Cousin | have | PG 41977, `bmcmanus-our-little-hindu-cousin` (620 units) |
+| Our Little Dutch Cousin | have | PG 42203, `bmcmanus-our-little-dutch-cousin` (613 units) |
+| Our Little English Cousin | have | PG 43250, `bmcmanus-our-little-english-cousin` (553 units) |
+| Our Little Scotch Cousin | have | PG 43546, `bmcmanus-our-little-scotch-cousin` (442 units) |
+| Our Little French Cousin | have | PG 43831, `bmcmanus-our-little-french-cousin` (482 units) |
+| Nabul, Our Little Egyptian Cousin | have | PG 44731, `bmcmanus-nabul-our-little-egyptian-cousin` (651 units) |
+| Our Little Arabian Cousin | have | PG 46042, `bmcmanus-our-little-arabian-cousin` (647 units) |
+| Romantic Ireland; volume 1/2 | have | PG 46429, `bmcmanus-romantic-ireland` (1056 units) |
+| Romantic Ireland; volume 2/2 | have | PG 46439, `bmcmanus-romantic-ireland-46439` (1235 units) |
