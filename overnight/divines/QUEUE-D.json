@@ -4517,6 +4517,14 @@
       "started": "2026-10-22T22:37:54-05:00",
       "finished": "2026-10-22T22:37:54-05:00",
       "notes": "mary-imlay-taylor: new shelf, 12 Gutenberg books, 19,916 units, 259 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "arthur-w-marchmont",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Arthur W. Marchmont; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:38:11-05:00",
+      "finished": "2026-10-22T22:38:11-05:00",
+      "notes": "arthur-w-marchmont: new shelf, 12 Gutenberg books, 39,187 units, 41 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

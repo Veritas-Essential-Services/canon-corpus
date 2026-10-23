@@ -15129,3 +15129,22 @@ Shelf: `pipeline/mary-imlay-taylor_shelf.json` (2026-10-22; added at the coordin
 | The reaping | have | PG 72917, `mitaylor-reaping` (1300 units) |
 | The rebellion of the Princess | have | PG 73608, `mitaylor-rebellion-of-the-princess` (1518 units) |
 | The long way | have | PG 73867, `mitaylor-long-way` (1663 units) |
+
+## Arthur W. Marchmont
+
+Shelf: `pipeline/arthur-w-marchmont_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Adventure romances. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Man Without a Memory | have | PG 35516, `awmarchmont-man-without-a-memory` (3030 units) |
+| By Wit of Woman | have | PG 35828, `awmarchmont-by-wit-of-woman` (2962 units) |
+| By Right of Sword | have | PG 38357, `awmarchmont-by-right-of-sword` (2463 units) |
+| An Imperial Marriage | have | PG 40800, `awmarchmont-imperial-marriage` (3061 units) |
+| A Dash for a Throne | have | PG 40907, `awmarchmont-dash-for-a-throne` (2723 units) |
+| Sarita, the Carlist | have | PG 53551, `awmarchmont-sarita-the-carlist` (2699 units) |
+| When I Was Czar | have | PG 63320, `awmarchmont-when-i-was-czar` (4711 units) |
+| In the Name of a Woman: A Romance | have | PG 67546, `awmarchmont-in-the-name-of-a-woman` (2720 units) |
+| A Courier of Fortune | have | PG 67731, `awmarchmont-courier-of-fortune` (4297 units) |
+| In the Cause of Freedom | have | PG 67751, `awmarchmont-in-the-cause-of-freedom` (2866 units) |
+| The Queen's Advocate | have | PG 67789, `awmarchmont-queens-advocate` (4273 units) |
+| In the Name of the People | have | PG 67801, `awmarchmont-in-the-name-of-the-people` (3382 units) |
