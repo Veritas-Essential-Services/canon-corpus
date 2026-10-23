@@ -40716,3 +40716,21 @@ Shelf: `pipeline/hezekiah-butterworth_shelf.json` (2026-10-22; added at the coor
 | Zigzag Journeys in the White City. With Visits to the Neighboring Metropolis | have | PG 57637, `hbutterworth-zigzag-journeys-in-the-white-city-with-visits-t` (1927 units) |
 | Brother Jonathan | have | PG 64126, `hbutterworth-brother-jonathan` (2091 units) |
 | Little Metacomet | have | PG 75556, `hbutterworth-little-metacomet` (952 units) |
+
+## Clara Louise Burnham
+
+Shelf: `pipeline/clara-louise-burnham_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jewel: A Chapter in Her Life | have | PG 2778, `clburnham-jewel` (3148 units) |
+| Jewel's Story Book | have | PG 16448, `clburnham-jewels-story-book` (3057 units) |
+| In Apple-Blossom Time: A Fairy-Tale to Date | have | PG 20901, `clburnham-in-apple-blossom-time` (1741 units) |
+| The Opened Shutters: A Novel | have | PG 25954, `clburnham-opened-shutters` (2970 units) |
+| Wenonah's Stories for Children | have | PG 51653, `clburnham-wenonahs-stories-for-children` (814 units) |
+| The Key Note: A Novel | have | PG 52110, `clburnham-key-note` (2493 units) |
+| The Inner Flame: A Novel | have | PG 52240, `clburnham-inner-flame` (3467 units) |
+| Clever Betsy: A Novel | have | PG 52908, `clburnham-clever-betsy` (2854 units) |
+| Instead of the Thorn: A Novel | have | PG 53049, `clburnham-instead-of-the-thorn` (2454 units) |
+| Sweet Clover: A Romance of the White City | have | PG 54490, `clburnham-sweet-clover` (2869 units) |
+| The Queen of Farrandale: A Novel | have | PG 60983, `clburnham-queen-of-farrandale` (2200 units) |

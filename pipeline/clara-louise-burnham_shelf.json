@@ -1,0 +1,164 @@
+{
+ "_about": "Clara Louise Burnham's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Clara Louise Burnham",
+ "_name_words": [
+  "burnham",
+  "clara",
+  "louise"
+ ],
+ "_surname": [
+  "clara louise burnham",
+  "louise burnham"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "clburnham-jewel": [
+   2778,
+   "Jewel: A Chapter in Her Life"
+  ],
+  "clburnham-jewels-story-book": [
+   16448,
+   "Jewel's Story Book"
+  ],
+  "clburnham-in-apple-blossom-time": [
+   20901,
+   "In Apple-Blossom Time: A Fairy-Tale to Date"
+  ],
+  "clburnham-opened-shutters": [
+   25954,
+   "The Opened Shutters: A Novel"
+  ],
+  "clburnham-wenonahs-stories-for-children": [
+   51653,
+   "Wenonah's Stories for Children"
+  ],
+  "clburnham-key-note": [
+   52110,
+   "The Key Note: A Novel"
+  ],
+  "clburnham-inner-flame": [
+   52240,
+   "The Inner Flame: A Novel"
+  ],
+  "clburnham-clever-betsy": [
+   52908,
+   "Clever Betsy: A Novel"
+  ],
+  "clburnham-instead-of-the-thorn": [
+   53049,
+   "Instead of the Thorn: A Novel"
+  ],
+  "clburnham-sweet-clover": [
+   54490,
+   "Sweet Clover: A Romance of the White City"
+  ],
+  "clburnham-queen-of-farrandale": [
+   60983,
+   "The Queen of Farrandale: A Novel"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "clburnham-jewel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-jewels-story-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-in-apple-blossom-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-opened-shutters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-wenonahs-stories-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-key-note": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-inner-flame": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-clever-betsy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-instead-of-the-thorn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-sweet-clover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clburnham-queen-of-farrandale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara louise burnham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
