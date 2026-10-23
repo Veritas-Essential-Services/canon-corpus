@@ -18686,6 +18686,21 @@ Slugs `de-*`. Built from title pages read for round 126.
 | Phillips Brooks and the church universal : a sermon preached to the First Church, Eliot Square, Roxbury, Boston, January 29, 1893 ([Boston] : Women's Alliance of the First Church, 1893) (IA phillipsbrooksch00deno): the OCR text is unreadable throughout (no title word survives); a re-OCR or cleaner scan is wanted | pending | not shelved |
 | the Unitarian Review, a periodical | excluded | |
 | Massachusetts Historical Society proceedings | excluded | |
+
+## Henry A. Brann (round 127, my pick, 2026-10-23)
+
+Slugs `brann-*`. Built from title pages read for round 127.
+
+| Work | Status | Where |
+|---|---|---|
+| Curious questions ([n. p.], 1866) | have-ocr | IA `curiousquestions00bran` |
+| Gladstone and the Irish grievances (New York, B. H. Tyrell, printer, 1881) | have-ocr | IA `gladstoneirishgr00bran` |
+| Most Reverend John Hughes, first archbishop of New York (New York, Dodd, Mead and company, 1892) | have-ocr | IA `reverendjohnhugh00branuoft` |
+| Waifs and strays : being a collection of some sermons, some lectures, essays, etc. of Henry A. Brann, vol. 2 (Quebec ; New York : Franciscan Missionary Printing Press, 1909) | have-ocr | IA `waifsandstraysbe00branuoft` |
+| History of the American College of the Roman Catholic church of the United States, Rome, Italy (New York, Cincinnati [etc.] Benziger Brothers, 1910) | have-ocr | IA `historyofamerica00bran` |
+| The Glories of the Catholic Church (1894-95), IA GloriesOfTheCatholicChurchV2: an anthology of many writers that he edited (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Kelly's Universal Readers and Primer are school readers | excluded | |
+| second scans of Waifs and Strays | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
