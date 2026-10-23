@@ -16689,3 +16689,20 @@ Slugs `dehon-*`. Built from title pages read for round 105.
 | Sermons on the public means of grace, on the fasts & festivals of the church, scripture characters, & various practical subjects (New York, T.N. Stanford, 1856) | have-ocr | IA `sermonsonpublic00dehogoog` |
 | Sermons on confirmation : and an address delivered after administering that holy and apostolic rite (New York : T. and J. Swords, 1831) | have-ocr | IA `sermonsonconfirm00deho` |
 | Books by Theodore Dehon Jervey (a later Charleston historian) | excluded | |
+
+## Seth Williston (round 105, my pick, 2026-10-23)
+
+Slugs `williston-*`. Built from title pages read for round 105.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, on doctrinal and experimental subjects (Hudson [N.Y.]: Printed by A. Stoddard, no. 137, Warren-street, 1812) | have-ocr | IA `sermonsondoctri00willgoog` |
+| A vindication of some of the most essential doctrines of the reformation: being a reply to objections raised against these doctrines in a late publication, entitled: "The errors of Hopkinsianism detected and refuted; in six letters, by Nathan Bangs ..." addressed to the author of the present work (Hudson, N.Y., Printed by Ashbel Stoddard, 1817) | have-ocr | IA `vindicationofsom00will` |
+| The harmony of divine truth (Utica, N.Y. : Bennett and Bright (for the author), 1836) | have-ocr | IA `harmonyofdivinet00will` |
+| Christ's kingdom not of this world. The spiritual character of the kingdom of Christ, in three discourses (New York, Saxton & Miles, 1842) | have-ocr | IA `christskingdomno00will` |
+| Slavery not a scriptural ground of division in efforts for the salvation of the heathen (New-York, M.W. Dodd, 1844) | have-ocr | IA `slaverynotscript00will` |
+| Five discourses on the Sabbath : preached at Durham, N.Y (New Haven : Hooker, 1847) | have-ocr | IA `fivediscourseson00will` |
+| importanceofdist00will: an American Tract Society tract (no. 165) that names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| lecturesonmorali00will: the scan's title page is missing and the text never names the author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Columbian Preacher (sermons by several preachers) | excluded | |
+| The Errors of Hopkinsianism (Nathan Bangs's letters against him) | excluded | |
