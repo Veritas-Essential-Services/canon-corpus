@@ -18168,6 +18168,18 @@ Slugs `sparrow-*`. Built from title pages read for round 121.
 | The prayer of consecration (London : Robert Scott ; Milwaukee, Wis. : The Young Churchman, 1917) (IA prayerofconsecra0000spar): archive.org returned HTTP 500 for the text file; retry later | pending | not shelved |
 | Chapters in the History of Old S. Paul's is by his father, W. Sparrow Simpson | excluded | |
 | his translations of Augustine's Letters and On the Spirit and the Letter, and the Dionysius he edited, are other men's works in English | excluded | |
+
+## L. A. Gotwald (round 122, my pick, 2026-10-23)
+
+Slugs `gotwald-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| Church orders, or : the necessity of a right call to the office of the ministry / by L.A. Gotwald (J.E. Wible, 1876) | have-ocr | IA `churchordersorne00gotw` |
+| Joy in the divine government and other sermons (Chicago : F. H. Revell, 1901) | have-ocr | IA `joyindivinegover00gotw` |
+| Gettysburg : Lincoln's address and our educational institutions (Your, Pa. : The Board of Education, 1907) | have-ocr | IA `gettysburglincol00gotw` |
+| Sermons for Festival Days (German Literary Board, 1911) | have-ocr | IA `sermonsforfestiv0000lago` |
+| The Faithful Missionary is Nieritz translated by William H. Gotwald | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
