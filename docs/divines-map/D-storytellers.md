@@ -16700,3 +16700,32 @@ Shelf: `pipeline/william-morris-works_shelf.json` (2026-10-22; added at the coor
 | Some Notes on Early Woodcut Books, with a Chapter on Illuminated Manuscripts | have | PG 46241, `wmorris-some-notes-on-early-woodcut-books-with-a-chapter-on` (120 units) |
 | Pygmalion and the Image | have | PG 49827, `wmorris-pygmalion-and-the-image` (128 units) |
 | held-elsewhere | excluded | PG 5988: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## E. V. Lucas
+
+Shelf: `pipeline/ev-lucas_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Essays, novels and anthologies. Every English text under the name at Gutenberg that no other shelf holds (21 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Slowcoach | have | PG 2086, `evlucas-slowcoach` (1605 units) |
+| Roving East and Roving West | have | PG 7237, `evlucas-roving-east-and-roving-west` (385 units) |
+| A Wanderer in Florence | have | PG 10769, `evlucas-wanderer-in-florence` (825 units) |
+| The War of the Wenuses | have | PG 14678, `evlucas-war-of-the-wenuses` (227 units) |
+| A Wanderer in Holland | have | PG 14951, `evlucas-wanderer-in-holland` (1054 units) |
+| A Wanderer in Venice | have | PG 16705, `evlucas-wanderer-in-venice` (1468 units) |
+| A Boswell of Baghdad; With Diversions | have | PG 20083, `evlucas-boswell-of-baghdad` (831 units) |
+| Highways and Byways in Sussex | have | PG 20696, `evlucas-highways-and-byways-in-sussex` (2608 units) |
+| Forgotten Tales of Long Ago | have | PG 28679, `evlucas-forgotten-tales-of-long-ago` (2228 units) |
+| The Flamp, The Ameliorator, and The Schoolboy's Apprentice | have | PG 30445, `evlucas-flamp-the-ameliorator-and-the-schoolboys-apprentice` (446 units) |
+| Adventures and Enthusiasms | have | PG 34462, `evlucas-adventures-and-enthusiasms` (815 units) |
+| A Wanderer in Paris | have | PG 37937, `evlucas-wanderer-in-paris` (1503 units) |
+| Rose and Rose | have | PG 57995, `evlucas-rose-and-rose` (1260 units) |
+| Advisory Ben: A Story | have | PG 63536, `evlucas-advisory-ben` (1486 units) |
+| Verena in the Midst: A Kind of a Story | have | PG 63551, `evlucas-verena-in-the-midst` (886 units) |
+| Wisdom while you wait | have | PG 71166, `evlucas-wisdom-while-you-wait` (440 units) |
+| Old lamps for new | have | PG 73174, `evlucas-old-lamps-for-new` (1004 units) |
+| Anne's terrible good nature, and other stories for children | have | PG 73489, `evlucas-annes-terrible-good-nature-and-other-stories-for-chi` (838 units) |
+| London Lavender | have | PG 76154, `evlucas-london-lavender` (1320 units) |
+| Over Bemerton's | have | PG 76344, `evlucas-over-bemertons` (1349 units) |
+| A cat book | have | PG 79268, `evlucas-cat-book` (57 units) |
+| held-elsewhere | excluded | PG 38172: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

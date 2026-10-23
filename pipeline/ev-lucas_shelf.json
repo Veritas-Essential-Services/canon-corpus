@@ -1,0 +1,294 @@
+{
+ "_about": "E. V. Lucas: Essays, novels and anthologies. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "E. V. Lucas",
+ "_name_words": [
+  "lucas"
+ ],
+ "_surname": [
+  "e. v. lucas",
+  "lucas"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "evlucas-slowcoach": [
+   2086,
+   "The Slowcoach"
+  ],
+  "evlucas-roving-east-and-roving-west": [
+   7237,
+   "Roving East and Roving West"
+  ],
+  "evlucas-wanderer-in-florence": [
+   10769,
+   "A Wanderer in Florence"
+  ],
+  "evlucas-war-of-the-wenuses": [
+   14678,
+   "The War of the Wenuses"
+  ],
+  "evlucas-wanderer-in-holland": [
+   14951,
+   "A Wanderer in Holland"
+  ],
+  "evlucas-wanderer-in-venice": [
+   16705,
+   "A Wanderer in Venice"
+  ],
+  "evlucas-boswell-of-baghdad": [
+   20083,
+   "A Boswell of Baghdad; With Diversions"
+  ],
+  "evlucas-highways-and-byways-in-sussex": [
+   20696,
+   "Highways and Byways in Sussex"
+  ],
+  "evlucas-forgotten-tales-of-long-ago": [
+   28679,
+   "Forgotten Tales of Long Ago"
+  ],
+  "evlucas-flamp-the-ameliorator-and-the-schoolboys-apprentice": [
+   30445,
+   "The Flamp, The Ameliorator, and The Schoolboy's Apprentice"
+  ],
+  "evlucas-adventures-and-enthusiasms": [
+   34462,
+   "Adventures and Enthusiasms"
+  ],
+  "evlucas-wanderer-in-paris": [
+   37937,
+   "A Wanderer in Paris"
+  ],
+  "evlucas-rose-and-rose": [
+   57995,
+   "Rose and Rose"
+  ],
+  "evlucas-advisory-ben": [
+   63536,
+   "Advisory Ben: A Story"
+  ],
+  "evlucas-verena-in-the-midst": [
+   63551,
+   "Verena in the Midst: A Kind of a Story"
+  ],
+  "evlucas-wisdom-while-you-wait": [
+   71166,
+   "Wisdom while you wait"
+  ],
+  "evlucas-old-lamps-for-new": [
+   73174,
+   "Old lamps for new"
+  ],
+  "evlucas-annes-terrible-good-nature-and-other-stories-for-chi": [
+   73489,
+   "Anne's terrible good nature, and other stories for children"
+  ],
+  "evlucas-london-lavender": [
+   76154,
+   "London Lavender"
+  ],
+  "evlucas-over-bemertons": [
+   76344,
+   "Over Bemerton's"
+  ],
+  "evlucas-cat-book": [
+   79268,
+   "A cat book"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 38172: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "evlucas-slowcoach": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-roving-east-and-roving-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-wanderer-in-florence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-war-of-the-wenuses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-wanderer-in-holland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-wanderer-in-venice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-boswell-of-baghdad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-highways-and-byways-in-sussex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-forgotten-tales-of-long-ago": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-flamp-the-ameliorator-and-the-schoolboys-apprentice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-adventures-and-enthusiasms": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-wanderer-in-paris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-rose-and-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-advisory-ben": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-verena-in-the-midst": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-wisdom-while-you-wait": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-old-lamps-for-new": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-annes-terrible-good-nature-and-other-stories-for-chi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-london-lavender": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-over-bemertons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "evlucas-cat-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. v. lucas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
