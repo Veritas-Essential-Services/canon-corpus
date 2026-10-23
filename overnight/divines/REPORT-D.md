@@ -1886,3 +1886,6 @@
 
 ## 2026-10-22 22:29 CDT — anne-douglas-sedgwick: done
 - anne-douglas-sedgwick: new shelf, 17 Gutenberg books, 26,119 units, 4279 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:30 CDT — nell-speed: done
+- nell-speed: new shelf, 15 Gutenberg books, 19,497 units, 170 ~2 ids; verify 0 mismatches, 0 rights flags.

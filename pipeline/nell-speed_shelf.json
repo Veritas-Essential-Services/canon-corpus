@@ -1,0 +1,216 @@
+{
+ "_about": "Nell Speed's Molly Brown college series and other girls' books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Nell Speed",
+ "_name_words": [
+  "nell",
+  "speed"
+ ],
+ "_surname": [
+  "nell speed"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nspeed-molly-browns-orchard-home": [
+   20632,
+   "Molly Brown's Orchard Home"
+  ],
+  "nspeed-molly-browns-senior-days": [
+   24903,
+   "Molly Brown's Senior Days"
+  ],
+  "nspeed-molly-browns-sophomore-days": [
+   32453,
+   "Molly Brown's Sophomore Days"
+  ],
+  "nspeed-at-boarding-school-with-the-tucker-twins": [
+   36018,
+   "At Boarding School with the Tucker Twins"
+  ],
+  "nspeed-vacation-with-the-tucker-twins": [
+   36046,
+   "Vacation with the Tucker Twins"
+  ],
+  "nspeed-back-at-school-with-the-tucker-twins": [
+   36089,
+   "Back at School with the Tucker Twins"
+  ],
+  "nspeed-molly-browns-post-graduate-days": [
+   36230,
+   "Molly Brown's Post-Graduate Days"
+  ],
+  "nspeed-house-party-with-the-tucker-twins": [
+   36671,
+   "A House Party with the Tucker Twins"
+  ],
+  "nspeed-tripping-with-the-tucker-twins": [
+   36672,
+   "Tripping with the Tucker Twins"
+  ],
+  "nspeed-molly-browns-freshman-days": [
+   36684,
+   "Molly Brown's Freshman Days"
+  ],
+  "nspeed-molly-browns-junior-days": [
+   36717,
+   "Molly Brown's Junior Days"
+  ],
+  "nspeed-molly-browns-college-friends": [
+   36733,
+   "Molly Brown's College Friends"
+  ],
+  "nspeed-molly-brown-of-kentucky": [
+   36736,
+   "Molly Brown of Kentucky"
+  ],
+  "nspeed-carter-girls": [
+   40177,
+   "The Carter Girls"
+  ],
+  "nspeed-carter-girls-week-end-camp": [
+   40179,
+   "The Carter Girls' Week-End Camp"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 40178 The Carter Girls' Mysterious Neighbors (copyright line 1931). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "nspeed-molly-browns-orchard-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-molly-browns-senior-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-molly-browns-sophomore-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-at-boarding-school-with-the-tucker-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-vacation-with-the-tucker-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-back-at-school-with-the-tucker-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-molly-browns-post-graduate-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-house-party-with-the-tucker-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-tripping-with-the-tucker-twins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-molly-browns-freshman-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-molly-browns-junior-days": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-molly-browns-college-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-molly-brown-of-kentucky": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-carter-girls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nspeed-carter-girls-week-end-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nell speed",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

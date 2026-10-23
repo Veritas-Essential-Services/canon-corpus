@@ -39663,3 +39663,26 @@ Shelf: `pipeline/anne-douglas-sedgwick_shelf.json` (2026-10-22; added at the coo
 | The Shadow of Life | have | PG 42965, `adsedgwick-shadow-of-life` (1824 units) |
 | The Little French Girl | have | PG 65386, `adsedgwick-little-french-girl` (2349 units) |
 | Dark Hester | have | PG 78779, `adsedgwick-dark-hester` (947 units) |
+
+## Nell Speed
+
+Shelf: `pipeline/nell-speed_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Series books for young readers. Every English text under the name at Gutenberg that no other shelf holds (15 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Molly Brown's Orchard Home | have | PG 20632, `nspeed-molly-browns-orchard-home` (1071 units) |
+| Molly Brown's Senior Days | have | PG 24903, `nspeed-molly-browns-senior-days` (1423 units) |
+| Molly Brown's Sophomore Days | have | PG 32453, `nspeed-molly-browns-sophomore-days` (1582 units) |
+| At Boarding School with the Tucker Twins | have | PG 36018, `nspeed-at-boarding-school-with-the-tucker-twins` (1202 units) |
+| Vacation with the Tucker Twins | have | PG 36046, `nspeed-vacation-with-the-tucker-twins` (1062 units) |
+| Back at School with the Tucker Twins | have | PG 36089, `nspeed-back-at-school-with-the-tucker-twins` (1143 units) |
+| Molly Brown's Post-Graduate Days | have | PG 36230, `nspeed-molly-browns-post-graduate-days` (828 units) |
+| A House Party with the Tucker Twins | have | PG 36671, `nspeed-house-party-with-the-tucker-twins` (1350 units) |
+| Tripping with the Tucker Twins | have | PG 36672, `nspeed-tripping-with-the-tucker-twins` (1216 units) |
+| Molly Brown's Freshman Days | have | PG 36684, `nspeed-molly-browns-freshman-days` (1644 units) |
+| Molly Brown's Junior Days | have | PG 36717, `nspeed-molly-browns-junior-days` (1622 units) |
+| Molly Brown's College Friends | have | PG 36733, `nspeed-molly-browns-college-friends` (1440 units) |
+| Molly Brown of Kentucky | have | PG 36736, `nspeed-molly-brown-of-kentucky` (1292 units) |
+| The Carter Girls | have | PG 40177, `nspeed-carter-girls` (1290 units) |
+| The Carter Girls' Week-End Camp | have | PG 40179, `nspeed-carter-girls-week-end-camp` (1332 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 40178 The Carter Girls' Mysterious Neighbors (copyright line 1931). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
