@@ -398,3 +398,5 @@
 - 2026-10-23T02:38-05:00: Round 160: thomas-roscoe +2 (Cellini, Colburn 1822, 2 vols). Lazarillo already in Spanish Novelists; Dent Balzac vols 21/26/31/33/39 have no files on archive.org. 0 mismatched, 0 rights flags.
 
 - 2026-10-23T08:53-05:00: Round 162: mn-dutt +9 (Mahabharata Adi/Shanti/Anushasana, Bhagavata I and VII-XII, Mahanirvana, Kamandakiya, Garuda, Harita), on Adam's 2026-10-23 ruling.
+
+- 2026-10-23T08:58-05:00: Round 163: fleming +13 (St. Hubert Guild Works of Voltaire, 1901), credited 'Smollett, revised by Fleming', on Adam's 2026-10-23 ruling.

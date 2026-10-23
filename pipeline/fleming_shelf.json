@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: William F. Fleming: Voltaire's Philosophical Dictionary (10 vols) and Works vol. IV, from the St. Hubert Guild Works of Voltaire (1901, intro. John Morley). US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: William F. Fleming: Voltaire's Philosophical Dictionary (10 vols) and Works vol. IV, from the St. Hubert Guild Works of Voltaire (1901, intro. John Morley). US public domain. Round 163 (2026-10-23) added 13 volumes of the St. Hubert set, credited \"Smollett, revised by Fleming\", on Adam's ruling. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
  "_name_words": [
   "william f. fleming",
   "fleming"
@@ -56,7 +56,60 @@
    "The Works of Voltaire, Vol. IV of XLIII."
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "fle-sh-01": [
+   "cu31924088380435",
+   "Works of Voltaire (St. Hubert Guild), vol. I: Introductory and biographical; Victor Hugo's oration; Candide; poetical dissertations (1901)"
+  ],
+  "fle-sh-08": [
+   "cu31924088380492",
+   "Works of Voltaire (St. Hubert Guild), vol. VIII: The Dramatic Works, vol. VIII (Merope, Olympia, and others) (1901)"
+  ],
+  "fle-sh-09": [
+   "cu31924088380500",
+   "Works of Voltaire (St. Hubert Guild), vol. IX: The Dramatic Works, vol. IX (Alzire, Orestes, and others) (1901)"
+  ],
+  "fle-sh-11": [
+   "cu31924088380518",
+   "Works of Voltaire (St. Hubert Guild), vol. XI: History of Charles XII (1901)"
+  ],
+  "fle-sh-12": [
+   "cu31924088380526",
+   "Works of Voltaire (St. Hubert Guild), vol. XII: The Age of Louis XIV (1901)"
+  ],
+  "fle-sh-13": [
+   "cu31924088380534",
+   "Works of Voltaire (St. Hubert Guild), vol. XIII: Ancient and Modern History, vol. XIII (1901)"
+  ],
+  "fle-sh-14": [
+   "cu31924088380542",
+   "Works of Voltaire (St. Hubert Guild), vol. XIV: Ancient and Modern History, vol. XIV (1901)"
+  ],
+  "fle-sh-16": [
+   "cu31924088380567",
+   "Works of Voltaire (St. Hubert Guild), vol. XVI: Ancient and Modern History, vol. XVI (1901)"
+  ],
+  "fle-sh-17": [
+   "cu31924088380575",
+   "Works of Voltaire (St. Hubert Guild), vol. XVII: Annals of the Empire, Charlemagne to Henry VII (1901)"
+  ],
+  "fle-sh-18": [
+   "cu31924088380583",
+   "Works of Voltaire (St. Hubert Guild), vol. XVIII: History of the Russian Empire under Peter the Great (1901)"
+  ],
+  "fle-sh-19": [
+   "cu31924088380591",
+   "Works of Voltaire (St. Hubert Guild), vol. XIX: Essays on Literature, Philosophy, Art, History (1901)"
+  ],
+  "fle-sh-20": [
+   "cu31924088380609",
+   "Works of Voltaire (St. Hubert Guild), vol. XX: The Maid of Orleans (La Pucelle d'Orleans) (1901)"
+  ],
+  "fle-sh-21": [
+   "cu31924088380617",
+   "Works of Voltaire (St. Hubert Guild), vol. XXI: The Henriade; Letters and Miscellanies (1901)"
+  ]
+ },
  "titles": {
   "fleming-voltaire-a-philosophical-dictionary-volume-01": {
    "source": "fle-35621",
@@ -145,17 +198,121 @@
    "translated": "1901 (see the Gutenberg header)",
    "translator": "William F. Fleming",
    "scan_edition": "Project Gutenberg 49726 (clean text)"
+  },
+  "fle-sh-01": {
+   "source": "fle-sh-01",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. I: Introductory and biographical; Victor Hugo's oration; Candide; poetical dissertations",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-08": {
+   "source": "fle-sh-08",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. VIII: The Dramatic Works, vol. VIII (Merope, Olympia, and others)",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-09": {
+   "source": "fle-sh-09",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. IX: The Dramatic Works, vol. IX (Alzire, Orestes, and others)",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-11": {
+   "source": "fle-sh-11",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XI: History of Charles XII",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-12": {
+   "source": "fle-sh-12",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XII: The Age of Louis XIV",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-13": {
+   "source": "fle-sh-13",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XIII: Ancient and Modern History, vol. XIII",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-14": {
+   "source": "fle-sh-14",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XIV: Ancient and Modern History, vol. XIV",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-16": {
+   "source": "fle-sh-16",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XVI: Ancient and Modern History, vol. XVI",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-17": {
+   "source": "fle-sh-17",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XVII: Annals of the Empire, Charlemagne to Henry VII",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-18": {
+   "source": "fle-sh-18",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XVIII: History of the Russian Empire under Peter the Great",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-19": {
+   "source": "fle-sh-19",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XIX: Essays on Literature, Philosophy, Art, History",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-20": {
+   "source": "fle-sh-20",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XX: The Maid of Orleans (La Pucelle d'Orleans)",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
+  },
+  "fle-sh-21": {
+   "source": "fle-sh-21",
+   "of": "Voltaire",
+   "work": "The Works of Voltaire, a Contemporary Version, vol. XXI: The Henriade; Letters and Miscellanies",
+   "translated": 1901,
+   "translator": "Tobias Smollett, revised and modernized by William F. Fleming (the set's credit: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming')",
+   "scan_edition": "St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901), Cornell copy; one bound volume (both parts). The set credits the whole edition jointly and no volume says which pieces are Smollett's eighteenth-century versions and which are Fleming's new ones, so the credit is 'Smollett, revised by Fleming' on Adam's ruling of 2026-10-23 (decision card: shelve, with honest credit)."
   }
  },
  "_pending": {
-  "fleming-st-hubert-rest": "The rest of the St. Hubert Guild Works of Voltaire (E. R. DuMont, New York, copyright 1901; 22 numbered volumes in two parts each). Cornell scans cu31924088380435 to cu31924088380625 cover the Romances, Charles XII, Peter the Great, the Age of Louis XIV, Ancient and Modern History, the Essays, The Maid of Orleans, the Henriade and Letters, and the dramas. The set's title page credits the whole edition jointly: 'Notes by Tobias Smollett, revised and modernized; new translations by William F. Fleming'. Most prose volumes are Smollett's eighteenth-century translations as Fleming revised them, and no single volume says which is which. Crediting each volume to Fleming alone would claim more than the books do, so the volumes wait for a ruling: shelve them as 'Smollett, revised by Fleming', or leave them off. Found 2026-10-23 (round 141). The Philosophical Dictionary and vol. IV are already shelved from Gutenberg."
+  "fleming-st-hubert-rest": "Adam ruled 2026-10-23 (decision card): shelve with honest credit, 'Smollett, revised by Fleming'. Round 163 shelved the 13 non-Dictionary volumes with Cornell scans (I, VIII, IX, XI-XIV, XVI-XXI). Not shelved: vols. III-VII (cu31924088380443, 450, 468, 476, 484), the Philosophical Dictionary, already here whole from Gutenberg (fle-35621..35630); vol. XXII (cu31924088380625), the index and Leigh's appreciation, not a translation. No Cornell scan found for vols. II, X and XV."
  },
  "_excluded": {},
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "fle-35621": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -164,7 +321,7 @@
   },
   "fle-35622": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -173,7 +330,7 @@
   },
   "fle-35623": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -182,7 +339,7 @@
   },
   "fle-35624": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -191,7 +348,7 @@
   },
   "fle-35625": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -200,7 +357,7 @@
   },
   "fle-35626": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -209,7 +366,7 @@
   },
   "fle-35627": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -218,7 +375,7 @@
   },
   "fle-35628": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -227,7 +384,7 @@
   },
   "fle-35629": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -236,7 +393,7 @@
   },
   "fle-35630": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
@@ -245,12 +402,155 @@
   },
   "fle-49726": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william f. fleming",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "William F. Fleming"
+  },
+  "fle-sh-01": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fleming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-08": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-09": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-11": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-12": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-13": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-14": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-16": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fleming",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-17": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-18": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-19": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-20": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fle-sh-21": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -308,7 +608,178 @@
    "pg": 49726,
    "pg_copyrighted_marker": false,
    "pg_translator": "William F. Fleming"
+  },
+  "fle-sh-01": {
+   "ia": "cu31924088380435",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-08": {
+   "ia": "cu31924088380492",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1641,
+    1643,
+    1683,
+    1701,
+    1731,
+    1743,
+    1891,
+    1901
+   ],
+   "post_1930_years_in_front_15k": [
+    1944,
+    1952
+   ],
+   "post_1930_examined": "1944 and 1952 are Cornell date-due stamps ('JAN - 7 1944', 'MAY 28 1952'); copyright 1901"
+  },
+  "fle-sh-09": {
+   "ia": "cu31924088380500",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-11": {
+   "ia": "cu31924088380518",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1728,
+    1770,
+    1891,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-12": {
+   "ia": "cu31924088380526",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1630,
+    1654,
+    1697,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-13": {
+   "ia": "cu31924088380534",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1740,
+    1753,
+    1756,
+    1762,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-14": {
+   "ia": "cu31924088380542",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1401,
+    1717,
+    1891,
+    1901,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [
+    1962
+   ],
+   "post_1930_examined": "1962 is a Cornell date-due stamp ('DEC 1 1962'); copyright 1901"
+  },
+  "fle-sh-16": {
+   "ia": "cu31924088380567",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1480,
+    1483,
+    1891,
+    1901,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-17": {
+   "ia": "cu31924088380575",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1753,
+    1897,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-18": {
+   "ia": "cu31924088380583",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1700,
+    1712,
+    1750,
+    1759,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-19": {
+   "ia": "cu31924088380591",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1746,
+    1891,
+    1901,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-20": {
+   "ia": "cu31924088380609",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1730,
+    1740,
+    1762,
+    1822,
+    1891,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "fle-sh-21": {
+   "ia": "cu31924088380617",
+   "translator_named_in_first_30k": false,
+   "years_in_front_15k": [
+    1432,
+    1553,
+    1723,
+    1724,
+    1728,
+    1731,
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
- "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "fle-sh-01": "title page (St. Hubert Guild, copyright 1901): 'Notes by Tobias Smollelt Revised and Modernized ... Tt Hemi nc [New Translations by William F. Fleming]'",
+  "fle-sh-08": "title page (St. Hubert Guild, copyright 1901): 'Smollet ...' (the credit block is garbled past the name; same set, Cornell run cu31924088380435-625)",
+  "fle-sh-09": "title page (St. Hubert Guild, copyright 1901): 'Smollt ... Nevtonsbitons be Ps Williaws F.Flernin [New Translations by William F. Fleming]'",
+  "fle-sh-11": "title page (St. Hubert Guild, copyright 1901): 'Smolle ... NewTianslations {by William F-Fler[ming]'",
+  "fle-sh-12": "title page (St. Hubert Guild, copyright 1901): 'Smoll ... Newlianslalions by Fr. Wiliam I Hering [William F. Fleming]'",
+  "fle-sh-13": "title page (St. Hubert Guild, copyright 1901): 'Smolle ... NewTiansialions by William I Hleraings [William F. Fleming]'",
+  "fle-sh-14": "title page (St. Hubert Guild, copyright 1901): 'Smollet Revised and Modern Newanslatons D by Wi tary I Meri Ne [William F. Fleming]'",
+  "fle-sh-16": "title page (St. Hubert Guild, copyright 1901): 'Smollelt Revised and Modernized Newlranslalions by Williara F-Flernin [William F. Fleming]'",
+  "fle-sh-17": "title page (St. Hubert Guild, copyright 1901): credit block not legible in the OCR; same set and series title page as its neighbours (Cornell run cu31924088380435-625)",
+  "fle-sh-18": "title page (St. Hubert Guild, copyright 1901): 'Smolle Revised and Modernized NewTianslations .by William F-Meming [Fleming]'",
+  "fle-sh-19": "title page (St. Hubert Guild, copyright 1901): 'Smollett ...' (credit block garbled past the name; same set)",
+  "fle-sh-20": "title page (St. Hubert Guild, copyright 1901): 'Smollelt Revised and Modernized NewTianslations (by Williany RENE [William F. Fleming]'",
+  "fle-sh-21": "title page (St. Hubert Guild, copyright 1901): 'Smollet Revised and Modernized ... by ane Fervi ng [William F. Fleming]'"
+ }
 }
