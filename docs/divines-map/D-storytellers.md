@@ -18499,3 +18499,15 @@ Shelf: `pipeline/margaret-horton-potter_shelf.json` (2026-10-22; added at the co
 | The Castle of Twilight | have | PG 62669, `mhpotter-castle-of-twilight` (1134 units) |
 | The flame-gatherers | have | PG 69721, `mhpotter-flame-gatherers` (1362 units) |
 | The House of de Mailly | have | PG 73165, `mhpotter-house-of-de-mailly` (3301 units) |
+
+## Marmaduke William Pickthall
+
+Shelf: `pipeline/marmaduke-william-pickthall_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Oriental Encounters: Palestine and Syria, 1894-6 | have | PG 19378, `mwpickthall-oriental-encounters` (1155 units) |
+| The Valley of the Kings | have | PG 24744, `mwpickthall-valley-of-the-kings` (972 units) |
+| Veiled Women | have | PG 57297, `mwpickthall-veiled-women` (1439 units) |
+| The House of Islâm | have | PG 63654, `mwpickthall-house-of-isl-m` (1500 units) |
+| Saïd the fisherman | have | PG 77078, `mwpickthall-sa-d-the-fisherman` (1576 units) |
