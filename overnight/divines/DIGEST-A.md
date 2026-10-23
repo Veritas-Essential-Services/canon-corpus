@@ -2595,7 +2595,7 @@ Researched and built 2026-10-23, from the re-listed second sweep. Five authors: 
 
 Points you may want to veto or rule on:
 - Nothing held for Adam this round; every title page read cleanly in the OCR.
-- Truett, Parks and Cobern's later years are outside the cutoff; only their pre-1930 books are taken (Truett and Parks lived past 1930).
+- Truett and Parks lived past 1930; only their books printed before 1930 are taken.
 - Left out: second scans, journal articles, Bunyan's Pilgrim's Progress with Truett's exposition, and Benjamin Wisner Bacon's Pentateuch studies.
 
 ## Lane A stopped 2026-10-23 (end of this thread's run)
