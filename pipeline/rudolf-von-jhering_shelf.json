@@ -1,0 +1,80 @@
+{
+ "_about": "Rudolf von Jhering (1818-1892), German jurist and historian of Roman law, in English translation: The Struggle for Law (tr. John J. Lalor, 2nd ed. 1915), Law as a Means to an End (tr. Isaac Husik, 1913), and The Evolution of the Aryan (tr. A. Drucker, 1897). His Geist des römischen Rechts was never Englished. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Rudolf von Jhering (1818-1892)",
+ "_name_words": [
+  "jhering",
+  "ihering",
+  "law",
+  "struggle",
+  "aryan",
+  "means",
+  "end"
+ ],
+ "_surname": [
+  "jhering",
+  "ihering"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jhering-struggle-for-law-1915": [
+   "struggleforlaw00jher",
+   "The Struggle for Law, 2nd ed. (1915), tr. John J. Lalor"
+  ],
+  "jhering-law-as-means-to-end-1913": [
+   "lawasameanstoan00jheruoft",
+   "Law as a Means to an End (1913), tr. Isaac Husik"
+  ],
+  "jhering-evolution-of-the-aryan-1897": [
+   "evolutionofaryan0000jher",
+   "The Evolution of the Aryan (1897), tr. A. Drucker"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "jhering-struggle-for-law-1915": "Lalor",
+  "jhering-law-as-means-to-end-1913": "Husik",
+  "jhering-evolution-of-the-aryan-1897": "Drucker"
+ },
+ "_checks": {
+  "jhering-struggle-for-law-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jhering",
+   "translator_claimed": "Lalor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhering-law-as-means-to-end-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jhering",
+   "translator_claimed": "Husik",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhering-evolution-of-the-aryan-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jhering",
+   "translator_claimed": "Drucker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

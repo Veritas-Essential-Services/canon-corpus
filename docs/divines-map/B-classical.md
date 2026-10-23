@@ -9193,3 +9193,14 @@ Shelf: `pipeline/sheldon-amos_shelf.json`. The civil law of Rome (1883). Not min
 |---|---|---|---|
 | The History and Principles of the Civil Law of Rome: an Aid to the Study of Scientific and Comparative Jurisprudence (1883) |  | `amos-civil-law-of-rome-1883` | have-raw (IA `historyandprinc00amosgoog`) |
 
+
+## Rudolf von Jhering (1818-1892)
+
+Shelf: `pipeline/rudolf-von-jhering_shelf.json`. Three works in English translation, 1897-1915. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Struggle for Law, 2nd ed. (1915), tr. John J. Lalor |  | `jhering-struggle-for-law-1915` | have-raw (IA `struggleforlaw00jher`) |
+| Law as a Means to an End (1913), tr. Isaac Husik |  | `jhering-law-as-means-to-end-1913` | have-raw (IA `lawasameanstoan00jheruoft`) |
+| The Evolution of the Aryan (1897), tr. A. Drucker |  | `jhering-evolution-of-the-aryan-1897` | have-raw (IA `evolutionofaryan0000jher`) |
+
