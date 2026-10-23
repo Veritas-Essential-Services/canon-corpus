@@ -19603,6 +19603,15 @@ Shelf: `pipeline/luigi-palma-di-cesnola_shelf.json`. Cyprus, its Ancient Cities,
 |---|---|---|---|
 | Cyprus: its Ancient Cities, Tombs, and Temples (1877) |  | `cesnola-cyprus-1877` | have-raw (IA `cyprusitsancien00murrgoog`) |
 
+
+## J. W. Headlam (1863-1929)
+
+Shelf: `pipeline/j-w-headlam_shelf.json`. Election by Lot at Athens (1891). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Election by Lot at Athens (1891) |  | `headlam-election-by-lot-1891` | have-raw (IA `electionbylotat00headgoog`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
