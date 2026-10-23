@@ -19431,3 +19431,76 @@ Shelf: `pipeline/storytellers-tail-06_shelf.json` (2026-10-22; added at the coor
 | Little Aliens | have | PG 32581, `mkelly-little-aliens` (791 units) |
 | pg-72561 | excluded | PG 72561: a second Gutenberg edition of Houstoun's Sink or swim?. |
 | pg-72562 | excluded | PG 72562: a second Gutenberg edition of Houstoun's Sink or swim?. |
+
+## Storytellers' tail, group 7 (22 authors)
+
+Shelf: `pipeline/storytellers-tail-07_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 22 authors with 3 Gutenberg texts each: John Pendleton Kennedy, Henry Kingsley, Caroline Lamb, Arthur Herbert Leahy, Jules Lermina, John K. Leys, Lily A. Long, George Horace Lorimer, Agnes Maule Machar, Helen Reimensnyder Martin, W. B. Maxwell, Abraham Merritt, Paul Meurice, Henry Morford, Harriet Myrtle, Fannie E. Newberry, R. H. Newell, Rodrigues Ottolengui, Henry Oyen, Gertrude Page, Madame Panache, C. H. Pearson. Every English text under the name at Gutenberg that no other shelf holds (64 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Horse-Shoe Robinson: A Tale of the Tory Ascendency | have | PG 33478, `jpkennedy-horse-shoe-robinson` (3394 units) |
+| Rob of the Bowl: A Legend of St. Inigoe's. Vol. 1 (of 2) | have | PG 37369, `jpkennedy-rob-of-the-bowl` (1467 units) |
+| Quodlibet: containing some annals thereof ... | have | PG 39245, `jpkennedy-quodlibet` (735 units) |
+| The Recollections of Geoffrey Hamlyn | have | PG 3786, `hkingsley-recollections-of-geoffrey-hamlyn` (4650 units) |
+| The Lost Child | have | PG 25404, `hkingsley-lost-child` (78 units) |
+| Ravenshoe | have | PG 41636, `hkingsley-ravenshoe` (4058 units) |
+| Glenarvon, Volume 1 (of 3) | have | PG 68754, `clamb-glenarvon-volume-1-of-3` (298 units) |
+| Glenarvon, Volume 2 (of 3) | have | PG 68773, `clamb-glenarvon-volume-2-of-3` (432 units) |
+| Glenarvon, Volume 3 (of 3) | have | PG 68776, `clamb-glenarvon-volume-3-of-3` (343 units) |
+| Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 1 | have | PG 5678, `ahleahy-heroic-romances-of-ireland-translated-into-english-p` (1215 units) |
+| Heroic Romances of Ireland, Translated into English Prose and Verse — Volume 2 | have | PG 5679, `ahleahy-heroic-romances-of-ireland-translated-into-english-p-5679` (837 units) |
+| Heroic Romances of Ireland, Translated into English Prose and Verse — Complete | have | PG 5680, `ahleahy-heroic-romances-of-ireland-translated-into-english-p-5680` (2051 units) |
+| The Son of Monte-Cristo, Volume I | have | PG 22018, `jlermina-son-of-monte-cristo-volume-i` (3590 units) |
+| The Son of Monte-Cristo, Volume II | have | PG 22086, `jlermina-son-of-monte-cristo-volume-ii` (3592 units) |
+| The Son of Monte-Cristo | have | PG 26216, `jlermina-son-of-monte-cristo` (4336 units) |
+| The Lindsays | have | PG 72352, `jkleys-lindsays` (1021 units) |
+| The Hemlock Avenue Mystery | have | PG 56780, `lalong-hemlock-avenue-mystery` (1712 units) |
+| The Saintsbury Affair | have | PG 56838, `lalong-saintsbury-affair` (1755 units) |
+| The Red House on Rowan Street | have | PG 56961, `lalong-red-house-on-rowan-street` (1818 units) |
+| Old Gorgon Graham More Letters from a Self-Made Merchant to His Son | have | PG 12106, `ghlorimer-old-gorgon-graham-more-letters-from-a-self-made-me` (594 units) |
+| The False Gods | have | PG 17020, `ghlorimer-false-gods` (400 units) |
+| Letters from a Self-Made Merchant to His Son Being the Letters written by John Graham, Head of the House of Graham & Company, Pork-Packers in Chicago, familiarly known on 'Change as "Old Gorgon Graham," to his Son, Pierrepont, facetiously known to his intimates as "Piggy." | have | PG 21959, `ghlorimer-letters-from-a-self-made-merchant-to-his-son-being` (758 units) |
+| Lucy Raymond; Or, The Children's Watchword | have | PG 18248, `ammachar-lucy-raymond` (778 units) |
+| Roland Graeme: Knight. A Novel of Our Time | have | PG 36243, `ammachar-roland-graeme` (1252 units) |
+| Down the River to the Sea | have | PG 39924, `ammachar-down-the-river-to-the-sea` (521 units) |
+| Tillie, a Mennonite Maid; a Story of the Pennsylvania Dutch | have | PG 4760, `hrmartin-tillie-a-mennonite-maid` (2089 units) |
+| Her Husband's Purse | have | PG 55298, `hrmartin-her-husband-s-purse` (2325 units) |
+| The marriage of Susan | have | PG 77875, `hrmartin-marriage-of-susan` (2606 units) |
+| The Devil's Garden | have | PG 14605, `wbmaxwell-devil-s-garden` (2519 units) |
+| Mrs. Thompson: A Novel | have | PG 39515, `wbmaxwell-mrs-thompson` (3078 units) |
+| Spinster of This Parish | have | PG 48685, `wbmaxwell-spinster-of-this-parish` (2083 units) |
+| The Moon Pool | have | PG 765, `amerritt-moon-pool` (2439 units) |
+| The Metal Monster | have | PG 3479, `amerritt-metal-monster` (2495 units) |
+| The face in the abyss | have | PG 79106, `amerritt-face-in-the-abyss` (830 units) |
+| The Two Dianas, Volume 1 (of 3) | have | PG 67337, `pmeurice-two-dianas-volume-1-of-3` (2360 units) |
+| The Two Dianas, Volume 2 (of 3) | have | PG 67338, `pmeurice-two-dianas-volume-2-of-3` (3013 units) |
+| The Two Dianas, Volume 3 (of 3) | have | PG 67339, `pmeurice-two-dianas-volume-3-of-3` (2952 units) |
+| Red-tape and pigeon-hole generals | have | PG 23565, `hmorford-red-tape-and-pigeon-hole-generals` (1436 units) |
+| Shoulder-Straps: A Novel of New York and the Army, 1862 | have | PG 29583, `hmorford-shoulder-straps` (2054 units) |
+| The Coward: A Novel of Society and the Field in 1863 | have | PG 36644, `hmorford-coward` (2127 units) |
+| Adventure of a Kite | have | PG 18968, `hmyrtle-adventure-of-a-kite` (100 units) |
+| The Goat and Her Kid | have | PG 21275, `hmyrtle-goat-and-her-kid` (96 units) |
+| The Pleasures of the Country: Simple Stories for Young People | have | PG 37013, `hmyrtle-pleasures-of-the-country` (436 units) |
+| Sara, a Princess: The Story of a Noble Girl | have | PG 6334, `fenewberry-sara-a-princess` (1933 units) |
+| All Aboard: A Story for Girls | have | PG 19001, `fenewberry-all-aboard` (1489 units) |
+| Joyce's Investments: A Story for Girls | have | PG 21857, `fenewberry-joyce-s-investments` (1884 units) |
+| The Orpheus C. Kerr Papers, Series 3 | have | PG 31823, `rhnewell-orpheus-c-kerr-papers-series-3` (1780 units) |
+| The Orpheus C. Kerr Papers, Series 2 | have | PG 34754, `rhnewell-orpheus-c-kerr-papers-series-2` (2037 units) |
+| The Orpheus C. Kerr Papers, Series 1 | have | PG 35906, `rhnewell-orpheus-c-kerr-papers-series-1` (2045 units) |
+| An Artist in Crime | have | PG 31915, `rottolengui-artist-in-crime` (1556 units) |
+| A Modern Wizard | have | PG 32985, `rottolengui-modern-wizard` (2210 units) |
+| Final Proof; Or, The Value of Evidence | have | PG 35902, `rottolengui-final-proof` (2284 units) |
+| The Plunderer | have | PG 19401, `hoyen-plunderer` (2024 units) |
+| The Snow-Burner | have | PG 36121, `hoyen-snow-burner` (2224 units) |
+| Hidden Country | have | PG 66215, `hoyen-hidden-country` (2418 units) |
+| Winding Paths | have | PG 5636, `gpage-winding-paths` (3733 units) |
+| The Rhodesian | have | PG 27950, `gpage-rhodesian` (1778 units) |
+| Paddy-The-Next-Best-Thing | have | PG 38237, `gpage-paddy-the-next-best-thing` (2912 units) |
+| Manners: A Novel, Vol 1 | have | PG 40158, `mpanache-manners` (319 units) |
+| Manners: A Novel, Vol 2 | have | PG 40159, `mpanache-manners-40159` (294 units) |
+| Manners: A Novel, Vol 3 | have | PG 40160, `mpanache-manners-40160` (330 units) |
+| The cabin on the prairie | have | PG 28870, `chpearson-cabin-on-the-prairie` (1322 units) |
+| On the frontier | have | PG 77147, `chpearson-on-the-frontier` (743 units) |
+| The young pioneers of the North-west | have | PG 78432, `chpearson-young-pioneers-of-the-north-west` (1830 units) |
+| pg-72353 | excluded | PG 72353: a second Gutenberg edition of John K. Leys's The Lindsays. |
+| pg-72354 | excluded | PG 72354: a second Gutenberg edition of John K. Leys's The Lindsays. |
