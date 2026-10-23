@@ -15142,6 +15142,22 @@ Slugs `spear-*`. Built from title pages read for round 89.
 | Meditations on the Bible heaven (New York : Funk, 1886) | have-ocr | IA `meditationsonbib00spea` |
 | lawabidingconsci00spea: Internet Archive's text file returned HTTP 500 (2026-10-23); retry later | pending | not shelved |
 | his law treatises (The Legal-Tender Acts, The Law of the Federal Judiciary, The Law of Extradition) | excluded | |
+
+## George D. Herron (round 90, my pick, 2026-10-23)
+
+Slugs `herron-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| The larger Christ (Chicago, F. H. Revell Co, 1891) | have-ocr | IA `largerchrist00herr` |
+| A plea for the Gospel (New York ; Boson : Thomas Y. Crowell, 1892) | have-ocr | IA `pleaforgospel0000herr` |
+| The call of the cross; four college sermons (New York, Fleming H. Revell company, 1892) | have-ocr | IA `callofcrossfourc00herr` |
+| The new redemption. A call to the church to reconstruct society according to the gospel of Christ (New York, T.Y. Crowell, 1893) | have-ocr | IA `newredemptioncal0000herr` |
+| The Christian society (Chicago ; New York : Fleming H. Revell, 1894) | have-ocr | IA `christiansociety0000herr` |
+| The Christian state; a political vision of Christ (New York T.Y. Crowell New York Johnson Reprint Corp, 1895) | have-ocr | IA `christianstatepo0000herr` |
+| Social meanings of religious experiences (New York : T.Y. Crowell, c189) | have-ocr | IA `socialmeaningsof00herruoft` |
+| Between Caesar and Jesus (New York : T. Y. Crowell, [c18) | have-ocr | IA `betweencaesarjes00herr` |
+| his political books (American Imperialism, Woodrow Wilson and the World's Peace, The Menace of Peace, Germanism and the American Crusade, The Greater War, The Revival of Italy) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
