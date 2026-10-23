@@ -14885,6 +14885,16 @@ Slugs `nares-*`. Built from title pages read for round 87.
 | Discourses on the three creeds : and on the homage offered to our saviour, on certain and particular occasions during his ministry, as expressed in the evangelical writings, by the Greek term BROSKYNEŌ (London : Printed for Baldwin, Cradock and Joy, 1819) | have-ocr | IA `discoursesonthre00nare` |
 | Man, as known to us theologically and geologically (London, Printed for J. G. & F. Rivington, 1834) | have-ocr | IA `manasknowntousth00nare` |
 | his novels (Thinks-I-to-Myself, I Says Says I), Heraldic Anomalies, the Memoirs of Lord Burghley, and his edition of Tytler's Elements of General History | excluded | |
+
+## William Derham (round 87, my pick, 2026-10-23)
+
+Slugs `derham-*`. Built from title pages read for round 87.
+
+| Work | Status | Where |
+|---|---|---|
+| Physico-theology : or, a demonstration of the being and attributes of God, from his works of creation : being the substance of sixteen sermons preached in St. Mary-le-Bow-Church, London, at the honourable Mr. Boyle's lectures in the years 1711, and 1712 (London : Printed for W. and J. Innys, 1720) | have-ocr | IA `physicotheologyo00derh` |
+| Astro-theology : or a demonstration of the being and attributes of God, from a survey of the heavens (London : Printed for W. and J. Innys, 1721) | have-ocr | IA `astrotheologyord00derh` |
+| The Artificial Clock-maker, his Philosophical Transactions papers, and his editions of John Ray and Robert Hooke | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
