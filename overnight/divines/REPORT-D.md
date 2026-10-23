@@ -2396,3 +2396,6 @@
 
 ## 2026-10-22 23:06 CDT — richard-dehan: done
 - richard-dehan: new shelf, 7 Gutenberg books, 24,370 units, 1591 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:06 CDT — ernest-bramah: done
+- ernest-bramah: new shelf, 7 Gutenberg books, 9,969 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.

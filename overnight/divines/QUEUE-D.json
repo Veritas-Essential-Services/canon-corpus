@@ -5573,6 +5573,14 @@
       "started": "2026-10-22T23:06:35-05:00",
       "finished": "2026-10-22T23:06:35-05:00",
       "notes": "richard-dehan: new shelf, 7 Gutenberg books, 24,370 units, 1591 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ernest-bramah",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Ernest Bramah; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:36-05:00",
+      "finished": "2026-10-22T23:06:36-05:00",
+      "notes": "ernest-bramah: new shelf, 7 Gutenberg books, 9,969 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -42760,3 +42760,17 @@ Shelf: `pipeline/richard-dehan_shelf.json` (2026-10-22; added at the coordinator
 | Between two thieves | have | PG 70431, `rdehan-between-two-thieves` (4242 units) |
 | The Man of Iron | have | PG 75200, `rdehan-man-of-iron` (4709 units) |
 | The just steward | have | PG 75518, `rdehan-just-steward` (3808 units) |
+
+## Ernest Bramah
+
+Shelf: `pipeline/ernest-bramah_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Kai Lung tales and Max Carrados detective stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Wallet of Kai Lung | have | PG 1076, `ebramah-wallet-of-kai-lung` (667 units) |
+| The Mirror of Kong Ho | have | PG 1077, `ebramah-mirror-of-kong-ho` (533 units) |
+| Kai Lung's Golden Hours | have | PG 1267, `ebramah-kai-lungs-golden-hours` (1363 units) |
+| Four Max Carrados Detective Stories | have | PG 12932, `ebramah-four-max-carrados-detective-stories` (1071 units) |
+| The Secret of the League: The Story of a Social War | have | PG 34522, `ebramah-secret-of-the-league` (1635 units) |
+| Max Carrados | have | PG 34732, `ebramah-max-carrados` (2129 units) |
+| The eyes of Max Carrados | have | PG 77788, `ebramah-eyes-of-max-carrados` (2571 units) |
