@@ -7687,6 +7687,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:08:32-05:00",
       "notes": "Baptist revivalist; small shelf. 0 uids minted."
+    },
+    {
+      "id": "e-payson-hammond",
+      "status": "done",
+      "scope": "round 67",
+      "added": "2026-10-23T03:08:32-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:08:32-05:00",
+      "notes": "Children's evangelist; hymnbooks left out. 0 uids minted."
     }
   ]
 }

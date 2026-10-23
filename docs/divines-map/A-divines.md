@@ -13102,3 +13102,18 @@ Slugs `abearle-*`. Built from title pages read for round 67.
 | Bringing in sheaves (J.H. Earle, 1870) | have-ocr | IA `bringinginsheave00inearl` |
 | The rest of faith ([n.p.], 1871) | have-ocr | IA `restoffaith00earl` |
 | Revival Hymns (compiled); other Earles | excluded | |
+
+## E. Payson Hammond (round 67, my pick, 2026-10-23)
+
+Slugs `ephammond-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Little ones in the fold (Boston : Henry Hoyt, 1862) | have-ocr | IA `littleonesinfold00hamm` |
+| Jesus the Way; or, The child's guide to Heaven, teaching little children to find Jesus, who says "I am the Way" (London, S.S. Union, 1869) | have-ocr | IA `jesuswayorchilds00hammuoft` |
+| The Better Life, and How to find it for Young Men and Young Women (Boston: Henry Hoyt, 1869) | have-ocr | IA `betterlifehowtof0000edwa` |
+| Sketches of Palestine : descriptive of the visit of the Rev. Edward Payson Hammond, to the Holy Land (London : Morgan & Chase ; New York : T. Nelson, 1869) | have-ocr | IA `sketchesofpalest00hammiala` |
+| Gathered lambs : showing how Jesus the "Good Shepherd" laid down his life for us, and how many little lambs have been gathered into his fold (Cincinnati : Western Tract and Book Society, 1870) | have-ocr | IA `gatheredlambssho00hamm` |
+| The conversion of children (New York : Funk & Wagnalls, 1882) | have-ocr | IA `conversionofchil00hamm` |
+| Early conversion (New York, J. S. Ogilvie publishing company, 1901) | have-ocr | IA `earlyconversion00hamm` |
+| Hymn and tune books he compiled (Hymns of Salvation, New Praises of Jesus, The Song Evangel); The Reaper and the Harvest (P. C. Headley's account of his work); Henry Hammond, on his own shelf | excluded | |
