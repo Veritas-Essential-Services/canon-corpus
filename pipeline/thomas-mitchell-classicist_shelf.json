@@ -1,0 +1,33 @@
+{
+ "_about": "Thomas Mitchell (1783-1845), late Fellow of Sidney Sussex College, Cambridge, translator of Aristophanes, raw IA OCR of his school edition The Acharnenses of Aristophanes, with notes critical and explanatory (London: John Murray, 1835); Greek text with English notes, kept per Adam's 2026-10-23 ruling. Not taken: his Knights (1836), whose only scan OCRs the English as Greek letters. Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Thomas Mitchell (1783-1845)",
+ "_name_words": [
+  "mitchell"
+ ],
+ "_surname": [
+  "t. mitchell",
+  "thomas mitchell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thomas-mitchell-acharnenses-1835": [
+   "acharnensesaris00mitcgoog",
+   "The Acharnenses of Aristophanes, with notes critical and explanatory, adapted to the use of schools and universities, by T. Mitchell (London: John Murray, 1835); Greek text with English notes"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thomas-mitchell-acharnenses-1835": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. mitchell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
