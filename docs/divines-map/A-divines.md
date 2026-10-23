@@ -13315,3 +13315,23 @@ Slugs `luckock-*`. Built from title pages read for round 69.
 | Footprints of the Apostles, as traced by Saint Luke in the Acts : being sixty portions for private study and instruction in church, vol. 2 (London : Longmans, Green, 1897) | have-ocr | IA `footprintsofapos02luck` |
 | The special characteristics of the four Gospels (London, New York and Bombay, Longmans, Green, and Co., 1900) | have-ocr | IA `specialcharacter0000luck` |
 | Eucharistic sacrifice and intercession for the departed, both consistent with the teaching of the Book of common prayer : a course of addresses (London : Skeffington & Son, 1907) | have-ocr | IA `eucharisticsacri0000luck` |
+
+## Walter F. Adeney (round 70, my pick, 2026-10-23)
+
+Slugs `adeney-*`. Built from title pages read for round 70.
+
+| Work | Status | Where |
+|---|---|---|
+| The Hebrew utopia : a study of messianic prophecy (London : Hodder and Stoughton, 1879) | have-ocr | IA `hebrewutopiaast00adengoog` |
+| Ezra, Nehemiah, and Esther, The Expositor's Bible (New York: A. C. Armstrong, 1893) | have-ocr | IA `ezranehemiahesth15aden` |
+| The Theology of the New Testament (New York, 1894) | have-ocr | IA `theologyofnt00aden` |
+| The Song of Solomon and the Lamentations of Jeremiah (London : Hodder and Stoughton, 1895) | have-ocr | IA `thesongofsolomon00adenuoft` |
+| How to read the Bible (catalogued 1897) | have-ocr | IA `howtoreadbible00aden` |
+| The construction of the Bible (New York, T. Whittaker, 1898) | have-ocr | IA `constructionofbi00aden` |
+| Women of the New Testament (London : Service & Paton, 1899) | have-ocr | IA `womenofnewtestam00aden` |
+| A Biblical Introduction, with W. H. Bennett (New York: T. Whittaker, 1899) | have-ocr | IA `biblicalintroduc00bennuoft` |
+| St. Luke, The Century Bible (New York: H. Frowde, catalogued 1906) | have-ocr | IA `stlukeintroducti42aden` |
+| Thessalonians and Galatians, The Century Bible (New York: H. Frowde, catalogued 1906) | have-ocr | IA `thessaloniansgal52aden` |
+| The New Testament story retold for young people (New York, London, The Macmillan Company, 1906) | have-ocr | IA `newtestamentstor00adenrich` |
+| The Greek and Eastern churches (Edinburgh : T. & T. Clark, 1908) | have-ocr | IA `greekandeastern00adenuoft` |
+| Jeremiah in the Pulpit Commentary (many hands); The Bible Story Re-told (1898, with W. H. Bennett's Old Testament part; his New Testament part is shelved as its own volume); journal articles | excluded | |
