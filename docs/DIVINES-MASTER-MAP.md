@@ -17296,6 +17296,36 @@ Slugs `braman-*`. Built from title pages read for round 112.
 | A discourse delivered before His Excellency George N. Briggs, governor, His Honor John Reed, lieutenant governor, the honorable Council, and the legislature of Massachusetts, on the annual election, January 1, 1845 (Boston : Dutton and Wentworth, 1845) | have-ocr | IA `discoursedeliver00bramiala` |
 | The Mexican war. A discourse delivered on the annual fast, 1847 (Danvers [Mass.] Printed at the Courier office, 1847) | have-ocr | IA `mexicanwardiscou00bramrich` |
 | mexicanwardiscou00bram_0 (another scan of the Mexican War discourse) | excluded | |
+
+## Beverly Carradine (round 113, my pick, 2026-10-23)
+
+Slugs `carradine-*`. Built from title pages read for round 113.
+
+| Work | Status | Where |
+|---|---|---|
+| Sanctification (Nashville, Tenn., Publishing house of the M. E. church, South, Barbee & Smith, agents, 1891) | have-ocr | IA `sanctification00carr` |
+| Church entertainments: twenty objections (catalogued 1891) | have-ocr | IA `churchentertainm00carr` |
+| A journey to Palestine (Syracuse, N.Y., A.W. Hall, 1892) | have-ocr | IA `ajourneytopales00carrgoog` |
+| The second blessing in symbol (Louisville Pickett Publishing Co., 1896) | have-ocr | IA `secondblessingin00carr` |
+| Pastoral sketches (Louisville, Ky. : Kentucky Methodist Pub. Co., 1896) | have-ocr | IA `pastoralsketches0000carr` |
+| The old man (Christian Witness Co., 1896) | have-ocr | IA `oldman00carr` |
+| The better way (Cincinnati, Ohio : M.W. Knapp, 1896) | have-ocr | IA `betterway00carr` |
+| Sanctified life (Cincinnati, Office of the Revivalist, 1897) | have-ocr | IA `sanctifiedlife00carr` |
+| Revival sermons (St. Louis, Mo., W.B. Palmore, 1898) | have-ocr | IA `revivalsermons00carr` |
+| Heart talks (Cincinnati, M. W. Knapp, 1899) | have-ocr | IA `hearttalks00carr` |
+| Pen pictures (Chicago, Ill. : The Christian witness co., 1900) | have-ocr | IA `penpictures00carr` |
+| Soul help (The Christian Witness Co., 1900) | have-ocr | IA `soulhelp00carr` |
+| Golden sheaves (Joshua Gill, Pub., 1901) | have-ocr | IA `goldensheaves00carr` |
+| Remarkable occurrences, vol. c.1 (Chicago : Christian Witness Co., 1902) | have-ocr | IA `remarkableoccurr01carr` |
+| Gideon (Philadelphia, Pa. : Pepper pub. co., 1902) | have-ocr | IA `gideon00carr` |
+| Beulah land (Christian Witness co., 1904) | have-ocr | IA `beulahland00carr` |
+| A church yard story (Chicago, Ill. : M. A. Donohue, c190) | have-ocr | IA `churchyardstory00carriala` |
+| Living illustrations (Chicago, The Christian Witness Co, 1908) | have-ocr | IA `livingillustrati00carr` |
+| A box of treasure (Chicago and Boston : The Christian witness co., 1910) | have-ocr | IA `boxoftreasure00carr` |
+| Yazoo stories (Chicago and Boston : The Christian witness co., [c19) | have-ocr | IA `yazoostories00carriala` |
+| Graphic scenes (Cincinnati, Ohio, God's revivalist office, 1911) | have-ocr | IA `graphicscenes00carr` |
+| lotterylouisiana0000carr (a 1997 reprint) | excluded | |
+| bestofallcomplet00carr: Best of All is a songbook of hymns by many hands | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
