@@ -1,5 +1,5 @@
 {
- "_about": "E. F. Bojesen (1803-1864), Danish classicist: A Manual of Grecian and Roman Antiquities, translated from the German version, ed. T. K. Arnold (1848). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_about": "E. F. Bojesen (1803-1864), Danish classicist: A Manual of Grecian and Roman Antiquities, translated from the German version, ed. T. K. Arnold (1848). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.  Round dz adds the 1855 Handbook of Grecian Antiquities (Paul's translation, Arnold's edition).",
  "_author": "Ernst Frederik Bojesen (1803-1864)",
  "_name_words": [
   "bojesen",
@@ -17,6 +17,11 @@
   "bojesen-manual-antiquities-1848": [
    "amanualgreciana01bojegoog",
    "A Manual of Grecian and Roman Antiquities, translated from the German (1848)"
+  ],
+  "e-f-bojesen-handbook-of-grecian-antiquities-1855": [
+   "handbookofgrecia00bojeuoft",
+   "A Handbook of Grecian Antiquities, by Dr. E. F. Bojesen, translated from the German version of Dr. Hoffa by the Rev. R. B. Paul and edited by the Rev. Thomas Kerchever Arnold (London: Rivingtons, 1855)",
+   "tr. R. B. Paul"
   ]
  },
  "_excluded": {},
@@ -31,6 +36,22 @@
    "ia_date": "1861",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "e-f-bojesen-handbook-of-grecian-antiquities-1855": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bojesen",
+   "translator_claimed": "R. B. Paul",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
+ },
+ "_translators": {
+  "e-f-bojesen-handbook-of-grecian-antiquities-1855": "R. B. Paul"
  }
 }
