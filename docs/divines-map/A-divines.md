@@ -10653,3 +10653,12 @@ Slugs `nicholls-*`. Built from title pages read for round 45.
 | A Conference with a Theist : containing an answer to all the most usual objections of the infidels against the Christian religion, vol. 2 (London : Printed for J. Holland, and J. Bowyer [etc.], 1723) | have-ocr | IA `conferencewithth02nich` |
 | A Comment on the Book of Common-Prayer, and Administration of the Sacraments (London, catalogued 1710) | have-ocr | IA `bim_eighteenth-century_a-comment-on-the-book-of_nicholls-william_1710` |
 | Defensio Ecclesiae Anglicanae (1708, Latin) | excluded | |
+
+## George Smalridge (round 45, my pick, 2026-10-22)
+
+Slugs `smalridge-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| Sixty Sermons: Preached On Several Occasions (Mary Smalridge, 1724) | have-ocr | IA `sixtysermonsprea0000geor` |
+| Twelve Sermons (1717); the ECCO copy of Sixty Sermons | alternate | not shelved |
