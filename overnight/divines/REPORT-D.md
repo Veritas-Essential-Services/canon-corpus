@@ -2015,3 +2015,6 @@
 
 ## 2026-10-22 22:39 CDT — archibald-marshall: done
 - archibald-marshall: new shelf, 11 Gutenberg books, 16,638 units, 40 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:39 CDT — annette-lyster: done
+- annette-lyster: new shelf, 11 Gutenberg books, 10,447 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags.

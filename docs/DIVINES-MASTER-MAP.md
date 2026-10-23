@@ -40536,3 +40536,21 @@ Shelf: `pipeline/archibald-marshall_shelf.json` (2026-10-22; added at the coordi
 | A Spring Walk in Provence | have | PG 46035, `amarshall-spring-walk-in-provence` (1291 units) |
 | Sir Harry: A Love Story | have | PG 54673, `amarshall-sir-harry` (1462 units) |
 | Peggy in Toyland | have | PG 68749, `amarshall-peggy-in-toyland` (1015 units) |
+
+## Annette Lyster
+
+Shelf: `pipeline/annette-lyster_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Heedless Hetty | have | PG 71484, `alyster-heedless-hetty` (711 units) |
+| Ralph Trulock's Christmas Roses | have | PG 71699, `alyster-ralph-trulocks-christmas-roses` (786 units) |
+| Janet's boys | have | PG 72020, `alyster-janets-boys` (862 units) |
+| The boy who never lost a chance | have | PG 73812, `alyster-boy-who-never-lost-a-chance` (471 units) |
+| Clarice Egerton's life story | have | PG 74427, `alyster-clarice-egertons-life-story` (1032 units) |
+| Footprints | have | PG 76173, `alyster-footprints` (377 units) |
+| Mother's golden guineas | have | PG 76620, `alyster-mothers-golden-guineas` (776 units) |
+| Fan's silken string | have | PG 77248, `alyster-fans-silken-string` (817 units) |
+| My Honourbright | have | PG 79109, `alyster-my-honourbright` (1563 units) |
+| Mrs. Rule's foundlings | have | PG 79549, `alyster-mrs-rules-foundlings` (1261 units) |
+| Twilight | have | PG 79755, `alyster-twilight` (1791 units) |

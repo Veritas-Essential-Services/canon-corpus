@@ -1,0 +1,161 @@
+{
+ "_about": "Annette Lyster's writing at Gutenberg: stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Annette Lyster",
+ "_name_words": [
+  "lyster"
+ ],
+ "_surname": [
+  "lyster"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "alyster-heedless-hetty": [
+   71484,
+   "Heedless Hetty"
+  ],
+  "alyster-ralph-trulocks-christmas-roses": [
+   71699,
+   "Ralph Trulock's Christmas Roses"
+  ],
+  "alyster-janets-boys": [
+   72020,
+   "Janet's boys"
+  ],
+  "alyster-boy-who-never-lost-a-chance": [
+   73812,
+   "The boy who never lost a chance"
+  ],
+  "alyster-clarice-egertons-life-story": [
+   74427,
+   "Clarice Egerton's life story"
+  ],
+  "alyster-footprints": [
+   76173,
+   "Footprints"
+  ],
+  "alyster-mothers-golden-guineas": [
+   76620,
+   "Mother's golden guineas"
+  ],
+  "alyster-fans-silken-string": [
+   77248,
+   "Fan's silken string"
+  ],
+  "alyster-my-honourbright": [
+   79109,
+   "My Honourbright"
+  ],
+  "alyster-mrs-rules-foundlings": [
+   79549,
+   "Mrs. Rule's foundlings"
+  ],
+  "alyster-twilight": [
+   79755,
+   "Twilight"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "alyster-heedless-hetty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-ralph-trulocks-christmas-roses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-janets-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-boy-who-never-lost-a-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-clarice-egertons-life-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-footprints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-mothers-golden-guineas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-fans-silken-string": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-my-honourbright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-mrs-rules-foundlings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alyster-twilight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lyster",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

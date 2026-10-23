@@ -4597,6 +4597,14 @@
       "started": "2026-10-22T22:39:53-05:00",
       "finished": "2026-10-22T22:39:53-05:00",
       "notes": "archibald-marshall: new shelf, 11 Gutenberg books, 16,638 units, 40 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "annette-lyster",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Annette Lyster; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:39:55-05:00",
+      "finished": "2026-10-22T22:39:55-05:00",
+      "notes": "annette-lyster: new shelf, 11 Gutenberg books, 10,447 units, 28 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
