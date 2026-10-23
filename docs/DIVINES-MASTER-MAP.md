@@ -9785,6 +9785,318 @@ Slugs `frank-*`. Built from title pages read for round 40.
 | Sermons, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849) | have-ocr | IA `sermons02fran` |
 | sermons0000fran, sermons0002fran (other scans of the same edition); the 1672 LI Sermons (EEBO) | alternate | not shelved |
 | Other Franks | excluded | |
+
+## Peter Heylyn (round 40, my pick, 2026-10-22)
+
+Slugs `heylyn-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Ecclesia restaurata; or, The history of the Reformation of the Church of England, vol. 1 (Cambridge: Ecclesiastical History Society, 1849) | have-ocr | IA `ecclesiarestaura01heyl` |
+| Ecclesia restaurata; or, The history of the Reformation of the Church of England, vol. 2 (Cambridge: Ecclesiastical History Society, 1849) | have-ocr | IA `ecclesiarestaura02heyl` |
+| Cyprianus anglicus:, or, The history of the life and death, of the most reverend and renowned prelate William by divine providence, Lord Archbishop of Canterbury, Primate of all England, and Metropolitan, chancellor of the Universities of Oxon. and Dublin, and one of the Lords of the Privy Council to His late Most Sacred Majesty King Charles the First, second Monarch of Great Britain : Containing also the ecclesiastical history of the three kingdoms of England, Scotland, and Ireland from his first rising till his death (London : Printed by J[ohn]. M[acock]. for A. Seile, and are to be sold by George Sawbridge, J. Martyn, T. Williams, J. Place, E. Brewster, J. Starkey, T. Basset, R. Horne, H. Brome, J. Wright, R. Chiswell, R. Boulter, B. Took., 1671) | have-ocr | IA `cyprianusanglicu00heyl` |
+| Aerius redivivus; or, The history of the Presbyterians : containing the beginnings, progress and successes of that active sect, their oppositions to monarchical and episcopal government, their innovations in the church and their imbroylments of the kingdoms and estates of Christendom in the pursuit of their designes : from the year 1536 to the year 1647 (Oxford : Printed for John Crosley [etc.], 1670) | have-ocr | IA `aeriusredivivuso00heyl_0` |
+| Ecclesia vindicata, or, the Church of England justified : I. In the way and manner of her Reformation. II. In officiating by a publick liturgie. III. In prescribing a set form of prayer to be used by preachers before their sermons. IV. In her right and patrimony of tithes. V. In retaining the episcopal government. And therewith, VI. The canonical ordination of priests and deacons (London : Printed by E. Cotes [and Richard Hodgkinson] for Henry Seile over against St. Dunstans Church in Fleetstreet, 1657) | have-ocr | IA `ecclesiavindicat00heyl` |
+| Antidotvm Lincolniense, or, An answer to a book entitvled, The holy table, name, & thing, etc. Said to be written long agoe by a Minister in Lincolnshire, and printed for the Diocese of Lincolne, [Anno] 1637 (London : Printed for John Clark ..., 1637) | have-ocr | IA `antidotvmlincoln00heyluoft` |
+| The history of the sabbath.  1636 (England : Printed [by E. Purslowe, Thomas Harper, and Thomas Cotes] for Henry Seile, and are to bee sold at the signe of the Tygers-head in Saint Pauls Church-yard, 1636) | have-ocr | IA `bim_early-english-books-1475-1640_the-history-of-the-sabba_heylyn-peter_1636` |
+| Theologia veterum, or the summe. ...  1654 (catalogued 1654) | have-ocr | IA `bim_early-english-books-1641-1700_theologia-veterum-or-th_heylyn-peter_1654` |
+| The stumbling-block of disobedience and rebellion, cunningly laid by Calvin in the subjects way, discovered, censured, and removed (London : Printed by E. Cotes for H. Seile over St. Dunstans Church in Fleet Street, 1658) | have-ocr | IA `stumblingblockof00heyluoft` |
+| The historical and miscellaneous tracts ...  1681 (catalogued 1681) | have-ocr | IA `bim_early-english-books-1641-1700_the-historical-and-misce_heylyn-peter_1681` |
+| Memorial of Bishop Waynflete : founder of St. Mary Magdalen College, Oxford (London : Caxton Society, 1851) | have-ocr | IA `memorialofbishop00heyluoft` |
+| A Coale from the Altar (1636), printed as by 'a judicious and learned divine'; the attribution to Heylyn is the catalogue's, not the title page's | pending | not shelved |
+| Other printings of each work (1660-1674 Ecclesia Restaurata, 1668 and 1719 Cyprianus, 1672 Aerius, 1673 Theologia Veterum; the Google and Cambridge 1849 sets) | alternate | not shelved |
+| His geographies (Microcosmus 1621-1639, Cosmographie 1652-1703), A Help to English History, the Survey of France, the History of St George, Augustus, and his Civil War newsletters: secular works, outside lane A's theology scope; and sermons by John Heylyn (1685-1759), a different man | excluded | |
+
+## Simon Patrick (round 40, my pick, 2026-10-22)
+
+Slugs `patrick-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Works : including his autobiography, vol. 1 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks01patruoft` |
+| Works : including his autobiography, vol. 2 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks02patruoft` |
+| Works : including his autobiography, vol. 3 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks03patruoft` |
+| Works : including his autobiography, vol. 4 (Oxford: University Press, 1858) | have-ocr | IA `worksincludinghi04patruoft` |
+| Works : including his autobiography, vol. 5 (Oxford: University Press, 1858) | have-ocr | IA `worksincludinghi05patruoft` |
+| Works : including his autobiography, vol. 6 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks06patruoft` |
+| Works : including his autobiography, vol. 7 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks07patruoft` |
+| Works : including his autobiography, vol. 8 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks08patruoft` |
+| Works : including his autobiography, vol. 9 (Oxford: University Press, 1858) | have-ocr | IA `patricksworks09patruoft` |
+| A paraphrase upon the books of Ecclesiastes, and the Song of Solomon, with arguments to each chapter, and annotations thereupon (London, Printed for Rich. Royston, 1685) | have-ocr | IA `aparaphraseupon00patruoft` |
+| A commentary upon the first book of Moses called Genesis (London, Ri. Chiswell, 1704) | have-ocr | IA `acommentaryupont00patruoft` |
+| A commentary upon the second book of Moses, called Exodus (London : Printed for Ri. Chiswell, 1704) | have-ocr | IA `uponse00patr` |
+| A commentary upon the third book of Moses, called Leviticus (London, Ri. Chiswell, 1704) | have-ocr | IA `mosesthirdbook00patruoft` |
+| A commentary upon the fourth Book of Moses, called Numbers (London : Printed for Ri Chiswell, 1699) | have-ocr | IA `cfo00patr` |
+| A commentary upon the fifth book of Moses, called Deuteronomy (London, Ri. Chiswell, 1704) | have-ocr | IA `commentaryuponfi03patruoft` |
+| A commentary upon the Books of Joshua, Judges and Ruth (London : Printed for Ri. Chiswell, 1702) | have-ocr | IA `comnbo00patr` |
+| A commentary upon the two books of Samuel (London : Printed for Ri. Chiswell, 1703) | have-ocr | IA `commentaryupontw00patriala` |
+| A commentary upon the two Books of Kings (London : Printed for Ri. Chiswell, 1705) | have-ocr | IA `towbooksking00patruoft` |
+| Other scans of the 1858 Works (Princeton, Illinois, Google) and of the commentaries (1695-1705 printings); the 1822 and 1845 Patrick-Lowth-Arnald-Whitby Critical Commentary, a joint work in which his part is the Old Testament historical books; separate 19th-century reprints of the Heart's Ease, Discourse concerning Prayer, Treatise of Repentance and Advice to a Friend, all contained in the Works | alternate | not shelved |
+| John Smith's Select Discourses (1660, 1859), which Patrick edited and preached the funeral sermon for; on john-smith-platonist | excluded | |
+
+## Anthony Sparrow (round 40, my pick, 2026-10-22)
+
+Slugs `sparrow-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A rationale upon the Book of common prayer of the Church of England (Oxford : John Henry Parker, 1839) | have-ocr | IA `a678495700sparuoft` |
+| A Collection of Articles, Injunctions, Canons, Orders, Ordinances, and (Printed for Blanch Pawlet ..., 1684) | have-ocr | IA `acollectionarti00spargoog` |
+| A sermon concerning confession of sinnes, ...  1637 (catalogued 1637) | have-ocr | IA `bim_early-english-books-1475-1640_a-sermon-concerning-conf_sparrow-anthony_1637_0` |
+| Other printings of the Rationale (1655-1722, 1840, 1843) and the Collection (1661, 1671, 1675) | alternate | not shelved |
+
+## William Sancroft (round 40, my pick, 2026-10-22)
+
+Slugs `sancroft-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Occasional sermons...  1694 (catalogued 1694) | have-ocr | IA `bim_early-english-books-1641-1700_occasional-sermons_sancroft-william_1694` |
+| Lex ignea: or the school of righteousness.  ...  1666 (catalogued 1666) | have-ocr | IA `bim_early-english-books-1641-1700_lex-ignea-or-the-school_sancroft-william-abp_1666` |
+| A sermon preach'd to the House of Peers, Novemb. 13th 1678. Being the fast=day Appointed by the King, to Implore the mercies of Almighty God in the Protection of His Majesties Sacred Person, and His Kingdoms ([London] In the Savoy, Printed by Tho. Newcomb, for Robert Beaumont, 1678) | have-ocr | IA `sermonpreachdtoh00sanc` |
+| Familiar letters of Dr. William Sancroft, late Lord Archbishop of Canterbury, to Mr. North, afterwards Sir Henry North of Mildenhall, Bart. ... To which is prefixed, some...  1757 (catalogued 1757) | have-ocr | IA `bim_eighteenth-century_familiar-letters-of-dr-_sancroft-william-archb_1757` |
+| Modern Policies (1652, many printings), published anonymously; the attribution is the catalogue's | pending | not shelved |
+| The 1703 Sermons; other copies of each | alternate | not shelved |
+| D'Oyly's Life of Sancroft (1821) and the Proceedings and Tryal of the Seven Bishops: works by others; Bishop Overall's Convocation Book (1690), which Sancroft published but did not write; one-page proclamations and articles | excluded | |
+
+## George Hickes (round 40, my pick, 2026-10-22)
+
+Slugs `hickes-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 1 (Oxford : J.H. Parker, 1847) | have-ocr | IA `twotreatisesonch01hick` |
+| Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 2 (Oxford : J.H. Parker, 1847) | have-ocr | IA `twotreatisesonch02hick` |
+| Two treatises on the Christian priesthood and on the dignity of the episcopal order : with a prefatory discourse in answer to a book entitled The rights of the Christian Church, &c., and an appendix, vol. 3 (Oxford : J.H. Parker, 1847) | have-ocr | IA `twotreatisesonch03hick` |
+| Jovian. Or, an answer to Julian the apostate.  1683 (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_jovian-or-an-answer-to_hickes-george_1683` |
+| The spirit of Enthusiasm exorcised: In a sermon with two discourses ... the first "the history of Montanisme" by Dr. Lee ... the other "the new pretenders" ... by N. Spinckes (catalogued 1709) | have-ocr | IA `10774209bsb` |
+| A collection of controversial discourses by G. Hickes and a popish priest (catalogued 1727) | have-ocr | IA `acollectioncont00hickgoog` |
+| The case of infant baptism in five questions (London : Printed for Tho. Basset [etc.], 1683) [caseofinfantbapt00hick]: title page (OCR) names no author; the attribution is the catalogue's | pending | not shelved |
+| An apologetical vindication of the church of England: ...  1687 (catalogued 1687) [bim_early-english-books-1641-1700_an-apologetical-vindicat_hickes-george_1687]: title page (OCR) names no author; the attribution is the catalogue's | pending | not shelved |
+| Some Discourses Upon Dr. Burnet and Dr. Tillotson: Occasioned by the Late Funeral Sermon of the (catalogued 1695) [somediscoursesu00hickgoog]: title page (OCR) names no author ('Printed in the Year MDCXCV'); the attribution is the catalogue's | pending | not shelved |
+| Other scans of the 1847 Two Treatises (Toronto, Google) and the 1707 and 1711 printings; other copies of each early work | alternate | not shelved |
+| The Thesaurus of the northern languages (1703-1705, Latin philology); Devotions in the Ancient Way of Offices (1846), John Austin's book as Hickes reformed it; Fenelon's Instructions for the Education of a Daughter and the Gentleman Instructed, which he translated or prefaced | excluded | |
+
+## Charles Leslie (round 40, my pick, 2026-10-22)
+
+Slugs `leslie-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of the Reverend Mr. Charles Leslie, in two volumes, vol. 1 (London: W. Bowyer, 1721) | have-ocr | IA `bim_eighteenth-century_the-theological-works-of_leslie-charles_1721_1` |
+| The theological works of the Reverend Mr. Charles Leslie, in two volumes, vol. 2 (London: W. Bowyer, 1721) | have-ocr | IA `bim_eighteenth-century_the-theological-works-of_leslie-charles_1721_2` |
+| The Oxford 1832 Theological Works in seven volumes (only vols. 1, 2, 3 and 7 are on the Archive, so the complete 1721 folio is shelved instead); separate printings of the Short and Easy Method with the Deists (1698-1841), the Snake in the Grass (1696-1698), the Case of the Regale (1700, 1838), Five Discourses (1700) | alternate | not shelved |
+| His Jacobite political journalism (The Rehearsal) and works by other Charles Leslies | excluded | |
+
+## John Kettlewell (round 40, my pick, 2026-10-22)
+
+Slugs `kettlewell-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| [Works] A compleat collection of the Works of the Reverend and learned John Kettlewell, ... In two volumes. The several treatises printed from copies revis'd and improv'd by the author, a little before his death. ... To which is prefix'd, the life of the author. ... With an appendix of several original papers.  1719: Vol 1, vol. 1 (catalogued 1719) | have-ocr | IA `bim_eighteenth-century_works-a-compleat-colle_kettlewell-john_1719_1` |
+| [Works] A compleat collection of the Works of the Reverend and learned John Kettlewell, ... In two volumes. The several treatises printed from copies revis'd and improv'd by the author, a little before his death. ... To which is prefix'd, the life of the author. ... With an appendix of several original papers.  1719: Vol 2, vol. 2 (catalogued 1719) | have-ocr | IA `bim_eighteenth-century_works-a-compleat-colle_kettlewell-john_1719_2` |
+| The measures of Christian obedience : or, A discourse shewing what obedience is indispensably necessary to a regenerate state, and what defects are consistent with it; for the promotion of piety, and the peace of troubled consciences (London : Printed by J. Macock, for Robert Kettlewell, 1681) | have-ocr | IA `measuresofchrist00ket` |
+| Separate printings, 1683-1737, of the Help and Exhortation to Worthy Communicating, the Practical Believer, Christian Prudence, Christian Communion, Death Made Comfortable, the Companion for the Penitent and Five Discourses, all in the Works | alternate | not shelved |
+| Books by Samuel Kettlewell (Thomas a Kempis and the Brothers of Common Life, 1882; the authorship of the De Imitatione, 1877; Three Venerable Ladies, 1874) and other later Kettlewells | excluded | |
+
+## Henry Dodwell (round 40, my pick, 2026-10-22)
+
+Slugs `dodwell-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Two short discourses ...  1676 (catalogued 1676) | have-ocr | IA `bim_early-english-books-1641-1700_two-short-discourses-_dodwell-henry_1676` |
+| Separation of churches...  1679 (catalogued 1679) | have-ocr | IA `bim_early-english-books-1641-1700_separation-of-churches_dodwell-henry_1679` |
+| A discourse concerning the one altar... against schism.  1683 (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_a-discourse-concerning-t_dodwell-henry_1683` |
+| Two letters of advice, ...  1691 (catalogued 1691) | have-ocr | IA `bim_early-english-books-1641-1700_two-letters-of-advice-_dodwell-henry_1691_0` |
+| A Treatise concerning the lawfulness of instrumental musick in holy offices (London : Printed for William Hawes, 1700) | have-ocr | IA `treatiseconcerni00dodw` |
+| An admonitory discourse concerning the late English schism, address'd to those of the reformed, as well as roman religion abroad: wherein the ancient rights of bishops, and their independency of the secular magistrate, are asserted and recommended. By Henry Dodwell, A.M. of Dublin. Written originally in Latin, and now faithfully done into English, [sic].  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_an-admonitory-discourse-_dodwell-henry_1704` |
+| Occasional communion fundamentally destructive of the discipline of the primitive catholick church, and contrary to the doctrine of the latest scriptures, concerning church-communion. By Henry Dodwell, M.A.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_occasional-communion-fun_dodwell-henry_1705` |
+| A case in view consider'd: in a discourse, proving that in case our present invalidly deprived fathers shall leave all their sees vacant, either by death or resignation we shall not then be obliged to keep up our separation from those bishops, who are as yet involved in the guilt of the present unhappy schism. By Henry Dodwell, M.A.  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_a-case-in-view-consider_dodwell-henry_1705` |
+| An epistolary discourse, proving, from the scriptures and the first fathers, that the soul is a principle naturally mortal; ... By Henry Dodwell, A.M.  1706 (catalogued 1706) | have-ocr | IA `bim_eighteenth-century_an-epistolary-discourse-_dodwell-henry_1706` |
+| A discourse concerning the use of incense in divine offices. ... By Henry Dodwell, M.A.  1711 (catalogued 1711) | have-ocr | IA `bim_eighteenth-century_a-discourse-concerning-t_dodwell-henry_1711` |
+| A vindication of the deprived bishops, ...  1692 (catalogued 1692) [bim_early-english-books-1641-1700_a-vindication-of-the-dep_dodwell-henry_1692]: title page read from the (dark) page image: no author named; the attribution is the catalogue's | pending | not shelved |
+| A defence of the vindication of the deprived bishops. ...  1695 (catalogued 1695) [bim_early-english-books-1641-1700_a-defence-of-the-vindica_dodwell-henry_1695]: title page (OCR) says only 'By the Author of the Vindication', which itself names no author | pending | not shelved |
+| Other printings of the Two Letters of Advice (1672, 1680, 1691) and the Epistolary Discourse (1706, 1707); the Preliminary Defence (1707), A Further Prospect of the Case in View (1707), the Case in View now in Fact (1711) | alternate | not shelved |
+| His Latin works (Dissertationes Cyprianicae, Dissertationes in Irenaeum, De Jure Laicorum, Praelectiones, the classical annals and chronology); Christianity not Founded on Argument (1741-1746), by his son Henry Dodwell the younger | excluded | |
+
+## Robert Nelson (round 40, my pick, 2026-10-22)
+
+Slugs `nelson-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A companion for the festivals and fasts of the Church of England (London : SPCK, 1841) | have-ocr | IA `companionforfest00nelsuoft` |
+| The great duty of frequenting the Christian sacrifice : and the nature of the preparation required : with suitable devotions, partly collected from the ancient liturgies, to which are prefixed instructions for confirmation (New-York : Printed and sold by T. & J. Swords, 1811) | have-ocr | IA `greatdutyoffrequ00nels` |
+| The practice of true devotion, in relation to the end, as well as the means of religion; with an office for the Holy Communion (London : Dod, 1764) | have-ocr | IA `practiceoftruede00nelsiala` |
+| The life of Dr. George Bull, late Lord Bishop of St. David's : with the history of those controversies in which he was engaged (London : R. Smith, 1713) | have-ocr | IA `lifeofdrgeorgebu00nelsiala` |
+| An address to persons of quality and estate (London : Printed by G. James, for R. S. and sold by Charles Rivington, at the Bible and Crown in St. Paul's Church-yard, 1715) | have-ocr | IA `b30528343` |
+| Other printings of the Companion (1773-1843) and of each other work | alternate | not shelved |
+| Hobart's American adaptation of the Companion for the Protestant Episcopal Church (1804-1851), shelved with Hobart if anywhere; other Robert Nelsons | excluded | |
+
+## Jeremy Collier (round 40, my pick, 2026-10-22)
+
+Slugs `collier-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 1 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi01coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 2 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi02coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 3 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi03coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 4 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi04coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 5 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi05coll` |
+| An ecclesiastical history of Great Britain, chiefly of England, vol. 6 (London: William Straker, 1840) | have-ocr | IA `anecclesiastica06collgoog` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 7 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi07coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 8 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi08coll` |
+| An ecclesiastical history of Great Britain; chiefly of England, from the first planting of Christianity, to the end of the reign of King Charles the Second; with a brief account of the affairs of religion in Ireland. Collected from the best ancient historians, councils, and records, vol. 9 (London : W. Straker, 1840) | have-ocr | IA `ecclesiasticalhi09coll` |
+| Short view of the immorality and profaneness of the English stage: together with the sense of antiquity upon this argument (London, Printed for S. Keble, and R. Sare, 1699) | have-ocr | IA `shortviewofimmor00coll` |
+| Several Discourses Upon Practical Subjects (Printed by W. Bowyer , for the author, 1725) | have-ocr | IA `severaldiscours00collgoog` |
+| Other scans of the 1840-1841 and 1852 History; the Essays upon Several Moral Subjects (1702-1709) | alternate | not shelved |
+| His translation of Marcus Aurelius (on marcus-aurelius on another branch); the Tertullian Apology; works by other Colliers (Arthur Collier has his own shelf) | excluded | |
+
+## Thomas Brett (round 40, my pick, 2026-10-22)
+
+Slugs `brett-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A collection of the principal liturgies : used in the Christian church in the celebration of the Holy Eucharist (London : Rivington, 1838) | have-ocr | IA `collectionofprin00bret` |
+| An Account of Church Government and Governours, Wherein is Shewed that the Government of the (J. Wyat, 1710) | have-ocr | IA `anaccountchurch00bretgoog` |
+| The independency of the church upon the state, as to its pure spiritual powers : proved from the Holy Scriptures, and the writings of the primitive fathers : with answers to the most material objections (London : Printed for Henry Clements ..., 1717) | have-ocr | IA `independencyofch00bret` |
+| The divine right of episcopacy, and the necessity of an episcopal commission for preaching God's word, and for the valid ministration of the Christian sacraments, proved from the Holy Scriptures, and the doctrine and practice of the primitive church (London, Printed for Henry Clements, at the Half Moon in S. Paul's Church-yard, 1718) | have-ocr | IA `divinerightofepi00bret` |
+| A chronological essay on the sacred history ... being a defence of the computation of the Septuagint (London : F. Gyles, 1729) | have-ocr | IA `chronologicaless00bret` |
+| Other scans of the 1838 Liturgies (Toronto) | alternate | not shelved |
+| Works by later Thomas Bretts (law books 1887-1902) | excluded | |
+
+## John Johnson of Cranbrook (round 40, my pick, 2026-10-22)
+
+Slugs `jjohnson-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of the Rev. John Johnson, vol. 1 (Oxford : John Henry Parker, 1847) | have-ocr | IA `theologicalworks01john` |
+| The theological works of the Rev. John Johnson, vol. 2 (Oxford : John Henry Parker, 1847) | have-ocr | IA `theologicalworks02john` |
+| Other scans of the 1847 Works; Brett's Life of the Late Reverend John Johnson (1748) | alternate | not shelved |
+
+## Thomas Deacon (round 40, my pick, 2026-10-22)
+
+Slugs `deacon-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| An essay to procure Catholic communion upon Catholic principles, reprinted from Deacon's Complete Collection of Devotions, 1734 (Tracts on Catholic Unity; London: James Darling, catalogued 1860) | have-ocr | IA `essaytoprocureca00deac` |
+| A Complete Collection of Devotions (1734) and his catechism: no scan found on the Archive | pending | not shelved |
+
+## Samuel Seabury (round 40, my pick, 2026-10-22)
+
+Slugs `seabury-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on several subjects, vol. 1 (Hudson: William E. Norman, 1815) | have-ocr | IA `discoursesonseve00seab` |
+| Discourses on several subjects, vol. 2 (Hudson: William E. Norman, 1815) | have-ocr | IA `discoursesonseve02seab` |
+| Free Thoughts on the Proceedings of the Continental Congress, A View of the Controversy, and An Alarm to the Legislature (1774-1775), published as by 'A. W. Farmer'; pseudonymous, and political rather than theological | pending | not shelved |
+| The 1798 New York printing of the Discourses (Princeton and John Carter Brown copies) and another 1815 copy | alternate | not shelved |
+| Beardsley's Life and Correspondence of Samuel Seabury (1881), a work by another; the Seabury papers' manuscript sermons; his son Samuel Seabury (1801-1872) | excluded | |
+
+## William White (bishop) (round 40, my pick, 2026-10-22)
+
+Slugs `wwhite-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Catechism of the Protestant Episcopal Church : with supplementary lectures, one on the ministry, the other on the publick service : and dissertations on select subjects in the lectures (Philadelphia : Bradford and Inskeep, at the Office of the United States' Gazette, 1813) | have-ocr | IA `lecturesoncatec00whitgoog` |
+| Comparative views of the controversy between Calvinists and the Arminians, vol. 1 (Philadelphia : M. Thomas from the Press of E. Bronson, 1817) | have-ocr | IA `comparativeviews01whit` |
+| Comparative views of the controversy between Calvinists and the Arminians, vol. 2 (Philadelphia : M. Thomas from the Press of E. Bronson, 1817) | have-ocr | IA `comparativeviews02whit` |
+| Objections against the position of a personal assurance of the pardon of sin by a direct communication of the Holy Spirit : with notes, occasioned by a pamphlet containing remarks on the essay, under the name of "A reply" (Philadelphia : Moses Thomas, 1817) | have-ocr | IA `objectionsagains00whit` |
+| Memoirs of the Protestant Episcopal church in the United States of America : containing, I. A narrative of the organization and of the early measures of the church: II. Additional statements and remarks: III. An appendix of original papers, vol. 1 (Philadelphia : S. Potter & Co., 1820) | have-ocr | IA `memoirsofprotest01whit` |
+| Memoirs of the Protestant Episcopal Church in the United States of America,from its organization up to the present day (New York : Swords, Stanford, and Co., 1836) | have-ocr | IA `memoirsofprotest00whit` |
+| Commentaries suited to occasions of ordination (New York : Stanford and Swords, 1848) | have-ocr | IA `commentariessuit00whituoft` |
+| The Case of the Episcopal Churches in the United States Considered (1782), published anonymously; not found as a scan | pending | not shelved |
+| Other scans of the Memoirs (1820, 1836, the 1880 De Costa edition) and of the Commentaries; Bishop White's Opinions (1846), a compilation from his works by another hand | alternate | not shelved |
+| Four Sermons on Christian Baptism (1791) and Christian Baptism (1808), by a different William White, a Baptist | excluded | |
+
+## John Henry Hobart (round 40, my pick, 2026-10-22)
+
+Slugs `hobart-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| A companion for the altar : consisting of a short explanation of the Lord's supper, and meditations and prayers, proper to be used before, and during, the receiving of the Holy Communion, according to the form presrcibed by the Protestant Episcopal church, in the United States of America (New York : Printed for Peter A. Mesier, 1804) | have-ocr | IA `companionforaltahc00hoba` |
+| A companion for the festivals and fasts of the Protestant Episcopal Church in the United States of America : principally selected and altered from Nelson's companion for the festivals and fasts of the Church of England (New-York : Printed and sold by T. &amp; J. Swords, 1804) | have-ocr | IA `acompanionforfe00hobagoog` |
+| An apology for apostolic order and its advocates : occasioned by the strictures and denunciations of the Christian's Magazine, in a series of letters addressed to the Rev. John M. Mason (New York : T. and J. Swords, 1807) | have-ocr | IA `apologyforaposto00hoba` |
+| Sermons on the principal events and truths of redemption : to which are annexed, an address and dissertation on the state of the departed, and the descent of Christ into hell, vol. 1 (London : Printed for C. and J. Rivington, 1824) | have-ocr | IA `sermonsonprinci00hobagoog` |
+| The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 1 (New York : Swords, Stanford, 1832) | have-ocr | IA `posthumousworkso01hoba` |
+| The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 2 (New York : Swords, Stanford, 1832) | have-ocr | IA `posthumousworkso02hoba` |
+| The posthumous works of the late Right Reverend John Henry Hobart ... : with a memoir of his life, vol. 3 (New York : Swords, Stanford, 1832) | have-ocr | IA `posthumousworkso03hoba` |
+| The Christian's manual of faith and devotion : containing dialogues and prayers suited to the various exercises of the Christian life, and an exhortation to ejaculatory prayer, with forms of ejaculatory and other prayers (New York : Stanford and Swords, 1844) | have-ocr | IA `christiansmanual00hoba` |
+| The State of the departed (New York : Stanford and Swords, 1846) | have-ocr | IA `stateofdeparted00hoba` |
+| The correspondence of John Henry Hobart, vol. 1 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof01hoba` |
+| The correspondence of John Henry Hobart, vol. 2 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof02hoba` |
+| The correspondence of John Henry Hobart, vol. 3 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof03hoba` |
+| The correspondence of John Henry Hobart, vol. 4 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof04hoba` |
+| The correspondence of John Henry Hobart, vol. 5 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof05hoba` |
+| The correspondence of John Henry Hobart, vol. 6 (New York, Priv. print, 1911) | have-ocr | IA `correspondenceof06hoba` |
+| Other printings of the Companion for the Altar (1830-1857), the Festivals and Fasts (1817-1851), the Apology (1844), the Christian's Manual (1849, 1850); the Letter to the Vestry of Trinity Church (1811) and the Reply on Bible societies (1823); other scans of the Posthumous Works and Correspondence | alternate | not shelved |
+| A Collection of the Essays on Episcopacy (1806), which he edited from the Albany Centinel, mostly by others | excluded | |
+| Instruction and Encouragement for Lent (New York, 1859) [instructionencou00hoba]: by the Rev. J. H. Hobart, D.D., the bishop's son John Henry Hobart (1817-1889), who entered the copyright in 1859; not the bishop's | excluded | |
+
+## Alexander Viets Griswold (round 40, my pick, 2026-10-22)
+
+Slugs `griswold-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on the most important doctrines and duties of the Christian religion (Philadelphia, W. Stavely, 1830) | have-ocr | IA `discoursesonmost00gris` |
+| Prayers adapted to various occasions of social worship, for which provision is not made in the Book of common prayer (Philadelphia : W. Marshall & co.; Providence, Marshall, Brown & co., 1836) | have-ocr | IA `prayersadaptedto00grisiala` |
+| The reformation: a brief exposition of some of the errors and corruptions of the church of Rome (Boston, J. B. Dow, 1843) | have-ocr | IA `reformationbrief00gris` |
+| Remarks on social prayer-meetings (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858) | have-ocr | IA `remarksonsocial00grisgoog` |
+| Other scans of each | alternate | not shelved |
+| Works by Alexander V. G. Allen (Continuity of Christian Thought, Life of Phillips Brooks, and others), which the catalogue files under Griswold's name | excluded | |
+
+## Philander Chase (round 40, my pick, 2026-10-22)
+
+Slugs `chase-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Bishop Chase's Reminiscences: an autobiography, vol. 1 (Boston, J. B. Dow; [etc., etc.], 1848) | have-ocr | IA `bishopchasesremi01chas` |
+| Bishop Chase's Reminiscences: an autobiography, vol. 2 (Boston, J. B. Dow; [etc., etc.], 1848) | have-ocr | IA `bishopchasesremi02chas` |
+| The 1844 first edition (two volumes) and other 1848 scans | alternate | not shelved |
+| Books by Philander Chase Johnson and Philander Chase Knox | excluded | |
+
+## Menno Simons (round 40, my pick, 2026-10-22)
+
+Slugs `menno-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The complete works of Menno Simon (Elkhart, IN : J.F. Funk and Brother, 1871) | have-ocr | IA `completeworksofm00menn` |
+| A foundation and plain instruction of the saving doctrine of our Lord Jesus Christ, translated into English by I. Daniel Rupp (Lancaster, Pa.: J. E. Barr, 1869) | have-ocr | IA `foundationplaini00menn` |
+| The 1863 Lancaster printing of Rupp's Foundation; the Dutch originals (Fundament 1613, Opera 1646, Opera omnia theologica 1681) and German printings (1794, 1851, Nutzliche Anweisungen 1916) | alternate | not shelved |
+| Lives of Menno (Horsch 1916, de Leeuw 1860, Cassel's Geschichte der Mennoniten 1890), works by others | excluded | |
+
+## Dirk Philips (round 40, my pick, 2026-10-22)
+
+Slugs `dirk-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Enchiridion, or, Hand book of the Christian doctrine and religion, by Dietrich Philip, translated from the German and compared with the Dutch by A. B. Kolb (Elkhart, Ind.: Mennonite Publishing Co., 1910) | have-ocr | IA `enchiridionorhan00phil` |
+| A second scan of the 1910 Enchiridion | alternate | not shelved |
+
+## Peter Canisius (round 40, my pick, 2026-10-22)
+
+Slugs `canisius-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Certayne necessarie principles of religion, which may be entituled, a catechisme conteyning all the partes of the Christian and Catholique fayth, written in Latin by P. Canisius, and now amplified and Englished by T. I. (Duaci [Douai]: Joannes Bogardus, 1579) | have-ocr | IA `bim_early-english-books-1475-1640_certayne-necessarie-prin_canisius-petrus-saint_1579` |
+| Ane cathechisme or schort instruction of Christian religion, drawen out of the Scriptures and ancient doctours, compyled be the godlie and learned father Peter Canisius, Doctour of Theologie [translated into Scots by Adam King] (Paris: Peter Hury, 1588) | have-ocr | IA `bim_early-english-books-1475-1640_ane-cathechisme-or-short_p-canisius_1588` |
+| A summe of Christian doctrine, composed in Latin by the R. Father Petrus Canisius of the Society of Jesus, with an appendix of the fall of man and justification, translated into English (St. Omer: for John Heigham, 1622) | have-ocr | IA `bim_early-english-books-1475-1640_a-summe-of-christian-doc_canisius-petrus_1622` |
+| The Latin originals: Summa doctrinae christianae (1565-1623 printings), Opus catechisticum (1577-1618), Commentarii de verbi Dei corruptelis (1571, 1584), De Maria virgine (1577), Notae in evangelicas lectiones (1591-1595); German, French (Peltier, 1856-1873), Italian, Czech, Slovene and Greek versions | alternate | not shelved |
+| Works by his nephew Henricus Canisius (canon law, Antiquae lectiones); Canisius College catalogues; the 1865 biographical sketch, by another | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
@@ -19507,7 +19819,7 @@ Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. N
 ## Alexander Teixeira de Mattos (Fabre, Maeterlinck, Couperus, Leblanc, Chateaubriand)
 
 Shelf: `pipeline/teixeira-de-mattos_shelf.json` · fetch `python3 pipeline/fetch_shelf.py teixeira-de-mattos` · titles `python3 pipeline/split_shelf_titles.py teixeira-de-mattos`.
-Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_shelf.json. Round 128 added eleven archive.org books Gutenberg lacks (Maeterlinck x3, Leblanc, Zola, Oudinot, Israëls, Kruger, Grenard, Marius, Castellane). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -19570,6 +19882,17 @@ Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_sh
 | `teixeira-de-mattos-paoli-their-majesties-as-i-knew-them-personal` | Xavier Paoli | Their Majesties as I Knew Them Personal Reminiscences of the Kings and Queens of Europe | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 45786 |
 | `teixeira-de-mattos-streuvels-the-path-of-life` | Stijn Streuvels | The Path of Life | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 8437 |
 | `teixeira-de-mattos-tocqueville-the-recollections-of-alexis-de-tocquevil` | Alexis de Tocqueville | The Recollections of Alexis de Tocqueville | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 37892 |
+| `teixeira-de-mattos-maeterlinck-the-measure-of-the-hours` | Maurice Maeterlinck | The Measure of the Hours | Alexander Teixeira de Mattos | 1907 | have-raw | IA `cu31924052989138` |
+| `teixeira-de-mattos-maeterlinck-the-intelligence-of-the-flowers` | Maurice Maeterlinck | The Intelligence of the Flowers | Alexander Teixeira de Mattos | 1907 | have-raw | IA `intelligenceflo00maetgoog` |
+| `teixeira-de-mattos-maeterlinck-the-light-beyond` | Maurice Maeterlinck | The Light Beyond | Alexander Teixeira de Mattos | 1917 | have-raw | IA `cu31924028951719` |
+| `teixeira-de-mattos-leblanc-maeterlincks-dogs` | Georgette Leblanc | Maeterlinck's Dogs | Alexander Teixeira de Mattos | 1919 | have-raw | IA `maeterlincksdogs00leblrich` |
+| `teixeira-de-mattos-zola-the-heirs-of-rabourdin` | Émile Zola | The Heirs of Rabourdin: A Comedy in Three Acts | Alexander Teixeira de Mattos | 1894 | have-raw | IA `heirsofrabourdin00zolarich` |
+| `teixeira-de-mattos-oudinot-memoirs-of-marshal-oudinot` | Gaston Stiegler (ed.), from the reminiscences of the Duchesse de Reggio | Memoirs of Marshal Oudinot, Duc de Reggio | Alexander Teixeira de Mattos | 1896 | have-raw | IA `memoirsofmarshal00oudiuoft` |
+| `teixeira-de-mattos-israels-spain` | Jozef Israëls | Spain: The Story of a Journey | Alexander Teixeira de Mattos | 1900 | have-raw | IA `spainstoryajour00isragoog` |
+| `teixeira-de-mattos-kruger-the-memoirs-of-paul-kruger` | Paul Kruger (as told to H. C. Bredell and Piet Grobler; ed. A. Schowalter) | The Memoirs of Paul Kruger, Four Times President of the South African Republic | Alexander Teixeira de Mattos | 1902 | have-raw | IA `memoirsofpaulkr00krug` |
+| `teixeira-de-mattos-grenard-tibet` | Fernand Grenard | Tibet: The Country and Its Inhabitants | Alexander Teixeira de Mattos | 1904 | have-raw | IA `in.ernet.dli.2015.208773` |
+| `teixeira-de-mattos-marius-dutch-painting` | G. H. Marius | Dutch Painting in the Nineteenth Century | Alexander Teixeira de Mattos | 1908 | have-raw | IA `dutchpaintinginn00mari` |
+| `teixeira-de-mattos-castellane-men-and-things-of-my-time` | Boni de Castellane | Men and Things of My Time | Alexander Teixeira de Mattos | 1911 | have-raw | IA `menthingsofmytim00castuoft` |
 | — | — | pg-27991: The Blue Bird for Children: Perkins's retelling for schools, not the play. | — | — | excluded | — |
 | — | — | pg-45812: Insect Adventures: Louise Zimm's selection for children from the translation. | — | — | excluded | — |
 | — | — | pg-67000: Fabre's Book of Insects: Mrs Rodolph Stawell's retelling, not the translation itself. | — | — | excluded | — |
@@ -19890,7 +20213,7 @@ Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelv
 ## Arthur G. Chater (Amundsen, Nansen, Brandes, Hamsun)
 
 Shelf: `pipeline/chater_shelf.json` · fetch `python3 pipeline/fetch_shelf.py chater` · titles `python3 pipeline/split_shelf_titles.py chater`.
-Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Round 126 added Undset's The Axe, Heidenstam's The Tree of the Folkungs and Bang's Ida Brandt. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -19901,6 +20224,9 @@ Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Not convert
 | `chater-key-love-and-marriage` | Ellen Key | Love and Marriage | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 57592 |
 | `chater-nansen-in-northern-mists-arctic-exploration-in-vol-1` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 1 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40633 |
 | `chater-nansen-in-northern-mists-arctic-exploration-in-vol-2` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 2 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40634 |
+| `chater-undset-the-axe` | Sigrid Undset | The Axe (The Master of Hestviken I) | Arthur G. Chater | 1928 | have-raw | IA `axetranslatedfro0000unse` |
+| `chater-heidenstam-the-tree-of-the-folkungs` | Verner von Heidenstam | The Tree of the Folkungs | Arthur G. Chater | 1925 | have-raw | IA `treeoffolkungs0000vern` |
+| `chater-bang-ida-brandt` | Herman Bang | Ida Brandt | Arthur G. Chater | 1929 | have-raw | IA `bwb_S0-BGE-232` |
 | — | — | south-pole-volumes: The South Pole's two Gutenberg volume files (3414, 3415) are left out; 4229 holds both volumes. | — | — | excluded | — |
 
 ## Daniel De Leon (Sue's Mysteries of the People; Bebel)
@@ -19990,7 +20316,7 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Isaac Goldberg (Baroja, Blasco Ibáñez, Brazilian Tales, Gourmont, Pinski)
 
 Shelf: `pipeline/isaac-goldberg_shelf.json` · fetch `python3 pipeline/fetch_shelf.py isaac-goldberg` · titles `python3 pipeline/split_shelf_titles.py isaac-goldberg`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 127 added eight archive.org books: Asch, Pinski, the two Yiddish Theatre volumes and Plays of the Italian Theatre. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20003,6 +20329,14 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `isaac-goldberg-ibanez-luna-benamor` | Vicente Blasco Ibáñez | Luna Benamor | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 21870 |
 | `isaac-goldberg-ibanez-the-torrent-entre-naranjos` | Vicente Blasco Ibáñez | The Torrent (Entre Naranjos) | Isaac Goldberg (with Arthur Livingston) | 1917-1927 (see the Gutenberg header) | have | PG 11674 |
 | `isaac-goldberg-pinski-temptations` | David Pinski | Temptations | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 71439 |
+| `isaac-goldberg-asch-the-god-of-vengeance` | Sholom Asch | The God of Vengeance: Drama in Three Acts | Isaac Goldberg | 1918 | have-raw | IA `cu31924026883102` |
+| `isaac-goldberg-asch-uncle-moses` | Sholom Asch | Uncle Moses: A Novel | Isaac Goldberg | 1920 | have-raw | IA `unclemosesnovel00asch` |
+| `isaac-goldberg-six-plays-of-the-yiddish-theatre` | David Pinski, Sholom Asch, Perez Hirschbein and Solomon J. Rabinowitsch (Sholom Aleichem) | Six Plays of the Yiddish Theatre | Isaac Goldberg | 1916 | have-raw | IA `sixplaysofyiddis00golduoft` |
+| `isaac-goldberg-six-plays-of-the-yiddish-theatre-2` | David Pinski, Perez Hirschbein, Z. Levin and Leon Kobrin | Six Plays of the Yiddish Theatre, Second Series | Isaac Goldberg | 1918 | have-raw | IA `six00playsofyiddisgoldrich` |
+| `isaac-goldberg-pinski-three-plays` | David Pinski | Three Plays (Isaac Sheftel, The Last Jew, The Dumb Messiah) | Isaac Goldberg | 1918 | have-raw | IA `threeplays00pins` |
+| `isaac-goldberg-pinski-ten-plays` | David Pinski | Ten Plays | Isaac Goldberg | 1920 | have-raw | IA `tenplays00pinsiala` |
+| `isaac-goldberg-pinski-king-david-and-his-wives` | David Pinski | King David and His Wives | Isaac Goldberg | 1923 | have-raw | IA `kingdavidhiswive0000davi` |
+| `isaac-goldberg-plays-of-the-italian-theatre` | Giovanni Verga, Ercole Luigi Morselli, Sabatino Lopez and Luigi Pirandello | Plays of the Italian Theatre | Isaac Goldberg | 1921 | have-raw | IA `playsofitalianth00gold` |
 
 ## Thomas Roscoe (Lanzi's History of Painting in Italy; Pellico)
 
@@ -20565,7 +20899,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Ludwig Lewisohn (Wassermann, Sudermann)
 
 Shelf: `pipeline/lewisohn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lewisohn` · titles `python3 pipeline/split_shelf_titles.py lewisohn`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Round 127 added Pinski's The Treasure. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20573,6 +20907,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `lewisohn-wassermann-the-goose-man` | Jakob Wassermann | The Goose Man | Ludwig Lewisohn (with Allen Wilson Porterfield) | 1911-1922 (see the Gutenberg header) | have | PG 25345 |
 | `lewisohn-wassermann-the-world-s-illusion-volume-1-of-2-eva` | Jakob Wassermann | The World's Illusion, Volume 1 (of 2): Eva | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 54794 |
 | `lewisohn-wassermann-the-world-s-illusion-volume-2-of-2-ruth` | Jakob Wassermann | The World's Illusion, Volume 2 (of 2): Ruth | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 57847 |
+| `lewisohn-pinski-the-treasure` | David Pinski | The Treasure: A Drama in Four Acts | Ludwig Lewisohn | 1915 | have-raw | IA `treasureadramai00pinsgoog` |
 
 ## Henri Van Laun (Taine's History of English Literature; La Bruyère)
 
@@ -20859,13 +21194,14 @@ Round 29 (2026-10-10), vetoable. Selected Polish Tales is keyed from a 1944 repr
 ## H. T. Lowe-Porter (Mann's Buddenbrooks, 2 vols; Three Essays)
 
 Shelf: `pipeline/lowe-porter_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lowe-porter` · titles `python3 pipeline/split_shelf_titles.py lowe-porter`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 125 (2026-10-23) added The Magic Mountain (Secker, 1928 one-volume reprint). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `lowe-porter-mann-buddenbrooks-vol-1` | Thomas Mann | Buddenbrooks, volume 1 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72961 |
 | `lowe-porter-mann-buddenbrooks-vol-2` | Thomas Mann | Buddenbrooks, volume 2 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72962 |
 | `lowe-porter-mann-three-essays` | Thomas Mann | Three essays | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 76837 |
+| `lowe-porter-mann-the-magic-mountain` | Thomas Mann | The Magic Mountain | H. T. Lowe-Porter | 1927 | have-raw | IA `magicmountain0000thom_x1b4` |
 
 ## Richard Aldington (Benda's Great Betrayal; Cyrano's Voyages; Sologub; Goldoni)
 
@@ -21612,12 +21948,13 @@ Round 32 (2026-10-10), vetoable. Three Plays is keyed from a post-1934 printing:
 ## Herman Scheffauer (Heine's Atta Troll; Mann's Bashan and I)
 
 Shelf: `pipeline/scheffauer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scheffauer` · titles `python3 pipeline/split_shelf_titles.py scheffauer`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 125 (2026-10-23) added Mann's Children and Fools (1928). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `scheffauer-heine-atta-troll` | Heinrich Heine | Atta Troll | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 31305 |
 | `scheffauer-mann-bashan-and-i` | Thomas Mann | Bashan and I | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 61284 |
+| `scheffauer-mann-children-and-fools` | Thomas Mann | Children and Fools | Herman George Scheffauer | 1928 | have-raw | IA `childrenfools0000thom` |
 
 ## Percy Pinkerton (Artsybashev's Sanine, The Millionaire, Tales of the Revolution and War; La Bohème libretto)
 
@@ -21807,7 +22144,7 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Heidenstam's Charles Men I, 1920; Fröding's Selected Poems, 1916)
 
 Shelf: `pipeline/cw-stork_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cw-stork` · titles `python3 pipeline/split_shelf_titles.py cw-stork`.
-Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Round 126 added Heidenstam's The Charles Men II and The Swedes and Their Chieftains. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21815,6 +22152,8 @@ Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. T
 | `cw-stork-stork-modern-swedish-masterpieces-short-storie` | Charles Wharton Stork | Modern Swedish Masterpieces: Short Stories | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 64808 |
 | `cw-stork-heidenstam-charles-men-1` | Verner von Heidenstam | The Charles Men (Karolinerna), Part I | Charles Wharton Stork | 1920 | have-raw | IA `charlesmen01heid` |
 | `cw-stork-froding-selected-poems` | Gustaf Fröding | Selected Poems | Charles Wharton Stork | 1916 | have-raw | IA `selectedpoems00frodiala` |
+| `cw-stork-heidenstam-charles-men-2` | Verner von Heidenstam | The Charles Men (Karolinerna), Part II | Charles Wharton Stork | 1920 | have-raw | IA `charlesmenv20000vern` |
+| `cw-stork-heidenstam-the-swedes-and-their-chieftains` | Verner von Heidenstam | The Swedes and Their Chieftains | Charles Wharton Stork | 1925 | have-raw | IA `swedestheirchief0000heid` |
 | `cw-stork-anthology-of-swedish-lyrics` | — | Stork's Anthology of Swedish Lyrics (American-Scandinavian Foundation, 1917; IA scan): the only scan found (IA anthologyswedis00storgoog) is a library preservation photocopy on acid-free paper by Acme Bookbinding, Charlestown, Massachusetts (ANSI/NISO Z39.48-1992, so 1992 or later), so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 
 ## S. A. Stern (Auerbach's On the Heights; Waldfried)
@@ -23859,7 +24198,7 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra, Phillips's Petőfi)
 
 Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
-Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 added Lermontov's Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Russian poems (1917). Not converted to unit-id JSON; **no uids minted**.
+Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 added Lermontov's Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Russian poems (1917). Round 124 added Rustaveli (Wardrop, 1912). Round 125 added Werfel ×2, Toller ×2 and Kaiser. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23909,13 +24248,19 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 | `singles-plays-poetry-2-lermontov-demon-storr` | Mikhail Lermontov | The Demon of Lermontoff | Francis Storr | 1894 | have-raw | IA `demonoflermontof00lerm` |
 | `singles-plays-poetry-2-lermontov-demon-burness` | Mikhail Lermontov | The Demon | Robert Burness | 1918 | have-raw | IA `demonthe00lermrich` |
 | `singles-plays-poetry-2-rudzinsky-russian-poems` | Karamzin, Pushkin, Tyutchev, Lermontov, A. K. Tolstoy and others | Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov, Count A. Tolstoy and others, with English translations and notes | B. A. Rudzinsky, assisted by Stella Gardiner | 1917 | have-raw | IA `poemsselectedfro00rudz` |
+| `singles-plays-poetry-2-rustaveli-man-in-the-panthers-skin` | Shota Rustaveli | The Man in the Panther's Skin: a Romantic Epic | Marjory Scott Wardrop | 1912 | have-raw | IA `maninpanthersski0000shot` |
+| `singles-plays-poetry-2-werfel-goat-song` | Franz Werfel | Goat Song: a Drama in Five Acts | Ruth Langner | 1926 | have-raw | IA `goatsong0000fran_w9f5` |
+| `singles-plays-poetry-2-werfel-juarez-and-maximilian` | Franz Werfel | Juarez and Maximilian: a Dramatic History in Three Phases and Thirteen Pictures | Ruth Langner | 1926 | have-raw | IA `juarezmaximilian0000fran` |
+| `singles-plays-poetry-2-toller-masses-and-man` | Ernst Toller | Masses and Man: a Fragment of the Social Revolution of the Twentieth Century | Vera Mendel | 1923 | have-raw | IA `massesmanfragmen0000toll` |
+| `singles-plays-poetry-2-toller-brokenbrow` | Ernst Toller | Brokenbrow: a Tragedy | Vera Mendel | 1926 | have-raw | IA `brokenbrowtraged00tolluoft` |
+| `singles-plays-poetry-2-kaiser-from-morn-to-midnight` | Georg Kaiser | From Morn to Midnight: a Play in Seven Scenes | Ashley Dukes | 1922 | have-raw | IA `frommorntomidnig00kais` |
 | `krylov-kriloffs-fables-coxwell` | — | C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan. | — | — | pending | — |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Round 125 added Jensen's Gradiva (1918). Round 126 added Undset's The Mistress of Husaby and Aho's Squire Hellman. Round 127 added Asch's America. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -24007,6 +24352,12 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-tollemache-russian-sketches` | Nikolai Leskov and others | Russian Sketches, Chiefly of Peasant Life | Beatrix L. Tollemache | 1913 | have-raw | IA `russiansketchesc00tolliala` |
 | `singles-fiction-3-gogol-taras-bulba-baskerville` | Nikolai Gogol | Taras Bulba: a Story of the Dnieper Cossacks | B. C. Baskerville | 1907 | have-raw | IA `tarasbulbaastor00baskgoog` |
 | `singles-fiction-3-pushkin-russian-romance-telfer` | Aleksandr Pushkin | Russian Romance (The Captain's Daughter and other tales) | Mrs. J. Buchan Telfer | 1875 | have-raw | IA `russianromance00pushiala` |
+| `singles-fiction-3-vikelas-loukis-laras` | Demetrios Vikelas | Loukis Laras: Reminiscences of a Chiote Merchant during the War of Independence | J. Gennadius | 1881 | have-raw | IA `loukislarasremin00vike` |
+| `singles-fiction-3-vikelas-tales-from-the-aegean` | Demetrios Vikelas | Tales from the Aegean | Leonard Eckstein Opdycke | 1894 | have-raw | IA `talesfromgean00opdygoog` |
+| `singles-fiction-3-jensen-gradiva` | Wilhelm Jensen | Gradiva: a Pompeiian Fancy | Helen M. Downey | 1918 | have-raw | IA `gradivaapompeii00jensgoog` |
+| `singles-fiction-3-undset-the-mistress-of-husaby` | Sigrid Undset | The Mistress of Husaby (Kristin Lavransdatter II) | Charles Archer | 1925 | have-raw | IA `bwb_S0-BLO-546` |
+| `singles-fiction-3-aho-squire-hellman` | Juhani Aho | Squire Hellman, and Other Stories | R. Nisbet Bain | 1893 | have-raw | IA `squirehellmanoth00ahoj` |
+| `singles-fiction-3-asch-america` | Sholom Asch | America | James Fuchs | 1918 | have-raw | IA `america00asch` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -25108,7 +25459,7 @@ Round 89 (2026-10-17), vetoable. Three titles added in round 91; Garborg's Peace
 ## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe, Goddard's Guicciardini History of Italy (10 vols, 1753-56), Thomson's and Emma Martin's Guicciardini maxims, Maffei's d'Azeglio Recollections, Ettore Fieramosca by Lester and by Lady Louisa Magenis, Garrow's Niccolini, and Tassoni's Rape of the Bucket by Ozell and by Atkinson
 
 Shelf: `pipeline/italian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py italian-classics` · titles `python3 pipeline/split_shelf_titles.py italian-classics`.
-Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans; round 107 added Niccolini's Arnold of Brescia; round 114 added Tassoni twice (Ozell 1715, Atkinson 1825). Not converted to unit-id JSON; **no uids minted**.
+Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans; round 107 added Niccolini's Arnold of Brescia; round 114 added Tassoni twice (Ozell 1715, Atkinson 1825). Round 124 (2026-10-23) added Neera, Barrili and Manzoni's Sacred Hymns. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -25147,6 +25498,9 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 | `italian-classics-niccolini-arnold-of-brescia` | Giovanni Battista Niccolini | Arnold of Brescia: a Tragedy | Theodosia Garrow | 1846 | have-raw | IA `arnoldbresciaat00niccgoog` |
 | `italian-classics-tassoni-rape-of-the-bucket-atkinson` | Alessandro Tassoni | La Secchia Rapita, or The Rape of the Bucket, an Heroi-Comical Poem | James Atkinson | 1825 | have-raw | IA `dli.ministry.15986` |
 | `italian-classics-tassoni-rape-of-the-bucket-ozell` | Alessandro Tassoni | The Rape of the Bucket, an Heroi-Comical Poem, the First of the Kind | John Ozell | 1715 | have-raw | IA `bim_eighteenth-century_the-rape-of-the-bucket-_tassoni-alessandro_1715` |
+| `italian-classics-neera-soul-of-an-artist` | Neera (Anna Radius Zuccari) | The Soul of an Artist | E. L. Murison | 1905 | have-raw | IA `soulofartist00neeriala` |
+| `italian-classics-barrili-a-noble-kinsman` | Anton Giulio Barrili | A Noble Kinsman | H. A. Martin | 1885 | have-raw | IA `noblekinsmannove00barr` |
+| `italian-classics-manzoni-sacred-hymns` | Alessandro Manzoni | The Sacred Hymns (Gl'inni sacri) and The Napoleonic Ode (Il cinque maggio) | Joel Foote Bingham | 1904 | have-raw | IA `sacredhymnsglinn00manzuoft` |
 | — | — | zimmern-comedies-of-goldoni: The Comedies of Carlo Goldoni (McClurg, 1892) is edited with an introduction by Helen Zimmern; the translator is not named in the scan, so the gate cannot check one. | — | — | excluded | — |
 | — | — | three-comedies-1907: Three Comedies (National Alumni, 1907) is a composite volume whose translators are listed only collectively; no single translator can be checked. | — | — | excluded | — |
 | — | — | fanshawe-pastor-fido: The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one. | — | — | excluded | — |
@@ -25156,7 +25510,7 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 ## Shelf: Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's Benavente (4 series), Martínez Sierra (Underhill, Granville-Barkers), Ogden's Isaacs María, Mrs. Horace Mann's Sarmiento, Isabel Burton's Alencar Iraçéma, Walsh and de la Selva's Darío
 
 Shelf: `pipeline/hispanic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hispanic-classics` · titles `python3 pipeline/split_shelf_titles.py hispanic-classics`.
-Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103 Round 111 added Langton's Espinel, Marcos de Obregón (1816), Gracián in Saldkeld's Compleat Gentleman (1730) and Jacobs's Art of Worldly Wisdom (1904 printing), and North's Guevara, Dial of Princes (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920). Not converted to unit-id JSON; **no uids minted**.
+Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103 Round 111 added Langton's Espinel, Marcos de Obregón (1816), Gracián in Saldkeld's Compleat Gentleman (1730) and Jacobs's Art of Worldly Wisdom (1904 printing), and North's Guevara, Dial of Princes (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920). Round 124 added Alarcón's The Three-Cornered Hat (1918) and Dinis's The Fidalgos of Casa Mourisca (1891). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -25182,6 +25536,8 @@ Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil
 | `hispanic-classics-churton-gongora-vol-1` | Luis de Góngora | Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. I | Edward Churton | 1862 | have-raw | IA `gongorahistorica01chur` |
 | `hispanic-classics-churton-gongora-vol-2` | Luis de Góngora | Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. II | Edward Churton | 1862 | have-raw | IA `gongorahistorica02chur` |
 | `hispanic-classics-aranha-canaan` | Graça Aranha | Canaan | Mariano Joaquín Lorente | 1920 | have-raw | IA `canaanaran00aranuoft` |
+| `hispanic-classics-alarcon-three-cornered-hat` | Pedro Antonio de Alarcón | The Three-Cornered Hat (El sombrero de tres picos) | Jacob S. Fassett Jr. | 1918 | have-raw | IA `threecorneredha00alar` |
+| `hispanic-classics-dinis-fidalgos-of-casa-mourisca` | Júlio Dinis | The Fidalgos of Casa Mourisca | Roxana L. Dabney | 1891 | have-raw | IA `cu31924027881840` |
 | `hispanic-classics-mendes-pinto-voyages-cogan` | — | Cogan's Voyages and Adventures of Ferdinand Mendez Pinto (Unwin, 1891, abridged; cu31924077183410): the only scan found (IA cu31924077183410) is a Cornell University Library replacement volume (1996), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | cradle-song-1931-printing: The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead. | — | — | excluded | — |
 | — | — | heinemann-pepita-jimenez-1891: Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page. | — | — | excluded | — |
@@ -25374,6 +25730,16 @@ Round 121 (2026-10-23), vetoable. Not converted to unit-id JSON; **no uids minte
 |---|---|---|---|---|---|---|
 | `eugene-schuyler-turgenev-fathers-and-sons` | Ivan Turgenev | Fathers and Sons | Eugene Schuyler | 1867 | have-raw | IA `fathersandsonsa00schugoog` |
 | `eugene-schuyler-tolstoy-the-cossacks` | Leo Tolstoy | The Cossacks: A Tale of the Caucasus in 1852 | Eugene Schuyler | 1878 | have-raw | IA `cossackstrbyesc00tolsgoog` |
+
+## Shelf: Willa and Edwin Muir (Feuchtwanger)
+
+Shelf: `pipeline/willa-edwin-muir_shelf.json` · fetch `python3 pipeline/fetch_shelf.py willa-edwin-muir` · titles `python3 pipeline/split_shelf_titles.py willa-edwin-muir`.
+Round 125 (2026-10-23), vetoable. Success (1930) waits in _pending on the 1930 ruling. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `willa-edwin-muir-feuchtwanger-power` | Lion Feuchtwanger | Power (Jud Süß; in Britain, Jew Süss) | Willa and Edwin Muir | 1926 | have-raw | IA `power0000lion_a6p0` |
+| `willa-edwin-muir-feuchtwanger-the-ugly-duchess` | Lion Feuchtwanger | The Ugly Duchess | Willa and Edwin Muir | 1928 | have-raw | IA `bwb_C0-CEK-906` |
 # Storytellers
 
 ## Andrew Lang

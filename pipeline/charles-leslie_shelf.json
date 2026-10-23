@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain Charles Leslie (1650-1722), Irish nonjuror and controversialist against deists, Quakers, Socinians and Jews, for the Word Hoard: his Theological Works (London, 1721, two folio volumes), from Internet Archive scans of the eighteenth-century collection. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "leslie"
+ ],
+ "_surname": [
+  "charles leslie",
+  "lesley",
+  "mr. leslie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "leslie-works-1721-1": [
+   "bim_eighteenth-century_the-theological-works-of_leslie-charles_1721_1",
+   "The theological works of the Reverend Mr. Charles Leslie, in two volumes, vol. 1 (London: W. Bowyer, 1721)"
+  ],
+  "leslie-works-1721-2": [
+   "bim_eighteenth-century_the-theological-works-of_leslie-charles_1721_2",
+   "The theological works of the Reverend Mr. Charles Leslie, in two volumes, vol. 2 (London: W. Bowyer, 1721)"
+  ]
+ },
+ "_alternates": {
+  "leslie-copies": "The Oxford 1832 Theological Works in seven volumes (only vols. 1, 2, 3 and 7 are on the Archive, so the complete 1721 folio is shelved instead); separate printings of the Short and Easy Method with the Deists (1698-1841), the Snake in the Grass (1696-1698), the Case of the Regale (1700, 1838), Five Discourses (1700)"
+ },
+ "_excluded": {
+  "leslie-other": "His Jacobite political journalism (The Rehearsal) and works by other Charles Leslies"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "leslie-works-1721-1": "title page read (OCR): 'Theological Works of the Reverend Mr. Charles Leslie' (long s: 'Leſlie'), with his dedication speaking of 'my Theological Tracts'",
+  "leslie-works-1721-2": "title page read from the page image: 'The Theological Works of the Reverend Mr. Charles Leslie. Vol. II. London: Printed by W. Bowyer, MDCCXXI'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "leslie-works-1721-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leslie-works-1721-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1721",
+   "ia_date": "1721",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

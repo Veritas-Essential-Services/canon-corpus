@@ -4738,10 +4738,12 @@
     },
     {
       "id": "peter-canisius",
-      "status": "queued",
+      "status": "done",
       "scope": "round 35: church historians (Mosheim, Fleury, Milman, Mandell Creighton, W. F. Hook, James Craigie Robertson, George Park Fisher), Montalembert, Lingard's church writings, the Russian Church in English (Mouravieff, William Palmer of Magdalen), William Palmer of Worcester, Quesnel, Angelus Silesius, Catholic bishops and writers (John Ireland, John J. Keane, Herbert Vaughan, Bonomelli, Veuillot, Canisius) and Prayer Book scholars (Procter, J. H. Blunt, Maclear). D\u00f6llinger already has a shelf; Arnauld was researched but every English theological title page found names no one.",
       "added": "2026-10-18T02:55Z",
-      "added_by": "lane A"
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:09:29-05:00",
+      "notes": "Round 35 queue item: three early English/Scots catechism translations (1579 'T. I.', 1588 Adam King, 1622); Latin originals in alternates."
     },
     {
       "id": "francis-procter",
@@ -5651,6 +5653,186 @@
       "added_by": "lane A",
       "finished": "2026-10-22T22:40:38-05:00",
       "notes": "LACT Sermons, 2 vols."
+    },
+    {
+      "id": "peter-heylyn",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:51:23-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:51:23-05:00",
+      "notes": "Church histories and controversy; secular geography excluded; Coale from the Altar pending (anonymous)."
+    },
+    {
+      "id": "simon-patrick",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:51:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:51:24-05:00",
+      "notes": "1858 Works (9 vols), Ecclesiastes/Song paraphrase, OT commentaries Genesis-Kings; commentary title pages say only 'Symon, Lord Bishop of Ely'."
+    },
+    {
+      "id": "anthony-sparrow",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:51:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:51:24-05:00",
+      "notes": "Rationale, Collection of Articles, 1637 sermon (title page 'Mr. Sp.': veto point)."
+    },
+    {
+      "id": "william-sancroft",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T22:51:24-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T22:51:24-05:00",
+      "notes": "Sermons and letters; Modern Policies pending (anonymous)."
+    },
+    {
+      "id": "george-hickes",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:39-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:39-05:00",
+      "notes": "LACT Two Treatises (3 vols) and early controversial works; three anonymous works pending."
+    },
+    {
+      "id": "charles-leslie",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:40-05:00",
+      "notes": "1721 Theological Works, 2 folio vols (the 1832 seven-volume set is incomplete on the Archive)."
+    },
+    {
+      "id": "john-kettlewell",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:40-05:00",
+      "notes": "1719 Works, 2 vols, and the 1681 Measures of Christian Obedience."
+    },
+    {
+      "id": "henry-dodwell",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:40-05:00",
+      "notes": "English theological works 1676-1711; the Vindication of the Deprived Bishops and its Defence pending (anonymous); Latin works excluded."
+    },
+    {
+      "id": "robert-nelson",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:40-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:40-05:00",
+      "notes": "Festivals and Fasts, Great Duty, True Devotion, Life of Bull, Address."
+    },
+    {
+      "id": "jeremy-collier",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:41-05:00",
+      "notes": "Ecclesiastical History 1840-41 (9 vols), Short View, Several Discourses."
+    },
+    {
+      "id": "thomas-brett",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:41-05:00",
+      "notes": "Principal Liturgies 1838 and four early treatises."
+    },
+    {
+      "id": "john-johnson-of-cranbrook",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:41-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:41-05:00",
+      "notes": "LACT Theological Works, 2 vols (Unbloody Sacrifice)."
+    },
+    {
+      "id": "thomas-deacon",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:00:42-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:00:42-05:00",
+      "notes": "Only the 1860 reprint of his Essay; the 1734 Devotions not found on the Archive."
+    },
+    {
+      "id": "samuel-seabury",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:05:48-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:05:48-05:00",
+      "notes": "Discourses, 1815 two-volume edition; the Westchester Farmer pamphlets pending (pseudonymous)."
+    },
+    {
+      "id": "william-white-bishop",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:05:49-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:05:49-05:00",
+      "notes": "Catechism lectures, Comparative Views, Objections, Memoirs 1820 and 1836, Ordination commentaries; the 1791/1808 baptism books are another William White."
+    },
+    {
+      "id": "john-henry-hobart",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:05:49-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:05:49-05:00",
+      "notes": "Devotional and controversial works, Posthumous Works (3 vols), Correspondence (6 vols); the 1859 Lent book is his son's, excluded."
+    },
+    {
+      "id": "alexander-viets-griswold",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:05:49-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:05:49-05:00",
+      "notes": "Discourses, Prayers, Reformation, Prayer-Meetings."
+    },
+    {
+      "id": "philander-chase",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:05:50-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:05:50-05:00",
+      "notes": "Reminiscences, 1848, 2 vols."
+    },
+    {
+      "id": "menno-simons",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:07:50-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:07:50-05:00",
+      "notes": "Complete Works 1871 (translator unnamed: a veto point) and Rupp's Foundation 1869."
+    },
+    {
+      "id": "dirk-philips",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:07:50-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:07:50-05:00",
+      "notes": "Kolb's Enchiridion, 1910."
     }
   ]
 }

@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain John Kettlewell (1653-1695), Vicar of Coleshill, deprived nonjuror and devotional writer, for the Word Hoard: A Compleat Collection of his Works (London, 1719, two folio volumes) and the 1681 first edition of The Measures of Christian Obedience, from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "kettlewell"
+ ],
+ "_surname": [
+  "john kettlewell",
+  "mr. kettlewell",
+  "j. kettlewell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "kettlewell-works-1719-1": [
+   "bim_eighteenth-century_works-a-compleat-colle_kettlewell-john_1719_1",
+   "[Works] A compleat collection of the Works of the Reverend and learned John Kettlewell, ... In two volumes. The several treatises printed from copies revis'd and improv'd by the author, a little before his death. ... To which is prefix'd, the life of the author. ... With an appendix of several original papers.  1719: Vol 1, vol. 1 (catalogued 1719)"
+  ],
+  "kettlewell-works-1719-2": [
+   "bim_eighteenth-century_works-a-compleat-colle_kettlewell-john_1719_2",
+   "[Works] A compleat collection of the Works of the Reverend and learned John Kettlewell, ... In two volumes. The several treatises printed from copies revis'd and improv'd by the author, a little before his death. ... To which is prefix'd, the life of the author. ... With an appendix of several original papers.  1719: Vol 2, vol. 2 (catalogued 1719)"
+  ],
+  "kettlewell-measures-1681": [
+   "measuresofchrist00ket",
+   "The measures of Christian obedience : or, A discourse shewing what obedience is indispensably necessary to a regenerate state, and what defects are consistent with it; for the promotion of piety, and the peace of troubled consciences (London : Printed by J. Macock, for Robert Kettlewell, 1681)"
+  ]
+ },
+ "_alternates": {
+  "kettlewell-copies": "Separate printings, 1683-1737, of the Help and Exhortation to Worthy Communicating, the Practical Believer, Christian Prudence, Christian Communion, Death Made Comfortable, the Companion for the Penitent and Five Discourses, all in the Works"
+ },
+ "_excluded": {
+  "kettlewell-other": "Books by Samuel Kettlewell (Thomas a Kempis and the Brothers of Common Life, 1882; the authorship of the De Imitatione, 1877; Three Venerable Ladies, 1874) and other later Kettlewells"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "kettlewell-works-1719-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john kettlewell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1719",
+   "ia_date": "1719",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kettlewell-works-1719-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john kettlewell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1719",
+   "ia_date": "1719",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "kettlewell-measures-1681": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john kettlewell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1681",
+   "ia_date": "1681",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -322,3 +322,13 @@
 - 2026-10-22T22:25-05:00: round 122: singles-continental-fiction +8 (Bazin x4, Ohnet x2, Theuriet x2), rothwell +1 (Ohnet; name form fred. rothwell added). --verify --record 0 mismatched.
 
 - 2026-10-22T22:31-05:00: round 123: alys-hallard +4 (Coulevain; name form hallard added), singles-continental-fiction +9 (Cherbuliez, Prevost x2, Karr, Rod x2, Barres x2, Halevy); ellen-marriage _pending +1 (Frederique, undated). --verify --record 0 mismatched.
+
+- 2026-10-22T22:40-05:00: round 124: italian-classics +3 (Neera, Barrili, Manzoni), hispanic-classics +2 (Alarcon, Dinis), singles-fiction-3 +2 (Vikelas x2), singles-plays-poetry-2 +1 (Rustaveli). --verify --record 0 mismatched.
+
+- 2026-10-22T22:48-05:00: round 125: new willa-edwin-muir (2: Feuchtwanger), lowe-porter +1 (Magic Mountain), scheffauer +1, singles-plays-poetry-2 +5 (Werfel x2, Toller x2, Kaiser), singles-fiction-3 +1 (Gradiva); Success (1930) to _pending. --verify --record 0 mismatched.
+
+- 2026-10-22T22:53-05:00: Round 126 (2026-10-23): 7 titles, Scandinavian 1920s (Undset x2, Heidenstam x3, Bang, Aho). 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T22:58-05:00: Round 127 (2026-10-23): 10 titles, Isaac Goldberg on archive.org (8), Pinski's The Treasure (Lewisohn), Asch's America (Fuchs). 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:06-05:00: Round 128 (2026-10-23): 11 titles, Teixeira de Mattos on archive.org (Maeterlinck x3, memoirs, travel, Zola). 0 mismatched, 0 rights flags, no uids.

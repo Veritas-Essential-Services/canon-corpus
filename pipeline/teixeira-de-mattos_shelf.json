@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Alexander Teixeira de Mattos (1865-1921): Fabre's Souvenirs entomologiques (Dodd, Mead / Hodder, 1912-22), Maeterlinck's essays and plays, Couperus's novels, Leblanc's Arsène Lupin, Chateaubriand's Memoirs (1902), Tocqueville's Recollections, Streuvels, Paoli. He died in 1921, so every translation predates 1931. US public domain; UK PD since 1992. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Alexander Teixeira de Mattos (1865-1921): Fabre's Souvenirs entomologiques (Dodd, Mead / Hodder, 1912-22), Maeterlinck's essays and plays, Couperus's novels, Leblanc's Arsène Lupin, Chateaubriand's Memoirs (1902), Tocqueville's Recollections, Streuvels, Paoli. He died in 1921, so every translation predates 1931. US public domain; UK PD since 1992. Added 2026-10-10 by lane C (round 19); Adam may veto. No uids minted. Round 128 (2026-10-23, vetoable) added eleven archive.org books the Gutenberg list lacks: Maeterlinck's The Measure of the Hours, The Intelligence of the Flowers (both 1907) and The Light Beyond (1917), Georgette Leblanc's Maeterlinck's Dogs (1919), Zola's The Heirs of Rabourdin (1894), the Memoirs of Marshal Oudinot (1896), Israëls's Spain (1900), the Memoirs of Paul Kruger (1902), Grenard's Tibet (1904), Marius's Dutch Painting in the Nineteenth Century (1908) and Castellane's Men and Things of My Time (1911).",
  "_name_words": [
   "teixeira de mattos",
-  "alexander teixeira"
+  "alexander teixeira",
+  "de mattos"
  ],
  "_surname": [
   "teixeira de mattos",
-  "alexander teixeira"
+  "alexander teixeira",
+  "de mattos"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -248,7 +250,53 @@
    "The Blue Bird: A Fairy Play in Six Acts"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "tdm-maeterlinck-measure-of-the-hours": [
+   "cu31924052989138",
+   "The Measure of the Hours"
+  ],
+  "tdm-maeterlinck-intelligence-of-the-flowers": [
+   "intelligenceflo00maetgoog",
+   "The Intelligence of the Flowers"
+  ],
+  "tdm-maeterlinck-light-beyond": [
+   "cu31924028951719",
+   "The Light Beyond"
+  ],
+  "tdm-leblanc-maeterlincks-dogs": [
+   "maeterlincksdogs00leblrich",
+   "Maeterlinck's Dogs"
+  ],
+  "tdm-zola-heirs-of-rabourdin": [
+   "heirsofrabourdin00zolarich",
+   "The Heirs of Rabourdin"
+  ],
+  "tdm-oudinot-memoirs": [
+   "memoirsofmarshal00oudiuoft",
+   "Memoirs of Marshal Oudinot"
+  ],
+  "tdm-israels-spain": [
+   "spainstoryajour00isragoog",
+   "Spain: The Story of a Journey"
+  ],
+  "tdm-kruger-memoirs": [
+   "memoirsofpaulkr00krug",
+   "The Memoirs of Paul Kruger"
+  ],
+  "tdm-grenard-tibet": [
+   "in.ernet.dli.2015.208773",
+   "Tibet: The Country and Its Inhabitants",
+   "2015.208773.Tibet-The_djvu.txt"
+  ],
+  "tdm-marius-dutch-painting": [
+   "dutchpaintinginn00mari",
+   "Dutch Painting in the Nineteenth Century"
+  ],
+  "tdm-castellane-men-and-things": [
+   "menthingsofmytim00castuoft",
+   "Men and Things of My Time"
+  ]
+ },
  "titles": {
   "teixeira-de-mattos-chateaubriand-memoirs-vol-1": {
    "source": "tdm-54743",
@@ -726,6 +774,96 @@
    "translated": "1894-1922 (he died 1921; see the Gutenberg header)",
    "translator": "Alexander Teixeira de Mattos",
    "scan_edition": "Project Gutenberg 37892 (clean text)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-measure-of-the-hours": {
+   "source": "tdm-maeterlinck-measure-of-the-hours",
+   "of": "Maurice Maeterlinck",
+   "work": "The Measure of the Hours",
+   "translated": 1907,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Dodd, Mead, New York 1907; archive.org scan (Cornell copy)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-intelligence-of-the-flowers": {
+   "source": "tdm-maeterlinck-intelligence-of-the-flowers",
+   "of": "Maurice Maeterlinck",
+   "work": "The Intelligence of the Flowers",
+   "translated": 1907,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Dodd, Mead, New York 1907; archive.org scan (Google copy)"
+  },
+  "teixeira-de-mattos-maeterlinck-the-light-beyond": {
+   "source": "tdm-maeterlinck-light-beyond",
+   "of": "Maurice Maeterlinck",
+   "work": "The Light Beyond",
+   "translated": 1917,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Dodd, Mead, New York 1917 (translator's preface dated Chelsea, 9 April 1917); archive.org scan (Cornell copy)"
+  },
+  "teixeira-de-mattos-leblanc-maeterlincks-dogs": {
+   "source": "tdm-leblanc-maeterlincks-dogs",
+   "of": "Georgette Leblanc",
+   "work": "Maeterlinck's Dogs",
+   "translated": 1919,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Methuen, London (US copyright 1919 by Dodd, Mead; the first-published line is blank in the OCR); archive.org scan"
+  },
+  "teixeira-de-mattos-zola-the-heirs-of-rabourdin": {
+   "source": "tdm-zola-heirs-of-rabourdin",
+   "of": "Émile Zola",
+   "work": "The Heirs of Rabourdin: A Comedy in Three Acts",
+   "translated": 1894,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Henry and Co., London 1894 (Independent Theatre Series); archive.org scan"
+  },
+  "teixeira-de-mattos-oudinot-memoirs-of-marshal-oudinot": {
+   "source": "tdm-oudinot-memoirs",
+   "of": "Gaston Stiegler (ed.), from the reminiscences of the Duchesse de Reggio",
+   "work": "Memoirs of Marshal Oudinot, Duc de Reggio",
+   "translated": 1896,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "H. Henry & Co., London 1896 (MDCCCXCVI); archive.org scan (Toronto copy)"
+  },
+  "teixeira-de-mattos-israels-spain": {
+   "source": "tdm-israels-spain",
+   "of": "Jozef Israëls",
+   "work": "Spain: The Story of a Journey",
+   "translated": 1900,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "John C. Nimmo, London 1900 (MDCCCC); archive.org scan (Google copy)"
+  },
+  "teixeira-de-mattos-kruger-the-memoirs-of-paul-kruger": {
+   "source": "tdm-kruger-memoirs",
+   "of": "Paul Kruger (as told to H. C. Bredell and Piet Grobler; ed. A. Schowalter)",
+   "work": "The Memoirs of Paul Kruger, Four Times President of the South African Republic",
+   "translated": 1902,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "The Century Co., New York, published November 1902; archive.org scan",
+   "note": "A second scan of the same printing exists (memoirsofpaulkru01krug); one is enough."
+  },
+  "teixeira-de-mattos-grenard-tibet": {
+   "source": "tdm-grenard-tibet",
+   "of": "Fernand Grenard",
+   "work": "Tibet: The Country and Its Inhabitants",
+   "translated": 1904,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Hutchinson, London 1904; archive.org scan (Digital Library of India copy)",
+   "note": "The Cornell scan (cu31924062697804) is a 1991 replacement volume, a photocopy on permanent paper, so the Digital Library of India scan of the 1904 printing is used instead."
+  },
+  "teixeira-de-mattos-marius-dutch-painting": {
+   "source": "tdm-marius-dutch-painting",
+   "of": "G. H. Marius",
+   "work": "Dutch Painting in the Nineteenth Century",
+   "translated": 1908,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "J. B. Lippincott, Philadelphia (1909 on the title leaf; first published 1908); archive.org scan"
+  },
+  "teixeira-de-mattos-castellane-men-and-things-of-my-time": {
+   "source": "tdm-castellane-men-and-things",
+   "of": "Boni de Castellane",
+   "work": "Men and Things of My Time",
+   "translated": 1911,
+   "translator": "Alexander Teixeira de Mattos",
+   "scan_edition": "Chatto & Windus, London 1911; archive.org scan (Toronto copy)"
   }
  },
  "_pending": {},
@@ -734,13 +872,15 @@
   "pg-45812": "Insect Adventures: Louise Zimm's selection for children from the translation.",
   "pg-67000": "Fabre's Book of Insects: Mrs Rodolph Stawell's retelling, not the translation itself.",
   "pg-28755": "A 6 KB Gutenberg stub for The Hollow Needle; the full text is 4017.",
-  "ewald": "Carl Ewald (31167, 31708, 35543, 62883, 62910, 62912, 65029): Ewald has his own shelf on another lane (ewald_shelf.json), which already holds five of these; the two it lacks (My Little Boy 35543, The Old Room 62883) are left for that shelf's owner."
+  "ewald": "Carl Ewald (31167, 31708, 35543, 62883, 62910, 62912, 65029): Ewald has his own shelf on another lane (ewald_shelf.json), which already holds five of these; the two it lacks (My Little Boy 35543, The Old Room 62883) are left for that shelf's owner.",
+  "ia-my-royal-clients": "Paoli's My Royal Clients (Hodder, London; myroyalclients00paol/paoluoft): the British title of Their Majesties as I Knew Them, already on this shelf; the scans print no year.",
+  "ia-exploits-of-arsene-lupin": "The Exploits of Arsène Lupin (in.ernet.dli.2015.125990): a 1960s reissue with Maurice Richardson's introduction, not a period printing."
  },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "tdm-17861": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -749,7 +889,7 @@
   },
   "tdm-18214": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -758,7 +898,7 @@
   },
   "tdm-1887": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -767,7 +907,7 @@
   },
   "tdm-2033": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -776,7 +916,7 @@
   },
   "tdm-22411": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -785,7 +925,7 @@
   },
   "tdm-27868": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -794,7 +934,7 @@
   },
   "tdm-28480": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -803,7 +943,7 @@
   },
   "tdm-2884": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -812,7 +952,7 @@
   },
   "tdm-31354": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -821,7 +961,7 @@
   },
   "tdm-33386": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -830,7 +970,7 @@
   },
   "tdm-33779": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -839,7 +979,7 @@
   },
   "tdm-34021": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -848,7 +988,7 @@
   },
   "tdm-3421": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -857,7 +997,7 @@
   },
   "tdm-3422": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -866,7 +1006,7 @@
   },
   "tdm-34343": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -875,7 +1015,7 @@
   },
   "tdm-34458": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -884,7 +1024,7 @@
   },
   "tdm-3462": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -893,7 +1033,7 @@
   },
   "tdm-34653": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -902,7 +1042,7 @@
   },
   "tdm-34725": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -911,7 +1051,7 @@
   },
   "tdm-34758": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -920,7 +1060,7 @@
   },
   "tdm-34761": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -929,7 +1069,7 @@
   },
   "tdm-34939": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -938,7 +1078,7 @@
   },
   "tdm-37497": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -947,7 +1087,7 @@
   },
   "tdm-3754": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -956,7 +1096,7 @@
   },
   "tdm-37578": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -965,7 +1105,7 @@
   },
   "tdm-37770": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -974,7 +1114,7 @@
   },
   "tdm-37892": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -983,7 +1123,7 @@
   },
   "tdm-4017": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -992,7 +1132,7 @@
   },
   "tdm-43005": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1001,7 +1141,7 @@
   },
   "tdm-43827": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1010,7 +1150,7 @@
   },
   "tdm-45786": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1019,7 +1159,7 @@
   },
   "tdm-47486": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1028,7 +1168,7 @@
   },
   "tdm-47830": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1037,7 +1177,7 @@
   },
   "tdm-48271": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1046,7 +1186,7 @@
   },
   "tdm-48504": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1055,7 +1195,7 @@
   },
   "tdm-50399": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1064,7 +1204,7 @@
   },
   "tdm-54743": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1073,7 +1213,7 @@
   },
   "tdm-54788": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1082,7 +1222,7 @@
   },
   "tdm-54807": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1091,7 +1231,7 @@
   },
   "tdm-54879": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1100,7 +1240,7 @@
   },
   "tdm-55070": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1109,7 +1249,7 @@
   },
   "tdm-55124": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1118,7 +1258,7 @@
   },
   "tdm-55591": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1127,7 +1267,7 @@
   },
   "tdm-66650": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1136,7 +1276,7 @@
   },
   "tdm-66743": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1145,7 +1285,7 @@
   },
   "tdm-66744": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1154,7 +1294,7 @@
   },
   "tdm-66762": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1163,7 +1303,7 @@
   },
   "tdm-66844": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1172,7 +1312,7 @@
   },
   "tdm-66854": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1181,7 +1321,7 @@
   },
   "tdm-66893": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1190,7 +1330,7 @@
   },
   "tdm-67110": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1199,7 +1339,7 @@
   },
   "tdm-67201": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1208,7 +1348,7 @@
   },
   "tdm-67625": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1217,7 +1357,7 @@
   },
   "tdm-67806": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1226,7 +1366,7 @@
   },
   "tdm-68974": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1235,7 +1375,7 @@
   },
   "tdm-70550": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1244,7 +1384,7 @@
   },
   "tdm-73662": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1253,7 +1393,7 @@
   },
   "tdm-8437": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
@@ -1262,12 +1402,133 @@
   },
   "tdm-8606": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "teixeira de mattos",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-maeterlinck-measure-of-the-hours": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tdm-maeterlinck-intelligence-of-the-flowers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdm-maeterlinck-light-beyond": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tdm-leblanc-maeterlincks-dogs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdm-zola-heirs-of-rabourdin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdm-oudinot-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdm-israels-spain": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tdm-kruger-memoirs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "Not in copyright. The Library knows of no copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "tdm-grenard-tibet": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tdm-marius-dutch-painting": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tdm-castellane-men-and-things": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "teixeira de mattos",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1566,6 +1827,137 @@
    "pg": 8606,
    "pg_copyrighted_marker": false,
    "pg_translator": "Alexander Teixeira de Mattos"
+  },
+  "tdm-maeterlinck-measure-of-the-hours": {
+   "ia": "cu31924052989138",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904,
+    1905,
+    1906,
+    1907
+   ],
+   "post_1930_years_in_front_15k": [
+    1990
+   ],
+   "post_1930_examined": "1990 is a library date stamp (JAN 1990) on the Cornell copy; the scan carries no replacement-volume notice"
+  },
+  "tdm-maeterlinck-intelligence-of-the-flowers": {
+   "ia": "intelligenceflo00maetgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-maeterlinck-light-beyond": {
+   "ia": "cu31924028951719",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909,
+    1913,
+    1914,
+    1916,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-leblanc-maeterlincks-dogs": {
+   "ia": "maeterlincksdogs00leblrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-zola-heirs-of-rabourdin": {
+   "ia": "heirsofrabourdin00zolarich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-oudinot-memoirs": {
+   "ia": "memoirsofmarshal00oudiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1767,
+    1794,
+    1813,
+    1820
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-israels-spain": {
+   "ia": "spainstoryajour00isragoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1824,
+    1898,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-kruger-memoirs": {
+   "ia": "memoirsofpaulkr00krug",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1825,
+    1852,
+    1861,
+    1864,
+    1866,
+    1880,
+    1881,
+    1884,
+    1885,
+    1888,
+    1893,
+    1898,
+    1899,
+    1900,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-marius-dutch-painting": {
+   "ia": "dutchpaintinginn00mari",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1737,
+    1793,
+    1799,
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-castellane-men-and-things": {
+   "ia": "menthingsofmytim00castuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1852,
+    1871,
+    1876,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "tdm-grenard-tibet": {
+   "ia": "in.ernet.dli.2015.208773",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885,
+    1890,
+    1891,
+    1894,
+    1895,
+    1897,
+    1898,
+    1902,
+    1903,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

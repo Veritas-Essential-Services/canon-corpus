@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 (2026-10-23, vetoable) added Butts and Browne's Turgenev, Spring Floods and A Lear of the Steppe (1874), Pasvolsky's Kuprin, The Bracelet of Garnets (1917), Tollemache's Russian Sketches (1913), Baskerville's Gogol, Taras Bulba (1907), and Telfer's Pushkin, Russian Romance (1875).",
+ "_about": "SINGLE-TRANSLATION SHELF: the third shelf of one-off English translations of fiction, plays and verse, mostly from the 1920s: Luo Guanzhong's Romance of the Three Kingdoms (Brewitt-Taylor, 1925), Remarque's All Quiet on the Western Front (Wheen, 1929), Hesse's Steppenwolf (Creighton, 1929), Rølvaag's Giants in the Earth (1927), Thomas Mann's Death in Venice (Kenneth Burke, 1925), Čapek's Krakatit, Kivi's Seven Brothers, Mauriac's Thérèse and The Kiss to the Leper, Undset's The Bridal Wreath, Couperus's Eline Vere, Multatuli's Max Havelaar, Rolland's Annette and Sylvie, Merezhkovsky's Akhnaton, Morand, Natsume's Unhuman Tour, Tanizaki, Bettauer's The City Without Jews, Norbert Jacques's Dr. Mabuse, Leroux, Rousseau's Eloisa (Kenrick, 1761), Kotzebue's Virgin of the Sun, Nodier's Bibliomaniac, George Sand, Auerbach's Little Barefoot, Andreyev's plays, Hauptmann, Hebbel's Three Plays, D'Annunzio's Daughter of Jorio, Lope de Vega's New Art of Writing Plays, Goethe and Schiller's Xenions, Michelangelo's sonnets (Newell), Petrarch (Agnes Tobin), Shevchenko's Kobzar, Hálek, the Prem Sagur, Mary of Nimmegen, the Táin (Mary Hutton), Pearse's collected works, Louÿs's Songs of Bilitis, Swedish, French, Costa Rican and Arabian tales, and Voynich's The Humour of Russia and Stories from Garshin (1893), and Rowland Smith's Garshin, The Signal (1912); the two Garshins added in round 109; and Żeromski's Ashes (Helen Stankiewicz Zand, 1928, 2 vols), added in round 110. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 44); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 (2026-10-23, vetoable) added Butts and Browne's Turgenev, Spring Floods and A Lear of the Steppe (1874), Pasvolsky's Kuprin, The Bracelet of Garnets (1917), Tollemache's Russian Sketches (1913), Baskerville's Gogol, Taras Bulba (1907), and Telfer's Pushkin, Russian Romance (1875). Round 124 (2026-10-23, vetoable) added Vikelas twice, Loukis Laras (J. Gennadius, 1881) and Tales from the Aegean (Leonard Eckstein Opdycke, 1894). Round 125 (2026-10-23, vetoable) added Jensen's Gradiva (Helen M. Downey, 1918). Round 126 (2026-10-23, vetoable) added Undset's The Mistress of Husaby (Charles Archer, Grosset & Dunlap fourth printing, December 1928) and Juhani Aho's Squire Hellman and Other Stories (R. Nisbet Bain, 1893). Round 127 (2026-10-23, vetoable) added Sholom Asch's America (James Fuchs, 1918).",
  "_name_words": [
   "a. e. chamot",
   "a. w. wheen",
@@ -117,7 +117,12 @@
   "tollemache",
   "b. c. baskerville",
   "baskerville",
-  "buchan telfer"
+  "buchan telfer",
+  "j. gennadius",
+  "leonard eckstein opdycke",
+  "helen m. downey",
+  "r. nisbet bain",
+  "james fuchs"
  ],
  "_surname": [
   "a. e. chamot",
@@ -236,7 +241,12 @@
   "tollemache",
   "b. c. baskerville",
   "baskerville",
-  "buchan telfer"
+  "buchan telfer",
+  "j. gennadius",
+  "leonard eckstein opdycke",
+  "helen m. downey",
+  "r. nisbet bain",
+  "james fuchs"
  ],
  "_surname_by_slug": {
   "sf3-65887": [
@@ -613,6 +623,24 @@
   ],
   "sf3-pushkin-russian-romance-telfer": [
    "buchan telfer"
+  ],
+  "sf3-vikelas-loukis-laras": [
+   "j. gennadius"
+  ],
+  "sf3-vikelas-tales-from-the-aegean": [
+   "leonard eckstein opdycke"
+  ],
+  "sf3-jensen-gradiva": [
+   "helen m. downey"
+  ],
+  "sf3-undset-mistress-of-husaby": [
+   "charles archer"
+  ],
+  "sf3-aho-squire-hellman": [
+   "r. nisbet bain"
+  ],
+  "sf3-asch-america": [
+   "james fuchs"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -971,6 +999,30 @@
   "sf3-pushkin-russian-romance-telfer": [
    "russianromance00pushiala",
    "Russian Romance (1875)"
+  ],
+  "sf3-vikelas-loukis-laras": [
+   "loukislarasremin00vike",
+   "Loukis Laras (1881)"
+  ],
+  "sf3-vikelas-tales-from-the-aegean": [
+   "talesfromgean00opdygoog",
+   "Tales from the Aegean (1894)"
+  ],
+  "sf3-jensen-gradiva": [
+   "gradivaapompeii00jensgoog",
+   "Gradiva: a Pompeiian Fancy (1918)"
+  ],
+  "sf3-undset-mistress-of-husaby": [
+   "bwb_S0-BLO-546",
+   "The Mistress of Husaby (1925; 1928 printing)"
+  ],
+  "sf3-aho-squire-hellman": [
+   "squirehellmanoth00ahoj",
+   "Squire Hellman, and Other Stories (1893)"
+  ],
+  "sf3-asch-america": [
+   "america00asch",
+   "America"
   ]
  },
  "titles": {
@@ -1687,12 +1739,64 @@
    "translated": 1875,
    "translator": "Mrs. J. Buchan Telfer",
    "scan_edition": "Henry S. King & Co., London 1875; UCLA scan"
+  },
+  "singles-fiction-3-vikelas-loukis-laras": {
+   "source": "sf3-vikelas-loukis-laras",
+   "of": "Demetrios Vikelas",
+   "work": "Loukis Laras: Reminiscences of a Chiote Merchant during the War of Independence",
+   "translated": 1881,
+   "translator": "J. Gennadius",
+   "scan_edition": "Macmillan, London 1881; archive.org scan"
+  },
+  "singles-fiction-3-vikelas-tales-from-the-aegean": {
+   "source": "sf3-vikelas-tales-from-the-aegean",
+   "of": "Demetrios Vikelas",
+   "work": "Tales from the Aegean",
+   "translated": 1894,
+   "translator": "Leonard Eckstein Opdycke",
+   "scan_edition": "A. C. McClurg, Chicago 1894; Google scan"
+  },
+  "singles-fiction-3-jensen-gradiva": {
+   "source": "sf3-jensen-gradiva",
+   "of": "Wilhelm Jensen",
+   "work": "Gradiva: a Pompeiian Fancy",
+   "translated": 1918,
+   "translator": "Helen M. Downey",
+   "scan_edition": "Moffat, Yard and Company, New York 1918; Google scan",
+   "note": "Printed for Freud's Delusion and Dream; the Freud volume itself is not shelved here."
+  },
+  "singles-fiction-3-undset-the-mistress-of-husaby": {
+   "source": "sf3-undset-mistress-of-husaby",
+   "of": "Sigrid Undset",
+   "work": "The Mistress of Husaby (Kristin Lavransdatter II)",
+   "translated": 1925,
+   "translator": "Charles Archer",
+   "scan_edition": "Grosset & Dunlap by arrangement with Knopf, New York (published March 1925; fourth printing December 1928); archive.org scan",
+   "note": "Volume I, The Bridal Wreath, is on this shelf; volume III, The Cross, is on the reading-lists branch's undset shelf."
+  },
+  "singles-fiction-3-aho-squire-hellman": {
+   "source": "sf3-aho-squire-hellman",
+   "of": "Juhani Aho",
+   "work": "Squire Hellman, and Other Stories",
+   "translated": 1893,
+   "translator": "R. Nisbet Bain",
+   "scan_edition": "T. Fisher Unwin, London 1893 (Pseudonym Library); archive.org scan",
+   "note": "Bain's folk-tale books are on lane D's bain shelf."
+  },
+  "singles-fiction-3-asch-america": {
+   "source": "sf3-asch-america",
+   "of": "Sholom Asch",
+   "work": "America",
+   "translated": 1918,
+   "translator": "James Fuchs",
+   "scan_edition": "Alpha Omega Publishing, New York 1918; archive.org scan"
   }
  },
  "_pending": {
   "pg-79102": "Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
   "pg-79453": "Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
-  "pg-78105": "Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran."
+  "pg-78105": "Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran.",
+  "ia-asch-the-mother": "Sholom Asch's The Mother (Nathan Ausubel; Horace Liveright, 1930; mothertransbynat0000shol): a 1930 publication, so it waits on Adam's 1930 ruling."
  },
  "_excluded": {},
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
@@ -2528,6 +2632,73 @@
    "ia_date": "1875",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sf3-vikelas-loukis-laras": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. gennadius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-vikelas-tales-from-the-aegean": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leonard eckstein opdycke",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-jensen-gradiva": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen m. downey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sf3-undset-mistress-of-husaby": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles archer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-aho-squire-hellman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. nisbet bain",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sf3-asch-america": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james fuchs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -3081,6 +3252,87 @@
     1683,
     1767,
     1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-vikelas-loukis-laras": {
+   "ia": "loukislarasremin00vike",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1453,
+    1828,
+    1831,
+    1835,
+    1862,
+    1864,
+    1866,
+    1871,
+    1874,
+    1878,
+    1879
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-vikelas-tales-from-the-aegean": {
+   "ia": "talesfromgean00opdygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1453,
+    1835,
+    1874,
+    1876,
+    1879,
+    1882,
+    1887,
+    1893,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-jensen-gradiva": {
+   "ia": "gradivaapompeii00jensgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-undset-mistress-of-husaby": {
+   "ia": "bwb_S0-BLO-546",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1925,
+    1927,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "sf3-aho-squire-hellman": {
+   "ia": "squirehellmanoth00ahoj",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1876,
+    1887,
+    1890
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "2025 is the Internet Archive digitising line"
+  },
+  "sf3-asch-america": {
+   "ia": "america00asch",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1901,
+    1902,
+    1905,
+    1906,
+    1907,
+    1910,
+    1918
    ],
    "post_1930_years_in_front_15k": []
   }

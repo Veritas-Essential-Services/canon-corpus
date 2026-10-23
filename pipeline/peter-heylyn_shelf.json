@@ -1,0 +1,200 @@
+{
+ "_about": "Public-domain Peter Heylyn (1599-1662), Laud's chaplain, controversialist and historian, for the Word Hoard: his church histories and controversial works, Ecclesia Restaurata (Ecclesiastical History Society, 1849, two volumes), Cyprianus Anglicus, his life of Laud (1671), Aerius Redivivus, his history of the Presbyterians (1670), Ecclesia Vindicata (1657), Antidotum Lincolniense (1637), The History of the Sabbath (1636), Theologia Veterum on the Creed (1654), The Stumbling-Block of Disobedience (1658), the Historical and Miscellaneous Tracts (1681) and the Memorial of Bishop Waynflete (1851), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "heylyn"
+ ],
+ "_surname": [
+  "peter heylyn",
+  "heylyn",
+  "heylin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "heylyn-ecclesia-restaurata-1": [
+   "ecclesiarestaura01heyl",
+   "Ecclesia restaurata; or, The history of the Reformation of the Church of England, vol. 1 (Cambridge: Ecclesiastical History Society, 1849)"
+  ],
+  "heylyn-ecclesia-restaurata-2": [
+   "ecclesiarestaura02heyl",
+   "Ecclesia restaurata; or, The history of the Reformation of the Church of England, vol. 2 (Cambridge: Ecclesiastical History Society, 1849)"
+  ],
+  "heylyn-cyprianus-anglicus-1671": [
+   "cyprianusanglicu00heyl",
+   "Cyprianus anglicus:, or, The history of the life and death, of the most reverend and renowned prelate William by divine providence, Lord Archbishop of Canterbury, Primate of all England, and Metropolitan, chancellor of the Universities of Oxon. and Dublin, and one of the Lords of the Privy Council to His late Most Sacred Majesty King Charles the First, second Monarch of Great Britain : Containing also the ecclesiastical history of the three kingdoms of England, Scotland, and Ireland from his first rising till his death (London : Printed by J[ohn]. M[acock]. for A. Seile, and are to be sold by George Sawbridge, J. Martyn, T. Williams, J. Place, E. Brewster, J. Starkey, T. Basset, R. Horne, H. Brome, J. Wright, R. Chiswell, R. Boulter, B. Took., 1671)"
+  ],
+  "heylyn-aerius-redivivus-1670": [
+   "aeriusredivivuso00heyl_0",
+   "Aerius redivivus; or, The history of the Presbyterians : containing the beginnings, progress and successes of that active sect, their oppositions to monarchical and episcopal government, their innovations in the church and their imbroylments of the kingdoms and estates of Christendom in the pursuit of their designes : from the year 1536 to the year 1647 (Oxford : Printed for John Crosley [etc.], 1670)"
+  ],
+  "heylyn-ecclesia-vindicata-1657": [
+   "ecclesiavindicat00heyl",
+   "Ecclesia vindicata, or, the Church of England justified : I. In the way and manner of her Reformation. II. In officiating by a publick liturgie. III. In prescribing a set form of prayer to be used by preachers before their sermons. IV. In her right and patrimony of tithes. V. In retaining the episcopal government. And therewith, VI. The canonical ordination of priests and deacons (London : Printed by E. Cotes [and Richard Hodgkinson] for Henry Seile over against St. Dunstans Church in Fleetstreet, 1657)"
+  ],
+  "heylyn-antidotum-lincolniense-1637": [
+   "antidotvmlincoln00heyluoft",
+   "Antidotvm Lincolniense, or, An answer to a book entitvled, The holy table, name, & thing, etc. Said to be written long agoe by a Minister in Lincolnshire, and printed for the Diocese of Lincolne, [Anno] 1637 (London : Printed for John Clark ..., 1637)"
+  ],
+  "heylyn-history-of-sabbath-1636": [
+   "bim_early-english-books-1475-1640_the-history-of-the-sabba_heylyn-peter_1636",
+   "The history of the sabbath.  1636 (England : Printed [by E. Purslowe, Thomas Harper, and Thomas Cotes] for Henry Seile, and are to bee sold at the signe of the Tygers-head in Saint Pauls Church-yard, 1636)"
+  ],
+  "heylyn-theologia-veterum-1654": [
+   "bim_early-english-books-1641-1700_theologia-veterum-or-th_heylyn-peter_1654",
+   "Theologia veterum, or the summe. ...  1654 (catalogued 1654)"
+  ],
+  "heylyn-stumbling-block-1658": [
+   "stumblingblockof00heyluoft",
+   "The stumbling-block of disobedience and rebellion, cunningly laid by Calvin in the subjects way, discovered, censured, and removed (London : Printed by E. Cotes for H. Seile over St. Dunstans Church in Fleet Street, 1658)"
+  ],
+  "heylyn-historical-tracts-1681": [
+   "bim_early-english-books-1641-1700_the-historical-and-misce_heylyn-peter_1681",
+   "The historical and miscellaneous tracts ...  1681 (catalogued 1681)"
+  ],
+  "heylyn-waynflete-1851": [
+   "memorialofbishop00heyluoft",
+   "Memorial of Bishop Waynflete : founder of St. Mary Magdalen College, Oxford (London : Caxton Society, 1851)"
+  ]
+ },
+ "_alternates": {
+  "heylyn-copies": "Other printings of each work (1660-1674 Ecclesia Restaurata, 1668 and 1719 Cyprianus, 1672 Aerius, 1673 Theologia Veterum; the Google and Cambridge 1849 sets)"
+ },
+ "_excluded": {
+  "heylyn-secular": "His geographies (Microcosmus 1621-1639, Cosmographie 1652-1703), A Help to English History, the Survey of France, the History of St George, Augustus, and his Civil War newsletters: secular works, outside lane A's theology scope; and sermons by John Heylyn (1685-1759), a different man"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "heylyn-coale-from-the-altar-1636": "A Coale from the Altar (1636), printed as by 'a judicious and learned divine'; the attribution to Heylyn is the catalogue's, not the title page's"
+ },
+ "_translators": {},
+ "_checks": {
+  "heylyn-ecclesia-restaurata-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter heylyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heylyn-ecclesia-restaurata-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter heylyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heylyn-cyprianus-anglicus-1671": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heylyn",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1671",
+   "ia_date": "1671",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heylyn-aerius-redivivus-1670": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter heylyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1670",
+   "ia_date": "1670",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heylyn-ecclesia-vindicata-1657": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter heylyn",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1657",
+   "ia_date": "1657",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heylyn-antidotum-lincolniense-1637": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heylyn",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1637",
+   "ia_date": "1637",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heylyn-history-of-sabbath-1636": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heylyn",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1636",
+   "ia_date": "1636",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heylyn-theologia-veterum-1654": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter heylyn",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heylyn-stumbling-block-1658": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heylyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1658",
+   "ia_date": "1658",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "heylyn-historical-tracts-1681": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "peter heylyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1681",
+   "ia_date": "1681",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "heylyn-waynflete-1851": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "heylyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

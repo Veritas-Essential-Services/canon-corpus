@@ -3952,6 +3952,46 @@
    "finished": "2026-10-22T22:31-05:00",
    "scope": "GAP-FILL (round 123, lane C's choice; Adam may veto) -- alys-hallard +4 (Coulevain), singles-continental-fiction +9; PD printings before 1931 only; no minting",
    "notes": "13 titles; ids checked across all branches. See DIGEST-C round 123. No uids minted."
+  },
+  {
+   "id": "gapfill-r124-south-east",
+   "status": "done",
+   "started": "2026-10-22T22:40-05:00",
+   "finished": "2026-10-22T22:40-05:00",
+   "scope": "GAP-FILL (round 124, lane C's choice; Adam may veto) -- italian-classics +3, hispanic-classics +2, singles-fiction-3 +2, singles-plays-poetry-2 +1; PD printings before 1931 only; no minting",
+   "notes": "8 titles; ids checked across all branches. See DIGEST-C round 124. No uids minted."
+  },
+  {
+   "id": "gapfill-r125-german-moderns",
+   "status": "done",
+   "started": "2026-10-22T22:48-05:00",
+   "finished": "2026-10-22T22:48-05:00",
+   "scope": "GAP-FILL (round 125, lane C's choice; Adam may veto) -- new willa-edwin-muir (2), lowe-porter +1, scheffauer +1, singles-plays-poetry-2 +5, singles-fiction-3 +1; PD printings before 1931 only; no minting",
+   "notes": "10 titles; ids checked across all branches. Success (1930) to _pending. See DIGEST-C round 125. No uids minted."
+  },
+  {
+   "id": "gapfill-r126-scandinavian",
+   "status": "done",
+   "started": "2026-10-22T22:53-05:00",
+   "finished": "2026-10-22T22:53-05:00",
+   "scope": "Scandinavian novels of the 1920s: Undset, Heidenstam, Bang, Aho",
+   "notes": "7 titles on chater, cw-stork, singles-fiction-3; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r127-goldberg",
+   "status": "done",
+   "started": "2026-10-22T22:58-05:00",
+   "finished": "2026-10-22T22:58-05:00",
+   "scope": "Isaac Goldberg on archive.org: Yiddish and Italian plays; Pinski, Asch",
+   "notes": "10 titles on isaac-goldberg, lewisohn, singles-fiction-3; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r128-teixeira",
+   "status": "done",
+   "started": "2026-10-22T23:06-05:00",
+   "finished": "2026-10-22T23:06-05:00",
+   "scope": "Teixeira de Mattos on archive.org: first of the Gutenberg-only translator shelves",
+   "notes": "11 titles on teixeira-de-mattos; 0 mismatched, 0 rights flags"
   }
  ]
 }

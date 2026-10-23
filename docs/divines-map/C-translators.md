@@ -1285,7 +1285,7 @@ Round 18 (2026-10-10), vetoable. His Cousin Betty is held on adler_shelf.json. N
 ## Alexander Teixeira de Mattos (Fabre, Maeterlinck, Couperus, Leblanc, Chateaubriand)
 
 Shelf: `pipeline/teixeira-de-mattos_shelf.json` · fetch `python3 pipeline/fetch_shelf.py teixeira-de-mattos` · titles `python3 pipeline/split_shelf_titles.py teixeira-de-mattos`.
-Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_shelf.json. Not converted to unit-id JSON; **no uids minted**.
+Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_shelf.json. Round 128 added eleven archive.org books Gutenberg lacks (Maeterlinck x3, Leblanc, Zola, Oudinot, Israëls, Kruger, Grenard, Marius, Castellane). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1348,6 +1348,17 @@ Round 19 (2026-10-10), vetoable. Carl Ewald is left to the other lane's ewald_sh
 | `teixeira-de-mattos-paoli-their-majesties-as-i-knew-them-personal` | Xavier Paoli | Their Majesties as I Knew Them Personal Reminiscences of the Kings and Queens of Europe | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 45786 |
 | `teixeira-de-mattos-streuvels-the-path-of-life` | Stijn Streuvels | The Path of Life | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 8437 |
 | `teixeira-de-mattos-tocqueville-the-recollections-of-alexis-de-tocquevil` | Alexis de Tocqueville | The Recollections of Alexis de Tocqueville | Alexander Teixeira de Mattos | 1894-1922 (he died 1921; see the Gutenberg header) | have | PG 37892 |
+| `teixeira-de-mattos-maeterlinck-the-measure-of-the-hours` | Maurice Maeterlinck | The Measure of the Hours | Alexander Teixeira de Mattos | 1907 | have-raw | IA `cu31924052989138` |
+| `teixeira-de-mattos-maeterlinck-the-intelligence-of-the-flowers` | Maurice Maeterlinck | The Intelligence of the Flowers | Alexander Teixeira de Mattos | 1907 | have-raw | IA `intelligenceflo00maetgoog` |
+| `teixeira-de-mattos-maeterlinck-the-light-beyond` | Maurice Maeterlinck | The Light Beyond | Alexander Teixeira de Mattos | 1917 | have-raw | IA `cu31924028951719` |
+| `teixeira-de-mattos-leblanc-maeterlincks-dogs` | Georgette Leblanc | Maeterlinck's Dogs | Alexander Teixeira de Mattos | 1919 | have-raw | IA `maeterlincksdogs00leblrich` |
+| `teixeira-de-mattos-zola-the-heirs-of-rabourdin` | Émile Zola | The Heirs of Rabourdin: A Comedy in Three Acts | Alexander Teixeira de Mattos | 1894 | have-raw | IA `heirsofrabourdin00zolarich` |
+| `teixeira-de-mattos-oudinot-memoirs-of-marshal-oudinot` | Gaston Stiegler (ed.), from the reminiscences of the Duchesse de Reggio | Memoirs of Marshal Oudinot, Duc de Reggio | Alexander Teixeira de Mattos | 1896 | have-raw | IA `memoirsofmarshal00oudiuoft` |
+| `teixeira-de-mattos-israels-spain` | Jozef Israëls | Spain: The Story of a Journey | Alexander Teixeira de Mattos | 1900 | have-raw | IA `spainstoryajour00isragoog` |
+| `teixeira-de-mattos-kruger-the-memoirs-of-paul-kruger` | Paul Kruger (as told to H. C. Bredell and Piet Grobler; ed. A. Schowalter) | The Memoirs of Paul Kruger, Four Times President of the South African Republic | Alexander Teixeira de Mattos | 1902 | have-raw | IA `memoirsofpaulkr00krug` |
+| `teixeira-de-mattos-grenard-tibet` | Fernand Grenard | Tibet: The Country and Its Inhabitants | Alexander Teixeira de Mattos | 1904 | have-raw | IA `in.ernet.dli.2015.208773` |
+| `teixeira-de-mattos-marius-dutch-painting` | G. H. Marius | Dutch Painting in the Nineteenth Century | Alexander Teixeira de Mattos | 1908 | have-raw | IA `dutchpaintinginn00mari` |
+| `teixeira-de-mattos-castellane-men-and-things-of-my-time` | Boni de Castellane | Men and Things of My Time | Alexander Teixeira de Mattos | 1911 | have-raw | IA `menthingsofmytim00castuoft` |
 | — | — | pg-27991: The Blue Bird for Children: Perkins's retelling for schools, not the play. | — | — | excluded | — |
 | — | — | pg-45812: Insect Adventures: Louise Zimm's selection for children from the translation. | — | — | excluded | — |
 | — | — | pg-67000: Fabre's Book of Insects: Mrs Rodolph Stawell's retelling, not the translation itself. | — | — | excluded | — |
@@ -1668,7 +1679,7 @@ Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelv
 ## Arthur G. Chater (Amundsen, Nansen, Brandes, Hamsun)
 
 Shelf: `pipeline/chater_shelf.json` · fetch `python3 pipeline/fetch_shelf.py chater` · titles `python3 pipeline/split_shelf_titles.py chater`.
-Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Round 126 added Undset's The Axe, Heidenstam's The Tree of the Folkungs and Bang's Ida Brandt. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1679,6 +1690,9 @@ Round 22 (2026-10-10), vetoable. One title is a 1930 Knopf printing. Not convert
 | `chater-key-love-and-marriage` | Ellen Key | Love and Marriage | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 57592 |
 | `chater-nansen-in-northern-mists-arctic-exploration-in-vol-1` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 1 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40633 |
 | `chater-nansen-in-northern-mists-arctic-exploration-in-vol-2` | Fridtjof Nansen | In Northern Mists: Arctic Exploration in Early Times (Volume 2 of 2) | Arthur G. Chater | 1911-1930 (see the Gutenberg header) | have | PG 40634 |
+| `chater-undset-the-axe` | Sigrid Undset | The Axe (The Master of Hestviken I) | Arthur G. Chater | 1928 | have-raw | IA `axetranslatedfro0000unse` |
+| `chater-heidenstam-the-tree-of-the-folkungs` | Verner von Heidenstam | The Tree of the Folkungs | Arthur G. Chater | 1925 | have-raw | IA `treeoffolkungs0000vern` |
+| `chater-bang-ida-brandt` | Herman Bang | Ida Brandt | Arthur G. Chater | 1929 | have-raw | IA `bwb_S0-BGE-232` |
 | — | — | south-pole-volumes: The South Pole's two Gutenberg volume files (3414, 3415) are left out; 4229 holds both volumes. | — | — | excluded | — |
 
 ## Daniel De Leon (Sue's Mysteries of the People; Bebel)
@@ -1768,7 +1782,7 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Isaac Goldberg (Baroja, Blasco Ibáñez, Brazilian Tales, Gourmont, Pinski)
 
 Shelf: `pipeline/isaac-goldberg_shelf.json` · fetch `python3 pipeline/fetch_shelf.py isaac-goldberg` · titles `python3 pipeline/split_shelf_titles.py isaac-goldberg`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 127 added eight archive.org books: Asch, Pinski, the two Yiddish Theatre volumes and Plays of the Italian Theatre. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1781,6 +1795,14 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `isaac-goldberg-ibanez-luna-benamor` | Vicente Blasco Ibáñez | Luna Benamor | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 21870 |
 | `isaac-goldberg-ibanez-the-torrent-entre-naranjos` | Vicente Blasco Ibáñez | The Torrent (Entre Naranjos) | Isaac Goldberg (with Arthur Livingston) | 1917-1927 (see the Gutenberg header) | have | PG 11674 |
 | `isaac-goldberg-pinski-temptations` | David Pinski | Temptations | Isaac Goldberg | 1917-1927 (see the Gutenberg header) | have | PG 71439 |
+| `isaac-goldberg-asch-the-god-of-vengeance` | Sholom Asch | The God of Vengeance: Drama in Three Acts | Isaac Goldberg | 1918 | have-raw | IA `cu31924026883102` |
+| `isaac-goldberg-asch-uncle-moses` | Sholom Asch | Uncle Moses: A Novel | Isaac Goldberg | 1920 | have-raw | IA `unclemosesnovel00asch` |
+| `isaac-goldberg-six-plays-of-the-yiddish-theatre` | David Pinski, Sholom Asch, Perez Hirschbein and Solomon J. Rabinowitsch (Sholom Aleichem) | Six Plays of the Yiddish Theatre | Isaac Goldberg | 1916 | have-raw | IA `sixplaysofyiddis00golduoft` |
+| `isaac-goldberg-six-plays-of-the-yiddish-theatre-2` | David Pinski, Perez Hirschbein, Z. Levin and Leon Kobrin | Six Plays of the Yiddish Theatre, Second Series | Isaac Goldberg | 1918 | have-raw | IA `six00playsofyiddisgoldrich` |
+| `isaac-goldberg-pinski-three-plays` | David Pinski | Three Plays (Isaac Sheftel, The Last Jew, The Dumb Messiah) | Isaac Goldberg | 1918 | have-raw | IA `threeplays00pins` |
+| `isaac-goldberg-pinski-ten-plays` | David Pinski | Ten Plays | Isaac Goldberg | 1920 | have-raw | IA `tenplays00pinsiala` |
+| `isaac-goldberg-pinski-king-david-and-his-wives` | David Pinski | King David and His Wives | Isaac Goldberg | 1923 | have-raw | IA `kingdavidhiswive0000davi` |
+| `isaac-goldberg-plays-of-the-italian-theatre` | Giovanni Verga, Ercole Luigi Morselli, Sabatino Lopez and Luigi Pirandello | Plays of the Italian Theatre | Isaac Goldberg | 1921 | have-raw | IA `playsofitalianth00gold` |
 
 ## Thomas Roscoe (Lanzi's History of Painting in Italy; Pellico)
 
@@ -2343,7 +2365,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Ludwig Lewisohn (Wassermann, Sudermann)
 
 Shelf: `pipeline/lewisohn_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lewisohn` · titles `python3 pipeline/split_shelf_titles.py lewisohn`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Round 127 added Pinski's The Treasure. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2351,6 +2373,7 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `lewisohn-wassermann-the-goose-man` | Jakob Wassermann | The Goose Man | Ludwig Lewisohn (with Allen Wilson Porterfield) | 1911-1922 (see the Gutenberg header) | have | PG 25345 |
 | `lewisohn-wassermann-the-world-s-illusion-volume-1-of-2-eva` | Jakob Wassermann | The World's Illusion, Volume 1 (of 2): Eva | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 54794 |
 | `lewisohn-wassermann-the-world-s-illusion-volume-2-of-2-ruth` | Jakob Wassermann | The World's Illusion, Volume 2 (of 2): Ruth | Ludwig Lewisohn | 1911-1922 (see the Gutenberg header) | have | PG 57847 |
+| `lewisohn-pinski-the-treasure` | David Pinski | The Treasure: A Drama in Four Acts | Ludwig Lewisohn | 1915 | have-raw | IA `treasureadramai00pinsgoog` |
 
 ## Henri Van Laun (Taine's History of English Literature; La Bruyère)
 
@@ -2637,13 +2660,14 @@ Round 29 (2026-10-10), vetoable. Selected Polish Tales is keyed from a 1944 repr
 ## H. T. Lowe-Porter (Mann's Buddenbrooks, 2 vols; Three Essays)
 
 Shelf: `pipeline/lowe-porter_shelf.json` · fetch `python3 pipeline/fetch_shelf.py lowe-porter` · titles `python3 pipeline/split_shelf_titles.py lowe-porter`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 125 (2026-10-23) added The Magic Mountain (Secker, 1928 one-volume reprint). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `lowe-porter-mann-buddenbrooks-vol-1` | Thomas Mann | Buddenbrooks, volume 1 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72961 |
 | `lowe-porter-mann-buddenbrooks-vol-2` | Thomas Mann | Buddenbrooks, volume 2 of 2 | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 72962 |
 | `lowe-porter-mann-three-essays` | Thomas Mann | Three essays | H. T. Lowe-Porter | 1924-1929 (see the Gutenberg header) | have | PG 76837 |
+| `lowe-porter-mann-the-magic-mountain` | Thomas Mann | The Magic Mountain | H. T. Lowe-Porter | 1927 | have-raw | IA `magicmountain0000thom_x1b4` |
 
 ## Richard Aldington (Benda's Great Betrayal; Cyrano's Voyages; Sologub; Goldoni)
 
@@ -3390,12 +3414,13 @@ Round 32 (2026-10-10), vetoable. Three Plays is keyed from a post-1934 printing:
 ## Herman Scheffauer (Heine's Atta Troll; Mann's Bashan and I)
 
 Shelf: `pipeline/scheffauer_shelf.json` · fetch `python3 pipeline/fetch_shelf.py scheffauer` · titles `python3 pipeline/split_shelf_titles.py scheffauer`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 125 (2026-10-23) added Mann's Children and Fools (1928). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `scheffauer-heine-atta-troll` | Heinrich Heine | Atta Troll | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 31305 |
 | `scheffauer-mann-bashan-and-i` | Thomas Mann | Bashan and I | Herman Scheffauer | 1913-1923 (see the Gutenberg header) | have | PG 61284 |
+| `scheffauer-mann-children-and-fools` | Thomas Mann | Children and Fools | Herman George Scheffauer | 1928 | have-raw | IA `childrenfools0000thom` |
 
 ## Percy Pinkerton (Artsybashev's Sanine, The Millionaire, Tales of the Revolution and War; La Bohème libretto)
 
@@ -3585,7 +3610,7 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Charles Wharton Stork (Modern Swedish Masterpieces; Söderberg; Heidenstam's Charles Men I, 1920; Fröding's Selected Poems, 1916)
 
 Shelf: `pipeline/cw-stork_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cw-stork` · titles `python3 pipeline/split_shelf_titles.py cw-stork`.
-Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. Two titles added in round 90. Round 103: one title moved to _pending (its only scan is a library photocopy). Round 117 added Fröding's Selected Poems. Round 126 added Heidenstam's The Charles Men II and The Swedes and Their Chieftains. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -3593,6 +3618,8 @@ Round 33 (2026-10-10), vetoable. Martin Birck's Youth is a 1930 first edition. T
 | `cw-stork-stork-modern-swedish-masterpieces-short-storie` | Charles Wharton Stork | Modern Swedish Masterpieces: Short Stories | Charles Wharton Stork | 1923-1930 (see the Gutenberg header) | have | PG 64808 |
 | `cw-stork-heidenstam-charles-men-1` | Verner von Heidenstam | The Charles Men (Karolinerna), Part I | Charles Wharton Stork | 1920 | have-raw | IA `charlesmen01heid` |
 | `cw-stork-froding-selected-poems` | Gustaf Fröding | Selected Poems | Charles Wharton Stork | 1916 | have-raw | IA `selectedpoems00frodiala` |
+| `cw-stork-heidenstam-charles-men-2` | Verner von Heidenstam | The Charles Men (Karolinerna), Part II | Charles Wharton Stork | 1920 | have-raw | IA `charlesmenv20000vern` |
+| `cw-stork-heidenstam-the-swedes-and-their-chieftains` | Verner von Heidenstam | The Swedes and Their Chieftains | Charles Wharton Stork | 1925 | have-raw | IA `swedestheirchief0000heid` |
 | `cw-stork-anthology-of-swedish-lyrics` | — | Stork's Anthology of Swedish Lyrics (American-Scandinavian Foundation, 1917; IA scan): the only scan found (IA anthologyswedis00storgoog) is a library preservation photocopy on acid-free paper by Acme Bookbinding, Charlestown, Massachusetts (ANSI/NISO Z39.48-1992, so 1992 or later), so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 
 ## S. A. Stern (Auerbach's On the Heights; Waldfried)
@@ -5637,7 +5664,7 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra, Phillips's Petőfi)
 
 Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
-Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 added Lermontov's Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Russian poems (1917). Not converted to unit-id JSON; **no uids minted**.
+Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 added Lermontov's Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Russian poems (1917). Round 124 added Rustaveli (Wardrop, 1912). Round 125 added Werfel ×2, Toller ×2 and Kaiser. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5687,13 +5714,19 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 | `singles-plays-poetry-2-lermontov-demon-storr` | Mikhail Lermontov | The Demon of Lermontoff | Francis Storr | 1894 | have-raw | IA `demonoflermontof00lerm` |
 | `singles-plays-poetry-2-lermontov-demon-burness` | Mikhail Lermontov | The Demon | Robert Burness | 1918 | have-raw | IA `demonthe00lermrich` |
 | `singles-plays-poetry-2-rudzinsky-russian-poems` | Karamzin, Pushkin, Tyutchev, Lermontov, A. K. Tolstoy and others | Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov, Count A. Tolstoy and others, with English translations and notes | B. A. Rudzinsky, assisted by Stella Gardiner | 1917 | have-raw | IA `poemsselectedfro00rudz` |
+| `singles-plays-poetry-2-rustaveli-man-in-the-panthers-skin` | Shota Rustaveli | The Man in the Panther's Skin: a Romantic Epic | Marjory Scott Wardrop | 1912 | have-raw | IA `maninpanthersski0000shot` |
+| `singles-plays-poetry-2-werfel-goat-song` | Franz Werfel | Goat Song: a Drama in Five Acts | Ruth Langner | 1926 | have-raw | IA `goatsong0000fran_w9f5` |
+| `singles-plays-poetry-2-werfel-juarez-and-maximilian` | Franz Werfel | Juarez and Maximilian: a Dramatic History in Three Phases and Thirteen Pictures | Ruth Langner | 1926 | have-raw | IA `juarezmaximilian0000fran` |
+| `singles-plays-poetry-2-toller-masses-and-man` | Ernst Toller | Masses and Man: a Fragment of the Social Revolution of the Twentieth Century | Vera Mendel | 1923 | have-raw | IA `massesmanfragmen0000toll` |
+| `singles-plays-poetry-2-toller-brokenbrow` | Ernst Toller | Brokenbrow: a Tragedy | Vera Mendel | 1926 | have-raw | IA `brokenbrowtraged00tolluoft` |
+| `singles-plays-poetry-2-kaiser-from-morn-to-midnight` | Georg Kaiser | From Morn to Midnight: a Play in Seven Scenes | Ashley Dukes | 1922 | have-raw | IA `frommorntomidnig00kais` |
 | `krylov-kriloffs-fables-coxwell` | — | C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan. | — | — | pending | — |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Round 124 added Vikelas twice (1881, 1894). Round 125 added Jensen's Gradiva (1918). Round 126 added Undset's The Mistress of Husaby and Aho's Squire Hellman. Round 127 added Asch's America. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5785,6 +5818,12 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-tollemache-russian-sketches` | Nikolai Leskov and others | Russian Sketches, Chiefly of Peasant Life | Beatrix L. Tollemache | 1913 | have-raw | IA `russiansketchesc00tolliala` |
 | `singles-fiction-3-gogol-taras-bulba-baskerville` | Nikolai Gogol | Taras Bulba: a Story of the Dnieper Cossacks | B. C. Baskerville | 1907 | have-raw | IA `tarasbulbaastor00baskgoog` |
 | `singles-fiction-3-pushkin-russian-romance-telfer` | Aleksandr Pushkin | Russian Romance (The Captain's Daughter and other tales) | Mrs. J. Buchan Telfer | 1875 | have-raw | IA `russianromance00pushiala` |
+| `singles-fiction-3-vikelas-loukis-laras` | Demetrios Vikelas | Loukis Laras: Reminiscences of a Chiote Merchant during the War of Independence | J. Gennadius | 1881 | have-raw | IA `loukislarasremin00vike` |
+| `singles-fiction-3-vikelas-tales-from-the-aegean` | Demetrios Vikelas | Tales from the Aegean | Leonard Eckstein Opdycke | 1894 | have-raw | IA `talesfromgean00opdygoog` |
+| `singles-fiction-3-jensen-gradiva` | Wilhelm Jensen | Gradiva: a Pompeiian Fancy | Helen M. Downey | 1918 | have-raw | IA `gradivaapompeii00jensgoog` |
+| `singles-fiction-3-undset-the-mistress-of-husaby` | Sigrid Undset | The Mistress of Husaby (Kristin Lavransdatter II) | Charles Archer | 1925 | have-raw | IA `bwb_S0-BLO-546` |
+| `singles-fiction-3-aho-squire-hellman` | Juhani Aho | Squire Hellman, and Other Stories | R. Nisbet Bain | 1893 | have-raw | IA `squirehellmanoth00ahoj` |
+| `singles-fiction-3-asch-america` | Sholom Asch | America | James Fuchs | 1918 | have-raw | IA `america00asch` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -6886,7 +6925,7 @@ Round 89 (2026-10-17), vetoable. Three titles added in round 91; Garborg's Peace
 ## Shelf: Italian classics in English before 1931: Black's Goldoni Memoirs (1814), Bax's Four Comedies, Fraser's The Liar, van Steenderen's Goldoni on Playwriting, Lloyd's Alfieri Tragedies (1815), Lester's Alfieri Autobiography (1845), Carducci by Sewall, Arms, Holland, Bickersteth, Gilbert and Tribe, Goddard's Guicciardini History of Italy (10 vols, 1753-56), Thomson's and Emma Martin's Guicciardini maxims, Maffei's d'Azeglio Recollections, Ettore Fieramosca by Lester and by Lady Louisa Magenis, Garrow's Niccolini, and Tassoni's Rape of the Bucket by Ozell and by Atkinson
 
 Shelf: `pipeline/italian-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py italian-classics` · titles `python3 pipeline/split_shelf_titles.py italian-classics`.
-Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans; round 107 added Niccolini's Arnold of Brescia; round 114 added Tassoni twice (Ozell 1715, Atkinson 1825). Not converted to unit-id JSON; **no uids minted**.
+Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.org scans; round 107 added Niccolini's Arnold of Brescia; round 114 added Tassoni twice (Ozell 1715, Atkinson 1825). Round 124 (2026-10-23) added Neera, Barrili and Manzoni's Sacred Hymns. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6925,6 +6964,9 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 | `italian-classics-niccolini-arnold-of-brescia` | Giovanni Battista Niccolini | Arnold of Brescia: a Tragedy | Theodosia Garrow | 1846 | have-raw | IA `arnoldbresciaat00niccgoog` |
 | `italian-classics-tassoni-rape-of-the-bucket-atkinson` | Alessandro Tassoni | La Secchia Rapita, or The Rape of the Bucket, an Heroi-Comical Poem | James Atkinson | 1825 | have-raw | IA `dli.ministry.15986` |
 | `italian-classics-tassoni-rape-of-the-bucket-ozell` | Alessandro Tassoni | The Rape of the Bucket, an Heroi-Comical Poem, the First of the Kind | John Ozell | 1715 | have-raw | IA `bim_eighteenth-century_the-rape-of-the-bucket-_tassoni-alessandro_1715` |
+| `italian-classics-neera-soul-of-an-artist` | Neera (Anna Radius Zuccari) | The Soul of an Artist | E. L. Murison | 1905 | have-raw | IA `soulofartist00neeriala` |
+| `italian-classics-barrili-a-noble-kinsman` | Anton Giulio Barrili | A Noble Kinsman | H. A. Martin | 1885 | have-raw | IA `noblekinsmannove00barr` |
+| `italian-classics-manzoni-sacred-hymns` | Alessandro Manzoni | The Sacred Hymns (Gl'inni sacri) and The Napoleonic Ode (Il cinque maggio) | Joel Foote Bingham | 1904 | have-raw | IA `sacredhymnsglinn00manzuoft` |
 | — | — | zimmern-comedies-of-goldoni: The Comedies of Carlo Goldoni (McClurg, 1892) is edited with an introduction by Helen Zimmern; the translator is not named in the scan, so the gate cannot check one. | — | — | excluded | — |
 | — | — | three-comedies-1907: Three Comedies (National Alumni, 1907) is a composite volume whose translators are listed only collectively; no single translator can be checked. | — | — | excluded | — |
 | — | — | fanshawe-pastor-fido: The 1647 Il Pastor Fido (London, R. Raworth) does not name its translator anywhere in the scan's text, so the gate cannot check one. | — | — | excluded | — |
@@ -6934,7 +6976,7 @@ Round 92 (2026-10-17), vetoable. Round 105 (2026-10-17) added 17 period archive.
 ## Shelf: Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's Benavente (4 series), Martínez Sierra (Underhill, Granville-Barkers), Ogden's Isaacs María, Mrs. Horace Mann's Sarmiento, Isabel Burton's Alencar Iraçéma, Walsh and de la Selva's Darío
 
 Shelf: `pipeline/hispanic-classics_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hispanic-classics` · titles `python3 pipeline/split_shelf_titles.py hispanic-classics`.
-Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103 Round 111 added Langton's Espinel, Marcos de Obregón (1816), Gracián in Saldkeld's Compleat Gentleman (1730) and Jacobs's Art of Worldly Wisdom (1904 printing), and North's Guevara, Dial of Princes (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920). Not converted to unit-id JSON; **no uids minted**.
+Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil Vicente added round 103 Round 111 added Langton's Espinel, Marcos de Obregón (1816), Gracián in Saldkeld's Compleat Gentleman (1730) and Jacobs's Art of Worldly Wisdom (1904 printing), and North's Guevara, Dial of Princes (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920). Round 124 added Alarcón's The Three-Cornered Hat (1918) and Dinis's The Fidalgos of Casa Mourisca (1891). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -6960,6 +7002,8 @@ Round 93 (2026-10-17), vetoable. The Cid (Ormsby, Huntington), Herculano and Gil
 | `hispanic-classics-churton-gongora-vol-1` | Luis de Góngora | Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. I | Edward Churton | 1862 | have-raw | IA `gongorahistorica01chur` |
 | `hispanic-classics-churton-gongora-vol-2` | Luis de Góngora | Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. II | Edward Churton | 1862 | have-raw | IA `gongorahistorica02chur` |
 | `hispanic-classics-aranha-canaan` | Graça Aranha | Canaan | Mariano Joaquín Lorente | 1920 | have-raw | IA `canaanaran00aranuoft` |
+| `hispanic-classics-alarcon-three-cornered-hat` | Pedro Antonio de Alarcón | The Three-Cornered Hat (El sombrero de tres picos) | Jacob S. Fassett Jr. | 1918 | have-raw | IA `threecorneredha00alar` |
+| `hispanic-classics-dinis-fidalgos-of-casa-mourisca` | Júlio Dinis | The Fidalgos of Casa Mourisca | Roxana L. Dabney | 1891 | have-raw | IA `cu31924027881840` |
 | `hispanic-classics-mendes-pinto-voyages-cogan` | — | Cogan's Voyages and Adventures of Ferdinand Mendez Pinto (Unwin, 1891, abridged; cu31924077183410): the only scan found (IA cu31924077183410) is a Cornell University Library replacement volume (1996), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before. | — | — | pending | — |
 | — | — | cradle-song-1931-printing: The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead. | — | — | excluded | — |
 | — | — | heinemann-pepita-jimenez-1891: Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page. | — | — | excluded | — |
@@ -7152,3 +7196,13 @@ Round 121 (2026-10-23), vetoable. Not converted to unit-id JSON; **no uids minte
 |---|---|---|---|---|---|---|
 | `eugene-schuyler-turgenev-fathers-and-sons` | Ivan Turgenev | Fathers and Sons | Eugene Schuyler | 1867 | have-raw | IA `fathersandsonsa00schugoog` |
 | `eugene-schuyler-tolstoy-the-cossacks` | Leo Tolstoy | The Cossacks: A Tale of the Caucasus in 1852 | Eugene Schuyler | 1878 | have-raw | IA `cossackstrbyesc00tolsgoog` |
+
+## Shelf: Willa and Edwin Muir (Feuchtwanger)
+
+Shelf: `pipeline/willa-edwin-muir_shelf.json` · fetch `python3 pipeline/fetch_shelf.py willa-edwin-muir` · titles `python3 pipeline/split_shelf_titles.py willa-edwin-muir`.
+Round 125 (2026-10-23), vetoable. Success (1930) waits in _pending on the 1930 ruling. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `willa-edwin-muir-feuchtwanger-power` | Lion Feuchtwanger | Power (Jud Süß; in Britain, Jew Süss) | Willa and Edwin Muir | 1926 | have-raw | IA `power0000lion_a6p0` |
+| `willa-edwin-muir-feuchtwanger-the-ugly-duchess` | Lion Feuchtwanger | The Ugly Duchess | Willa and Edwin Muir | 1928 | have-raw | IA `bwb_C0-CEK-906` |
