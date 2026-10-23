@@ -1,0 +1,177 @@
+{
+ "_about": "Mary Imlay Taylor's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary Imlay Taylor",
+ "_name_words": [
+  "imlay",
+  "mary",
+  "taylor"
+ ],
+ "_surname": [
+  "mary imlay taylor",
+  "imlay taylor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mitaylor-my-lady-clancarty": [
+   55706,
+   "My Lady Clancarty"
+  ],
+  "mitaylor-caleb-trench": [
+   69145,
+   "Caleb Trench"
+  ],
+  "mitaylor-cobbler-of-n-mes": [
+   69180,
+   "The cobbler of Nîmes"
+  ],
+  "mitaylor-house-of-the-wizard": [
+   70156,
+   "The house of the wizard"
+  ],
+  "mitaylor-on-the-red-staircase": [
+   70502,
+   "On the red staircase"
+  ],
+  "mitaylor-imperial-lover": [
+   72814,
+   "An imperial lover"
+  ],
+  "mitaylor-candle-in-the-wind": [
+   72828,
+   "A candle in the wind"
+  ],
+  "mitaylor-wild-fawn": [
+   72891,
+   "The wild fawn"
+  ],
+  "mitaylor-cardinals-musketeer": [
+   72908,
+   "The cardinal's musketeer"
+  ],
+  "mitaylor-reaping": [
+   72917,
+   "The reaping"
+  ],
+  "mitaylor-rebellion-of-the-princess": [
+   73608,
+   "The rebellion of the Princess"
+  ],
+  "mitaylor-long-way": [
+   73867,
+   "The long way"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mitaylor-my-lady-clancarty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-caleb-trench": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-cobbler-of-n-mes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-house-of-the-wizard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-on-the-red-staircase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-imperial-lover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-candle-in-the-wind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-wild-fawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-cardinals-musketeer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-reaping": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-rebellion-of-the-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mitaylor-long-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary imlay taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -40333,3 +40333,22 @@ Shelf: `pipeline/aunt-fanny_shelf.json` (2026-10-22; added at the coordinator's 
 | More Mittens; with The Doll's Wedding and Other Stories Being the third book of the series | have | PG 33191, `auntfanny-more-mittens` (666 units) |
 | The Orphan's Home Mittens, and George's Account of the Battle of Roanoke Island Being the Sixth and Last Book of the Series | have | PG 48608, `auntfanny-orphans-home-mittens-and-georges-account-of-the-ba` (584 units) |
 | Pop-Guns: One Serious and One Funny | have | PG 56120, `auntfanny-pop-guns` (496 units) |
+
+## Mary Imlay Taylor
+
+Shelf: `pipeline/mary-imlay-taylor_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| My Lady Clancarty | have | PG 55706, `mitaylor-my-lady-clancarty` (1650 units) |
+| Caleb Trench | have | PG 69145, `mitaylor-caleb-trench` (1874 units) |
+| The cobbler of Nîmes | have | PG 69180, `mitaylor-cobbler-of-n-mes` (1234 units) |
+| The house of the wizard | have | PG 70156, `mitaylor-house-of-the-wizard` (1374 units) |
+| On the red staircase | have | PG 70502, `mitaylor-on-the-red-staircase` (1270 units) |
+| An imperial lover | have | PG 72814, `mitaylor-imperial-lover` (1852 units) |
+| A candle in the wind | have | PG 72828, `mitaylor-candle-in-the-wind` (2242 units) |
+| The wild fawn | have | PG 72891, `mitaylor-wild-fawn` (2630 units) |
+| The cardinal's musketeer | have | PG 72908, `mitaylor-cardinals-musketeer` (1309 units) |
+| The reaping | have | PG 72917, `mitaylor-reaping` (1300 units) |
+| The rebellion of the Princess | have | PG 73608, `mitaylor-rebellion-of-the-princess` (1518 units) |
+| The long way | have | PG 73867, `mitaylor-long-way` (1663 units) |

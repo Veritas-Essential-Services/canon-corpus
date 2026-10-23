@@ -4509,6 +4509,14 @@
       "started": "2026-10-22T22:37:38-05:00",
       "finished": "2026-10-22T22:37:38-05:00",
       "notes": "aunt-fanny: new shelf, 13 Gutenberg books, 5,967 units, 235 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "mary-imlay-taylor",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Mary Imlay Taylor; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:37:54-05:00",
+      "finished": "2026-10-22T22:37:54-05:00",
+      "notes": "mary-imlay-taylor: new shelf, 12 Gutenberg books, 19,916 units, 259 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

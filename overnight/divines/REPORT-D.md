@@ -1982,3 +1982,6 @@
 
 ## 2026-10-22 22:37 CDT — aunt-fanny: done
 - aunt-fanny: new shelf, 13 Gutenberg books, 5,967 units, 235 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:37 CDT — mary-imlay-taylor: done
+- mary-imlay-taylor: new shelf, 12 Gutenberg books, 19,916 units, 259 ~2 ids; verify 0 mismatches, 0 rights flags.
