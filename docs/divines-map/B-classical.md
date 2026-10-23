@@ -8450,6 +8450,10 @@ Shelf: `pipeline/j-a-stewart_shelf.json`. One book, 1909.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Plato's Doctrine of Ideas (Clarendon Press, 1909) |  | `stewart-platos-doctrine-of-ideas-1909` | have-raw (IA `doctrineideas00stewuoft`) |
+| Notes on the Nicomachean Ethics of Aristotle, vol. I (Oxford: Clarendon Press, 1892) |  | `j-a-stewart-notes-nicomachean-ethics-1892-v1` | have-raw (IA `notesonnicomache01stewuoft`) |
+| Notes on the Nicomachean Ethics of Aristotle, vol. II (Oxford: Clarendon Press, 1892) |  | `j-a-stewart-notes-nicomachean-ethics-1892-v2` | have-raw (IA `notesonthenicoma02stewuoft`) |
+| The Myths of Plato, translated with introductory and other observations (London: Macmillan, 1905) |  | `j-a-stewart-myths-of-plato-1905` | have-raw (IA `mythsofplato00plat`) |
+| The English Manuscripts of the Nicomachean Ethics, described in relation to Bekker's manuscripts and other sources (Anecdota Oxoniensia; Oxford: Clarendon Press, 1882) |  | `j-a-stewart-english-manuscripts-ethics-1882` | have-raw (IA `englishmanuscri00stew`) |
 
 Pending (wishlist): The Myths of Plato (1905) and Notes on the Nicomachean Ethics (1892); scans below the OCR gate.
 
