@@ -9008,3 +9008,13 @@ Shelf: `pipeline/gilbert-norwood_shelf.json`. Greek and Latin drama, 1908-1925. 
 | The Art of Terence (1923) |  | `norwood-art-of-terence-1923` | have-raw (IA `artofterence00norwuoft`) |
 | The Writers of Greece (1925) |  | `norwood-writers-of-greece-1925` | have-raw (IA `in.ernet.dli.2015.123894`) |
 
+
+## J. C. Stobart (1878-1933)
+
+Shelf: `pipeline/j-c-stobart_shelf.json`. The Glory that was Greece; The Grandeur that was Rome. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Glory that was Greece: a Survey of Hellenic Culture and Civilisation (1911) |  | `stobart-glory-that-was-greece-1911` | have-raw (IA `cu31924028257255`) |
+| The Grandeur that was Rome: a Survey of Roman Culture and Civilisation (1920 printing) |  | `stobart-grandeur-that-was-rome-1920` | have-raw (IA `cu31924028254377`) |
+

@@ -1,0 +1,51 @@
+{
+ "_about": "John Clarke Stobart (1878-1933): The Glory that was Greece (1911) and The Grandeur that was Rome (1912; 1920 printing). His English-literature 'epochs' books are out of lane B's scope.",
+ "_author": "J. C. Stobart (1878-1933)",
+ "_name_words": [
+  "stobart",
+  "glory",
+  "greece",
+  "grandeur",
+  "rome"
+ ],
+ "_surname": [
+  "stobart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stobart-glory-that-was-greece-1911": [
+   "cu31924028257255",
+   "The Glory that was Greece: a Survey of Hellenic Culture and Civilisation (1911)"
+  ],
+  "stobart-grandeur-that-was-rome-1920": [
+   "cu31924028254377",
+   "The Grandeur that was Rome: a Survey of Roman Culture and Civilisation (1920 printing)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "stobart-glory-that-was-greece-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stobart-grandeur-that-was-rome-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stobart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
