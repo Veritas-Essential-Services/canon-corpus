@@ -1,32 +1,52 @@
 {
-  "_about": "H. E. Butler, Professor of Latin at University College London and Loeb translator of Quintilian and Propertius, raw IA OCR of Post-Augustan Poetry (1909). Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
-  "_author": "H. E. Butler",
-  "_name_words": [
-    "butler"
+ "_about": "H. E. Butler, Professor of Latin at University College London and Loeb translator of Quintilian and Propertius, raw IA OCR of Post-Augustan Poetry (1909). Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.  Round ea adds his commentary on Aeneid VI (1920).",
+ "_author": "H. E. Butler",
+ "_name_words": [
+  "butler"
+ ],
+ "_surname": [
+  "h. e. butler"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "h-e-butler-post-augustan-poetry-1909": [
+   "postaugustanpoet00butluoft",
+   "Post-Augustan Poetry from Seneca to Juvenal, by H. E. Butler (Oxford: Clarendon Press, 1909)"
   ],
-  "_surname": [
-    "h. e. butler"
-  ],
-  "ccel": {},
-  "gutenberg": {},
-  "internet_archive": {
-    "h-e-butler-post-augustan-poetry-1909": [
-      "postaugustanpoet00butluoft",
-      "Post-Augustan Poetry from Seneca to Juvenal, by H. E. Butler (Oxford: Clarendon Press, 1909)"
-    ]
+  "h-e-butler-sixth-book-of-the-aeneid-1920": [
+   "sixthbookofaenei00virguoft",
+   "The Sixth Book of the Aeneid, with introduction and notes by H. E. Butler, Professor of Latin in London University (Virgilian Studies; Oxford: Basil Blackwell, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "h-e-butler-post-augustan-poetry-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. e. butler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   },
-  "_excluded": {},
-  "_checks": {
-    "h-e-butler-post-augustan-poetry-1909": {
-      "kind": "ia",
-      "checked": "2026-10-23",
-      "name_check": "surname",
-      "author_seen": "h. e. butler",
-      "identity": "ok",
-      "ia_rights": "ok: published 1909",
-      "ia_date": "1909",
-      "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
-      "ia_lending": null
-    }
+  "h-e-butler-sixth-book-of-the-aeneid-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
+ },
+ "_identity_checked": {
+  "h-e-butler-sixth-book-of-the-aeneid-1920": {
+   "author": "HE BUTLER, MA. PROFESSOR OF LATIN IN LONDON UNIVERSITY"
+  }
+ }
 }
