@@ -10356,3 +10356,15 @@ Slugs `jones-*`. Built from title pages read for round 42.
 | The Scholar Armed (1812), a collection of tracts by several writers that he began: a compilation | pending | not shelved |
 | Separate Catholic Doctrine of a Trinity (1813), Lectures on the Figurative Language of Scripture (1789), the 1801 and 1810 Works: all inside the 1826 Works | alternate | not shelved |
 | Essay on the First Principles of Natural Philosophy (1762) and other physics pieces | excluded | |
+
+## John Hey (round 42, my pick, 2026-10-22)
+
+Slugs `hey-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures in divinity, vol. 1 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini01heyj` |
+| Lectures in divinity, vol. 2 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini02heyj` |
+| Lectures in divinity (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini00heyj` |
+| Lectures in divinity, vol. 4 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini04heyj` |
+| The 1841 two-volume reprint | alternate | not shelved |
