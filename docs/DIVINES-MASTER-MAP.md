@@ -9527,6 +9527,124 @@ Slugs `rfurman-*`. Built from title pages read for round 39.
 | Humble Submission to Divine Sovereignty the Duty of a Bereaved Nation, on the death of General George Washington (Charleston: W. P. Young, M.DCCC) | have-ocr | IA `bim_eighteenth-century_humble-submission-to-div_furman-richard_1800` |
 | Death's Dominion over Man Considered, on the death of Alexander Hamilton (Charleston: W. P. Young; sermon dated 1804) | have-ocr | IA `deathsdominionov00furm` |
 | His son Richard Furman's books (1843, 1859) | excluded | |
+
+## Nathaniel W. Taylor (round 39, my pick, 2026-10-22)
+
+Slugs `nwtaylor-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Correspondence between Rev. Dr. Taylor and Rev. Dr. Hawes (catalogued 1832) | have-ocr | IA `correspondencebe6atayl` |
+| Concio ad Clerum: A Sermon delivered in the Chapel of Yale College, September 10, 1828 (New Haven: re-published by A. H. Maltby and Homan Hallock; catalogued 1842) | have-ocr | IA `concioadclerumse00tayl` |
+| Practical Sermons (New York: Clark, Austin & Smith, 1858) | have-ocr | IA `practicalsermons00tayl` |
+| Lectures on the Moral Government of God, vol. I (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg01tayl` |
+| Lectures on the Moral Government of God, vol. II (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg02tayl` |
+| Essays, Lectures, etc. upon Select Topics in Revealed Theology (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `essayslectureset00tayl` |
+| Review of Dr. Tyler's Strictures (New Haven, 1830, MN41642ucmf_4): first printed unsigned in the Christian Spectator; the title page names no author, the catalogue credits Taylor | pending | not shelved |
+| Other scans: practicalsermons00tayl_0, cu31924031765633, practicalsermon00taylgoog; moralgovernment01taylrich, moralgovernment02taylrich, lecturesonmoral04taylgoog; essayslecturese01taylgoog, essayslectureset00tayl_0 | alternate | not shelved |
+| Timothy Dwight's ordination sermon for him (1812, dignityexcellen00dwig); MacWhorter's Yahveh Christ (1857); two manuscript letters (1831); Jeremy Taylor and other Taylors | excluded | |
+
+## Jonathan Mayhew (round 39, my pick, 2026-10-22)
+
+Slugs `mayhew-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Seven Sermons upon the following Subjects, preached at a Lecture in the West Meeting-house in Boston (Boston: Rogers and Fowle, 1749) | have-ocr | IA `sevensermonsupon00mayh` |
+| A Discourse concerning Unlimited Submission and Non-Resistance to the Higher Powers, with some Reflections on the Resistance made to King Charles I (Boston: D. Fowle, 1750) | have-ocr | IA `discourseconcer00mayh` |
+| A Sermon preached at Boston in New-England, May 26, 1751, occasioned by the much-lamented Death of His Royal Highness Frederick, Prince of Wales (Boston: Richard Draper and Daniel Gookin, 1751) | have-ocr | IA `sermonpreachedat00mayh` |
+| A Sermon preached in the Audience of His Excellency William Shirley, Esq., the Council and the House of Representatives (Boston: S. Kneeland, 1754) | have-ocr | IA `sermonpreachedin00mayh` |
+| Sermons upon the following Subjects: On Hearing the Word, On Receiving it with Meekness, On Renouncing ... (Boston: Richard Draper, 1755) | have-ocr | IA `sermonsuponfollo00mayh` |
+| A Discourse on Rev. XV. 3d, 4th, occasioned by the Earthquakes in November, 1755, delivered in the West-Meeting-House, Boston, December 18 (Boston: Edes & Gill, and R. Draper, 1755) | have-ocr | IA `discourseonrevxv00mayh` |
+| Two Discourses delivered Nov. 23, 1758, being the Day appointed by Authority to be observed as a Day of Public Thanksgiving (Boston: R. Draper, 1758) | have-ocr | IA `twodiscoursesdeliv00mayh` |
+| Two Discourses delivered October 25th, 1759, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more particularly in the Reduction of Quebec (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1759) | have-ocr | IA `twodiscoursesdelivered00mayh` |
+| Two Discourses delivered October 9th, 1760, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more especially in the intire Reduction of Canada (Boston: R. Draper, Edes and Gill, and T. and J. Fleet, 1760) | have-ocr | IA `twodiscoursesdel00mayh` |
+| A Discourse occasioned by the Death of the Honourable Stephen Sewall, Esq., Chief Justice (Boston: Richard Draper, 1760) | have-ocr | IA `discourseoccasio00mayh` |
+| God's Hand and Providence to be religiously acknowledged in Public Calamities: a Sermon occasioned by the Great Fire in Boston, New-England, Thursday March 20, 1760 (Boston: Richard Draper, Edes and Gill, and Thomas and John Fleet, 1760) | have-ocr | IA `godshandproviden00mayh` |
+| Practical Discourses delivered on occasion of the Earthquakes in November, 1755 (Boston: Richard Draper, 1760) | have-ocr | IA `practicaldiscour00mayh` |
+| A Discourse occasioned by the Death of King George II and the Happy Accession of His Majesty King George III (Boston: Edes & Gill, 1761) | have-ocr | IA `discourseoccasio02mayh` |
+| Striving to enter in at the Strait Gate explain'd and inculcated, and the Connexion of Salvation therewith proved, in Two Sermons on Luke XIII. 24 (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1761) | have-ocr | IA `strivingtoenteri00mayh` |
+| Christian Sobriety: being Eight Sermons on Titus II. 6, preached with a special View to the Benefit of the Young Men usually attending the Public Worship at the West Church in Boston (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, 1763) | have-ocr | IA `christiansobriet00mayh` |
+| Two Sermons on the Nature, Extent and Perfection of the Divine Goodness, delivered December 9, 1762 (Boston: D. and J. Kneeland, 1763) | have-ocr | IA `twosermonsonnatu00mayh` |
+| Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, with Remarks on the Mistakes of East Apthorp (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, MDCCLXIII) | have-ocr | IA `bim_eighteenth-century_observations-on-the-char_mayhew-jonathan_1763` |
+| A Defence of the Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, against an Anonymous Pamphlet (catalogued 1763) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-observa_mayhew-jonathan_1763` |
+| Remarks on an Anonymous Tract, entitled An Answer to Dr. Mayhew's Observations on the Charter and Conduct of the Society for the Propagation of the Gospel (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_remarks-on-the-anonymous_mayhew-jonathan_1764` |
+| A Letter of Reproof to Mr. John Cleaveland of Ipswich, occasioned by a Defamatory Libel published under his Name (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_a-letter-of-reproof-to-m_mayhew-jonathan_1764` |
+| Popish Idolatry: a Discourse delivered in the Chapel of Harvard College in Cambridge, New England, May 8, 1765, at the Lecture founded by the Honorable Paul Dudley (Boston: R. & S. Draper, Edes & Gill, and T. & J. Fleet, 1765) | have-ocr | IA `popishidolatrydi00mayh` |
+| The Snare Broken: a Thanksgiving Discourse preached at the Desire of the West Church in Boston, Friday May 23, 1766, occasioned by the Repeal of the Stamp Act (Boston: R. & S. Draper, 1766) | have-ocr | IA `snarebrokenthank00mayh` |
+| Other scans: the bim_eighteenth-century_ copies of the 1749, 1750, 1755, 1759, 1760, 1761, 1763, 1765 and 1766 printings; wsb/wsp image-only copies; cihm microfiche of the 1759 Two Discourses; the 1818 reprints of the 1750 Discourse; Sermons to Young Men (London, 1767, 2 vols, a reprint of Christian Sobriety) | alternate | not shelved |
+| Secker's Answer to Dr. Mayhew's Observations (1764); Experience Mayhew, Thomas Mayhew and other Mayhews; Chauncy's sermon on his death (on the Charles Chauncy shelf) | excluded | |
+
+## Charles Chauncy (round 39, my pick, 2026-10-22)
+
+Slugs `chauncy-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The New Creature described and considered, as the Sure Characteristick of a Man's being in Christ: a Sermon preached at the Boston Thursday-Lecture, June 4, 1741 (Boston printed; Edinburgh: reprinted for Samuel Clark, MDCCXLII) | have-ocr | IA `thenewcreature00chauuoft` |
+| The Out-pouring of the Holy Ghost: a Sermon preach'd in Boston, May 13, 1742, on a Day of Prayer observed by the First Church there (Boston: T. Fleet, for D. Henchman and S. Eliot, 1742) | have-ocr | IA `outpouringofholy00chaurich` |
+| Seasonable Thoughts on the State of Religion in New-England: a Treatise in Five Parts (Boston: Rogers and Fowle, for Samuel Eliot, 1743) | have-ocr | IA `seasonablethough00chau` |
+| Ministers cautioned against the Occasions of Contempt: a Sermon preached before the Ministers of the Province of the Massachusetts-Bay at their Annual Convention, May 31, 1744 (Boston: Rogers and Fowle, for Samuel Eliot, 1744) | have-ocr | IA `ministerscaution00chaurich` |
+| Marvellous Things done by the right Hand and holy Arm of God in getting him the Victory: a Sermon preached the 18th of July, 1745, a Day of Thanksgiving for the Reduction of Cape-Breton (Boston: Fleet, 1745) | have-ocr | IA `sermonpreached1800chauuoft` |
+| Earthquakes a Token of the Righteous Anger of God: a Sermon preached at the Old-Brick-Meeting-House in Boston, the Lord's-Day after the Earthquake of 18 November 1755 (Boston: Edes and Gill, MDCCLV) | have-ocr | IA `earthquakestoken00chau` |
+| All Nations of the Earth blessed in Christ, the Seed of Abraham: a Sermon preached at Boston, at the Ordination of the Rev. Mr. Joseph Bowman, to the Work of the Gospel-Ministry, more especially among the Mohawk-Indians, August 31, 1762 (Boston: John Draper, 1762) | have-ocr | IA `bim_eighteenth-century_all-nations-of-the-earth_chauncy-charles-dd-_1762` |
+| The Validity of Presbyterian Ordination asserted and maintained: a Discourse delivered at the Anniversary Dudleian-Lecture at Harvard-College, May 12, 1762, with an Appendix on the Epistles ascribed to Ignatius (Boston: Richard Draper and Thomas Leverett, 1762) | have-ocr | IA `validityofpresby00chau` |
+| Twelve Sermons on the following Seasonable and Important Subjects: Justification impossible by the Works of the Law, and others (Boston: D. and J. Kneeland, for Thomas Leverett, MDCCLXV) | have-ocr | IA `twelvesermonsonf00chau` |
+| A Discourse occasioned by the Death of the Reverend Jonathan Mayhew, D.D., late Pastor of the West-Church in Boston (Boston: R. and S. Draper, Edes and Gill, and T. and J. Fleet, MDCCLXVI) | have-ocr | IA `discourseoccasio00chaurich` |
+| A Letter to a Friend, containing Remarks on certain Passages in a Sermon preached by the Right Reverend John, Lord Bishop of Landaff, before the Society for the Propagation of the Gospel (Boston: Kneeland and Adams, 1767) | have-ocr | IA `lettertofriendco00chau` |
+| The Appeal to the Public answered, in Behalf of the Non-Episcopal Churches in America, containing Remarks on what Dr. Thomas Bradbury Chandler has advanced (Boston: Kneeland and Adams, 1768) | have-ocr | IA `appealtopublica00chau` |
+| A Reply to Dr. Chandler's Appeal Defended, wherein his Mistakes are rectified, his False Arguing refuted, and the Objections against the Planned American Episcopate shewn to remain in full Force (Boston: D. Kneeland, 1770) | have-ocr | IA `replytodrchandle00chau` |
+| Trust in God, the Duty of a People in a Day of Trouble: a Sermon preached May 30th, 1770 (Boston: Daniel Kneeland, for Thomas Leverett, 1770) | have-ocr | IA `trustingoddutyof00chaurich` |
+| A Compleat View of Episcopacy, as exhibited from the Fathers of the Christian Church, until the Close of the Second Century (Boston: Daniel Kneeland, for Thomas Leverett, 1771) | have-ocr | IA `compleatviewofep00chau` |
+| 'Breaking of Bread,' in Remembrance of the Dying Love of Christ, a Gospel Institution: Five Sermons (Boston: D. Kneeland, 1772) | have-ocr | IA `breakingofbreadi00chau` |
+| The Benevolence of the Deity, fairly and impartially considered, in Three Parts (Boston: Powars & Willis, MDCCLXXXIV) | have-ocr | IA `benevolenceofdei00chau` |
+| Five Dissertations on the Scripture Account of the Fall, and its Consequences (London: C. Dilly, 1785) | have-ocr | IA `fivedissertation00chau` |
+| A Sermon delivered at the First Church in Boston, March 13th, 1785, occasioned by the Return of the Society to their House of Worship (Boston: Greenleaf and Freeman, MDCCLXXXV) | have-ocr | IA `sermondelivereda00chaurich` |
+| A Letter from a Gentleman in Boston to Mr. George Wishart (Edinburgh, MDCCXLII, letterfromgentle00chau): the title page and text name no author, the catalogue credits Chauncy | pending | not shelved |
+| A Letter to a Friend, giving an Account of the Ohio Defeat (Boston: Edes and Gill, MDCCLV, lettertofriendgi00chau) and its Second Letter (cihm_58238): signed only T. W., the catalogue credits Chauncy | pending | not shelved |
+| Divine Glory brought to View in the Final Salvation of All Men (Boston: T. and J. Fleet, 1783, divineglory00chaurich): signed 'one who wishes well to all mankind', no name | pending | not shelved |
+| The Mystery hid from Ages and Generations, or The Salvation of All Men (London: C. Dilly, 1784, mysteryhidfromag00chau): the title page names no author | pending | not shelved |
+| Other scans: seasonablethough00unkn, seasonablethou00chaurich and the bim 1743 copy; cihm_29573 and cihm_33495 (the London reprint of the Cape-Breton sermon); twelvesermonsonf00chau_0; replytodrchandle00chau_0; the four other Compleat View scans; appealtopublican00chau; mysteryhidfromag00chau_0; fivedissertation01chau; Breaking of Bread (1816, breakingofbreadibr00chau) | alternate | not shelved |
+| allnationsofeart00chau: its text layer is a 1916 German libretto, not the sermon (wrong-book OCR); the bim scan is shelved instead | excluded | |
+| Chandler's Appeal to the Public (1767); the younger Edwards's Salvation of All Men Strictly Examined (1790), an answer to him; image-only scans with no text layer (wsb); manuscript letters; Charles Chauncy (1592-1672), president of Harvard | excluded | |
+
+## John Wise (round 39, my pick, 2026-10-22)
+
+Slugs `wise-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The Churches Quarrel Espoused: or, A Reply in Satyre, to certain Proposals made (Boston: John Boyles, MDCCLXXII) | have-ocr | IA `bim_eighteenth-century_the-churches-quarrel-esp_wise-john-pastor-to-a-_1772` |
+| A Vindication of the Government of New-England Churches, drawn from Antiquity, the Light of Nature, Holy Scripture, its Noble Nature, and from the Dignity Divine Providence has put upon it (Boston: John Boyles, MDCCLXXII) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-the-gov_wise-john-pastor-to-a-_1772` |
+| A Vindication of the Government of New England Churches, and The Churches' Quarrel Espoused, or A Reply to certain Proposals, fourth edition (Boston: Congregational Board of Publication, 1860) | have-ocr | IA `vindicationofgo00wise` |
+| Two Narratives of the Expedition against Quebec, A.D. 1690, under Sir William Phips, the one by Rev. John Wise of Ipswich and the other by an unknown writer, with an introduction by Samuel A. Green (Cambridge: John Wilson and Son, 1902) | have-ocr | IA `twonarrativesofe00wise` |
+| Other scans of the 1860 edition: vindicationofgov0000wise_c2w8, vindicationofgov00wise, cu31924029454497; of the 1902 Narratives: twonarrativesex00wisegoog, twonarrativesex01wisegoog | alternate | not shelved |
+| The other narrative in the 1902 pamphlet (by an unknown writer), kept in the volume as printed; A Word of Comfort to a Melancholy Country (1721, signed Amicus Patriae; no scan found); John Wise the aeronaut (1808-1879), John R. Wise, John S. Wise and other Wises | excluded | |
+
+## John Eliot of Roxbury (round 39, my pick, 2026-10-22)
+
+Slugs `eliot-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Tears of Repentance: or, A Further Narrative of the Progress of the Gospel amongst the Indians in New-England, with Thomas Mayhew (London: Peter Cole, 1653) | have-ocr | IA `tearsofrepentanc00elio` |
+| A Late and Further Manifestation of the Progress of the Gospel amongst the Indians in New-England, published by the Corporation (London: M. Simmons, 1655) | have-ocr | IA `latefurthermanif00elio` |
+| The Christian Commonwealth: or, The Civil Policy of the Rising Kingdom of Jesus Christ (London: Livewell Chapman, 1659) | have-ocr | IA `christiancommonw00elio_0` |
+| A Further Accompt of the Progresse of the Gospel amongst the Indians in New England, set forth in certaine Letters (London: M. Simmons for the Corporation of New England, 1659) | have-ocr | IA `bim_early-english-books-1641-1700_a-further-accompt-of-the_eliot-john_1659` |
+| A Further Account of the Progress of the Gospel amongst the Indians in New England, being a Relation of the Confessions made by several Indians (London: John Macock, 1660) | have-ocr | IA `furtheraccountof00elio` |
+| Communion of Churches: or, The Divine Management of Gospel-Churches by the Ordinance of Councils (Cambridge: Marmaduke Johnson, catalogued 1665) | have-ocr | IA `bim_early-english-books-1641-1700_communion-of-churches-_eliot-john_1665` |
+| The Indian Grammar Begun: or, An Essay to bring the Indian Language into Rules (Cambridge: Marmaduke Johnson, 1666) | have-ocr | IA `indiangrammarbeg00elio` |
+| A Brief Narrative of the Progress of the Gospel amongst the Indians in New-England, in the Year 1670 (London: John Allen, 1671) | have-ocr | IA `briefnarrativeof00elio` |
+| Indian Dialogues, for their Instruction in that great Service of Christ, in calling home their Countrymen to the Knowledge of God (catalogued 1671) | have-ocr | IA `bim_early-english-books-1641-1700_indian-dialogues-_eliot-john_1671` |
+| The Harmony of the Gospels, in the Holy History of the Humiliation and Sufferings of Jesus Christ, from his Incarnation to his Death and Burial (Boston: John Foster, 1678) | have-ocr | IA `bim_early-english-books-1641-1700_the-harmony-of-the-gospe_eliot-john_1678` |
+| A Brief Answer to a Small Book written by John Norcot against Infant-Baptisme (catalogued 1679) | have-ocr | IA `bim_early-english-books-1641-1700_a-brief-ansvver-to-a-sma_eliot-john_1679` |
+| The Dying Speeches of Several Indians, translated by Eliot (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_the-dying-speeches-of-se_eliot-john_1683` |
+| The Logic Primer, reprinted from the unique original of 1672, with an introduction by Wilberforce Eames (Cleveland: The Burrows Brothers Company, 1904) | have-ocr | IA `logicprimerrepri00elio` |
+| John Eliot and the Indians, 1652-1657, being Letters addressed to Rev. Jonathan Hanmer of Barnstaple, ed. Wilberforce Eames (New York: The Adams & Grace Press, MCMXV) | have-ocr | IA `cu31924104076884` |
+| Other scans: tearsofrepentanc00elio_0, tearsofrepentanc00elio_1 and the bim copies of Tears of Repentance; the bim copies of the 1655 Manifestation, the 1660 Account, the 1666 Grammar and the 1671 Brief Narrative; the 1868 reprint of the Brief Narrative (gospelindians00eliorich); the 1672 Logick Primer (bim); A Grammar of the Massachusetts Indian Language (1822, the 1666 Grammar with notes by Pickering) | alternate | not shelved |
+| The Massachusett Bible (1663, 1685) and New Testament (1661), the Indian Primers (1669, 1687, 1720, 1747, 1877, 1880) and his Massachusett translations of Bayly and Shepard: not English | excluded | |
+| The Day-Breaking (1647), The Clear Sun-shine (1648, on the Thomas Shepard shelf), Strength out of Weaknesse and A Farther Discovery (1865 reprints): tracts by Wilson, Shepard, Whitfield and the Corporation, with letters of his | excluded | |
+| Poems or Epigrams (1658) by another John Eliot; John Eliot, M.D. (1694); Walker's Ten New England Leaders (1901); books about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
@@ -18390,7 +18508,7 @@ Round 5, lane C's choice; vetoable. Round 116 (2026-10-17) added Zagoskin's Tale
 ## Isabel Hapgood (Hugo, Gorky, Turgenev, Bunin)
 
 Shelf: `pipeline/hapgood_shelf.json` · fetch `python3 pipeline/fetch_shelf.py hapgood` · titles `python3 pipeline/split_shelf_titles.py hapgood`.
-Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 5, vetoable. Round 120 (2026-10-23) added Leskov's The Cathedral Folk (Knopf, 1924). Round 121 added Gogol's Taras Bulba (Knopf, 1916 printing). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -18407,6 +18525,8 @@ Round 5, vetoable. Not converted to unit-id JSON; **no uids minted**.
 | `hapgood-turgenev-nobleman` | Turgenev | A Nobleman's Nest | Isabel F. Hapgood | 1903 | have | PG 25771 |
 | `hapgood-turgenev-reckless-character` | Turgenev | A Reckless Character, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 15994 |
 | `hapgood-turgenev-superfluous-man` | Turgenev | The Diary of a Superfluous Man, and Other Stories | Isabel F. Hapgood | 1904 | have | PG 41201 |
+| `hapgood-leskov-cathedral-folk` | Nikolai Leskov | The Cathedral Folk | Isabel F. Hapgood | 1924 | have-raw | IA `cathedralfolk0000nico` |
+| `hapgood-gogol-taras-bulba` | Nikolai Gogol | Taras Bulba: a Tale of the Cossacks | Isabel F. Hapgood | 1886 | have-raw | IA `tarasbulbataleof00gogouoft` |
 | `hapgood-tolstoy-childhood` | — | Hapgood's Childhood, Boyhood, Youth (1886): not on Gutenberg in her version; IA not checked. (Her Sevastopol was found on Gutenberg in round 35.) | — | — | pending | — |
 | — | — | pg-3630: What to Do? again: a second Gutenberg file of the same Hapgood translation; this shelf keeps 3541. | — | — | excluded | — |
 
@@ -19988,7 +20108,7 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Fred Rothwell (Bergson's Laughter; Schuré)
 
 Shelf: `pipeline/rothwell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py rothwell` · titles `python3 pipeline/split_shelf_titles.py rothwell`.
-Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 24 (2026-10-10), vetoable. Round 122 (2026-10-23) added Ohnet's In Deep Abyss (1901). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -19997,6 +20117,7 @@ Round 24 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `rothwell-pascal-reincarnation-a-study-in-human-evolution` | Théophile Pascal | Reincarnation: A Study in Human Evolution | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 21533 |
 | `rothwell-roujon-battles-bivouacs-a-french-soldier-s-note` | Jacques Roujon | Battles & Bivouacs: A French soldier's note-book | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 58231 |
 | `rothwell-schure-pythagoras-and-the-delphic-mysteries` | Edouard Schuré | Pythagoras and the Delphic mysteries | Fred Rothwell | 1910-1923 (see the Gutenberg header) | have | PG 76522 |
+| `rothwell-ohnet-in-deep-abyss` | Georges Ohnet | In Deep Abyss: a Novel | Fred Rothwell | 1901 | have-raw | IA `cu31924027367147` |
 
 ## Sir Clements Markham (Hakluyt Society: Cieza de León, Quirós, Vespucci; Lazarillo)
 
@@ -20894,12 +21015,13 @@ Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Avrahm Yarmolinsky (Saltykov's A Family of Noblemen; The Shield)
 
 Shelf: `pipeline/yarmolinsky_shelf.json` · fetch `python3 pipeline/fetch_shelf.py yarmolinsky` · titles `python3 pipeline/split_shelf_titles.py yarmolinsky`.
-Round 31 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 31 (2026-10-10), vetoable. Round 121 (2026-10-23) added Deutsch and Yarmolinsky's Modern Russian Poetry (1921). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `yarmolinsky-gorky-the-shield` | Maksim Gorky | The shield | Avrahm Yarmolinsky | 1917 (see the Gutenberg header) | have | PG 19453 |
 | `yarmolinsky-saltykov-a-family-of-noblemen` | Mikhail Evgrafovich Saltykov | A family of noblemen | Avrahm Yarmolinsky | 1917 (see the Gutenberg header) | have | PG 44237 |
+| `yarmolinsky-deutsch-modern-russian-poetry` | various Russian poets | Modern Russian Poetry: an Anthology | Babette Deutsch and Avrahm Yarmolinsky | 1921 | have-raw | IA `modernrussianpoe00deutiala` |
 
 ## Katharine Wylde (Deledda's Ashes and Nostalgia)
 
@@ -22899,12 +23021,14 @@ Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## J. D. Duff (Aksakov; Herzen's Memoirs)
 
 Shelf: `pipeline/jd-duff_shelf.json` · fetch `python3 pipeline/fetch_shelf.py jd-duff` · titles `python3 pipeline/split_shelf_titles.py jd-duff`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 120 (2026-10-23) added Aksakov's Years of Childhood (1916) and A Russian Schoolboy (1917). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `jd-duff-aksakov-a-russian-gentleman` | S. T. Aksakov | A Russian Gentleman | J. D. Duff | 1917-1923 (see the Gutenberg header) | have | PG 38781 |
 | `jd-duff-herzen-the-memoirs-of-alexander-herzen-parts-i` | Aleksandr Herzen | The Memoirs of Alexander Herzen, Parts I and II | J. D. Duff | 1917-1923 (see the Gutenberg header) | have | PG 67882 |
+| `jd-duff-aksakov-years-of-childhood` | Sergei Aksakov | Years of Childhood | J. D. Duff | 1916 | have-raw | IA `yearsofchildhood00aksa` |
+| `jd-duff-aksakov-a-russian-schoolboy` | Sergei Aksakov | A Russian Schoolboy | J. D. Duff | 1917 | have-raw | IA `russianschoolboy00aksauoft` |
 
 ## Bérengère Drillien's Anatole France
 
@@ -23386,7 +23510,7 @@ Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: nineteenth-century continental fiction (Auerbach, Heyse, Spielhagen, E. Werner, Jókai, Bjørnson, De Coster, Mann's Royal Highness, Hugo, Laclos, Gourmont)
 
 Shelf: `pipeline/singles-continental-fiction_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-continental-fiction` · titles `python3 pipeline/split_shelf_titles.py singles-continental-fiction`.
-Round 42 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 42 (2026-10-10), vetoable. Round 122 (2026-10-23) added René Bazin ×4, Georges Ohnet ×2 and André Theuriet ×2. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23454,6 +23578,14 @@ Round 42 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `singles-continental-fiction-werner-hermann` | E. Werner | Hermann: A Novel | Helen Keer Brown | (see the Gutenberg header) | have | PG 35142 |
 | `singles-continental-fiction-werner-partners` | E. Werner | Partners: A Novel. | H. G. Godwin | (see the Gutenberg header) | have | PG 35135 |
 | `singles-continental-fiction-werner-the-sign-of-flame` | E. Werner | The Sign of Flame | Eva Freeman Hart and E. Van Gerpen | (see the Gutenberg header) | have | PG 35069 |
+| `singles-continental-fiction-bazin-coming-harvest` | René Bazin | The Coming Harvest (Le blé qui lève) | Edna K. Hoyt | 1908 | have-raw | IA `comingharvest00baziiala` |
+| `singles-continental-fiction-bazin-barrier` | René Bazin | The Barrier (La barrière) | Mary D. Frost | 1910 | have-raw | IA `barrierlabarrier00baziiala` |
+| `singles-continental-fiction-bazin-penitent` | René Bazin | The Penitent | M. Harriet M. Capes | 1912 | have-raw | IA `penitent00baziiala` |
+| `singles-continental-fiction-bazin-gentle-france` | René Bazin | Gentle France (Douce France) | Mary Dougherty | 1913 | have-raw | IA `gentlefrance00bazirich` |
+| `singles-continental-fiction-ohnet-double-wrong` | Georges Ohnet | The Double Wrong; or, A Broken Life (Le docteur Rameau) | J. C. Curtin | 1889 | have-raw | IA `doublewrongorbro00ohne` |
+| `singles-continental-fiction-ohnet-debt-of-hatred` | Georges Ohnet | A Debt of Hatred | E. P. Robins | 1891 | have-raw | IA `debtofhatred00ohne` |
+| `singles-continental-fiction-theuriet-rustic-life` | André Theuriet | Rustic Life in France | Helen B. Dole | 1896 | have-raw | IA `cu31924014024040` |
+| `singles-continental-fiction-theuriet-mistress-of-many-moods` | André Theuriet | A Mistress of Many Moods | Charlotte Boardman Rogers | 1900 | have-raw | IA `amistressmanymo00rogegoog` |
 
 ## One-off translations: plays, verse and tale collections (Sudermann's plays incl. Edith Wharton's, Vondel's Lucifer, Cyrano, Salomé, the Noh, Baudelaire, Christine de Pisan, Kathá Sarit Ságara, Kādambarī, Old Celtic Romances)
 
@@ -23574,7 +23706,7 @@ Round 43 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: more plays and poetry (The Lower Depths, Hands Around, Echegaray, Petrarch, Leopardi, Mirèio, Orlando Innamorato, the Mesnevi, the Orkneyinga Saga, the Jātaka, the Diamond Sutra, Phillips's Petőfi)
 
 Shelf: `pipeline/singles-plays-poetry-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-plays-poetry-2` · titles `python3 pipeline/split_shelf_titles.py singles-plays-poetry-2`.
-Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Not converted to unit-id JSON; **no uids minted**.
+Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Kriloff's Fables put in _pending. Round 110 added Phillips's Petőfi (1885). Round 120 (2026-10-23) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 added Lermontov's Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Russian poems (1917). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23618,13 +23750,19 @@ Round 43 (2026-10-10), vetoable. Round 109 (2026-10-17): Coxwell's undated Krilo
 | `singles-plays-poetry-2-unknown-the-diamond-sutra-chin-kang-ching-or-pra` | anonymous (the Vajracchedikā Sūtra) | The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita | William Gemmell (from Kumārajīva's Chinese) | (see the Gutenberg header) | have | PG 64623 |
 | `singles-plays-poetry-2-vega-the-works-of-garcilasso-de-la-vega-surna` | Garcilaso de la Vega | The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, Translated into English Verse With a Critical and Historical Essay on Spanish Poetry and a Life of the Author | Jeremiah Holmes Wiffen | (see the Gutenberg header) | have | PG 49410 |
 | `singles-plays-poetry-2-petofi-selections-phillips` | Sándor Petőfi | Selections from the Poems of Alexander Petőfi | Henry Phillips Jr. | 1885 | have-raw | IA `selectionsfrompo00petouoft` |
+| `singles-plays-poetry-2-krylov-fables-ralston` | Ivan Krylov | Krilof and His Fables | W. R. S. Ralston | 1869 | have-raw | IA `krilofhisfables00kryluoft` |
+| `singles-plays-poetry-2-krylov-fables-harrison` | Ivan Krylov | Kriloff's Original Fables | I. Henry Harrison | 1883 | have-raw | IA `cu31924026691612` |
+| `singles-plays-poetry-2-lermontov-demon-stephen` | Mikhail Lermontov | The Demon: a Poem | Alexander Condie Stephen | 1875 | have-raw | IA `demonapoemtrbya00lermgoog` |
+| `singles-plays-poetry-2-lermontov-demon-storr` | Mikhail Lermontov | The Demon of Lermontoff | Francis Storr | 1894 | have-raw | IA `demonoflermontof00lerm` |
+| `singles-plays-poetry-2-lermontov-demon-burness` | Mikhail Lermontov | The Demon | Robert Burness | 1918 | have-raw | IA `demonthe00lermrich` |
+| `singles-plays-poetry-2-rudzinsky-russian-poems` | Karamzin, Pushkin, Tyutchev, Lermontov, A. K. Tolstoy and others | Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov, Count A. Tolstoy and others, with English translations and notes | B. A. Rudzinsky, assisted by Stella Gardiner | 1917 | have-raw | IA `poemsselectedfro00rudz` |
 | `krylov-kriloffs-fables-coxwell` | — | C. Fillingham Coxwell's Kriloff's Fables, in the original metres (Kegan Paul, Trench, Trubner, London; archive.org kriloffsfables00kryl): the scan's title page and text carry no year (1920 per the catalogue). Waits for a dated scan. | — | — | pending | — |
 | — | — | various-47036: The Jade Flute: translator unnamed, so the per-title translator gate has nothing to check. | — | — | excluded | — |
 
 ## One-off translations: fiction, plays and verse, mostly 1920s (Three Kingdoms, All Quiet on the Western Front, Steppenwolf, Giants in the Earth, Death in Venice, Krakatit, Max Havelaar, Eloisa, Garshin twice, Żeromski's Ashes)
 
 Shelf: `pipeline/singles-fiction-3_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-fiction-3` · titles `python3 pipeline/split_shelf_titles.py singles-fiction-3`.
-Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Not converted to unit-id JSON; **no uids minted**.
+Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowland Smith's Garshin from period archive.org scans; round 110 added Zand's Ashes (1928, 2 vols); round 112 added Burrell's Čapek, The Makropoulos Secret (1925); round 115 added Lloyd and Newton's Kleist, Michael Kohlhaas and Prince of Homburg (1875); round 116 added Tucker's Chernyshevsky and Gaussen's Potapenko (2); round 117 added Shaw's Lazhechnikov, The Heretic (3 vols, 1845) and Mrs. Edgar Lucas's Pontoppidan, Emanuel (1896). Round 120 (2026-10-23) added Chamot's Leskov, The Sentry (1923), and Ralston's Turgenev, Liza (1869). Round 121 added Spring Floods (Butts and Browne, 1874), Pasvolsky's Kuprin (1917), Tollemache's Russian Sketches (1913), Baskerville's Taras Bulba (1907) and Telfer's Pushkin (1875). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23709,6 +23847,13 @@ Round 44 (2026-10-10), vetoable. Round 109 (2026-10-17) added Voynich's and Rowl
 | `singles-fiction-3-lazhechnikov-the-heretic-vol-2` | Ivan Lazhechnikov | The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. II | Thomas B. Shaw | 1844 | have-raw | IA `hereticorgermans02lazhuoft` |
 | `singles-fiction-3-lazhechnikov-the-heretic-vol-3` | Ivan Lazhechnikov | The Heretic; or, the German Stranger, an Historical Romance of the Court of Ivan III, vol. III | Thomas B. Shaw | 1844 | have-raw | IA `hereticorgermans03lazhuoft` |
 | `singles-fiction-3-pontoppidan-emanuel` | Henrik Pontoppidan | Emanuel, or Children of the Soil | Mrs. Edgar Lucas | 1896 | have-raw | IA `emanuelorchildre00pontiala` |
+| `singles-fiction-3-leskov-the-sentry` | Nikolai Leskov | The Sentry, and Other Stories | A. E. Chamot | 1923 | have-raw | IA `NikolaiLeskov-SentryAndOtherStories` |
+| `singles-fiction-3-turgenev-liza-ralston` | Ivan Turgenev | Liza (A Nest of Nobles) | W. R. S. Ralston | 1869 | have-raw | IA `lizaturg01turg` |
+| `singles-fiction-3-turgenev-spring-floods-butts` | Ivan Turgenev | Spring Floods (tr. Sophie Michell Butts) and A Lear of the Steppe (tr. William Hand Browne) | Sophie Michell Butts; William Hand Browne | 1874 | have-raw | IA `springfloods00buttgoog` |
+| `singles-fiction-3-kuprin-the-bracelet-of-garnets` | Aleksandr Kuprin | The Bracelet of Garnets, and Other Stories | Leo Pasvolsky | 1917 | have-raw | IA `braceletgarnets00kuprgoog` |
+| `singles-fiction-3-tollemache-russian-sketches` | Nikolai Leskov and others | Russian Sketches, Chiefly of Peasant Life | Beatrix L. Tollemache | 1913 | have-raw | IA `russiansketchesc00tolliala` |
+| `singles-fiction-3-gogol-taras-bulba-baskerville` | Nikolai Gogol | Taras Bulba: a Story of the Dnieper Cossacks | B. C. Baskerville | 1907 | have-raw | IA `tarasbulbaastor00baskgoog` |
+| `singles-fiction-3-pushkin-russian-romance-telfer` | Aleksandr Pushkin | Russian Romance (The Captain's Daughter and other tales) | Mrs. J. Buchan Telfer | 1875 | have-raw | IA `russianromance00pushiala` |
 | `pg-79102` | — | Erich Kästner, Emil and the detectives (May Massee): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-79453` | — | Italo Svevo, Confessions of Zeno (Beryl De Zoete): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
 | `pg-78105` | — | Ryūnosuke Akutagawa, Tales grotesque and curious (Glenn W. Shaw): first published in English in 1930. US public domain since 1 January 2026, but fetch_shelf.py's gate still treats 1930 as in copyright, so it waits on the same override Adam is being asked about for Pickthall's Quran. | — | — | pending | — |
@@ -24105,7 +24250,7 @@ Round 48 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: history, travel, ideas and music from the first stretch of the list (De Orbe Novo, Morga's Philippines, Lobo's Abyssinia by Samuel Johnson, the Tudor Machiavelli, Lamartine's Girondists, Arago, Wagner On Conducting)
 
 Shelf: `pipeline/singles-nonfiction-2_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-nonfiction-2` · titles `python3 pipeline/split_shelf_titles.py singles-nonfiction-2`.
-Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vols. II and III (Ryde, Bohn 1848-49) from archive.org scans. Round 111 added Martha Walker Cook's Krasiński, The Undivine Comedy (Lippincott 1875). Not converted to unit-id JSON; **no uids minted**.
+Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vols. II and III (Ryde, Bohn 1848-49) from archive.org scans. Round 111 added Martha Walker Cook's Krasiński, The Undivine Comedy (Lippincott 1875). Round 120 (2026-10-23) added Veresaev's In the War (Wiener, 1917) and The Confessions of a Physician (Linden, 1904). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -24196,6 +24341,8 @@ Round 49 (2026-10-10), vetoable. Round 107 (2026-10-17) added the Girondists' vo
 | `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-2` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. II | H. T. Ryde | 1849 | have-raw | IA `historyofgirondi0002lama_z7v9` |
 | `singles-nonfiction-2-lamartine-history-of-the-girondists-vol-3` | Alphonse de Lamartine | History of the Girondists, or Personal Memoirs of the Patriots of the French Revolution, vol. III | H. T. Ryde | 1848 | have-raw | IA `historygirondist03lama` |
 | `singles-nonfiction-2-krasinski-undivine-comedy` | Zygmunt Krasiński | The Undivine Comedy, and Other Poems, with Klaczko's Polish Poetry in the Nineteenth Century and a short biography | Martha Walker Cook | 1875 | have-raw | IA `undivinecomedyot00kras` |
+| `singles-nonfiction-2-veresaev-in-the-war` | Vikenty Veresaev | In the War: Memoirs of V. Veresáev | Leo Wiener | 1917 | have-raw | IA `cu31924023038049` |
+| `singles-nonfiction-2-veresaev-confessions-of-a-physician` | Vikenty Veresaev | The Confessions of a Physician | Simeon Linden | 1904 | have-raw | IA `b21701970` |
 | — | — | ferrer-30174: Fernández Bolívar's Mathematical-Historical Principles: author born 1923, so a modern work. | — | — | excluded | — |
 | — | — | cunningham-28921: Nicole's Essay on True and Apparent Beauty: J. V. Cunningham translated it for the Augustan Reprint Society in 1950, so it is not a pre-1931 printing. | — | — | excluded | — |
 
@@ -25064,6 +25211,16 @@ Shelf: `pipeline/ransome-translations_shelf.json` · fetch `python3 pipeline/fet
 | `ransome-old-peters-russian-tales` | Russian folk tales, retold | Old Peter's Russian Tales | Arthur Ransome | 1916 | have | PG 16981 |
 | `ransome-gourmont-night-in-the-luxembourg` | Remy de Gourmont | A Night in the Luxembourg | Arthur Ransome | 1912 | have | PG 46766 |
 | — | — | ransome-own-books: Swallows and Amazons and the rest of the series: Ransome's own books, on Lane B's ransome_shelf.json. | — | — | excluded | — |
+
+## Shelf: Eugene Schuyler (Turgenev, Tolstoy)
+
+Shelf: `pipeline/eugene-schuyler_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eugene-schuyler` · titles `python3 pipeline/split_shelf_titles.py eugene-schuyler`.
+Round 121 (2026-10-23), vetoable. Not converted to unit-id JSON; **no uids minted**.
+
+| Title slug | Author | Work | Translator | Tr. | Status | Source |
+|---|---|---|---|---|---|---|
+| `eugene-schuyler-turgenev-fathers-and-sons` | Ivan Turgenev | Fathers and Sons | Eugene Schuyler | 1867 | have-raw | IA `fathersandsonsa00schugoog` |
+| `eugene-schuyler-tolstoy-the-cossacks` | Leo Tolstoy | The Cossacks: A Tale of the Caucasus in 1852 | Eugene Schuyler | 1878 | have-raw | IA `cossackstrbyesc00tolsgoog` |
 # Storytellers
 
 ## Andrew Lang

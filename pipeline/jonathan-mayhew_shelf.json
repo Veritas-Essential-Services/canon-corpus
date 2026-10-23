@@ -1,0 +1,370 @@
+{
+ "_about": "Public-domain Jonathan Mayhew (1720-1766), pastor of the West Church, Boston, for the Word Hoard: his sermons and discourses from the Seven Sermons (1749) and the Discourse concerning Unlimited Submission (1750) to The Snare Broken (1766), with Christian Sobriety (1763) and his controversy with the Society for the Propagation of the Gospel (1763-1765), from Internet Archive scans of the first printings. Mayhew was an Arminian and anti-Trinitarian forerunner of Unitarianism, shelved as part of the record. Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mayhew"
+ ],
+ "_surname": [
+  "jonathan mayhew",
+  "mayhew"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mayhew-seven-sermons-1749": [
+   "sevensermonsupon00mayh",
+   "Seven Sermons upon the following Subjects, preached at a Lecture in the West Meeting-house in Boston (Boston: Rogers and Fowle, 1749)"
+  ],
+  "mayhew-unlimited-submission-1750": [
+   "discourseconcer00mayh",
+   "A Discourse concerning Unlimited Submission and Non-Resistance to the Higher Powers, with some Reflections on the Resistance made to King Charles I (Boston: D. Fowle, 1750)"
+  ],
+  "mayhew-prince-of-wales-1751": [
+   "sermonpreachedat00mayh",
+   "A Sermon preached at Boston in New-England, May 26, 1751, occasioned by the much-lamented Death of His Royal Highness Frederick, Prince of Wales (Boston: Richard Draper and Daniel Gookin, 1751)"
+  ],
+  "mayhew-election-sermon-1754": [
+   "sermonpreachedin00mayh",
+   "A Sermon preached in the Audience of His Excellency William Shirley, Esq., the Council and the House of Representatives (Boston: S. Kneeland, 1754)"
+  ],
+  "mayhew-sermons-1755": [
+   "sermonsuponfollo00mayh",
+   "Sermons upon the following Subjects: On Hearing the Word, On Receiving it with Meekness, On Renouncing ... (Boston: Richard Draper, 1755)"
+  ],
+  "mayhew-rev-xv-1755": [
+   "discourseonrevxv00mayh",
+   "A Discourse on Rev. XV. 3d, 4th, occasioned by the Earthquakes in November, 1755, delivered in the West-Meeting-House, Boston, December 18 (Boston: Edes & Gill, and R. Draper, 1755)"
+  ],
+  "mayhew-two-discourses-1758": [
+   "twodiscoursesdeliv00mayh",
+   "Two Discourses delivered Nov. 23, 1758, being the Day appointed by Authority to be observed as a Day of Public Thanksgiving (Boston: R. Draper, 1758)"
+  ],
+  "mayhew-two-discourses-1759": [
+   "twodiscoursesdelivered00mayh",
+   "Two Discourses delivered October 25th, 1759, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more particularly in the Reduction of Quebec (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1759)"
+  ],
+  "mayhew-two-discourses-1760": [
+   "twodiscoursesdel00mayh",
+   "Two Discourses delivered October 9th, 1760, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more especially in the intire Reduction of Canada (Boston: R. Draper, Edes and Gill, and T. and J. Fleet, 1760)"
+  ],
+  "mayhew-sewall-1760": [
+   "discourseoccasio00mayh",
+   "A Discourse occasioned by the Death of the Honourable Stephen Sewall, Esq., Chief Justice (Boston: Richard Draper, 1760)"
+  ],
+  "mayhew-gods-hand-1760": [
+   "godshandproviden00mayh",
+   "God's Hand and Providence to be religiously acknowledged in Public Calamities: a Sermon occasioned by the Great Fire in Boston, New-England, Thursday March 20, 1760 (Boston: Richard Draper, Edes and Gill, and Thomas and John Fleet, 1760)"
+  ],
+  "mayhew-practical-discourses-1760": [
+   "practicaldiscour00mayh",
+   "Practical Discourses delivered on occasion of the Earthquakes in November, 1755 (Boston: Richard Draper, 1760)"
+  ],
+  "mayhew-george-ii-1761": [
+   "discourseoccasio02mayh",
+   "A Discourse occasioned by the Death of King George II and the Happy Accession of His Majesty King George III (Boston: Edes & Gill, 1761)"
+  ],
+  "mayhew-strait-gate-1761": [
+   "strivingtoenteri00mayh",
+   "Striving to enter in at the Strait Gate explain'd and inculcated, and the Connexion of Salvation therewith proved, in Two Sermons on Luke XIII. 24 (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1761)"
+  ],
+  "mayhew-christian-sobriety-1763": [
+   "christiansobriet00mayh",
+   "Christian Sobriety: being Eight Sermons on Titus II. 6, preached with a special View to the Benefit of the Young Men usually attending the Public Worship at the West Church in Boston (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, 1763)"
+  ],
+  "mayhew-divine-goodness-1763": [
+   "twosermonsonnatu00mayh",
+   "Two Sermons on the Nature, Extent and Perfection of the Divine Goodness, delivered December 9, 1762 (Boston: D. and J. Kneeland, 1763)"
+  ],
+  "mayhew-observations-spg-1763": [
+   "bim_eighteenth-century_observations-on-the-char_mayhew-jonathan_1763",
+   "Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, with Remarks on the Mistakes of East Apthorp (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, MDCCLXIII)"
+  ],
+  "mayhew-defence-observations-1763": [
+   "bim_eighteenth-century_a-defence-of-the-observa_mayhew-jonathan_1763",
+   "A Defence of the Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, against an Anonymous Pamphlet (catalogued 1763)"
+  ],
+  "mayhew-remarks-anonymous-tract-1764": [
+   "bim_eighteenth-century_remarks-on-the-anonymous_mayhew-jonathan_1764",
+   "Remarks on an Anonymous Tract, entitled An Answer to Dr. Mayhew's Observations on the Charter and Conduct of the Society for the Propagation of the Gospel (catalogued 1764)"
+  ],
+  "mayhew-letter-of-reproof-1764": [
+   "bim_eighteenth-century_a-letter-of-reproof-to-m_mayhew-jonathan_1764",
+   "A Letter of Reproof to Mr. John Cleaveland of Ipswich, occasioned by a Defamatory Libel published under his Name (catalogued 1764)"
+  ],
+  "mayhew-popish-idolatry-1765": [
+   "popishidolatrydi00mayh",
+   "Popish Idolatry: a Discourse delivered in the Chapel of Harvard College in Cambridge, New England, May 8, 1765, at the Lecture founded by the Honorable Paul Dudley (Boston: R. & S. Draper, Edes & Gill, and T. & J. Fleet, 1765)"
+  ],
+  "mayhew-snare-broken-1766": [
+   "snarebrokenthank00mayh",
+   "The Snare Broken: a Thanksgiving Discourse preached at the Desire of the West Church in Boston, Friday May 23, 1766, occasioned by the Repeal of the Stamp Act (Boston: R. & S. Draper, 1766)"
+  ]
+ },
+ "_alternates": {
+  "mayhew-copies": "Other scans: the bim_eighteenth-century_ copies of the 1749, 1750, 1755, 1759, 1760, 1761, 1763, 1765 and 1766 printings; wsb/wsp image-only copies; cihm microfiche of the 1759 Two Discourses; the 1818 reprints of the 1750 Discourse; Sermons to Young Men (London, 1767, 2 vols, a reprint of Christian Sobriety)"
+ },
+ "_excluded": {
+  "mayhew-other": "Secker's Answer to Dr. Mayhew's Observations (1764); Experience Mayhew, Thomas Mayhew and other Mayhews; Chauncy's sermon on his death (on the Charles Chauncy shelf)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mayhew-prince-of-wales-1751": "title page read: 'By Jonathan Mayhew, D.D., Pastor of the West-Church in Boston', Boston 1751 (OCR 'MATHEW'; half-title 'Dr. Maybezv's Sermon')",
+  "mayhew-two-discourses-1759": "title page read: 'By Jonathan Mayhew, D.D., Pastor of the West Church in Boston', Boston 1759 (OCR 'MAY HEW')",
+  "mayhew-two-discourses-1760": "title page read: 'By Jonathan Mayhew, D.D., Pastor of the West-Church in Boston', Boston 1760 (OCR 'MAYHETV'); the scan opens with a short newspaper piece 'For the Centinel' on the 1760 fire, bound in before the title page",
+  "mayhew-gods-hand-1760": "title page read: 'By Jonathan Mayhew, D.D., Pastor of the West-Church in Boston', Boston 1760 (OCR 'MATHETF'); the same bound-in newspaper piece precedes it",
+  "mayhew-strait-gate-1761": "title page read: 'By Jonathan Mayhew, D.D., Pastor of the West Church in Boston', Boston 1761 (OCR 'MATHEW'); the same bound-in newspaper piece precedes it",
+  "mayhew-christian-sobriety-1763": "title page read: 'By Jonathan Mayhew, D.D., Pastor of the said Church', Boston 1763 (OCR 'MATHETF')",
+  "mayhew-observations-spg-1763": "title page read: 'By Jonathan Mayhew, D.D., Pastor of the West-Church in Boston', Boston MDCCLXIII (OCR 'MAY HE')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mayhew-seven-sermons-1749": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-unlimited-submission-1750": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1750",
+   "ia_date": "1750",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-prince-of-wales-1751": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1751",
+   "ia_date": "1751",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-election-sermon-1754": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-sermons-1755": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-rev-xv-1755": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mayhew",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-two-discourses-1758": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1758",
+   "ia_date": "1758",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-two-discourses-1759": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-two-discourses-1760": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-sewall-1760": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-gods-hand-1760": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-practical-discourses-1760": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1760",
+   "ia_date": "1760",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mayhew-george-ii-1761": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1761",
+   "ia_date": "1761",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-strait-gate-1761": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1761",
+   "ia_date": "1761",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-christian-sobriety-1763": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-divine-goodness-1763": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-observations-spg-1763": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mayhew-defence-observations-1763": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mayhew",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mayhew-remarks-anonymous-tract-1764": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mayhew-letter-of-reproof-1764": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mayhew-popish-idolatry-1765": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mayhew-snare-broken-1766": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jonathan mayhew",
+   "identity": "ok",
+   "ia_rights": "ok: published 1766",
+   "ia_date": "1766",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,10 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: Fred Rothwell (1869-1934): Bergson's Laughter (1911, with Cloudesley Brereton), Schuré's Pythagoras, Pascal's Reincarnation, Ohnet, and Roujon's war notebook. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Fred Rothwell (1869-1934): Bergson's Laughter (1911, with Cloudesley Brereton), Schuré's Pythagoras, Pascal's Reincarnation, Ohnet, and Roujon's war notebook. Printings before 1931 only. US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted. Round 122 (2026-10-23, vetoable) added Ohnet's In Deep Abyss (Funk & Wagnalls, 1901).",
  "_name_words": [
-  "fred rothwell"
+  "fred rothwell",
+  "fred. rothwell"
  ],
  "_surname": [
-  "fred rothwell"
+  "fred rothwell",
+  "fred. rothwell"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -30,7 +32,12 @@
    "Pythagoras and the Delphic mysteries"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "rothwell-ohnet-in-deep-abyss": [
+   "cu31924027367147",
+   "In Deep Abyss (1901)"
+  ]
+ },
  "titles": {
   "rothwell-bergson-laughter-an-essay-on-the-meaning-of-the": {
    "source": "rot-4352",
@@ -71,6 +78,14 @@
    "translated": "1910-1923 (see the Gutenberg header)",
    "translator": "Fred Rothwell",
    "scan_edition": "Project Gutenberg 76522 (clean text)"
+  },
+  "rothwell-ohnet-in-deep-abyss": {
+   "source": "rothwell-ohnet-in-deep-abyss",
+   "of": "Georges Ohnet",
+   "work": "In Deep Abyss: a Novel",
+   "translated": 1901,
+   "translator": "Fred Rothwell",
+   "scan_edition": "Funk & Wagnalls, New York, copyright 1901; Cornell scan"
   }
  },
  "_pending": {},
@@ -79,7 +94,7 @@
  "_checks": {
   "rot-21533": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fred rothwell",
    "identity": "ok",
@@ -88,7 +103,7 @@
   },
   "rot-4352": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fred rothwell",
    "identity": "ok",
@@ -97,7 +112,7 @@
   },
   "rot-58231": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fred rothwell",
    "identity": "ok",
@@ -106,7 +121,7 @@
   },
   "rot-69149": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fred rothwell",
    "identity": "ok",
@@ -115,12 +130,23 @@
   },
   "rot-76522": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fred rothwell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Fred Rothwell"
+  },
+  "rothwell-ohnet-in-deep-abyss": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred. rothwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -148,6 +174,15 @@
    "pg": 76522,
    "pg_copyrighted_marker": false,
    "pg_translator": "Fred Rothwell"
+  },
+  "rothwell-ohnet-in-deep-abyss": {
+   "ia": "cu31924027367147",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

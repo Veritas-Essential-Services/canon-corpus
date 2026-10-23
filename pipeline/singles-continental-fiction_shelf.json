@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: one-off English translations of nineteenth-century continental fiction: the German novel and novella of the 1870s-90s (Auerbach, Heyse, Spielhagen, E. Werner, Ossip Schubin, Franzos, Heimburg, Dahn, Reuter, Hausrath, Kohn, Gerstäcker, Sudermann's The Wish, Keller's Seven Legends, Thomas Mann's Royal Highness, 1916), Jókai by translators other than Bain, Bjørnson's Arne and In God's Way, Ingemann, Kraszewski, Couperus, Van Eeden's The Quest, De Coster's Ulenspiegel (Whitworth) and Flemish Legends, Blasco Ibáñez, Turgenev's Annouchka, Hugo's Toilers of the Sea (W. Moy Thomas), Dumas's Prussian Terror (R. S. Garnett), Paul de Kock, Laclos's Dangerous Connections (1812), Gourmont (Aldous Huxley's A Virgin Heart, 1921), Leblanc, Aimard, Pardo Bazán, Trueba, Guerrazzi, Strindberg's On the Seaboard, Cyrano de Bergerac's Voyage to the Moon (Lovell, 1687) and Tyssot de Patot's James Massey (Whatley, 1733). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 42); Adam may veto. No uids minted.",
+ "_about": "SINGLE-TRANSLATION SHELF: one-off English translations of nineteenth-century continental fiction: the German novel and novella of the 1870s-90s (Auerbach, Heyse, Spielhagen, E. Werner, Ossip Schubin, Franzos, Heimburg, Dahn, Reuter, Hausrath, Kohn, Gerstäcker, Sudermann's The Wish, Keller's Seven Legends, Thomas Mann's Royal Highness, 1916), Jókai by translators other than Bain, Bjørnson's Arne and In God's Way, Ingemann, Kraszewski, Couperus, Van Eeden's The Quest, De Coster's Ulenspiegel (Whitworth) and Flemish Legends, Blasco Ibáñez, Turgenev's Annouchka, Hugo's Toilers of the Sea (W. Moy Thomas), Dumas's Prussian Terror (R. S. Garnett), Paul de Kock, Laclos's Dangerous Connections (1812), Gourmont (Aldous Huxley's A Virgin Heart, 1921), Leblanc, Aimard, Pardo Bazán, Trueba, Guerrazzi, Strindberg's On the Seaboard, Cyrano de Bergerac's Voyage to the Moon (Lovell, 1687) and Tyssot de Patot's James Massey (Whatley, 1733). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 42); Adam may veto. No uids minted. Round 122 (2026-10-23, vetoable) added René Bazin four times (The Coming Harvest, Hoyt 1908; The Barrier, Frost 1910; The Penitent, Capes 1912; Gentle France, Dougherty 1913), Georges Ohnet twice (The Double Wrong, J. C. Curtin 1889; A Debt of Hatred, E. P. Robins 1891) and André Theuriet twice (Rustic Life in France, Helen B. Dole 1896; A Mistress of Many Moods, Charlotte Boardman Rogers 1900).",
  "_name_words": [
   "a. cecil curtis",
   "aldous huxley",
@@ -79,7 +79,15 @@
   "van santford",
   "w. moy thomas",
   "william hand browne",
-  "william moy thomas"
+  "william moy thomas",
+  "edna k. hoyt",
+  "mary d. frost",
+  "harriet m. capes",
+  "mary dougherty",
+  "j. c. curtin",
+  "e. p. robins",
+  "helen b. dole",
+  "charlotte boardman rogers"
  ],
  "_surname": [
   "a. cecil curtis",
@@ -160,7 +168,15 @@
   "van santford",
   "w. moy thomas",
   "william hand browne",
-  "william moy thomas"
+  "william moy thomas",
+  "edna k. hoyt",
+  "mary d. frost",
+  "harriet m. capes",
+  "mary dougherty",
+  "j. c. curtin",
+  "e. p. robins",
+  "helen b. dole",
+  "charlotte boardman rogers"
  ],
  "_surname_by_slug": {
   "scf-32338": [
@@ -430,6 +446,30 @@
   "scf-37400": [
    "stephen whatley",
    "whatley"
+  ],
+  "scf-bazin-coming-harvest": [
+   "edna k. hoyt"
+  ],
+  "scf-bazin-barrier": [
+   "mary d. frost"
+  ],
+  "scf-bazin-penitent": [
+   "harriet m. capes"
+  ],
+  "scf-bazin-gentle-france": [
+   "mary dougherty"
+  ],
+  "scf-ohnet-double-wrong": [
+   "j. c. curtin"
+  ],
+  "scf-ohnet-debt-of-hatred": [
+   "e. p. robins"
+  ],
+  "scf-theuriet-rustic-life": [
+   "helen b. dole"
+  ],
+  "scf-theuriet-mistress-of-many-moods": [
+   "charlotte boardman rogers"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -692,7 +732,40 @@
    "The Travels and Adventures of James Massey"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "scf-bazin-coming-harvest": [
+   "comingharvest00baziiala",
+   "The Coming Harvest (1908)"
+  ],
+  "scf-bazin-barrier": [
+   "barrierlabarrier00baziiala",
+   "The Barrier (1910)"
+  ],
+  "scf-bazin-penitent": [
+   "penitent00baziiala",
+   "The Penitent (1912)"
+  ],
+  "scf-bazin-gentle-france": [
+   "gentlefrance00bazirich",
+   "Gentle France (1913)"
+  ],
+  "scf-ohnet-double-wrong": [
+   "doublewrongorbro00ohne",
+   "The Double Wrong; or, A Broken Life (1889)"
+  ],
+  "scf-ohnet-debt-of-hatred": [
+   "debtofhatred00ohne",
+   "A Debt of Hatred (1891)"
+  ],
+  "scf-theuriet-rustic-life": [
+   "cu31924014024040",
+   "Rustic Life in France (1896)"
+  ],
+  "scf-theuriet-mistress-of-many-moods": [
+   "amistressmanymo00rogegoog",
+   "A Mistress of Many Moods (1900)"
+  ]
+ },
  "titles": {
   "singles-continental-fiction-aimard-the-missouri-outlaws": {
    "source": "scf-44574",
@@ -1208,6 +1281,70 @@
    "translated": "(see the Gutenberg header)",
    "translator": "Eva Freeman Hart and E. Van Gerpen",
    "scan_edition": "Project Gutenberg 35069 (clean text)"
+  },
+  "singles-continental-fiction-bazin-coming-harvest": {
+   "source": "scf-bazin-coming-harvest",
+   "of": "René Bazin",
+   "work": "The Coming Harvest (Le blé qui lève)",
+   "translated": 1908,
+   "translator": "Edna K. Hoyt",
+   "scan_edition": "Charles Scribner's Sons, New York 1908 (published August 1908); UCLA scan"
+  },
+  "singles-continental-fiction-bazin-barrier": {
+   "source": "scf-bazin-barrier",
+   "of": "René Bazin",
+   "work": "The Barrier (La barrière)",
+   "translated": 1910,
+   "translator": "Mary D. Frost",
+   "scan_edition": "Charles Scribner's Sons, New York, copyright 1910; UCLA scan"
+  },
+  "singles-continental-fiction-bazin-penitent": {
+   "source": "scf-bazin-penitent",
+   "of": "René Bazin",
+   "work": "The Penitent",
+   "translated": 1912,
+   "translator": "M. Harriet M. Capes",
+   "scan_edition": "J. B. Lippincott, Philadelphia 1912; UCLA scan"
+  },
+  "singles-continental-fiction-bazin-gentle-france": {
+   "source": "scf-bazin-gentle-france",
+   "of": "René Bazin",
+   "work": "Gentle France (Douce France)",
+   "translated": 1913,
+   "translator": "Mary Dougherty",
+   "scan_edition": "M. H. Gill & Son, Dublin 1913; UC Berkeley scan"
+  },
+  "singles-continental-fiction-ohnet-double-wrong": {
+   "source": "scf-ohnet-double-wrong",
+   "of": "Georges Ohnet",
+   "work": "The Double Wrong; or, A Broken Life (Le docteur Rameau)",
+   "translated": 1889,
+   "translator": "J. C. Curtin",
+   "scan_edition": "Pollard & Moss, New York 1889; archive.org scan"
+  },
+  "singles-continental-fiction-ohnet-debt-of-hatred": {
+   "source": "scf-ohnet-debt-of-hatred",
+   "of": "Georges Ohnet",
+   "work": "A Debt of Hatred",
+   "translated": 1891,
+   "translator": "E. P. Robins",
+   "scan_edition": "Cassell Publishing Company, New York 1891; archive.org scan"
+  },
+  "singles-continental-fiction-theuriet-rustic-life": {
+   "source": "scf-theuriet-rustic-life",
+   "of": "André Theuriet",
+   "work": "Rustic Life in France",
+   "translated": 1896,
+   "translator": "Helen B. Dole",
+   "scan_edition": "Thomas Y. Crowell & Company, New York 1896; Cornell scan"
+  },
+  "singles-continental-fiction-theuriet-mistress-of-many-moods": {
+   "source": "scf-theuriet-mistress-of-many-moods",
+   "of": "André Theuriet",
+   "work": "A Mistress of Many Moods",
+   "translated": 1900,
+   "translator": "Charlotte Boardman Rogers",
+   "scan_edition": "The Abbey Press, New York, copyright 1900 (second edition); Google scan"
   }
  },
  "_pending": {},
@@ -1216,7 +1353,7 @@
  "_checks": {
   "scf-32338": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas",
    "identity": "ok",
@@ -1225,7 +1362,7 @@
   },
   "scf-32442": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "davis",
    "identity": "ok",
@@ -1234,7 +1371,7 @@
   },
   "scf-32443": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "sophie f. f. veitch",
    "identity": "ok",
@@ -1243,7 +1380,7 @@
   },
   "scf-32517": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles goepp",
    "identity": "ok",
@@ -1252,7 +1389,7 @@
   },
   "scf-32902": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles c. shackford",
    "identity": "ok",
@@ -1261,7 +1398,7 @@
   },
   "scf-33008": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "annie b. irish",
    "identity": "ok",
@@ -1270,7 +1407,7 @@
   },
   "scf-32668": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frances a. gerard",
    "identity": "ok",
@@ -1279,7 +1416,7 @@
   },
   "scf-34574": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "felbermann",
    "identity": "ok",
@@ -1288,7 +1425,7 @@
   },
   "scf-34911": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beatrice danford",
    "identity": "ok",
@@ -1297,7 +1434,7 @@
   },
   "scf-36739": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "emil reich",
    "identity": "ok",
@@ -1306,7 +1443,7 @@
   },
   "scf-33133": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "corkran",
    "identity": "ok",
@@ -1315,7 +1452,7 @@
   },
   "scf-33789": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "l. c. s.",
    "identity": "ok",
@@ -1324,7 +1461,7 @@
   },
   "scf-33878": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "frances a. van santford",
    "identity": "ok",
@@ -1333,7 +1470,7 @@
   },
   "scf-34102": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "constance stewart copeland",
    "identity": "ok",
@@ -1342,7 +1479,7 @@
   },
   "scf-34104": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "g. h. kingsley",
    "identity": "ok",
@@ -1351,7 +1488,7 @@
   },
   "scf-33886": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henkel",
    "identity": "ok",
@@ -1360,7 +1497,7 @@
   },
   "scf-34504": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "martin wyness",
    "identity": "ok",
@@ -1369,7 +1506,7 @@
   },
   "scf-34583": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "levi sternberg",
    "identity": "ok",
@@ -1378,7 +1515,7 @@
   },
   "scf-34764": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "goldschmidt",
    "identity": "ok",
@@ -1387,7 +1524,7 @@
   },
   "scf-34868": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "browne",
    "identity": "ok",
@@ -1396,7 +1533,7 @@
   },
   "scf-35023": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. v. prichard",
    "identity": "ok",
@@ -1405,7 +1542,7 @@
   },
   "scf-35036": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "davidson",
    "identity": "ok",
@@ -1414,7 +1551,7 @@
   },
   "scf-35069": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. van gerpen",
    "identity": "ok",
@@ -1423,7 +1560,7 @@
   },
   "scf-35135": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "godwin",
    "identity": "ok",
@@ -1432,7 +1569,7 @@
   },
   "scf-35142": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "helen keer brown",
    "identity": "ok",
@@ -1441,7 +1578,7 @@
   },
   "scf-35246": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "augusta plesner",
    "identity": "ok",
@@ -1450,7 +1587,7 @@
   },
   "scf-37726": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "carmichael",
    "identity": "ok",
@@ -1459,7 +1596,7 @@
   },
   "scf-35385": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "adams",
    "identity": "ok",
@@ -1468,7 +1605,7 @@
   },
   "scf-35590": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "e. h. lockwood",
    "identity": "ok",
@@ -1477,7 +1614,7 @@
   },
   "scf-35672": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mary maxwell",
    "identity": "ok",
@@ -1486,7 +1623,7 @@
   },
   "scf-35852": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles lee lewes",
    "identity": "ok",
@@ -1495,7 +1632,7 @@
   },
   "scf-36016": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "garnett",
    "identity": "ok",
@@ -1504,7 +1641,7 @@
   },
   "scf-36028": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "a. cecil curtis",
    "identity": "ok",
@@ -1513,7 +1650,7 @@
   },
   "scf-36626": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john kesson",
    "identity": "ok",
@@ -1522,7 +1659,7 @@
   },
   "scf-36854": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "corbet",
    "identity": "ok",
@@ -1531,7 +1668,7 @@
   },
   "scf-36937": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charlton thomas lewis",
    "identity": "ok",
@@ -1540,7 +1677,7 @@
   },
   "scf-36855": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "arthur milman",
    "identity": "ok",
@@ -1549,7 +1686,7 @@
   },
   "scf-37453": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edith mary norris",
    "identity": "ok",
@@ -1558,7 +1695,7 @@
   },
   "scf-37599": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "geoffrey arundel whitworth",
    "identity": "ok",
@@ -1567,7 +1704,7 @@
   },
   "scf-37668": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "harold taylor",
    "identity": "ok",
@@ -1576,7 +1713,7 @@
   },
   "scf-37621": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "da kowalewska",
    "identity": "ok",
@@ -1585,7 +1722,7 @@
   },
   "scf-38005": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "benjamin shepherd berrington",
    "identity": "ok",
@@ -1594,7 +1731,7 @@
   },
   "scf-38165": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "beatrice m. mekota",
    "identity": "ok",
@@ -1603,7 +1740,7 @@
   },
   "scf-38458": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "irving brown",
    "identity": "ok",
@@ -1612,7 +1749,7 @@
   },
   "scf-39427": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "abbott",
    "identity": "ok",
@@ -1621,7 +1758,7 @@
   },
   "scf-40155": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "m. m.",
    "identity": "ok",
@@ -1630,7 +1767,7 @@
   },
   "scf-40203": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george morehead",
    "identity": "ok",
@@ -1639,7 +1776,7 @@
   },
   "scf-40657": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "cole",
    "identity": "ok",
@@ -1648,7 +1785,7 @@
   },
   "scf-41509": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "annabel hord seeger",
    "identity": "ok",
@@ -1657,7 +1794,7 @@
   },
   "scf-41990": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "henry joseph gill",
    "identity": "ok",
@@ -1666,7 +1803,7 @@
   },
   "scf-42672": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "david black",
    "identity": "ok",
@@ -1675,7 +1812,7 @@
   },
   "scf-44184": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "elizabeth clarke westergren",
    "identity": "ok",
@@ -1684,7 +1821,7 @@
   },
   "scf-44384": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aldous huxley",
    "identity": "ok",
@@ -1693,7 +1830,7 @@
   },
   "scf-45920": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "barrets",
    "identity": "ok",
@@ -1702,7 +1839,7 @@
   },
   "scf-44428": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tom hood",
    "identity": "ok",
@@ -1711,7 +1848,7 @@
   },
   "scf-44433": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alfred elwes",
    "identity": "ok",
@@ -1720,7 +1857,7 @@
   },
   "scf-44574": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "percy b. st. john",
    "identity": "ok",
@@ -1729,7 +1866,7 @@
   },
   "scf-45350": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alexander v. w. bikkers",
    "identity": "ok",
@@ -1738,7 +1875,7 @@
   },
   "scf-45512": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "moore",
    "identity": "ok",
@@ -1747,7 +1884,7 @@
   },
   "scf-45857": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "george raffalovich",
    "identity": "ok",
@@ -1756,7 +1893,7 @@
   },
   "scf-46006": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "brækstad",
    "identity": "ok",
@@ -1765,7 +1902,7 @@
   },
   "scf-46967": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "luigi monti",
    "identity": "ok",
@@ -1774,7 +1911,7 @@
   },
   "scf-46547": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "archibald lovell",
    "identity": "ok",
@@ -1783,12 +1920,100 @@
   },
   "scf-37400": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "stephen whatley",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "active 1712-1741 Stephen Whatley"
+  },
+  "scf-bazin-coming-harvest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edna k. hoyt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-bazin-barrier": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary d. frost",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-bazin-penitent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet m. capes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-bazin-gentle-france": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary dougherty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-ohnet-double-wrong": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. curtin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "scf-ohnet-debt-of-hatred": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. p. robins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "scf-theuriet-rustic-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen b. dole",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scf-theuriet-mistress-of-many-moods": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte boardman rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2111,6 +2336,73 @@
    "pg": 37400,
    "pg_copyrighted_marker": false,
    "pg_translator": "active 1712-1741 Stephen Whatley"
+  },
+  "scf-bazin-coming-harvest": {
+   "ia": "comingharvest00baziiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-bazin-barrier": {
+   "ia": "barrierlabarrier00baziiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-bazin-penitent": {
+   "ia": "penitent00baziiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-bazin-gentle-france": {
+   "ia": "gentlefrance00bazirich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-ohnet-double-wrong": {
+   "ia": "doublewrongorbro00ohne",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1889
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-ohnet-debt-of-hatred": {
+   "ia": "debtofhatred00ohne",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-theuriet-rustic-life": {
+   "ia": "cu31924014024040",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1887,
+    1896,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-theuriet-mistress-of-many-moods": {
+   "ia": "amistressmanymo00rogegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

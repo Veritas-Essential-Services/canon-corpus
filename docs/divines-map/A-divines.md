@@ -9521,3 +9521,121 @@ Slugs `rfurman-*`. Built from title pages read for round 39.
 | Humble Submission to Divine Sovereignty the Duty of a Bereaved Nation, on the death of General George Washington (Charleston: W. P. Young, M.DCCC) | have-ocr | IA `bim_eighteenth-century_humble-submission-to-div_furman-richard_1800` |
 | Death's Dominion over Man Considered, on the death of Alexander Hamilton (Charleston: W. P. Young; sermon dated 1804) | have-ocr | IA `deathsdominionov00furm` |
 | His son Richard Furman's books (1843, 1859) | excluded | |
+
+## Nathaniel W. Taylor (round 39, my pick, 2026-10-22)
+
+Slugs `nwtaylor-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Correspondence between Rev. Dr. Taylor and Rev. Dr. Hawes (catalogued 1832) | have-ocr | IA `correspondencebe6atayl` |
+| Concio ad Clerum: A Sermon delivered in the Chapel of Yale College, September 10, 1828 (New Haven: re-published by A. H. Maltby and Homan Hallock; catalogued 1842) | have-ocr | IA `concioadclerumse00tayl` |
+| Practical Sermons (New York: Clark, Austin & Smith, 1858) | have-ocr | IA `practicalsermons00tayl` |
+| Lectures on the Moral Government of God, vol. I (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg01tayl` |
+| Lectures on the Moral Government of God, vol. II (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `lecturesonmoralg02tayl` |
+| Essays, Lectures, etc. upon Select Topics in Revealed Theology (New York: Clark, Austin & Smith, 1859) | have-ocr | IA `essayslectureset00tayl` |
+| Review of Dr. Tyler's Strictures (New Haven, 1830, MN41642ucmf_4): first printed unsigned in the Christian Spectator; the title page names no author, the catalogue credits Taylor | pending | not shelved |
+| Other scans: practicalsermons00tayl_0, cu31924031765633, practicalsermon00taylgoog; moralgovernment01taylrich, moralgovernment02taylrich, lecturesonmoral04taylgoog; essayslecturese01taylgoog, essayslectureset00tayl_0 | alternate | not shelved |
+| Timothy Dwight's ordination sermon for him (1812, dignityexcellen00dwig); MacWhorter's Yahveh Christ (1857); two manuscript letters (1831); Jeremy Taylor and other Taylors | excluded | |
+
+## Jonathan Mayhew (round 39, my pick, 2026-10-22)
+
+Slugs `mayhew-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Seven Sermons upon the following Subjects, preached at a Lecture in the West Meeting-house in Boston (Boston: Rogers and Fowle, 1749) | have-ocr | IA `sevensermonsupon00mayh` |
+| A Discourse concerning Unlimited Submission and Non-Resistance to the Higher Powers, with some Reflections on the Resistance made to King Charles I (Boston: D. Fowle, 1750) | have-ocr | IA `discourseconcer00mayh` |
+| A Sermon preached at Boston in New-England, May 26, 1751, occasioned by the much-lamented Death of His Royal Highness Frederick, Prince of Wales (Boston: Richard Draper and Daniel Gookin, 1751) | have-ocr | IA `sermonpreachedat00mayh` |
+| A Sermon preached in the Audience of His Excellency William Shirley, Esq., the Council and the House of Representatives (Boston: S. Kneeland, 1754) | have-ocr | IA `sermonpreachedin00mayh` |
+| Sermons upon the following Subjects: On Hearing the Word, On Receiving it with Meekness, On Renouncing ... (Boston: Richard Draper, 1755) | have-ocr | IA `sermonsuponfollo00mayh` |
+| A Discourse on Rev. XV. 3d, 4th, occasioned by the Earthquakes in November, 1755, delivered in the West-Meeting-House, Boston, December 18 (Boston: Edes & Gill, and R. Draper, 1755) | have-ocr | IA `discourseonrevxv00mayh` |
+| Two Discourses delivered Nov. 23, 1758, being the Day appointed by Authority to be observed as a Day of Public Thanksgiving (Boston: R. Draper, 1758) | have-ocr | IA `twodiscoursesdeliv00mayh` |
+| Two Discourses delivered October 25th, 1759, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more particularly in the Reduction of Quebec (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1759) | have-ocr | IA `twodiscoursesdelivered00mayh` |
+| Two Discourses delivered October 9th, 1760, a Day of Public Thanksgiving for the Success of His Majesty's Arms, more especially in the intire Reduction of Canada (Boston: R. Draper, Edes and Gill, and T. and J. Fleet, 1760) | have-ocr | IA `twodiscoursesdel00mayh` |
+| A Discourse occasioned by the Death of the Honourable Stephen Sewall, Esq., Chief Justice (Boston: Richard Draper, 1760) | have-ocr | IA `discourseoccasio00mayh` |
+| God's Hand and Providence to be religiously acknowledged in Public Calamities: a Sermon occasioned by the Great Fire in Boston, New-England, Thursday March 20, 1760 (Boston: Richard Draper, Edes and Gill, and Thomas and John Fleet, 1760) | have-ocr | IA `godshandproviden00mayh` |
+| Practical Discourses delivered on occasion of the Earthquakes in November, 1755 (Boston: Richard Draper, 1760) | have-ocr | IA `practicaldiscour00mayh` |
+| A Discourse occasioned by the Death of King George II and the Happy Accession of His Majesty King George III (Boston: Edes & Gill, 1761) | have-ocr | IA `discourseoccasio02mayh` |
+| Striving to enter in at the Strait Gate explain'd and inculcated, and the Connexion of Salvation therewith proved, in Two Sermons on Luke XIII. 24 (Boston: Richard Draper, Edes & Gill, and Thomas & John Fleet, 1761) | have-ocr | IA `strivingtoenteri00mayh` |
+| Christian Sobriety: being Eight Sermons on Titus II. 6, preached with a special View to the Benefit of the Young Men usually attending the Public Worship at the West Church in Boston (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, 1763) | have-ocr | IA `christiansobriet00mayh` |
+| Two Sermons on the Nature, Extent and Perfection of the Divine Goodness, delivered December 9, 1762 (Boston: D. and J. Kneeland, 1763) | have-ocr | IA `twosermonsonnatu00mayh` |
+| Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, with Remarks on the Mistakes of East Apthorp (Boston: Richard and Samuel Draper, Edes and Gill, and Thomas and John Fleet, MDCCLXIII) | have-ocr | IA `bim_eighteenth-century_observations-on-the-char_mayhew-jonathan_1763` |
+| A Defence of the Observations on the Charter and Conduct of the Society for the Propagation of the Gospel in Foreign Parts, against an Anonymous Pamphlet (catalogued 1763) | have-ocr | IA `bim_eighteenth-century_a-defence-of-the-observa_mayhew-jonathan_1763` |
+| Remarks on an Anonymous Tract, entitled An Answer to Dr. Mayhew's Observations on the Charter and Conduct of the Society for the Propagation of the Gospel (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_remarks-on-the-anonymous_mayhew-jonathan_1764` |
+| A Letter of Reproof to Mr. John Cleaveland of Ipswich, occasioned by a Defamatory Libel published under his Name (catalogued 1764) | have-ocr | IA `bim_eighteenth-century_a-letter-of-reproof-to-m_mayhew-jonathan_1764` |
+| Popish Idolatry: a Discourse delivered in the Chapel of Harvard College in Cambridge, New England, May 8, 1765, at the Lecture founded by the Honorable Paul Dudley (Boston: R. & S. Draper, Edes & Gill, and T. & J. Fleet, 1765) | have-ocr | IA `popishidolatrydi00mayh` |
+| The Snare Broken: a Thanksgiving Discourse preached at the Desire of the West Church in Boston, Friday May 23, 1766, occasioned by the Repeal of the Stamp Act (Boston: R. & S. Draper, 1766) | have-ocr | IA `snarebrokenthank00mayh` |
+| Other scans: the bim_eighteenth-century_ copies of the 1749, 1750, 1755, 1759, 1760, 1761, 1763, 1765 and 1766 printings; wsb/wsp image-only copies; cihm microfiche of the 1759 Two Discourses; the 1818 reprints of the 1750 Discourse; Sermons to Young Men (London, 1767, 2 vols, a reprint of Christian Sobriety) | alternate | not shelved |
+| Secker's Answer to Dr. Mayhew's Observations (1764); Experience Mayhew, Thomas Mayhew and other Mayhews; Chauncy's sermon on his death (on the Charles Chauncy shelf) | excluded | |
+
+## Charles Chauncy (round 39, my pick, 2026-10-22)
+
+Slugs `chauncy-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The New Creature described and considered, as the Sure Characteristick of a Man's being in Christ: a Sermon preached at the Boston Thursday-Lecture, June 4, 1741 (Boston printed; Edinburgh: reprinted for Samuel Clark, MDCCXLII) | have-ocr | IA `thenewcreature00chauuoft` |
+| The Out-pouring of the Holy Ghost: a Sermon preach'd in Boston, May 13, 1742, on a Day of Prayer observed by the First Church there (Boston: T. Fleet, for D. Henchman and S. Eliot, 1742) | have-ocr | IA `outpouringofholy00chaurich` |
+| Seasonable Thoughts on the State of Religion in New-England: a Treatise in Five Parts (Boston: Rogers and Fowle, for Samuel Eliot, 1743) | have-ocr | IA `seasonablethough00chau` |
+| Ministers cautioned against the Occasions of Contempt: a Sermon preached before the Ministers of the Province of the Massachusetts-Bay at their Annual Convention, May 31, 1744 (Boston: Rogers and Fowle, for Samuel Eliot, 1744) | have-ocr | IA `ministerscaution00chaurich` |
+| Marvellous Things done by the right Hand and holy Arm of God in getting him the Victory: a Sermon preached the 18th of July, 1745, a Day of Thanksgiving for the Reduction of Cape-Breton (Boston: Fleet, 1745) | have-ocr | IA `sermonpreached1800chauuoft` |
+| Earthquakes a Token of the Righteous Anger of God: a Sermon preached at the Old-Brick-Meeting-House in Boston, the Lord's-Day after the Earthquake of 18 November 1755 (Boston: Edes and Gill, MDCCLV) | have-ocr | IA `earthquakestoken00chau` |
+| All Nations of the Earth blessed in Christ, the Seed of Abraham: a Sermon preached at Boston, at the Ordination of the Rev. Mr. Joseph Bowman, to the Work of the Gospel-Ministry, more especially among the Mohawk-Indians, August 31, 1762 (Boston: John Draper, 1762) | have-ocr | IA `bim_eighteenth-century_all-nations-of-the-earth_chauncy-charles-dd-_1762` |
+| The Validity of Presbyterian Ordination asserted and maintained: a Discourse delivered at the Anniversary Dudleian-Lecture at Harvard-College, May 12, 1762, with an Appendix on the Epistles ascribed to Ignatius (Boston: Richard Draper and Thomas Leverett, 1762) | have-ocr | IA `validityofpresby00chau` |
+| Twelve Sermons on the following Seasonable and Important Subjects: Justification impossible by the Works of the Law, and others (Boston: D. and J. Kneeland, for Thomas Leverett, MDCCLXV) | have-ocr | IA `twelvesermonsonf00chau` |
+| A Discourse occasioned by the Death of the Reverend Jonathan Mayhew, D.D., late Pastor of the West-Church in Boston (Boston: R. and S. Draper, Edes and Gill, and T. and J. Fleet, MDCCLXVI) | have-ocr | IA `discourseoccasio00chaurich` |
+| A Letter to a Friend, containing Remarks on certain Passages in a Sermon preached by the Right Reverend John, Lord Bishop of Landaff, before the Society for the Propagation of the Gospel (Boston: Kneeland and Adams, 1767) | have-ocr | IA `lettertofriendco00chau` |
+| The Appeal to the Public answered, in Behalf of the Non-Episcopal Churches in America, containing Remarks on what Dr. Thomas Bradbury Chandler has advanced (Boston: Kneeland and Adams, 1768) | have-ocr | IA `appealtopublica00chau` |
+| A Reply to Dr. Chandler's Appeal Defended, wherein his Mistakes are rectified, his False Arguing refuted, and the Objections against the Planned American Episcopate shewn to remain in full Force (Boston: D. Kneeland, 1770) | have-ocr | IA `replytodrchandle00chau` |
+| Trust in God, the Duty of a People in a Day of Trouble: a Sermon preached May 30th, 1770 (Boston: Daniel Kneeland, for Thomas Leverett, 1770) | have-ocr | IA `trustingoddutyof00chaurich` |
+| A Compleat View of Episcopacy, as exhibited from the Fathers of the Christian Church, until the Close of the Second Century (Boston: Daniel Kneeland, for Thomas Leverett, 1771) | have-ocr | IA `compleatviewofep00chau` |
+| 'Breaking of Bread,' in Remembrance of the Dying Love of Christ, a Gospel Institution: Five Sermons (Boston: D. Kneeland, 1772) | have-ocr | IA `breakingofbreadi00chau` |
+| The Benevolence of the Deity, fairly and impartially considered, in Three Parts (Boston: Powars & Willis, MDCCLXXXIV) | have-ocr | IA `benevolenceofdei00chau` |
+| Five Dissertations on the Scripture Account of the Fall, and its Consequences (London: C. Dilly, 1785) | have-ocr | IA `fivedissertation00chau` |
+| A Sermon delivered at the First Church in Boston, March 13th, 1785, occasioned by the Return of the Society to their House of Worship (Boston: Greenleaf and Freeman, MDCCLXXXV) | have-ocr | IA `sermondelivereda00chaurich` |
+| A Letter from a Gentleman in Boston to Mr. George Wishart (Edinburgh, MDCCXLII, letterfromgentle00chau): the title page and text name no author, the catalogue credits Chauncy | pending | not shelved |
+| A Letter to a Friend, giving an Account of the Ohio Defeat (Boston: Edes and Gill, MDCCLV, lettertofriendgi00chau) and its Second Letter (cihm_58238): signed only T. W., the catalogue credits Chauncy | pending | not shelved |
+| Divine Glory brought to View in the Final Salvation of All Men (Boston: T. and J. Fleet, 1783, divineglory00chaurich): signed 'one who wishes well to all mankind', no name | pending | not shelved |
+| The Mystery hid from Ages and Generations, or The Salvation of All Men (London: C. Dilly, 1784, mysteryhidfromag00chau): the title page names no author | pending | not shelved |
+| Other scans: seasonablethough00unkn, seasonablethou00chaurich and the bim 1743 copy; cihm_29573 and cihm_33495 (the London reprint of the Cape-Breton sermon); twelvesermonsonf00chau_0; replytodrchandle00chau_0; the four other Compleat View scans; appealtopublican00chau; mysteryhidfromag00chau_0; fivedissertation01chau; Breaking of Bread (1816, breakingofbreadibr00chau) | alternate | not shelved |
+| allnationsofeart00chau: its text layer is a 1916 German libretto, not the sermon (wrong-book OCR); the bim scan is shelved instead | excluded | |
+| Chandler's Appeal to the Public (1767); the younger Edwards's Salvation of All Men Strictly Examined (1790), an answer to him; image-only scans with no text layer (wsb); manuscript letters; Charles Chauncy (1592-1672), president of Harvard | excluded | |
+
+## John Wise (round 39, my pick, 2026-10-22)
+
+Slugs `wise-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The Churches Quarrel Espoused: or, A Reply in Satyre, to certain Proposals made (Boston: John Boyles, MDCCLXXII) | have-ocr | IA `bim_eighteenth-century_the-churches-quarrel-esp_wise-john-pastor-to-a-_1772` |
+| A Vindication of the Government of New-England Churches, drawn from Antiquity, the Light of Nature, Holy Scripture, its Noble Nature, and from the Dignity Divine Providence has put upon it (Boston: John Boyles, MDCCLXXII) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-the-gov_wise-john-pastor-to-a-_1772` |
+| A Vindication of the Government of New England Churches, and The Churches' Quarrel Espoused, or A Reply to certain Proposals, fourth edition (Boston: Congregational Board of Publication, 1860) | have-ocr | IA `vindicationofgo00wise` |
+| Two Narratives of the Expedition against Quebec, A.D. 1690, under Sir William Phips, the one by Rev. John Wise of Ipswich and the other by an unknown writer, with an introduction by Samuel A. Green (Cambridge: John Wilson and Son, 1902) | have-ocr | IA `twonarrativesofe00wise` |
+| Other scans of the 1860 edition: vindicationofgov0000wise_c2w8, vindicationofgov00wise, cu31924029454497; of the 1902 Narratives: twonarrativesex00wisegoog, twonarrativesex01wisegoog | alternate | not shelved |
+| The other narrative in the 1902 pamphlet (by an unknown writer), kept in the volume as printed; A Word of Comfort to a Melancholy Country (1721, signed Amicus Patriae; no scan found); John Wise the aeronaut (1808-1879), John R. Wise, John S. Wise and other Wises | excluded | |
+
+## John Eliot of Roxbury (round 39, my pick, 2026-10-22)
+
+Slugs `eliot-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Tears of Repentance: or, A Further Narrative of the Progress of the Gospel amongst the Indians in New-England, with Thomas Mayhew (London: Peter Cole, 1653) | have-ocr | IA `tearsofrepentanc00elio` |
+| A Late and Further Manifestation of the Progress of the Gospel amongst the Indians in New-England, published by the Corporation (London: M. Simmons, 1655) | have-ocr | IA `latefurthermanif00elio` |
+| The Christian Commonwealth: or, The Civil Policy of the Rising Kingdom of Jesus Christ (London: Livewell Chapman, 1659) | have-ocr | IA `christiancommonw00elio_0` |
+| A Further Accompt of the Progresse of the Gospel amongst the Indians in New England, set forth in certaine Letters (London: M. Simmons for the Corporation of New England, 1659) | have-ocr | IA `bim_early-english-books-1641-1700_a-further-accompt-of-the_eliot-john_1659` |
+| A Further Account of the Progress of the Gospel amongst the Indians in New England, being a Relation of the Confessions made by several Indians (London: John Macock, 1660) | have-ocr | IA `furtheraccountof00elio` |
+| Communion of Churches: or, The Divine Management of Gospel-Churches by the Ordinance of Councils (Cambridge: Marmaduke Johnson, catalogued 1665) | have-ocr | IA `bim_early-english-books-1641-1700_communion-of-churches-_eliot-john_1665` |
+| The Indian Grammar Begun: or, An Essay to bring the Indian Language into Rules (Cambridge: Marmaduke Johnson, 1666) | have-ocr | IA `indiangrammarbeg00elio` |
+| A Brief Narrative of the Progress of the Gospel amongst the Indians in New-England, in the Year 1670 (London: John Allen, 1671) | have-ocr | IA `briefnarrativeof00elio` |
+| Indian Dialogues, for their Instruction in that great Service of Christ, in calling home their Countrymen to the Knowledge of God (catalogued 1671) | have-ocr | IA `bim_early-english-books-1641-1700_indian-dialogues-_eliot-john_1671` |
+| The Harmony of the Gospels, in the Holy History of the Humiliation and Sufferings of Jesus Christ, from his Incarnation to his Death and Burial (Boston: John Foster, 1678) | have-ocr | IA `bim_early-english-books-1641-1700_the-harmony-of-the-gospe_eliot-john_1678` |
+| A Brief Answer to a Small Book written by John Norcot against Infant-Baptisme (catalogued 1679) | have-ocr | IA `bim_early-english-books-1641-1700_a-brief-ansvver-to-a-sma_eliot-john_1679` |
+| The Dying Speeches of Several Indians, translated by Eliot (catalogued 1683) | have-ocr | IA `bim_early-english-books-1641-1700_the-dying-speeches-of-se_eliot-john_1683` |
+| The Logic Primer, reprinted from the unique original of 1672, with an introduction by Wilberforce Eames (Cleveland: The Burrows Brothers Company, 1904) | have-ocr | IA `logicprimerrepri00elio` |
+| John Eliot and the Indians, 1652-1657, being Letters addressed to Rev. Jonathan Hanmer of Barnstaple, ed. Wilberforce Eames (New York: The Adams & Grace Press, MCMXV) | have-ocr | IA `cu31924104076884` |
+| Other scans: tearsofrepentanc00elio_0, tearsofrepentanc00elio_1 and the bim copies of Tears of Repentance; the bim copies of the 1655 Manifestation, the 1660 Account, the 1666 Grammar and the 1671 Brief Narrative; the 1868 reprint of the Brief Narrative (gospelindians00eliorich); the 1672 Logick Primer (bim); A Grammar of the Massachusetts Indian Language (1822, the 1666 Grammar with notes by Pickering) | alternate | not shelved |
+| The Massachusett Bible (1663, 1685) and New Testament (1661), the Indian Primers (1669, 1687, 1720, 1747, 1877, 1880) and his Massachusett translations of Bayly and Shepard: not English | excluded | |
+| The Day-Breaking (1647), The Clear Sun-shine (1648, on the Thomas Shepard shelf), Strength out of Weaknesse and A Farther Discovery (1865 reprints): tracts by Wilson, Shepard, Whitfield and the Corporation, with letters of his | excluded | |
+| Poems or Epigrams (1658) by another John Eliot; John Eliot, M.D. (1694); Walker's Ten New England Leaders (1901); books about him | excluded | |

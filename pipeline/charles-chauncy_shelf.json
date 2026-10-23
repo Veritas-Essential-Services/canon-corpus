@@ -1,0 +1,326 @@
+{
+ "_about": "Public-domain Charles Chauncy (1705-1787), pastor of the First Church, Boston, for the Word Hoard: his sermons against the excesses of the Great Awakening and his Seasonable Thoughts (1743), his writings against an American episcopate (1762-1771), his later sermons and the Five Dissertations on the Fall (1785), from Internet Archive scans of the first printings and two early reprints. Chauncy was the leading Old Light opponent of Whitefield and Edwards, and his last books taught universal salvation; he is shelved as part of the record. His anonymous books are held as pending. Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chauncy"
+ ],
+ "_surname": [
+  "charles chauncy",
+  "chauncy"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chauncy-new-creature-1742": [
+   "thenewcreature00chauuoft",
+   "The New Creature described and considered, as the Sure Characteristick of a Man's being in Christ: a Sermon preached at the Boston Thursday-Lecture, June 4, 1741 (Boston printed; Edinburgh: reprinted for Samuel Clark, MDCCXLII)"
+  ],
+  "chauncy-outpouring-1742": [
+   "outpouringofholy00chaurich",
+   "The Out-pouring of the Holy Ghost: a Sermon preach'd in Boston, May 13, 1742, on a Day of Prayer observed by the First Church there (Boston: T. Fleet, for D. Henchman and S. Eliot, 1742)"
+  ],
+  "chauncy-seasonable-thoughts-1743": [
+   "seasonablethough00chau",
+   "Seasonable Thoughts on the State of Religion in New-England: a Treatise in Five Parts (Boston: Rogers and Fowle, for Samuel Eliot, 1743)"
+  ],
+  "chauncy-ministers-cautioned-1744": [
+   "ministerscaution00chaurich",
+   "Ministers cautioned against the Occasions of Contempt: a Sermon preached before the Ministers of the Province of the Massachusetts-Bay at their Annual Convention, May 31, 1744 (Boston: Rogers and Fowle, for Samuel Eliot, 1744)"
+  ],
+  "chauncy-cape-breton-1745": [
+   "sermonpreached1800chauuoft",
+   "Marvellous Things done by the right Hand and holy Arm of God in getting him the Victory: a Sermon preached the 18th of July, 1745, a Day of Thanksgiving for the Reduction of Cape-Breton (Boston: Fleet, 1745)"
+  ],
+  "chauncy-earthquakes-1755": [
+   "earthquakestoken00chau",
+   "Earthquakes a Token of the Righteous Anger of God: a Sermon preached at the Old-Brick-Meeting-House in Boston, the Lord's-Day after the Earthquake of 18 November 1755 (Boston: Edes and Gill, MDCCLV)"
+  ],
+  "chauncy-all-nations-1762": [
+   "bim_eighteenth-century_all-nations-of-the-earth_chauncy-charles-dd-_1762",
+   "All Nations of the Earth blessed in Christ, the Seed of Abraham: a Sermon preached at Boston, at the Ordination of the Rev. Mr. Joseph Bowman, to the Work of the Gospel-Ministry, more especially among the Mohawk-Indians, August 31, 1762 (Boston: John Draper, 1762)"
+  ],
+  "chauncy-presbyterian-ordination-1762": [
+   "validityofpresby00chau",
+   "The Validity of Presbyterian Ordination asserted and maintained: a Discourse delivered at the Anniversary Dudleian-Lecture at Harvard-College, May 12, 1762, with an Appendix on the Epistles ascribed to Ignatius (Boston: Richard Draper and Thomas Leverett, 1762)"
+  ],
+  "chauncy-twelve-sermons-1765": [
+   "twelvesermonsonf00chau",
+   "Twelve Sermons on the following Seasonable and Important Subjects: Justification impossible by the Works of the Law, and others (Boston: D. and J. Kneeland, for Thomas Leverett, MDCCLXV)"
+  ],
+  "chauncy-death-of-mayhew-1766": [
+   "discourseoccasio00chaurich",
+   "A Discourse occasioned by the Death of the Reverend Jonathan Mayhew, D.D., late Pastor of the West-Church in Boston (Boston: R. and S. Draper, Edes and Gill, and T. and J. Fleet, MDCCLXVI)"
+  ],
+  "chauncy-letter-landaff-1767": [
+   "lettertofriendco00chau",
+   "A Letter to a Friend, containing Remarks on certain Passages in a Sermon preached by the Right Reverend John, Lord Bishop of Landaff, before the Society for the Propagation of the Gospel (Boston: Kneeland and Adams, 1767)"
+  ],
+  "chauncy-appeal-answered-1768": [
+   "appealtopublica00chau",
+   "The Appeal to the Public answered, in Behalf of the Non-Episcopal Churches in America, containing Remarks on what Dr. Thomas Bradbury Chandler has advanced (Boston: Kneeland and Adams, 1768)"
+  ],
+  "chauncy-reply-chandler-1770": [
+   "replytodrchandle00chau",
+   "A Reply to Dr. Chandler's Appeal Defended, wherein his Mistakes are rectified, his False Arguing refuted, and the Objections against the Planned American Episcopate shewn to remain in full Force (Boston: D. Kneeland, 1770)"
+  ],
+  "chauncy-trust-in-god-1770": [
+   "trustingoddutyof00chaurich",
+   "Trust in God, the Duty of a People in a Day of Trouble: a Sermon preached May 30th, 1770 (Boston: Daniel Kneeland, for Thomas Leverett, 1770)"
+  ],
+  "chauncy-compleat-view-episcopacy-1771": [
+   "compleatviewofep00chau",
+   "A Compleat View of Episcopacy, as exhibited from the Fathers of the Christian Church, until the Close of the Second Century (Boston: Daniel Kneeland, for Thomas Leverett, 1771)"
+  ],
+  "chauncy-breaking-of-bread-1772": [
+   "breakingofbreadi00chau",
+   "'Breaking of Bread,' in Remembrance of the Dying Love of Christ, a Gospel Institution: Five Sermons (Boston: D. Kneeland, 1772)"
+  ],
+  "chauncy-benevolence-deity-1784": [
+   "benevolenceofdei00chau",
+   "The Benevolence of the Deity, fairly and impartially considered, in Three Parts (Boston: Powars & Willis, MDCCLXXXIV)"
+  ],
+  "chauncy-five-dissertations-1785": [
+   "fivedissertation00chau",
+   "Five Dissertations on the Scripture Account of the Fall, and its Consequences (London: C. Dilly, 1785)"
+  ],
+  "chauncy-sermon-first-church-1785": [
+   "sermondelivereda00chaurich",
+   "A Sermon delivered at the First Church in Boston, March 13th, 1785, occasioned by the Return of the Society to their House of Worship (Boston: Greenleaf and Freeman, MDCCLXXXV)"
+  ]
+ },
+ "_alternates": {
+  "chauncy-copies": "Other scans: seasonablethough00unkn, seasonablethou00chaurich and the bim 1743 copy; cihm_29573 and cihm_33495 (the London reprint of the Cape-Breton sermon); twelvesermonsonf00chau_0; replytodrchandle00chau_0; the four other Compleat View scans; appealtopublican00chau; mysteryhidfromag00chau_0; fivedissertation01chau; Breaking of Bread (1816, breakingofbreadibr00chau)"
+ },
+ "_excluded": {
+  "chauncy-all-nations-wrong-scan": "allnationsofeart00chau: its text layer is a 1916 German libretto, not the sermon (wrong-book OCR); the bim scan is shelved instead",
+  "chauncy-other": "Chandler's Appeal to the Public (1767); the younger Edwards's Salvation of All Men Strictly Examined (1790), an answer to him; image-only scans with no text layer (wsb); manuscript letters; Charles Chauncy (1592-1672), president of Harvard"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "chauncy-presbyterian-ordination-1762": "title page read: 'By Charles Chauncy, D.D., One of the Pastors of the First Church in Boston', Boston 1762 (OCR 'CHAUxNCY'); the scan is from a bound volume of the Federal-street Society library and its spine label names the 1767 Letter, but the text is the Validity",
+  "chauncy-sermon-first-church-1785": "title page read: 'By Charles Chauncy, D.D., and Fellow of the American Academy of Arts and Sciences', Boston 1785 (OCR 'C H A U N C Y', letter-spaced)"
+ },
+ "_pending": {
+  "chauncy-letter-wishart-1742": "A Letter from a Gentleman in Boston to Mr. George Wishart (Edinburgh, MDCCXLII, letterfromgentle00chau): the title page and text name no author, the catalogue credits Chauncy",
+  "chauncy-letter-ohio-1755": "A Letter to a Friend, giving an Account of the Ohio Defeat (Boston: Edes and Gill, MDCCLV, lettertofriendgi00chau) and its Second Letter (cihm_58238): signed only T. W., the catalogue credits Chauncy",
+  "chauncy-divine-glory-1783": "Divine Glory brought to View in the Final Salvation of All Men (Boston: T. and J. Fleet, 1783, divineglory00chaurich): signed 'one who wishes well to all mankind', no name",
+  "chauncy-mystery-hid-1784": "The Mystery hid from Ages and Generations, or The Salvation of All Men (London: C. Dilly, 1784, mysteryhidfromag00chau): the title page names no author"
+ },
+ "_translators": {},
+ "_checks": {
+  "chauncy-new-creature-1742": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-outpouring-1742": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-seasonable-thoughts-1743": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-ministers-cautioned-1744": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "1744",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-cape-breton-1745": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chauncy-earthquakes-1755": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chauncy-all-nations-1762": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1762",
+   "ia_date": "1762",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chauncy-presbyterian-ordination-1762": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1762",
+   "ia_date": "1762",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-twelve-sermons-1765": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1765",
+   "ia_date": "1765",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-death-of-mayhew-1766": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1766",
+   "ia_date": "MDCCLXVI. [1766]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-letter-landaff-1767": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-appeal-answered-1768": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-reply-chandler-1770": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1770",
+   "ia_date": "1770",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-trust-in-god-1770": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1770",
+   "ia_date": "1770",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-compleat-view-episcopacy-1771": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-breaking-of-bread-1772": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1772",
+   "ia_date": "1772",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-benevolence-deity-1784": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1784",
+   "ia_date": "1784",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-five-dissertations-1785": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles chauncy",
+   "identity": "ok",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "1785",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chauncy-sermon-first-church-1785": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "M,DCC,LXXXV. [1785]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
