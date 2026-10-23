@@ -14399,3 +14399,18 @@ Slugs `hunolt-*`. Built from title pages read for round 82.
 | Hunolt's Sermons, vol. 12: The Christian's Model, vol. 2 (sermons on Our Lord, His Blessed Mother and the Saints), translated by J. Allen (New York: Benziger) | have-ocr | IA `sermonsadapted02hunouoft` |
 | Short Sermons (1896) and Sermons on the Different States of Life (1897), further Allen translations whose IA volumes still need matching | pending | not shelved |
 | the German Christliche Sittenlehre (Munich printings), left for a lane that takes German | excluded | |
+
+## I. D. Williamson (round 82, my pick, 2026-10-23)
+
+Slugs `williamson-*`. Built from title pages read for round 82.
+
+| Work | Status | Where |
+|---|---|---|
+| An argument for the truth of Christianity (New York, P. Price & co., 1836) | have-ocr | IA `argumentfortruth00will_0` |
+| An exposition and defence of Universalism : in a series of sermons delivered in the Universalist Church, Baltimore, Md (New York : P. Price, 1840) | have-ocr | IA `expositiondefenc00will` |
+| The crown of life : a series of discourses (Boston, J.M. Usher ; Cincinnati, O., J.A. Gurley, 1850) | have-ocr | IA `crownoflifeserie00will` |
+| The Vision of Faith: A Series of Sermons on the Decalogue and the Lord's Prayer / by I. D (B. F. Foster, 1852) | have-ocr | IA `visionfaithaser00willgoog` |
+| An Examination of the Doctrine of Endless Punishment: Its Claims to Divine Origin Refuted, in a (Quinby, 1854) | have-ocr | IA `anexaminationdo00willgoog` |
+| Sermons for the times and the people (New York : H. Lyon, 1855) | have-ocr | IA `sermonsfortimesp00will` |
+| The philosophy of Universalism ([n.p.], 1866) | have-ocr | IA `philosophyofuniv00will` |
+| The Universalist Church Companion (a service book he compiled); Twelve Sermons of the 1853 Universalist convention (many preachers) | excluded | |
