@@ -40072,3 +40072,23 @@ Shelf: `pipeline/james-lane-allen_shelf.json` (2026-10-22; added at the coordina
 | The Kentucky Warbler | have | PG 46905, `jlallen-kentucky-warbler` (532 units) |
 | Flute and Violin, and Other Kentucky Tales and Romances | have | PG 50597, `jlallen-flute-and-violin-and-other-kentucky-tales-and-romanc` (1369 units) |
 | The Emblems of Fidelity: A Comedy in Letters | have | PG 60435, `jlallen-emblems-of-fidelity` (828 units) |
+
+## Arthur Train
+
+Shelf: `pipeline/arthur-train_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Courts and Criminals | have | PG 5268, `atrain-courts-and-criminals` (775 units) |
+| Tutt and Mr. Tutt | have | PG 10440, `atrain-tutt-and-mr-tutt` (1782 units) |
+| By Advice of Counsel | have | PG 11987, `atrain-by-advice-of-counsel` (1852 units) |
+| The "Goldfish" Being the Confessions af a Successful Man | have | PG 12920, `atrain-goldfish-being-the-confessions-af-a-successful-man` (886 units) |
+| True Stories of Crime From the District Attorney's Office | have | PG 13172, `atrain-true-stories-of-crime-from-the-district-attorneys-off` (950 units) |
+| The Man Who Rocked the Earth | have | PG 19174, `atrain-man-who-rocked-the-earth` (741 units) |
+| The Confessions of Artemas Quibble Being the Ingenuous and Unvarnished History of Artemas Quibble, Esquire, One-Time Practitioner in the New York Criminal Courts, Together with an Account of the Divers Wiles, Tricks, Sophistries, Technicalities, and Sundry Artifices of Himself and Others of the Fraternity, Commonly Yclept "Shysters" or "Shyster Lawyers" | have | PG 20451, `atrain-confessions-of-artemas-quibble-being-the-ingenuous-an` (710 units) |
+| McAllister and His Double | have | PG 34597, `atrain-mcallister-and-his-double` (1897 units) |
+| Mortmain | have | PG 37346, `atrain-mortmain` (2279 units) |
+| The Prisoner at the Bar: Sidelights on the Administration of Criminal Justice | have | PG 58534, `atrain-prisoner-at-the-bar` (1664 units) |
+| Courts, Criminals and the Camorra | have | PG 61628, `atrain-courts-criminals-and-the-camorra` (577 units) |
+| The hermit of Turkey Hollow | have | PG 77895, `atrain-hermit-of-turkey-hollow` (861 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 65438 The Moon Maker (copyright line 1958). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
