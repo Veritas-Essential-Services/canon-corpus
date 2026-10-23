@@ -17676,3 +17676,17 @@ Shelf: `pipeline/boyd-cable_shelf.json` (2026-10-22; added at the coordinator's 
 | By Blow and Kiss: The Love Story of a Man with a Bad Name. (Published serially under the title Unstable as Water). | have | PG 48756, `bcable-by-blow-and-kiss` (2200 units) |
 | Front Lines | have | PG 48891, `bcable-front-lines` (774 units) |
 | Doing Their Bit: War Work at Home | have | PG 49208, `bcable-doing-their-bit` (77 units) |
+
+## Rhoda Broughton
+
+Shelf: `pipeline/rhoda-broughton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Nancy: A Novel | have | PG 12304, `rbroughton-nancy` (3188 units) |
+| Alas! A Novel | have | PG 34428, `rbroughton-alas-a-novel` (2995 units) |
+| Doctor Cupid: A Novel | have | PG 35548, `rbroughton-doctor-cupid` (2587 units) |
+| Red as a Rose is She: A Novel | have | PG 45178, `rbroughton-red-as-a-rose-is-she` (3234 units) |
+| Tales for Christmas Eve | have | PG 69297, `rbroughton-tales-for-christmas-eve` (508 units) |
+| Lavinia | have | PG 72772, `rbroughton-lavinia` (1897 units) |
+| A waif's progress | have | PG 73654, `rbroughton-waifs-progress` (2218 units) |

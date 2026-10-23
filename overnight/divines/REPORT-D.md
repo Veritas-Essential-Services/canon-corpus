@@ -2450,3 +2450,6 @@
 
 ## 2026-10-22 23:11 CDT — boyd-cable: done
 - boyd-cable: new shelf, 7 Gutenberg books, 6,131 units, 4 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:11 CDT — rhoda-broughton: done
+- rhoda-broughton: new shelf, 7 Gutenberg books, 16,627 units, 909 ~2 ids; verify 0 mismatches, 0 rights flags.
