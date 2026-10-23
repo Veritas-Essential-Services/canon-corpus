@@ -19346,3 +19346,20 @@ Slugs `cadoux-*`. Built from title pages read for round 133.
 | Catholicism and Christianity : a vindication of progressive Protestantism (London : Allen & Unwin, 1928) | have-ocr | IA `catholicismchris0000cado` |
 | An Appeal to the People of the Christian Church (1903) is not certainly his | excluded | |
 | microform and other scans of the same books | excluded | |
+
+## W. W. Everts (round 133, my pick, 2026-10-23)
+
+Slugs `everts-*`. Built from title pages read for round 133.
+
+| Work | Status | Where |
+|---|---|---|
+| Words in Earnest: Or, The Path of Wisdom Made Plain (Edward H. Fletcher, 1852) | have-ocr | IA `wordsinearnesto00evergoog` |
+| Compend of Christian doctrines held by Baptists : in catechism (Chicago : Church & Goodman, 1866) | have-ocr | IA `compendofchristi00ever` |
+| The Bible in schools (Chicago : Kennedy & Sumner, 1870) | have-ocr | IA `bibleinschools00ever` |
+| House of God : or claims of public worship (New York : American Tract Society, 1872) | have-ocr | IA `houseofgodorclai00ever` |
+| William Colgate: The Christian layman (Philadelphia, American Baptist publication society, 1881) | have-ocr | IA `williamcolgatech00ever` |
+| The Sabbath : its permanence, promise, and defence (New York : E. B. Treat, 1885) | have-ocr | IA `sabbathitsperman00ever` |
+| Concise Comments on Baptism: With References Verified (American Baptist Publication Society, 1890) | have-ocr | IA `concisecomments00evergoog` |
+| Design and subjects of baptism ([Chicago : s.n., 1859) (IA designsubjectsof00ever): the scan has no title page naming him; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the Bible Manual, Scripture School Reader, Pastor's Hand-book and Book of Worship are selections of Scripture and hymns | excluded | |
+| the John Foster, Manhood, Christian Womanhood and the life of Everts himself are by others | excluded | |
