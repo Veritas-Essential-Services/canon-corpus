@@ -1,0 +1,1605 @@
+{
+ "_about": "Storytellers' tail, group 1: 24 authors with 4 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Nephi Anderson, Jane G. Austin, Sarah S. Baker, David Belasco, J. J. Bell, Isabel C. Byrum, Kate Chopin, Ella Rodman Church, Charles Heber Clark, W. K. Clifford, Joan Conquest, John Esten Cooke, Marjorie Benton Cooke, Elizabeth Cooper, James A. Cooper, George Corbett, Martha Foote Crow, William De Morgan, Katharine Elizabeth Dopp, Edward Dyson, Amelia B. Edwards, Wilmer M. Ely, Michael Fairless, Ronald Firbank. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 1 (24 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "nanderson-dorian": [
+   "nephi anderson",
+   "anderson"
+  ],
+  "nanderson-story-of-chester-lawrence-being-the-completed-acco": [
+   "nephi anderson",
+   "anderson"
+  ],
+  "nanderson-young-folks-history-of-the-church-of-jesus-christ": [
+   "nephi anderson",
+   "anderson"
+  ],
+  "nanderson-added-upon-a-story": [
+   "nephi anderson",
+   "anderson"
+  ],
+  "jgaustin-outpost": [
+   "jane g. austin",
+   "jane goodwin austin",
+   "austin"
+  ],
+  "jgaustin-standish-of-standish": [
+   "jane g. austin",
+   "jane goodwin austin",
+   "austin"
+  ],
+  "jgaustin-betty-alden": [
+   "jane g. austin",
+   "jane goodwin austin",
+   "austin"
+  ],
+  "jgaustin-fairy-dreams": [
+   "jane g. austin",
+   "jane goodwin austin",
+   "austin"
+  ],
+  "ssbaker-little-tora-the-swedish-schoolmistress-and-other-sto": [
+   "sarah s. baker",
+   "sarah schoonmaker baker"
+  ],
+  "ssbaker-golden-house": [
+   "sarah s. baker",
+   "sarah schoonmaker baker"
+  ],
+  "ssbaker-babes-in-the-basket": [
+   "sarah s. baker",
+   "sarah schoonmaker baker"
+  ],
+  "ssbaker-timid-lucy": [
+   "sarah s. baker",
+   "sarah schoonmaker baker"
+  ],
+  "dbelasco-return-of-peter-grimm": [
+   "david belasco",
+   "belasco"
+  ],
+  "dbelasco-girl-of-the-golden-west": [
+   "david belasco",
+   "belasco"
+  ],
+  "dbelasco-return-of-peter-grimm-novelised-from-the-play": [
+   "david belasco",
+   "belasco"
+  ],
+  "jjbell-till-the-clock-stops": [
+   "j. j. bell",
+   "john joy bell"
+  ],
+  "jjbell-wee-macgreegor-enlists": [
+   "j. j. bell",
+   "john joy bell"
+  ],
+  "jjbell-kitty-carstairs": [
+   "j. j. bell",
+   "john joy bell"
+  ],
+  "jjbell-courtin-christina": [
+   "j. j. bell",
+   "john joy bell"
+  ],
+  "icbyrum-poorhouse-waif-and-his-divine-teacher": [
+   "isabel c. byrum",
+   "isabel coston byrum",
+   "byrum"
+  ],
+  "icbyrum-value-of-a-praying-mother": [
+   "isabel c. byrum",
+   "isabel coston byrum",
+   "byrum"
+  ],
+  "icbyrum-how-john-became-a-man": [
+   "isabel c. byrum",
+   "isabel coston byrum",
+   "byrum"
+  ],
+  "icbyrum-troubles-of-biddy": [
+   "isabel c. byrum",
+   "isabel coston byrum",
+   "byrum"
+  ],
+  "kchopin-awakening-and-selected-short-stories": [
+   "kate chopin",
+   "chopin"
+  ],
+  "kchopin-at-fault": [
+   "kate chopin",
+   "chopin"
+  ],
+  "kchopin-bayou-folk": [
+   "kate chopin",
+   "chopin"
+  ],
+  "kchopin-night-in-acadie": [
+   "kate chopin",
+   "chopin"
+  ],
+  "erchurch-grandmother-s-recollections": [
+   "ella rodman church"
+  ],
+  "erchurch-among-the-trees-at-elmridge": [
+   "ella rodman church"
+  ],
+  "erchurch-little-pilgrim-at-aunt-lou-s": [
+   "ella rodman church"
+  ],
+  "erchurch-artistic-embroidery": [
+   "ella rodman church"
+  ],
+  "chclark-elbow-room": [
+   "charles heber clark"
+  ],
+  "chclark-frictional-electricity-from-the-saturday-evening-pos": [
+   "charles heber clark"
+  ],
+  "chclark-out-of-the-hurly-burly": [
+   "charles heber clark"
+  ],
+  "chclark-fortunate-island-and-other-stories": [
+   "charles heber clark"
+  ],
+  "wkclifford-very-short-stories-and-verses-for-children": [
+   "w. k. clifford",
+   "clifford"
+  ],
+  "wkclifford-margaret-vincent": [
+   "w. k. clifford",
+   "clifford"
+  ],
+  "wkclifford-aunt-anne-vol-1-of-2": [
+   "w. k. clifford",
+   "clifford"
+  ],
+  "wkclifford-aunt-anne-vol-2-of-2": [
+   "w. k. clifford",
+   "clifford"
+  ],
+  "jconquest-desert-love": [
+   "joan conquest",
+   "conquest"
+  ],
+  "jconquest-hawk-of-egypt": [
+   "joan conquest",
+   "conquest"
+  ],
+  "jconquest-leonie-of-the-jungle": [
+   "joan conquest",
+   "conquest"
+  ],
+  "jconquest-zarah-the-cruel": [
+   "joan conquest",
+   "conquest"
+  ],
+  "jecooke-mohun": [
+   "john esten cooke",
+   "cooke"
+  ],
+  "jecooke-last-of-the-foresters-or-humors-on-the-border": [
+   "john esten cooke",
+   "cooke"
+  ],
+  "jecooke-life-of-gen-robert-e-lee": [
+   "john esten cooke",
+   "cooke"
+  ],
+  "jecooke-youth-of-jefferson-or-a-chronicle-of-college-scrapes": [
+   "john esten cooke",
+   "cooke"
+  ],
+  "mbcooke-bambi": [
+   "marjorie benton cooke",
+   "cooke"
+  ],
+  "mbcooke-cricket": [
+   "marjorie benton cooke",
+   "cooke"
+  ],
+  "mbcooke-dual-alliance": [
+   "marjorie benton cooke",
+   "cooke"
+  ],
+  "mbcooke-cinderella-jane": [
+   "marjorie benton cooke",
+   "cooke"
+  ],
+  "ecooper-drusilla-with-a-million": [
+   "elizabeth cooper",
+   "cooper"
+  ],
+  "ecooper-my-lady-of-the-chinese-courtyard": [
+   "elizabeth cooper",
+   "cooper"
+  ],
+  "ecooper-living-up-to-billy": [
+   "elizabeth cooper",
+   "cooper"
+  ],
+  "ecooper-harim-and-the-purdah": [
+   "elizabeth cooper",
+   "cooper"
+  ],
+  "jacooper-cap-n-abe-storekeeper": [
+   "james a. cooper",
+   "cooper"
+  ],
+  "jacooper-sheila-of-big-wreck-cove": [
+   "james a. cooper",
+   "cooper"
+  ],
+  "jacooper-tobias-o-the-light": [
+   "james a. cooper",
+   "cooper"
+  ],
+  "jacooper-cap-n-jonah-s-fortune": [
+   "james a. cooper",
+   "cooper"
+  ],
+  "gcorbett-new-amazonia": [
+   "george corbett",
+   "corbett"
+  ],
+  "gcorbett-adventures-of-an-ugly-girl": [
+   "george corbett",
+   "corbett"
+  ],
+  "gcorbett-when-the-sea-gives-up-its-dead": [
+   "george corbett",
+   "corbett"
+  ],
+  "gcorbett-adventures-of-dora-bell-detective": [
+   "george corbett",
+   "corbett"
+  ],
+  "mfcrow-lafayette": [
+   "martha foote crow"
+  ],
+  "mfcrow-american-country-girl": [
+   "martha foote crow"
+  ],
+  "mfcrow-world-above": [
+   "martha foote crow"
+  ],
+  "mfcrow-harriet-beecher-stowe": [
+   "martha foote crow"
+  ],
+  "wdemorgan-somehow-good": [
+   "william de morgan"
+  ],
+  "wdemorgan-when-ghost-meets-ghost": [
+   "william de morgan"
+  ],
+  "wdemorgan-likely-story": [
+   "william de morgan"
+  ],
+  "wdemorgan-it-never-can-happen-again": [
+   "william de morgan"
+  ],
+  "kedopp-tree-dwellers": [
+   "katharine elizabeth dopp"
+  ],
+  "kedopp-later-cave-men": [
+   "katharine elizabeth dopp"
+  ],
+  "kedopp-early-cave-men": [
+   "katharine elizabeth dopp"
+  ],
+  "kedopp-bobby-and-betty-with-the-workers": [
+   "katharine elizabeth dopp"
+  ],
+  "edyson-gold-stealers": [
+   "edward dyson",
+   "dyson"
+  ],
+  "edyson-hello-soldier": [
+   "edward dyson",
+   "dyson"
+  ],
+  "edyson-in-the-roaring-fifties": [
+   "edward dyson",
+   "dyson"
+  ],
+  "edyson-missing-link": [
+   "edward dyson",
+   "dyson"
+  ],
+  "abedwards-monsieur-maurice": [
+   "amelia b. edwards",
+   "edwards"
+  ],
+  "abedwards-in-the-days-of-my-youth": [
+   "amelia b. edwards",
+   "edwards"
+  ],
+  "abedwards-night-on-the-borders-of-the-black-forest": [
+   "amelia b. edwards",
+   "edwards"
+  ],
+  "abedwards-thousand-miles-up-the-nile": [
+   "amelia b. edwards",
+   "edwards"
+  ],
+  "wmely-boy-chums-in-the-forest": [
+   "wilmer m. ely",
+   "wilmer mateo ely"
+  ],
+  "wmely-boy-chums-cruising-in-florida-waters-or-the-perils-and": [
+   "wilmer m. ely",
+   "wilmer mateo ely"
+  ],
+  "wmely-boy-chums-in-the-florida-jungle-or-charlie-west-and-wa": [
+   "wilmer m. ely",
+   "wilmer mateo ely"
+  ],
+  "wmely-boy-chums-in-the-gulf-of-mexico-or-on-a-dangerous-crui": [
+   "wilmer m. ely",
+   "wilmer mateo ely"
+  ],
+  "mfairless-roadmender": [
+   "michael fairless",
+   "fairless"
+  ],
+  "mfairless-gathering-of-brother-hilarius": [
+   "michael fairless",
+   "fairless"
+  ],
+  "mfairless-grey-brethren-and-other-fragments-in-prose-and-ver": [
+   "michael fairless",
+   "fairless"
+  ],
+  "rfirbank-odette": [
+   "ronald firbank",
+   "firbank"
+  ],
+  "rfirbank-flower-beneath-the-foot": [
+   "ronald firbank",
+   "firbank"
+  ],
+  "rfirbank-sorrow-in-sunlight": [
+   "ronald firbank",
+   "firbank"
+  ],
+  "rfirbank-caprice": [
+   "ronald firbank",
+   "firbank"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "nanderson-dorian": [
+   12684,
+   "Dorian"
+  ],
+  "nanderson-story-of-chester-lawrence-being-the-completed-acco": [
+   13756,
+   "Story of Chester Lawrence Being the Completed Account of One who Played an Important Part in \"Piney Ridge Cottage\""
+  ],
+  "nanderson-young-folks-history-of-the-church-of-jesus-christ": [
+   16534,
+   "A Young Folks' History of the Church of Jesus Christ of Latter-day Saints"
+  ],
+  "nanderson-added-upon-a-story": [
+   17249,
+   "Added Upon A Story"
+  ],
+  "jgaustin-outpost": [
+   4676,
+   "Outpost"
+  ],
+  "jgaustin-standish-of-standish": [
+   22052,
+   "Standish of Standish: A Story of the Pilgrims"
+  ],
+  "jgaustin-betty-alden": [
+   67608,
+   "Betty Alden: The first-born daughter of the Pilgrims"
+  ],
+  "jgaustin-fairy-dreams": [
+   76391,
+   "Fairy dreams"
+  ],
+  "ssbaker-little-tora-the-swedish-schoolmistress-and-other-sto": [
+   22195,
+   "Little Tora, The Swedish Schoolmistress and Other Stories"
+  ],
+  "ssbaker-golden-house": [
+   28349,
+   "The Golden House"
+  ],
+  "ssbaker-babes-in-the-basket": [
+   56819,
+   "The Babes in the Basket; or, Daph and Her Charge"
+  ],
+  "ssbaker-timid-lucy": [
+   68677,
+   "Timid Lucy"
+  ],
+  "dbelasco-return-of-peter-grimm": [
+   13319,
+   "The Return of Peter Grimm"
+  ],
+  "dbelasco-girl-of-the-golden-west": [
+   16551,
+   "The Girl of the Golden West"
+  ],
+  "dbelasco-return-of-peter-grimm-novelised-from-the-play": [
+   24359,
+   "The Return of Peter Grimm Novelised From the Play"
+  ],
+  "jjbell-till-the-clock-stops": [
+   9873,
+   "Till the Clock Stops"
+  ],
+  "jjbell-wee-macgreegor-enlists": [
+   12269,
+   "Wee Macgreegor Enlists"
+  ],
+  "jjbell-kitty-carstairs": [
+   60310,
+   "Kitty Carstairs"
+  ],
+  "jjbell-courtin-christina": [
+   63806,
+   "Courtin' Christina"
+  ],
+  "icbyrum-poorhouse-waif-and-his-divine-teacher": [
+   7036,
+   "The Poorhouse Waif and His Divine Teacher: A True Story"
+  ],
+  "icbyrum-value-of-a-praying-mother": [
+   12042,
+   "The value of a praying mother"
+  ],
+  "icbyrum-how-john-became-a-man": [
+   12493,
+   "How John Became a Man: Life Story of a Motherless Boy"
+  ],
+  "icbyrum-troubles-of-biddy": [
+   34438,
+   "The Troubles of Biddy: A Pretty Little Story"
+  ],
+  "kchopin-awakening-and-selected-short-stories": [
+   160,
+   "The Awakening, and Selected Short Stories"
+  ],
+  "kchopin-at-fault": [
+   23810,
+   "At Fault"
+  ],
+  "kchopin-bayou-folk": [
+   46650,
+   "Bayou Folk"
+  ],
+  "kchopin-night-in-acadie": [
+   63025,
+   "A Night in Acadie"
+  ],
+  "erchurch-grandmother-s-recollections": [
+   11427,
+   "A Grandmother's Recollections"
+  ],
+  "erchurch-among-the-trees-at-elmridge": [
+   11723,
+   "Among the Trees at Elmridge"
+  ],
+  "erchurch-little-pilgrim-at-aunt-lou-s": [
+   67918,
+   "Little Pilgrim at Aunt Lou's"
+  ],
+  "erchurch-artistic-embroidery": [
+   76893,
+   "Artistic embroidery"
+  ],
+  "chclark-elbow-room": [
+   12581,
+   "Elbow-Room: A Novel Without a Plot"
+  ],
+  "chclark-frictional-electricity-from-the-saturday-evening-pos": [
+   23179,
+   "Frictional Electricity From \"The Saturday Evening Post.\""
+  ],
+  "chclark-out-of-the-hurly-burly": [
+   42190,
+   "Out of the Hurly-Burly; Or, Life in an Odd Corner"
+  ],
+  "chclark-fortunate-island-and-other-stories": [
+   60632,
+   "The Fortunate Island, and Other Stories"
+  ],
+  "wkclifford-very-short-stories-and-verses-for-children": [
+   30272,
+   "Very Short Stories and Verses For Children"
+  ],
+  "wkclifford-margaret-vincent": [
+   39865,
+   "Margaret Vincent: A Novel"
+  ],
+  "wkclifford-aunt-anne-vol-1-of-2": [
+   75403,
+   "Aunt Anne, Vol. 1 (of 2)"
+  ],
+  "wkclifford-aunt-anne-vol-2-of-2": [
+   75404,
+   "Aunt Anne, Vol. 2 (of 2)"
+  ],
+  "jconquest-desert-love": [
+   15242,
+   "Desert Love"
+  ],
+  "jconquest-hawk-of-egypt": [
+   15721,
+   "The Hawk of Egypt"
+  ],
+  "jconquest-leonie-of-the-jungle": [
+   15841,
+   "Leonie of the Jungle"
+  ],
+  "jconquest-zarah-the-cruel": [
+   61014,
+   "Zarah the Cruel"
+  ],
+  "jecooke-mohun": [
+   8424,
+   "Mohun; Or, the Last Days of Lee and His Paladins. Final Memoirs of a Staff Officer Serving in Virginia. from the Mss. of Colonel Surry, of Eagle's Nest."
+  ],
+  "jecooke-last-of-the-foresters-or-humors-on-the-border": [
+   10560,
+   "The Last of the Foresters Or, Humors on the Border; A story of the Old Virginia Frontier"
+  ],
+  "jecooke-life-of-gen-robert-e-lee": [
+   10692,
+   "A Life of Gen. Robert E. Lee"
+  ],
+  "jecooke-youth-of-jefferson-or-a-chronicle-of-college-scrapes": [
+   23283,
+   "The Youth of Jefferson Or, a Chronicle of College Scrapes at Williamsburg, in Virginia, A.D. 1764"
+  ],
+  "mbcooke-bambi": [
+   11197,
+   "Bambi"
+  ],
+  "mbcooke-cricket": [
+   25081,
+   "The Cricket"
+  ],
+  "mbcooke-dual-alliance": [
+   33209,
+   "The Dual Alliance"
+  ],
+  "mbcooke-cinderella-jane": [
+   33657,
+   "Cinderella Jane"
+  ],
+  "ecooper-drusilla-with-a-million": [
+   6734,
+   "Drusilla with a Million"
+  ],
+  "ecooper-my-lady-of-the-chinese-courtyard": [
+   19665,
+   "My Lady of the Chinese Courtyard"
+  ],
+  "ecooper-living-up-to-billy": [
+   33264,
+   "Living Up to Billy"
+  ],
+  "ecooper-harim-and-the-purdah": [
+   63959,
+   "The Harim and the Purdah: Studies of Oriental Women"
+  ],
+  "jacooper-cap-n-abe-storekeeper": [
+   13982,
+   "Cap'n Abe, Storekeeper: A Story of Cape Cod"
+  ],
+  "jacooper-sheila-of-big-wreck-cove": [
+   14563,
+   "Sheila of Big Wreck Cove: A Story of Cape Cod"
+  ],
+  "jacooper-tobias-o-the-light": [
+   40104,
+   "Tobias o' the Light: A Story of Cape Cod"
+  ],
+  "jacooper-cap-n-jonah-s-fortune": [
+   75584,
+   "Cap'n Jonah's fortune"
+  ],
+  "gcorbett-new-amazonia": [
+   56876,
+   "New Amazonia: A Foretaste of the Future"
+  ],
+  "gcorbett-adventures-of-an-ugly-girl": [
+   58082,
+   "The Adventures of an Ugly Girl"
+  ],
+  "gcorbett-when-the-sea-gives-up-its-dead": [
+   62824,
+   "When the Sea Gives Up Its Dead: A Thrilling Detective Story"
+  ],
+  "gcorbett-adventures-of-dora-bell-detective": [
+   70924,
+   "The adventures of Dora Bell, detective"
+  ],
+  "mfcrow-lafayette": [
+   27777,
+   "Lafayette"
+  ],
+  "mfcrow-american-country-girl": [
+   32949,
+   "The American Country Girl"
+  ],
+  "mfcrow-world-above": [
+   60297,
+   "The World Above: A Duologue"
+  ],
+  "mfcrow-harriet-beecher-stowe": [
+   69869,
+   "Harriet Beecher Stowe: a biography for girls"
+  ],
+  "wdemorgan-somehow-good": [
+   28345,
+   "Somehow Good"
+  ],
+  "wdemorgan-when-ghost-meets-ghost": [
+   30896,
+   "When Ghost Meets Ghost"
+  ],
+  "wdemorgan-likely-story": [
+   44773,
+   "A Likely Story"
+  ],
+  "wdemorgan-it-never-can-happen-again": [
+   46228,
+   "It Never Can Happen Again"
+  ],
+  "kedopp-tree-dwellers": [
+   25098,
+   "The Tree-Dwellers"
+  ],
+  "kedopp-later-cave-men": [
+   26603,
+   "The Later Cave-Men"
+  ],
+  "kedopp-early-cave-men": [
+   50057,
+   "The Early Cave-Men"
+  ],
+  "kedopp-bobby-and-betty-with-the-workers": [
+   70328,
+   "Bobby and Betty with the workers"
+  ],
+  "edyson-gold-stealers": [
+   16903,
+   "The gold-stealers"
+  ],
+  "edyson-hello-soldier": [
+   16904,
+   "'Hello, soldier!'"
+  ],
+  "edyson-in-the-roaring-fifties": [
+   17045,
+   "In the Roaring Fifties"
+  ],
+  "edyson-missing-link": [
+   17129,
+   "The Missing Link"
+  ],
+  "abedwards-monsieur-maurice": [
+   8383,
+   "Monsieur Maurice"
+  ],
+  "abedwards-in-the-days-of-my-youth": [
+   12442,
+   "In the Days of My Youth: A Novel"
+  ],
+  "abedwards-night-on-the-borders-of-the-black-forest": [
+   37707,
+   "A Night on the Borders of the Black Forest"
+  ],
+  "abedwards-thousand-miles-up-the-nile": [
+   70565,
+   "A thousand miles up the Nile"
+  ],
+  "wmely-boy-chums-in-the-forest": [
+   27561,
+   "The Boy Chums in the Forest; Or, Hunting for Plume Birds in the Florida Everglades"
+  ],
+  "wmely-boy-chums-cruising-in-florida-waters-or-the-perils-and": [
+   43856,
+   "The Boy Chums Cruising in Florida Waters or, The Perils and Dangers of the Fishing Fleet"
+  ],
+  "wmely-boy-chums-in-the-florida-jungle-or-charlie-west-and-wa": [
+   43875,
+   "The Boy Chums in the Florida Jungle or, Charlie West and Walter Hazard with the Seminole Indians"
+  ],
+  "wmely-boy-chums-in-the-gulf-of-mexico-or-on-a-dangerous-crui": [
+   44394,
+   "The Boy Chums in the Gulf of Mexico or, On a Dangerous Cruise with the Greek Spongers"
+  ],
+  "mfairless-roadmender": [
+   705,
+   "The Roadmender"
+  ],
+  "mfairless-gathering-of-brother-hilarius": [
+   789,
+   "The Gathering of Brother Hilarius"
+  ],
+  "mfairless-grey-brethren-and-other-fragments-in-prose-and-ver": [
+   835,
+   "The Grey Brethren, and Other Fragments in Prose and Verse"
+  ],
+  "rfirbank-odette": [
+   58720,
+   "Odette: A Fairy Tale for Weary People"
+  ],
+  "rfirbank-flower-beneath-the-foot": [
+   59249,
+   "The flower beneath the foot"
+  ],
+  "rfirbank-sorrow-in-sunlight": [
+   66300,
+   "Sorrow in Sunlight"
+  ],
+  "rfirbank-caprice": [
+   70073,
+   "Caprice"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58800": "PG 58800: a second Gutenberg edition of David Belasco's The Girl of the Golden West.",
+  "pg-46830": "PG 46830: a second Gutenberg edition of Michael Fairless's The Roadmender."
+ },
+ "_held": {},
+ "_checks": {
+  "nanderson-dorian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nephi anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nanderson-story-of-chester-lawrence-being-the-completed-acco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nephi anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nanderson-young-folks-history-of-the-church-of-jesus-christ": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nephi anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nanderson-added-upon-a-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nephi anderson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgaustin-outpost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane g. austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgaustin-standish-of-standish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane g. austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgaustin-betty-alden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane g. austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jgaustin-fairy-dreams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jane g. austin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssbaker-little-tora-the-swedish-schoolmistress-and-other-sto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah s. baker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssbaker-golden-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah s. baker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssbaker-babes-in-the-basket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah s. baker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ssbaker-timid-lucy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sarah s. baker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dbelasco-return-of-peter-grimm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david belasco",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dbelasco-girl-of-the-golden-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david belasco",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dbelasco-return-of-peter-grimm-novelised-from-the-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david belasco",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjbell-till-the-clock-stops": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. j. bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjbell-wee-macgreegor-enlists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. j. bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjbell-kitty-carstairs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. j. bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjbell-courtin-christina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. j. bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "icbyrum-poorhouse-waif-and-his-divine-teacher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isabel c. byrum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "icbyrum-value-of-a-praying-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isabel c. byrum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "icbyrum-how-john-became-a-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isabel c. byrum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "icbyrum-troubles-of-biddy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isabel c. byrum",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kchopin-awakening-and-selected-short-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate chopin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kchopin-at-fault": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate chopin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kchopin-bayou-folk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate chopin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kchopin-night-in-acadie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate chopin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erchurch-grandmother-s-recollections": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ella rodman church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erchurch-among-the-trees-at-elmridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ella rodman church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erchurch-little-pilgrim-at-aunt-lou-s": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ella rodman church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "erchurch-artistic-embroidery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ella rodman church",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chclark-elbow-room": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles heber clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chclark-frictional-electricity-from-the-saturday-evening-pos": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles heber clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chclark-out-of-the-hurly-burly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles heber clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "chclark-fortunate-island-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles heber clark",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wkclifford-very-short-stories-and-verses-for-children": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. k. clifford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wkclifford-margaret-vincent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. k. clifford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wkclifford-aunt-anne-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. k. clifford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wkclifford-aunt-anne-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. k. clifford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconquest-desert-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joan conquest",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconquest-hawk-of-egypt": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joan conquest",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconquest-leonie-of-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joan conquest",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jconquest-zarah-the-cruel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joan conquest",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jecooke-mohun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john esten cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jecooke-last-of-the-foresters-or-humors-on-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john esten cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jecooke-life-of-gen-robert-e-lee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john esten cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jecooke-youth-of-jefferson-or-a-chronicle-of-college-scrapes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john esten cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbcooke-bambi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marjorie benton cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbcooke-cricket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marjorie benton cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbcooke-dual-alliance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marjorie benton cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mbcooke-cinderella-jane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marjorie benton cooke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecooper-drusilla-with-a-million": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecooper-my-lady-of-the-chinese-courtyard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecooper-living-up-to-billy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecooper-harim-and-the-purdah": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacooper-cap-n-abe-storekeeper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacooper-sheila-of-big-wreck-cove": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacooper-tobias-o-the-light": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jacooper-cap-n-jonah-s-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james a. cooper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcorbett-new-amazonia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george corbett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcorbett-adventures-of-an-ugly-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george corbett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcorbett-when-the-sea-gives-up-its-dead": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george corbett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gcorbett-adventures-of-dora-bell-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george corbett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfcrow-lafayette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha foote crow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfcrow-american-country-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha foote crow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfcrow-world-above": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha foote crow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfcrow-harriet-beecher-stowe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "martha foote crow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdemorgan-somehow-good": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william de morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdemorgan-when-ghost-meets-ghost": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william de morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdemorgan-likely-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william de morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wdemorgan-it-never-can-happen-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william de morgan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kedopp-tree-dwellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine elizabeth dopp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kedopp-later-cave-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine elizabeth dopp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kedopp-early-cave-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine elizabeth dopp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kedopp-bobby-and-betty-with-the-workers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine elizabeth dopp",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edyson-gold-stealers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward dyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edyson-hello-soldier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward dyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edyson-in-the-roaring-fifties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward dyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "edyson-missing-link": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward dyson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abedwards-monsieur-maurice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amelia b. edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abedwards-in-the-days-of-my-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amelia b. edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abedwards-night-on-the-borders-of-the-black-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amelia b. edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abedwards-thousand-miles-up-the-nile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "amelia b. edwards",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmely-boy-chums-in-the-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmer m. ely",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmely-boy-chums-cruising-in-florida-waters-or-the-perils-and": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmer m. ely",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmely-boy-chums-in-the-florida-jungle-or-charlie-west-and-wa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmer m. ely",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wmely-boy-chums-in-the-gulf-of-mexico-or-on-a-dangerous-crui": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wilmer m. ely",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfairless-roadmender": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael fairless",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfairless-gathering-of-brother-hilarius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael fairless",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mfairless-grey-brethren-and-other-fragments-in-prose-and-ver": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "michael fairless",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfirbank-odette": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ronald firbank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfirbank-flower-beneath-the-foot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ronald firbank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfirbank-sorrow-in-sunlight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ronald firbank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rfirbank-caprice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ronald firbank",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

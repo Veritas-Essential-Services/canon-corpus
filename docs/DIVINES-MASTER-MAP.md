@@ -44843,3 +44843,106 @@ Shelf: `pipeline/earl-derr-biggers_shelf.json` (2026-10-22; added at the coordin
 | Inside the Lines | have | PG 56036, `edbiggers-inside-the-lines` (1455 units) |
 | Love Insurance | have | PG 56077, `edbiggers-love-insurance` (2611 units) |
 | The house without a key | have | PG 73771, `edbiggers-house-without-a-key` (2900 units) |
+
+## Storytellers' tail, group 1 (24 authors)
+
+Shelf: `pipeline/storytellers-tail-01_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 24 authors with 4 Gutenberg texts each: Nephi Anderson, Jane G. Austin, Sarah S. Baker, David Belasco, J. J. Bell, Isabel C. Byrum, Kate Chopin, Ella Rodman Church, Charles Heber Clark, W. K. Clifford, Joan Conquest, John Esten Cooke, Marjorie Benton Cooke, Elizabeth Cooper, James A. Cooper, George Corbett, Martha Foote Crow, William De Morgan, Katharine Elizabeth Dopp, Edward Dyson, Amelia B. Edwards, Wilmer M. Ely, Michael Fairless, Ronald Firbank. Every English text under the name at Gutenberg that no other shelf holds (94 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dorian | have | PG 12684, `nanderson-dorian` (1400 units) |
+| Story of Chester Lawrence Being the Completed Account of One who Played an Important Part in "Piney Ridge Cottage" | have | PG 13756, `nanderson-story-of-chester-lawrence-being-the-completed-acco` (1487 units) |
+| A Young Folks' History of the Church of Jesus Christ of Latter-day Saints | have | PG 16534, `nanderson-young-folks-history-of-the-church-of-jesus-christ` (754 units) |
+| Added Upon A Story | have | PG 17249, `nanderson-added-upon-a-story` (1372 units) |
+| Outpost | have | PG 4676, `jgaustin-outpost` (2099 units) |
+| Standish of Standish: A Story of the Pilgrims | have | PG 22052, `jgaustin-standish-of-standish` (2656 units) |
+| Betty Alden: The first-born daughter of the Pilgrims | have | PG 67608, `jgaustin-betty-alden` (2166 units) |
+| Fairy dreams | have | PG 76391, `jgaustin-fairy-dreams` (505 units) |
+| Little Tora, The Swedish Schoolmistress and Other Stories | have | PG 22195, `ssbaker-little-tora-the-swedish-schoolmistress-and-other-sto` (453 units) |
+| The Golden House | have | PG 28349, `ssbaker-golden-house` (676 units) |
+| The Babes in the Basket; or, Daph and Her Charge | have | PG 56819, `ssbaker-babes-in-the-basket` (516 units) |
+| Timid Lucy | have | PG 68677, `ssbaker-timid-lucy` (556 units) |
+| The Return of Peter Grimm | have | PG 13319, `dbelasco-return-of-peter-grimm` (1155 units) |
+| The Girl of the Golden West | have | PG 16551, `dbelasco-girl-of-the-golden-west` (2267 units) |
+| The Return of Peter Grimm Novelised From the Play | have | PG 24359, `dbelasco-return-of-peter-grimm-novelised-from-the-play` (2161 units) |
+| Till the Clock Stops | have | PG 9873, `jjbell-till-the-clock-stops` (2182 units) |
+| Wee Macgreegor Enlists | have | PG 12269, `jjbell-wee-macgreegor-enlists` (1237 units) |
+| Kitty Carstairs | have | PG 60310, `jjbell-kitty-carstairs` (1840 units) |
+| Courtin' Christina | have | PG 63806, `jjbell-courtin-christina` (1163 units) |
+| The Poorhouse Waif and His Divine Teacher: A True Story | have | PG 7036, `icbyrum-poorhouse-waif-and-his-divine-teacher` (641 units) |
+| The value of a praying mother | have | PG 12042, `icbyrum-value-of-a-praying-mother` (340 units) |
+| How John Became a Man: Life Story of a Motherless Boy | have | PG 12493, `icbyrum-how-john-became-a-man` (266 units) |
+| The Troubles of Biddy: A Pretty Little Story | have | PG 34438, `icbyrum-troubles-of-biddy` (51 units) |
+| The Awakening, and Selected Short Stories | have | PG 160, `kchopin-awakening-and-selected-short-stories` (1374 units) |
+| At Fault | have | PG 23810, `kchopin-at-fault` (1296 units) |
+| Bayou Folk | have | PG 46650, `kchopin-bayou-folk` (1414 units) |
+| A Night in Acadie | have | PG 63025, `kchopin-night-in-acadie` (1414 units) |
+| A Grandmother's Recollections | have | PG 11427, `erchurch-grandmother-s-recollections` (424 units) |
+| Among the Trees at Elmridge | have | PG 11723, `erchurch-among-the-trees-at-elmridge` (1156 units) |
+| Little Pilgrim at Aunt Lou's | have | PG 67918, `erchurch-little-pilgrim-at-aunt-lou-s` (127 units) |
+| Artistic embroidery | have | PG 76893, `erchurch-artistic-embroidery` (767 units) |
+| Elbow-Room: A Novel Without a Plot | have | PG 12581, `chclark-elbow-room` (1453 units) |
+| Frictional Electricity From "The Saturday Evening Post." | have | PG 23179, `chclark-frictional-electricity-from-the-saturday-evening-pos` (76 units) |
+| Out of the Hurly-Burly; Or, Life in an Odd Corner | have | PG 42190, `chclark-out-of-the-hurly-burly` (1707 units) |
+| The Fortunate Island, and Other Stories | have | PG 60632, `chclark-fortunate-island-and-other-stories` (2116 units) |
+| Very Short Stories and Verses For Children | have | PG 30272, `wkclifford-very-short-stories-and-verses-for-children` (386 units) |
+| Margaret Vincent: A Novel | have | PG 39865, `wkclifford-margaret-vincent` (1833 units) |
+| Aunt Anne, Vol. 1 (of 2) | have | PG 75403, `wkclifford-aunt-anne-vol-1-of-2` (1225 units) |
+| Aunt Anne, Vol. 2 (of 2) | have | PG 75404, `wkclifford-aunt-anne-vol-2-of-2` (1337 units) |
+| Desert Love | have | PG 15242, `jconquest-desert-love` (1276 units) |
+| The Hawk of Egypt | have | PG 15721, `jconquest-hawk-of-egypt` (1963 units) |
+| Leonie of the Jungle | have | PG 15841, `jconquest-leonie-of-the-jungle` (2413 units) |
+| Zarah the Cruel | have | PG 61014, `jconquest-zarah-the-cruel` (2143 units) |
+| Mohun; Or, the Last Days of Lee and His Paladins. Final Memoirs of a Staff Officer Serving in Virginia. from the Mss. of Colonel Surry, of Eagle's Nest. | have | PG 8424, `jecooke-mohun` (4938 units) |
+| The Last of the Foresters Or, Humors on the Border; A story of the Old Virginia Frontier | have | PG 10560, `jecooke-last-of-the-foresters-or-humors-on-the-border` (4512 units) |
+| A Life of Gen. Robert E. Lee | have | PG 10692, `jecooke-life-of-gen-robert-e-lee` (1729 units) |
+| The Youth of Jefferson Or, a Chronicle of College Scrapes at Williamsburg, in Virginia, A.D. 1764 | have | PG 23283, `jecooke-youth-of-jefferson-or-a-chronicle-of-college-scrapes` (2524 units) |
+| Bambi | have | PG 11197, `mbcooke-bambi` (3370 units) |
+| The Cricket | have | PG 25081, `mbcooke-cricket` (3136 units) |
+| The Dual Alliance | have | PG 33209, `mbcooke-dual-alliance` (905 units) |
+| Cinderella Jane | have | PG 33657, `mbcooke-cinderella-jane` (3641 units) |
+| Drusilla with a Million | have | PG 6734, `ecooper-drusilla-with-a-million` (2199 units) |
+| My Lady of the Chinese Courtyard | have | PG 19665, `ecooper-my-lady-of-the-chinese-courtyard` (530 units) |
+| Living Up to Billy | have | PG 33264, `ecooper-living-up-to-billy` (252 units) |
+| The Harim and the Purdah: Studies of Oriental Women | have | PG 63959, `ecooper-harim-and-the-purdah` (600 units) |
+| Cap'n Abe, Storekeeper: A Story of Cape Cod | have | PG 13982, `jacooper-cap-n-abe-storekeeper` (2161 units) |
+| Sheila of Big Wreck Cove: A Story of Cape Cod | have | PG 14563, `jacooper-sheila-of-big-wreck-cove` (2264 units) |
+| Tobias o' the Light: A Story of Cape Cod | have | PG 40104, `jacooper-tobias-o-the-light` (2432 units) |
+| Cap'n Jonah's fortune | have | PG 75584, `jacooper-cap-n-jonah-s-fortune` (2014 units) |
+| New Amazonia: A Foretaste of the Future | have | PG 56876, `gcorbett-new-amazonia` (747 units) |
+| The Adventures of an Ugly Girl | have | PG 58082, `gcorbett-adventures-of-an-ugly-girl` (1370 units) |
+| When the Sea Gives Up Its Dead: A Thrilling Detective Story | have | PG 62824, `gcorbett-when-the-sea-gives-up-its-dead` (994 units) |
+| The adventures of Dora Bell, detective | have | PG 70924, `gcorbett-adventures-of-dora-bell-detective` (457 units) |
+| Lafayette | have | PG 27777, `mfcrow-lafayette` (540 units) |
+| The American Country Girl | have | PG 32949, `mfcrow-american-country-girl` (1150 units) |
+| The World Above: A Duologue | have | PG 60297, `mfcrow-world-above` (353 units) |
+| Harriet Beecher Stowe: a biography for girls | have | PG 69869, `mfcrow-harriet-beecher-stowe` (877 units) |
+| Somehow Good | have | PG 28345, `wdemorgan-somehow-good` (3634 units) |
+| When Ghost Meets Ghost | have | PG 30896, `wdemorgan-when-ghost-meets-ghost` (6086 units) |
+| A Likely Story | have | PG 44773, `wdemorgan-likely-story` (1189 units) |
+| It Never Can Happen Again | have | PG 46228, `wdemorgan-it-never-can-happen-again` (5014 units) |
+| The Tree-Dwellers | have | PG 25098, `kedopp-tree-dwellers` (407 units) |
+| The Later Cave-Men | have | PG 26603, `kedopp-later-cave-men` (1407 units) |
+| The Early Cave-Men | have | PG 50057, `kedopp-early-cave-men` (1667 units) |
+| Bobby and Betty with the workers | have | PG 70328, `kedopp-bobby-and-betty-with-the-workers` (1505 units) |
+| The gold-stealers | have | PG 16903, `edyson-gold-stealers` (1914 units) |
+| 'Hello, soldier!' | have | PG 16904, `edyson-hello-soldier` (307 units) |
+| In the Roaring Fifties | have | PG 17045, `edyson-in-the-roaring-fifties` (1987 units) |
+| The Missing Link | have | PG 17129, `edyson-missing-link` (1026 units) |
+| Monsieur Maurice | have | PG 8383, `abedwards-monsieur-maurice` (684 units) |
+| In the Days of My Youth: A Novel | have | PG 12442, `abedwards-in-the-days-of-my-youth` (4154 units) |
+| A Night on the Borders of the Black Forest | have | PG 37707, `abedwards-night-on-the-borders-of-the-black-forest` (1686 units) |
+| A thousand miles up the Nile | have | PG 70565, `abedwards-thousand-miles-up-the-nile` (1900 units) |
+| The Boy Chums in the Forest; Or, Hunting for Plume Birds in the Florida Everglades | have | PG 27561, `wmely-boy-chums-in-the-forest` (1753 units) |
+| The Boy Chums Cruising in Florida Waters or, The Perils and Dangers of the Fishing Fleet | have | PG 43856, `wmely-boy-chums-cruising-in-florida-waters-or-the-perils-and` (1709 units) |
+| The Boy Chums in the Florida Jungle or, Charlie West and Walter Hazard with the Seminole Indians | have | PG 43875, `wmely-boy-chums-in-the-florida-jungle-or-charlie-west-and-wa` (1259 units) |
+| The Boy Chums in the Gulf of Mexico or, On a Dangerous Cruise with the Greek Spongers | have | PG 44394, `wmely-boy-chums-in-the-gulf-of-mexico-or-on-a-dangerous-crui` (1252 units) |
+| The Roadmender | have | PG 705, `mfairless-roadmender` (292 units) |
+| The Gathering of Brother Hilarius | have | PG 789, `mfairless-gathering-of-brother-hilarius` (713 units) |
+| The Grey Brethren, and Other Fragments in Prose and Verse | have | PG 835, `mfairless-grey-brethren-and-other-fragments-in-prose-and-ver` (305 units) |
+| Odette: A Fairy Tale for Weary People | have | PG 58720, `rfirbank-odette` (97 units) |
+| The flower beneath the foot | have | PG 59249, `rfirbank-flower-beneath-the-foot` (1448 units) |
+| Sorrow in Sunlight | have | PG 66300, `rfirbank-sorrow-in-sunlight` (820 units) |
+| Caprice | have | PG 70073, `rfirbank-caprice` (1662 units) |
+| pg-58800 | excluded | PG 58800: a second Gutenberg edition of David Belasco's The Girl of the Golden West. |
+| pg-46830 | excluded | PG 46830: a second Gutenberg edition of Michael Fairless's The Roadmender. |
