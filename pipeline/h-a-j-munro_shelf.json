@@ -1,5 +1,5 @@
 {
- "_about": "Hugh Andrew Johnstone Munro (1819-1885), Cambridge Latinist. His English criticism; his Lucretius (text, notes, translation) is held elsewhere and not refetched.",
+ "_about": "Hugh Andrew Johnstone Munro (1819-1885), Cambridge Latinist. His English criticism; his Lucretius (text, notes, translation) is held elsewhere and not refetched. His Lucretius, fourth edition finally revised (Bell, 1886; 1900 printing): vol. I text with introduction and critical notes, vol. II explanatory notes, raw IA; vol. III, the translation, is on the lucretius shelf.",
  "_author": "H. A. J. Munro (1819-1885)",
  "_name_words": [
   "munro",
@@ -22,10 +22,18 @@
   "munro-pronunciation-latin-1871": [
    "fewremarksonpron00munrrich",
    "A Few Remarks on the Pronunciation of Latin, with a postscript (1871)"
+  ],
+  "munro-lucretius-1900-v1-text": [
+   "lucreticariderer01lucruoft",
+   "T. Lucreti Cari De Rerum Natura Libri Sex, edited with notes and a translation, fourth edition finally revised, vol. I: Text, with introduction and critical notes (London: George Bell; Cambridge: Deighton Bell, 1900 printing of the 1886 edition); Latin text, kept per Adam's 2026-10-23 ruling"
+  ],
+  "munro-lucretius-1900-v2-notes": [
+   "lucreticariderer02lucruoft",
+   "T. Lucreti Cari De Rerum Natura Libri Sex, fourth edition finally revised, vol. II: Explanatory Notes (London: George Bell; Cambridge: Deighton Bell, 1900 printing of the 1886 edition)"
   ]
  },
  "_excluded": {
-  "Munro's Lucretius (1864-1886)": "held elsewhere (Lucretius tr. Munro); not refetched"
+  "Munro's Lucretius (1864-1886)": "vol. III, the translation, is on the lucretius shelf (lucretius-munro-translation, same 1900 printing); vols. I (text) and II (explanatory notes) are now on this shelf, added 2026-10-23"
  },
  "_checks": {
   "munro-catullus-criticisms-1878": {
@@ -48,6 +56,28 @@
    "identity": "title_weak",
    "ia_rights": "ok: published 1871",
    "ia_date": "1871]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "munro-lucretius-1900-v1-text": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "munro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "munro-lucretius-1900-v2-notes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "munro",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

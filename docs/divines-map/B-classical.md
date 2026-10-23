@@ -8953,6 +8953,8 @@ Shelf: `pipeline/h-a-j-munro_shelf.json`. English criticism; his Lucretius is he
 |---|---|---|---|
 | Criticisms and Elucidations of Catullus (1878) |  | `munro-catullus-criticisms-1878` | have-raw (IA `criticismselucid00munriala`) |
 | A Few Remarks on the Pronunciation of Latin, with a postscript (1871) |  | `munro-pronunciation-latin-1871` | have-raw (IA `fewremarksonpron00munrrich`) |
+| T. Lucreti Cari De Rerum Natura Libri Sex, edited with notes and a translation, fourth edition finally revised, vol. I: Text, with introduction and critical notes (London: George Bell; Cambridge: Deighton Bell, 1900 printing of the 1886 edition); Latin text, kept per Adam's 2026-10-23 ruling |  | `munro-lucretius-1900-v1-text` | have-raw (IA `lucreticariderer01lucruoft`) |
+| T. Lucreti Cari De Rerum Natura Libri Sex, fourth edition finally revised, vol. II: Explanatory Notes (London: George Bell; Cambridge: Deighton Bell, 1900 printing of the 1886 edition) |  | `munro-lucretius-1900-v2-notes` | have-raw (IA `lucreticariderer02lucruoft`) |
 
 Excluded: Munro's Lucretius (1864-1886) (held elsewhere (Lucretius tr. Munro); not refetched)
 
