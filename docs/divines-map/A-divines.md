@@ -10876,3 +10876,17 @@ Slugs `seiss-*`. Built from title pages read for round 47.
 | The Last Times: an earnest discussion of momentous themes (Philadelphia, catalogued 1859) | have-ocr | IA `lasttimesearnest00seisiala` |
 | The 1878 Google copy of The Last Times: its title leaf is not in the OCR | alternate | not shelved |
 | Hymnals he compiled (Evangelical Psalmist, Church Song); Luther and the Reformation (1883) left for later | excluded | |
+
+## Henry Eyster Jacobs (round 47, my pick, 2026-10-23)
+
+Slugs `hejacobs-*`. Built from title pages read for round 47.
+
+| Work | Status | Where |
+|---|---|---|
+| Elements of religion (Philadelphia : G. W. Frederick, 1894) | have-ocr | IA `elementsofreligi00jaco_0` |
+| A Summary of the Christian faith (Philadelphia : General Council Publication House, 1905) | have-ocr | IA `summaryofchristi00jaco_0` |
+| The Lutheran movement in England during the reigns of Henry VIII and Edward VI, and its literary monuments (Philadelphia : G.W. Frederick, 1890) | have-ocr | IA `lutheranmovement00jacouoft` |
+| A history of the Evangelical Lutheran church in the United States, vol. 4 (New York : Christian Literature Co., 1893) | have-ocr | IA `historyofevangel04jaco` |
+| Martin Luther : the hero of the reformation 1483-1546 / by Henry Eyster Jacobs (Putnam, 1898) | have-ocr | IA `martinlutherhero00jaco_0` |
+| Annotations on the Epistles of Paul to the Romans and I. Corinthians : chaps. I-VI, vol. 7 (New York : Christian Literature Co., 1896) | have-ocr | IA `annotationsonepi07jaco` |
+| Translations and editions: Schmid's Doctrinal Theology (with Hay), the Book of Concord, the Works of Martin Luther, the Lutheran Cyclopedia | excluded | |
