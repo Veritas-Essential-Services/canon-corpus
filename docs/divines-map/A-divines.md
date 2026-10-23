@@ -18560,3 +18560,16 @@ Slugs `parks-*`. Built from title pages read for round 125.
 | Turnpikes and dirt roads (charles scribner's sons, 1927) | have-ocr | IA `turnpikesdirtroa0000leig` |
 | English Ways and By-Ways is letters of other writers | excluded | |
 | second scans of His Star in the East and the Colonization address | excluded | |
+
+## Camden M. Cobern (round 125, my pick, 2026-10-23)
+
+Slugs `cobern-*`. Built from title pages read for round 125.
+
+| Work | Status | Where |
+|---|---|---|
+| The stars and the Book; sermons preached in St. James Methodist Episcopal church, Chicago (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1904) | have-ocr | IA `starsbooksermons00cobe` |
+| Bible Etchings of Immortality (Fleming H. Revell company, 1905) | have-ocr | IA `bibleetchingsim00cobegoog` |
+| Recent explorations in the Holy Land and Kadesh-Barnea, the "lost oasis" of the the Sinaitic peninsula (Meadville, Pa., Pub. for the World's Bible conference by the Tribune Pub. Co, 1914) | have-ocr | IA `recentexploratio0000cobe` |
+| The new archaeological discoveries and their bearing upon the New Testament and upon the life and times of the primitive Church (New York, Funk, 1917) | have-ocr | IA `newarchaeologica00cobeuoft` |
+| his journal articles | excluded | |
+| other scans and the 1921 printing of The New Archeological Discoveries | excluded | |
