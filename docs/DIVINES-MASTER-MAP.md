@@ -20397,7 +20397,7 @@ Round 21 (2026-10-10), vetoable. Portraits added round 97 (2026-10-17). Not conv
 ## C. J. Hogarth (Tolstoy's trilogy, Dostoevsky, Oblomov, Turgenev)
 
 Shelf: `pipeline/cj-hogarth_shelf.json` · fetch `python3 pipeline/fetch_shelf.py cj-hogarth` · titles `python3 pipeline/split_shelf_titles.py cj-hogarth`.
-Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 21 (2026-10-10), vetoable. Round 133 added Kluchevsky's History of Russia (4 vols), Soloviev's Dostoievsky and Shmelov's The Sun of the Dead. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20411,12 +20411,18 @@ Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `cj-hogarth-tolstoy-childhood` | Leo Tolstoy | Childhood | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2142 |
 | `cj-hogarth-tolstoy-youth` | Leo Tolstoy | Youth | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 2637 |
 | `cj-hogarth-turgenev-fathers-and-sons` | Ivan Turgenev | Fathers and Sons | C. J. Hogarth | 1912-1926 (see the Gutenberg header) | have | PG 47935 |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-1` | V. O. Kluchevsky | A History of Russia, vol. 1 | C. J. Hogarth | 1911 | have-raw | IA `in.ernet.dli.2015.79986` |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-2` | V. O. Kluchevsky | A History of Russia, vol. 2 | C. J. Hogarth | 1912 | have-raw | IA `india.history.resource.87849` |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-3` | V. O. Kluchevsky | A History of Russia, vol. 3 | C. J. Hogarth | 1913 | have-raw | IA `historyofrussia03kliu` |
+| `cj-hogarth-kluchevsky-a-history-of-russia-vol-4` | V. O. Kluchevsky | A History of Russia, vol. 4 | C. J. Hogarth | 1926 | have-raw | IA `historyofrussia04kliuuoft` |
+| `cj-hogarth-soloviev-dostoievsky` | Evgenii Soloviev | Dostoievsky: His Life and Literary Activity | C. J. Hogarth | 1916 | have-raw | IA `in.ernet.dli.2015.173824` |
+| `cj-hogarth-shmelov-the-sun-of-the-dead` | Ivan Shmelov | The Sun of the Dead | C. J. Hogarth | 1927 | have-raw | IA `the-sun-of-the-dead` |
 | — | — | pg-19680: A second Gutenberg copy of Childhood; 2142 is used. | — | — | excluded | — |
 
 ## Herman Bernstein (Andreyev, Gorky, Chekhov)
 
 Shelf: `pipeline/herman-bernstein_shelf.json` · fetch `python3 pipeline/fetch_shelf.py herman-bernstein` · titles `python3 pipeline/split_shelf_titles.py herman-bernstein`.
-Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 21 (2026-10-10), vetoable. Round 133 added Foma Gordeyev and Samson in Chains. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20429,6 +20435,8 @@ Round 21 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `herman-bernstein-chekhov-the-slanderer` | Anton Chekhov | The Slanderer | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 23055 |
 | `herman-bernstein-gorky-the-man-who-was-afraid` | Maksim Gorky | The Man Who Was Afraid | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 2709 |
 | `herman-bernstein-turgenev-the-rendezvous` | Ivan Turgenev | The Rendezvous | Herman Bernstein | 1901-1922 (see the Gutenberg header) | have | PG 23056 |
+| `herman-bernstein-gorky-foma-gordeyev` | Maxim Gorky | Foma Gordeyev | Herman Bernstein | 1901 | have-raw | IA `fomagordeyevnove00gork` |
+| `herman-bernstein-andreyev-samson-in-chains` | Leonid Andreyev | Samson in Chains: A Posthumous Tragedy | Herman Bernstein | 1923 | have-raw | IA `samsoninchainspo00andruoft` |
 
 ## Eleanor Marx Aveling (Madame Bovary, Ibsen, Lissagaray)
 
@@ -20522,7 +20530,7 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## A. R. Allinson (Anatole France, Brantôme, Fantômas)
 
 Shelf: `pipeline/allinson_shelf.json` · fetch `python3 pipeline/fetch_shelf.py allinson` · titles `python3 pipeline/split_shelf_titles.py allinson`.
-Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Round 133 added four archive.org books (France x2, Dumas, Fleischmann). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20535,11 +20543,15 @@ Round 22 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `allinson-france-the-well-of-saint-clare` | Anatole France | The Well of Saint Clare | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 18728 |
 | `allinson-lemonnier-birds-and-beasts` | Camille Lemonnier | Birds and Beasts | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 51847 |
 | `allinson-souvestre-the-long-arm-of-fantomas` | Pierre Souvestre | The long arm of Fantômas | A. R. Allinson | 1901-1924 (see the Gutenberg header) | have | PG 71587 |
+| `allinson-france-the-garden-of-epicurus` | Anatole France | The Garden of Epicurus | Alfred Allinson | 1908 | have-raw | IA `dli.ministry.13283` |
+| `allinson-france-the-human-tragedy` | Anatole France | The Human Tragedy | Alfred Allinson | 1916 | have-raw | IA `india.history.resource.117537` |
+| `allinson-dumas-my-pets` | Alexandre Dumas | My Pets | Alfred Allinson | 1909 | have-raw | IA `mypetspets00dumarich` |
+| `allinson-fleischmann-an-unknown-son-of-napoleon` | Hector Fleischmann | An Unknown Son of Napoleon | A. R. Allinson | 1914 | have-raw | IA `unknownsonofnapo00fleiiala` |
 
 ## W. W. Worster (Hamsun, Bojer, Gunnarsson)
 
 Shelf: `pipeline/worster_shelf.json` · fetch `python3 pipeline/fetch_shelf.py worster` · titles `python3 pipeline/split_shelf_titles.py worster`.
-Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelves. Not converted to unit-id JSON; **no uids minted**.
+Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelves. Round 133 added four archive.org books (Lagerlöf, Linnankoski, Buchholtz, Kreutz). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20551,6 +20563,10 @@ Round 22 (2026-10-10), vetoable. Rasmussen and Lagerlöf left to their own shelv
 | `worster-hamsun-pan` | Knut Hamsun | Pan | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 7214 |
 | `worster-hamsun-wanderers` | Knut Hamsun | Wanderers | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 7762 |
 | `worster-nilsen-dry-fish-and-wet` | Anthon Bernhard Elias Nilsen (Elias Kræmmer) | Dry fish and wet | W. W. Worster | 1918-1923 (see the Gutenberg header) | have | PG 35918 |
+| `worster-lagerlof-the-outcast` | Selma Lagerlöf | The Outcast | W. Worster | 1922 | have-raw | IA `outcast00worsgoog` |
+| `worster-linnankoski-the-song-of-the-blood-red-flower` | Johannes Linnankoski | The Song of the Blood-Red Flower | W. Worster | 1921 | have-raw | IA `songofbloodredfl00linn` |
+| `worster-buchholtz-the-miracles-of-clara-van-haag` | Johannes Buchholtz | The Miracles of Clara van Haag | W. W. Worster | 1922 | have-raw | IA `miraclesofclarav00buch` |
+| `worster-kreutzer-captain-zillner` | Rudolf Jeremias Kreutz | Captain Zillner: A Human Document | W. J. Alexander Worster | 1919 | have-raw | IA `captainzillnerhu00kreuiala` |
 | — | — | pg-28932: Rasmussen's Eskimo Folk-Tales is on rasmussen_shelf.json (another lane). | — | — | excluded | — |
 | — | — | pg-71086: Lagerlöf's The Outcast (1922) is left for lagerlof_shelf.json (another lane), which does not hold it yet. | — | — | excluded | — |
 
