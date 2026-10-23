@@ -19212,3 +19212,20 @@ Slugs `lake-*`. Built from title pages read for round 132.
 | his Loeb Apostolic Fathers is a translation of other men's texts; the Codex Sinaiticus and Hermas facsimiles are editions | excluded | |
 | single journal articles and pamphlets | excluded | |
 | other scans of the same books | excluded | |
+
+## Frederick Carl Eiselen (round 132, my pick, 2026-10-23)
+
+Slugs `eiselen-*`. Built from title pages read for round 132.
+
+| Work | Status | Where |
+|---|---|---|
+| SIDON (NEW YORK, 1907) | have-ocr | IA `sidon00eise` |
+| The worker and his Bible (Chicago, Ill., Board of Sunday schools of the Methodist Episcopal church, 1909) | have-ocr | IA `workerhisbible00eise` |
+| Prophecy and the prophets in their historical relations (New York : Eaton & Mains, 1909) | have-ocr | IA `prophecyprophets0000eise` |
+| The Christian view of the Old Testament (New York : Methodist Book Concern, [c19) | have-ocr | IA `christianviewofo00eise` |
+| The books of the Pentateuch; their origin, contents, and significance (New York : Methodist Book Concern, [c19) | have-ocr | IA `booksofpentateuc00eise` |
+| The Psalms and other sacred writings, their origin, contents, and significance (New York, Cincinnati, The Methodist Book Concern, [c19) | have-ocr | IA `psalmsothersacre00eiserich` |
+| The prophetic books of the Old Testament, their origin, contents, and significance (New York, Methodist Book Concern, 1923) | have-ocr | IA `propheticbooksof0000eise` |
+| the 1907 Commentary on the Old Testament scan is not certainly his | excluded | |
+| microform and other scans of the same books | excluded | |
+| single journal articles | excluded | |
