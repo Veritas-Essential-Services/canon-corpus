@@ -10674,3 +10674,15 @@ Slugs `tnewton-*`. Built from title pages read for round 45.
 | Dissertations on the prophecies : which have remarkably been fulfilled, and at this time are fulfilling in the world, vol. 3 (London : Printed for J. and R. Tonson ..., MDCC) | have-ocr | IA `dissertationsonp03newt` |
 | Many later printings of the Dissertations (1754-1808) | alternate | not shelved |
 | His edition of Milton (Milton's work) | excluded | |
+
+## Zachary Pearce (round 45, my pick, 2026-10-22)
+
+Slugs `pearce-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Commentary, with Notes, on the Four Evangelists and the Acts of the Apostles, vol. 1 (London, catalogued 1777) | have-ocr | IA `bim_eighteenth-century_a-commentary-with-notes_pearce-zachary_1777_1` |
+| A Commentary, with Notes, on the Four Evangelists and the Acts of the Apostles, vol. 2 (London, catalogued 1777) | have-ocr | IA `bim_eighteenth-century_a-commentary-with-notes_pearce-zachary_1777_2` |
+| Sermons on Several Subjects (G. Robinson, 1778) | have-ocr | IA `sermonsonsevera00peargoog` |
+| The Miracles of Jesus Vindicated (second edition, 1729; IA miraclesofjesusv00pear): its title page names no author. It is Pearce's by attribution, but the page names nobody | pending | not shelved |
+| His editions of Cicero and Longinus; the Review of the text of Paradise Lost | excluded | |
