@@ -1856,3 +1856,6 @@
 
 ## 2026-10-22 22:24 CDT — s-weir-mitchell: done
 - s-weir-mitchell: new shelf, 15 Gutenberg books, 22,091 units, 485 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — helen-hunt-jackson: done
+- helen-hunt-jackson: new shelf, 14 Gutenberg books, 14,725 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags.

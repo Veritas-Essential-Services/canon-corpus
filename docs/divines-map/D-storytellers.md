@@ -14234,3 +14234,25 @@ Shelf: `pipeline/s-weir-mitchell_shelf.json` (2026-10-22; added at the coordinat
 | When All the Woods Are Green: A Novel | have | PG 53120, `swmitchell-when-all-the-woods-are-green` (3826 units) |
 | The Youth of Washington: Told in the Form of an Autobiography | have | PG 65513, `swmitchell-youth-of-washington` (678 units) |
 | Constance Trescot | have | PG 77431, `swmitchell-constance-trescot` (2682 units) |
+
+## Helen Hunt Jackson
+
+Shelf: `pipeline/helen-hunt-jackson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels, stories and children's books. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Ramona | have | PG 2802, `hhjackson-ramona` (2205 units) |
+| Hetty's Strange History | have | PG 9311, `hhjackson-hettys-strange-history` (930 units) |
+| A Calendar of Sonnets | have | PG 9825, `hhjackson-calendar-of-sonnets` (30 units) |
+| Bits about Home Matters | have | PG 10516, `hhjackson-bits-about-home-matters` (530 units) |
+| Mercy Philbrick's Choice | have | PG 10519, `hhjackson-mercy-philbricks-choice` (1063 units) |
+| Between Whiles | have | PG 10756, `hhjackson-between-whiles` (977 units) |
+| Saxe Holm's Stories First Series | have | PG 10926, `hhjackson-saxe-holms-stories-first-series` (1612 units) |
+| The Hunter Cats of Connorloa | have | PG 28385, `hhjackson-hunter-cats-of-connorloa` (384 units) |
+| Letters from a Cat Published by Her Mistress for the Benefit of All Cats and the Amusement of Little Children | have | PG 32069, `hhjackson-letters-from-a-cat-published-by-her-mistress-for-t` (105 units) |
+| Mammy Tittleback and Her Family: A True Story of Seventeen Cats | have | PG 33240, `hhjackson-mammy-tittleback-and-her-family` (190 units) |
+| Nelly's Silver Mine: A Story of Colorado Life | have | PG 34430, `hhjackson-nellys-silver-mine` (2694 units) |
+| Glimpses of Three Coasts | have | PG 42009, `hhjackson-glimpses-of-three-coasts` (1382 units) |
+| A Century of Dishonor A Sketch of the United States Government's Dealings with Some of the Indian Tribes | have | PG 50560, `hhjackson-century-of-dishonor-a-sketch-of-the-united-states` (1930 units) |
+| Zeph | have | PG 78249, `hhjackson-zeph` (693 units) |
+| repeat-editions | excluded | PG 29699: second Gutenberg editions of titles already on the shelf. |

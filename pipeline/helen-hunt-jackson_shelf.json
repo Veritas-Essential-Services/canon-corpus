@@ -1,0 +1,206 @@
+{
+ "_about": "Helen Hunt Jackson's Ramona, her stories, verse and children's books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Helen Hunt Jackson",
+ "_name_words": [
+  "helen",
+  "hunt",
+  "jackson"
+ ],
+ "_surname": [
+  "helen hunt jackson",
+  "helen jackson",
+  "h. h."
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hhjackson-ramona": [
+   2802,
+   "Ramona"
+  ],
+  "hhjackson-hettys-strange-history": [
+   9311,
+   "Hetty's Strange History"
+  ],
+  "hhjackson-calendar-of-sonnets": [
+   9825,
+   "A Calendar of Sonnets"
+  ],
+  "hhjackson-bits-about-home-matters": [
+   10516,
+   "Bits about Home Matters"
+  ],
+  "hhjackson-mercy-philbricks-choice": [
+   10519,
+   "Mercy Philbrick's Choice"
+  ],
+  "hhjackson-between-whiles": [
+   10756,
+   "Between Whiles"
+  ],
+  "hhjackson-saxe-holms-stories-first-series": [
+   10926,
+   "Saxe Holm's Stories First Series"
+  ],
+  "hhjackson-hunter-cats-of-connorloa": [
+   28385,
+   "The Hunter Cats of Connorloa"
+  ],
+  "hhjackson-letters-from-a-cat-published-by-her-mistress-for-t": [
+   32069,
+   "Letters from a Cat Published by Her Mistress for the Benefit of All Cats and the Amusement of Little Children"
+  ],
+  "hhjackson-mammy-tittleback-and-her-family": [
+   33240,
+   "Mammy Tittleback and Her Family: A True Story of Seventeen Cats"
+  ],
+  "hhjackson-nellys-silver-mine": [
+   34430,
+   "Nelly's Silver Mine: A Story of Colorado Life"
+  ],
+  "hhjackson-glimpses-of-three-coasts": [
+   42009,
+   "Glimpses of Three Coasts"
+  ],
+  "hhjackson-century-of-dishonor-a-sketch-of-the-united-states": [
+   50560,
+   "A Century of Dishonor A Sketch of the United States Government's Dealings with Some of the Indian Tribes"
+  ],
+  "hhjackson-zeph": [
+   78249,
+   "Zeph"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 29699: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "hhjackson-ramona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-hettys-strange-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-calendar-of-sonnets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-bits-about-home-matters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-mercy-philbricks-choice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-between-whiles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-saxe-holms-stories-first-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-hunter-cats-of-connorloa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-letters-from-a-cat-published-by-her-mistress-for-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-mammy-tittleback-and-her-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-nellys-silver-mine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-glimpses-of-three-coasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-century-of-dishonor-a-sketch-of-the-united-states": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hhjackson-zeph": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen hunt jackson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -4181,6 +4181,14 @@
       "started": "2026-10-22T22:24:51-05:00",
       "finished": "2026-10-22T22:24:51-05:00",
       "notes": "s-weir-mitchell: new shelf, 15 Gutenberg books, 22,091 units, 485 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "helen-hunt-jackson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Helen Hunt Jackson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:24:53-05:00",
+      "finished": "2026-10-22T22:24:53-05:00",
+      "notes": "helen-hunt-jackson: new shelf, 14 Gutenberg books, 14,725 units, 88 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
