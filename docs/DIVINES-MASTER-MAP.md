@@ -11176,6 +11176,20 @@ Slugs `ahall-*`. Built from title pages read for round 49.
 | A treatise on the faith and influence of the gospel (Glasgow : Printed for William Collins, 1831) | have-ocr | IA `treatiseonfaithi00hall` |
 | The 1795 reprint of the Humble Attempt | alternate | not shelved |
 | The Montreal medical pamphlets of another Archibald Hall (1842-1867) | excluded | |
+
+## George Hill of St Andrews (round 49, my pick, 2026-10-23)
+
+Slugs `ghill-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, by George Hill, ...  1796 (catalogued 1796) | have-ocr | IA `bim_eighteenth-century_sermons-by-george-hill-_hill-george_1796` |
+| Theological institutes, in three parts: 1. Heads of lectures in divinity. 2. View of the constitution of the Church of Scotland. 3. Counsels respecting the duties of the pastoral office (Edinburgh Bell & Badfute, 1803) | have-ocr | IA `theologicalinsti00hilluoft` |
+| Lectures in divinity, vol. 1 (Edinburgh : Waugh and Innes, 1833) | have-ocr | IA `lecturesindivinity01hill` |
+| Lectures in divinity, vol. 2 (Edinburgh : Waugh and Innes, 1833) | have-ocr | IA `lecturesindivinity02hill` |
+| A view of the constitution of the Church of Scotland (Edinburgh : J. Waugh, 1835) | have-ocr | IA `viewofconstituti00hill` |
+| Later printings of the Lectures in Divinity (1837, 1844, 1851) and the 1796 Heads of Lectures | alternate | not shelved |
+| Single sermons of 1787-1792; Steuart's Compendium of the Laws of the Church of Scotland (another man's book) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

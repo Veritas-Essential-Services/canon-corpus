@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain George Hill (1750-1819), Principal of St Mary's College, St Andrews, and leader of the Moderate party in the Church of Scotland, for the Word Hoard: Sermons (1796), Theological Institutes (1803), Lectures in Divinity (2 vols, 1833) and A View of the Constitution of the Church of Scotland (1835), from Internet Archive scans. Added 2026-10-23 by lane A, round 49 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hill"
+ ],
+ "_surname": [
+  "george hill",
+  "geo. hill"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ghill-sermons-1796": [
+   "bim_eighteenth-century_sermons-by-george-hill-_hill-george_1796",
+   "Sermons, by George Hill, ...  1796 (catalogued 1796)"
+  ],
+  "ghill-theological-institutes": [
+   "theologicalinsti00hilluoft",
+   "Theological institutes, in three parts: 1. Heads of lectures in divinity. 2. View of the constitution of the Church of Scotland. 3. Counsels respecting the duties of the pastoral office (Edinburgh Bell & Badfute, 1803)"
+  ],
+  "ghill-lectures-1": [
+   "lecturesindivinity01hill",
+   "Lectures in divinity, vol. 1 (Edinburgh : Waugh and Innes, 1833)"
+  ],
+  "ghill-lectures-2": [
+   "lecturesindivinity02hill",
+   "Lectures in divinity, vol. 2 (Edinburgh : Waugh and Innes, 1833)"
+  ],
+  "ghill-view-of-constitution": [
+   "viewofconstituti00hill",
+   "A view of the constitution of the Church of Scotland (Edinburgh : J. Waugh, 1835)"
+  ]
+ },
+ "_alternates": {
+  "ghill-copies": "Later printings of the Lectures in Divinity (1837, 1844, 1851) and the 1796 Heads of Lectures"
+ },
+ "_excluded": {
+  "ghill-other": "Single sermons of 1787-1792; Steuart's Compendium of the Laws of the Church of Scotland (another man's book)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "ghill-sermons-1796": "title page in the OCR: 'Sermons, by George Hill, D.D., F.R.S. Ed., Principal of St. Mary's College in the University of St. Andrew, one of the ministers of that city ... London: printed for A. Strahan, and T. Cadell' (OCR reads 'GEORGE HII. I')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ghill-sermons-1796": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ghill-theological-institutes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ghill-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ghill-lectures-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ghill-view-of-constitution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
