@@ -20356,6 +20356,15 @@ Shelf: `pipeline/herbert-cushing-tolman_shelf.json`. Mycenaean Troy (New York: A
 |---|---|---|---|
 | Mycenaean Troy (New York: American Book Company, 1903) |  | `tolman-mycenaean-troy-1903` | have-raw (IA `cu31924028248650`) |
 
+
+## Hermann Bonitz (1814-1888)
+
+Shelf: `pipeline/hermann-bonitz_shelf.json`. The Origin of the Homeric Poems, tr. Lewis R. Packard (1880) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Origin of the Homeric Poems, tr. Lewis R. Packard (1880) |  | `bonitz-origin-homeric-poems-1880` | have-raw (IA `originofhomericp00boni_0`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
