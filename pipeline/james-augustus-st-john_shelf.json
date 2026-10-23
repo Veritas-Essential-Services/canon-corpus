@@ -1,0 +1,62 @@
+{
+ "_about": "James Augustus St. John (1795-1875): The History of the Manners and Customs of Ancient Greece (1842), 3 vols., clean Gutenberg. His travel books and biographies are out of lane B's scope.",
+ "_author": "James Augustus St. John (1795-1875)",
+ "_name_words": [
+  "st",
+  "john",
+  "manners",
+  "customs",
+  "ancient",
+  "greece"
+ ],
+ "_surname": [
+  "st. john",
+  "john"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "st-john-manners-customs-greece-v1-pg": [
+   67552,
+   "The History of the Manners and Customs of Ancient Greece, vol. 1"
+  ],
+  "st-john-manners-customs-greece-v2-pg": [
+   67637,
+   "The History of the Manners and Customs of Ancient Greece, vol. 2"
+  ],
+  "st-john-manners-customs-greece-v3-pg": [
+   67707,
+   "The History of the Manners and Customs of Ancient Greece, vol. 3"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "st-john-manners-customs-greece-v1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "st. john",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "st-john-manners-customs-greece-v2-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "st. john",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "st-john-manners-customs-greece-v3-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "st. john",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

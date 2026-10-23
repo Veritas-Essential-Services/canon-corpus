@@ -8893,3 +8893,14 @@ Shelf: `pipeline/john-colin-dunlop_shelf.json`. History of Roman Literature comp
 | History of Roman Literature from its Earliest Period to the Augustan Age, vol. II |  | `dunlop-roman-literature-v2-pg` | have (PG 35751) |
 | History of Roman Literature during the Augustan Age, vol. III (1828) |  | `dunlop-roman-literature-augustan-v3-1828` | have-raw (IA `historyofromanli03dunluoft`) |
 
+
+## James Augustus St. John (1795-1875)
+
+Shelf: `pipeline/james-augustus-st-john_shelf.json`. Manners and Customs of Ancient Greece, 3 vols., clean PG. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The History of the Manners and Customs of Ancient Greece, vol. 1 |  | `st-john-manners-customs-greece-v1-pg` | have (PG 67552) |
+| The History of the Manners and Customs of Ancient Greece, vol. 2 |  | `st-john-manners-customs-greece-v2-pg` | have (PG 67637) |
+| The History of the Manners and Customs of Ancient Greece, vol. 3 |  | `st-john-manners-customs-greece-v3-pg` | have (PG 67707) |
+
