@@ -1,0 +1,178 @@
+{
+ "_about": "Public-domain Benjamin Colman (1673-1747), minister of the Brattle Street Church, Boston, for the Word Hoard: Practical Discourses upon the Parable of the Ten Virgins (1707), A Devout Contemplation on the Meaning of Divine Providence (1714), The Rending of the Vail of the Temple (1722), Some of the Glories of our Lord and Saviour Jesus Christ (1728), The Credibility of the Christian Doctrine of the Resurrection (1729), A Brief Dissertation on the Three First Chapters of Genesis (1735), Souls Flying to Jesus Christ (1741) and The Case of Satan's Fiery Darts (1744), from Internet Archive scans. Added 2026-10-23 by lane A, round 51 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "colman"
+ ],
+ "_surname": [
+  "benjamin colman",
+  "benj. colman",
+  "b. colman",
+  "benjamin coleman",
+  "dr. colman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "colman-ten-virgins": [
+   "bim_eighteenth-century_practical-discourses-upo_colman-benjamin_1707",
+   "Practical discourses upon the parable of the ten virgins. Being a serious call and admonition to watchfulness and diligence in preparing for death and judgment.  1707 (catalogued 1707)"
+  ],
+  "colman-devout-contemplation": [
+   "bim_eighteenth-century_a-devout-contemplation-o_colman-benjamin_1714",
+   "A devout contemplation on the meaning of divine prov- idence, in the early death of pains and lovely children. Preached upon the sudden and lamented death of Mrs. Elizabeth Wainwright. ... By Benjamin Colman, ...  1714 (catalogued 1714)"
+  ],
+  "colman-rending-of-the-vail": [
+   "bim_eighteenth-century_the-rending-of-the-vail-_colman-benjamin_1722",
+   "The rending of the vail of the temple at the crucifixion of our Lord & Saviour Jesus Christ. Consider 'd in a sacramental discourse had in Boston N.E. By Benji Colman, V.D.M.  1722 (catalogued 1722)"
+  ],
+  "colman-glories-of-christ": [
+   "someofgloriesofo00colm",
+   "Some of the glories of our Lord and Saviour Jesus Christ, : exhibited in twenty sacramental discourses, preached at Boston in New England (London : Printed by S. Palmer, for Thomas Hancock, at the Bible and Three Crowns at Boston in New-England, and sold in London by J. Osborn and T. Longman in Pater noster-row, R. Ford in the Poultry, and T. Cox under the Royal-Exchange., 1728)"
+  ],
+  "colman-resurrection": [
+   "bim_eighteenth-century_the-credibility-of-the-c_colman-benjamin_1729",
+   "The credibility of the Christian doctrine of the resurrection. A sermon preached (in part) at the publick lecture in Boston, July 24 th 1729. the Thursday after the funeral of William Welsteed, Esq; by Benjamin Colman.  1729 (catalogued 1729)"
+  ],
+  "colman-genesis": [
+   "bim_eighteenth-century_a-brief-dissertation-on-_colman-benjamin_1735",
+   "A brief dissertation on the three first chapters of Genesis. Giving some of the evident signatures of the inspiration of God in those first pages ...  1735 (catalogued 1735)"
+  ],
+  "colman-souls-flying": [
+   "bim_eighteenth-century_souls-flying-to-jesus-ch_colman-benjamin_1741",
+   "Souls flying to Jesus Christ pleasant and admirable to behold. A sermon preach'd ... at the opening an evening-lecture, in Brattle-Street, Boston, Tuesday, October 21, 1740. By Dr. Colman. ...  1741 (catalogued 1741)"
+  ],
+  "colman-satans-fiery-darts": [
+   "caseofsatansfier00colm",
+   "The case of Satan's fiery darts in blasphemous suggestions and hellish annoyances: as they were considered in several sermons, Heretofore preach'd to the congregation in Brattle Street, Boston, May 1711, and lately repeated to them May 1743 (Printed by Rogers and Fowle, 1744)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "colman-other": "Some forty single occasional sermons (1716-1746) left for later; his smallpox inoculation pamphlets (1721-1722, medicine)",
+  "colman-fifteen-sermons": "fifteensermonsp00colmgoog, catalogued as Colman's Fifteen Sermons (1794): its title page reads 'Fifteen Sermons ... By George Whitefield', with a sermon on Whitefield by Joseph Smith (Paisley, 1794). Not Colman's book"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "colman-devout-contemplation": {
+   "author": "title page read from the page image: 'A Devout Contemplation on the Meaning of Divine Providence, in the Early Death of Pious and Lovely Children ... By Benjamin Colman, Pastor to a Church in Boston. Boston, 1714' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'A Devout Contemplation on the Meaning of Divine Providence, in the Early Death of Pious and Lovely Children ... By Benjamin Colman, Pastor to a Church in Boston. Boston, 1714' (OCR of the scan is unreadable)"
+  },
+  "colman-rending-of-the-vail": {
+   "author": "title page read from the page image: 'The Rending of the Vail of the Temple at the Crucifixion of our Lord & Saviour Jesus Christ ... By Benj. Colman V.D.M. The second edition. Boston: reprinted by B. Green, 1722' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'The Rending of the Vail of the Temple at the Crucifixion of our Lord & Saviour Jesus Christ ... By Benj. Colman V.D.M. The second edition. Boston: reprinted by B. Green, 1722' (OCR of the scan is unreadable)"
+  },
+  "colman-resurrection": {
+   "author": "title page read from the page image: 'The Credibility of the Christian Doctrine of the Resurrection. A Sermon ... after the funeral of William Welsteed, Esq; By Benjamin Colman. Boston, 1729' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'The Credibility of the Christian Doctrine of the Resurrection. A Sermon ... after the funeral of William Welsteed, Esq; By Benjamin Colman. Boston, 1729' (OCR of the scan is unreadable)"
+  },
+  "colman-genesis": {
+   "author": "title page read from the page image: half-title 'Dr. Colman's Dissertation on the three first Chapters of Genesis' (1735) (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: half-title 'Dr. Colman's Dissertation on the three first Chapters of Genesis' (1735) (OCR of the scan is unreadable)"
+  },
+  "colman-souls-flying": {
+   "author": "title page read from the page image: 'Souls flying to Jesus Christ pleasant and admirable to behold. A Sermon ... at the opening of an Evening-Lecture in Brattle-Street, Boston, Tuesday, October 21, 1740. By Dr. Colman ... London reprinted for Samuel Mason, 1741' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'Souls flying to Jesus Christ pleasant and admirable to behold. A Sermon ... at the opening of an Evening-Lecture in Brattle-Street, Boston, Tuesday, October 21, 1740. By Dr. Colman ... London reprinted for Samuel Mason, 1741' (OCR of the scan is unreadable)"
+  },
+  "colman-satans-fiery-darts": {
+   "author": "title page read from the page image: 'The Case of Satan's fiery Darts in Blasphemous Suggestions and Hellish Annoyances: as they were considered in several sermons ... By Benjamin Colman, D.D. Boston: printed by Rogers and Fowle, 1744' (OCR of the scan is unreadable)",
+   "title": "title page read from the page image: 'The Case of Satan's fiery Darts in Blasphemous Suggestions and Hellish Annoyances: as they were considered in several sermons ... By Benjamin Colman, D.D. Boston: printed by Rogers and Fowle, 1744' (OCR of the scan is unreadable)"
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "colman-ten-virgins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin colman",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1707",
+   "ia_date": "1707",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colman-devout-contemplation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1714",
+   "ia_date": "1714",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colman-rending-of-the-vail": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1722",
+   "ia_date": "1722",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colman-glories-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin coleman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colman-resurrection": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1729",
+   "ia_date": "1729",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colman-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. colman",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1735",
+   "ia_date": "1735",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colman-souls-flying": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dr. colman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "colman-satans-fiery-darts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "1744",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

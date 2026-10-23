@@ -11376,6 +11376,23 @@ Slugs `oakes-*`. Built from title pages read for round 51.
 | A seasonable discourse, ...  1682 (catalogued 1682) | have-ocr | IA `bim_early-english-books-1641-1700_a-seasonable-discourse-_oakes-urian_1682` |
 | An Elegie upon the Death of the Reverend Mr. Thomas Shepard (Cambridge, 1677): the title page, read from the page image, says only 'By a great Admirer of his Worth'; attributed to Oakes by the catalogue and by later scholars | pending | not shelved |
 | His 1650 almanac; Eikon Basilike Trite (1697, the catalogue's attribution is doubtful) | excluded | |
+
+## Benjamin Colman (round 51, my pick, 2026-10-23)
+
+Slugs `colman-*`. Built from title pages read for round 51.
+
+| Work | Status | Where |
+|---|---|---|
+| Practical discourses upon the parable of the ten virgins. Being a serious call and admonition to watchfulness and diligence in preparing for death and judgment.  1707 (catalogued 1707) | have-ocr | IA `bim_eighteenth-century_practical-discourses-upo_colman-benjamin_1707` |
+| A devout contemplation on the meaning of divine prov- idence, in the early death of pains and lovely children. Preached upon the sudden and lamented death of Mrs. Elizabeth Wainwright. ... By Benjamin Colman, ...  1714 (catalogued 1714) | have-ocr | IA `bim_eighteenth-century_a-devout-contemplation-o_colman-benjamin_1714` |
+| The rending of the vail of the temple at the crucifixion of our Lord & Saviour Jesus Christ. Consider 'd in a sacramental discourse had in Boston N.E. By Benji Colman, V.D.M.  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-rending-of-the-vail-_colman-benjamin_1722` |
+| Some of the glories of our Lord and Saviour Jesus Christ, : exhibited in twenty sacramental discourses, preached at Boston in New England (London : Printed by S. Palmer, for Thomas Hancock, at the Bible and Three Crowns at Boston in New-England, and sold in London by J. Osborn and T. Longman in Pater noster-row, R. Ford in the Poultry, and T. Cox under the Royal-Exchange., 1728) | have-ocr | IA `someofgloriesofo00colm` |
+| The credibility of the Christian doctrine of the resurrection. A sermon preached (in part) at the publick lecture in Boston, July 24 th 1729. the Thursday after the funeral of William Welsteed, Esq; by Benjamin Colman.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_the-credibility-of-the-c_colman-benjamin_1729` |
+| A brief dissertation on the three first chapters of Genesis. Giving some of the evident signatures of the inspiration of God in those first pages ...  1735 (catalogued 1735) | have-ocr | IA `bim_eighteenth-century_a-brief-dissertation-on-_colman-benjamin_1735` |
+| Souls flying to Jesus Christ pleasant and admirable to behold. A sermon preach'd ... at the opening an evening-lecture, in Brattle-Street, Boston, Tuesday, October 21, 1740. By Dr. Colman. ...  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_souls-flying-to-jesus-ch_colman-benjamin_1741` |
+| The case of Satan's fiery darts in blasphemous suggestions and hellish annoyances: as they were considered in several sermons, Heretofore preach'd to the congregation in Brattle Street, Boston, May 1711, and lately repeated to them May 1743 (Printed by Rogers and Fowle, 1744) | have-ocr | IA `caseofsatansfier00colm` |
+| Some forty single occasional sermons (1716-1746) left for later; his smallpox inoculation pamphlets (1721-1722, medicine) | excluded | |
+| fifteensermonsp00colmgoog, catalogued as Colman's Fifteen Sermons (1794): its title page reads 'Fifteen Sermons ... By George Whitefield', with a sermon on Whitefield by Joseph Smith (Paisley, 1794). Not Colman's book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
