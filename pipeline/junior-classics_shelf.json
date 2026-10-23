@@ -1,0 +1,154 @@
+{
+ "_about": "The Junior Classics: The Young Folks' Shelf of Books, edited by William Patten (New York: P. F. Collier & Son, 1912; the scans and Gutenberg texts are the 1918 printing). All ten volumes: 1-9 from Gutenberg, 10 (Poems Old and New, Reading Guides and Indexes) from the Internet Archive as raw OCR. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "William Patten (editor)",
+ "_name_words": [
+  "patten",
+  "william",
+  "junior",
+  "classics"
+ ],
+ "_surname": [
+  "william patten"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "junior-classics-v1-fairy-and-wonder-tales": [
+   3152,
+   "The Junior Classics, Volume 1: Fairy and Wonder Tales"
+  ],
+  "junior-classics-v2-folk-tales-and-myths": [
+   57521,
+   "The Junior Classics, Volume 2: Folk Tales and Myths"
+  ],
+  "junior-classics-v3-tales-from-greece-and-rome": [
+   56887,
+   "The Junior Classics, Volume 3: Tales from Greece and Rome"
+  ],
+  "junior-classics-v4-heroes-and-heroines-of-chivalry": [
+   6323,
+   "The Junior Classics, Volume 4: Heroes and Heroines of Chivalry"
+  ],
+  "junior-classics-v5-stories-that-never-grow-old": [
+   6328,
+   "The Junior Classics, Volume 5: Stories That Never Grow Old"
+  ],
+  "junior-classics-v6-old-fashioned-tales": [
+   6577,
+   "The Junior Classics, Volume 6: Old-Fashioned Tales"
+  ],
+  "junior-classics-v7-stories-of-courage-and-heroism": [
+   6302,
+   "The Junior Classics, Volume 7: Stories of Courage and Heroism"
+  ],
+  "junior-classics-v8-animal-and-nature-stories": [
+   8075,
+   "The Junior Classics, Volume 8: Animal and Nature Stories"
+  ],
+  "junior-classics-v9-stories-of-to-day": [
+   57522,
+   "The Junior Classics, Volume 9: Stories of To-day"
+  ]
+ },
+ "internet_archive": {
+  "junior-classics-v10-poems-old-and-new": [
+   "juniorclassics0010will",
+   "The Junior Classics, Volume 10: Poems Old and New, Reading Guides and Indexes (Collier, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "junior-classics-v1-fairy-and-wonder-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v2-folk-tales-and-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v3-tales-from-greece-and-rome": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v4-heroes-and-heroines-of-chivalry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v5-stories-that-never-grow-old": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v6-old-fashioned-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v7-stories-of-courage-and-heroism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v8-animal-and-nature-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v9-stories-of-to-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "junior-classics-v10-poems-old-and-new": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william patten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

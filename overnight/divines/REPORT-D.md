@@ -2900,3 +2900,12 @@
 
 ## 2026-10-22 23:54 CDT — storytellers-tail-51: done
 - storytellers-tail-51: new shelf, 3 Gutenberg books, 2,114 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:01 CDT — my-book-house: done
+- my-book-house: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches (2 title_weak: the 1928 Up One Pair of Stairs and Through Fairy Halls, title pages read by eye), 0 rights flags.
+
+## 2026-10-23 09:01 CDT — junior-classics: done
+- junior-classics: new shelf, 9 Gutenberg books (20,558 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:01 CDT — journeys-through-bookland: done
+- journeys-through-bookland: new shelf, 8 Gutenberg books (18,610 units) and 2 Internet Archive scans; verify 0 mismatches, 0 rights flags.

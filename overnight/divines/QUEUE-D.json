@@ -6917,6 +6917,30 @@
       "started": "2026-10-22T23:54:59-05:00",
       "finished": "2026-10-22T23:54:59-05:00",
       "notes": "storytellers-tail-51: new shelf, 3 Gutenberg books, 2,114 units, 91 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "my-book-house",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Olive Beaupré Miller (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:01:25-05:00",
+      "finished": "2026-10-23T09:01:25-05:00",
+      "notes": "my-book-house: new shelf, 0 Gutenberg books (0 units) and 10 Internet Archive scans; verify 0 mismatches (2 title_weak: the 1928 Up One Pair of Stairs and Through Fairy Halls, title pages read by eye), 0 rights flags."
+    },
+    {
+      "id": "junior-classics",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — William Patten (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:01:25-05:00",
+      "finished": "2026-10-23T09:01:25-05:00",
+      "notes": "junior-classics: new shelf, 9 Gutenberg books (20,558 units) and 1 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "journeys-through-bookland",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Charles H. Sylvester (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:01:25-05:00",
+      "finished": "2026-10-23T09:01:25-05:00",
+      "notes": "journeys-through-bookland: new shelf, 8 Gutenberg books (18,610 units) and 2 Internet Archive scans; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

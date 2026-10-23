@@ -47645,3 +47645,54 @@ Shelf: `pipeline/storytellers-tail-51_shelf.json` (2026-10-22; added at the coor
 | Reminiscences of a Soldier of the Orphan Brigade | have | PG 50483, `ldyoung-reminiscences-of-a-soldier-of-the-orphan-brigade` (296 units) |
 | Sally of Missouri | have | PG 23391, `reyoung-sally-of-missouri` (936 units) |
 | Mathieu Ropars: et cetera | have | PG 39132, `wyoung-mathieu-ropars` (882 units) |
+
+## Olive Beaupré Miller (editor)
+
+Shelf: `pipeline/my-book-house_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Olive Beaupré Miller's My Book House: the complete 1920-21 first edition (6 vols) and four volumes of the 1928 edition. 0 Gutenberg texts, 10 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| My Book House, vol. 1: In the Nursery of My Bookhouse (Chicago: The Bookhouse for Children, 1920) | have (raw OCR) | IA `latchkeyofmybook01mill`, `mbh-1920-v1-in-the-nursery` |
+| My Book House, vol. 2: Up One Pair of Stairs of My Bookhouse (1920) | have (raw OCR) | IA `latchkeyofmybook02mill`, `mbh-1920-v2-up-one-pair-of-stairs` |
+| My Book House, vol. 3: Through Fairy Halls of My Bookhouse (1920) | have (raw OCR) | IA `latchkeyofmybook03mill`, `mbh-1920-v3-through-fairy-halls` |
+| My Book House, vol. 4: The Treasure Chest of My Bookhouse (1920) | have (raw OCR) | IA `latchkeyofmybook04mill`, `mbh-1920-v4-treasure-chest` |
+| My Book House, vol. 5: From the Tower Window of My Bookhouse (1921) | have (raw OCR) | IA `latchkeyofmybook05mill`, `mbh-1921-v5-from-the-tower-window` |
+| My Book House, vol. 6: The Latch Key of My Bookhouse (1921) | have (raw OCR) | IA `latchkeyofmybook06mill`, `mbh-1921-v6-latch-key` |
+| My Book House, 1928 edition: Up One Pair of Stairs of My Bookhouse (copyright 1920, 1925, 1928) | have (raw OCR) | IA `uponepairofstair0000oliv_r8y1`, `mbh-1928-up-one-pair-of-stairs` |
+| My Book House, 1928 edition: Through Fairy Halls of My Bookhouse (copyright 1920, 1928) | have (raw OCR) | IA `throughfairyhall0000oliv_c0g9`, `mbh-1928-through-fairy-halls` |
+| My Book House, 1928 edition: Flying Sails of My Bookhouse (copyright 1920, 1928) | have (raw OCR) | IA `flyingsailsofmyb0000oliv_a1f4`, `mbh-1928-flying-sails` |
+| My Book House, 1928 edition: The Treasure Chest of My Bookhouse (copyright 1920, 1928) | have (raw OCR) | IA `mybookhousetreas0000unse`, `mbh-1928-treasure-chest` |
+
+## William Patten (editor)
+
+Shelf: `pipeline/junior-classics_shelf.json` (2026-10-23; at Adam's ask for old children's sets). William Patten's The Junior Classics (Collier, 1912; 1918 printing), all ten volumes. 9 Gutenberg texts, 1 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Junior Classics, Volume 1: Fairy and Wonder Tales | have | PG 3152, `junior-classics-v1-fairy-and-wonder-tales` (2725 units) |
+| The Junior Classics, Volume 2: Folk Tales and Myths | have | PG 57521, `junior-classics-v2-folk-tales-and-myths` (2371 units) |
+| The Junior Classics, Volume 3: Tales from Greece and Rome | have | PG 56887, `junior-classics-v3-tales-from-greece-and-rome` (1766 units) |
+| The Junior Classics, Volume 4: Heroes and Heroines of Chivalry | have | PG 6323, `junior-classics-v4-heroes-and-heroines-of-chivalry` (1862 units) |
+| The Junior Classics, Volume 5: Stories That Never Grow Old | have | PG 6328, `junior-classics-v5-stories-that-never-grow-old` (1632 units) |
+| The Junior Classics, Volume 6: Old-Fashioned Tales | have | PG 6577, `junior-classics-v6-old-fashioned-tales` (3002 units) |
+| The Junior Classics, Volume 7: Stories of Courage and Heroism | have | PG 6302, `junior-classics-v7-stories-of-courage-and-heroism` (1951 units) |
+| The Junior Classics, Volume 8: Animal and Nature Stories | have | PG 8075, `junior-classics-v8-animal-and-nature-stories` (2377 units) |
+| The Junior Classics, Volume 9: Stories of To-day | have | PG 57522, `junior-classics-v9-stories-of-to-day` (2872 units) |
+| The Junior Classics, Volume 10: Poems Old and New, Reading Guides and Indexes (Collier, 1918) | have (raw OCR) | IA `juniorclassics0010will`, `junior-classics-v10-poems-old-and-new` |
+
+## Charles H. Sylvester (editor)
+
+Shelf: `pipeline/journeys-through-bookland_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Charles H. Sylvester's Journeys Through Bookland, new edition (1922), all ten volumes. 8 Gutenberg texts, 2 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Journeys Through Bookland, Vol. 2 | have | PG 5796, `journeys-bookland-v2` (2635 units) |
+| Journeys Through Bookland, Vol. 3 | have | PG 5902, `journeys-bookland-v3` (2202 units) |
+| Journeys Through Bookland, Vol. 4 | have | PG 7013, `journeys-bookland-v4` (2074 units) |
+| Journeys Through Bookland, Vol. 5 | have | PG 11250, `journeys-bookland-v5` (1767 units) |
+| Journeys Through Bookland, Vol. 6 | have | PG 21864, `journeys-bookland-v6` (2370 units) |
+| Journeys Through Bookland, Vol. 7 | have | PG 23405, `journeys-bookland-v7` (1861 units) |
+| Journeys Through Bookland, Vol. 8 | have | PG 24532, `journeys-bookland-v8` (2481 units) |
+| Journeys Through Bookland, Vol. 10: The Guide | have | PG 24857, `journeys-bookland-v10-guide` (3220 units) |
+| Journeys Through Bookland, vol. 1, new edition (Bellows-Reeve, 1922) | have (raw OCR) | IA `journeysthroughb0001char`, `journeys-bookland-v1` |
+| Journeys Through Bookland, vol. 9, new edition (Bellows-Reeve, 1922) | have (raw OCR) | IA `journeysthroughbo09sylv`, `journeys-bookland-v9` |
