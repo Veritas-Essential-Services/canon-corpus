@@ -11502,3 +11502,12 @@ Slugs `raymond-*`. Built from title pages read for round 52.
 | Systematic theology, vol. 2 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo02raym` |
 | Systematic theology, vol. 3 (Cincinnati : Cranston and Stowe; New York : Phillips & Hunt, 1877) | have-ocr | IA `systematictheolo03raym` |
 | His 1854 Massachusetts election sermon left for later | excluded | |
+
+## Thomas N. Ralston (round 52, my pick, 2026-10-23)
+
+Slugs `ralston-*`. Built from title pages read for round 52.
+
+| Work | Status | Where |
+|---|---|---|
+| Elements of divinity: or, A course of lectures, comprising ... the system of theology as taught in the Holy Scriptures (Louisville, Ky., E. Stevenson, 1851) | have-ocr | IA `elementsofdivini00rals` |
+| The 1924 revised Elements of Divinity (published 1924 but revised by others; left out); the Danish translation (1858). W. R. S. Ralston's Russian tales are the separate ralston shelf | excluded | |
