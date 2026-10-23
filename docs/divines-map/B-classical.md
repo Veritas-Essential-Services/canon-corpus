@@ -9486,3 +9486,13 @@ Shelf: `pipeline/jacob-von-falke_shelf.json`. Greece and Rome, their Life and Ar
 |---|---|---|---|
 | Greece and Rome: their Life and Art (1882), tr. William Hand Browne |  | `falke-greece-and-rome-1882` | have-raw (IA `greecerometheirl0000falk`) |
 
+
+## Jay Hambidge (1867-1924)
+
+Shelf: `pipeline/jay-hambidge_shelf.json`. Dynamic symmetry in Greek vases and temples, 1920-1924. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Dynamic Symmetry: the Greek Vase (1920) |  | `hambidge-dynamic-symmetry-greek-vase-1920` | have-raw (IA `dynamicsymmetry00hamb`) |
+| The Parthenon and Other Greek Temples: their Dynamic Symmetry (1924) |  | `hambidge-parthenon-greek-temples-1924` | have-raw (IA `parthenonothergr0000hamb`) |
+
