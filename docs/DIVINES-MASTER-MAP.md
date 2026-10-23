@@ -42606,3 +42606,17 @@ Shelf: `pipeline/isabel-ostrander_shelf.json` (2026-10-22; added at the coordina
 | Ashes to ashes | have | PG 73155, `iostrander-ashes-to-ashes` (2062 units) |
 | Suspense | have | PG 75240, `iostrander-suspense` (1723 units) |
 | The twenty-six clues | have | PG 77423, `iostrander-twenty-six-clues` (1852 units) |
+
+## Ruth Ogden
+
+Shelf: `pipeline/ruth-ogden_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Tattine | have | PG 1816, `rogden-tattine` (161 units) |
+| Courage A story wherein every one comes to the conclusion that the Courage in question proved a courage worth having | have | PG 51924, `rogden-courage-a-story-wherein-every-one-comes-to-the-conclu` (353 units) |
+| His Little Royal Highness | have | PG 51979, `rogden-his-little-royal-highness` (1288 units) |
+| A Loyal Little Red-Coat: A Story of Child-life in New York a Hundred Years Ago | have | PG 54132, `rogden-loyal-little-red-coat` (1147 units) |
+| A Little Queen of Hearts: An International Story | have | PG 54133, `rogden-little-queen-of-hearts` (1229 units) |
+| Little Homespun | have | PG 54763, `rogden-little-homespun` (467 units) |
+| pg-57511 | excluded | PG 57511: Gutenberg's index of the author's works, not a book. |

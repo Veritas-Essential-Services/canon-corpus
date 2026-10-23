@@ -1,0 +1,99 @@
+{
+ "_about": "Ruth Ogden: Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ruth Ogden",
+ "_name_words": [
+  "ogden",
+  "ruth"
+ ],
+ "_surname": [
+  "ruth ogden"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rogden-tattine": [
+   1816,
+   "Tattine"
+  ],
+  "rogden-courage-a-story-wherein-every-one-comes-to-the-conclu": [
+   51924,
+   "Courage A story wherein every one comes to the conclusion that the Courage in question proved a courage worth having"
+  ],
+  "rogden-his-little-royal-highness": [
+   51979,
+   "His Little Royal Highness"
+  ],
+  "rogden-loyal-little-red-coat": [
+   54132,
+   "A Loyal Little Red-Coat: A Story of Child-life in New York a Hundred Years Ago"
+  ],
+  "rogden-little-queen-of-hearts": [
+   54133,
+   "A Little Queen of Hearts: An International Story"
+  ],
+  "rogden-little-homespun": [
+   54763,
+   "Little Homespun"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57511": "PG 57511: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "rogden-tattine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rogden-courage-a-story-wherein-every-one-comes-to-the-conclu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rogden-his-little-royal-highness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rogden-loyal-little-red-coat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rogden-little-queen-of-hearts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rogden-little-homespun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ruth ogden",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
