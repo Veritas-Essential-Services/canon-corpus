@@ -1,5 +1,5 @@
 {
- "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
+ "_about": "Greek lyric and epigram in English, translator per title. Mackail's Select Epigrams from the Greek Anthology (1890; PG text). H. T. Wharton's Sappho (first ed. 1885; Gutenberg text is the 1908 John Lane edition), which gathers renderings by many hands plus his own literal prose and the Greek. Thomas Moore's Odes of Anacreon (an 1860s reprint). Edward Poste's prose Bacchylides (1898), raw IA OCR. MacGregor's Greek Anthology (greek-anthology-macgregor) prints no year (archive.org's 1800 is a placeholder); its preface refers to his own 1857 Epitaphs and to events of 1854-55, and its dedication addresses W. E. Gladstone as a living M.P. (d. 1898), so it is a nineteenth-century printing. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works. Two more Sappho versions added by lane B, round dk: John Myers O'Hara's (PG 42166) and H. De Vere Stacpoole's (PG 42543).",
  "_name_words": [
   "anthology",
   "epigrams",
@@ -27,6 +27,14 @@
   "rodd-love-worship-death-pg": [
    35907,
    "Love, Worship and Death: renderings from the Greek Anthology"
+  ],
+  "sappho-ohara-1910": [
+   42166,
+   "The Poems of Sappho: An Interpretative Rendition into English, by John Myers O'Hara (1910)"
+  ],
+  "sappho-stacpoole-1920": [
+   42543,
+   "Sappho: A New Rendering, by H. De Vere Stacpoole (1920)"
   ]
  },
  "internet_archive": {
@@ -121,7 +129,9 @@
   "greek-anthology-bland-1813": "robert bland",
   "greek-anthology-perry-garden-of-hellas-1891": "lilla cabot perry",
   "greek-anthology-benson-reed-of-pan-1922": "a. c. benson",
-  "greek-anthology-rodd-love-worship-death-1916": "rennell rodd"
+  "greek-anthology-rodd-love-worship-death-1916": "rennell rodd",
+  "sappho-ohara-1910": "O'Hara",
+  "sappho-stacpoole-1920": "Stacpoole"
  },
  "_checks": {
   "greek-anthology-mackail": {
@@ -166,6 +176,30 @@
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "sappho-ohara-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "O'Hara",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Myers O'Hara",
+   "translator_match": true
+  },
+  "sappho-stacpoole-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sappho",
+   "translator_claimed": "Stacpoole",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. De Vere Stacpoole",
+   "translator_match": true
   },
   "bacchylides-poste": {
    "kind": "ia",
@@ -337,6 +371,12 @@
   ],
   "anacreon-arnold-1869": [
    "anacreon"
+  ],
+  "sappho-ohara-1910": [
+   "sappho"
+  ],
+  "sappho-stacpoole-1920": [
+   "sappho"
   ]
  },
  "_rights_checked": {
