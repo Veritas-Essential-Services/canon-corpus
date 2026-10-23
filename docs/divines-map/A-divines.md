@@ -11212,3 +11212,14 @@ Slugs `burder-*`. Built from title pages read for round 49.
 | The Good Old Way, or the Religion of our Forefathers (4th ed., London, 1781): the title page, read from the page image, names no author; attributed to Burder by the catalogue only | pending | not shelved |
 | Later printings of The Good Old Way (1783-1792) and Village Sermons (1798-1799) | alternate | not shelved |
 | His 1797 single-sermon tracts; the Welsh Village Sermons (1799); The Welch Indians (1797, a compilation) | excluded | |
+
+## Edward Williams of Rotherham (round 49, my pick, 2026-10-23)
+
+Slugs `ewilliams-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| Antipaedobaptism examined, or, A strict and impartial inquiry into the nature and design, subjects and mode of baptism : including, also, an investigation of the nature of positive institutions in general, and occasional strictures on human ceremonies in matters of religion, vol. 1 (Shrewsbury : Printed and sold by J. and W. Eddowes, 1789) | have-ocr | IA `antipaedobaptism01will` |
+| Antipaedobaptism examined, or, A strict and impartial inquiry into the nature and design, subjects and mode of baptism : including, also, an investigation of the nature of positive institutions in general, and occasional strictures on human ceremonies in matters of religion, vol. 2 (Shrewsbury : Printed and sold by J. and W. Eddowes, 1789) | have-ocr | IA `antipaedobaptism02will` |
+| An essay on the equity of divine government and the sovereignty of divine grace (London : J. Burditt, 1809) | have-ocr | IA `essayonequityofd00will_0` |
+| The 1825 Essay on Equity | alternate | not shelved |

@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Edward Williams (1750-1813), Welsh Congregationalist divine and tutor of Rotherham Academy, for the Word Hoard: Antipaedobaptism Examined (2 vols, Shrewsbury 1789) and An Essay on the Equity of Divine Government and the Sovereignty of Divine Grace (1809), from Internet Archive scans. Added 2026-10-23 by lane A, round 49 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "williams"
+ ],
+ "_surname": [
+  "edward williams",
+  "e. williams"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ewilliams-antipaedobaptism-1": [
+   "antipaedobaptism01will",
+   "Antipaedobaptism examined, or, A strict and impartial inquiry into the nature and design, subjects and mode of baptism : including, also, an investigation of the nature of positive institutions in general, and occasional strictures on human ceremonies in matters of religion, vol. 1 (Shrewsbury : Printed and sold by J. and W. Eddowes, 1789)"
+  ],
+  "ewilliams-antipaedobaptism-2": [
+   "antipaedobaptism02will",
+   "Antipaedobaptism examined, or, A strict and impartial inquiry into the nature and design, subjects and mode of baptism : including, also, an investigation of the nature of positive institutions in general, and occasional strictures on human ceremonies in matters of religion, vol. 2 (Shrewsbury : Printed and sold by J. and W. Eddowes, 1789)"
+  ],
+  "ewilliams-equity": [
+   "essayonequityofd00will_0",
+   "An essay on the equity of divine government and the sovereignty of divine grace (London : J. Burditt, 1809)"
+  ]
+ },
+ "_alternates": {
+  "ewilliams-copies": "The 1825 Essay on Equity"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ewilliams-antipaedobaptism-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward williams",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ewilliams-antipaedobaptism-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward williams",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ewilliams-equity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward williams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
