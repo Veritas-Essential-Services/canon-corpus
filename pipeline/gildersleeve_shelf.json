@@ -1,5 +1,5 @@
 {
- "_about": "Basil L. Gildersleeve (1831-1924), Johns Hopkins Hellenist: essays, lectures and his Syntax of Classical Greek (with C. W. E. Miller, part I, 1900). His school Latin grammar and readers, and The Creed of the Old South, are not taken.",
+ "_about": "Basil L. Gildersleeve (1831-1924), Johns Hopkins Hellenist: essays, lectures and his Syntax of Classical Greek (with C. W. E. Miller, part I, 1900). His school Latin grammar and readers, and The Creed of the Old South, are not taken. Also raw IA: Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (Harper, 1885; 1890 printing), Greek text with English commentary, kept per Adam's 2026-10-23 ruling.",
  "_author": "Basil Lanneau Gildersleeve (1831-1924)",
  "_name_words": [
   "gildersleeve",
@@ -27,6 +27,10 @@
   "gildersleeve-syntax-classical-greek-1900": [
    "syntaxclassical00millgoog",
    "Syntax of Classical Greek from Homer to Demosthenes, part I (1900), with C. W. E. Miller"
+  ],
+  "gildersleeve-pindar-olympian-pythian-1885": [
+   "cu31924074825963",
+   "Pindar, the Olympian and Pythian Odes, with an introductory essay, notes and indexes (New York: Harper, 1885; this copy the 1890 printing); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {},
@@ -62,6 +66,17 @@
    "ia_rights": "ok: published 1900",
    "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gildersleeve-pindar-olympian-pythian-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gildersleeve",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
