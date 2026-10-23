@@ -1,0 +1,47 @@
+{
+ "_about": "Edmund von Mach (1870-1927), Harvard art historian, raw IA OCR of two books on Greek and Roman sculpture (1903, 1905).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Edmund von Mach",
+ "_name_words": [
+  "mach"
+ ],
+ "_surname": [
+  "edmund von mach"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "edmund-von-mach-greek-sculpture-1903": [
+   "greeksculptureit00machuoft",
+   "Greek Sculpture: its spirit and principles, by Edmund von Mach (Boston: Ginn and Company, 1903)"
+  ],
+  "edmund-von-mach-handbook-greek-roman-sculpture-1905": [
+   "handbookofgreekr00mach",
+   "A Handbook of Greek and Roman Sculpture, by Edmund von Mach (The University Prints; Boston; preface dated February 1905)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "edmund-von-mach-greek-sculpture-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund von mach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edmund-von-mach-handbook-greek-roman-sculpture-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund von mach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
