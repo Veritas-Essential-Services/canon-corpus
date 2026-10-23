@@ -39925,3 +39925,24 @@ Shelf: `pipeline/martin-ross_shelf.json` (2026-10-22; added at the coordinator's
 | The Silver Fox | have | PG 59370, `mross-silver-fox` (471 units) |
 | In the vine country | have | PG 59454, `mross-in-the-vine-country` (299 units) |
 | Irish Memories | have | PG 61336, `mross-irish-memories` (1305 units) |
+
+## Myrtle Reed
+
+Shelf: `pipeline/myrtle-reed_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lavender and Old Lace | have | PG 1266, `mreed-lavender-and-old-lace` (1541 units) |
+| Old Rose and Silver | have | PG 5401, `mreed-old-rose-and-silver` (2557 units) |
+| A Spinner in the Sun | have | PG 12672, `mreed-spinner-in-the-sun` (1758 units) |
+| Flower of the Dusk | have | PG 18057, `mreed-flower-of-the-dusk` (2360 units) |
+| The Spinster Book | have | PG 18071, `mreed-spinster-book` (856 units) |
+| How to Cook Fish | have | PG 18542, `mreed-how-to-cook-fish` (1556 units) |
+| At the Sign of the Jack O'Lantern | have | PG 26673, `mreed-at-the-sign-of-the-jack-olantern` (1605 units) |
+| Master of the Vineyard | have | PG 27661, `mreed-master-of-the-vineyard` (2644 units) |
+| Threads of Grey and Gold | have | PG 31272, `mreed-threads-of-grey-and-gold` (1204 units) |
+| The Master's Violin | have | PG 33601, `mreed-masters-violin` (1680 units) |
+| The Myrtle Reed Cook Book | have | PG 37680, `mreed-myrtle-reed-cook-book` (2213 units) |
+| The Shadow of Victory: A Romance of Fort Dearborn | have | PG 42894, `mreed-shadow-of-victory` (2738 units) |
+| The White Shield | have | PG 47385, `mreed-white-shield` (1567 units) |
+| The Book of Clever Beasts: Studies in Unnatural History | have | PG 53812, `mreed-book-of-clever-beasts` (836 units) |
