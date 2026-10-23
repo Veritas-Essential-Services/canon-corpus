@@ -38902,3 +38902,28 @@ Shelf: `pipeline/ethel-m-dell_shelf.json` (2026-10-22; added at the coordinator'
 | The Hundredth Chance | have | PG 43069, `emdell-hundredth-chance` (4770 units) |
 | Tetherstones | have | PG 59181, `emdell-tetherstones` (3025 units) |
 | The gate marked "Private" | have | PG 79556, `emdell-gate-marked-private` (3131 units) |
+
+## James De Mille
+
+Shelf: `pipeline/james-de-mille_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and boys' books. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Lost in the Fog | have | PG 4506, `jdemille-lost-in-the-fog` (1680 units) |
+| A Strange Manuscript Found in a Copper Cylinder | have | PG 6709, `jdemille-strange-manuscript-found-in-a-copper-cylinder` (1348 units) |
+| Cord and Creese | have | PG 8572, `jdemille-cord-and-creese` (5060 units) |
+| The Living Link: A Novel | have | PG 8711, `jdemille-living-link` (3230 units) |
+| The American Baron: A Novel | have | PG 13257, `jdemille-american-baron` (3346 units) |
+| The Lady of the Ice: A Novel | have | PG 22013, `jdemille-lady-of-the-ice` (2211 units) |
+| The martyr of the catacombs | have | PG 24680, `jdemille-martyr-of-the-catacombs` (820 units) |
+| The Dodge Club; Or, Italy in MDCCCLIX | have | PG 27086, `jdemille-dodge-club` (3199 units) |
+| The Cryptogram: A Novel | have | PG 28435, `jdemille-cryptogram` (4614 units) |
+| Among the Brigands | have | PG 29297, `jdemille-among-the-brigands` (1593 units) |
+| A Castle in Spain: A Novel | have | PG 30863, `jdemille-castle-in-spain` (4020 units) |
+| The Lily and the Cross: A Tale of Acadia | have | PG 31096, `jdemille-lily-and-the-cross` (1278 units) |
+| The "B. O. W. C.": A Book For Boys Illustrated | have | PG 56231, `jdemille-b-o-w-c` (2374 units) |
+| The Boys of Grand Pré School Illustrated | have | PG 56232, `jdemille-boys-of-grand-pr-school-illustrated` (2006 units) |
+| Fire in the Woods Illustrated | have | PG 56234, `jdemille-fire-in-the-woods-illustrated` (1321 units) |
+| Picked up Adrift Illustrated | have | PG 56235, `jdemille-picked-up-adrift-illustrated` (1804 units) |
+| Treasure of the Seas Illustrated | have | PG 56236, `jdemille-treasure-of-the-seas-illustrated` (1512 units) |
+| pg-59407 | excluded | PG 59407: Gutenberg's index of the author's works, not a book. |

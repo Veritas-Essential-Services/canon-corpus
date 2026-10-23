@@ -1,0 +1,243 @@
+{
+ "_about": "James De Mille's novels, A Strange Manuscript Found in a Copper Cylinder, and his B. O. W. C. boys' books. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "James De Mille",
+ "_name_words": [
+  "james",
+  "mille"
+ ],
+ "_surname": [
+  "de mille",
+  "james de mille"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jdemille-lost-in-the-fog": [
+   4506,
+   "Lost in the Fog"
+  ],
+  "jdemille-strange-manuscript-found-in-a-copper-cylinder": [
+   6709,
+   "A Strange Manuscript Found in a Copper Cylinder"
+  ],
+  "jdemille-cord-and-creese": [
+   8572,
+   "Cord and Creese"
+  ],
+  "jdemille-living-link": [
+   8711,
+   "The Living Link: A Novel"
+  ],
+  "jdemille-american-baron": [
+   13257,
+   "The American Baron: A Novel"
+  ],
+  "jdemille-lady-of-the-ice": [
+   22013,
+   "The Lady of the Ice: A Novel"
+  ],
+  "jdemille-martyr-of-the-catacombs": [
+   24680,
+   "The martyr of the catacombs"
+  ],
+  "jdemille-dodge-club": [
+   27086,
+   "The Dodge Club; Or, Italy in MDCCCLIX"
+  ],
+  "jdemille-cryptogram": [
+   28435,
+   "The Cryptogram: A Novel"
+  ],
+  "jdemille-among-the-brigands": [
+   29297,
+   "Among the Brigands"
+  ],
+  "jdemille-castle-in-spain": [
+   30863,
+   "A Castle in Spain: A Novel"
+  ],
+  "jdemille-lily-and-the-cross": [
+   31096,
+   "The Lily and the Cross: A Tale of Acadia"
+  ],
+  "jdemille-b-o-w-c": [
+   56231,
+   "The \"B. O. W. C.\": A Book For Boys Illustrated"
+  ],
+  "jdemille-boys-of-grand-pr-school-illustrated": [
+   56232,
+   "The Boys of Grand Pré School Illustrated"
+  ],
+  "jdemille-fire-in-the-woods-illustrated": [
+   56234,
+   "Fire in the Woods Illustrated"
+  ],
+  "jdemille-picked-up-adrift-illustrated": [
+   56235,
+   "Picked up Adrift Illustrated"
+  ],
+  "jdemille-treasure-of-the-seas-illustrated": [
+   56236,
+   "Treasure of the Seas Illustrated"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59407": "PG 59407: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "jdemille-lost-in-the-fog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-strange-manuscript-found-in-a-copper-cylinder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-cord-and-creese": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-living-link": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-american-baron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-lady-of-the-ice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-martyr-of-the-catacombs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-dodge-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-cryptogram": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-among-the-brigands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-castle-in-spain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-lily-and-the-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-b-o-w-c": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-boys-of-grand-pr-school-illustrated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-fire-in-the-woods-illustrated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-picked-up-adrift-illustrated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jdemille-treasure-of-the-seas-illustrated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de mille",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
