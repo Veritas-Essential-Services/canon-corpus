@@ -1,0 +1,227 @@
+{
+ "_about": "Public-domain Baptist Wriothesley Noel (1798-1873), evangelical Church of England minister who became a Baptist in 1848, for the Word Hoard: Sermons on Regeneration, Meditations in Sickness and Old Age (1837), Notes of a Short Tour through the Midland Counties of Ireland (1837), The First Five Centuries of the Church (1839), Sermons to the Unconverted (1839), A Plea for the Poor (1841), Protestant Thoughts in Rhyme (1844), Infant Piety (1847), Notes of a Tour in Switzerland (1848), Essay on the Union of Church and State (1848), Essay on Christian Baptism (1849), England and India (1859) and The Rebellion in America (1863). from Internet Archive scans. Added 2026-10-23 by lane A, round 63 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "noel"
+ ],
+ "_surname": [
+  "baptist w. noel",
+  "baptist wriothesley noel",
+  "baptist noel",
+  "b. w. noel",
+  "hon. baptist w. noel",
+  "hon. and rev. baptist w. noel"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bwnoel-regeneration": [
+   "sermonsonregener00noel",
+   "Sermons on regeneration : with especial reference to the doctrine of baptismal regeneration (London : \"The Pulpit\" Office, 1800)"
+  ],
+  "bwnoel-meditations": [
+   "meditationsinsi00noelgoog",
+   "Meditations in sickness and old age (catalogued 1837)"
+  ],
+  "bwnoel-ireland-tour": [
+   "notesofshorttour00noel",
+   "Notes of a short tour through the midland counties of Ireland in the summer of 1836 : with observations on the condition of the peasantry (London : J. Nisbet, 1837)"
+  ],
+  "bwnoel-first-five-centuries": [
+   "a619218400noeluoft",
+   "The first five centuries of the church : or, The early fathers no safe guides (London : J. Nisbet, 1839)"
+  ],
+  "bwnoel-unconverted": [
+   "sermonstounconve00noel",
+   "Sermons to the unconverted : preached in the autumn of the year 1839 (London : At \"The Pulpit\" Office, 1839)"
+  ],
+  "bwnoel-plea-for-poor": [
+   "pleaforpoorshowi00noeluoft",
+   "A plea for the poor, showing how the proposed repeal of the existing Corn laws will affect the interests of the working classes (London J. Nisbet, 1841)"
+  ],
+  "bwnoel-protestant-thoughts": [
+   "protestantthoug00noelgoog",
+   "Protestant thoughts, in rhyme (catalogued 1844)"
+  ],
+  "bwnoel-infant-piety": [
+   "infantpietybookf00noel",
+   "Infant piety; a book for little children (New York [etc.] Robert Carter, 1847)"
+  ],
+  "bwnoel-switzerland": [
+   "notesatourinswi00noelgoog",
+   "Notes of a Tour in Switzerland in the Summer of 1847 (James Nisbet, 1848)"
+  ],
+  "bwnoel-church-and-state": [
+   "essayonunionofch184800noel",
+   "Essay on the union of church and state (London, J. Nisbet, 1848)"
+  ],
+  "bwnoel-christian-baptism": [
+   "essayonchristi00noel",
+   "Essay on Christian baptism (London, J. Nisbet, 1849)"
+  ],
+  "bwnoel-england-india": [
+   "englandindia00noel",
+   "England and India (London, J. Nisbet, 1859)"
+  ],
+  "bwnoel-rebellion-america": [
+   "rebellioninameri00noel",
+   "The rebellion in America (London : J. Nesbet, 1863)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bwnoel-other": "A Selection of Psalms and Hymns (1853, compiled); The Christian Sabbath (1850, prize essays by several ministers); the Counter-Plea for the Poor (a reply to him by others); Roden Noel, his nephew"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "bwnoel-england-india": "title page: 'England and India: an essay on the duty of Englishmen towards the Hindoos, by Baptist Eiothesley [Wriothesley] Noel, M.A.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bwnoel-regeneration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-meditations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-ireland-tour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist wriothesley noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-first-five-centuries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bwnoel-unconverted": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-plea-for-poor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-protestant-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-infant-piety": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-switzerland": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-church-and-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist wriothesley noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-christian-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist w. noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bwnoel-england-india": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bwnoel-rebellion-america": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "baptist wriothesley noel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

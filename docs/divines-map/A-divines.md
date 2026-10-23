@@ -12765,3 +12765,24 @@ Slugs `akhboyd-*`. Built from title pages read for round 63.
 | The last years of St. Andrews : September 1890 to September 1895 (London : Longmans, Green, 1896) | have-ocr | IA `lastyearsofstand00boyduoft` |
 | ourlittlelifees00boydgoog has no text file on Internet Archive (404); swapped for this upload of the same Longmans printing | alternate | not shelved |
 | Nagananda, the Buddhist drama translated by Palmer Boyd (another man); legal and other books by other Boyds | excluded | |
+
+## Baptist W. Noel (round 63, my pick, 2026-10-23)
+
+Slugs `bwnoel-*`. Built from title pages read for round 63.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons on regeneration : with especial reference to the doctrine of baptismal regeneration (London : "The Pulpit" Office, 1800) | have-ocr | IA `sermonsonregener00noel` |
+| Meditations in sickness and old age (catalogued 1837) | have-ocr | IA `meditationsinsi00noelgoog` |
+| Notes of a short tour through the midland counties of Ireland in the summer of 1836 : with observations on the condition of the peasantry (London : J. Nisbet, 1837) | have-ocr | IA `notesofshorttour00noel` |
+| The first five centuries of the church : or, The early fathers no safe guides (London : J. Nisbet, 1839) | have-ocr | IA `a619218400noeluoft` |
+| Sermons to the unconverted : preached in the autumn of the year 1839 (London : At "The Pulpit" Office, 1839) | have-ocr | IA `sermonstounconve00noel` |
+| A plea for the poor, showing how the proposed repeal of the existing Corn laws will affect the interests of the working classes (London J. Nisbet, 1841) | have-ocr | IA `pleaforpoorshowi00noeluoft` |
+| Protestant thoughts, in rhyme (catalogued 1844) | have-ocr | IA `protestantthoug00noelgoog` |
+| Infant piety; a book for little children (New York [etc.] Robert Carter, 1847) | have-ocr | IA `infantpietybookf00noel` |
+| Notes of a Tour in Switzerland in the Summer of 1847 (James Nisbet, 1848) | have-ocr | IA `notesatourinswi00noelgoog` |
+| Essay on the union of church and state (London, J. Nisbet, 1848) | have-ocr | IA `essayonunionofch184800noel` |
+| Essay on Christian baptism (London, J. Nisbet, 1849) | have-ocr | IA `essayonchristi00noel` |
+| England and India (London, J. Nisbet, 1859) | have-ocr | IA `englandindia00noel` |
+| The rebellion in America (London : J. Nesbet, 1863) | have-ocr | IA `rebellioninameri00noel` |
+| A Selection of Psalms and Hymns (1853, compiled); The Christian Sabbath (1850, prize essays by several ministers); the Counter-Plea for the Poor (a reply to him by others); Roden Noel, his nephew | excluded | |
