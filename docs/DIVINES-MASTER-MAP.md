@@ -40030,3 +40030,24 @@ Shelf: `pipeline/jackson-gregory_shelf.json` (2026-10-22; added at the coordinat
 | The Fire Flower | have | PG 65833, `jgregory-fire-flower` (789 units) |
 | Beyond the Law | have | PG 65894, `jgregory-beyond-the-law` (387 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 77768 Marshal of Sundown (copyright line 1937). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## George Gibbs
+
+Shelf: `pipeline/george-gibbs_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Madcap | have | PG 11584, `ggibbs-madcap` (2769 units) |
+| Paradise Garden: The Satirical Narrative of a Great Experiment | have | PG 15570, `ggibbs-paradise-garden` (2952 units) |
+| The Secret Witness | have | PG 25689, `ggibbs-secret-witness` (3196 units) |
+| The Vagrant Duke | have | PG 29617, `ggibbs-vagrant-duke` (3385 units) |
+| The Maker of Opportunities | have | PG 38702, `ggibbs-maker-of-opportunities` (1482 units) |
+| The Golden Bough | have | PG 41844, `ggibbs-golden-bough` (3396 units) |
+| Pike & Cutlass: Hero Tales of Our Navy | have | PG 42138, `ggibbs-pike-cutlass` (800 units) |
+| The Forbidden Way | have | PG 47899, `ggibbs-forbidden-way` (2542 units) |
+| The Splendid Outcast | have | PG 47900, `ggibbs-splendid-outcast` (3625 units) |
+| In Search of Mademoiselle | have | PG 48336, `ggibbs-in-search-of-mademoiselle` (1290 units) |
+| The Love of Monsieur | have | PG 51468, `ggibbs-love-of-monsieur` (1106 units) |
+| The Silent Battle | have | PG 54544, `ggibbs-silent-battle` (3399 units) |
+| The Yellow Dove | have | PG 55077, `ggibbs-yellow-dove` (2967 units) |
+| pg-59164 | excluded | PG 59164: Gutenberg's index of the author's works, not a book. |
