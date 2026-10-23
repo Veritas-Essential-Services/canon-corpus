@@ -17244,3 +17244,17 @@ Shelf: `pipeline/ruth-ogden_shelf.json` (2026-10-22; added at the coordinator's 
 | A Little Queen of Hearts: An International Story | have | PG 54133, `rogden-little-queen-of-hearts` (1229 units) |
 | Little Homespun | have | PG 54763, `rogden-little-homespun` (467 units) |
 | pg-57511 | excluded | PG 57511: Gutenberg's index of the author's works, not a book. |
+
+## Honoré Morrow
+
+Shelf: `pipeline/honore-morrow_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Judith of the Godless Valley | have | PG 14331, `hmorrow-judith-of-the-godless-valley` (3406 units) |
+| The Heart of the Desert (Kut-Le of the Desert) | have | PG 16777, `hmorrow-heart-of-the-desert-kut-le-of-the-desert` (2053 units) |
+| Lydia of the Pines | have | PG 16803, `hmorrow-lydia-of-the-pines` (3131 units) |
+| The Enchanted Canyon | have | PG 16889, `hmorrow-enchanted-canyon` (3307 units) |
+| Benefits Forgot: A Story of Lincoln and Mother Love | have | PG 18951, `hmorrow-benefits-forgot` (337 units) |
+| The Forbidden Trail | have | PG 22284, `hmorrow-forbidden-trail` (3063 units) |
+| Still Jim | have | PG 24458, `hmorrow-still-jim` (2775 units) |
