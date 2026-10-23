@@ -1,0 +1,528 @@
+{
+ "_about": "Storytellers' tail, group 31: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Alvarado M. Fuller, Robert H. Fuller, Joseph Furphy, Clyde Furst, J. C. Fussell, Ch. Führer, Ange Galdemar, Ernest Gambier-Parry, Richard Ganthony, Dana Gatlin, Glance Gaylord, Thomas Geldart, Elizabeth Gerberding, Margarita Spalding Gerry, Rosetta Luce Gilchrist, L. B. Giles, Lord Gilhooley, James R. Gilmore, Ida Glenwood, Hollis Godfrey, Edmund K. Goldsborough, Ambrose Elliott Gonzalez, Gordon Smythies, Gore, Charles Frederic Goss, Warren Lee Goss, F. R. Goulding, Aimée Crocker Gouraud, Léon Gozlan, Alfred A. Grace. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 31 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "amfuller-a-d-2000": [
+   "alvarado m. fuller",
+   "alvarado mortimer fuller"
+  ],
+  "rhfuller-golden-hope": [
+   "robert h. fuller",
+   "robert higginson fuller"
+  ],
+  "jfurphy-such-is-life": [
+   "joseph furphy",
+   "furphy"
+  ],
+  "cfurst-observations-of-professor-maturin": [
+   "clyde furst",
+   "furst"
+  ],
+  "jcfussell-corporal-tikitanu-v-c": [
+   "j. c. fussell",
+   "james coldham fussell",
+   "fussell"
+  ],
+  "cfuhrer-mysteries-of-montreal": [
+   "ch. führer",
+   "charlotte führer",
+   "führer"
+  ],
+  "agaldemar-robespierre": [
+   "ange galdemar",
+   "galdemar"
+  ],
+  "egambierparry-murphy": [
+   "ernest gambier-parry",
+   "gambier-parry"
+  ],
+  "rganthony-message-from-mars": [
+   "richard ganthony",
+   "ganthony"
+  ],
+  "dgatlin-missy": [
+   "dana gatlin",
+   "gatlin"
+  ],
+  "ggaylord-culm-rock-the-story-of-a-year": [
+   "glance gaylord",
+   "gaylord"
+  ],
+  "tgeldart-emilie-the-peacemaker": [
+   "thomas geldart",
+   "geldart"
+  ],
+  "egerberding-golden-chimney": [
+   "elizabeth gerberding",
+   "gerberding"
+  ],
+  "msgerry-toy-shop": [
+   "margarita spalding gerry",
+   "gerry"
+  ],
+  "rlgilchrist-tibby": [
+   "rosetta luce gilchrist",
+   "gilchrist"
+  ],
+  "lbgiles-terry-s-texas-rangers": [
+   "l. b. giles",
+   "giles"
+  ],
+  "lgilhooley-maugis-ye-sorcerer": [
+   "lord gilhooley",
+   "gilhooley"
+  ],
+  "jrgilmore-among-the-pines": [
+   "james r. gilmore",
+   "james roberts gilmore",
+   "gilmore"
+  ],
+  "iglenwood-lily-pearl-and-the-mistress-of-rosedale": [
+   "ida glenwood",
+   "glenwood"
+  ],
+  "hgodfrey-man-who-ended-war": [
+   "hollis godfrey",
+   "godfrey"
+  ],
+  "ekgoldsborough-ole-mars-an-ole-miss": [
+   "edmund k. goldsborough",
+   "goldsborough"
+  ],
+  "aegonzalez-black-border": [
+   "ambrose elliott gonzalez",
+   "gonzalez"
+  ],
+  "gordonsmythies-addie-s-husband": [
+   "gordon smythies"
+  ],
+  "gore-theresa-marchmont-or-the-maid-of-honour": [
+   "gore",
+   "catherine grace frances gore"
+  ],
+  "cfgoss-redemption-of-david-corson": [
+   "charles frederic goss"
+  ],
+  "wlgoss-jed-s-boy": [
+   "warren lee goss"
+  ],
+  "frgoulding-young-marooners-on-the-florida-coast": [
+   "f. r. goulding",
+   "francis robert goulding",
+   "goulding"
+  ],
+  "acgouraud-moon-madness-and-other-fantasies": [
+   "aimée crocker gouraud",
+   "gouraud"
+  ],
+  "lgozlan-man-among-the-monkeys": [
+   "léon gozlan",
+   "gozlan"
+  ],
+  "aagrace-tale-of-timber-town": [
+   "alfred a. grace",
+   "alfred augustus grace",
+   "grace"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "amfuller-a-d-2000": [
+   44307,
+   "A. D. 2000"
+  ],
+  "rhfuller-golden-hope": [
+   37576,
+   "The Golden Hope: A Story of the Time of King Alexander the Great"
+  ],
+  "jfurphy-such-is-life": [
+   3470,
+   "Such Is Life"
+  ],
+  "cfurst-observations-of-professor-maturin": [
+   65249,
+   "The Observations of Professor Maturin"
+  ],
+  "jcfussell-corporal-tikitanu-v-c": [
+   56471,
+   "Corporal Tikitanu, V.C."
+  ],
+  "cfuhrer-mysteries-of-montreal": [
+   8443,
+   "The Mysteries of Montreal: Being Recollections of a Female Physician"
+  ],
+  "agaldemar-robespierre": [
+   71538,
+   "Robespierre"
+  ],
+  "egambierparry-murphy": [
+   25763,
+   "'Murphy': A Message to Dog Lovers"
+  ],
+  "rganthony-message-from-mars": [
+   74852,
+   "A message from Mars"
+  ],
+  "dgatlin-missy": [
+   3491,
+   "Missy"
+  ],
+  "ggaylord-culm-rock-the-story-of-a-year": [
+   20524,
+   "Culm Rock The Story of a Year: What it Brought and What it Taught"
+  ],
+  "tgeldart-emilie-the-peacemaker": [
+   11290,
+   "Emilie the Peacemaker"
+  ],
+  "egerberding-golden-chimney": [
+   66628,
+   "The Golden Chimney: A Boy's Mine"
+  ],
+  "msgerry-toy-shop": [
+   39829,
+   "The Toy Shop: A Romantic Story of Lincoln the Man"
+  ],
+  "rlgilchrist-tibby": [
+   69307,
+   "Tibby: A novel dealing with psychic forces and telepathy"
+  ],
+  "lbgiles-terry-s-texas-rangers": [
+   48103,
+   "Terry's Texas Rangers"
+  ],
+  "lgilhooley-maugis-ye-sorcerer": [
+   76929,
+   "Maugis, ye sorcerer"
+  ],
+  "jrgilmore-among-the-pines": [
+   22960,
+   "Among the Pines; or, South in Secession Time"
+  ],
+  "iglenwood-lily-pearl-and-the-mistress-of-rosedale": [
+   35765,
+   "Lily Pearl and The Mistress of Rosedale"
+  ],
+  "hgodfrey-man-who-ended-war": [
+   49848,
+   "The Man Who Ended War"
+  ],
+  "ekgoldsborough-ole-mars-an-ole-miss": [
+   60807,
+   "Ole Mars an' Ole Miss"
+  ],
+  "aegonzalez-black-border": [
+   71432,
+   "The black border"
+  ],
+  "gordonsmythies-addie-s-husband": [
+   49806,
+   "Addie's Husband; or, Through clouds to sunshine"
+  ],
+  "gore-theresa-marchmont-or-the-maid-of-honour": [
+   9387,
+   "Theresa Marchmont, or, the Maid of Honour: A Tale"
+  ],
+  "cfgoss-redemption-of-david-corson": [
+   14730,
+   "The Redemption of David Corson"
+  ],
+  "wlgoss-jed-s-boy": [
+   62956,
+   "Jed's boy"
+  ],
+  "frgoulding-young-marooners-on-the-florida-coast": [
+   42066,
+   "The Young Marooners on the Florida Coast"
+  ],
+  "acgouraud-moon-madness-and-other-fantasies": [
+   68685,
+   "Moon-madness, and other fantasies"
+  ],
+  "lgozlan-man-among-the-monkeys": [
+   68059,
+   "The man among the monkeys; or, Ninety days in apeland To which are added: The philosopher and his monkeys, The professor and the crocodile, and other strange stories of men and animals"
+  ],
+  "aagrace-tale-of-timber-town": [
+   28906,
+   "The Tale of Timber Town"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "amfuller-a-d-2000": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alvarado m. fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhfuller-golden-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert h. fuller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfurphy-such-is-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph furphy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfurst-observations-of-professor-maturin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clyde furst",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcfussell-corporal-tikitanu-v-c": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. c. fussell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfuhrer-mysteries-of-montreal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ch. führer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "agaldemar-robespierre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ange galdemar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egambierparry-murphy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ernest gambier-parry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rganthony-message-from-mars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard ganthony",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dgatlin-missy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dana gatlin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ggaylord-culm-rock-the-story-of-a-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "glance gaylord",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tgeldart-emilie-the-peacemaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas geldart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egerberding-golden-chimney": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gerberding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msgerry-toy-shop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margarita spalding gerry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlgilchrist-tibby": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rosetta luce gilchrist",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbgiles-terry-s-texas-rangers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. b. giles",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lgilhooley-maugis-ye-sorcerer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lord gilhooley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jrgilmore-among-the-pines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james r. gilmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "iglenwood-lily-pearl-and-the-mistress-of-rosedale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ida glenwood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgodfrey-man-who-ended-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hollis godfrey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekgoldsborough-ole-mars-an-ole-miss": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edmund k. goldsborough",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aegonzalez-black-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ambrose elliott gonzalez",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gordonsmythies-addie-s-husband": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gordon smythies",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gore-theresa-marchmont-or-the-maid-of-honour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cfgoss-redemption-of-david-corson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles frederic goss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlgoss-jed-s-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "warren lee goss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "frgoulding-young-marooners-on-the-florida-coast": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. r. goulding",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acgouraud-moon-madness-and-other-fantasies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aimée crocker gouraud",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lgozlan-man-among-the-monkeys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "léon gozlan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aagrace-tale-of-timber-town": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alfred a. grace",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

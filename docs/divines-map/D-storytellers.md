@@ -20580,3 +20580,40 @@ Shelf: `pipeline/storytellers-tail-30_shelf.json` (2026-10-22; added at the coor
 | Elkswatawa | have | PG 74401, `jsfrench-elkswatawa` (1722 units) |
 | The Pirate Frog, and Other Tales | have | PG 64360, `wafrisbie-pirate-frog-and-other-tales` (205 units) |
 | A history of the trials and hardships of the Twenty-fourth Indiana Volunteer Infantry | have | PG 62981, `rjfulfer-history-of-the-trials-and-hardships-of-the-twenty-f` (666 units) |
+
+## Storytellers' tail, group 31 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-31_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Alvarado M. Fuller, Robert H. Fuller, Joseph Furphy, Clyde Furst, J. C. Fussell, Ch. Führer, Ange Galdemar, Ernest Gambier-Parry, Richard Ganthony, Dana Gatlin, Glance Gaylord, Thomas Geldart, Elizabeth Gerberding, Margarita Spalding Gerry, Rosetta Luce Gilchrist, L. B. Giles, Lord Gilhooley, James R. Gilmore, Ida Glenwood, Hollis Godfrey, Edmund K. Goldsborough, Ambrose Elliott Gonzalez, Gordon Smythies, Gore, Charles Frederic Goss, Warren Lee Goss, F. R. Goulding, Aimée Crocker Gouraud, Léon Gozlan, Alfred A. Grace. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| A. D. 2000 | have | PG 44307, `amfuller-a-d-2000` (2311 units) |
+| The Golden Hope: A Story of the Time of King Alexander the Great | have | PG 37576, `rhfuller-golden-hope` (3228 units) |
+| Such Is Life | have | PG 3470, `jfurphy-such-is-life` (2631 units) |
+| The Observations of Professor Maturin | have | PG 65249, `cfurst-observations-of-professor-maturin` (496 units) |
+| Corporal Tikitanu, V.C. | have | PG 56471, `jcfussell-corporal-tikitanu-v-c` (236 units) |
+| The Mysteries of Montreal: Being Recollections of a Female Physician | have | PG 8443, `cfuhrer-mysteries-of-montreal` (503 units) |
+| Robespierre | have | PG 71538, `agaldemar-robespierre` (2271 units) |
+| 'Murphy': A Message to Dog Lovers | have | PG 25763, `egambierparry-murphy` (412 units) |
+| A message from Mars | have | PG 74852, `rganthony-message-from-mars` (1165 units) |
+| Missy | have | PG 3491, `dgatlin-missy` (2172 units) |
+| Culm Rock The Story of a Year: What it Brought and What it Taught | have | PG 20524, `ggaylord-culm-rock-the-story-of-a-year` (1047 units) |
+| Emilie the Peacemaker | have | PG 11290, `tgeldart-emilie-the-peacemaker` (630 units) |
+| The Golden Chimney: A Boy's Mine | have | PG 66628, `egerberding-golden-chimney` (1101 units) |
+| The Toy Shop: A Romantic Story of Lincoln the Man | have | PG 39829, `msgerry-toy-shop` (172 units) |
+| Tibby: A novel dealing with psychic forces and telepathy | have | PG 69307, `rlgilchrist-tibby` (2249 units) |
+| Terry's Texas Rangers | have | PG 48103, `lbgiles-terry-s-texas-rangers` (287 units) |
+| Maugis, ye sorcerer | have | PG 76929, `lgilhooley-maugis-ye-sorcerer` (1156 units) |
+| Among the Pines; or, South in Secession Time | have | PG 22960, `jrgilmore-among-the-pines` (1858 units) |
+| Lily Pearl and The Mistress of Rosedale | have | PG 35765, `iglenwood-lily-pearl-and-the-mistress-of-rosedale` (2125 units) |
+| The Man Who Ended War | have | PG 49848, `hgodfrey-man-who-ended-war` (1554 units) |
+| Ole Mars an' Ole Miss | have | PG 60807, `ekgoldsborough-ole-mars-an-ole-miss` (959 units) |
+| The black border | have | PG 71432, `aegonzalez-black-border` (2526 units) |
+| Addie's Husband; or, Through clouds to sunshine | have | PG 49806, `gordonsmythies-addie-s-husband` (2397 units) |
+| Theresa Marchmont, or, the Maid of Honour: A Tale | have | PG 9387, `gore-theresa-marchmont-or-the-maid-of-honour` (138 units) |
+| The Redemption of David Corson | have | PG 14730, `cfgoss-redemption-of-david-corson` (2251 units) |
+| Jed's boy | have | PG 62956, `wlgoss-jed-s-boy` (1556 units) |
+| The Young Marooners on the Florida Coast | have | PG 42066, `frgoulding-young-marooners-on-the-florida-coast` (1629 units) |
+| Moon-madness, and other fantasies | have | PG 68685, `acgouraud-moon-madness-and-other-fantasies` (1247 units) |
+| The man among the monkeys; or, Ninety days in apeland To which are added: The philosopher and his monkeys, The professor and the crocodile, and other strange stories of men and animals | have | PG 68059, `lgozlan-man-among-the-monkeys` (1208 units) |
+| The Tale of Timber Town | have | PG 28906, `aagrace-tale-of-timber-town` (3329 units) |
