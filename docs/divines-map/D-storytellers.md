@@ -21381,3 +21381,51 @@ Shelf: `pipeline/journeys-through-bookland_shelf.json` (2026-10-23; at Adam's as
 | Journeys Through Bookland, Vol. 10: The Guide | have | PG 24857, `journeys-bookland-v10-guide` (3220 units) |
 | Journeys Through Bookland, vol. 1, new edition (Bellows-Reeve, 1922) | have (raw OCR) | IA `journeysthroughb0001char`, `journeys-bookland-v1` |
 | Journeys Through Bookland, vol. 9, new edition (Bellows-Reeve, 1922) | have (raw OCR) | IA `journeysthroughbo09sylv`, `journeys-bookland-v9` |
+
+## Eva March Tappan (editor)
+
+Shelf: `pipeline/childrens-hour_shelf.json` (2026-10-23; at Adam's ask for old children's sets). Eva March Tappan's The Children's Hour (Houghton Mifflin, 1907; enlarged 1916): 14 of 15 volumes here, volume 5 on the eva-march-tappan shelf. 1 Gutenberg texts, 13 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Children's Hour, Volume 3 (of 10): Stories from the Classics | have | PG 14752, `childrens-hour-v3-stories-from-the-classics` (1444 units) |
+| The Children's Hour, vol. 1: Folk Stories and Fables (Houghton Mifflin) | have (raw OCR) | IA `childrenshourinf01tapp`, `childrens-hour-v1-folk-stories-and-fables` |
+| The Children's Hour, vol. 2: Myths from Many Lands (Houghton Mifflin) | have (raw OCR) | IA `childrenshourinf02tapp`, `childrens-hour-v2-myths-from-many-lands` |
+| The Children's Hour, vol. 4: Stories of Legendary Heroes (Houghton Mifflin) | have (raw OCR) | IA `childrenshourinf04tapp`, `childrens-hour-v4-stories-of-legendary-heroes` |
+| The Children's Hour, vol. 6: Old-Fashioned Stories and Poems (Houghton Mifflin, 1907) | have (raw OCR) | IA `oldfashionedstor00tapp`, `childrens-hour-v6-old-fashioned-stories-and-poems` |
+| The Children's Hour, vol. 7: The Out-of-Door Book (Houghton Mifflin, 1907) | have (raw OCR) | IA `outofdoorbook00tapp_1`, `childrens-hour-v7-out-of-door-book` |
+| The Children's Hour, vol. 8: Adventures and Achievements (Houghton Mifflin) | have (raw OCR) | IA `childrenshourinf08tapp`, `childrens-hour-v8-adventures-and-achievements` |
+| The Children's Hour, vol. 9: Poems and Rhymes (Houghton Mifflin) | have (raw OCR) | IA `childrenshourinf09tapp`, `childrens-hour-v9-poems-and-rhymes` |
+| The Children's Hour, vol. 10: Modern Stories (Houghton Mifflin) | have (raw OCR) | IA `childrenshourinf10tapp`, `childrens-hour-v10-modern-stories` |
+| The Children's Hour, vol. 11: Stories of Nature (Houghton Mifflin, 1916) | have (raw OCR) | IA `childrenshour0000evam`, `childrens-hour-v11-stories-of-nature` |
+| The Children's Hour, vol. 12: Sports and Pastimes (Houghton Mifflin, 1916) | have (raw OCR) | IA `sportspastimesvo0012evam`, `childrens-hour-v12-sports-and-pastimes` |
+| The Children's Hour, vol. 13: The Book of Humor (Houghton Mifflin, 1916) | have (raw OCR) | IA `childrenshoursbo0013evam`, `childrens-hour-v13-book-of-humor` |
+| The Children's Hour, vol. 14: Modern Triumphs (Houghton Mifflin, 1916) | have (raw OCR) | IA `moderntriumphs00tapp`, `childrens-hour-v14-modern-triumphs` |
+| The Children's Hour, vol. 15: Wonders of Science (Houghton Mifflin, 1916) | have (raw OCR) | IA `wondersofscience00tapp`, `childrens-hour-v15-wonders-of-science` |
+
+## Thomas Bailey Aldrich (editor-in-chief)
+
+Shelf: `pipeline/young-folks-library_shelf.json` (2026-10-23; at Adam's ask for old children's sets). The Young Folks' Library (Hall & Locke, 1901-02), Thomas Bailey Aldrich editor-in-chief, all twenty volumes. 2 Gutenberg texts, 18 Internet Archive scans (raw OCR). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Young Folks' Library, vol. 11: Wonders of Earth, Sea and Sky, ed. Edward S. Holden (Hall & Locke) | have | PG 15884, `yfl-v11-wonders-of-earth` (1153 units) |
+| Young Folks' Library, vol. 14: A Book of Natural History, ed. David Starr Jordan (Hall & Locke) | have | PG 18274, `yfl-v14-a-book-of-natural-history` (972 units) |
+| Young Folks' Library, vol. 1: The Story Teller, ed. Charles Eliot Norton (1910 printing) (Hall & Locke) | have (raw OCR) | IA `storyteller00nort`, `yfl-v01-the-story-teller` |
+| Young Folks' Library, vol. 2: The Merry Maker, ed. Joel Chandler Harris (Hall & Locke) | have (raw OCR) | IA `bwb_T4-AKB-837_2`, `yfl-v02-the-merry-maker` |
+| Young Folks' Library, vol. 3: Famous Fairy Tales, ed. Roswell Field (Hall & Locke) | have (raw OCR) | IA `youngfolkslibra01aldrgoog`, `yfl-v03-famous-fairy-tales` |
+| Young Folks' Library, vol. 4: Tales of Fantasy, ed. Tudor Jenks (Hall & Locke) | have (raw OCR) | IA `talesoffantasy00jenk`, `yfl-v04-tales-of-fantasy` |
+| Young Folks' Library, vol. 5: Myths and Legends, ed. Thomas J. Shahan (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar05aldr`, `yfl-v05-myths-and-legends` |
+| Young Folks' Library, vol. 6: The Animal Story Book, ed. Ernest Thompson Seton (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar06aldr`, `yfl-v06-the-animal-story-book` |
+| Young Folks' Library, vol. 7: School and College Days, ed. Kirk Munroe and Mary Hartwell Catherwood (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar07aldr`, `yfl-v07-school-and-college-days` |
+| Young Folks' Library, vol. 8: The Book of Adventure, ed. Nathan Haskell Dole (Hall & Locke) | have (raw OCR) | IA `youngfolkslibra00aldrgoog`, `yfl-v08-the-book-of-adventure` |
+| Young Folks' Library, vol. 9: Famous Explorers, ed. Edwin Erle Sparks (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar09aldr`, `yfl-v09-famous-explorers` |
+| Young Folks' Library, vol. 10: Brave Deeds, ed. John Townsend Trowbridge (Hall & Locke) | have (raw OCR) | IA `bravedeeds01unkngoog`, `yfl-v10-brave-deeds` |
+| Young Folks' Library, vol. 12: Famous Travels, ed. George A. Henty (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar12aldr`, `yfl-v12-famous-travels` |
+| Young Folks' Library, vol. 13: Sea Stories, ed. Cyrus Townsend Brady (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar13aldr`, `yfl-v13-sea-stories` |
+| Young Folks' Library, vol. 15: Historic Scenes in Fiction, ed. Henry van Dyke (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar15aldr`, `yfl-v15-historic-scenes-in-fiction` |
+| Young Folks' Library, vol. 16: Famous Battles by Land and Sea, ed. John D. Long (Hall & Locke) | have (raw OCR) | IA `famousbattlesby00unkngoog`, `yfl-v16-famous-battles-by-land-and-sea` |
+| Young Folks' Library, vol. 17: Men Who Have Risen, ed. Hamilton Wright Mabie (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar17aldr`, `yfl-v17-men-who-have-risen` |
+| Young Folks' Library, vol. 18: The Book of Patriotism, ed. George Frisbie Hoar (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar18aldr`, `yfl-v18-the-book-of-patriotism` |
+| Young Folks' Library, vol. 19: Leaders of Men, or History Told in Biography, ed. William Rainey Harper (Hall & Locke) | have (raw OCR) | IA `youngfolkslibrar19aldr`, `yfl-v19-leaders-of-men` |
+| Young Folks' Library, vol. 20: Famous Poems, selected by Thomas Bailey Aldrich (Hall & Locke) | have (raw OCR) | IA `famouspoems00aldr`, `yfl-v20-famous-poems` |

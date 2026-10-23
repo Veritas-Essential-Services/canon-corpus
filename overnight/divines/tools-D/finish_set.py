@@ -25,7 +25,7 @@ fetch = json.load(open(f"{cdir}/{name}_fetch_report.json"))
 checks = shelf.get("_checks", {})
 pg, ia = shelf.get("gutenberg", {}), shelf.get("internet_archive", {})
 failed = [s for s in list(pg) + list(ia) if fetch.get(s, {}).get("status") == "FAILED"]
-mism = [s for s, c in checks.items() if c.get("identity") not in (None, "ok", "title_weak")]
+mism = [s for s, c in checks.items() if c.get("identity") not in (None, "ok", "title_weak", "identity_override")]
 rights = [s for s, c in checks.items() if c.get("pg_copyrighted") or str(c.get("ia_rights", "ok")).startswith(("CHECK", "unchecked"))]
 built = {s: conv[s] for s in conv if conv[s].get("status") == "built"}
 units = sum(c.get("units", 0) for c in built.values())

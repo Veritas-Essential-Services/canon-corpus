@@ -2909,3 +2909,9 @@
 
 ## 2026-10-23 09:01 CDT — journeys-through-bookland: done
 - journeys-through-bookland: new shelf, 8 Gutenberg books (18,610 units) and 2 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:05 CDT — childrens-hour: done
+- childrens-hour: new shelf, 1 Gutenberg books (1,444 units) and 13 Internet Archive scans; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-23 09:10 CDT — young-folks-library: done
+- young-folks-library: new shelf, 2 Gutenberg books (2,125 units) and 18 Internet Archive scans; verify 0 mismatches, 0 rights flags.

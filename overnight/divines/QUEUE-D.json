@@ -6941,6 +6941,22 @@
       "started": "2026-10-23T09:01:25-05:00",
       "finished": "2026-10-23T09:01:25-05:00",
       "notes": "journeys-through-bookland: new shelf, 8 Gutenberg books (18,610 units) and 2 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "childrens-hour",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Eva March Tappan (editor); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:05:18-05:00",
+      "finished": "2026-10-23T09:05:18-05:00",
+      "notes": "childrens-hour: new shelf, 1 Gutenberg books (1,444 units) and 13 Internet Archive scans; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "young-folks-library",
+      "scope": "CHILDREN'S SETS (Adam's ask, 2026-10-23) — Thomas Bailey Aldrich (editor-in-chief); no minting",
+      "status": "done",
+      "started": "2026-10-23T09:10:56-05:00",
+      "finished": "2026-10-23T09:10:56-05:00",
+      "notes": "young-folks-library: new shelf, 2 Gutenberg books (2,125 units) and 18 Internet Archive scans; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
