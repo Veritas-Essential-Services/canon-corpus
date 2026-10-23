@@ -2048,3 +2048,6 @@
 
 ## 2026-10-22 22:40 CDT — clara-louise-burnham: done
 - clara-louise-burnham: new shelf, 11 Gutenberg books, 28,067 units, 206 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — charlotte-m-brame: done
+- charlotte-m-brame: new shelf, 11 Gutenberg books, 20,558 units, 127 ~2 ids; verify 0 mismatches, 0 rights flags.

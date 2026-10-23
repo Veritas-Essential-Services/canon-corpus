@@ -1,0 +1,166 @@
+{
+ "_about": "Charlotte M. Brame's writing at Gutenberg: popular romances (many printed as by Bertha M. Clay). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Charlotte M. Brame",
+ "_name_words": [
+  "bertha",
+  "brame",
+  "charlotte",
+  "clay"
+ ],
+ "_surname": [
+  "charlotte m. brame",
+  "brame",
+  "bertha m. clay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cmbrame-dora-thorne": [
+   2374,
+   "Dora Thorne"
+  ],
+  "cmbrame-wife-in-name-only": [
+   11970,
+   "Wife in Name Only"
+  ],
+  "cmbrame-coquettes-victim-everyday-life-library-no-1": [
+   12886,
+   "The Coquette's Victim Everyday Life Library No. 1"
+  ],
+  "cmbrame-coralie-everyday-life-library-no-2": [
+   13162,
+   "Coralie Everyday Life Library No. 2"
+  ],
+  "cmbrame-my-mothers-rival-everyday-life-library-no-4": [
+   15181,
+   "My Mother's Rival Everyday Life Library No. 4"
+  ],
+  "cmbrame-marion-arleighs-penance-everyday-life-library-no-5": [
+   15182,
+   "Marion Arleigh's Penance Everyday Life Library No. 5"
+  ],
+  "cmbrame-tragedy-of-the-chain-pier-everyday-life-library-no-3": [
+   15183,
+   "The Tragedy of the Chain Pier Everyday Life Library No. 3"
+  ],
+  "cmbrame-mad-love": [
+   31489,
+   "A Mad Love"
+  ],
+  "cmbrame-love-works-wonders": [
+   33989,
+   "Love Works Wonders: A Novel"
+  ],
+  "cmbrame-fair-mystery": [
+   41932,
+   "A Fair Mystery: The Story of a Coquette"
+  ],
+  "cmbrame-shadow-of-a-sin": [
+   42320,
+   "The Shadow of a Sin"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cmbrame-dora-thorne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-wife-in-name-only": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-coquettes-victim-everyday-life-library-no-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-coralie-everyday-life-library-no-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-my-mothers-rival-everyday-life-library-no-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-marion-arleighs-penance-everyday-life-library-no-5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-tragedy-of-the-chain-pier-everyday-life-library-no-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-mad-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-love-works-wonders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-fair-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmbrame-shadow-of-a-sin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte m. brame",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

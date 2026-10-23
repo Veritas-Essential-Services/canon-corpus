@@ -15511,3 +15511,21 @@ Shelf: `pipeline/clara-louise-burnham_shelf.json` (2026-10-22; added at the coor
 | Instead of the Thorn: A Novel | have | PG 53049, `clburnham-instead-of-the-thorn` (2454 units) |
 | Sweet Clover: A Romance of the White City | have | PG 54490, `clburnham-sweet-clover` (2869 units) |
 | The Queen of Farrandale: A Novel | have | PG 60983, `clburnham-queen-of-farrandale` (2200 units) |
+
+## Charlotte M. Brame
+
+Shelf: `pipeline/charlotte-m-brame_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Popular romances (many printed as by Bertha M. Clay). Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Dora Thorne | have | PG 2374, `cmbrame-dora-thorne` (2423 units) |
+| Wife in Name Only | have | PG 11970, `cmbrame-wife-in-name-only` (2479 units) |
+| The Coquette's Victim Everyday Life Library No. 1 | have | PG 12886, `cmbrame-coquettes-victim-everyday-life-library-no-1` (728 units) |
+| Coralie Everyday Life Library No. 2 | have | PG 13162, `cmbrame-coralie-everyday-life-library-no-2` (876 units) |
+| My Mother's Rival Everyday Life Library No. 4 | have | PG 15181, `cmbrame-my-mothers-rival-everyday-life-library-no-4` (571 units) |
+| Marion Arleigh's Penance Everyday Life Library No. 5 | have | PG 15182, `cmbrame-marion-arleighs-penance-everyday-life-library-no-5` (596 units) |
+| The Tragedy of the Chain Pier Everyday Life Library No. 3 | have | PG 15183, `cmbrame-tragedy-of-the-chain-pier-everyday-life-library-no-3` (559 units) |
+| A Mad Love | have | PG 31489, `cmbrame-mad-love` (3163 units) |
+| Love Works Wonders: A Novel | have | PG 33989, `cmbrame-love-works-wonders` (2181 units) |
+| A Fair Mystery: The Story of a Coquette | have | PG 41932, `cmbrame-fair-mystery` (5357 units) |
+| The Shadow of a Sin | have | PG 42320, `cmbrame-shadow-of-a-sin` (1625 units) |
