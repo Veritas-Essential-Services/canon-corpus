@@ -10070,3 +10070,12 @@ Slugs `menno-*`. Built from title pages read for round 40.
 | A foundation and plain instruction of the saving doctrine of our Lord Jesus Christ, translated into English by I. Daniel Rupp (Lancaster, Pa.: J. E. Barr, 1869) | have-ocr | IA `foundationplaini00menn` |
 | The 1863 Lancaster printing of Rupp's Foundation; the Dutch originals (Fundament 1613, Opera 1646, Opera omnia theologica 1681) and German printings (1794, 1851, Nutzliche Anweisungen 1916) | alternate | not shelved |
 | Lives of Menno (Horsch 1916, de Leeuw 1860, Cassel's Geschichte der Mennoniten 1890), works by others | excluded | |
+
+## Dirk Philips (round 40, my pick, 2026-10-22)
+
+Slugs `dirk-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Enchiridion, or, Hand book of the Christian doctrine and religion, by Dietrich Philip, translated from the German and compared with the Dutch by A. B. Kolb (Elkhart, Ind.: Mennonite Publishing Co., 1910) | have-ocr | IA `enchiridionorhan00phil` |
+| A second scan of the 1910 Enchiridion | alternate | not shelved |
