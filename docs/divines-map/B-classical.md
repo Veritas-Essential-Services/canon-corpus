@@ -9629,3 +9629,12 @@ Shelf: `pipeline/b-f-cocker_shelf.json`. Christianity and Greek Philosophy (1870
 |---|---|---|---|
 | Christianity and Greek Philosophy, or the Relation between Spontaneous and Reflective Thought in Greece (1870) |  | `cocker-christianity-greek-philosophy-1870` | have-raw (IA `christianitygree00cockrich`) |
 
+
+## La Rue Van Hook (1877-1953)
+
+Shelf: `pipeline/la-rue-van-hook_shelf.json`. Greek Life and Thought (1923). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Life and Thought: a Portrayal of Greek Civilization (1923) |  | `van-hook-greek-life-thought-1923` | have-raw (IA `greeklifethought00vanh`) |
+
