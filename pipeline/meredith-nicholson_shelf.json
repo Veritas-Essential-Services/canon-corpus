@@ -1,0 +1,372 @@
+{
+ "_about": "Meredith Nicholson's Indiana novels, romances and essays. Not Reynold A. Nicholson (the nicholson shelf). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Meredith Nicholson",
+ "_name_words": [
+  "meredith",
+  "nicholson"
+ ],
+ "_surname": [
+  "meredith nicholson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mnicholson-house-of-a-thousand-candles": [
+   12441,
+   "The House of a Thousand Candles"
+  ],
+  "mnicholson-port-of-missing-men": [
+   13913,
+   "The Port of Missing Men"
+  ],
+  "mnicholson-reversible-santa-claus": [
+   15044,
+   "A Reversible Santa Claus"
+  ],
+  "mnicholson-hoosier-chronicle": [
+   15138,
+   "A Hoosier Chronicle"
+  ],
+  "mnicholson-lady-larkspur": [
+   19204,
+   "Lady Larkspur"
+  ],
+  "mnicholson-blacksheep-blacksheep": [
+   21887,
+   "Blacksheep! Blacksheep!"
+  ],
+  "mnicholson-madness-of-may": [
+   25837,
+   "The Madness of May"
+  ],
+  "mnicholson-otherwise-phyllis": [
+   28017,
+   "Otherwise Phyllis"
+  ],
+  "mnicholson-rosalind-at-red-gate": [
+   34512,
+   "Rosalind at Red Gate"
+  ],
+  "mnicholson-siege-of-the-seven-suitors": [
+   35942,
+   "The Siege of the Seven Suitors"
+  ],
+  "mnicholson-main-chance": [
+   37190,
+   "The Main Chance"
+  ],
+  "mnicholson-atlantic-narratives": [
+   40718,
+   "Atlantic Narratives: Modern Short Stories; Second Series"
+  ],
+  "mnicholson-little-brown-jug-at-kildare": [
+   45782,
+   "The Little Brown Jug at Kildare"
+  ],
+  "mnicholson-poet": [
+   62821,
+   "The Poet"
+  ],
+  "mnicholson-short-flights": [
+   63973,
+   "Short Flights"
+  ],
+  "mnicholson-valley-of-democracy": [
+   64910,
+   "The Valley of Democracy"
+  ],
+  "mnicholson-zelda-dameron": [
+   65630,
+   "Zelda Dameron"
+  ],
+  "mnicholson-hoosiers": [
+   66276,
+   "The Hoosiers"
+  ],
+  "mnicholson-proof-of-the-pudding": [
+   66354,
+   "The Proof of the Pudding"
+  ],
+  "mnicholson-style-and-the-man": [
+   66422,
+   "Style and the Man"
+  ],
+  "mnicholson-lords-of-high-decision": [
+   66455,
+   "The Lords of High Decision"
+  ],
+  "mnicholson-broken-barriers": [
+   66907,
+   "Broken Barriers"
+  ],
+  "mnicholson-war-of-the-carolinas": [
+   68275,
+   "The war of the Carolinas"
+  ],
+  "mnicholson-provincial-american-and-other-papers": [
+   68318,
+   "The provincial American and other papers"
+  ],
+  "mnicholson-best-laid-schemes": [
+   68334,
+   "Best laid schemes"
+  ],
+  "mnicholson-hope-of-happiness": [
+   68399,
+   "The hope of happiness"
+  ],
+  "mnicholson-man-in-the-street": [
+   69677,
+   "The man in the street: Papers on American topics"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 65906: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_held": {},
+ "_checks": {
+  "mnicholson-house-of-a-thousand-candles": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-port-of-missing-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-reversible-santa-claus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-hoosier-chronicle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-lady-larkspur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-blacksheep-blacksheep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-madness-of-may": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-otherwise-phyllis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-rosalind-at-red-gate": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-siege-of-the-seven-suitors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-main-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-atlantic-narratives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-little-brown-jug-at-kildare": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-poet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-short-flights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-valley-of-democracy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-zelda-dameron": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-hoosiers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-proof-of-the-pudding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-style-and-the-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-lords-of-high-decision": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-broken-barriers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-war-of-the-carolinas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-provincial-american-and-other-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-best-laid-schemes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-hope-of-happiness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mnicholson-man-in-the-street": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "meredith nicholson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -3797,6 +3797,14 @@
       "started": "2026-10-22T22:10:53-05:00",
       "finished": "2026-10-22T22:10:53-05:00",
       "notes": "molly-elliot-seawell: new shelf, 28 Gutenberg books, 28,378 units, 119 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "meredith-nicholson",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Meredith Nicholson; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:11:16-05:00",
+      "finished": "2026-10-22T22:11:16-05:00",
+      "notes": "meredith-nicholson: new shelf, 27 Gutenberg books, 42,906 units, 3726 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

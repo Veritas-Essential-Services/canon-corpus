@@ -12949,3 +12949,38 @@ Shelf: `pipeline/molly-elliot-seawell_shelf.json` (2026-10-22; added at the coor
 | The victory | have | PG 72927, `meseawell-victory` (1634 units) |
 | The sprightly romance of Marsac | have | PG 75477, `meseawell-sprightly-romance-of-marsac` (728 units) |
 | The Chateau of Montplaisir | have | PG 77315, `meseawell-chateau-of-montplaisir` (1047 units) |
+
+## Meredith Nicholson
+
+Shelf: `pipeline/meredith-nicholson_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Indiana novels and romances. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The House of a Thousand Candles | have | PG 12441, `mnicholson-house-of-a-thousand-candles` (2246 units) |
+| The Port of Missing Men | have | PG 13913, `mnicholson-port-of-missing-men` (2200 units) |
+| A Reversible Santa Claus | have | PG 15044, `mnicholson-reversible-santa-claus` (426 units) |
+| A Hoosier Chronicle | have | PG 15138, `mnicholson-hoosier-chronicle` (2753 units) |
+| Lady Larkspur | have | PG 19204, `mnicholson-lady-larkspur` (686 units) |
+| Blacksheep! Blacksheep! | have | PG 21887, `mnicholson-blacksheep-blacksheep` (1948 units) |
+| The Madness of May | have | PG 25837, `mnicholson-madness-of-may` (602 units) |
+| Otherwise Phyllis | have | PG 28017, `mnicholson-otherwise-phyllis` (2788 units) |
+| Rosalind at Red Gate | have | PG 34512, `mnicholson-rosalind-at-red-gate` (1997 units) |
+| The Siege of the Seven Suitors | have | PG 35942, `mnicholson-siege-of-the-seven-suitors` (1673 units) |
+| The Main Chance | have | PG 37190, `mnicholson-main-chance` (2306 units) |
+| Atlantic Narratives: Modern Short Stories; Second Series | have | PG 40718, `mnicholson-atlantic-narratives` (2825 units) |
+| The Little Brown Jug at Kildare | have | PG 45782, `mnicholson-little-brown-jug-at-kildare` (1915 units) |
+| The Poet | have | PG 62821, `mnicholson-poet` (554 units) |
+| Short Flights | have | PG 63973, `mnicholson-short-flights` (279 units) |
+| The Valley of Democracy | have | PG 64910, `mnicholson-valley-of-democracy` (431 units) |
+| Zelda Dameron | have | PG 65630, `mnicholson-zelda-dameron` (2858 units) |
+| The Hoosiers | have | PG 66276, `mnicholson-hoosiers` (680 units) |
+| The Proof of the Pudding | have | PG 66354, `mnicholson-proof-of-the-pudding` (2015 units) |
+| Style and the Man | have | PG 66422, `mnicholson-style-and-the-man` (50 units) |
+| The Lords of High Decision | have | PG 66455, `mnicholson-lords-of-high-decision` (2461 units) |
+| Broken Barriers | have | PG 66907, `mnicholson-broken-barriers` (2682 units) |
+| The war of the Carolinas | have | PG 68275, `mnicholson-war-of-the-carolinas` (1897 units) |
+| The provincial American and other papers | have | PG 68318, `mnicholson-provincial-american-and-other-papers` (362 units) |
+| Best laid schemes | have | PG 68334, `mnicholson-best-laid-schemes` (1364 units) |
+| The hope of happiness | have | PG 68399, `mnicholson-hope-of-happiness` (2446 units) |
+| The man in the street: Papers on American topics | have | PG 69677, `mnicholson-man-in-the-street` (462 units) |
+| held-elsewhere | excluded | PG 65906: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
