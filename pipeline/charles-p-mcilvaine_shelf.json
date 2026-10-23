@@ -1,0 +1,170 @@
+{
+ "_about": "Public-domain Charles Pettit McIlvaine (1799-1873), evangelical Episcopal Bishop of Ohio, for the Word Hoard: The Evidences of Christianity (1833), the charges on preaching Christ crucified (1834) and Justification by Faith (1840), Oxford Divinity Compared with that of the Romish and Anglican Churches (1841), The Holy Catholic Church (1844), A Word in Season to Candidates for Confirmation (1853), The Truth and the Life: Twenty-two Sermons (1854) and The Temple of God (1860), from Internet Archive scans. Added 2026-10-23 by lane A, round 55 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mcilvaine",
+  "m'ilvaine"
+ ],
+ "_surname": [
+  "charles p. mcilvaine",
+  "charles pettit mcilvaine",
+  "charles p. m'ilvaine",
+  "bishop mcilvaine",
+  "bishop m'ilvaine",
+  "c. p. mcilvaine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcilvaine-evidences": [
+   "evidencesofchris00mcil",
+   "The evidences of Christianity, in their external division (London, H. Fisher, R. Fisher, & P. Jackson, 1833)"
+  ],
+  "mcilvaine-preaching-christ-crucified": [
+   "chargetoclergyof00mcil",
+   "A charge to the clergy of the Protestant Episcopal Church in the state of Ohio on the preaching of Christ crucified : delivered before the Seventeenth Annual Convention of the Diocese, at Chillicothe, September 5th, 1834 (Gambier, Ohio : Western Protestant Episcopal Press, 1834)"
+  ],
+  "mcilvaine-apostolical-commission": [
+   "apostolicalcommi00mcil",
+   "The apostolical commission: the sermon at the consecration of the Right Reverand Leonidas Polk, D. D., missionary bishop for Arkansas; in Christ church, Cincinnati, December 9, 1838 (Gambier, O. : G. W. Myers, 1838)"
+  ],
+  "mcilvaine-justification": [
+   "justificationbyf00mcil",
+   "Justification by faith: a charge delivered before the clergy of the Protestant Episcopal church in the diocese of Ohio, and at the Twenty-second annual convention of the diocese, in St. Paul's church, Steubenville, September 13, 1839 (Columbus [O.] I. N. Whiting, 1840)"
+  ],
+  "mcilvaine-oxford-divinity": [
+   "oxforddivinityco00mcil",
+   "Oxford divinity compared with that of the Romish and Anglican churches : with a special view of the doctrine of justification by faith, as it was made of primary importance by the reformers, and it lies at the foundation of all Scriptural views of the gospel of Our Lord Jesus Christ (Philadelphia : J. Whetham and Son, 1841)"
+  ],
+  "mcilvaine-holy-catholic-church": [
+   "holycatholicchur00mcil",
+   "The holy catholic church; or, The communion of saints, in the mystical body of Christ: a sermon, preached in the Church of the Epiphany, in the city of Philadelphia, on Sunday, September 6th, 1844 (Philadelphia, H. Hooker, 1844)"
+  ],
+  "mcilvaine-word-in-season": [
+   "wordinseasontoca00mcil",
+   "A Word in season to candidates for confirmation (Philadelphia: Daniels & Smith, 1853)"
+  ],
+  "mcilvaine-truth-and-life": [
+   "truthlifetwentyt00mcilrich",
+   "The truth and life : twenty-two sermons (New York : R. Carter, 1854)"
+  ],
+  "mcilvaine-temple-of-god": [
+   "templeofgodorhol00mcil",
+   "The temple of God; or, The Holy Catholic church and communion of saints, in its nature, structure, and unity (Philadelphia, Protestant Episcopal book society, 1860)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mcilvaine-other": "Select Family and Parish Sermons (1838, sermons by many authors he selected); the Memoirs of Charles Simeon (Carus's, he only introduced it); the joint Reply of Bishops Meade, McIlvaine and Burgess"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "mcilvaine-apostolical-commission": "Title page reads 'The Apostolical Commission: The Sermon at the consecration of the Right Reverend Leonidas Polk ... by Charles Pettit McIlvaine' (OCR 'Pettlt Mcllvalne'), Bishop of the Diocese of Ohio, Christ Church, Cincinnati, December 9, 1838.",
+  "mcilvaine-justification": "Title page reads 'JUSTIFICATION BY FAITH: A CHARGE DELIVERED BEFORE THE CLERGY OF THE PROTESTANT EPISCOPAL CHURCH, DIOCESE OF OHIO ... RT. REV. CHARLES P. McILVAINE' (OCR 'CHARLES P;'), Columbus: Isaac N. Whiting, 1840.",
+  "mcilvaine-oxford-divinity": "Title page reads 'OXFORD DIVINITY COMPARED WITH THAT OF THE ROMISH AND ANGLICAN CHURCHES ... BY THE RT. REV. CHARLES PETTIT M'ILVAINE, D.D., BISHOP OF THE PROTESTANT EPISCOPAL CHURCH IN THE DIOCESE OF OHIO' (OCR M'lLVAINE), 1841.",
+  "mcilvaine-temple-of-god": "Title page reads 'THE TEMPLE OF GOD; OR THE HOLY CATHOLIC CHURCH AND COMMUNION OF SAINTS ... BY CHARLES PETTIT M'ILVAINE, D. D., D. C. L., Bishop of the Protestant Episcopal Church, in Ohio' (OCR M'lLVAINE), Philadelphia 1860."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcilvaine-evidences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles p. m'ilvaine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcilvaine-preaching-christ-crucified": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles p. mcilvaine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcilvaine-apostolical-commission": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcilvaine-justification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcilvaine-oxford-divinity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcilvaine-holy-catholic-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles p. m'ilvaine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcilvaine-word-in-season": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bishop m'ilvaine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcilvaine-truth-and-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles p. mcilvaine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcilvaine-temple-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

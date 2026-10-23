@@ -11770,3 +11770,20 @@ Slugs `bmpalmer-*`. Built from title pages read for round 54.
 | Benjamin Morgan Palmer (1781-1847), his uncle, pastor of the Independent or Congregational Church, Charleston: The Dejected Christian Encouraged (1816), Importance of the Ministerial Office (1820), The Upright Character (1822), A Plain and Easy Catechism (1828) are the uncle's | excluded | |
 | Temperance Teachings of Science (1886) and the medical reports are by other Palmers | excluded | |
 | theology-of-prayer: a 1980 Sprinkle Publications reprint with a new preface still in copyright; the 1894 printing is shelved instead | excluded | |
+
+## Charles P. McIlvaine (round 55, my pick, 2026-10-23)
+
+Slugs `mcilvaine-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The evidences of Christianity, in their external division (London, H. Fisher, R. Fisher, & P. Jackson, 1833) | have-ocr | IA `evidencesofchris00mcil` |
+| A charge to the clergy of the Protestant Episcopal Church in the state of Ohio on the preaching of Christ crucified : delivered before the Seventeenth Annual Convention of the Diocese, at Chillicothe, September 5th, 1834 (Gambier, Ohio : Western Protestant Episcopal Press, 1834) | have-ocr | IA `chargetoclergyof00mcil` |
+| The apostolical commission: the sermon at the consecration of the Right Reverand Leonidas Polk, D. D., missionary bishop for Arkansas; in Christ church, Cincinnati, December 9, 1838 (Gambier, O. : G. W. Myers, 1838) | have-ocr | IA `apostolicalcommi00mcil` |
+| Justification by faith: a charge delivered before the clergy of the Protestant Episcopal church in the diocese of Ohio, and at the Twenty-second annual convention of the diocese, in St. Paul's church, Steubenville, September 13, 1839 (Columbus [O.] I. N. Whiting, 1840) | have-ocr | IA `justificationbyf00mcil` |
+| Oxford divinity compared with that of the Romish and Anglican churches : with a special view of the doctrine of justification by faith, as it was made of primary importance by the reformers, and it lies at the foundation of all Scriptural views of the gospel of Our Lord Jesus Christ (Philadelphia : J. Whetham and Son, 1841) | have-ocr | IA `oxforddivinityco00mcil` |
+| The holy catholic church; or, The communion of saints, in the mystical body of Christ: a sermon, preached in the Church of the Epiphany, in the city of Philadelphia, on Sunday, September 6th, 1844 (Philadelphia, H. Hooker, 1844) | have-ocr | IA `holycatholicchur00mcil` |
+| A Word in season to candidates for confirmation (Philadelphia: Daniels & Smith, 1853) | have-ocr | IA `wordinseasontoca00mcil` |
+| The truth and life : twenty-two sermons (New York : R. Carter, 1854) | have-ocr | IA `truthlifetwentyt00mcilrich` |
+| The temple of God; or, The Holy Catholic church and communion of saints, in its nature, structure, and unity (Philadelphia, Protestant Episcopal book society, 1860) | have-ocr | IA `templeofgodorhol00mcil` |
+| Select Family and Parish Sermons (1838, sermons by many authors he selected); the Memoirs of Charles Simeon (Carus's, he only introduced it); the joint Reply of Bishops Meade, McIlvaine and Burgess | excluded | |
