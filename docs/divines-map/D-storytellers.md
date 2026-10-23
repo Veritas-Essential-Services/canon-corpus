@@ -15090,3 +15090,23 @@ Shelf: `pipeline/mary-russell-mitford_shelf.json` (2026-10-22; added at the coor
 | Miss Philly Firkin, The China-Woman | have | PG 22844, `mrmitford-miss-philly-firkin-the-china-woman` (30 units) |
 | The Beauty Of The Village | have | PG 22845, `mrmitford-beauty-of-the-village` (32 units) |
 | The Ground-Ash | have | PG 22846, `mrmitford-ground-ash` (34 units) |
+
+## Aunt Fanny (Frances Elizabeth Barrow)
+
+Shelf: `pipeline/aunt-fanny_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young children. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Apple Dumpling and Other Stories for Young Boys and Girls | have | PG 22740, `auntfanny-apple-dumpling-and-other-stories-for-young-boys-an` (427 units) |
+| Baby Nightcaps | have | PG 28493, `auntfanny-baby-nightcaps` (193 units) |
+| Aunt Fanny's Story-Book for Little Boys and Girls | have | PG 28703, `auntfanny-aunt-fannys-story-book-for-little-boys-and-girls` (690 units) |
+| Little Mittens for The Little Darlings Being the Second Book of the Series | have | PG 28716, `auntfanny-little-mittens-for-the-little-darlings-being-the-s` (296 units) |
+| The Fairy Nightcaps | have | PG 28802, `auntfanny-fairy-nightcaps` (476 units) |
+| The Two Story Mittens and the Little Play Mittens Being the Fourth Book of the Series | have | PG 29811, `auntfanny-two-story-mittens-and-the-little-play-mittens-bein` (722 units) |
+| The Little Nightcap Letters | have | PG 29812, `auntfanny-little-nightcap-letters` (265 units) |
+| The Big Nightcap Letters Being the Fifth Book of the Series | have | PG 29813, `auntfanny-big-nightcap-letters-being-the-fifth-book-of-the-s` (577 units) |
+| The First Little Pet Book with Ten Short Stories in Words of Three and Four Letters | have | PG 31483, `auntfanny-first-little-pet-book-with-ten-short-stories-in-wo` (349 units) |
+| The Third Little Pet Book, with the Tale of Mop and Frisk | have | PG 32513, `auntfanny-third-little-pet-book-with-the-tale-of-mop-and-fri` (226 units) |
+| More Mittens; with The Doll's Wedding and Other Stories Being the third book of the series | have | PG 33191, `auntfanny-more-mittens` (666 units) |
+| The Orphan's Home Mittens, and George's Account of the Battle of Roanoke Island Being the Sixth and Last Book of the Series | have | PG 48608, `auntfanny-orphans-home-mittens-and-georges-account-of-the-ba` (584 units) |
+| Pop-Guns: One Serious and One Funny | have | PG 56120, `auntfanny-pop-guns` (496 units) |

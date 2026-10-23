@@ -1979,3 +1979,6 @@
 
 ## 2026-10-22 22:37 CDT — mary-russell-mitford: done
 - mary-russell-mitford: new shelf, 13 Gutenberg books, 818 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:37 CDT — aunt-fanny: done
+- aunt-fanny: new shelf, 13 Gutenberg books, 5,967 units, 235 ~2 ids; verify 0 mismatches, 0 rights flags.
