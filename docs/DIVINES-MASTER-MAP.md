@@ -17589,6 +17589,22 @@ Slugs `keyser-*`. Built from title pages read for round 115.
 | The problem of origins : Whence came the universe? Whence came life and species? Whence came man? A frank discussion of the doctrines of creation and evolution (New York : Macmillan, 1926) | have-ocr | IA `problemoforigins00keys` |
 | A manual of Christian ethics (Burlington, Iowa : Lutheran Literary Board, 1926) | have-ocr | IA `manualofchristia00keys` |
 | onlywayout00presgoog (by another hand) | excluded | |
+
+## G. B. F. Hallock (round 116, my pick, 2026-10-23)
+
+Slugs `gbfhallock-*`. Built from title pages read for round 116.
+
+| Work | Status | Where |
+|---|---|---|
+| Upward steps (Philadelphia : Westminster Press, 1899) | have-ocr | IA `upwardsteps00hall` |
+| Sermon seeds : outlines and sketches of sermons especially adapted for revival services, but appropriate for ordinary pulpit preparation (Reading, Pa. : Frank J. Boyer, publisher, 1900) | have-ocr | IA `sermonseedsoutli00hall` |
+| Beauty in God's word (Philadelphia : Westminster Press, 1902) | have-ocr | IA `beautyingodsword00hall` |
+| Journeying in the land where Jesus lived (New York : American tract society, 1903) | have-ocr | IA `journeyinginland00hall` |
+| Growing toward God (Boston, New York [etc.] American tract society, 1904) | have-ocr | IA `growingtowardgod00hall` |
+| The teaching of Jesus concerning the Christian life, vol. 7 (New York : American Tract Society, 1906) | have-ocr | IA `teachingofjesusc07hall` |
+| The first hundred years of the brick church in rochester (henry conolly company, 1925) | have-ocr | IA `firsthundredyear0000gbfh` |
+| His cyclopedias of illustrations, sermons and outlines, the Hundred Best Sermons volumes, and Doran's Ministers Manual collect other men's work; left for the many-author ruling | excluded | |
+| American Game Fishes is by other hands | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
