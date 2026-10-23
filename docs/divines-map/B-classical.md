@@ -10496,3 +10496,12 @@ Shelf: `pipeline/agnes-m-clerke_shelf.json`. Familiar Studies in Homer (London: 
 |---|---|---|---|
 | Familiar Studies in Homer (London: Longmans, 1892) |  | `clerke-familiar-studies-homer-1892` | have (PG 65000) |
 
+
+## Charles Sears Baldwin (1867-1935)
+
+Shelf: `pipeline/charles-sears-baldwin_shelf.json`. Ancient Rhetoric and Poetic (1924). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Ancient Rhetoric and Poetic (1924) |  | `baldwin-ancient-rhetoric-poetic-1924` | have (PG 76707) |
+
