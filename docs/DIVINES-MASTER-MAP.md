@@ -10041,6 +10041,19 @@ Slugs `hobart-*`. Built from title pages read for round 40.
 | Other printings of the Companion for the Altar (1830-1857), the Festivals and Fasts (1817-1851), the Apology (1844), the Christian's Manual (1849, 1850); the Letter to the Vestry of Trinity Church (1811) and the Reply on Bible societies (1823); other scans of the Posthumous Works and Correspondence | alternate | not shelved |
 | A Collection of the Essays on Episcopacy (1806), which he edited from the Albany Centinel, mostly by others | excluded | |
 | Instruction and Encouragement for Lent (New York, 1859) [instructionencou00hoba]: by the Rev. J. H. Hobart, D.D., the bishop's son John Henry Hobart (1817-1889), who entered the copyright in 1859; not the bishop's | excluded | |
+
+## Alexander Viets Griswold (round 40, my pick, 2026-10-22)
+
+Slugs `griswold-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Discourses on the most important doctrines and duties of the Christian religion (Philadelphia, W. Stavely, 1830) | have-ocr | IA `discoursesonmost00gris` |
+| Prayers adapted to various occasions of social worship, for which provision is not made in the Book of common prayer (Philadelphia : W. Marshall & co.; Providence, Marshall, Brown & co., 1836) | have-ocr | IA `prayersadaptedto00grisiala` |
+| The reformation: a brief exposition of some of the errors and corruptions of the church of Rome (Boston, J. B. Dow, 1843) | have-ocr | IA `reformationbrief00gris` |
+| Remarks on social prayer-meetings (Boston, Gould and Lincoln; New York, Sheldon, Blakeman & co.; [etc., etc.], 1858) | have-ocr | IA `remarksonsocial00grisgoog` |
+| Other scans of each | alternate | not shelved |
+| Works by Alexander V. G. Allen (Continuity of Christian Thought, Life of Phillips Brooks, and others), which the catalogue files under Griswold's name | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
