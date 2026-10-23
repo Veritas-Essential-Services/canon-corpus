@@ -19087,6 +19087,19 @@ Slugs `rawlinson-*`. Built from title pages read for round 131.
 | Elementary Statics is by another Rawlinson | excluded | |
 | other scans of the same books | excluded | |
 | an undated copy; the 1877 scan is taken instead | excluded | |
+
+## William R. Whittingham (round 131, my pick, 2026-10-23)
+
+Slugs `whittingham-*`. Built from title pages read for round 131.
+
+| Work | Status | Where |
+|---|---|---|
+| The ministry called to self-denial : a sermon preached at the matriculation of students in the General Theological Seminary of the Protestant Episcopal Church in the United States, on the evening of the third Sunday in Advent, Dec. 15, 1839, in St. Peter's Church, New-York (New York : Xylographic Press, 1840) | have-ocr | IA `ministrycalledto00whit` |
+| The voice of the Lord: a sermon, preached in St. John's church, Washington (Washington, W. Morrison, 1841) | have-ocr | IA `voiceoflordsermo00whit` |
+| Mammon-worship. A sermon (Baltimore, 1850) | have-ocr | IA `mammonworshipser00whit` |
+| Correspondence between Bishop Whittingham and others (1852, IA correspondencebe00whit): letters by several writers (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Jahn's Introduction, Jewel's Apology, the Apostolic Fathers, Ratramn, Palmer's Church History, Casaubon and Hill are other men's books he translated or edited | excluded | |
+| the catalogue of his liturgical library is a book list | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
