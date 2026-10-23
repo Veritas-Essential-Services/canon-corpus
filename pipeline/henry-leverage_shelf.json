@@ -1,0 +1,135 @@
+{
+ "_about": "Henry Leverage's writing at Gutenberg: crime and adventure stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Henry Leverage",
+ "_name_words": [
+  "leverage"
+ ],
+ "_surname": [
+  "leverage"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hleverage-whispering-wires": [
+   34046,
+   "Whispering Wires"
+  ],
+  "hleverage-ice-pilot": [
+   35518,
+   "The Ice Pilot"
+  ],
+  "hleverage-hollow-lens": [
+   68847,
+   "The hollow lens"
+  ],
+  "hleverage-assignats": [
+   68918,
+   "Assignats"
+  ],
+  "hleverage-beyond-the-wall": [
+   68930,
+   "Beyond the wall"
+  ],
+  "hleverage-voice-in-the-fog": [
+   68943,
+   "The voice in the fog"
+  ],
+  "hleverage-gray-brotherhood": [
+   68951,
+   "The gray brotherhood"
+  ],
+  "hleverage-crimp": [
+   68975,
+   "The crimp"
+  ],
+  "hleverage-white-cipher": [
+   69204,
+   "The white cipher"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hleverage-whispering-wires": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-ice-pilot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-hollow-lens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-assignats": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-beyond-the-wall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-voice-in-the-fog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-gray-brotherhood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-crimp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hleverage-white-cipher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leverage",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

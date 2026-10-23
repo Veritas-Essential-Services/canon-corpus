@@ -41498,3 +41498,19 @@ Shelf: `pipeline/anne-manning_shelf.json` (2026-10-22; added at the coordinator'
 | The Old Chelsea Bun-House: A Tale of the Last Century | have | PG 51829, `amanning-old-chelsea-bun-house` (1126 units) |
 | Cherry & Violet: A Tale of the Great Plague | have | PG 61080, `amanning-cherry-violet` (778 units) |
 | The Day of Small Things | have | PG 62219, `amanning-day-of-small-things` (1007 units) |
+
+## Henry Leverage
+
+Shelf: `pipeline/henry-leverage_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Crime and adventure stories. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Whispering Wires | have | PG 34046, `hleverage-whispering-wires` (2089 units) |
+| The Ice Pilot | have | PG 35518, `hleverage-ice-pilot` (1679 units) |
+| The hollow lens | have | PG 68847, `hleverage-hollow-lens` (279 units) |
+| Assignats | have | PG 68918, `hleverage-assignats` (254 units) |
+| Beyond the wall | have | PG 68930, `hleverage-beyond-the-wall` (283 units) |
+| The voice in the fog | have | PG 68943, `hleverage-voice-in-the-fog` (174 units) |
+| The gray brotherhood | have | PG 68951, `hleverage-gray-brotherhood` (398 units) |
+| The crimp | have | PG 68975, `hleverage-crimp` (187 units) |
+| The white cipher | have | PG 69204, `hleverage-white-cipher` (1939 units) |

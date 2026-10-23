@@ -2162,3 +2162,6 @@
 
 ## 2026-10-22 22:48 CDT — anne-manning: done
 - anne-manning: new shelf, 9 Gutenberg books, 8,709 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — henry-leverage: done
+- henry-leverage: new shelf, 9 Gutenberg books, 7,282 units, 0 ~2 ids; verify 0 mismatches, 0 rights flags.
