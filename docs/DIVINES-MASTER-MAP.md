@@ -42926,3 +42926,17 @@ Shelf: `pipeline/f-colburn-adams_shelf.json` (2026-10-22; added at the coordinat
 | The Von Toodleburgs; Or, The History of a Very Distinguished Family | have | PG 18549, `fcadams-von-toodleburgs` (983 units) |
 | An Outcast; Or, Virtue and Faith | have | PG 20745, `fcadams-outcast` (1099 units) |
 | "White man bery unsartin": "Nigger haint got no friends, no how"; the blackest chapter in the history of the Republican Party; the men who robbed and combined to rob the freedmen of their hard earnings. | have | PG 63245, `fcadams-white-man-bery-unsartin` (142 units) |
+
+## Lurana Sheldon
+
+Shelf: `pipeline/lurana-sheldon_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| For Gold or Soul? The Story of a Great Department Store | have | PG 11166, `lsheldon-for-gold-or-soul-the-story-of-a-great-department-st` (2136 units) |
+| My Queen: A Weekly Journal for Young Women. Issue 1. September 29, 1900. From Farm to Fortune; or Only a Farmer's Daughter | have | PG 57249, `lsheldon-my-queen` (830 units) |
+| My Queen: A Weekly Journal for Young Women. Issue 2, October 6, 1900 Marion Marlowe's Courage; or, A Brave Girl's Struggle for Life and Honor | have | PG 57274, `lsheldon-my-queen-57274` (890 units) |
+| My Queen: A Weekly Journal for Young Women. Issue 3, October 13, 1900 Marion Marlowe's True Heart; or, How a Daughter Forgave | have | PG 57582, `lsheldon-my-queen-57582` (731 units) |
+| My Queen: A Weekly Journal for Young Women. Issue 4, October 20, 1900 Marion Marlowe's Noble Work; or, The Tragedy at the Hospital | have | PG 58021, `lsheldon-my-queen-58021` (710 units) |
+| My Queen: A Weekly Journal for Young Women. Issue 5, October 27, 1900 Marion Marlowe Entrapped; or, The Victim of Professional Jealousy | have | PG 58022, `lsheldon-my-queen-58022` (688 units) |
+| Death to the Inquisitive! A story of sinful love | have | PG 58387, `lsheldon-death-to-the-inquisitive-a-story-of-sinful-love` (742 units) |
