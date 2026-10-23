@@ -15219,6 +15219,24 @@ Slugs `gunsaulus-*`. Built from title pages read for round 90.
 | Martin Luther and the morning hour in Europe; two lectures delivered at the University of Chicago, October 16 and 17 (Chicago, Ill., The University of Chicago Press, 1917) | have-ocr | IA `martinluthermorn0000guns` |
 | Prayers of Frank W. Gunsaulus (New York, Chicago [etc.] Fleming H. Revell company, 1922) | have-ocr | IA `prayersoffrankwg00guns` |
 | Monk and Knight (a novel), his poems, The Higher Ministries of Recent English Poetry, the Gladstone biography, art-exhibition addresses and catalogues | excluded | |
+
+## Alexander H. Vinton (round 90, my pick, 2026-10-23)
+
+Slugs `vinton-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons (Philadelphia : Herman Hooker, 1855) | have-ocr | IA `sermons00vint` |
+| A farewell sermon preached at St. Paul's Church, Boston, October 3, 1858 (Boston : James B. Dow, Office of the Christian Witness and Church Advocate, 1858) | have-ocr | IA `farewellsermonpr00vint` |
+| The Christian watchman : a sermon, preached in St. Paul's Church, Boston, January 11, 1860, at the institution of the Rev. William R. Nicholson, D.D (Boston : James B. Dow, 1860) | have-ocr | IA `christianwatchma00vint_0` |
+| Thanksgiving sermon / by Alexander H. Vinton ; November 29, 1860 (Protestant Episcopal Book Society, 1860) | have-ocr | IA `thanksgivingserm00vint` |
+| God in government. A sermon: preached on the day of the national fast, January 4, 1861, in the Church of the Holy Trinity, Philadelphia / by Alexander H. Vinton (Philadelphia : Protestant Episcopal Book Society, 1861) | have-ocr | IA `godingovernments00vint` |
+| Man's rule and Christ's reign. A sermon, preached on Thanksgiving Day, November 27th, 1862 (New-York, J. A. Gray, printer, 1862) | have-ocr | IA `mansrulechristsr00vint` |
+| A sermon, preached on the national Thanksgiving day, November 26th, 1863 (New-York, G. F. Nesbitt & co., printers, 1863) | have-ocr | IA `sermonpreachedon00vint` |
+| Cause for thanksgiving : a sermon, preached on the national thanksgiving day, November 24th, 1864 (New-York : John A. Gray & Green, printers, stereotypers, and binders, 1864) | have-ocr | IA `causeforthanksgi00vint` |
+| The duties of peace : the nation's third thanksgiving, a sermon preached in St. Mark's Church in the Bowerie, on December 7, 1865 / by the Rev. Alexander H. Vinton (J.A. Gray & Green, 1865) | have-ocr | IA `dutiesofpeacenat00vint` |
+| Four lectures delivered in the Church of the Holy Trinity, Philadelphia, in the year 1877, on the foundation of the late John Bohlen, esq (New York, T. Whittaker, 1887) | have-ocr | IA `fourlecturesdel00vint` |
+| Addresses (1909), a memorial service shared with William Lawrence | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
