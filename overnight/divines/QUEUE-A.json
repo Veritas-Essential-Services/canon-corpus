@@ -10828,6 +10828,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:46:20-05:00",
       "notes": "4 books, 1880-1898."
+    },
+    {
+      "id": "a-r-a-redford",
+      "status": "done",
+      "scope": "round 132",
+      "added": "2026-10-23T09:46:20-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:46:20-05:00",
+      "notes": "5 books, 1881-1889."
     }
   ]
 }

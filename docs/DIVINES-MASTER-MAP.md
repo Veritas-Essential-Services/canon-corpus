@@ -19267,6 +19267,20 @@ Slugs `lambert-*`. Built from title pages read for round 132.
 | Thesaurus biblicus : or, Hand-book of Scripture reference (Waterloo [Ont.] : Observer Book Pub. Co., 1880) | have-ocr | IA `thesaurusbiblicu00lamb` |
 | the Languedoc songs, the Analysis of the Gospels and Christian Science before the Bar of Reason are by others | excluded | |
 | microform and French copies of Notes on Ingersoll | excluded | |
+
+## R. A. Redford (round 132, my pick, 2026-10-23)
+
+Slugs `redford-*`. Built from title pages read for round 132.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian's plea against modern unbelief : a handbook of Christian evidence (London : Hodder and Stoughton, 1881) | have-ocr | IA `christianspleaag00redf` |
+| Studies in the book of Jonah : a defence and an exposition (London : Hodder and Stoughton, 1883) | have-ocr | IA `studiesinbookofj0000redf` |
+| Four centuries of silence : or, From Malachi to Christ (Cincinnati, Ohio : Cranston and Curts, 1885) | have-ocr | IA `fourcenturiesofs0000redf` |
+| Primer of Christian evidence (Boston, Congregational Sunday school and publishing society, 1885) | have-ocr | IA `primerofchristia00redf_0` |
+| Vox Die; the doctrine of the Spirit (Cincinnati, Curts and Jennings, 1889) | have-ocr | IA `voxdiedoctrineof00redf` |
+| Christendom from the Standpoint of Italy is a conference report | excluded | |
+| another scan of Vox Dei | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

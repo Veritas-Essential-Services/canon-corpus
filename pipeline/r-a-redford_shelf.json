@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Robert Ainslie Redford, English minister and writer on Christian evidences, for the Word Hoard: The Christian's Plea against Modern Unbelief, Studies in the Book of Jonah, Four Centuries of Silence, Primer of Christian Evidence, and Vox Dei. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 132 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robert ainslie redford",
+  "r. a. redford",
+  "redford"
+ ],
+ "_surname": [
+  "redford"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "redford-christians-plea": [
+   "christianspleaag00redf",
+   "The Christian's plea against modern unbelief : a handbook of Christian evidence (London : Hodder and Stoughton, 1881)"
+  ],
+  "redford-jonah": [
+   "studiesinbookofj0000redf",
+   "Studies in the book of Jonah : a defence and an exposition (London : Hodder and Stoughton, 1883)"
+  ],
+  "redford-four-centuries": [
+   "fourcenturiesofs0000redf",
+   "Four centuries of silence : or, From Malachi to Christ (Cincinnati, Ohio : Cranston and Curts, 1885)"
+  ],
+  "redford-primer": [
+   "primerofchristia00redf_0",
+   "Primer of Christian evidence (Boston, Congregational Sunday school and publishing society, 1885)"
+  ],
+  "redford-vox-dei": [
+   "voxdiedoctrineof00redf",
+   "Vox Die; the doctrine of the Spirit (Cincinnati, Curts and Jennings, 1889)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "redford-conference": "Christendom from the Standpoint of Italy is a conference report",
+  "redford-dups": "another scan of Vox Dei"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "redford-christians-plea": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "redford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "redford-jonah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "redford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "redford-four-centuries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "redford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "redford-primer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "redford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "redford-vox-dei": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "redford",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
