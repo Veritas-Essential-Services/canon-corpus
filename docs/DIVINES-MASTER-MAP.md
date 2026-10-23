@@ -15860,6 +15860,32 @@ Slugs `lidgett-*`. Built from title pages read for round 96.
 | God in Christ Jesus (catalogued 1915) | have-ocr | IA `godinchristjesus0000jsco` |
 | Methodism in the modern world (London, The Epworth Press [etc.], 1929) | have-ocr | IA `methodisminmoder0000lidg` |
 | Towards Reunion (1919, many authors) | excluded | |
+
+## Henry Codman Potter (round 97, my pick, 2026-10-23)
+
+Slugs `hcpotter-*`. Built from title pages read for round 97.
+
+| Work | Status | Where |
+|---|---|---|
+| Sisterhoods and deaconesses at home and abroad (New York, E.P. Dutton & company, 1873) | have-ocr | IA `sisterhoodsdeaco00pott` |
+| The choked life (New York, E. P. Dutton and company, 1873) | have-ocr | IA `chokedlife00pott` |
+| Sermons of the city (London : Wells Gardner, Darton, 1880) | have-ocr | IA `sermonsofcity0000pott` |
+| A nation in its sorrow: two sermons preached in Grace church, New York (New York, T. Whittaker, 1881) | have-ocr | IA `nationinitssorro00pott` |
+| The Dignity of Man: Select Sermons (A.C. McClurg, 1889) | have-ocr | IA `dignitymanselec00pottgoog` |
+| Bishop Potter's address (New York, Civil service reform association, 1889) | have-ocr | IA `bishoppottersadd00pott` |
+| Columbia college commencement, 1889. Baccalaureate sermon preached in St. Thomas' church, Whit-Sunday, June 9, 1889 ([New York, 1889) | have-ocr | IA `columbiacollegec00pottrich` |
+| A sermon delivered in Christ Church, Hartford, Sunday evening, June 21, 1891 before the students and authorities of Trinity College (hartford, Conn., Press of The Case, Lockwood [and] Brainard, 1891) | have-ocr | IA `sermondeliveredi00pott` |
+| Waymarks, 1870-1891; being discourses, with some account of their occasions (New York, E.P. Dutton and company, 1892) | have-ocr | IA `waymarks1870189100pott` |
+| The scholar and the state, and other orations and addresses (New York : Century co., 1897) | have-ocr | IA `scholarstateothe00pott` |
+| Addresses to women engaged in church work (New York, E.P. Dutton & company, 1898) | have-ocr | IA `addressestowomen00pott` |
+| The offices of warden and vestryman / by the Right Rev. Henry C. Potter, D.D., Bishop of New York. Triennial charge delivered to the clergy and laity of the Diocese of New York, Sept. 24, 1890. Printed by order of the Convention, Third Edition (James Pott & Co., 1899) | have-ocr | IA `officesofwardenv00pott` |
+| The citizen in his relation to the industrial situation; Yale lectures (New York, C. Scribner's sons, 1902) | have-ocr | IA `citizeninhisrela00pottrich` |
+| The east of to day and to-morrow (the century co., 1902) | have-ocr | IA `eastoftodaytomor0000henr` |
+| Man: men and their Master; delivered at Gambier, Ohio, November, 1901 (New York : E. S. Gorham, 1902) | have-ocr | IA `manmentheirmaste00pott` |
+| The Gates of the East (travel book, not theology) | excluded | |
+| Principles of Religious Education (lectures by several hands, with his introduction) | excluded | |
+| The Bible for Children (a compilation with his introduction) | excluded | |
+| faithbywhichwest00tuni: The Faith by which we Stand is John Tunis's sermons; Potter wrote only the introduction | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

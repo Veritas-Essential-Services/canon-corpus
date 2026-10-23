@@ -9010,6 +9010,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T06:27:23-05:00",
       "notes": "Wesleyan theologian; books printed 1897-1929 only."
+    },
+    {
+      "id": "henry-codman-potter",
+      "status": "done",
+      "scope": "round 97",
+      "added": "2026-10-23T06:33:59-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T06:33:59-05:00",
+      "notes": "Episcopal Bishop of New York; sermons and addresses 1873-1902. Tunis's Faith by which we Stand dropped (Potter wrote only its introduction)."
     }
   ]
 }
