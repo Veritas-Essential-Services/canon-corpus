@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: one-off English translations of nineteenth-century continental fiction: the German novel and novella of the 1870s-90s (Auerbach, Heyse, Spielhagen, E. Werner, Ossip Schubin, Franzos, Heimburg, Dahn, Reuter, Hausrath, Kohn, Gerstäcker, Sudermann's The Wish, Keller's Seven Legends, Thomas Mann's Royal Highness, 1916), Jókai by translators other than Bain, Bjørnson's Arne and In God's Way, Ingemann, Kraszewski, Couperus, Van Eeden's The Quest, De Coster's Ulenspiegel (Whitworth) and Flemish Legends, Blasco Ibáñez, Turgenev's Annouchka, Hugo's Toilers of the Sea (W. Moy Thomas), Dumas's Prussian Terror (R. S. Garnett), Paul de Kock, Laclos's Dangerous Connections (1812), Gourmont (Aldous Huxley's A Virgin Heart, 1921), Leblanc, Aimard, Pardo Bazán, Trueba, Guerrazzi, Strindberg's On the Seaboard, Cyrano de Bergerac's Voyage to the Moon (Lovell, 1687) and Tyssot de Patot's James Massey (Whatley, 1733). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 42); Adam may veto. No uids minted. Round 122 (2026-10-23, vetoable) added René Bazin four times (The Coming Harvest, Hoyt 1908; The Barrier, Frost 1910; The Penitent, Capes 1912; Gentle France, Dougherty 1913), Georges Ohnet twice (The Double Wrong, J. C. Curtin 1889; A Debt of Hatred, E. P. Robins 1891) and André Theuriet twice (Rustic Life in France, Helen B. Dole 1896; A Mistress of Many Moods, Charlotte Boardman Rogers 1900).",
+ "_about": "SINGLE-TRANSLATION SHELF: one-off English translations of nineteenth-century continental fiction: the German novel and novella of the 1870s-90s (Auerbach, Heyse, Spielhagen, E. Werner, Ossip Schubin, Franzos, Heimburg, Dahn, Reuter, Hausrath, Kohn, Gerstäcker, Sudermann's The Wish, Keller's Seven Legends, Thomas Mann's Royal Highness, 1916), Jókai by translators other than Bain, Bjørnson's Arne and In God's Way, Ingemann, Kraszewski, Couperus, Van Eeden's The Quest, De Coster's Ulenspiegel (Whitworth) and Flemish Legends, Blasco Ibáñez, Turgenev's Annouchka, Hugo's Toilers of the Sea (W. Moy Thomas), Dumas's Prussian Terror (R. S. Garnett), Paul de Kock, Laclos's Dangerous Connections (1812), Gourmont (Aldous Huxley's A Virgin Heart, 1921), Leblanc, Aimard, Pardo Bazán, Trueba, Guerrazzi, Strindberg's On the Seaboard, Cyrano de Bergerac's Voyage to the Moon (Lovell, 1687) and Tyssot de Patot's James Massey (Whatley, 1733). Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 42); Adam may veto. No uids minted. Round 122 (2026-10-23, vetoable) added René Bazin four times (The Coming Harvest, Hoyt 1908; The Barrier, Frost 1910; The Penitent, Capes 1912; Gentle France, Dougherty 1913), Georges Ohnet twice (The Double Wrong, J. C. Curtin 1889; A Debt of Hatred, E. P. Robins 1891) and André Theuriet twice (Rustic Life in France, Helen B. Dole 1896; A Mistress of Many Moods, Charlotte Boardman Rogers 1900). Round 123 (2026-10-23, vetoable) added Cherbuliez's Miss Rovel (Frances A. Shaw, 1875), Marcel Prévost twice (Benoît Castain, Arthur C. Richmond 1916; Simply Women, R. I. Brandon-Vauvillez 1910), Alphonse Karr's A Tour Round My Garden (J. G. Wood, 1856), Édouard Rod twice (Pastor Naudié's Young Wife, Bradley Gilman 1899; The Sacrifice of Silence, John W. Harding 1899), Maurice Barrès twice (The Undying Spirit of France, Margaret W. B. Corwin 1917; The Faith of France, Elisabeth Marbury 1918) and Halévy's A Love Match (H. de Veer and V. Foster, 1889).",
  "_name_words": [
   "a. cecil curtis",
   "aldous huxley",
@@ -87,7 +87,17 @@
   "j. c. curtin",
   "e. p. robins",
   "helen b. dole",
-  "charlotte boardman rogers"
+  "charlotte boardman rogers",
+  "frances a. shaw",
+  "arthur c. richmond",
+  "brandon-vauvillez",
+  "brandon-vauv1llez",
+  "j. g. wood",
+  "bradley gilman",
+  "john w. harding",
+  "margaret w. b. corwin",
+  "elisabeth marbury",
+  "de veer"
  ],
  "_surname": [
   "a. cecil curtis",
@@ -176,7 +186,17 @@
   "j. c. curtin",
   "e. p. robins",
   "helen b. dole",
-  "charlotte boardman rogers"
+  "charlotte boardman rogers",
+  "frances a. shaw",
+  "arthur c. richmond",
+  "brandon-vauvillez",
+  "brandon-vauv1llez",
+  "j. g. wood",
+  "bradley gilman",
+  "john w. harding",
+  "margaret w. b. corwin",
+  "elisabeth marbury",
+  "de veer"
  ],
  "_surname_by_slug": {
   "scf-32338": [
@@ -470,6 +490,34 @@
   ],
   "scf-theuriet-mistress-of-many-moods": [
    "charlotte boardman rogers"
+  ],
+  "scf-cherbuliez-miss-rovel": [
+   "frances a. shaw"
+  ],
+  "scf-prevost-benoit-castain": [
+   "arthur c. richmond"
+  ],
+  "scf-prevost-simply-women": [
+   "brandon-vauvillez",
+   "brandon-vauv1llez"
+  ],
+  "scf-karr-tour-round-my-garden": [
+   "j. g. wood"
+  ],
+  "scf-rod-pastor-naudie": [
+   "bradley gilman"
+  ],
+  "scf-rod-sacrifice-of-silence": [
+   "john w. harding"
+  ],
+  "scf-barres-undying-spirit-of-france": [
+   "margaret w. b. corwin"
+  ],
+  "scf-barres-faith-of-france": [
+   "elisabeth marbury"
+  ],
+  "scf-halevy-love-match": [
+   "de veer"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -764,6 +812,42 @@
   "scf-theuriet-mistress-of-many-moods": [
    "amistressmanymo00rogegoog",
    "A Mistress of Many Moods (1900)"
+  ],
+  "scf-cherbuliez-miss-rovel": [
+   "missrovel00cher",
+   "Miss Rovel (1875)"
+  ],
+  "scf-prevost-benoit-castain": [
+   "benoitcastain00previala",
+   "Benoît Castain (1916)"
+  ],
+  "scf-prevost-simply-women": [
+   "simplywomenselec00previala",
+   "Simply Women (1910)"
+  ],
+  "scf-karr-tour-round-my-garden": [
+   "tourroundmygarde00karruoft",
+   "A Tour Round My Garden (1856)"
+  ],
+  "scf-rod-pastor-naudie": [
+   "pastornaudisyo00rode",
+   "Pastor Naudié's Young Wife (1899)"
+  ],
+  "scf-rod-sacrifice-of-silence": [
+   "sacrificeofsilen00rode",
+   "The Sacrifice of Silence (1899)"
+  ],
+  "scf-barres-undying-spirit-of-france": [
+   "undyingspiritoff00barriala",
+   "The Undying Spirit of France (1917)"
+  ],
+  "scf-barres-faith-of-france": [
+   "faithfrancestud00marbgoog",
+   "The Faith of France (1918)"
+  ],
+  "scf-halevy-love-match": [
+   "lovematch00hale",
+   "A Love Match (1889)"
   ]
  },
  "titles": {
@@ -1345,6 +1429,78 @@
    "translated": 1900,
    "translator": "Charlotte Boardman Rogers",
    "scan_edition": "The Abbey Press, New York, copyright 1900 (second edition); Google scan"
+  },
+  "singles-continental-fiction-cherbuliez-miss-rovel": {
+   "source": "scf-cherbuliez-miss-rovel",
+   "of": "Victor Cherbuliez",
+   "work": "Miss Rovel",
+   "translated": 1875,
+   "translator": "Frances A. Shaw",
+   "scan_edition": "Estes & Lauriat, Boston 1875; archive.org scan"
+  },
+  "singles-continental-fiction-prevost-benoit-castain": {
+   "source": "scf-prevost-benoit-castain",
+   "of": "Marcel Prévost",
+   "work": "Benoît Castain",
+   "translated": 1916,
+   "translator": "Arthur C. Richmond",
+   "scan_edition": "Macmillan, London 1916; UCLA scan"
+  },
+  "singles-continental-fiction-prevost-simply-women": {
+   "source": "scf-prevost-simply-women",
+   "of": "Marcel Prévost",
+   "work": "Simply Women: selections from the works of Marcel Prévost",
+   "translated": 1910,
+   "translator": "R. I. Brandon-Vauvillez",
+   "scan_edition": "The Macaulay Company, New York 1910; UCLA scan"
+  },
+  "singles-continental-fiction-karr-tour-round-my-garden": {
+   "source": "scf-karr-tour-round-my-garden",
+   "of": "Alphonse Karr",
+   "work": "A Tour Round My Garden",
+   "translated": 1856,
+   "translator": "J. G. Wood",
+   "scan_edition": "George Routledge, London 1856; University of Toronto scan"
+  },
+  "singles-continental-fiction-rod-pastor-naudie": {
+   "source": "scf-rod-pastor-naudie",
+   "of": "Édouard Rod",
+   "work": "Pastor Naudié's Young Wife (Le ménage du pasteur Naudié)",
+   "translated": 1899,
+   "translator": "Bradley Gilman",
+   "scan_edition": "Little, Brown, and Company, Boston 1899; archive.org scan"
+  },
+  "singles-continental-fiction-rod-sacrifice-of-silence": {
+   "source": "scf-rod-sacrifice-of-silence",
+   "of": "Édouard Rod",
+   "work": "The Sacrifice of Silence (Le silence)",
+   "translated": 1899,
+   "translator": "John W. Harding",
+   "scan_edition": "G. W. Dillingham Co., New York 1899; archive.org scan"
+  },
+  "singles-continental-fiction-barres-undying-spirit-of-france": {
+   "source": "scf-barres-undying-spirit-of-france",
+   "of": "Maurice Barrès",
+   "work": "The Undying Spirit of France (Les traits éternels de la France)",
+   "translated": 1917,
+   "translator": "Margaret W. B. Corwin",
+   "scan_edition": "Yale University Press, New Haven 1917; UCLA scan"
+  },
+  "singles-continental-fiction-barres-faith-of-france": {
+   "source": "scf-barres-faith-of-france",
+   "of": "Maurice Barrès",
+   "work": "The Faith of France: Studies in Spiritual Differences and Unity",
+   "translated": 1918,
+   "translator": "Elisabeth Marbury",
+   "scan_edition": "Houghton Mifflin, Boston, copyright 1918; Google scan"
+  },
+  "singles-continental-fiction-halevy-love-match": {
+   "source": "scf-halevy-love-match",
+   "of": "Ludovic Halévy",
+   "work": "A Love Match",
+   "translated": 1889,
+   "translator": "H. de Veer and V. Foster",
+   "scan_edition": "J. Delay, New York 1889; archive.org scan"
   }
  },
  "_pending": {},
@@ -2014,6 +2170,105 @@
    "ia_date": "1900",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "scf-cherbuliez-miss-rovel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances a. shaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "scf-prevost-benoit-castain": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur c. richmond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-prevost-simply-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "brandon-vauv1llez",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-karr-tour-round-my-garden": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. g. wood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-rod-pastor-naudie": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bradley gilman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-rod-sacrifice-of-silence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john w. harding",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-barres-undying-spirit-of-france": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret w. b. corwin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-barres-faith-of-france": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elisabeth marbury",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "scf-halevy-love-match": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de veer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -2401,6 +2656,98 @@
    "translator_named_in_first_30k": true,
    "years_in_front_15k": [
     1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-cherbuliez-miss-rovel": {
+   "ia": "missrovel00cher",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-prevost-benoit-castain": {
+   "ia": "benoitcastain00previala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-prevost-simply-women": {
+   "ia": "simplywomenselec00previala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1910
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-karr-tour-round-my-garden": {
+   "ia": "tourroundmygarde00karruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": [
+    1993
+   ],
+   "post_1930_examined": "Examined in round 123: 1993 is a library date stamp near the head of the scan; the title page reads George Routledge, London, 1856."
+  },
+  "scf-rod-pastor-naudie": {
+   "ia": "pastornaudisyo00rode",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1857,
+    1879,
+    1885,
+    1898,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-rod-sacrifice-of-silence": {
+   "ia": "sacrificeofsilen00rode",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880,
+    1884,
+    1887,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-barres-undying-spirit-of-france": {
+   "ia": "undyingspiritoff00barriala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1862,
+    1870,
+    1871,
+    1899,
+    1914,
+    1915,
+    1916,
+    1917,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-barres-faith-of-france": {
+   "ia": "faithfrancestud00marbgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "scf-halevy-love-match": {
+   "ia": "lovematch00hale",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869,
+    1876,
+    1878,
+    1879,
+    1881,
+    1889
    ],
    "post_1930_years_in_front_15k": []
   }
