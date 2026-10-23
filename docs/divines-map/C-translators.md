@@ -1979,7 +1979,7 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Eden and Cedar Paul (Zweig, Rolland, Schnitzler, Emil Ludwig)
 
 Shelf: `pipeline/eden-cedar-paul_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eden-cedar-paul` · titles `python3 pipeline/split_shelf_titles.py eden-cedar-paul`.
-Round 24 (2026-10-10), vetoable. Sexology titles left out by judgment. Not converted to unit-id JSON; **no uids minted**.
+Round 24 (2026-10-10), vetoable. Sexology titles left out by judgment. Round 132 added fifteen archive.org books Gutenberg lacks (Ludwig x3, Masaryk x2, Michels, Loria, Baudouin x2 and others). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -1993,6 +1993,21 @@ Round 24 (2026-10-10), vetoable. Sexology titles left out by judgment. Not conve
 | `eden-cedar-paul-schnitzler-casanova-s-homecoming` | Arthur Schnitzler | Casanova's Homecoming | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 9310 |
 | `eden-cedar-paul-zweig-jeremiah-a-drama-in-nine-scenes` | Stefan Zweig | Jeremiah: A Drama in Nine Scenes | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 39402 |
 | `eden-cedar-paul-zweig-romain-rolland-the-man-and-his-work` | Stefan Zweig | Romain Rolland: The Man and His Work | Eden and Cedar Paul | 1915-1929 (see the Gutenberg header) | have | PG 34888 |
+| `eden-cedar-paul-ludwig-bismarck` | Emil Ludwig | Bismarck: The Story of a Fighter | Eden and Cedar Paul | 1927 | have-raw | IA `bismarckstoryoff00ludw` |
+| `eden-cedar-paul-ludwig-the-son-of-man` | Emil Ludwig | The Son of Man: The Story of Jesus | Eden and Cedar Paul | 1928 | have-raw | IA `sonofmanstoryofj00ludw` |
+| `eden-cedar-paul-ludwig-on-mediterranean-shores` | Emil Ludwig | On Mediterranean Shores | Eden and Cedar Paul | 1929 | have-raw | IA `dli.ernet.527884` |
+| `eden-cedar-paul-masaryk-the-spirit-of-russia-vol-1` | Thomas Garrigue Masaryk | The Spirit of Russia: Studies in History, Literature and Philosophy, vol. 1 of 2 | Eden and Cedar Paul | 1919 | have-raw | IA `dli.ministry.06464` |
+| `eden-cedar-paul-masaryk-the-spirit-of-russia-vol-2` | Thomas Garrigue Masaryk | The Spirit of Russia: Studies in History, Literature and Philosophy, vol. 2 of 2 | Eden and Cedar Paul | 1919 | have-raw | IA `india.history.resource.111290` |
+| `eden-cedar-paul-michels-political-parties` | Robert Michels | Political Parties: A Sociological Study of the Oligarchical Tendencies of Modern Democracy | Eden and Cedar Paul | 1915 | have-raw | IA `politicalparties00mich` |
+| `eden-cedar-paul-loria-the-economic-synthesis` | Achille Loria | The Economic Synthesis: A Study of the Laws of Income | Eden Paul | 1914 | have-raw | IA `economicsynthesi00loriuoft` |
+| `eden-cedar-paul-ribbert-heredity-disease-and-human-evolution` | Hugo Ribbert | Heredity, Disease and Human Evolution | Eden and Cedar Paul | 1918 | have-raw | IA `hereditydiseaseh00ribbrich` |
+| `eden-cedar-paul-baudouin-suggestion-and-autosuggestion` | Charles Baudouin | Suggestion and Autosuggestion | Eden and Cedar Paul | 1920 | have-raw | IA `suggestionautosu00baud` |
+| `eden-cedar-paul-baudouin-studies-in-psychoanalysis` | Charles Baudouin | Studies in Psychoanalysis | Eden and Cedar Paul | 1922 | have-raw | IA `studiesinpsychoa00baud` |
+| `eden-cedar-paul-rathenau-in-days-to-come` | Walther Rathenau | In Days to Come | Eden and Cedar Paul | 1921 | have-raw | IA `indaystocome00rathiala` |
+| `eden-cedar-paul-kolnai-psychoanalysis-and-sociology` | Aurel Kolnai | Psychoanalysis and Sociology | Eden and Cedar Paul | 1922 | have-raw | IA `psychoanalysisso00koln` |
+| `eden-cedar-paul-vaerting-the-dominant-sex` | Mathilde and Mathias Vaerting | The Dominant Sex: A Study in the Sociology of Sex Differentiation | Eden and Cedar Paul | 1923 | have-raw | IA `dli.ministry.12051` |
+| `eden-cedar-paul-luxemburg-letters-from-prison` | Rosa Luxemburg | Letters from Prison | Eden and Cedar Paul | 1923 | have-raw | IA `lettersfrompriso00luxe` |
+| `eden-cedar-paul-stalin-leninism` | Joseph Stalin | Leninism | Eden and Cedar Paul | 1928 | have-raw | IA `in.ernet.dli.2015.217846` |
 | — | — | sexology: Left out by lane C's judgment, not for rights: A Young Girl's Diary (752), Moll's The Sexual Life of the Child (28402), Bloch's The Sexual Life of Our Time (60968) and Kisch's The Sexual Life of Woman (63274), medical and psychoanalytic works of the 1910s-20s. Adam can ask for them. | — | — | excluded | — |
 
 ## T. Bailey Saunders (Schopenhauer's essays; Goethe's Maxims)
