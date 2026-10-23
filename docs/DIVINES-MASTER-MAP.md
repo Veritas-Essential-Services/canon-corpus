@@ -43657,3 +43657,16 @@ Shelf: `pipeline/alfred-ollivant_shelf.json` (2026-10-22; added at the coordinat
 | Redcoat Captain: A Story of That Country | have | PG 54575, `aollivant-redcoat-captain` (1369 units) |
 | Two Men: A Romance of Sussex | have | PG 57640, `aollivant-two-men` (3939 units) |
 | One Woman: Being the Second Part of a Romance of Sussex | have | PG 57641, `aollivant-one-woman` (3572 units) |
+
+## Cleveland Moffett
+
+Shelf: `pipeline/cleveland-moffett_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Conquest of America: A Romance of Disaster and Victory, U.S.A., 1921 A.D. | have | PG 8684, `cmoffett-conquest-of-america` (1339 units) |
+| Through the Wall | have | PG 11373, `cmoffett-through-the-wall` (3747 units) |
+| Possessed | have | PG 22152, `cmoffett-possessed` (1611 units) |
+| Careers of Danger and Daring | have | PG 33146, `cmoffett-careers-of-danger-and-daring` (1421 units) |
+| True Detective Stories from the Archives of the Pinkertons | have | PG 33922, `cmoffett-true-detective-stories-from-the-archives-of-the-pin` (354 units) |
+| The Bishop's purse | have | PG 73472, `cmoffett-bishops-purse` (2716 units) |

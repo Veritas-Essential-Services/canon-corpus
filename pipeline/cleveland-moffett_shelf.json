@@ -1,0 +1,98 @@
+{
+ "_about": "Cleveland Moffett: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Cleveland Moffett",
+ "_name_words": [
+  "cleveland",
+  "moffett"
+ ],
+ "_surname": [
+  "cleveland moffett",
+  "moffett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cmoffett-conquest-of-america": [
+   8684,
+   "The Conquest of America: A Romance of Disaster and Victory, U.S.A., 1921 A.D."
+  ],
+  "cmoffett-through-the-wall": [
+   11373,
+   "Through the Wall"
+  ],
+  "cmoffett-possessed": [
+   22152,
+   "Possessed"
+  ],
+  "cmoffett-careers-of-danger-and-daring": [
+   33146,
+   "Careers of Danger and Daring"
+  ],
+  "cmoffett-true-detective-stories-from-the-archives-of-the-pin": [
+   33922,
+   "True Detective Stories from the Archives of the Pinkertons"
+  ],
+  "cmoffett-bishops-purse": [
+   73472,
+   "The Bishop's purse"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "cmoffett-conquest-of-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleveland moffett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmoffett-through-the-wall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleveland moffett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmoffett-possessed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleveland moffett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmoffett-careers-of-danger-and-daring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleveland moffett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmoffett-true-detective-stories-from-the-archives-of-the-pin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleveland moffett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmoffett-bishops-purse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cleveland moffett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
