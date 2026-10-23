@@ -18643,3 +18643,15 @@ Shelf: `pipeline/frances-little_shelf.json` (2026-10-22; added at the coordinato
 | The Lady and Sada San A Sequel to the Lady of the Decoration | have | PG 12240, `flittle-lady-and-sada-san-a-sequel-to-the-lady-of-the-decora` (522 units) |
 | The House of the Misty Star A Romance of Youth and Hope and Love in Old Japan | have | PG 17108, `flittle-house-of-the-misty-star-a-romance-of-youth-and-hope` (1085 units) |
 | Mr. Bamboo and the Honorable Little God A Christmas Story | have | PG 17387, `flittle-mr-bamboo-and-the-honorable-little-god-a-christmas-s` (31 units) |
+
+## Ottilie A. Liljencrantz
+
+Shelf: `pipeline/ottilie-a-liljencrantz_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Ward of King Canute: A Romance of the Danish Conquest | have | PG 3323, `oaliljencrantz-ward-of-king-canute` (1526 units) |
+| The Thrall of Leif the Lucky: A Story of Viking Days | have | PG 4581, `oaliljencrantz-thrall-of-leif-the-lucky` (1756 units) |
+| The Vinland Champions | have | PG 41098, `oaliljencrantz-vinland-champions` (1034 units) |
+| A Viking's love: and other tales of the North | have | PG 69907, `oaliljencrantz-vikings-love` (391 units) |
+| Randvar the songsmith | have | PG 70472, `oaliljencrantz-randvar-the-songsmith` (1506 units) |
