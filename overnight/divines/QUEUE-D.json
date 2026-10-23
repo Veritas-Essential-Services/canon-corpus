@@ -4669,6 +4669,14 @@
       "started": "2026-10-22T22:40:07-05:00",
       "finished": "2026-10-22T22:40:07-05:00",
       "notes": "mary-cholmondeley: new shelf, 11 Gutenberg books, 16,883 units, 936 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "hezekiah-butterworth",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Hezekiah Butterworth; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:40:08-05:00",
+      "finished": "2026-10-22T22:40:08-05:00",
+      "notes": "hezekiah-butterworth: new shelf, 11 Gutenberg books, 19,439 units, 533 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -2042,3 +2042,6 @@
 
 ## 2026-10-22 22:40 CDT — mary-cholmondeley: done
 - mary-cholmondeley: new shelf, 11 Gutenberg books, 16,883 units, 936 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:40 CDT — hezekiah-butterworth: done
+- hezekiah-butterworth: new shelf, 11 Gutenberg books, 19,439 units, 533 ~2 ids; verify 0 mismatches, 0 rights flags.

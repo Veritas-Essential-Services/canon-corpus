@@ -15475,3 +15475,21 @@ Shelf: `pipeline/mary-cholmondeley_shelf.json` (2026-10-22; added at the coordin
 | A Devotee: An Episode in the Life of a Butterfly | have | PG 40408, `mcholmondeley-devotee` (762 units) |
 | Moth and Rust; Together with Geoffrey's Wife and The Pitfall | have | PG 40566, `mcholmondeley-moth-and-rust` (1399 units) |
 | The Romance of His Life, and Other Romances | have | PG 40947, `mcholmondeley-romance-of-his-life-and-other-romances` (1486 units) |
+
+## Hezekiah Butterworth
+
+Shelf: `pipeline/hezekiah-butterworth_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories and histories for young readers. Every English text under the name at Gutenberg that no other shelf holds (11 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Log School-House on the Columbia | have | PG 14881, `hbutterworth-log-school-house-on-the-columbia` (1251 units) |
+| Little Sky-High; Or, The Surprising Doings of Washee-Washee-Wang | have | PG 17616, `hbutterworth-little-sky-high` (613 units) |
+| The Story of the Hymns and Tunes | have | PG 18444, `hbutterworth-story-of-the-hymns-and-tunes` (2932 units) |
+| In The Boyhood of Lincoln A Tale of the Tunker Schoolmaster and the Times of Black Hawk | have | PG 25672, `hbutterworth-in-the-boyhood-of-lincoln-a-tale-of-the-tunker` (1916 units) |
+| True to His Home: A Tale of the Boyhood of Franklin | have | PG 26442, `hbutterworth-true-to-his-home` (2244 units) |
+| Zigzag Journeys in Northern Lands; The Rhine to the Arctic; A Summer Trip of the Zigzag Club Through Holland, Germany, Denmark, Norway, and Sweden | have | PG 28915, `hbutterworth-zigzag-journeys-in-northern-lands` (2108 units) |
+| Zigzag Journeys in Europe: Vacation Rambles in Historic Lands | have | PG 33319, `hbutterworth-zigzag-journeys-in-europe` (2030 units) |
+| The Story of Magellan and The Discovery of the Philippines | have | PG 37814, `hbutterworth-story-of-magellan-and-the-discovery-of-the-phil` (1375 units) |
+| Zigzag Journeys in the White City. With Visits to the Neighboring Metropolis | have | PG 57637, `hbutterworth-zigzag-journeys-in-the-white-city-with-visits-t` (1927 units) |
+| Brother Jonathan | have | PG 64126, `hbutterworth-brother-jonathan` (2091 units) |
+| Little Metacomet | have | PG 75556, `hbutterworth-little-metacomet` (952 units) |
