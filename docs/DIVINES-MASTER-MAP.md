@@ -12128,6 +12128,20 @@ Slugs `cowles-*`. Built from title pages read for round 57.
 | Acts of the Apostles : with notes, critical, explanatory, and practical, designed for both pastors and people (N. Y. : D. Appleton, 1883) | have-ocr | IA `actsofapostleswi00cowl` |
 | His Matthew and Mark, Luke, and Hebrews volumes: not found on Internet Archive in round 57 | pending | not shelved |
 | Manuscript letters; Henry Cowles of other dates | excluded | |
+
+## James H. Fairchild (round 57, my pick, 2026-10-23)
+
+Slugs `fairchild-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| Oberlin, its origin, progress and results: an address, prepared for the alumni of Oberlin College, assembled August 22, 1860 (Oberlin : Shankland and Harmon, 1860) | have-ocr | IA `originoberlin00fairrich` |
+| Coeducation of the sexes : an address before a meeting of college presidents at Springfield, Ill ([S.l. : s.n.], 1867) | have-ocr | IA `coeducationofsex00fair` |
+| Present demand of the missionary work : a sermon preached at the sixty-eighth annual meeting of the American Board of Commissioners for Foreign Missions, Providence, Oct. 2, 1877 (Beacon Press, 1877) | have-ocr | IA `presentdemandofm00fair` |
+| Oberlin: the colony and the college, 1833-1883 (Oberlin E.J. Goodrich, 1883) | have-ocr | IA `oberlincolonycol00fairuoft` |
+| Moral science; or, The philosophy of obligation (New York, Sheldon & company, 1892) | have-ocr | IA `moralscienceorp01fairgoog` |
+| Elements of theology, natural and revealed (Oberlin, Ohio : E. J. Goodrich, 1892) | have-ocr | IA `elementsoftheolo00fair` |
+| Finney's Systematic Theology (1878), which he edited (Finney's book, held on the charles-finney shelf); Reminiscences of Finney (several speakers); Woman's Right to the Ballot (political); books by Charles S. Fairchild and others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
