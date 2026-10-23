@@ -6221,6 +6221,14 @@
       "started": "2026-10-22T23:20:35-05:00",
       "finished": "2026-10-22T23:20:35-05:00",
       "notes": "herbert-quick: new shelf, 5 Gutenberg books, 7,675 units, 33 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "margaret-horton-potter",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Margaret Horton Potter; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:36-05:00",
+      "finished": "2026-10-22T23:20:36-05:00",
+      "notes": "margaret-horton-potter: new shelf, 5 Gutenberg books, 9,528 units, 42 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -1,0 +1,86 @@
+{
+ "_about": "Margaret Horton Potter: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Margaret Horton Potter",
+ "_name_words": [
+  "horton",
+  "margaret",
+  "potter"
+ ],
+ "_surname": [
+  "margaret horton potter",
+  "potter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mhpotter-genius": [
+   22004,
+   "The Genius"
+  ],
+  "mhpotter-istar-of-babylon": [
+   38710,
+   "Istar of Babylon: A Phantasy"
+  ],
+  "mhpotter-castle-of-twilight": [
+   62669,
+   "The Castle of Twilight"
+  ],
+  "mhpotter-flame-gatherers": [
+   69721,
+   "The flame-gatherers"
+  ],
+  "mhpotter-house-of-de-mailly": [
+   73165,
+   "The House of de Mailly"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mhpotter-genius": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret horton potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhpotter-istar-of-babylon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret horton potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhpotter-castle-of-twilight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret horton potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhpotter-flame-gatherers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret horton potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mhpotter-house-of-de-mailly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret horton potter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

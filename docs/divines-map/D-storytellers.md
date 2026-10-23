@@ -18487,3 +18487,15 @@ Shelf: `pipeline/herbert-quick_shelf.json` (2026-10-22; added at the coordinator
 | Aladdin & Co.: A Romance of Yankee Magic | have | PG 23745, `hquick-aladdin-co` (1638 units) |
 | The Brown Mouse | have | PG 26987, `hquick-brown-mouse` (1272 units) |
 | Yellowstone Nights | have | PG 40587, `hquick-yellowstone-nights` (1414 units) |
+
+## Margaret Horton Potter
+
+Shelf: `pipeline/margaret-horton-potter_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Genius | have | PG 22004, `mhpotter-genius` (1512 units) |
+| Istar of Babylon: A Phantasy | have | PG 38710, `mhpotter-istar-of-babylon` (2219 units) |
+| The Castle of Twilight | have | PG 62669, `mhpotter-castle-of-twilight` (1134 units) |
+| The flame-gatherers | have | PG 69721, `mhpotter-flame-gatherers` (1362 units) |
+| The House of de Mailly | have | PG 73165, `mhpotter-house-of-de-mailly` (3301 units) |
