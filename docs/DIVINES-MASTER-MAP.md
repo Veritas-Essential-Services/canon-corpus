@@ -41546,3 +41546,19 @@ Shelf: `pipeline/elizabeth-gordon_shelf.json` (2026-10-22; added at the coordina
 | What We Saw at Madame World's Fair Being a Series of Letters from the Twins at the Panama-Pacific International Exposition to Their Cousins at Home | have | PG 51599, `egordon-what-we-saw-at-madame-worlds-fair-being-a-series-of` (366 units) |
 | Watermelon Pete and Others | have | PG 52828, `egordon-watermelon-pete-and-others` (149 units) |
 | Really so stories | have | PG 68902, `egordon-really-so-stories` (583 units) |
+
+## G. E. Farrow
+
+Shelf: `pipeline/ge-farrow_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Fairy tales and nonsense stories. Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mysterious Shin Shira | have | PG 17843, `gefarrow-mysterious-shin-shira` (928 units) |
+| The Jungle Baby | have | PG 20693, `gefarrow-jungle-baby` (74 units) |
+| Dick, Marjorie and Fidge: A Search for the Wonderful Dodo | have | PG 23541, `gefarrow-dick-marjorie-and-fidge` (1608 units) |
+| The Wallypug in London | have | PG 26478, `gefarrow-wallypug-in-london` (1395 units) |
+| The Missing Prince | have | PG 45291, `gefarrow-missing-prince` (1161 units) |
+| Adventures in Wallypug-Land | have | PG 52393, `gefarrow-adventures-in-wallypug-land` (1097 units) |
+| Absurd Ditties | have | PG 53190, `gefarrow-absurd-ditties` (617 units) |
+| The Wallypug of Why | have | PG 61163, `gefarrow-wallypug-of-why` (1170 units) |
+| An A. B. C. of every-day people | have | PG 70150, `gefarrow-a-b-c-of-every-day-people` (132 units) |

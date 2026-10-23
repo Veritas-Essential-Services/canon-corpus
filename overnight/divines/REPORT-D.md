@@ -2171,3 +2171,6 @@
 
 ## 2026-10-22 22:49 CDT — elizabeth-gordon: done
 - elizabeth-gordon: new shelf, 9 Gutenberg books, 2,739 units, 299 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:49 CDT — ge-farrow: done
+- ge-farrow: new shelf, 9 Gutenberg books, 8,182 units, 98 ~2 ids; verify 0 mismatches, 0 rights flags.

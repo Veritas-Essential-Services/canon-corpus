@@ -5005,6 +5005,14 @@
       "started": "2026-10-22T22:49:07-05:00",
       "finished": "2026-10-22T22:49:07-05:00",
       "notes": "elizabeth-gordon: new shelf, 9 Gutenberg books, 2,739 units, 299 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "ge-farrow",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — G. E. Farrow; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:49:23-05:00",
+      "finished": "2026-10-22T22:49:23-05:00",
+      "notes": "ge-farrow: new shelf, 9 Gutenberg books, 8,182 units, 98 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
