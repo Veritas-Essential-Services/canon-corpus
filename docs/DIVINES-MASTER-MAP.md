@@ -15301,6 +15301,38 @@ Slugs `deshon-*`. Built from title pages read for round 91.
 |---|---|---|
 | Guide for Catholic young women, especially for those who earn their own living (New York : Columbus Pub. Co., 1892) | have-ocr | IA `guideforcatholic00desh` |
 | Sermons for all the Sundays of the ecclesiastical year and the principal festivals : for the use of parish priests and for private reading (New York : Catholic Book Exchange, 1902) | have-ocr | IA `sermonsforallthe00deshuoft` |
+
+## Henry W. Bellows (round 92, my pick, 2026-10-23)
+
+Slugs `bellows-*`. Built from title pages read for round 92.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermon preached November 26, 1843 at the ordination of Mr. Dexter Clapp over the Unitarian church at Savannah, Ga ([n.p.], 1843) | have-ocr | IA `sermonpreachedno00bell` |
+| Relation of Christianity to human nature. : A sermon preached at the ordination of Mr. Frederick N. Knapp, as colleague pastor of the First Congregational church in Brookline, Mass., on Wednesday, October 6, 1847 (Boston : W. Crosby and H. P. Nichols, 1847) | have-ocr | IA `relationofchrist00bell` |
+| The christian merchant : a discourse delivered in the church of the Divine Unity, on the occasion of the death of Jonathan Goodhue (New York : C.S. Francis & Co., 1848) | have-ocr | IA `christianmerchan00belliala` |
+| The alleged failure of protestantism: a sermon (Washington, 1852) | have-ocr | IA `allegedfailureof00bell` |
+| A sermon preached at the installation of Adams Ayer, as associate pastor of the Unitarian Society in Charleston, N.H. June 7, 1855 (O. H. Plattt, 1855) | have-ocr | IA `sermonpreachedat00bell` |
+| The relation of public amusements to public morality, especially of the theatre to the highest interests of humanity : an address, delivered at the Academy of Music, New York, before “The American Dramatic Fund Society,” for the benefit of the fund (New York : C.S. Francis & Co., 1857) | have-ocr | IA `36e1251c-88b0-4ab1-8809-ee63a58f42fa` |
+| Religious education, from within and from above : sermon (Crosby, Nichols, and Co., 1857) | have-ocr | IA `religiouseducati00bell` |
+| The importance of a positive and distinct theology : a discourse, preached in "The Church of All Souls," New York, January 30, 1859, and repeated at the inaugural services of "The Church of the Redeemer, " Cincinnati, Ohio, on Easter Sunday, April 24, 1859 / by Rev. Henry Bellows, D.D., Pastor of the First Unitarian Church in New York City. Published by request (Robert Clarke & Co., 1859) | have-ocr | IA `importanceofposi00bell` |
+| Suspense of faith. An address to the alumni of the Divinity school of Harvard university, Cambridge, Mass., given July 19, 1859. By Henry W. Bellows (New York, Boston : C.S. Francis & co., 1859) | have-ocr | IA `suspenseoffaitha00bell` |
+| The advantage of testing our principles, compensatory of the evils of serious times. A discourse, on Sunday morning, Feb, 17th, 1861, before the Second Unitarian society of Philadelphia. By Henry W. Bellows ... Printed by the society (C. Sherman & son, printers, 1861) | have-ocr | IA `advantageoftesti00bell_0` |
+| The state and the nation -- sacred to Christian citizens : a sermon preached in All Soul's Church, New York, April 21, 1861 (New York : James Miller, 1861) | have-ocr | IA `statenationsacre00bell` |
+| The valley of decision : a plea for unbroken fealty on the part of the loyal states to the Constitution and the Union, despite the offences of the Rebel states, a discourse, given on occasion of the National Fast, Sept. 26, 1861, in all Souls' Church (New York : H.B. Price, 1861) | have-ocr | IA `valleyofdecision00bell` |
+| How we are to fulfill Our Lord's commandment, "Love your enemies," in a time of war (New York, Baker & Godwin, printers, 1861) | have-ocr | IA `howwearetofulfil00bell` |
+| Duty and interest identical in the present crisis : a sermon preached in All Souls' Church, on Sunday morning, April 14, 1861 (New York : Wynkoop, Hallenbeck & Thomas, printers, 1861) | have-ocr | IA `dutyinterestiden1861bell` |
+| Unconditional loyalty (New York, A. D. F. Randolph, 1863) | have-ocr | IA `unconditionalloy00bell` |
+| The war to end only when the rebellion ceases (New York : A.D.F. Randolph, [186) | have-ocr | IA `wartoendonlywhen00bell` |
+| In memory of Thomas Starr King : a discourse given to his flock in San Francisco, Sunday morning and evening, May 1, 1864 (San Francisco, F. Eastman, printer, 1864) | have-ocr | IA `inmemoryofthomas00bell` |
+| Public life in Washington, or, the moral aspects of the national capital, and the apparent tendencies of political thought and feeling in Congress and Cabinet. An addresses read on Sunday evening, May 7, 1866. to his own congregation (New York, J. Miller, 1866) | have-ocr | IA `publiclifeinwash00bell` |
+| Re-statements of Christian doctrine : in twenty-five sermons (Boston : American Unitarian Association, 1867) | have-ocr | IA `restatements00bellrich` |
+| Church and state in America : a discourse given at Washington, D.C., at the installation of Rev. Frederic Hinckley, as pastor of the Unitarian Church, January 25, 1871 (Washington : Philp & Solomons, 1871) | have-ocr | IA `churchstateiname01bell` |
+| Preparing for old age. Sermon preached at "All-Souls" church, New York., on returning from the funeral at Walpole, N.H., of Mrs. Louisa Bellows Knapp, who died March 16, 1872, aged 86, relict of Jacob Newman Knapp, who died July 27, 1868, aged ninety-five years (Cambridge : Press of J. Wilson and son, 1872) | have-ocr | IA `preparingforolda00belliala` |
+| In memoriam William Cullen Bryant : funeral oration (New York : Religious Newspaper Agency, 1878) | have-ocr | IA `inmemoriamwh00bellrich` |
+| Twenty-four sermons preached in All Souls Church, New York, 1865-1881 (New York, Published by the Editor, 1886) | have-ocr | IA `twentyfoursermon00bell` |
+| finishedlifeaddr00bell: OCR too garbled to verify the title or read the text; needs re-OCR | pending | not shelved |
+| Sanitary Commission papers, The Old World in its New Face (travel), the Union League Club history, the sketch of Col. Benjamin Bellows, and his medical-college address | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
