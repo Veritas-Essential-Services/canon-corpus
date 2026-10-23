@@ -1,0 +1,202 @@
+{
+ "_about": "Public-domain Herbert Mortimer Luckock (1833-1909), Canon of Ely and Dean of Lichfield, for the Word Hoard: After Death and its sequel The Intermediate State, his studies of the Prayer Book and the Divine Liturgy, The Bishops in the Tower, The Church in Scotland, The History of Marriage, and his Footprints of the Son of Man and Footprints of the Apostles. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 69 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "luckock"
+ ],
+ "_surname": [
+  "luckock"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "luckock-after-death": [
+   "afterdeathanexam00luckuoft",
+   "After death : an examination of the testimony of primitive times respecting the state of the faithful dead, and their relationship to the living (London : Rivingtons, 1880)"
+  ],
+  "luckock-studies-prayer-book": [
+   "studiesinthehist00luckuoft",
+   "Studies in the history of the Book of Common Prayer (London : Rivingtons, 1882)"
+  ],
+  "luckock-bishops-in-tower": [
+   "bishopsintowera00luckgoog",
+   "The Bishops in the Tower: A Record of Stirring Events Affecting the Church (Rivingtons, 1887)"
+  ],
+  "luckock-divine-liturgy": [
+   "divineliturgybei00luck",
+   "The divine liturgy : being the order for Holy Communion historically, doctrinally and devotionally set forth in fifty portions (London : Rivingtons, 1889)"
+  ],
+  "luckock-intermediate-state": [
+   "theintermediates00luckuoft",
+   "The intermediate state between death and judgment : being a sequel to After death (London : Longmans, Green, and Co., 1891)"
+  ],
+  "luckock-footprints-son-of-man": [
+   "footprintsofso00luck",
+   "Footprints of the Son of Man as traced by Saint Mark : being eighty portions for private study, family reading, and instructions in Church (London : Longmans, Green, 1891)"
+  ],
+  "luckock-church-in-scotland": [
+   "churchinscotland00luck",
+   "The church in Scotland (London : Wells Gardner, Darton, 1893)"
+  ],
+  "luckock-history-of-marriage": [
+   "historymarriage00luckgoog",
+   "The History of Marriage, Jewish and Christian, in Relationship to Divorce and Certain Forbidden (Longmans, Green and Co., 1894)"
+  ],
+  "luckock-footprints-apostles-1": [
+   "footprintsofapos01luck",
+   "Footprints of the Apostles, as traced by Saint Luke in the Acts : being sixty portions for private study and instruction in church, vol. 1 (London : Longmans, Green, 1897)"
+  ],
+  "luckock-footprints-apostles-2": [
+   "footprintsofapos02luck",
+   "Footprints of the Apostles, as traced by Saint Luke in the Acts : being sixty portions for private study and instruction in church, vol. 2 (London : Longmans, Green, 1897)"
+  ],
+  "luckock-four-gospels": [
+   "specialcharacter0000luck",
+   "The special characteristics of the four Gospels (London, New York and Bombay, Longmans, Green, and Co., 1900)"
+  ],
+  "luckock-eucharistic-sacrifice": [
+   "eucharisticsacri0000luck",
+   "Eucharistic sacrifice and intercession for the departed, both consistent with the teaching of the Book of common prayer : a course of addresses (London : Skeffington & Son, 1907)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "luckock-after-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-studies-prayer-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-bishops-in-tower": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-divine-liturgy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luckock-intermediate-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-footprints-son-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-church-in-scotland": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-history-of-marriage": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-footprints-apostles-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-footprints-apostles-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "luckock-four-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "luckock-eucharistic-sacrifice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "luckock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

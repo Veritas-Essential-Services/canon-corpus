@@ -13302,6 +13302,25 @@ Slugs `wace-*`. Built from title pages read for round 69.
 | The Story of the Resurrection (London: John Murray; undated in this scan, catalogued 1923) | have-ocr | IA `bwb_C0-AJV-428` |
 | On Agnosticism: Replies to the late Professor Huxley (London: SPCK, 1903): the only scan found (onagnosticismrep00waceuoft) carries the text of another book, G. A. Raybold's Reminiscences of Methodism in West Jersey (1849); held until a good scan turns up | pending | not shelved |
 | works he edited or co-edited (Dictionary of Christian Biography, Nicene and Post-Nicene Fathers second series, the Speaker's Commentary Apocrypha, Church and Faith, the Fulham conference reports); Christianity and Agnosticism: a Controversy (1889, papers by several hands); First Principles of the Reformation (1883, his and Buchheim's translation of Luther) | excluded | |
+
+## H. M. Luckock (round 69, my pick, 2026-10-23)
+
+Slugs `luckock-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| After death : an examination of the testimony of primitive times respecting the state of the faithful dead, and their relationship to the living (London : Rivingtons, 1880) | have-ocr | IA `afterdeathanexam00luckuoft` |
+| Studies in the history of the Book of Common Prayer (London : Rivingtons, 1882) | have-ocr | IA `studiesinthehist00luckuoft` |
+| The Bishops in the Tower: A Record of Stirring Events Affecting the Church (Rivingtons, 1887) | have-ocr | IA `bishopsintowera00luckgoog` |
+| The divine liturgy : being the order for Holy Communion historically, doctrinally and devotionally set forth in fifty portions (London : Rivingtons, 1889) | have-ocr | IA `divineliturgybei00luck` |
+| The intermediate state between death and judgment : being a sequel to After death (London : Longmans, Green, and Co., 1891) | have-ocr | IA `theintermediates00luckuoft` |
+| Footprints of the Son of Man as traced by Saint Mark : being eighty portions for private study, family reading, and instructions in Church (London : Longmans, Green, 1891) | have-ocr | IA `footprintsofso00luck` |
+| The church in Scotland (London : Wells Gardner, Darton, 1893) | have-ocr | IA `churchinscotland00luck` |
+| The History of Marriage, Jewish and Christian, in Relationship to Divorce and Certain Forbidden (Longmans, Green and Co., 1894) | have-ocr | IA `historymarriage00luckgoog` |
+| Footprints of the Apostles, as traced by Saint Luke in the Acts : being sixty portions for private study and instruction in church, vol. 1 (London : Longmans, Green, 1897) | have-ocr | IA `footprintsofapos01luck` |
+| Footprints of the Apostles, as traced by Saint Luke in the Acts : being sixty portions for private study and instruction in church, vol. 2 (London : Longmans, Green, 1897) | have-ocr | IA `footprintsofapos02luck` |
+| The special characteristics of the four Gospels (London, New York and Bombay, Longmans, Green, and Co., 1900) | have-ocr | IA `specialcharacter0000luck` |
+| Eucharistic sacrifice and intercession for the departed, both consistent with the teaching of the Book of common prayer : a course of addresses (London : Skeffington & Son, 1907) | have-ocr | IA `eucharisticsacri0000luck` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
