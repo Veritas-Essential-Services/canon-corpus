@@ -17889,3 +17889,16 @@ Shelf: `pipeline/w-pett-ridge_shelf.json` (2026-10-22; added at the coordinator'
 | Mixed Grill | have | PG 57704, `wpridge-mixed-grill` (1118 units) |
 | A Son of the State | have | PG 57710, `wpridge-son-of-the-state` (1663 units) |
 | The Amazing Years | have | PG 62418, `wpridge-amazing-years` (1616 units) |
+
+## Eugene Manlove Rhodes
+
+Shelf: `pipeline/eugene-manlove-rhodes_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The desire of the moth ; | have | PG 11960, `emrhodes-desire-of-the-moth` (1075 units) |
+| Copper Streak Trail | have | PG 14545, `emrhodes-copper-streak-trail` (1266 units) |
+| Stepsons of Light | have | PG 32704, `emrhodes-stepsons-of-light` (1431 units) |
+| Bransford of Rainbow Range Originally Published under the title of Bransford in Arcadia, or, The Little Eohippus | have | PG 33498, `emrhodes-bransford-of-rainbow-range-originally-published-und` (1392 units) |
+| Good men and true, and Hit the line hard | have | PG 73330, `emrhodes-good-men-and-true-and-hit-the-line-hard` (1044 units) |
+| Bransford in Arcadia | have | PG 78657, `emrhodes-bransford-in-arcadia` (1306 units) |
