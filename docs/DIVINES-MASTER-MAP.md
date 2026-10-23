@@ -18052,6 +18052,31 @@ Slugs `dudden-*`. Built from title pages read for round 120.
 | The future life : four sermons preached at St. John's Notting Hill, in June, 1915 (London ; New York : Longmans, Green, 1915) | have-ocr | IA `futurelifefourse00duddrich` |
 | The dead and the living and other sermons (London ; New York [etc.] : Longmans, Green and co., 1920) | have-ocr | IA `deadandlivingand00dudduoft` |
 | The Life and Times of St. Ambrose (1935) is after 1930 | excluded | |
+
+## J. E. C. Welldon (round 121, my pick, 2026-10-23)
+
+Slugs `welldon-*`. Built from title pages read for round 121.
+
+| Work | Status | Where |
+|---|---|---|
+| The spiritual life : and other sermons (London : Macmillan, 1888) | have-ocr | IA `spirituallifeoth0000well` |
+| The fire upon the altar : sermons preached to Harrow boys ; second series, 1887-1890 (London : Percival and Co., 1891) | have-ocr | IA `fireuponaltarser0000well` |
+| The hope of immortality (New York, The Macmillan company; London, Macmillan & co., ltd., 1898) | have-ocr | IA `hopeofimmortalit00well` |
+| The revelation of the holy spirit (macmillan and co., limited, 1902) | have-ocr | IA `revelationofholy0000jecw` |
+| The consecration of the state. An essay (London, Macmillan & Co., 1902) | have-ocr | IA `consecrationofst0000well` |
+| Youth and duty : sermons to Harrow schools-boys (London : Religious Tract Society, 1903) | have-ocr | IA `youthdutysermons0000well` |
+| The School Of Faith (catalogued 1904) | have-ocr | IA `schooloffaith0000righ` |
+| The early training of boys in citizenship (London, 1908) | have-ocr | IA `earlytrainingofb00well` |
+| The Gospel In A Great City (catalogued 1910) | have-ocr | IA `gospelingreatcit0000jame` |
+| The religious aspects of disestablishment and disendowment. Three lectures delivered in Manchester Cathedral (London, 1911) | have-ocr | IA `religiousaspects0000well` |
+| Recollections and reflections (London ; Toronto : Cassell, 1915) | have-ocr | IA `recollectionsref00welluoft` |
+| Religion and reconstruction (London : Skeffington, 1918) | have-ocr | IA `religionreconstr00wellrich` |
+| The public school spirit in public life ([New York : Leonard Scott Publication Co.], 1927) | have-ocr | IA `publicschoolspir00well` |
+| Harvest Home: a Sheaf of Sermons (IA harvesthomeashea00unknuoft): the catalogue gives no year (19--); a dated printing is wanted | pending | not shelved |
+| his translations of the Rhetoric, Politics and Ethics belong to the Aristotle shelf | excluded | |
+| saureliiaugustin0001jecw, his edition of the Latin De Civitate Dei (1924) | excluded | |
+| Patriotic Song, an anthology of other poets | excluded | |
+| Thirteen Essays on Education, many authors | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

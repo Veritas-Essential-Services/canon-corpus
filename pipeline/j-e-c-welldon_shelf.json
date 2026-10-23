@@ -1,0 +1,227 @@
+{
+ "_about": "Public-domain J. E. C. Welldon, Headmaster of Harrow, Bishop of Calcutta and Dean of Durham, for the Word Hoard: his Harrow sermons (The Spiritual Life, The Fire upon the Altar, Youth and Duty), The Hope of Immortality, The Revelation of the Holy Spirit, The School of Faith, The Gospel in a Great City, lectures on disestablishment, Recollections and Reflections, and shorter essays. His Aristotle translations are left to the Aristotle shelf. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 121 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. He lived past 1930, so only books printed before 1930 are taken.",
+ "_name_words": [
+  "j. e. c. welldon",
+  "james edward cowell welldon",
+  "bishop welldon",
+  "welldon"
+ ],
+ "_surname": [
+  "welldon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "welldon-spiritual-life": [
+   "spirituallifeoth0000well",
+   "The spiritual life : and other sermons (London : Macmillan, 1888)"
+  ],
+  "welldon-fire-upon-altar": [
+   "fireuponaltarser0000well",
+   "The fire upon the altar : sermons preached to Harrow boys ; second series, 1887-1890 (London : Percival and Co., 1891)"
+  ],
+  "welldon-hope-immortality": [
+   "hopeofimmortalit00well",
+   "The hope of immortality (New York, The Macmillan company; London, Macmillan & co., ltd., 1898)"
+  ],
+  "welldon-holy-spirit": [
+   "revelationofholy0000jecw",
+   "The revelation of the holy spirit (macmillan and co., limited, 1902)"
+  ],
+  "welldon-consecration-state": [
+   "consecrationofst0000well",
+   "The consecration of the state. An essay (London, Macmillan & Co., 1902)"
+  ],
+  "welldon-youth-duty": [
+   "youthdutysermons0000well",
+   "Youth and duty : sermons to Harrow schools-boys (London : Religious Tract Society, 1903)"
+  ],
+  "welldon-school-of-faith": [
+   "schooloffaith0000righ",
+   "The School Of Faith (catalogued 1904)"
+  ],
+  "welldon-early-training": [
+   "earlytrainingofb00well",
+   "The early training of boys in citizenship (London, 1908)"
+  ],
+  "welldon-great-city": [
+   "gospelingreatcit0000jame",
+   "The Gospel In A Great City (catalogued 1910)"
+  ],
+  "welldon-disestablishment": [
+   "religiousaspects0000well",
+   "The religious aspects of disestablishment and disendowment. Three lectures delivered in Manchester Cathedral (London, 1911)"
+  ],
+  "welldon-recollections": [
+   "recollectionsref00welluoft",
+   "Recollections and reflections (London ; Toronto : Cassell, 1915)"
+  ],
+  "welldon-reconstruction": [
+   "religionreconstr00wellrich",
+   "Religion and reconstruction (London : Skeffington, 1918)"
+  ],
+  "welldon-public-school-spirit": [
+   "publicschoolspir00well",
+   "The public school spirit in public life ([New York : Leonard Scott Publication Co.], 1927)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "welldon-aristotle": "his translations of the Rhetoric, Politics and Ethics belong to the Aristotle shelf",
+  "welldon-augustine": "saureliiaugustin0001jecw, his edition of the Latin De Civitate Dei (1924)",
+  "welldon-patriotic-song": "Patriotic Song, an anthology of other poets",
+  "welldon-thirteen-essays": "Thirteen Essays on Education, many authors"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "welldon-harvest-home": "Harvest Home: a Sheaf of Sermons (IA harvesthomeashea00unknuoft): the catalogue gives no year (19--); a dated printing is wanted"
+ },
+ "_translators": {},
+ "_checks": {
+  "welldon-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-fire-upon-altar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-hope-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-consecration-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-youth-duty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-school-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-early-training": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-great-city": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-disestablishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "welldon-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "welldon-reconstruction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "welldon-public-school-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "welldon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
