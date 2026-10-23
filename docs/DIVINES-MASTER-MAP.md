@@ -18260,6 +18260,29 @@ Slugs `machray-*`. Built from title pages read for round 122.
 | Grace O'Malley, The Night Side of London, The Mystery of Lincoln's Inn, The Little Entente and The India Office are by his nephew Robert Machray | excluded | |
 | the Life of Robert Machray is by his nephew | excluded | |
 | the Cree prayer book is compiled by W. W. Kirkby | excluded | |
+
+## C. J. Blomfield (round 123, my pick, 2026-10-23)
+
+Slugs `blomfield-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| Twelve lectures on the Acts of the Apostles : to which is added a new ed. of Five lectures on the Gospel of St. John, as bearing testimony to the divinity of Jesus Christ (London : B. Fellows, 1828) | have-ocr | IA `twelvelectureson00blom` |
+| A manual of family prayers (New York : New York Protestant Episcopal Tract Society, 1829) | have-ocr | IA `manualoffamilypr00blom` |
+| Sermons preached in the parish church of st. Botolph, Bishopsgate, 2nd ed (catalogued 1832) | have-ocr | IA `sermonspreached00blomgoog` |
+| A charge delivered to the clergy of the Diocese of London at the visitation in July, MDCCCXXXIV (London : B. Fellowes, 1834) | have-ocr | IA `a621296800churuoft` |
+| The uses of a standing ministry and an established Church, 2 sermons (catalogued 1834) | have-ocr | IA `usesastandingmi00blomgoog` |
+| A sermon preached at the Coronation of her most excellent Majesty Queen Victoria in the Abbey Church of Westminster, June 28, 1838 (London : B. Fellowes, 1838) | have-ocr | IA `sermonpreachedat00blom` |
+| Three sermons on the Church (catalogued 1842) | have-ocr | IA `threesermonsonc00blomgoog` |
+| Speech of the Bishop of London, in the House of Lords, on moving the second reading of the bill relating to appeals from the ecclesiastical courts, on Monday, June 3, 1850, vol. Talbot Collection of British Pamphlets (London : B. Fellowes, Ludgate Street, 1850) | have-ocr | IA `speechofbishopof00blom` |
+| The Christian's privileges and duties (catalogued 1858) | have-ocr | IA `christiansprivi00blomgoog` |
+| Twenty-Four Sermons on Christian Doctrine and Practice, and on the Church (catalogued 1859) | have-ocr | IA `bwb_P9-CDQ-418` |
+| A remonstrance, addressed to H. Brougham, Esq. M.P (Lonodon : Printed for J. Mawman, 39, Ludgate Street, and C. and J. Rivington, 62, St. Paul's Church-Yard, and 8, Waterloo Place, 1823) (IA remonstranceaddr00blom): signed only "one of the Working Clergy"; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| his editions of Aeschylus, Euripides and Callimachus, the Museum Criticum and the Musae Cantabrigienses are classical work for Lane B | excluded | |
+| the Greek grammar, the histories of Greek literature and philosophy, the Bicester deanery history and the Labrador visit are by other men or translations | excluded | |
+| The Reply and Baptismal Regeneration are answers to his charge by others | excluded | |
+| 12LecturesOnTheActsOfTheApostles, a second scan of the Twelve Lectures | excluded | |
+| alettertocharle00blomgoog is a letter by another man defending the Bishop of London | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
