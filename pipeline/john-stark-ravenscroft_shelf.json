@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain John Stark Ravenscroft (1772-1830), first Episcopal Bishop of North Carolina, for the Word Hoard: his Works (2 vols., 1830: sermons, charges and his controversy with the Bible Society) and his separately printed sermons on the Church (1824), Revelation the Foundation of Faith (1829) and the consecration of Christ Church, Raleigh (1829). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 90 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john stark ravenscroft",
+  "j. s. ravenscroft",
+  "bishop ravenscroft"
+ ],
+ "_surname": [
+  "john stark ravenscroft",
+  "j. s. ravenscroft",
+  "bishop ravenscroft",
+  "ravenscroft"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ravenscroft-works-1": [
+   "worksofrightrev01rave",
+   "The works of the Right Reverend John Stark Ravenscroft ... : containing his sermons, charges, and controversial tracts ; to which is prefixed, a memoir of his life, vol. 1 (New-York : Protestant Episcopal Press, 1830)"
+  ],
+  "ravenscroft-works-2": [
+   "worksofrightrev02rave",
+   "The works of the Right Reverend John Stark Ravenscroft ... : containing his sermons, charges, and controversial tracts ; to which is prefixed, a memoir of his life, vol. 2 (New-York : Protestant Episcopal Press, 1830)"
+  ],
+  "ravenscroft-sermon-church": [
+   "sermononchurchde00rave",
+   "A sermon on the church : delivered before the annual convention of the Protestant Episcopal Church of N.C (Newbern : Printed by Pasteur & Watson, at the Office of the Carolina Sentinel, 1824)"
+  ],
+  "ravenscroft-revelation-faith": [
+   "revelationfounda00rave",
+   "Revelation the foundation of faith, a sermon (Fayetteville [N. C.] Printed by E. J. Hale, 1829)"
+  ],
+  "ravenscroft-christ-church": [
+   "sermonpreachedon00rave",
+   "A sermon preached on Sunday, December 20, 1829, at the consecration of Christ Church, Raleigh, N.C. / by John Stark Ravenscroft (Raleigh, N.C. : The Vestry ; New York : Protestant Episcopal Press [printer], 1830)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ravenscroft-1856": "the 1856 reissue of the Works (same texts)",
+  "ravenscroft-sketch": "Biographical Sketch (1850), by another hand"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "ravenscroft-revelation-faith": "title page: 'REVELATION THE FOUNDATION OF FAITH, PREACHED BY THE RT. REV. JOHN S. RAVENSCROFT, D.D. In St. Luke's Church, Salisbury, N.C. AT THE ORDINATION OF THE REV. PHILIP B. WILEY, Sunday, May 24, 1829 ... FAYETTEVILLE: PRINTED BY EDWARD J. HALE. 1829' (OCR 'JOHN S RAVENS CROFT')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ravenscroft-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john stark ravenscroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ravenscroft-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john stark ravenscroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ravenscroft-sermon-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. s. ravenscroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ravenscroft-revelation-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ravenscroft-christ-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john stark ravenscroft",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "Copyright status: The copyright status of this item has been reviewed and it has been determined that either: 1) the item is in the public domain; or 2) permission to digitize the item has been granted by the rights holder. If you believe you have additional information regarding the copyright in this material, please contact divlib@duke.edu.",
+   "ia_lending": null
+  }
+ }
+}

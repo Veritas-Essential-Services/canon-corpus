@@ -15181,3 +15181,17 @@ Slugs `kollock-*`. Built from title pages read for round 90.
 | Sermons on various subjects (Savannah : Seymour and Williams, 1811) | have-ocr | IA `sermonsonvarious00koll` |
 | Sermons (London : R.D. Dickinson, 1871) | have-ocr | IA `sermons00kollgoog` |
 | State of New York (1883), by a different Kollock | excluded | |
+
+## John Stark Ravenscroft (round 90, my pick, 2026-10-23)
+
+Slugs `ravenscroft-*`. Built from title pages read for round 90.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Right Reverend John Stark Ravenscroft ... : containing his sermons, charges, and controversial tracts ; to which is prefixed, a memoir of his life, vol. 1 (New-York : Protestant Episcopal Press, 1830) | have-ocr | IA `worksofrightrev01rave` |
+| The works of the Right Reverend John Stark Ravenscroft ... : containing his sermons, charges, and controversial tracts ; to which is prefixed, a memoir of his life, vol. 2 (New-York : Protestant Episcopal Press, 1830) | have-ocr | IA `worksofrightrev02rave` |
+| A sermon on the church : delivered before the annual convention of the Protestant Episcopal Church of N.C (Newbern : Printed by Pasteur & Watson, at the Office of the Carolina Sentinel, 1824) | have-ocr | IA `sermononchurchde00rave` |
+| Revelation the foundation of faith, a sermon (Fayetteville [N. C.] Printed by E. J. Hale, 1829) | have-ocr | IA `revelationfounda00rave` |
+| A sermon preached on Sunday, December 20, 1829, at the consecration of Christ Church, Raleigh, N.C. / by John Stark Ravenscroft (Raleigh, N.C. : The Vestry ; New York : Protestant Episcopal Press [printer], 1830) | have-ocr | IA `sermonpreachedon00rave` |
+| the 1856 reissue of the Works (same texts) | excluded | |
+| Biographical Sketch (1850), by another hand | excluded | |
