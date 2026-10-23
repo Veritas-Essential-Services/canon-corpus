@@ -93,5 +93,853 @@
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
+ },
+ "perseus": {
+  "philo-perseus-yonge-on-the-life-of-the-wise-man-made-perfect-by-instruction-or-o": [
+   "tlg0018.tlg020.1st1K-eng1",
+   "On the Life of the Wise Man made perfect by Instruction or, on the Unwritten Law, that is to say, on Abraham",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, Volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-incorruptibility-of-the-world": [
+   "tlg0018.tlg029.1st1K-eng1",
+   "On the Incorruptibility of the World",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 4. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-the-tilling-of-the-earth-by-noah": [
+   "tlg0018.tlg009.1st1K-eng1",
+   "On the Tilling of the Earth by Noah",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-cherubim-and-on-the-flaming-sword-and-on-the-first-bo": [
+   "tlg0018.tlg003.1st1K-eng1",
+   "On the Cherubim; and on the Flaming Sword; and on the First-Born Child of Man, Cain",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, Volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-confusion-of-languages": [
+   "tlg0018.tlg013.1st1K-eng1",
+   "On the Confusion of Languages",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-meeting-for-the-sake-of-seeking-instruction": [
+   "tlg0018.tlg016.1st1K-eng1",
+   "On the Meeting for the sake of seeking Instruction",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, Volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-concerning-the-ten-commandments-which-are-the-heads-of-the-l": [
+   "tlg0018.tlg023.1st1K-eng1",
+   "Concerning the Ten Commandments, which are the Heads of the Law",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 3. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-drunkenness": [
+   "tlg0018.tlg011.1st1K-eng1",
+   "On Drunkenness",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-fugitives": [
+   "tlg0018.tlg017.1st1K-eng1",
+   "On Fugitives",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-giants": [
+   "tlg0018.tlg007.1st1K-eng1",
+   "On the Giants",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-life-of-a-man-occupied-with-affairs-of-state-or-on-jo": [
+   "tlg0018.tlg021.1st1K-eng1",
+   "On the Life of a Man occupied with Affairs of State, or on Joseph",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-migration-of-abraham": [
+   "tlg0018.tlg014.1st1K-eng1",
+   "On the Migration of Abraham",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-question-why-certain-names-in-the-holy-scriptures-are": [
+   "tlg0018.tlg018.1st1K-eng1",
+   "On the question why certain Names in the Holy Scriptures are changed",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, Volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-creation-of-the-world": [
+   "tlg0018.tlg001.1st1K-eng1",
+   "On the Creation of the World",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-about-the-planting-of-noah": [
+   "tlg0018.tlg010.1st1K-eng1",
+   "About the Planting of Noah",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-posterity-of-cain": [
+   "tlg0018.tlg006.1st1K-eng1",
+   "On the Posterity of Cain",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-rewards-and-punishments": [
+   "tlg0018.tlg026.1st1K-eng1",
+   "On Rewards and Punishments",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 3. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-the-sacrifice-of-abel-and-cain": [
+   "tlg0018.tlg004.1st1K-eng1",
+   "On the Sacrifice of Abel and Cain",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-sobriety": [
+   "tlg0018.tlg012.1st1K-eng1",
+   "On Sobriety",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-doctrine-that-dreams-are-sent-from-god-books-1-2": [
+   "tlg0018.tlg019.1st1K-eng1",
+   "On the doctrine that Dreams are sent from God, Books 1-2",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-creation-of-magistrates": [
+   "tlg0018.tlg024.1st1K-eng1",
+   "On the Creation of Magistrates",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, Volume 3. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-three-virtues-that-is-to-say-on-courage-humanity-and-repe": [
+   "tlg0018.tlg025.1st1K-eng1",
+   "On Three Virtues, that is to say, on Courage, Humanity, and Repentance",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 3. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-the-contemplative-life-or-on-the-virtues-of-suppliants": [
+   "tlg0018.tlg028.1st1K-eng1",
+   "On the Contemplative Life, or on the Virtues of Suppliants",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 4. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-the-life-of-moses-books-1-3": [
+   "tlg0018.tlg022.1st1K-eng1",
+   "On the Life of Moses: Books 1-3",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 3. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-against-flaccus": [
+   "tlg0018.tlg030.1st1K-eng1",
+   "Against Flaccus",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 4. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-the-virtues-and-on-the-office-of-ambassadors-adressed-to": [
+   "tlg0018.tlg031.1st1K-eng1",
+   "On the Virtues and on the Office of Ambassadors. Adressed to Caius",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, Volume 4. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ],
+  "philo-perseus-yonge-on-the-allegories-of-the-sacred-laws": [
+   "tlg0018.tlg002.1st1K-eng1",
+   "On the Allegories of the Sacred Laws",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, Volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-question-who-is-the-heir-of-divine-things": [
+   "tlg0018.tlg015.1st1K-eng1",
+   "On the question, Who is the Heir of Divine Things",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 2. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-principle-that-the-worse-is-accustomed-to-be-always-p": [
+   "tlg0018.tlg005.1st1K-eng1",
+   "On the Principle that the Worse is accustomed to be always plotting against the Better",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-on-the-unchangeableness-of-god": [
+   "tlg0018.tlg008.1st1K-eng1",
+   "On the Unchangeableness of God",
+   "C. D. Yonge",
+   "Translation published 1854: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 1. Yonge, C. D., translator. London: Henry G. Bohn, 1854."
+  ],
+  "philo-perseus-yonge-to-prove-that-every-man-who-is-virtuous-is-also-free": [
+   "tlg0018.tlg027.1st1K-eng1",
+   "To Prove that every Man who is virtuous is also free",
+   "C. D. Yonge",
+   "Translation published 1855: US public domain (in or before 1930). Perseus source line: The works of Philo Judaeus, the contemporary of Josephus, volume 3. Yonge, C. D., translator. London: Henry G. Bohn, 1855."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "philo-perseus-yonge-on-the-life-of-the-wise-man-made-perfect-by-instruction-or-o": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg020/tlg0018.tlg020.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-incorruptibility-of-the-world": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg029.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg029/tlg0018.tlg029.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-tilling-of-the-earth-by-noah": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg009.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg009/tlg0018.tlg009.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-cherubim-and-on-the-flaming-sword-and-on-the-first-bo": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg003.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg003/tlg0018.tlg003.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-confusion-of-languages": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg013.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg013/tlg0018.tlg013.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-meeting-for-the-sake-of-seeking-instruction": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg016.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg016/tlg0018.tlg016.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-concerning-the-ten-commandments-which-are-the-heads-of-the-l": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg023.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg023/tlg0018.tlg023.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-drunkenness": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg011.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg011/tlg0018.tlg011.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-fugitives": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg017.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg017/tlg0018.tlg017.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-giants": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg007.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg007/tlg0018.tlg007.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-life-of-a-man-occupied-with-affairs-of-state-or-on-jo": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg021.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg021/tlg0018.tlg021.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-migration-of-abraham": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg014.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg014/tlg0018.tlg014.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-question-why-certain-names-in-the-holy-scriptures-are": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg018.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg018/tlg0018.tlg018.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-creation-of-the-world": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg001.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg001/tlg0018.tlg001.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-about-the-planting-of-noah": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg010.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg010/tlg0018.tlg010.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-posterity-of-cain": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg006.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg006/tlg0018.tlg006.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-rewards-and-punishments": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg026.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg026/tlg0018.tlg026.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-sacrifice-of-abel-and-cain": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg004.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg004/tlg0018.tlg004.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-sobriety": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg012.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg012/tlg0018.tlg012.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-doctrine-that-dreams-are-sent-from-god-books-1-2": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg019.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg019/tlg0018.tlg019.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-creation-of-magistrates": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg024/tlg0018.tlg024.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-three-virtues-that-is-to-say-on-courage-humanity-and-repe": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg025.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg025/tlg0018.tlg025.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-contemplative-life-or-on-the-virtues-of-suppliants": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg028.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg028/tlg0018.tlg028.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-life-of-moses-books-1-3": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg022.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg022/tlg0018.tlg022.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-against-flaccus": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg030.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg030/tlg0018.tlg030.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-virtues-and-on-the-office-of-ambassadors-adressed-to": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg031.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg031/tlg0018.tlg031.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-allegories-of-the-sacred-laws": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg002.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg002/tlg0018.tlg002.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-question-who-is-the-heir-of-divine-things": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg015.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg015/tlg0018.tlg015.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-principle-that-the-worse-is-accustomed-to-be-always-p": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg005.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg005/tlg0018.tlg005.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-on-the-unchangeableness-of-god": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg008.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1854
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg008/tlg0018.tlg008.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "philo-perseus-yonge-to-prove-that-every-man-who-is-virtuous-is-also-free": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0018.tlg027.1st1K-eng1",
+   "repo": "OpenGreekAndLatin/First1KGreek",
+   "translator_checked": "Yonge",
+   "author_seen": "philo",
+   "source_years": [
+    1855
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "see licence in file (First1KGreek states it per file)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0018/tlg027/tlg0018.tlg027.1st1K-eng1.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }
