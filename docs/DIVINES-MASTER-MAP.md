@@ -10607,6 +10607,20 @@ Slugs `lucas-*`. Built from title pages read for round 45.
 | Twelve sermons preached on several occasions (Printed for Sam. Smith and B. Walford, 1699) | have-ocr | IA `twelvesermonspr00lucagoog` |
 | Practical Christianity (1677, EEBO): the scan's OCR is unreadable and its title page was not checked; a later, clearer printing would be a better copy | pending | not shelved |
 | Many other printings of the Enquiry, the Duty of Servants, the Influence of Conversation, and the Fifteen Sermons on Death and Judgment | alternate | not shelved |
+
+## George Stanhope (round 45, my pick, 2026-10-22)
+
+Slugs `stanhope-*`. Built from title pages read for round 45.
+
+| Work | Status | Where |
+|---|---|---|
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 1 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_1` |
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 2 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_2` |
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 3 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_3` |
+| A Paraphrase and Comment upon the Epistles and Gospels, vol. 4 (London, catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_4` |
+| Sermons preach'd upon several occasions (London, catalogued 1705) | have-ocr | IA `bim_eighteenth-century_sermons-preachd-upon-se_stanhope-george_1705` |
+| The 1732 and 1817 Paraphrase; Twelve Sermons (1727) | alternate | not shelved |
+| His English versions of Thomas a Kempis, Charron, Epictetus, Augustine's Meditations and Andrewes's Devotions: other men's works | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

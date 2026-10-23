@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain George Stanhope (1660-1728), Dean of Canterbury, for the Word Hoard: A Paraphrase and Comment upon the Epistles and Gospels (London 1726, four volumes) and his Sermons preached upon several occasions (1705), from Internet Archive scans of Eighteenth Century Collections Online. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "stanhope"
+ ],
+ "_surname": [
+  "george stanhope"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stanhope-paraphrase-1": [
+   "bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_1",
+   "A Paraphrase and Comment upon the Epistles and Gospels, vol. 1 (London, catalogued 1726)"
+  ],
+  "stanhope-paraphrase-2": [
+   "bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_2",
+   "A Paraphrase and Comment upon the Epistles and Gospels, vol. 2 (London, catalogued 1726)"
+  ],
+  "stanhope-paraphrase-3": [
+   "bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_3",
+   "A Paraphrase and Comment upon the Epistles and Gospels, vol. 3 (London, catalogued 1726)"
+  ],
+  "stanhope-paraphrase-4": [
+   "bim_eighteenth-century_a-paraphrase-and-comment_stanhope-george_1726_4",
+   "A Paraphrase and Comment upon the Epistles and Gospels, vol. 4 (London, catalogued 1726)"
+  ],
+  "stanhope-sermons-1705": [
+   "bim_eighteenth-century_sermons-preachd-upon-se_stanhope-george_1705",
+   "Sermons preach'd upon several occasions (London, catalogued 1705)"
+  ]
+ },
+ "_alternates": {
+  "stanhope-copies": "The 1732 and 1817 Paraphrase; Twelve Sermons (1727)"
+ },
+ "_excluded": {
+  "stanhope-translations": "His English versions of Thomas a Kempis, Charron, Epictetus, Augustine's Meditations and Andrewes's Devotions: other men's works"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "stanhope-paraphrase-3": "title page text: 'A Paraphrase and Comment upon the Epistles and Gospels appointed to be used in the Church of England on all Sundays and Holy-days throughout the year ... By George Stanhope, D.D. Dean of Canterbury, and Chaplain in Ordinary to His Majesty. The fourth edition. London ...' (the OCR reads 'GrorGt STaNHOPE')",
+  "stanhope-paraphrase-4": "title page text: 'A Paraphrase and Comment upon the Epistles and Gospels ... Vol. IV. Beginning with the Feast of St. [Andrew] and ending with Queen Anne's Inauguration. By George Stanhope, D.D. Dean of Canterbury ... The fourth edition' (the OCR reads 'GORE STANHOPE')",
+  "stanhope-sermons-1705": "title page text: 'Sermons preach'd upon several occasions. By George Stanhope, D.D. Dean of Canterbury, and Chaplain in Ordinary to her Majesty. The second edition. London ...' (the OCR loses the forename: '8 EO RGE STANHOPE')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "stanhope-paraphrase-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george stanhope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanhope-paraphrase-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george stanhope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanhope-paraphrase-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanhope-paraphrase-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanhope-sermons-1705": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
