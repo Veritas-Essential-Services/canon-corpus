@@ -2281,3 +2281,6 @@
 
 ## 2026-10-22 22:59 CDT — owen-wister: done
 - owen-wister: new shelf, 14 Gutenberg books, 14,375 units, 342 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — edna-ferber: done
+- edna-ferber: new shelf, 13 Gutenberg books, 17,854 units, 82 ~2 ids; verify 0 mismatches, 0 rights flags.

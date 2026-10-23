@@ -42199,3 +42199,25 @@ Shelf: `pipeline/owen-wister_shelf.json` (2026-10-22; added at the coordinator's
 | Members of the Family | have | PG 56717, `owister-members-of-the-family` (1469 units) |
 | A journey in search of Christmas | have | PG 71547, `owister-journey-in-search-of-christmas` (398 units) |
 | held-elsewhere | excluded | PG 48694: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Edna Ferber
+
+Shelf: `pipeline/edna-ferber_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories; pre-1931 US publications only. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Fanny Herself | have | PG 350, `eferber-fanny-herself` (1791 units) |
+| Buttered Side Down: Stories | have | PG 352, `eferber-buttered-side-down` (913 units) |
+| Emma McChesney and Co. | have | PG 453, `eferber-emma-mcchesney-and-co` (1162 units) |
+| One Basket | have | PG 489, `eferber-one-basket` (1031 units) |
+| Dawn O'Hara: The Girl Who Laughed | have | PG 1602, `eferber-dawn-ohara` (1185 units) |
+| Roast Beef, Medium: The Business Adventures of Emma McChesney | have | PG 6016, `eferber-roast-beef-medium` (1111 units) |
+| Cheerful—By Request | have | PG 11395, `eferber-cheerful-by-request` (2027 units) |
+| Personality Plus: Some Experiences of Emma McChesney and Her Son, Jock | have | PG 12677, `eferber-personality-plus` (667 units) |
+| Half Portions | have | PG 14714, `eferber-half-portions` (1493 units) |
+| Gigolo | have | PG 20419, `eferber-gigolo` (1277 units) |
+| So Big | have | PG 61686, `eferber-so-big` (1681 units) |
+| Show Boat | have | PG 67123, `eferber-show-boat` (1855 units) |
+| The girls | have | PG 75334, `eferber-girls` (1661 units) |
+| pg-58195 | excluded | PG 58195: Gutenberg's index of the author's works, not a book. |
+| held-elsewhere | excluded | PG 65906: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
