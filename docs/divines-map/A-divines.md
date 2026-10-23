@@ -13939,3 +13939,39 @@ Slugs `jburns-*`. Built from title pages read for round 76.
 | sketchesofsermon02burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
 | sketchesofsermon03burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
 | sketchesofsermon04burn: Sketches of Sermons (1838) is 'furnished by their respective authors', a many-author compilation he edited; held back like other many-author compilations | excluded | |
+
+## Minot J. Savage (round 77, my pick, 2026-10-23)
+
+Slugs `savage-*`. Built from title pages read for round 77.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity, the science of manhood. A book for questioners (Boston, Noyes, Holmes, and company, 1873) | have-ocr | IA `christianityscie0000sava` |
+| The religion of evolution (Boston : G. H. Ellis, 1897) | have-ocr | IA `religionofevolut00savarich` |
+| Light on the cloud ([n.p.], 1876) | have-ocr | IA `lightoncloud00sava` |
+| Life questions (Boston : Lockwood, Brooks, 1879) | have-ocr | IA `lifequestions01sava` |
+| The morals of evolution (Boston : G. H. Ellis, 1880) | have-ocr | IA `moralsofevolutio00sava` |
+| Belief in God: an examination of some fundamental theistic problems (Boston, G. H. Ellis, 1881) | have-ocr | IA `beliefingodexami00sava` |
+| Talks about Jesus (Boston : Geo. H. Ellis, 1891) | have-ocr | IA `talksaboutjesus00sava` |
+| Beliefs about man (Boston, G.H. Ellis, 1882) | have-ocr | IA `beliefsaboutman00savarich` |
+| The Modern Sphinx, and Some of Her Riddles (G. H. Ellis, 1883) | have-ocr | IA `modernsphinxand00savagoog` |
+| Beliefs about the Bible (Boston, G. H. Ellis, 1883) | have-ocr | IA `beliefsaboutbibl00sava` |
+| Man, Woman and Child (G. H. Ellis, 1884) | have-ocr | IA `manwomanandchil00savagoog` |
+| The religious life (Boston : G. H. Ellis, 1885) | have-ocr | IA `religiouslife00sava` |
+| Social problems (Boston : G. H. Ellis, 1886) | have-ocr | IA `socialproblems00savagoog` |
+| My creed (Boston, G. H. Ellis, 1887) | have-ocr | IA `mycreed00sava` |
+| Religious reconstruction (Boston, G. H. Ellis, 1888) | have-ocr | IA `religiousreconst00savarich` |
+| The signs of the times ([n.p.], 1889) | have-ocr | IA `signsoftimes00sava` |
+| Helps for daily living (Boston, G. H. Ellis, 1889) | have-ocr | IA `helpsfordailyliv00sava` |
+| Life (Boston : G. H. Ellis, 1890) | have-ocr | IA `life00sava` |
+| Psychics; facts and theories (Boston, Mass., Arena publishing company, 1893) | have-ocr | IA `psychicsfactsth00sava` |
+| Religion for to-day (Boston, G.E. Ellis, 1897) | have-ocr | IA `religionfortoday00sava` |
+| Our unitarian gospel (Boston : Geo. H. Ellis, 1898) | have-ocr | IA `ourunitariangosp00savaiala` |
+| Life beyond death : being a review of the world's beliefs on the subject, a consideration of present conditions of thought and feeling, leading to the question as to whether it can be demonstrated as a fact (New York ; London : G. P. Putnam's sons, 1899) | have-ocr | IA `lifebeyonddeath00sava` |
+| The passing and the permanent in religion, a plain treatment of the great essentials of religion, being a sifting from these of such things as cannot outlive the results of scientific, historical and critical study,--so making more clearly seen "the things which cannot be shaken" (New York, London, G. P. Putnam's sons, 1901) | have-ocr | IA `passingpermanen00sava` |
+| Beliefs about Jesus (Boston : Geo. H. Ellis, 1901) | have-ocr | IA `beliefsaboutjesu00sava` |
+| Can telepathy explain? : results of psychical research (New York ; London : G.P. Putnam's Sons, 1903) | have-ocr | IA `cantelepathyexpl00sava` |
+| Out of Nazareth (Boston : American Unitarian association, 1903) | have-ocr | IA `outofnazareth0000sava` |
+| Pillars of the temple (Boston, American Unitarian Association, 1904) | have-ocr | IA `pillarsoftemple00sava` |
+| Life's dark problems : or, is this a good world? (New York ; London : G. P. Putnam's Sons, 1905) | have-ocr | IA `lifesdarkproblem00sava` |
+| Bluffton (a novel), his Poems and America to England (verse), Sacred Songs (a hymnal he compiled), the Ministers' Hand-book, Unity Pulpit (a serial), "Show us the Father" (a many-author volume), Living by the Day (selections made by others), and pamphlets of under 60 pages | excluded | |
