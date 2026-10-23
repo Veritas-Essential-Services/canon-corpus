@@ -1,0 +1,47 @@
+{
+ "_about": "William Watkiss Lloyd (1813-1893), raw IA OCR of The Age of Pericles (2 vols, 1875).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "W. Watkiss Lloyd",
+ "_name_words": [
+  "lloyd"
+ ],
+ "_surname": [
+  "william watkiss lloyd"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-watkiss-lloyd-age-of-pericles-1-1875": [
+   "agepericlesahis01lloygoog",
+   "The Age of Pericles: a history of the politics and arts of Greece from the Persian to the Peloponnesian War, volume I, by William Watkiss Lloyd (London: Macmillan and Co., 1875)"
+  ],
+  "w-watkiss-lloyd-age-of-pericles-2-1875": [
+   "agepericlesahis02lloygoog",
+   "The Age of Pericles: a history of the politics and arts of Greece from the Persian to the Peloponnesian War, volume II, by William Watkiss Lloyd (London: Macmillan and Co., 1875)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-watkiss-lloyd-age-of-pericles-1-1875": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william watkiss lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-watkiss-lloyd-age-of-pericles-2-1875": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william watkiss lloyd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
