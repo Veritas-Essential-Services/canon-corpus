@@ -6133,6 +6133,14 @@
       "started": "2026-10-22T23:20:03-05:00",
       "finished": "2026-10-22T23:20:03-05:00",
       "notes": "stanley-waterloo: new shelf, 5 Gutenberg books, 3,975 units, 101 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "c-c-waddell",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — C. C. Waddell; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:20:04-05:00",
+      "finished": "2026-10-22T23:20:04-05:00",
+      "notes": "c-c-waddell: new shelf, 5 Gutenberg books, 5,956 units, 30 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

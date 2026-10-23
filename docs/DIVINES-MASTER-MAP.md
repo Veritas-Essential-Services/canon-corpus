@@ -44097,3 +44097,15 @@ Shelf: `pipeline/stanley-waterloo_shelf.json` (2026-10-22; added at the coordina
 | A Man and a Woman | have | PG 16143, `swaterloo-man-and-a-woman` (981 units) |
 | The Cassowary; What Chanced in the Cleft Mountains | have | PG 37509, `swaterloo-cassowary` (1160 units) |
 | A Son of the Ages: The Reincarnations and Adventures of Scar, the Link A Story of Man From the Beginning | have | PG 67590, `swaterloo-son-of-the-ages` (701 units) |
+
+## C. C. Waddell
+
+Shelf: `pipeline/c-c-waddell_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Nick Carter Stories No. 140, May 15, 1915: The Melting-Pot | have | PG 66764, `ccwaddell-nick-carter-stories-no-140-may-15-1915` (1198 units) |
+| Nick Carter Stories No. 141, May 22, 1915: The duplicate night | have | PG 66782, `ccwaddell-nick-carter-stories-no-141-may-22-1915` (1227 units) |
+| Nick Carter Stories No. 146, June 26, 1915: Paying the Price; or, Nick Carter's Perilous Venture | have | PG 67618, `ccwaddell-nick-carter-stories-no-146-june-26-1915` (1151 units) |
+| Nick Carter Stories No. 145, June 19, 1915: An Unsolved Mystery; Or, Nick Carter's Government Case | have | PG 68022, `ccwaddell-nick-carter-stories-no-145-june-19-1915` (1166 units) |
+| Nick Carter Stories No. 143, June 5, 1915: The sultan's pearls; or, Nick Carter's Porto Rico trail | have | PG 68499, `ccwaddell-nick-carter-stories-no-143-june-5-1915` (1214 units) |
