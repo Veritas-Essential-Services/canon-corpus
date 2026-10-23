@@ -16059,3 +16059,15 @@ Slugs `withington-*`. Built from title pages read for round 98.
 | Solomon's song: translated and explained, in three parts. I. The manuduction. II. The version. III. The supplement (Boston, J. E. Tilton and company, 1861) | have-ocr | IA `solomonssongtran00withrich` |
 | puritanaseriese04witgoog: The Puritan, published under the pen-name Jonathan Oldbug; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | penitentialtears00with: an anonymous 1845 pamphlet in the Horace Mann school controversy; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+
+## J. P. K. Henshaw (round 98, my pick, 2026-10-23)
+
+Slugs `henshaw-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The communicant's guide, or, An introduction to the sacrament of the Lord's Supper (Baltimore : J.N. Toy and W.R. Lucas, 1831) | have-ocr | IA `communicantsguid00hens` |
+| Funeral sermon (Baltimore, D. Brunner, 1841) | have-ocr | IA `funeralsermon00hens` |
+| An inquiry into the meaning of the prophecies relating to the second advent of our Lord Jesus Christ (Baltimore : Daniel Brunner, 1842) | have-ocr | IA `inquiryintomeani00hens` |
+| Memoir of the life of the Rt. Rev. Richard Channing Moore, D. D., Bishop of the Protestant Episcopal Church in the Diocese of Virginia (Philadelphia, W. Stavely, 1842) | have-ocr | IA `memoiroflifeofrt00hens` |
+| Selection of Hymns (a compilation) | excluded | |
