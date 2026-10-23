@@ -1,5 +1,5 @@
 {
- "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted. Round 111 (2026-10-17, vetoable) added Langton's Espinel (1816), Saldkeld's Gracián (1730), Jacobs's Gracián (1892, 1904 printing) and North's Guevara (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920).",
+ "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted. Round 111 (2026-10-17, vetoable) added Langton's Espinel (1816), Saldkeld's Gracián (1730), Jacobs's Gracián (1892, 1904 printing) and North's Guevara (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920). Round 124 (2026-10-23, vetoable) added Alarcón's The Three-Cornered Hat (Fassett, Knopf 1918) and Júlio Dinis's The Fidalgos of Casa Mourisca (Roxana L. Dabney, Lothrop 1891).",
  "_name_words": [
   "algernon langton",
   "archer m. huntington",
@@ -28,7 +28,9 @@
   "thomas walsh",
   "edward churton",
   "mariano joaquin lorente",
-  "mariano joaquín lorente"
+  "mariano joaquín lorente",
+  "jacob s. fassett",
+  "roxana l. dabney"
  ],
  "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common surnames (walsh, mann, ogden, burton) are never listed bare.",
  "_surname": [
@@ -59,7 +61,9 @@
   "thomas walsh",
   "edward churton",
   "mariano joaquin lorente",
-  "mariano joaquín lorente"
+  "mariano joaquín lorente",
+  "jacob s. fassett",
+  "roxana l. dabney"
  ],
  "_surname_by_slug": {
   "hsp-benavente-plays-1": [
@@ -144,6 +148,12 @@
   "hsp-aranha-canaan": [
    "mariano joaquin lorente",
    "mariano joaquín lorente"
+  ],
+  "hsp-alarcon-three-cornered-hat": [
+   "jacob s. fassett"
+  ],
+  "hsp-dinis-fidalgos": [
+   "roxana l. dabney"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -238,6 +248,14 @@
   "hsp-aranha-canaan": [
    "canaanaran00aranuoft",
    "Canaan (1920)"
+  ],
+  "hsp-alarcon-three-cornered-hat": [
+   "threecorneredha00alar",
+   "The Three-Cornered Hat (1918)"
+  ],
+  "hsp-dinis-fidalgos": [
+   "cu31924027881840",
+   "The Fidalgos of Casa Mourisca (1891)"
   ]
  },
  "titles": {
@@ -422,6 +440,23 @@
    "translated": 1920,
    "translator": "Mariano Joaquín Lorente",
    "scan_edition": "The Four Seas Company, Boston 1920; University of Toronto scan"
+  },
+  "hispanic-classics-alarcon-three-cornered-hat": {
+   "source": "hsp-alarcon-three-cornered-hat",
+   "of": "Pedro Antonio de Alarcón",
+   "work": "The Three-Cornered Hat (El sombrero de tres picos)",
+   "translated": 1918,
+   "translator": "Jacob S. Fassett Jr.",
+   "scan_edition": "Alfred A. Knopf, New York 1918 (Spanish Translations, IV); archive.org scan",
+   "note": "Knopf's series list on this scan names Martin Rivas (Blest Gana) as Spanish Translations III: the English Martin Rivas exists, but no scan of it was found."
+  },
+  "hispanic-classics-dinis-fidalgos-of-casa-mourisca": {
+   "source": "hsp-dinis-fidalgos",
+   "of": "Júlio Dinis",
+   "work": "The Fidalgos of Casa Mourisca",
+   "translated": 1891,
+   "translator": "Roxana L. Dabney",
+   "scan_edition": "D. Lothrop Company, Boston, copyright 1891; Cornell scan"
   }
  },
  "_pending": {
@@ -437,7 +472,7 @@
  "_checks": {
   "hsp-benavente-plays-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john garrett underhill",
    "identity": "ok",
@@ -448,7 +483,7 @@
   },
   "hsp-benavente-plays-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john garrett underhill",
    "identity": "ok",
@@ -459,7 +494,7 @@
   },
   "hsp-benavente-plays-3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john garrett underhill",
    "identity": "ok",
@@ -470,7 +505,7 @@
   },
   "hsp-benavente-plays-4": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john garrett underhill",
    "identity": "ok",
@@ -481,7 +516,7 @@
   },
   "hsp-martinez-sierra-plays-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "john garrett underhill",
    "identity": "ok",
@@ -492,7 +527,7 @@
   },
   "hsp-martinez-sierra-kingdom-of-god": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "helen and harley granville-barker",
    "identity": "ok",
@@ -503,7 +538,7 @@
   },
   "hsp-isaacs-maria": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "rollo ogden",
    "identity": "ok",
@@ -514,7 +549,7 @@
   },
   "hsp-sarmiento-facundo": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mrs. horace mann",
    "identity": "ok",
@@ -525,7 +560,7 @@
   },
   "hsp-alencar-iracema": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "isabel burton",
    "identity": "ok",
@@ -536,7 +571,7 @@
   },
   "hsp-dario-eleven-poems": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas walsh",
    "identity": "ok",
@@ -547,7 +582,7 @@
   },
   "hsp-poem-of-the-cid-ormsby": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "ormsby",
    "identity": "ok",
@@ -558,7 +593,7 @@
   },
   "hsp-poem-of-the-cid-huntington": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -569,7 +604,7 @@
   },
   "hsp-herculano-inquisition-branner": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "branner",
    "identity": "ok",
@@ -580,7 +615,7 @@
   },
   "hsp-gil-vicente-lyrics-bell": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -591,7 +626,7 @@
   },
   "hsp-espinel-marcos-de-obregon-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "algernon langton",
    "identity": "ok",
@@ -602,7 +637,7 @@
   },
   "hsp-espinel-marcos-de-obregon-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "algernon langton",
    "identity": "ok",
@@ -613,7 +648,7 @@
   },
   "hsp-gracian-compleat-gentleman": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -624,7 +659,7 @@
   },
   "hsp-gracian-art-of-worldly-wisdom": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "joseph jacobs",
    "identity": "ok",
@@ -635,7 +670,7 @@
   },
   "hsp-guevara-dial-of-princes": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "t. north",
    "identity": "ok",
@@ -646,7 +681,7 @@
   },
   "hsp-churton-gongora-vol-1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward churton",
    "identity": "ok",
@@ -657,7 +692,7 @@
   },
   "hsp-churton-gongora-vol-2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "edward churton",
    "identity": "ok",
@@ -668,13 +703,35 @@
   },
   "hsp-aranha-canaan": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "mariano joaquin lorente",
    "identity": "ok",
    "ia_rights": "ok: published 1920",
    "ia_date": "1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-alarcon-three-cornered-hat": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacob s. fassett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-dinis-fidalgos": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roxana l. dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  },
@@ -915,6 +972,41 @@
    "years_in_front_15k": [
     1914,
     1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-alarcon-three-cornered-hat": {
+   "ia": "threecorneredha00alar",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1833,
+    1853,
+    1857,
+    1863,
+    1866,
+    1867,
+    1873,
+    1874,
+    1875,
+    1891,
+    1907,
+    1918,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-dinis-fidalgos": {
+   "ia": "cu31924027881840",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1856,
+    1860,
+    1861,
+    1871,
+    1890,
+    1891,
+    1924
    ],
    "post_1930_years_in_front_15k": []
   }

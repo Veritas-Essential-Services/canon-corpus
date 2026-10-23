@@ -1,5 +1,5 @@
 {
- "_about": "SINGLE-TRANSLATION SHELF: more one-off English translations of plays and poetry: Gorky's The Lower Depths (Covan, Moscow Art Theatre), Schnitzler's Hands Around (1920), Claudel's Tête-d'Or, Brieux's Three Plays (with Shaw's preface), Echegaray ×2 (The Great Galeoto, The Son of Don Juan), Sardou's The Sorceress, Heijermans's The Good Hope, Cervantes's Numantia, Mitra's Nil Darpan (Madhusudan Dutt, 1861), the Chushingura, Roswitha's plays (Christopher St. John), Mascagni's Cavalleria Rusticana; and verse: Petrarch's sonnets (Higginson), Garcilaso (Wiffen, 1823), Leopardi (Cliffe), Mistral's Mirèio (Harriet Preston), Boiardo's Orlando Innamorato (W. S. Rose), La Fontaine's Fables (Thornbury), Oehlenschläger's Gods of the North, Pushkin's poems (Panin), Arthur Way's Lay of the Nibelung Men, the Orkneyinga Saga, The King's Mirror, the Dean of Lismore's Book, Antar, Abu'l-Ala's Luzumiyat (Rihani), Rumi's Mesnevi (Redhouse), Sadi's Bustān, Iqbal's Secrets of the Self (Nicholson, 1920), the Childers Jātaka, the Diamond Sutra (Gemmell), Sumerian Hymns, Fir-Flower Tablets (Ayscough and Amy Lowell), Diaries of Court Ladies of Old Japan, Halper's Post-Biblical Hebrew Literature, Christine de Pisan's Othea (Scrope) and The Babees' Book. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 43); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 (2026-10-23, vetoable) added Lermontov's The Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Poems selected from Karamzin to Nadson (1917).",
+ "_about": "SINGLE-TRANSLATION SHELF: more one-off English translations of plays and poetry: Gorky's The Lower Depths (Covan, Moscow Art Theatre), Schnitzler's Hands Around (1920), Claudel's Tête-d'Or, Brieux's Three Plays (with Shaw's preface), Echegaray ×2 (The Great Galeoto, The Son of Don Juan), Sardou's The Sorceress, Heijermans's The Good Hope, Cervantes's Numantia, Mitra's Nil Darpan (Madhusudan Dutt, 1861), the Chushingura, Roswitha's plays (Christopher St. John), Mascagni's Cavalleria Rusticana; and verse: Petrarch's sonnets (Higginson), Garcilaso (Wiffen, 1823), Leopardi (Cliffe), Mistral's Mirèio (Harriet Preston), Boiardo's Orlando Innamorato (W. S. Rose), La Fontaine's Fables (Thornbury), Oehlenschläger's Gods of the North, Pushkin's poems (Panin), Arthur Way's Lay of the Nibelung Men, the Orkneyinga Saga, The King's Mirror, the Dean of Lismore's Book, Antar, Abu'l-Ala's Luzumiyat (Rihani), Rumi's Mesnevi (Redhouse), Sadi's Bustān, Iqbal's Secrets of the Self (Nicholson, 1920), the Childers Jātaka, the Diamond Sutra (Gemmell), Sumerian Hymns, Fir-Flower Tablets (Ayscough and Amy Lowell), Diaries of Court Ladies of Old Japan, Halper's Post-Biblical Hebrew Literature, Christine de Pisan's Othea (Scrope) and The Babees' Book. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 43); Adam may veto. No uids minted. Round 120 (2026-10-23, vetoable) added Krylov twice: Ralston's Krilof and His Fables (fourth edition, 1883) and Harrison's Kriloff's Original Fables (1883). Round 121 (2026-10-23, vetoable) added Lermontov's The Demon three times (Stephen 1875, Storr 1894, Burness 1918) and Rudzinsky and Gardiner's Poems selected from Karamzin to Nadson (1917). Round 124 (2026-10-23, vetoable) added Rustaveli's The Man in the Panther's Skin (Marjory Scott Wardrop, 1912).",
  "_name_words": [
   "a. hart edwards",
   "ameen fares rihani",
@@ -62,7 +62,9 @@
   "condie stephen",
   "francis storr",
   "robert burness",
-  "rudzinsky"
+  "rudzinsky",
+  "marjory scott wardrop",
+  "wardrop"
  ],
  "_surname": [
   "a. hart edwards",
@@ -126,7 +128,9 @@
   "condie stephen",
   "francis storr",
   "robert burness",
-  "rudzinsky"
+  "rudzinsky",
+  "marjory scott wardrop",
+  "wardrop"
  ],
  "_surname_by_slug": {
   "sp2-46992": [
@@ -327,6 +331,10 @@
   ],
   "sp2-rudzinsky-russian-poems": [
    "rudzinsky"
+  ],
+  "sp2-rustaveli-man-in-the-panthers-skin": [
+   "marjory scott wardrop",
+   "wardrop"
   ]
  },
  "_surname_note": "Per title: the translator's name forms.",
@@ -517,6 +525,10 @@
   "sp2-rudzinsky-russian-poems": [
    "poemsselectedfro00rudz",
    "Poems selected from Karamzin, Pushkin, Tyutchev, Lermontov and others (1917)"
+  ],
+  "sp2-rustaveli-man-in-the-panthers-skin": [
+   "maninpanthersski0000shot",
+   "The Man in the Panther's Skin (1912)"
   ]
  },
  "titles": {
@@ -889,6 +901,14 @@
    "translator": "B. A. Rudzinsky, assisted by Stella Gardiner",
    "scan_edition": "H. S. Marshall, London; John Menzies, Edinburgh and Glasgow (preface dated Glasgow, April 1917); archive.org scan",
    "note": "Russian text with facing English translations."
+  },
+  "singles-plays-poetry-2-rustaveli-man-in-the-panthers-skin": {
+   "source": "sp2-rustaveli-man-in-the-panthers-skin",
+   "of": "Shota Rustaveli",
+   "work": "The Man in the Panther's Skin: a Romantic Epic",
+   "translated": 1912,
+   "translator": "Marjory Scott Wardrop",
+   "scan_edition": "Royal Asiatic Society (Oriental Translation Fund, new series), London 1912; archive.org scan"
   }
  },
  "_pending": {
@@ -1326,6 +1346,17 @@
    "ia_date": "[1917?]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "sp2-rustaveli-man-in-the-panthers-skin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marjory scott wardrop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -1620,6 +1651,34 @@
     1917
    ],
    "post_1930_years_in_front_15k": []
+  },
+  "sp2-rustaveli-man-in-the-panthers-skin": {
+   "ia": "maninpanthersski0000shot",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1410,
+    1423,
+    1431,
+    1443,
+    1468,
+    1485,
+    1520,
+    1541,
+    1564,
+    1572,
+    1575,
+    1646,
+    1678,
+    1712,
+    1851,
+    1902,
+    1910,
+    1912
+   ],
+   "post_1930_years_in_front_15k": [
+    2026
+   ],
+   "post_1930_examined": "Examined in round 124: 2026 is the Internet Archive's digitising line ('in 2026'); the title page reads London, 1912."
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -3952,6 +3952,14 @@
    "finished": "2026-10-22T22:31-05:00",
    "scope": "GAP-FILL (round 123, lane C's choice; Adam may veto) -- alys-hallard +4 (Coulevain), singles-continental-fiction +9; PD printings before 1931 only; no minting",
    "notes": "13 titles; ids checked across all branches. See DIGEST-C round 123. No uids minted."
+  },
+  {
+   "id": "gapfill-r124-south-east",
+   "status": "done",
+   "started": "2026-10-22T22:40-05:00",
+   "finished": "2026-10-22T22:40-05:00",
+   "scope": "GAP-FILL (round 124, lane C's choice; Adam may veto) -- italian-classics +3, hispanic-classics +2, singles-fiction-3 +2, singles-plays-poetry-2 +1; PD printings before 1931 only; no minting",
+   "notes": "8 titles; ids checked across all branches. See DIGEST-C round 124. No uids minted."
   }
  ]
 }
