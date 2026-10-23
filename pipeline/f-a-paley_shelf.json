@@ -32,6 +32,10 @@
   "f-a-paley-greek-comic-fragments-1889": [
    "fragmentsgreekc00palegoog",
    "Fragments of the Greek Comic Poets, with renderings in English verse, by F. A. Paley (London: Swan Sonnenschein, 1889)"
+  ],
+  "f-a-paley-sandys-demosthenes-private-orations-i-1886": [
+   "selectprivateora01demo",
+   "Select Private Orations of Demosthenes, part I (Contra Phormionem, Lacritum, Pantaenetum, Boeotum, Dionysodorum), with introductions and English commentary by F. A. Paley, with supplementary notes by J. E. Sandys, second edition revised (Cambridge: University Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {},
@@ -102,6 +106,17 @@
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "f-a-paley-sandys-demosthenes-private-orations-i-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "f. a. paley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

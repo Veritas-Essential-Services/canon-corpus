@@ -2904,6 +2904,10 @@ Shelf: `pipeline/heitland_shelf.json`. William Emerton Heitland (1847-1935), St 
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Agricola: a study of agriculture and rustic life in the Greco-Roman world |  | `heitland-agricola` | have (PG 74220) |
+| The Roman Republic, vol. I (Cambridge: University Press, 1909) |  | `heitland-roman-republic-v1-1909` | have-raw (IA `india.history.resource.90861`) |
+| The Roman Republic, vol. II (Cambridge: University Press; the OCR reads the year as 1999, IA dates it 1909, and the imprint's Berlin and Leipzig agents fit 1909) |  | `heitland-roman-republic-v2-1909` | have-raw (IA `bwb_P9-BHU-645`) |
+| The Roman Republic, vol. III (Cambridge: University Press, 1909) |  | `heitland-roman-republic-v3-1909` | have-raw (IA `india.history.resource.91231`) |
+| A Short History of the Roman Republic (Cambridge: University Press, 1911) |  | `heitland-short-history-roman-republic-1911` | have-raw (IA `shorthistoryofro1911heit`) |
 
 ## B. G. Niebuhr (scholarship)
 
@@ -3158,6 +3162,11 @@ Shelf: `pipeline/sandys_shelf.json`. Sandys's History of Classical Scholarship (
 | A History of Classical Scholarship, vol. II: from the revival of learning to the end of the eighteenth century (Cambridge: University Press, 1908) |  | `sandys-history-classical-scholarship-v2-1908` | have-raw (IA `historyofclassic02sanduoft`) |
 | A History of Classical Scholarship, vol. III: the eighteenth century in Germany, and the nineteenth century in Europe and the United States (Cambridge: University Press, 1908) |  | `sandys-history-classical-scholarship-v3-1908` | have-raw (IA `historyofclassic03sanduoft`) |
 | A Short History of Classical Scholarship from the Sixth Century B.C. to the Present Day (Cambridge: University Press, 1915) |  | `sandys-short-history-classical-scholarship-1915` | have-raw (IA `shorthistoryofcl00sanduoft`) |
+| The Speech of Demosthenes against the Law of Leptines, a revised text with an introduction, critical and explanatory notes, by John Edwin Sandys (Cambridge: University Press, 1890); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `sandys-leptines-1890` | have-raw (IA `demosthenouspros00demo`) |
+| An Easter Vacation in Greece, with lists of books on Greek travel and topography (London and New York: Macmillan, 1887) |  | `sandys-easter-vacation-in-greece-1887` | have-raw (IA `eastervacationin00sand`) |
+| Aristotle's Constitution of Athens, a revised text with an introduction, critical and explanatory notes, testimonia and indices, by John Edwin Sandys (London and New York: Macmillan, 1893); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `sandys-constitution-of-athens-1893` | have-raw (IA `cu31924011162892`) |
+| Harvard Lectures on the Revival of Learning (Cambridge: University Press; no year in the OCR title page, IA dates it 1905) |  | `sandys-harvard-lectures-1905` | have-raw (IA `harvardlectureso00sanduoft`) |
+| Select Private Orations of Demosthenes, part II (Pro Phormione, Contra Stephanum I-II, Nicostratum, Cononem, Calliclem), with introduction and English commentary by J. E. Sandys, with supplementary notes by F. A. Paley, second edition revised (Cambridge: University Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `sandys-paley-demosthenes-private-orations-ii-1886` | have-raw (IA `p2selectprivateo00demouoft`) |
 
 Excluded: A Companion to Latin Studies (1910), ed. Sandys (many contributors whose death years were not checked; not taken this round)
 
@@ -3371,6 +3380,10 @@ Shelf: `pipeline/verrall_shelf.json`. Odes of Horace (1884), Bacchants of Euripi
 | The Bacchants of Euripides and Other Essays (Cambridge: University Press, 1910) |  | `verrall-bacchants-euripides-1910` | have-raw (IA `bacchantsofeurip00verrrich`) |
 | Collected Literary Essays, Classical and Modern, ed. M. A. Bayfield and J. D. Duff, with a memoir (Cambridge: University Press, 1913) |  | `verrall-collected-literary-essays-1913` | have-raw (IA `collectedliterar00verruoft`) |
 | Collected Studies in Greek and Latin Scholarship, ed. M. A. Bayfield and J. D. Duff (Cambridge: University Press, 1913) |  | `verrall-collected-studies-1913` | have-raw (IA `cu31924021596261`) |
+| The Medea of Euripides, with introduction and notes by A. W. Verrall, school edition (London and New York: Macmillan, 1892 printing; first printed 1883); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `verrall-medea-school-1892` | have-raw (IA `medeaofeuripides0000awve`) |
+| The Ion of Euripides, with a translation into English verse and an introduction and notes, by A. W. Verrall (Cambridge: University Press, 1890); Greek text facing |  | `verrall-ion-1890` | have-raw (IA `ionofeuripides00euririch`) |
+| Euripides the Rationalist: a Study in the History of Art and Religion (Cambridge: University Press, 1895) |  | `verrall-euripides-the-rationalist-1895` | have-raw (IA `euripidesrationa00verruoft`) |
+| Essays on Four Plays of Euripides: Andromache, Helen, Heracles, Orestes (Cambridge: University Press, 1905) |  | `verrall-essays-on-four-plays-1905` | have-raw (IA `essaysonfourplay00verriala`) |
 
 ## Charles Merivale (scholarship)
 
@@ -3599,6 +3612,17 @@ Shelf: `pipeline/lewis-campbell_shelf.json`. A Guide to Greek Tragedy for Englis
 |---|---|---|---|
 | A Guide to Greek Tragedy for English Readers (London: Percival, 1891) |  | `lewis-campbell-guide-greek-tragedy-1891` | have-raw (IA `guidetogreektrag00camp`) |
 | Religion in Greek Literature: a Sketch in Outline (London: Longmans, Green, 1898) |  | `lewis-campbell-religion-greek-literature-1898` | have-raw (IA `religioningreek00camp`) |
+| The Sophistes and Politicus of Plato, with a revised text and English notes, by the Rev. Lewis Campbell (Oxford: Clarendon Press, 1867); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `lewis-campbell-sophistes-politicus-1867` | have-raw (IA `sophistespolitic00plat`) |
+| The Theaetetus of Plato, with a revised text and English notes, by Lewis Campbell, second edition (Oxford: Clarendon Press; the OCR reads the title-page year as 1888, the preface is dated January 1883); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `lewis-campbell-theaetetus-1883` | have-raw (IA `thetetusofplatow00plat_0`) |
+| Sophocles, edited with English notes and introductions by Lewis Campbell, vol. II: Ajax, Electra, Trachiniae, Philoctetes, Fragments (Oxford: Clarendon Press, 1881); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `lewis-campbell-sophocles-v2-1881` | have-raw (IA `sophoclesvolume00sophgoog`) |
+| Sophocles (Classical Writers, ed. J. R. Green; London: Macmillan, 1879) |  | `lewis-campbell-sophocles-classical-writers-1879` | have-raw (IA `sophocles00camp`) |
+| Plato's Republic, the Greek text, edited with notes and essays by B. Jowett and Lewis Campbell, vol. I, text (Oxford: Clarendon Press, 1894); kept per Adam's 2026-10-23 ruling |  | `lewis-campbell-jowett-republic-v1-1894` | have-raw (IA `platosrepublicgr01plat`) |
+| Plato's Republic, the Greek text, edited with notes and essays by B. Jowett and Lewis Campbell, vol. II, essays (Oxford: Clarendon Press, 1894) |  | `lewis-campbell-jowett-republic-v2-1894` | have-raw (IA `platosrepublicgr02plat`) |
+| Plato's Republic, the Greek text, edited with notes and essays by B. Jowett and Lewis Campbell, vol. III, notes (Oxford: Clarendon Press, 1894) |  | `lewis-campbell-jowett-republic-v3-1894` | have-raw (IA `platosrepublicgr03plat`) |
+| Tragic Drama in Aeschylus, Sophocles, and Shakespeare: an Essay (New York: Longmans, Green; London: Smith, Elder, 1904) |  | `lewis-campbell-tragic-drama-1904` | have-raw (IA `tragicdramainaes00campuoft`) |
+| Paralipomena Sophoclea: Supplementary Notes on the Text and Interpretation of Sophocles (London: Rivingtons, 1907) |  | `lewis-campbell-paralipomena-sophoclea-1907` | have-raw (IA `paralipomenasoph00campuoft`) |
+| The Life and Letters of Benjamin Jowett, M.A., Master of Balliol College, Oxford, by Evelyn Abbott and Lewis Campbell, vol. I (London: John Murray, 1897) |  | `lewis-campbell-abbott-life-of-jowett-v1-1897` | have-raw (IA `lifelettersofben01abbouoft`) |
+| The Life and Letters of Benjamin Jowett, M.A., Master of Balliol College, Oxford, by Evelyn Abbott and Lewis Campbell, vol. II (London: John Murray, 1897) |  | `lewis-campbell-abbott-life-of-jowett-v2-1897` | have-raw (IA `lifelettersofben02abbouoft`) |
 
 ## R. G. Moulton (scholarship)
 
@@ -11310,6 +11334,7 @@ Shelf: `pipeline/f-a-paley_shelf.json`. Paley's English commentaries on Euripide
 | The Phoenissae of Euripides, with brief notes, by F. A. Paley (Cambridge: Deighton, Bell, and Co.; London: Whittaker and Co., G. Bell and Sons, 1870); Greek text with English notes |  | `f-a-paley-phoenissae-1870` | have-raw (IA `phoenissaeofeuri00euririch`) |
 | The Iphigenia in Tauris of Euripides, with brief notes, by the late F. A. Paley (London: George Bell and Sons; Cambridge: Deighton Bell, 1904); Greek text with English notes |  | `f-a-paley-iphigenia-tauris-1904` | have-raw (IA `iphigeniaintauri00euri_0`) |
 | Fragments of the Greek Comic Poets, with renderings in English verse, by F. A. Paley (London: Swan Sonnenschein, 1889) |  | `f-a-paley-greek-comic-fragments-1889` | have-raw (IA `fragmentsgreekc00palegoog`) |
+| Select Private Orations of Demosthenes, part I (Contra Phormionem, Lacritum, Pantaenetum, Boeotum, Dionysodorum), with introductions and English commentary by F. A. Paley, with supplementary notes by J. E. Sandys, second edition revised (Cambridge: University Press, 1886); Greek text with English commentary, kept per Adam's 2026-10-23 ruling |  | `f-a-paley-sandys-demosthenes-private-orations-i-1886` | have-raw (IA `selectprivateora01demo`) |
 
 ## Arthur Sidgwick (1840-1920)
 
