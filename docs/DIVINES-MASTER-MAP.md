@@ -21066,6 +21066,18 @@ Shelf: `pipeline/h-w-smyth_shelf.json`. New shelf, round dv. Raw IA OCR, every t
 | The Sounds and Inflections of the Greek Dialects: Ionic, by Herbert Weir Smyth (Oxford: Clarendon Press, 1894) |  | `h-w-smyth-sounds-inflections-ionic-1894` | have-raw (IA `soundsinflection00smytuoft`) |
 | Greek Melic Poets, by Herbert Weir Smyth (London: Macmillan; New York: Macmillan, 1900) |  | `h-w-smyth-greek-melic-poets-1900` | have-raw (IA `greekmelicpoets00smytuoft`) |
 
+## Walter Headlam (1866-1908)
+
+Shelf: `pipeline/walter-headlam_shelf.json`. New shelf, round dw. Raw IA OCR, every title page read. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Fifty Poems of Meleager, with a translation by Walter Headlam (London and New York: Macmillan, 1890; the OCR reads the year as 'I 890') |  | `walter-headlam-fifty-poems-meleager-1890` | have-raw (IA `fiftypoemsmelea00headgoog`) |
+| On Editing Aeschylus, a criticism, by Walter Headlam (London: David Nutt, 1891) |  | `walter-headlam-on-editing-aeschylus-1891` | have-raw (IA `oneditingaeschyl00headuoft`) |
+| A Book of Greek Verse, by Walter Headlam (Cambridge: University Press, 1907) |  | `walter-headlam-book-of-greek-verse-1907` | have-raw (IA `bookofgreekverse00head`) |
+| Restorations of Menander, by Walter Headlam (Cambridge: Bowes and Bowes, 1908) |  | `walter-headlam-restorations-of-menander-1908` | have-raw (IA `restorationsofme00headrich`) |
+| Walter Headlam, his letters and poems, with a memoir by Cecil Headlam and a bibliography by L. Haward (London: Duckworth, 1910) |  | `walter-headlam-letters-and-poems-1910` | have-raw (IA `walterheadlamhis00headuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

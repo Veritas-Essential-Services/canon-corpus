@@ -1,0 +1,94 @@
+{
+ "_about": "Walter Headlam (1866-1908), Fellow of King's College, Cambridge, Greek scholar and poet, raw IA OCR: Fifty Poems of Meleager with a translation (Macmillan, 1890); On Editing Aeschylus, a criticism (David Nutt, 1891); A Book of Greek Verse (Cambridge University Press, 1907); Restorations of Menander (Bowes and Bowes, 1908); Walter Headlam, his letters and poems, with a memoir by Cecil Headlam and a bibliography by L. Haward (Duckworth, 1910). His verse Agamemnon (1910), the Headlams' prose Plays of Aeschylus (1909) and his Herodas (1922) are on the aeschylus and herodas shelves. Greek-dense volumes kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round dw). No uids minted.",
+ "_author": "Walter George Headlam (1866-1908)",
+ "_name_words": [
+  "headlam"
+ ],
+ "_surname": [
+  "walter headlam",
+  "w. g. headlam",
+  "headlam, walter"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "walter-headlam-fifty-poems-meleager-1890": [
+   "fiftypoemsmelea00headgoog",
+   "Fifty Poems of Meleager, with a translation by Walter Headlam (London and New York: Macmillan, 1890; the OCR reads the year as 'I 890')"
+  ],
+  "walter-headlam-on-editing-aeschylus-1891": [
+   "oneditingaeschyl00headuoft",
+   "On Editing Aeschylus, a criticism, by Walter Headlam (London: David Nutt, 1891)"
+  ],
+  "walter-headlam-book-of-greek-verse-1907": [
+   "bookofgreekverse00head",
+   "A Book of Greek Verse, by Walter Headlam (Cambridge: University Press, 1907)"
+  ],
+  "walter-headlam-restorations-of-menander-1908": [
+   "restorationsofme00headrich",
+   "Restorations of Menander, by Walter Headlam (Cambridge: Bowes and Bowes, 1908)"
+  ],
+  "walter-headlam-letters-and-poems-1910": [
+   "walterheadlamhis00headuoft",
+   "Walter Headlam, his letters and poems, with a memoir by Cecil Headlam and a bibliography by L. Haward (London: Duckworth, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "walter-headlam-fifty-poems-meleager-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter headlam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "walter-headlam-on-editing-aeschylus-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter headlam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "walter-headlam-book-of-greek-verse-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter headlam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "walter-headlam-restorations-of-menander-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter headlam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "walter-headlam-letters-and-poems-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter headlam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
