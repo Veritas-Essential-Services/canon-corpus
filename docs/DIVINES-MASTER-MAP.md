@@ -41755,3 +41755,18 @@ Shelf: `pipeline/henry-herbert-knibbs_shelf.json` (2026-10-22; added at the coor
 | Lost Farm Camp | have | PG 35034, `hhknibbs-lost-farm-camp` (2305 units) |
 | Maurice and the bay mare | have | PG 71377, `hhknibbs-maurice-and-the-bay-mare` (78 units) |
 | Five miles to Perdition | have | PG 79385, `hhknibbs-five-miles-to-perdition` (213 units) |
+
+## Herbert Jenkins
+
+Shelf: `pipeline/herbert-jenkins_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Bindle stories and novels. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Life of George Borrow | have | PG 3481, `hgjenkins-life-of-george-borrow` (2239 units) |
+| Malcolm Sage, Detective | pending | PG 28084, `hgjenkins-malcolm-sage-detective` (fetch failed) |
+| Adventures of Bindle | have | PG 32285, `hgjenkins-adventures-of-bindle` (2398 units) |
+| Bindle: Some Chapters in the Life of Joseph Bindle | have | PG 33261, `hgjenkins-bindle` (2086 units) |
+| John Dene of Toronto: A Comedy of Whitehall | have | PG 33277, `hgjenkins-john-dene-of-toronto` (2694 units) |
+| Patricia Brent, Spinster | have | PG 33353, `hgjenkins-patricia-brent-spinster` (2377 units) |
+| Mrs. Bindle: Some Incidents from the Domestic Life of the Bindles | have | PG 37324, `hgjenkins-mrs-bindle` (2505 units) |
+| The Night Club | have | PG 52590, `hgjenkins-night-club` (1872 units) |

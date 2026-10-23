@@ -2213,3 +2213,6 @@
 
 ## 2026-10-22 22:50 CDT — henry-herbert-knibbs: done
 - henry-herbert-knibbs: new shelf, 8 Gutenberg books, 14,451 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:50 CDT — herbert-jenkins: done
+- herbert-jenkins: new shelf, 7 Gutenberg books, 16,171 units, 873 ~2 ids; verify 0 mismatches, 0 rights flags; 1 failed to fetch.

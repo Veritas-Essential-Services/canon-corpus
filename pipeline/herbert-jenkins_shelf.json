@@ -1,0 +1,114 @@
+{
+ "_about": "Herbert Jenkins's writing at Gutenberg: bindle stories and novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Herbert Jenkins",
+ "_name_words": [
+  "herbert",
+  "jenkins"
+ ],
+ "_surname": [
+  "herbert jenkins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hgjenkins-life-of-george-borrow": [
+   3481,
+   "The Life of George Borrow"
+  ],
+  "hgjenkins-malcolm-sage-detective": [
+   28084,
+   "Malcolm Sage, Detective"
+  ],
+  "hgjenkins-adventures-of-bindle": [
+   32285,
+   "Adventures of Bindle"
+  ],
+  "hgjenkins-bindle": [
+   33261,
+   "Bindle: Some Chapters in the Life of Joseph Bindle"
+  ],
+  "hgjenkins-john-dene-of-toronto": [
+   33277,
+   "John Dene of Toronto: A Comedy of Whitehall"
+  ],
+  "hgjenkins-patricia-brent-spinster": [
+   33353,
+   "Patricia Brent, Spinster"
+  ],
+  "hgjenkins-mrs-bindle": [
+   37324,
+   "Mrs. Bindle: Some Incidents from the Domestic Life of the Bindles"
+  ],
+  "hgjenkins-night-club": [
+   52590,
+   "The Night Club"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hgjenkins-life-of-george-borrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgjenkins-adventures-of-bindle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgjenkins-bindle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgjenkins-john-dene-of-toronto": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgjenkins-patricia-brent-spinster": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgjenkins-mrs-bindle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hgjenkins-night-club": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert jenkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
