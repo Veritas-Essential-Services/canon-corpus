@@ -2141,3 +2141,6 @@
 
 ## 2026-10-22 22:45 CDT — frank-h-spearman: done
 - frank-h-spearman: new shelf, 9 Gutenberg books, 15,615 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — florence-l-barclay: done
+- florence-l-barclay: new shelf, 8 Gutenberg books, 12,680 units, 6 ~2 ids; verify 0 mismatches, 0 rights flags.

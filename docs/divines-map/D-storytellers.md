@@ -16027,3 +16027,18 @@ Shelf: `pipeline/frank-h-spearman_shelf.json` (2026-10-22; added at the coordina
 | Held for Orders: Being Stories of Railroad Life | have | PG 34365, `fhspearman-held-for-orders` (1021 units) |
 | Robert Kimberly | have | PG 41433, `fhspearman-robert-kimberly` (2751 units) |
 | The marriage verdict | have | PG 79812, `fhspearman-marriage-verdict` (1888 units) |
+
+## Florence L. Barclay
+
+Shelf: `pipeline/florence-l-barclay_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (8 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Rosary | have | PG 3659, `flbarclay-rosary` (1961 units) |
+| The White Ladies of Worcester: A Romance of the Twelfth Century | have | PG 16368, `flbarclay-white-ladies-of-worcester` (3514 units) |
+| The Upas Tree: A Christmas Story for all the Year | have | PG 16454, `flbarclay-upas-tree` (1435 units) |
+| The Mistress of Shenstone | have | PG 26235, `flbarclay-mistress-of-shenstone` (1339 units) |
+| Through the Postern Gate: A Romance in Seven Days | have | PG 33309, `flbarclay-through-the-postern-gate` (1058 units) |
+| The Following of the Star: A Romance | have | PG 40640, `flbarclay-following-of-the-star` (2120 units) |
+| The Wheels of Time | have | PG 56965, `flbarclay-wheels-of-time` (255 units) |
+| Returned Empty | have | PG 60307, `flbarclay-returned-empty` (998 units) |
