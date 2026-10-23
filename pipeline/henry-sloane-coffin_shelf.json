@@ -1,0 +1,179 @@
+{
+ "_about": "Public-domain Henry Sloane Coffin (1877-1954), Presbyterian minister of Madison Avenue Church, New York, and later president of Union Theological Seminary, for the Word Hoard: his books printed before 1930: The Creed of Jesus (1907), Social Aspects of the Cross (1911), University Sermons (1914), The Ten Commandments (1915), Some Christian Convictions (1915), In a Day of Social Rebuilding (1918), A More Christian Industrial Order (1920), What is There in Religion? (1922), What to Preach (1926) and The Portraits of Jesus Christ in the New Testament (1926). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 78 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "henry sloane coffin",
+  "henry s. coffin",
+  "h. s. coffin"
+ ],
+ "_surname": [
+  "henry sloane coffin",
+  "henry s. coffin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "coffin-creed-of-jesus": [
+   "creedofjesusothe00coff",
+   "The creed of Jesus and other sermons (New York, C. Scribner's sons, 1907)"
+  ],
+  "coffin-social-aspects-cross": [
+   "socialaspectsofc00coff",
+   "Social aspects of the cross (New York : Hodder & Stoughton, 1911)"
+  ],
+  "coffin-university-sermons": [
+   "universitysermon00coff",
+   "University sermons (New Haven : Yale University press, 1914)"
+  ],
+  "coffin-ten-commandments": [
+   "tencommandmentsw00coff",
+   "The Ten Commandments : with a Christian application to present conditions (New York : Hodder & Stoughton ; George H. Doran Co., 1915)"
+  ],
+  "coffin-christian-convictions": [
+   "cu31924029192536",
+   "Some Christian convictions : a practical restatement in terms of present-day thinking (New Haven : Yale University Press ; London : Oxford University Press, 1915)"
+  ],
+  "coffin-social-rebuilding": [
+   "indayofsocialreb00coff",
+   "In a day of social rebuilding; lectures on the ministry of the church (New Haven, Yale University Press [etc.], 1918)"
+  ],
+  "coffin-industrial-order": [
+   "morechristianind00coff",
+   "A more Christian industrial order (New York, The Macmillan company, 1920)"
+  ],
+  "coffin-what-in-religion": [
+   "whatisthereinrel00coff",
+   "What is there in religion? (New York, The Macmillan Company, 1922)"
+  ],
+  "coffin-what-to-preach": [
+   "whattopreach00coff",
+   "What to preach (New York ; London : Harper & Brothers, 1926)"
+  ],
+  "coffin-portraits-of-jesus": [
+   "portraitsofjesus00coff_0",
+   "The portraits of Jesus Christ in the New Testament (New York : The Macmillan company, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "coffin-other": "Hymns of the Kingdom of God, a hymnal he co-edited; everything printed 1930 or later"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "coffin-portraits-of-jesus": "title page image: 'THE PORTRAITS OF JESUS CHRIST IN THE NEW TESTAMENT By HENRY SLOANE COFFIN, MINISTER IN THE MADISON AVENUE PRESBYTERIAN CHURCH ... THE MACMILLAN COMPANY ... 1926' (the OCR dropped the author line)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "coffin-creed-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coffin-social-aspects-cross": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coffin-university-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coffin-ten-commandments": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coffin-christian-convictions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coffin-social-rebuilding": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coffin-industrial-order": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coffin-what-in-religion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "coffin-what-to-preach": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry sloane coffin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "coffin-portraits-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -14075,3 +14075,21 @@ Slugs `speer-*`. Built from title pages read for round 78.
 | "Are foreign missions done for?" ([New York City] : [Board of foreign missions of the Presbyterian church in the U.S.A.], 1928) | have-ocr | IA `areforeignmissio00spee` |
 | Sir James Ewing; a biography of Sir James C.R. Ewing (New York, Chicago [etc.] Fleming H. Revell company, 1928) | have-ocr | IA `sirjamesewingbio00spee` |
 | board deputation reports and his archival folders of sermon outlines; The Unity of the Americas (1916), on politics and trade; Christian Work in South America (1925), a congress report by many hands; pamphlets of under 100 pages; everything printed 1930 or later | excluded | |
+
+## Henry Sloane Coffin (round 78, my pick, 2026-10-23)
+
+Slugs `coffin-*`. Built from title pages read for round 78.
+
+| Work | Status | Where |
+|---|---|---|
+| The creed of Jesus and other sermons (New York, C. Scribner's sons, 1907) | have-ocr | IA `creedofjesusothe00coff` |
+| Social aspects of the cross (New York : Hodder & Stoughton, 1911) | have-ocr | IA `socialaspectsofc00coff` |
+| University sermons (New Haven : Yale University press, 1914) | have-ocr | IA `universitysermon00coff` |
+| The Ten Commandments : with a Christian application to present conditions (New York : Hodder & Stoughton ; George H. Doran Co., 1915) | have-ocr | IA `tencommandmentsw00coff` |
+| Some Christian convictions : a practical restatement in terms of present-day thinking (New Haven : Yale University Press ; London : Oxford University Press, 1915) | have-ocr | IA `cu31924029192536` |
+| In a day of social rebuilding; lectures on the ministry of the church (New Haven, Yale University Press [etc.], 1918) | have-ocr | IA `indayofsocialreb00coff` |
+| A more Christian industrial order (New York, The Macmillan company, 1920) | have-ocr | IA `morechristianind00coff` |
+| What is there in religion? (New York, The Macmillan Company, 1922) | have-ocr | IA `whatisthereinrel00coff` |
+| What to preach (New York ; London : Harper & Brothers, 1926) | have-ocr | IA `whattopreach00coff` |
+| The portraits of Jesus Christ in the New Testament (New York : The Macmillan company, 1926) | have-ocr | IA `portraitsofjesus00coff_0` |
+| Hymns of the Kingdom of God, a hymnal he co-edited; everything printed 1930 or later | excluded | |
