@@ -7858,6 +7858,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:38:28-05:00",
       "notes": "9 books, 1902-1920; single-sermon pamphlets excluded."
+    },
+    {
+      "id": "w-l-watkinson",
+      "status": "done",
+      "scope": "round 71",
+      "added": "2026-10-23T03:38:28-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:38:28-05:00",
+      "notes": "15 books, 1882-1909: sermons, papers, John Wicklif, the 1886 Fernley Lecture."
     }
   ]
 }

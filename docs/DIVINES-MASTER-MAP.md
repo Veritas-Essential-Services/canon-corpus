@@ -13427,6 +13427,29 @@ Slugs `kelman-*`. Built from title pages read for round 71.
 | Some aspects of international Christianity (New York ; Cincinnati : Abingdon Press, 1920) | have-ocr | IA `someaspectsof00kelm` |
 | Things eternal (New York, George H. Doran company, 1920) | have-ocr | IA `thingseterna00kelm` |
 | single sermons printed as pamphlets at Fifth Avenue (1920): He Gave Thanks, The Garden and the Cross, and others | excluded | |
+
+## W. L. Watkinson (round 71, my pick, 2026-10-23)
+
+Slugs `watkinson-*`. Built from title pages read for round 71.
+
+| Work | Status | Where |
+|---|---|---|
+| Mistaken signs, and other papers on Christian life and experience (L. Kelly, 1882) | have-ocr | IA `mistakensignsan00watkgoog` |
+| John Wicklif (London : T. Woolmer, 1884) | have-ocr | IA `johnwicklif00watkuoft` |
+| The Beginning of Christian Life (London: T. Woolmer, 1887) | have-ocr | IA `beginningofchris0000watk` |
+| Noonday Addresses, delivered in the Central Hall, Manchester (London: C. H. Kelly, 1890) | have-ocr | IA `noondayaddresses0000wlwa` |
+| The transfigured sackcloth and other sermons (New York, E.P. Dutton and Co., 1893) | have-ocr | IA `transfiguredsack00watk` |
+| The Influence of Scepticism on Character, the sixteenth Fernley Lecture, delivered at City Road Chapel, London, 2 August 1886 (London: Charles H. Kelly, 1898) | have-ocr | IA `influenceofscept00watk` |
+| The Blind Spot and other sermons, second edition (London: Horace Marshall and Son, 1900) | have-ocr | IA `blindspot01watk` |
+| The bane and the antidote and other sermons (New York : Fleming H. Revell, 1900) | have-ocr | IA `baneantidoteothe00watk` |
+| Studies in Christian character (New York : F. H. Revell, 1903) | have-ocr | IA `studiesinchristi00watk` |
+| The education of the heart : brief essays on influences that make for character (New York : Fleming H. Revell Co., 1904) | have-ocr | IA `educationofheart00watk` |
+| Inspiration in common life (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905) | have-ocr | IA `inspirationincom00watk` |
+| The duty of imperial thinking, and other chapters on themes worth while (New York, Fleming H. Revell Co, 1906) | have-ocr | IA `dutyofimperialth00watk` |
+| The supreme conquest, and other sermons preached in America (New York, Chicago [etc.] F. H. Revell company, 1907) | have-ocr | IA `supremeconquesto00watk` |
+| Frugality in the spiritual life (New York, Chicago [etc.] F. H. Revell company, 1908) | have-ocr | IA `frugalityinspir00watkgoog` |
+| The fatal barter (New York, Chicago [etc.] F. H. Revell company, 1909) | have-ocr | IA `fatalbarter00watk` |
+| The Preacher's Commentary on the Book of Psalms (1879; not checked as his); his papers in The London Quarterly Review | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
