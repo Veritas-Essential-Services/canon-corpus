@@ -16077,6 +16077,21 @@ Slugs `henshaw-*`. Built from title pages read for round 98.
 | An inquiry into the meaning of the prophecies relating to the second advent of our Lord Jesus Christ (Baltimore : Daniel Brunner, 1842) | have-ocr | IA `inquiryintomeani00hens` |
 | Memoir of the life of the Rt. Rev. Richard Channing Moore, D. D., Bishop of the Protestant Episcopal Church in the Diocese of Virginia (Philadelphia, W. Stavely, 1842) | have-ocr | IA `memoiroflifeofrt00hens` |
 | Selection of Hymns (a compilation) | excluded | |
+
+## Leonard Twells (round 99, my pick, 2026-10-23)
+
+Slugs `twells-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| A vindication of the Gospel of St. Matthew, against a late tract entitled, A dissertation or inquiry concerning the canonical authority of the Gospel according to Matthew. By Leonard Twells, ...  1732 (catalogued 1732) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-the-gos_twells-leonard_1732` |
+| A supplement to the Vindication of the Gospel of St. Matthew, against a late tract, entitled, A dissertation or inquiry concerning the canonical authority of the Gospel according to Matthew. ... By Leonard Twells, ...  1733 (catalogued 1733) | have-ocr | IA `bim_eighteenth-century_a-supplement-to-the-vind_twells-leonard_1733` |
+| A second vindication of the Gospel of St. Matthew: in answer to the Second defence of the dissertation or inquiry concerning St. Matthew's Gospel. ... By Leonard Twells, ...  1735 (catalogued 1735) | have-ocr | IA `bim_eighteenth-century_a-second-vindication-of-_twells-leonard_1735` |
+| Twenty-four sermons preach'd at the Parish Church of St. Mary le Bow, London, in the years 1739, 1740, 1741, at the lecture founded by the Honourable Robert Boyle, Esq : and eight sermons preach'd at the Cathedral Church of St. Paul, in the years 1738 and 1739, at the lecture founded by the Honoured Lady Moyer, vol. 1 (London : [s.n.], 1743, 1743) | have-ocr | IA `twentyfoursermon01twel` |
+| bim_eighteenth-century_a-reply-to-the-defence-o_twells-leonard_1733: printed without the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| theologicalworks01pocouoft: Pocock's Theological Works, which Twells edited | excluded | |
+| John Twells (grammars, Bank Charter Act) and Henry Twells (Colloquies on Preaching): different men | excluded | |
+| livesdredwardpo00cgoog: the 1816 Lives of Pocock, Pearce, Newton and Skelton (several authors in one volume) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
