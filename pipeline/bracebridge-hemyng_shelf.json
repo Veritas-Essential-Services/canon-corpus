@@ -1,0 +1,98 @@
+{
+ "_about": "Bracebridge Hemyng: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Bracebridge Hemyng",
+ "_name_words": [
+  "bracebridge",
+  "hemyng"
+ ],
+ "_surname": [
+  "bracebridge hemyng",
+  "hemyng"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bhemyng-jack-harkaway-and-his-sons-escape-from-the-brigands": [
+   7335,
+   "Jack Harkaway and His Son's Escape from the Brigands of Greece"
+  ],
+  "bhemyng-jack-harkaways-boy-tinker-among-the-turks-book-numbe": [
+   20320,
+   "Jack Harkaway's Boy Tinker Among The Turks Book Number Fifteen in the Jack Harkaway Series"
+  ],
+  "bhemyng-jack-harkaway-in-new-york": [
+   46588,
+   "Jack Harkaway in New York; or, The Adventures of the Travelers' Club"
+  ],
+  "bhemyng-slave-of-the-mine": [
+   46653,
+   "The Slave of the Mine; or, Jack Harkaway in 'Frisco"
+  ],
+  "bhemyng-young-jack-harkaway-fighting-the-pirates-of-the-red": [
+   59012,
+   "Young Jack Harkaway Fighting the Pirates of the Red Sea"
+  ],
+  "bhemyng-fool-of-the-family": [
+   72372,
+   "The fool of the family"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "bhemyng-jack-harkaway-and-his-sons-escape-from-the-brigands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bracebridge hemyng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bhemyng-jack-harkaways-boy-tinker-among-the-turks-book-numbe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bracebridge hemyng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bhemyng-jack-harkaway-in-new-york": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bracebridge hemyng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bhemyng-slave-of-the-mine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bracebridge hemyng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bhemyng-young-jack-harkaway-fighting-the-pirates-of-the-red": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bracebridge hemyng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bhemyng-fool-of-the-family": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bracebridge hemyng",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

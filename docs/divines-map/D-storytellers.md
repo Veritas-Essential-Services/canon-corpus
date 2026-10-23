@@ -18071,3 +18071,16 @@ Shelf: `pipeline/frederic-stewart-isham_shelf.json` (2026-10-22; added at the co
 | The Strollers | have | PG 29726, `fsisham-strollers` (2931 units) |
 | The Lady of the Mount | have | PG 36083, `fsisham-lady-of-the-mount` (1959 units) |
 | Nothing But the Truth | have | PG 43916, `fsisham-nothing-but-the-truth` (2162 units) |
+
+## Bracebridge Hemyng
+
+Shelf: `pipeline/bracebridge-hemyng_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jack Harkaway and His Son's Escape from the Brigands of Greece | have | PG 7335, `bhemyng-jack-harkaway-and-his-sons-escape-from-the-brigands` (6503 units) |
+| Jack Harkaway's Boy Tinker Among The Turks Book Number Fifteen in the Jack Harkaway Series | have | PG 20320, `bhemyng-jack-harkaways-boy-tinker-among-the-turks-book-numbe` (5270 units) |
+| Jack Harkaway in New York; or, The Adventures of the Travelers' Club | have | PG 46588, `bhemyng-jack-harkaway-in-new-york` (1933 units) |
+| The Slave of the Mine; or, Jack Harkaway in 'Frisco | have | PG 46653, `bhemyng-slave-of-the-mine` (1389 units) |
+| Young Jack Harkaway Fighting the Pirates of the Red Sea | have | PG 59012, `bhemyng-young-jack-harkaway-fighting-the-pirates-of-the-red` (1910 units) |
+| The fool of the family | have | PG 72372, `bhemyng-fool-of-the-family` (2178 units) |
