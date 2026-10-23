@@ -14195,6 +14195,18 @@ Slugs `selby-*`. Built from title pages read for round 79.
 | The strenuous gospel : sermons (Cincinnati : Jennings and Graham ; New York : Eaton and Mains, 1910) | have-ocr | IA `strenuousgospels00selb` |
 | The God-lit city (London : C.H. Kelly, 1911) | have-ocr | IA `godlitcity0000selb` |
 | his books of Chinese stories and life (The Chinaman in his Own Stories, Chinamen at Home, As the Chinese See Us) | excluded | |
+
+## William Nevins (round 79, my pick, 2026-10-23)
+
+Slugs `nevins-*`. Built from title pages read for round 79.
+
+| Work | Status | Where |
+|---|---|---|
+| Practical thoughts (New York, American Tract Society, 1836) | have-ocr | IA `practicalthought00nevi` |
+| Thoughts on popery / by Rev. William Nevins (New York : John S. Taylor, 1836) | have-ocr | IA `thoughtsonpopery00nevirich` |
+| Select remains of the Rev. William Nevins : with a memoir (New York : J. S. Taylor, 1836) | have-ocr | IA `selectremainsofr00nevi` |
+| Sermons (New York : John S. Taylor, 1837) | have-ocr | IA `sermons00nevi` |
+| Earnest appeals (catalogued 1867) | have-ocr | IA `earnestappeals00nevigoog` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
