@@ -6029,6 +6029,14 @@
       "started": "2026-10-22T23:17:19-05:00",
       "finished": "2026-10-22T23:17:19-05:00",
       "notes": "bertha-m-clay: new shelf, 6 Gutenberg books, 12,276 units, 71 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "george-randolph-chester",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — George Randolph Chester; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:20-05:00",
+      "finished": "2026-10-22T23:17:20-05:00",
+      "notes": "george-randolph-chester: new shelf, 6 Gutenberg books, 10,693 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

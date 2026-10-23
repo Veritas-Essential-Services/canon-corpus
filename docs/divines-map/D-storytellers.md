@@ -18188,3 +18188,16 @@ Shelf: `pipeline/bertha-m-clay_shelf.json` (2026-10-22; added at the coordinator
 | Loved and lost | have | PG 74670, `bmclay-loved-and-lost` (2352 units) |
 | Margery Daw | have | PG 74956, `bmclay-margery-daw` (2249 units) |
 | Suffered in vain | have | PG 75137, `bmclay-suffered-in-vain` (2337 units) |
+
+## George Randolph Chester
+
+Shelf: `pipeline/george-randolph-chester_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Five Thousand an Hour: How Johnny Gamble Won the Heiress | have | PG 4353, `grchester-five-thousand-an-hour` (2040 units) |
+| The Early Bird: A Business Man's Love Story | have | PG 19272, `grchester-early-bird` (1076 units) |
+| The Making of Bobby Burnit Being a Record of the Adventures of a Live American Young Man | have | PG 26485, `grchester-making-of-bobby-burnit-being-a-record-of-the-adven` (2030 units) |
+| Young Wallingford | have | PG 32897, `grchester-young-wallingford` (1759 units) |
+| Get-Rich-Quick Wallingford A Cheerful Account of the Rise and Fall of an American Business Buccaneer | have | PG 37010, `grchester-get-rich-quick-wallingford-a-cheerful-account-of-t` (1695 units) |
+| The Ball of Fire | have | PG 62653, `grchester-ball-of-fire` (2093 units) |
