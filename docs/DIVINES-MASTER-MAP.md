@@ -39366,3 +39366,25 @@ Shelf: `pipeline/john-habberton_shelf.json` (2026-10-22; added at the coordinato
 | Little Guzzy, and other stories | have | PG 67985, `jhabberton-little-guzzy-and-other-stories` (2829 units) |
 | Strange stories of the Civil War | have | PG 68798, `jhabberton-strange-stories-of-the-civil-war` (565 units) |
 | repeat-editions | excluded | PG 51085: second Gutenberg editions of titles already on the shelf. |
+
+## Harold Frederic
+
+Shelf: `pipeline/harold-frederic_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Damnation of Theron Ware | have | PG 133, `hfrederic-damnation-of-theron-ware` (1632 units) |
+| The Market-Place | have | PG 298, `hfrederic-market-place` (1748 units) |
+| In the Valley | have | PG 9787, `hfrederic-in-the-valley` (1752 units) |
+| The Deserter, and Other Stories: A Book of Two Wars | have | PG 44304, `hfrederic-deserter-and-other-stories` (1348 units) |
+| The Copperhead | have | PG 46124, `hfrederic-copperhead` (631 units) |
+| Mrs Albert Grundy—Observations in Philistia | have | PG 50496, `hfrederic-mrs-albert-grundy-observations-in-philistia` (449 units) |
+| In the Sixties | have | PG 54764, `hfrederic-in-the-sixties` (1230 units) |
+| The Return of the O'Mahony: A Novel | have | PG 54900, `hfrederic-return-of-the-omahony` (1757 units) |
+| March Hares | have | PG 54986, `hfrederic-march-hares` (921 units) |
+| Seth's Brother's Wife: A Study of Life in the Greater New York | have | PG 54987, `hfrederic-seths-brothers-wife` (1689 units) |
+| Gloria Mundi | have | PG 54988, `hfrederic-gloria-mundi` (1599 units) |
+| The Young Emperor, William II of Germany A Study in Character Development on a Throne | have | PG 54989, `hfrederic-young-emperor-william-ii-of-germany-a-study-in-cha` (430 units) |
+| The Lawton Girl | have | PG 55339, `hfrederic-lawton-girl` (2056 units) |
+| Marsena, and Other Stories of the Wartime | have | PG 56005, `hfrederic-marsena-and-other-stories-of-the-wartime` (584 units) |
+| pg-57537 | excluded | PG 57537: Gutenberg's index of the author's works, not a book. |

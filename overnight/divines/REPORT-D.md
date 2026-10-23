@@ -1865,3 +1865,6 @@
 
 ## 2026-10-22 22:24 CDT — john-habberton: done
 - john-habberton: new shelf, 14 Gutenberg books, 18,744 units, 166 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — harold-frederic: done
+- harold-frederic: new shelf, 14 Gutenberg books, 17,826 units, 136 ~2 ids; verify 0 mismatches, 0 rights flags.
