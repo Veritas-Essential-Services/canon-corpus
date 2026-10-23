@@ -1,0 +1,72 @@
+{
+ "_about": "Public-domain Henry Clay Fish (1820-1877), Baptist minister of Newark, New Jersey, for the Word Hoard: Primitive Piety Revived (1855), Harry's Conflicts (1872) and Handbook of Revivals (1874). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 67 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fish"
+ ],
+ "_surname": [
+  "henry c. fish",
+  "henry clay fish",
+  "h. c. fish",
+  "rev. henry c. fish"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hcfish-primitive-piety": [
+   "primitivepietyrev00fishrich",
+   "Primitive piety revived or, The aggressive power of the Christian church. A premium essay (Boston, Congregational Board of Publication, 1855)"
+  ],
+  "hcfish-harrys-conflicts": [
+   "harrysconflictsl00fish",
+   "Harry's conflicts : life sketches (Philadelphia : Bible and Publication Society, 1872)"
+  ],
+  "hcfish-handbook-revivals": [
+   "handbookofreviva00fish",
+   "Handbook of revivals : for the use of winners of souls (Boston : J. H. Earle, 1874)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hcfish-other": "Anthologies he edited: History and Repository of Pulpit Eloquence, Pulpit Eloquence of the Nineteenth Century, Select Discourses by Monod, Krummacher and others, Heaven in Song; The Agent's Manual of Life Assurance (another Fish)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hcfish-primitive-piety": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. fish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcfish-harrys-conflicts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. fish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hcfish-handbook-revivals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry c. fish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

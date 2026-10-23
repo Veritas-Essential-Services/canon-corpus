@@ -13141,6 +13141,17 @@ Slugs `wtaylorbp-*`. Built from title pages read for round 67.
 | Four years' campaign in India (New York : Nelson & Phillips, 1875) | have-ocr | IA `cu31924022906006` |
 | Our South American cousins (New York, Nelson and Phillips; London, Hodder and Stoughton, 1878) | have-ocr | IA `cu31924021167378` |
 | Other William Taylors (of Norwich, the arithmetic teachers); William M. Taylor of New York (his own shelf) | excluded | |
+
+## Henry Clay Fish (round 67, my pick, 2026-10-23)
+
+Slugs `hcfish-*`. Built from title pages read for round 67.
+
+| Work | Status | Where |
+|---|---|---|
+| Primitive piety revived or, The aggressive power of the Christian church. A premium essay (Boston, Congregational Board of Publication, 1855) | have-ocr | IA `primitivepietyrev00fishrich` |
+| Harry's conflicts : life sketches (Philadelphia : Bible and Publication Society, 1872) | have-ocr | IA `harrysconflictsl00fish` |
+| Handbook of revivals : for the use of winners of souls (Boston : J. H. Earle, 1874) | have-ocr | IA `handbookofreviva00fish` |
+| Anthologies he edited: History and Repository of Pulpit Eloquence, Pulpit Eloquence of the Nineteenth Century, Select Discourses by Monod, Krummacher and others, Heaven in Song; The Agent's Manual of Life Assurance (another Fish) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
