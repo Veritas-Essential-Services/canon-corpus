@@ -1,0 +1,36 @@
+{
+ "_about": "Denton J. Snider (1841-1925), St. Louis Hegelian: Ancient European Philosophy, the History of Greek Philosophy Psychologically Treated (1903). His many other books are outside lane B. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Denton Jaques Snider (1841-1925)",
+ "_name_words": [
+  "snider",
+  "ancient",
+  "european",
+  "philosophy",
+  "greek"
+ ],
+ "_surname": [
+  "snider"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "snider-ancient-european-philosophy-1903": [
+   "ancienteuropeanp00sniduoft",
+   "Ancient European Philosophy: the History of Greek Philosophy Psychologically Treated (1903)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "snider-ancient-european-philosophy-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snider",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "[1903]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

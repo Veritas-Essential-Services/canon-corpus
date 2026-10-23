@@ -9534,3 +9534,12 @@ Shelf: `pipeline/louise-ropes-loomis_shelf.json`. Medieval Hellenism (1906). Not
 |---|---|---|---|
 | Medieval Hellenism (1906) |  | `loomis-medieval-hellenism-1906` | have-raw (IA `medievalhellenis00loomrich`) |
 
+
+## Denton J. Snider (1841-1925)
+
+Shelf: `pipeline/denton-j-snider_shelf.json`. Ancient European Philosophy (1903). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Ancient European Philosophy: the History of Greek Philosophy Psychologically Treated (1903) |  | `snider-ancient-european-philosophy-1903` | have-raw (IA `ancienteuropeanp00sniduoft`) |
+
