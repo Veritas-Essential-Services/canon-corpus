@@ -12142,6 +12142,21 @@ Slugs `fairchild-*`. Built from title pages read for round 57.
 | Moral science; or, The philosophy of obligation (New York, Sheldon & company, 1892) | have-ocr | IA `moralscienceorp01fairgoog` |
 | Elements of theology, natural and revealed (Oberlin, Ohio : E. J. Goodrich, 1892) | have-ocr | IA `elementsoftheolo00fair` |
 | Finney's Systematic Theology (1878), which he edited (Finney's book, held on the charles-finney shelf); Reminiscences of Finney (several speakers); Woman's Right to the Ballot (political); books by Charles S. Fairchild and others | excluded | |
+
+## Francis L. Patton (round 57, my pick, 2026-10-23)
+
+Slugs `patton-*`. Built from title pages read for round 57.
+
+| Work | Status | Where |
+|---|---|---|
+| The inspiration of the Scriptures (Philadelphia, Presbyterian Board of Publication, [186) | have-ocr | IA `inspirationofscr00pattuoft` |
+| Syllabus of Prof. Patton's lectures on theism (Princeton, N.J. : Princeton Press, 1888) | have-ocr | IA `syllabusofprofpa00patt` |
+| A discourse in memory of Archibald Alexander Hodge ([Philadelphia, Times printing house], 1887) | have-ocr | IA `discourseinmemor0000patt` |
+| The letter and the spirit ([n.p.], 1890) | have-ocr | IA `letterspirit00patt` |
+| Caspar Wistar Hodge : a memorial address (New York : Anson D. F. Randolph, 1891) | have-ocr | IA `casparwistarhodg00patt` |
+| A summary of Christian doctrine (Philadelphia : Westminster Press, 1898) | have-ocr | IA `summaryofchristi00patt_0` |
+| Fundamental Christianity (The Macmillan Company, 1926) | have-ocr | IA `fundamentalchris0000fran` |
+| The Patton vs. Swing trial volume (both sides, edited by others); Spanish translations; ethics syllabi (student notes of the same lectures) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
