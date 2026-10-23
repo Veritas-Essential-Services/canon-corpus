@@ -1,5 +1,5 @@
 {
- "_about": "Rhys Carpenter (1889-1980), Bryn Mawr, raw IA OCR of The Esthetic Basis of Greek Art (1921); published before 1930, so US public domain.  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_about": "Rhys Carpenter (1889-1980), Bryn Mawr, raw IA OCR of The Esthetic Basis of Greek Art (1921); published before 1930, so US public domain.  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted. Round eb adds The Ethics of Euripides (1916) and The Greeks in Spain (1925).",
  "_author": "Rhys Carpenter",
  "_name_words": [
   "carpenter"
@@ -13,6 +13,14 @@
   "rhys-carpenter-esthetic-basis-of-greek-art-1921": [
    "estheticbasisofg00carprich",
    "The Esthetic Basis of Greek Art of the Fifth and Fourth Centuries B.C., by Rhys Carpenter (Bryn Mawr Notes and Monographs; New York: Longmans, Green and Co., 1921)"
+  ],
+  "rhys-carpenter-ethics-of-euripides-1916": [
+   "ethicsofeuripide00carprich",
+   "The Ethics of Euripides, by Rhys Carpenter (New York: Columbia University Press, 1916)"
+  ],
+  "rhys-carpenter-greeks-in-spain-1925": [
+   "greeksinspain00carp",
+   "The Greeks in Spain, by Rhys Carpenter (Bryn Mawr: Bryn Mawr College; London and New York: Longmans, Green and Co., 1925)"
   ]
  },
  "_excluded": {},
@@ -26,6 +34,28 @@
    "ia_rights": "ok: published 1921",
    "ia_date": "1921",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhys-carpenter-ethics-of-euripides-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhys carpenter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhys-carpenter-greeks-in-spain-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rhys carpenter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
