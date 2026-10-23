@@ -1,0 +1,51 @@
+{
+ "_about": "Edwin Hatch (1835-1889), Oxford church historian: The Influence of Greek Ideas and Usages upon the Christian Church (Hibbert Lectures 1888, Gutenberg) and Essays in Biblical Greek (1889). His church-order lectures (Organization of the Early Christian Churches, Growth of Church Institutions) are church history, left for lane A; the Hatch-Redpath Septuagint Concordance is a reference index. Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Edwin Hatch (1835-1889)",
+ "_name_words": [
+  "hatch",
+  "greek",
+  "ideas",
+  "usages",
+  "biblical",
+  "septuagint"
+ ],
+ "_surname": [
+  "edwin hatch"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hatch-influence-of-greek-ideas-pg": [
+   72255,
+   "The Influence of Greek Ideas and Usages upon the Christian Church (1890)"
+  ]
+ },
+ "internet_archive": {
+  "hatch-essays-in-biblical-greek-1889": [
+   "essaysinbiblical00hatcuoft",
+   "Essays in Biblical Greek (1889)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hatch-influence-of-greek-ideas-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin hatch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hatch-essays-in-biblical-greek-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edwin hatch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

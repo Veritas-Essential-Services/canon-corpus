@@ -18925,6 +18925,16 @@ Shelf: `pipeline/william-miller-historian_shelf.json`. Frankish Greece, medieval
 
 Excluded: The Balkans (1896); The Ottoman Empire (1913, 1923); A History of the Greek People 1821-1921; Travels and Politics in the Near East; Greek Life in Town and Country (modern Balkan and Ottoman history, outside lane B)
 
+
+## Edwin Hatch (1835-1889)
+
+Shelf: `pipeline/edwin-hatch_shelf.json`. Greek ideas in the early Church (Gutenberg) and Essays in Biblical Greek. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Influence of Greek Ideas and Usages upon the Christian Church (1890) |  | `hatch-influence-of-greek-ideas-pg` | have (PG 72255) |
+| Essays in Biblical Greek (1889) |  | `hatch-essays-in-biblical-greek-1889` | have-raw (IA `essaysinbiblical00hatcuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
