@@ -20136,3 +20136,40 @@ Shelf: `pipeline/storytellers-tail-18_shelf.json` (2026-10-22; added at the coor
 | Three Bright Girls: A Story of Chance and Mischance | have | PG 62631, `aearmstrong-three-bright-girls` (1478 units) |
 | The sailor hero | have | PG 72170, `fcarmstrong-sailor-hero` (2737 units) |
 | Roster of Company I, 24th Regiment, Massachusetts Volunteers | have | PG 36673, `jarmstrong-roster-of-company-i-24th-regiment-massachusetts-v` (168 units) |
+
+## Storytellers' tail, group 19 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-19_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: William N. Armstrong, Ebenezer Arnold, William B. Arnold, Winifred Arnold, Maria Arthington, Frances Browne Arthur, Alice Askew, Claude Askew, John Jacob Astor, Clara Augusta, Cyril F. Austin, Robert Aveson, John Ayscough, Hamilton Aïdé, Charles Almanzo Babcock, Frank Bacon, John Badcock, Frances Henshaw Baden, Richard Bagot, Cornelia Baker, Esther Bakewell, Frederic Homer Balch, Gerald R. Baldwin, Frederic Henry Balfour, Edgar James Banks, William Banks, James Nelson Barker, Sale Barker, A. R. Barlow, Annie Maria Barnes. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Six prize Hawaiian stories of the Kilohana Art League | have | PG 35437, `wnarmstrong-six-prize-hawaiian-stories-of-the-kilohana-art-l` (243 units) |
+| Elizabeth: the Disinherited Daughter By E. Ben Ez-er | have | PG 8802, `earnold-elizabeth` (181 units) |
+| The Fourth Massachusetts Cavalry in the Closing Scenes of the War for the Maintenance of the Union, from Richmond to Appomatox | have | PG 31977, `wbarnold-fourth-massachusetts-cavalry-in-the-closing-scenes` (123 units) |
+| Little Merry Christmas | have | PG 78374, `warnold-little-merry-christmas` (503 units) |
+| Rhymes for Harry and His Nurse-Maid | have | PG 45168, `marthington-rhymes-for-harry-and-his-nurse-maid` (134 units) |
+| Two little travellers | have | PG 25972, `fbarthur-two-little-travellers` (857 units) |
+| The sporting chance | have | PG 68678, `aaskew-sporting-chance` (1158 units) |
+| The sporting chance | have | PG 68678, `caskew-sporting-chance` (1158 units) |
+| A Journey in Other Worlds: A Romance of the Future | have | PG 1607, `jjastor-journey-in-other-worlds` (1095 units) |
+| The Fatal Glove | have | PG 15989, `caugusta-fatal-glove` (1149 units) |
+| Edward Buttoneye and His Adventures | have | PG 43692, `cfaustin-edward-buttoneye-and-his-adventures` (69 units) |
+| Eventful Narratives The Thirteenth Book of the Faith Promoting Series. Designed for the Instruction and Encouragement of Young Latter-day Saints | have | PG 49401, `raveson-eventful-narratives-the-thirteenth-book-of-the-faith` (638 units) |
+| Mariquita: A Novel | have | PG 39498, `jayscough-mariquita` (1084 units) |
+| A voyage of discovery | have | PG 74650, `haide-voyage-of-discovery` (1595 units) |
+| Bird Day; How to prepare for it | have | PG 21266, `cababcock-bird-day` (350 units) |
+| Lightnin' After the Play of the Same Name by Winchell Smith and Frank Bacon | have | PG 34280, `fbacon-lightnin-after-the-play-of-the-same-name-by-winchell` (1515 units) |
+| Real Life In London, Volumes I. and II. Or, The Rambles and Adventures of Bob Tallyho, Esq., and His Cousin, the Hon. Tom Dashall, Through the Metropolis; Exhibiting a Living Picture of Fashionable Characters, Manners, and Amusements in High and Low Life (1821) | have | PG 20484, `jbadcock-real-life-in-london-volumes-i-and-ii-or-the-rambles` (5025 units) |
+| Edna's Sacrifice and Other Stories | have | PG 15486, `fhbaden-edna-s-sacrifice-and-other-stories` (375 units) |
+| The Passport | have | PG 46693, `rbagot-passport` (2374 units) |
+| The Court Jester | have | PG 34460, `cbaker-court-jester` (1294 units) |
+| The book of one syllable | have | PG 23453, `ebakewell-book-of-one-syllable` (375 units) |
+| The Bridge of the Gods A Romance of Indian Oregon. 19th Edition. | have | PG 28815, `fhbalch-bridge-of-the-gods-a-romance-of-indian-oregon-19th-e` (1294 units) |
+| Grey Town | have | PG 26034, `grbaldwin-grey-town` (2048 units) |
+| Austin and His Friends | have | PG 16099, `fhbalfour-austin-and-his-friends` (885 units) |
+| An Armenian princess | have | PG 75978, `ejbanks-armenian-princess` (685 units) |
+| William Adolphus Turnpike | have | PG 25562, `wbanks-william-adolphus-turnpike` (945 units) |
+| The Indian Princess; Or, La Belle Sauvage | have | PG 29230, `jnbarker-indian-princess` (774 units) |
+| Little Wideawake: A story book for little children | have | PG 54050, `sbarker-little-wideawake` (1552 units) |
+| Company G | have | PG 43562, `arbarlow-company-g` (800 units) |
+| The Red Miriok | have | PG 34810, `ambarnes-red-miriok` (573 units) |
