@@ -10497,6 +10497,8 @@ Shelf: `pipeline/tacitus_shelf.json`. Church and Brodribb's Annals and Histories
 | The Annals of Tacitus, Books I-VI, an English translation (London: John Murray, 1904) | George Gilbert Ramsay | `tacitus-ramsay-annals-1904-v1` | have-raw (IA `cu31924071188753`) |
 | The Annals of Tacitus, Books XI-XVI, an English translation (London: John Murray, 1909) | George Gilbert Ramsay | `tacitus-ramsay-annals-1909-v2` | have-raw (IA `cu31924071188761`) |
 | A Treatise on the Situation, Manners, and Inhabitants of Germany, and the Life of Agricola, with copious notes and a map, third edition (Oxford: W. Baxter; title-page date OCRs as 1816, IA 1815) | John Aikin | `tacitus-aikin-germany-agricola-1815` | have-raw (IA `atreatiseonsitu00unkngoog`) |
+| The Works of Tacitus, the Oxford translation, revised, with notes, vol. I: The Annals (Bohn's Classical Library; London: Henry G. Bohn, 1864 printing of the 1854 edition, chosen over the 1854 scan for cleaner OCR) |  | `tacitus-oxford-bohn-v1` | have-raw (IA `workstacitus00tacigoog`) |
+| The Works of Tacitus, the Oxford translation, revised, with notes, vol. II: The History, Germany, Agricola, and Dialogue on Orators (Bohn's Classical Library; London: Henry G. Bohn, 1854; the '1939' in the OCR is a Harvard accession stamp) |  | `tacitus-oxford-bohn-v2` | have-raw (IA `workstacitus00corngoog`) |
 
 Pending (wishlist): Jackson's Loeb Annals (1931-37, not cleared); 
 
@@ -10674,6 +10676,7 @@ Shelf: `pipeline/horace_shelf.json`. Conington's verse (Odes; Satires, Epistles,
 | The Lyrics of Horace, done into English rhyme (London: Rivingtons, 1870) | Thomas Charles Baring | `horace-baring-lyrics-1870` | have-raw (IA `cu31924026490668`) |
 | The Art of Poetry: To the Pisos | Christopher Smart | `horace-perseus-smart-the-art-of-poetry-to-the-pisos` | have (Perseus TEI `phi0893.phi006.perseus-eng2`) |
 | Satires | Christopher Smart | `horace-perseus-smart-satires` | have (Perseus TEI `phi0893.phi004.perseus-eng2`) |
+| The Odes and Epodes of Horace, translated literally and rhythmically (London: Henry G. Bohn, MDCCCL) |  | `horace-sewell-odes-epodes-1850` | have-raw (IA `odesepodesofhor00hora`) |
 
 Pending (wishlist): Smart's verse Horace vol. III (1767). His unrevised prose is now held from the fifth edition (1780), so the 1756 ECCO scans are no longer needed.
 
@@ -20622,6 +20625,23 @@ Shelf: `pipeline/aeneas-tacticus_shelf.json`. Aeneas Tacticus, Asclepiodotus, On
 | Work | Author | Slug | Status |
 |---|---|---|---|
 | Aeneas Tacticus, Asclepiodotus, Onasander, tr. the Illinois Greek Club (Loeb, 1923); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeneas-tacticus-illinois-greek-club-1923` | have-raw (IA `aeneastacticusas00aene_0`) |
+
+## Conyers Middleton (1683-1750)
+
+Shelf: `pipeline/conyers-middleton_shelf.json`. The Life of Cicero, 1819 edition, 2 vols. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Life of M. Tullius Cicero, in two volumes, vol. I (London: J. Cuthell and others, 1819) |  | `conyers-middleton-life-of-cicero-1819-v1` | have-raw (IA `lifeofmarcustull01midduoft`) |
+| The Life of M. Tullius Cicero, in two volumes, vol. II, with index (London, 1819) |  | `conyers-middleton-life-of-cicero-1819-v2` | have-raw (IA `lifeofmarcustull02midduoft`) |
+
+## Charles Rann Kennedy (1808-1867)
+
+Shelf: `pipeline/charles-rann-kennedy_shelf.json`. Specimens of Greek and Latin Verse (Bohn, 1853); Greek-heavy, kept per Adam's 2026-10-23 ruling. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Specimens of Greek and Latin Verse, chiefly translations (London: Henry G. Bohn, 1853); Greek-heavy, kept per Adam's 2026-10-23 ruling |  | `charles-rann-kennedy-specimens-1853` | have-raw (IA `specimensofgreek00kenn`) |
 
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 

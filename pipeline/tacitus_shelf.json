@@ -1,5 +1,5 @@
 {
- "_about": "Tacitus in English, translator per title. Alfred John Church and William Jackson Brodribb: Annals (1876; 1906 printing) and Histories (1864; 1894 printing), raw IA; Germany and Agricola ('the Oxford translation revised'), clean Gutenberg. W. Hamilton Fyfe's Histories (Oxford, 1912; Gutenberg clears it as US PD; Fyfe d. 1965). Thomas Gordon (1728-31): Germany, clean Gutenberg; his Annals I-VI selection is already on the Adler shelf. Arthur Murphy's Dialogue on Oratory. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
+ "_about": "Tacitus in English, translator per title. Alfred John Church and William Jackson Brodribb: Annals (1876; 1906 printing) and Histories (1864; 1894 printing), raw IA; Germany and Agricola ('the Oxford translation revised'), clean Gutenberg. W. Hamilton Fyfe's Histories (Oxford, 1912; Gutenberg clears it as US PD; Fyfe d. 1965). Thomas Gordon (1728-31): Germany, clean Gutenberg; his Annals I-VI selection is already on the Adler shelf. Arthur Murphy's Dialogue on Oratory. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). The Oxford translation revised, complete in Bohn's Classical Library (2 vols., 1854): vol. I Annals (1864 printing), vol. II History, Germany, Agricola, Dialogue on Orators (1854), raw IA.",
  "_name_words": [
   "tacitus",
   "cornelius"
@@ -88,6 +88,14 @@
    "atreatiseonsitu00unkngoog",
    "A Treatise on the Situation, Manners, and Inhabitants of Germany, and the Life of Agricola, with copious notes and a map, third edition (Oxford: W. Baxter; title-page date OCRs as 1816, IA 1815)",
    "tr. John Aikin"
+  ],
+  "tacitus-oxford-bohn-v1": [
+   "workstacitus00tacigoog",
+   "The Works of Tacitus, the Oxford translation, revised, with notes, vol. I: The Annals (Bohn's Classical Library; London: Henry G. Bohn, 1864 printing of the 1854 edition, chosen over the 1854 scan for cleaner OCR)"
+  ],
+  "tacitus-oxford-bohn-v2": [
+   "workstacitus00corngoog",
+   "The Works of Tacitus, the Oxford translation, revised, with notes, vol. II: The History, Germany, Agricola, and Dialogue on Orators (Bohn's Classical Library; London: Henry G. Bohn, 1854; the '1939' in the OCR is a Harvard accession stamp)"
   ]
  },
  "_cross_ref": {
@@ -118,12 +126,14 @@
   "tacitus-aikin-germany-agricola-1815": "john aikin"
  },
  "_translator_unchecked": {
-  "tacitus-oxford-germany-agricola": "no single translator to check: the Oxford translation revised (with notes)"
+  "tacitus-oxford-germany-agricola": "no single translator to check: the Oxford translation revised (with notes)",
+  "tacitus-oxford-bohn-v1": "no single translator to check: the Oxford translation revised (with notes)",
+  "tacitus-oxford-bohn-v2": "no single translator to check: the Oxford translation revised (with notes)"
  },
  "_checks": {
   "tacitus-oxford-germany-agricola": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "identity": "ok",
@@ -132,7 +142,7 @@
   },
   "tacitus-fyfe-histories": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "W. Hamilton Fyfe",
@@ -144,7 +154,7 @@
   },
   "tacitus-gordon-germany": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Thomas Gordon",
@@ -156,7 +166,7 @@
   },
   "tacitus-murphy-dialogue": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Arthur Murphy",
@@ -167,7 +177,7 @@
   },
   "tacitus-church-brodribb-annals": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "alfred john church",
@@ -180,7 +190,7 @@
   },
   "tacitus-church-brodribb-histories": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "alfred john church",
@@ -193,7 +203,7 @@
   },
   "tacitus-hutton-peterson-dialogus-agricola-germania": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "william peterson",
@@ -206,7 +216,7 @@
   },
   "tacitus-gordon-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Thomas Gordon",
@@ -219,7 +229,7 @@
   },
   "tacitus-gordon-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Thomas Gordon",
@@ -232,7 +242,7 @@
   },
   "tacitus-gordon-v3": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Thomas Gordon",
@@ -245,7 +255,7 @@
   },
   "tacitus-gordon-v4": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Thomas Gordon",
@@ -258,7 +268,7 @@
   },
   "tacitus-gordon-v5": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Thomas Gordon",
@@ -271,7 +281,7 @@
   },
   "tacitus-moore-histories-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Clifford H. Moore",
@@ -285,7 +295,7 @@
   },
   "tacitus-ramsay-annals-1904-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Ramsay",
@@ -298,7 +308,7 @@
   },
   "tacitus-ramsay-annals-1909-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "Ramsay",
@@ -311,7 +321,7 @@
   },
   "tacitus-aikin-germany-agricola-1815": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "tacitus",
    "translator_claimed": "john aikin",
@@ -319,6 +329,30 @@
    "identity": "ok",
    "ia_rights": "ok: published 1815",
    "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tacitus-oxford-bohn-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tacitus-oxford-bohn-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tacitus",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
