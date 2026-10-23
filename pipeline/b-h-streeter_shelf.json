@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain Burnett Hillman Streeter (1874-1937), Oxford New Testament scholar and Provost of Queen's, for the Word Hoard: Restatement and Reunion, War this War and the Sermon on the Mount, Woman and the Church (with Edith Picton-Turbervill), The Sadhu (with A. J. Appasamy), The Four Gospels, Reality, Moral Adventure and The Primitive Church, all printed before 1930. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 85 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "b. h. streeter",
+  "burnett hillman streeter",
+  "burnett h. streeter"
+ ],
+ "_surname": [
+  "b. h. streeter",
+  "burnett hillman streeter",
+  "burnett h. streeter",
+  "streeter"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "streeter-restatement-reunion": [
+   "cu31924029357666",
+   "Restatement and reunion : a study in first principles (London : Macmillan and Co., 1914)"
+  ],
+  "streeter-war-sermon-mount": [
+   "warthiswarsermon00strerich",
+   "War, this war and the sermon on the mount (London, New York [etc.] H. Milford, 1915)"
+  ],
+  "streeter-woman-church": [
+   "womanchurch00streuoft",
+   "Woman and the Church (London, Unwin, [191)"
+  ],
+  "streeter-sadhu": [
+   "sadhustudyinmyst00streuoft",
+   "The Sadhu: a study in mysticism and practical religion (London, Macmillan and co., limited, 1921)"
+  ],
+  "streeter-four-gospels": [
+   "fourgospelsstudy1925stre",
+   "The four Gospels; a study of origins, treating of the manuscript tradition, sources, authorship, & dates, vol. 1925 (New York, Macmillan Co., 1925)"
+  ],
+  "streeter-reality": [
+   "realitynewcorrel00stre",
+   "Reality; a new correlation of science and religion (New York : The Macmillan company, 1926)"
+  ],
+  "streeter-moral-adventure": [
+   "moraladventure0000burn",
+   "Moral Adventure (The Macmillan Company, 1929)"
+  ],
+  "streeter-primitive-church": [
+   "primitivechurch0000burn",
+   "The primitive church (catalogued 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "streeter-symposia": "Foundations (1912), Concerning Prayer, Immortality (1917), The Spirit (1919), God and the Struggle for Existence (1919) and Adventure (1927): many-author volumes he edited or contributed to",
+  "streeter-after-1929": "The Buddha and the Christ (1932) and later"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "streeter-restatement-reunion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "streeter-war-sermon-mount": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "streeter-woman-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "[1917]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "streeter-sadhu": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "streeter-four-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "streeter-reality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "streeter-moral-adventure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "streeter-primitive-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. h. streeter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -14674,3 +14674,20 @@ Slugs `peake-*`. Built from title pages read for round 85.
 | Paul the apostle : his personality and achievement / by A. S. Peake (Manchester : University Press ; London ; New York : Longmans, Green, 1928) | have-ocr | IA `paulapostlehispe00peak` |
 | A Commentary on the Bible (1919) and The People and the Book (1925), both written by many contributors under his editorship; Inaugural Lectures (Manchester faculty) | excluded | |
 | The Servant of Yahweh (1931) | excluded | |
+
+## B. H. Streeter (round 85, my pick, 2026-10-23)
+
+Slugs `streeter-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| Restatement and reunion : a study in first principles (London : Macmillan and Co., 1914) | have-ocr | IA `cu31924029357666` |
+| War, this war and the sermon on the mount (London, New York [etc.] H. Milford, 1915) | have-ocr | IA `warthiswarsermon00strerich` |
+| Woman and the Church (London, Unwin, [191) | have-ocr | IA `womanchurch00streuoft` |
+| The Sadhu: a study in mysticism and practical religion (London, Macmillan and co., limited, 1921) | have-ocr | IA `sadhustudyinmyst00streuoft` |
+| The four Gospels; a study of origins, treating of the manuscript tradition, sources, authorship, & dates, vol. 1925 (New York, Macmillan Co., 1925) | have-ocr | IA `fourgospelsstudy1925stre` |
+| Reality; a new correlation of science and religion (New York : The Macmillan company, 1926) | have-ocr | IA `realitynewcorrel00stre` |
+| Moral Adventure (The Macmillan Company, 1929) | have-ocr | IA `moraladventure0000burn` |
+| The primitive church (catalogued 1929) | have-ocr | IA `primitivechurch0000burn` |
+| Foundations (1912), Concerning Prayer, Immortality (1917), The Spirit (1919), God and the Struggle for Existence (1919) and Adventure (1927): many-author volumes he edited or contributed to | excluded | |
+| The Buddha and the Christ (1932) and later | excluded | |
