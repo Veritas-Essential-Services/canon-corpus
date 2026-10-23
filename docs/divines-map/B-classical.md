@@ -10131,3 +10131,12 @@ Shelf: `pipeline/j-n-madvig_shelf.json`. Syntax of the Greek Language, tr. Brown
 |---|---|---|---|
 | Syntax of the Greek Language, especially of the Attic Dialect (1853), tr. Henry Browne |  | `madvig-greek-syntax-1853` | have-raw (IA `cu31924021604024`) |
 
+
+## Robert Ogilvie (1833-1899)
+
+Shelf: `pipeline/robert-ogilvie_shelf.json`. Horae Latinae (1901); Latin-heavy. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Horae Latinae: Studies in Synonyms and Syntax (1901) |  | `ogilvie-horae-latinae-1901` | have-raw (IA `horaelatinaestud00ogiluoft`) |
+

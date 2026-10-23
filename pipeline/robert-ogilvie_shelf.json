@@ -1,0 +1,36 @@
+{
+ "_about": "Robert Ogilvie (1833-1899), Scottish schools inspector: Horae Latinae, Studies in Synonyms and Syntax (ed. Alexander Souter, 1901). Latin-heavy; kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "Robert Ogilvie (1833-1899)",
+ "_name_words": [
+  "ogilvie",
+  "horae",
+  "latinae",
+  "synonyms",
+  "syntax"
+ ],
+ "_surname": [
+  "ogilvie"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ogilvie-horae-latinae-1901": [
+   "horaelatinaestud00ogiluoft",
+   "Horae Latinae: Studies in Synonyms and Syntax (1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ogilvie-horae-latinae-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ogilvie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
