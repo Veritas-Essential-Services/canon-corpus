@@ -1,0 +1,164 @@
+{
+ "_about": "Public-domain William Meade (1789-1862), evangelical Episcopal Bishop of Virginia, for the Word Hoard: Sermons in the Rotunda of the University of Virginia (1829), Sermon on Confirmation (1833), Family Prayers (1834), The Law of Proportion in the Church of God (1843), Companion to the Font and the Pulpit (1846), Lectures on the Pastoral Office (1849), Conversations on the Catechism (1849), The Bible and the Classics (1861) and Old Churches, Ministers and Families of Virginia (2 vols, 1861), from Internet Archive scans. Added 2026-10-23 by lane A, round 55 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "meade"
+ ],
+ "_surname": [
+  "william meade",
+  "bishop meade",
+  "wm. meade"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "meade-rotunda-sermons": [
+   "sermonsdelivered00mead",
+   "Sermons delivered in the rotunda of the University of Virginia, on Sunday, May 24, 1829 ([n.p.], 1829)"
+  ],
+  "meade-confirmation": [
+   "sermononconfirma00mead",
+   "Sermon on confirmation (Alexandria, D.C., Published by William M. Morrison, printed at the Gazette Office, 1833)"
+  ],
+  "meade-law-of-proportion": [
+   "lawofproportioni00mead",
+   "The law of proportion in the church of God (Alexandria, Printed at the Sou: churchman office, 1843)"
+  ],
+  "meade-font-and-pulpit": [
+   "companiontofontp00mead",
+   "Companion to the font and the pulpit (Washington : J. and G.S. Gideon, Printers, 1846)"
+  ],
+  "meade-pastoral-office": [
+   "lecturesonpastor00mead",
+   "Lectures on the pastoral office (New York, Stanford and Swords, 1849)"
+  ],
+  "meade-catechism": [
+   "conversationsonc00mead",
+   "Conversations on the catechism of the Protestant Episcopal church, abridged and accommodated to the American church, from and English edition (Philadelphia, King & Baird, printers, 1849)"
+  ],
+  "meade-bible-and-classics": [
+   "bibleclassics00mead",
+   "The Bible and the classics (New York, R. Carter, 1861)"
+  ],
+  "meade-old-churches-1": [
+   "oldchurchesminis01meaduoft",
+   "Old churches, ministers and families of Virginia : in two volumes, vol. 1 (Philadelphia : J. B. Lippincott & Co., 1861)"
+  ],
+  "meade-old-churches-2": [
+   "oldchurchesminis02meaduoft",
+   "Old churches, ministers and families of Virginia : in two volumes, vol. 2 (Philadelphia : J. B. Lippincott & Co., 1861)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "meade-other": "Selections from the Homilies (1809, the Church's homilies with his preface); the joint Reply of Bishops Meade, McIlvaine and Burgess; Wise's 1910 index to Old Churches (another author)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "meade-family-prayers": "familyprayers00mead: Family Prayers (Washington, 1834). Neither title page nor preface names the compiler (catalogued as Meade), and the prayers are largely drawn from the Prayer Book; pending a better-attested copy."
+ },
+ "_translators": {},
+ "_checks": {
+  "meade-rotunda-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "meade-confirmation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meade-law-of-proportion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "meade-font-and-pulpit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "meade-pastoral-office": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "meade-catechism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "meade-bible-and-classics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meade-old-churches-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "meade-old-churches-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william meade",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

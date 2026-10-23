@@ -11812,6 +11812,24 @@ Slugs `tyng-*`. Built from title pages read for round 55.
 | Forty years' experience in Sunday-schools (New York : Sheldon ; Boston : Gould & Lincoln, 1860) | have-ocr | IA `fortyyearsexperi00tyngrich` |
 | The office and duty of a Christian pastor (New York : Harper & Brothers, 1874) | have-ocr | IA `officedutyofchri00tyng` |
 | The Christian's Own Book (1832, meditations compiled from older writers); Masonic addresses; his son Stephen H. Tyng Jr. (1839-1898), whose 1867 Liberty of Preaching sermons are his, is another man | excluded | |
+
+## William Meade (round 55, my pick, 2026-10-23)
+
+Slugs `meade-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons delivered in the rotunda of the University of Virginia, on Sunday, May 24, 1829 ([n.p.], 1829) | have-ocr | IA `sermonsdelivered00mead` |
+| Sermon on confirmation (Alexandria, D.C., Published by William M. Morrison, printed at the Gazette Office, 1833) | have-ocr | IA `sermononconfirma00mead` |
+| The law of proportion in the church of God (Alexandria, Printed at the Sou: churchman office, 1843) | have-ocr | IA `lawofproportioni00mead` |
+| Companion to the font and the pulpit (Washington : J. and G.S. Gideon, Printers, 1846) | have-ocr | IA `companiontofontp00mead` |
+| Lectures on the pastoral office (New York, Stanford and Swords, 1849) | have-ocr | IA `lecturesonpastor00mead` |
+| Conversations on the catechism of the Protestant Episcopal church, abridged and accommodated to the American church, from and English edition (Philadelphia, King & Baird, printers, 1849) | have-ocr | IA `conversationsonc00mead` |
+| The Bible and the classics (New York, R. Carter, 1861) | have-ocr | IA `bibleclassics00mead` |
+| Old churches, ministers and families of Virginia : in two volumes, vol. 1 (Philadelphia : J. B. Lippincott & Co., 1861) | have-ocr | IA `oldchurchesminis01meaduoft` |
+| Old churches, ministers and families of Virginia : in two volumes, vol. 2 (Philadelphia : J. B. Lippincott & Co., 1861) | have-ocr | IA `oldchurchesminis02meaduoft` |
+| familyprayers00mead: Family Prayers (Washington, 1834). Neither title page nor preface names the compiler (catalogued as Meade), and the prayers are largely drawn from the Prayer Book; pending a better-attested copy. | pending | not shelved |
+| Selections from the Homilies (1809, the Church's homilies with his preface); the joint Reply of Bishops Meade, McIlvaine and Burgess; Wise's 1910 index to Old Churches (another author) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
