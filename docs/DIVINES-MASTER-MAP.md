@@ -18993,6 +18993,21 @@ Slugs `maskell-*`. Built from title pages read for round 130.
 | The Present Position of the High-Church Party (1869) is by J. W. Joyce | excluded | |
 | other scans and reprints of the same books | excluded | |
 | a volume of the 1846 first edition whose scan text has no title page; the 1882 second edition is taken instead | excluded | |
+
+## T. B. Kilpatrick (round 130, my pick, 2026-10-23)
+
+Slugs `kilpatrick-*`. Built from title pages read for round 130.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian conduct :  a further study in New Testament morality (Edinburgh : T. & T. Clarke ; London, 1890) | have-ocr | IA `christianconduct00kilp` |
+| Christian character : a study in New Testament morality (Edinburgh : T. & T. Clark, 1896) | have-ocr | IA `christiancharact0000kilp` |
+| A summary of Christian doctrine (Toronto : R.D. Fraser, 1905) | have-ocr | IA `cihm_79729` |
+| New Testament evangelism (Toronto : Westminster Co., 1911) | have-ocr | IA `cihm_80416` |
+| The redemption of man (New York : Scribner's, 1920) | have-ocr | IA `redemptionofman00kilp` |
+| Our Common Faith (catalogued 1928) | have-ocr | IA `bwb_C0-AUB-513` |
+| Butler's Sermons is Bishop Butler's book, which he edited | excluded | |
+| The Kootenay Campaign is a short campaign report | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
