@@ -1,0 +1,50 @@
+{
+ "_about": "E. E. Sikes (1867-1940), St John's College, Cambridge: The Anthropology of the Greeks (1914) and Roman Poetry (1923). His Homeric Hymns (with T. W. Allen) and Hero and Leander are Greek text editions, not taken. Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_author": "Edward Ernest Sikes (1867-1940)",
+ "_name_words": [
+  "sikes",
+  "edward",
+  "ernest"
+ ],
+ "_surname": [
+  "e. e. sikes",
+  "edward ernest sikes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sikes-anthropology-of-the-greeks-1914": [
+   "anthropologyofgr0000sike",
+   "The Anthropology of the Greeks (London: Nutt, 1914)"
+  ],
+  "sikes-roman-poetry-1923": [
+   "romanpoetry00sike",
+   "Roman Poetry (London: Methuen, 1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sikes-anthropology-of-the-greeks-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. e. sikes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sikes-roman-poetry-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. e. sikes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

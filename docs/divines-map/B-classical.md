@@ -10411,3 +10411,13 @@ Shelf: `pipeline/alice-gardner_shelf.json`. Julian, Philosopher and Emperor, and
 | Julian, Philosopher and Emperor, and the Last Struggle of Paganism against Christianity (New York: Putnam, 1895) |  | `gardner-julian-philosopher-emperor-1895` | have-raw (IA `julianphilosophe00gard`) |
 | The Lascarids of Nicaea: The Story of an Empire in Exile (London: Methuen, 1912; 1964 Hakkert reprint) |  | `gardner-lascarids-of-nicaea-1912` | have-raw (IA `lascaridsofnicae0000alic`) |
 
+
+## Edward Ernest Sikes (1867-1940)
+
+Shelf: `pipeline/e-e-sikes_shelf.json`. The Anthropology of the Greeks (London: Nutt, 1914); Roman Poetry (London: Methuen, 1923). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Anthropology of the Greeks (London: Nutt, 1914) |  | `sikes-anthropology-of-the-greeks-1914` | have-raw (IA `anthropologyofgr0000sike`) |
+| Roman Poetry (London: Methuen, 1923) |  | `sikes-roman-poetry-1923` | have-raw (IA `romanpoetry00sike`) |
+
