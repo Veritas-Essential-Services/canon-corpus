@@ -17850,3 +17850,16 @@ Slugs `fitchett-*`. Built from title pages read for round 118.
 | Wesley and his century : a study in spiritual forces (Toronto : W. Briggs, 1906) | have-ocr | IA `wesleyhiscentu00fitc` |
 | The beliefs of unbelief : studies in the alternatives to faith (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1907) | have-ocr | IA `beliefsofunbelie00fitc` |
 | His popular military histories (Deeds that Won the Empire, How England Saved Europe, Nelson, the Mutiny) and his novels are left to other lanes | excluded | |
+
+## Charles S. Eby (round 118, my pick, 2026-10-23)
+
+Slugs `eby-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity and humanity : a course of lectures delivered in Meiji Kuaido, Tokio, Japan (Yokohama, Japan : R. Meiklejohn, 1883) | have-ocr | IA `cihm_06044` |
+| Christianity and civilization : with a prelude on the antiquity of man ([Tokyo? : s.n., 1883) | have-ocr | IA `albertatest_01233` |
+| Immediate Christianization of Japan (Yokohama : printed at the office of the Japan Mail, 1884) | have-ocr | IA `christianization00ebyc` |
+| Methodism and the missionary problem (Toronto : W. Briggs; Toronto : C.W. Coates; Halifax, N.S. : S. F. Huestis, 1886) | have-ocr | IA `cihm_59547` |
+| Sermon on the Mount : the charter of the Kingdom (Toronto : Canadian Citizens' League of the International Reform Bureau, 1907) | have-ocr | IA `cihm_86079` |
+| bwb_C0-BYJ-403 (1943, another Eby) | excluded | |
