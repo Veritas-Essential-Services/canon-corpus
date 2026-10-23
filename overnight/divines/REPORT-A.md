@@ -2255,3 +2255,6 @@
 
 ## 2026-10-23 08:25 CDT — round 119 done
 - f-n-peloubet, john-s-grasty, p-a-halpin, jerom-alley, pius-devine, joseph-longking: 6 shelves, 32 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 08:34 CDT — round 120 done
+- henry-sacheverell, thomas-gisborne, thomas-townson, naphtali-daggett, samuel-lavington, f-homes-dudden: 6 shelves, 48 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
