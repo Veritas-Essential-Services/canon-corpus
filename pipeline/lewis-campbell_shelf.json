@@ -1,5 +1,5 @@
 {
- "_about": "Lewis Campbell (1830-1908), Professor of Greek at St Andrews: A Guide to Greek Tragedy for English Readers (London: Percival, 1891) and Religion in Greek Literature (London: Longmans, Green, 1898), raw IA OCR. His verse Sophocles and Aeschylus are translations, outside this shelf. Round du (2026-10-23), raw IA: his Clarendon editions with English notes (Sophistes and Politicus 1867, Theaetetus 2nd ed., Sophocles vol. II 1881; vol. I not found in a readable scan), the Jowett-Campbell Republic (3 vols, 1894), Sophocles in Classical Writers (1879), Tragic Drama in Aeschylus, Sophocles, and Shakespeare (1904), Paralipomena Sophoclea (1907), and the Life and Letters of Benjamin Jowett with Evelyn Abbott (2 vols, 1897). Greek text editions kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Lewis Campbell (1830-1908), Professor of Greek at St Andrews: A Guide to Greek Tragedy for English Readers (London: Percival, 1891) and Religion in Greek Literature (London: Longmans, Green, 1898), raw IA OCR. His verse Sophocles and Aeschylus are translations, outside this shelf. Round du (2026-10-23), raw IA: his Clarendon editions with English notes (Sophistes and Politicus 1867, Theaetetus 2nd ed., Sophocles vol. II 1881; vol. I not found in a readable scan), the Jowett-Campbell Republic (3 vols, 1894), Sophocles in Classical Writers (1879), Tragic Drama in Aeschylus, Sophocles, and Shakespeare (1904), Paralipomena Sophoclea (1907), and the Life and Letters of Benjamin Jowett with Evelyn Abbott (2 vols, 1897). Greek text editions kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round dy (2026-10-23), raw IA: vol. I of his Clarendon Sophocles (second edition, 1879; vol. II already held), the 1899 supplementary Letters of Benjamin Jowett (with Evelyn Abbott) and his 1902 selection from Jowett's theological writings. Not taken: Leptophyllon Septentrionale (Edinburgh, 1887), Greek verse renderings of English poems, because the title-page OCR reads only 'I? CAMPBELL' and the author is not confirmed from the page.",
  "_name_words": [
   "campbell"
  ],
@@ -61,6 +61,19 @@
   "lewis-campbell-abbott-life-of-jowett-v2-1897": [
    "lifelettersofben02abbouoft",
    "The Life and Letters of Benjamin Jowett, M.A., Master of Balliol College, Oxford, by Evelyn Abbott and Lewis Campbell, vol. II (London: John Murray, 1897)"
+  ],
+  "lewis-campbell-sophocles-v1-1879": [
+   "SophoclesCampbellV1",
+   "Sophocles, edited with English notes and introductions by Lewis Campbell, vol. I: Oedipus Tyrannus, Oedipus Coloneus, Antigone, second edition, revised (Clarendon Press Series; Oxford: at the Clarendon Press, 1879); Greek text with English notes, kept per Adam's 2026-10-23 ruling",
+   "Sophocles_Campbell_djvu.txt"
+  ],
+  "lewis-campbell-abbott-letters-of-jowett-1899": [
+   "lettersofbenjami00jowe",
+   "Letters of Benjamin Jowett, M.A., Master of Balliol College, Oxford, arranged and edited by Evelyn Abbott and Lewis Campbell (London: John Murray, 1899)"
+  ],
+  "lewis-campbell-jowett-theological-passages-1902": [
+   "selectpassagesfr00jowerich",
+   "Select Passages from the Theological Writings of Benjamin Jowett, edited by Lewis Campbell (New York: Henry Frowde, 1902)"
   ]
  },
  "_checks": {
@@ -206,11 +219,47 @@
    "ia_date": "1897",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "lewis-campbell-sophocles-v1-1879": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-abbott-letters-of-jowett-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "lewis-campbell-jowett-theological-passages-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis campbell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_identity_checked": {
   "lewis-campbell-jowett-republic-v3-1894": {
    "author": "title page OCRs the editors as 'BY THE LATE ΡΟ Α, MASTER OF BALLIOL COLLEGE ... AND PE i> AMP RELL. M.A, HONORARY FELLOW OF BALLIOL COLLEGE, EMERITUS PROFESSOR OF GREEK IN THE UNIVERSITY OF ST. ANDREWS', spine 'JOWETT (AND CAMPBELL' (Clarendon Press, 1894)"
   }
+ },
+ "_excluded": {
+  "IA leptophyllonsept00camp (Leptophyllon Septentrionale, Edinburgh 1887)": "title-page OCR reads 'BY I? CAMPBELL'; Lewis Campbell's authorship is the catalogue's, not confirmed from the page"
  }
 }
