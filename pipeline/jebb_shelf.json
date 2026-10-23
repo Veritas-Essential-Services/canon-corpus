@@ -1,5 +1,5 @@
 {
- "_about": "Sir Richard Claverhouse Jebb (1841-1905), Regius Professor of Greek at Cambridge. Classical scholarship (lane B pivot, 2026-10-10): The Attic Orators from Antiphon to Isaeus (2nd ed., 1893, 2 vols.), The Growth and Influence of Classical Greek Poetry (1893), Homer: an Introduction to the Iliad and the Odyssey (6th ed., 1898), Bentley (English Men of Letters; 1901 printing), Modern Greece (1880) and the posthumous Essays and Addresses (1907), raw IA OCR. His Sophocles translations are on the sophocles shelf; the Sophocles and Bacchylides commentary editions are Greek facing and wait on the Greek-facing ruling. No uids minted. Selections from the Attic Orators, second edition (Macmillan, 1888), the Greek companion to his Attic Orators, raw IA.",
+ "_about": "Sir Richard Claverhouse Jebb (1841-1905), Regius Professor of Greek at Cambridge. Classical scholarship (lane B pivot, 2026-10-10): The Attic Orators from Antiphon to Isaeus (2nd ed., 1893, 2 vols.), The Growth and Influence of Classical Greek Poetry (1893), Homer: an Introduction to the Iliad and the Odyssey (6th ed., 1898), Bentley (English Men of Letters; 1901 printing), Modern Greece (1880) and the posthumous Essays and Addresses (1907), raw IA OCR. His Sophocles translations are on the sophocles shelf; the Sophocles and Bacchylides commentary editions are Greek facing and wait on the Greek-facing ruling. No uids minted. Selections from the Attic Orators, second edition (Macmillan, 1888), the Greek companion to his Attic Orators, raw IA. Round dy (2026-10-23) added, raw IA OCR with title pages read: his Catena Classicorum Ajax (Rivingtons; IA 1869) and Electra (second edition, 1870); Primer of Greek Literature (New York: Appleton, 1884, a dated scan replacing the one held back for want of a title page); The Work of the Universities for the Nation (1893); Macaulay, a lecture (1900); Some Aspects of Modern University Education (1903); and Caroline Jebb's Life and Letters of Sir Richard Claverhouse Jebb (1907). Not taken: the abridged Oedipus Coloneus (only a 1955 reprint is scanned).",
  "_name_words": [
   "jebb",
   "claverhouse"
@@ -9,7 +9,8 @@
   "richard claverhouse jebb",
   "richard jebb",
   "jebb, r. c",
-  "jebb, richard"
+  "jebb, richard",
+  "richard c. jebb"
  ],
  "ccel": {},
  "gutenberg": {},
@@ -45,11 +46,40 @@
   "jebb-selections-attic-orators-1888": [
    "selectionsfromat00jebb",
    "Selections from the Attic Orators: Antiphon, Andocides, Lysias, Isocrates, Isaeus, being a companion volume to The Attic Orators from Antiphon to Isaeus, edited with notes, second edition (London and New York: Macmillan, 1888); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "jebb-sophocles-ajax-catena-1869": [
+   "ajaxeditedbyrcje00sophuoft",
+   "Sophocles, The Ajax, edited by R. C. Jebb, Catena Classicorum ed. Arthur Holmes (London: Rivingtons; no year in the OCR title page, IA dates it 1869); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "jebb-sophocles-electra-catena-1870": [
+   "electraeditedbyr00sophuoft",
+   "Sophocles, The Electra, edited by R. C. Jebb, second edition revised, Catena Classicorum (London, Oxford and Cambridge: Rivingtons, 1870); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "jebb-primer-greek-literature-1884": [
+   "greekliterature00jebb",
+   "Greek Literature, by R. C. Jebb, Literature Primers ed. J. R. Green (New York: D. Appleton, 1884)"
+  ],
+  "jebb-work-of-universities-1893": [
+   "workofuniversiti00jebbuoft",
+   "The Work of the Universities for the Nation, past and present, an inaugural lecture delivered at the Guildhall, Cambridge, by R. C. Jebb (Cambridge: University Press, 1893)"
+  ],
+  "jebb-macaulay-1900": [
+   "cu31924027926207",
+   "Macaulay, a lecture delivered at Cambridge on August 10, 1900, in connexion with the summer meeting of University Extension students, by Sir Richard C. Jebb (Cambridge: University Press, 1900)"
+  ],
+  "jebb-aspects-university-education-1903": [
+   "someaspectsofmod00jebb",
+   "Some Aspects of Modern University Education, an address delivered at the closing ceremony of the session 1902-3, University College of North Wales, Bangor, June 19th, 1903, by Sir Richard Jebb (Cambridge: University Press, 1903)"
+  ],
+  "jebb-life-and-letters-1907": [
+   "lifelettersofsir00jebbuoft",
+   "Life and Letters of Sir Richard Claverhouse Jebb, by Caroline Jebb, with a chapter on Sir Richard Jebb as scholar (Cambridge: University Press, 1907)"
   ]
  },
  "_excluded": {
-  "Primer of Greek Literature (IA greekliterature00jebbuoft)": "no title page in the scan",
-  "Erasmus (Rede lecture, 1890)": "Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap"
+  "Primer of Greek Literature (IA greekliterature00jebbuoft)": "no title page in that scan; now held from the dated Appleton issue greekliterature00jebb (New York, 1884), slug jebb-primer-greek-literature-1884 (round dy, 2026-10-23)",
+  "Erasmus (Rede lecture, 1890)": "Erasmus belongs to the Classical reading lists thread; not taken here to avoid overlap",
+  "Oedipus Coloneus abridged for schools (1903; IA oedipuscoloneusw00sophuoft)": "the only scan is a 1955 reprint"
  },
  "_checks": {
   "jebb-attic-orators-v1-1893": {
@@ -139,11 +169,94 @@
    "ia_date": "1888",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "jebb-sophocles-ajax-catena-1869": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "[1869]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-sophocles-electra-catena-1870": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-primer-greek-literature-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jebb-work-of-universities-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jebb-macaulay-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jebb-aspects-university-education-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jebb-life-and-letters-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. jebb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_identity_checked": {
   "jebb-selections-attic-orators-1888": {
    "author": "title page read in the OCR 2026-10-23: 'EDITED WITH NOTES ... BY Rk. C. SEBB, Litt.D., CAMB. PROFESSOR OF dank IN THE UNIVERSITY OF GLASGOW ... SECOND EDITION ... 1888', i.e. R. C. Jebb, Professor of Greek at Glasgow, the name and 'Greek' garbled by the OCR; the book calls itself the companion volume to 'The Attic Orators from Antiphon to Isaeus', and IA records Jebb as editor"
+  },
+  "jebb-sophocles-electra-catena-1870": {
+   "author": "title page OCRs the editor as 'Re C JERE: MA, Fellow and Assistant Tutor of Trinity College, Cambridge, and Public Orator of the University' (Rivingtons, 1870)"
+  },
+  "jebb-primer-greek-literature-1884": {
+   "author": "title page OCRs the author as 'R. C. J EBB, M.A., Professor of Greek in the University of Glasgow' (New York: D. Appleton, 1884)"
   }
  }
 }
