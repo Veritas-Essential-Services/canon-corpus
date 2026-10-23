@@ -5481,7 +5481,7 @@
       "added": "2026-10-18T04:24Z",
       "added_by": "lane A",
       "finished": "2026-10-22T22:32:15-05:00",
-      "notes": "not shelved: no English work of Franciscus Junius the elder (1545-1602) is on Internet Archive before 1930; the EEBO scans under his name are Latin (Defensio, De Politiae Mosis, Lectiones in Ionam, De Theologia Vera, Daniel), and the English Painting of the Ancients is by his son. His Apocalypse notes reach English only inside Geneva-Tomson Bibles."
+      "notes": "CORRECTED 2026-10-23: the earlier note here was wrong. Three English books of Junius the elder are on Internet Archive (EEBO: the Apocalypsis 1592, the Apocalyps 1596, A Christian Letter 1602), found in the old lane A thread's handoff; shelved as franciscus-junius-elder."
     },
     {
       "id": "friedrich-adolph-lampe",
@@ -5941,6 +5941,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:18:09-05:00",
       "notes": "Theological Works 1838, 6 vols."
+    },
+    {
+      "id": "franciscus-junius-elder",
+      "status": "done",
+      "scope": "round 39",
+      "added": "2026-10-22T23:21:36-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:21:36-05:00",
+      "notes": "Round 39 pickup: three English EEBO books; corrects the earlier note that none existed."
     }
   ]
 }

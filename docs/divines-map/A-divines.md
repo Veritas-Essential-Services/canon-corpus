@@ -10235,3 +10235,15 @@ Slugs `vanmildert-*`. Built from title pages read for round 41.
 | The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 6 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks06vanm` |
 | The separate printings of the Historical View of Infidelity (1831, 1839), the Inquiry into Scripture Interpretation (1815) and the Lincoln's Inn Sermons (1831-1832) | alternate | not shelved |
 | His edition of Waterland's Works (1823, 1856), on the waterland shelf | excluded | |
+
+## Franciscus Junius the elder (round 39, my pick, 2026-10-22)
+
+Slugs `junius-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| Apocalypsis: A briefe and learned commentarie upon the Revelation of S. Iohn, written in Latine by M. Francis Du Jon (Imprinted at London by Richard Field; catalogued 1592) | have-ocr | IA `bim_early-english-books-1475-1640_apocalypsis-a-briefe-an_dujon-francois_1592` |
+| The Apocalyps, or Revelation of S. Iohn, with a briefe and methodicall exposition, set forth by Fr. Du Ion, newly translated (Cambridge: Iohn Legat, 1596) | have-ocr | IA `bim_early-english-books-1475-1640_the-apocalyps-or-revela_dujon-francis_1596` |
+| A Christian Letter, containing a grave and godly admonition to such as make separation from the Church assemblies in England, by Master Francis Iunius, Divinitie Reader at Leyden (for Robert Dexter; catalogued 1602) | have-ocr | IA `bim_early-english-books-1475-1640_a-christian-letter-cont_du-jon-franois-the-el_1602` |
+| Certayne Letters (1602), two by Junius and one by the exiled English church at Amsterdam, tr. R. G.: mixed authorship | alternate | not shelved |
+| His Latin works (Defensio, De Politiae Mosis, Lectiones in Ionam, De Theologia Vera); the 1599 Geneva-Tomson Bible; the younger Junius's Painting of the Ancients (a different man) | excluded | |
