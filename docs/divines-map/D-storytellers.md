@@ -16622,3 +16622,23 @@ Shelf: `pipeline/dcfisher-works_shelf.json` (2026-10-22; added at the coordinato
 | Raw Material | have | PG 66258, `dcfisher-raw-material` (622 units) |
 | The home-maker | have | PG 72140, `dcfisher-home-maker` (1306 units) |
 | held-elsewhere | excluded | PG 5347: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Edward Eggleston
+
+Shelf: `pipeline/eggleston-works_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Completes the author at Gutenberg beside the reading-list shelf. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Mystery of Metropolisville | have | PG 12195, `eeggleston-mystery-of-metropolisville` (1010 units) |
+| The End of the World: A Love Story | have | PG 14051, `eeggleston-end-of-the-world` (1002 units) |
+| The Hoosier Schoolmaster: A Story of Backwoods Life in Indiana | have | PG 15099, `eeggleston-hoosier-schoolmaster` (851 units) |
+| Stories of American Life and Adventure | have | PG 15597, `eeggleston-stories-of-american-life-and-adventure` (727 units) |
+| Queer Stories for Boys and Girls | have | PG 19896, `eeggleston-queer-stories-for-boys-and-girls` (954 units) |
+| The Hoosier School-boy | have | PG 23771, `eeggleston-hoosier-school-boy` (865 units) |
+| Duffels | have | PG 25661, `eeggleston-duffels` (1029 units) |
+| The Faith Doctor: A Story of New York | have | PG 27168, `eeggleston-faith-doctor` (1950 units) |
+| The Graysons: A Story of Illinois | have | PG 34266, `eeggleston-graysons` (1604 units) |
+| The Beginners of a Nation A History of the Source and Rise of the Earliest English Settlements in America, with Special Reference to the Life and Character of the People | have | PG 39882, `eeggleston-beginners-of-a-nation-a-history-of-the-source-and` (2480 units) |
+| Mr. Blake's Walking-Stick: A Christmas Story for Boys and Girls | have | PG 52935, `eeggleston-mr-blakes-walking-stick` (188 units) |
+| The circuit rider | have | PG 74840, `eeggleston-circuit-rider` (1239 units) |
+| held-elsewhere | excluded | PG 10070: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
