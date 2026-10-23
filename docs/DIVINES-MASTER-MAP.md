@@ -17973,6 +17973,34 @@ Slugs `sacheverell-*`. Built from title pages read for round 120.
 | French translations of his sermon | excluded | |
 | An account of the Isle of Man is by William Sacheverell | excluded | |
 | road and enclosure essays by Henry Sacheverell Homer | excluded | |
+
+## Thomas Gisborne (round 120, my pick, 2026-10-23)
+
+Slugs `gisborne-*`. Built from title pages read for round 120.
+
+| Work | Status | Where |
+|---|---|---|
+| The principles of moral philosophy investigated and briefly applied to the constitution of civil society : together with remarks on the principle assumed by Mr. Paley as the basis of all moral conclusions, and on other positions of the same author (London : Printed by T. Bensley for B. White and Son, 1789) | have-ocr | IA `principlesofmora00gisb` |
+| Remarks on the late decision of the House of Commons respecting the abolition of the slave trade. The second edition. By Thomas Gisborne, M.A.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_remarks-on-the-late-deci_gisborne-thomas_1792` |
+| On slavery and the slave trade, by T. Gisborne, M.A.  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_on-slavery-and-the-slave_gisborne-thomas_1792` |
+| An enquiry into the duties of men in the higher and middle classes of society to Great Britain, resulting fromtheir respective stations, professions, ...  1794 (catalogued 1794) | have-ocr | IA `bim_eighteenth-century_an-enquiry-into-the-duti_gisborne-thomas-the-el_1794` |
+| An enquiry into the duties of the female sex. By Thomas Gisborne, M.A. The second edition, corrected.  1797 (catalogued 1797) | have-ocr | IA `bim_eighteenth-century_an-enquiry-into-the-duti_gisborne-thomas_1797` |
+| Walks in a forest (London, Printed by A. Strahan, for T. Cadell, jun. and W. Davies, 1801) | have-ocr | IA `walksinforest00gisb` |
+| Poems, sacred and moral (London : Printed for T. Cadell and W. Davies ..., 1803) | have-ocr | IA `poemssacredmoral00gisbrich` |
+| Ode to the memory of William Cowper, Esq. By Thomas Gisborne, M.A.  1800 (catalogued 1800) | have-ocr | IA `bim_eighteenth-century_ode-to-the-memory-of-wil_gisborne-thomas_1800` |
+| Sermons Principally Designed to Illustrate and to Enforce Christian Morality (Printed for T. Cadell and W. Davies, 1809) | have-ocr | IA `sermonsprincipa01gisbgoog` |
+| The Testimony of Natural Theology to Christianity (M. Thomas, 1818) | have-ocr | IA `testimonynatura00gisbgoog` |
+| Essays on the recollections which are to subsist between earthly Friends reunited in the world to come ([n. p.], 1822) | have-ocr | IA `essaysonrecollec00gisb` |
+| Friendly observations addressed to the manufacturing population of Great Britain (catalogued 1827) | have-ocr | IA `friendlyobserva00gisbgoog` |
+| Considerations on the basis and the means of the permanent security of the Established Church of England (London : T. Cadell, 1829) | have-ocr | IA `considerationson00gisb` |
+| A familiar survey of the Christian religion, and of history as connected with the introduction of Christianity, and with its progress to the present time (Dublin, Printed for A.W. Watson, M. Keene & Son, et.al., 1830) | have-ocr | IA `familiarsurveyof00gisb` |
+| Considerations on objections current against ecclesiastical establishments; and on the (catalogued 1835) | have-ocr | IA `considerationso01gisbgoog` |
+| An enquiry respecting love, as one of the divine attributes (W. Blackwood and Sons, 1838) | have-ocr | IA `anenquiryrespec00gisbgoog` |
+| Sermons, vol. 1 (catalogued 1804) | have-ocr | IA `sermonsvolume00gisbgoog` |
+| Elegy to the memory of the Rev. William Mason.  1797 (catalogued 1797) (IA bim_eighteenth-century_elegy-to-the-memory-of-t_gisborne-thomas_1797): the printed title page names no author (only a later hand's pencil note); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Innovation: a poem.  1799 (catalogued 1799) (IA bim_eighteenth-century_innovation-a-poem_gisborne-thomas_1799): the printed title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Essays on agriculture (1854) are by his son Thomas Gisborne the younger | excluded | |
+| Flora Herbornensis, the John Hunter works, the Canadian Dominion pamphlet and the Idaho forest bulletin are by other men | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
