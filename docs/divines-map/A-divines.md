@@ -10220,3 +10220,18 @@ Slugs `secker-*`. Built from title pages read for round 41.
 | Works of Thomas Secker, vol. 11: Lectures on the Catechism of the Church of England, vol. I, fourth edition (London: J. and F. Rivington and B. White, 1771) | have-ocr | IA `worksofsecker11seckiala` |
 | Works of Thomas Secker, vol. 12: Lectures on the Catechism of the Church of England, vol. II, fourth edition (London: J. and F. Rivington and B. White, 1771) | have-ocr | IA `worksofsecker12seckiala` |
 | The separate Sermons on Several Subjects (1771, seven volumes) and Lectures on the Catechism (1771), both inside the Works; the Nine Sermons (1758) | alternate | not shelved |
+
+## William Van Mildert (round 41, my pick, 2026-10-22)
+
+Slugs `vanmildert-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 1 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks01vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 2 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks02vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 3 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks03vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 4 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks04vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 5 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks05vanm` |
+| The theological works of William Van Mildert, D.D., late Lord Bishop of Durham, vol. 6 (Oxford : S. Collingwood for John Henry Parker, 1838) | have-ocr | IA `theologicalworks06vanm` |
+| The separate printings of the Historical View of Infidelity (1831, 1839), the Inquiry into Scripture Interpretation (1815) and the Lincoln's Inn Sermons (1831-1832) | alternate | not shelved |
+| His edition of Waterland's Works (1823, 1856), on the waterland shelf | excluded | |
