@@ -3773,6 +3773,14 @@
       "started": "2026-10-22T22:09:24-05:00",
       "finished": "2026-10-22T22:09:24-05:00",
       "notes": "louis-tracy: new shelf, 30 Gutenberg books, 59,909 units, 223 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "bl-farjeon",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — B. L. Farjeon; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:09:27-05:00",
+      "finished": "2026-10-22T22:09:27-05:00",
+      "notes": "bl-farjeon: new shelf, 29 Gutenberg books, 61,676 units, 684 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

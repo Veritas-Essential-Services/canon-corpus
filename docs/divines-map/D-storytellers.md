@@ -12842,3 +12842,39 @@ Shelf: `pipeline/louis-tracy_shelf.json` (2026-10-22; added at the coordinator's
 | The de Bercy Affair | have | PG 50705, `ltracy-de-bercy-affair` (2248 units) |
 | Minkie | have | PG 58434, `ltracy-minkie` (801 units) |
 | Karl Grier | have | PG 76603, `ltracy-karl-grier` (1343 units) |
+
+## B. L. Farjeon
+
+Shelf: `pipeline/bl-farjeon_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian novels, mysteries and Christmas stories. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Miser Farebrother: A Novel (vol. 1 of 3) | have | PG 39111, `blfarjeon-miser-farebrother` (1319 units) |
+| Miser Farebrother: A Novel (vol. 2 of 3) | have | PG 39878, `blfarjeon-miser-farebrother-39878` (1090 units) |
+| Miser Farebrother: A Novel (vol. 3 of 3) | have | PG 39879, `blfarjeon-miser-farebrother-39879` (1277 units) |
+| Great Porter Square: A Mystery. v. 1 | have | PG 42905, `blfarjeon-great-porter-square` (1138 units) |
+| Great Porter Square: A Mystery. v. 2 | have | PG 42906, `blfarjeon-great-porter-square-42906` (798 units) |
+| Great Porter Square: A Mystery. v. 3 | have | PG 42907, `blfarjeon-great-porter-square-42907` (693 units) |
+| Aaron the Jew: A Novel | have | PG 42972, `blfarjeon-aaron-the-jew` (2496 units) |
+| The House of the White Shadows | have | PG 42973, `blfarjeon-house-of-the-white-shadows` (3676 units) |
+| Toilers of Babylon: A Novel | have | PG 42974, `blfarjeon-toilers-of-babylon` (3043 units) |
+| Blade-O'-Grass. Golden Grain. and Bread and Cheese and Kisses. | have | PG 43190, `blfarjeon-blade-o-grass-golden-grain-and-bread-and-cheese-an` (2849 units) |
+| Samuel Boyd of Catchpole Square: A Mystery | have | PG 43198, `blfarjeon-samuel-boyd-of-catchpole-square` (3993 units) |
+| The Last Tenant | have | PG 43199, `blfarjeon-last-tenant` (1901 units) |
+| The Betrayal of John Fordham | have | PG 45525, `blfarjeon-betrayal-of-john-fordham` (2302 units) |
+| London's Heart: A Novel | have | PG 45792, `blfarjeon-londons-heart` (3712 units) |
+| A Secret Inheritance (Volume 1 of 3) | have | PG 45880, `blfarjeon-secret-inheritance-volume-1-of-3` (961 units) |
+| A Secret Inheritance (Volume 2 of 3) | have | PG 45881, `blfarjeon-secret-inheritance-volume-2-of-3` (727 units) |
+| A Secret Inheritance (Volume 3 of 3) | have | PG 45882, `blfarjeon-secret-inheritance-volume-3-of-3` (802 units) |
+| Grif: A Story of Australian Life | have | PG 45919, `blfarjeon-grif` (2240 units) |
+| Devlin the Barber | have | PG 53044, `blfarjeon-devlin-the-barber` (1752 units) |
+| At the Sign of the Silver Flagon | have | PG 53062, `blfarjeon-at-the-sign-of-the-silver-flagon` (2204 units) |
+| The Nine of Hearts: A Novel | have | PG 53085, `blfarjeon-nine-of-hearts` (1721 units) |
+| Self-Doomed: A Novel | have | PG 53096, `blfarjeon-self-doomed` (640 units) |
+| Basil and Annette: A Novel | have | PG 53224, `blfarjeon-basil-and-annette` (2872 units) |
+| The Mystery of M. Felix | have | PG 53263, `blfarjeon-mystery-of-m-felix` (4191 units) |
+| A Fair Jewess | have | PG 53296, `blfarjeon-fair-jewess` (2334 units) |
+| Joshua Marvel | have | PG 53509, `blfarjeon-joshua-marvel` (3554 units) |
+| The Duchess of Rosemary Lane: A Novel | have | PG 53558, `blfarjeon-duchess-of-rosemary-lane` (2934 units) |
+| The Shield of Love | have | PG 53598, `blfarjeon-shield-of-love` (1510 units) |
+| Jessie Trim | have | PG 53724, `blfarjeon-jessie-trim` (2947 units) |
