@@ -47043,3 +47043,40 @@ Shelf: `pipeline/storytellers-tail-34_shelf.json` (2026-10-22; added at the coor
 | History of the Nineteenth Army Corps | have | PG 24606, `rbirwin-history-of-the-nineteenth-army-corps` (1189 units) |
 | Quintus Oakes: A Detective Story | have | PG 41790, `crjackson-quintus-oakes` (1648 units) |
 | post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 14127 A Kindergarten Story Book (copyright line 1966). The text names a 1931 or later copyright, so it is not taken until Adam rules. |
+
+## Storytellers' tail, group 35 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-35_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Mainwaring George Jacson, Henry B. James, C. V. Jamison, Myra Williams Jarrell, James Jackson Jarves, Stinson Jarvis, W. M. L. Jay, Edward Jenkins, Tudor Jenks, G. Lindsay Johnson, Virginia W. Johnson, David E. Johnston, Alice Ilgenfritz Jones, Erasmus W. Jones, Jenkins Lloyd Jones, John A. Joyce, David Wright Judd, Mary Catherine Judd, Henry F. Keenan, J. J. Kellogg, Walden Kelly, R. Emmet Kennedy, Coulson Kernahan, James Harvey Kidd, Daniel P. Kidder, Henry Martyn Kieffer, Grace Elizabeth King, Anna Bonus Kingsford, J. R. Kinnear, William Kirby. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The record of a regiment of the line | have | PG 15972, `mgjacson-record-of-a-regiment-of-the-line` (769 units) |
+| Memories of the Civil War | have | PG 68723, `hbjames-memories-of-the-civil-war` (466 units) |
+| Lady Jane | have | PG 71709, `cvjamison-lady-jane` (1250 units) |
+| Meg, of Valencia | have | PG 40926, `mwjarrell-meg-of-valencia` (539 units) |
+| Kiana: a Tradition of Hawaii | have | PG 60066, `jjjarves-kiana` (616 units) |
+| Geoffrey Hampstead: A Novel | have | PG 34611, `sjarvis-geoffrey-hampstead` (2027 units) |
+| Holden with the Cords | have | PG 56980, `wmljay-holden-with-the-cords` (2710 units) |
+| Ginx's Baby: His Birth and Other Misfortunes; a Satire | have | PG 581, `ejenkins-ginx-s-baby` (488 units) |
+| The Century World's Fair Book for Boys and Girls Being the Adventures of Harry and Philip with Their Tutor, Mr. Douglass, at the World's Columbian Exposition | have | PG 59681, `tjenks-century-world-s-fair-book-for-boys-and-girls-being-th` (1433 units) |
+| The Weird Adventures of Professor Delapine of the Sorbonne | have | PG 56713, `gljohnson-weird-adventures-of-professor-delapine-of-the-sorb` (3160 units) |
+| The Cricket's Friends: Tales Told by the Cricket, Teapot, and Saucepan | have | PG 37147, `vwjohnson-cricket-s-friends` (854 units) |
+| The Story of a Confederate Boy in the Civil War | have | PG 44889, `dejohnston-story-of-a-confederate-boy-in-the-civil-war` (1036 units) |
+| Unveiling a Parallel: A Romance | have | PG 42816, `aijones-unveiling-a-parallel` (1098 units) |
+| The Young Captives: A Story of Judah and Babylon | have | PG 12792, `ewjones-young-captives` (1056 units) |
+| An Artilleryman's Diary | have | PG 33211, `jljones-artilleryman-s-diary` (2276 units) |
+| Shakspere, Personal Recollections | have | PG 20487, `jajoyce-shakspere-personal-recollections` (1757 units) |
+| The story of the Thirty-third N. Y. S. Vols | have | PG 68232, `dwjudd-story-of-the-thirty-third-n-y-s-vols` (1095 units) |
+| Classic Myths | have | PG 9855, `mcjudd-classic-myths` (936 units) |
+| The Iron Game: A Tale of the War | have | PG 10062, `hfkeenan-iron-game` (2450 units) |
+| War Experiences and the Story of the Vicksburg Campaign from "Milliken's Bend" to July 4, 1863 being an accurate and graphic account of campaign events taken from the diary of Capt. J.J. Kellogg, of Co. B 113th Illinois volunteer infantry | have | PG 40233, `jjkellogg-war-experiences-and-the-story-of-the-vicksburg-cam` (154 units) |
+| A Historic Sketch, Lest We Forget Company "E," 26th Ohio Infantry in the War for the Union, 1861-65 | have | PG 32015, `wkelly-historic-sketch-lest-we-forget-company-e-26th-ohio-in` (61 units) |
+| Gritny people | have | PG 74941, `rekennedy-gritny-people` (1218 units) |
+| The Thirteenth Man | have | PG 69024, `ckernahan-thirteenth-man` (2786 units) |
+| Personal Recollections of a Cavalryman With Custer's Michigan Cavalry Brigade in the Civil War | have | PG 29608, `jhkidd-personal-recollections-of-a-cavalryman-with-custer-s` (1100 units) |
+| The Five Giants | have | PG 33299, `dpkidder-five-giants` (39 units) |
+| The Recollections of a Drummer-Boy | have | PG 44970, `hmkieffer-recollections-of-a-drummer-boy` (938 units) |
+| Balcony Stories | have | PG 11514, `geking-balcony-stories` (536 units) |
+| Dreams and Dream Stories | have | PG 5651, `abkingsford-dreams-and-dream-stories` (972 units) |
+| History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its term of service | have | PG 24906, `jrkinnear-history-of-the-eighty-sixth-regiment-illinois-volu` (516 units) |
+| The Golden Dog | have | PG 2735, `wkirby-golden-dog` (4195 units) |
