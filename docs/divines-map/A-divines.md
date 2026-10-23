@@ -9639,3 +9639,143 @@ Slugs `eliot-*`. Built from title pages read for round 39.
 | The Massachusett Bible (1663, 1685) and New Testament (1661), the Indian Primers (1669, 1687, 1720, 1747, 1877, 1880) and his Massachusett translations of Bayly and Shepard: not English | excluded | |
 | The Day-Breaking (1647), The Clear Sun-shine (1648, on the Thomas Shepard shelf), Strength out of Weaknesse and A Farther Discovery (1865 reprints): tracts by Wilson, Shepard, Whitfield and the Corporation, with letters of his | excluded | |
 | Poems or Epigrams (1658) by another John Eliot; John Eliot, M.D. (1694); Walker's Ten New England Leaders (1901); books about him | excluded | |
+
+## Thomas Hooker of Hartford (round 39, my pick, 2026-10-22)
+
+Slugs `thooker-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| The Soules Vocation or Effectual Calling to Christ, by T. H. (London: John Haviland for Andrew Crooke, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-soules-vocation_hooker-thomas_1638` |
+| The Soules Exaltation: a Treatise containing the Soules Union with Christ, the Soules Benefit from Union with Christ, and the Soules Justification, by T. H. (London, 1638) | have-ocr | IA `soulesexaltation00hook` |
+| The Unbeleevers Preparing for Christ, by T. Hooker (London: Tho. Cotes for Andrew Crooke, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-unbelievers-preparin_hooker-thomas_1638` |
+| The Soules Possession of Christ, whereunto is annexed a Sermon preached at the Funerall of Mr. Wilmott, by T. H. (London: M. F. for Francis Eglesfield, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_the-soules-possession-of_hooker-thomas_1638` |
+| Three Godly Sermons: The Wrath of God against Sinners; Gods Eternitie and Mans Humanitie; The Plantation of the Righteous, by T. H. (London: M. P. for John Stafford, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_three-godly-sermons-i-_hooker-thomas_1638` |
+| Foure Learned and Godly Treatises: The Carnall Hypocrite, The Churches Deliverances, The Deceitfulnesse of Sinne, The Benefit of Afflictions, by T. H. (London: Tho. Cotes for Andrew Crooke, 1638) | have-ocr | IA `bim_early-english-books-1475-1640_foure-learned-and-godly-_hooker-thomas_1638` |
+| The Christians Two Chiefe Lessons, viz. Selfe-Deniall and Selfe-Tryall, as also the Priviledge of Adoption, in three Treatises, by T. H. (London: T. B. for P. Stephens and C. Meredith, 1640) | have-ocr | IA `christianstwochi00hook` |
+| The Soules Implantation into the Naturall Olive, by T. H., carefully corrected and much enlarged (London: R. Young, 1640) | have-ocr | IA `soulesimplantati00hook` |
+| The Paterne of Perfection, exhibited in Gods Image on Adam, with some Miscellanies, by T. H. (London: for R. Y. and F. Clifton, 1640) | have-ocr | IA `bim_early-english-books-1475-1640_the-paterne-of-perfectio_hooker-thomas_1640` |
+| The Danger of Desertion: or A Farwell Sermon of Mr. Thomas Hooker, sometimes Minister at Chelmsford in Essex, second edition (London: G. M. for George Edwards, 1641) | have-ocr | IA `bim_early-english-books-1641-1700_the-danger-of-desertion_hooker-thomas_1641` |
+| An Exposition of the Principles of Religion, by Tho. Hooker (London: for R. Dawlman, 1645) | have-ocr | IA `bim_early-english-books-1641-1700_an-exposition-of-the-pri_hooker-thomas_1645` |
+| A Briefe Exposition of the Lords Prayer, by Mr. Tho. Hooker, Preacher of Gods Word (London: Moses Bell for Benjamin Allen, 1645) | have-ocr | IA `abriefeexpositi00hookgoog` |
+| Heavens Treasury Opened, in a Fruitfull Exposition of the Lords Prayer, together with the Principall Grounds of Christian Religion, by Tho. Hooker (London: for R. Dawlman, 1645) | have-ocr | IA `bim_early-english-books-1641-1700_heavens-treasury-opened_hooker-thomas_1645` |
+| The Saints Guide, in Three Treatises, by Thomas Hooker, Minister in New-England (London: for John Stafford, 1645) | have-ocr | IA `bim_early-english-books-1641-1700_the-saints-guide-_hooker-thomas_1645` |
+| The Immortality of the Soule: the Excellencie of Christ Jesus treated on, by T. H. (London, 1646) | have-ocr | IA `bim_early-english-books-1641-1700_the-immortality-of-the-s_hooker-thomas_1646` |
+| A Survey of the Summe of Church-Discipline, wherein the Way of the Churches of New-England is warranted out of the Word, by Tho. Hooker, late Pastor of the Church at Hartford upon Connecticott (London, 1648) | have-ocr | IA `surveyofsummeofc00hook_0` |
+| The Covenant of Grace Opened, being severall Sermons preached at Hartford in New-England, by Mr. Thomas Hooker (London: G. Dawson, 1649) | have-ocr | IA `bim_early-english-books-1641-1700_the-covenant-of-grace-op_hooker-thomas_1649` |
+| A Comment upon Christ's Last Prayer in the Seventeenth of John, by Mr. Thomas Hooker, late Pastor of the Church at Hartford, printed from the Author's own Papers (London: Peter Cole, catalogued 1656) | have-ocr | IA `bim_early-english-books-1641-1700_a-comment-upon-christs-_hooker-thomas_1656` |
+| The Application of Redemption, by the Effectual Work of the Word and Spirit of Christ, the First Eight Books (London: Peter Cole, catalogued 1656) | have-ocr | IA `bim_early-english-books-1641-1700_the-application-of-redem_hooker-thomas_1656` |
+| The Application of Redemption, the Ninth and Tenth Books, by Mr. Thomas Hooker, late Pastor of the Church at Hartford, printed from the Author's Papers, attested by Thomas Goodwin and Philip Nye (London: Peter Cole, 1657) | have-ocr | IA `bim_early-english-books-1641-1700_the-application-of-redem_hooker-thomas_1657` |
+| The Poor Doubting Christian Drawn to Christ (catalogued 1845) | have-ocr | IA `poordoubtingchr00hookgoog` |
+| Abstracts of Two Sermons by Rev. Thomas Hooker, from the Shorthand Notes of Mr. Henry Wolcott (catalogued 1860) | have-ocr | IA `abstractsoftwose00hookrich` |
+| Rev. Thomas Hooker's Letter, in reply to Governor Winthrop (catalogued 1860) | have-ocr | IA `revthomashookers00hookrich` |
+| The Soules Preparation for Christ, or A Treatise of Contrition (London: for Robert Dawlman, 1632, bim ..._1632_0): the title page, read from the page image, names no author | pending | not shelved |
+| The Poore Doubting Christian Drawne to Christ, fourth edition (London, 1637): the title page names no author; the 1845 edition, which names him, is shelved | pending | not shelved |
+| The Soules Humiliation (London: I. L. for Andrew Crooke, 1637): no printed author; only a manuscript 'By Thomas Hooker' on the title page | pending | not shelved |
+| The Soules Implantation (London: R. Young, 1637): the title page names no author; the enlarged 1640 edition 'By T. H.' is shelved | pending | not shelved |
+| Heautonaparnumenos: or A Treatise of Self-Denyall (London: W. Wilson for Richard Royston, 1646): the title page names no author | pending | not shelved |
+| Other copies: the 1635 and 1638 Soules Preparation, the 1638 Humiliation, the 1641-1700 Poor Doubting Christian printings, sovlesvocationor0000thom, the bim Exaltation and Implantation 1640, surveyofsummeofc00hook and surveyofsumme00hookrich and the bim Survey, the 1659 Application, The Wrath of God against Sinners (1638, the first of the Three Godly Sermons); The Soules Ingrafting into Christ (1637): its scan has only 3 KB of text | alternate | not shelved |
+| Richard Hooker (his own shelf); Thomas Hooker Leavitt's books on peat; William Jackson Hooker; 1956-82 facsimiles | excluded | |
+
+## Martin Bucer (round 39, my pick, 2026-10-22)
+
+Slugs `bucer-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise how by the Worde of God, Christian Mens Almose ought to be distributed, setting forth in English the mind of Master Martyne Bucer from his De Regno Christi (catalogued 1557) | have-ocr | IA `bim_early-english-books-1475-1640_a-treatise-how-christian_bucer-m_1557` |
+| The Mynd and Exposition of that excellente learned man Martyn Bucer, uppon these wordes of S. Mathew: Woo be to the worlde bycause of offences, Math. xviii, faythfully translated into Englishe by a faythfull brother (Emden, 1566) | have-ocr | IA `bim_early-english-books-1475-1640_the-mynd-and-exposition-_martin-bucer_1566` |
+| The Gratulation of Martin Bucer unto the Church of England (1549) and his other English pieces of 1549-1550: no scan found on Internet Archive | pending | not shelved |
+| Latin, German and French printings (De Regno Christi 1577, the Enarrationes, De Concilio 1545 and others); Arthur Roberts's analysis of his Censura on the Prayer Book (1853); Milton's Judgement of Martin Bucer concerning Divorce (Milton's own abridgment); Goldyng's 1562 treatise on the burning of Bucer and Fagius; Harvey's Martin Bucer in England (1906) and other books about him | excluded | |
+
+## Johannes Brenz (round 39, my pick, 2026-10-22)
+
+Slugs `brenz-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Verye Fruitful Exposicion upon the Syxte Chapter of Saynte John, divided into x Homelies or Sermons, written in Latin by Master John Brencius and translated into Englishe by Richarde Shirrye, Londoner (catalogued 1550) | have-ocr | IA `bim_early-english-books-1475-1640_a-verye-fruitful-exposic_j-brentius_1550` |
+| His Latin, German, Dutch and Danish printings; Pressel's Anecdota Brentiana (1868); the Wurttemberg Confession (German, 1848) | excluded | |
+
+## Martin Chemnitz (round 39, my pick, 2026-10-22)
+
+Slugs `chemnitz-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Discouerie and Batterie of the Great Fort of Unwritten Traditions: otherwise, An Examination of the Counsell of Trent touching the Decree of Traditions, done by Martinus Chemnitius in Latine and translated into English by R. V. (London: Thomas Purfoot and William Pounsonbie, 1582) | have-ocr | IA `bim_early-english-books-1475-1640_a-discouerie-and-batteri_martinus-chemnitius_1582` |
+| A Substantial and Godly Exposition of the Praier commonly called the Lords Praier, written in Latin by D. Martine Chemnitius, newly translated out of Latine into English (Cambridge: John Legate; catalogued 1598) | have-ocr | IA `bim_early-english-books-1475-1640_a-substantial-and-godly-_martinus-chemnitius_1598` |
+| His Latin works (De Duabus Naturis 1580, the Examen ed. Preuss 1861); Christian and Bogislav Philipp von Chemnitz; the 1971-89 Concordia translations (in copyright); a mislabelled 'Concordia' item dated 1537 | excluded | |
+
+## Girolamo Zanchi (round 39, my pick, 2026-10-22)
+
+Slugs `zanchi-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| An Excellent and Learned Treatise, of the Spirituall Mariage betweene Christ and the Church, and every Faithfull Man, written in Latine by H. Zanchius and translated into English (Cambridge: John Legate, 1592) | have-ocr | IA `bim_early-english-books-1475-1640_an-excellent-and-learned_zanchius-hieronymus_1592` |
+| H. Zanchius his Confession of Christian Religion, which now at length being 70 yeares of age he caused to bee published, Englished (Cambridge: John Legat, 1599) | have-ocr | IA `bim_early-english-books-1475-1640_h-zanchius-his-confessi_zanchius-h_1599` |
+| The Doctrine of Absolute Predestination, 'translated in great measure from the Latin of Jerom Zanchius' by Augustus Toplady (1769; later printings 1773, 1779, 1793, 1811): Toplady's free version, also in vol. 5 of his Works on the toplady shelf; held for Adam, as in round 39 | pending | not shelved |
+| Latin works (De Religione Christiana 1605, the Miscellanea 1605 and 1608, the 1592 anti-Arian tract); the discourse taken out of Zanchius in Perkins's Case of Conscience (1592, Perkins's book) | excluded | |
+
+## William Laud (round 40, my pick, 2026-10-22)
+
+Slugs `laud-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `worksofmostrever01laud_0` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos02lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 3 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos03lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 4 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos04lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 5:1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `worksofmostrever51laud` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 5:2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `worksofmostrever52laud` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 6, pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemo106lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 6, pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `pt2worksofwlaud06lauduoft` |
+| The works of the Most Reverend Father in God, William Laud, sometime Lord Archbishop of Canterbury, vol. 7 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1847-1860; catalogue dates the set 1847) | have-ocr | IA `theworksofthemos07lauduoft` |
+| Other scans of the LACT Works (Toronto Robarts, Illinois, Google and Princeton copies); the separate Oxford printings of the Private Devotions (1838), the Conference with Fisher (1839), the three speeches (1840) and the Sermons (1829), all contained in the Works; his 1621-1628 sermons and 1637 Star-Chamber speech in first printings (EEBO) | alternate | not shelved |
+| The 1637 Scottish Book of Common Prayer (a liturgy of the Church of Scotland, not his work); Original Letters on his benefactions (1841, documents by others); biographies | excluded | |
+
+## Herbert Thorndike (round 40, my pick, 2026-10-22)
+
+Slugs `thorndike-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Theological works, vol. 1, pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `thorndikesworkp101thoruoft` |
+| Theological works, vol. 1, pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `thorndikesworkp201thoruoft` |
+| The Theological Works of Herbert Thorndike, vol. II, the part opening with the Epilogue's preface and Book I, The Principles of Christian Truth (Oxford: John Henry Parker; catalogued as part 2) | have-ocr | IA `theologicalpt202thoruoft` |
+| The Theological Works of Herbert Thorndike, vol. II, the other part, continuing the Epilogue (Oxford: John Henry Parker, MDCCCXLV; catalogued as vol. 1, part 2) | have-ocr | IA `theologicalpt102thoruoft` |
+| Theological works, vol. 3 pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalpt103thoruoft` |
+| Theological works, vol. 3 pt. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalpt203thoruoft` |
+| Theological works, vol. 4 pt. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalpt104thoruoft` |
+| Theological works, vol. 4 pt 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalp204thoruoft` |
+| Theological works, vol. 5 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalworks05thoruoft` |
+| Theological works, vol. 6 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1844-1856; catalogue dates the set 1844) | have-ocr | IA `theologicalworks06thoruoft` |
+| Other scans of the LACT set: the Robarts and Google copies and the theologicalworks0000thor_* scans; the 1841 Right of the Church (BSB) | alternate | not shelved |
+| Edward L. Thorndike the psychologist and other Thorndikes | excluded | |
+
+## John Bramhall (round 40, my pick, 2026-10-22)
+
+Slugs `bramhall-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever01bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever02bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 3 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever03bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 4 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever04bram` |
+| The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 5 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842) | have-ocr | IA `worksofmostrever05bram` |
+| Toronto (bramhallsworks0*bramuoft) and Google copies of the same set; the Google 1852 issue | alternate | not shelved |
+| The Rawdon Papers (1819, letters by many hands); The Story of Stanislaus (1914), by another Bramhall | excluded | |
+
+## Mark Frank (round 40, my pick, 2026-10-22)
+
+Slugs `frank-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849) | have-ocr | IA `sermons01fran` |
+| Sermons, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1849) | have-ocr | IA `sermons02fran` |
+| sermons0000fran, sermons0002fran (other scans of the same edition); the 1672 LI Sermons (EEBO) | alternate | not shelved |
+| Other Franks | excluded | |

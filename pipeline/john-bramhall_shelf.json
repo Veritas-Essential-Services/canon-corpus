@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain John Bramhall (1594-1663), Bishop of Derry and Archbishop of Armagh, for the Word Hoard: his Works with a life of the author in the Library of Anglo-Catholic Theology (Oxford: J. H. Parker, 1842-1845, five volumes), including the Just Vindication of the Church of England and his controversy with Hobbes on liberty and necessity, from Princeton Theological Seminary scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bramhall"
+ ],
+ "_surname": [
+  "john bramhall",
+  "bramhall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bramhall-works-1": [
+   "worksofmostrever01bram",
+   "The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 1 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842)"
+  ],
+  "bramhall-works-2": [
+   "worksofmostrever02bram",
+   "The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 2 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842)"
+  ],
+  "bramhall-works-3": [
+   "worksofmostrever03bram",
+   "The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 3 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842)"
+  ],
+  "bramhall-works-4": [
+   "worksofmostrever04bram",
+   "The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 4 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842)"
+  ],
+  "bramhall-works-5": [
+   "worksofmostrever05bram",
+   "The works of the Most Reverend Father in God, John Bramhall, D.D., sometime Lord Archbishop of Armagh, Primate and Metropolitan of all Ireland, vol. 5 (Oxford: J. H. Parker; Library of Anglo-Catholic Theology, 1842-1845; catalogue dates the set 1842)"
+  ]
+ },
+ "_alternates": {
+  "bramhall-copies": "Toronto (bramhallsworks0*bramuoft) and Google copies of the same set; the Google 1852 issue"
+ },
+ "_excluded": {
+  "bramhall-other": "The Rawdon Papers (1819, letters by many hands); The Story of Stanislaus (1914), by another Bramhall"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bramhall-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john bramhall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bramhall-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john bramhall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bramhall-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john bramhall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bramhall-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john bramhall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bramhall-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john bramhall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

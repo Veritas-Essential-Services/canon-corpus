@@ -1,10 +1,12 @@
 {
- "_about": "TRANSLATOR SHELF: Alys Hallard: the Goncourts' Renée Mauperin, Gyp's Bijou, Doumic's George Sand (1910) and Buffin's Brave Belgians (1915). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Alys Hallard: the Goncourts' Renée Mauperin, Gyp's Bijou, Doumic's George Sand (1910) and Buffin's Brave Belgians (1915). US public domain. Added 2026-10-10 by lane C (round 25); Adam may veto. No uids minted. Round 123 (2026-10-23, vetoable) added Pierre de Coulevain four times: On the Branch (1909), The Unknown Isle (1911), American Nobility (1913) and The Wonderful Romance (1914). The shelf also gates on bare 'hallard', since two Dutton title pages print her first name illegibly in the OCR.",
  "_name_words": [
-  "alys hallard"
+  "alys hallard",
+  "hallard"
  ],
  "_surname": [
-  "alys hallard"
+  "alys hallard",
+  "hallard"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -26,7 +28,24 @@
    "Brave Belgians"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "aha-coulevain-on-the-branch": [
+   "onbranch00coulrich",
+   "On the Branch (1909)"
+  ],
+  "aha-coulevain-unknown-isle": [
+   "cu31924019522865",
+   "The Unknown Isle (1911)"
+  ],
+  "aha-coulevain-american-nobility": [
+   "americannobility00couliala",
+   "American Nobility (1913)"
+  ],
+  "aha-coulevain-wonderful-romance": [
+   "wonderfulromance00couliala",
+   "The Wonderful Romance (1914)"
+  ]
+ },
  "titles": {
   "alys-hallard-buffin-brave-belgians": {
    "source": "aha-58509",
@@ -59,6 +78,38 @@
    "translated": "1896-1915 (see the Gutenberg header)",
    "translator": "Alys Hallard",
    "scan_edition": "Project Gutenberg 36199 (clean text)"
+  },
+  "alys-hallard-coulevain-on-the-branch": {
+   "source": "aha-coulevain-on-the-branch",
+   "of": "Pierre de Coulevain",
+   "work": "On the Branch",
+   "translated": 1909,
+   "translator": "Alys Hallard",
+   "scan_edition": "E. P. Dutton, New York, copyright 1909; UC Berkeley scan"
+  },
+  "alys-hallard-coulevain-unknown-isle": {
+   "source": "aha-coulevain-unknown-isle",
+   "of": "Pierre de Coulevain",
+   "work": "The Unknown Isle",
+   "translated": 1911,
+   "translator": "Alys Hallard",
+   "scan_edition": "Cassell, London and New York 1911; Cornell scan"
+  },
+  "alys-hallard-coulevain-american-nobility": {
+   "source": "aha-coulevain-american-nobility",
+   "of": "Pierre de Coulevain",
+   "work": "American Nobility",
+   "translated": 1913,
+   "translator": "Alys Hallard",
+   "scan_edition": "E. P. Dutton, New York, copyright 1913; UCLA scan"
+  },
+  "alys-hallard-coulevain-wonderful-romance": {
+   "source": "aha-coulevain-wonderful-romance",
+   "of": "Pierre de Coulevain",
+   "work": "The Wonderful Romance",
+   "translated": 1914,
+   "translator": "Alys Hallard",
+   "scan_edition": "Dodd, Mead and Company, New York 1914; UCLA scan"
   }
  },
  "_pending": {},
@@ -67,7 +118,7 @@
  "_checks": {
   "aha-138": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alys hallard",
    "identity": "ok",
@@ -76,7 +127,7 @@
   },
   "aha-24604": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alys hallard",
    "identity": "ok",
@@ -85,7 +136,7 @@
   },
   "aha-36199": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alys hallard",
    "identity": "ok",
@@ -94,12 +145,56 @@
   },
   "aha-58509": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "alys hallard",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Alys Hallard"
+  },
+  "aha-coulevain-on-the-branch": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hallard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aha-coulevain-unknown-isle": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alys hallard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "aha-coulevain-american-nobility": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hallard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[c1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "aha-coulevain-wonderful-romance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alys hallard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -122,6 +217,39 @@
    "pg": 58509,
    "pg_copyrighted_marker": false,
    "pg_translator": "Alys Hallard"
+  },
+  "aha-coulevain-on-the-branch": {
+   "ia": "onbranch00coulrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "aha-coulevain-unknown-isle": {
+   "ia": "cu31924019522865",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1911,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "aha-coulevain-american-nobility": {
+   "ia": "americannobility00couliala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "aha-coulevain-wonderful-romance": {
+   "ia": "wonderfulromance00couliala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

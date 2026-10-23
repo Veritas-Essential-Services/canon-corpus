@@ -320,3 +320,5 @@
 - 2026-10-22T22:18-05:00: round 121: new eugene-schuyler (2); hapgood +1, yarmolinsky +1, singles-fiction-3 +5, singles-plays-poetry-2 +4. --verify --record 0 mismatched.
 
 - 2026-10-22T22:25-05:00: round 122: singles-continental-fiction +8 (Bazin x4, Ohnet x2, Theuriet x2), rothwell +1 (Ohnet; name form fred. rothwell added). --verify --record 0 mismatched.
+
+- 2026-10-22T22:31-05:00: round 123: alys-hallard +4 (Coulevain; name form hallard added), singles-continental-fiction +9 (Cherbuliez, Prevost x2, Karr, Rod x2, Barres x2, Halevy); ellen-marriage _pending +1 (Frederique, undated). --verify --record 0 mismatched.

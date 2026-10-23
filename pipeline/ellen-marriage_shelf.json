@@ -229,7 +229,9 @@
    "scan_edition": "Project Gutenberg 7950 (clean text)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "marriage-prevost-frederique": "Marcel Prévost's Frédérique, translated by Ellen Marriage (T. Y. Crowell, New York), archive.org frederique00previala: title page read, but the printing is undated (catalogued [19--]), so it waits under the undated-printing rule. Found 2026-10-23 (round 123)."
+ },
  "_excluded": {
   "pg-7416": "The Thirteen collects Ferragus, The Duchesse de Langeais and The Girl with the Golden Eyes; the last two are shelved singly.",
   "pg-13159": "Lost Illusions collects Two Poets, A Distinguished Provincial at Paris and Eve and David, all shelved singly.",

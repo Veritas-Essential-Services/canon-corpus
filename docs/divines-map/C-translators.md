@@ -2097,7 +2097,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Alys Hallard (the Goncourts, Gyp, Doumic)
 
 Shelf: `pipeline/alys-hallard_shelf.json` · fetch `python3 pipeline/fetch_shelf.py alys-hallard` · titles `python3 pipeline/split_shelf_titles.py alys-hallard`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 123 (2026-10-23) added Pierre de Coulevain ×4 (1909-1914). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2105,6 +2105,10 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `alys-hallard-doumic-george-sand-some-aspects-of-her-life-and` | René Doumic | George Sand: Some Aspects of Her Life and Writings | Alys Hallard | 1896-1915 (see the Gutenberg header) | have | PG 138 |
 | `alys-hallard-goncourt-renee-mauperin` | Edmond de Goncourt | Renée Mauperin | Alys Hallard | 1896-1915 (see the Gutenberg header) | have | PG 24604 |
 | `alys-hallard-gyp-bijou` | Gyp | Bijou | Alys Hallard | 1896-1915 (see the Gutenberg header) | have | PG 36199 |
+| `alys-hallard-coulevain-on-the-branch` | Pierre de Coulevain | On the Branch | Alys Hallard | 1909 | have-raw | IA `onbranch00coulrich` |
+| `alys-hallard-coulevain-unknown-isle` | Pierre de Coulevain | The Unknown Isle | Alys Hallard | 1911 | have-raw | IA `cu31924019522865` |
+| `alys-hallard-coulevain-american-nobility` | Pierre de Coulevain | American Nobility | Alys Hallard | 1913 | have-raw | IA `americannobility00couliala` |
+| `alys-hallard-coulevain-wonderful-romance` | Pierre de Coulevain | The Wonderful Romance | Alys Hallard | 1914 | have-raw | IA `wonderfulromance00couliala` |
 
 ## Bertha Ness (E. Werner; Gottschall)
 
@@ -5428,7 +5432,7 @@ Round 41 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## One-off translations: nineteenth-century continental fiction (Auerbach, Heyse, Spielhagen, E. Werner, Jókai, Bjørnson, De Coster, Mann's Royal Highness, Hugo, Laclos, Gourmont)
 
 Shelf: `pipeline/singles-continental-fiction_shelf.json` · fetch `python3 pipeline/fetch_shelf.py singles-continental-fiction` · titles `python3 pipeline/split_shelf_titles.py singles-continental-fiction`.
-Round 42 (2026-10-10), vetoable. Round 122 (2026-10-23) added René Bazin ×4, Georges Ohnet ×2 and André Theuriet ×2. Not converted to unit-id JSON; **no uids minted**.
+Round 42 (2026-10-10), vetoable. Round 122 (2026-10-23) added René Bazin ×4, Georges Ohnet ×2 and André Theuriet ×2. Round 123 added Cherbuliez, Prévost ×2, Karr, Rod ×2, Barrès ×2 and Halévy. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -5504,6 +5508,15 @@ Round 42 (2026-10-10), vetoable. Round 122 (2026-10-23) added René Bazin ×4, G
 | `singles-continental-fiction-ohnet-debt-of-hatred` | Georges Ohnet | A Debt of Hatred | E. P. Robins | 1891 | have-raw | IA `debtofhatred00ohne` |
 | `singles-continental-fiction-theuriet-rustic-life` | André Theuriet | Rustic Life in France | Helen B. Dole | 1896 | have-raw | IA `cu31924014024040` |
 | `singles-continental-fiction-theuriet-mistress-of-many-moods` | André Theuriet | A Mistress of Many Moods | Charlotte Boardman Rogers | 1900 | have-raw | IA `amistressmanymo00rogegoog` |
+| `singles-continental-fiction-cherbuliez-miss-rovel` | Victor Cherbuliez | Miss Rovel | Frances A. Shaw | 1875 | have-raw | IA `missrovel00cher` |
+| `singles-continental-fiction-prevost-benoit-castain` | Marcel Prévost | Benoît Castain | Arthur C. Richmond | 1916 | have-raw | IA `benoitcastain00previala` |
+| `singles-continental-fiction-prevost-simply-women` | Marcel Prévost | Simply Women: selections from the works of Marcel Prévost | R. I. Brandon-Vauvillez | 1910 | have-raw | IA `simplywomenselec00previala` |
+| `singles-continental-fiction-karr-tour-round-my-garden` | Alphonse Karr | A Tour Round My Garden | J. G. Wood | 1856 | have-raw | IA `tourroundmygarde00karruoft` |
+| `singles-continental-fiction-rod-pastor-naudie` | Édouard Rod | Pastor Naudié's Young Wife (Le ménage du pasteur Naudié) | Bradley Gilman | 1899 | have-raw | IA `pastornaudisyo00rode` |
+| `singles-continental-fiction-rod-sacrifice-of-silence` | Édouard Rod | The Sacrifice of Silence (Le silence) | John W. Harding | 1899 | have-raw | IA `sacrificeofsilen00rode` |
+| `singles-continental-fiction-barres-undying-spirit-of-france` | Maurice Barrès | The Undying Spirit of France (Les traits éternels de la France) | Margaret W. B. Corwin | 1917 | have-raw | IA `undyingspiritoff00barriala` |
+| `singles-continental-fiction-barres-faith-of-france` | Maurice Barrès | The Faith of France: Studies in Spiritual Differences and Unity | Elisabeth Marbury | 1918 | have-raw | IA `faithfrancestud00marbgoog` |
+| `singles-continental-fiction-halevy-love-match` | Ludovic Halévy | A Love Match | H. de Veer and V. Foster | 1889 | have-raw | IA `lovematch00hale` |
 
 ## One-off translations: plays, verse and tale collections (Sudermann's plays incl. Edith Wharton's, Vondel's Lucifer, Cyrano, Salomé, the Noh, Baudelaire, Christine de Pisan, Kathá Sarit Ságara, Kādambarī, Old Celtic Romances)
 
