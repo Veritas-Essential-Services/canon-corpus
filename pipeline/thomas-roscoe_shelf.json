@@ -42,7 +42,52 @@
    "Tales of Humour, Gallantry & Romance, Selected and Translated from the Italian"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ros-german-novelists-1": [
+   "germannovelistst01roscuoft",
+   "The German Novelists, vol. 1"
+  ],
+  "ros-german-novelists-2": [
+   "germannovelist02rosc",
+   "The German Novelists, vol. 2"
+  ],
+  "ros-german-novelists-3": [
+   "germannovelistst03roscuoft",
+   "The German Novelists, vol. 3"
+  ],
+  "ros-german-novelists-4": [
+   "germannovelistst04roscuoft",
+   "The German Novelists, vol. 4"
+  ],
+  "ros-italian-novelists-1": [
+   "italiannovelists01roscuoft",
+   "The Italian Novelists, vol. 1"
+  ],
+  "ros-italian-novelists-2": [
+   "italiannovelists02roscuoft",
+   "The Italian Novelists, vol. 2"
+  ],
+  "ros-italian-novelists-3": [
+   "italiannovelists03roscuoft",
+   "The Italian Novelists, vol. 3"
+  ],
+  "ros-italian-novelists-4": [
+   "italiannovelist02unkngoog",
+   "The Italian Novelists, vol. 4"
+  ],
+  "ros-spanish-novelists-1": [
+   "spanishnovelists01roscuoft",
+   "The Spanish Novelists, vol. 1"
+  ],
+  "ros-spanish-novelists-2": [
+   "spanishnovelists02roscuoft",
+   "The Spanish Novelists, vol. 2"
+  ],
+  "ros-spanish-novelists-3": [
+   "spanishnovelists03roscuoft",
+   "The Spanish Novelists, vol. 3"
+  ]
+ },
  "titles": {
   "thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-1-o": {
    "source": "ros-34479",
@@ -107,6 +152,94 @@
    "translated": "1824-1853 (see the Gutenberg header)",
    "translator": "Thomas Roscoe (with John Yonge Akerman)",
    "scan_edition": "Project Gutenberg 44561 (clean text)"
+  },
+  "thomas-roscoe-the-german-novelists-vol-1": {
+   "source": "ros-german-novelists-1",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The German Novelists, vol. 1 of 4",
+   "translated": 1826,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Henry Colburn, London 1826; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-german-novelists-vol-2": {
+   "source": "ros-german-novelists-2",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The German Novelists, vol. 2 of 4",
+   "translated": 1826,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Henry Colburn, London 1826; archive.org scan (archive.org scan)"
+  },
+  "thomas-roscoe-the-german-novelists-vol-3": {
+   "source": "ros-german-novelists-3",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The German Novelists, vol. 3 of 4",
+   "translated": 1826,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Henry Colburn, London 1826; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-german-novelists-vol-4": {
+   "source": "ros-german-novelists-4",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The German Novelists, vol. 4 of 4",
+   "translated": 1826,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Henry Colburn, London 1826; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-italian-novelists-vol-1": {
+   "source": "ros-italian-novelists-1",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The Italian Novelists, vol. 1 of 4",
+   "translated": 1825,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Septimus Prowett, London 1825; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-italian-novelists-vol-2": {
+   "source": "ros-italian-novelists-2",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The Italian Novelists, vol. 2 of 4",
+   "translated": 1825,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Septimus Prowett, London 1825; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-italian-novelists-vol-3": {
+   "source": "ros-italian-novelists-3",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The Italian Novelists, vol. 3 of 4",
+   "translated": 1825,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Septimus Prowett, London 1825; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-italian-novelists-vol-4": {
+   "source": "ros-italian-novelists-4",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The Italian Novelists, vol. 4 of 4",
+   "translated": 1825,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Septimus Prowett, London 1825; archive.org scan (Google scan)"
+  },
+  "thomas-roscoe-the-spanish-novelists-vol-1": {
+   "source": "ros-spanish-novelists-1",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The Spanish Novelists, vol. 1 of 3",
+   "translated": 1832,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Richard Bentley, London 1832; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-spanish-novelists-vol-2": {
+   "source": "ros-spanish-novelists-2",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The Spanish Novelists, vol. 2 of 3",
+   "translated": 1832,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Richard Bentley, London 1832; archive.org scan (University of Toronto copy)"
+  },
+  "thomas-roscoe-the-spanish-novelists-vol-3": {
+   "source": "ros-spanish-novelists-3",
+   "of": "various authors (Roscoe selects and translates)",
+   "work": "The Spanish Novelists, vol. 3 of 3",
+   "translated": 1832,
+   "translator": "Thomas Roscoe",
+   "scan_edition": "Richard Bentley, London 1832; archive.org scan (University of Toronto copy)"
   }
  },
  "_pending": {},
@@ -115,7 +248,7 @@
  "_checks": {
   "ros-2792": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
@@ -124,7 +257,7 @@
   },
   "ros-34479": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
@@ -133,7 +266,7 @@
   },
   "ros-34585": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
@@ -142,7 +275,7 @@
   },
   "ros-34645": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
@@ -151,7 +284,7 @@
   },
   "ros-38967": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
@@ -160,7 +293,7 @@
   },
   "ros-39996": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
@@ -169,7 +302,7 @@
   },
   "ros-41533": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
@@ -178,12 +311,133 @@
   },
   "ros-44561": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "thomas roscoe",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Thomas Roscoe; John Yonge Akerman"
+  },
+  "ros-german-novelists-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ros-german-novelists-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ros-german-novelists-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ros-german-novelists-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ros-italian-novelists-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ros-italian-novelists-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ros-italian-novelists-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ros-italian-novelists-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ros-spanish-novelists-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ros-spanish-novelists-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ros-spanish-novelists-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas roscoe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -226,6 +480,121 @@
    "pg": 44561,
    "pg_copyrighted_marker": false,
    "pg_translator": "Thomas Roscoe"
+  },
+  "ros-german-novelists-1": {
+   "ia": "germannovelistst01roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1826
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-german-novelists-2": {
+   "ia": "germannovelist02rosc",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1800,
+    1826
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-german-novelists-3": {
+   "ia": "germannovelistst03roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1735,
+    1763,
+    1781,
+    1805,
+    1826
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-german-novelists-4": {
+   "ia": "germannovelistst04roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1773,
+    1795,
+    1798,
+    1814,
+    1820,
+    1826
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-italian-novelists-1": {
+   "ia": "italiannovelists01roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1825
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-italian-novelists-2": {
+   "ia": "italiannovelists02roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1478,
+    1483,
+    1484,
+    1825
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-italian-novelists-3": {
+   "ia": "italiannovelists03roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1541,
+    1554,
+    1555,
+    1561
+   ],
+   "post_1930_years_in_front_15k": [],
+   "post_1930_examined": "the imprint year is garbled in the OCR; the title page reads Septimus Prowett, Old Bond Street, printed by J. M'Creery, the same imprint as vols 1, 2 and 4 (1825); archive.org dates the scan 1825"
+  },
+  "ros-italian-novelists-4": {
+   "ia": "italiannovelist02unkngoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1582,
+    1601,
+    1603,
+    1622,
+    1664,
+    1710,
+    1825
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-spanish-novelists-1": {
+   "ia": "spanishnovelists01roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1575,
+    1832
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-spanish-novelists-2": {
+   "ia": "spanishnovelists02roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1580,
+    1645,
+    1832
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ros-spanish-novelists-3": {
+   "ia": "spanishnovelists03roscuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1624,
+    1832
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

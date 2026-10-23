@@ -20053,7 +20053,7 @@ Round 10 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## The Oscar Levy Nietzsche (Common, Zimmern, Ludovici and others)
 
 Shelf: `pipeline/levy-nietzsche_shelf.json` · fetch `python3 pipeline/fetch_shelf.py levy-nietzsche` · titles `python3 pipeline/split_shelf_titles.py levy-nietzsche`.
-Round 10 (2026-10-10), vetoable. Each title gates on its own translator. Not converted to unit-id JSON; **no uids minted**.
+Round 10 (2026-10-10), vetoable. Each title gates on its own translator. Round 136 (2026-10-23) added three Ludovici translations from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -20074,6 +20074,9 @@ Round 10 (2026-10-10), vetoable. Each title gates on its own translator. Not con
 | `levy-nietzsche-will-to-power-1` | Nietzsche | The Will to Power, Books I and II | Anthony M. Ludovici | 1909 | have | PG 52914 |
 | `levy-nietzsche-will-to-power-2` | Nietzsche | The Will to Power, Books III and IV | Anthony M. Ludovici | 1910 | have | PG 52915 |
 | `levy-nietzsche-zarathustra` | Nietzsche | Thus Spake Zarathustra | Thomas Common | 1909 | have | PG 1998 |
+| `levy-nietzsche-selected-letters` | Nietzsche | Selected Letters of Friedrich Nietzsche (ed. Oscar Levy) | Anthony M. Ludovici | 1921 | have-raw | IA `selectedletterso00niet` |
+| `levy-nietzsche-lichtenberger-germany-and-its-evolution` | Henri Lichtenberger | Germany and its Evolution in Modern Times | A. M. Ludovici | 1913 | have-raw | IA `germanyitsevolut00licht` |
+| `levy-nietzsche-forster-nietzsche-the-young-nietzsche` | Elisabeth Förster-Nietzsche | The Young Nietzsche | Anthony M. Ludovici | 1912 | have-raw | IA `youngnietzsche00fr` |
 | `levy-nietzsche-missing-volumes` | — | Levy vols still not on Gutenberg: Miscellaneous Aphorisms, Poems, Letters, the Index. (Thoughts Out of Season I and vol. 3, the Future of our Educational Institutions, were found in round 35.) | — | — | pending | — |
 | — | — | pg-52124: A second Gutenberg Joyful Wisdom from the same Levy volume; 52881 (Distributed Proofreaders) is used. | — | — | excluded | — |
 | — | — | pg-19322: Mencken's own Antichrist translation (1918), not Levy's; its front matter carries 1923-1924 dates; a separate translator. | — | — | excluded | — |
@@ -21139,7 +21142,7 @@ Round 23 (2026-10-10), vetoable. Round 127 added eight archive.org books: Asch, 
 ## Thomas Roscoe (Lanzi's History of Painting in Italy; Pellico)
 
 Shelf: `pipeline/thomas-roscoe_shelf.json` · fetch `python3 pipeline/fetch_shelf.py thomas-roscoe` · titles `python3 pipeline/split_shelf_titles.py thomas-roscoe`.
-Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 23 (2026-10-10), vetoable. Round 136 (2026-10-23) added Roscoe's Italian, German and Spanish Novelists (11 vols) from archive.org scans. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -21151,6 +21154,17 @@ Round 23 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `thomas-roscoe-lanzi-the-history-of-painting-in-italy-vol-6-o` | Luigi Lanzi | The History of Painting in Italy, Vol. 6 (of 6) | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 41533 |
 | `thomas-roscoe-pellico-my-ten-years-imprisonment` | Silvio Pellico | My Ten Years' Imprisonment | Thomas Roscoe | 1824-1853 (see the Gutenberg header) | have | PG 2792 |
 | `thomas-roscoe-tales-of-humour-gallantry-romance` | Various European authors (selected; with J. Y. Akerman) | Tales of Humour, Gallantry & Romance, Selected and Translated from the Italian | Thomas Roscoe (with John Yonge Akerman) | 1824-1853 (see the Gutenberg header) | have | PG 44561 |
+| `thomas-roscoe-the-german-novelists-vol-1` | various authors (Roscoe selects and translates) | The German Novelists, vol. 1 of 4 | Thomas Roscoe | 1826 | have-raw | IA `germannovelistst01roscuoft` |
+| `thomas-roscoe-the-german-novelists-vol-2` | various authors (Roscoe selects and translates) | The German Novelists, vol. 2 of 4 | Thomas Roscoe | 1826 | have-raw | IA `germannovelist02rosc` |
+| `thomas-roscoe-the-german-novelists-vol-3` | various authors (Roscoe selects and translates) | The German Novelists, vol. 3 of 4 | Thomas Roscoe | 1826 | have-raw | IA `germannovelistst03roscuoft` |
+| `thomas-roscoe-the-german-novelists-vol-4` | various authors (Roscoe selects and translates) | The German Novelists, vol. 4 of 4 | Thomas Roscoe | 1826 | have-raw | IA `germannovelistst04roscuoft` |
+| `thomas-roscoe-the-italian-novelists-vol-1` | various authors (Roscoe selects and translates) | The Italian Novelists, vol. 1 of 4 | Thomas Roscoe | 1825 | have-raw | IA `italiannovelists01roscuoft` |
+| `thomas-roscoe-the-italian-novelists-vol-2` | various authors (Roscoe selects and translates) | The Italian Novelists, vol. 2 of 4 | Thomas Roscoe | 1825 | have-raw | IA `italiannovelists02roscuoft` |
+| `thomas-roscoe-the-italian-novelists-vol-3` | various authors (Roscoe selects and translates) | The Italian Novelists, vol. 3 of 4 | Thomas Roscoe | 1825 | have-raw | IA `italiannovelists03roscuoft` |
+| `thomas-roscoe-the-italian-novelists-vol-4` | various authors (Roscoe selects and translates) | The Italian Novelists, vol. 4 of 4 | Thomas Roscoe | 1825 | have-raw | IA `italiannovelist02unkngoog` |
+| `thomas-roscoe-the-spanish-novelists-vol-1` | various authors (Roscoe selects and translates) | The Spanish Novelists, vol. 1 of 3 | Thomas Roscoe | 1832 | have-raw | IA `spanishnovelists01roscuoft` |
+| `thomas-roscoe-the-spanish-novelists-vol-2` | various authors (Roscoe selects and translates) | The Spanish Novelists, vol. 2 of 3 | Thomas Roscoe | 1832 | have-raw | IA `spanishnovelists02roscuoft` |
+| `thomas-roscoe-the-spanish-novelists-vol-3` | various authors (Roscoe selects and translates) | The Spanish Novelists, vol. 3 of 3 | Thomas Roscoe | 1832 | have-raw | IA `spanishnovelists03roscuoft` |
 
 ## John Durand (Taine's Origins of Contemporary France; Philosophy of Art)
 

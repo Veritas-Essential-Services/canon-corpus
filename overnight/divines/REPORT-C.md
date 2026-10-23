@@ -346,3 +346,5 @@
 - 2026-10-22T23:46-05:00: Round 134 (2026-10-23): 17 titles, Wister x8 and Safford x9 from archive.org. 0 mismatched, 0 rights flags, no uids.
 
 - 2026-10-22T23:52-05:00: Round 135 (2026-10-23): 10 titles, De Leon x1, Wraxall x4, McCabe x2, Rasmus Anderson x3 from archive.org. 0 mismatched, 0 rights flags, no uids.
+
+- 2026-10-22T23:58-05:00: Round 136 (2026-10-23): 14 titles, Ludovici x3 and Thomas Roscoe x11 from archive.org. 0 mismatched, 0 rights flags, no uids.
