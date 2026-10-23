@@ -9682,6 +9682,17 @@ Slugs `thooker-*`. Built from title pages read for round 39.
 | Heautonaparnumenos: or A Treatise of Self-Denyall (London: W. Wilson for Richard Royston, 1646): the title page names no author | pending | not shelved |
 | Other copies: the 1635 and 1638 Soules Preparation, the 1638 Humiliation, the 1641-1700 Poor Doubting Christian printings, sovlesvocationor0000thom, the bim Exaltation and Implantation 1640, surveyofsummeofc00hook and surveyofsumme00hookrich and the bim Survey, the 1659 Application, The Wrath of God against Sinners (1638, the first of the Three Godly Sermons); The Soules Ingrafting into Christ (1637): its scan has only 3 KB of text | alternate | not shelved |
 | Richard Hooker (his own shelf); Thomas Hooker Leavitt's books on peat; William Jackson Hooker; 1956-82 facsimiles | excluded | |
+
+## Martin Bucer (round 39, my pick, 2026-10-22)
+
+Slugs `bucer-*`. Built from title pages read for round 39.
+
+| Work | Status | Where |
+|---|---|---|
+| A Treatise how by the Worde of God, Christian Mens Almose ought to be distributed, setting forth in English the mind of Master Martyne Bucer from his De Regno Christi (catalogued 1557) | have-ocr | IA `bim_early-english-books-1475-1640_a-treatise-how-christian_bucer-m_1557` |
+| The Mynd and Exposition of that excellente learned man Martyn Bucer, uppon these wordes of S. Mathew: Woo be to the worlde bycause of offences, Math. xviii, faythfully translated into Englishe by a faythfull brother (Emden, 1566) | have-ocr | IA `bim_early-english-books-1475-1640_the-mynd-and-exposition-_martin-bucer_1566` |
+| The Gratulation of Martin Bucer unto the Church of England (1549) and his other English pieces of 1549-1550: no scan found on Internet Archive | pending | not shelved |
+| Latin, German and French printings (De Regno Christi 1577, the Enarrationes, De Concilio 1545 and others); Arthur Roberts's analysis of his Censura on the Prayer Book (1853); Milton's Judgement of Martin Bucer concerning Divorce (Milton's own abridgment); Goldyng's 1562 treatise on the burning of Bucer and Fagius; Harvey's Martin Bucer in England (1906) and other books about him | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

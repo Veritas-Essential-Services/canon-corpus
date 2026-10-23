@@ -1,0 +1,64 @@
+{
+ "_about": "Public-domain Martin Bucer (1491-1551), reformer of Strasbourg and Regius Professor of Divinity at Cambridge, for the Word Hoard: two Tudor English translations, A Treatise how by the Worde of God Christian Mens Almose ought to be distributed (1557, from De Regno Christi) and The Mynd and Exposition upon Matthew xviii (Emden, 1566), from Internet Archive scans of Early English Books (black letter, rough OCR). Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bucer"
+ ],
+ "_surname": [
+  "bucer",
+  "bucere",
+  "bucerus",
+  "buccer",
+  "butzer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bucer-almose-1557": [
+   "bim_early-english-books-1475-1640_a-treatise-how-christian_bucer-m_1557",
+   "A Treatise how by the Worde of God, Christian Mens Almose ought to be distributed, setting forth in English the mind of Master Martyne Bucer from his De Regno Christi (catalogued 1557)"
+  ],
+  "bucer-mynd-exposition-1566": [
+   "bim_early-english-books-1475-1640_the-mynd-and-exposition-_martin-bucer_1566",
+   "The Mynd and Exposition of that excellente learned man Martyn Bucer, uppon these wordes of S. Mathew: Woo be to the worlde bycause of offences, Math. xviii, faythfully translated into Englishe by a faythfull brother (Emden, 1566)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bucer-other": "Latin, German and French printings (De Regno Christi 1577, the Enarrationes, De Concilio 1545 and others); Arthur Roberts's analysis of his Censura on the Prayer Book (1853); Milton's Judgement of Martin Bucer concerning Divorce (Milton's own abridgment); Goldyng's 1562 treatise on the burning of Bucer and Fagius; Harvey's Martin Bucer in England (1906) and other books about him"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "bucer-mynd-exposition-1566": "title page read from the page image: 'The mynd and exposition of that excellente learned man Martyn Bucer' (black letter; OCR garbled)"
+ },
+ "_pending": {
+  "bucer-gratulation-1549": "The Gratulation of Martin Bucer unto the Church of England (1549) and his other English pieces of 1549-1550: no scan found on Internet Archive"
+ },
+ "_translators": {},
+ "_checks": {
+  "bucer-almose-1557": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bucer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1557",
+   "ia_date": "1557",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bucer-mynd-exposition-1566": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1566",
+   "ia_date": "1566",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
