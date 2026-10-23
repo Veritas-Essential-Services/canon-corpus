@@ -16894,3 +16894,22 @@ Slugs `gsexton-*`. Built from title pages read for round 107.
 | The folly of atheism (Philadelphia : M.E. Book Room ; Toronto : W. Briggs, 1895) | have-ocr | IA `cihm_89711` |
 | spiritualmagazi00lldgoog (a periodical volume, many hands) | excluded | |
 | Men with Tails and the vaccination lecture are not theology; left out | excluded | |
+
+## A. T. Schofield (round 108, my pick, 2026-10-23)
+
+Slugs `atschofield-*`. Built from title pages read for round 108.
+
+| Work | Status | Where |
+|---|---|---|
+| Memorials of R. Harold A. Schofield, M.A., M.B. (Oxon.) (late of China Inland Mission) : first medical missionary to Shan-Si, China (London : Hodder and Stoughton, 1885) | have-ocr | IA `b24850706` |
+| Another world : or, The fourth dimension (London : S. Sonnenschein, 1905) | have-ocr | IA `cu31924031255882` |
+| The knowledge of God; its meaning and its power (New York, Funk and Wagnalls company, 1908) | have-ocr | IA `knowledgeofgodit00scho` |
+| With Christ in Palestine : four addresses (N.Y. : R.F. Fenno, 1905) | have-ocr | IA `withchristinpale00scho` |
+| Christian sanity (London : Marshall Bros., 1908) | have-ocr | IA `chistiansanity0000unse` |
+| The divine in man : four lectures given by request at the Alliance Club, London (London : Morgan & Scott, 1909) | have-ocr | IA `divineinmanfourl0000scho` |
+| Fit for work, or, Health in Christian service (London : MArshall, 1909) | have-ocr | IA `b28085565` |
+| Studies in the highest thought (New York : Hodder & Stoughton, 1911) | have-ocr | IA `studiesinhighest00scho` |
+| A study of faith healing (New York : Fleming H. Revell, 1899) | have-ocr | IA `studyoffaithheal0000scho` |
+| The springs of character (New York : Funk & Wagnalls Co., 1901) | have-ocr | IA `springsofcharact00scho` |
+| Modern spiritism : its science and religion (Philadelphia : P. Blakiston's Son & Co., 1920) | have-ocr | IA `modernspiritism00schogoog` |
+| His hygiene, physiology and nerve-medicine manuals are not theology; left out | excluded | |
