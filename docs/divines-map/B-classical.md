@@ -10586,3 +10586,12 @@ Shelf: `pipeline/george-glasgow_shelf.json`. The Minoans (London: Jonathan Cape,
 |---|---|---|---|
 | The Minoans (London: Jonathan Cape, 1923) |  | `glasgow-the-minoans-1923` | have (PG 69765) |
 
+
+## George Middleton (1865-) and Thomas Ross Mills (1869-)
+
+Shelf: `pipeline/george-middleton_shelf.json`. The Student's Companion to Latin Authors (London: Macmillan, 1896). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Student's Companion to Latin Authors (London: Macmillan, 1896) |  | `middleton-mills-students-companion-latin-authors` | have (PG 28413) |
+
