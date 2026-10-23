@@ -16617,3 +16617,22 @@ Slugs `southgate-*`. Built from title pages read for round 104.
 | The death of Lincoln (New York, J.W. Amerman, printer, 1865) | have-ocr | IA `deathoflincoln00sout` |
 | workofgoditsmean00sout: printed for private circulation; its readable text never names the preacher; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | Holy Communion in Armenian (a liturgical translation) | excluded | |
+
+## George H. Hepworth (round 104, my pick, 2026-10-23)
+
+Slugs `hepworth-*`. Built from title pages read for round 104.
+
+| Work | Status | Where |
+|---|---|---|
+| Two sermons preached in the Church of the Unity, April 23, 1865 (Boston : Printed for the Society by J. Wilson, 1865) | have-ocr | IA `twosermonspreach00hepw` |
+| The criminal; the crime; the penalty (Boston, Walker, Fuller, and Company, 1865) | have-ocr | IA `criminalcrimepen00hepw` |
+| Rocks and shoals. Lectures to young men (Boston, American Unitarian Association, 1870) | have-ocr | IA `rocksshoalslectu00hepw` |
+| Hiram Golf's Religion; or, The "shoemaker by the grace of God," (catalogued 1893) | have-ocr | IA `hiramgolfsreligi0000unse` |
+| The life beyond: this mortal must put on immortality (New York, Dutton, 1894) | have-ocr | IA `lifebeyondthismo00hepw` |
+| They met in heaven (New York, E.P. Dutton & Company, 1894) | have-ocr | IA `theymetinheaven00hepw` |
+| Herald sermons (New York : E.P. Dutton, 1894) | have-ocr | IA `heraldsermons00hepw` |
+| Brown studies (New York, E. P. Dutton & company, 1895) | have-ocr | IA `brownstudies00hepw` |
+| The farmer and the Lord (New York, E.P. Dutton, 1896) | have-ocr | IA `farmerlord00hepwrich` |
+| The Hepworth year book ([n. p.], 1897) | have-ocr | IA `hepworthyearbook00hepw` |
+| We Shall Live Again (E. P. Dutton & Company, 1903) | have-ocr | IA `weshallliveagain008415mbp` |
+| The Whip, Hoe, and Sword; Starboard and Port; Through Armenia on Horseback; a July 4 oration (not theology); Songs of the Unity (a hymnal) | excluded | |
