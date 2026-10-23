@@ -19121,6 +19121,15 @@ Shelf: `pipeline/a-h-beesly_shelf.json`. The Gracchi, Marius, and Sulla (Epochs 
 |---|---|---|---|
 | The Gracchi, Marius, and Sulla (Epochs of Ancient History, 1877; this printing 1889) |  | `beesly-gracchi-marius-sulla` | have-raw (IA `gracchimariussul00beesuoft`) |
 
+
+## Oskar Weise (1851-1933)
+
+Shelf: `pipeline/oskar-weise_shelf.json`. Language and Character of the Roman People (1909). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Language and Character of the Roman People (1909), tr. H. A. Strong and A. Y. Campbell |  | `weise-language-character-roman-people-1909` | have-raw (IA `gpl_1795586`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
