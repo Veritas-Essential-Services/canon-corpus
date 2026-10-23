@@ -11508,6 +11508,9 @@ Shelf: `pipeline/theophrastus_shelf.json`. Bennett & Hammond 1902 (Gutenberg); J
 |---|---|---|---|
 | The Characters of Theophrastus | Charles E. Bennett and William A. Hammond | `theophrastus-bennett-hammond` | have (PG 58242) |
 | The Characters of Theophrastus (1870) | ed. and R. C. Jebb | `theophrastus-jebb` | have-raw (IA `theophrastoucha02jebbgoog`) |
+| Enquiry into Plants and minor works on Odours and Weather Signs, tr. Sir Arthur Hort, vol. I (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling |  | `theophrastus-hort-plants-v1` | have-raw (IA `enquiryintoplant01theouoft`) |
+| Enquiry into Plants and minor works on Odours and Weather Signs, tr. Sir Arthur Hort, vol. II (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling |  | `theophrastus-hort-plants-v2` | have-raw (IA `enquiryintoplant02theouoft`) |
+| The Characters of Theophrastus, ed. and tr. J. M. Edmonds; Herodes, Cercidas and the Greek Choliambic Poets, ed. and tr. A. D. Knox (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling |  | `theophrastus-edmonds-characters-1929` | have-raw (IA `charactersofthe00theouoft`) |
 
 Pending (wishlist): Hort's Enquiry into Plants (Loeb, Greek facing)
 

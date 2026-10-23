@@ -17,12 +17,23 @@
    "theophrastoucha02jebbgoog",
    "The Characters of Theophrastus (1870)",
    "ed. and tr. R. C. Jebb"
+  ],
+  "theophrastus-hort-plants-v1": [
+   "enquiryintoplant01theouoft",
+   "Enquiry into Plants and minor works on Odours and Weather Signs, tr. Sir Arthur Hort, vol. I (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "theophrastus-hort-plants-v2": [
+   "enquiryintoplant02theouoft",
+   "Enquiry into Plants and minor works on Odours and Weather Signs, tr. Sir Arthur Hort, vol. II (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "theophrastus-edmonds-characters-1929": [
+   "charactersofthe00theouoft",
+   "The Characters of Theophrastus, ed. and tr. J. M. Edmonds; Herodes, Cercidas and the Greek Choliambic Poets, ed. and tr. A. D. Knox (Loeb, 1929); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
   "theophrastoucha01jebbgoog": "same 1870 edition; text layer unreadable (clean-word 0.00)",
   "cu31924026602171": "Sandys's 1909 revision of Jebb; lower OCR; not taken",
-  "Hort, Enquiry into Plants (Loeb, 1916)": "Greek facing; pending",
   "Eustace Budgell, The Moral Characters of Theophrastus (1714; 1743 printing)": "PD; the ECCO scans found (bim_eighteenth-century_the-moral-characters-of-_theophrastus_1714, _1743) read 0.640 and 0.760; refused for OCR quality 2026-10-10"
  },
  "_surname": [
@@ -30,12 +41,15 @@
  ],
  "_translators": {
   "theophrastus-bennett-hammond": "Charles E. Bennett",
-  "theophrastus-jebb": "r. c. jebb"
+  "theophrastus-jebb": "r. c. jebb",
+  "theophrastus-hort-plants-v1": "Arthur Hort",
+  "theophrastus-hort-plants-v2": "Arthur Hort",
+  "theophrastus-edmonds-characters-1929": "J. M. Edmonds"
  },
  "_checks": {
   "theophrastus-bennett-hammond": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "theophrastus",
    "translator_claimed": "Charles E. Bennett",
@@ -47,7 +61,7 @@
   },
   "theophrastus-jebb": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "theophrastus",
    "translator_claimed": "r. c. jebb",
@@ -56,6 +70,45 @@
    "ia_rights": "ok: published 1870",
    "ia_date": "1870",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "theophrastus-hort-plants-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theophrastus",
+   "translator_claimed": "Arthur Hort",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "theophrastus-hort-plants-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theophrastus",
+   "translator_claimed": "Arthur Hort",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "theophrastus-edmonds-characters-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theophrastus",
+   "translator_claimed": "J. M. Edmonds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
    "ia_lending": null
   }
  }
