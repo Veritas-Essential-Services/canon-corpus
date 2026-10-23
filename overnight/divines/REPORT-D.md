@@ -1826,3 +1826,6 @@
 
 ## 2026-10-22 22:24 CDT — prentiss-ingraham: done
 - prentiss-ingraham: new shelf, 17 Gutenberg books, 43,730 units, 52 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:24 CDT — cyrus-townsend-brady: done
+- cyrus-townsend-brady: new shelf, 17 Gutenberg books, 26,856 units, 133 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -39072,3 +39072,27 @@ Shelf: `pipeline/prentiss-ingraham_shelf.json` (2026-10-22; added at the coordin
 | Buffalo Bill's ruse | have | PG 64664, `pingraham-buffalo-bills-ruse` (2669 units) |
 | Buffalo Bill's still hunt | have | PG 64800, `pingraham-buffalo-bills-still-hunt` (2594 units) |
 | Buffalo Bill's death message | have | PG 79255, `pingraham-buffalo-bills-death-message` (2551 units) |
+
+## Cyrus Townsend Brady
+
+Shelf: `pipeline/cyrus-townsend-brady_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical and naval romances. Every English text under the name at Gutenberg that no other shelf holds (17 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| And Thus He Came: A Christmas Fantasy | have | PG 14606, `ctbrady-and-thus-he-came` (340 units) |
+| A Little Book for Christmas | have | PG 15343, `ctbrady-little-book-for-christmas` (550 units) |
+| The Eagle of the Empire: A Story of Waterloo | have | PG 20515, `ctbrady-eagle-of-the-empire` (2150 units) |
+| For Love of Country: A Story of Land and Sea in the Days of the Revolution | have | PG 20791, `ctbrady-for-love-of-country` (1607 units) |
+| South American Fights and Fighters, and Other Tales of Adventure | have | PG 20910, `ctbrady-south-american-fights-and-fighters-and-other-tales-o` (979 units) |
+| A Little Traitor to the South A War Time Comedy with a Tragic Interlude | have | PG 21681, `ctbrady-little-traitor-to-the-south-a-war-time-comedy-with-a` (832 units) |
+| Sir Henry Morgan, Buccaneer: A Romance of the Spanish Main | have | PG 29316, `ctbrady-sir-henry-morgan-buccaneer` (1961 units) |
+| The Chalice Of Courage: A Romance of Colorado | have | PG 37492, `ctbrady-chalice-of-courage` (1629 units) |
+| Woven with the Ship: A Novel of 1865 Together with certain other veracious tales of various sorts | have | PG 39097, `ctbrady-woven-with-the-ship` (2047 units) |
+| Secret Service Being the Happenings of a Night in Richmond in the Spring of 1865 | have | PG 44659, `ctbrady-secret-service-being-the-happenings-of-a-night-in-ri` (2318 units) |
+| By the World Forgot: A Double Romance of the East and West | have | PG 46600, `ctbrady-by-the-world-forgot` (2145 units) |
+| Commodore Paul Jones | have | PG 52485, `ctbrady-commodore-paul-jones` (1139 units) |
+| The Grip of Honor: A Story of Paul Jones and the American Revolution | have | PG 52540, `ctbrady-grip-of-honor` (1350 units) |
+| Indian Fights and Fighters: The Soldier and the Sioux | have | PG 55275, `ctbrady-indian-fights-and-fighters` (2258 units) |
+| The island of the stairs | have | PG 69130, `ctbrady-island-of-the-stairs` (1580 units) |
+| Hearts and the highway | have | PG 78498, `ctbrady-hearts-and-the-highway` (1985 units) |
+| Web of steel | have | PG 78753, `ctbrady-web-of-steel` (1986 units) |
