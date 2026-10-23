@@ -1,12 +1,14 @@
 {
- "_about": "TRANSLATOR SHELF: Albert D. Vandam (1843-1903): Bartholomew Sastrow's Memoirs of a German Burgomaster (1902) and La Garde-Chambonas's Anecdotal Recollections of the Congress of Vienna (1902). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Albert D. Vandam (1843-1903): Bartholomew Sastrow's Memoirs of a German Burgomaster (1902) and La Garde-Chambonas's Anecdotal Recollections of the Congress of Vienna (1902). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted. From archive.org (2026-10-23): Houssaye's Behind the Scenes of the Comédie Française (Chapman and Hall, 1889); its title page OCRs him 'Albert D. Yandam', recorded. Legouvé's Sixty Years of Recollections (2 vols) held, no year printed.",
  "_name_words": [
   "albert d. vandam",
-  "vandam"
+  "vandam",
+  "albert d. yandam"
  ],
  "_surname": [
   "albert d. vandam",
-  "vandam"
+  "vandam",
+  "albert d. yandam"
  ],
  "_surname_note": "Full name only.",
  "ccel": {},
@@ -20,7 +22,12 @@
    "Anecdotal Recollections of the Congress of Vienna"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "van-ia-houssaye-comedie-francaise": [
+   "behindscenesofco00housuoft",
+   "Houssaye: Behind the Scenes of the Comédie Française"
+  ]
+ },
  "titles": {
   "vandam-la-garde-chambonas-anecdotal-recollections-of-the-congress": {
    "source": "van-54061",
@@ -37,15 +44,25 @@
    "translated": "1902 (see the Gutenberg header)",
    "translator": "Albert D. Vandam",
    "scan_edition": "Project Gutenberg 33891 (clean text)"
+  },
+  "vandam-houssaye-behind-the-scenes-of-the-comedie-francaise": {
+   "source": "van-ia-houssaye-comedie-francaise",
+   "of": "Arsène Houssaye",
+   "work": "Behind the Scenes of the Comédie Française, and Other Recollections",
+   "translated": "1889",
+   "translator": "Albert D. Vandam",
+   "scan_edition": "Chapman and Hall, London, 1889 (translated and edited, with notes)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "vandam-legouve-sixty-years": "Legouvé's Sixty Years of Recollections, 2 vols (Eden, Remington & Co., London and Sydney; sixtyyearsofreco01legouoft, sixtyyearsofreco02legouoft), 'translated, with notes, by Albert D. Vandam'. The title pages print no year; archive.org dates them 1893."
+ },
  "_excluded": {},
- "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed. 'albert d. yandam' is the OCR of the Houssaye title page (2026-10-23).",
  "_checks": {
   "van-33891": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "albert d. vandam",
    "identity": "ok",
@@ -54,12 +71,23 @@
   },
   "van-54061": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "albert d. vandam",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Albert D. Vandam"
+  },
+  "van-ia-houssaye-comedie-francaise": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert d. yandam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +100,23 @@
    "pg": 54061,
    "pg_copyrighted_marker": false,
    "pg_translator": "Albert D. Vandam"
+  },
+  "van-ia-houssaye-comedie-francaise": {
+   "ia": "behindscenesofco00housuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1844,
+    1848,
+    1850,
+    1851,
+    1852,
+    1853,
+    1854,
+    1855,
+    1856,
+    1889
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Sir Theodore Martin (1816-1909). Schiller's Wilhelm Tell (1847). PD. Added 2026-10-03 by lane C (round 8) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_about": "TRANSLATOR SHELF: Sir Theodore Martin (1816-1909). Schiller's Wilhelm Tell (1847). PD. Added 2026-10-03 by lane C (round 8) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst. From archive.org (2026-10-23): Hertz's King René's Daughter (Orr, 1850). His Vita Nuova held (no year printed); Madonna Pia (1894) left off, as it mixes his own play with translations.",
  "_name_words": [
   "theodore martin"
  ],
@@ -13,7 +13,12 @@
    "Wilhelm Tell"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "martin-ia-hertz-king-renes-daughter": [
+   "kingrensdaught00hertuoft",
+   "Hertz: King René's Daughter"
+  ]
+ },
  "titles": {
   "theodore-martin-wilhelm-tell": {
    "source": "martin-wilhelm-tell",
@@ -22,25 +27,47 @@
    "translated": 1847,
    "translator": "Sir Theodore Martin",
    "scan_edition": "Project Gutenberg 6788 (clean text)"
+  },
+  "theodore-martin-hertz-king-renes-daughter": {
+   "source": "martin-ia-hertz-king-renes-daughter",
+   "of": "Henrik Hertz",
+   "work": "King René's Daughter: A Danish Lyrical Drama",
+   "translated": "1850",
+   "translator": "Theodore Martin",
+   "scan_edition": "Wm. S. Orr and Co., London, 1850"
   }
  },
  "_pending": {
-  "theodore-martin-others": "Martin's Faust (1865-86), Vita Nuova (1862), Catullus (1861) and Heine (1878): on IA, not fetched this run. His Horace overlaps lane B's horace shelf; check there first."
+  "theodore-martin-others": "Martin's Faust (1865-86), Vita Nuova (1862), Catullus (1861) and Heine (1878): on IA, not fetched this run. His Horace overlaps lane B's horace shelf; check there first.",
+  "theodore-martin-dante-vita-nuova": "Dante's The Vita Nuova, translated with an introduction and notes by Theodore Martin (Parker, Son, and Bourn, London; vitanuovadantet00aliggoog). The title page prints no year; archive.org dates it 1862."
  },
  "_excluded": {
   "book-of-ballads": "The Book of Ballads (PG 44798, with Aytoun): parodies, not translations.",
-  "pg-2782": "Wilhelm Tell again: another Gutenberg file of Martin's translation, already held as 6788."
+  "pg-2782": "Wilhelm Tell again: another Gutenberg file of Martin's translation, already held as 6788.",
+  "archive-sweep-2026-10-23": "2026-10-23: Madonna Pia, a Tragedy, and Three Other Dramas (Blackwood, 1894) is 'written and translated' by him, mixing his own play with translations, so it is left off. The Bohn Wallenstein and Wilhelm Tell (1891) adds only Coleridge's and Churchill's Wallenstein to the Tell already here."
  },
  "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
  "_checks": {
   "martin-wilhelm-tell": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "theodore martin",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Sir Theodore Martin"
+  },
+  "martin-ia-hertz-king-renes-daughter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore martin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -48,6 +75,17 @@
    "pg": 6788,
    "pg_copyrighted_marker": false,
    "pg_translator": "Sir Theodore Martin"
+  },
+  "martin-ia-hertz-king-renes-daughter": {
+   "ia": "kingrensdaught00hertuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1849,
+    1850,
+    1901,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

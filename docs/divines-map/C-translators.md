@@ -746,14 +746,16 @@ Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
 ## Sir Theodore Martin (Wilhelm Tell)
 
 Shelf: `pipeline/theodore-martin_shelf.json` · fetch `python3 pipeline/fetch_shelf.py theodore-martin` · titles `python3 pipeline/split_shelf_titles.py theodore-martin`.
-Round 8, vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 8, vetoable. Round 159 (2026-10-23) added King René's Daughter from archive.org; Vita Nuova held. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `theodore-martin-wilhelm-tell` | Schiller | Wilhelm Tell | Sir Theodore Martin | 1847 | have | PG 6788 |
+| `theodore-martin-hertz-king-renes-daughter` | Henrik Hertz | King René's Daughter: A Danish Lyrical Drama | Theodore Martin | 1850 | have-raw | IA `kingrensdaught00hertuoft` |
 | `theodore-martin-others` | — | Martin's Faust (1865-86), Vita Nuova (1862), Catullus (1861) and Heine (1878): on IA, not fetched this run. His Horace overlaps lane B's horace shelf; check there first. | — | — | pending | — |
 | — | — | book-of-ballads: The Book of Ballads (PG 44798, with Aytoun): parodies, not translations. | — | — | excluded | — |
 | — | — | pg-2782: Wilhelm Tell again: another Gutenberg file of Martin's translation, already held as 6788. | — | — | excluded | — |
+| `theodore-martin-dante-vita-nuova` | Dante Alighieri | The Vita Nuova (Parker, Son, and Bourn; no year printed, archive.org 1862) | Theodore Martin | 1862? | pending | — |
 
 ## Lafcadio Hearn as translator (Gautier, Flaubert)
 
@@ -2281,7 +2283,7 @@ Round 25 (2026-10-10), vetoable. Round 137 (2026-10-23) added 16 of Markham's Ha
 ## Thomasina Ross (Humboldt's Personal Narrative; Tschudi; Bouterwek)
 
 Shelf: `pipeline/thomasina-ross_shelf.json` · fetch `python3 pipeline/fetch_shelf.py thomasina-ross` · titles `python3 pipeline/split_shelf_titles.py thomasina-ross`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 159 (2026-10-23) added Tschudi's Travels in Peru from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2292,6 +2294,7 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `thomasina-ross-humboldt-personal-narrative-vol-2` | Alexander von Humboldt | Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 2 | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 7014 |
 | `thomasina-ross-humboldt-personal-narrative-vol-3` | Alexander von Humboldt | Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3 | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 7254 |
 | `thomasina-ross-tschudi-travels-in-peru-on-the-coast-in-the-sier` | Johann Jakob von Tschudi | Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests | Thomasina Ross | 1823-1853 (see the Gutenberg header) | have | PG 26745 |
+| `thomasina-ross-tschudi-travels-in-peru` | J. J. von Tschudi | Travels in Peru during the Years 1838-1842 | Thomasina Ross | 1847 | have-raw | IA `travelsinperudu00rossgoog` |
 
 ## Henry Llewellyn Williams (Dumas's Marie Antoinette romances; Aimard)
 
@@ -2600,7 +2603,7 @@ Round 27 (2026-10-10), vetoable. Round 127 added Pinski's The Treasure. Not conv
 ## Henri Van Laun (Taine's History of English Literature; La Bruyère)
 
 Shelf: `pipeline/van-laun_shelf.json` · fetch `python3 pipeline/fetch_shelf.py van-laun` · titles `python3 pipeline/split_shelf_titles.py van-laun`.
-Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 27 (2026-10-10), vetoable. Round 159 (2026-10-23) added four volumes of his Molière from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2608,6 +2611,10 @@ Round 27 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `van-laun-taine-history-of-english-literature-volume-1-o` | Hippolyte Taine | History of English Literature Volume 1 (of 3) | Henri Van Laun | 1871-1885 (see the Gutenberg header) | have | PG 61308 |
 | `van-laun-taine-history-of-english-literature-volume-2-o` | Hippolyte Taine | History of English Literature Volume 2 (of 3) | Henri Van Laun | 1871-1885 (see the Gutenberg header) | have | PG 61382 |
 | `van-laun-taine-history-of-english-literature-volume-3-o` | Hippolyte Taine | History of English Literature Volume 3 (of 3) | Henri Van Laun | 1871-1885 (see the Gutenberg header) | have | PG 61510 |
+| `van-laun-moliere-dramatic-works-2` | Molière | The Dramatic Works of Molière, vol. II of 6 | Henri Van Laun | 1875 | have-raw | IA `dramaticworksren00moliuoft` |
+| `van-laun-moliere-dramatic-works-4` | Molière | The Dramatic Works of Molière, vol. IV of 6 | Henri Van Laun | 1876 | have-raw | IA `dramaticworksren04moliuoft` |
+| `van-laun-moliere-dramatic-works-5` | Molière | The Dramatic Works of Molière, vol. V of 6 | Henri Van Laun | 1876 | have-raw | IA `dramaticworksren05moliuoft` |
+| `van-laun-moliere-dramatic-works-6` | Molière | The Dramatic Works of Molière, vol. VI of 6 | Henri Van Laun | 1876 | have-raw | IA `dramaticworksren06moliuoft` |
 
 ## Eugene Mason (Wace, Layamon, Marie de France, Aucassin)
 
@@ -2731,13 +2738,14 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Anna Swanwick (Goethe, Schiller)
 
 Shelf: `pipeline/swanwick_shelf.json` · fetch `python3 pipeline/fetch_shelf.py swanwick` · titles `python3 pipeline/split_shelf_titles.py swanwick`.
-Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 28 (2026-10-10), vetoable. Round 159 (2026-10-23) added the Bohn Goethe Dramatic Works from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `swanwick-goethe-egmont` | Johann Wolfgang von Goethe | Egmont | Anna Swanwick | 1843-1850 (see the Gutenberg header) | have | PG 1945 |
 | `swanwick-goethe-iphigenia-in-tauris` | Johann Wolfgang von Goethe | Iphigenia in Tauris | Anna Swanwick | 1843-1850 (see the Gutenberg header) | have | PG 15850 |
 | `swanwick-schiller-the-maid-of-orleans-a-tragedy` | Friedrich Schiller | The Maid of Orleans: A Tragedy | Anna Swanwick | 1843-1850 (see the Gutenberg header) | have | PG 6792 |
+| `swanwick-goethe-dramatic-works-bohn` | Johann Wolfgang von Goethe | Dramatic Works: Faust, Iphigenia in Tauris, Torquato Tasso, Egmont (and Goetz von Berlichingen, translated by Sir Walter Scott) | Anna Swanwick (Goetz by Walter Scott) | 1860 (this printing) | have-raw | IA `dramaticworksgo00goetgoog` |
 
 ## John Oxenford (Goethe's Autobiography; Tales from the German)
 
@@ -3610,12 +3618,13 @@ Round 32 (2026-10-10), vetoable. Barbosa is keyed from a 1970 facsimile: flagged
 ## Francis J. Ziegler (Wedekind's The Awakening of Spring; Such is Life)
 
 Shelf: `pipeline/ziegler_shelf.json` · fetch `python3 pipeline/fetch_shelf.py ziegler` · titles `python3 pipeline/split_shelf_titles.py ziegler`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 159 (2026-10-23) added Swanwhite from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `ziegler-wedekind-such-is-life-a-play-in-five-acts` | Frank Wedekind | Such is Life: A Play in Five Acts | Francis J. Ziegler | 1909-1912 (see the Gutenberg header) | have | PG 45228 |
 | `ziegler-wedekind-the-awakening-of-spring-a-tragedy-of-chi` | Frank Wedekind | The Awakening of Spring: A Tragedy of Childhood | Francis J. Ziegler | 1909-1912 (see the Gutenberg header) | have | PG 35242 |
+| `ziegler-strindberg-swanwhite` | August Strindberg | Swanwhite: A Fairy Drama | Francis J. Ziegler | 1909 (second edition, 1912) | have-raw | IA `swanwhiteafairy00zieggoog` |
 
 ## W. Fitzwater Wray (Barbusse's Under Fire; Light)
 
@@ -3642,12 +3651,14 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Albert D. Vandam (Sastrow's Memoirs; the Congress of Vienna)
 
 Shelf: `pipeline/vandam_shelf.json` · fetch `python3 pipeline/fetch_shelf.py vandam` · titles `python3 pipeline/split_shelf_titles.py vandam`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 159 (2026-10-23) added Houssaye from archive.org; Legouvé held. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `vandam-la-garde-chambonas-anecdotal-recollections-of-the-congress` | Auguste de La Garde-Chambonas | Anecdotal Recollections of the Congress of Vienna | Albert D. Vandam | 1902 (see the Gutenberg header) | have | PG 54061 |
 | `vandam-sastrow-bartholomew-sastrow-being-the-memoirs-of` | Bartholomäus Sastrow | Bartholomew Sastrow: Being the Memoirs of a German Burgomaster | Albert D. Vandam | 1902 (see the Gutenberg header) | have | PG 33891 |
+| `vandam-houssaye-behind-the-scenes-of-the-comedie-francaise` | Arsène Houssaye | Behind the Scenes of the Comédie Française, and Other Recollections | Albert D. Vandam | 1889 | have-raw | IA `behindscenesofco00housuoft` |
+| `vandam-legouve-sixty-years` | Ernest Legouvé | Sixty Years of Recollections, 2 vols (Eden, Remington; no year printed, archive.org 1893) | Albert D. Vandam | 1893? | pending | — |
 
 ## Ernest Untermann (Engels's Origin of the Family; Dietzgen)
 
@@ -3668,6 +3679,7 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 |---|---|---|---|---|---|---|
 | `strettell-mistral-memoirs-of-mistral` | Frédéric Mistral | Memoirs of Mistral | Alma Strettell (with Constance Elizabeth Maud) | 1899-1907 (see the Gutenberg header) | have | PG 56040 |
 | `strettell-verhaeren-poems-of-emile-verhaeren` | Emile Verhaeren | Poems of Emile Verhaeren | Alma Strettell | 1899-1907 (see the Gutenberg header) | have | PG 33792 |
+| `strettell-bard-of-the-dimbovitza` | Hélène Vacaresco | The Bard of the Dimbovitza (Osgood, McIlvaine; no year printed, archive.org 1892) | Carmen Sylva and Alma Strettell | 1892? | pending | — |
 
 ## Lionel Strachey (Memoirs of Madame Vigée Lebrun; The Gray Nun)
 
@@ -3890,6 +3902,7 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 |---|---|---|---|---|---|---|
 | `sumichrast-gautier-my-private-menagerie-from-the-works-of-t` | Théophile Gautier | My Private Menagerie from The Works of Theophile Gautier Volume 19 | Frederick C. de Sumichrast | 1900-1903 (see the Gutenberg header) | have | PG 30760 |
 | `sumichrast-gautier-the-romance-of-a-mummy-and-egypt-the-wor` | Théophile Gautier | The Romance of a Mummy and Egypt The Works of Theophile Gautier, Volume 5 | Frederick C. de Sumichrast | 1900-1903 (see the Gutenberg header) | have | PG 27724 |
+| `sumichrast-gautier-portraits-of-the-day` | Théophile Gautier | Portraits of the Day, Works vol. VI (year illegible, archive.org 1901) | F. C. de Sumichrast | 1901? | pending | — |
 
 ## Rose Strunsky (Tolstoy's Journal, 1895-99; Gorky's The Confession)
 
@@ -3940,12 +3953,13 @@ Round 33 (2026-10-10), vetoable. Round 106 (2026-10-17) added Tales from Sacchet
 ## Wolf von Schierbrand (Keller's Seldwyla Folks; Bilse)
 
 Shelf: `pipeline/schierbrand_shelf.json` · fetch `python3 pipeline/fetch_shelf.py schierbrand` · titles `python3 pipeline/split_shelf_titles.py schierbrand`.
-Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Round 159 (2026-10-23) added The Kaiser's Speeches from archive.org. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `schierbrand-bilse-a-little-garrison-a-realistic-novel-of-g` | Fritz Oswald Bilse | A Little Garrison: A Realistic Novel of German Army Life of To-day | Wolf von Schierbrand | 1904-1919 (see the Gutenberg header) | have | PG 31248 |
 | `schierbrand-keller-seldwyla-folks-three-singular-tales` | Gottfried Keller | Seldwyla Folks: Three Singular Tales | Wolf von Schierbrand | 1904-1919 (see the Gutenberg header) | have | PG 34505 |
+| `schierbrand-the-kaisers-speeches` | William II, German Emperor (compiled by A. Oscar Klaussmann) | The Kaiser's Speeches, Forming a Character Portrait of Emperor William II | Wolf von Schierbrand | 1903 | have-raw | IA `kaisersspeechesf00will` |
 
 ## M. Schele de Vere (two Spielhagen novels)
 

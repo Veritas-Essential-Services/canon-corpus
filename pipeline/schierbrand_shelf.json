@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Wolf von Schierbrand (1851-1920): Gottfried Keller's Seldwyla Folks (1919) and Bilse's A Little Garrison (1904). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Wolf von Schierbrand (1851-1920): Gottfried Keller's Seldwyla Folks (1919) and Bilse's A Little Garrison (1904). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted. From archive.org (2026-10-23): The Kaiser's Speeches (Harper, 1903), translated and edited.",
  "_name_words": [
   "wolf von schierbrand",
   "schierbrand"
@@ -20,7 +20,12 @@
    "Seldwyla Folks: Three Singular Tales"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "wvs-ia-kaiser-speeches": [
+   "kaisersspeechesf00will",
+   "The Kaiser's Speeches"
+  ]
+ },
  "titles": {
   "schierbrand-bilse-a-little-garrison-a-realistic-novel-of-g": {
    "source": "wsc-31248",
@@ -37,6 +42,14 @@
    "translated": "1904-1919 (see the Gutenberg header)",
    "translator": "Wolf von Schierbrand",
    "scan_edition": "Project Gutenberg 34505 (clean text)"
+  },
+  "schierbrand-the-kaisers-speeches": {
+   "source": "wvs-ia-kaiser-speeches",
+   "of": "William II, German Emperor (compiled by A. Oscar Klaussmann)",
+   "work": "The Kaiser's Speeches, Forming a Character Portrait of Emperor William II",
+   "translated": "1903",
+   "translator": "Wolf von Schierbrand",
+   "scan_edition": "Harper & Brothers, New York and London, 1903 (translated and edited with annotations)"
   }
  },
  "_pending": {},
@@ -45,7 +58,7 @@
  "_checks": {
   "wsc-31248": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wolf von schierbrand",
    "identity": "ok",
@@ -54,12 +67,23 @@
   },
   "wsc-34505": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wolf von schierbrand",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Wolf von Schierbrand"
+  },
+  "wvs-ia-kaiser-speeches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wolf von schierbrand",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -72,6 +96,17 @@
    "pg": 34505,
    "pg_copyrighted_marker": false,
    "pg_translator": "Wolf von Schierbrand"
+  },
+  "wvs-ia-kaiser-speeches": {
+   "ia": "kaisersspeechesf00will",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890,
+    1895,
+    1896,
+    1903
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
