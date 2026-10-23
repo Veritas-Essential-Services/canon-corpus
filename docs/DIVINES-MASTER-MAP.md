@@ -19148,6 +19148,22 @@ Slugs `batten-*`. Built from title pages read for round 131.
 | Why not try Christianity? (New York, George H. Doran company, 1923) | have-ocr | IA `whynottrychristi00batt` |
 | single journal articles | excluded | |
 | microform and other scans of the same books | excluded | |
+
+## Francis Jacox (round 131, my pick, 2026-10-23)
+
+Slugs `jacox-*`. Built from title pages read for round 131.
+
+| Work | Status | Where |
+|---|---|---|
+| Scripture texts illustrated by general literature, vol. 1 (New York : Thomas Nelson & Sons, 1800) | have-ocr | IA `scripturetextsil0001jaco` |
+| Bible music, variations on musical themes from Scripture (catalogued 1871) | have-ocr | IA `biblemusicvaria00jacogoog` |
+| Secular annotations on Scripture texts (London : Hodder & Stoughton, 1872) | have-ocr | IA `secularannotatio00jaco` |
+| Traits of character and notes of incident in Bible story (London, Hodder and Stoughton, 1873) | have-ocr | IA `traitsofcharacte00jaco` |
+| Scripture proverbs : illustrated, annotated, and applied (London : Hodder and Stoughton, 1874) | have-ocr | IA `scriptureproverb00jaco` |
+| Side-lights on Scripture texts (London : Hodder and Stoughton, 1877) | have-ocr | IA `sidelightsonscri00jaco` |
+| At nightfall and midnight: musings after dark (catalogued 1873) | have-ocr | IA `atnightfallandm00jacogoog` |
+| Recreations of a Recluse, Cues from All Quarters, Aspects of Authorship and Shakespeare Diversions are literary essays, outside this theology shelf | excluded | |
+| other scans of Bible Music | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

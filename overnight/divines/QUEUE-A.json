@@ -10765,6 +10765,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T09:42:10-05:00",
       "notes": "8 books, 1898-1923."
+    },
+    {
+      "id": "a-francis-jacox",
+      "status": "done",
+      "scope": "round 131",
+      "added": "2026-10-23T09:42:10-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T09:42:10-05:00",
+      "notes": "7 books on Scripture, 1871-1877; his literary essays left out."
     }
   ]
 }
