@@ -18870,3 +18870,29 @@ Slugs `duche-*`. Built from title pages read for round 128.
 | wsb4f13_images has page images but no text | excluded | |
 | Anti-Paedo-Rantism is by Abel Morgan; Washington at Valley Forge is a collection | excluded | |
 | other scans and the second edition of the Discourses | excluded | |
+
+## Charles Henry Brent (round 129, my pick, 2026-10-23)
+
+Slugs `brent-*`. Built from title pages read for round 129.
+
+| Work | Status | Where |
+|---|---|---|
+| With God in the world : a series of papers (New York : Longmans, Green & Co., 1899) | have-ocr | IA `withgodinworldse00bren` |
+| The splendor of the human body : a reparation and an appeal (New York ; London ; Bombay ; Calcutta : Longmans, Green, 1904) | have-ocr | IA `TheSplendorOfTheHumanBody` |
+| The Consolations of the Cross: Addressses on the Seven Words of the Dying Lord (Longmans, Green, 1904) | have-ocr | IA `consolationscro00brengoog` |
+| Adventure for God (New York [etc.] Longmans, Green, and co., 1907) | have-ocr | IA `adventureforgod00brenrich` |
+| With God in prayer (G.W. Jacobs, 1907) | have-ocr | IA `withgodinprayer0000char` |
+| The mind of Christ Jesus in the church of the living God, a charge (New York [etc.] Longmans, Green, and Co., 1908) | have-ocr | IA `mindofchristjesu00bren` |
+| Leadership; the William Belden Noble lectures delivered at Sanders theatre, Harvard university, December, 1907 (New York [etc.] Longmans, Green, and co., 1908) | have-ocr | IA `cu31924014090389` |
+| The sixth sense: its cultivation and use (New York, b. W. Huebsch, 1911) | have-ocr | IA `sixthsenseitscul00bren` |
+| Presence (New York, London [etc.] Longmans, Green and co., 1914) | have-ocr | IA `presence00bren` |
+| The revelation of discovery (New York [etc.] Longmans, Green, and co., 1915) | have-ocr | IA `revelationofdisc0000bren` |
+| Prisoners of hope, and other sermons (New York [etc.] Longmans, Green, and co., 1915) | have-ocr | IA `prisonersofhopeo00bren` |
+| The inspiration of responsibility, and other papers (New York, London Longmans, Green and Co., 1915) | have-ocr | IA `inspirationofres0000bren` |
+| A master builder, being the life and letters of Henry Yates Satterlee, first bishop of Washington (New York, London [etc.] Longmans, Green and Co., 1916) | have-ocr | IA `masterbuilderbei00bren` |
+| The conquest of trouble and The peace of God (Philadelphia, G. W. Jacobs & company, 1916) | have-ocr | IA `conquestoftroubl00bren` |
+| The mount of vision, being a study of life in terms of the whole (New York [etc.] Longmans, Green and co., 1918) | have-ocr | IA `mountofvisionbeitw00bren` |
+| Soldiers of the wooden cross. Address delivered at the memorial services held with the 305th, 306th and 307th infantry regiments, Chateau Villain, January 5, 1919 ([New York : General War-time Commission of the Churches], 1919) | have-ocr | IA `soldiersofwooden00bren` |
+| Understanding : being an interpretation of the Universal Christian Conference on Life and Work, held in Stockholm, August 15-30, 1925 (catalogued 1925) | have-ocr | IA `wcclifework002` |
+| the International Opium Commission reports are official reports, not his own books | excluded | |
+| other scans of the same books | excluded | |
