@@ -6722,6 +6722,11 @@ Shelf: `pipeline/a-e-taylor_shelf.json`. A. E. Taylor (1869-1945). Problem of Co
 | Thomas Hobbes (Constable, 1908) |  | `taylor-thomas-hobbes-1908` | have-raw (IA `thomashobbes00tayluoft`) |
 | Aristotle, revised edition (The People's Books, 1919) |  | `taylor-aristotle-1919` | have-raw (IA `aristotle00tayluoft`) |
 | Elements of Metaphysics |  | `taylor-elements-of-metaphysics-pg` | have (PG 71885, clean witness) |
+| Plato, by A. E. Taylor, Philosophies Ancient and Modern (London: Archibald Constable, 1908) |  | `taylor-plato-1908` | have-raw (IA `plato00tayl`) |
+| Epicurus, by A. E. Taylor (no imprint in the OCR; preface dated St Andrews, July 1910) |  | `taylor-epicurus-1910` | have-raw (IA `epicurus00tayl_0`) |
+| Varia Socratica, first series, by A. E. Taylor (Oxford, 1911) |  | `taylor-varia-socratica-1911` | have-raw (IA `cu31924008300612`) |
+| Platonism and its Influence, by Alfred Edward Taylor (Boston: Marshall Jones, copyright 1924, printed December 1924) |  | `taylor-platonism-and-its-influence-1924` | have-raw (IA `platonismitsinfl0000tayl`) |
+| Plato, the Man and his Work, by A. E. Taylor, third edition revised and enlarged (London: Methuen, 1929; first published 28 October 1926) |  | `taylor-plato-man-and-work-1929` | have-raw (IA `platomanhiswork0000aeta`) |
 
 Pending (wishlist): Plato (Constable, 1908) with a dated copy
 
