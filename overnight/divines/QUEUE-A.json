@@ -5905,6 +5905,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:18:08-05:00",
       "notes": "Century of Sermons 1675, memoirs of Williams 1715."
+    },
+    {
+      "id": "william-wake",
+      "status": "done",
+      "scope": "round 41",
+      "added": "2026-10-22T23:18:08-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:18:08-05:00",
+      "notes": "Apostolical Fathers 1719, Catechism commentary 1827; the 1686 Real Presence pending (no author on the title page)."
     }
   ]
 }

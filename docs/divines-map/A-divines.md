@@ -10176,3 +10176,15 @@ Slugs `hacket-*`. Built from title pages read for round 41.
 | A century of sermons, ...  1675 (catalogued 1675) | have-ocr | IA `bim_early-english-books-1641-1700_a-century-of-sermons-_hacket-john-bp_1675` |
 | Bishop Hacket's memoirs of the life of Archbishop Williams, Lord Keeper of the Great Seal of England, abridg'd. With the most remarkable occurrences and transactions in church and state.  1715 (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_bishop-hackets-memoirs-_hacket-john_1715` |
 | Loiola (1648), his Latin comedy; Divers Voyages (1850), Hakluyt's | excluded | |
+
+## William Wake (round 41, my pick, 2026-10-22)
+
+Slugs `wake-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The genuine epistles of the Apostolical Fathers, : St. Barnabas, St. Clement, St. Ignatius, St. Polycarp; the Shepherd of Hermas, and the martyrdoms of St. Ignatius and St. Polycarp, written by those who were present at their sufferings (London: : Printed by W.B. for Richard Sare..., 1719) | have-ocr | IA `genuineepistleso1719wake` |
+| The principles of the Christian religion explained, in a brief commentary upon the church catechism (London, Printed for T. Cadell, 1827) | have-ocr | IA `principlesofchri00wakerich` |
+| A brief discourse of the real presence of the body and blood of Christ in the celebration of the Holy Eucharist : wherein the witty artifices of the Bishop of Meaux and of Monsieur Maimbourg are obviated, whereby they would draw in the Protestants to imbrace the doctrine of transubstantiation (London : Printed for Walter Kettilby, 1686) [breof00more]: a bound volume of three tracts; only a binder's handwritten contents list gives them to 'Abp Wake', and the printed title page carries no author, only the imprimatur | pending | not shelved |
+| Other printings of the Apostolical Fathers (1693-1893) and the 1909 Burton edition | alternate | not shelved |
+| Hone's Apocryphal New Testament (1820-1901), a compilation that reprints some of Wake's translations; the Speculum Dioeceseos Lincolniensis (1913), his diocesan records edited by others | excluded | |
