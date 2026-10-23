@@ -1,0 +1,68 @@
+{
+ "_about": "W. W. Buckland (1859-1946), Regius Professor of Civil Law at Cambridge: A Text-Book of Roman Law from Augustus to Justinian (1921), Elementary Principles of the Roman Private Law (1912), and Equity in Roman Law (1911). Later works (Manual of Roman Private Law 1925, Roman Law and Common Law 1936) are not here yet. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "William Warwick Buckland (1859-1946)",
+ "_name_words": [
+  "buckland",
+  "roman",
+  "law",
+  "equity",
+  "private",
+  "augustus",
+  "justinian"
+ ],
+ "_surname": [
+  "buckland"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "buckland-text-book-roman-law-1921": [
+   "textbookofromanl00buckuoft",
+   "A Text-Book of Roman Law from Augustus to Justinian (1921)"
+  ],
+  "buckland-elementary-principles-roman-private-law-1912": [
+   "elementaryprinci00buckuoft",
+   "Elementary Principles of the Roman Private Law (1912)"
+  ],
+  "buckland-equity-in-roman-law-1911": [
+   "equityinromanlaw00buck",
+   "Equity in Roman Law: Lectures Delivered in the University of London (1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "buckland-text-book-roman-law-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buckland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buckland-elementary-principles-roman-private-law-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buckland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "buckland-equity-in-roman-law-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "buckland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

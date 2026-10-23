@@ -9173,3 +9173,14 @@ Shelf: `pipeline/rudolph-sohm_shelf.json`. The Institutes of Roman private law, 
 
 Excluded: The Institutes of Roman Law (1892), 2nd ed. (1901) (superseded by the 3rd English edition of 1907)
 
+
+## W. W. Buckland (1859-1946)
+
+Shelf: `pipeline/w-w-buckland_shelf.json`. Roman law, 1911-1921. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Text-Book of Roman Law from Augustus to Justinian (1921) |  | `buckland-text-book-roman-law-1921` | have-raw (IA `textbookofromanl00buckuoft`) |
+| Elementary Principles of the Roman Private Law (1912) |  | `buckland-elementary-principles-roman-private-law-1912` | have-raw (IA `elementaryprinci00buckuoft`) |
+| Equity in Roman Law: Lectures Delivered in the University of London (1911) |  | `buckland-equity-in-roman-law-1911` | have-raw (IA `equityinromanlaw00buck`) |
+
