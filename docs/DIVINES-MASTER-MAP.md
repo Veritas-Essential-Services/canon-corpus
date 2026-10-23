@@ -20683,6 +20683,26 @@ Shelf: `pipeline/j-e-b-mayor_shelf.json`. Thirteen Satires of Juvenal with a com
 | Thirteen Satires of Juvenal, with a commentary, fourth edition revised, vol. I (London and New York: Macmillan, 1886); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `j-e-b-mayor-juvenal-1886-v1` | have-raw (IA `thirteensatireso0001juve`) |
 | Thirteen Satires of Juvenal, with a commentary, vol. II (London and New York: Macmillan, 1888); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `j-e-b-mayor-juvenal-1888-v2` | have-raw (IA `thirteensatires01mayogoog`) |
 
+## Sir Alexander Grant (1826-1884)
+
+Shelf: `pipeline/alexander-grant_shelf.json`. The Ethics of Aristotle, 4th ed., 2 vols., 1885. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Ethics of Aristotle, illustrated with essays and notes, fourth edition revised, vol. I (London: Longmans, Green, 1885) |  | `alexander-grant-ethics-of-aristotle-1885-v1` | have-raw (IA `ethicsofaristotl01arisuoft`) |
+| The Ethics of Aristotle, illustrated with essays and notes, fourth edition revised, vol. II (London: Longmans, Green, 1885); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `alexander-grant-ethics-of-aristotle-1885-v2` | have-raw (IA `cu31924011102682`) |
+
+## W. L. Newman (1834-1923)
+
+Shelf: `pipeline/w-l-newman_shelf.json`. The Politics of Aristotle, 4 vols., 1887-1902. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Politics of Aristotle, with an introduction, two prefatory essays and notes critical and explanatory, vol. I: Introduction (Oxford: Clarendon Press, 1887) |  | `w-l-newman-politics-of-aristotle-1887-v1` | have-raw (IA `politicsofarist01arisuoft`) |
+| The Politics of Aristotle, vol. II: Prefatory Essays, Books I and II, text and notes (Oxford: Clarendon Press, 1887); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-l-newman-politics-of-aristotle-1887-v2` | have-raw (IA `cu31924005693605`) |
+| The Politics of Aristotle, vol. III: Two Essays, Books III, IV and V, text and notes (Oxford: Clarendon Press, 1902); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-l-newman-politics-of-aristotle-1902-v3` | have-raw (IA `politicsofaristo03aris`) |
+| The Politics of Aristotle, vol. IV: Essay on Constitutions, Books VI-VIII, text and notes (Oxford: Clarendon Press, 1902); Greek text with English notes, kept per Adam's 2026-10-23 ruling |  | `w-l-newman-politics-of-aristotle-1902-v4` | have-raw (IA `politicsofaristo04arisuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
