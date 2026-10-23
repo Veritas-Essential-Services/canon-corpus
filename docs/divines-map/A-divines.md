@@ -15840,3 +15840,17 @@ Slugs `garvie-*`. Built from title pages read for round 96.
 | The Christian doctrine of the Godhead; or, The apostolic benediction as the Christian creed (New York, George H. Doran, 1926) | have-ocr | IA `christiandoctrin0000garv` |
 | The Preachers of the Church (James Clarke and Co., 1927) | have-ocr | IA `preachersofchurc0000alfr` |
 | Christ and Civilization (1910, many authors) | excluded | |
+
+## J. Scott Lidgett (round 96, my pick, 2026-10-23)
+
+Slugs `lidgett-*`. Built from title pages read for round 96.
+
+| Work | Status | Where |
+|---|---|---|
+| The spiritual principle of the atonement : as a satisfaction made to God for the sins of the world (Cincinnati : Jennings & Graham, 1897) | have-ocr | IA `spiritualprincip0000lidg` |
+| The fatherhood of God in Christian truth and life (Edinburgh, T. & T. Clark, 1902) | have-ocr | IA `fatherhoodofgodi0000lidg` |
+| The Christian religion, its meaning and proof (London, Culley, 1907) | have-ocr | IA `christianreligio00lidguoft` |
+| Apostolic ministry : sermons and addresses (London : C.H. Kelly, [190) | have-ocr | IA `apostolicministr00lidgiala` |
+| God in Christ Jesus (catalogued 1915) | have-ocr | IA `godinchristjesus0000jsco` |
+| Methodism in the modern world (London, The Epworth Press [etc.], 1929) | have-ocr | IA `methodisminmoder0000lidg` |
+| Towards Reunion (1919, many authors) | excluded | |
