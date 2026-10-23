@@ -40939,3 +40939,20 @@ Shelf: `pipeline/anne-warner_shelf.json` (2026-10-22; added at the coordinator's
 | Susan Clegg and Her Love Affairs | have | PG 37289, `awarner-susan-clegg-and-her-love-affairs` (776 units) |
 | In a Mysterious Way | have | PG 37515, `awarner-in-a-mysterious-way` (2290 units) |
 | Sunshine Jane | have | PG 37972, `awarner-sunshine-jane` (1516 units) |
+
+## Amy Walton
+
+Shelf: `pipeline/amy-walton_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| White Lilac; or the Queen of the May | have | PG 21228, `awalton-white-lilac` (1123 units) |
+| Thistle and Rose: A Story for Girls | have | PG 21229, `awalton-thistle-and-rose` (821 units) |
+| Susan A Story for Children | have | PG 21230, `awalton-susan-a-story-for-children` (811 units) |
+| Penelope and the Others: Story of Five Country Children | have | PG 21231, `awalton-penelope-and-the-others` (1395 units) |
+| The Hawthorns A Story about Children | have | PG 21232, `awalton-hawthorns-a-story-about-children` (711 units) |
+| The Kitchen Cat, and other Tales | have | PG 23112, `awalton-kitchen-cat-and-other-tales` (257 units) |
+| Our Frank and other stories | have | PG 23114, `awalton-our-frank-and-other-stories` (659 units) |
+| Black, White and Gray: A Story of Three Homes | have | PG 23130, `awalton-black-white-and-gray` (1183 units) |
+| A Pair of Clogs | have | PG 23501, `awalton-pair-of-clogs` (900 units) |
+| The Kitchen Cat and Other Stories | have | PG 24751, `awalton-kitchen-cat-and-other-stories` (262 units) |
