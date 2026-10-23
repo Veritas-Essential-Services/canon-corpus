@@ -10604,3 +10604,12 @@ Shelf: `pipeline/helen-mcclees_shelf.json`. The Daily Life of the Greeks and Rom
 |---|---|---|---|
 | The Daily Life of the Greeks and Romans (New York: Metropolitan Museum of Art, 1924) |  | `mcclees-daily-life-greeks-romans-1924` | have (PG 68231) |
 
+
+## Hubert Joseph Treston (1888-1959)
+
+Shelf: `pipeline/hubert-j-treston_shelf.json`. Poine: A Study in Ancient Greek Blood-Vengeance (London: Longmans, 1923). Clean Gutenberg. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Poine: A Study in Ancient Greek Blood-Vengeance (London: Longmans, 1923) |  | `treston-poine-1923` | have (PG 69344) |
+

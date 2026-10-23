@@ -1,0 +1,34 @@
+{
+ "_about": "Hubert J. Treston (1888-1959), University College Cork: Poine, a Study in Ancient Greek Blood-Vengeance (Longmans, 1923). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Hubert Joseph Treston (1888-1959)",
+ "_name_words": [
+  "treston",
+  "hubert",
+  "joseph",
+  "poine",
+  "vengeance"
+ ],
+ "_surname": [
+  "treston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "treston-poine-1923": [
+   69344,
+   "Poine: A Study in Ancient Greek Blood-Vengeance (London: Longmans, 1923)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "treston-poine-1923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "treston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
