@@ -9931,6 +9931,11 @@ Shelf: `pipeline/aeschylus_shelf.json`. Translator per title; complete in Plumpt
 | The Seven Tragedies of Aeschylus, literally translated, with notes (Oxford: D. A. Talboys and J. Vincent, 1829) | anonymous (the title page names no translator) | `aeschylus-oxford-literal-1829` | have-raw (IA `seventragediess00aescgoog`) |
 | Agamemnon, revised and translated by John F. Davies (London: Williams and Norgate, 1868); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-davies-agamemnon-1868` | have-raw (IA `agamemnonrevtran00aescuoft`) |
 | The Agamemnon of Aeschylus, with a verse translation by B. H. Kennedy (1882); Greek facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-kennedy-agamemnon-1882` | have-raw (IA `agamemnonaeschy00kenngoog`) |
+| The Agamemnon of Aeschylus, with an introduction, commentary and translation by A. W. Verrall (London: Macmillan, 1889); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-verrall-agamemnon-1889` | have-raw (IA `agamemnonofaesch00aescrich`) |
+| The Choephori of Aeschylus, with an introduction, commentary and translation by A. W. Verrall (1893); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-verrall-choephori-1893` | have-raw (IA `coephorigreekeng00aescuoft`) |
+| The Eumenides of Aeschylus, with an introduction, commentary and translation by A. W. Verrall (1908); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-verrall-eumenides-1908` | have-raw (IA `eumenides00aescrich`) |
+| The 'Supplices' of Aeschylus, a revised text with introduction, critical notes, commentary and translation by T. G. Tucker (London: Macmillan, 1889); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-tucker-supplices-1889` | have-raw (IA `cu31924026461263`) |
+| The Choephori of Aeschylus, with critical notes, commentary, translation and a recension of the scholia by T. G. Tucker (1901); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `aeschylus-tucker-choephori-1901` | have-raw (IA `choephoriofaesch0000tgtu`) |
 
 Pending (wishlist): none here: Smyth's Loeb (1922-26) is on PR #7 as Perseus TEI.
 
