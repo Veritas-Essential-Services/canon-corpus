@@ -4333,6 +4333,14 @@
       "started": "2026-10-22T22:33:00-05:00",
       "finished": "2026-10-22T22:33:00-05:00",
       "notes": "fred-m-white: new shelf, 14 Gutenberg books, 23,994 units, 392 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "laura-rountree-smith",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Laura Rountree Smith; no minting",
+      "status": "done",
+      "started": "2026-10-22T22:33:16-05:00",
+      "finished": "2026-10-22T22:33:16-05:00",
+      "notes": "laura-rountree-smith: new shelf, 14 Gutenberg books, 8,684 units, 383 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

@@ -39883,3 +39883,24 @@ Shelf: `pipeline/fred-m-white_shelf.json` (2026-10-22; added at the coordinator'
 | The Nether Millstone | have | PG 57312, `fmwhite-nether-millstone` (1808 units) |
 | The Yellow Face | have | PG 57314, `fmwhite-yellow-face` (2072 units) |
 | The Doom of London | have | PG 57904, `fmwhite-doom-of-london` (942 units) |
+
+## Laura Rountree Smith
+
+Shelf: `pipeline/laura-rountree-smith_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Stories for young children. Every English text under the name at Gutenberg that no other shelf holds (14 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Snubby Nose and Tippy Toes | have | PG 10329, `lrsmith-snubby-nose-and-tippy-toes` (747 units) |
+| The Gingerbread Boy and Joyful Jingle Play Stories | have | PG 63463, `lrsmith-gingerbread-boy-and-joyful-jingle-play-stories` (729 units) |
+| The Tale of Bunny Cotton-Tail | have | PG 64982, `lrsmith-tale-of-bunny-cotton-tail` (136 units) |
+| The Runaway Bunny | have | PG 65568, `lrsmith-runaway-bunny` (585 units) |
+| The Box of Smiles, and Other Stories | have | PG 67207, `lrsmith-box-of-smiles-and-other-stories` (415 units) |
+| Twinkle Toes and His Magic Mittens | have | PG 67279, `lrsmith-twinkle-toes-and-his-magic-mittens` (389 units) |
+| The tale of Curly-Tail | have | PG 68822, `lrsmith-tale-of-curly-tail` (448 units) |
+| Mother Bunny and her flowers | have | PG 68908, `lrsmith-mother-bunny-and-her-flowers` (851 units) |
+| Helps and hints for Hallowe'en | have | PG 68984, `lrsmith-helps-and-hints-for-halloween` (706 units) |
+| The Tiddly Winks | have | PG 69047, `lrsmith-tiddly-winks` (748 units) |
+| The fairy babies | have | PG 69075, `lrsmith-fairy-babies` (1044 units) |
+| The Roly-Poly book | have | PG 69076, `lrsmith-roly-poly-book` (778 units) |
+| Polite bunny | have | PG 70490, `lrsmith-polite-bunny` (754 units) |
+| Three little kittens who lost their mittens | have | PG 71710, `lrsmith-three-little-kittens-who-lost-their-mittens` (354 units) |
