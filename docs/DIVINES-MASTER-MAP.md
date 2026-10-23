@@ -20383,6 +20383,15 @@ Shelf: `pipeline/john-peile_shelf.json`. An Introduction to Greek and Latin Etym
 |---|---|---|---|
 | An Introduction to Greek and Latin Etymology (London: Macmillan, 1875) |  | `peile-greek-latin-etymology-1875` | have-raw (IA `cu31924021600022`) |
 
+
+## Katharine Mary Westaway
+
+Shelf: `pipeline/k-m-westaway_shelf.json`. The Original Element in Plautus (Cambridge University Press, 1917) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Original Element in Plautus (Cambridge University Press, 1917) |  | `westaway-original-element-plautus-1917` | have-raw (IA `cu31924026478143`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden

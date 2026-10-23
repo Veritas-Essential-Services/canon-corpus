@@ -1,0 +1,35 @@
+{
+ "_about": "K. M. Westaway: The Original Element in Plautus (Cambridge, 1917). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Katharine Mary Westaway",
+ "_name_words": [
+  "westaway",
+  "katharine",
+  "plautus",
+  "original"
+ ],
+ "_surname": [
+  "westaway"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "westaway-original-element-plautus-1917": [
+   "cu31924026478143",
+   "The Original Element in Plautus (Cambridge University Press, 1917)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "westaway-original-element-plautus-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "westaway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
