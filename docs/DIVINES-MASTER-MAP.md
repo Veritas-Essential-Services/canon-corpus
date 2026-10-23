@@ -37837,3 +37837,37 @@ Shelf: `pipeline/william-carleton_shelf.json` (2026-10-22; added at the coordina
 | The Black Prophet: A Tale Of Irish Famine Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16018, `wcarleton-black-prophet` (2617 units) |
 | Phelim Otoole's Courtship and Other Stories Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three | have | PG 16019, `wcarleton-phelim-otooles-courtship-and-other-stories-traits` (2274 units) |
 | pg-28896 | excluded | PG 28896: Gutenberg's index of the author's works, not a book. |
+
+## Bertram Mitford
+
+Shelf: `pipeline/bertram-mitford_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). South African adventure romances. Every English text under the name at Gutenberg that no other shelf holds (27 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Sign of the Spider | have | PG 27476, `bmitford-sign-of-the-spider` (1674 units) |
+| Aletta: A Tale of the Boer Invasion | have | PG 32565, `bmitford-aletta` (1709 units) |
+| The Triumph of Hilary Blachland | have | PG 32566, `bmitford-triumph-of-hilary-blachland` (1599 units) |
+| Forging the Blades: A Tale of the Zulu Rebellion | have | PG 32567, `bmitford-forging-the-blades` (1900 units) |
+| A Frontier Mystery | have | PG 32568, `bmitford-frontier-mystery` (1846 units) |
+| The Luck of Gerard Ridgeley | have | PG 32569, `bmitford-luck-of-gerard-ridgeley` (1472 units) |
+| The White Shield | have | PG 32893, `bmitford-white-shield` (1339 units) |
+| In the Whirl of the Rising | have | PG 32894, `bmitford-in-the-whirl-of-the-rising` (1911 units) |
+| A Veldt Vendetta | have | PG 32895, `bmitford-veldt-vendetta` (1320 units) |
+| 'Tween Snow and Fire: A Tale of the Last Kafir War | have | PG 32896, `bmitford-tween-snow-and-fire` (2012 units) |
+| The White Hand and the Black: A Story of the Natal Rising | have | PG 32911, `bmitford-white-hand-and-the-black` (1889 units) |
+| A Secret of the Lebombo | have | PG 32916, `bmitford-secret-of-the-lebombo` (1575 units) |
+| Renshaw Fanning's Quest: A Tale of the High Veldt | have | PG 32919, `bmitford-renshaw-fannings-quest` (1459 units) |
+| A Veldt Official: A Novel of Circumstance | have | PG 32922, `bmitford-veldt-official` (1684 units) |
+| The King's Assegai: A Matabili Story | have | PG 32925, `bmitford-kings-assegai` (753 units) |
+| John Ames, Native Commissioner: A Romance of the Matabele Rising | have | PG 32926, `bmitford-john-ames-native-commissioner` (1630 units) |
+| The Induna's Wife | have | PG 32927, `bmitford-indunas-wife` (1140 units) |
+| Haviland's Chum | have | PG 32928, `bmitford-havilands-chum` (1150 units) |
+| Harley Greenoak's Charge | have | PG 32931, `bmitford-harley-greenoaks-charge` (1766 units) |
+| The Red Derelict | have | PG 36588, `bmitford-red-derelict` (2196 units) |
+| The Fire Trumpet: A Romance of the Cape Frontier | have | PG 36592, `bmitford-fire-trumpet` (4423 units) |
+| Fordham's Feud | have | PG 36593, `bmitford-fordhams-feud` (1962 units) |
+| Golden Face: A Tale of the Wild West | have | PG 36599, `bmitford-golden-face` (1422 units) |
+| The Sirdar's Oath: A Tale of the North-West Frontier | have | PG 36605, `bmitford-sirdars-oath` (1128 units) |
+| The Ruby Sword: A Romance of Baluchistan | have | PG 36606, `bmitford-ruby-sword` (1403 units) |
+| Dorrien of Cranston | have | PG 36623, `bmitford-dorrien-of-cranston` (2443 units) |
+| The Heath Hover Mystery | have | PG 38169, `bmitford-heath-hover-mystery` (1605 units) |
