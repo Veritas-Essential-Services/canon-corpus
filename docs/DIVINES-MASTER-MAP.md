@@ -19749,7 +19749,7 @@ Round 18 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Clara Bell (Ebers, Eckstein, Hillern, Jókai and other German/Hungarian novels; Balzac)
 
 Shelf: `pipeline/clara-bell_shelf.json` · fetch `python3 pipeline/fetch_shelf.py clara-bell` · titles `python3 pipeline/split_shelf_titles.py clara-bell`.
-Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-files. Not converted to unit-id JSON; **no uids minted**.
+Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-files. Round 129 added fifteen archive.org books Gutenberg lacks (Galdós x2, Loti x3, Auerbach, Ebers, Meyer, Moltke, Spitta x3, Jæger, Firenzuola, Martin). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -19799,6 +19799,21 @@ Round 18 (2026-10-10), vetoable. Ebers complete texts only, not the PG part-file
 | `clara-bell-schubin-our-own-set` | Ossip Schubin | Our Own Set | Clara Bell | 1884 | have | PG 35673 |
 | `clara-bell-vald-froth-a-novel` | Armando Palacio Valdé | Froth: A Novel | Clara Bell | before 1931 (see the Gutenberg header) | have | PG 38411 |
 | `clara-bell-van-eeden-little-johannes` | Frederik van Eeden | Little Johannes | Clara Bell (introduction by Andrew Lang) | 1895 | have | PG 40656 |
+| `clara-bell-galdos-trafalgar` | Benito Pérez Galdós | Trafalgar: A Tale | Clara Bell | 1884 | have-raw | IA `trafalgartale00pr` |
+| `clara-bell-galdos-the-court-of-charles-iv` | Benito Pérez Galdós | The Court of Charles IV: A Romance of the Escorial | Clara Bell | 1888 | have-raw | IA `courtcharlesiva00galdgoog` |
+| `clara-bell-loti-from-lands-of-exile` | Pierre Loti | From Lands of Exile | Clara Bell | 1888 | have-raw | IA `fromlandsexile00bellgoog` |
+| `clara-bell-loti-a-childs-romance` | Pierre Loti | A Child's Romance (Le Roman d'un enfant) | Clara Bell | 1891 | have-raw | IA `childsromance00loti` |
+| `clara-bell-loti-disenchanted` | Pierre Loti | Disenchanted (Désenchantées) | Clara Bell | 1906 | have-raw | IA `disenchanteddse00lotigoog` |
+| `clara-bell-auerbach-brigitta` | Berthold Auerbach | Brigitta: A Tale | Clara Bell | 1880 | have-raw | IA `brigittatale00aueruoft` |
+| `clara-bell-ebers-joshua` | Georg Ebers | Joshua: A Story of Biblical Life (2 vols in one scan) | Clara Bell and Margaret Bell | 1890 | have-raw | IA `joshuastoryofbib00eberuoft` |
+| `clara-bell-jaeger-the-life-of-henrik-ibsen` | Henrik Jæger | The Life of Henrik Ibsen | Clara Bell (verse by Edmund Gosse) | 1890 | have-raw | IA `lifeofhenrikibse00jaeguoft` |
+| `clara-bell-meyer-the-tempting-of-pescara` | Conrad Ferdinand Meyer | The Tempting of Pescara | Clara Bell | 1890 | have-raw | IA `temptingpescara00meyegoog` |
+| `clara-bell-firenzuola-of-the-beauty-of-women` | Agnolo Firenzuola | Of the Beauty of Women: Dialogue | Clara Bell | 1892 | have-raw | IA `beautywomen00firegoog` |
+| `clara-bell-moltke-letters-to-his-mother-and-brothers` | Helmuth von Moltke | Letters of Field-Marshal Count Helmuth von Moltke to his Mother and his Brothers | Clara Bell and Henry W. Fischer | 1892 | have-raw | IA `cu31924028178691` |
+| `clara-bell-martin-gerard-dou` | W. Martin | Gerard Dou | Clara Bell | 1902 | have-raw | IA `gerarddou00mart` |
+| `clara-bell-spitta-johann-sebastian-bach-vol-1` | Philipp Spitta | Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 1 of 3 | Clara Bell and J. A. Fuller Maitland | 1884 | have-raw | IA `johannsebastianb01spituoft` |
+| `clara-bell-spitta-johann-sebastian-bach-vol-2` | Philipp Spitta | Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 2 of 3 | Clara Bell and J. A. Fuller Maitland | 1884 | have-raw | IA `johannsebastianb02spituoft` |
+| `clara-bell-spitta-johann-sebastian-bach-vol-3` | Philipp Spitta | Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 3 of 3 | Clara Bell and J. A. Fuller Maitland | 1884 | have-raw | IA `johannsebastianb03spituoft` |
 | — | — | ebers-volume-splits: Gutenberg's per-volume splits of Uarda, The Sisters, The Emperor, Homo Sum, Serapis, The Bride of the Nile, A Thorny Path and Margery are left out; the complete texts (5449, 5466, 5493, 5499, 5507, 5529, 5542, 5560) are used. | — | — | excluded | — |
 | — | — | pg-7958: The Napoleon of the People is an extract from The Country Doctor (1350), shelved whole. | — | — | excluded | — |
 | — | — | two-volume-novels: Leon Roch (48752, 49272) and Quintus Claudius (47221, 47222) have no complete Gutenberg text; each Gutenberg volume is shelved as its own title. | — | — | excluded | — |
