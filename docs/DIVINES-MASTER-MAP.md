@@ -23252,13 +23252,15 @@ Round 30 (2026-10-10), vetoable. Volume 2 is keyed from a 1946 reprint: flagged.
 ## Aline Delano (Tolstoy's Kingdom of God; Hugo's Ninety-Three; Korolenko)
 
 Shelf: `pipeline/aline-delano_shelf.json` · fetch `python3 pipeline/fetch_shelf.py aline-delano` · titles `python3 pipeline/split_shelf_titles.py aline-delano`.
-Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 30 (2026-10-10), vetoable. Round 146 (2026-10-23) added Korolenko's The Vagrant (1887) and Rubinstein's Autobiography (1890). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `aline-delano-hugo-ninety-three` | Victor Hugo | Ninety-Three | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 49372 |
 | `aline-delano-korolenko-the-blind-musician` | Vladimir Galaktionovich Korolenko | The Blind Musician | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 59497 |
 | `aline-delano-tolstoy-the-kingdom-of-god-is-within-you-what-is` | Leo Tolstoy | The Kingdom of God is Within You; What is Art? | Aline Delano | 1888-1899 (see the Gutenberg header) | have | PG 43409 |
+| `aline-delano-autobiography-of-anton-rubinstein` | Anton Rubinstein | Autobiography of Anton Rubinstein, 1829-1889 | Aline Delano | 1890 | have-raw | IA `autobiographyan00delagoog` |
+| `aline-delano-korolenko-the-vagrant-and-other-tales` | Vladimir Korolenko | The Vagrant and Other Tales | Aline Delano | 1887 | have-raw | IA `vagrantandother00delagoog` |
 
 ## Gregory Zilboorg (Zamyatin's We, 1924; Andreyev's He Who Gets Slapped)
 
@@ -23895,12 +23897,15 @@ Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Arthur Symons (Baudelaire's Poems in Prose; D'Annunzio's Child of Pleasure)
 
 Shelf: `pipeline/arthur-symons_shelf.json` · fetch `python3 pipeline/fetch_shelf.py arthur-symons` · titles `python3 pipeline/split_shelf_titles.py arthur-symons`.
-Round 33 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 33 (2026-10-10), vetoable. Round 146 (2026-10-23) added Francesca da Rimini (1902) and Baudelaire's Prose and Poetry (1926) and Letters (1927). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `arthur-symons-baudelaire-poems-in-prose` | Charles Baudelaire | Poems in Prose | Arthur Symons | 1898-1905 (see the Gutenberg header) | have | PG 50489 |
 | `arthur-symons-d-annunzio-the-child-of-pleasure` | Gabriele D'Annunzio | The Child of Pleasure | Georgina Harding (prose) and Arthur Symons (verse) | 1898-1905 (see the Gutenberg header) | have | PG 20015 |
+| `arthur-symons-dannunzio-francesca-da-rimini` | Gabriele D'Annunzio | Francesca da Rimini | Arthur Symons | 1902 | have-raw | IA `francescadarimin00dannuoft` |
+| `arthur-symons-baudelaire-prose-and-poetry` | Charles Baudelaire | Baudelaire: Prose and Poetry | Arthur Symons | 1926 | have-raw | IA `bwb_S0-EKA-345` |
+| `arthur-symons-the-letters-of-charles-baudelaire` | Charles Baudelaire | The Letters of Charles Baudelaire to His Mother and Others | Arthur Symons | 1927 | have-raw | IA `bwb_W9-CQC-474` |
 
 ## F. C. de Sumichrast (two volumes of his Gautier)
 
@@ -24708,12 +24713,13 @@ Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Alice Werner (Weule's Native Life in East Africa; The Humour of Holland)
 
 Shelf: `pipeline/alice-werner_shelf.json` · fetch `python3 pipeline/fetch_shelf.py alice-werner` · titles `python3 pipeline/split_shelf_titles.py alice-werner`.
-Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 37 (2026-10-10), vetoable. Round 146 (2026-10-23) added The Humour of Italy (1893). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `alice-werner-dircks-the-humour-of-holland` | various authors (anthology, ed. W. H. Dircks) | The humour of Holland | Alice Werner | 1894-1909 (see the Gutenberg header) | have | PG 64761 |
 | `alice-werner-weule-native-life-in-east-africa` | Karl Weule | Native life in East Africa | Alice Werner | 1894-1909 (see the Gutenberg header) | have | PG 71496 |
+| `alice-werner-the-humour-of-italy` | Various Italian authors | The Humour of Italy | Alice Werner | 1893 | have-raw | IA `humouritaly00faldgoog` |
 
 ## Herbert Trench's Merezhkovsky
 
