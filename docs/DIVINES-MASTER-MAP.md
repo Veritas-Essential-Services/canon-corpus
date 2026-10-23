@@ -19407,6 +19407,23 @@ Slugs `shower-*`. Built from title pages read for round 134.
 | Some account of the holy life and death of ...  1694 (catalogued 1694) (IA bim_early-english-books-1641-1700_some-account-of-the-holy_shower-john_1694): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | A New-Years-gift; containing serious reflections on time and eternity. ...  1699 (catalogued 1699) (IA bim_early-english-books-1641-1700_a-new-years-gift-contai_shower-john_1699): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | later editions of Resignation, Serious Reflections, Winter Meditations, Practical Reflections on the Earthquakes and Sacramental Discourses, and the second Holy Life and Death | excluded | |
+
+## Baron Stow (round 134, my pick, 2026-10-23)
+
+Slugs `stow-*`. Built from title pages read for round 134.
+
+| Work | Status | Where |
+|---|---|---|
+| Memoir of Harriet Dow: Of Newport, N.H., who Became a Christian at the Age of Eight Years. In (J. Loring [etc.], 1832) | have-ocr | IA `memoirharrietdo00stowgoog` |
+| Voluntary associations--their use and abuse : a discourse delivered in the meeting house of the (Boston, Massachusetts : Gould, Kendall & Lincoln, 1837) | have-ocr | IA `voluntaryassocia00stow` |
+| Efficiency of primitive religions : a discourse delivered before the General Convention of the Baptist Denomination in the United States, at its ninth triennial session, held in the Oliver Street Baptist Church, New York, April 25, 1838 / by Baron Stow (Boston : Gould, Kendall and Lincoln, 1838) | have-ocr | IA `efficiencyofprim00stow` |
+| Question book of Christian doctrine; for Bible classes, and the more advanced pupils in Sabbath schools (Philadelphia, American Baptist publication society, 1843) | have-ocr | IA `questionbookofch00stow` |
+| Missionary papers : published originally in the Missionary Magazine / by Baron Stow (Missionary Rooms, 1859) | have-ocr | IA `missionarypapers00stow` |
+| Christian brotherhood (catalogued 1859) | have-ocr | IA `christianbrother00stow` |
+| Little Mary : an illustration of the power of Jesus to save even the youngest (Boston : Gould and Lincoln, 1861) | have-ocr | IA `littlemaryillust00stow` |
+| The Psalmist, The Social Psalmist and Ocean Melodies are hymn collections he compiled | excluded | |
+| Helon's Pilgrimage is a translation of another man's book | excluded | |
+| The Missionary Enterprise is a collection of many writers' discourses; the Wheeler address is another man's | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
