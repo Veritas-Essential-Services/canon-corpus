@@ -18214,3 +18214,16 @@ Shelf: `pipeline/charles-w-chesnutt_shelf.json` (2026-10-22; added at the coordi
 | The Marrow of Tradition | have | PG 11228, `cwchesnutt-marrow-of-tradition` (1552 units) |
 | The Conjure Woman | have | PG 11666, `cwchesnutt-conjure-woman` (862 units) |
 | The Colonel's Dream | have | PG 19746, `cwchesnutt-colonels-dream` (1564 units) |
+
+## Percy James Brebner
+
+Shelf: `pipeline/percy-james-brebner_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Princess Maritza | have | PG 6374, `pjbrebner-princess-maritza` (2848 units) |
+| The Master Detective: Being Some Further Investigations of Christopher Quarles | have | PG 9796, `pjbrebner-master-detective` (2526 units) |
+| The Brown Mask | have | PG 9849, `pjbrebner-brown-mask` (2516 units) |
+| The Light That Lures | have | PG 13312, `pjbrebner-light-that-lures` (2331 units) |
+| Christopher Quarles: College Professor and Master Detective | have | PG 34468, `pjbrebner-christopher-quarles` (2315 units) |
+| Vayenne | have | PG 39652, `pjbrebner-vayenne` (2529 units) |

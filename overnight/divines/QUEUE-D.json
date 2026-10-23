@@ -6045,6 +6045,14 @@
       "started": "2026-10-22T23:17:21-05:00",
       "finished": "2026-10-22T23:17:21-05:00",
       "notes": "charles-w-chesnutt: new shelf, 6 Gutenberg books, 6,512 units, 242 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "percy-james-brebner",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Percy James Brebner; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:17:23-05:00",
+      "finished": "2026-10-22T23:17:23-05:00",
+      "notes": "percy-james-brebner: new shelf, 6 Gutenberg books, 15,065 units, 1 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }
