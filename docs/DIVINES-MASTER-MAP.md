@@ -20437,6 +20437,15 @@ Shelf: `pipeline/r-hackforth_shelf.json`. The Authorship of the Platonic Epistle
 |---|---|---|---|
 | The Authorship of the Platonic Epistles (Manchester University Press, 1913) |  | `hackforth-authorship-platonic-epistles-1913` | have-raw (IA `cu31924026679211`) |
 
+
+## Raymond Henry Lacey (1876-)
+
+Shelf: `pipeline/raymond-henry-lacey_shelf.json`. The Equestrian Officials of Trajan and Hadrian: their Careers (Princeton, 1917) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Equestrian Officials of Trajan and Hadrian: their Careers (Princeton, 1917) |  | `lacey-equestrian-officials-trajan-hadrian-1917` | have-raw (IA `cu31924006776748`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
