@@ -10935,3 +10935,12 @@ Shelf: `pipeline/t-dempsey_shelf.json`. The Delphic Oracle: its Early History, I
 |---|---|---|---|
 | The Delphic Oracle: its Early History, Influence and Fall (1918) |  | `dempsey-delphic-oracle-1918` | have-raw (IA `cu31924028302630`) |
 
+
+## Thomas James Lacey (1870-)
+
+Shelf: `pipeline/thomas-james-lacey_shelf.json`. A Study of Social Heredity as Illustrated in the Greek People (1916) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A Study of Social Heredity as Illustrated in the Greek People (1916) |  | `lacey-social-heredity-greek-people-1916` | have-raw (IA `cu31924028255457`) |
+
