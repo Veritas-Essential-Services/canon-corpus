@@ -42221,3 +42221,24 @@ Shelf: `pipeline/edna-ferber_shelf.json` (2026-10-22; added at the coordinator's
 | The girls | have | PG 75334, `eferber-girls` (1661 units) |
 | pg-58195 | excluded | PG 58195: Gutenberg's index of the author's works, not a book. |
 | held-elsewhere | excluded | PG 65906: already on another shelf or in fetch_sources.py on some branch; not taken twice. |
+
+## Ford Madox Ford
+
+Shelf: `pipeline/ford-madox-ford_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (13 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Good Soldier | have | PG 2775, `fmford-good-soldier` (783 units) |
+| Privy Seal: His Last Venture | have | PG 26698, `fmford-privy-seal` (1525 units) |
+| The Fifth Queen Crowned | have | PG 27432, `fmford-fifth-queen-crowned` (1702 units) |
+| The Fifth Queen: And How She Came to Court | have | PG 30188, `fmford-fifth-queen` (2261 units) |
+| The Young Lovell: A Romance | have | PG 42801, `fmford-young-lovell` (1067 units) |
+| The Brown Owl: A Fairy Story | have | PG 48860, `fmford-brown-owl` (822 units) |
+| The Feather | have | PG 50658, `fmford-feather` (1235 units) |
+| The Queen Who Flew: A Fairy Tale | have | PG 52636, `fmford-queen-who-flew` (801 units) |
+| Some do not...: A novel | have | PG 64248, `fmford-some-do-not` (3016 units) |
+| No More Parades: A novel | have | PG 67622, `fmford-no-more-parades` (1840 units) |
+| A call | have | PG 71529, `fmford-call` (1192 units) |
+| No enemy | have | PG 77802, `fmford-no-enemy` (703 units) |
+| The English novel | have | PG 78426, `fmford-english-novel` (225 units) |
+| held-elsewhere | excluded | PG 14888, 17642, 75172: already on another shelf or in fetch_sources.py on some branch; not taken twice. |

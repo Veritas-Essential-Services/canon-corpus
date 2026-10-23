@@ -2284,3 +2284,6 @@
 
 ## 2026-10-22 22:59 CDT — edna-ferber: done
 - edna-ferber: new shelf, 13 Gutenberg books, 17,854 units, 82 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:59 CDT — ford-madox-ford: done
+- ford-madox-ford: new shelf, 13 Gutenberg books, 17,172 units, 4416 ~2 ids; verify 0 mismatches, 0 rights flags.
