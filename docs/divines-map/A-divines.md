@@ -11223,3 +11223,15 @@ Slugs `ewilliams-*`. Built from title pages read for round 49.
 | Antipaedobaptism examined, or, A strict and impartial inquiry into the nature and design, subjects and mode of baptism : including, also, an investigation of the nature of positive institutions in general, and occasional strictures on human ceremonies in matters of religion, vol. 2 (Shrewsbury : Printed and sold by J. and W. Eddowes, 1789) | have-ocr | IA `antipaedobaptism02will` |
 | An essay on the equity of divine government and the sovereignty of divine grace (London : J. Burditt, 1809) | have-ocr | IA `essayonequityofd00will_0` |
 | The 1825 Essay on Equity | alternate | not shelved |
+
+## James Morison (Evangelical Union) (round 49, my pick, 2026-10-23)
+
+Slugs `morison-*`. Built from title pages read for round 49.
+
+| Work | Status | Where |
+|---|---|---|
+| A critical exposition of the third chapter of Paul's Epistle to the Romans : a monograph (London : Hamilton, Adams, 1866) | have-ocr | IA `expositionthird00moriuoft` |
+| Commentary on the Gospel according to Matthew (London : Hamilton, Adams ; Glasgow : T.D. Morison, 1870) | have-ocr | IA `commentaryongosp0000mori` |
+| Mark's Memoirs of Jesus Christ, a commentary on the Gospel according to Mark (London: Hamilton, Adams, 1873) | have-ocr | IA `marksmemoirsjes00morigoog` |
+| The extent of the atonement (London : Hamilton ; Glasgow : T.D. Morison, 1882) | have-ocr | IA `extentofatonemen00mori` |
+| James Cotter Morison's books (St Bernard, Gibbon, Macaulay, Irish Grievances): another man | excluded | |
