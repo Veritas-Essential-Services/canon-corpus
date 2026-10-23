@@ -12726,6 +12726,21 @@ Slugs `crosby-*`. Built from title pages read for round 62.
 | The Christian preacher (New York, A. D. F. Randolph & company, 1880) | have-ocr | IA `christianpreach00cros` |
 | The true humanity of Christ (New York : Anson D. F. Randolph & Company, 1880) | have-ocr | IA `truehumanityofch00cros` |
 | His school edition of Sophocles' Oedipus Tyrannus (1858); Moderation vs. Total Abstinence (1881, his address bound with his reviewers' replies); Fanny Crosby and other Crosbys | excluded | |
+
+## John Hall (1829-1898) (round 62, my pick, 2026-10-23)
+
+Slugs `jhall-*`. Built from title pages read for round 62.
+
+| Work | Status | Where |
+|---|---|---|
+| Family prayers, for four weeks (New York, A.D.F. Randolph, 1868) | have-ocr | IA `familyprayersfor00hall` |
+| Papers for home reading (New York, Dodd & Mead, 1871) | have-ocr | IA `papersforhomerea1871hall` |
+| Questions of the day (New York, Dodd & Mead, 1873) | have-ocr | IA `questionsofday00hall` |
+| God's word through preaching (Toronto : Willing & Williamson, 1875) | have-ocr | IA `godswordthroughp00halluoft` |
+| A Christian home: How to make and how to maintain it (Philadelphia, American Sunday-school Union, 1883) | have-ocr | IA `christianhomehow00hall` |
+| Four lectures on the religious use of property (Cleveland : Leader Printing Co., 1883) | have-ocr | IA `fourlecturesonre00hall` |
+| familiartalkstob0000hall: Familiar Talks to Boys (Dodd, Mead, 1876); the OCR of its title page has lost the author line ('By the ...'), and nothing else in the opening names John Hall; to be read from the page image | pending | not shelved |
+| The American Evangelists, D. L. Moody and Ira D. Sankey (1875, with George H. Stuart); Godet on St. Luke and Sampson's Beacon-Lights of the Reformation, which he introduced; other John Halls | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

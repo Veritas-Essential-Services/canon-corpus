@@ -1,0 +1,119 @@
+{
+ "_about": "Public-domain John Hall (1829-1898), Irish-born Presbyterian minister of the Fifth Avenue Presbyterian Church, New York, for the Word Hoard: Family Prayers for Four Weeks (1868), Papers for Home Reading (1871), Questions of the Day (1873), God's Word through Preaching (Lyman Beecher lectures, 1875), A Christian Home (1883) and Four Lectures on the Religious Use of Property (1883). Joseph Hall and the other Halls on their own shelves are other men. from Internet Archive scans. Added 2026-10-23 by lane A, round 62 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hall"
+ ],
+ "_surname": [
+  "john hall",
+  "john hall, d.d.",
+  "rev. john hall",
+  "j. hall, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jhall-family-prayers": [
+   "familyprayersfor00hall",
+   "Family prayers, for four weeks (New York, A.D.F. Randolph, 1868)"
+  ],
+  "jhall-home-reading": [
+   "papersforhomerea1871hall",
+   "Papers for home reading (New York, Dodd & Mead, 1871)"
+  ],
+  "jhall-questions-of-day": [
+   "questionsofday00hall",
+   "Questions of the day (New York, Dodd & Mead, 1873)"
+  ],
+  "jhall-gods-word-preaching": [
+   "godswordthroughp00halluoft",
+   "God's word through preaching (Toronto : Willing & Williamson, 1875)"
+  ],
+  "jhall-christian-home": [
+   "christianhomehow00hall",
+   "A Christian home: How to make and how to maintain it (Philadelphia, American Sunday-school Union, 1883)"
+  ],
+  "jhall-religious-use-property": [
+   "fourlecturesonre00hall",
+   "Four lectures on the religious use of property (Cleveland : Leader Printing Co., 1883)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jhall-other": "The American Evangelists, D. L. Moody and Ira D. Sankey (1875, with George H. Stuart); Godet on St. Luke and Sampson's Beacon-Lights of the Reformation, which he introduced; other John Halls"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "jhall-talks-to-boys": "familiartalkstob0000hall: Familiar Talks to Boys (Dodd, Mead, 1876); the OCR of its title page has lost the author line ('By the ...'), and nothing else in the opening names John Hall; to be read from the page image"
+ },
+ "_translators": {},
+ "_checks": {
+  "jhall-family-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhall-home-reading": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jhall-questions-of-day": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhall-gods-word-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhall-christian-home": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jhall-religious-use-property": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
