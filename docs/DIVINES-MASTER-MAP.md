@@ -44145,3 +44145,15 @@ Shelf: `pipeline/d-f-e-sykes_shelf.json` (2026-10-22; added at the coordinator's
 | Tom Pinder, Foundling: A Story of the Holmfirth Flood | have | PG 54121, `dfesykes-tom-pinder-foundling` (1555 units) |
 | Miriam: A Tale of Pole Moor and the Greenfield Hills | have | PG 54333, `dfesykes-miriam` (1327 units) |
 | Ealing and Its Vicinity | have | PG 66937, `dfesykes-ealing-and-its-vicinity` (70 units) |
+
+## Arthur D. Howden Smith
+
+Shelf: `pipeline/arthur-d-howden-smith_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Treasure of the Bucoleon | have | PG 63353, `adhsmith-treasure-of-the-bucoleon` (2714 units) |
+| Beyond the sunset | have | PG 70077, `adhsmith-beyond-the-sunset` (2245 units) |
+| The doom trail | have | PG 70683, `adhsmith-doom-trail` (3485 units) |
+| Porto Bello gold | have | PG 70777, `adhsmith-porto-bello-gold` (3830 units) |
+| Spears of destiny | have | PG 70872, `adhsmith-spears-of-destiny` (2722 units) |
