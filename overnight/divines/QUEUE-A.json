@@ -5813,6 +5813,15 @@
       "added_by": "lane A",
       "finished": "2026-10-22T23:05:50-05:00",
       "notes": "Reminiscences, 1848, 2 vols."
+    },
+    {
+      "id": "menno-simons",
+      "status": "done",
+      "scope": "round 40",
+      "added": "2026-10-22T23:07:50-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-22T23:07:50-05:00",
+      "notes": "Complete Works 1871 (translator unnamed: a veto point) and Rupp's Foundation 1869."
     }
   ]
 }

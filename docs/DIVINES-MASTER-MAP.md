@@ -10065,6 +10065,17 @@ Slugs `chase-*`. Built from title pages read for round 40.
 | Bishop Chase's Reminiscences: an autobiography, vol. 2 (Boston, J. B. Dow; [etc., etc.], 1848) | have-ocr | IA `bishopchasesremi02chas` |
 | The 1844 first edition (two volumes) and other 1848 scans | alternate | not shelved |
 | Books by Philander Chase Johnson and Philander Chase Knox | excluded | |
+
+## Menno Simons (round 40, my pick, 2026-10-22)
+
+Slugs `menno-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The complete works of Menno Simon (Elkhart, IN : J.F. Funk and Brother, 1871) | have-ocr | IA `completeworksofm00menn` |
+| A foundation and plain instruction of the saving doctrine of our Lord Jesus Christ, translated into English by I. Daniel Rupp (Lancaster, Pa.: J. E. Barr, 1869) | have-ocr | IA `foundationplaini00menn` |
+| The 1863 Lancaster printing of Rupp's Foundation; the Dutch originals (Fundament 1613, Opera 1646, Opera omnia theologica 1681) and German printings (1794, 1851, Nutzliche Anweisungen 1916) | alternate | not shelved |
+| Lives of Menno (Horsch 1916, de Leeuw 1860, Cassel's Geschichte der Mennoniten 1890), works by others | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
