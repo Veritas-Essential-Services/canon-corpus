@@ -9099,6 +9099,13 @@ Shelf: `pipeline/robinson-ellis_shelf.json`. Catullus commentary, Aetna and Appe
 | Aetna: a critical recension of the text, with prolegomena, translation, commentary (Oxford, 1901) |  | `ellis-aetna-1901` | have-raw (IA `cu31924026475602`) |
 | Catullus in the XIVth Century (1905) |  | `ellis-catullus-xivth-century-1905` | have-raw (IA `catullusinxivthc00elli`) |
 | A Bodleian MS. of Copa, Moretum, and other poems of the Appendix Vergiliana (1906) |  | `ellis-bodleian-copa-1906` | have-raw (IA `bodleianmsofcopa00elli`) |
+| The Fables of Avianus, edited with prolegomena, critical apparatus and commentary by Robinson Ellis (Oxford: Clarendon Press, 1887); Latin text with English commentary, kept per Adam's 2026-10-23 ruling |  | `robinson-ellis-avianus-1887` | have-raw (IA `fablesofavianuse00aviauoft`) |
+| The New Fragments of Juvenal, a lecture delivered at Corpus Christi College on Tuesday, February 5, 1901, by Robinson Ellis (London: Henry Frowde, Oxford University Press Warehouse) |  | `robinson-ellis-new-fragments-juvenal-1901` | have-raw (IA `cu31924026482475`) |
+| A New Edition of Manilius, Book I, by Robinson Ellis, reprinted from Hermathena vol. XIII no. XXX (1904) |  | `robinson-ellis-manilius-book-i-1904` | have-raw (IA `neweditionofmani00ellirich`) |
+| The Correspondence of Fronto and M. Aurelius, a lecture by Robinson Ellis (London: Oxford University Press Warehouse, 1904) |  | `robinson-ellis-fronto-aurelius-1904` | have-raw (IA `cu31924026487508`) |
+| On the Historia Augusta, by Robinson Ellis, reprinted from Hermathena vol. XIII no. XXXI (1905) |  | `robinson-ellis-historia-augusta-1905` | have-raw (IA `onhistoriaaugust00elli`) |
+| The Elegiae in Maecenatem, a lecture delivered in the hall of Corpus Christi College, Oxford, by Robinson Ellis (London: Oxford University Press, 1907) |  | `robinson-ellis-elegiae-in-maecenatem-1907` | have-raw (IA `elegiaeinmaecena00elli`) |
+| The Annalist Licinianus, a lecture delivered in the hall of Corpus Christi College, Oxford, May 29, 1908, with an appendix of emendations of the text, by Robinson Ellis (London: Henry Frowde, Oxford University Press Warehouse) |  | `robinson-ellis-annalist-licinianus-1908` | have-raw (IA `cu31924026482715`) |
 
 
 ## Thomas Hodgkin (1831-1913)
