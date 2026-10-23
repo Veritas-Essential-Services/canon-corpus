@@ -1,0 +1,98 @@
+{
+ "_about": "Frederick Whishaw: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Frederick Whishaw",
+ "_name_words": [
+  "frederick",
+  "whishaw"
+ ],
+ "_surname": [
+  "frederick whishaw",
+  "whishaw"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fwhishaw-gunpowder-treason-and-plot-and-other-stories-for-bo": [
+   36341,
+   "Gunpowder Treason and Plot, and Other Stories for Boys"
+  ],
+  "fwhishaw-moscow": [
+   42967,
+   "Moscow: A Story of the French Invasion of 1812"
+  ],
+  "fwhishaw-boris-the-bear-hunter": [
+   45098,
+   "Boris the Bear-Hunter"
+  ],
+  "fwhishaw-clutterbucks-treasure": [
+   46582,
+   "Clutterbuck's Treasure"
+  ],
+  "fwhishaw-romance-of-the-woods": [
+   46813,
+   "The Romance of the Woods"
+  ],
+  "fwhishaw-mazeppa": [
+   56522,
+   "Mazeppa"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fwhishaw-gunpowder-treason-and-plot-and-other-stories-for-bo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwhishaw-moscow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwhishaw-boris-the-bear-hunter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwhishaw-clutterbucks-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwhishaw-romance-of-the-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwhishaw-mazeppa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whishaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

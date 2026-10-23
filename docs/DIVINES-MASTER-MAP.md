@@ -43148,3 +43148,16 @@ Shelf: `pipeline/brand-whitlock_shelf.json` (2026-10-22; added at the coordinato
 | The 13th District: A Story of a Candidate | have | PG 62902, `bwhitlock-13th-district` (2728 units) |
 | The Gold Brick | have | PG 67596, `bwhitlock-gold-brick` (1456 units) |
 | Forty Years of It | have | PG 67648, `bwhitlock-forty-years-of-it` (849 units) |
+
+## Frederick Whishaw
+
+Shelf: `pipeline/frederick-whishaw_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Gunpowder Treason and Plot, and Other Stories for Boys | have | PG 36341, `fwhishaw-gunpowder-treason-and-plot-and-other-stories-for-bo` (858 units) |
+| Moscow: A Story of the French Invasion of 1812 | have | PG 42967, `fwhishaw-moscow` (1261 units) |
+| Boris the Bear-Hunter | have | PG 45098, `fwhishaw-boris-the-bear-hunter` (1006 units) |
+| Clutterbuck's Treasure | have | PG 46582, `fwhishaw-clutterbucks-treasure` (1432 units) |
+| The Romance of the Woods | have | PG 46813, `fwhishaw-romance-of-the-woods` (454 units) |
+| Mazeppa | have | PG 56522, `fwhishaw-mazeppa` (1586 units) |
