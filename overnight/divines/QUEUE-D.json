@@ -5557,6 +5557,14 @@
       "started": "2026-10-22T23:06:32-05:00",
       "finished": "2026-10-22T23:06:32-05:00",
       "notes": "wa-fraser: new shelf, 7 Gutenberg books, 11,308 units, 194 ~2 ids; verify 0 mismatches, 0 rights flags."
+    },
+    {
+      "id": "paul-leicester-ford",
+      "scope": "STORYTELLERS (added at the coordinator's relay of Adam's keep-going message, 2026-10-22; Adam may veto) — Paul Leicester Ford; no minting",
+      "status": "done",
+      "started": "2026-10-22T23:06:33-05:00",
+      "finished": "2026-10-22T23:06:33-05:00",
+      "notes": "paul-leicester-ford: new shelf, 7 Gutenberg books, 14,641 units, 18 ~2 ids; verify 0 mismatches, 0 rights flags."
     }
   ]
 }

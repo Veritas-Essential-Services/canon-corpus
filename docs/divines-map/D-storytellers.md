@@ -17356,3 +17356,17 @@ Shelf: `pipeline/wa-fraser_shelf.json` (2026-10-22; added at the coordinator's r
 | The Sa'-Zada Tales | have | PG 38289, `wafraser-sa-zada-tales` (1197 units) |
 | Mooswa & Others of the Boundaries | have | PG 42226, `wafraser-mooswa-others-of-the-boundaries` (1632 units) |
 | Bulldog Carney | have | PG 45926, `wafraser-bulldog-carney` (1943 units) |
+
+## Paul Leicester Ford
+
+Shelf: `pipeline/paul-leicester-ford_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Janice Meredith: A Story of the American Revolution | have | PG 5719, `plford-janice-meredith` (4555 units) |
+| The True George Washington [10th Ed.] | have | PG 12300, `plford-true-george-washington-10th-ed` (992 units) |
+| Wanted—A Match Maker | have | PG 14211, `plford-wanted-a-match-maker` (569 units) |
+| The Honorable Peter Stirling and What People Thought of Him | have | PG 14532, `plford-honorable-peter-stirling-and-what-people-thought-of-h` (4687 units) |
+| The Great K. & A. Robbery | have | PG 25333, `plford-great-k-a-robbery` (845 units) |
+| The Story of an Untold Love | have | PG 36439, `plford-story-of-an-untold-love` (1269 units) |
+| Tattle-tales of Cupid | have | PG 71597, `plford-tattle-tales-of-cupid` (1724 units) |
