@@ -2402,3 +2402,6 @@
 
 ## 2026-10-22 23:09 CDT — marietta-holley: done
 - marietta-holley: new shelf, 29 Gutenberg books, 36,102 units, 117 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:09 CDT — charles-garvice: done
+- charles-garvice: new shelf, 12 Gutenberg books, 50,116 units, 70 ~2 ids; verify 0 mismatches, 0 rights flags.

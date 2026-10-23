@@ -42810,3 +42810,22 @@ Shelf: `pipeline/marietta-holley_shelf.json` (2026-10-22; added at the coordinat
 | Samantha in Europe | have | PG 66972, `mholley-samantha-in-europe` (4257 units) |
 | Samantha on Children's Rights | have | PG 67174, `mholley-samantha-on-childrens-rights` (1527 units) |
 | Tirzah Ann's summer trip, and other sketches | have | PG 74177, `mholley-tirzah-anns-summer-trip-and-other-sketches` (702 units) |
+
+## Charles Garvice
+
+Shelf: `pipeline/charles-garvice_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (12 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| At love's cost | have | PG 10379, `cgarvice-at-loves-cost` (3518 units) |
+| Adrien Leroy | have | PG 16682, `cgarvice-adrien-leroy` (1996 units) |
+| The woman's way | have | PG 19411, `cgarvice-womans-way` (2203 units) |
+| Nell, of Shorne Mills | have | PG 22961, `cgarvice-nell-of-shorne-mills` (4707 units) |
+| Only one love | have | PG 35523, `cgarvice-only-one-love` (4384 units) |
+| Wild Margaret | have | PG 44828, `cgarvice-wild-margaret` (4277 units) |
+| The spider and the fly | have | PG 49537, `cgarvice-spider-and-the-fly` (4374 units) |
+| Leslie's loyalty | have | PG 50440, `cgarvice-leslies-loyalty` (5074 units) |
+| Only a girl's love | have | PG 53416, `cgarvice-only-a-girls-love` (5961 units) |
+| Just a girl | have | PG 57166, `cgarvice-just-a-girl` (4594 units) |
+| Olivia | have | PG 70446, `cgarvice-olivia` (4689 units) |
+| A woman's soul | have | PG 74103, `cgarvice-womans-soul` (4339 units) |
