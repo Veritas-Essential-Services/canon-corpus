@@ -18207,6 +18207,24 @@ Slugs `patterson-*`. Built from title pages read for round 122.
 | Biographical Sketches of some of the Early Settlers of the City of Chicago (1876), IA biographicalsket12patt: written with James Taylor and others (waits for Adam's ruling on many-author compilations) | pending | not shelved |
 | Fables of Infidelity is by Robert Patterson (1829-1885), another man | excluded | |
 | Early Illinois and The West from the Census of 1880 are by Robert Porter | excluded | |
+
+## Charles Moss (round 122, my pick, 2026-10-23)
+
+Slugs `moss-*`. Built from title pages read for round 122.
+
+| Work | Status | Where |
+|---|---|---|
+| The evidence of the resurrection : cleared from the exceptions of a late pamphlet entitled "The resurrection of Jesus considered by a moral philosopher, in answer to The tryal of the witnesses, etc." (London : Printed for John and Henry Pemberton, 1744) | have-ocr | IA `evidenceofresurr00moss` |
+| A sermon preached before the Right Honourable the Lord-Mayor, the Court of Aldermen, the Sheriffs, and the Governors of the several hospitals of the City of London, at the parish church of St. Bridget, on Tuesday in Easter-Week, 1750. By Charles Moss (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_moss-charles_1750` |
+| A sermon preached at the parish church of St. James, Westminster, on Friday, February 6, 1756. being the day appointed by His Majesty for a general fast, on occasion of the late earthquakes, and the present situation of public affairs. By Charles Mos (catalogued 1756) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_moss-charles_1756` |
+| A sermon preached before the House of Lords, in the Abbey church of St. Peter, Westminster, on Monday, January 30, 1769, ... By ... Charles Lord Bishop of St. David's.  1769 (catalogued 1769) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_moss-charles_1769` |
+| A sermon, preached in the cathedral church of Sarum, before the governors of the General Infirmary, at their anniversary meeting, on Friday, September 29, 1769. By the Right Reverend Charles, Lord Bishop of St. David's.  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-in-th_moss-charles_1770` |
+| A sermon preached before the incorporated Society for the Propagation of the Gospel in Foreign Parts, at their anniversary meeting in the parish-church of St. Mary-le-Bow, on Friday, February 21, 1772 (London : Printed by T. Harrison and S. Brooke, 1772) | have-ocr | IA `sermonpreachedbe00moss` |
+| The Case of Abraham and Melchizedeck (1746), IA bim_eighteenth-century_the-case-of-abraham-and-_moss-charles-bishop-o_1746: the catalogue brackets the author's name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A Sermon preached before the House of Commons (1798), IA bim_eighteenth-century_a-sermon-preached-befor_moss-charles_1798: probably his son Charles Moss (1763-1811), later Bishop of Oxford; which Charles Moss is not settled | pending | not shelved |
+| A Sermon preached at the Anniversary Meeting of the Sons of the Clergy (1799), IA bim_eighteenth-century_a-sermon-preached-at-the_moss-charles_1799: probably his son Charles Moss (1763-1811); which Charles Moss is not settled | pending | not shelved |
+| The sequel to The tryal of the witnesses: wherein the evidence of the resurrection is cleared. In answer to a pamphlet, intitled, The resurrection of Jesus considered by a moral philosopher.  1757 (catalogued 1757) (IA bim_eighteenth-century_the-sequel-to-the-tryal-_moss-charles_1757): the printed title page names no author (only a manuscript note); attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the law, Greek reader, medical, botanical and Madagascar books are by other men named Moss | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
