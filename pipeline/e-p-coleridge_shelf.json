@@ -1,0 +1,33 @@
+{
+ "_about": "Edward Philip Coleridge (b. 1863), translator of Euripides and Apollonius for Bohn (held on those shelves), raw IA OCR of his Res Romanae (1896), from a Columbia microfilm. Not S. T. Coleridge, whose shelf is coleridge.  Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Edward P. Coleridge",
+ "_name_words": [
+  "coleridge"
+ ],
+ "_surname": [
+  "edward p. coleridge",
+  "e. p. coleridge"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-p-coleridge-res-romanae-1896": [
+   "resromanaebeingb00cole",
+   "Res Romanae: being brief aids to the history, geography, literature and antiquities of ancient Rome, for advanced students, by Edward P. Coleridge (London: George Bell and Sons, 1896)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-p-coleridge-res-romanae-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward p. coleridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
