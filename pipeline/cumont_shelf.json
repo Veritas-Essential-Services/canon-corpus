@@ -1,5 +1,5 @@
 {
- "_about": "Franz Cumont (1868-1947) in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Oriental Religions in Roman Paganism, After Life in Roman Paganism, clean Gutenberg. No uids minted.",
+ "_about": "Franz Cumont (1868-1947) in English. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Oriental Religions in Roman Paganism, After Life in Roman Paganism, clean Gutenberg. No uids minted.  Round ea adds Astrology and Religion among the Greeks and Romans (1912).",
  "_name_words": [
   "cumont"
  ],
@@ -18,11 +18,16 @@
    "After Life in Roman Paganism"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cumont-astrology-and-religion-1912": [
+   "astrologyreligio00cumouoft",
+   "Astrology and Religion among the Greeks and Romans, by Franz Cumont (American Lectures on the History of Religions, 1911-1912; New York and London: G. P. Putnam's Sons, 1912)"
+  ]
+ },
  "_checks": {
   "cumont-oriental-religions-roman-paganism": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "franz cumont",
    "identity": "ok",
@@ -31,12 +36,23 @@
   },
   "cumont-after-life-roman-paganism": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "franz cumont",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "cumont-astrology-and-religion-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "franz cumont",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
