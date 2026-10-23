@@ -9986,3 +9986,21 @@ Shelf: `pipeline/e-f-bojesen_shelf.json`. A Manual of Grecian and Roman Antiquit
 |---|---|---|---|
 | A Manual of Grecian and Roman Antiquities, translated from the German (1848) |  | `bojesen-manual-antiquities-1848` | have-raw (IA `amanualgreciana01bojegoog`) |
 
+
+## Sir George W. Cox (1827-1902)
+
+Shelf: `pipeline/george-w-cox_shelf.json`. Greek history and Aryan mythology, 1870-1889. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| A History of Greece, vol. I (1874) |  | `cox-history-of-greece-vol-1` | have-raw (IA `historyofgreece01coxg`) |
+| A History of Greece, vol. II (1874) |  | `cox-history-of-greece-vol-2` | have-raw (IA `historyofgreece02coxguoft`) |
+| A General History of Greece from the Earliest Period to the Death of Alexander the Great (1876; this printing 1882) |  | `cox-general-history-of-greece` | have-raw (IA `generalhistoryo00coxg`) |
+| The Athenian Empire, from the Flight of Xerxes to the Fall of Athens (Epochs of Ancient History) |  | `cox-athenian-empire` | have-raw (IA `athenianempire00coxguoft`) |
+| The Greeks and the Persians (Epochs of Ancient History; this printing 1889) |  | `cox-greeks-and-persians` | have-raw (IA `greekspersians00coxg`) |
+| The Mythology of the Aryan Nations, vol. I (1870) |  | `cox-mythology-aryan-nations-vol-1` | have-raw (IA `in.ernet.dli.2015.536264`) |
+| The Mythology of the Aryan Nations, vol. II (1870) |  | `cox-mythology-aryan-nations-vol-2` | have-raw (IA `mytharyannation02coxuoft`) |
+| Tales of Ancient Greece (1879) |  | `cox-tales-of-ancient-greece-1879` | have-raw (IA `talesofancientgr00coxgrich`) |
+
+Excluded: The Crusades (PG 77173); Life of John William Colenso; Latin and Teutonic Christianity (outside lane B); School History of Greece (school abridgement)
+
