@@ -17232,3 +17232,18 @@ Slugs `newbolt-*`. Built from title pages read for round 112.
 | Christian marriage at the cross-roads : being five addresses (London : Skeffington & Son, [192) | have-ocr | IA `christianmarriag00newb` |
 | Years that are past; being some recollections of a long life (London : W. Gardner, Darton & co., ltd., 1921) | have-ocr | IA `cu31924029450925` |
 | Liddon's Life of Pusey and Pusey's Spiritual Letters, which he co-edited, and the many-author Cathedrals of England, are other men's works | excluded | |
+
+## Joseph S. C. F. Frey (round 112, my pick, 2026-10-23)
+
+Slugs `frey-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| The Converted Jew, or, Memoirs of the life of Joseph Samuel C. F. Frey, who was born a Jew but is now a minister of the gospel in London : to which are added An address to Christians ... and a Concise history of the Dispersion (Boston : S. T. Armstrong, 1815) | have-ocr | IA `convertedjeworme00frey` |
+| Essays on Christian baptism (Boston : Published by Lincoln & Edmands, 1829) | have-ocr | IA `essaysonchrist00frey` |
+| Narrative of the Rev. Joseph Samuel C. F. Frey (New York : Printed for the Author, 1834) | have-ocr | IA `narrativeofrevjo00frey` |
+| Joseph and Benjamin: letters on the controversy between Jews and Christians (catalogued 1837) | have-ocr | IA `josephandbenjam01freygoog` |
+| Judah and Israel : or, the restoration and conversion of the Jews and the ten tribes (London : Ward, 1838) | have-ocr | IA `judahisraelorres00freyiala` |
+| The Scripture Types, vol. 1 (catalogued 1841) | have-ocr | IA `scripturetypes0001jose` |
+| The Messiahship of Jesus : a course of lectures (Philadelphia : American Baptist Publication Society, 1850) | have-ocr | IA `messiahshipofjes00frey_0` |
+| His Hebrew grammars and dictionaries are language tools; left out | excluded | |
