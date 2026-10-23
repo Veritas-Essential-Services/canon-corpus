@@ -18032,3 +18032,16 @@ Shelf: `pipeline/frederic-arnold-kummer_shelf.json` (2026-10-22; added at the co
 | The Brute | have | PG 36551, `fakummer-brute` (1488 units) |
 | The Blue Lights: A Detective Story | have | PG 38577, `fakummer-blue-lights` (1716 units) |
 | The First Days of Man, as Narrated Quite Simply for Young Readers | have | PG 50484, `fakummer-first-days-of-man-as-narrated-quite-simply-for-youn` (672 units) |
+
+## Vaughan Kester
+
+Shelf: `pipeline/vaughan-kester_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Prodigal Judge | have | PG 5129, `vkester-prodigal-judge` (3208 units) |
+| The Just and the Unjust | have | PG 14581, `vkester-just-and-the-unjust` (3133 units) |
+| The Manager of the B. & A.: A Novel | have | PG 51953, `vkester-manager-of-the-b-a` (1837 units) |
+| The Fortune of the Landrays | have | PG 52560, `vkester-fortune-of-the-landrays` (5489 units) |
+| The Hand of the Mighty, and Other Stories | have | PG 52563, `vkester-hand-of-the-mighty-and-other-stories` (2755 units) |
+| pg-57703 | excluded | PG 57703: Gutenberg's index of the author's works, not a book. |
