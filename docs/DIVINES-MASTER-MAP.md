@@ -47376,3 +47376,40 @@ Shelf: `pipeline/storytellers-tail-43_shelf.json` (2026-10-22; added at the coor
 | A New Sensation | have | PG 40937, `aross-new-sensation` (1836 units) |
 | Suggestions for the Prevention of Juvenile Depravity | have | PG 67892, `brotch-suggestions-for-the-prevention-of-juvenile-depravity` (39 units) |
 | The Adventures of Louis de Rougemont | have | PG 1194, `ldrougemont-adventures-of-louis-de-rougemont` (759 units) |
+
+## Storytellers' tail, group 44 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-44_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: William Merriam Rouse, Richard Rowe, Kristína Royová, María Amparo Ruiz de Burton, Dora Russell, John Russell Russell, Owen Rutter, S. W., Anna T. Sadlier, S. B. C. Samuels, Arthur Benton Sanford, Margaret Elizabeth Munson Sangster, George E. Sargent, Jack Saul, Mary Langdon Bradbury Savage, Jessie Margaret Edmondston Saxby, Mary S. Saxe, Conrad H. Sayce, Julia Thompson von Stosch Schayer, A. J. L. Scott, Kingsbury Scott, J. Hamp SeCheverell, Susan Anne Livingston Ridley Sedgwick, Robert Sellar, Elizabeth Semple, B. G. Seton, Elizabeth Missing Sewell, Patrick Augustine Sheehan, Winthrop Dudley Sheldon, Stuart Pratt Sherman. Every English text under the name at Gutenberg that no other shelf holds (30 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The shotgun princess | have | PG 71349, `wmrouse-shotgun-princess` (97 units) |
+| The Boy in the Bush | have | PG 56693, `rrowe-boy-in-the-bush` (412 units) |
+| The Three Comrades | have | PG 12143, `kroyova-three-comrades` (513 units) |
+| The Squatter and the Don A Novel Descriptive of Contemporary Occurrences in California | have | PG 35538, `maruizdeburton-squatter-and-the-don-a-novel-descriptive-of-c` (3627 units) |
+| A Country Sweetheart | have | PG 47282, `drussell-country-sweetheart` (4037 units) |
+| Adventures in the Moon, and Other Worlds | have | PG 43543, `jrrussell-adventures-in-the-moon-and-other-worlds` (1093 units) |
+| The Song of Tiadatha | have | PG 67937, `orutter-song-of-tiadatha` (225 units) |
+| A visit to a farm house; or, An introduction to various subjects connected with rural economy. Seventh edition, revised and corrected. | have | PG 68171, `sw-visit-to-a-farm-house` (590 units) |
+| Wayward Winifred | have | PG 54729, `atsadlier-wayward-winifred` (1721 units) |
+| Eric or, Under the Sea | have | PG 26952, `sbcsamuels-eric-or-under-the-sea` (827 units) |
+| An Easter Disciple: The Chronicle of Quintus, the Roman Knight | have | PG 12671, `absanford-easter-disciple` (112 units) |
+| Five Happy Weeks | have | PG 17126, `memsangster-five-happy-weeks` (206 units) |
+| John Tincroft, bachelor and benedict | have | PG 73193, `gesargent-john-tincroft-bachelor-and-benedict` (2352 units) |
+| The Sins of the Cities of the Plain; or, The Recollections of a Mary-Ann with Short Essays on Sodomy and Tribadism | have | PG 53964, `jsaul-sins-of-the-cities-of-the-plain` (591 units) |
+| Adèle Dubois | have | PG 16207, `mlbsavage-adele-dubois` (1243 units) |
+| Viking Boys | have | PG 23725, `jmesaxby-viking-boys` (1294 units) |
+| Our Little Quebec Cousin | have | PG 46056, `mssaxe-our-little-quebec-cousin` (426 units) |
+| In the Musgrave Ranges | have | PG 28931, `chsayce-in-the-musgrave-ranges` (908 units) |
+| Tiger Lily, and Other Stories | have | PG 61068, `jtvsschayer-tiger-lily-and-other-stories` (1231 units) |
+| Sixty Squadron R.A.F.: A History of the Squadron from its Formation | have | PG 47416, `ajlscott-sixty-squadron-r-a-f` (1078 units) |
+| Strange waters | have | PG 77346, `kscott-strange-waters` (223 units) |
+| Journal history of the Twenty-ninth Ohio Veteran Volunteers, 1861-1865 | have | PG 65589, `jhsecheverell-journal-history-of-the-twenty-ninth-ohio-veter` (2965 units) |
+| The Young Emigrants; Madelaine Tube; the Boy and the Book; and Crystal Palace | have | PG 11585, `salrsedgwick-young-emigrants` (816 units) |
+| Gleaner Tales | have | PG 66150, `rsellar-gleaner-tales` (1361 units) |
+| A cup of sweets, that can never cloy: or, delightful tales for good children | have | PG 42024, `esemple-cup-of-sweets-that-can-never-cloy` (313 units) |
+| The Pipes of War A Record of Achievements of Pipers of Scottish and Overseas Regiments during the War, 1914-18 | have | PG 51016, `bgseton-pipes-of-war-a-record-of-achievements-of-pipers-of-s` (1536 units) |
+| Amy Herbert | have | PG 36156, `emsewell-amy-herbert` (2779 units) |
+| My New Curate | have | PG 20295, `pasheehan-my-new-curate` (2627 units) |
+| The "Twenty-Seventh" | have | PG 61312, `wdsheldon-twenty-seventh` (409 units) |
+| My dear Cornelia | have | PG 71050, `spsherman-my-dear-cornelia` (801 units) |
