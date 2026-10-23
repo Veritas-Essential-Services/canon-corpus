@@ -12334,3 +12334,19 @@ Slugs `eirving-*`. Built from title pages read for round 59.
 | The collected writings of Edward Irving, vol. 4 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting04irvi` |
 | The collected writings of Edward Irving, vol. 5 (London ; New York : A. Strahan, 1866) | have-ocr | IA `collectedwriting05irvi` |
 | The trial before the Presbytery of London (proceedings compiled by others); histories of Irvingism and the Catholic Apostolic Church by others; Mrs Oliphant's Life of Edward Irving | excluded | |
+
+## Robert Vaughan (1795-1868) (round 59, my pick, 2026-10-23)
+
+Slugs `rvaughan-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| The life and opinions of John de Wycliffe; illus. principally from his unpublished manuscripts; with a preliminary view of the Papal system, and of the state of the Protestant doctrine in Europe, to the commencement of the fourteenth century, vol. 1 (London : B.J. Holdsworth, Hatchard and Son, 1828) | have-ocr | IA `lifeopinionsofj01vaug` |
+| The life and opinions of John de Wycliffe; illus. principally from his unpublished manuscripts; with a preliminary view of the Papal system, and of the state of the Protestant doctrine in Europe, to the commencement of the fourteenth century, vol. 2 (London : B.J. Holdsworth, Hatchard and Son, 1828) | have-ocr | IA `lifeopinionsofjo02vaug` |
+| The causes of the corruption of Christianity, vol. 3 (London Jackson and Walford, 1834) | have-ocr | IA `causesofcorrupti03vauguoft` |
+| Thoughts on present and past state of religious parties in England (London, Jackson, 1838) | have-ocr | IA `thoughtsonpresen00vaug` |
+| The modern pulpit viewed in its relation to the state of society (London, Jackson and Walford, 1842) | have-ocr | IA `modernpulpitview00vaug` |
+| Congregationalism : or The polity of independent church viewed in relation to the state and tendencies of modern society (London : Jackson and Walford, 1842) | have-ocr | IA `congregationalis00vaug` |
+| Essays on history, philosophy, and theology, vol. 1 (London : Jackson and Walford, 1849) | have-ocr | IA `essaysonhistoryp01vaug` |
+| John de Wycliffe : a monograph, with some account of the Wycliffe mss. in Oxford, Cambridge, the British museum, Lambeth palace, and Trinity college, Dublin (London : Seeleys, 1853) | have-ocr | IA `johndewycliffemo00vaug` |
+| His son Robert Alfred Vaughan (1823-1857): Hours with the Mystics and the Essays and Remains (with a memoir by his father) | excluded | |

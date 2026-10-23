@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain Robert Vaughan (1795-1868), Congregational historian, President of Lancashire Independent College and founder of the British Quarterly Review, for the Word Hoard: The Life and Opinions of John de Wycliffe (1828, two volumes), The Causes of the Corruption of Christianity (1834), Thoughts on the Present Position of the Protestant Dissenters (1838), The Modern Pulpit (1842), Congregationalism (1842), Essays on History, Philosophy and Theology (1849) and John de Wycliffe, a Monograph (1853). C. J. Vaughan and Herbert Vaughan, on their own shelves, are other men. from Internet Archive scans. Added 2026-10-23 by lane A, round 59 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "vaughan"
+ ],
+ "_surname": [
+  "robert vaughan",
+  "r. vaughan",
+  "robert vaughan, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rvaughan-wycliffe-1": [
+   "lifeopinionsofj01vaug",
+   "The life and opinions of John de Wycliffe; illus. principally from his unpublished manuscripts; with a preliminary view of the Papal system, and of the state of the Protestant doctrine in Europe, to the commencement of the fourteenth century, vol. 1 (London : B.J. Holdsworth, Hatchard and Son, 1828)"
+  ],
+  "rvaughan-wycliffe-2": [
+   "lifeopinionsofjo02vaug",
+   "The life and opinions of John de Wycliffe; illus. principally from his unpublished manuscripts; with a preliminary view of the Papal system, and of the state of the Protestant doctrine in Europe, to the commencement of the fourteenth century, vol. 2 (London : B.J. Holdsworth, Hatchard and Son, 1828)"
+  ],
+  "rvaughan-corruption-christianity": [
+   "causesofcorrupti03vauguoft",
+   "The causes of the corruption of Christianity, vol. 3 (London Jackson and Walford, 1834)"
+  ],
+  "rvaughan-protestant-dissenters": [
+   "thoughtsonpresen00vaug",
+   "Thoughts on present and past state of religious parties in England (London, Jackson, 1838)"
+  ],
+  "rvaughan-modern-pulpit": [
+   "modernpulpitview00vaug",
+   "The modern pulpit viewed in its relation to the state of society (London, Jackson and Walford, 1842)"
+  ],
+  "rvaughan-congregationalism": [
+   "congregationalis00vaug",
+   "Congregationalism : or The polity of independent church viewed in relation to the state and tendencies of modern society (London : Jackson and Walford, 1842)"
+  ],
+  "rvaughan-essays-1": [
+   "essaysonhistoryp01vaug",
+   "Essays on history, philosophy, and theology, vol. 1 (London : Jackson and Walford, 1849)"
+  ],
+  "rvaughan-wycliffe-monograph": [
+   "johndewycliffemo00vaug",
+   "John de Wycliffe : a monograph, with some account of the Wycliffe mss. in Oxford, Cambridge, the British museum, Lambeth palace, and Trinity college, Dublin (London : Seeleys, 1853)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rvaughan-other": "His son Robert Alfred Vaughan (1823-1857): Hours with the Mystics and the Essays and Remains (with a memoir by his father)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "rvaughan-modern-pulpit": "title page read from the page image (n8): 'The Modern Pulpit viewed in its relation to the State of Society, by Robert Vaughan, D.D., London: Jackson and Walford, 1842' (the OCR skipped the title page)",
+  "rvaughan-essays-1": "title page: 'Essays on History, Philosophy, and Theology, by Robert Vaughax [Vaughan], D.D., in two volumes, vol. I' (OCR misread the n)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rvaughan-wycliffe-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rvaughan-wycliffe-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rvaughan-corruption-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rvaughan-protestant-dissenters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rvaughan-modern-pulpit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rvaughan-congregationalism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert vaughan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rvaughan-essays-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rvaughan-wycliffe-monograph": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert vaughan",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
