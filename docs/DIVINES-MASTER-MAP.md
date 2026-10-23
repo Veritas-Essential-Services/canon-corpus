@@ -12719,6 +12719,7 @@ Shelf: `pipeline/butcher_shelf.json`. Harvard Lectures on Greek Subjects (1904) 
 |---|---|---|---|
 | Harvard Lectures on Greek Subjects (New York: Macmillan, 1904) |  | `butcher-harvard-lectures-greek-subjects-1904` | have-raw (IA `harvardlectureso00butciala`) |
 | Some Aspects of the Greek Genius, third edition (London: Macmillan, 1904) |  | `butcher-some-aspects-greek-genius-1904` | have-raw (IA `someaspectsofgre00butcuoft`) |
+| Aristotle's Theory of Poetry and Fine Art, with a critical text and translation of the Poetics, 2nd ed. (London: Macmillan, 1898); Greek facing, kept per Adam's 2026-10-23 ruling |  | `butcher-aristotle-theory-poetry-1898` | have-raw (IA `aristotlestheory00butc`) |
 
 Excluded: Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc) (refused: OCR 0.69, Greek text facing)
 

@@ -18,15 +18,17 @@
   "butcher-some-aspects-greek-genius-1904": [
    "someaspectsofgre00butcuoft",
    "Some Aspects of the Greek Genius, third edition (London: Macmillan, 1904)"
+  ],
+  "butcher-aristotle-theory-poetry-1898": [
+   "aristotlestheory00butc",
+   "Aristotle's Theory of Poetry and Fine Art, with a critical text and translation of the Poetics, 2nd ed. (London: Macmillan, 1898); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
- "_excluded": {
-  "Aristotle's Theory of Poetry and Fine Art (1898; IA aristotlestheory00butc)": "refused: OCR 0.69, Greek text facing"
- },
+ "_excluded": {},
  "_checks": {
   "butcher-harvard-lectures-greek-subjects-1904": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "s. h. butcher",
    "identity": "ok",
@@ -37,13 +39,24 @@
   },
   "butcher-some-aspects-greek-genius-1904": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "s. h. butcher",
    "identity": "ok",
    "ia_rights": "ok: published 1904",
    "ia_date": "1904",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "butcher-aristotle-theory-poetry-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. h. butcher",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
