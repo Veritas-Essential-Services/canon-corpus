@@ -19167,6 +19167,16 @@ Shelf: `pipeline/la-rue-van-hook_shelf.json`. Greek Life and Thought (1923). Not
 |---|---|---|---|
 | Greek Life and Thought: a Portrayal of Greek Civilization (1923) |  | `van-hook-greek-life-thought-1923` | have-raw (IA `greeklifethought00vanh`) |
 
+
+## Samuel Ball Platner (1863-1921)
+
+Shelf: `pipeline/samuel-ball-platner_shelf.json`. Topography of ancient Rome (1911) and the Topographical Dictionary (with Ashby, 1929). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Topography and Monuments of Ancient Rome, 2nd ed. (1911) |  | `platner-topography-monuments-rome-1911` | have-raw (IA `topographymonume00platiala`) |
+| A Topographical Dictionary of Ancient Rome (1929), completed and revised by Thomas Ashby |  | `platner-topographical-dictionary-1929` | have-raw (IA `topographical-dictionary-of-ancient-rome-a-samuel-ball-platner-and-thomas-ashby`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
