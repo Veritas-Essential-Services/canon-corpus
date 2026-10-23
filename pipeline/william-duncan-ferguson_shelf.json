@@ -1,0 +1,32 @@
+{
+ "_about": "William Duncan Ferguson, raw IA OCR of his Chicago dissertation (1913).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "William Duncan Ferguson",
+ "_name_words": [
+  "ferguson"
+ ],
+ "_surname": [
+  "william duncan ferguson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-duncan-ferguson-macedonian-inscriptions-new-testament-1913": [
+   "legalgovernmenta00fergrich",
+   "The Legal and Governmental Terms Common to the Macedonian Greek Inscriptions and the New Testament: a dissertation (University of Chicago), by William Duncan Ferguson (copyright 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-duncan-ferguson-macedonian-inscriptions-new-testament-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william duncan ferguson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
