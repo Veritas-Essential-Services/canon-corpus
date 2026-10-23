@@ -10038,6 +10038,7 @@ Shelf: `pipeline/sophocles_shelf.json`. Translator per title. Jebb's seven prose
 | Oedipus at Colonus | Richard Claverhouse Jebb | `sophocles-perseus-jebb-oedipus-at-colonus-modernized` | have (Perseus TEI `tlg0011.tlg007.perseus-eng2`, modernized) |
 | Philoctetes | Richard Claverhouse Jebb | `sophocles-perseus-jebb-philoctetes-modernized` | have (Perseus TEI `tlg0011.tlg006.perseus-eng2`, modernized) |
 | Trachiniae | Richard Claverhouse Jebb | `sophocles-perseus-jebb-trachiniae-modernized` | have (Perseus TEI `tlg0011.tlg001.perseus-eng3`, modernized) |
+| Sophocles, tr. F. Storr, vol. II: Ajax, Electra, Trachiniae, Philoctetes (Loeb, 1913; this copy the 1919 reprint); Greek facing, kept per Adam's 2026-10-23 ruling |  | `sophocles-storr-loeb-v2` | have-raw (IA `sophocleswitheng02soph`) |
 
 Pending (wishlist): vol. 2 of the 1809 Greek Tragic Theatre (Francklin's Sophocles in Potter's set; archive.org answers 503), wanted only to complete that set; Storr's Loeb vol. 2 (Ajax, Electra, Trachiniae, Philoctetes).
 
