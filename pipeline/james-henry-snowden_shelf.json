@@ -1,0 +1,256 @@
+{
+ "_about": "Public-domain James Henry Snowden (1852-1936), Presbyterian professor at Western Theological Seminary, Pittsburgh, and editor of the Presbyterian Banner, for the Word Hoard: Scenes and Sayings in the Life of Christ, The World a Spiritual System, The Basal Beliefs of Christianity, The Psychology of Religion, Can We Believe in Immortality?, Is the World Growing Better?, A Wonderful Night, The Coming of the Lord: Will it be Premillennial?, The Truth about Christian Science, The Personality of God, The Attractions of the Ministry, The Meaning of Education, Jesus as Judged by his Enemies, The Making and Meaning of the New Testament, and A Summer across the Sea. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 114 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james henry snowden",
+  "james h. snowden",
+  "j. h. snowden",
+  "snowden"
+ ],
+ "_surname": [
+  "james henry snowden",
+  "james h. snowden",
+  "j. h. snowden",
+  "snowden"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "snowden-scenes-sayings": [
+   "scenessayingsinl00snow",
+   "Scenes and sayings in the life of Christ (New York ; Chicago [etc.] : Fleming H. Revell company, 1903)"
+  ],
+  "snowden-summer": [
+   "summeracrosssea00snow",
+   "A summer across the sea (New York, F.H. Revell, 1908)"
+  ],
+  "snowden-spiritual-system": [
+   "aspiritualsystem00snowuoft",
+   "The world a spiritual system : an outline of metaphysics (New York, Macmillan, 1910)"
+  ],
+  "snowden-basal-beliefs": [
+   "basalbeliefsofch00snow",
+   "The basal beliefs of Christianity (New York : The Macmillan Company, 1911)"
+  ],
+  "snowden-psychology": [
+   "psychologyofreli0000snow",
+   "The psychology of religion : and its application in preaching and teaching (New York ; Chicago : Fleming H. Revell Company, 1916)"
+  ],
+  "snowden-immortality": [
+   "canwebelieveinim0000snow",
+   "Can we believe in immortality? (New York, The Macmillan Company, 1918)"
+  ],
+  "snowden-world-better": [
+   "isworldgrowingbe0000snow",
+   "Is the world growing better? (New York : Macmillan, 1919)"
+  ],
+  "snowden-wonderful-night": [
+   "wonderfulnightin00snow",
+   "A wonderful night; an interpretation of Christmas ([New York] The Macmillan company, 1919)"
+  ],
+  "snowden-coming-lord": [
+   "comingoflordwill00snow",
+   "The coming of the Lord: will it by premillennial? (New York : Macmillan, 1919)"
+  ],
+  "snowden-christian-science": [
+   "truthaboutchrist00snow",
+   "The truth about Christian science; the founder and the faith (Philadelphia, The Westminster press, 1920)"
+  ],
+  "snowden-personality-god": [
+   "personalityofgod00snow",
+   "The personality of God (New York, The Macmillan Company, 1920)"
+  ],
+  "snowden-ministry": [
+   "attractionsofmin00snow",
+   "The attractions of the ministry (Philadelphia, The Westminster press, 1921)"
+  ],
+  "snowden-education": [
+   "meaningofeducati00snow",
+   "The meaning of education (New York, Cincinnati, The Abington press, 1921)"
+  ],
+  "snowden-jesus-enemies": [
+   "jesusasjudgedbyh00snow",
+   "Jesus as judged by his enemies : a study of the criticisms and attacks made on Jesus by his enemies (New York ; Cincinnati : The Abingdon Press, 1922)"
+  ],
+  "snowden-new-testament": [
+   "makingmeaningofn0000snow",
+   "The making and meaning of the New Testament (New York, The Macmillan company, 1923)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "snowden-basal-beliefs": "Title page image: \"The Basal Beliefs of Christianity, by James H. Snowden, D.D., LL.D. New York: The Macmillan Company, 1911.\" The OCR text lacks the page.",
+  "snowden-wonderful-night": "Cover image: \"A Wonderful Night... J. H. Snowden\"; copyright page (OCR): \"Copyright, 1919, by the Macmillan Company... Published November, 1919.\" Library spine label: Snowden, James Henry."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "snowden-scenes-sayings": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snowden-summer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "snowden-spiritual-system": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snowden-basal-beliefs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snowden-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snowden-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snowden-world-better": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snowden-wonderful-night": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snowden-coming-lord": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snowden-christian-science": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snowden-personality-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snowden-ministry": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "snowden-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "snowden-jesus-enemies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "snowden-new-testament": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. snowden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

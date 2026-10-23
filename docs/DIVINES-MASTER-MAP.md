@@ -17404,6 +17404,28 @@ Slugs `dsmackay-*`. Built from title pages read for round 114.
 | Annual sermon before the American Seamen's Friend Society at its seventy-sixth anniversary, Sunday, May 8, 1904 in the Collegiate Church / by Donald Sage Mackay (New York : American Seamen's Friend Society, 1904) | have-ocr | IA `annualsermonbefo00mack` |
 | The religion of the threshold, and other sermons (New York, A. C. Armstrong & son, 1908) | have-ocr | IA `religionofthres00mack` |
 | Mind in the Parmenides (1924) is by a later Donald Sage Mackay | excluded | |
+
+## James Henry Snowden (round 114, my pick, 2026-10-23)
+
+Slugs `snowden-*`. Built from title pages read for round 114.
+
+| Work | Status | Where |
+|---|---|---|
+| Scenes and sayings in the life of Christ (New York ; Chicago [etc.] : Fleming H. Revell company, 1903) | have-ocr | IA `scenessayingsinl00snow` |
+| A summer across the sea (New York, F.H. Revell, 1908) | have-ocr | IA `summeracrosssea00snow` |
+| The world a spiritual system : an outline of metaphysics (New York, Macmillan, 1910) | have-ocr | IA `aspiritualsystem00snowuoft` |
+| The basal beliefs of Christianity (New York : The Macmillan Company, 1911) | have-ocr | IA `basalbeliefsofch00snow` |
+| The psychology of religion : and its application in preaching and teaching (New York ; Chicago : Fleming H. Revell Company, 1916) | have-ocr | IA `psychologyofreli0000snow` |
+| Can we believe in immortality? (New York, The Macmillan Company, 1918) | have-ocr | IA `canwebelieveinim0000snow` |
+| Is the world growing better? (New York : Macmillan, 1919) | have-ocr | IA `isworldgrowingbe0000snow` |
+| A wonderful night; an interpretation of Christmas ([New York] The Macmillan company, 1919) | have-ocr | IA `wonderfulnightin00snow` |
+| The coming of the Lord: will it by premillennial? (New York : Macmillan, 1919) | have-ocr | IA `comingoflordwill00snow` |
+| The truth about Christian science; the founder and the faith (Philadelphia, The Westminster press, 1920) | have-ocr | IA `truthaboutchrist00snow` |
+| The personality of God (New York, The Macmillan Company, 1920) | have-ocr | IA `personalityofgod00snow` |
+| The attractions of the ministry (Philadelphia, The Westminster press, 1921) | have-ocr | IA `attractionsofmin00snow` |
+| The meaning of education (New York, Cincinnati, The Abington press, 1921) | have-ocr | IA `meaningofeducati00snow` |
+| Jesus as judged by his enemies : a study of the criticisms and attacks made on Jesus by his enemies (New York ; Cincinnati : The Abingdon Press, 1922) | have-ocr | IA `jesusasjudgedbyh00snow` |
+| The making and meaning of the New Testament (New York, The Macmillan company, 1923) | have-ocr | IA `makingmeaningofn0000snow` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
