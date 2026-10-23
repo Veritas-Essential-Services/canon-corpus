@@ -16165,6 +16165,15 @@ Slugs `mcafee-*`. Built from title pages read for round 99.
 | Changing foreign missions; a revaluation of the church's greatest enterprise (New York ; Chicago [etc.] : Fleming H. Revell company, 1927) | have-ocr | IA `changingforeignm00mcaf` |
 | Ministerial practices, some fraternal suggestions (New York, London, Harper & brothers, 1928) | have-ocr | IA `ministerialpract0000mcaf` |
 | The Christian message and program, twelve studies for class use or personal reading (Philadelphia : Printed for the Leadership training publishing association by the Westminster press, 1929) | have-ocr | IA `christianmessage00mcaf` |
+
+## Stephen Farley (round 99, my pick, 2026-10-23)
+
+Slugs `farley-*`. Built from title pages read for round 99.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermon on the Death of Rev. Abijah Wines who Died Feb. 11, 1833, Delivered on the Following (John Caldwell, 1834) | have-ocr | IA `sermonondeathre00farlgoog` |
+| Discourses and essays on theological and speculative topics (Boston : Farley, 1851) | have-ocr | IA `discoursesessays00farl` |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
