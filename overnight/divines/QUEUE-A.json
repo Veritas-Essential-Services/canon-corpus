@@ -8326,6 +8326,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T04:54:38-05:00",
       "notes": "4 books (Canadian Methodist)."
+    },
+    {
+      "id": "charles-gay=charles-gay",
+      "status": "done",
+      "scope": "round 83",
+      "added": "2026-10-23T04:58:34-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T04:58:34-05:00",
+      "notes": "3 volumes in English (Burder translation, 1878-1879)."
     }
   ]
 }

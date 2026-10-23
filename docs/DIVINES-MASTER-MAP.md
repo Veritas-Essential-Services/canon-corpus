@@ -14443,6 +14443,17 @@ Slugs `dewart-*`. Built from title pages read for round 82.
 | Essays for the times : studies of eminent men and important living questions (Toronto : W. Briggs, 1898) | have-ocr | IA `essaysforthetime00dewauoft` |
 | The Bible under higher criticism : a review of current evolution theories about the Old Testament (Toronto : W. Briggs, 1900) | have-ocr | IA `bibleunderhigher00dewa` |
 | Selections from Canadian Poets (an anthology he edited), his own verse (Songs of Life), The Canadian Speaker (a school reader) and The Canadian Methodist Pulpit (sermons by many) | excluded | |
+
+## Charles Gay (round 83, my pick, 2026-10-23)
+
+Slugs `gay-*`. Built from title pages read for round 83.
+
+| Work | Status | Where |
+|---|---|---|
+| The Christian life and virtues considered in the religious state (London : Burns & Oates, 1878) | have-ocr | IA `christianlife01gayuoft` |
+| The Christian life and virtues considered in the religious state, vol. 2 (London : Burns & Oates, 1878) | have-ocr | IA `christianlife02gayuoft` |
+| The Christian life and virtues considered in the religious state, vol. 3 (London : Burns & Oates, 1878) | have-ocr | IA `christianlife03gayuoft` |
+| the French originals (De la vie et des vertus chrétiennes; Élévations), left for a lane that takes French | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
