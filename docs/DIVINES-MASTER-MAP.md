@@ -42774,3 +42774,39 @@ Shelf: `pipeline/ernest-bramah_shelf.json` (2026-10-22; added at the coordinator
 | The Secret of the League: The Story of a Social War | have | PG 34522, `ebramah-secret-of-the-league` (1635 units) |
 | Max Carrados | have | PG 34732, `ebramah-max-carrados` (2129 units) |
 | The eyes of Max Carrados | have | PG 77788, `ebramah-eyes-of-max-carrados` (2571 units) |
+
+## Marietta Holley
+
+Shelf: `pipeline/marietta-holley_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Samantha at Saratoga | have | PG 3425, `mholley-samantha-at-saratoga` (1613 units) |
+| Sweet Cicely — or Josiah Allen as a Politician | have | PG 7251, `mholley-sweet-cicely-or-josiah-allen-as-a-politician` (2275 units) |
+| Samantha on the Woman Question | have | PG 7833, `mholley-samantha-on-the-woman-question` (494 units) |
+| Samantha among the Brethren — Volume 1 | have | PG 9443, `mholley-samantha-among-the-brethren-volume-1` (278 units) |
+| Samantha among the Brethren — Volume 2 | have | PG 9444, `mholley-samantha-among-the-brethren-volume-2` (121 units) |
+| Samantha among the Brethren — Volume 3 | have | PG 9445, `mholley-samantha-among-the-brethren-volume-3` (303 units) |
+| Samantha among the Brethren — Volume 4 | have | PG 9446, `mholley-samantha-among-the-brethren-volume-4` (251 units) |
+| Samantha among the Brethren — Volume 5 | have | PG 9447, `mholley-samantha-among-the-brethren-volume-5` (244 units) |
+| Samantha among the Brethren — Volume 6 | have | PG 9448, `mholley-samantha-among-the-brethren-volume-6` (163 units) |
+| Samantha among the Brethren — Volume 7 | have | PG 9449, `mholley-samantha-among-the-brethren-volume-7` (249 units) |
+| Samantha Among the Brethren, Complete | have | PG 9450, `mholley-samantha-among-the-brethren-complete` (1576 units) |
+| Poems | have | PG 10216, `mholley-poems` (577 units) |
+| Samantha at the St. Louis Exposition | have | PG 12386, `mholley-samantha-at-the-st-louis-exposition` (1296 units) |
+| Samantha at the World's Fair | have | PG 18091, `mholley-samantha-at-the-worlds-fair` (4317 units) |
+| Samantha at Coney Island, and a Thousand Other Islands | have | PG 28467, `mholley-samantha-at-coney-island-and-a-thousand-other-island` (1093 units) |
+| Around the World with Josiah Allen's Wife | have | PG 30190, `mholley-around-the-world-with-josiah-allens-wife` (2491 units) |
+| My Opinions and Betsey Bobbet's Designed as a Beacon Light to Guide Women to Life, Liberty, and the Pursuit of Happiness, But Which May Be Read by Members of the Sterner Sect, without Injury to Themselves or the Book | have | PG 55594, `mholley-my-opinions-and-betsey-bobbets-designed-as-a-beacon` (1902 units) |
+| The Lament of the Mormon Wife: A Poem | have | PG 58556, `mholley-lament-of-the-mormon-wife` (45 units) |
+| Josiah's Alarm, and Abel Perry's Funeral | have | PG 59100, `mholley-josiahs-alarm-and-abel-perrys-funeral` (302 units) |
+| Josiah's Secret: A Play | have | PG 59159, `mholley-josiahs-secret` (70 units) |
+| Betsey Bobbett: A Drama | have | PG 59271, `mholley-betsey-bobbett` (503 units) |
+| Josiah Allen on the Woman Question | have | PG 59283, `mholley-josiah-allen-on-the-woman-question` (525 units) |
+| Samantha on the Race Problem | have | PG 61608, `mholley-samantha-on-the-race-problem` (2598 units) |
+| My Wayward Pardner; or, My Trials with Josiah, America, the Widow Bump, and Etcetery | have | PG 63859, `mholley-my-wayward-pardner` (1690 units) |
+| Josiah Allen's Wife as a P. A. and P. I.: Samantha at the Centennial. Designed As a Bright and Shining Light, to Pierce the Fogs of Error and Injustice That Surround Society and Josiah, and to Bring More Clearly to View the Path That Leads Straight on to Virtue and Happiness. | have | PG 64621, `mholley-josiah-allens-wife-as-a-p-a-and-p-i` (2004 units) |
+| Samantha Among the Colored Folks: "My Ideas on the Race Problem" | have | PG 66411, `mholley-samantha-among-the-colored-folks` (2636 units) |
+| Samantha in Europe | have | PG 66972, `mholley-samantha-in-europe` (4257 units) |
+| Samantha on Children's Rights | have | PG 67174, `mholley-samantha-on-childrens-rights` (1527 units) |
+| Tirzah Ann's summer trip, and other sketches | have | PG 74177, `mholley-tirzah-anns-summer-trip-and-other-sketches` (702 units) |
