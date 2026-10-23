@@ -9724,3 +9724,13 @@ Shelf: `pipeline/albert-a-trever_shelf.json`. A History of Greek Economic Though
 |---|---|---|---|
 | A History of Greek Economic Thought (1916) |  | `trever-greek-economic-thought-1916` | have-raw (IA `historyofgreekec01trev`) |
 
+
+## J. H. E. Crees (1882-1941)
+
+Shelf: `pipeline/j-h-e-crees_shelf.json`. Claudian (1908) and the Emperor Probus (1911). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Claudian as an Historical Authority (1908) |  | `crees-claudian-historical-authority-1908` | have-raw (IA `claudianashistor00creeuoft`) |
+| The Reign of the Emperor Probus (1911) |  | `crees-reign-emperor-probus-1911` | have-raw (IA `reignofemperorpr00creerich`) |
+

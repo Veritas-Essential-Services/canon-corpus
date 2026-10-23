@@ -1,0 +1,51 @@
+{
+ "_about": "J. H. E. Crees (1882-1941): Claudian as an Historical Authority (1908) and The Reign of the Emperor Probus (1911). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "James Harold Edward Crees (1882-1941)",
+ "_name_words": [
+  "crees",
+  "probus",
+  "claudian",
+  "emperor",
+  "historical"
+ ],
+ "_surname": [
+  "crees"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "crees-claudian-historical-authority-1908": [
+   "claudianashistor00creeuoft",
+   "Claudian as an Historical Authority (1908)"
+  ],
+  "crees-reign-emperor-probus-1911": [
+   "reignofemperorpr00creerich",
+   "The Reign of the Emperor Probus (1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "crees-claudian-historical-authority-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crees",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "crees-reign-emperor-probus-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crees",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
