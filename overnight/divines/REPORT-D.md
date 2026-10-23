@@ -2093,3 +2093,6 @@
 
 ## 2026-10-22 22:44 CDT — j-macdonald-oxley: done
 - j-macdonald-oxley: new shelf, 10 Gutenberg books, 8,372 units, 79 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:45 CDT — john-oxenham: done
+- john-oxenham: new shelf, 10 Gutenberg books, 20,971 units, 897 ~2 ids; verify 0 mismatches, 0 rights flags.

@@ -15767,3 +15767,20 @@ Shelf: `pipeline/j-macdonald-oxley_shelf.json` (2026-10-22; added at the coordin
 | My Strange Rescue, and Other Stories of Sport and Adventure in Canada | have | PG 51308, `jmoxley-my-strange-rescue-and-other-stories-of-sport-and-adv` (1595 units) |
 | With Rogers on the Frontier: A Story of 1756 | have | PG 53560, `jmoxley-with-rogers-on-the-frontier` (1286 units) |
 | The Family on Wheels | have | PG 55891, `jmoxley-family-on-wheels` (1165 units) |
+
+## John Oxenham
+
+Shelf: `pipeline/john-oxenham_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and other writing. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Bees in Amber: A Little Book of Thoughtful Verse | have | PG 9989, `joxenham-bees-in-amber` (393 units) |
+| A Maid of the Silver Sea | have | PG 14832, `joxenham-maid-of-the-silver-sea` (2314 units) |
+| Pearl of Pearl Island | have | PG 15259, `joxenham-pearl-of-pearl-island` (2178 units) |
+| Carette of Sark | have | PG 16666, `joxenham-carette-of-sark` (2500 units) |
+| 'All's Well!' | have | PG 27126, `joxenham-alls-well` (397 units) |
+| Maid of the Mist | have | PG 37954, `joxenham-maid-of-the-mist` (2699 units) |
+| White Fire | have | PG 38061, `joxenham-white-fire` (2238 units) |
+| The Coil of Carne | have | PG 53819, `joxenham-coil-of-carne` (3845 units) |
+| "1914" | have | PG 66846, `joxenham-1914` (2701 units) |
+| Hearts in exile | have | PG 76194, `joxenham-hearts-in-exile` (1706 units) |
