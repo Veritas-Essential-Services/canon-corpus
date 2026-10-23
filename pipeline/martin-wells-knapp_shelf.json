@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain Martin Wells Knapp, Methodist holiness evangelist and founder of God's Bible School in Cincinnati, for the Word Hoard: Christ Crowned Within, Out of Egypt into Canaan, Revival Tornadoes, Impressions, The Double Cure, Lightning Bolts from Pentecostal Skies, and The River of Death and its Branches. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 130 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "martin wells knapp",
+  "martin w. knapp",
+  "m. w. knapp",
+  "knapp"
+ ],
+ "_surname": [
+  "knapp"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "knapp-christ-crowned-within": [
+   "christcrownedwit0000mart",
+   "Christ Crowned Within (catalogued 1886)"
+  ],
+  "knapp-out-of-egypt": [
+   "outofegyptintoca0000knap",
+   "Out of Egypt into Canaan : or, Lessons in spiritual geography ([s.l. : s.n.], 1888)"
+  ],
+  "knapp-revival-tornadoes": [
+   "revivaltornadoes0000knap",
+   "Revival tornadoes : or, life and labors of Rev. Joseph H. Weber, evangelist, the converted Roman Catholic (Boston, Mass. : McDonald, Gill ; Albion, Mich. : Revivalist Pub. Co., 1889)"
+  ],
+  "knapp-impressions": [
+   "impressions0000mart",
+   "\"Impressions\" (Nazarene Publishing House, 1892)"
+  ],
+  "knapp-double-cure": [
+   "doublecure00knap",
+   "The double cure (Revivalist, 1895)"
+  ],
+  "knapp-lightning-bolts": [
+   "lightningboltsfr0000knap",
+   "Lightning bolts from pentecostal skies : or, Devices of the devil unmasked (Cincinnati, Ohio : Office of the Revivalist, Full Salvation Quarterly, and Pentecostal Holiness Library, 1898)"
+  ],
+  "knapp-river-of-death": [
+   "riverofdeathitsb00knap",
+   "The river of death and its branches (Cincinnati : M.W. Knapp, 1898)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "knapp-songs": "Bible Songs of Salvation and Victory is a songbook of many writers",
+  "knapp-diary": "Diary Letters (1918) is by another Knapp",
+  "knapp-dups": "the microform copy of Out of Egypt",
+  "nonlinearellipti0000unse": "catalogued as Revival Kindlings, but the scan is a modern mathematics book"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "knapp-christ-crowned-within": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knapp-out-of-egypt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knapp-revival-tornadoes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knapp-impressions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knapp-double-cure": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knapp-lightning-bolts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "knapp-river-of-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "knapp",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

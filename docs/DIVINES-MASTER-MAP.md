@@ -19045,6 +19045,24 @@ Slugs `mcconkey-*`. Built from title pages read for round 130.
 | Life talks; a series of Bible talks on the Christian life (Harrisburg, Pa., F. Kelker, 1911) | have-ocr | IA `lifetalksserieso00mcco` |
 | THE BOOK OF REVELATION (Silver Publishing Society, 1921) | have-ocr | IA `bookofrevelation0000jame_j4h9` |
 | other scans of Prayer and The Surrendered Life | excluded | |
+
+## Martin Wells Knapp (round 130, my pick, 2026-10-23)
+
+Slugs `knapp-*`. Built from title pages read for round 130.
+
+| Work | Status | Where |
+|---|---|---|
+| Christ Crowned Within (catalogued 1886) | have-ocr | IA `christcrownedwit0000mart` |
+| Out of Egypt into Canaan : or, Lessons in spiritual geography ([s.l. : s.n.], 1888) | have-ocr | IA `outofegyptintoca0000knap` |
+| Revival tornadoes : or, life and labors of Rev. Joseph H. Weber, evangelist, the converted Roman Catholic (Boston, Mass. : McDonald, Gill ; Albion, Mich. : Revivalist Pub. Co., 1889) | have-ocr | IA `revivaltornadoes0000knap` |
+| "Impressions" (Nazarene Publishing House, 1892) | have-ocr | IA `impressions0000mart` |
+| The double cure (Revivalist, 1895) | have-ocr | IA `doublecure00knap` |
+| Lightning bolts from pentecostal skies : or, Devices of the devil unmasked (Cincinnati, Ohio : Office of the Revivalist, Full Salvation Quarterly, and Pentecostal Holiness Library, 1898) | have-ocr | IA `lightningboltsfr0000knap` |
+| The river of death and its branches (Cincinnati : M.W. Knapp, 1898) | have-ocr | IA `riverofdeathitsb00knap` |
+| Bible Songs of Salvation and Victory is a songbook of many writers | excluded | |
+| Diary Letters (1918) is by another Knapp | excluded | |
+| the microform copy of Out of Egypt | excluded | |
+| catalogued as Revival Kindlings, but the scan is a modern mathematics book | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
