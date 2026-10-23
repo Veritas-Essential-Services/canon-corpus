@@ -17904,3 +17904,16 @@ Slugs `halpin-*`. Built from title pages read for round 119.
 | Apologetica : elementary apologetics for pulpit and pew (New York, N.Y. : J.F. Wagner, 1904) | have-ocr | IA `apologeticaeleme00halprich` |
 | A young woman's problems (J. F. Wagner, 1905) | have-ocr | IA `youngwomansprobl0000paha` |
 | christianpedagog00halp (catalogued ) | have-ocr | IA `christianpedagog00halp` |
+
+## Jerom Alley (round 119, my pick, 2026-10-23)
+
+Slugs `alley-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| A comparative view of the lives of Henry the Fourth of France, and William the Third of England. Being an essay, to which the prize, proposed by His Excellency the Lord Lieutenant of Ireland, was adjudged, in Hillary term, 1778. By Jerom Alley.  1778 (catalogued 1778) | have-ocr | IA `bim_eighteenth-century_a-comparative-view-of-th_alley-jerom_1778` |
+| Historical essays on the lives of Augustus Cæsar; and Lewis XIV. ... to which the prizes proposed ... To which are added, the Widowed queen; ... By the Rev. Jerom Alley  1782 (catalogued 1782) | have-ocr | IA `bim_eighteenth-century_historical-essays-on-the_alley-jerom_1782` |
+| A review of the political principles of the modern Whigs. In a second letter addressed to the Right Hon. Lord Sheffield. By the Rev. Jerom Alley, ...  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_a-review-of-the-politica_alley-jerom_1792` |
+| Observations on the government and constitution of Great Britain, including a vindication of both from the aspersions of some late writers, particularly Dr. Price, Dr. Priestley, and Mr. Paine; in a letter to the Right Honourable Lord Sheffield, by the Rev. Jerom Alley, ...  1792 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_observations-on-the-gove_alley-jerom_1792` |
+| The judge : or, An estimate of the importance of the judicial character, occasioned by the death of the late Lord Clare, Lord Chancellor of Ireland. A poem, in three cantos (London : Printed by J. Swan ... for Vernor and Hood, Poultry, 1803) | have-ocr | IA `judgeorestimateo00alle` |
+| Vindiciae Christianae : a comparative estimate of the genius and temper of the Greek, the Roman, the Hindu, the Mahometan, and the Christian religions (London : Printed for T. Cadell ..., 1826) | have-ocr | IA `vindiciaechrist00allegoog` |
