@@ -1,0 +1,34 @@
+{
+ "_about": "Frederic Huidekoper (1817-1892), Unitarian scholar at Meadville: Judaism at Rome, B.C. 76 to A.D. 140 (1876; this copy 1880). His Christology studies are outside lane B. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Frederic Huidekoper (1817-1892)",
+ "_name_words": [
+  "huidekoper",
+  "judaism",
+  "rome"
+ ],
+ "_surname": [
+  "huidekoper"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "huidekoper-judaism-at-rome": [
+   "judaismatromeb00huid",
+   "Judaism at Rome, B.C. 76 to A.D. 140 (1876; this printing 1880)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "huidekoper-judaism-at-rome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "huidekoper",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -9468,3 +9468,12 @@ Shelf: `pipeline/maurice-pellisson_shelf.json`. Roman Life in Pliny's Time, tr. 
 |---|---|---|---|
 | Roman Life in Pliny's Time (1897), tr. Maud Wilkinson |  | `pellisson-roman-life-plinys-time-1897` | have-raw (IA `romanlifeinplin00pellgoog`) |
 
+
+## Frederic Huidekoper (1817-1892)
+
+Shelf: `pipeline/frederic-huidekoper_shelf.json`. Judaism at Rome (1876). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Judaism at Rome, B.C. 76 to A.D. 140 (1876; this printing 1880) |  | `huidekoper-judaism-at-rome` | have-raw (IA `judaismatromeb00huid`) |
+
