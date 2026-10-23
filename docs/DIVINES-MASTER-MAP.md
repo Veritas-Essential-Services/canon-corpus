@@ -23209,12 +23209,20 @@ Round 29 (2026-10-10), vetoable. Goldoni's Good-Humoured Ladies (1922) added in 
 ## L. Dora Schmitz (Haeckel's History of Creation, 2 vols)
 
 Shelf: `pipeline/dora-schmitz_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dora-schmitz` · titles `python3 pipeline/split_shelf_titles.py dora-schmitz`.
-Round 29 (2026-10-10), vetoable. Schliemann stays on its own shelf. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Schliemann stays on its own shelf. Round 150 (2026-10-23) added eight archive.org scans: Elze, Ulrici, the Schiller-Goethe Correspondence, Stinde and Schiller's Revolt (with Morrison). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `dora-schmitz-haeckel-the-history-of-creation-vol-1` | Ernst Haeckel | The History of Creation, Vol. 1 (of 2) | L. Dora Schmitz | 1876 (see the Gutenberg header) | have | PG 40472 |
 | `dora-schmitz-haeckel-the-history-of-creation-vol-2` | Ernst Haeckel | The History of Creation, Vol. 2 (of 2) | L. Dora Schmitz | 1876 (see the Gutenberg header) | have | PG 40473 |
+| `dora-schmitz-stinde-the-buchholz-family` | Julius Stinde | The Buchholz Family: Sketches of Berlin Life | L. Dora Schmitz | 1887 | have-raw | IA `buchholzfamilysk0000unse` |
+| `dora-schmitz-correspondence-between-schiller-and-goethe-1` | Friedrich Schiller and J. W. von Goethe | Correspondence between Schiller and Goethe, from 1794 to 1805, vol. I | L. Dora Schmitz | 1877 | have-raw | IA `correspondenceb00schmgoog` |
+| `dora-schmitz-correspondence-between-schiller-and-goethe-2` | Friedrich Schiller and J. W. von Goethe | Correspondence between Schiller and Goethe, from 1794 to 1805, vol. II (1798-1805) | L. Dora Schmitz | 1877 | have-raw | IA `correspondencebe02schi` |
+| `dora-schmitz-elze-essays-on-shakespeare` | Karl Elze | Essays on Shakespeare | L. Dora Schmitz | 1874 | have-raw | IA `essaysonshakesp00elzegoog` |
+| `dora-schmitz-ulrici-shakspeares-dramatic-art-1` | Hermann Ulrici | Shakspeare's Dramatic Art: History and Character of Shakspeare's Plays, vol. I | L. Dora Schmitz | 1876 | have-raw | IA `shakspearesdram02ulrigoog` |
+| `dora-schmitz-ulrici-shakspeares-dramatic-art-2` | Hermann Ulrici | Shakspeare's Dramatic Art: History and Character of Shakspeare's Plays, vol. II | L. Dora Schmitz | 1876 | have-raw | IA `shakspearesdram05ulrigoog` |
+| `dora-schmitz-elze-william-shakespeare` | Karl Elze | William Shakespeare: a Literary Biography | L. Dora Schmitz | 1888 | have-raw | IA `williamshakespea00elzeuoft` |
+| `dora-schmitz-schiller-revolt-of-the-united-netherlands` | Friedrich Schiller | The History of the Revolt of the United Netherlands, with the Trial of Counts Egmont and Horn and the Siege of Antwerp | A. J. W. Morrison and L. Dora Schmitz | 1897 | have-raw | IA `revoltunitednet00schmgoog` |
 | — | — | pg-45190: Schliemann's Troy and Its Remains is on schliemann_shelf.json. | — | — | excluded | — |
 
 ## Frances A. Welby (Flammarion; Ostwald's Gorki; Ribot)
@@ -23327,7 +23335,7 @@ Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Denis Florence MacCarthy (four Calderón dramas)
 
 Shelf: `pipeline/denis-maccarthy_shelf.json` · fetch `python3 pipeline/fetch_shelf.py denis-maccarthy` · titles `python3 pipeline/split_shelf_titles.py denis-maccarthy`.
-Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 30 (2026-10-10), vetoable. Round 150 (2026-10-23) added three Calderón plays in one volume (1861). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23335,6 +23343,7 @@ Round 30 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `denis-maccarthy-calderon-the-purgatory-of-st-patrick` | Pedro Calderón de la Barca | The Purgatory of St. Patrick | Denis Florence MacCarthy | 1853-1873 (see the Gutenberg header) | have | PG 6371 |
 | `denis-maccarthy-calderon-the-two-lovers-of-heaven-chrysanthus-and` | Pedro Calderón de la Barca | The Two Lovers of Heaven: Chrysanthus and Daria A Drama of Early Christian Rome | Denis Florence MacCarthy | 1853-1873 (see the Gutenberg header) | have | PG 12173 |
 | `denis-maccarthy-calderon-the-wonder-working-magician` | Pedro Calderón de la Barca | The Wonder-Working Magician | Denis Florence MacCarthy | 1853-1873 (see the Gutenberg header) | have | PG 6372 |
+| `denis-maccarthy-calderon-love-the-greatest-enchantment` | Pedro Calderón de la Barca | Love the Greatest Enchantment; The Sorceries of Sin; The Devotion of the Cross | Denis Florence MacCarthy | 1861 | have-raw | IA `lovegreatestenc00maccgoog` |
 
 ## Hannibal Evans Lloyd (Prince Maximilian of Wied's Travels, 3 parts; Iffland)
 
