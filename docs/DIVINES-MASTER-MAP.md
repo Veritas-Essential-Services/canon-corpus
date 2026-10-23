@@ -18547,6 +18547,18 @@ Shelf: `pipeline/j-c-stobart_shelf.json`. The Glory that was Greece; The Grandeu
 | The Glory that was Greece: a Survey of Hellenic Culture and Civilisation (1911) |  | `stobart-glory-that-was-greece-1911` | have-raw (IA `cu31924028257255`) |
 | The Grandeur that was Rome: a Survey of Roman Culture and Civilisation (1920 printing) |  | `stobart-grandeur-that-was-rome-1920` | have-raw (IA `cu31924028254377`) |
 
+
+## Edward Capps (1866-1950)
+
+Shelf: `pipeline/edward-capps_shelf.json`. Greek literature manual and the Greek stage. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| From Homer to Theocritus: an Outline History of Classical Greek Literature with Selected Translations (1900) |  | `capps-homer-to-theocritus-1901` | have-raw (IA `homertotheocritu00capprich`) |
+| The Stage in the Greek Theatre according to the Extant Dramas (1891) |  | `capps-stage-greek-theatre-1891` | have-raw (IA `stageingreekthea00capp`) |
+
+Excluded: fromhomertotheo00cappgoog (IA) (fetch failed 2026-10-23; the 1900 printing homertotheocritu00capprich used instead)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
