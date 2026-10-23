@@ -7786,6 +7786,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T03:29:28-05:00",
       "notes": "15 books, 1883-1919: devotional and theological books and two lives. Edited works and literary books excluded; Professor Elmslie memoir pending (undated reissue)."
+    },
+    {
+      "id": "henry-wace",
+      "status": "done",
+      "scope": "round 69",
+      "added": "2026-10-23T03:29:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T03:29:29-05:00",
+      "notes": "13 books, 1877-1923. Edited works and the 1889 many-author controversy excluded; On Agnosticism (1903) pending, its only scan carries another book's text."
     }
   ]
 }

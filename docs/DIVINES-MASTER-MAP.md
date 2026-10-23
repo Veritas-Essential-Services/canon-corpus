@@ -13280,6 +13280,28 @@ Slugs `nicoll-*`. Built from title pages read for round 69.
 | Professor Elmslie: a Memoir (London: Hodder and Stoughton, undated reissue of the 1890 memoir; professorelmslie0000nico): its printing year cannot be read, so held; the 1890 Memoir and Sermons is co-edited with A. N. Macnicol | pending | not shelved |
 | works he edited (The Expositor, The Expositor's Bible, The Expositor's Greek Testament, The Theological Educator, Songs of Rest, Fox's Journal) | excluded | |
 | his literary books (the Claudius Clear essays, Letters on Life, The Round of the Clock, Literary Anecdotes, Edwin Drood, Stevenson, A Library for Five Pounds); books by Henry J. Nicoll, another author | excluded | |
+
+## Henry Wace (round 69, my pick, 2026-10-23)
+
+Slugs `wace-*`. Built from title pages read for round 69.
+
+| Work | Status | Where |
+|---|---|---|
+| Christianity and morality, or, The correspondence of the gospel with the moral nature of man (London : B.M. Pickering, 1877) | have-ocr | IA `christianitymora00wace` |
+| The foundations of faith considered in eight sermons preached before the University of Oxford in the year MDCCCLXXIX (London : Pickering & Co., 1880) | have-ocr | IA `foundationsoffai00wace` |
+| The Gospel and its witnesses : some of the chief facts in the life of our Lord and the authority of the evangelical narratives considered in lectures chiefly preached at St. James's, Westminster (London : J. Murray, 1883) | have-ocr | IA `gospelitswitness00wace` |
+| Some central points of our Lord's ministry (London : Hodder and Stoughton, 1890) | have-ocr | IA `somecentralpoint00wace` |
+| Christianity and agnosticism; reviews of some recent attacks on the Christian faith (New York, T. Whittaker; Edinburgh [etc.] W. Blackwood and sons, 1895) | have-ocr | IA `christianityagno00wacerich` |
+| The sacrifice of Christ, its vital reality and efficacy (New York, Macmillan, 1898) | have-ocr | IA `sacrificeofchris00wace_0` |
+| The Bible and modern investigation : three lectures delivered to clergy at Norwich at the request of the Bishop with an address on the authority of Holy Scripture (London : Society for Promoting Christian Knowledge, 1903) | have-ocr | IA `biblemoderninves00wace` |
+| Principles of the Reformation, Practical and Historical (New York: American Tract Society, undated; library-catalogued 1911; first published 1910) | have-ocr | IA `principlesofrefo00wace` |
+| Prophecy, Jewish and Christian : considered in a series of Warburton lectures at Lincoln's Inn (Milwaukee : Young Churchman, 1911) | have-ocr | IA `prophecyjewishch00wace` |
+| The Christian sanction of war, address at the service of intercession for the King's Naval and Military forces, held in Canterbury Cathedral, August 9th, 1914 (London, Thynne, 1914) | have-ocr | IA `christiansanctio00wace` |
+| The war and the gospel : sermons & addresses during the present war (London : C.J. Thynne, 1917) | have-ocr | IA `wargospelserm00waceuoft` |
+| The story of the passion : its own message considered in addresses (London : John Murray, 1922) | have-ocr | IA `storyofpassion00waceuoft` |
+| The Story of the Resurrection (London: John Murray; undated in this scan, catalogued 1923) | have-ocr | IA `bwb_C0-AJV-428` |
+| On Agnosticism: Replies to the late Professor Huxley (London: SPCK, 1903): the only scan found (onagnosticismrep00waceuoft) carries the text of another book, G. A. Raybold's Reminiscences of Methodism in West Jersey (1849); held until a good scan turns up | pending | not shelved |
+| works he edited or co-edited (Dictionary of Christian Biography, Nicene and Post-Nicene Fathers second series, the Speaker's Commentary Apocrypha, Church and Faith, the Fulham conference reports); Christianity and Agnosticism: a Controversy (1889, papers by several hands); First Principles of the Reformation (1883, his and Buchheim's translation of Luther) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
