@@ -43826,3 +43826,16 @@ Shelf: `pipeline/bracebridge-hemyng_shelf.json` (2026-10-22; added at the coordi
 | The Slave of the Mine; or, Jack Harkaway in 'Frisco | have | PG 46653, `bhemyng-slave-of-the-mine` (1389 units) |
 | Young Jack Harkaway Fighting the Pirates of the Red Sea | have | PG 59012, `bhemyng-young-jack-harkaway-fighting-the-pirates-of-the-red` (1910 units) |
 | The fool of the family | have | PG 72372, `bhemyng-fool-of-the-family` (2178 units) |
+
+## L. P. Gratacap
+
+Shelf: `pipeline/l-p-gratacap_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (6 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Certainty of a Future Life in Mars Being the Posthumous Papers of Bradford Torrey Dodd | have | PG 13289, `lpgratacap-certainty-of-a-future-life-in-mars-being-the-post` (594 units) |
+| A Woman of the Ice Age | have | PG 55949, `lpgratacap-woman-of-the-ice-age` (534 units) |
+| The End: How the Great War Was Stopped. A Novelistic Vagary | have | PG 65463, `lpgratacap-end` (657 units) |
+| The Evacuation of England: The Twist in the Gulf Stream | have | PG 65588, `lpgratacap-evacuation-of-england` (542 units) |
+| The new northland | have | PG 69925, `lpgratacap-new-northland` (1362 units) |
+| The Mayor of New York | have | PG 79541, `lpgratacap-mayor-of-new-york` (1605 units) |
