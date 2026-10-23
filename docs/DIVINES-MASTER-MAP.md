@@ -10300,6 +10300,18 @@ Slugs `lowth-*`. Built from title pages read for round 42.
 | A Letter to the Right Reverend Author of the Divine Legation (third edition, London 1766; IA cu31924102766080): its title page reads only 'By a late Professor in the University of Oxford'. It is Lowth's by universal attribution, but the page names nobody, so it waits for Adam | pending | not shelved |
 | Isaiah 1815; the 1787 Gregory translation of the Lectures (India copies); De sacra poesi Hebraeorum 1753 (Latin original) | alternate | not shelved |
 | A Short Introduction to English Grammar: not divinity | excluded | |
+
+## Richard Field (Dean of Gloucester) (round 42, my pick, 2026-10-22)
+
+Slugs `field-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Of the church, five books, vol. 1 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook01fiel` |
+| Of the church, five books, vol. 2 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook02fiel` |
+| Of the church, five books, vol. 3 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook03fiel` |
+| Of the church, five books, vol. 4 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook04fiel` |
+| The Google copies (churchfivebooks00-03fielgoog) | alternate | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
