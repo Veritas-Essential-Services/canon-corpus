@@ -135,5 +135,70 @@
  },
  "_rights_checked": {
   "caesar-holmes-gallic-war-1908": "London: Macmillan; the preface is dated October 16, 1908. US PD by date; Holmes died in 1933, so UK PD since 2004 (death year from general reference, not from this book)"
+ },
+ "perseus": {
+  "caesar-perseus-peskett-the-civil-wars": [
+   "phi0448.phi002.perseus-eng2",
+   "The Civil Wars",
+   "Arthur George Peskett",
+   "Translation published 1914: US public domain (in or before 1930). Perseus source line: Julius Caesar. The Civil Wars. Peskett, Arthur George, translator. London, UK: William Heinemann; New York, NY, 1914."
+  ],
+  "caesar-perseus-duncan-commentaries-on-the-civil-war": [
+   "phi0448.phi002.perseus-eng3",
+   "Commentaries on the Civil War",
+   "William Duncan",
+   "Translation published 1856: US public domain (in or before 1930). Perseus source line: Julius Caesar. The Commentaries of Caesar. Duncan, William, translator. St. Louis: Edwards and Bushnell, 1856."
+  ]
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ },
+ "_perseus_checks": {
+  "caesar-perseus-peskett-the-civil-wars": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0448.phi002.perseus-eng2",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Peskett",
+   "author_seen": "caesar",
+   "source_years": [
+    1914
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0448/phi002/phi0448.phi002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "caesar-perseus-duncan-commentaries-on-the-civil-war": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0448.phi002.perseus-eng3",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Duncan",
+   "author_seen": "caesar",
+   "source_years": [
+    1856
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0448/phi002/phi0448.phi002.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
  }
 }
