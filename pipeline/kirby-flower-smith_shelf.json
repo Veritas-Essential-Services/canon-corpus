@@ -1,5 +1,5 @@
 {
- "_about": "Kirby Flower Smith, Professor of Latin at Johns Hopkins, raw IA OCR of Martial the Epigrammatist and Other Essays (1920). Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_about": "Kirby Flower Smith, Professor of Latin at Johns Hopkins, raw IA OCR of Martial the Epigrammatist and Other Essays (1920). Latin poetry (lane B, round dz: sixth IA subject sweep). No uids minted.  Round ea adds his Tibullus (1913; Latin-dense, kept under the Greek/Latin-facing ruling).",
  "_author": "Kirby Flower Smith",
  "_name_words": [
   "smith"
@@ -13,6 +13,10 @@
   "kirby-flower-smith-martial-the-epigrammatist-1920": [
    "martialepigramma00smituoft",
    "Martial the Epigrammatist and Other Essays, by Kirby Flower Smith (Baltimore: Johns Hopkins Press, 1920)"
+  ],
+  "kirby-flower-smith-elegies-of-tibullus-1913": [
+   "elegiesofalbiust00tibu",
+   "The Elegies of Albius Tibullus: the Corpus Tibullianum, edited with introduction and notes on books I, II and IV, 2-14 by Kirby Flower Smith (Morris and Morgan's Latin Series; New York: American Book Company; copyright 1913)"
   ]
  },
  "_excluded": {},
@@ -26,6 +30,17 @@
    "ia_rights": "ok: published 1920",
    "ia_date": "1920",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "kirby-flower-smith-elegies-of-tibullus-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kirby flower smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }
