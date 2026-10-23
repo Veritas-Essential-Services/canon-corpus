@@ -2184,6 +2184,7 @@ Shelf: `pipeline/dionysius-halicarnassus_shelf.json`. Roberts, On Literary Compo
 | The Roman Antiquities of Dionysius Halicarnassensis, vol. 2 (London, 1758) | Edward Spelman | `dionysius-spelman-v2` | have-raw (IA `romanantiquities02dion`) |
 | The Roman Antiquities of Dionysius Halicarnassensis, vol. 3 (London, 1758) | Edward Spelman | `dionysius-spelman-v3` | have-raw (IA `romanantiquities03dion`) |
 | The Roman Antiquities of Dionysius Halicarnassensis, vol. 4 (London, 1758) | Edward Spelman | `dionysius-spelman-v4` | have-raw (IA `romanantiquities04dion`) |
+| The Three Literary Letters, the Greek text edited with English translation, notes and an essay by W. Rhys Roberts (Cambridge, 1901); Greek text facing, kept per Adam's 2026-10-23 ruling |  | `dionysius-roberts-three-literary-letters-1901` | have-raw (IA `threeliterarylet00dionuoft`) |
 
 Pending (wishlist): none known (Spelman's Roman Antiquities, 1758, is held above)
 
