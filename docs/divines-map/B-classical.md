@@ -9949,3 +9949,12 @@ Shelf: `pipeline/w-h-goodyear_shelf.json`. Greek Refinements (1912). Not minted.
 |---|---|---|---|
 | Greek Refinements: Studies in Temperamental Architecture (1912) |  | `goodyear-greek-refinements-1912` | have-raw (IA `greekrefinement02goodgoog`) |
 
+
+## W. R. Lethaby (1857-1931)
+
+Shelf: `pipeline/w-r-lethaby_shelf.json`. Greek Buildings in the British Museum (1908). Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Greek Buildings Represented by Fragments in the British Museum (1908) |  | `lethaby-greek-buildings-1908` | have-raw (IA `cu31924008732806`) |
+
