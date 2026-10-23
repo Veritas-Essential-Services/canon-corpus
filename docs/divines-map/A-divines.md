@@ -16861,3 +16861,18 @@ Slugs `awoodbury-*`. Built from title pages read for round 107.
 | The President and Congress. A discourse preached in the Westminster Congregational church, Sunday evening, May 6, 1866 (Providence, G. H. Whitney, 1866) | have-ocr | IA `presidentcongres00wood` |
 | A narrative of the campaign of the First Rhode Island regiment, in the spring and summer of 1861 (Providence : Sidney S. Rider, 1862) | have-ocr | IA `woodburynarrative00augurich` |
 | Major General Ambrose E. Burnside and the Ninth Army Corps : a narrative of campaigns in North Carolina, Maryland, Virginia, Ohio, Kentucky, Mississippi and Tennessee, during the war for the preservation of the Republic (Providence, S.S. Rider & Brother, 1867) | have-ocr | IA `ambroseburnside00woodrich` |
+
+## Edward Caswall (round 107, my pick, 2026-10-23)
+
+Slugs `caswall-*`. Built from title pages read for round 107.
+
+| Work | Status | Where |
+|---|---|---|
+| Lyra Catholica: containing all the Breviary and Missal hymns, with others from various sources (London : James Burns, 1849) | have-ocr | IA `LyraCatholica` |
+| Sermons on the seen and unseen (London : James Burns, 1846) | have-ocr | IA `sermonsonseenuns00casw` |
+| The masque of Mary and other poems (London : Burns & Oates ; New York : Catholic Pub. Society, 1800) | have-ocr | IA `masthe00casw` |
+| Verba Verbi. The words of Jesus arranged in order of time: as a daily companion, epitome of the Gospel, and treasury of mental prayer (London, Burns & Lambert, 1855) | have-ocr | IA `VerbaVerbi` |
+| The child's manual : forty days' meditations on the chief truths of religion, as contained in the Church catechism (London : James Burns, 1846) | have-ocr | IA `TheChildsManual` |
+| Morals from the churchyard : in a series of cheerful fables (London : Chapman and Hall, 1838) | have-ocr | IA `MoralsFromTheChurchyard` |
+| His comic Oxford and "Quiz" sketches (Art of Pluck, Sketches of Young Ladies) are left to a literary lane | excluded | |
+| Hymeneal53603 (catalogue attribution doubtful) | excluded | |
