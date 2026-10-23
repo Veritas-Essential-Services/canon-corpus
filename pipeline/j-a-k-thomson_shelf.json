@@ -1,5 +1,5 @@
 {
- "_about": "J. A. K. Thomson (1879-1959), Aberdeen and King's College London: Studies in the Odyssey (1914), The Greek Tradition (1915, preface by Gilbert Murray) and Greeks and Barbarians (1921). Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_about": "J. A. K. Thomson (1879-1959), Aberdeen and King's College London: Studies in the Odyssey (1914), The Greek Tradition (1915, preface by Gilbert Murray) and Greeks and Barbarians (1921). Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted. PG 55792 added (lane B, round dk: clean Gutenberg witness).",
  "_author": "James Alexander Kerr Thomson (1879-1959)",
  "_name_words": [
   "thomson",
@@ -13,7 +13,12 @@
   "kerr thomson"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "thomson-greeks-barbarians-pg": [
+   55792,
+   "Greeks and Barbarians (1921), clean Gutenberg text"
+  ]
+ },
  "internet_archive": {
   "thomson-studies-in-the-odyssey-1914": [
    "studiesinodyssey0000thom",
@@ -30,6 +35,15 @@
  },
  "_excluded": {},
  "_checks": {
+  "thomson-greeks-barbarians-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. k. thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "thomson-studies-in-the-odyssey-1914": {
    "kind": "ia",
    "checked": "2026-10-23",
