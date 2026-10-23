@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Richard Field (1561-1616), Dean of Gloucester, for the Word Hoard: Of the Church, Five Books (Cambridge: Ecclesiastical History Society, 1847-1852, four volumes), from Internet Archive scans. Not the London printer Richard Field. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "field"
+ ],
+ "_surname": [
+  "richard field"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "field-of-the-church-1": [
+   "ofchurchfivebook01fiel",
+   "Of the church, five books, vol. 1 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847)"
+  ],
+  "field-of-the-church-2": [
+   "ofchurchfivebook02fiel",
+   "Of the church, five books, vol. 2 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847)"
+  ],
+  "field-of-the-church-3": [
+   "ofchurchfivebook03fiel",
+   "Of the church, five books, vol. 3 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847)"
+  ],
+  "field-of-the-church-4": [
+   "ofchurchfivebook04fiel",
+   "Of the church, five books, vol. 4 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847)"
+  ]
+ },
+ "_alternates": {
+  "field-copies": "The Google copies (churchfivebooks00-03fielgoog)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "field-of-the-church-2": "title page text: 'Of the Church, Five Books. By Richard Field, D.D., Dean of Gloucester. Vol. II' (the OCR fuses a stray mark onto the surname)",
+  "field-of-the-church-3": "title page text: 'Of the Church, Five Books. By Richard Field, D.D., Dean of Gloucester. Vol. III' (the OCR fuses a stray mark onto the surname)",
+  "field-of-the-church-4": "title page text: 'Of the Church, Five Books. By Richard Field, D.D., Dean of Gloucester. Vol. IV' (the OCR fuses a stray mark onto the surname)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "field-of-the-church-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard field",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "field-of-the-church-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "field-of-the-church-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "field-of-the-church-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

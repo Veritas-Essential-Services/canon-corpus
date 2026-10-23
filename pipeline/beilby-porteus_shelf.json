@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain Beilby Porteus (1731-1809), Bishop of London, evangelical and abolitionist, for the Word Hoard: his Lectures on the Gospel of St. Matthew, Sermons on Several Subjects, the Summary of the Principal Evidences for the Truth and Divine Origin of the Christian Revelation, and The Beneficial Effects of Christianity, from Internet Archive scans. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "porteus"
+ ],
+ "_surname": [
+  "beilby porteus",
+  "porteus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "porteus-lectures-matthew": [
+   "lecturesongospel00port",
+   "Lectures on the Gospel of St. Matthew : delivered in the parish church of St. James, Westminster, in the years 1798, 1799, 1800, and 1801 (New Haven : Printed for I. Cooke, 1803)"
+  ],
+  "porteus-sermons": [
+   "sermonsonseveral00portuoft",
+   "Sermons on several subjects (London : T. Cadell and W.Davies, 1810)"
+  ],
+  "porteus-summary-evidences": [
+   "asummaryprincip00portgoog",
+   "A Summary of the Principal Evidences for the Truth & Divine Origin of the Christian Revelation (Printed for Isaiah Thomas, Jun., 1808)"
+  ],
+  "porteus-beneficial-effects": [
+   "beneficialeffect0000port",
+   "The beneficial effects of Christianity : on the temporal concerns of mankind, proved from history and from facts (London : Printed by Luke Hansard ... for T. Cadell and W. Davies ... T. Payne ... and F.C. and J. Rivington ..., 1806)"
+  ]
+ },
+ "_alternates": {
+  "porteus-copies": "Other printings of the Lectures (London 1802, two volumes) and of the Sermons (1783-1808, Hartford 1806)"
+ },
+ "_excluded": {
+  "porteus-other": "The French translation Heureux effets (1808); the poetical anthologies that reprint his Death"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "porteus-lectures-matthew": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "porteus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "porteus-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beilby porteus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "porteus-summary-evidences": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "porteus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "porteus-beneficial-effects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "beilby porteus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

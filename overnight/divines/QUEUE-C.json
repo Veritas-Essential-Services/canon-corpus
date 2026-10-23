@@ -4016,6 +4016,14 @@
    "finished": "2026-10-22T23:27-05:00",
    "scope": "Bernard Miall on archive.org (sweep of Gutenberg-only translator shelves)",
    "notes": "26 titles on bernard-miall; 0 mismatched, 0 rights flags"
+  },
+  {
+   "id": "gapfill-r132-eden-cedar-paul",
+   "status": "done",
+   "started": "2026-10-22T23:33-05:00",
+   "finished": "2026-10-22T23:33-05:00",
+   "scope": "Eden and Cedar Paul on archive.org",
+   "notes": "15 titles on eden-cedar-paul; 0 mismatched, 0 rights flags"
   }
  ]
 }

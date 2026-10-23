@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Eden Paul (1865-1944) and Cedar Paul (1880-1972), who translated mostly as a pair: Stefan Zweig, Romain Rolland, Schnitzler's Casanova's Homecoming, Emil Ludwig's Napoleon and Diana, Loria's Karl Marx, and others. Printings before 1931 only. Their sexology translations are left out (see _excluded). US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Eden Paul (1865-1944) and Cedar Paul (1880-1972), who translated mostly as a pair: Stefan Zweig, Romain Rolland, Schnitzler's Casanova's Homecoming, Emil Ludwig's Napoleon and Diana, Loria's Karl Marx, and others. Printings before 1931 only. Their sexology translations are left out (see _excluded). US public domain. Added 2026-10-10 by lane C (round 24); Adam may veto. No uids minted. Round 132 (2026-10-23, vetoable) added fifteen archive.org books Gutenberg lacks: Emil Ludwig's Bismarck (1927), The Son of Man (1928) and On Mediterranean Shores (1929), Masaryk's The Spirit of Russia (1919, 2 vols), Michels's Political Parties (1915), Loria's The Economic Synthesis (1914), Ribbert's Heredity, Disease and Human Evolution (1918), Baudouin's Suggestion and Autosuggestion (1921) and Studies in Psychoanalysis (1922), Rathenau's In Days to Come (1921), Kolnai's Psychoanalysis and Sociology (1922), the Vaertings' The Dominant Sex (1923), Rosa Luxemburg's Letters from Prison (1923) and Stalin's Leninism (1928).",
  "_name_words": [
   "eden and cedar paul",
   "eden paul",
@@ -54,7 +54,73 @@
    "Casanova's Homecoming"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "ecp-ludwig-bismarck": [
+   "bismarckstoryoff00ludw",
+   "Bismarck"
+  ],
+  "ecp-ludwig-son-of-man": [
+   "sonofmanstoryofj00ludw",
+   "The Son of Man"
+  ],
+  "ecp-ludwig-on-mediterranean-shores": [
+   "dli.ernet.527884",
+   "On Mediterranean Shores",
+   "527884-Emil Ludwig On Mediterranean Shores_djvu.txt"
+  ],
+  "ecp-masaryk-spirit-of-russia-1": [
+   "dli.ministry.06464",
+   "The Spirit of Russia, vol. 1",
+   "11923.E15746_The_Spirit_Of_Russia_1_djvu.txt"
+  ],
+  "ecp-masaryk-spirit-of-russia-2": [
+   "india.history.resource.111290",
+   "The Spirit of Russia, vol. 2",
+   "111290_djvu.txt"
+  ],
+  "ecp-michels-political-parties": [
+   "politicalparties00mich",
+   "Political Parties"
+  ],
+  "ecp-loria-economic-synthesis": [
+   "economicsynthesi00loriuoft",
+   "The Economic Synthesis"
+  ],
+  "ecp-ribbert-heredity-disease": [
+   "hereditydiseaseh00ribbrich",
+   "Heredity, Disease and Human Evolution"
+  ],
+  "ecp-baudouin-suggestion-and-autosuggestion": [
+   "suggestionautosu00baud",
+   "Suggestion and Autosuggestion"
+  ],
+  "ecp-baudouin-studies-in-psychoanalysis": [
+   "studiesinpsychoa00baud",
+   "Studies in Psychoanalysis"
+  ],
+  "ecp-rathenau-in-days-to-come": [
+   "indaystocome00rathiala",
+   "In Days to Come"
+  ],
+  "ecp-kolnai-psychoanalysis-and-sociology": [
+   "psychoanalysisso00koln",
+   "Psychoanalysis and Sociology"
+  ],
+  "ecp-vaerting-dominant-sex": [
+   "dli.ministry.12051",
+   "The Dominant Sex",
+   "E00797_The_Dominant_Sex_djvu.txt"
+  ],
+  "ecp-luxemburg-letters-from-prison": [
+   "lettersfrompriso00luxe",
+   "Letters from Prison"
+  ],
+  "ecp-stalin-leninism": [
+   "in.ernet.dli.2015.217846",
+   "Leninism",
+   "2015.217846.Leninism_djvu.txt"
+  ]
+ },
  "titles": {
   "eden-cedar-paul-engel-the-elements-of-child-protection": {
    "source": "ecp-58787",
@@ -135,9 +201,135 @@
    "translated": "1915-1929 (see the Gutenberg header)",
    "translator": "Eden and Cedar Paul",
    "scan_edition": "Project Gutenberg 34888 (clean text)"
+  },
+  "eden-cedar-paul-ludwig-bismarck": {
+   "source": "ecp-ludwig-bismarck",
+   "of": "Emil Ludwig",
+   "work": "Bismarck: The Story of a Fighter",
+   "translated": 1927,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Lincoln History Society, New York (copyright 1927 by Little, Brown; the printing history ends \"Reprinted November, 1929\"); archive.org scan"
+  },
+  "eden-cedar-paul-ludwig-the-son-of-man": {
+   "source": "ecp-ludwig-son-of-man",
+   "of": "Emil Ludwig",
+   "work": "The Son of Man: The Story of Jesus",
+   "translated": 1928,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Garden City Publishing, Garden City, New York (1928); archive.org scan"
+  },
+  "eden-cedar-paul-ludwig-on-mediterranean-shores": {
+   "source": "ecp-ludwig-on-mediterranean-shores",
+   "of": "Emil Ludwig",
+   "work": "On Mediterranean Shores",
+   "translated": 1929,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "George Allen & Unwin, London, first published in Great Britain 1929; archive.org scan (Digital Library of India copy)"
+  },
+  "eden-cedar-paul-masaryk-the-spirit-of-russia-vol-1": {
+   "source": "ecp-masaryk-spirit-of-russia-1",
+   "of": "Thomas Garrigue Masaryk",
+   "work": "The Spirit of Russia: Studies in History, Literature and Philosophy, vol. 1 of 2",
+   "translated": 1919,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "George Allen & Unwin, London, first published 1919; archive.org scan (Digital Library of India copy)"
+  },
+  "eden-cedar-paul-masaryk-the-spirit-of-russia-vol-2": {
+   "source": "ecp-masaryk-spirit-of-russia-2",
+   "of": "Thomas Garrigue Masaryk",
+   "work": "The Spirit of Russia: Studies in History, Literature and Philosophy, vol. 2 of 2",
+   "translated": 1919,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "George Allen & Unwin, London, first published 1919; archive.org scan (Asiatic Society of Mumbai copy)",
+   "note": "The Digital Library of India scan of this volume (dli.ministry.06463) misreads their name in the OCR, so this copy is used."
+  },
+  "eden-cedar-paul-michels-political-parties": {
+   "source": "ecp-michels-political-parties",
+   "of": "Robert Michels",
+   "work": "Political Parties: A Sociological Study of the Oligarchical Tendencies of Modern Democracy",
+   "translated": 1915,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Hearst's International Library, New York 1915; archive.org scan"
+  },
+  "eden-cedar-paul-loria-the-economic-synthesis": {
+   "source": "ecp-loria-economic-synthesis",
+   "of": "Achille Loria",
+   "work": "The Economic Synthesis: A Study of the Laws of Income",
+   "translated": 1914,
+   "translator": "Eden Paul",
+   "scan_edition": "George Allen, London (1914; translated by M. Eden Paul); archive.org scan (Toronto copy)"
+  },
+  "eden-cedar-paul-ribbert-heredity-disease-and-human-evolution": {
+   "source": "ecp-ribbert-heredity-disease",
+   "of": "Hugo Ribbert",
+   "work": "Heredity, Disease and Human Evolution",
+   "translated": 1918,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "The Critic and Guide Company, New York 1918; archive.org scan"
+  },
+  "eden-cedar-paul-baudouin-suggestion-and-autosuggestion": {
+   "source": "ecp-baudouin-suggestion-and-autosuggestion",
+   "of": "Charles Baudouin",
+   "work": "Suggestion and Autosuggestion",
+   "translated": 1920,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Dodd, Mead, New York 1921; archive.org scan"
+  },
+  "eden-cedar-paul-baudouin-studies-in-psychoanalysis": {
+   "source": "ecp-baudouin-studies-in-psychoanalysis",
+   "of": "Charles Baudouin",
+   "work": "Studies in Psychoanalysis",
+   "translated": 1922,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Dodd, Mead, New York 1922; archive.org scan"
+  },
+  "eden-cedar-paul-rathenau-in-days-to-come": {
+   "source": "ecp-rathenau-in-days-to-come",
+   "of": "Walther Rathenau",
+   "work": "In Days to Come",
+   "translated": 1921,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Alfred A. Knopf, New York 1921; archive.org scan"
+  },
+  "eden-cedar-paul-kolnai-psychoanalysis-and-sociology": {
+   "source": "ecp-kolnai-psychoanalysis-and-sociology",
+   "of": "Aurel Kolnai",
+   "work": "Psychoanalysis and Sociology",
+   "translated": 1922,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Harcourt, Brace, New York 1922; archive.org scan"
+  },
+  "eden-cedar-paul-vaerting-the-dominant-sex": {
+   "source": "ecp-vaerting-dominant-sex",
+   "of": "Mathilde and Mathias Vaerting",
+   "work": "The Dominant Sex: A Study in the Sociology of Sex Differentiation",
+   "translated": 1923,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "George Allen & Unwin, London (1923); archive.org scan (Digital Library of India copy)"
+  },
+  "eden-cedar-paul-luxemburg-letters-from-prison": {
+   "source": "ecp-luxemburg-letters-from-prison",
+   "of": "Rosa Luxemburg",
+   "work": "Letters from Prison",
+   "translated": 1923,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "Publishing House of the Young International, Berlin 1923; archive.org scan"
+  },
+  "eden-cedar-paul-stalin-leninism": {
+   "source": "ecp-stalin-leninism",
+   "of": "Joseph Stalin",
+   "work": "Leninism",
+   "translated": 1928,
+   "translator": "Eden and Cedar Paul",
+   "scan_edition": "International Publishers, New York 1928; archive.org scan (Digital Library of India copy)"
   }
  },
- "_pending": {},
+ "_pending": {
+  "ia-undated-round-132": "Printings whose scans show no English publication year, so they wait under the undated-printing rule: Plekhanov's Fundamental Problems of Marxism (International Publishers; fundamentalprobl0000plek_n4z2), Gertrude Aretz's Napoleon and His Women Friends (Allen & Unwin; dli.ministry.17674), Faria de Vasconcellos's A New School in Belgium (Harrap; in.ernet.dli.2015.37448) and Wilbuschewitsch's The Industrial Development of Palestine (Zionist Organisation pamphlet; industrialdevelo00vilbrich).",
+  "ia-janet-psychological-healing": "Pierre Janet's Psychological Healing (Allen & Unwin, 1925, 2 vols): vol. I is open (in.ernet.dli.2015.52799) but the only vol. II found (psychologicalhea0002pier) carries a 1975 year and looks like a reprint. Waits for a period vol. II.",
+  "ia-1930-round-132": "1930 publications waiting on Adam's 1930 ruling: Zweig's Three Masters (threemastersbal00zweigoog), Ludwig's Lincoln (lincolnludw00ludw and others) and Chronos, or the Future of the Family (in.ernet.dli.2015.170120).",
+  "ia-treitschke-history-of-germany": "Treitschke's History of Germany in the Nineteenth Century (Jarrold/McBride, 1915-19, 7 vols): scans exist (historyofgermany01treiuoft and others) but the set needs sorting by volume before it is shelved."
+ },
  "_excluded": {
   "sexology": "Left out by lane C's judgment, not for rights: A Young Girl's Diary (752), Moll's The Sexual Life of the Child (28402), Bloch's The Sexual Life of Our Time (60968) and Kisch's The Sexual Life of Woman (63274), medical and psychoanalytic works of the 1910s-20s. Adam can ask for them."
  },
@@ -145,7 +337,7 @@
  "_checks": {
   "ecp-31313": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden and cedar paul",
    "identity": "ok",
@@ -154,7 +346,7 @@
   },
   "ecp-34888": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden and cedar paul",
    "identity": "ok",
@@ -163,7 +355,7 @@
   },
   "ecp-39402": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden and cedar paul",
    "identity": "ok",
@@ -172,7 +364,7 @@
   },
   "ecp-48446": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden and cedar paul",
    "identity": "ok",
@@ -181,7 +373,7 @@
   },
   "ecp-57287": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden and cedar paul",
    "identity": "ok",
@@ -190,7 +382,7 @@
   },
   "ecp-58787": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden paul",
    "identity": "ok",
@@ -199,7 +391,7 @@
   },
   "ecp-61423": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden paul",
    "identity": "ok",
@@ -208,7 +400,7 @@
   },
   "ecp-77479": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden paul",
    "identity": "ok",
@@ -217,7 +409,7 @@
   },
   "ecp-79253": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden paul",
    "identity": "ok",
@@ -226,12 +418,177 @@
   },
   "ecp-9310": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "eden and cedar paul",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Cedar Paul; Eden Paul"
+  },
+  "ecp-ludwig-bismarck": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ecp-ludwig-son-of-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ecp-ludwig-on-mediterranean-shores": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ecp-masaryk-spirit-of-russia-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ecp-masaryk-spirit-of-russia-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ecp-michels-political-parties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ecp-loria-economic-synthesis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ecp-ribbert-heredity-disease": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ecp-baudouin-suggestion-and-autosuggestion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ecp-baudouin-studies-in-psychoanalysis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ecp-rathenau-in-days-to-come": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ecp-kolnai-psychoanalysis-and-sociology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ecp-vaerting-dominant-sex": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eden and cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ecp-luxemburg-letters-from-prison": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ecp-stalin-leninism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cedar paul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -284,6 +641,247 @@
    "pg": 9310,
    "pg_copyrighted_marker": false,
    "pg_translator": "Cedar Paul"
+  },
+  "ecp-ludwig-bismarck": {
+   "ia": "bismarckstoryoff00ludw",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1771,
+    1790,
+    1810,
+    1815,
+    1816,
+    1822,
+    1824,
+    1827,
+    1833,
+    1835,
+    1836,
+    1837,
+    1839,
+    1842,
+    1844,
+    1845,
+    1846,
+    1847,
+    1848,
+    1849,
+    1850,
+    1851,
+    1852,
+    1855,
+    1858,
+    1859,
+    1861,
+    1862,
+    1864,
+    1865,
+    1866,
+    1867,
+    1869,
+    1870,
+    1871,
+    1872,
+    1873,
+    1874,
+    1875,
+    1877,
+    1878,
+    1879,
+    1880,
+    1881,
+    1883,
+    1887,
+    1888,
+    1889,
+    1890,
+    1892,
+    1893,
+    1894,
+    1895,
+    1896,
+    1897,
+    1898,
+    1911,
+    1926,
+    1927,
+    1928,
+    1929
+   ],
+   "post_1930_years_in_front_15k": [
+    2010
+   ],
+   "post_1930_examined": "2010 is the Internet Archive digitising line"
+  },
+  "ecp-ludwig-son-of-man": {
+   "ia": "sonofmanstoryofj00ludw",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1928
+   ],
+   "post_1930_years_in_front_15k": [
+    2011
+   ],
+   "post_1930_examined": "2011 is the Internet Archive digitising line"
+  },
+  "ecp-ludwig-on-mediterranean-shores": {
+   "ia": "dli.ernet.527884",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1927,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-masaryk-spirit-of-russia-1": {
+   "ia": "dli.ministry.06464",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1850,
+    1882,
+    1891,
+    1902,
+    1905,
+    1913,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-masaryk-spirit-of-russia-2": {
+   "ia": "india.history.resource.111290",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1861,
+    1862,
+    1865,
+    1866,
+    1868,
+    1869,
+    1871,
+    1873,
+    1875,
+    1877,
+    1878,
+    1879,
+    1919
+   ],
+   "post_1930_years_in_front_15k": [
+    2020
+   ],
+   "post_1930_examined": "2020 is the digitising line (donated 20 February 2020)"
+  },
+  "ecp-michels-political-parties": {
+   "ia": "politicalparties00mich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-loria-economic-synthesis": {
+   "ia": "economicsynthesi00loriuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1879,
+    1889,
+    1892,
+    1899,
+    1902,
+    1904,
+    1907,
+    1913
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-ribbert-heredity-disease": {
+   "ia": "hereditydiseaseh00ribbrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1541,
+    1761,
+    1918
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-baudouin-suggestion-and-autosuggestion": {
+   "ia": "suggestionautosu00baud",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1823,
+    1826,
+    1841,
+    1844,
+    1860,
+    1885,
+    1886,
+    1894,
+    1907,
+    1910,
+    1911,
+    1913,
+    1919,
+    1920,
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-baudouin-studies-in-psychoanalysis": {
+   "ia": "studiesinpsychoa00baud",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1920,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-rathenau-in-days-to-come": {
+   "ia": "indaystocome00rathiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1921
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-kolnai-psychoanalysis-and-sociology": {
+   "ia": "psychoanalysisso00koln",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-vaerting-dominant-sex": {
+   "ia": "dli.ministry.12051",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-luxemburg-letters-from-prison": {
+   "ia": "lettersfrompriso00luxe",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1915,
+    1916,
+    1917,
+    1918,
+    1921,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ecp-stalin-leninism": {
+   "ia": "in.ernet.dli.2015.217846",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1924,
+    1925,
+    1926,
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

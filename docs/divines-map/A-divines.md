@@ -10247,3 +10247,144 @@ Slugs `junius-*`. Built from title pages read for round 39.
 | A Christian Letter, containing a grave and godly admonition to such as make separation from the Church assemblies in England, by Master Francis Iunius, Divinitie Reader at Leyden (for Robert Dexter; catalogued 1602) | have-ocr | IA `bim_early-english-books-1475-1640_a-christian-letter-cont_du-jon-franois-the-el_1602` |
 | Certayne Letters (1602), two by Junius and one by the exiled English church at Amsterdam, tr. R. G.: mixed authorship | alternate | not shelved |
 | His Latin works (Defensio, De Politiae Mosis, Lectiones in Ionam, De Theologia Vera); the 1599 Geneva-Tomson Bible; the younger Junius's Painting of the Ancients (a different man) | excluded | |
+
+## Beilby Porteus (round 42, my pick, 2026-10-22)
+
+Slugs `porteus-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures on the Gospel of St. Matthew : delivered in the parish church of St. James, Westminster, in the years 1798, 1799, 1800, and 1801 (New Haven : Printed for I. Cooke, 1803) | have-ocr | IA `lecturesongospel00port` |
+| Sermons on several subjects (London : T. Cadell and W.Davies, 1810) | have-ocr | IA `sermonsonseveral00portuoft` |
+| A Summary of the Principal Evidences for the Truth & Divine Origin of the Christian Revelation (Printed for Isaiah Thomas, Jun., 1808) | have-ocr | IA `asummaryprincip00portgoog` |
+| The beneficial effects of Christianity : on the temporal concerns of mankind, proved from history and from facts (London : Printed by Luke Hansard ... for T. Cadell and W. Davies ... T. Payne ... and F.C. and J. Rivington ..., 1806) | have-ocr | IA `beneficialeffect0000port` |
+| Other printings of the Lectures (London 1802, two volumes) and of the Sermons (1783-1808, Hartford 1806) | alternate | not shelved |
+| The French translation Heureux effets (1808); the poetical anthologies that reprint his Death | excluded | |
+
+## Richard Hurd (round 42, my pick, 2026-10-22)
+
+Slugs `hurd-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 1 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu01hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 2 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu02hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 3 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu03hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 4 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu04hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 5 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu05hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 6 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu06hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 7 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu07hurd` |
+| The works of Richard Hurd, Lord Bishop of Worcester, vol. 8 (London : Printed for T. Cadell and W. Davies, Strand, 1811) | have-ocr | IA `worksofrichardhu08hurd` |
+| An introduction to the study of the prophecies concerning the Christian church : and in particular, concerning the Church of Papal Rome ; in twelve sermons, preached in Lincoln's-Inn-Chapel, at the lecture of the Right Reverend William Warburton, Lord Bishop of Gloucester (London : Printed by W. Bowyer and J. Nichols for T. Cadell, 1772) | have-ocr | IA `a588161800hurduoft` |
+| The Google copies of the 1811 Works (worksrichardhur14-17hurdgoog); the Boston 1809 Introduction | alternate | not shelved |
+| His editions of Addison and Warburton (other men's works); the 1911 Letters on Chivalry school edition; the 1860 Memoirs by another hand | excluded | |
+
+## Robert Lowth (round 42, my pick, 2026-10-22)
+
+Slugs `lowth-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Isaiah, a new translation : with a preliminary dissertation, and notes critical, philological, and explanatory, vol. 1 (London : Printed by J. Nichols, for T. Cadell, 1795) | have-ocr | IA `isaiahnewtransla01lowt` |
+| Isaiah, a new translation : with a preliminary dissertation, and notes critical, philological, and explanatory, vol. 2 (London : Printed by J. Nichols, for T. Cadell, 1795) | have-ocr | IA `isaiahnewtransla02lowt` |
+| Lectures on the sacred poetry of the Hebrews, vol. 1 (London : Ogles, Duncan, and Cochran, 1816) | have-ocr | IA `lecturesonsacred01lowt` |
+| Lectures on the sacred poetry of the Hebrews, vol. 2 (London : Ogles, Duncan, and Cochran, 1816) | have-ocr | IA `lecturesonsacred02lowt` |
+| A larger confutation of Bishop Hare's system of Hebrew metre, in a letter to the Rev. Dr. Edwards : in answer to his Latin epistle (London : Miller, 1766) | have-ocr | IA `largerconfutatio00lowt` |
+| The life of William of Wykeham, Bishop of Winchester : collected from records, registers, manuscripts, and other authentic evidences (London : Printed for A. Miller and R. and J. Dodsley, 1759) | have-ocr | IA `lifeofwilliamofw00lowt` |
+| A Letter to the Right Reverend Author of the Divine Legation (third edition, London 1766; IA cu31924102766080): its title page reads only 'By a late Professor in the University of Oxford'. It is Lowth's by universal attribution, but the page names nobody, so it waits for Adam | pending | not shelved |
+| Isaiah 1815; the 1787 Gregory translation of the Lectures (India copies); De sacra poesi Hebraeorum 1753 (Latin original) | alternate | not shelved |
+| A Short Introduction to English Grammar: not divinity | excluded | |
+
+## Richard Field (Dean of Gloucester) (round 42, my pick, 2026-10-22)
+
+Slugs `field-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Of the church, five books, vol. 1 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook01fiel` |
+| Of the church, five books, vol. 2 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook02fiel` |
+| Of the church, five books, vol. 3 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook03fiel` |
+| Of the church, five books, vol. 4 (Cambridge [Eng.] Printed at the University Press, for the Ecclesiastical History Society, 1847) | have-ocr | IA `ofchurchfivebook04fiel` |
+| The Google copies (churchfivebooks00-03fielgoog) | alternate | not shelved |
+
+## Thomas Bisse (round 42, my pick, 2026-10-22)
+
+Slugs `bisse-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The Beauty of Holiness in the Common Prayer: As Set Forth in Four Sermons Preached at the Rolls (R.P. and C. Williams, 1814) | have-ocr | IA `beautyholinessi00bissgoog` |
+| The 1842 printing | alternate | not shelved |
+
+## Thomas Comber (round 42, my pick, 2026-10-22)
+
+Slugs `comber-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| A companion to the temple, or A help to devotion, in the daily use of the common prayer : in two parts : part I containing the morning and evening prayer (London : Printed by Andrew Clark for Henry Brome ..., 1676) | have-ocr | IA `acompaniontotem00combgoog` |
+| A companion to the altar, or, An help to the worthy receiving of the Lords Supper by discourses and meditations upon the whole communion office : to which is added an essay upon the offices of baptism and confirmation (London : Printed by J. Macock for John Martyn ... and Richard Lambert ..., 1675) | have-ocr | IA `acompaniontoalt00combgoog` |
+| The other 1676 copy; the Oxford 1841 Companion to the Temple; the 1906 Exposition of Morning and Evening Prayer (an extract) | alternate | not shelved |
+
+## George Horne (round 42, my pick, 2026-10-22)
+
+Slugs `horne-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 1 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever02jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 2 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever04jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 3 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever00jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 4 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever01jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 5 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever03jonegoog` |
+| The works of the Right Reverend George Horne ... to which are prefixed memoirs of his life, studies, and writings, vol. 6 (London, Printed for J. Johnson, 1809) | have-ocr | IA `worksrightrever05jonegoog` |
+| Separate Commentary on the Psalms (1792 onward), Discourses (1812), Considerations on St John the Baptist (1806): all in the Works | alternate | not shelved |
+
+## William Jones of Nayland (round 42, my pick, 2026-10-22)
+
+Slugs `jones-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 1 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce01jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 2 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce02jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 3 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce03jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 4 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce04jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 5 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce05jone` |
+| The theological and miscellaneous works of the Rev. William Jones : to which is prefixed a short account of his life and writings, vol. 6 (London : F. and C. Rivington, 1826) | have-ocr | IA `theologicalmisce06jone` |
+| Memoirs of the life, studies, and writings of the Right Reverend George Horne, D.D. late Lord Bishop of Norwich. With I. A new Preface, on certain interesting points in theology and philosophy; II. Dr. Horne's own collection of his thoughts on a variety of great and interesting subjects; and III. A letter to the Hon. L.K. on the use of the Hebrew language (London : Printed by J. Davis, for G.G. and J. Robinson, F. and C. Rivington, R. Cadell ..., 1799) | have-ocr | IA `cu31924029450305` |
+| The Scholar Armed (1812), a collection of tracts by several writers that he began: a compilation | pending | not shelved |
+| Separate Catholic Doctrine of a Trinity (1813), Lectures on the Figurative Language of Scripture (1789), the 1801 and 1810 Works: all inside the 1826 Works | alternate | not shelved |
+| Essay on the First Principles of Natural Philosophy (1762) and other physics pieces | excluded | |
+
+## John Hey (round 42, my pick, 2026-10-22)
+
+Slugs `hey-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| Lectures in divinity, vol. 1 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini01heyj` |
+| Lectures in divinity, vol. 2 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini02heyj` |
+| Lectures in divinity (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini00heyj` |
+| Lectures in divinity, vol. 4 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796) | have-ocr | IA `lecturesindivini04heyj` |
+| The 1841 two-volume reprint | alternate | not shelved |
+
+## Samuel Johnson of Connecticut (round 42, my pick, 2026-10-22)
+
+Slugs `johnson-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The elements of philosophy: containing, I. The most useful parts of logic, ... II. A brief view both of ... moral philosophy, ... By Samuel Johnson, D.D (London : printed for A. Millar, 1754) | have-ocr | IA `elementsofphilos00john` |
+| Beardsley's Life and Correspondence (1874, by another hand); Elementa Philosophica 1752 (the same work, earlier printing, kept off for now) | excluded | |
+
+## Thieleman van Braght (round 42, my pick, 2026-10-22)
+
+Slugs `braght-*`. Built from title pages read for round 42.
+
+| Work | Status | Where |
+|---|---|---|
+| The bloody theatre, or, Martyr's mirror, of the defenceless Christians, who suffered and were put to death for the testimony of Jesus, their Savior, from the time of Christ until the year 1660 (Lancster county, Pa. Published by David Miller, 1837) | have-ocr | IA `TheBloodyTheater` |
+| The bloody theatre, or Martyr's mirror (catalogued 1886) | have-ocr | IA `bloodytheatreorm00brag` |
+| The 1887 printing | alternate | not shelved |
+| Dutch and German editions (1736, 1745, 1780); the 1850 Baptist Martyrology (another work); the modern 2013 reprint | excluded | |

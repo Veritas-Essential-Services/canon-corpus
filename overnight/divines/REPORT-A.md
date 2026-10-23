@@ -2020,3 +2020,7 @@
 ## 2026-10-22 23:18 CDT — round 41 closed; lane A stopped
 - alexander-jolly, thomas-rattray, archibald-campbell-nonjuror, peter-sterry, john-wilkins, john-overall, richard-montagu, john-hacket, william-wake, edmund-gibson, thomas-secker, william-van-mildert: 12 shelves, 40 IA items. `--verify --record`: 0 mismatched. 0 uids minted.
 - Lane A stopped at the end of this thread's run; LOCK-A released (status free). Nothing queued; round 42 candidates in DIGEST-A.
+
+## 2026-10-22 23:33 CDT — round 39 pickups and round 42 done
+- Round 39 pickups: franciscus-junius-elder (3 IA, new), martin-bucer +1 (bucer-gratulation), johannes-brenz +1 (Tymme's Newes from Niniue 1570). The earlier note that no English Junius was on the Archive is corrected in DIGEST-A.
+- Round 42: beilby-porteus, richard-hurd, robert-lowth, richard-field, thomas-bisse, thomas-comber, george-horne, william-jones-of-nayland, john-hey, samuel-johnson-of-connecticut, thieleman-van-braght: 11 shelves, 46 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
