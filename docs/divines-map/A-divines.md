@@ -17882,3 +17882,15 @@ Slugs `peloubet-*`. Built from title pages read for round 119.
 | The teachers' commentary on the Gospel according to St. Matthew (New York : Oxford University Press, 1901) | have-ocr | IA `teacherscommenta0000pelo` |
 | The front line of the Sunday school movement; the line of the vanguard of Sunday school progress, with a glimpse of ideals beyond (Boston, W. A. Wilde, 1904) | have-ocr | IA `frontlineofsunda00pelo` |
 | His songbooks and his edition of Smith's Dictionary of the Bible collect other men's work; the Albanian and Russian Bibles are catalogue errors | excluded | |
+
+## John S. Grasty (round 119, my pick, 2026-10-23)
+
+Slugs `grasty-*`. Built from title pages read for round 119.
+
+| Work | Status | Where |
+|---|---|---|
+| A noble testimony ([Raleigh, N.C. : s.n.], 1800) | have-ocr | IA `nobletestimony00gras` |
+| A great question asked? ; Faith and works ([Raleigh? N. C. : s.n.], 1861) | have-ocr | IA `greatquestionask00gras` |
+| The Way to Zion (catalogued 1861) | have-ocr | IA `the-way-to-zion` |
+| Faith's battles and victories, or, Thoughts for troublous times (catalogued 1869) | have-ocr | IA `faiths-battles-and-victories` |
+| Memoir of Rev. Samuel B. McPheeters, D.D (Saint Louis : Southwestern Book and Pub. Co. ; Louisville : Davidson Bros. & Co., 1871) | have-ocr | IA `memoirofrevsamuel00gras` |
