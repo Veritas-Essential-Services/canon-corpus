@@ -10722,3 +10722,12 @@ Shelf: `pipeline/a-e-r-boak_shelf.json`. A History of Rome to 565 A.D. (New York
 |---|---|---|---|
 | A History of Rome to 565 A.D. (New York: Macmillan, 1921) |  | `boak-history-of-rome-565-1921` | have-raw (IA `cu31924028286726`) |
 
+
+## Charles Hall Grandgent (1862-1939)
+
+Shelf: `pipeline/c-h-grandgent_shelf.json`. An Introduction to Vulgar Latin (Boston: Heath, 1907) Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| An Introduction to Vulgar Latin (Boston: Heath, 1907) |  | `grandgent-introduction-vulgar-latin-1907` | have-raw (IA `cu31924021623800`) |
+
