@@ -16047,6 +16047,24 @@ Slugs `gahan-*`. Built from title pages read for round 98.
 | Sermons and moral discourses : for all the Sundays and principal festivals of the year, on the most important truths and maxims of the gospel (Dublin : Printed by Richard Grace and Sons, 1846) | have-ocr | IA `sermonsmoraldisc00gaha` |
 | Sermons for every Sunday in the year and for the leading holidays of obligation / by William Gahan ; with a preface by Bishop Walsh ; edited by James O'Leary (New York, N.Y. : D. & J. Sadlier & Co., 1875) | have-ocr | IA `SermonsForEverySundayInTheYear` |
 | LHistoireDuVieux: A History of the Holy Bible, translated from the French by Joseph Reeve; Gahan only revised it | excluded | |
+
+## Leonard Withington (round 98, my pick, 2026-10-23)
+
+Slugs `withington-*`. Built from title pages read for round 98.
+
+| Work | Status | Where |
+|---|---|---|
+| The excellence of the Scriptures : sermon II (Boston : [s.n.], 1827) | have-ocr | IA `excellenceofscri00with` |
+| A Sermon, Preached at the Annual Election, May 25, 1831 (Dutton and Wentworth , printers to the state, 1831) | have-ocr | IA `asermonpreached00withgoog` |
+| Puritan morals defended : a discourse delivered at the dedication of the Crombie Street Church in Salem, (formerly Salem Theatre,) and the installation of the Rev. William Williams, November 22, 1832 (Salem : Warwick Palfray, Jun., 1832) | have-ocr | IA `puritanmoralsdef00with` |
+| Cobwebs swept away, or some popular deceptions exposed : a sermon delivered on Fast Day, April 6, 1837, at the First Church in Newbury (Newburyport : Hiram Tozer, 1837) | have-ocr | IA `cobwebssweptaway00with` |
+| A sermon for the two hundreth anniversary of the standing of the First Church in Newbury on its present site, October 20, 1846 (Newburyport [Mass.] : Enoch Hale, Jr., printer, Courier Press, 1846) | have-ocr | IA `sermonfortwohun00with` |
+| Bundle of myrrh : Thanksgiving sermon preached Nov. 28, 1850, at Newbury, First Parish (Newburyport : Charles Whipple, 1850) | have-ocr | IA `bundleofmyrrhtha00with` |
+| A funeral sermon, at the interment of Mrs. Sarah E. Little, wife of Rev. Elbridge G. Little, preached April 1, 1851 (Printed by Morss, 1851) | have-ocr | IA `funeralsermonati00with` |
+| The blessings of our institutions, and our obligations to continue them. : A discourse, preached in the First Congregational Church, Newbury, Fast Day, April 7, 1853 (Newburyport [Mass.]: : Moses H. Sargent, publisher, no. 29 Market Square., 1853) | have-ocr | IA `blessingsofourin00with` |
+| Solomon's song: translated and explained, in three parts. I. The manuduction. II. The version. III. The supplement (Boston, J. E. Tilton and company, 1861) | have-ocr | IA `solomonssongtran00withrich` |
+| puritanaseriese04witgoog: The Puritan, published under the pen-name Jonathan Oldbug; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| penitentialtears00with: an anonymous 1845 pamphlet in the Horace Mann school controversy; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
