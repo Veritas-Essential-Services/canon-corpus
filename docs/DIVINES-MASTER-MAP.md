@@ -18950,6 +18950,18 @@ Slugs `pulsford-*`. Built from title pages read for round 129.
 | Infoldings and unfoldings of the divine genius in nature and man (London : Hamilton, Adams, 1887) | have-ocr | IA `infoldingsunfold00puls` |
 | Stray thoughts of a life-time : reflections, suggestions, aspirations, etc (London : Simpkin Marshall, Hamilton, Kent, 1896) | have-ocr | IA `straythoughtsofl0000puls` |
 | other scans of the same books | excluded | |
+
+## Milton Valentine (round 129, my pick, 2026-10-23)
+
+Slugs `valentine-*`. Built from title pages read for round 129.
+
+| Work | Status | Where |
+|---|---|---|
+| The essential principle of reform (Gettysburg, Aughinbaugh & Wible, book & job printers, 1865) | have-ocr | IA `essentialprincip00vale` |
+| Natural theology; or, Rational theism (Chicago, John C. Buckbee & co, [c18) | have-ocr | IA `naturaltheologyo00valerich` |
+| Theoretical ethics (Chicago, Scott, Foresman & co., 1897) | have-ocr | IA `theoreticalethi01valegoog` |
+| Christian theology (Philadelphia : Lutheran publication Society, 1906) | have-ocr | IA `christiantheolog0000vale` |
+| pamphlet scans from other Valentines, and books on poultry and on Paris by others of the name | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
