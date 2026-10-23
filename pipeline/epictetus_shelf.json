@@ -59,14 +59,20 @@
    "bim_eighteenth-century_epictetus-his-morals-wi_epictetus_1741",
    "Epictetus his Morals, with Simplicius his Comment, made English from the Greek, fifth edition corrected, with the Life of Epictetus from Boileau (London: Ward, Knapton and others, M.DCC.XLI)",
    "tr. George Stanhope"
+  ],
+  "epictetus-oldfather-v1": [
+   "epictetusdiscour01epicuoft",
+   "The Discourses as reported by Arrian, the Manual, and Fragments, tr. W. A. Oldfather, vol. I (Loeb, 1925; this copy the 1956 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "epictetus-oldfather-v2": [
+   "epictetusdiscour02epicuoft",
+   "The Discourses as reported by Arrian, the Manual, and Fragments, tr. W. A. Oldfather, vol. II (Loeb, 1928; this copy the 1959 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_cross_ref": {
   "epictetus-discourses": "Adler shelf: PG 45109 is Higginson's ENCHIRIDION only; the Adler label 'The Discourses, tr. P.E. Matheson' is wrong"
  },
- "_excluded": {
-  "W. A. Oldfather, Loeb (1925-28)": "PD in US by date, Greek facing; pending"
- },
+ "_excluded": {},
  "_surname": [
   "epictetus"
  ],
@@ -80,12 +86,14 @@
   "epictetus-higginson-works-v1": "Thomas Wentworth Higginson",
   "epictetus-higginson-works-v2": "Thomas Wentworth Higginson",
   "epictetus-carter": "Elizabeth Carter",
-  "epictetus-stanhope-simplicius-1741": "Dr. Stanhope"
+  "epictetus-stanhope-simplicius-1741": "Dr. Stanhope",
+  "epictetus-oldfather-v1": "W. A. Oldfather",
+  "epictetus-oldfather-v2": "W. A. Oldfather"
  },
  "_checks": {
   "epictetus-long-selection": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "George Long",
@@ -97,7 +105,7 @@
   },
   "epictetus-crossley-golden-sayings": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "Hastings Crossley",
@@ -109,7 +117,7 @@
   },
   "epictetus-rolleston-teaching": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "T. W. Rolleston",
@@ -121,7 +129,7 @@
   },
   "epictetus-long-discourses-1877": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "George Long",
@@ -134,7 +142,7 @@
   },
   "epictetus-matheson-1916-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "P. E. Matheson",
@@ -147,7 +155,7 @@
   },
   "epictetus-matheson-1916-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "P. E. Matheson",
@@ -160,7 +168,7 @@
   },
   "epictetus-higginson-works-v1": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "Thomas Wentworth Higginson",
@@ -173,7 +181,7 @@
   },
   "epictetus-higginson-works-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "Thomas Wentworth Higginson",
@@ -186,7 +194,7 @@
   },
   "epictetus-carter": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "Elizabeth Carter",
@@ -199,7 +207,7 @@
   },
   "epictetus-stanhope-simplicius-1741": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "epictetus",
    "translator_claimed": "Dr. Stanhope",
@@ -208,6 +216,32 @@
    "ia_rights": "ok: published 1741",
    "ia_date": "1741",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "epictetus-oldfather-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "W. A. Oldfather",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "epictetus-oldfather-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "epictetus",
+   "translator_claimed": "W. A. Oldfather",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
    "ia_lending": null
   }
  },

@@ -885,6 +885,8 @@ Shelf: `pipeline/epictetus_shelf.json`. Complete in Long (1877), Matheson (1916)
 | Fragments | George Long | `epictetus-perseus-long-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng3`) |
 | Fragments | Thomas Wentworth Higginson | `epictetus-perseus-higginson-fragments` | have (Perseus TEI `tlg0557.tlg003a.perseus-eng4`) |
 | The Enchiridion | Thomas Wentworth Higginson | `epictetus-perseus-higginson-the-enchiridion` | have (Perseus TEI `tlg0557.tlg002.perseus-eng4`) |
+| The Discourses as reported by Arrian, the Manual, and Fragments, tr. W. A. Oldfather, vol. I (Loeb, 1925; this copy the 1956 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `epictetus-oldfather-v1` | have-raw (IA `epictetusdiscour01epicuoft`) |
+| The Discourses as reported by Arrian, the Manual, and Fragments, tr. W. A. Oldfather, vol. II (Loeb, 1928; this copy the 1959 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling |  | `epictetus-oldfather-v2` | have-raw (IA `epictetusdiscour02epicuoft`) |
 
 Pending (wishlist): Oldfather's Loeb (1925-28).
 
