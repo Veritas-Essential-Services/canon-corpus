@@ -1648,6 +1648,7 @@ Shelf: `pipeline/greek-lyric_shelf.json`. Mackail, Wharton's Sappho, Moore's Ana
 | From the Garden of Hellas: translations into verse from the Greek Anthology (New York: United States Book Company, 1891) | Lilla Cabot Perry | `greek-anthology-perry-garden-of-hellas-1891` | have-raw (IA `fromgardenofhell00unse`) |
 | The Reed of Pan: English renderings of Greek epigrams and lyrics (1922) | A. C. Benson | `greek-anthology-benson-reed-of-pan-1922` | have-raw (IA `reedofpanenglish00bensuoft`) |
 | Love, Worship and Death: some renderings from the Greek Anthology (London: Edward Arnold, 1916) | Rennell Rodd | `greek-anthology-rodd-love-worship-death-1916` | have-raw (IA `loveworshipdeath00roddrich`) |
+| Love, Worship and Death: renderings from the Greek Anthology |  | `rodd-love-worship-death-pg` | have (PG 35907, clean witness) |
 
 Pending (wishlist): Paton's Anthology, Edmonds's Lyra Graeca, Mair's Callimachus/Aratus/Oppian (all Loebs, Greek facing). Callimachus, Aratus, Tryphiodorus and Musaeus in older translations are on the late-greek-poets shelf.
 
@@ -1727,6 +1728,7 @@ Shelf: `pipeline/pythagoreans_shelf.json`. Taylor (Gutenberg).
 | Ocellus Lucanus on the Nature of the Universe | Thomas Taylor | `ocellus-taylor` | have (PG 75391) |
 | Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans, preserved by Stobaeus; and Ethical Fragments of Hierocles (London: for the translator, 1822) | Thomas Taylor | `pythagoreans-taylor-political-fragments-1822` | have-raw (IA `politicalfragmen00taylrich`) |
 | Sallust on the Gods and the World; Pythagoric Sentences of Demophilus (1793) | Thomas Taylor (attributed; not named in the book) | `sallustius-demophilus-taylor-1793` | have-raw (IA `sallustongodsan00pythgoog`) |
+| Political Fragments of Archytas, Charondas, Zaleucus and other ancient Pythagoreans |  | `taylor-political-fragments-pythagoreans-pg` | have (PG 75184, clean witness) |
 
 ## Sextus Empiricus
 
@@ -2566,6 +2568,9 @@ Shelf: `pipeline/paulus-aegineta_shelf.json`. Francis Adams's Sydenham Society t
 | The Seven Books of Paulus Aegineta, vol. I (Sydenham Society, 1844) | Francis Adams | `paulus-aegineta-adams-1844-v1` | have-raw (IA `BIUSante_37321x01`) |
 | The Seven Books of Paulus Aegineta, vol. II (Sydenham Society, 1846) | Francis Adams | `paulus-aegineta-adams-1846-v2` | have-raw (IA `BIUSante_37321x02`) |
 | The Seven Books of Paulus Aegineta, vol. III (Sydenham Society, 1847) | Francis Adams | `paulus-aegineta-adams-1847-v3` | have-raw (IA `BIUSante_37321x03`) |
+| The Seven Books of Paulus Aegineta, vol. 1 |  | `paulus-adams-1-pg` | have (PG 70531, clean witness) |
+| The Seven Books of Paulus Aegineta, vol. 2 |  | `paulus-adams-2-pg` | have (PG 70532, clean witness) |
+| The Seven Books of Paulus Aegineta, vol. 3 |  | `paulus-adams-3-pg` | have (PG 70533, clean witness) |
 
 ## Phalaris
 
@@ -3186,6 +3191,8 @@ Shelf: `pipeline/k-o-muller_shelf.json`. Karl Otfried Müller: History of the Li
 | A History of the Literature of Ancient Greece, continued by J. W. Donaldson, vol. III (London: Longmans, 1858) | George Cornewall Lewis and John William Donaldson | `k-o-muller-literature-ancient-greece-v3-1858` | have-raw (IA `historyofliterat03mluoft`) |
 | The History and Antiquities of the Doric Race, second edition, revised, vol. I (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v1-1839` | have-raw (IA `historyantiquiti01mull`) |
 | The History and Antiquities of the Doric Race, second edition, revised, vol. II (London: John Murray, MDCCCXXXIX) | Henry Tufnell and George Cornewall Lewis | `k-o-muller-doric-race-v2-1839` | have-raw (IA `historyantiquiti02mull`) |
+| The History and Antiquities of the Doric Race, vol. 1 |  | `muller-doric-race-1-pg` | have (PG 33743, clean witness) |
+| The History and Antiquities of the Doric Race, vol. 2 |  | `muller-doric-race-2-pg` | have (PG 34010, clean witness) |
 
 ## George Long (scholarship)
 
@@ -3658,6 +3665,9 @@ Shelf: `pipeline/hegel-translations_shelf.json`. G. W. F. Hegel (1770-1831) in E
 | Lectures on the Philosophy of Religion, together with a work on the Proofs of the Existence of God, translated from the second German edition, vol. I (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v1` | have-raw (IA `philosophyofreli01hegeuoft`) |
 | Lectures on the Philosophy of Religion, vol. II (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v2` | have-raw (IA `lecturesonthephi02hegeuoft`) |
 | Lectures on the Philosophy of Religion, vol. III, with the Lectures on the Proofs of the Existence of God (London: Kegan Paul, 1895) | E. B. Speirs and J. Burdon Sanderson | `hegel-speirs-philosophy-of-religion-1895-v3` | have-raw (IA `lecturesreligion03hegeuoft`) |
+| Lectures on the History of Philosophy, vol. 1 |  | `hegel-haldane-history-philosophy-1-pg` | have (PG 51635, clean witness) |
+| Lectures on the History of Philosophy, vol. 2 |  | `hegel-haldane-history-philosophy-2-pg` | have (PG 51636, clean witness) |
+| Lectures on the History of Philosophy, vol. 3 |  | `hegel-haldane-history-philosophy-3-pg` | have (PG 58169, clean witness) |
 
 ## Schopenhauer in English
 
@@ -3933,6 +3943,8 @@ Shelf: `pipeline/herbert-spencer_shelf.json`. First Principles (Appleton, 1900),
 | The Right to Ignore the State |  | `spencer-right-to-ignore-the-state` | have (PG 34649) |
 | Illustrations of Universal Progress (1864) |  | `spencer-illustrations-universal-progress` | have (PG 39977) |
 | The Factors of Organic Evolution (1887) |  | `spencer-factors-of-organic-evolution` | have (PG 52801) |
+| The Principles of Biology, vol. 1 |  | `spencer-principles-of-biology-1-pg` | have (PG 54612, clean witness) |
+| The Principles of Biology, vol. 2 |  | `spencer-principles-of-biology-2-pg` | have (PG 67282, clean witness) |
 
 ## William Godwin
 
@@ -4084,6 +4096,7 @@ Shelf: `pipeline/bernard-bosanquet_shelf.json`. His own works; his Lotze and Heg
 | The Principle of Individuality and Value, Gifford Lectures for 1911 (London: Macmillan, 1912) |  | `bosanquet-individuality-and-value-1912` | have-raw (IA `principleofind00bosauoft`) |
 | Logic, or the Morphology of Knowledge, 2nd ed., vol. I (Oxford: Clarendon Press, 1911) |  | `bosanquet-logic-2nd-ed-1911-v1` | have-raw (IA `logicormorpholog01bosaiala`) |
 | Logic, or the Morphology of Knowledge, 2nd ed., vol. II (Oxford: Clarendon Press, 1911) |  | `bosanquet-logic-2nd-ed-1911-v2` | have-raw (IA `logicormorpholog02bosaiala`) |
+| The Philosophical Theory of the State |  | `bosanquet-philosophical-theory-state-pg` | have (PG 63249, clean witness) |
 
 ## Ralph Cudworth
 
@@ -4158,6 +4171,7 @@ Shelf: `pipeline/john-dewey_shelf.json`. Twenty-nine volumes, 1888-1930, US publ
 | Characters and Events, ed. Joseph Ratner, vol. II (Holt, 1929) |  | `dewey-characters-and-events-1929-v2` | have-raw (IA `charactersevents0002john`) |
 | Impressions of Soviet Russia and the Revolutionary World (New Republic, 1929) |  | `dewey-impressions-of-soviet-russia-1929` | have-raw (IA `in.ernet.dli.2015.169066`) |
 | The Sources of a Science of Education (Horace Liveright, 1929) |  | `dewey-sources-of-a-science-of-education-1929` | have-raw (IA `sourcesofscience00dewe`) |
+| The Child and the Curriculum |  | `dewey-child-and-curriculum-pg` | have (PG 29259, clean witness) |
 
 Pending (wishlist): The Public and its Problems (1927) in a pre-1931 printing (both IA scans checked in round al are Swallow reprints)
 
@@ -4566,6 +4580,8 @@ Shelf: `pipeline/bertrand-russell_shelf.json`. Twenty-four works, 1896-1930: fif
 | The Problem of China (Allen and Unwin, 1922) |  | `russell-problem-of-china-1922` | have-raw (IA `problemofchina00russ`) |
 | The Analysis of Matter (Kegan Paul; Harcourt, Brace, 1927) |  | `russell-analysis-of-matter-1927` | have-raw (IA `analysisofmatter0000bert`) |
 | Marriage and Morals (Horace Liveright, 1929) |  | `russell-marriage-and-morals-1929` | have-raw (IA `marriagemorals0000bert_f0s3`) |
+| Mysticism and Logic and Other Essays |  | `russell-mysticism-and-logic-pg` | have (PG 25447, clean witness) |
+| The Problem of China |  | `russell-problem-of-china-pg` | have (PG 13940, clean witness) |
 
 Pending (wishlist): The Prospects of Industrial Civilization (1923) and Sceptical Essays (1928), dated scans; Principia Mathematica (1910-13) needs a non-OCR source.
 
@@ -4882,6 +4898,7 @@ Shelf: `pipeline/john-fiske-philosophy_shelf.json`. Outlines of Cosmic Philosoph
 | American Political Ideas (1885) |  | `fiske-american-political-ideas` | have (PG 10112) |
 | Civil Government in the United States (1890) |  | `fiske-civil-government` | have (PG 11276) |
 | The Meaning of Infancy (Riverside Educational Monographs; essays of 1883 and later) |  | `fiske-meaning-of-infancy` | have (PG 12359) |
+| The Destiny of Man |  | `fiske-destiny-of-man-pg` | have (PG 17239, clean witness) |
 
 ## Noah Porter
 
@@ -6186,6 +6203,7 @@ Shelf: `pipeline/hans-driesch_shelf.json`. Gifford Lectures (1908, 2 vols) and t
 | The Science and Philosophy of the Organism, Gifford Lectures 1908, vol. II (A. and C. Black, 1908) |  | `driesch-science-philosophy-organism-v2` | have-raw (IA `thescienceandphi02drieuoft`) |
 | The Problem of Individuality (Macmillan, 1914) |  | `driesch-problem-of-individuality-1914` | have-raw (IA `cu31924029083982`) |
 | The History and Theory of Vitalism, tr. C. K. Ogden (Macmillan, 1914) | Ogden | `driesch-history-theory-vitalism-ogden-1914` | have-raw (IA `TheHistoryAndTheoryOfVitalism`) |
+| The Science and Philosophy of the Organism |  | `driesch-science-philosophy-organism-pg` | have (PG 44388, clean witness) |
 
 ## C. D. Broad (realism and ethics)
 
@@ -6253,6 +6271,7 @@ Shelf: `pipeline/r-h-tawney_shelf.json`. Three works, 1912-1926. Not minted.
 | The Acquisitive Society (Harcourt, Brace, 1920) |  | `tawney-acquisitive-society-1920` | have (PG 33741) |
 | Religion and the Rise of Capitalism (Harcourt, Brace, 1926) |  | `tawney-religion-rise-capitalism-1926` | have (PG 71223) |
 | The Agrarian Problem in the Sixteenth Century (Longmans, 1912) |  | `tawney-agrarian-problem-1912` | have-raw (IA `agrarianproblemi00tawn`) |
+| The Agrarian Problem in the Sixteenth Century |  | `tawney-agrarian-problem-pg` | have (PG 40336, clean witness) |
 
 ## Lord Acton (history of liberty)
 
@@ -6512,6 +6531,7 @@ Shelf: `pipeline/henry-jones_shelf.json`. Sir Henry Jones (1852-1922). Six books
 | The Working Faith of the Social Reformer (Macmillan, 1910) |  | `jones-working-faith-social-reformer-1910` | have-raw (IA `workingfaithofso00joneuoft`) |
 | Social Powers (Maclehose, 1913) |  | `jones-social-powers-1913` | have-raw (IA `socialpowersthre00joneiala`) |
 | The Principles of Citizenship (Macmillan, 1919) |  | `jones-principles-of-citizenship-1919` | have-raw (IA `principlescitiz00jonegoog`) |
+| Browning as a Philosophical and Religious Teacher |  | `jones-browning-philosophical-religious-teacher-pg` | have (PG 13561, clean witness) |
 
 ## John Watson (Kingston idealist)
 
@@ -6538,6 +6558,7 @@ Shelf: `pipeline/a-e-taylor_shelf.json`. A. E. Taylor (1869-1945). Problem of Co
 | Elements of Metaphysics (Methuen, 1903; fourth edition 1915) |  | `taylor-elements-of-metaphysics-1903` | have-raw (IA `elementsofmetaph0000tayl`) |
 | Thomas Hobbes (Constable, 1908) |  | `taylor-thomas-hobbes-1908` | have-raw (IA `thomashobbes00tayluoft`) |
 | Aristotle, revised edition (The People's Books, 1919) |  | `taylor-aristotle-1919` | have-raw (IA `aristotle00tayluoft`) |
+| Elements of Metaphysics |  | `taylor-elements-of-metaphysics-pg` | have (PG 71885, clean witness) |
 
 Pending (wishlist): Plato (Constable, 1908) with a dated copy
 
@@ -6569,6 +6590,7 @@ Shelf: `pipeline/h-a-prichard_shelf.json`. H. A. Prichard (1871-1947). Kant's Th
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Kant's Theory of Knowledge (Clarendon, 1909) |  | `prichard-kants-theory-of-knowledge-1909` | have-raw (IA `kantknowledge00pricuoft`) |
+| Kant's Theory of Knowledge |  | `prichard-kants-theory-knowledge-pg` | have (PG 32701, clean witness) |
 
 ## E. F. Carritt (aesthetics)
 
@@ -6687,6 +6709,7 @@ Shelf: `pipeline/norman-kemp-smith_shelf.json`. Norman Kemp Smith (1872-1958). S
 | Studies in the Cartesian Philosophy (Macmillan, 1902) |  | `kemp-smith-cartesian-philosophy-1902` | have-raw (IA `studiesincartes00smitgoog`) |
 | A Commentary to Kant's 'Critique of Pure Reason' (Macmillan, 1918) |  | `kemp-smith-commentary-kant-1918` | have-raw (IA `commentarytokant00smituoft`) |
 | Prolegomena to an Idealist Theory of Knowledge (Macmillan, 1924) |  | `kemp-smith-prolegomena-idealist-theory-1924` | have-raw (IA `in.ernet.dli.2015.52811`) |
+| A Commentary to Kant's 'Critique of Pure Reason' |  | `kemp-smith-commentary-critique-pg` | have (PG 43572, clean witness) |
 
 ## C. Lloyd Morgan (comparative psychology, emergence)
 
@@ -7910,6 +7933,8 @@ Shelf: `pipeline/carveth-read_shelf.json`. Five books, 1878-1925.
 | Natural and Social Morals (1909) |  | `read-natural-and-social-morals-1909` | have-raw (IA `in.ernet.dli.2015.41545`) |
 | The Origin of Man and of his Superstitions (Cambridge, 1920) |  | `read-origin-of-man-1920` | have-raw (IA `in.ernet.dli.2015.536183`) |
 | Man and his Superstitions (Cambridge, 1925) |  | `read-man-and-his-superstitions-1925` | have-raw (IA `manhissuperstiti00read`) |
+| Logic: Deductive and Inductive |  | `read-logic-deductive-inductive-pg` | have (PG 18440, clean witness) |
+| The Origin of Man and of His Superstitions |  | `read-origin-of-man-pg` | have (PG 46884, clean witness) |
 
 Pending (wishlist): The Metaphysics of Nature (no dated scan found).
 
@@ -7994,6 +8019,7 @@ Shelf: `pipeline/joseph-jastrow_shelf.json`. Six books, 1890-1918.
 | The Qualities of Men (Houghton Mifflin, 1910) |  | `jastrow-qualities-of-men-1910` | have-raw (IA `qualitiesmenane02jastgoog`) |
 | Character and Temperament (Appleton, 1915) |  | `jastrow-character-and-temperament-1915` | have-raw (IA `cu31924029121049`) |
 | The Psychology of Conviction (Houghton Mifflin, 1918) |  | `jastrow-psychology-of-conviction-1918` | have-raw (IA `psychologyofconv00jastuoft`) |
+| Fact and Fable in Psychology |  | `jastrow-fact-and-fable-psychology-pg` | have (PG 48869, clean witness) |
 
 ## Edward L. Thorndike (psychology of learning)
 
@@ -8006,6 +8032,7 @@ Shelf: `pipeline/edward-l-thorndike_shelf.json`. Five volumes, 1907-1913.
 | Individuality (Houghton Mifflin, 1911) |  | `thorndike-individuality-1911` | have-raw (IA `individuality00tho`) |
 | Educational Psychology, vol. I: The Original Nature of Man (Teachers College, 1913) |  | `thorndike-educational-psychology-1913-v1` | have-raw (IA `educationalpsych01thoriala`) |
 | Educational Psychology, vol. II: The Psychology of Learning (Teachers College, 1913; printing of 1921) |  | `thorndike-educational-psychology-1913-v2` | have-raw (IA `educationalpsych02thor`) |
+| Animal Intelligence |  | `thorndike-animal-intelligence-pg` | have (PG 69904, clean witness) |
 
 Pending (wishlist): Educational Psychology vol. III (1914).
 
@@ -8106,6 +8133,7 @@ Shelf: `pipeline/charles-hubbard-judd_shelf.json`. Four books, 1903-1918.
 | Psychology, General Introduction (Scribner, 1907) |  | `judd-psychology-general-introduction-1907` | have-raw (IA `psychologygener01goog`) |
 | The Psychology of High-School Subjects (Ginn, 1916) |  | `judd-psychology-of-high-school-subjects-1916` | have-raw (IA `in.ernet.dli.2015.21801`) |
 | Introduction to the Scientific Study of Education (Ginn, 1918) |  | `judd-introduction-to-scientific-study-of-education-1918` | have-raw (IA `introductiontosc00juddiala`) |
+| Introduction to the Scientific Study of Education |  | `judd-scientific-study-education-pg` | have (PG 56903, clean witness) |
 
 ## Charles Darwin (natural history and evolution)
 
@@ -8377,6 +8405,7 @@ Shelf: `pipeline/e-vernon-arnold_shelf.json`. One book, 1911.
 | Work | Translator | Slug | Status |
 |---|---|---|---|
 | Roman Stoicism (Cambridge, 1911) |  | `arnold-roman-stoicism-1911` | have-raw (IA `romanstoicismbei00arnouoft`) |
+| Roman Stoicism |  | `arnold-roman-stoicism-pg` | have (PG 64488, clean witness) |
 
 ## James Adam (Greek religious thought)
 
@@ -8500,6 +8529,7 @@ Shelf: `pipeline/james-bonar_shelf.json`. Malthus, political economy and its phi
 | The Intellectual Virtues (Macmillan, 1894) |  | `bonar-intellectual-virtues-1894` | have-raw (IA `intellectualvirt00bona`) |
 | Elements of Political Economy (John Murray, 1903) |  | `bonar-elements-political-economy-1903` | have-raw (IA `elementsofpoliti00bonauoft`) |
 | Disturbing Elements in the Study and Teaching of Political Economy (Johns Hopkins, 1911) |  | `bonar-disturbing-elements-1911` | have-raw (IA `disturbingelemen00bonauoft`) |
+| Malthus and His Work |  | `bonar-malthus-and-his-work-pg` | have (PG 68099, clean witness) |
 
 ## G. S. Brett
 
@@ -8512,6 +8542,7 @@ Shelf: `pipeline/g-s-brett_shelf.json`. History of psychology; Gassendi; ethics 
 | A History of Psychology, vol. I: Ancient and Patristic (George Allen, 1912) |  | `brett-history-of-psychology-1-1912` | have-raw (IA `historyofpsychol00bretuoft`) |
 | A History of Psychology, vol. II: Medieval and Early Modern Period (George Allen and Unwin, 1921) |  | `brett-history-of-psychology-2-1921` | have-raw (IA `historyofpsychol02bretuoft`) |
 | A History of Psychology, vol. III: Modern Psychology (George Allen and Unwin, 1921) |  | `brett-history-of-psychology-3-1921` | have-raw (IA `historyofpsychol03bretuoft`) |
+| The Philosophy of Gassendi |  | `brett-philosophy-of-gassendi-pg` | have (PG 77134, clean witness) |
 
 ## W. R. Boyce Gibson
 
@@ -8654,6 +8685,7 @@ Shelf: `pipeline/arthur-evans_shelf.json`. Sir Arthur Evans (1851-1941), Knossos
 | Antiquarian Researches in Illyricum, parts I-IV (Society of Antiquaries, 1883) |  | `evans-antiquarian-researches-illyricum-1883` | have-raw (IA `antiquarianresea00evan`) |
 | The 'Horsemen' of Tarentum (Quaritch, 1889) |  | `evans-horsemen-of-tarentum-1889` | have-raw (IA `horsemenoftarent00evaniala`) |
 | Syracusan 'Medallions' and their Engravers (Quaritch, 1892) |  | `evans-syracusan-medallions-1892` | have-raw (IA `syracusanmedalli00evaniala`) |
+| Through Bosnia and the Herzegovina on Foot during the Insurrection |  | `evans-through-bosnia-pg` | have (PG 73712, clean witness) |
 
 Pending (wishlist): Palace of Minos vol. IV (1935) and Index (1936), after the cutoff
 
@@ -8675,6 +8707,8 @@ Shelf: `pipeline/d-g-hogarth_shelf.json`. David George Hogarth (1862-1927), Keep
 | Accidents of an Antiquary's Life (Macmillan, 1910) |  | `hogarth-accidents-antiquarys-life-1910` | have-raw (IA `cu31924028519027`) |
 | The Ancient East (Home University Library, 1915) |  | `hogarth-ancient-east-1915` | have-raw (IA `ancienteast00hoga`) |
 | Hittite Seals, with particular reference to the Ashmolean Collection (Oxford, 1920) |  | `hogarth-hittite-seals-1920` | have-raw (IA `hittitesealswith00hogauoft`) |
+| Accidents of an Antiquary's Life |  | `hogarth-accidents-antiquarys-life-pg` | have (PG 70857, clean witness) |
+| The Ancient East |  | `hogarth-ancient-east-pg` | have (PG 7474, clean witness) |
 
 Pending (wishlist): The Life of Charles M. Doughty (1928), lending-library scan only
 
@@ -8710,6 +8744,7 @@ Shelf: `pipeline/h-r-hall_shelf.json`. Harry Reginald Hall (1873-1930), British 
 | Days Before History, revised ed. (Harrap, 1908) |  | `hall-days-before-history-1908` | have-raw (IA `daysbeforehistor00hallrich`) |
 | The Ancient History of the Near East (Methuen, 1913) |  | `hall-ancient-history-near-east-1913` | have-raw (IA `ancienthistoryo00hall`) |
 | Aegean Archaeology, an introduction to the archaeology of prehistoric Greece (Warner, 1915) |  | `hall-aegean-archaeology-1915` | have-raw (IA `cu31924028272379`) |
+| Days Before History |  | `hall-days-before-history-pg` | have (PG 49304, clean witness) |
 
 Pending (wishlist): British Museum guides and catalogues
 

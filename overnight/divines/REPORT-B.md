@@ -1404,3 +1404,9 @@
 - Added 143 Perseus TEI texts on 11 shelves: Philo/Yonge 31, Plautus/Riley 20, Cicero/Yonge+Falconer 21, Euripides 20, Appian/White 15, Hippocrates/Adams 17, Sophocles/Jebb 7, Epictetus/Long+Higginson 6, Caesar 2, Horace/Smart 2, Xenophon/Brownson Loeb 2 (new translation). All passed fetch_perseus.py identity and rights gates; _perseus_checks recorded.
 - 18 rows are 'Modernized by Perseus' (Jebb's 7, Coleridge's 11): kept with _rights_checked on the Godley/Smyth precedent; same open decision.
 - Skipped as already clean elsewhere: Plutarch/Goodwin and Lucian/Fowler (PG), Josephus (whiston shelf), Thucydides/Crawley, Terence/Riley, Conington's Odes, McDevitte's Caesar.
+
+## 2026-10-23 — Round ct: clean Gutenberg witnesses audit
+- Matched every IA row on lane B's 656 shelves against the Gutenberg catalogue (same author or translator surname, title-word overlap >= 0.6, PG id on no branch), then read the 85 hits by hand.
+- Added 35 clean PG texts as -pg rows beside the raw OCR on 29 shelves; all pass --verify --record (identity ok, no COPYRIGHTED header).
+- Six hits are PDF/TeX-only on Gutenberg (Whitehead's Natural Knowledge, De Morgan, Russell's Mathematical Philosophy and Analysis of Matter, Boole's Laws of Thought, Keynes's Probability): listed under _pending.
+- Rejected false matches (different book, same words): Lange/Tout, Schiller/Montaigne, Glover/Chrysostom, Mackail, Mahaffy, North's vs Clough's Plutarch, Sophocles specimens, Euclid (Casey), Lucretius (Leonard). Jowett's Plato: PG has only vol. 2 of the 1892 set; the plato shelf holds the dialogues separately.

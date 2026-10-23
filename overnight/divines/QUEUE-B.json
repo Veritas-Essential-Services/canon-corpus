@@ -1956,6 +1956,14 @@
    "started": "2026-10-22T23:25:00-05:00",
    "finished": "2026-10-22T23:26:43-05:00",
    "notes": "143 Perseus TEI texts on 11 shelves; 18 are Perseus-modernized (Jebb, Coleridge), kept on the Godley/Smyth precedent"
+  },
+  {
+   "id": "2026-10-23ct",
+   "status": "done",
+   "scope": "Audit: clean Gutenberg witnesses for lane B raw-OCR holdings",
+   "started": "2026-10-23T00:00:45-05:00",
+   "finished": "2026-10-23T00:00:45-05:00",
+   "notes": "35 PG witnesses on 29 shelves; 6 TeX/PDF-only listed pending"
   }
  ]
 }
