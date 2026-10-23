@@ -10751,3 +10751,14 @@ Slugs `grove-*`. Built from title pages read for round 46.
 | The works of the Reverend and learned Mr. Henry Grove, of Taunton : containing all the sermons, discourses, and tracts published in his life time, vol. 4 (London : Printed by James Waugh, 1747) | have-ocr | IA `worksofreverendl04grov` |
 | A system of moral philosophy (London : Printed and sold by J. Waugh ..., 1749) | have-ocr | IA `systemofmoralphi00grov` |
 | The separate Sermons (1740), Tracts, Wisdom the First Spring of Action (1734), Lord's Supper (1738), Secret Prayer (1752) | alternate | not shelved |
+
+## John Taylor of Norwich (round 46, my pick, 2026-10-22)
+
+Slugs `jtaylor-*`. Built from title pages read for round 46.
+
+| Work | Status | Where |
+|---|---|---|
+| The Scripture doctrine of original sin proposed to free and candid examination (London : Printed by J. Wilson, 1740) | have-ocr | IA `scripturedoctrin00tayl` |
+| A paraphrase with notes on the Epistle to the Romans : to which is prefix'd a key to the apostolic writings, or an essay to explain the Gospel scheme, and the principal words and phrases the apostles have used in describing it (London : J. Waugh, 1745) | have-ocr | IA `paraphrasewithno00tayl` |
+| The Hebrew Concordance (1754-1757), a reference work; the 1762 Scripture Account of Prayer | excluded | |
+| IA scripturedoctrin00tayl_1 (catalogued under Taylor as The Scripture Doctrine of Atonement, 1809) is in fact Stephen West's Scripture Doctrine of Atonement, by its title page: the fetcher's name check caught the mis-cataloguing | excluded | |

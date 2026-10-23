@@ -1,0 +1,57 @@
+{
+ "_about": "Public-domain John Taylor of Norwich (1694-1761), Presbyterian Hebraist, for the Word Hoard: The Scripture Doctrine of Original Sin (1740) and A Paraphrase with Notes on the Epistle to the Romans (1745), from Internet Archive scans. Added 2026-10-23 by lane A, round 46 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "taylor",
+  "norwich"
+ ],
+ "_surname": [
+  "john taylor",
+  "taylor of norwich"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jtaylor-original-sin": [
+   "scripturedoctrin00tayl",
+   "The Scripture doctrine of original sin proposed to free and candid examination (London : Printed by J. Wilson, 1740)"
+  ],
+  "jtaylor-romans": [
+   "paraphrasewithno00tayl",
+   "A paraphrase with notes on the Epistle to the Romans : to which is prefix'd a key to the apostolic writings, or an essay to explain the Gospel scheme, and the principal words and phrases the apostles have used in describing it (London : J. Waugh, 1745)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jtaylor-other": "The Hebrew Concordance (1754-1757), a reference work; the 1762 Scripture Account of Prayer",
+  "jtaylor-not-his": "IA scripturedoctrin00tayl_1 (catalogued under Taylor as The Scripture Doctrine of Atonement, 1809) is in fact Stephen West's Scripture Doctrine of Atonement, by its title page: the fetcher's name check caught the mis-cataloguing"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jtaylor-original-sin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1740",
+   "ia_date": "1740",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jtaylor-romans": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john taylor",
+   "identity": "ok",
+   "ia_rights": "ok: published 1745",
+   "ia_date": "1745",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
