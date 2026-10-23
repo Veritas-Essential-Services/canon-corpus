@@ -11906,6 +11906,22 @@ Slugs `harbaugh-*`. Built from title pages read for round 56.
 | Treason and law : a discourse, delivered at Clearspring, Maryland, June 1, 1865, the day of national mourning (Philadelphia : Jas. B. Rodgers, 1865) | have-ocr | IA `treasonlawdiscou00harb` |
 | Harbaugh's Harfe (1870), poems in Pennsylvania German dialect: pending Adam's ruling on non-English works | pending | not shelved |
 | Fathers of the German Reformed Church vols 3-6 (continued by D. Y. Heisler after his death); the Heidelberg Catechism edition and Sunday-school hymn books he edited | excluded | |
+
+## John Mitchell Mason (round 56, my pick, 2026-10-23)
+
+Slugs `jmmason-*`. Built from title pages read for round 56.
+
+| Work | Status | Where |
+|---|---|---|
+| Oration, commemorative of the late Major-General Alexander Hamilton : pronounced before the New-York state society of the Cincinnati, on Tuesday, the (New-York, Printed by Hopkins and Seymour and sold by G.F. Hopkins, at Washington's head, no. 118, Pearl-street, 1804) | have-ocr | IA `orationcommemora00maso` |
+| A Plea for sacramental communion on catholick principles (New York : Whiting and Watson, 1816) | have-ocr | IA `pleaforsacrament00maso` |
+| The complete works of John M. Mason, D.D, vol. 1 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj01maso` |
+| The complete works of John M. Mason, D.D, vol. 2 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj02maso` |
+| The complete works of John M. Mason, D.D, vol. 3 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj03maso` |
+| The complete works of John M. Mason, D.D, vol. 4 (New York : Baker and Scribner, 1849) | have-ocr | IA `completeworksofj04maso` |
+| The Writings of the late John M. Mason (1832, 4 vols): the earlier collection, superseded by the 1849 Complete Works | alternate | not shelved |
+| Sermons, Lectures and Orations (1860), a selection from the same works | alternate | not shelved |
+| John Mason of Water-Stratford (1646-1694) and John Mason the Nonconformist (Self-Knowledge, 1745) are other men; Essays on the Church of God (1843) duplicates the Works | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
