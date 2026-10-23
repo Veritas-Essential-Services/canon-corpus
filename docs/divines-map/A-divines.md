@@ -18277,3 +18277,27 @@ Slugs `blomfield-*`. Built from title pages read for round 123.
 | The Reply and Baptismal Regeneration are answers to his charge by others | excluded | |
 | 12LecturesOnTheActsOfTheApostles, a second scan of the Twelve Lectures | excluded | |
 | alettertocharle00blomgoog is a letter by another man defending the Bishop of London | excluded | |
+
+## William Bright (round 123, my pick, 2026-10-23)
+
+Slugs `bright-*`. Built from title pages read for round 123.
+
+| Work | Status | Where |
+|---|---|---|
+| A history of the church from the Edict of Milan, A.D. 313, to the Council of Chalcedon, A.D. 451 (Oxford and London : J.H. and Jas. Parker, 1860) | have-ocr | IA `cu31924029227174` |
+| Hymns and other poems (London : Rivingtons, 1866) | have-ocr | IA `hymnsotherpoems00brig` |
+| Hymns and other verses (London : Rivingtons, 1874) | have-ocr | IA `erses00brig` |
+| Chapters of early English church history (Oxford : Clarendon Press, 1878) | have-ocr | IA `chaptersofearlye00brigrich` |
+| Notes on the canons of the first four general councils (Oxford : Clarendon Press, 1882) | have-ocr | IA `notesonthecanons00briguoft` |
+| Lessons from the lives of three great fathers : with appendices (London : Longmans, Green, 1890) | have-ocr | IA `lessonsfromlives00brig` |
+| The incarnation as a motive power : sermons (London : Longmans, Green, 1891) | have-ocr | IA `incarnationasmot00brig` |
+| Morality in doctrine (London ; New York : Longmans, Green, 1892) | have-ocr | IA `moralityindoctri0000unse` |
+| Waymarks in Church History (London : Longmans, Green & Co., 1894) | have-ocr | IA `waymarksinchurch00brig` |
+| The Roman see in the early Church, and other studies in church history (London, New York [etc.] : Longmans, Green, & co., 1896) | have-ocr | IA `romanseeinearlyc00brig` |
+| Some aspects of primitive church life (London, Longmans, 1898) | have-ocr | IA `someaspectsofpri00briguoft` |
+| The law of faith (London : Wells, Gardner, Darton, 1898) | have-ocr | IA `lawoffaith0000brig` |
+| Selected letters of William Bright, D.D. : regius professor of eccleciastical history in the University of Oxford : canon of Christ church (London : W. Gardner, Darton, 1903) | have-ocr | IA `selectedletterso00briguoft` |
+| The age of the fathers, being chapters in the history of the church during the fourth and fifth centuries (London New York Bombay : Longmans, Green, 1903) | have-ocr | IA `ageoffathersbein0000brig` |
+| his editions of Athanasius's Orations, Augustine's anti-Pelagian treatises and De spiritu et littera, the Canons of the first four councils and the Definitions of the Catholic Faith are Greek and Latin texts he edited | excluded | |
+| the 1549 Prayer Book reprint | excluded | |
+| historyofchurchf0000brig, agefathersbeing01briggoog and MN41820ucmf_5 are second scans | excluded | |
