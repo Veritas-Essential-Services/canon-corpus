@@ -18896,3 +18896,17 @@ Slugs `brent-*`. Built from title pages read for round 129.
 | Understanding : being an interpretation of the Universal Christian Conference on Life and Work, held in Stockholm, August 15-30, 1925 (catalogued 1925) | have-ocr | IA `wcclifework002` |
 | the International Opium Commission reports are official reports, not his own books | excluded | |
 | other scans of the same books | excluded | |
+
+## Lewis Sperry Chafer (round 129, my pick, 2026-10-23)
+
+Slugs `chafer-*`. Built from title pages read for round 129.
+
+| Work | Status | Where |
+|---|---|---|
+| True evangelism (New York, Gospel publishing house, 1911) | have-ocr | IA `trueevangelism0000chaf` |
+| The kingdom in history and prophecy (New York ; Chicago [etc.] : Fleming H. Revell, 1915) | have-ocr | IA `kingdominhistory00chaf` |
+| He that is spiritual (Sunday School Times Co, 1919) | have-ocr | IA `hethatisspiritua00chaf` |
+| Satan (Philadelphia, Pa., The Sunday school times company, 1919) | have-ocr | IA `satan00chaf` |
+| Systematic Theology and other books printed after 1929 | excluded | |
+| this scan of Salvation (copyright 1917) is a 1965-1970 Zondervan printing; the shelf takes only printings before 1930 | excluded | |
+| this scan of Grace (copyright 1922) is the 1947 eighth edition; the shelf takes only printings before 1930 | excluded | |
