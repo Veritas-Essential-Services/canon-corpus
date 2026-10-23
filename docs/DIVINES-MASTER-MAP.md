@@ -17285,6 +17285,17 @@ Slugs `zockler-*`. Built from title pages read for round 112.
 | Gottes Zeugen im Reich der Natur : Biographien und Bekenntnisse grosser Naturforscher aus alter und neuer Zeit (Gütersloh : C. Bertelsmann, 1881) | have-ocr | IA `gotteszeugenimre0000zckl` |
 | Die Apokryphen des Alten Testments : nebst einem Anhang überdie Pseudepigraphenliteratur (München : C.H. Beck, 1891) | have-ocr | IA `dieapokryphendes00zckl` |
 | Askese und Mönchtum, vol. 1-2 (Frankfurt, Heyder, 1897) | have-ocr | IA `askeseundmncht12zcuoft` |
+
+## Milton P. Braman (round 112, my pick, 2026-10-23)
+
+Slugs `braman-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| Obstacles to the success of the gospel : a sermon preached at the dedication of the new meeting-house, erected by the First Religious Society in North Danvers, November 21st, 1839 (Salem, Mass. : Ives & Jewett, 1840) | have-ocr | IA `obstaclestosucce00bram` |
+| A discourse delivered before His Excellency George N. Briggs, governor, His Honor John Reed, lieutenant governor, the honorable Council, and the legislature of Massachusetts, on the annual election, January 1, 1845 (Boston : Dutton and Wentworth, 1845) | have-ocr | IA `discoursedeliver00bramiala` |
+| The Mexican war. A discourse delivered on the annual fast, 1847 (Danvers [Mass.] Printed at the Courier office, 1847) | have-ocr | IA `mexicanwardiscou00bramrich` |
+| mexicanwardiscou00bram_0 (another scan of the Mexican War discourse) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
