@@ -17781,3 +17781,14 @@ Slugs `gtstokes-*`. Built from title pages read for round 118.
 | The Acts of the Apostles (Expositor's Bible), a volume of uncertain number, IA theactsoftheapos00stokuoft: the record has no title or date and the OCR does not show which volume this "New and Cheaper Edition" scan is; needs a look at the title page | pending | not shelved |
 | Pococke's Tour in Ireland, which he only edited | excluded | |
 | studiesinlitera00edgoog (by another Stokes) | excluded | |
+
+## W. J. Conybeare (round 118, my pick, 2026-10-23)
+
+Slugs `wjconybeare-*`. Built from title pages read for round 118.
+
+| Work | Status | Where |
+|---|---|---|
+| Essays ecclesiastical and social (London : Longman, Brown, Green, and Longmans, 1855) | have-ocr | IA `essaysecclesiast00conyrich` |
+| The life and epistles of St. Paul (London : Longman, Green, Longman, and Roberts, 1861) | have-ocr | IA `lifeepistlespaul00conyuoft` |
+| Perversion, Or, The Causes and Consequences of Infidelity: A Tale for the Times, vol. 3 (Smith, Elder, 1856), IA perversionorcau02conygoog: vol. 3 only, and the novel was published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Illustrations of Anglo-Saxon Poetry is by his father J. J. Conybeare; A History of Cambridgeshire is by Edward Conybeare; the petrifactions and the 1835 Epistles are by others | excluded | |
