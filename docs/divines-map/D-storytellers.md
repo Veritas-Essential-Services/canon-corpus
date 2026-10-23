@@ -18715,3 +18715,15 @@ Shelf: `pipeline/corra-harris_shelf.json` (2026-10-22; added at the coordinator'
 | The Co-Citizens | have | PG 30891, `charris-co-citizens` (1112 units) |
 | The House of Helen | have | PG 60169, `charris-house-of-helen` (1056 units) |
 | As a woman thinks | have | PG 78847, `charris-as-a-woman-thinks` (816 units) |
+
+## Arthur Preston Hankins
+
+Shelf: `pipeline/arthur-preston-hankins_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The She Boss: A Western Story | have | PG 19129, `aphankins-she-boss` (1868 units) |
+| The Heritage of the Hills | have | PG 34507, `aphankins-heritage-of-the-hills` (1829 units) |
+| The valley of Arcana | have | PG 69880, `aphankins-valley-of-arcana` (1405 units) |
+| Falcon, of Squawtooth | have | PG 70785, `aphankins-falcon-of-squawtooth` (2249 units) |
+| Cole of Spyglass Mountain | have | PG 74690, `aphankins-cole-of-spyglass-mountain` (1952 units) |
