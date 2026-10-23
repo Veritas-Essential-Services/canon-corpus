@@ -19533,6 +19533,18 @@ Shelf: `pipeline/george-w-cox_shelf.json`. Greek history and Aryan mythology, 18
 
 Excluded: The Crusades (PG 77173); Life of John William Colenso; Latin and Teutonic Christianity (outside lane B); School History of Greece (school abridgement)
 
+
+## R. Bosworth Smith (1839-1908)
+
+Shelf: `pipeline/r-bosworth-smith_shelf.json`. Carthage and the Punic Wars, 1878-1881. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Carthage and the Carthaginians (1878) |  | `bosworth-smith-carthage-carthaginians-1878` | have-raw (IA `carthagecarthagi00smit_0`) |
+| Rome and Carthage: the Punic Wars (Epochs of Ancient History, 1881) |  | `bosworth-smith-rome-and-carthage-1881` | have-raw (IA `romeandcarthage00smitgoog`) |
+
+Excluded: Mohammed and Mohammedanism; Life of Lord Lawrence (outside lane B)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
