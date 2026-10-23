@@ -10167,3 +10167,41 @@ Shelf: `pipeline/a-b-drachmann_shelf.json`. Atheism in Pagan Antiquity (1922). N
 |---|---|---|---|
 | Atheism in Pagan Antiquity (1922), tr. Ingeborg Andersen |  | `drachmann-atheism-pagan-antiquity-1922` | have-raw (IA `atheisminpaganan0000abdr`) |
 
+
+## Bernard P. Grenfell (1869-1926) and Arthur S. Hunt (1871-1934)
+
+Shelf: `pipeline/grenfell-hunt_shelf.json`. The Oxyrhynchus Papyri I-XVII (1898-1927) and their other papyrus editions, 1896-1907. Greek-heavy; kept per Adam's 2026-10-23 ruling, queued for Greek re-OCR. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| The Oxyrhynchus Papyri, Part I (1898), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-01` | have-raw (IA `oxyrhynchuspapyr01gren`) |
+| The Oxyrhynchus Papyri, Part II (1899), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-02` | have-raw (IA `oxyrhynchuspapyr02gren`) |
+| The Oxyrhynchus Papyri, Part III (1903), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-03` | have-raw (IA `oxyrhynchuspapyr03gren`) |
+| The Oxyrhynchus Papyri, Part IV (1904), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-04` | have-raw (IA `oxyrhynchuspapyr04gren`) |
+| The Oxyrhynchus Papyri, Part V (1908), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-05` | have-raw (IA `oxyrhynchuspapyr05gren`) |
+| The Oxyrhynchus Papyri, Part VI (1908), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-06` | have-raw (IA `oxyrhynchuspapyr06gren`) |
+| The Oxyrhynchus Papyri, Part VII (1910), ed. Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-07` | have-raw (IA `oxyrhynchuspapyr07gren`) |
+| The Oxyrhynchus Papyri, Part VIII (1911), ed. Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-08` | have-raw (IA `oxyrhynchuspapyr08gren`) |
+| The Oxyrhynchus Papyri, Part IX (1912), ed. Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-09` | have-raw (IA `oxyrhynchuspapyr09gren`) |
+| The Oxyrhynchus Papyri, Part X (1914), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-10` | have-raw (IA `oxyrhynchuspapyr10gren`) |
+| The Oxyrhynchus Papyri, Part XI (1915), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-11` | have-raw (IA `oxyrhynchuspapyr11gren`) |
+| The Oxyrhynchus Papyri, Part XII (1916), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-12` | have-raw (IA `oxyrhynchuspapyr12gren`) |
+| The Oxyrhynchus Papyri, Part XIII (1919), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-13` | have-raw (IA `oxyrhynchuspapyr13gren`) |
+| The Oxyrhynchus Papyri, Part XIV (1920), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-14` | have-raw (IA `oxyrhynchuspapyr14gren`) |
+| The Oxyrhynchus Papyri, Part XV (1922), ed. Grenfell and Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-15` | have-raw (IA `oxyrhynchuspapyr15gren`) |
+| The Oxyrhynchus Papyri, Part XVI (1924), ed. Grenfell, Hunt and H. I. Bell |  | `grenfell-hunt-oxyrhynchus-papyri-part-16` | have-raw (IA `poxy16`) |
+| The Oxyrhynchus Papyri, Part XVII (1927), ed. Hunt |  | `grenfell-hunt-oxyrhynchus-papyri-part-17` | have-raw (IA `oxyrhynchuspapyr0000arth`) |
+| New Classical Fragments and Other Greek and Latin Papyri (Greek Papyri, Series II, 1897), ed. Grenfell and Hunt |  | `grenfell-hunt-new-classical-fragments-1897` | have-raw (IA `newclassicalfra00grengoog`) |
+| Revenue Laws of Ptolemy Philadelphus (1896), ed. B. P. Grenfell, introduction by J. P. Mahaffy |  | `grenfell-revenue-laws-ptolemy-philadelphus-1896` | have-raw (IA `revenuelawsptol00mahagoog`) |
+| Fayum Towns and Their Papyri (1900), Grenfell, Hunt and D. G. Hogarth |  | `grenfell-hunt-fayum-towns-1900` | have-raw (IA `faymtownstheir00gren`) |
+| The Amherst Papyri, Part I: The Ascension of Isaiah and Other Theological Fragments (1900) |  | `grenfell-hunt-amherst-papyri-1` | have-raw (IA `amherstpapyribei01grenuoft`) |
+| The Amherst Papyri, Part II: Classical Fragments and Documents (1901) |  | `grenfell-hunt-amherst-papyri-2` | have-raw (IA `amherstpapyribei02grenuoft`) |
+| The Tebtunis Papyri, Part I (1902), ed. Grenfell, Hunt and J. G. Smyly |  | `grenfell-hunt-tebtunis-papyri-1` | have-raw (IA `tebtunispapyri0001bern`) |
+| The Tebtunis Papyri, Part II (1907), ed. Grenfell, Hunt and E. J. Goodspeed (1970 photographic reprint) |  | `grenfell-hunt-tebtunis-papyri-2` | have-raw (IA `tebtunispapyri02univuoft`) |
+| Greek Papyri (Catalogue general des antiquites egyptiennes du Musee du Caire, 1903) |  | `grenfell-hunt-greek-papyri-cairo-1903` | have-raw (IA `greekpapyri00gren_0`) |
+| The Hibeh Papyri, Part I (1906) |  | `grenfell-hunt-hibeh-papyri-1` | have-raw (IA `hibehpapyri00unkngoog`) |
+| Logia Iesou: Sayings of Our Lord from an Early Greek Papyrus (1897) |  | `grenfell-hunt-logia-iesou-1897` | have-raw (IA `logiaiesousaying00gren`) |
+| New Sayings of Jesus and Fragment of a Lost Gospel from Oxyrhynchus (1904) |  | `grenfell-hunt-new-sayings-of-jesus-1904` | have-raw (IA `newsayingsofjesu00greniala`) |
+
+Excluded: alexandrianeroti00unse (Greek Papyri Series I (An Alexandrian Erotic Fragment, 1896): the only scan's text layer is empty); tebtunispapyrivo0003arth (Tebtunis Papyri III.1 (1933): published 1930 or later)
+

@@ -1,0 +1,457 @@
+{
+ "_about": "Bernard P. Grenfell (1869-1926) and Arthur S. Hunt (1871-1934), the Oxford papyrologists who dug Oxyrhynchus: all seventeen parts of The Oxyrhynchus Papyri (1898-1927; Parts VII-IX and XVII edited by Hunt alone, Part XVI with H. I. Bell), with Greek Papyri Series II (New Classical Fragments, 1897), Revenue Laws of Ptolemy Philadelphus (1896), Fayum Towns (1900), the Amherst Papyri (1900-01), Tebtunis Papyri I-II (1902, 1907; Part II survives only in the 1970 photographic reprint), the Cairo Greek Papyri catalogue (1903), Hibeh Papyri I (1906), Logia Iesou (1897) and New Sayings of Jesus (1904). Greek-heavy: Greek text with English translation and notes; kept per Adam's 2026-10-23 ruling, and queued for a later Greek re-OCR pass. Tebtunis III (1933, 1938) left out as post-1929; the 1909 Oxford text Hellenica Oxyrhynchia has no English. Classical scholarship (lane B, round dg). Raw IA OCR. No uids minted.",
+ "_author": "Bernard Pyne Grenfell (1869-1926) and Arthur Surridge Hunt (1871-1934)",
+ "_name_words": [
+  "grenfell",
+  "hunt",
+  "bernard",
+  "arthur",
+  "papyri",
+  "papyrus",
+  "oxyrhynchus"
+ ],
+ "_surname": [
+  "bernard p. grenfell",
+  "b. p. grenfell",
+  "bernard pyne grenfell",
+  "grenfell and hunt",
+  "arthur s. hunt",
+  "a. s. hunt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grenfell-hunt-oxyrhynchus-papyri-part-01": [
+   "oxyrhynchuspapyr01gren",
+   "The Oxyrhynchus Papyri, Part I (1898), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-02": [
+   "oxyrhynchuspapyr02gren",
+   "The Oxyrhynchus Papyri, Part II (1899), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-03": [
+   "oxyrhynchuspapyr03gren",
+   "The Oxyrhynchus Papyri, Part III (1903), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-04": [
+   "oxyrhynchuspapyr04gren",
+   "The Oxyrhynchus Papyri, Part IV (1904), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-05": [
+   "oxyrhynchuspapyr05gren",
+   "The Oxyrhynchus Papyri, Part V (1908), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-06": [
+   "oxyrhynchuspapyr06gren",
+   "The Oxyrhynchus Papyri, Part VI (1908), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-07": [
+   "oxyrhynchuspapyr07gren",
+   "The Oxyrhynchus Papyri, Part VII (1910), ed. Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-08": [
+   "oxyrhynchuspapyr08gren",
+   "The Oxyrhynchus Papyri, Part VIII (1911), ed. Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-09": [
+   "oxyrhynchuspapyr09gren",
+   "The Oxyrhynchus Papyri, Part IX (1912), ed. Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-10": [
+   "oxyrhynchuspapyr10gren",
+   "The Oxyrhynchus Papyri, Part X (1914), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-11": [
+   "oxyrhynchuspapyr11gren",
+   "The Oxyrhynchus Papyri, Part XI (1915), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-12": [
+   "oxyrhynchuspapyr12gren",
+   "The Oxyrhynchus Papyri, Part XII (1916), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-13": [
+   "oxyrhynchuspapyr13gren",
+   "The Oxyrhynchus Papyri, Part XIII (1919), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-14": [
+   "oxyrhynchuspapyr14gren",
+   "The Oxyrhynchus Papyri, Part XIV (1920), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-15": [
+   "oxyrhynchuspapyr15gren",
+   "The Oxyrhynchus Papyri, Part XV (1922), ed. Grenfell and Hunt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-16": [
+   "poxy16",
+   "The Oxyrhynchus Papyri, Part XVI (1924), ed. Grenfell, Hunt and H. I. Bell",
+   "mdp.39015010577545-1580500976_djvu.txt"
+  ],
+  "grenfell-hunt-oxyrhynchus-papyri-part-17": [
+   "oxyrhynchuspapyr0000arth",
+   "The Oxyrhynchus Papyri, Part XVII (1927), ed. Hunt"
+  ],
+  "grenfell-hunt-new-classical-fragments-1897": [
+   "newclassicalfra00grengoog",
+   "New Classical Fragments and Other Greek and Latin Papyri (Greek Papyri, Series II, 1897), ed. Grenfell and Hunt"
+  ],
+  "grenfell-revenue-laws-ptolemy-philadelphus-1896": [
+   "revenuelawsptol00mahagoog",
+   "Revenue Laws of Ptolemy Philadelphus (1896), ed. B. P. Grenfell, introduction by J. P. Mahaffy"
+  ],
+  "grenfell-hunt-fayum-towns-1900": [
+   "faymtownstheir00gren",
+   "Fayum Towns and Their Papyri (1900), Grenfell, Hunt and D. G. Hogarth"
+  ],
+  "grenfell-hunt-amherst-papyri-1": [
+   "amherstpapyribei01grenuoft",
+   "The Amherst Papyri, Part I: The Ascension of Isaiah and Other Theological Fragments (1900)"
+  ],
+  "grenfell-hunt-amherst-papyri-2": [
+   "amherstpapyribei02grenuoft",
+   "The Amherst Papyri, Part II: Classical Fragments and Documents (1901)"
+  ],
+  "grenfell-hunt-tebtunis-papyri-1": [
+   "tebtunispapyri0001bern",
+   "The Tebtunis Papyri, Part I (1902), ed. Grenfell, Hunt and J. G. Smyly"
+  ],
+  "grenfell-hunt-tebtunis-papyri-2": [
+   "tebtunispapyri02univuoft",
+   "The Tebtunis Papyri, Part II (1907), ed. Grenfell, Hunt and E. J. Goodspeed (1970 photographic reprint)"
+  ],
+  "grenfell-hunt-greek-papyri-cairo-1903": [
+   "greekpapyri00gren_0",
+   "Greek Papyri (Catalogue general des antiquites egyptiennes du Musee du Caire, 1903)"
+  ],
+  "grenfell-hunt-hibeh-papyri-1": [
+   "hibehpapyri00unkngoog",
+   "The Hibeh Papyri, Part I (1906)"
+  ],
+  "grenfell-hunt-logia-iesou-1897": [
+   "logiaiesousaying00gren",
+   "Logia Iesou: Sayings of Our Lord from an Early Greek Papyrus (1897)"
+  ],
+  "grenfell-hunt-new-sayings-of-jesus-1904": [
+   "newsayingsofjesu00greniala",
+   "New Sayings of Jesus and Fragment of a Lost Gospel from Oxyrhynchus (1904)"
+  ]
+ },
+ "_excluded": {
+  "alexandrianeroti00unse": "Greek Papyri Series I (An Alexandrian Erotic Fragment, 1896): the only scan's text layer is empty",
+  "tebtunispapyrivo0003arth": "Tebtunis Papyri III.1 (1933): published 1930 or later"
+ },
+ "_rights_checked": {
+  "grenfell-hunt-tebtunis-papyri-2": "IA metadata says 1938, but the title page (read 2026-10-23) is London: Henry Frowde, 1907, with 'Reprinted 1970 by the Egypt Exploration Society' and the original Horace Hart imprint: a photographic reprint of the 1907 edition, which is US public domain. No pre-1970 scan of Part II is on IA."
+ },
+ "_checks": {
+  "grenfell-hunt-oxyrhynchus-papyri-part-01": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-02": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-03": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-04": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-05": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-06": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-07": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-08": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-09": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-10": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-11": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-12": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-13": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-14": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-15": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-16": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-oxyrhynchus-papyri-part-17": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-new-classical-fragments-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grenfell-revenue-laws-ptolemy-philadelphus-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grenfell-hunt-fayum-towns-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-amherst-papyri-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1900-1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grenfell-hunt-amherst-papyri-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1900-1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grenfell-hunt-tebtunis-papyri-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-tebtunis-papyri-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1938",
+   "ia_date": "1902-1938",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "IA metadata says 1938, but the title page (read 2026-10-23) is London: Henry Frowde, 1907, with 'Reprinted 1970 by the Egypt Exploration Society' and the original Horace Hart imprint: a photographic reprint of the 1907 edition, which is US public domain. No pre-1970 scan of Part II is on IA."
+  },
+  "grenfell-hunt-greek-papyri-cairo-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grenfell-hunt-hibeh-papyri-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grenfell-hunt-logia-iesou-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grenfell-hunt-new-sayings-of-jesus-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bernard p. grenfell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "[1904]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
