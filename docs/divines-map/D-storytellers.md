@@ -13337,3 +13337,30 @@ Shelf: `pipeline/hall-caine_shelf.json` (2026-10-22; added at the coordinator's 
 | The Master of Man: The Story of a Sin | have | PG 61865, `hcaine-master-of-man` (6076 units) |
 | The Woman of Knockaloe: A Parable | have | PG 66932, `hcaine-woman-of-knockaloe` (1092 units) |
 | pg-29430 | excluded | PG 29430: Gutenberg's index of the author's works, not a book. |
+
+## T. W. Speight
+
+Shelf: `pipeline/tw-speight_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Victorian mystery novels and stories. Every English text under the name at Gutenberg that no other shelf holds (20 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Under Lock and Key: A Story. Volume 1 (of 3) | have | PG 57294, `twspeight-under-lock-and-key` (705 units) |
+| Under Lock and Key: A Story. Volume 2 (of 3) | have | PG 57295, `twspeight-under-lock-and-key-57295` (533 units) |
+| Under Lock and Key: A Story. Volume 3 (of 3) | have | PG 57296, `twspeight-under-lock-and-key-57296` (621 units) |
+| The Heart of a Mystery | have | PG 57311, `twspeight-heart-of-a-mystery` (1735 units) |
+| The Mysteries of Heron Dyke: A Novel of Incident. Volume 2 (of 3) | have | PG 57370, `twspeight-mysteries-of-heron-dyke` (1120 units) |
+| The Mysteries of Heron Dyke: A Novel of Incident. Volume 3 (of 3) | have | PG 57415, `twspeight-mysteries-of-heron-dyke-57415` (1363 units) |
+| A Minion of the Moon: A Romance of the King's Highway | have | PG 57416, `twspeight-minion-of-the-moon` (1193 units) |
+| A Barren Title: A Novel | have | PG 57613, `twspeight-barren-title` (895 units) |
+| The Secret of Wyvern Towers | have | PG 57616, `twspeight-secret-of-wyvern-towers` (1117 units) |
+| The Loudwater Tragedy | have | PG 57623, `twspeight-loudwater-tragedy` (739 units) |
+| A Secret of the Sea: A Novel. Vol. 1 (of 3) | have | PG 57672, `twspeight-secret-of-the-sea` (917 units) |
+| A Dead Reckoning | have | PG 57737, `twspeight-dead-reckoning` (946 units) |
+| The Mysteries of Heron Dyke: A Novel of Incident. Volume 1 (of 3) | have | PG 57755, `twspeight-mysteries-of-heron-dyke-57755` (1056 units) |
+| A Secret of the Sea: A Novel. Vol. 2 (of 3) | have | PG 57814, `twspeight-secret-of-the-sea-57814` (984 units) |
+| A Secret of the Sea: A Novel. Vol. 3 (of 3) | have | PG 57815, `twspeight-secret-of-the-sea-57815` (956 units) |
+| Burgo's Romance | have | PG 57944, `twspeight-burgos-romance` (1061 units) |
+| In the Dead of Night: A Novel. Volume 1 (of 3) | have | PG 57945, `twspeight-in-the-dead-of-night` (897 units) |
+| In the Dead of Night: A Novel. Volume 2 (of 3) | have | PG 57946, `twspeight-in-the-dead-of-night-57946` (926 units) |
+| In the Dead of Night: A Novel. Volume 3 (of 3) | have | PG 57947, `twspeight-in-the-dead-of-night-57947` (1024 units) |
+| The Grey Monk | have | PG 57950, `twspeight-grey-monk` (2150 units) |

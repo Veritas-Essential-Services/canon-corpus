@@ -1746,3 +1746,6 @@
 
 ## 2026-10-22 22:15 CDT — hall-caine: done
 - hall-caine: new shelf, 20 Gutenberg books, 60,656 units, 18926 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — tw-speight: done
+- tw-speight: new shelf, 20 Gutenberg books, 20,938 units, 3 ~2 ids; verify 0 mismatches, 0 rights flags.
