@@ -40464,3 +40464,21 @@ Shelf: `pipeline/margaret-m-robertson_shelf.json` (2026-10-22; added at the coor
 | Eunice | have | PG 38196, `mmrobertson-eunice` (1406 units) |
 | The Twa Miss Dawsons | have | PG 38197, `mmrobertson-twa-miss-dawsons` (2392 units) |
 | Frederica and her Guardians; Or, The Perils of Orphanhood | have | PG 38198, `mmrobertson-frederica-and-her-guardians` (1706 units) |
+
+## George W. Peck
+
+Shelf: `pipeline/george-w-peck_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Peck's Bad Boy and other humorous stories. Every English text under the name at Gutenberg that no other shelf holds (10 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Peck's Bad Boy with the Cowboys | have | PG 6141, `gwpeck-pecks-bad-boy-with-the-cowboys` (376 units) |
+| Peck's Bad Boy with the Circus | have | PG 10212, `gwpeck-pecks-bad-boy-with-the-circus` (593 units) |
+| Peck's Compendium of Fun Comprising the Choicest Gems of Wit, Humor, Sarcasm and Pathos of America's Favorite Humorist | have | PG 14815, `gwpeck-pecks-compendium-of-fun-comprising-the-choicest-gems` (749 units) |
+| Peck's Bad Boy and His Pa 1883 | have | PG 25487, `gwpeck-pecks-bad-boy-and-his-pa-1883` (386 units) |
+| The Grocery Man And Peck's Bad Boy Peck's Bad Boy and His Pa, No. 2 - 1883 | have | PG 25488, `gwpeck-grocery-man-and-pecks-bad-boy-pecks-bad-boy-and-his-p` (317 units) |
+| Peck's bad boy abroad | have | PG 25489, `gwpeck-pecks-bad-boy-abroad` (659 units) |
+| Peck's Uncle Ike and The Red Headed Boy 1899 | have | PG 25490, `gwpeck-pecks-uncle-ike-and-the-red-headed-boy-1899` (380 units) |
+| Peck's Sunshine Being a Collection of Articles Written for Peck's Sun, Milwaukee, Wis. - 1882 | have | PG 25491, `gwpeck-pecks-sunshine-being-a-collection-of-articles-written` (1060 units) |
+| How Private George W. Peck Put Down the Rebellion or, The Funny Experiences of a Raw Recruit - 1887 | have | PG 25492, `gwpeck-how-private-george-w-peck-put-down-the-rebellion-or-t` (437 units) |
+| Peck's Bad Boy in an airship | have | PG 72237, `gwpeck-pecks-bad-boy-in-an-airship` (649 units) |
+| pg-28970 | excluded | PG 28970: Gutenberg's index of the author's works, not a book. |
