@@ -42968,3 +42968,17 @@ Shelf: `pipeline/george-v-hobart_shelf.json` (2026-10-22; added at the coordinat
 | Skiddoo! | have | PG 19668, `gvhobart-skiddoo` (444 units) |
 | You Should Worry Says John Henry | have | PG 20584, `gvhobart-you-should-worry-says-john-henry` (711 units) |
 | Down the line with John Henry | have | PG 68504, `gvhobart-down-the-line-with-john-henry` (533 units) |
+
+## Henry William Herbert
+
+Shelf: `pipeline/henry-william-herbert_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (7 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Warwick Woodlands: Things as they Were There Twenty Years Ago | have | PG 19730, `hwherbert-warwick-woodlands` (1041 units) |
+| The Roman Traitor, Vol. 1 | have | PG 25092, `hwherbert-roman-traitor-vol-1` (1652 units) |
+| The Roman Traitor, Vol. 2 | have | PG 25096, `hwherbert-roman-traitor-vol-2` (2043 units) |
+| The dog | have | PG 32300, `hwherbert-dog` (1967 units) |
+| Wager of Battle: A Tale of Saxon Slavery in Sherwood Forest | have | PG 45341, `hwherbert-wager-of-battle` (1192 units) |
+| The Silent Rifleman! A tale of the Texan prairies | have | PG 46304, `hwherbert-silent-rifleman-a-tale-of-the-texan-prairies` (549 units) |
+| The Knights of England, France, and Scotland | have | PG 57045, `hwherbert-knights-of-england-france-and-scotland` (1357 units) |
