@@ -14615,3 +14615,34 @@ Slugs `fosdick-*`. Built from title pages read for round 85.
 | Spiritual values and eternal life (Cambridge : Harvard University Press, 1927) | have-ocr | IA `spiritualvaluese00fosd` |
 | everything he published from 1930 on (still in copyright in the US) | excluded | |
 | The American Hymnal (Dawson ed.), many authors | excluded | |
+
+## James Moffatt (round 85, my pick, 2026-10-23)
+
+Slugs `moffatt-*`. Built from title pages read for round 85.
+
+| Work | Status | Where |
+|---|---|---|
+| The historical New Testament; being the literature of the New Testament arranged in the order of its literary growth and according to the dates of the documents; a new translation, ed. with prolegomena, historical tables, critical notes and an appendix (Edinburgh, Clark, 1901) | have-ocr | IA `historicalnewtes00moffuoft` |
+| The Epistle to the Romans (New York : A. C. Armstrong, 1905) | have-ocr | IA `epistletoromans00moff` |
+| The book of Daniel (New York : A.C. Armstrong, 1905) | have-ocr | IA `bookofdaniel00moff` |
+| Paul and Paulinism (Boston and New York, Houghton Mifflin company, 1910) | have-ocr | IA `paulpaulinism00moff` |
+| Reasons and reasons (New York : Hodder and Stoughton, 1911) | have-ocr | IA `reasonsreasonshas00moff` |
+| An introduction to the literature of the New Testament (New York, C. Scribner's Sons, 1911) | have-ocr | IA `introductiontoli0000moff` |
+| The theology of the Gospels (London : Duckworth, 1912) | have-ocr | IA `theologygospels00moffuoft` |
+| The New Testament (New York, Hodder and Stoughton, 1913) | have-ocr | IA `newtestmoff00moffuoft` |
+| A book of Biblical devotions for members of the Scottish Church (London, Hodder and Stoughton, 1919) | have-ocr | IA `bookofbiblicalde00moff` |
+| The second things of life (London : Hodder & Stoughton, 1920) | have-ocr | IA `thesecondthingso00moffuoft` |
+| The approach to the New Testament : lectures delivered in London and Cambridge, April-May, 1921 (London : Hodder and Stoughton, Limited, 1921) | have-ocr | IA `approachtonewtes0000moff` |
+| Jesus on love to God, Jesus on love to man (Philadelphia, The Press of the University of Pennsylvania, 1922) | have-ocr | IA `jesusonlovetogod00moffrich` |
+| A critical and exegetical commentary on the epistle to the Hebrews (New York : Scribner, 1924) | have-ocr | IA `criticalexegetic00moff` |
+| The old testament, vol. 1 (George H. Doran Company, 1924) | have-ocr | IA `oldtestament0001jame` |
+| The Old Testament: Volume II - Job Through Malachi, vol. 2 (George H. Doran, 1925) | have-ocr | IA `oldtestamentvolu0002jame` |
+| The Bible in Scots literature (London : Hodder and Stoughton, 1924) | have-ocr | IA `bibleinscotslite0000moff` |
+| Everyman's Life of Jesus (catalogued 1925) | have-ocr | IA `everymanslifeofj0000jame` |
+| Handbook to the Church hymnary (London, Oxford University Press, H. Milford, 1927) | have-ocr | IA `handbooktochurch0000moff` |
+| The Presbyterian churches (Garden City, N.Y., Doubleday, Doran & Company, Inc., 1928) | have-ocr | IA `presbyterianchur0000moff` |
+| The general epistles, James, Peter, and Judas (New York : Harper, 1928) | have-ocr | IA `generalepistlesj0000moff` |
+| Love in the new testament (catalogued 1929) | have-ocr | IA `loveinnewtestame0000jame_n6a0` |
+| books he only edited or translated from others: Harnack's Expansion of Christianity, The Golden Book of John Owen, The Golden Book of Tillotson, Letters of Principal Denney, The Expositor volumes | excluded | |
+| George Meredith primer and school editions of Burke and Shakespeare (not theology) | excluded | |
+| everything printed from 1930 on, including his 1 Corinthians commentary (1938) | excluded | |

@@ -1,0 +1,344 @@
+{
+ "_about": "Public-domain James Moffatt (1870-1944), Scottish New Testament scholar and translator, for the Word Hoard: only his books printed before 1930, among them The Historical New Testament, Paul and Paulinism, An Introduction to the Literature of the New Testament, The Theology of the Gospels, his New Testament (1913) and Old Testament (1924-25) translations, the ICC Hebrews, The Approach to the New Testament, Everyman's Life of Jesus, The Presbyterian Churches and Love in the New Testament. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 85 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james moffatt",
+  "j. moffatt"
+ ],
+ "_surname": [
+  "james moffatt",
+  "j. moffatt",
+  "moffatt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moffatt-historical-nt": [
+   "historicalnewtes00moffuoft",
+   "The historical New Testament; being the literature of the New Testament arranged in the order of its literary growth and according to the dates of the documents; a new translation, ed. with prolegomena, historical tables, critical notes and an appendix (Edinburgh, Clark, 1901)"
+  ],
+  "moffatt-romans-1905": [
+   "epistletoromans00moff",
+   "The Epistle to the Romans (New York : A. C. Armstrong, 1905)"
+  ],
+  "moffatt-daniel-1905": [
+   "bookofdaniel00moff",
+   "The book of Daniel (New York : A.C. Armstrong, 1905)"
+  ],
+  "moffatt-paul-paulinism": [
+   "paulpaulinism00moff",
+   "Paul and Paulinism (Boston and New York, Houghton Mifflin company, 1910)"
+  ],
+  "moffatt-reasons": [
+   "reasonsreasonshas00moff",
+   "Reasons and reasons (New York : Hodder and Stoughton, 1911)"
+  ],
+  "moffatt-intro-literature-nt": [
+   "introductiontoli0000moff",
+   "An introduction to the literature of the New Testament (New York, C. Scribner's Sons, 1911)"
+  ],
+  "moffatt-theology-gospels": [
+   "theologygospels00moffuoft",
+   "The theology of the Gospels (London : Duckworth, 1912)"
+  ],
+  "moffatt-new-testament": [
+   "newtestmoff00moffuoft",
+   "The New Testament (New York, Hodder and Stoughton, 1913)"
+  ],
+  "moffatt-biblical-devotions": [
+   "bookofbiblicalde00moff",
+   "A book of Biblical devotions for members of the Scottish Church (London, Hodder and Stoughton, 1919)"
+  ],
+  "moffatt-second-things": [
+   "thesecondthingso00moffuoft",
+   "The second things of life (London : Hodder & Stoughton, 1920)"
+  ],
+  "moffatt-approach-nt": [
+   "approachtonewtes0000moff",
+   "The approach to the New Testament : lectures delivered in London and Cambridge, April-May, 1921 (London : Hodder and Stoughton, Limited, 1921)"
+  ],
+  "moffatt-jesus-on-love": [
+   "jesusonlovetogod00moffrich",
+   "Jesus on love to God, Jesus on love to man (Philadelphia, The Press of the University of Pennsylvania, 1922)"
+  ],
+  "moffatt-hebrews-icc": [
+   "criticalexegetic00moff",
+   "A critical and exegetical commentary on the epistle to the Hebrews (New York : Scribner, 1924)"
+  ],
+  "moffatt-old-testament-1": [
+   "oldtestament0001jame",
+   "The old testament, vol. 1 (George H. Doran Company, 1924)"
+  ],
+  "moffatt-old-testament-2": [
+   "oldtestamentvolu0002jame",
+   "The Old Testament: Volume II - Job Through Malachi, vol. 2 (George H. Doran, 1925)"
+  ],
+  "moffatt-bible-scots-literature": [
+   "bibleinscotslite0000moff",
+   "The Bible in Scots literature (London : Hodder and Stoughton, 1924)"
+  ],
+  "moffatt-everyman-life-jesus": [
+   "everymanslifeofj0000jame",
+   "Everyman's Life of Jesus (catalogued 1925)"
+  ],
+  "moffatt-church-hymnary": [
+   "handbooktochurch0000moff",
+   "Handbook to the Church hymnary (London, Oxford University Press, H. Milford, 1927)"
+  ],
+  "moffatt-presbyterian-churches": [
+   "presbyterianchur0000moff",
+   "The Presbyterian churches (Garden City, N.Y., Doubleday, Doran & Company, Inc., 1928)"
+  ],
+  "moffatt-general-epistles": [
+   "generalepistlesj0000moff",
+   "The general epistles, James, Peter, and Judas (New York : Harper, 1928)"
+  ],
+  "moffatt-love-nt": [
+   "loveinnewtestame0000jame_n6a0",
+   "Love in the new testament (catalogued 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "moffatt-edited": "books he only edited or translated from others: Harnack's Expansion of Christianity, The Golden Book of John Owen, The Golden Book of Tillotson, Letters of Principal Denney, The Expositor volumes",
+  "moffatt-literary": "George Meredith primer and school editions of Burke and Shakespeare (not theology)",
+  "moffatt-after-1929": "everything printed from 1930 on, including his 1 Corinthians commentary (1938)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "moffatt-historical-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-romans-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-daniel-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-paul-paulinism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-reasons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-intro-literature-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-theology-gospels": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-new-testament": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-biblical-devotions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-second-things": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-approach-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-jesus-on-love": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moffatt-hebrews-icc": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-old-testament-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-old-testament-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-bible-scots-literature": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-everyman-life-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-church-hymnary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-presbyterian-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-general-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moffatt-love-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james moffatt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
