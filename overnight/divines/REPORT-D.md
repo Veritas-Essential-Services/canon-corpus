@@ -2729,3 +2729,6 @@
 
 ## 2026-10-22 23:24 CDT — emma-c-dowd: done
 - emma-c-dowd: new shelf, 5 Gutenberg books, 11,089 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 23:24 CDT — francis-worcester-doughty: done
+- francis-worcester-doughty: new shelf, 5 Gutenberg books, 9,171 units, 16 ~2 ids; verify 0 mismatches, 0 rights flags.

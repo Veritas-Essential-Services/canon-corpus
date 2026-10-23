@@ -44759,3 +44759,15 @@ Shelf: `pipeline/emma-c-dowd_shelf.json` (2026-10-22; added at the coordinator's
 | Polly of Lady Gay Cottage | have | PG 29088, `ecdowd-polly-of-lady-gay-cottage` (1613 units) |
 | Doodles, the Sunshine Boy | have | PG 58164, `ecdowd-doodles-the-sunshine-boy` (2290 units) |
 | When Polly Was Eighteen | have | PG 58512, `ecdowd-when-polly-was-eighteen` (2278 units) |
+
+## Francis Worcester Doughty
+
+Shelf: `pipeline/francis-worcester-doughty_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Novels and stories. Every English text under the name at Gutenberg that no other shelf holds (5 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Bradys and the Girl Smuggler; Or, Working for the Custom House | have | PG 16919, `fwdoughty-bradys-and-the-girl-smuggler` (1800 units) |
+| The Bradys Beyond Their Depth; Or, The Great Swamp Mystery | have | PG 26925, `fwdoughty-bradys-beyond-their-depth` (1912 units) |
+| The Bradys' Chinese Clew; Or, The Secret Dens of Pell Street | have | PG 37092, `fwdoughty-bradys-chinese-clew` (1661 units) |
+| The Bradys After a Chinese Princess; Or, The Yellow Fiends of 'Frisco | have | PG 37314, `fwdoughty-bradys-after-a-chinese-princess` (1767 units) |
+| The Bradys' Race for Life; or, Rounding Up a Tough Trio: A Detective Story of Life | have | PG 60903, `fwdoughty-bradys-race-for-life` (2031 units) |

@@ -1,0 +1,86 @@
+{
+ "_about": "Francis Worcester Doughty: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Francis Worcester Doughty",
+ "_name_words": [
+  "doughty",
+  "francis",
+  "worcester"
+ ],
+ "_surname": [
+  "francis worcester doughty",
+  "doughty"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fwdoughty-bradys-and-the-girl-smuggler": [
+   16919,
+   "The Bradys and the Girl Smuggler; Or, Working for the Custom House"
+  ],
+  "fwdoughty-bradys-beyond-their-depth": [
+   26925,
+   "The Bradys Beyond Their Depth; Or, The Great Swamp Mystery"
+  ],
+  "fwdoughty-bradys-chinese-clew": [
+   37092,
+   "The Bradys' Chinese Clew; Or, The Secret Dens of Pell Street"
+  ],
+  "fwdoughty-bradys-after-a-chinese-princess": [
+   37314,
+   "The Bradys After a Chinese Princess; Or, The Yellow Fiends of 'Frisco"
+  ],
+  "fwdoughty-bradys-race-for-life": [
+   60903,
+   "The Bradys' Race for Life; or, Rounding Up a Tough Trio: A Detective Story of Life"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "fwdoughty-bradys-and-the-girl-smuggler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis worcester doughty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwdoughty-bradys-beyond-their-depth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis worcester doughty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwdoughty-bradys-chinese-clew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis worcester doughty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwdoughty-bradys-after-a-chinese-princess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis worcester doughty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwdoughty-bradys-race-for-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis worcester doughty",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
