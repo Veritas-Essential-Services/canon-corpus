@@ -21283,3 +21283,40 @@ Shelf: `pipeline/storytellers-tail-49_shelf.json` (2026-10-22; added at the coor
 | The Fall of Ulysses: An Elephant Story | have | PG 61624, `cdwillard-fall-of-ulysses` (97 units) |
 | With the Indians in France | have | PG 77003, `jwillcocks-with-the-indians-in-france` (4290 units) |
 | How to study "The best short stories" | have | PG 74565, `bcwilliams-how-to-study-the-best-short-stories` (1307 units) |
+
+## Storytellers' tail, group 50 (30 authors)
+
+Shelf: `pipeline/storytellers-tail-50_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). 30 authors with 1 Gutenberg texts each: Wayland Wells Williams, A. J. Wilson, Harriet E. Wilson, John Fleming Wilson, John Mackay Wilson, Alice Ames Winter, William West Winter, Thomas A. Wise, Emma Wolf, Benjamin Wood, Eugene Wood, George L. Wood, Irving Francis Wood, John F. Woodhull, Kate Tannatt Woods, Katharine Pearson Woods, Margaret L. Woods, B. B. Woodward, Douglas H. Woodworth, Thomas Woolner, J. Jackson Wray, Ernest Vincent Wright, Frances Wright, Rowland Wright, E. A. Wyke-Smith, Fred E. Wynne, Madeline Yale Wynne, Barbara Yechton, Art Young, Bennett H. Young. Every English text under the name at Gutenberg that no other shelf holds (29 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Whirligig of Time | have | PG 37906, `wwwilliams-whirligig-of-time` (2906 units) |
+| The Life of Thomas Wanless, Peasant | have | PG 38136, `ajwilson-life-of-thomas-wanless-peasant` (570 units) |
+| Our Nig; Or, Sketches from the Life of a Free Black, in a Two-story White House, North Showing That Slavery's Shadows Fall Even There | have | PG 584, `hewilson-our-nig` (518 units) |
+| The closed door | have | PG 74137, `jfwilson-closed-door` (143 units) |
+| The Faa's revenge, and other tales | have | PG 75771, `jmwilson-faa-s-revenge-and-other-tales` (1029 units) |
+| Jewel Weed | have | PG 23996, `aawinter-jewel-weed` (2099 units) |
+| Louisiana Lou A Western Story | have | PG 29028, `wwwinter-louisiana-lou-a-western-story` (1689 units) |
+| A Gentleman from Mississippi | have | PG 10844, `tawise-gentleman-from-mississippi` (1484 units) |
+| Other Things Being Equal | have | PG 1839, `ewolf-other-things-being-equal` (2184 units) |
+| Fort Lafayette or, Love and Secession: A Novel | have | PG 12452, `bwood-fort-lafayette-or-love-and-secession` (1107 units) |
+| Back Home | have | PG 2642, `ewood-back-home` (717 units) |
+| The Seventh Regiment: A Record | have | PG 44783, `glwood-seventh-regiment` (695 units) |
+| The Bible Story | have | PG 32736, `ifwood-bible-story` (13073 units) |
+| The Library of Work and Play: Electricity and Its Everyday Uses | have | PG 45331, `jfwoodhull-library-of-work-and-play` (998 units) |
+| Toots and His Friends | have | PG 45388, `ktwoods-toots-and-his-friends` (603 units) |
+| Metzerott, Shoemaker | have | PG 67671, `kpwoods-metzerott-shoemaker` (2345 units) |
+| The Invader: A Novel | have | PG 28162, `mlwoods-invader` (1440 units) |
+| Sea-Weeds, Shells and Fossils | have | PG 37119, `bbwoodward-sea-weeds-shells-and-fossils` (409 units) |
+| Ducky entertains | have | PG 79433, `dhwoodworth-ducky-entertains` (124 units) |
+| My Beautiful Lady. Nelly Dale | have | PG 17574, `twoolner-my-beautiful-lady-nelly-dale` (307 units) |
+| Nestleton Magna: A Story of Yorkshire Methodism | have | PG 41916, `jjwray-nestleton-magna` (1540 units) |
+| A few days in Athens being the translation of a Greek manuscript discovered in Herculaneum | have | PG 69466, `fwright-few-days-in-athens-being-the-translation-of-a-greek` (658 units) |
+| The Disappearance of Kimball Webb | have | PG 59060, `rwright-disappearance-of-kimball-webb` (2386 units) |
+| The marvellous land of Snergs | have | PG 78120, `eawykesmith-marvellous-land-of-snergs` (1244 units) |
+| A Mediterranean mystery | have | PG 74400, `fewynne-mediterranean-mystery` (2547 units) |
+| The Little Room, and Other Stories | have | PG 58855, `mywynne-little-room-and-other-stories` (504 units) |
+| We ten | have | PG 20052, `byechton-we-ten` (1208 units) |
+| Through Hell with Hiprah Hunt A Series of Pictures and Notes of Travel Illustrating the Adventures of a Modern Dante in the Infernal Regions; Also Other Pictures of the Same Subterranean World | have | PG 58131, `ayoung-through-hell-with-hiprah-hunt-a-series-of-pictures-an` (422 units) |
+| Confederate wizards of the saddle | have | PG 70204, `bhyoung-confederate-wizards-of-the-saddle` (1660 units) |
+| post-1930 | pending | HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 47342 Gadsby (copyright line 1939). The text names a 1931 or later copyright, so it is not taken until Adam rules. |

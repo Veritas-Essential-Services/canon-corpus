@@ -1,0 +1,510 @@
+{
+ "_about": "Storytellers' tail, group 50: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Wayland Wells Williams, A. J. Wilson, Harriet E. Wilson, John Fleming Wilson, John Mackay Wilson, Alice Ames Winter, William West Winter, Thomas A. Wise, Emma Wolf, Benjamin Wood, Eugene Wood, George L. Wood, Irving Francis Wood, John F. Woodhull, Kate Tannatt Woods, Katharine Pearson Woods, Margaret L. Woods, B. B. Woodward, Douglas H. Woodworth, Thomas Woolner, J. Jackson Wray, Ernest Vincent Wright, Frances Wright, Rowland Wright, E. A. Wyke-Smith, Fred E. Wynne, Madeline Yale Wynne, Barbara Yechton, Art Young, Bennett H. Young. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 50 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "wwwilliams-whirligig-of-time": [
+   "wayland wells williams",
+   "williams"
+  ],
+  "ajwilson-life-of-thomas-wanless-peasant": [
+   "a. j. wilson",
+   "alexander johnstone wilson"
+  ],
+  "hewilson-our-nig": [
+   "harriet e. wilson"
+  ],
+  "jfwilson-closed-door": [
+   "john fleming wilson"
+  ],
+  "jmwilson-faa-s-revenge-and-other-tales": [
+   "john mackay wilson"
+  ],
+  "aawinter-jewel-weed": [
+   "alice ames winter",
+   "winter"
+  ],
+  "wwwinter-louisiana-lou-a-western-story": [
+   "william west winter",
+   "winter"
+  ],
+  "tawise-gentleman-from-mississippi": [
+   "thomas a. wise",
+   "thomas alfred wise"
+  ],
+  "ewolf-other-things-being-equal": [
+   "emma wolf"
+  ],
+  "bwood-fort-lafayette-or-love-and-secession": [
+   "benjamin wood"
+  ],
+  "ewood-back-home": [
+   "eugene wood"
+  ],
+  "glwood-seventh-regiment": [
+   "george l. wood"
+  ],
+  "ifwood-bible-story": [
+   "irving francis wood"
+  ],
+  "jfwoodhull-library-of-work-and-play": [
+   "john f. woodhull",
+   "john francis woodhull",
+   "woodhull"
+  ],
+  "ktwoods-toots-and-his-friends": [
+   "kate tannatt woods",
+   "woods"
+  ],
+  "kpwoods-metzerott-shoemaker": [
+   "katharine pearson woods",
+   "woods"
+  ],
+  "mlwoods-invader": [
+   "margaret l. woods",
+   "margaret louisa woods",
+   "woods"
+  ],
+  "bbwoodward-sea-weeds-shells-and-fossils": [
+   "b. b. woodward",
+   "bernard bolingbroke woodward",
+   "woodward"
+  ],
+  "dhwoodworth-ducky-entertains": [
+   "douglas h. woodworth",
+   "woodworth"
+  ],
+  "twoolner-my-beautiful-lady-nelly-dale": [
+   "thomas woolner",
+   "woolner"
+  ],
+  "jjwray-nestleton-magna": [
+   "j. jackson wray",
+   "james jackson wray"
+  ],
+  "evwright-gadsby": [
+   "ernest vincent wright",
+   "wright"
+  ],
+  "fwright-few-days-in-athens-being-the-translation-of-a-greek": [
+   "frances wright",
+   "wright"
+  ],
+  "rwright-disappearance-of-kimball-webb": [
+   "rowland wright",
+   "wright"
+  ],
+  "eawykesmith-marvellous-land-of-snergs": [
+   "e. a. wyke-smith",
+   "edward augustine wyke-smith",
+   "wyke-smith"
+  ],
+  "fewynne-mediterranean-mystery": [
+   "fred e. wynne",
+   "wynne"
+  ],
+  "mywynne-little-room-and-other-stories": [
+   "madeline yale wynne",
+   "wynne"
+  ],
+  "byechton-we-ten": [
+   "barbara yechton",
+   "yechton"
+  ],
+  "ayoung-through-hell-with-hiprah-hunt-a-series-of-pictures-an": [
+   "art young"
+  ],
+  "bhyoung-confederate-wizards-of-the-saddle": [
+   "bennett h. young",
+   "bennett henderson young"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "wwwilliams-whirligig-of-time": [
+   37906,
+   "The Whirligig of Time"
+  ],
+  "ajwilson-life-of-thomas-wanless-peasant": [
+   38136,
+   "The Life of Thomas Wanless, Peasant"
+  ],
+  "hewilson-our-nig": [
+   584,
+   "Our Nig; Or, Sketches from the Life of a Free Black, in a Two-story White House, North Showing That Slavery's Shadows Fall Even There"
+  ],
+  "jfwilson-closed-door": [
+   74137,
+   "The closed door"
+  ],
+  "jmwilson-faa-s-revenge-and-other-tales": [
+   75771,
+   "The Faa's revenge, and other tales"
+  ],
+  "aawinter-jewel-weed": [
+   23996,
+   "Jewel Weed"
+  ],
+  "wwwinter-louisiana-lou-a-western-story": [
+   29028,
+   "Louisiana Lou A Western Story"
+  ],
+  "tawise-gentleman-from-mississippi": [
+   10844,
+   "A Gentleman from Mississippi"
+  ],
+  "ewolf-other-things-being-equal": [
+   1839,
+   "Other Things Being Equal"
+  ],
+  "bwood-fort-lafayette-or-love-and-secession": [
+   12452,
+   "Fort Lafayette or, Love and Secession: A Novel"
+  ],
+  "ewood-back-home": [
+   2642,
+   "Back Home"
+  ],
+  "glwood-seventh-regiment": [
+   44783,
+   "The Seventh Regiment: A Record"
+  ],
+  "ifwood-bible-story": [
+   32736,
+   "The Bible Story"
+  ],
+  "jfwoodhull-library-of-work-and-play": [
+   45331,
+   "The Library of Work and Play: Electricity and Its Everyday Uses"
+  ],
+  "ktwoods-toots-and-his-friends": [
+   45388,
+   "Toots and His Friends"
+  ],
+  "kpwoods-metzerott-shoemaker": [
+   67671,
+   "Metzerott, Shoemaker"
+  ],
+  "mlwoods-invader": [
+   28162,
+   "The Invader: A Novel"
+  ],
+  "bbwoodward-sea-weeds-shells-and-fossils": [
+   37119,
+   "Sea-Weeds, Shells and Fossils"
+  ],
+  "dhwoodworth-ducky-entertains": [
+   79433,
+   "Ducky entertains"
+  ],
+  "twoolner-my-beautiful-lady-nelly-dale": [
+   17574,
+   "My Beautiful Lady. Nelly Dale"
+  ],
+  "jjwray-nestleton-magna": [
+   41916,
+   "Nestleton Magna: A Story of Yorkshire Methodism"
+  ],
+  "fwright-few-days-in-athens-being-the-translation-of-a-greek": [
+   69466,
+   "A few days in Athens being the translation of a Greek manuscript discovered in Herculaneum"
+  ],
+  "rwright-disappearance-of-kimball-webb": [
+   59060,
+   "The Disappearance of Kimball Webb"
+  ],
+  "eawykesmith-marvellous-land-of-snergs": [
+   78120,
+   "The marvellous land of Snergs"
+  ],
+  "fewynne-mediterranean-mystery": [
+   74400,
+   "A Mediterranean mystery"
+  ],
+  "mywynne-little-room-and-other-stories": [
+   58855,
+   "The Little Room, and Other Stories"
+  ],
+  "byechton-we-ten": [
+   20052,
+   "We ten"
+  ],
+  "ayoung-through-hell-with-hiprah-hunt-a-series-of-pictures-an": [
+   58131,
+   "Through Hell with Hiprah Hunt A Series of Pictures and Notes of Travel Illustrating the Adventures of a Modern Dante in the Infernal Regions; Also Other Pictures of the Same Subterranean World"
+  ],
+  "bhyoung-confederate-wizards-of-the-saddle": [
+   70204,
+   "Confederate wizards of the saddle"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 47342 Gadsby (copyright line 1939). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "wwwilliams-whirligig-of-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wayland wells williams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ajwilson-life-of-thomas-wanless-peasant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. j. wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hewilson-our-nig": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harriet e. wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfwilson-closed-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john fleming wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmwilson-faa-s-revenge-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john mackay wilson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aawinter-jewel-weed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice ames winter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwwinter-louisiana-lou-a-western-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william west winter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tawise-gentleman-from-mississippi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas a. wise",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewolf-other-things-being-equal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emma wolf",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bwood-fort-lafayette-or-love-and-secession": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewood-back-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "glwood-seventh-regiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george l. wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ifwood-bible-story": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "irving francis wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfwoodhull-library-of-work-and-play": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john f. woodhull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ktwoods-toots-and-his-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "kate tannatt woods",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kpwoods-metzerott-shoemaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "katharine pearson woods",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlwoods-invader": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret l. woods",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bbwoodward-sea-weeds-shells-and-fossils": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. b. woodward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dhwoodworth-ducky-entertains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "douglas h. woodworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twoolner-my-beautiful-lady-nelly-dale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas woolner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jjwray-nestleton-magna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. jackson wray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwright-few-days-in-athens-being-the-translation-of-a-greek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frances wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwright-disappearance-of-kimball-webb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rowland wright",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eawykesmith-marvellous-land-of-snergs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. a. wyke-smith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fewynne-mediterranean-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fred e. wynne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mywynne-little-room-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "madeline yale wynne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "byechton-we-ten": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barbara yechton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ayoung-through-hell-with-hiprah-hunt-a-series-of-pictures-an": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "art young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bhyoung-confederate-wizards-of-the-saddle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bennett h. young",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}
