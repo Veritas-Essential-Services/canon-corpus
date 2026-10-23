@@ -2159,3 +2159,6 @@
 
 ## 2026-10-22 22:48 CDT — blanche-mcmanus: done
 - blanche-mcmanus: new shelf, 9 Gutenberg books, 6,299 units, 5 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:48 CDT — anne-manning: done
+- anne-manning: new shelf, 9 Gutenberg books, 8,709 units, 22 ~2 ids; verify 0 mismatches, 0 rights flags.

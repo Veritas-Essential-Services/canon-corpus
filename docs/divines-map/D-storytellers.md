@@ -16106,3 +16106,19 @@ Shelf: `pipeline/blanche-mcmanus_shelf.json` (2026-10-22; added at the coordinat
 | Our Little Arabian Cousin | have | PG 46042, `bmcmanus-our-little-arabian-cousin` (647 units) |
 | Romantic Ireland; volume 1/2 | have | PG 46429, `bmcmanus-romantic-ireland` (1056 units) |
 | Romantic Ireland; volume 2/2 | have | PG 46439, `bmcmanus-romantic-ireland-46439` (1235 units) |
+
+## Anne Manning
+
+Shelf: `pipeline/anne-manning_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Historical tales (Mary Powell and the rest). Every English text under the name at Gutenberg that no other shelf holds (9 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Jacques Bonneval; Or, The Days of the Dragonnades | have | PG 13896, `amanning-jacques-bonneval` (653 units) |
+| Mary Powell & Deborah's Diary | have | PG 21431, `amanning-mary-powell-deborahs-diary` (780 units) |
+| The Duchess of Trajetto | have | PG 42296, `amanning-duchess-of-trajetto` (1035 units) |
+| The Household of Sir Thomas More | have | PG 45187, `amanning-household-of-sir-thomas-more` (643 units) |
+| The Year Nine: A Tale of the Tyrol | have | PG 49290, `amanning-year-nine` (2125 units) |
+| The Colloquies of Edward Osborne, Citizen and Clothworker of London | have | PG 51557, `amanning-colloquies-of-edward-osborne-citizen-and-clothworke` (562 units) |
+| The Old Chelsea Bun-House: A Tale of the Last Century | have | PG 51829, `amanning-old-chelsea-bun-house` (1126 units) |
+| Cherry & Violet: A Tale of the Great Plague | have | PG 61080, `amanning-cherry-violet` (778 units) |
+| The Day of Small Things | have | PG 62219, `amanning-day-of-small-things` (1007 units) |
