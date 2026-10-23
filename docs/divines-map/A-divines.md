@@ -17164,3 +17164,17 @@ Slugs `bradlee-*`. Built from title pages read for round 111.
 | Sermons for the church (Boston, G. H. Ellis, 1893) | have-ocr | IA `sermonsforchurch00bradrich` |
 | Recollections of a Ministry of Forty Years: Dec. 11, 1854--Dec. 11, 1894 (Geo. H. Ellis, 1895) | have-ocr | IA `recollectionsam03bradgoog` |
 | mozartpoem0000brad (1962, another Bradlee) | excluded | |
+
+## John Carry (round 111, my pick, 2026-10-23)
+
+Slugs `carry-*`. Built from title pages read for round 111.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons doctrinal, devotional and practical (Quebec : J. Lovell, 1860) | have-ocr | IA `cihm_54327` |
+| God's worship not self-seeking : a sermon preached in Christ Church, Holland Landing, and St. James the Apostle, Sharon, June 1871 (Toronto : H. Rowsell, 1871) | have-ocr | IA `cihm_10279` |
+| Restorationism : two sermons preached in St. Stephen's Church, Toronto, on the last Sunday after Trinity, 1875 (Toronto : Hart & Rawlinson, 1875) | have-ocr | IA `cihm_88813` |
+| An exposure of the mischievous perversions of Holy Scripture : in the National Temperance Society's publications, addressed to men of sense and candour (Toronto : Printed by Rowsell & Hutchison, 1885) | have-ocr | IA `exposureofmischi00carr` |
+| cihm_00493 (another scan of the Exposure) | excluded | |
+| essayonsubjectof00nico (an essay by another hand) | excluded | |
+| cihm_92034 (King William III's prayers, which Carry edited) | excluded | |
