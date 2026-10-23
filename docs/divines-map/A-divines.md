@@ -12447,3 +12447,15 @@ Slugs `jclifford-*`. Built from title pages read for round 59.
 | The gospel of gladness and its meaning for us (Edinburgh : T. & T. Clark, 1912) | have-ocr | IA `thoughtsandteach00clifuoft` |
 | The gospel of world brotherhood according to Jesus (London : Hodder and Stoughton, 1920) | have-ocr | IA `gospelofworldbro0000clif` |
 | The English Baptists: Who They Are and What They Have Done (1881, essays by several hands); W. K. Clifford's works | excluded | |
+
+## Hugh Price Hughes (round 59, my pick, 2026-10-23)
+
+Slugs `hphughes-*`. Built from title pages read for round 59.
+
+| Work | Status | Where |
+|---|---|---|
+| Social Christianity : sermons delivered in St. James's hall, London (New York : Funk and Wagnalls, [188) | have-ocr | IA `socialchristiani00hugh` |
+| The Philanthropy of Gods (catalogued 1889) | have-ocr | IA `philanthropyofgo0000hugh` |
+| Ethical Christianity : a series of sermons (London : Sampson Low, Marston & Company Limited, 1892) | have-ocr | IA `ethicalchrist00hughuoft` |
+| Essential Christianity (New York, Chicago, Toronto, Fleming H. Revell company, 1894) | have-ocr | IA `essentialchristi00hugh` |
+| The Life of Hugh Price Hughes by his daughter (1904) | excluded | |
