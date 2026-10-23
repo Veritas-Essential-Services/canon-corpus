@@ -10130,3 +10130,15 @@ Slugs `sterry-*`. Built from title pages read for round 41.
 | The rise, race and royalty of the kingdom of God in the soul of man : Opened in several sermons ... As also the loveliness & love of Christ set forth in several other sermons ... sermons upon Ps. 45.1.2 : with an account of saint's soul and body in death (London : Printed for Thomas Cockerill, 1683) | have-ocr | IA `riseraceroo00ster` |
 | The appearance of God to man in the gospel, and the gospel change : together with several other discourses from Scripture, to which is added an explication of the Trinity; and a short catechism (London : [s.n.], 1710) | have-ocr | IA `appgodt00ster` |
 | A Discourse of the Freedom of the Will (1675): no scan found | pending | not shelved |
+
+## John Wilkins (round 41, my pick, 2026-10-22)
+
+Slugs `wilkins-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| Sermons preach'd upon several occasions (London : Printed for Ri. Chiswell, Will. Battersby, and Will. Rogers, 1701) | have-ocr | IA `sermonspreachdup00wilk` |
+| A Discourse concerning the gift of prayer : shewing what it is, wherein it consists, and how far it is attainable by industry ; with divers useful and proper directions to that purpose, both in respect of matter, method, expression (London : Printed for J. Lawrence [etc.], 1704) | have-ocr | IA `discourseconcern00wilk` |
+| Of the principles and duties of natural religion : two books (London : Printed for J. Walthoe, J. Knapton [etc.], 1734) | have-ocr | IA `ofprinciplesduti00wilk` |
+| Other printings of each (1718 Gift of Prayer and others) | alternate | not shelved |
+| His natural philosophy (The Discovery of a World in the Moone 1638, Mathematicall Magick 1648, Mercury 1641/1694, the Mathematical and Philosophical Works 1708, 1802): outside lane A's theology scope | excluded | |
