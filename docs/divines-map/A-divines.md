@@ -9870,3 +9870,14 @@ Slugs `hickes-*`. Built from title pages read for round 40.
 | Some Discourses Upon Dr. Burnet and Dr. Tillotson: Occasioned by the Late Funeral Sermon of the (catalogued 1695) [somediscoursesu00hickgoog]: title page (OCR) names no author ('Printed in the Year MDCXCV'); the attribution is the catalogue's | pending | not shelved |
 | Other scans of the 1847 Two Treatises (Toronto, Google) and the 1707 and 1711 printings; other copies of each early work | alternate | not shelved |
 | The Thesaurus of the northern languages (1703-1705, Latin philology); Devotions in the Ancient Way of Offices (1846), John Austin's book as Hickes reformed it; Fenelon's Instructions for the Education of a Daughter and the Gentleman Instructed, which he translated or prefaced | excluded | |
+
+## Charles Leslie (round 40, my pick, 2026-10-22)
+
+Slugs `leslie-*`. Built from title pages read for round 40.
+
+| Work | Status | Where |
+|---|---|---|
+| The theological works of the Reverend Mr. Charles Leslie, in two volumes, vol. 1 (London: W. Bowyer, 1721) | have-ocr | IA `bim_eighteenth-century_the-theological-works-of_leslie-charles_1721_1` |
+| The theological works of the Reverend Mr. Charles Leslie, in two volumes, vol. 2 (London: W. Bowyer, 1721) | have-ocr | IA `bim_eighteenth-century_the-theological-works-of_leslie-charles_1721_2` |
+| The Oxford 1832 Theological Works in seven volumes (only vols. 1, 2, 3 and 7 are on the Archive, so the complete 1721 folio is shelved instead); separate printings of the Short and Easy Method with the Deists (1698-1841), the Snake in the Grass (1696-1698), the Case of the Regale (1700, 1838), Five Discourses (1700) | alternate | not shelved |
+| His Jacobite political journalism (The Rehearsal) and works by other Charles Leslies | excluded | |
