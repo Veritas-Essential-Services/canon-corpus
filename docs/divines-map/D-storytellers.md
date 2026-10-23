@@ -13138,3 +13138,32 @@ Shelf: `pipeline/lillian-elizabeth-roy_shelf.json` (2026-10-22; added at the coo
 | Janet: A Stock-Farm Scout | have | PG 67053, `leroy-janet` (1394 units) |
 | Polly in the Southwest | have | PG 67057, `leroy-polly-in-the-southwest` (1148 units) |
 | Norma: A Flower Scout | have | PG 67091, `leroy-norma` (1236 units) |
+
+## Harold MacGrath
+
+Shelf: `pipeline/harold-macgrath_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Romances and adventure novels. Every English text under the name at Gutenberg that no other shelf holds (22 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| The Drums of Jeopardy | have | PG 1913, `hmacgrath-drums-of-jeopardy` (2270 units) |
+| The Puppet Crown | have | PG 3239, `hmacgrath-puppet-crown` (2925 units) |
+| Half a Rogue | have | PG 4790, `hmacgrath-half-a-rogue` (2539 units) |
+| The Man on the Box | have | PG 6578, `hmacgrath-man-on-the-box` (1907 units) |
+| The Goose Girl | have | PG 14598, `hmacgrath-goose-girl` (2667 units) |
+| The Ragged Edge | have | PG 15614, `hmacgrath-ragged-edge` (1955 units) |
+| A Splendid Hazard | have | PG 15671, `hmacgrath-splendid-hazard` (2012 units) |
+| The Grey Cloak | have | PG 16041, `hmacgrath-grey-cloak` (3644 units) |
+| The Voice in the Fog | have | PG 16051, `hmacgrath-voice-in-the-fog` (1158 units) |
+| Arms and the Woman | have | PG 17359, `hmacgrath-arms-and-the-woman` (2324 units) |
+| Hearts and Masks | have | PG 17390, `hmacgrath-hearts-and-masks` (939 units) |
+| The Princess Elopes | have | PG 17391, `hmacgrath-princess-elopes` (1126 units) |
+| The Adventures of Kathlyn | have | PG 17402, `hmacgrath-adventures-of-kathlyn` (2700 units) |
+| Parrot & Co. | have | PG 18443, `hmacgrath-parrot-co` (1491 units) |
+| The Lure of the Mask | have | PG 22158, `hmacgrath-lure-of-the-mask` (2654 units) |
+| The Place of Honeymoons | have | PG 26593, `hmacgrath-place-of-honeymoons` (1677 units) |
+| The Pagan Madonna | have | PG 27339, `hmacgrath-pagan-madonna` (2002 units) |
+| The Million Dollar Mystery Novelized from the Scenario of F. Lonergan | have | PG 39134, `hmacgrath-million-dollar-mystery-novelized-from-the-scenario` (2779 units) |
+| The Carpet from Bagdad | have | PG 43749, `hmacgrath-carpet-from-bagdad` (1684 units) |
+| The Best Man | have | PG 45528, `hmacgrath-best-man` (906 units) |
+| Enchantment | have | PG 55162, `hmacgrath-enchantment` (1235 units) |
+| The Yellow Typhoon | have | PG 56945, `hmacgrath-yellow-typhoon` (1584 units) |
