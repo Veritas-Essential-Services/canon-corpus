@@ -10101,3 +10101,12 @@ Slugs `jolly-*`. Built from title pages read for round 41.
 | The Christian sacrifice in the eucharist; considered as it is the doctrine of holy Scripture (catalogued 1831) | have-ocr | IA `christiansacrif00jollgoog` |
 | Observations upon the several Sunday services and principal holydays prescribed by the Liturgy throughout the year; with a few general remarks upon the design of the inferior holydays; being a humble attempt to illustrate the doctrinal as well as devotional tendency of each ... to which is prefixed (Edinburgh, Grant, 1840) | have-ocr | IA `observationsupon00jolluoft` |
 | The 1847 printing of the Christian Sacrifice | alternate | not shelved |
+
+## Thomas Rattray (round 41, my pick, 2026-10-22)
+
+Slugs `rattray-*`. Built from title pages read for round 41.
+
+| Work | Status | Where |
+|---|---|---|
+| The ancient liturgy of the Church of Jerusalem, : being the liturgy of St. James, freed from all latter additions and interpolations ... and so restored to it's original purity: by comparing it with the account (London, : Printed by J. Bettenham, 1744) | have-ocr | IA `ancientliturgyc01churgoog` |
+| Later Rattrays (poets, travellers, physicians) | excluded | |
