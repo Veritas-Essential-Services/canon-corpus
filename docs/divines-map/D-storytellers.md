@@ -13470,3 +13470,29 @@ Shelf: `pipeline/jc-snaith_shelf.json` (2026-10-22; added at the coordinator's r
 | There is a tide | have | PG 73250, `jcsnaith-there-is-a-tide` (1875 units) |
 | Fortune | have | PG 73402, `jcsnaith-fortune` (1724 units) |
 | Patricia at the inn | have | PG 73409, `jcsnaith-patricia-at-the-inn` (886 units) |
+
+## Emma Leslie
+
+Shelf: `pipeline/emma-leslie_shelf.json` (2026-10-22; added at the coordinator's relay of Adam's keep-going wish, Adam may veto). Church-history stories for young readers. Every English text under the name at Gutenberg that no other shelf holds (19 books). Not in the manifest; no uids minted.
+
+| Work | Status | Where |
+|---|---|---|
+| Hayslope Grange: A Tale of the Civil War | have | PG 19136, `eleslie-hayslope-grange` (593 units) |
+| Kate's ordeal | have | PG 20307, `eleslie-kates-ordeal` (479 units) |
+| A sailor's lass | have | PG 21797, `eleslie-sailors-lass` (517 units) |
+| That scholarship boy | have | PG 26104, `eleslie-that-scholarship-boy` (647 units) |
+| Charley's Log: A Story of Schoolboy Life | have | PG 61457, `eleslie-charleys-log` (531 units) |
+| At the "Sign of the Golden Fleece" | have | PG 71012, `eleslie-at-the-sign-of-the-golden-fleece` (1432 units) |
+| Brought out of peril | have | PG 71190, `eleslie-brought-out-of-peril` (1604 units) |
+| Brave Bessie Westland | have | PG 71477, `eleslie-brave-bessie-westland` (473 units) |
+| A gypsy against her will | have | PG 73098, `eleslie-gypsy-against-her-will` (586 units) |
+| Saved by love | have | PG 73224, `eleslie-saved-by-love` (552 units) |
+| Eric, a waif | have | PG 73792, `eleslie-eric-a-waif` (546 units) |
+| Elsie's scholarship | have | PG 73829, `eleslie-elsies-scholarship` (1248 units) |
+| The seed she sowed | have | PG 74190, `eleslie-seed-she-sowed` (601 units) |
+| Arthur's inheritance | have | PG 74276, `eleslie-arthurs-inheritance` (1147 units) |
+| A dangerous friend | have | PG 74683, `eleslie-dangerous-friend` (709 units) |
+| Milly's errand | have | PG 74703, `eleslie-millys-errand` (506 units) |
+| Hetty's garden-party, and what came of it | have | PG 76619, `eleslie-hettys-garden-party-and-what-came-of-it` (267 units) |
+| Hidden seed | have | PG 76694, `eleslie-hidden-seed` (562 units) |
+| Esther's triumph | have | PG 79169, `eleslie-esthers-triumph` (636 units) |

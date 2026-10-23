@@ -1761,3 +1761,6 @@
 
 ## 2026-10-22 22:15 CDT — jc-snaith: done
 - jc-snaith: new shelf, 19 Gutenberg books, 36,903 units, 2745 ~2 ids; verify 0 mismatches, 0 rights flags.
+
+## 2026-10-22 22:15 CDT — emma-leslie: done
+- emma-leslie: new shelf, 19 Gutenberg books, 13,636 units, 7 ~2 ids; verify 0 mismatches, 0 rights flags.
