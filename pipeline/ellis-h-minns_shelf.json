@@ -1,0 +1,32 @@
+{
+ "_about": "Sir Ellis Hovell Minns (1874-1953), Cambridge, raw IA OCR of Scythians and Greeks (1913).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Ellis H. Minns",
+ "_name_words": [
+  "minns"
+ ],
+ "_surname": [
+  "ellis h. minns"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ellis-h-minns-scythians-and-greeks-1913": [
+   "scythiansgreekss00minn",
+   "Scythians and Greeks: a survey of ancient history and archaeology on the north coast of the Euxine from the Danube to the Caucasus, by Ellis H. Minns (Cambridge: University Press; IA catalogues 1913)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ellis-h-minns-scythians-and-greeks-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ellis h. minns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
