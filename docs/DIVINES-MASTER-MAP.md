@@ -11842,6 +11842,17 @@ Slugs `gtbedell-*`. Built from title pages read for round 55.
 | Sermons, vol. 1 (Philadelphia, W. Stavely-J. C. Pechin, 1835) | have-ocr | IA `sermons01bede` |
 | Sermons, vol. 2 (Philadelphia, W. Stavely-J. C. Pechin, 1835) | have-ocr | IA `sermons02bede` |
 | The Religious Souvenir annuals he edited (many authors); Bickersteth's Treatise on the Lord's Supper, which he adapted; The Basket of Flowers (Schmid's tale) | excluded | |
+
+## Gregory Thurston Bedell (round 55, my pick, 2026-10-23)
+
+Slugs `gthbedell-*`. Built from title pages read for round 55.
+
+| Work | Status | Where |
+|---|---|---|
+| The trusteeship of the Gospel (Cincinnati, 1869) | have-ocr | IA `trusteeshipofgos00bede` |
+| The Canterbury pilgrimage : to and from the Lambeth Conference and the Sheffield Congress (New York : A.D.F. Randolph, 1878) | have-ocr | IA `canterburypilgri00bede` |
+| The pastor. Pastoral theology (Philadelphia, London, J.B. Lippincott & co., 1880) | have-ocr | IA `pastorpastoralth00bede` |
+| Occasional sermons and convention reports | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
