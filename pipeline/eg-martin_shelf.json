@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: Elizabeth Gilbert Martin (b. 1837): Imbert de Saint-Amand's Famous Women of the French Court: Marie Antoinette and the Downfall of Royalty, The Court of Louis XV and Last Years of Louis XV (Scribner, 1890s). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: Elizabeth Gilbert Martin (b. 1837): Imbert de Saint-Amand's Famous Women of the French Court: Marie Antoinette and the Downfall of Royalty, The Court of Louis XV and Last Years of Louis XV (Scribner, 1890s). US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted. From archive.org (2026-10-23): six more Saint-Amand volumes (1891-1900) and the Memoirs of Constant, vols. II and III (1895).",
  "_name_words": [
   "elizabeth gilbert martin"
  ],
@@ -22,7 +22,32 @@
    "Last years of Louis XV"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "egm-ia-marie-louise-elba": [
+   "marielouiseisla01martgoog",
+   "Saint-Amand: Marie Louise, Elba and the Hundred Days"
+  ],
+  "egm-ia-napoleon-iii-height": [
+   "napoleoniiiathe00martgoog",
+   "Saint-Amand: Napoleon III at the Height of His Power"
+  ],
+  "egm-ia-women-valois-court": [
+   "womenvaloiscour00martgoog",
+   "Saint-Amand: Women of the Valois Court"
+  ],
+  "egm-ia-court-louis-xiv": [
+   "womenversailles01saingoog",
+   "Saint-Amand: The Court of Louis XIV"
+  ],
+  "egm-ia-constant-2": [
+   "memoirsconstant02consgoog",
+   "Memoirs of Constant 2"
+  ],
+  "egm-ia-constant-3": [
+   "memoirsconstant00martgoog",
+   "Memoirs of Constant 3"
+  ]
+ },
  "titles": {
   "eg-martin-saint-amand-last-years-of-louis-xv": {
    "source": "egm-79712",
@@ -47,15 +72,67 @@
    "translated": "1891-1893 (see the Gutenberg header)",
    "translator": "Elizabeth Gilbert Martin",
    "scan_edition": "Project Gutenberg 73192 (clean text)"
+  },
+  "eg-martin-saint-amand-marie-louise-elba-hundred-days": {
+   "source": "egm-ia-marie-louise-elba",
+   "of": "Imbert de Saint-Amand",
+   "work": "Marie Louise, the Island of Elba, and the Hundred Days",
+   "translated": "1891",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Charles Scribner's Sons, New York, 1897, copyright 1891 (Google scan)"
+  },
+  "eg-martin-saint-amand-napoleon-iii-at-the-height-of-his-power": {
+   "source": "egm-ia-napoleon-iii-height",
+   "of": "Imbert de Saint-Amand",
+   "work": "Napoleon III at the Height of His Power",
+   "translated": "1900",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Charles Scribner's Sons, New York, 1900 (Google scan)"
+  },
+  "eg-martin-saint-amand-women-of-the-valois-court": {
+   "source": "egm-ia-women-valois-court",
+   "of": "Imbert de Saint-Amand",
+   "work": "Women of the Valois Court",
+   "translated": "1893",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Charles Scribner's Sons, New York, 1894, copyright 1893 (Google scan)"
+  },
+  "eg-martin-saint-amand-the-court-of-louis-xiv": {
+   "source": "egm-ia-court-louis-xiv",
+   "of": "Imbert de Saint-Amand",
+   "work": "Women of Versailles: The Court of Louis XIV",
+   "translated": "1893",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Charles Scribner's Sons, New York, copyright 1893 (Google scan)"
+  },
+  "eg-martin-memoirs-of-constant-2": {
+   "source": "egm-ia-constant-2",
+   "of": "Louis Constant Wairy",
+   "work": "Memoirs of Constant, First Valet de Chambre of the Emperor, vol. II",
+   "translated": "1895",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "The Century Co., New York, 1907, copyright 1895 by Charles Scribner's Sons (Google scan); preface by Imbert de Saint-Amand"
+  },
+  "eg-martin-memoirs-of-constant-3": {
+   "source": "egm-ia-constant-3",
+   "of": "Louis Constant Wairy",
+   "work": "Memoirs of Constant, First Valet de Chambre of the Emperor, vol. III",
+   "translated": "1895",
+   "translator": "Elizabeth Gilbert Martin",
+   "scan_edition": "Charles Scribner's Sons, New York, copyright 1895 (Google scan); 1927 is a library accession stamp"
   }
  },
- "_pending": {},
- "_excluded": {},
+ "_pending": {
+  "eg-martin-saint-amand-revolution-of-1848": "Saint-Amand's The Revolution of 1848 (Scribner; revolution00martgoog): the title page names her but prints no year, and no copyright line survives in the OCR."
+ },
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: The Duchess of Berry (1892): one scan garbles her name, the other has no title-page credit."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "egm-32408": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "elizabeth gilbert martin",
    "identity": "ok",
@@ -64,7 +141,7 @@
   },
   "egm-73192": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "elizabeth gilbert martin",
    "identity": "ok",
@@ -73,12 +150,78 @@
   },
   "egm-79712": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "elizabeth gilbert martin",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "Elizabeth Gilbert Martin"
+  },
+  "egm-ia-marie-louise-elba": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egm-ia-napoleon-iii-height": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egm-ia-women-valois-court": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egm-ia-court-louis-xiv": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egm-ia-constant-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "egm-ia-constant-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth gilbert martin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -96,6 +239,65 @@
    "pg": 79712,
    "pg_copyrighted_marker": false,
    "pg_translator": "Elizabeth Gilbert Martin"
+  },
+  "egm-ia-marie-louise-elba": {
+   "ia": "marielouiseisla01martgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1814,
+    1891,
+    1897
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egm-ia-napoleon-iii-height": {
+   "ia": "napoleoniiiathe00martgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856,
+    1859,
+    1860,
+    1900
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egm-ia-women-valois-court": {
+   "ia": "womenvaloiscour00martgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893,
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egm-ia-court-louis-xiv": {
+   "ia": "womenversailles01saingoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1682,
+    1814,
+    1830,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egm-ia-constant-2": {
+   "ia": "memoirsconstant02consgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "egm-ia-constant-3": {
+   "ia": "memoirsconstant00martgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1895,
+    1927
+   ],
+   "post_1930_years_in_front_15k": []
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

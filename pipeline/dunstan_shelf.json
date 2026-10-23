@@ -1,5 +1,5 @@
 {
- "_about": "TRANSLATOR SHELF: H. Mainwaring Dunstan: Adolphe Belot's A Parisian Sultana (1879, 3 vols). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted.",
+ "_about": "TRANSLATOR SHELF: H. Mainwaring Dunstan: Adolphe Belot's A Parisian Sultana (1879, 3 vols). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted. From archive.org (2026-10-23): Life and Letters of Berlioz, vol. II (1882).",
  "_name_words": [
   "h. mainwaring dunstan",
   "dunstan"
@@ -24,7 +24,12 @@
    "A Parisian Sultana, Vol. 3 (of 3)"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "dun-ia-berlioz-letters-2": [
+   "lifeandlettersb00dunsgoog",
+   "Life and Letters of Berlioz 2"
+  ]
+ },
  "titles": {
   "dunstan-belot-a-parisian-sultana-vol-1": {
    "source": "dun-58677",
@@ -49,15 +54,25 @@
    "translated": "1879 (see the Gutenberg header)",
    "translator": "H. Mainwaring Dunstan",
    "scan_edition": "Project Gutenberg 58679 (clean text)"
+  },
+  "dunstan-life-and-letters-of-berlioz-2": {
+   "source": "dun-ia-berlioz-letters-2",
+   "of": "Hector Berlioz",
+   "work": "Life and Letters of Berlioz, vol. II",
+   "translated": "1882",
+   "translator": "H. Mainwaring Dunstan",
+   "scan_edition": "Remington and Co., London, 1882 (Google scan); vol. I not found on archive.org"
   }
  },
  "_pending": {},
- "_excluded": {},
+ "_excluded": {
+  "archive-sweep-2026-10-23": "2026-10-23: Belot's A Tragedy Indeed (1878) garbles his name on the title page; Mérimée's Letters to Panizzi (1881) do not name him in their OCR."
+ },
  "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
  "_checks": {
   "dun-58677": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. mainwaring dunstan",
    "identity": "ok",
@@ -66,7 +81,7 @@
   },
   "dun-58678": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. mainwaring dunstan",
    "identity": "ok",
@@ -75,12 +90,23 @@
   },
   "dun-58679": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "h. mainwaring dunstan",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": "H. Mainwaring Dunstan"
+  },
+  "dun-ia-berlioz-letters-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. mainwaring dunstan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_verified": {
@@ -98,6 +124,44 @@
    "pg": 58679,
    "pg_copyrighted_marker": false,
    "pg_translator": "H. Mainwaring Dunstan"
+  },
+  "dun-ia-berlioz-letters-2": {
+   "ia": "lifeandlettersb00dunsgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1826,
+    1827,
+    1828,
+    1830,
+    1831,
+    1832,
+    1834,
+    1836,
+    1837,
+    1840,
+    1841,
+    1847,
+    1850,
+    1853,
+    1854,
+    1855,
+    1858,
+    1859,
+    1860,
+    1861,
+    1863,
+    1864,
+    1865,
+    1866,
+    1867,
+    1882,
+    1888,
+    1889
+   ],
+   "post_1930_years_in_front_15k": [
+    2000
+   ],
+   "post_1930_examined": "2000 is a library date-due slip; 1888 and 1889 are page numbers in the contents; the title page reads Remington, London, 1882"
   }
  },
  "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."

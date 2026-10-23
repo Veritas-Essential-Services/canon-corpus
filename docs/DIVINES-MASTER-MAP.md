@@ -23105,6 +23105,7 @@ Round 28 (2026-10-10), vetoable. His Andersen is on andersen_shelf.json. Not con
 | `dulcken-pfeiffer-a-visit-to-the-holy-land-egypt-and-italy` | Ida Pfeiffer | A Visit to the Holy Land, Egypt, and Italy | H. W. Dulcken | 1852-1861 (see the Gutenberg header) | have | PG 12561 |
 | `dulcken-pfeiffer-the-last-travels-of-ida-pfeiffer-inclusi` | Ida Pfeiffer | The last travels of Ida Pfeiffer: inclusive of a visit to Madagascar, with a biographical memoir of the author | H. W. Dulcken | 1852-1861 (see the Gutenberg header) | have | PG 60474 |
 | — | — | andersen: What the Moon Saw (27000) is on andersen_shelf.json; The Nightingale (71096) is left for that shelf's owner. | — | — | excluded | — |
+| `dulcken-hey-picture-fables` | F. Hey | One Hundred Picture Fables, rhymes translated from the German by H. W. Dulcken (Routledge, Warne, and Routledge, London, 'tenth thousand'; onehundredpictu00dulcgoog). The title page prints no year. Found 2026-10-23 (round 151). | H. W. Dulcken | — | pending | — |
 
 ## Edgar Prestage (Azurara's Chronicle of Guinea; Eça de Queirós)
 
@@ -23122,7 +23123,7 @@ Round 28 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## Dorothy Bussy (Gide)
 
 Shelf: `pipeline/dorothy-bussy_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dorothy-bussy` · titles `python3 pipeline/split_shelf_titles.py dorothy-bussy`.
-Round 28 (2026-10-10), vetoable. One 1930 Knopf printing. Not converted to unit-id JSON; **no uids minted**.
+Round 28 (2026-10-10), vetoable. One 1930 Knopf printing. Round 151 (2026-10-23) added Gide's The School for Wives (1929). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23130,6 +23131,7 @@ Round 28 (2026-10-10), vetoable. One 1930 Knopf printing. Not converted to unit-
 | `dorothy-bussy-gide-the-counterfeiters` | André Gide | The counterfeiters | Dorothy Bussy | 1924-1930 (see the Gutenberg header) | have | PG 76965 |
 | `dorothy-bussy-gide-the-immoralist` | André Gide | The immoralist | Dorothy Bussy | 1924-1930 (see the Gutenberg header) | have | PG 78975 |
 | `dorothy-bussy-gide-the-vatican-swindle` | André Gide | The Vatican swindle | Dorothy Bussy | 1924-1930 (see the Gutenberg header) | have | PG 73838 |
+| `dorothy-bussy-gide-the-school-for-wives` | André Gide | The School for Wives | Dorothy Bussy | 1929 | have-raw | IA `bwb_T4-AHG-937` |
 
 ## M. H. Dziewicki (Reymont's The Peasants)
 
@@ -23219,7 +23221,7 @@ Round 29 (2026-10-10), vetoable. Straparola stays on its own shelf. Round 106 (2
 ## Edna Worthley Underwood (Hafiz; Mickiewicz's Crimean Sonnets; Balkan and foreign stories)
 
 Shelf: `pipeline/edna-underwood_shelf.json` · fetch `python3 pipeline/fetch_shelf.py edna-underwood` · titles `python3 pipeline/split_shelf_titles.py edna-underwood`.
-Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 29 (2026-10-10), vetoable. Round 151 (2026-10-23) added Moons of Nippon (1919). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -23227,6 +23229,7 @@ Round 29 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `edna-underwood-hafiz-songs-of-hafiz` | Hafiz | Songs of Hafiz | Edna Worthley Underwood | 1912-1922 (see the Gutenberg header) | have | PG 77453 |
 | `edna-underwood-mickiewicz-sonnets-from-the-crimea` | Adam Mickiewicz | Sonnets from the Crimea | Edna Worthley Underwood | 1912-1922 (see the Gutenberg header) | have | PG 27069 |
 | `edna-underwood-short-stories-from-the-balkans` | Various | Short stories from the Balkans | Edna Worthley Underwood | 1912-1922 (see the Gutenberg header) | have | PG 73663 |
+| `edna-underwood-moons-of-nippon` | Various Japanese poets | Moons of Nippon: Translations from Poets of Old Japan | Edna Worthley Underwood | 1919 | have-raw | IA `moonsnippontran00undegoog` |
 
 ## Ellen Frothingham (Lessing's Laocoon; Hermann and Dorothea; Auerbach's Edelweiss)
 
@@ -23911,13 +23914,14 @@ Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 ## H. Mainwaring Dunstan (Belot's A Parisian Sultana, 3 vols)
 
 Shelf: `pipeline/dunstan_shelf.json` · fetch `python3 pipeline/fetch_shelf.py dunstan` · titles `python3 pipeline/split_shelf_titles.py dunstan`.
-Round 32 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 32 (2026-10-10), vetoable. Round 151 (2026-10-23) added Life and Letters of Berlioz vol. II (1882). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `dunstan-belot-a-parisian-sultana-vol-1` | Adolphe Belot | A Parisian Sultana, Vol. 1 (of 3) | H. Mainwaring Dunstan | 1879 (see the Gutenberg header) | have | PG 58677 |
 | `dunstan-belot-a-parisian-sultana-vol-2` | Adolphe Belot | A Parisian Sultana, Vol. 2 (of 3) | H. Mainwaring Dunstan | 1879 (see the Gutenberg header) | have | PG 58678 |
 | `dunstan-belot-a-parisian-sultana-vol-3` | Adolphe Belot | A Parisian Sultana, Vol. 3 (of 3) | H. Mainwaring Dunstan | 1879 (see the Gutenberg header) | have | PG 58679 |
+| `dunstan-life-and-letters-of-berlioz-2` | Hector Berlioz | Life and Letters of Berlioz, vol. II | H. Mainwaring Dunstan | 1882 | have-raw | IA `lifeandlettersb00dunsgoog` |
 
 ## Thomas De Quincey as translator (Walladmor, 2 vols)
 
@@ -24948,13 +24952,20 @@ Round 37 (2026-10-10), vetoable. Lane D's poulsson shelf holds her Top-of-the-Wo
 ## Elizabeth Gilbert Martin: Imbert de Saint-Amand's French court histories
 
 Shelf: `pipeline/eg-martin_shelf.json` · fetch `python3 pipeline/fetch_shelf.py eg-martin` · titles `python3 pipeline/split_shelf_titles.py eg-martin`.
-Round 37 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 37 (2026-10-10), vetoable. Round 151 (2026-10-23) added four Saint-Amand volumes and Memoirs of Constant vols. II-III; The Revolution of 1848 is held undated. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `eg-martin-saint-amand-last-years-of-louis-xv` | Imbert de Saint-Amand | Last years of Louis XV | Elizabeth Gilbert Martin | 1891-1893 (see the Gutenberg header) | have | PG 79712 |
 | `eg-martin-saint-amand-marie-antoinette-and-the-downfall-of-roy` | Imbert de Saint-Amand | Marie Antoinette and the Downfall of Royalty | Elizabeth Gilbert Martin | 1891-1893 (see the Gutenberg header) | have | PG 32408 |
 | `eg-martin-saint-amand-the-court-of-louis-xv` | Imbert de Saint-Amand | The court of Louis XV | Elizabeth Gilbert Martin | 1891-1893 (see the Gutenberg header) | have | PG 73192 |
+| `eg-martin-saint-amand-marie-louise-elba-hundred-days` | Imbert de Saint-Amand | Marie Louise, the Island of Elba, and the Hundred Days | Elizabeth Gilbert Martin | 1891 | have-raw | IA `marielouiseisla01martgoog` |
+| `eg-martin-saint-amand-napoleon-iii-at-the-height-of-his-power` | Imbert de Saint-Amand | Napoleon III at the Height of His Power | Elizabeth Gilbert Martin | 1900 | have-raw | IA `napoleoniiiathe00martgoog` |
+| `eg-martin-saint-amand-women-of-the-valois-court` | Imbert de Saint-Amand | Women of the Valois Court | Elizabeth Gilbert Martin | 1893 | have-raw | IA `womenvaloiscour00martgoog` |
+| `eg-martin-saint-amand-the-court-of-louis-xiv` | Imbert de Saint-Amand | Women of Versailles: The Court of Louis XIV | Elizabeth Gilbert Martin | 1893 | have-raw | IA `womenversailles01saingoog` |
+| `eg-martin-memoirs-of-constant-2` | Louis Constant Wairy | Memoirs of Constant, First Valet de Chambre of the Emperor, vol. II | Elizabeth Gilbert Martin | 1895 | have-raw | IA `memoirsconstant02consgoog` |
+| `eg-martin-memoirs-of-constant-3` | Louis Constant Wairy | Memoirs of Constant, First Valet de Chambre of the Emperor, vol. III | Elizabeth Gilbert Martin | 1895 | have-raw | IA `memoirsconstant00martgoog` |
+| `eg-martin-saint-amand-revolution-of-1848` | Imbert de Saint-Amand | The Revolution of 1848 (Scribner; revolution00martgoog). The title page names her but prints no year, and no copyright line survives in the OCR. Found 2026-10-23 (round 151). | Elizabeth Gilbert Martin | — | pending | — |
 
 ## Elizabeth Lee (Jusserand; Maspero; Rosegger)
 
@@ -25678,12 +25689,15 @@ Round 39 (2026-10-10), vetoable. Round 120 (2026-10-23) added Aksakov's Years of
 ## Bérengère Drillien's Anatole France
 
 Shelf: `pipeline/drillien_shelf.json` · fetch `python3 pipeline/fetch_shelf.py drillien` · titles `python3 pipeline/split_shelf_titles.py drillien`.
-Round 39 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 39 (2026-10-10), vetoable. Round 151 (2026-10-23) added three Pierre Mille volumes (1913-15). Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
 | `drillien-france-monsieur-bergeret-in-paris` | Anatole France | Monsieur Bergeret in Paris | Bérengère Drillien | 1919-1921 (see the Gutenberg header) | have | PG 49414 |
 | `drillien-france-the-amethyst-ring` | Anatole France | The Amethyst Ring | Bérengère Drillien | 1919-1921 (see the Gutenberg header) | have | PG 49108 |
+| `drillien-mille-two-little-parisians` | Pierre Mille | Two Little Parisians (Caillou and Tili) | Bérengère Drillien | 1913 | have-raw | IA `twolittleparisi00drilgoog` |
+| `drillien-mille-barnavaux` | Pierre Mille | Barnavaux (Sur la vaste terre) | Bérengère Drillien | 1915 | have-raw | IA `barnavaux00drilgoog` |
+| `drillien-mille-under-the-tricolour` | Pierre Mille | Under the Tricolour (Barnavaux et quelques femmes) | Bérengère Drillien | 1915 | have-raw | IA `undertricolour00drilgoog` |
 
 ## Robert B. Douglas (Thaïs; the Cent Nouvelles Nouvelles)
 
