@@ -19950,6 +19950,16 @@ Shelf: `pipeline/e-e-sikes_shelf.json`. The Anthropology of the Greeks (London: 
 | The Anthropology of the Greeks (London: Nutt, 1914) |  | `sikes-anthropology-of-the-greeks-1914` | have-raw (IA `anthropologyofgr0000sike`) |
 | Roman Poetry (London: Methuen, 1923) |  | `sikes-roman-poetry-1923` | have-raw (IA `romanpoetry00sike`) |
 
+
+## Sir Edward Maunde Thompson (1840-1929)
+
+Shelf: `pipeline/e-maunde-thompson_shelf.json`. Handbook of Greek and Latin Palaeography (London: Kegan Paul, 1893); An Introduction to Greek and Latin Palaeography (Oxford: Clarendon Press, 1912). Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Handbook of Greek and Latin Palaeography (London: Kegan Paul, 1893) |  | `thompson-handbook-greek-latin-palaeography-1893` | have-raw (IA `handbookgreekan01thomgoog`) |
+| An Introduction to Greek and Latin Palaeography (Oxford: Clarendon Press, 1912) |  | `thompson-introduction-greek-latin-palaeography-1912` | have-raw (IA `greeklatin00thomuoft`) |
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
