@@ -2183,7 +2183,7 @@ Round 24 (2026-10-10), vetoable. Round 122 (2026-10-23) added Ohnet's In Deep Ab
 ## Sir Clements Markham (Hakluyt Society: Cieza de León, Quirós, Vespucci; Lazarillo)
 
 Shelf: `pipeline/markham_shelf.json` · fetch `python3 pipeline/fetch_shelf.py markham` · titles `python3 pipeline/split_shelf_titles.py markham`.
-Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted**.
+Round 25 (2026-10-10), vetoable. Round 137 (2026-10-23) added 16 of Markham's Hakluyt Society translations from archive.org scans of the original printings. Not converted to unit-id JSON; **no uids minted**.
 
 | Title slug | Author | Work | Translator | Tr. | Status | Source |
 |---|---|---|---|---|---|---|
@@ -2194,6 +2194,22 @@ Round 25 (2026-10-10), vetoable. Not converted to unit-id JSON; **no uids minted
 | `markham-leon-the-war-of-quito` | Pedro de Cieza de León | The War of Quito | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 49095 |
 | `markham-queiros-the-voyages-of-pedro-fernandez-de-quiros` | Pedro Fernandes de Queirós | The Voyages of Pedro Fernandez de Quiros, 1595 to 1606. Volume 1 | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 41200 |
 | `markham-vespucci-the-letters-of-amerigo-vespucci-and-othe` | Amerigo Vespucci | The Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career | Clements R. Markham | 1864-1918 (see the Gutenberg header) | have | PG 36924 |
+| `markham-ortiguera-acuna-expeditions-into-the-valley-of-the-amazons` | Toribio de Ortiguera, Cristóbal de Acuña and Antonio de Herrera | Expeditions into the Valley of the Amazons, 1539, 1540, 1639 | Clements R. Markham | 1859 | have-raw | IA `expeditionsintov00markrich` |
+| `markham-garcilaso-royal-commentaries-of-the-yncas-vol-1` | Garcilaso de la Vega | First Part of the Royal Commentaries of the Yncas, vol. 1 of 2 | Clements R. Markham | 1869 | have-raw | IA `firstpartofroyal01vega` |
+| `markham-garcilaso-royal-commentaries-of-the-yncas-vol-2` | Garcilaso de la Vega | First Part of the Royal Commentaries of the Yncas, vol. 2 of 2 | Clements R. Markham | 1871 | have-raw | IA `firstpartofroyal02vega` |
+| `markham-sarmiento-history-of-the-incas` | Pedro Sarmiento de Gamboa | History of the Incas | Clements R. Markham | 1907 | have-raw | IA `historyofincas00sarm` |
+| `markham-columbus-the-journal-of-christopher-columbus` | Christopher Columbus | The Journal of Christopher Columbus (during his first voyage, 1492-93) | Clements R. Markham | 1893 | have-raw | IA `journalofchristo00colu_0` |
+| `markham-guzman-the-life-and-acts-of-don-alonzo-enriquez-de-guzman` | Alonzo Enríquez de Guzmán | The Life and Acts of Don Alonzo Enriquez de Guzman, written by himself | Clements R. Markham | 1862 | have-raw | IA `lifeactsofdonalo00enr` |
+| `markham-clavijo-narrative-of-the-embassy-to-timour` | Ruy González de Clavijo | Narrative of the Embassy of Ruy Gonzalez de Clavijo to the Court of Timour at Samarcand, 1403-6 | Clements R. Markham | 1859 | have-raw | IA `narrativeembass00markgoog` |
+| `markham-andagoya-narrative-of-the-proceedings-of-pedrarias-davila` | Pascual de Andagoya | Narrative of the Proceedings of Pedrarias Davila in Tierra Firme | Clements R. Markham | 1865 | have-raw | IA `narrativeofproce00anda` |
+| `markham-leon-the-second-part-of-the-chronicle-of-peru` | Pedro de Cieza de León | The Second Part of the Chronicle of Peru | Clements R. Markham | 1883 | have-raw | IA `partofchronicleperu00ciez` |
+| `markham-leon-the-war-of-las-salinas` | Pedro de Cieza de León | The War of Las Salinas (Civil Wars in Peru) | Clements R. Markham | 1923 | have-raw | IA `in.ernet.dli.2015.46710` |
+| `markham-espinosa-the-guanches-of-tenerife` | Alonso de Espinosa | The Guanches of Tenerife, the Holy Image of Our Lady of Candelaria | Clements R. Markham | 1907 | have-raw | IA `guanchesofteneri00espirich` |
+| `markham-molina-narratives-of-the-rites-and-laws-of-the-yncas` | Cristóbal de Molina, Juan de Santa Cruz Pachacuti and others | Narratives of the Rites and Laws of the Yncas | Clements R. Markham | 1873 | have-raw | IA `narrativesofrite00moli` |
+| `markham-sarmiento-narratives-of-the-voyages-to-the-straits-of-magellan` | Pedro Sarmiento de Gamboa | Narratives of the Voyages of Pedro Sarmiento de Gamboa to the Straits of Magellan | Clements R. Markham | 1895 | have-raw | IA `narrativesofvoya00sarm` |
+| `markham-xeres-reports-on-the-discovery-of-peru` | Francisco de Xerez, Miguel de Estete, Hernando Pizarro and others | Reports on the Discovery of Peru | Clements R. Markham | 1872 | have-raw | IA `reportsondiscov00markgoog` |
+| `markham-anonymous-ollanta-an-ancient-ynca-drama` | anonymous (Quechua drama) | Ollanta: an Ancient Ynca Drama | Clements R. Markham | 1871 | have-raw | IA `ollantaancientyn00mark` |
+| `markham-quiros-the-voyages-of-pedro-fernandez-de-quiros-vol-2` | Pedro Fernández de Quirós | The Voyages of Pedro Fernandez de Quiros, 1595 to 1606, vol. 2 of 2 | Clements R. Markham | 1904 | have-raw | IA `india.history.resource.88576` |
 
 ## Thomasina Ross (Humboldt's Personal Narrative; Tschudi; Bouterwek)
 
