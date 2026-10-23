@@ -13621,3 +13621,17 @@ Slugs `thomson-*`. Built from title pages read for round 73.
 | Sermons and sacramental exhortations (Edinburgh : Printed for William Whyte and Co. [etc.], 1831) | have-ocr | IA `sermonssacrament00thom` |
 | Sermons on infidelity (Windsor, Vt. : Richards and Tracy ; New York : Jonathan Leavitt, 1833) | have-ocr | IA `sermonsoninfidel00thom` |
 | Gaelic translations of his communicants' catechism; works of the younger Andrew Thomson of Edinburgh (Secession Church), a different man | excluded | |
+
+## George C. Needham (round 73, my pick, 2026-10-23)
+
+Slugs `needham-*`. Built from title pages read for round 73.
+
+| Work | Status | Where |
+|---|---|---|
+| The Jewish tabernacle and priesthood ([n.p.], 1874) | have-ocr | IA `jewishtabernacle00need` |
+| The life and labors of Charles H. Spurgeon : the faithful preacher, the devoted pastor, the noble philanthropist, the beloved college president, and the voluminous writer, author, etc., etc (Boston : D. L. Guernsey, 1882) | have-ocr | IA `thelifeandlabors00needuoft` |
+| Street Arabs and gutter snipes. The pathetic and humorous side of young vagabond life in the great cities, with records of work for their reclamation (Boston : D. L. Guernsey, 1884) | have-ocr | IA `streetarabsgutte00need` |
+| Father Flynn (New York, J. A. O'Connor, 1890) | have-ocr | IA `fatherflynn00need` |
+| Preach the Word; conference addresses (Charlotte, N.C., W.P. Fife, 1892) | have-ocr | IA `preachwordconfer00need` |
+| The spiritual life (Philadelphia, American Baptist publication society, 1895) | have-ocr | IA `spirituallife00need` |
+| Shadow and substance. An exposition of the tabernacle types (Philadelphia, American Baptist publication society, 1896) | have-ocr | IA `shadowsubstancee00need` |
