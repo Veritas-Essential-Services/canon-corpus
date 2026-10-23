@@ -14798,3 +14798,26 @@ Slugs `leathes-*`. Built from title pages read for round 86.
 | The claims of the Old Testament; lectures delivered in connection with the sesquicentennial celebration of Princeton university (New York, Charles Scribner's sons, 1897) | have-ocr | IA `claimsofoldtesta00leat` |
 | books by Sir Stanley Mordaunt Leathes (1861-1938), the historian, a different man: Cambridge Modern History, What is Education?, etc. | excluded | |
 | Future Probation (a many-author symposium) | excluded | |
+
+## Frank Ballard (round 86, my pick, 2026-10-23)
+
+Slugs `ballard-*`. Built from title pages read for round 86.
+
+| Work | Status | Where |
+|---|---|---|
+| Christian essentials : a re-statement for the people of to-day (London : Charles H. Kelly, 1900) | have-ocr | IA `christianessenti00ball` |
+| The miracles of unbelief (Edinburgh, T. & T. Clark, 1901) | have-ocr | IA `miraclesofunbeli0000ball` |
+| Straight lines in church finance (New York : Missoinary Society of the Methodist Episcopal Church, 1904) | have-ocr | IA `straightlinesinc00ball` |
+| Haeckel's monism false. An examination of 'The riddle of the universe', 'The wonders of life', 'The confession of faith of a man of science' by Professor Haeckel; together with 'Haeckel's critics answered' by Mr. Joseph McCabe (London, C.H. Kelly, 1905) | have-ocr | IA `haeckelsmonismfa00ball` |
+| Theonomism true : God and the universe in modern light (London : C.H. Kelley, 1906) | have-ocr | IA `theonomismtruego0000ball` |
+| The true God : a modern summary of the relations of theism to naturalism, monism, pluralism, and pantheism (London : Robert Culley, 1907) | have-ocr | IA `truegodmodernsum0000ball` |
+| Does it matter what a man believes? (New York : Eaton, 1908) | have-ocr | IA `doesitmatterwhat0000ball` |
+| Determinism: false and true; a contribution to modern philosophy and ethics (London, C.H. Kelly, 1911) | have-ocr | IA `determinismfalse00ball` |
+| Why does not God intervene? : and other questions (New York ; London : Hodder and Stoughton, 1912) | have-ocr | IA `whydoesnotgodint00balluoft` |
+| Britain justified. The war from the Christian standpoint (London, C.H. Kelly, 1914) | have-ocr | IA `britainjustified0000ball` |
+| The mistakes of pacifism, or, Why a Christian can have anything to do with war (London : Charles H. Kelly, 1915) | have-ocr | IA `mistakesofpacifi00ball` |
+| Christian reality in modern light (London : Charles H. Kelly, 1916) | have-ocr | IA `christianreality0000ball` |
+| Christianity after the war (London, Charles H. Kelly, 1916) | have-ocr | IA `christianityafte0000ball` |
+| The mystery of painlessness : an appeal to facts (New York ; Chicago [etc.] : Fleming H. Revell, 1926) | have-ocr | IA `mysteryofpainles00ball` |
+| whynotrussellism00balliala: an undated offprint (pp. 159-270, no title page or imprint) that cites events of 1913-1915; its printing date cannot be read, so it waits | pending | not shelved |
+| Plain Truths versus German Lies (1915, war propaganda, not theology) | excluded | |
