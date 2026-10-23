@@ -18769,6 +18769,17 @@ Shelf: `pipeline/adolf-furtwangler_shelf.json`. Masterpieces of Greek Sculpture,
 |---|---|---|---|
 | Masterpieces of Greek Sculpture: a Series of Essays on the History of Art (1895), ed. and tr. Eugénie Sellers |  | `furtwangler-masterpieces-greek-sculpture-1895` | have-raw (IA `masterpiecesofgr00furtuoft`) |
 
+
+## Barclay V. Head (1844-1914)
+
+Shelf: `pipeline/barclay-v-head_shelf.json`. Historia Numorum, 2nd ed. (1911); Greek-heavy. Not minted. Not minted.
+
+| Work | Author | Slug | Status |
+|---|---|---|---|
+| Historia Numorum: a Manual of Greek Numismatics, new and enlarged ed. (1911) |  | `head-historia-numorum-1911` | have-raw (IA `historianumorumm00head`) |
+
+Excluded: Historia Numorum, 1st ed. (1887) (superseded by the 1911 edition)
+
 # Translator shelves (each title its own uid; cross-referenced by author sections)
 
 ## Dryden
