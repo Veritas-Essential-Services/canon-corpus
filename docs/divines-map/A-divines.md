@@ -17247,3 +17247,19 @@ Slugs `frey-*`. Built from title pages read for round 112.
 | The Scripture Types, vol. 1 (catalogued 1841) | have-ocr | IA `scripturetypes0001jose` |
 | The Messiahship of Jesus : a course of lectures (Philadelphia : American Baptist Publication Society, 1850) | have-ocr | IA `messiahshipofjes00frey_0` |
 | His Hebrew grammars and dictionaries are language tools; left out | excluded | |
+
+## Julius Kaftan (round 112, my pick, 2026-10-23)
+
+Slugs `kaftan-*`. Built from title pages read for round 112.
+
+| Work | Status | Where |
+|---|---|---|
+| The truth of the Christian religion (Edinburgh : T. & T. Clark, 1894) | have-ocr | IA `truthofchristian0000kaft` |
+| The truth of the religion, vol. 2 (catalogued 1894) | have-ocr | IA `truthofreligion0002unse` |
+| Das Wesen der christlichen Religion (Basel, Bahnmaier's Verlag, 1881) | have-ocr | IA `daswesenderchris0000kaft` |
+| Jesus und Paulus : eine freundschaftliche Streitschrift gegen die Religionsgeschichtlichen Volksbücher (Tübingen : J.C.B. Mohr (Paul Siebeck), 1906) | have-ocr | IA `jesusundpaulusei0000kaft` |
+| Der Mensch Jesus Christus : der einige Mittler zwischen Gott und den Menschen, vol. 4 (Lichterfelde : E. Runge, 1908) | have-ocr | IA `dermenschjesusch0004kaft` |
+| Dogmatik 7. und 8 (Tuebingen : Mohr, 1920) | have-ocr | IA `dogmatik7und80000kaft` |
+| Neutestamentliche theologie : im Abriss dargestellt (Berlin : M. Warneck, 1927) | have-ocr | IA `neutestamentlich0000kaft` |
+| Das Christentum und die Philosophie (J.C. Hinrichs, 1896), IA daschristentumu00kaftgoog: Fraktur type, and the OCR text is unreadable (needs re-OCR) | pending | not shelved |
+| His student dissertations (Sollen und Sein, 1872; Veterum ecclesiae, 1873) left out | excluded | |
