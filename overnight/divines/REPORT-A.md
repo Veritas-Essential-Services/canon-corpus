@@ -2123,3 +2123,6 @@
 
 ## 2026-10-23 04:09 CDT — round 75 done
 - anthony-w-thorold, francis-paget, stopford-a-brooke, w-morley-punshon: 4 shelves, 44 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 04:20 CDT — round 76 done
+- charles-f-deems, david-james-burrell, louis-albert-banks, jabez-burns: 4 shelves, 101 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
