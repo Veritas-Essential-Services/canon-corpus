@@ -19600,6 +19600,27 @@ Slugs `smalbroke-*`. Built from title pages read for round 135.
 | the short accounts of Bishops Hough and Gibson are biography | excluded | |
 | The Judgment of the Fathers (1695) is Thomas Smalbroke's; the 1784 ode is Samuel's | excluded | |
 | the ECCO copy of the 1728 Lords sermon | excluded | |
+
+## Clarence E. Macartney (round 135, my pick, 2026-10-23)
+
+Slugs `macartney-*`. Built from title pages read for round 135.
+
+| Work | Status | Where |
+|---|---|---|
+| The parables of the Old Testament (New York, Chicago [etc.] Fleming H. Revell company, 1916) | have-ocr | IA `parablesofoldtes00maca` |
+| The minister's son; a record of his achievements (Philadelphia, Eakins, Palmer & Harrar, [c19) | have-ocr | IA `ministerssonreco00macarich` |
+| Truths Tested By The World War (catalogued 1919) | have-ocr | IA `truths-tested-by-the-world-war` |
+| Shall unbelief win? : a reply to Dr. Fosdick (catalogued 1919) | have-ocr | IA `shall-unbelief-win` |
+| Twelve Great Questions About Christ (Fleming H. Revell Company, 1923) | have-ocr | IA `twelvegreatquest0000clar` |
+| Putting on immortality; reflections on the life beyond (New York ; Chicago [etc.] : Fleming H. Revell company, 1926) | have-ocr | IA `puttingonimmorta00maca_0` |
+| "Of them He chose twelve" (Philadelphia : Dorrance and company, 1927) | have-ocr | IA `ofthemhechosetwe00maca` |
+| Christianity and common sense : a dialogue of faith (Philadelphia : [John C. Winston Company], 1927) | have-ocr | IA `christianitycomm00maca` |
+| Paul the man : his life, his message and his ministry (New York : Fleming H. Revell, 1928) | have-ocr | IA `paulmanhislifehi00maca` |
+| Sons of Thunder: Pulpit Power of The Past (Fleming H. Revell Company, 1929) | have-ocr | IA `sonsofthunderpul0000clar` |
+| the Paterson church history, Lincoln and His Generals, Highways and Byways of the Civil War and the Harmonites and Morwenstow articles are history | excluded | |
+| Great Sermons of the World is an anthology of other preachers | excluded | |
+| everything printed from 1930 on | excluded | |
+| the other scans of Paul the Man and The Minister's Son | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
