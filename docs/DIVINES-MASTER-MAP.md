@@ -19877,6 +19877,29 @@ Slugs `clagett-*`. Built from title pages read for round 138.
 | An answer to the Representer's reflections ...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_an-answer-to-the-represe_clagett-william_1688): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | A Papist Misrepresented and Represented is Gother's with its answers; the 1722 Discourses are Stebbing's supplement | excluded | |
 | the Google copies of The Difference of the Case and the View of the Whole Controversy, the 1686 Paraphrase, the 65-image 1689 Seventeen Sermons, and the 1688 Second Letter | excluded | |
+
+## Isaac Maddox (round 138, my pick, 2026-10-23)
+
+Slugs `maddox-*`. Built from title pages read for round 138.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the Incorporated Society for the Propagation of the Gospel in Foreign Parts; at their anniversary meeting in the parish-church of St. Mary-le-Bow, on Friday, February 15. 1733. By Isaac Maddox, ...  1734 (catalogued 1734) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_maddox-isaac_1734_0` |
+| The love of our country recommended: a sermon preached to the Societies for reformation of manners, at St. Mary-le-Bow, on Monday, January 17th, 1736. By ... Isaac, Lord Bishop of St. Asaph.  1737 (catalogued 1737) | have-ocr | IA `bim_eighteenth-century_the-love-of-our-country-_maddox-isaac_1737` |
+| A sermon preach'd before the House of Lords in the abbey-church of Westminster.  1739 (catalogued 1739) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_maddox-isaac-bishop-of_1739` |
+| A sermon preach'd before the Society corresponding with the Incorporated Society in Dublin, for promoting English Protestant Working-Schools in Ireland, at their anniversary meeting in the parish-church of St. Mary le Bow, on Wednesday, March 19. 173 (catalogued 1740) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_maddox-isaac_1740` |
+| A sermon preached at the anniversary meeting of the Sons of the Clergy, in the Cathedral Church of St. Paul, May 6, 1742. By ... Isaac, Lord Bishop of St. Asaph.  1742 (catalogued 1742) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_maddox-isaac_1742` |
+| The duty and advantages of encouraging public infirmaries. A sermon preached before His Grace Charles Duke of Richmond, Lenox, and Aubigny, President; and the governors of the London Infirmary, in Goodman's-Fields, for the relief of sick and diseased manufacturers, and seamen in merchant-service, etc., at the Parish Church of St. Mary-le-Bow, on Friday, March 25, 1743 (London : Printed by Henry Woodfall, Jnr., sold by J. Brotherton & J. Stagg, 1743) | have-ocr | IA `b30363548` |
+| The charge of Isaac, Lord Bishop of Worcester; to the clergy of his diocese, at his primary-visitation, ... July, 1745. With a preface ...  1745 (catalogued 1745) | have-ocr | IA `bim_eighteenth-century_the-charge-of-isaac-lor_maddox-isaac_1745` |
+| A sermon preached at the cathedral church of Worcester, on Thursday the 9th of October, 1746; ... By ... Isaac, Lord Bishop of Worcester. ...  1746 (catalogued 1746) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_maddox-isaac_1746` |
+| The necessity of perseverance in well-doing; a sermon preached before the governors of the Worcester Infirmary, on the 18th of October, 1748, being the festival of St. Luke. By the Right Reverend Isaac, Lord Bishop of Worcester. ...  1748 (catalogued 1748) | have-ocr | IA `bim_eighteenth-century_the-necessity-of-perseve_maddox-isaac_1748` |
+| The expediency of preventive wisdom. A sermon preached before the Right Honourable the Lord-Mayor, the aldermen, and governors of several hospitals of the city of London. At St Bridget's church, on Easter-Monday, 1750. ... By the Right Reverend Issac, Lord Bishop of Worcester.  1750 (catalogued 1750) | have-ocr | IA `bim_eighteenth-century_the-expediency-of-preven_maddox-isaac_1750` |
+| A sermon preached before ... John Duke of Marlborough, President, the Vice-Presidents and Governors of the Hospital for the Small-Pox, and for Inoculation ... March 5, 1752 (London : H. Woodfall, 1752) | have-ocr | IA `b30503851` |
+| The wisdom and duty of preserving destitute infants. A sermon preached at the chapel of the Hospital for Exposed and Deserted Young Children. On Monday, April 16, 1753. By Isaac, Lord Bishop of Worcester. ... .  1753 (catalogued 1753) | have-ocr | IA `bim_eighteenth-century_the-wisdom-and-duty-of-p_maddox-isaac_1753` |
+| A vindication of the government, doctrine, and worship, of the Church of England, ... against the injurious reflections of Mr. Neal, in his late History of the Puritans. Together with a detection of many false quotations and mistakes in that performance.  1733 (catalogued 1733) (IA bim_eighteenth-century_a-vindication-of-the-gov_maddox-isaac_1733): published without his name, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The Case of Dr Rundle's Promotion is a church-political pamphlet | excluded | |
+| the 1751 Epistle to the Lord Mayor on spirituous liquors is a civic appeal | excluded | |
+| the ECCO copies of the 1752 hospital sermon | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
