@@ -19936,3 +19936,17 @@ Slugs `mant-*`. Built from title pages read for round 138.
 | the parsing of Corderius is a school book | excluded | |
 | An Inquiry into the Effect of Baptism is John Scott's | excluded | |
 | the 1813 Appeal and the DLI copies of the Sermons | excluded | |
+
+## John Kaye (round 138, my pick, 2026-10-23)
+
+Slugs `kaye-*`. Built from title pages read for round 138.
+
+| Work | Status | Where |
+|---|---|---|
+| The ecclesiastical history of the second and third centuries : illustrated from the writings of Tertullian (Cambridge [Eng.] : J. & J. J. Deighton, 1826) | have-ocr | IA `ecclesiasticalh00kaye` |
+| Some account of the writings and opinions of Justin Martyr (Cambridge : Printed by J. Smith for J. & J.J. Deighton, 1829) | have-ocr | IA `someaccountof00kaye` |
+| A sermon preached at the Magdalen Hospital ... : on Tuesday, 23rd of April 1833 (London : J.G. & F. Rivington, etc., 1833) | have-ocr | IA `b30348705` |
+| Some account of the writings and opinions of Clement of Alexandria (London, J.G. & F. Rivington, 1835) | have-ocr | IA `someaccountofwri00kaye` |
+| A charge to the clergy of the Diocese of Lincoln, vol. Talbot Collection of British Pamphlets (London : Printed for J.G.F. and J. Rivington, St. Paul's Church Yard, and Waterloo Place, Pall Mall, 1840) | have-ocr | IA `chargetoclergyof00kaye` |
+| A reply to the Travels of an Irish gentleman in search of a religion (London : [publisher not identified], 1834) (IA replytotravelsof00kaye): title page reads 'By Philalethes Cantabrigiensis', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the Afghan war history, Long Engagements and the Malcolm life are Sir John William Kaye's; Jerningham and the Greville letter are by other Kayes; the Ecclesiastical Commission letter is Phillpotts's | excluded | |
