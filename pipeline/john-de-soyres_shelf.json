@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain John de Soyres (1847-1905), Anglican church historian and rector of St John's, Saint John, New Brunswick, for the Word Hoard: Montanism and the Primitive Church, Christian Reunion (his Hulsean Lectures), Christianity and Biblical Criticism, his examination of Staley's Manual of the Catholic Religion, The Children of Wisdom and other sermons, and two single sermons. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 136 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john de soyres",
+  "j. de soyres",
+  "de soyres",
+  "soyres"
+ ],
+ "_surname": [
+  "soyres"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "de-soyres-montanism": [
+   "montanismprimiti00deso",
+   "Montanism and the primitive church : a study in the ecclesiastical history of the second century (Cambridge : Deighton, Bell, and co., 1878)"
+  ],
+  "de-soyres-christian-reunion": [
+   "christianreunion00deso",
+   "Christian reunion (St. John, N.B. : J. & A. McMillan, 1888)"
+  ],
+  "de-soyres-church-parties": [
+   "cihm_06875",
+   "Church parties and Christian unity : a sermon preached on Whitsunday, May 20th, 1888, at St. John's Church (Saint John, N.B. : J. & A. McMillan, 1888)"
+  ],
+  "de-soyres-staley": [
+   "cihm_56367",
+   "An examination of Mr. Staley's treatise entitled A manual of the Catholic religion (Toronto : Bryant Press; Saint John [N.B.] : E.G. Nelson, 1890)"
+  ],
+  "de-soyres-biblical-criticism": [
+   "cihm_06001",
+   "Christianity and biblical criticism : a paper read before the St. John Clerical Association, March 11th, 1890 (Saint John, N.B. : J. & A. McMillan, 1890)"
+  ],
+  "de-soyres-children-wisdom": [
+   "thechildrenofthe00desouoft",
+   "The children of the wisdom and other sermons preached in Canadian pulpits (Toronto W. Briggs, 1897)"
+  ],
+  "de-soyres-national-church": [
+   "nationalchurch00desouoft",
+   "Our national Church : a sermon preached at the anniversary service of the Church of England Institute at Trinity Church, St. John, N.B., October 15th, 1902 (St. John? N.B. : s.n, 1902)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "de-soyres-pascal": "his edition of Pascal's Provincial Letters is M'Crie's translation",
+  "de-soyres-secular": "A Word-Book for Students of English History is not theology",
+  "de-soyres-conference": "the 1894 Evangelical Church Conference report is a many-author record",
+  "de-soyres-dups": "the microform copies of Christian Reunion, The Children of Wisdom and Our National Church"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "de-soyres-montanism": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "soyres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-soyres-christian-reunion": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "soyres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-soyres-church-parties": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "soyres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-soyres-staley": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "soyres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "de-soyres-biblical-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "soyres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-soyres-children-wisdom": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "soyres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-soyres-national-church": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "soyres",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

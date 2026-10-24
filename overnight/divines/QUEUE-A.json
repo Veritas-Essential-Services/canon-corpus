@@ -11026,6 +11026,15 @@
       "added_by": "lane A",
       "finished": "2026-10-23T21:11:29-05:00",
       "notes": "Bishop of Ely (1780-1864): four works."
+    },
+    {
+      "id": "john-de-soyres",
+      "status": "done",
+      "scope": "round 136",
+      "added": "2026-10-23T21:11:29-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-23T21:11:29-05:00",
+      "notes": "Anglican church historian (1847-1905): seven works."
     }
   ]
 }

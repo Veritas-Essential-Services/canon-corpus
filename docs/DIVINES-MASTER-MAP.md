@@ -19673,6 +19673,24 @@ Slugs `turton-*`. Built from title pages read for round 136.
 | Thoughts on the Admission of Persons to university degrees is university politics | excluded | |
 | the 1800 Address is Sir Thomas Turton's | excluded | |
 | the shorter scan of The Text of the English Bible and the microform of Natural Theology | excluded | |
+
+## John de Soyres (round 136, my pick, 2026-10-23)
+
+Slugs `de-*`. Built from title pages read for round 136.
+
+| Work | Status | Where |
+|---|---|---|
+| Montanism and the primitive church : a study in the ecclesiastical history of the second century (Cambridge : Deighton, Bell, and co., 1878) | have-ocr | IA `montanismprimiti00deso` |
+| Christian reunion (St. John, N.B. : J. & A. McMillan, 1888) | have-ocr | IA `christianreunion00deso` |
+| Church parties and Christian unity : a sermon preached on Whitsunday, May 20th, 1888, at St. John's Church (Saint John, N.B. : J. & A. McMillan, 1888) | have-ocr | IA `cihm_06875` |
+| An examination of Mr. Staley's treatise entitled A manual of the Catholic religion (Toronto : Bryant Press; Saint John [N.B.] : E.G. Nelson, 1890) | have-ocr | IA `cihm_56367` |
+| Christianity and biblical criticism : a paper read before the St. John Clerical Association, March 11th, 1890 (Saint John, N.B. : J. & A. McMillan, 1890) | have-ocr | IA `cihm_06001` |
+| The children of the wisdom and other sermons preached in Canadian pulpits (Toronto W. Briggs, 1897) | have-ocr | IA `thechildrenofthe00desouoft` |
+| Our national Church : a sermon preached at the anniversary service of the Church of England Institute at Trinity Church, St. John, N.B., October 15th, 1902 (St. John? N.B. : s.n, 1902) | have-ocr | IA `nationalchurch00desouoft` |
+| his edition of Pascal's Provincial Letters is M'Crie's translation | excluded | |
+| A Word-Book for Students of English History is not theology | excluded | |
+| the 1894 Evangelical Church Conference report is a many-author record | excluded | |
+| the microform copies of Christian Reunion, The Children of Wisdom and Our National Church | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
