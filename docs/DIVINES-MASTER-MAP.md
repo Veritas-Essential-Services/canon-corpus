@@ -19526,6 +19526,28 @@ Slugs `staughton-*`. Built from title pages read for round 135.
 | Gill's Body of Divinity is Gill's | excluded | |
 | the other scan of Compassion to the Poor | excluded | |
 | A Selection of Remarkable Events in the Lives of the Primitive Fathers (1791): William Staughton appears only in its list of subscribers, not as its author | excluded | |
+
+## Francis Gastrell (round 135, my pick, 2026-10-23)
+
+Slugs `gastrell-*`. Built from title pages read for round 135.
+
+| Work | Status | Where |
+|---|---|---|
+| The certainty of the Christian revelation,...  1699 (catalogued 1699) | have-ocr | IA `bim_early-english-books-1641-1700_the-certainty-of-the-chr_gastrell-francis_1699` |
+| The Certainty and necessity of religion in general : or, the first grounds and principles of humane duty establish'd ; in eight sermons preach'd at S. Martins in the Fields at the lecture for the year 1697, founded by the honourable Robert Boyle, Esquire (London : Printed by T. W. for Tho. Bennet, 1703) | have-ocr | IA `certaintynecessi00gast` |
+| A Sermon Preach'd in the Parish-Church of St. Sepulchres, ...  1707: Vol 1, vol. 1 (catalogued 1707) | have-ocr | IA `per_early-18th-century-archives_a-sermon-preachd-in-the_francis-gastrell-dd_1707_1` |
+| The Christian Institutes: Or, The Sincere Word of God, Being a Plain and Impartial Account of (Printed for F. and C . Rivington, 1804) | have-ocr | IA `christianinstit02gastgoog` |
+| Some considerations concerning the Trinity : and the ways of managing that controversie (London : Printed and sold by E. Whitlock, 1696) (IA someconsideratio01gast): the printed title page names no author; 'By Dr. Gastrell' is written in by hand, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A defence of some considerations ...  1698 (catalogued 1698) (IA bim_early-english-books-1641-1700_a-defence-of-some-consid_gastrell-francis-bp_1698): the printed title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The principles of deism truly represented and set in a clear light, in two dialogues between a sceptick and a deist. The first concerning the Christian revelation. The second concerning natural religion.  1708 (catalogued 1708) (IA bim_eighteenth-century_the-principles-of-deism-_gastrell-francis_1708): the printed title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Remarks upon Dr. Clark's scripture-doctrine of the Trinity. By the author of, Some considerations concerning the Trinity, and the ways of managing that controversy.  1714 (catalogued 1714) (IA bim_eighteenth-century_remarks-upon-dr-clarks_gastrell-francis_1714): title page reads only 'By the Author of Some Considerations concerning the Trinity', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A moral proof of the certainty of a future state.  1725 (catalogued 1725) (IA bim_eighteenth-century_a-moral-proof-of-the-cer_gastrell-francis_1725): no author named in the opening pages, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Institutiones Christianae (1718) is Latin | excluded | |
+| The Bishop of Chester's Case is a legal dispute over the Manchester wardenship | excluded | |
+| the three state sermons of 1704, 1712 and 1714 are two-image scans | excluded | |
+| the EEBO copy of Some Considerations | excluded | |
+| the 1747 Enquiry is Peregrine Gastrell's | excluded | |
+| the ECCO copy of the 1707 St Sepulchre's sermon, which is shelved as gastrell-st-sepulchres-1707 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

@@ -1,0 +1,103 @@
+{
+ "_about": "Public-domain Francis Gastrell (1662-1725), Bishop of Chester, for the Word Hoard: The Certainty of the Christian Revelation, The Certainty and Necessity of Religion (his Boyle Lectures), The Christian Institutes, and his 1707 charity-school sermon. His anonymous books (Some Considerations concerning the Trinity and its Defence, The Principles of Deism, the Remarks upon Clarke, A Moral Proof of a Future State) are held until Adam rules on catalogue attributions. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 135 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "francis gastrell",
+  "f. gastrell",
+  "gastrell",
+  "bishop of chester"
+ ],
+ "_surname": [
+  "gastrell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gastrell-certainty-revelation": [
+   "bim_early-english-books-1641-1700_the-certainty-of-the-chr_gastrell-francis_1699",
+   "The certainty of the Christian revelation,...  1699 (catalogued 1699)"
+  ],
+  "gastrell-certainty-necessity": [
+   "certaintynecessi00gast",
+   "The Certainty and necessity of religion in general : or, the first grounds and principles of humane duty establish'd ; in eight sermons preach'd at S. Martins in the Fields at the lecture for the year 1697, founded by the honourable Robert Boyle, Esquire (London : Printed by T. W. for Tho. Bennet, 1703)"
+  ],
+  "gastrell-st-sepulchres-1707": [
+   "per_early-18th-century-archives_a-sermon-preachd-in-the_francis-gastrell-dd_1707_1",
+   "A Sermon Preach'd in the Parish-Church of St. Sepulchres, ...  1707: Vol 1, vol. 1 (catalogued 1707)"
+  ],
+  "gastrell-christian-institutes": [
+   "christianinstit02gastgoog",
+   "The Christian Institutes: Or, The Sincere Word of God, Being a Plain and Impartial Account of (Printed for F. and C . Rivington, 1804)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "gastrell-latin": "Institutiones Christianae (1718) is Latin",
+  "gastrell-chester-case": "The Bishop of Chester's Case is a legal dispute over the Manchester wardenship",
+  "gastrell-short": "the three state sermons of 1704, 1712 and 1714 are two-image scans",
+  "gastrell-dups": "the EEBO copy of Some Considerations",
+  "gastrell-peregrine": "the 1747 Enquiry is Peregrine Gastrell's",
+  "gastrell-religious-education": "the ECCO copy of the 1707 St Sepulchre's sermon, which is shelved as gastrell-st-sepulchres-1707"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gastrell-certainty-necessity": "title page (image): 'By Francis Gastrell, D. D. Canon of Christ-Church, and Preacher to the Honourable Society of Lincolns-Inn', second edition, London 1703",
+  "gastrell-christian-institutes": "title page (image): 'By the Right Reverend Father in God Francis, late Lord Bishop of Chester', thirteenth edition, London 1804 (Gastrell was Bishop of Chester 1714-1725)"
+ },
+ "_pending": {
+  "gastrell-trinity": "Some considerations concerning the Trinity : and the ways of managing that controversie (London : Printed and sold by E. Whitlock, 1696) (IA someconsideratio01gast): the printed title page names no author; 'By Dr. Gastrell' is written in by hand, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "gastrell-defence": "A defence of some considerations ...  1698 (catalogued 1698) (IA bim_early-english-books-1641-1700_a-defence-of-some-consid_gastrell-francis-bp_1698): the printed title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "gastrell-deism": "The principles of deism truly represented and set in a clear light, in two dialogues between a sceptick and a deist. The first concerning the Christian revelation. The second concerning natural religion.  1708 (catalogued 1708) (IA bim_eighteenth-century_the-principles-of-deism-_gastrell-francis_1708): the printed title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "gastrell-remarks-clarke": "Remarks upon Dr. Clark's scripture-doctrine of the Trinity. By the author of, Some considerations concerning the Trinity, and the ways of managing that controversy.  1714 (catalogued 1714) (IA bim_eighteenth-century_remarks-upon-dr-clarks_gastrell-francis_1714): title page reads only 'By the Author of Some Considerations concerning the Trinity', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "gastrell-moral-proof": "A moral proof of the certainty of a future state.  1725 (catalogued 1725) (IA bim_eighteenth-century_a-moral-proof-of-the-cer_gastrell-francis_1725): no author named in the opening pages, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "gastrell-certainty-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "gastrell",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1699",
+   "ia_date": "1699",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gastrell-certainty-necessity": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1703",
+   "ia_date": "1703",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gastrell-st-sepulchres-1707": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "gastrell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1707",
+   "ia_date": "1707",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gastrell-christian-institutes": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
