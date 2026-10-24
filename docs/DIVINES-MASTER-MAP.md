@@ -19691,6 +19691,25 @@ Slugs `de-*`. Built from title pages read for round 136.
 | A Word-Book for Students of English History is not theology | excluded | |
 | the 1894 Evangelical Church Conference report is a many-author record | excluded | |
 | the microform copies of Christian Reunion, The Children of Wisdom and Our National Church | excluded | |
+
+## Henry J. Ripley (round 136, my pick, 2026-10-23)
+
+Slugs `ripley-*`. Built from title pages read for round 136.
+
+| Work | Status | Where |
+|---|---|---|
+| Characteristics of the minister's works : A sermon, preached October 22, 1828, at the ordination of Mr. Calvin Newton as pastor of the Baptist Church and Society in Bellingham, Mass (Boston : Printed by William R. Collier ..., 1828) | have-ocr | IA `characteristicso00ripl` |
+| Christian baptism : an examination of professor Stuart's essay in the Biblical repository, April, 1833, on "The mode of baptism" (Boston : Lincoln, Edmands, 1833) | have-ocr | IA `christianbaptism0000ripl` |
+| The Acts of the apostles (Boston, Gould, Kendall, and Lincoln, 1844) | have-ocr | IA `actsofapostles00ripl` |
+| Sacred rhetoric : or, Composition and delivery of sermons (Boston : Gould and Lincoln ; New York : Sheldon, Blakeman ; Cincinnati : Geo. S. Blanchard, 1849) | have-ocr | IA `sacredrhetoricor00riplrich` |
+| The four Gospels : with notes, chiefly explanatory : designed for teachers in Sabbath schools and Bible classes, and as an aid to family instruction (Boston : Gould and Lincoln, 1851) | have-ocr | IA `fourgospelswithn00ripl` |
+| The Epistle of the Apostle Paul to the Romans : with notes, chiefly explanatory, designed as an accompaniment to the author's notes on the Gospels and the Acts (Boston : Gould and Lincoln, 1859) | have-ocr | IA `epistleofapostle00ripl` |
+| Church polity : a treatise on Christian churches and the Christian ministry (Boston : Graves & Young, 1867) | have-ocr | IA `churchpolitytrea00ripl` |
+| The Epistle to the Hebrews, with explanatory notes : to which are added a condensed view of the priesthood of Christ and a translation of the Epistle, prepared for this work (Boston : Gould and Lincoln, 1868) | have-ocr | IA `epistletohebrews00ripl` |
+| Views of Communion by Hall, Fuller, Griffin and Ripley (1832, IA MN40214ucmf_9): J. G. Fuller's Conversations with Griffin's letter and Ripley's review of it (waits for Adam's ruling on many-author compilations) | pending | not shelved |
+| Campbell's Lectures on Systematic Theology are Campbell's; the 1875 Tribute is about him | excluded | |
+| the 1837 manuscript letters | excluded | |
+| the other Sacred Rhetoric and the Romans microform | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
