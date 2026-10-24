@@ -19635,3 +19635,20 @@ Slugs `leng-*`. Built from title pages read for round 136.
 | A sermon preached before the incorporated Society for the propagation of the Gospel in Foreign Parts.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_leng-john-bishop-of-no_1727` |
 | Fides in SS. Trinitatem (1698) is Latin and a one-image scan | excluded | |
 | his editions of Terence and Aristophanes are classical | excluded | |
+
+## Nathanael Burwash (round 136, my pick, 2026-10-23)
+
+Slugs `burwash-*`. Built from title pages read for round 136.
+
+| Work | Status | Where |
+|---|---|---|
+| Memorials of the life of Edward and Lydia Ann Jackson, with discourses preached in the Centenary Church, Hamilton, on the occasion of their death (Toronto, Rose, 1876) | have-ocr | IA `memorialsoflifeo00burwuoft` |
+| The sermons with introductions analysis and notes (Toronto : W. Briggs, [188) | have-ocr | IA `sermonswithintro00wesliala` |
+| The relation of children to the fall, the atonement, and the church (Toronto : W. Briggs, 1882) | have-ocr | IA `cihm_07208` |
+| Universal childhood drawn to Christ : with an appendix containing remarks on Rev. Dr. Burwash's Moral condition of childhood (Toronto : W. Briggs, 1882) | have-ocr | IA `cihm_89904` |
+| A handbook of the Epistle of St. Paul to the Romans, based on the revised version and the revisers' text (Toronto, Briggs, 1887) | have-ocr | IA `handbookofepistl00burwuoft` |
+| Inductive studies in theology, including the doctrines of sin and the atonement (Toronto, Briggs, 1896) | have-ocr | IA `inductivestudies00burwuoft` |
+| Manual of Christian theology on the inductive method (London : H. Marshall, 1900) | have-ocr | IA `theologyinductiv00burwuoft` |
+| Voice Production, the federation and university papers, the Ryerson biography and the party-history essay are not theology; the geology and seed books are by other Burwashes | excluded | |
+| other scans of the Jackson memorials, Wesley's Doctrinal Standards and Inductive Studies | excluded | |
+| Antinomianism Revived and The Old Testament Vindicated are by other authors | excluded | |
