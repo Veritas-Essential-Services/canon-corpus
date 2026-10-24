@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Jeremiah Seed (1700-1747), Fellow of Queen's College, Oxford, and rector of Knight's Enham, for the Word Hoard: Discourses on Several Important Subjects (with the eight Lady Moyer lectures on the Trinity), his posthumous Works, and a sermon on the happiness of the good in a future state. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 137 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jeremiah seed",
+  "j. seed",
+  "seed"
+ ],
+ "_surname": [
+  "seed"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "seed-happiness-good": [
+   "bim_eighteenth-century_the-happiness-of-the-goo_seed-jeremiah_1741",
+   "The happiness of the good in a future state set forth: in a sermon occasion'd by the death of Dr. Waterland, ... and preached in Twickenham-Chapel, January the 4th, 1740-1. ... By Jeremiah Seed, ...  1741 (catalogued 1741)"
+  ],
+  "seed-discourses-1743-2": [
+   "bim_eighteenth-century_discourses-on-several-im_seed-jeremiah_1743_2",
+   "Discourses on several important subjects. To which are added, eight sermons preached at the Lady Moyer's lecture, in the cathedral church of St. Paul, London. In two volumes. By Jeremiah Seed, ...  1743: Vol 2, vol. 2 (catalogued 1743)"
+  ],
+  "seed-discourses-1757-1": [
+   "discoursesonseve175701seed",
+   "Discourses on several subjects : to which are added, eight sermons preached at the Lady Moyer's lecture, in the Cathedral Church of St. Paul, London, vol. 1 (London : Printed for R. Manby and H.S. Cox, 1757)"
+  ],
+  "seed-posthumous-1": [
+   "posthumousworkso01seed",
+   "Posthumous works of Jeremiah Seed ... : consisting of sermons, essays, etc, vol. 1 (London : Printed for M. Seed and sold by R. Manby, 1750)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "seed-dups": "the Google copy of the Posthumous Works",
+  "seed-posthumous-2": "the ECCO item catalogued as volume 2 of the Posthumous Works holds a book by Joseph Hall"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "seed-happiness-good": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "seed",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1741",
+   "ia_date": "1741",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "seed-discourses-1743-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "seed",
+   "identity": "ok",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "seed-discourses-1757-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "seed",
+   "identity": "ok",
+   "ia_rights": "ok: published 1757",
+   "ia_date": "1757",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "seed-posthumous-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "seed",
+   "identity": "ok",
+   "ia_rights": "ok: published 1750",
+   "ia_date": "1750",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -19764,3 +19764,16 @@ Slugs `fleetwood-*`. Built from title pages read for round 137.
 | Revolution Principles and Papists not Excluded from the Throne are political | excluded | |
 | later printings of the Relative Duties, the Reasonable Communicant, the Romans vindication and the swearing sermon, and the 1736 proposals | excluded | |
 | the Curate of Wilts letters, the Holborn letter, the funeral sermon upon Mr Noble 'by a neighbouring minister' and The Perfectionists Examin'd are not signed | excluded | |
+
+## Jeremiah Seed (round 137, my pick, 2026-10-23)
+
+Slugs `seed-*`. Built from title pages read for round 137.
+
+| Work | Status | Where |
+|---|---|---|
+| The happiness of the good in a future state set forth: in a sermon occasion'd by the death of Dr. Waterland, ... and preached in Twickenham-Chapel, January the 4th, 1740-1. ... By Jeremiah Seed, ...  1741 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_the-happiness-of-the-goo_seed-jeremiah_1741` |
+| Discourses on several important subjects. To which are added, eight sermons preached at the Lady Moyer's lecture, in the cathedral church of St. Paul, London. In two volumes. By Jeremiah Seed, ...  1743: Vol 2, vol. 2 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_discourses-on-several-im_seed-jeremiah_1743_2` |
+| Discourses on several subjects : to which are added, eight sermons preached at the Lady Moyer's lecture, in the Cathedral Church of St. Paul, London, vol. 1 (London : Printed for R. Manby and H.S. Cox, 1757) | have-ocr | IA `discoursesonseve175701seed` |
+| Posthumous works of Jeremiah Seed ... : consisting of sermons, essays, etc, vol. 1 (London : Printed for M. Seed and sold by R. Manby, 1750) | have-ocr | IA `posthumousworkso01seed` |
+| the Google copy of the Posthumous Works | excluded | |
+| the ECCO item catalogued as volume 2 of the Posthumous Works holds a book by Joseph Hall | excluded | |
