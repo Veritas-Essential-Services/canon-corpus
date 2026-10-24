@@ -1,0 +1,166 @@
+{
+ "_about": "Public-domain William Clagett (1646-1688), preacher to Gray's Inn and a leading Anglican writer against Rome under James II, for the Word Hoard: his Paraphrase with Notes on John VI, The Religion of an Oath, Of the Humanity and Charity of Christians, two pieces from the 1688 Popery controversy that name him, and his collected sermons (Seventeen Sermons, Eleven Sermons, and the 1720 Sermons). Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 138 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. His many anonymous tracts against Dissent and against Popery, and the Discourse concerning the Operations of the Holy Spirit, are held until Adam rules on catalogue attributions.",
+ "_name_words": [
+  "william clagett",
+  "w. clagett",
+  "clagett",
+  "william claget",
+  "w. claget",
+  "claget"
+ ],
+ "_surname": [
+  "clagett",
+  "claget"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "clagett-humanity-charity": [
+   "bim_early-english-books-1641-1700_of-the-humanity-and-char_clagett-william_1687",
+   "Of the humanity and charity of Christians. ...  1687 (catalogued 1687)"
+  ],
+  "clagett-captious-queries": [
+   "bim_early-english-books-1641-1700_several-captious-queries_clagett-william_1688",
+   "Several captious queries ...  1688 (catalogued 1688)"
+  ],
+  "clagett-summ-conference": [
+   "bim_early-english-books-1641-1700_the-summ-of-a-conference_clagett-william_1689",
+   "The summ of a conference...  1689 (catalogued 1689)"
+  ],
+  "clagett-paraphrase-john-6": [
+   "bim_early-english-books-1641-1700_a-paraphrase-with-notes-_clagett-william_1693",
+   "A paraphrase with notes ...  1693 (catalogued 1693)"
+  ],
+  "clagett-eleven-sermons": [
+   "bim_early-english-books-1641-1700_eleven-sermons_clagett-william_1693",
+   "Eleven sermons.  1693 (catalogued 1693)"
+  ],
+  "clagett-seventeen-sermons": [
+   "bim_early-english-books-1641-1700_seventeen-sermons-preach_clagett-william_1699",
+   "Seventeen sermons preach'd upon several occasions.  1699 (catalogued 1699)"
+  ],
+  "clagett-religion-oath": [
+   "bim_early-english-books-1641-1700_the-religion-of-an-oath_clagett-william_1700",
+   "The religion of an oath.  1700 (catalogued 1700)"
+  ],
+  "clagett-sermons-1720": [
+   "sermonsonfollow00claggoog",
+   "Sermons on the following subjects ; viz. : I. Concerning Christ's not appearing to all the people after his Resurrection. II. Of the unbelief of the Jews (London. : Printed for James Knapton ... and John Wyat ..., 1720)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "clagett-others": "A Papist Misrepresented and Represented is Gother's with its answers; the 1722 Discourses are Stebbing's supplement",
+  "clagett-dups": "the Google copies of The Difference of the Case and the View of the Whole Controversy, the 1686 Paraphrase, the 65-image 1689 Seventeen Sermons, and the 1688 Second Letter"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "clagett-humanity-charity": "title page (OCR): 'By William Clagett, D.D. Preacher to the Honourable Society of Greys-Inn', Suffolk Feast sermon, 30 November 1686",
+  "clagett-religion-oath": "title page (image): 'By the late Reverend and Judicious Dr. Clagett', London 1700"
+ },
+ "_pending": {
+  "clagett-holy-spirit": "A discourse concerning the operations of the Holy Spirit, ...  1678 (catalogued 1678) (IA bim_early-english-books-1641-1700_a-discourse-concerning-t_clagett-william_1678): the printed title page names no author; the attribution is written in by hand, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-blessed-virgin": "A Discourse Concerning the Worship of the Blessed Virgin and the Saints: With an Account of the (Printed for T. Bassett [etc.], 1686) (IA adiscourseconce00claggoog): the printed title page names no author; the attribution is written in by hand, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-mischief-impositions": "A reply to a pamphlet called The mischief of impositions; ...  1681 (catalogued 1681) (IA bim_early-english-books-1641-1700_a-reply-to-a-pamphlet-ca_clagett-william_1681): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-dissenters-objections": "An answer to the Dissenters objections...  1683 (catalogued 1683) (IA bim_early-english-books-1641-1700_an-answer-to-the-dissent_clagett-william_1683): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-difference-case": "The difference of the case, ...  1686 (catalogued 1686) (IA bim_early-english-books-1641-1700_the-difference-of-the-ca_clagett-william_1686): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-extreme-unction": "A discourse concerning the pretended sacrament of extreme unction.  1687 (catalogued 1687) (IA bim_early-english-books-1641-1700_a-discourse-concerning-t_clagett-william_1687): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-view-controversy": "A view of the whole controversy ...  1687 (catalogued 1687) (IA bim_early-english-books-1641-1700_a-view-of-the-whole-cont_clagett-william_1687): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-present-state": "The present state of the controversie...  1687 (catalogued 1687) (IA bim_early-english-books-1641-1700_the-present-state-of-the_clagett-william_1687): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-state-church-rome": "The state of the Church of Rome...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_the-state-of-the-church-_clagett-william_1688): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-queries-tw": "The queries offered by T. W. ... answered.  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_the-queries-offered-by-t_clagett-william_1688): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "clagett-answer-representer": "An answer to the Representer's reflections ...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_an-answer-to-the-represe_clagett-william_1688): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "clagett-humanity-charity": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1687",
+   "ia_date": "1687",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clagett-captious-queries": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "clagett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1688",
+   "ia_date": "1688",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clagett-summ-conference": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "clagett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1689",
+   "ia_date": "1689",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clagett-paraphrase-john-6": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "claget",
+   "identity": "ok",
+   "ia_rights": "ok: published 1693",
+   "ia_date": "1693",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clagett-eleven-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "clagett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1693",
+   "ia_date": "1693",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clagett-seventeen-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "clagett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1699",
+   "ia_date": "1699",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clagett-religion-oath": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1700",
+   "ia_date": "1700",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "clagett-sermons-1720": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "clagett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

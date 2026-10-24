@@ -19843,3 +19843,31 @@ Slugs `oakeley-*`. Built from title pages read for round 137.
 | the French Augustine, Perte et Gain (Newman) and The Catholic Church the Teacher of Mankind are not his | excluded | |
 | Lyra Liturgica is verse signed only F.O. | excluded | |
 | the 1848 copy of the Order and Ceremonial | excluded | |
+
+## William Clagett (round 138, my pick, 2026-10-23)
+
+Slugs `clagett-*`. Built from title pages read for round 138.
+
+| Work | Status | Where |
+|---|---|---|
+| Of the humanity and charity of Christians. ...  1687 (catalogued 1687) | have-ocr | IA `bim_early-english-books-1641-1700_of-the-humanity-and-char_clagett-william_1687` |
+| Several captious queries ...  1688 (catalogued 1688) | have-ocr | IA `bim_early-english-books-1641-1700_several-captious-queries_clagett-william_1688` |
+| The summ of a conference...  1689 (catalogued 1689) | have-ocr | IA `bim_early-english-books-1641-1700_the-summ-of-a-conference_clagett-william_1689` |
+| A paraphrase with notes ...  1693 (catalogued 1693) | have-ocr | IA `bim_early-english-books-1641-1700_a-paraphrase-with-notes-_clagett-william_1693` |
+| Eleven sermons.  1693 (catalogued 1693) | have-ocr | IA `bim_early-english-books-1641-1700_eleven-sermons_clagett-william_1693` |
+| Seventeen sermons preach'd upon several occasions.  1699 (catalogued 1699) | have-ocr | IA `bim_early-english-books-1641-1700_seventeen-sermons-preach_clagett-william_1699` |
+| The religion of an oath.  1700 (catalogued 1700) | have-ocr | IA `bim_early-english-books-1641-1700_the-religion-of-an-oath_clagett-william_1700` |
+| Sermons on the following subjects ; viz. : I. Concerning Christ's not appearing to all the people after his Resurrection. II. Of the unbelief of the Jews (London. : Printed for James Knapton ... and John Wyat ..., 1720) | have-ocr | IA `sermonsonfollow00claggoog` |
+| A discourse concerning the operations of the Holy Spirit, ...  1678 (catalogued 1678) (IA bim_early-english-books-1641-1700_a-discourse-concerning-t_clagett-william_1678): the printed title page names no author; the attribution is written in by hand, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A Discourse Concerning the Worship of the Blessed Virgin and the Saints: With an Account of the (Printed for T. Bassett [etc.], 1686) (IA adiscourseconce00claggoog): the printed title page names no author; the attribution is written in by hand, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A reply to a pamphlet called The mischief of impositions; ...  1681 (catalogued 1681) (IA bim_early-english-books-1641-1700_a-reply-to-a-pamphlet-ca_clagett-william_1681): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| An answer to the Dissenters objections...  1683 (catalogued 1683) (IA bim_early-english-books-1641-1700_an-answer-to-the-dissent_clagett-william_1683): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The difference of the case, ...  1686 (catalogued 1686) (IA bim_early-english-books-1641-1700_the-difference-of-the-ca_clagett-william_1686): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A discourse concerning the pretended sacrament of extreme unction.  1687 (catalogued 1687) (IA bim_early-english-books-1641-1700_a-discourse-concerning-t_clagett-william_1687): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A view of the whole controversy ...  1687 (catalogued 1687) (IA bim_early-english-books-1641-1700_a-view-of-the-whole-cont_clagett-william_1687): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The present state of the controversie...  1687 (catalogued 1687) (IA bim_early-english-books-1641-1700_the-present-state-of-the_clagett-william_1687): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The state of the Church of Rome...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_the-state-of-the-church-_clagett-william_1688): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The queries offered by T. W. ... answered.  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_the-queries-offered-by-t_clagett-william_1688): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| An answer to the Representer's reflections ...  1688 (catalogued 1688) (IA bim_early-english-books-1641-1700_an-answer-to-the-represe_clagett-william_1688): published without his name, and the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A Papist Misrepresented and Represented is Gother's with its answers; the 1722 Discourses are Stebbing's supplement | excluded | |
+| the Google copies of The Difference of the Case and the View of the Whole Controversy, the 1686 Paraphrase, the 65-image 1689 Seventeen Sermons, and the 1688 Second Letter | excluded | |
