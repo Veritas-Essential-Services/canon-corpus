@@ -19738,3 +19738,29 @@ Slugs `herring-*`. Built from title pages read for round 137.
 | the 1745 speech at presenting an address is political | excluded | |
 | the 1753 New Form of Common Prayer, Cole's Short Narrative and the 1765 visitation sermon are not his | excluded | |
 | the ECCO copy of the York sermon | excluded | |
+
+## William Fleetwood (round 137, my pick, 2026-10-23)
+
+Slugs `fleetwood-*`. Built from title pages read for round 137.
+
+| Work | Status | Where |
+|---|---|---|
+| A compleat collection of the sermons, tracts, and pieces of all kinds, that were written by the Right Reverend Dr. William Fleetwood, ...  1737 (catalogued 1737) | have-ocr | IA `bim_eighteenth-century_a-compleat-collection-of_fleetwood-william_1737` |
+| The relative duties of parents and children, husbands and wives, masters and servants, consider'd in sixteen sermons: with three more upon the case of self-murther. By W. Fleetwood, ...  1705 (catalogued 1705) | have-ocr | IA `bim_eighteenth-century_the-relative-duties-of-p_fleetwood-william_1705` |
+| The reasonable communicant: or, an explanation of the doctrine of the Sacrament of the Lord's-Supper, in all its parts, from the communion-service. In a discourse between a minister and one of his parishioners.  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_the-reasonable-communica_fleetwood-william_1704` |
+| An essay upon miracles. In two discourses. By William Fleetwood, ...  1701 (catalogued 1701) | have-ocr | IA `bim_eighteenth-century_an-essay-upon-miracles-_fleetwood-william-bish_1701` |
+| Seventeen sermons preach'd upon several occasions. By W. Fleetwood, ... First collected together.  1717 (catalogued 1717) | have-ocr | IA `bim_eighteenth-century_seventeen-sermons-preach_fleetwood-william_1717` |
+| Four sermons: I. On the death of Queen Mary, 1694. II. On the death of the Duke of Gloucester, 1700. III. On the death of King William, 1701. IV. On the Queen's accession to the throne, in 1703. By William Lord Bishop of St. Asaph.  1712 (catalogued 1712) | have-ocr | IA `bim_eighteenth-century_four-sermons-i-on-the-_fleetwood-william_1712` |
+| A sermon upon swearing. Preached at his parish. By William, late Lord Bishop of S. Asaph.  1721 (catalogued 1721) | have-ocr | IA `bim_eighteenth-century_a-sermon-upon-swearing-_fleetwood-william_1721_0` |
+| A sermon of the education of children,...  1696 (catalogued 1696) | have-ocr | IA `bim_early-english-books-1641-1700_a-sermon-of-the-educatio_fleetwood-william_1696` |
+| The life and death of the blessed Virgin: ...  1688 (England : Printed and are to be sold by Randal Taylor ..., 1688) (IA bim_early-english-books-1641-1700_the-life-and-death-of-th_fleetwood-william_1688): title page reads 'By a Lay Hand', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The thirteenth chapter to the Romans vindicated from the abusive senses put upon it (London : Printed for A. Baldwin near the Oxford Arms in Warwick Lane, 1710) (IA thirteenthchapte00fleeuoft): title page reads 'Written by a Curate of Salop', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The judgment of the Church of England in the case of lay-baptism and of Dissenters baptism.  1712 (catalogued 1712) (IA bim_eighteenth-century_the-judgment-of-the-chur_fleetwood-william_1712): the title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The life and miracles of St. Wenefrede, together with her litanies. With some historical observations made thereon - The second edition.  1713 (catalogued 1713) (IA bim_eighteenth-century_the-life-and-miracles-of_fleetwood-william_1713): the title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A defence of praying before sermon, as directed by the LVth canon.  1720 (catalogued 1720) (IA bim_eighteenth-century_a-defence-of-praying-bef_fleetwood-william_1720): the title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A letter to the Reverend Dr. Snape; wherein the authority of the Christian priesthood is maintain'd; the uninterrupted succession of bishops from the Apostles days is lineally deduced; ... By a curate of Wilts.  1718 (catalogued 1718) (IA bim_eighteenth-century_a-letter-to-the-reverend_fleetwood-william_1718_0): title page reads 'By a Curate of Wilts', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| his separately printed sermons of 1689 to 1718 are gathered in the 1737 Compleat Collection, so they are not shelved one by one | excluded | |
+| Chronicon Preciosum, the wheat-price account and the Latin Inscriptionum Antiquarum Sylloge are not theology | excluded | |
+| Revolution Principles and Papists not Excluded from the Throne are political | excluded | |
+| later printings of the Relative Duties, the Reasonable Communicant, the Romans vindication and the swearing sermon, and the 1736 proposals | excluded | |
+| the Curate of Wilts letters, the Holborn letter, the funeral sermon upon Mr Noble 'by a neighbouring minister' and The Perfectionists Examin'd are not signed | excluded | |
