@@ -19783,6 +19783,30 @@ Slugs `seed-*`. Built from title pages read for round 137.
 | Posthumous works of Jeremiah Seed ... : consisting of sermons, essays, etc, vol. 1 (London : Printed for M. Seed and sold by R. Manby, 1750) | have-ocr | IA `posthumousworkso01seed` |
 | the Google copy of the Posthumous Works | excluded | |
 | the ECCO item catalogued as volume 2 of the Posthumous Works holds a book by Joseph Hall | excluded | |
+
+## John Abernethy (Antrim) (round 137, my pick, 2026-10-23)
+
+Slugs `abernethy-*`. Built from title pages read for round 137.
+
+| Work | Status | Where |
+|---|---|---|
+| The people's choice, the Lord's annointed. A thanksgiving sermon for His most Excellent Majesty King George his happy accession to the throne, his arrival, and coronation. Preach'd at Antrim October, 27, 1714. By John Abernethy ...  1714 (catalogued 1714) | have-ocr | IA `bim_eighteenth-century_the-peoples-choice-the_abernethy-john_1714` |
+| A sermon recommending the study of scripture-prophecie, as an important duty, and a great means of reviving decay'd piety and charity: ... By John Abernethy ...  1716 (catalogued 1716) | have-ocr | IA `bim_eighteenth-century_a-sermon-recommending-th_abernethy-john_1716` |
+| Religious obedience founded on personal persuasion. A sermon preach'd at Belfast the ninth of December, 1719. By John Abernethy, ...  1720 (catalogued 1720) | have-ocr | IA `bim_eighteenth-century_religious-obedience-foun_abernethy-john-rev_1720` |
+| A sermon preached at Antrim, Nov. 13. 1723 at a fast observed in the Presbyterian congregations in Ulster, by agreement of their ministers, on the account of divisions. By John Abernethy, ...  1724 (catalogued 1724) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-ant_abernethy-john_1724` |
+| Persecution contrary to Christianity. A sermon preached in Wood-Street, Dublin, on the 23d. of October, 1735. Being the anniversary of the Irish rebellion. By John Abernethy, ...  1735 (catalogued 1735) | have-ocr | IA `bim_eighteenth-century_persecution-contrary-to-_abernethy-john_1735` |
+| Discourses concerning the perfections of God : in which His holiness, goodness, and other attributes are explained and proved, vol. 2 (Dublin : Printed by A. Reilly for J. Smith, 1740) | have-ocr | IA `discoursesconcer02aber` |
+| Discourses  1743: Vol 1, vol. 1 (catalogued 1743) | have-ocr | IA `bim_eighteenth-century_discourses_abernethy-john-rev_1743_1` |
+| Sermons on various subjects. ... By John Abernethy, M.A. With a large preface, containing the life of the author. In two volumes. ...  1748: Vol 2, vol. 2 (catalogued 1748) | have-ocr | IA `bim_eighteenth-century_sermons-on-various-subje_abernethy-john_1748_2` |
+| Sermons on various subjects, vol. 4 (London : Printed for D. Browne, T. Osborne, and A. Millar, 1762) | have-ocr | IA `sermonsonvarious04aber` |
+| Scarce and valuable tracts and sermons, occasionally published, by the late reverend and learned John Abernethy, Now first collected together.  1751: Vol 2, vol. 2 (catalogued 1751) | have-ocr | IA `bim_eighteenth-century_scarce-and-valuable-trac_abernethy-john_1751_2` |
+| Seasonable advice to the Protestant Dissenters in the north of Ireland; being a defence of the late General Synod's charitable declarations. ...  1722 (catalogued 1722) (IA bim_eighteenth-century_seasonable-advice-to-the_abernethy-john_1722): printed as by 'an anonymous but judicious author', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A defence of the Seasonable advice, in answer to the Reverend, [sic] Mr. Charles Mastertoun's Apology for the northern Presbyterians in Ireland: ... By John Abernethy, ...  1724 (catalogued 1724) (IA bim_eighteenth-century_a-defence-of-the-seasona_abernethy-john_1724): the title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| The nature and consequences of the Sacramental test considered. With reasons humbly offered for the repeal of it.  1731 (catalogued 1731) (IA bim_eighteenth-century_the-nature-and-consequen_abernethy-john_1731): the title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the surgical and physiological essays and medical dissertations are by John Abernethy the surgeon (1764-1831) | excluded | |
+| the 1781 German translation | excluded | |
+| the 1746 ECCO volume of the Discourses | excluded | |
+| the Google copy is another vol. IV of Sermons on Various Subjects, already shelved as abernethy-sermons-1762-4 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
