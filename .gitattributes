@@ -13,3 +13,6 @@ exports/mnemonicon/* text eol=lf
 # The printed hymns' source (and Adam's cut answers) are hashed into the hymn
 # manifest (inputs_sha256): a CRLF checkout would fail build_hymn_corpus.py --check.
 data/hymn-sources/* text eol=lf
+
+# Gutenberg sources are kept byte-for-byte (CRLF as published); see SHA256SUMS.
+data/corpus/gutenberg/*.txt -text
