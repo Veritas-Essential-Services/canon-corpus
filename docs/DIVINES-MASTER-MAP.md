@@ -19956,6 +19956,19 @@ Slugs `kaye-*`. Built from title pages read for round 138.
 | A charge to the clergy of the Diocese of Lincoln, vol. Talbot Collection of British Pamphlets (London : Printed for J.G.F. and J. Rivington, St. Paul's Church Yard, and Waterloo Place, Pall Mall, 1840) | have-ocr | IA `chargetoclergyof00kaye` |
 | A reply to the Travels of an Irish gentleman in search of a religion (London : [publisher not identified], 1834) (IA replytotravelsof00kaye): title page reads 'By Philalethes Cantabrigiensis', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
 | the Afghan war history, Long Engagements and the Malcolm life are Sir John William Kaye's; Jerningham and the Greville letter are by other Kayes; the Ecclesiastical Commission letter is Phillpotts's | excluded | |
+
+## Jonathan Shipley (round 138, my pick, 2026-10-23)
+
+Slugs `shipley-*`. Built from title pages read for round 138.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the House of Lords, in the Abbey church of St. Peter, Westminster, on Tuesday, January, 30, 1770, ... By ... Jonathan Lord Bishop of St. Asaph.  1770 (catalogued 1770) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_shipley-jonathan_1770` |
+| Sermon preached before the incorporated Society for the Propagation of the Gospel in Foreign Parts : at their anniversary meeting in the parish church of St. Mary-le-Bow, on Friday, February 19, 1773 / by Reverend Jonathan, Lord Bishop of St. Asaph (Philadelphia : Robert Bell, 1773) | have-ocr | IA `sermonpreachedbe00ship` |
+| The works of the Right Reverend Jonathan Shipley, D.D. ... In two volumes. ...  1792: Vol 2, vol. 2 (catalogued 1792) | have-ocr | IA `bim_eighteenth-century_the-works-of-the-right-r_shipley-jonathan_1792_2` |
+| the 1774 speech on the Massachusetts charters and its Welsh translation are political | excluded | |
+| Daboll's almanack is not his | excluded | |
+| the ECCO copy of the 1773 sermon | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
