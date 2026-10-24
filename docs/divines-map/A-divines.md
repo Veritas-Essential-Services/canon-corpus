@@ -19913,3 +19913,26 @@ Slugs `squire-*`. Built from title pages read for round 138.
 | A sermon preached at St. Lawrence Jewry, on Thursday, March 28, 1765, before His Royal Highness Edward Duke of York, President, and the governors of the London-Hospital, at Mile-End, ... By Samuel, Lord Bishop of St. David's. ...  1765 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-st_squire-samuel_1765` |
 | the Enquiry into the English Constitution, the Letter to a Tory Friend, The Important Question Discussed, and the remarks on Carte and on The Academic are political or historical | excluded | |
 | the 1763 printing of Indifference for Religion | excluded | |
+
+## Richard Mant (round 138, my pick, 2026-10-23)
+
+Slugs `mant-*`. Built from title pages read for round 138.
+
+| Work | Status | Where |
+|---|---|---|
+| The Order for the Visitation of the Sick, from the Book of Common Prayer; Interspersed with (printed for F.C. and J . Rivington, 1807) | have-ocr | IA `orderforvisitat00mantgoog` |
+| An appeal to the Gospel, or, An inquiry into the justice of the charge alleged by the Methodists and other objectors that the Gospel is not preached by the national clergy : in a series of discourses delivered before the University of Oxford in the year 1812 (Oxford : University Press, 1812) | have-ocr | IA `appealtogospelor00mant` |
+| Sermons, for parochial and domestic use, designed to illustrate and enforce (Printed for J. Parker , and C. and J . Rivengton, London, by W. Baxter, 1823, 1813) | have-ocr | IA `sermonsforparoc01mantgoog` |
+| Two tracts, intended to convey correct notions of regeneration and conversion, according to the sense of Holy Scripture, and of the Church of England : extracted from the Bampton lecture of 1812 (London : Printed for F.C. and J. Rivington, 1815) | have-ocr | IA `twotractsintende00mant_0` |
+| The Book of Psalms, in an English metrical version : founded on the basis of the authorized Bible translation, and compared with the original Hebrew ; with notes critical and illustrative (Oxford : Printed by W. Baxter for J. Parker [etc.], 1824) | have-ocr | IA `bookofpsalmsinen00mant` |
+| Biographical notices of the apostles, evangelists, and other saints (Oxford, 1828) | have-ocr | IA `biographicalnoti00mant` |
+| The clergyman's obligations considered: with particular reference to the ordination vow (catalogued 1830) | have-ocr | IA `clergymansoblig00mantgoog` |
+| The Gospel Miracles: with illustrative conversations (Printed for J. G. & F . Rivington, 1832) | have-ocr | IA `gospelmiraclesw00mantgoog` |
+| The happiness of the blessed : considered as to the particulars of their state: their recognition of each other in that state; and its difference of degrees. To which are added, Musings on the church and her services (Philadelphia : Key & Biddle, 1833) | have-ocr | IA `happinessofbless00mant` |
+| A Letter to the Rev. Henry Hart Milman, M.A.: Reputed Author of a History of the Jews, in the (Printed by W.Baxter, 1830) (IA alettertorevhen00mantgoog): the OCR of its opening pages names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Puritanism revived, or, Methodism as old as the great rebellion : in a series of letters from a curate to his rector (catalogued 1808) (IA 29867493.1808.emory.edu): printed as 'a series of letters from a Curate to his Rector', naming no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the D'Oyly and Mant Bible is a commentary compiled jointly with George D'Oyly (many-author) | excluded | |
+| his edition of Thomas Warton's Poetical Works and his verses on Joseph Warton are literary | excluded | |
+| the parsing of Corderius is a school book | excluded | |
+| An Inquiry into the Effect of Baptism is John Scott's | excluded | |
+| the 1813 Appeal and the DLI copies of the Sermons | excluded | |
