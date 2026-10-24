@@ -1,0 +1,212 @@
+{
+ "_about": "Public-domain Richard Smalbroke (1672-1749), Bishop of St David's and then of Lichfield and Coventry, for the Word Hoard: A Vindication of the Miracles of Our Blessed Saviour (his answer to Woolston), Idolatry Charged upon Arianism, his charges to the clergy of St David's, and sermons. The New Arian Reprov'd and the Enquiry into the Complutensian New Testament were published anonymously and are held until Adam rules on catalogue attributions. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 135 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "richard smalbroke",
+  "richard smallbroke",
+  "r. smalbroke",
+  "smalbroke",
+  "smallbroke"
+ ],
+ "_surname": [
+  "smalbroke",
+  "smallbroke"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smalbroke-universal-judgment": [
+   "bim_eighteenth-century_the-doctrine-of-an-unive_smalbroke-richard_1706",
+   "The doctrine of an universal judgment asserted. In a sermon preach'd before the University, at St. Mary's in Oxford, June 9th, 1706. in which the principles of Mr. Dodwell's late epistolatory discourse, ... are consider'd. By Richard Smalbroke (catalogued 1706)"
+  ],
+  "smalbroke-idolatry-arianism": [
+   "bim_eighteenth-century_idolatry-charged-upon-ar_smalbroke-richard_1720",
+   "Idolatry charged upon Arianism. Two sermons, preached at the cathedral-church of Hereford, Dec. the 13th and 20th, 1719. By Richard Smalbroke, ...  1720 (catalogued 1720)"
+  ],
+  "smalbroke-reverence-house": [
+   "bim_eighteenth-century_the-reverence-due-to-the_smalbroke-richard_1722",
+   "The reverence due to the house of God. A sermon preach'd in the cathedral-church of Landaff, July 2d, 1721. By Richard Smalbroke, ...  1722 (catalogued 1722)"
+  ],
+  "smalbroke-publick-interest": [
+   "bim_eighteenth-century_our-obligations-to-promo_smalbroke-richard_1724",
+   "Our obligations to promote the publick interest. A sermon preached in the cathedral-church of St. David's, July the 26th. 1724. By ... Richard, Lord Bishop of St. David's. ...  1724 (catalogued 1724)"
+  ],
+  "smalbroke-christian-charity": [
+   "b31874617",
+   "Christian charity a rational duty. A sermon preach'd before the ... Lord Mayor, the Court of Aldermen, and the governours of the several hospitals of the City of London, in St. Bridget's church, on Easter-Monday, April 11. 1726 (London : Printed for J. Wyat, 1726)"
+  ],
+  "smalbroke-charge-1726": [
+   "bim_eighteenth-century_the-charge-of-the-right-_church-of-england-dioce_1726",
+   "The charge of the Right Reverend, Richard, Lord Bishop of St. David's, delivered to the clergy of his diocese in his primary visitation ... in August and September, 1725. ...  1726 (catalogued 1726)"
+  ],
+  "smalbroke-reformation-necessary": [
+   "reformationneces00smaluoft",
+   "Reformation necessary to prevent our ruine : a sermon preached to the Societies for Reformation of Manners at St. Mary-le-Bow, on Wednesday, January 10th, 1727 (London : Printed and sold by Joseph Downing in Bartholomew-Close, near West-Smithfield, 1728)"
+  ],
+  "smalbroke-lords-1728": [
+   "sermonlordsspirit00smaluoft",
+   "A sermon preach'd before the Lords spiritual and temporal in Parliament assembled in the abbey church at Westminster on Tuesday, January 30, 1727/28 (London : Printed for James and John Knapton at the Crown in St. Paul's churchyard, 1728)"
+  ],
+  "smalbroke-miracles": [
+   "bim_eighteenth-century_a-vindication-of-the-mir_smalbroke-richard_1729",
+   "A vindication of the miracles of Our Blessed Saviour; in which Mr. Woolston's Discourses on them are particularly examin'd, ... Vol. I. ... By ... Richard, Lord Bishop of St. David's.  1729 (catalogued 1729)"
+  ],
+  "smalbroke-charge-1729": [
+   "bim_eighteenth-century_a-charge-delivered-to-th_church-of-england-dioce_1729",
+   "A charge delivered to the reverend the clergy of the diocese of St. David's, in a triennial visitation of the same in August, 1728. By ... Richard, Lord Bishop of St. David's.  1729 (catalogued 1729)"
+  ],
+  "smalbroke-spg-1733": [
+   "bim_eighteenth-century_a-sermon-preached-before_smalbroke-richard-bish_1733",
+   "A sermon preached before the Incorporated Society for the propagation of the Gospel in Foreign Parts.  1733 (catalogued 1733)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "smalbroke-lives": "the short accounts of Bishops Hough and Gibson are biography",
+  "smalbroke-others": "The Judgment of the Fathers (1695) is Thomas Smalbroke's; the 1784 ode is Samuel's",
+  "smalbroke-dups": "the ECCO copy of the 1728 Lords sermon"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "smalbroke-universal-judgment": "title page (image): 'By Richard Smalbroke, M.A. Fellow of Magdalen College, Oxon', Oxford 1706",
+  "smalbroke-idolatry-arianism": "title page (image): 'By Richard Smalbroke, D.D. Canon-Residentiary of Hereford, Rector of Withington', London 1720",
+  "smalbroke-publick-interest": "title page (image): 'By the Right Reverend Father in God, Richard, Lord Bishop of St. David's', 1724 (Smalbroke was Bishop of St David's 1724-1731)",
+  "smalbroke-christian-charity": "title page (image): 'By the Right Reverend Father in God, Richard, Lord Bishop of St. David's', Easter Monday 1726 (Smalbroke was Bishop of St David's 1724-1731)",
+  "smalbroke-reformation-necessary": "title page (OCR): 'By the Right Reverend Father in God, Richard, Lord Bishop of St. David's', January 1727/8 (Smalbroke was Bishop of St David's 1724-1731)",
+  "smalbroke-lords-1728": "title page (OCR): 'The Bishop of St. David's Sermon before the House of Lords, January the 30th, 1727/8' (Smalbroke was Bishop of St David's 1724-1731)",
+  "smalbroke-miracles": "title page (image): 'By the Right Reverend Father in God, Richard, Lord Bishop of St. David's', second edition (Smalbroke was Bishop of St David's 1724-1731)",
+  "smalbroke-spg-1733": "title page (image): 'By the Right Reverend Father in God, Richard, Lord Bishop of Lichfield and Coventry', 1733 (Smalbroke held that see 1731-1749)"
+ },
+ "_pending": {
+  "smalbroke-new-arian": "The new Arian reprov'd: or, a vindication of some Reflections on the conduct of Mr. Whiston, in his revival of the Arian heresy; from Mr. Whiston's late animadversions, inserted in his second reply to Dr. Allix. ... By the author of those Reflections (catalogued 1711) (IA bim_eighteenth-century_the-new-arian-reprovd-_smalbroke-richard_1711): title page reads only 'By the Author of those Reflections', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "smalbroke-complutensian": "An enquiry into the authority of the primitive Complutensian edition of the New Testament, ... In a letter to ... Mr. Archdeacon Bentley, ...  1722 (catalogued 1722) (IA bim_eighteenth-century_an-enquiry-into-the-auth_smalbroke-richard-bis_1722): the printed title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "smalbroke-universal-judgment": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1706",
+   "ia_date": "1706",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-idolatry-arianism": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-reverence-house": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "smalbroke",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1722",
+   "ia_date": "1722",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-publick-interest": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1724",
+   "ia_date": "1724",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-christian-charity": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-charge-1726": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "smalbroke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-reformation-necessary": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-lords-1728": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1728",
+   "ia_date": "1728",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1729",
+   "ia_date": "1729",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-charge-1729": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "smalbroke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1729",
+   "ia_date": "1729",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "smalbroke-spg-1733": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1733",
+   "ia_date": "1733",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

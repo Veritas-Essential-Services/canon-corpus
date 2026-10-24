@@ -19577,6 +19577,29 @@ Slugs `maffitt-*`. Built from title pages read for round 135.
 | the Oratorical Dictionary, Ireland: a Poem and The Carrier Dove are not theology | excluded | |
 | the trial report and the 1906 Life are about him; Nautilus and the Embury memorial are by other Maffitts | excluded | |
 | the 1839 scan of Pulpit Sketches | excluded | |
+
+## Richard Smalbroke (round 135, my pick, 2026-10-23)
+
+Slugs `smalbroke-*`. Built from title pages read for round 135.
+
+| Work | Status | Where |
+|---|---|---|
+| The doctrine of an universal judgment asserted. In a sermon preach'd before the University, at St. Mary's in Oxford, June 9th, 1706. in which the principles of Mr. Dodwell's late epistolatory discourse, ... are consider'd. By Richard Smalbroke (catalogued 1706) | have-ocr | IA `bim_eighteenth-century_the-doctrine-of-an-unive_smalbroke-richard_1706` |
+| Idolatry charged upon Arianism. Two sermons, preached at the cathedral-church of Hereford, Dec. the 13th and 20th, 1719. By Richard Smalbroke, ...  1720 (catalogued 1720) | have-ocr | IA `bim_eighteenth-century_idolatry-charged-upon-ar_smalbroke-richard_1720` |
+| The reverence due to the house of God. A sermon preach'd in the cathedral-church of Landaff, July 2d, 1721. By Richard Smalbroke, ...  1722 (catalogued 1722) | have-ocr | IA `bim_eighteenth-century_the-reverence-due-to-the_smalbroke-richard_1722` |
+| Our obligations to promote the publick interest. A sermon preached in the cathedral-church of St. David's, July the 26th. 1724. By ... Richard, Lord Bishop of St. David's. ...  1724 (catalogued 1724) | have-ocr | IA `bim_eighteenth-century_our-obligations-to-promo_smalbroke-richard_1724` |
+| Christian charity a rational duty. A sermon preach'd before the ... Lord Mayor, the Court of Aldermen, and the governours of the several hospitals of the City of London, in St. Bridget's church, on Easter-Monday, April 11. 1726 (London : Printed for J. Wyat, 1726) | have-ocr | IA `b31874617` |
+| The charge of the Right Reverend, Richard, Lord Bishop of St. David's, delivered to the clergy of his diocese in his primary visitation ... in August and September, 1725. ...  1726 (catalogued 1726) | have-ocr | IA `bim_eighteenth-century_the-charge-of-the-right-_church-of-england-dioce_1726` |
+| Reformation necessary to prevent our ruine : a sermon preached to the Societies for Reformation of Manners at St. Mary-le-Bow, on Wednesday, January 10th, 1727 (London : Printed and sold by Joseph Downing in Bartholomew-Close, near West-Smithfield, 1728) | have-ocr | IA `reformationneces00smaluoft` |
+| A sermon preach'd before the Lords spiritual and temporal in Parliament assembled in the abbey church at Westminster on Tuesday, January 30, 1727/28 (London : Printed for James and John Knapton at the Crown in St. Paul's churchyard, 1728) | have-ocr | IA `sermonlordsspirit00smaluoft` |
+| A vindication of the miracles of Our Blessed Saviour; in which Mr. Woolston's Discourses on them are particularly examin'd, ... Vol. I. ... By ... Richard, Lord Bishop of St. David's.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_a-vindication-of-the-mir_smalbroke-richard_1729` |
+| A charge delivered to the reverend the clergy of the diocese of St. David's, in a triennial visitation of the same in August, 1728. By ... Richard, Lord Bishop of St. David's.  1729 (catalogued 1729) | have-ocr | IA `bim_eighteenth-century_a-charge-delivered-to-th_church-of-england-dioce_1729` |
+| A sermon preached before the Incorporated Society for the propagation of the Gospel in Foreign Parts.  1733 (catalogued 1733) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_smalbroke-richard-bish_1733` |
+| The new Arian reprov'd: or, a vindication of some Reflections on the conduct of Mr. Whiston, in his revival of the Arian heresy; from Mr. Whiston's late animadversions, inserted in his second reply to Dr. Allix. ... By the author of those Reflections (catalogued 1711) (IA bim_eighteenth-century_the-new-arian-reprovd-_smalbroke-richard_1711): title page reads only 'By the Author of those Reflections', so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| An enquiry into the authority of the primitive Complutensian edition of the New Testament, ... In a letter to ... Mr. Archdeacon Bentley, ...  1722 (catalogued 1722) (IA bim_eighteenth-century_an-enquiry-into-the-auth_smalbroke-richard-bis_1722): the printed title page names no author, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the short accounts of Bishops Hough and Gibson are biography | excluded | |
+| The Judgment of the Fathers (1695) is Thomas Smalbroke's; the 1784 ode is Samuel's | excluded | |
+| the ECCO copy of the 1728 Lords sermon | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
