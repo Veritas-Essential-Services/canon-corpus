@@ -19710,6 +19710,20 @@ Slugs `ripley-*`. Built from title pages read for round 136.
 | Campbell's Lectures on Systematic Theology are Campbell's; the 1875 Tribute is about him | excluded | |
 | the 1837 manuscript letters | excluded | |
 | the other Sacred Rhetoric and the Romans microform | excluded | |
+
+## George Augustus Selwyn (round 136, my pick, 2026-10-23)
+
+Slugs `selwyn-*`. Built from title pages read for round 136.
+
+| Work | Status | Where |
+|---|---|---|
+| Letters from the Bishop of New Zealand : to the Society for the Propagation of the Gospel, with other information concerning his diocese, vol. Talbot Collection of British Pamphlets (London : Rivingtons, St. Paul's Churchyard & Waterloo-Place : Hatchards, Piccadilly : Burns, Portman-Street, 1843) | have-ocr | IA `lettersfrombisho00selw` |
+| "A little one shall become a thousand" : a sermon preached at the opening of the Cuddesdon Theological Institution, on Thursday, June 15, 1854, vol. Talbot Collection of British Pamphlets (Oxford : Printed and published by J. Vincent ; London : F. and C. Rivingtons, 1854) | have-ocr | IA `alittleoneshallb00chur` |
+| "Bartholomew" : a sermon preached at the anniversary meeting of the two societies for Promoting Christian Knowledge and the Propagation of the Gospel, in the Cathedral Church of Salisbury, August 29th, 1854, vol. Talbot Collection of British Pamphlets (Salisbury : Brown and Co., Canal ; London : Rivingtons, [185) | have-ocr | IA `bartholomewsermo00chur` |
+| A sermon preached at Christ Church, St. Giles : on the occasion of the annual meeting of the Tithe Redemption Trust, June 27, 1854, vol. Talbot Collection of British Pamphlets (London : F. & J. Rivington, Waterloo Place : John Leslie, 58, Great Queen Street, 1854) | have-ocr | IA `sermonpreachedat00churc` |
+| Work of Christ in the world : four sermons preached before the University of Cambridge on the four Sundays preceding Advent in the year of our Lord 1854 / by George Augustus Selwyn (Cambridge [Cambridgeshire] : Macmillan, 1855) | have-ocr | IA `workofchristinwo00selw_0` |
+| George Selwyn: His Letters and His Life (1899) is the eighteenth-century wit's; the Carlisle manuscripts and the Maori New Testament are not his writings; George Selwyn and His Contemporaries is about the wit | excluded | |
+| the shorter scan of The Work of Christ in the World | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

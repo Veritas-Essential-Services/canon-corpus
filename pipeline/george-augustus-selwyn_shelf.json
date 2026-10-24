@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain George Augustus Selwyn (1809-1878), first Bishop of New Zealand and then Bishop of Lichfield, for the Word Hoard: his Letters to the Society for the Propagation of the Gospel, The Work of Christ in the World (Cambridge sermons, 1855), and three sermons of 1854. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 136 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george augustus selwyn",
+  "george a. selwyn",
+  "g. a. selwyn",
+  "selwyn",
+  "bishop of new zealand"
+ ],
+ "_surname": [
+  "selwyn"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "selwyn-letters-spg": [
+   "lettersfrombisho00selw",
+   "Letters from the Bishop of New Zealand : to the Society for the Propagation of the Gospel, with other information concerning his diocese, vol. Talbot Collection of British Pamphlets (London : Rivingtons, St. Paul's Churchyard & Waterloo-Place : Hatchards, Piccadilly : Burns, Portman-Street, 1843)"
+  ],
+  "selwyn-little-one": [
+   "alittleoneshallb00chur",
+   "\"A little one shall become a thousand\" : a sermon preached at the opening of the Cuddesdon Theological Institution, on Thursday, June 15, 1854, vol. Talbot Collection of British Pamphlets (Oxford : Printed and published by J. Vincent ; London : F. and C. Rivingtons, 1854)"
+  ],
+  "selwyn-bartholomew": [
+   "bartholomewsermo00chur",
+   "\"Bartholomew\" : a sermon preached at the anniversary meeting of the two societies for Promoting Christian Knowledge and the Propagation of the Gospel, in the Cathedral Church of Salisbury, August 29th, 1854, vol. Talbot Collection of British Pamphlets (Salisbury : Brown and Co., Canal ; London : Rivingtons, [185)"
+  ],
+  "selwyn-st-giles": [
+   "sermonpreachedat00churc",
+   "A sermon preached at Christ Church, St. Giles : on the occasion of the annual meeting of the Tithe Redemption Trust, June 27, 1854, vol. Talbot Collection of British Pamphlets (London : F. & J. Rivington, Waterloo Place : John Leslie, 58, Great Queen Street, 1854)"
+  ],
+  "selwyn-work-of-christ": [
+   "workofchristinwo00selw_0",
+   "Work of Christ in the world : four sermons preached before the University of Cambridge on the four Sundays preceding Advent in the year of our Lord 1854 / by George Augustus Selwyn (Cambridge [Cambridgeshire] : Macmillan, 1855)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "selwyn-others": "George Selwyn: His Letters and His Life (1899) is the eighteenth-century wit's; the Carlisle manuscripts and the Maori New Testament are not his writings; George Selwyn and His Contemporaries is about the wit",
+  "selwyn-dups": "the shorter scan of The Work of Christ in the World"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "selwyn-bartholomew": "title page (OCR): 'By the Right Rev. the Bishop of New Zealand', 1854 (Selwyn was Bishop of New Zealand 1841-1868)",
+  "selwyn-st-giles": "title page (OCR): 'By the Right Rev. the Bishop of New Zealand', 1854 (Selwyn was Bishop of New Zealand 1841-1868)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "selwyn-letters-spg": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "selwyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selwyn-little-one": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "selwyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selwyn-bartholomew": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "[1854]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selwyn-st-giles": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "selwyn-work-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "selwyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
