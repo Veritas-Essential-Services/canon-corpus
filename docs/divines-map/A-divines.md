@@ -19542,3 +19542,17 @@ Slugs `gastrell-*`. Built from title pages read for round 135.
 | the EEBO copy of Some Considerations | excluded | |
 | the 1747 Enquiry is Peregrine Gastrell's | excluded | |
 | the ECCO copy of the 1707 St Sepulchre's sermon, which is shelved as gastrell-st-sepulchres-1707 | excluded | |
+
+## Charles A. Heurtley (round 135, my pick, 2026-10-23)
+
+Slugs `heurtley-*`. Built from title pages read for round 135.
+
+| Work | Status | Where |
+|---|---|---|
+| Justification. Eight sermons preached before the University of Oxford, in the year MDCCCXLV, at the lecture founded by the late Canon Bampton (Oxford : J. H. Parker, 1846) | have-ocr | IA `cu31924029181043` |
+| Parochial sermons preached in a village church (catalogued 1849) | have-ocr | IA `parochialsermon00heurgoog` |
+| A manual of instruction for adult candidates for holy baptism (catalogued 1852) | have-ocr | IA `manualofinstruct0000char` |
+| A history of the earlier formularies of faith of the Western and Eastern churches, to which is added an exposition of the Athanasian Creed, being the substance of a course of lectures (London, James Parker and co., 1892) | have-ocr | IA `historyofearlier00heur` |
+| On faith and the creed : dogmatic teaching of the church of the fourth and fifth centuries (catalogued 1886) | have-ocr | IA `onfaithcreeddogm0000unse` |
+| Harmonia Symbolica and De Fide et Symbolo are Latin collections of creeds and patristic texts | excluded | |
+| the other scans of Justification and On Faith and the Creed | excluded | |
