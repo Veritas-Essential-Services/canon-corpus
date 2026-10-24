@@ -49,13 +49,18 @@
   "west-sibley": "The Ancestry, Life, and Times of Henry Hastings Sibley (1889): secular biography",
   "west-medical": "The Medical Science and Profession (1877): commencement address",
   "west-namesakes": "an earlier Nathaniel West (1794-1864) and an electrical engineer N. West",
-  "west-late": "reprints of 1936 and 1993; periodical articles without text"
+  "west-late": "reprints of 1936 and 1993; periodical articles without text",
+  "west-edited": "Hitchcock's New and Complete Analysis of the Holy Bible, which he revised, is Hitchcock's book",
+  "west-uncertain": "The Ark of God the Safe-guard of the Nation (1852) and The Corruption of Established Truth (1856): may be by the elder Nathaniel West (1794-1864); not taken"
  },
- "_pending": {},
+ "_pending": {
+  "west-premillennial-essays": "Second Coming of Christ: Premillennial Essays of the Prophetic Conference (1879, IA secondcomingofch00westrich): papers by many speakers, which he edited (waits for Adam's ruling on many-author compilations)",
+  "west-memory-t-e-thomas": "In memory of Thomas Ebenezer Thomas, delivered Sunday, March 14, 1875, in the First Presbyterian Church, Dayton, Ohio (Cincinnati : Elm Street Printing Co., 1875) (IA inmemoryofthomas00westiala): the title page names no author; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
  "_checks": {
   "west-thousand-years": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "nathaniel west",
    "identity": "ok",
@@ -66,7 +71,7 @@
   },
   "west-apostle-paul-any-moment": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "nathaniel west",
    "identity": "ok",
@@ -77,7 +82,7 @@
   },
   "west-daniels-great-prophecy": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "nathaniel west",
    "identity": "ok",
@@ -88,7 +93,7 @@
   },
   "west-missionary-address": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "n. west, jr.",
    "identity": "ok",
@@ -99,7 +104,7 @@
   },
   "west-national-righteousness": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "nathaniel west",
    "identity": "ok",
@@ -110,7 +115,7 @@
   },
   "west-grandeur-of-history": {
    "kind": "ia",
-   "checked": "2026-10-17",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "nathaniel west",
    "identity": "ok",
