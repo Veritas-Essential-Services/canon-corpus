@@ -19562,6 +19562,21 @@ Slugs `heurtley-*`. Built from title pages read for round 135.
 | On faith and the creed : dogmatic teaching of the church of the fourth and fifth centuries (catalogued 1886) | have-ocr | IA `onfaithcreeddogm0000unse` |
 | Harmonia Symbolica and De Fide et Symbolo are Latin collections of creeds and patristic texts | excluded | |
 | the other scans of Justification and On Faith and the Creed | excluded | |
+
+## John Newland Maffitt (round 135, my pick, 2026-10-23)
+
+Slugs `maffitt-*`. Built from title pages read for round 135.
+
+| Work | Status | Where |
+|---|---|---|
+| Tears of contrition (catalogued 1821) | have-ocr | IA `tearsofcontritio0000john_p0b7` |
+| Pulpit sketches, sermons, and devotional fragments (Boston, 1828) | have-ocr | IA `pulpitsketchesse00maff` |
+| A plea for Africa. A sermon delivered at Bennet Street Church, in behalf of the American Colonization Society, July 4, 1830 (Boston: E. W. Crittenden, 1830) | have-ocr | IA `pleaforafricaser00maff` |
+| Literary and religious sketches (New York, Press of T. Harries, 1832) | have-ocr | IA `literaryreligiou00maff` |
+| A voice from the ocean: sermon, delivered in the House of representatives, Sunday, July 31, 1842, to the memory of Rev. George G. Cookman (Washington, Printed by P. Force, 1842) | have-ocr | IA `voicefromoceanse00maff` |
+| the Oratorical Dictionary, Ireland: a Poem and The Carrier Dove are not theology | excluded | |
+| the trial report and the 1906 Life are about him; Nautilus and the Embury memorial are by other Maffitts | excluded | |
+| the 1839 scan of Pulpit Sketches | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

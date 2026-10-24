@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain John Newland Maffitt (1794-1850), Irish-born Methodist revivalist and chaplain of the US House of Representatives, for the Word Hoard: Tears of Contrition, Pulpit Sketches, Literary and Religious Sketches, and his sermons A Plea for Africa and A Voice from the Ocean. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 135 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john newland maffitt",
+  "john n. maffitt",
+  "j. n. maffitt",
+  "maffitt"
+ ],
+ "_surname": [
+  "maffitt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maffitt-tears-contrition": [
+   "tearsofcontritio0000john_p0b7",
+   "Tears of contrition (catalogued 1821)"
+  ],
+  "maffitt-pulpit-sketches": [
+   "pulpitsketchesse00maff",
+   "Pulpit sketches, sermons, and devotional fragments (Boston, 1828)"
+  ],
+  "maffitt-plea-africa": [
+   "pleaforafricaser00maff",
+   "A plea for Africa. A sermon delivered at Bennet Street Church, in behalf of the American Colonization Society, July 4, 1830 (Boston: E. W. Crittenden, 1830)"
+  ],
+  "maffitt-literary-religious": [
+   "literaryreligiou00maff",
+   "Literary and religious sketches (New York, Press of T. Harries, 1832)"
+  ],
+  "maffitt-voice-ocean": [
+   "voicefromoceanse00maff",
+   "A voice from the ocean: sermon, delivered in the House of representatives, Sunday, July 31, 1842, to the memory of Rev. George G. Cookman (Washington, Printed by P. Force, 1842)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "maffitt-secular": "the Oratorical Dictionary, Ireland: a Poem and The Carrier Dove are not theology",
+  "maffitt-others": "the trial report and the 1906 Life are about him; Nautilus and the Embury memorial are by other Maffitts",
+  "maffitt-dups": "the 1839 scan of Pulpit Sketches"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "maffitt-plea-africa": "title page (OCR): 'BY REV. JOHN NEWLAND MAFFITT, OF THE METHODIST EPISCOPAL CHURCH' (OCR reads 3IAFFITT), Boston 1830"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "maffitt-tears-contrition": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "maffitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maffitt-pulpit-sketches": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "maffitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "maffitt-plea-africa": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maffitt-literary-religious": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "maffitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "maffitt-voice-ocean": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "maffitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
