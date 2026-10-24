@@ -2777,9 +2777,24 @@ Points you may want to veto or rule on:
 - Seventeen title pages read from page images or OCR (Shower six, Bogue one, Wainwright two, Whittemore one, Fiddes seven). Fiddes's Theologia Speculativa: the author line is readable but the title is taken from the catalogue, since the OCR of the title lines is unreadable.
 - Left out as not theology or not theirs: Stow's and Wainwright's hymn and tune books, Fiddes's Homer epistle and political pamphlets, and the travel books of David Bogue the publisher.
 
+## Adam's Libronix authors (2026-10-24)
+
+Adam asked for every public-domain English work of Bunyan, Jonathan Edwards, Calvin, Luther, Keil and Delitzsch, Matthew Henry, Edersheim, Saphir, David Baron, Nathaniel West and J. C. Ryle. Every branch was checked first; the gaps were filled on the existing shelves.
+
+- **Already complete, nothing added:** bunyan (Offor's Works plus CCEL), edwards (Dwight, Worcester and Hickman sets plus first editions), matthew-henry (commentary plus the 1830 Miscellaneous Works), carl-friedrich-keil, alfred-edersheim, saphir, david-baron.
+- **martin-luther:** 16 to 58 items. Fifteen early English translations from 1548 to 1685 (Galatians 1575, the Fifteen Psalms 1577, Bell's Liberty 1579, Newton's Peter and Jude 1581, Colloquia Mensalia 1652 and others, title pages read from images) and 27 nineteenth- and early-twentieth-century translations (Cole's Select Works and Psalms, the catechisms, the postils, Lenker's Psalms, Currie's and Smith's letters, the reply to Henry VIII).
+- **calvin:** 9 to 41 items. Thirty-two sixteenth- and seventeenth-century English translations (Norton's Institution 1561, Wythers's Relics, Fielde's Thirteen Sermons, the Twenty-two Sermons on Psalm 119, Timothy and Titus 1579 and others). The other thread's `calvin-gaps` shelf listed Norton and the Golding sermons as pending and unsearched; Lane A's calvin shelf now holds them, so that shelf should not add them again.
+- **franz-delitzsch:** Driver's translation of Isaiah, 4th edition (two volumes), Eaton's Psalms 1887, José and Benjamin 1882.
+- **ryle:** Coming Events and Present Duties 1867, and the three held tracts (Occupy Till I Come, Do You Pray?, Worldly Conformity) shelved after reading their title pages. That resolves the old Ryle-tracts decision below.
+- **nathaniel-west:** no new items; notes and holds only.
+- Held for the catalogue-attribution card: Luther's Good Works 1535, Psalm 22 1537, Faithful Admonition 1554, Preface 1554 and Ecclesiastes 1573; Calvin's Certain Homilies 1553 (title page too dark); West's memorial of T. E. Thomas (no author on the title page).
+- Held for the many-author ruling: West's Premillennial Essays 1879.
+- Left out: Latin editions, anthologies, abridgements, books about the authors, machine translations, Calvin's early commentary translations (the Calvin Translation Society set holds them), and two West titles that may be the elder Nathaniel West's.
+- Not found on Internet Archive: Delitzsch's Song of Songs and Ecclesiastes, Baron's Rays of Messiah's Glory, Saphir's Found by the Good Shepherd, Cole's Calvin Select Works volumes 3 and 4. Saphir's Christ and the Scriptures stays held (no title page).
+
 ## Lane A stopped 2026-10-23 (end of this thread's run)
 
-Rounds 39 to 134 are pushed. The lane is still running at Adam's request; next is round 135 from the re-listed sweep.
+Rounds 39 to 134 are pushed, and Adam's Libronix authors are done (2026-10-24). The lane is still running at Adam's request; next is round 135 from the re-listed sweep.
 
 ## Paused 2026-10-10 15:12 CDT
 
@@ -2834,7 +2849,7 @@ Resumed 2026-10-17 on Adam's request to keep going (burn mode). Rounds 22 and 23
 - **Round 39 veto points:** the Roger Williams shelf carries the Narragansett Club volumes, which print John Cotton's letters alongside Williams's; Sprague's Annals of the American Pulpit are largely letters contributed by others; Occom's sermon volume includes the younger Edwards's Observations; Toplady's 1769 Zanchius and the anonymous 1644 Bloudy Tenent are held as pending, not shelved; several dates are the library catalogue's, not the title page's.
 - **CCEL's non-commercial request** applies to all 337 CCEL items on lane A's 76 shelves (counted 2026-10-17) (Spurgeon's 70 among them). Each one's DC.Rights line and CCEL's copyright comment are now recorded in its shelf's `_checks`, and every built book carries `redistribute_whole: false` with `ruling: pending (Adam)` until you say otherwise. Rule on it once for all.
 - **The Concise Matthew Henry** is an abridgement by an unnamed hand at an unknown date: keep it, or drop it until its source is found.
-- **Two Ryle tracts** (Occupy Till I Come, Do You Pray?) moved to `_pending`: the tightened check showed their OCR never names Ryle (the old check passed on the IA identifier printed in the OCR). Look at the title pages.
+- ~~**Two Ryle tracts**~~ Resolved 2026-10-24: title pages read, both shelved (see the Libronix authors section).
 - Mint uids for the new slugs.
 - Six items the identity check refused because their OCR never names the author (listed under `_pending` in each shelf): shelve them after a look by eye, or leave them out.
 - *An Exhortation to Peace and Unity*: doubted Bunyan attribution; keep it on his shelf or not.
