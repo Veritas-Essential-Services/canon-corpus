@@ -19894,3 +19894,22 @@ Slugs `maddox-*`. Built from title pages read for round 138.
 | The Case of Dr Rundle's Promotion is a church-political pamphlet | excluded | |
 | the 1751 Epistle to the Lord Mayor on spirituous liquors is a civic appeal | excluded | |
 | the ECCO copies of the 1752 hospital sermon | excluded | |
+
+## Samuel Squire (round 138, my pick, 2026-10-23)
+
+Slugs `squire-*`. Built from title pages read for round 138.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the Right Honourable the Lord Mayor, the Court of Aldermen, the sheriffs, and the governors of the several hospitals of the City of London, at the parish-church of St. Bridget, on Tuesday in Easter-week, 1745. By Samuel Squire, ...  1745 (catalogued 1745) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1745` |
+| A sermon preached before his Grace the Duke of Newcastle, chancellor, and the University of Cambridge, in St. Mary's church, upon commencement Sunday, July 2, 1749. By Samuel Squire, ...  1749 (catalogued 1749) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1749` |
+| A Sermon Preach'd in the Parish-Church of Christ-Church, London; ...  1749: Vol 2, vol. 2 (catalogued 1749) | have-ocr | IA `per_early-18th-century-archives_a-sermon-preachd-in-the_samuel-squire-ma_1749_2` |
+| A sermon preached before the Honourable House of Commons, at St.Margaret's, Westminster, on Tuesday, June 11. 1751. ... By Samuel Squire, ...  1751 (catalogued 1751) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1751` |
+| A speedy repentance the most effectual means to avert Gods [sic] judgments. A sermon preached at the parish church of St. Anne Westminster, February 6, 1756; being the day appointed for a general fast and humiliation, ... By Samuel Squire, ...  1756 (catalogued 1756) | have-ocr | IA `bim_eighteenth-century_a-speedy-repentance-the-_squire-samuel_1756_0` |
+| Indifference for religion inexcusable; or, a serious, impartial and practical review of the certainty, importance, and harmony of religion ... By Samuel Squire, ...  1758 (catalogued 1758) | have-ocr | IA `bim_eighteenth-century_indifference-for-religio_squire-samuel_1758` |
+| A sermon preached before His Grace Charles, Duke of Marlborough, president, the vice-presidents, the treasurer, &c. of the Hospitals for the Small-Pox, on Thursday, March 27, 1760. By Samuel Squire, ...  1760 (catalogued 1760) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1760` |
+| A sermon preached before the Lords ... in the Abbey church, Westminster, on Saturday, January 30, 1762, ... By Samuel, Lord Bishop of St. David's.  1762 (catalogued 1762) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_squire-samuel_1762` |
+| The principles of religion made easy to young persons, in a short and familiar catechism. By Samuel, Lord Bishop of St. David's.  1763 (catalogued 1763) | have-ocr | IA `bim_eighteenth-century_the-principles-of-religi_squire-samuel_1763` |
+| A sermon preached at St. Lawrence Jewry, on Thursday, March 28, 1765, before His Royal Highness Edward Duke of York, President, and the governors of the London-Hospital, at Mile-End, ... By Samuel, Lord Bishop of St. David's. ...  1765 (catalogued 1765) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-st_squire-samuel_1765` |
+| the Enquiry into the English Constitution, the Letter to a Tory Friend, The Important Question Discussed, and the remarks on Carte and on The Academic are political or historical | excluded | |
+| the 1763 printing of Indifference for Religion | excluded | |
