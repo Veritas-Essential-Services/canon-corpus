@@ -2853,7 +2853,7 @@ Points you may want to veto or rule on:
 
 ## Round 138: Restoration to Victorian bishops (my picks)
 
-Round 138: six Anglican bishops and divines from the Restoration to the 1840s (Clagett, Maddox, Squire, Shipley, Mant, Kaye). 48 IA items on six shelves. Every `--verify --record`: 0 mismatched. 0 uids minted.
+Round 138: six Anglican bishops and divines from the Restoration to the 1840s (Clagett, Maddox, Squire, Shipley, Mant, Kaye). 47 IA items on six shelves. Every `--verify --record`: 0 mismatched. 0 uids minted.
 
 | Author | Shelf | Clean (CCEL/Gutenberg) | Raw IA OCR | Pending | Excluded / notes |
 |---|---|---|---|---|---|
