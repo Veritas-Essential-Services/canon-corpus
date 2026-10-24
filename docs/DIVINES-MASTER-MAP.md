@@ -19621,6 +19621,26 @@ Slugs `macartney-*`. Built from title pages read for round 135.
 | Great Sermons of the World is an anthology of other preachers | excluded | |
 | everything printed from 1930 on | excluded | |
 | the other scans of Paul the Man and The Minister's Son | excluded | |
+
+## John Leng (round 136, my pick, 2026-10-23)
+
+Slugs `leng-*`. Built from title pages read for round 136.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preach'd ...  1699 (catalogued 1699) | have-ocr | IA `bim_early-english-books-1641-1700_a-sermon-preachd-_leng-john-bp_1699` |
+| A sermon preached at the consecration of the chappel of St. Katherine's-Hall, in the University of Cambridge, September 1. 1704. By John Leng ... To which is added the form of consecration used by the Lord Bishop of Ely.  1704 (catalogued 1704) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-the_leng-john_1704` |
+| A sermon preach'd at the cathedral-church of St. Paul.  1713 (catalogued 1713) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-at-the_leng-john-bishop-of-no_1713` |
+| Knowledge of the nature and providence of God, an inducement to believe and trust in Him. A sermon preach'd at Tunbridge-Wells in Kent, on Sunday Sept. 4th, 1715, ... By John Leng, ...  1715 (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_knowledge-of-the-nature-_leng-john_1715` |
+| The duty of praying for kings, and for all in authority. A sermon preach'd in the parish-church of Bedington in Surrey, November 6. 1715. By John Leng, ...  1715 (catalogued 1715) | have-ocr | IA `bim_eighteenth-century_the-duty-of-praying-for-_leng-john_1715` |
+| The advantages of government, and the duty of preserving it. A sermon preach'd at the assizes held at Kingston upon Thames, March 22. 1715. ... By J. Leng, ...  1716 (catalogued 1716) | have-ocr | IA `bim_eighteenth-century_the-advantages-of-govern_leng-john_1716_0` |
+| God's government of the world, matter of great joy. A sermon preach'd at Tunbridge-Wells, on Wednesday, August 1st, 1716....By John Leng,...  1716 (catalogued 1716) | have-ocr | IA `bim_eighteenth-century_gods-government-of-the-_leng-john_1716` |
+| A sermon preached to the Societies for reformation of manners at St. Mary-le-Bow; on Monday, December the 29th MDCCXVIII. By John Leng, ...  1719 (catalogued 1719) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-to-the_leng-john-bishop-of-no_1719` |
+| Natural obligations to believe the principles of religion, and divine revelation : in xvi sermons, preached in the Church of St. Mary le Bow, London, in the years 1717 and 1718 ; at the lecture founded by the honourable Robert Boyle, Esq (London : Printed by W.B. for Robert Knaplock, 1719) | have-ocr | IA `naturalobligatio00leng` |
+| A sermon preach'd before the Lords ... at the Collegiate-church of St. Peter, Westminster, on Monday, January the 31st 1725. ... By ... John Lord Bishop of Norwich.  1726 (catalogued 1726) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_leng-john_1726` |
+| A sermon preached before the incorporated Society for the propagation of the Gospel in Foreign Parts.  1727 (catalogued 1727) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_leng-john-bishop-of-no_1727` |
+| Fides in SS. Trinitatem (1698) is Latin and a one-image scan | excluded | |
+| his editions of Terence and Aristophanes are classical | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
