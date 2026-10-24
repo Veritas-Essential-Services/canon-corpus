@@ -19509,6 +19509,23 @@ Slugs `fiddes-*`. Built from title pages read for round 134.
 | the prefatory epistle on Homer's Iliad is literary | excluded | |
 | the Remarks on The State Anatomy and the Answer to Britanicus are political pamphlets; The State Anatomy itself is Toland's | excluded | |
 | the 1713 scan of Practical Discourses and the ECCO copy of the Wolsey | excluded | |
+
+## William Staughton (round 135, my pick, 2026-10-23)
+
+Slugs `staughton-*`. Built from title pages read for round 135.
+
+| Work | Status | Where |
+|---|---|---|
+| A discourse occasioned by the sudden death of three young persons by drowning ...  1797 (catalogued 1797) | have-ocr | IA `bim_early-english-books-1641-1700_staughton-william_1797` |
+| Missionary-encouragement : a discourse, delivered on Wednesday evening, the 16th of May, 1798, before the Philadelphia Missionary Society and the congregation of the Baptist Meeting House, Philadelphia / by the Rev. William Staughton (Philadelphia : Printed by Stephen C. Ustick, 1798) | have-ocr | IA `missionaryencour00stau` |
+| Divine Condescension, ...  1803 (catalogued 1803) | have-ocr | IA `bim_early-english-books-1641-1700_divine-condescension-_william-staughton_1803` |
+| Compassion to the poor recommended : a sermon delivered in the First Baptist Meeting House, Philadelphia, February fourth, 1810 (Philadelphia : Printed by Bartholomew Graves, 1810) | have-ocr | IA `compassiontopoor26stau` |
+| The Servant of God Concluding his Labours.  1814-05 (catalogued 1814) | have-ocr | IA `bim_early-english-books-1641-1700_william-staughton_1814-05` |
+| Sermon, delivered in the Capitol of the United States; on Lord's day, July 16, 1826; at the request of the citizens of Washington, on the death of Mr. Jefferson and Mr. Adams (Washington, Columbian office, 1826) | have-ocr | IA `sermondeliveredi00stau` |
+| the Greek grammar, the Virgil, the Rush eulogy, and the college and medical addresses are not theology | excluded | |
+| Gill's Body of Divinity is Gill's | excluded | |
+| the other scan of Compassion to the Poor | excluded | |
+| A Selection of Remarkable Events in the Lives of the Primitive Fathers (1791): William Staughton appears only in its list of subscribers, not as its author | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)

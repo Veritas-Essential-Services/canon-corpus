@@ -1,0 +1,122 @@
+{
+ "_about": "Public-domain William Staughton (1770-1829), Baptist minister in Philadelphia and first president of Columbian College, for the Word Hoard: his sermons and discourses of 1797 to 1826. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 135 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william staughton",
+  "w. staughton",
+  "staughton"
+ ],
+ "_surname": [
+  "staughton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "staughton-drowning-1797": [
+   "bim_early-english-books-1641-1700_staughton-william_1797",
+   "A discourse occasioned by the sudden death of three young persons by drowning ...  1797 (catalogued 1797)"
+  ],
+  "staughton-missionary-encouragement": [
+   "missionaryencour00stau",
+   "Missionary-encouragement : a discourse, delivered on Wednesday evening, the 16th of May, 1798, before the Philadelphia Missionary Society and the congregation of the Baptist Meeting House, Philadelphia / by the Rev. William Staughton (Philadelphia : Printed by Stephen C. Ustick, 1798)"
+  ],
+  "staughton-divine-condescension": [
+   "bim_early-english-books-1641-1700_divine-condescension-_william-staughton_1803",
+   "Divine Condescension, ...  1803 (catalogued 1803)"
+  ],
+  "staughton-compassion-poor": [
+   "compassiontopoor26stau",
+   "Compassion to the poor recommended : a sermon delivered in the First Baptist Meeting House, Philadelphia, February fourth, 1810 (Philadelphia : Printed by Bartholomew Graves, 1810)"
+  ],
+  "staughton-servant-of-god": [
+   "bim_early-english-books-1641-1700_william-staughton_1814-05",
+   "The Servant of God Concluding his Labours.  1814-05 (catalogued 1814)"
+  ],
+  "staughton-capitol-1826": [
+   "sermondeliveredi00stau",
+   "Sermon, delivered in the Capitol of the United States; on Lord's day, July 16, 1826; at the request of the citizens of Washington, on the death of Mr. Jefferson and Mr. Adams (Washington, Columbian office, 1826)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "staughton-secular": "the Greek grammar, the Virgil, the Rush eulogy, and the college and medical addresses are not theology",
+  "staughton-gill": "Gill's Body of Divinity is Gill's",
+  "staughton-dups": "the other scan of Compassion to the Poor",
+  "staughton-primitive-fathers": "A Selection of Remarkable Events in the Lives of the Primitive Fathers (1791): William Staughton appears only in its list of subscribers, not as its author"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "staughton-compassion-poor": "title page (OCR): 'BY WILLIAM STAUGHTON, D. D.' (OCR reads SIAUGHTON), Philadelphia 1810"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "staughton-drowning-1797": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "staughton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1797",
+   "ia_date": "1797",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "staughton-missionary-encouragement": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "staughton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "staughton-divine-condescension": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "staughton",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "staughton-compassion-poor": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "staughton-servant-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "staughton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814-05",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "staughton-capitol-1826": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "staughton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}
