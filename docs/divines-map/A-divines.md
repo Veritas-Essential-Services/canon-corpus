@@ -19652,3 +19652,18 @@ Slugs `burwash-*`. Built from title pages read for round 136.
 | Voice Production, the federation and university papers, the Ryerson biography and the party-history essay are not theology; the geology and seed books are by other Burwashes | excluded | |
 | other scans of the Jackson memorials, Wesley's Doctrinal Standards and Inductive Studies | excluded | |
 | Antinomianism Revived and The Old Testament Vindicated are by other authors | excluded | |
+
+## Thomas Turton (round 136, my pick, 2026-10-23)
+
+Slugs `turton-*`. Built from title pages read for round 136.
+
+| Work | Status | Where |
+|---|---|---|
+| The text of the English Bible, as now printed by the universities : considered with reference to a report by a sub-committee of dissenting ministers (Cambridge [Cambridgeshire] : J. Smith, 1833) | have-ocr | IA `textofenglishbib00turtrich` |
+| Natural theology considered with reference to Lord Brougham's Discourse on that subject (London, J. W. Parker; [etc., etc.], 1836) | have-ocr | IA `naturaltheologyc00turt_0` |
+| The Roman Catholic doctrine of the Eucharist considered : in reply to Dr. Wiseman's argument from Scripture (Cambridge : J. & J.J. Deighton, 1837) | have-ocr | IA `a611394600turtuoft` |
+| Observations on the Rev. Dr. Wiseman's Reply to Dr. Turton's Roman Catholic doctrine of the Eucharist considered (Cambridge : J. & J.J. Deighton, 1839) | have-ocr | IA `a611401400turtuoft` |
+| the Porson vindication and the letter to Beynon are classical controversy | excluded | |
+| Thoughts on the Admission of Persons to university degrees is university politics | excluded | |
+| the 1800 Address is Sir Thomas Turton's | excluded | |
+| the shorter scan of The Text of the English Bible and the microform of Natural Theology | excluded | |
