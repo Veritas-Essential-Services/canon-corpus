@@ -2306,3 +2306,6 @@
 
 ## 2026-10-23 21:04 CDT — round 135 done
 - william-staughton, francis-gastrell, charles-a-heurtley, john-newland-maffitt, richard-smalbroke, clarence-e-macartney: 6 shelves, 41 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-23 21:11 CDT — round 136 done
+- john-leng, nathanael-burwash, thomas-turton, john-de-soyres, henry-j-ripley, george-augustus-selwyn: 6 shelves, 42 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
