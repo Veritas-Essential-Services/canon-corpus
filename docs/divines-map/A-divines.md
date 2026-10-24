@@ -19801,3 +19801,21 @@ Slugs `abernethy-*`. Built from title pages read for round 137.
 | the 1781 German translation | excluded | |
 | the 1746 ECCO volume of the Discourses | excluded | |
 | the Google copy is another vol. IV of Sermons on Various Subjects, already shelved as abernethy-sermons-1762-4 | excluded | |
+
+## John Bernard Dalgairns (round 137, my pick, 2026-10-23)
+
+Slugs `dalgairns-*`. Built from title pages read for round 137.
+
+| Work | Status | Where |
+|---|---|---|
+| Life of Saint Gilbert, Prior of Sempringham (catalogued 1844) | have-ocr | IA `life-of-saint-gilbert-prior-of-sempringham` |
+| The devotion to the Heart of Jesus ; with an introduction on the history of Jansenism (London : T. Richardson and Son, 1853) | have-ocr | IA `a567211900dalguoft` |
+| The German mystics of the fourteenth century (London : T. Richardson, 1858) | have-ocr | IA `TheGermanMystics` |
+| The Holy Communion : Its philosophy, theology and practice (Dublin : James Duffy, 1868) | have-ocr | IA `theholycommunion00dalguoft` |
+| The bearing of infallibility on religious truth ([London? : s.n., 1871) | have-ocr | IA `a620785200dalguoft` |
+| The Cistercian saints of England : St. Stephen, abbot (London : J. Toovey, 1845) (IA cisterciansaints00dalgrich): published unsigned in the Lives of the English Saints, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Lives Of The English Saints: St. Aelred, Abbot Of Rievaux (London : J. Toovey, 1845) (IA StAelredAbbotOfRievaux): published unsigned in the Lives of the English Saints, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the volumes of Lives of the English Saints and the Conversion of the Teutonic Race are by several hands | excluded | |
+| Das heilige Herz Jesu is a German translation | excluded | |
+| the cookery book, Fathers of the Desert, the Scale of Perfection and the money books are not his | excluded | |
+| later and microform copies of Stephen Harding and The Holy Communion | excluded | |
