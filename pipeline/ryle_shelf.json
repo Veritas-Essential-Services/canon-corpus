@@ -1,5 +1,5 @@
 {
- "_about": "Every public-domain J. C. Ryle (1816-1900, Bishop of Liverpool) text the Word Hoard holds. Works published in his lifetime are public domain; posthumous printings before 1931 are PD too and are marked. Later abridgements, 'modernised' editions and reprints from 1927 on are excluded. Expository Thoughts on the Gospels (7 vols) is assembled from single volumes of different lifetime printings, each identified by the chapter range of its section headings: Matthew from CCEL, Mark, Luke 1-2, John 1-3 from Internet Archive. Ryle's compiled hymnals belong to the hymn manifest. Extended 2026-10-24 by lane A at Adam's request (his Libronix list): Coming Events and Present Duties (1879 printing).",
+ "_about": "Every public-domain J. C. Ryle (1816-1900, Bishop of Liverpool) text the Word Hoard holds. Works published in his lifetime are public domain; posthumous printings before 1931 are PD too and are marked. Later abridgements, 'modernised' editions and reprints from 1927 on are excluded. Expository Thoughts on the Gospels (7 vols) is assembled from single volumes of different lifetime printings, each identified by the chapter range of its section headings: Matthew from CCEL, Mark, Luke 1-2, John 1-3 from Internet Archive. Ryle's compiled hymnals belong to the hymn manifest. Extended 2026-10-24 by lane A at Adam's request (his Libronix list): Coming Events and Present Duties (1879 printing), and three items held since 2026-10-02 shelved once their title pages were read: \"Occupy Till I Come\" (1865), Do You Pray? and Worldly Conformity.",
  "_ccel_author": "r/ryle",
  "_name_words": [
   "ryle",
@@ -184,6 +184,18 @@
   "ryle-coming-events": [
    "comingeventsand00evengoog",
    "Coming events and present duties, sermons on prophetical subjects, arranged by J.C. Ryle (catalogued 1879)"
+  ],
+  "ryle-occupy-till-i-come": [
+   "occupytillicomeb00ryle",
+   "\"Occupy Till I Come\" (Philadelphia: Charles Campbell; New York: J. Inglis, 1865)"
+  ],
+  "ryle-do-you-pray": [
+   "doyoupray00ryle",
+   "Do You Pray? (tract no. 152, Philadelphia: Presbyterian Board of Publication; no year printed)"
+  ],
+  "ryle-worldly-conformity": [
+   "worldlyconformi00rylegoog",
+   "Worldly Conformity: What It Is Not, and What It Is (1878)"
   ]
  },
  "_alternates": {
@@ -210,17 +222,12 @@
   "selectsermonsofg0000jcry": "Select Sermons of George Whitefield (1964): Whitefield's sermons with Ryle's sketch; modern edition",
   "29464147.1852.emory.edu": "the 1852 microform lecture has no text file"
  },
- "_pending": {
-  "ryle-worldly-conformity": [
-   "worldlyconformi00rylegoog",
-   "Worldly Conformity (1878)",
-   "text matches the title but never names Ryle (title page lost to OCR); attribution rests on the IA catalogue only"
-  ],
-  "occupytillicomeb00ryle (Occupy Till I Come (1865))": "The stricter identity check of 2026-10-02 refuses it: the OCR never names Ryle (the only 'ryle' in the file was the IA identifier printed into the OCR). IA's catalogue credits Ryle; shelve again after a look at the title page.",
-  "doyoupray00ryle (Do You Pray? (tract, undated printing))": "The stricter identity check of 2026-10-02 refuses it: the OCR never names Ryle (the only 'ryle' in the file was the IA identifier printed into the OCR). IA's catalogue credits Ryle; shelve again after a look at the title page."
- },
+ "_pending": {},
  "_identity_checked": {
-  "ryle-home-truths-1857": "content check 2026-10-02: the OCR never names Ryle (it passed the old check only on 'charles'), but it names Helmingham 6 times, including 'rector of Helmingham', Ryle's parish 1844-61"
+  "ryle-home-truths-1857": "content check 2026-10-02: the OCR never names Ryle (it passed the old check only on 'charles'), but it names Helmingham 6 times, including 'rector of Helmingham', Ryle's parish 1844-61",
+  "ryle-occupy-till-i-come": "Title page, read from the page image (2026-10-24): '\"OCCUPY TILL I COME.\" BY THE REV. J. C. RYLE, B.A., CHRIST'S CHURCH, OXFORD. Philadelphia: Charles Campbell ... New-York: J. Inglis & Co., 1865.'",
+  "ryle-do-you-pray": "Title page, read from the page image (2026-10-24): 'No. 152. DO YOU PRAY? BY THE REV. J. C. RYLE, B.A., CHRIST CHURCH, OXFORD. RECTOR OF HELMINGHAM, SUFFOLK. Philadelphia: Presbyterian Board of Publication, No. 265 Chestnut Street.' No year is printed; Ryle was rector of Helmingham 1844-1861 and the board was at 265 Chestnut Street in the nineteenth century.",
+  "ryle-worldly-conformity": "Cover, read from the page image (2026-10-24): 'WORLDLY CONFORMITY: WHAT IT IS NOT, AND WHAT IT IS. REV. J. C. RYLE' in gilt; the Google scan's title page is lost."
  },
  "_checks": {
   "ryle-holiness": {
@@ -682,6 +689,43 @@
    "ia_date": "1879",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "ryle-occupy-till-i-come": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-do-you-pray": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-24: no year printed. It styles Ryle 'Rector of Helmingham, Suffolk', a post he left in 1861, and the imprint is the Presbyterian Board of Publication, 265 Chestnut Street, Philadelphia: a nineteenth-century tract printing, long public domain in the US."
+  },
+  "ryle-worldly-conformity": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
+ },
+ "_rights_checked": {
+  "ryle-do-you-pray": "Title page read 2026-10-24: no year printed. It styles Ryle 'Rector of Helmingham, Suffolk', a post he left in 1861, and the imprint is the Presbyterian Board of Publication, 265 Chestnut Street, Philadelphia: a nineteenth-century tract printing, long public domain in the US."
  }
 }
