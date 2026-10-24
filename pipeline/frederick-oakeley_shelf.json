@@ -1,0 +1,203 @@
+{
+ "_about": "Public-domain Frederick Oakeley (1802-1880), Tractarian incumbent of Margaret Chapel and after 1845 a Catholic priest, for the Word Hoard: his writings on the subject of Tract XC (1841 and 1845), Remarks upon Aristotelian and Platonic Ethics, Laudes Diurnae, The Order and Ceremonial of the Mass, The Church of the Bible, Popular Lectures, Historical Notes on the Tractarian Movement, Catholic Worship, and early sermons and letters. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 137 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frederick oakeley",
+  "f. oakeley",
+  "oakeley"
+ ],
+ "_surname": [
+  "oakeley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "oakeley-wellington-letter": [
+   "alettertodukewe00oakegoog",
+   "A letter to ... the duke of Wellington ... upon the principle and tendency of a bill now before (catalogued 1835)"
+  ],
+  "oakeley-ordination-1836": [
+   "per_oxford-movement-tractarian-pamphlets-pusey-hou_frederick-oakeley_1836",
+   "A Sermon Preached at the General ordination of the Hounourable and Right Reverend Richard,  Lord Bishop of Oxford, ...  1836 (World Microfilms Publications, 1836)"
+  ],
+  "oakeley-ethics": [
+   "remarksuponarist00oake",
+   "Remarks upon Aristotelian and Platonic ethics (Oxford, Printed for J. H. Parker and J. G. and F. Rivington, London, 1837)"
+  ],
+  "oakeley-tract-xc-1841": [
+   "a677273600oakeuoft",
+   "The subject of Tract XC : examined in connection with the history of the thirty-nine articles and the statements of certain English divines ; to which is added, The case of Bishop Mountague in the reign of King James I (London : Printed for J. G. F. and J. Rivington, 1841)"
+  ],
+  "oakeley-laudes-diurnae": [
+   "laudesdiurnaeps00oakegoog",
+   "Laudes Diurnae: The Psalter and Canticles in the Morning and Evening Service of the Church of (J. Toovey, 1843)"
+  ],
+  "oakeley-tract-xc-1845": [
+   "a624990400oakeuoft",
+   "The subject of Tract XC. historically examined : with the view of ascertaining the object with which the Articles of the Church of England were put out, and the sense in which they are allowed to be subscribed ; together with testimonies of English divines to Catholic doctrines ; to which is added the case of Bishop Mountague in the reign of King James I (London : J. Toovey, 1845)"
+  ],
+  "oakeley-mass-ceremonial": [
+   "orderceremonialo00oakerich",
+   "The order and ceremonial of the most holy and adorable Sacrifice of the Mass : explained in a dialogue between a priest and a catechumen (New York : Catholic Publication Society, pref)"
+  ],
+  "oakeley-popular-lectures": [
+   "popularlectures00oakegoog",
+   "Popular Lectures (Printed for the Club by H. Teulon, and sold by Burns & Lambert, 1855)"
+  ],
+  "oakeley-church-of-bible": [
+   "churchbibleorsc00oakegoog",
+   "The Church of the Bible; or, Scripture testimonies to Catholic doctrines and Catholic principles (catalogued 1857)"
+  ],
+  "oakeley-tractarian-notes": [
+   "historicalnoteso00oakeuoft",
+   "Historical notes on the Tractarian Movement : A..D. 1833-1845 (London : Longman, Green, Longman, Roberts & Green, 1865)"
+  ],
+  "oakeley-catholic-worship": [
+   "catholicworshipm00oake",
+   "Catholic worship: a manual of popular instruction on the ceremonies and devotions of the church (New York, The Catholic publication society, 1872)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "oakeley-replies": "Tract XC Historically Refuted, Modern Hagiology and the Jewel Explanation are by his opponents",
+  "oakeley-others": "the French Augustine, Perte et Gain (Newman) and The Catholic Church the Teacher of Mankind are not his",
+  "oakeley-verse": "Lyra Liturgica is verse signed only F.O.",
+  "oakeley-dups": "the 1848 copy of the Order and Ceremonial"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "oakeley-laudes-diurnae": {
+   "author": "title page (OCR): 'With a Preface on Antiphonal Chanting, by the Rev. Frederick Oakeley, M.A.'",
+   "title": "Laudes Diurnae: the Psalter and Canticles pointed for chanting (the title lines of the Google scan's OCR are unreadable)"
+  },
+  "oakeley-mass-ceremonial": "title page (OCR): 'Frederick Oakeley, Canon of the Metropolitan Church' (OCR reads FEEDEEIOK 0*AKEEfrf), New York, with his preface"
+ },
+ "_pending": {
+  "oakeley-augustine": "St. Augustine of Canterbury, apostle of the English (London, J. Toovey, 1844) (IA StAugustineOfCanterbury): published unsigned in the Lives of the English Saints, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "oakeley-submitting-letter": "A letter on submitting to the Catholic Church, addressed to a friend (James Toovey, 1905) (IA aletteronsubmit00oakegoog): the Google scan's title page has not been read yet, and the catalogue date (1905) needs checking"
+ },
+ "_translators": {},
+ "_checks": {
+  "oakeley-wellington-letter": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oakeley-ordination-1836": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oakeley-ethics": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "oakeley-tract-xc-1841": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "oakeley-laudes-diurnae": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oakeley-tract-xc-1845": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oakeley-mass-ceremonial": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "pref. 1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oakeley-popular-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oakeley-church-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oakeley-tractarian-notes": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "oakeley-catholic-worship": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "oakeley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

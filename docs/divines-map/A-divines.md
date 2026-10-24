@@ -19819,3 +19819,27 @@ Slugs `dalgairns-*`. Built from title pages read for round 137.
 | Das heilige Herz Jesu is a German translation | excluded | |
 | the cookery book, Fathers of the Desert, the Scale of Perfection and the money books are not his | excluded | |
 | later and microform copies of Stephen Harding and The Holy Communion | excluded | |
+
+## Frederick Oakeley (round 137, my pick, 2026-10-23)
+
+Slugs `oakeley-*`. Built from title pages read for round 137.
+
+| Work | Status | Where |
+|---|---|---|
+| A letter to ... the duke of Wellington ... upon the principle and tendency of a bill now before (catalogued 1835) | have-ocr | IA `alettertodukewe00oakegoog` |
+| A Sermon Preached at the General ordination of the Hounourable and Right Reverend Richard,  Lord Bishop of Oxford, ...  1836 (World Microfilms Publications, 1836) | have-ocr | IA `per_oxford-movement-tractarian-pamphlets-pusey-hou_frederick-oakeley_1836` |
+| Remarks upon Aristotelian and Platonic ethics (Oxford, Printed for J. H. Parker and J. G. and F. Rivington, London, 1837) | have-ocr | IA `remarksuponarist00oake` |
+| The subject of Tract XC : examined in connection with the history of the thirty-nine articles and the statements of certain English divines ; to which is added, The case of Bishop Mountague in the reign of King James I (London : Printed for J. G. F. and J. Rivington, 1841) | have-ocr | IA `a677273600oakeuoft` |
+| Laudes Diurnae: The Psalter and Canticles in the Morning and Evening Service of the Church of (J. Toovey, 1843) | have-ocr | IA `laudesdiurnaeps00oakegoog` |
+| The subject of Tract XC. historically examined : with the view of ascertaining the object with which the Articles of the Church of England were put out, and the sense in which they are allowed to be subscribed ; together with testimonies of English divines to Catholic doctrines ; to which is added the case of Bishop Mountague in the reign of King James I (London : J. Toovey, 1845) | have-ocr | IA `a624990400oakeuoft` |
+| The order and ceremonial of the most holy and adorable Sacrifice of the Mass : explained in a dialogue between a priest and a catechumen (New York : Catholic Publication Society, pref) | have-ocr | IA `orderceremonialo00oakerich` |
+| Popular Lectures (Printed for the Club by H. Teulon, and sold by Burns & Lambert, 1855) | have-ocr | IA `popularlectures00oakegoog` |
+| The Church of the Bible; or, Scripture testimonies to Catholic doctrines and Catholic principles (catalogued 1857) | have-ocr | IA `churchbibleorsc00oakegoog` |
+| Historical notes on the Tractarian Movement : A..D. 1833-1845 (London : Longman, Green, Longman, Roberts & Green, 1865) | have-ocr | IA `historicalnoteso00oakeuoft` |
+| Catholic worship: a manual of popular instruction on the ceremonies and devotions of the church (New York, The Catholic publication society, 1872) | have-ocr | IA `catholicworshipm00oake` |
+| St. Augustine of Canterbury, apostle of the English (London, J. Toovey, 1844) (IA StAugustineOfCanterbury): published unsigned in the Lives of the English Saints, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A letter on submitting to the Catholic Church, addressed to a friend (James Toovey, 1905) (IA aletteronsubmit00oakegoog): the Google scan's title page has not been read yet, and the catalogue date (1905) needs checking | pending | not shelved |
+| Tract XC Historically Refuted, Modern Hagiology and the Jewel Explanation are by his opponents | excluded | |
+| the French Augustine, Perte et Gain (Newman) and The Catholic Church the Teacher of Mankind are not his | excluded | |
+| Lyra Liturgica is verse signed only F.O. | excluded | |
+| the 1848 copy of the Order and Ceremonial | excluded | |
