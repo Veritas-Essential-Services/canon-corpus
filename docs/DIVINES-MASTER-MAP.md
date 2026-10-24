@@ -19724,6 +19724,26 @@ Slugs `selwyn-*`. Built from title pages read for round 136.
 | Work of Christ in the world : four sermons preached before the University of Cambridge on the four Sundays preceding Advent in the year of our Lord 1854 / by George Augustus Selwyn (Cambridge [Cambridgeshire] : Macmillan, 1855) | have-ocr | IA `workofchristinwo00selw_0` |
 | George Selwyn: His Letters and His Life (1899) is the eighteenth-century wit's; the Carlisle manuscripts and the Maori New Testament are not his writings; George Selwyn and His Contemporaries is about the wit | excluded | |
 | the shorter scan of The Work of Christ in the World | excluded | |
+
+## Thomas Herring (round 137, my pick, 2026-10-23)
+
+Slugs `herring-*`. Built from title pages read for round 137.
+
+| Work | Status | Where |
+|---|---|---|
+| A sermon preached before the Incorporated Society for the propagation of the Gospel in foreign parts; at their anniversary meeting in the Parish-Church of St. Mary-le-Bow, on Friday, February 17, 1737-8. By Thomas Lord Bishop of Bangor.  1738 (catalogued 1738) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_herring-thomas_1738` |
+| A sermon preached before the Right Honourable the Lord-Mayor, the Court of Aldermen, the sheriffs, and the governors of the several hospitals of the city of London, at the parish church of St. Bridget, on Monday in Easter-week, 1739. By Thomas Lord Bishop of Bangor.  1739 (catalogued 1739) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-before_herring-thomas_1739` |
+| A sermon preach'd before the Society corresponding with the Incorporated Society in Dublin, for promoting English Protestant Working-Schools in Ireland, at their anniversary meeting in the parish-church of St.Mary le Bow, on Wednesday, March 18. 1740 (catalogued 1741) | have-ocr | IA `bim_eighteenth-century_a-sermon-preachd-before_herring-thomas_1741` |
+| A Sermon Preach'd at the Cathedral Church of York. September, the 22d, 1745: On Occasion of the (Printed for John Hildyard, bookseller in York; and sold by J. and P. Knapton, T. Longman , and A. Dodd, 1745) | have-ocr | IA `asermonpreachda00herrgoog` |
+| A sermon preached at Kensington, on Wednesday the 7th of January; ... By ... Thomas, Lord Archbishop of York.  1747 (catalogued 1747) | have-ocr | IA `bim_eighteenth-century_a-sermon-preached-at-ken_herring-thomas_1747` |
+| A sermon, preached before His Grace Charles, Duke of Richmond, Lenox, and Aubigny, President; and the governors of the London Infirmary, in Goodman's-Fields, for the relief of all sick and diseased persons, especially manufacturers, and seamen in merchant-service, &c. at the Parish Church of St. Lawrence-Jewry, on Tuesday, March 31, 1747 (London : Printed by H. Woodfall ..., 1747) | have-ocr | IA `b30503802` |
+| His Grace the Archbishop of Canterbury's letter to the Right Reverend the Lords Bishops of his province.  1748 (catalogued 1748) | have-ocr | IA `bim_eighteenth-century_his-grace-the-archbishop_herring-thomas_1748` |
+| Seven sermons on public occasions. By the most Reverend Dr. Thomas Herring, ... Now first collected. With a preface.  1763 (catalogued 1763) | have-ocr | IA `bim_eighteenth-century_seven-sermons-on-public-_herring-thomas_1763` |
+| Letters from the late most reverend Dr. Thomas Herring, Lord Archbishop of Canterbury, to William Duncombe, ... from the year 1728 to 1757. With notes and an appendix.  1777 (catalogued 1777) | have-ocr | IA `bim_eighteenth-century_letters-from-the-late-mo_herring-thomas_1777` |
+| A sermon preached before the House of Lords, in the Abbey-Church of Westminster, on Wednesday, Jan. 30, 1739-40 ... By Thomas, Lord Bishop of Bangor.  1740 (catalogued 1740) (IA bim_eighteenth-century_a-sermon-preached-before_herring-thomas_1740): the scan has no title page, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| the 1745 speech at presenting an address is political | excluded | |
+| the 1753 New Form of Common Prayer, Cole's Short Narrative and the 1765 visitation sermon are not his | excluded | |
+| the ECCO copy of the York sermon | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
