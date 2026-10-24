@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Franz Delitzsch (1813-1890), Lutheran Hebraist of Erlangen and Leipzig, for the Word Hoard: his volumes of the Keil and Delitzsch Biblical Commentary on the Old Testament (Job, Psalms, Proverbs, Isaiah), his Commentary on Hebrews, A New Commentary on Genesis, A System of Biblical Psychology, Messianic Prophecies (1880 and 1891), Old Testament History of Redemption, Jewish Artisan Life, A Day in Capernaum and Iris, in their nineteenth-century English translations, from Internet Archive scans. Keil's volumes of the same series are on the carl-friedrich-keil shelf. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain Franz Delitzsch (1813-1890), Lutheran Hebraist of Erlangen and Leipzig, for the Word Hoard: his volumes of the Keil and Delitzsch Biblical Commentary on the Old Testament (Job, Psalms, Proverbs, Isaiah), his Commentary on Hebrews, A New Commentary on Genesis, A System of Biblical Psychology, Messianic Prophecies (1880 and 1891), Old Testament History of Redemption, Jewish Artisan Life, A Day in Capernaum and Iris, in their nineteenth-century English translations, from Internet Archive scans. Keil's volumes of the same series are on the carl-friedrich-keil shelf. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted. Extended 2026-10-24 by lane A at Adam's request (his Libronix list): the fourth-edition Isaiah translated by S. R. Driver (vols. 1-2, 1890-91), David Eaton's translation of the revised Psalms commentary (1887), and José and Benjamin (tr. J. G. Smieton, 1882). The Song of Songs and Ecclesiastes volume (1877) is still not found in any scan.",
  "_name_words": [
   "delitzsch"
  ],
@@ -91,13 +91,30 @@
   "delitzsch-iris": [
    "irisstudiesinco00deligoog",
    "Iris: Studies in Colour and Talks about Flowers (Edinburgh: T. & T. Clark, 1889)"
+  ],
+  "delitzsch-isaiah-4th-1": [
+   "biblicalcommenta00delirich",
+   "Biblical Commentary on the Prophecies of Isaiah, translated from the fourth edition by S. R. Driver, vol. 1 (Edinburgh: T. & T. Clark, 1892)"
+  ],
+  "delitzsch-isaiah-4th-2": [
+   "foreignbiblicall0001unse",
+   "THE FOREIGN BIBLICAL LIBRARY : BIBLICAL COMMENTARY ON THE PROPHECIES OF ISAIAH: VOL. II, vol. 1 (Hodder and Stoughton, 1891)"
+  ],
+  "delitzsch-psalms-eaton": [
+   "biblicalco00deli",
+   "Biblical commentary on the Psalms (London : Hodder and Stoughton, 1887)"
+  ],
+  "delitzsch-jose-benjamin": [
+   "josandbenjamint00deligoog",
+   "José and Benjamin, tr. by J.G. Smieton (catalogued 1882)"
   ]
  },
  "_alternates": {
   "delitzsch-copies": "The 1890 fourth edition of Isaiah (cu31924063722031, cu31924063722023) and the 1880 Proverbs reprint; other copies of Job, the Psychology (1869, 1879, 1885) and Jewish Artisan Life (1883, 1902)"
  },
  "_excluded": {
-  "delitzsch-other": "German works; Delitzsch's Hebrew New Testament; the Song of Songs and Ecclesiastes volume (1877), not found in a usable scan this round"
+  "delitzsch-other": "German works; Delitzsch's Hebrew New Testament; the Song of Songs and Ecclesiastes volume (1877), not found in a usable scan this round",
+  "india.history.resource.89579": "the 1890 vol. 1 scan has no text file; the 1892 printing of vol. 1 is taken"
  },
  "_rights_checked": {},
  "_identity_checked": {
@@ -127,7 +144,7 @@
  "_checks": {
   "delitzsch-job-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "delitzsch",
    "translator_claimed": "Francis Bolton",
@@ -140,7 +157,7 @@
   },
   "delitzsch-job-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "delitzsch",
    "translator_claimed": "Francis Bolton",
@@ -153,7 +170,7 @@
   },
   "delitzsch-psalms-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Francis Bolton",
@@ -166,7 +183,7 @@
   },
   "delitzsch-psalms-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Francis Bolton",
@@ -179,7 +196,7 @@
   },
   "delitzsch-psalms-3": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": null,
    "translator_claimed": "Bolton",
@@ -192,7 +209,7 @@
   },
   "delitzsch-proverbs-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Easton",
@@ -205,7 +222,7 @@
   },
   "delitzsch-proverbs-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Easton",
@@ -218,7 +235,7 @@
   },
   "delitzsch-isaiah-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "James Martin",
@@ -231,7 +248,7 @@
   },
   "delitzsch-isaiah-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "James Martin",
@@ -244,7 +261,7 @@
   },
   "delitzsch-hebrews-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "identity": "ok",
@@ -255,7 +272,7 @@
   },
   "delitzsch-hebrews-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "delitzsch",
    "translator_claimed": "Kingsbury",
@@ -268,7 +285,7 @@
   },
   "delitzsch-new-genesis-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Sophia Taylor",
@@ -281,7 +298,7 @@
   },
   "delitzsch-new-genesis-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "delitzsch",
    "identity": "ok",
@@ -292,7 +309,7 @@
   },
   "delitzsch-biblical-psychology": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Wallis",
@@ -305,7 +322,7 @@
   },
   "delitzsch-messianic-prophecies-1880": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Curtiss",
@@ -318,7 +335,7 @@
   },
   "delitzsch-messianic-prophecies-1891": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Curtiss",
@@ -331,7 +348,7 @@
   },
   "delitzsch-history-of-redemption": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Curtiss",
@@ -344,7 +361,7 @@
   },
   "delitzsch-jewish-artisan-life": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "franz delitzsch",
    "translator_claimed": "Monkhouse",
@@ -357,7 +374,7 @@
   },
   "delitzsch-day-in-capernaum": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "delitzsch",
    "translator_claimed": "Morris",
@@ -370,7 +387,7 @@
   },
   "delitzsch-iris": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "name_check": "surname",
    "author_seen": "delitzsch",
    "translator_claimed": "Cusin",
@@ -378,6 +395,50 @@
    "identity": "ok",
    "ia_rights": "ok: published 1889",
    "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-isaiah-4th-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "delitzsch-isaiah-4th-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "delitzsch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "delitzsch-psalms-eaton": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "franz delitzsch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "delitzsch-jose-benjamin": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "f. delitzsch",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
