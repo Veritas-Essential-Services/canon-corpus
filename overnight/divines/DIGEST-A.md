@@ -2870,6 +2870,10 @@ Points you may want to veto or rule on:
 - Shipley's shelf has only volume 2 of the 1792 Works; volume 1 was not found on IA.
 - Left out: the D'Oyly and Mant Bible (joint commentary), Mant's Warton editions, the Afghan war histories of Sir John William Kaye, and the political pamphlets of Maddox, Squire and Shipley.
 
+## Paused 2026-10-25 at Adam's request
+
+Rounds 39 to 138 and Adam's Libronix authors are pushed. Nothing is half-built. To resume: start round 139 from scratch (no research has been done for it); candidates not yet checked include Thomas Sprat, Samuel Hinchliffe, Lewis Bagot, William Cleaver, John Denison and Thomas Claughton.
+
 ## Lane A stopped 2026-10-23 (end of this thread's run)
 
 Rounds 39 to 138 are pushed, and Adam's Libronix authors are done (2026-10-24). The lane is still running at Adam's request; next is round 139 from the re-listed sweep.

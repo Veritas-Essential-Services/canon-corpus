@@ -1,6 +1,6 @@
 {
-  "status": "running",
-  "holder": "2026-10-22T23:46:24-05:00",
-  "heartbeat": "2026-10-23T21:38:58-05:00",
-  "note": "round 138 done and pushed; next round in progress"
+  "status": "paused",
+  "holder": null,
+  "heartbeat": "2026-10-25T11:30:00-05:00",
+  "note": "paused at Adam's request 2026-10-25; rounds 39-138 and the Libronix authors are pushed; resume at round 139 (no research started)"
 }
