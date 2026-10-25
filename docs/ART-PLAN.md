@@ -111,6 +111,59 @@ records that a capital goes there. That is exactly where a rebuilt book would
 set an ornate one. This answers the "ornate first letters of chapters" part of
 your ask, even for books that never had them.
 
+### 3a. Initials: the letter always lives in the text
+
+Adam, 2026-10-25: *catalog the illuminated letters, and replace the decorative
+letter with the correct letter in the body's font, "so we don't start every
+chapter with a misspelled word."*
+
+**The rule: the text always spells the whole word, in plain letters.** An
+initial is art laid over a letter, never a stand-in for one. "IT happened" is
+stored as `IT happened`, never `T happened`, and never with a gap or a marker
+where the I was. The catalog says that the I is printed as an ornament and
+which one. So:
+
+- **A plain text** (search, the reader without art, copy and paste, a screen
+  reader) shows the letter in the body's own font. If a styled drop cap is
+  wanted, it is the same font made larger, not a picture.
+- **A rebuilt book with art** draws the catalogued initial in the letter's
+  place and keeps the real letter underneath, hidden from the eye but there
+  for search and screen readers. The word is never broken.
+
+**Why this needs a rule: OCR breaks the first word.** A big or decorated
+capital is not a letter to the OCR. It drops it (`T happened` for *IT
+happened*, `OW it fell` for *NOW it fell*) or reads it as junk (`J-J^ERE` and
+`"LJERE` for *HERE*, `C0,` for *SO,*). In *King Arthur*, 8 of the 37 chapter
+openings in the Archive's OCR text start with a broken word, and these are
+*plain* capitals. Decorated ones fare worse. Every Archive-only book on the
+shelves carries this fault today.
+
+**The repair is a per-book rule built from the catalog, never a hand edit
+(rule 2).** Each initial's record carries the `letter` it stands for, the
+`word` it opens, `ocr_read` (what the OCR made of that word) and
+`ocr_status`: `ok`, `initial dropped`, `initial misread`, or `not located`.
+When the status is dropped or misread, the build replaces the OCR's broken
+word with the catalogued letter plus the rest of the word as the OCR read it,
+so the fix reruns on every refetch. Where a second witness exists (Gutenberg,
+another scan), it must agree with the repaired word, or the case goes to the
+review sheet instead of being fixed.
+
+**Categories** (`style`), from simplest to richest:
+
+| style | what it is |
+|---|---|
+| `plain` | a large capital in an ordinary typeface, two or more lines deep |
+| `swash` / `calligraphic` | an ordinary letter with flourished strokes |
+| `decorated` | a letter set in or on an ornament: vine, scroll, pattern, border |
+| `factotum` | a printer's ornamental frame with a space, where any type letter is dropped in (the frame is one design, reused with many letters) |
+| `inhabited` | a figure or creature sits inside or around the letter, not telling the story |
+| `historiated` | the letter holds a scene from the story itself |
+| `illuminated` | coloured and gilt, in manuscripts and their facsimiles |
+
+Each initial also records `where` (chapter opening, plate title, title page,
+section) and `lines` (how deep it is set). A decorated letter goes to the
+ornament library (it may recur). A `plain` initial is an anchor only.
+
 ---
 
 ## 4. How the art is found
@@ -219,6 +272,11 @@ read `PILOT-not-minted-n`):
 - `ornaments.jsonl`: one stock headpiece (a band of vine with two roundels) and
   its eight placements in the book.
 - `anchors.jsonl`: five anchors, including two plain drop capitals.
+- `initials.jsonl` (2026-10-25): **all 65 initials in the book.** These are the
+  37 chapter-opening capitals (each with its printed page, scan leaf, the word
+  it opens, and what the OCR read) and the 28 pictorial initials in the plate
+  titles (each tied to its plate). Every plate was found in the scan, and
+  every plate-title initial was looked at on a contact sheet.
 
 Every rectangle with a `box` was measured from the ink and checked by eye on
 the scan. Each `crop` link opens straight to that piece at full size.
@@ -240,6 +298,17 @@ What the example turned up:
    two-line capitals, in print as well as in Gutenberg. His pictorial initials
    are in the hand-lettered plate titles. The plain ones still get anchors
    (section 3).
+5. **The OCR breaks one chapter opening in five.** In the Archive's text, 8 of
+   the 37 chapter openings start with a broken word: *HERE* read five times as
+   `J-J^ERE`, `TJERE` or `"LJERE`, *IT* as `T`, *NOW* as `OW`, *SO* as `C0`.
+   Four more could not be located automatically and are marked for checking.
+   The catalog's `repair` field holds the fix for each (section 3a). For this
+   book the house text comes from Gutenberg, which spells them all correctly.
+   But every Archive-only book has the same fault, and this is how it gets
+   fixed.
+6. **The plate-title initials are all inhabited.** All 28 have a figure or a
+   creature inside a framed letter. Most are T's and S's (*The…*, *Sir…*).
+   Their subjects are not yet described.
 
 ---
 
