@@ -1,6 +1,6 @@
 {
- "status": "free",
+ "status": "paused",
  "holder": null,
- "heartbeat": "2026-10-23T10:40-05:00",
- "resume": "Author batches stopped at Adam's card (2026-10-23 13:53Z, 'Stop; switch to upkeep'). Children's sets done (12 shelves, DIGEST-D). Nothing queued."
+ "heartbeat": "2026-10-25T16:30Z",
+ "resume": "PAUSED by Adam 2026-10-25 16:28Z. OCR pass done: My Book House v6 + five Little Classics volumes, fix lists on PR #42. Waiting on Adam: Authors index pp. 259-266 (leave / rebuild / type), using the twin scan for Authors p. 50, MBH's 14 index spots. Next once he resumes: sweep the other 12 Little Classics volumes the same way (run.sh, then the second sweep)."
 }
