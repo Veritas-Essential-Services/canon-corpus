@@ -1,7 +1,7 @@
 {
- "status": "free",
+ "status": "paused",
  "holder": "2026-10-22T22:00:09-05:00",
- "heartbeat": "2026-10-23T11:15:33-05:00",
- "note": "Rounds cq-ec done 2026-10-23.",
+ "heartbeat": "2026-10-25T11:30:00-05:00",
+ "note": "PAUSED 2026-10-25 16:28Z at Adam's request (relayed by coordinator). Rounds cq-ec done and pushed; round ed not started. Resume only when Adam says.",
  "resume_point": "Round ed: audit round ec's single-title shelves for their other English classical works (paul-vinogradoff, henry-goudy, w-h-buckler, j-b-moyle, r-w-leage, t-e-scrutton, harold-mattingly, m-p-charlesworth, e-h-oliver, ethel-hampson-brewster, george-m-calhoun, t-eric-peet, e-douglas-van-buren, r-t-gunther, cecil-torr, george-dennis, st-clair-baddeley, thomas-smart-hughes, john-oscar-lofberg), then a tenth IA subject sweep: ancient philosophy secondary literature (history of Greek and Roman philosophy), Greek and Roman science, mathematics and medicine, Greek and Roman military and naval history, Byzantine history to 1453; split each query by date range (advancedsearch returns at most 300 rows) and filter titles by eye. Jowett's own writings are OUT. Check every title against all branches and run dupetitles.py before the ledger."
 }
