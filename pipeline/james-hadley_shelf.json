@@ -1,0 +1,54 @@
+{
+ "_about": "James Hadley (1821-1872), Yale professor of Greek: Introduction to Roman Law in Twelve Academical Lectures (1874) and Essays Philological and Critical (1873). His school Greek grammar is excluded. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "James Hadley (1821-1872)",
+ "_name_words": [
+  "hadley",
+  "roman",
+  "law",
+  "essays",
+  "philological",
+  "critical"
+ ],
+ "_surname": [
+  "hadley"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hadley-introduction-roman-law-1874": [
+   "cu31924021184548",
+   "Introduction to Roman Law, in Twelve Academical Lectures (1874)"
+  ],
+  "hadley-essays-philological-critical-1873": [
+   "essaysphilologic00hadluoft",
+   "Essays Philological and Critical, selected from the papers of James Hadley (1873)"
+  ]
+ },
+ "_excluded": {
+  "A Greek Grammar for Schools and Colleges": "school grammar, skipped by lane B rule"
+ },
+ "_checks": {
+  "hadley-introduction-roman-law-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hadley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hadley-essays-philological-critical-1873": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hadley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "_about": "Jessie M. Tatlock (1878-1961): Greek and Roman Mythology (1917). Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Jessie May Tatlock (1878-1961)",
+ "_name_words": [
+  "tatlock",
+  "greek",
+  "roman",
+  "mythology"
+ ],
+ "_surname": [
+  "tatlock"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tatlock-greek-roman-mythology-1917": [
+   "greekromanmythol00tatl",
+   "Greek and Roman Mythology (1917)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tatlock-greek-roman-mythology-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tatlock",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

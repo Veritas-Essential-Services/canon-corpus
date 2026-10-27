@@ -1,5 +1,5 @@
 {
- "_about": "Sir Charles Oman (1860-1946): Seven Roman Statesmen of the Later Republic (London: Edward Arnold; first published 1902), raw IA OCR of an impression whose reprint list ends at 1929, so a pre-1930 printing. Oman died 1946. His medieval and Peninsular War histories and The Byzantine Empire are outside this brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Sir Charles Oman (1860-1946): Seven Roman Statesmen of the Later Republic (London: Edward Arnold; first published 1902), raw IA OCR of an impression whose reprint list ends at 1929, so a pre-1930 printing. Oman died 1946. His medieval and Peninsular War histories and The Byzantine Empire are outside this brief. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. The Byzantine Empire (PG 37756) added by lane B, round dk.",
  "_name_words": [
   "oman"
  ],
@@ -9,7 +9,12 @@
   "oman, charles"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "oman-byzantine-empire-1892": [
+   37756,
+   "The Byzantine Empire (Story of the Nations, 1892)"
+  ]
+ },
  "internet_archive": {
   "oman-seven-roman-statesmen-1929": [
    "cu31924028296345",
@@ -17,9 +22,18 @@
   ]
  },
  "_checks": {
+  "oman-byzantine-empire-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles oman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "oman-seven-roman-statesmen-1929": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",

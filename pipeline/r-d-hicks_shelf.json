@@ -1,5 +1,5 @@
 {
- "_about": "Robert Drew Hicks (1850-1929), Cambridge classicist, editor of Aristotle's De Anima. Raw IA OCR: Stoic and Epicurean, Epochs of Philosophy series (New York: Scribner, 1910). His Loeb Diogenes Laertius (1925) is Greek facing and held back like the other Greek-facing Loebs. Not Elias Hicks (shelf elias-hicks). US public domain. No uids minted.",
+ "_about": "Robert Drew Hicks (1850-1929), Cambridge classicist, editor of Aristotle's De Anima. Raw IA OCR: Stoic and Epicurean, Epochs of Philosophy series (New York: Scribner, 1910). His Loeb Diogenes Laertius (1925) is Greek facing and held back like the other Greek-facing Loebs. Not Elias Hicks (shelf elias-hicks). US public domain. No uids minted. Also raw IA: The Politics of Aristotle, Books I-V, a revised text with introduction, analysis and commentary, with Franz Susemihl (Macmillan, 1894).",
  "_author": "R. D. Hicks",
  "_name_words": [
   "robert",
@@ -16,19 +16,34 @@
   "hicks-stoic-and-epicurean-1910": [
    "stoicepicurean00hick",
    "Stoic and Epicurean (Scribner, 1910)"
+  ],
+  "r-d-hicks-susemihl-politics-1894": [
+   "cu31924071172922",
+   "The Politics of Aristotle, a revised text, with introduction, analysis and commentary, Books I-V, by Franz Susemihl and R. D. Hicks (London and New York: Macmillan, 1894); Greek text with English commentary, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {},
  "_checks": {
   "hicks-stoic-and-epicurean-1910": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hicks",
    "identity": "ok",
    "ia_rights": "ok: published 1910",
    "ia_date": "1910",
    "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "r-d-hicks-susemihl-politics-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

@@ -1,0 +1,75 @@
+{
+ "_about": "Sir William Woodthorpe Tarn (1869-1957), historian of the Hellenistic world. Books published before 1930 (US public domain by date); his novel from Gutenberg.",
+ "_author": "W. W. Tarn (1869-1957)",
+ "_name_words": [
+  "tarn",
+  "antigonos",
+  "gonatas",
+  "hellenistic",
+  "civilisation"
+ ],
+ "_surname": [
+  "tarn"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tarn-treasure-isle-of-mist-pg": [
+   34410,
+   "The Treasure of the Isle of Mist (1919), a children's novel"
+  ]
+ },
+ "internet_archive": {
+  "tarn-antigonos-gonatas-1913": [
+   "antigonosgonatas0000wwta",
+   "Antigonos Gonatas (Oxford, 1913; 1969 lithographic reprint)"
+  ],
+  "tarn-hellenistic-civilisation-1927": [
+   "in.ernet.dli.2015.69382",
+   "Hellenistic Civilisation (London: Arnold, 1927)",
+   "2015.69382.Hellenistic-Civilisation_djvu.txt"
+  ]
+ },
+ "_excluded": {
+  "The Greeks in Bactria and India (1938)": "after 1930 (IA's 1922 date is wrong)",
+  "Hellenistic Military and Naval Developments (1930)": "no scan found"
+ },
+ "_rights_checked": {
+  "tarn-antigonos-gonatas-1913": "Title verso read: 'First published 1913. Reprinted lithographically ... 1969'. A photographic reprint of the 1913 text, no new matter; US PD by the 1913 publication.",
+  "tarn-hellenistic-civilisation-1927": "Title page read: London, Edward Arnold, 1927 (first edition). The preface's date OCRs as 'August 1937', almost certainly a misread of the first edition's date; the title page governs."
+ },
+ "_checks": {
+  "tarn-treasure-isle-of-mist-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tarn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tarn-antigonos-gonatas-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tarn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title verso read: 'First published 1913. Reprinted lithographically ... 1969'. A photographic reprint of the 1913 text, no new matter; US PD by the 1913 publication."
+  },
+  "tarn-hellenistic-civilisation-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tarn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: London, Edward Arnold, 1927 (first edition). The preface's date OCRs as 'August 1937', almost certainly a misread of the first edition's date; the title page governs."
+  }
+ }
+}

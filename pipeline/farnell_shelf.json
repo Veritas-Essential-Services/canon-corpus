@@ -1,5 +1,5 @@
 {
- "_about": "Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Outline-History of Greek Religion, Greece and Babylon, clean Gutenberg. No uids minted.",
+ "_about": "Lewis Richard Farnell (1856-1934), Rector of Exeter College, Oxford. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). Clean Gutenberg: Outline-History of Greek Religion, Greece and Babylon, The Evolution of Religion (1905). Raw IA OCR: The Cults of the Greek States, all five volumes (Oxford: Clarendon Press; vols. I-II 1896, III-IV 1907, V 1909; vol. III is the 1907 reissue scan, the others first printings; Greek quotations throughout), and The Higher Aspects of Greek Religion (New York: Scribner, 1912). Held: Greek Hero Cults and Ideas of Immortality (1921) and The Attributes of God (1925), no scan with a readable text layer and printed year found; The Works of Pindar (1930), lending-library scan only. US public domain. No uids minted.",
  "_name_words": [
   "farnell"
  ],
@@ -17,16 +17,46 @@
   "farnell-greece-and-babylon": [
    71562,
    "Greece and Babylon"
+  ],
+  "farnell-evolution-of-religion": [
+   71722,
+   "The Evolution of Religion"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "farnell-cults-greek-states-1-1896": [
+   "cu31924058563051",
+   "The Cults of the Greek States, vol. I (Clarendon Press, 1896)"
+  ],
+  "farnell-cults-greek-states-2-1896": [
+   "thecultsofthegre02farnuoft",
+   "The Cults of the Greek States, vol. II (Clarendon Press, 1896)"
+  ],
+  "farnell-cults-greek-states-3-1907": [
+   "cu31924058563044",
+   "The Cults of the Greek States, vol. III (Clarendon Press, 1907)"
+  ],
+  "farnell-cults-greek-states-4-1907": [
+   "in.ernet.dli.2015.56575",
+   "The Cults of the Greek States, vol. IV (Clarendon Press, 1907)",
+   "2015.56575.Cults-Of-The-Greek-States-Vol4_djvu.txt"
+  ],
+  "farnell-cults-greek-states-5-1909": [
+   "cultsofthegreek05farnuoft",
+   "The Cults of the Greek States, vol. V (Clarendon Press, 1909)"
+  ],
+  "farnell-higher-aspects-greek-religion-1912": [
+   "higheraspectsofg00farn",
+   "The Higher Aspects of Greek Religion (Scribner, 1912)"
+  ]
+ },
  "_excluded": {
-  "PG 71722 (The Evolution of Religion)": "comparative religion, outside the classical brief"
+  "IA Evolution of Religion scans": "duplicate of the clean Gutenberg text (PG 71722)"
  },
  "_checks": {
   "farnell-outline-history-greek-religion": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "l. r. farnell",
    "identity": "ok",
@@ -35,12 +65,87 @@
   },
   "farnell-greece-and-babylon": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "lewis richard farnell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "farnell-evolution-of-religion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. r. farnell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "farnell-cults-greek-states-1-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis richard farnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "farnell-cults-greek-states-2-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. r. farnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "farnell-cults-greek-states-3-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis richard farnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "farnell-cults-greek-states-4-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis richard farnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "farnell-cults-greek-states-5-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lewis richard farnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1896-1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "farnell-higher-aspects-greek-religion-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. r. farnell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }

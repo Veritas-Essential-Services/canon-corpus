@@ -1,0 +1,40 @@
+{
+ "_about": "R. D. Archer-Hind (1849-1910), Fellow of Trinity College, Cambridge: The Phaedo of Plato, edited with introduction, notes and appendices (London: Macmillan, 1883), raw IA; Greek text with English commentary, kept per Adam's 2026-10-23 ruling on text-facing editions. His Timaeus (1888), which carries a translation, is on the plato shelf (plato-archer-hind-timaeus-1888).",
+ "_author": "Richard Dacre Archer-Hind (1849-1910)",
+ "_name_words": [
+  "archer",
+  "phaedo",
+  "plato"
+ ],
+ "_surname": [
+  "archer-hind",
+  "r. d. archer-hind"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "r-d-archer-hind-phaedo-1883": [
+   "cu31924026679435",
+   "The Phaedo of Plato, edited with introduction, notes and appendices (London: Macmillan, 1883)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "r-d-archer-hind-phaedo-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "r-d-archer-hind-phaedo-1883": {
+   "author": "title page read in the OCR 2026-10-23: 'THE PHAEDO OF PLATO EDITED WITH INTRODUCTION NOTES AND APPENDICES BY ἐν\" ARCHER- HIND, M.A. FELLOW OF TRINITY COLLEGE, CAMBRIDGE London MACMILLAN AND CO. 1883', i.e. R. D. Archer-Hind, the initials garbled and the name split at the hyphen"
+  }
+ }
+}

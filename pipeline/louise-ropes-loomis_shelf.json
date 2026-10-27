@@ -1,0 +1,36 @@
+{
+ "_about": "Louise Ropes Loomis (1874-1958), Wells College historian: Medieval Hellenism (1906), on Greek learning in the medieval West. Her Book of the Popes translation (1916) is church history, left for lane A. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Louise Ropes Loomis (1874-1958)",
+ "_name_words": [
+  "loomis",
+  "medieval",
+  "hellenism"
+ ],
+ "_surname": [
+  "louise ropes loomis",
+  "l. r. loomis",
+  "louise r. loomis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "loomis-medieval-hellenism-1906": [
+   "medievalhellenis00loomrich",
+   "Medieval Hellenism (1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "loomis-medieval-hellenism-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise ropes loomis",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "George Middleton and Thomas Ross Mills, Aberdeen: The Student's Companion to Latin Authors (Macmillan, 1896). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "George Middleton (1865-) and Thomas Ross Mills (1869-)",
+ "_name_words": [
+  "middleton",
+  "george",
+  "mills",
+  "thomas",
+  "latin",
+  "authors"
+ ],
+ "_surname": [
+  "george middleton",
+  "t. r. mills",
+  "thomas ross mills"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "middleton-mills-students-companion-latin-authors": [
+   28413,
+   "The Student's Companion to Latin Authors (London: Macmillan, 1896)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "middleton-mills-students-companion-latin-authors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george middleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

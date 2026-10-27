@@ -1,0 +1,48 @@
+{
+ "_about": "Thomas Hewitt Key (1799-1875), Professor of Latin and of Comparative Grammar at University College London, raw IA OCR of Philological Essays (1868) and Language: its origin and development (1874). Latin grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "T. Hewitt Key",
+ "_name_words": [
+  "key"
+ ],
+ "_surname": [
+  "t. hewitt key",
+  "hewitt key"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "t-hewitt-key-philological-essays-1868": [
+   "philologicalessa00keytuoft",
+   "Philological Essays, by T. Hewitt Key (London: Bell & Daldy, 1868)"
+  ],
+  "t-hewitt-key-language-origin-development-1874": [
+   "languageitsorigi00keyt",
+   "Language: its origin and development, by T. Hewitt Key (London: George Bell and Sons, 1874)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "t-hewitt-key-philological-essays-1868": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. hewitt key",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "t-hewitt-key-language-origin-development-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. hewitt key",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

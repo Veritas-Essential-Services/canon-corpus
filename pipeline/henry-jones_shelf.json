@@ -1,5 +1,5 @@
 {
- "_about": "Sir Henry Jones (1852-1922), Welsh idealist, Professor of Moral Philosophy at Glasgow. Raw IA OCR: Browning as a Philosophical and Religious Teacher (Glasgow: Maclehose; first 1891, this copy the 1912 reprint), clean 0.93; A Critical Account of the Philosophy of Lotze: the Doctrine of Thought (Glasgow: Maclehose, 1895), clean 0.92; Idealism as a Practical Creed (Glasgow: Maclehose, 1909), clean 0.92; The Working Faith of the Social Reformer and other essays (London: Macmillan, 1910), clean 0.94; Social Powers, three popular lectures (Glasgow: Maclehose, 1913), clean 0.93; The Principles of Citizenship (London: Macmillan, 1919), clean 0.92. US public domain. No uids minted.",
+ "_about": "Sir Henry Jones (1852-1922), Welsh idealist, Professor of Moral Philosophy at Glasgow. Raw IA OCR: Browning as a Philosophical and Religious Teacher (Glasgow: Maclehose; first 1891, this copy the 1912 reprint), clean 0.93; A Critical Account of the Philosophy of Lotze: the Doctrine of Thought (Glasgow: Maclehose, 1895), clean 0.92; Idealism as a Practical Creed (Glasgow: Maclehose, 1909), clean 0.92; The Working Faith of the Social Reformer and other essays (London: Macmillan, 1910), clean 0.94; Social Powers, three popular lectures (Glasgow: Maclehose, 1913), clean 0.93; The Principles of Citizenship (London: Macmillan, 1919), clean 0.92. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Henry Jones",
  "_name_words": [
   "henry",
@@ -9,7 +9,12 @@
   "jones"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "jones-browning-philosophical-religious-teacher-pg": [
+   13561,
+   "Browning as a Philosophical and Religious Teacher"
+  ]
+ },
  "internet_archive": {
   "jones-browning-philosophical-teacher-1891": [
    "browningasphilos00joneuoft",
@@ -38,9 +43,18 @@
  },
  "_excluded": {},
  "_checks": {
+  "jones-browning-philosophical-religious-teacher-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "jones-browning-philosophical-teacher-1891": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jones",
    "identity": "ok",
@@ -51,7 +65,7 @@
   },
   "jones-philosophy-of-lotze-1895": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jones",
    "identity": "ok",
@@ -62,7 +76,7 @@
   },
   "jones-idealism-practical-creed-1909": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jones",
    "identity": "ok",
@@ -73,7 +87,7 @@
   },
   "jones-working-faith-social-reformer-1910": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jones",
    "identity": "ok",
@@ -84,7 +98,7 @@
   },
   "jones-social-powers-1913": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -95,7 +109,7 @@
   },
   "jones-principles-of-citizenship-1919": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "jones",
    "identity": "ok",

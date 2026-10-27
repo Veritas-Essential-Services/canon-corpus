@@ -1,0 +1,59 @@
+{
+ "_about": "Tadeusz Zielinski (1859-1944), Polish classical scholar. His two books in English translation before 1930 (US public domain by date). German and Polish works not taken (English-only shelf).",
+ "_author": "Tadeusz Zielinski (1859-1944)",
+ "_name_words": [
+  "zielinski",
+  "antiquity",
+  "religion",
+  "greece"
+ ],
+ "_surname": [
+  "zielinski",
+  "zieliński"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zielinski-our-debt-to-antiquity-1909": [
+   "ourdebttoantiqui00zieluoft",
+   "Our Debt to Antiquity (1909), tr. H. A. Strong and Hugh Stewart"
+  ],
+  "zielinski-religion-ancient-greece-1926": [
+   "religionofancien0000ziel_e5q1",
+   "The Religion of Ancient Greece (1926), tr. George Rapall Noyes"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "zielinski-our-debt-to-antiquity-1909": "H. A. Strong",
+  "zielinski-religion-ancient-greece-1926": "George Rapall Noyes"
+ },
+ "_checks": {
+  "zielinski-our-debt-to-antiquity-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zielinski",
+   "translator_claimed": "H. A. Strong",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "zielinski-religion-ancient-greece-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zielinski",
+   "translator_claimed": "George Rapall Noyes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "_about": "Arthur Sidgwick (1840-1920), Fellow and Tutor of Corpus Christi College, Oxford, later Reader in Greek at Oxford; brother of Henry Sidgwick: school and college editions with English introductions and notes, raw IA. Aeschylus for the Clarendon Press Series: Agamemnon (3rd ed. revised, 1887), Choephoroi (1884), Eumenides vol. I, introduction and text (1887; the notes volume was not found on IA), Septem contra Thebas (1903). Virgil, P. Vergili Maronis Opera with introduction and English notes (Cambridge: University Press), vol. I introduction and text (1897 printing) and vol. II notes (1899 printing; first edition 1890, reprinted 1894). Greek and Latin text editions kept per Adam's 2026-10-23 ruling. Not taken: his Persae (1903; persae01aesc OCRs as Greek letters throughout, clean 0.000); The Influence of Greek Philosophy on English Poetry (1906), which is by Arthur H. Sidgwick, his son. Classical scholarship (lane B, round dt). No uids minted.",
+ "_author": "Arthur Sidgwick (1840-1920)",
+ "_name_words": [
+  "sidgwick",
+  "aeschylus",
+  "vergili"
+ ],
+ "_surname": [
+  "a. sidgwick",
+  "arthur sidgwick",
+  "sidgwick, a"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "arthur-sidgwick-agamemnon-1887": [
+   "agamemnonwithint00aescuoft",
+   "Aeschylus, Agamemnon, with introduction and notes by A. Sidgwick, third edition, revised (Oxford: Clarendon Press, 1887); Greek text with English notes"
+  ],
+  "arthur-sidgwick-choephoroi-1884": [
+   "choephoroiwithin00aescuoft",
+   "Aeschylus, Choephoroi, with introduction and notes by A. Sidgwick (Oxford: Clarendon Press, 1884); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "arthur-sidgwick-eumenides-v1-1887": [
+   "eumenideswithint01aescuoft",
+   "Aeschylus, Eumenides, with introduction and notes by A. Sidgwick, vol. I, introduction and text (Oxford: Clarendon Press, 1887); Greek text with English introduction"
+  ],
+  "arthur-sidgwick-septem-1903": [
+   "septemcontrathe00sidggoog",
+   "Aeschylus, Septem contra Thebas, with introduction and notes by A. Sidgwick (Oxford: Clarendon Press, 1903); Greek text with English notes"
+  ],
+  "arthur-sidgwick-virgil-v1-1897": [
+   "pvergilimaronis13virggoog",
+   "P. Vergili Maronis Opera, with introduction and English notes by A. Sidgwick, vol. I, introduction and text (Cambridge: University Press, stereotyped edition, 1897 printing); Latin text with English introduction, kept per Adam's 2026-10-23 ruling"
+  ],
+  "arthur-sidgwick-virgil-v2-1899": [
+   "pvergilimaroniso02virg_0",
+   "P. Vergili Maronis Opera, with introduction and English notes by A. Sidgwick, vol. II, notes (Cambridge: University Press, stereotyped edition, 1899 printing; first edition 1890)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "arthur-sidgwick-agamemnon-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arthur-sidgwick-choephoroi-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arthur-sidgwick-eumenides-v1-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arthur-sidgwick-septem-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arthur-sidgwick-virgil-v1-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arthur-sidgwick-virgil-v2-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. sidgwick",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "arthur-sidgwick-choephoroi-1884": {
+   "author": "title page OCRs the editor as 'AS' SIDGWICK, M.A., Fellow and Tutor of Corpus Christi College, Oxford' (Clarendon Press, 1884)"
+  },
+  "arthur-sidgwick-eumenides-v1-1887": {
+   "author": "title page OCRs the editor as 'AS SIDGWICK, M.A., Fellow and Tutor of Corpus Christi College, Oxford' (Clarendon Press, M DCCC LXXXVII)"
+  }
+ }
+}

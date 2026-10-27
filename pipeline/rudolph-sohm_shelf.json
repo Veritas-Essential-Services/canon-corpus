@@ -1,0 +1,44 @@
+{
+ "_about": "Rudolph Sohm (1841-1917), German jurist: The Institutes, a Textbook of the History and System of Roman Private Law, tr. James Crawford Ledlie, 3rd English ed. (Oxford, 1907). Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Rudolph Sohm (1841-1917)",
+ "_name_words": [
+  "sohm",
+  "institutes",
+  "roman",
+  "private",
+  "law",
+  "ledlie"
+ ],
+ "_surname": [
+  "sohm"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sohm-institutes-1907": [
+   "institutesatext01grgoog",
+   "The Institutes: a Textbook of the History and System of Roman Private Law, 3rd ed. (1907), tr. James Crawford Ledlie"
+  ]
+ },
+ "_excluded": {
+  "The Institutes of Roman Law (1892), 2nd ed. (1901)": "superseded by the 3rd English edition of 1907"
+ },
+ "_translators": {
+  "sohm-institutes-1907": "Ledlie"
+ },
+ "_checks": {
+  "sohm-institutes-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sohm",
+   "translator_claimed": "Ledlie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "Alfred North Whitehead (1861-1947), from Project Gutenberg: The Organisation of Thought (Williams and Norgate, 1917), The Concept of Nature (Tarner Lectures, 1920), Science and the Modern World (Macmillan, 1925) and Symbolism, its Meaning and Effect (Macmillan, 1927). Added in round az: Process and Reality, an essay in cosmology, Gifford Lectures 1927-28 (New York: Macmillan, published October 1929; raw IA OCR, clean 0.90). Added in round az: Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92). Added in round az: An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89). Added in round az: The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85). All published before 1931, so US public domain. Held: An Introduction to Mathematics (Home University Library; no year printed in any of three IA scans) and Principia Mathematica with Russell (IA OCR of the symbolism cleans to 0.45). Added in round 2026-10-18cj: The Function of Reason (Princeton University Press, 1929), raw IA OCR, clean 0.92. Held: The Aims of Education (1929), whose scans are all later Mentor paperbacks, and A Treatise on Universal Algebra (1898), whose scan cleans to 0.73. No uids minted.",
+ "_about": "Alfred North Whitehead (1861-1947), from Project Gutenberg: The Organisation of Thought (Williams and Norgate, 1917), The Concept of Nature (Tarner Lectures, 1920), Science and the Modern World (Macmillan, 1925) and Symbolism, its Meaning and Effect (Macmillan, 1927). Added in round az: Process and Reality, an essay in cosmology, Gifford Lectures 1927-28 (New York: Macmillan, published October 1929; raw IA OCR, clean 0.90). Added in round az: Religion in the Making, Lowell Lectures 1926 (New York: Macmillan, 1926; raw IA OCR, clean 0.92). Added in round az: An Enquiry concerning the Principles of Natural Knowledge (Cambridge: University Press, 1919; raw IA OCR, clean 0.89). Added in round az: The Principle of Relativity, with applications to physical science (Cambridge: University Press, 1922; raw IA OCR, clean 0.85). All published before 1931, so US public domain. Held: An Introduction to Mathematics (Home University Library; no year printed in any of three IA scans) and Principia Mathematica with Russell (IA OCR of the symbolism cleans to 0.45). Added in round 2026-10-18cj: The Function of Reason (Princeton University Press, 1929), raw IA OCR, clean 0.92. Held: The Aims of Education (1929), whose scans are all later Mentor paperbacks, and A Treatise on Universal Algebra (1898), whose scan cleans to 0.73. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "Alfred North Whitehead",
  "_name_words": [
   "alfred",
@@ -57,7 +57,7 @@
  "_checks": {
   "whitehead-organisation-of-thought-1917": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -66,7 +66,7 @@
   },
   "whitehead-concept-of-nature-1920": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -75,7 +75,7 @@
   },
   "whitehead-science-and-the-modern-world-1925": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -84,7 +84,7 @@
   },
   "whitehead-symbolism-1927": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -93,7 +93,7 @@
   },
   "whitehead-process-and-reality-1929": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -104,7 +104,7 @@
   },
   "whitehead-religion-in-the-making-1926": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -115,7 +115,7 @@
   },
   "whitehead-enquiry-natural-knowledge-1919": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -126,7 +126,7 @@
   },
   "whitehead-principle-of-relativity-1922": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "whitehead",
    "identity": "ok",
@@ -137,7 +137,7 @@
   },
   "whitehead-function-of-reason-1929": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -151,5 +151,8 @@
   "whitehead-function-of-reason-1929": {
    "author": "Alfred North Whitehead (title page OCR reads 'Aurrep Nortu Wutreneap, Sc.D., LL.D., F.R.S., Fellow of Trinity College in the University of Cambridge and Professor of Philosophy in Harvard University'; Louis Clark Vanuxem Foundation lectures, Princeton University Press, 1929)"
   }
+ },
+ "_pending": {
+  "PG 71026 (An Enquiry concerning the Principles of Natural Knowledge)": "clean Gutenberg edition exists but only as PDF/TeX (no plain-text file); wanted as a clean witness once fetch_shelf can read TeX"
  }
 }

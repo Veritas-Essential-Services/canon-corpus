@@ -1,0 +1,63 @@
+{
+ "_about": "John Antony Cramer (1793-1848), Oxford geographer and Regius Professor of Modern History, raw IA OCR of A Geographical and Historical Description of Ancient Greece (3 vols, 1828). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "J. A. Cramer",
+ "_name_words": [
+  "cramer"
+ ],
+ "_surname": [
+  "j. a. cramer",
+  "cramer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-a-cramer-ancient-greece-1-1828": [
+   "geographicalhis01cram",
+   "A Geographical and Historical Description of Ancient Greece, with a map and a plan of Athens, by the Rev. J. A. Cramer, vol. I (Oxford: at the Clarendon Press, 1828)"
+  ],
+  "j-a-cramer-ancient-greece-2-1828": [
+   "geohistancgrec02cram",
+   "A Geographical and Historical Description of Ancient Greece, by the Rev. J. A. Cramer, vol. II (Oxford: at the Clarendon Press, 1828)"
+  ],
+  "j-a-cramer-ancient-greece-3-1828": [
+   "geographicalhist03cramuoft",
+   "A Geographical and Historical Description of Ancient Greece, by the Rev. J. A. Cramer, vol. III (Oxford: at the Clarendon Press, 1828)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "j-a-cramer-ancient-greece-1-1828": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. cramer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-a-cramer-ancient-greece-2-1828": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. cramer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-a-cramer-ancient-greece-3-1828": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. cramer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

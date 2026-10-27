@@ -1,0 +1,48 @@
+{
+ "_about": "John Potter (c.1674-1747), Archbishop of Canterbury, raw IA OCR of Archaeologia Graeca, or the Antiquities of Greece, the Edinburgh new edition with George Dunbar's appendix (1818), 2 vols; not Beatrix Potter, whose shelf is potter. Greek-heavy in places: kept under Adam's 2026-10-23 Greek ruling. Greek antiquities (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "John Potter",
+ "_name_words": [
+  "potter"
+ ],
+ "_surname": [
+  "john potter",
+  "potter"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "john-potter-archaeologia-graeca-1-1818": [
+   "archaeologiagra01pott",
+   "Archaeologia Graeca, or the Antiquities of Greece, by John Potter, a new edition, with an appendix by G. Dunbar, vol. I (Edinburgh: Stirling and Slade, 1818)"
+  ],
+  "john-potter-archaeologia-graeca-2-1818": [
+   "archaeologiagra02pott",
+   "Archaeologia Graeca, or the Antiquities of Greece, by John Potter, a new edition, vol. II (Edinburgh: Stirling and Slade; IA catalogues 1818)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "john-potter-archaeologia-graeca-1-1818": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "john-potter-archaeologia-graeca-2-1818": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "potter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

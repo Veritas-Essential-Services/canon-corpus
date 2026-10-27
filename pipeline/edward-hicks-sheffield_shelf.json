@@ -1,0 +1,32 @@
+{
+ "_about": "Edward Hicks, D.D., D.C.L., vicar of St Stephen's, Sheffield (so the title page), raw IA OCR of Traces of Greek Philosophy and Roman Law in the New Testament (1896). Not merged with e-l-hicks, because the title page does not establish they are one man. Roman law (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Edward Hicks",
+ "_name_words": [
+  "hicks"
+ ],
+ "_surname": [
+  "edward hicks"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "edward-hicks-sheffield-traces-greek-philosophy-roman-law-1896": [
+   "tracesofgreekphi00hick",
+   "Traces of Greek Philosophy and Roman Law in the New Testament, by Edward Hicks (London: Society for Promoting Christian Knowledge, 1896)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "edward-hicks-sheffield-traces-greek-philosophy-roman-law-1896": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward hicks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "John Alexander Stewart (1846-1933), White's Professor of Moral Philosophy at Oxford. Raw IA OCR: Plato's Doctrine of Ideas (Oxford: Clarendon Press, 1909), clean 0.83. Wanted: The Myths of Plato (1905) and Notes on the Nicomachean Ethics (1892, 2 vols.); every scan tried is Greek-heavy and falls below the 0.78 OCR gate (0.76-0.78 and 0.61). Not Dugald Stewart (shelf dugald-stewart). US public domain. No uids minted.",
+ "_about": "John Alexander Stewart (1846-1933), White's Professor of Moral Philosophy at Oxford. Raw IA OCR: Plato's Doctrine of Ideas (Oxford: Clarendon Press, 1909), clean 0.83. Wanted: The Myths of Plato (1905) and Notes on the Nicomachean Ethics (1892, 2 vols.); every scan tried is Greek-heavy and falls below the 0.78 OCR gate (0.76-0.78 and 0.61). Not Dugald Stewart (shelf dugald-stewart). US public domain. No uids minted. Also raw IA: Notes on the Nicomachean Ethics of Aristotle (Clarendon Press, 2 vols., 1892), the English commentary on the Greek, kept per Adam's 2026-10-23 ruling; The Myths of Plato, translated with introduction and essays (Macmillan, 1905); The English Manuscripts of the Nicomachean Ethics (Anecdota Oxoniensia, 1882).",
  "_author": "J. A. Stewart",
  "_name_words": [
   "john",
@@ -16,19 +16,79 @@
   "stewart-platos-doctrine-of-ideas-1909": [
    "doctrineideas00stewuoft",
    "Plato's Doctrine of Ideas (Clarendon Press, 1909)"
+  ],
+  "j-a-stewart-notes-nicomachean-ethics-1892-v1": [
+   "notesonnicomache01stewuoft",
+   "Notes on the Nicomachean Ethics of Aristotle, vol. I (Oxford: Clarendon Press, 1892)"
+  ],
+  "j-a-stewart-notes-nicomachean-ethics-1892-v2": [
+   "notesonthenicoma02stewuoft",
+   "Notes on the Nicomachean Ethics of Aristotle, vol. II (Oxford: Clarendon Press, 1892)"
+  ],
+  "j-a-stewart-myths-of-plato-1905": [
+   "mythsofplato00plat",
+   "The Myths of Plato, translated with introductory and other observations (London: Macmillan, 1905)"
+  ],
+  "j-a-stewart-english-manuscripts-ethics-1882": [
+   "englishmanuscri00stew",
+   "The English Manuscripts of the Nicomachean Ethics, described in relation to Bekker's manuscripts and other sources (Anecdota Oxoniensia; Oxford: Clarendon Press, 1882)"
   ]
  },
  "_excluded": {},
  "_checks": {
   "stewart-platos-doctrine-of-ideas-1909": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "j. a. stewart",
    "identity": "ok",
    "ia_rights": "ok: published 1909",
    "ia_date": "1909",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "j-a-stewart-notes-nicomachean-ethics-1892-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "j-a-stewart-notes-nicomachean-ethics-1892-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "j-a-stewart-myths-of-plato-1905": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "j-a-stewart-english-manuscripts-ethics-1882": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. a. stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

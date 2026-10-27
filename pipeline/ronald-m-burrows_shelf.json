@@ -1,0 +1,37 @@
+{
+ "_about": "Ronald M. Burrows (1867-1920), classical scholar and Principal of King's College London: The Discoveries in Crete and their Bearing on the History of Ancient Civilisation (1907). Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Ronald Montagu Burrows (1867-1920)",
+ "_name_words": [
+  "burrows",
+  "crete",
+  "discoveries",
+  "civilisation"
+ ],
+ "_surname": [
+  "ronald m. burrows",
+  "ronald montagu burrows",
+  "r. m. burrows"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burrows-discoveries-in-crete-1907": [
+   "discoveriesincre00burruoft",
+   "The Discoveries in Crete and their Bearing on the History of Ancient Civilisation (1907)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "burrows-discoveries-in-crete-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ronald m. burrows",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

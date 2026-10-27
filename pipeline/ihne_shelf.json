@@ -1,5 +1,5 @@
 {
- "_about": "Wilhelm Ihne (1821-1902): The History of Rome, English edition, 5 vols. (London: Longmans, Green, 1871-1882), raw IA OCR. The preface to vol. I explains that the English edition is the author's own reworking rather than a translation by another hand, so no translator is recorded. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Wilhelm Ihne (1821-1902): The History of Rome, English edition, 5 vols. (London: Longmans, Green, 1871-1882), raw IA OCR. The preface to vol. I explains that the English edition is the author's own reworking rather than a translation by another hand, so no translator is recorded. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round eb adds Early Rome (Epochs of Ancient History, 1883).",
  "_name_words": [
   "ihne"
  ],
@@ -30,12 +30,16 @@
   "ihne-history-rome-v5-1882": [
    "historyofrome05ihne",
    "The History of Rome, English edition, vol. V (London: Longmans, Green, 1882)"
+  ],
+  "ihne-early-rome-1883": [
+   "earlyromefromfou00ihne_0",
+   "Early Rome, from the foundation of the city to its destruction by the Gauls, by W. Ihne (Epochs of Ancient History; New York: Charles Scribner's Sons, 1883)"
   ]
  },
  "_checks": {
   "ihne-history-rome-v1-1871": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wilhelm ihne",
    "identity": "ok",
@@ -46,7 +50,7 @@
   },
   "ihne-history-rome-v2-1871": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wilhelm ihne",
    "identity": "ok",
@@ -57,7 +61,7 @@
   },
   "ihne-history-rome-v3-1877": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wilhelm ihne",
    "identity": "ok",
@@ -68,7 +72,7 @@
   },
   "ihne-history-rome-v4-1882": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wilhelm ihne",
    "identity": "ok",
@@ -79,12 +83,23 @@
   },
   "ihne-history-rome-v5-1882": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "wilhelm ihne",
    "identity": "ok",
    "ia_rights": "ok: published 1871",
    "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ihne-early-rome-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. ihne",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }

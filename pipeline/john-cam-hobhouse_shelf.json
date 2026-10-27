@@ -1,0 +1,33 @@
+{
+ "_about": "John Cam Hobhouse (1786-1869), later Lord Broughton, raw IA OCR of Historical Illustrations of the Fourth Canto of Childe Harold, the New York printing (1818); not L. T. Hobhouse, whose shelf is l-t-hobhouse. Roman topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "John Cam Hobhouse",
+ "_name_words": [
+  "hobhouse"
+ ],
+ "_surname": [
+  "john cam hobhouse",
+  "hobhouse"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "john-cam-hobhouse-historical-illustrations-1818": [
+   "historicalillust00brourich",
+   "Historical Illustrations of the Fourth Canto of Childe Harold, containing dissertations on the ruins of Rome, and an essay on Italian literature, by John Hobhouse (New York: Kirk and Mercein, 1818)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "john-cam-hobhouse-historical-illustrations-1818": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hobhouse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "_about": "Mark Pattison (1813-1884), Rector of Lincoln College, Oxford, historian of Renaissance classical scholarship, raw IA OCR: Isaac Casaubon, 1559-1614 (London: Longmans, Green, 1875), and the Essays collected and arranged by Henry Nettleship (Oxford: Clarendon Press, 1889), 2 vols, which include the fragment of his unfinished Life of Joseph Scaliger. Editor's rights: Nettleship died 1893. Classical scholarship (lane B, round dy). Not taken: Milton (English Men of Letters, 1879; PG 8770), which is English literature, outside lane B's brief, and Suggestions on Academical Organisation (1868). No uids minted.",
+ "_author": "Mark Pattison (1813-1884)",
+ "_name_words": [
+  "pattison"
+ ],
+ "_surname": [
+  "mark pattison",
+  "pattison, mark"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mark-pattison-isaac-casaubon-1875": [
+   "isaaccasaubon15500pattuoft",
+   "Isaac Casaubon, 1559-1614, by Mark Pattison, Rector of Lincoln College (London: Longmans, Green, 1875)"
+  ],
+  "mark-pattison-essays-v1-1889": [
+   "a603221201pattuoft",
+   "Essays by the late Mark Pattison, sometime Rector of Lincoln College, collected and arranged by Henry Nettleship, vol. I (Oxford: at the Clarendon Press, 1889)"
+  ],
+  "mark-pattison-essays-v2-1889": [
+   "a603221202pattuoft",
+   "Essays by the late Mark Pattison, sometime Rector of Lincoln College, collected and arranged by Henry Nettleship, vol. II (Oxford: at the Clarendon Press, 1889)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mark-pattison-isaac-casaubon-1875": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pattison, mark",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mark-pattison-essays-v1-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark pattison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mark-pattison-essays-v2-1889": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark pattison",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -42,6 +42,14 @@
    "longinusonsubli00longgoog",
    "Longinus on the Sublime (Oxford: T. and G. Shrimpton; London: Whittaker, MDCCCLXVII)",
    "tr. Thomas R. R. Stebbing"
+  ],
+  "demetrius-roberts-on-style-1902": [
+   "demetriusonstyle01deme",
+   "Demetrius On Style, the Greek text with an English translation by W. Rhys Roberts (Cambridge, 1902); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "longinus-roberts-sublime-1907": [
+   "cu31924012529800",
+   "Longinus on the Sublime, the Greek text edited after the Paris manuscript, with introduction, translation and notes by W. Rhys Roberts, 2nd ed. (Cambridge, 1907); Greek text facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_surname": [
@@ -52,12 +60,14 @@
   "longinus-smith-sublime": "William Smith",
   "longinus-prickard-sublime": "A. O. Prickard",
   "longinus-spurdens-1836": "Spurdens",
-  "longinus-stebbing-1867": "Stebbing"
+  "longinus-stebbing-1867": "Stebbing",
+  "demetrius-roberts-on-style-1902": "W. Rhys Roberts",
+  "longinus-roberts-sublime-1907": "Roberts"
  },
  "_checks": {
   "longinus-havell-sublime": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longinus",
    "translator_claimed": "H. L. Havell",
@@ -69,7 +79,7 @@
   },
   "longinus-smith-sublime": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longinus",
    "translator_claimed": "William Smith",
@@ -83,7 +93,7 @@
   },
   "longinus-prickard-sublime": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longinus",
    "translator_claimed": "A. O. Prickard",
@@ -96,7 +106,7 @@
   },
   "longinus-dublin-graduate-1821": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longinus",
    "identity": "ok",
@@ -107,7 +117,7 @@
   },
   "longinus-spurdens-1836": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longinus",
    "translator_claimed": "Spurdens",
@@ -120,7 +130,7 @@
   },
   "longinus-oxford-ma-1841": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longinus",
    "identity": "ok",
@@ -131,7 +141,7 @@
   },
   "longinus-stebbing-1867": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "longinus",
    "translator_claimed": "Stebbing",
@@ -141,13 +151,43 @@
    "ia_date": "1867",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
+  },
+  "demetrius-roberts-on-style-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "demetrius",
+   "translator_claimed": "W. Rhys Roberts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "longinus-roberts-sublime-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "longinus",
+   "translator_claimed": "Roberts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
- "_excluded": {
-  "demetriusonstyle01deme / demetriusonstyle0000wrhy": "Rhys Roberts's Demetrius On Style (1902): Greek on facing pages, OCR 0.59-0.72; held back like the Greek-facing Loebs"
- },
+ "_excluded": {},
  "_translator_unchecked": {
   "longinus-dublin-graduate-1821": "the title page names the translator only as 'a Graduate of Trinity College, Dublin'",
   "longinus-oxford-ma-1841": "the title page names the translator only as 'a Master of Arts of the University of Oxford'"
+ },
+ "_surname_by_slug": {
+  "demetrius-roberts-on-style-1902": [
+   "demetrius",
+   "rhys roberts"
+  ]
  }
 }

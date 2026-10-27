@@ -1,0 +1,32 @@
+{
+ "_about": "Susan Horner (1816-1900), writer on Italy, raw IA OCR of Greek Vases (1897).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Susan Horner",
+ "_name_words": [
+  "horner"
+ ],
+ "_surname": [
+  "susan horner"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "susan-horner-greek-vases-1897": [
+   "greekvaseshistor00hornuoft",
+   "Greek Vases, historical and descriptive, with some brief notices of vases in the Museum of the Louvre and a selection from vases in the British Museum, by Susan Horner, with a prefatory note by A. S. Murray (London: Swan Sonnenschein, 1897)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "susan-horner-greek-vases-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "susan horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

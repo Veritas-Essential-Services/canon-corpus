@@ -1,0 +1,33 @@
+{
+ "_about": "John Oscar Lofberg, University of Chicago, raw IA OCR of his dissertation Sycophancy in Athens (1917). Greek political antiquities (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "John Oscar Lofberg",
+ "_name_words": [
+  "lofberg"
+ ],
+ "_surname": [
+  "john oscar lofberg",
+  "lofberg"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "john-oscar-lofberg-sycophancy-in-athens-1917": [
+   "sycophancyinathe01lofb",
+   "Sycophancy in Athens, a dissertation, by John Oscar Lofberg (Chicago: University of Chicago Libraries, private edition, 1917)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "john-oscar-lofberg-sycophancy-in-athens-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john oscar lofberg",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

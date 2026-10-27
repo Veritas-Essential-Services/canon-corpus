@@ -65,6 +65,10 @@
    "meditationsmarc00arrigoog",
    "The Meditations of Marcus Aurelius Antoninus, with the Manual of Epictetus and a Summary of Christian Morality, freely translated from the original Greek (London: Longman, Brown, Green and Longmans, 1844)",
    "tr. Henry M'Cormac"
+  ],
+  "marcus-aurelius-haines-loeb-1916": [
+   "thecommuningswit00marcuoft",
+   "The Communings with Himself of Marcus Aurelius Antoninus, revised text and translation by C. R. Haines (Loeb, 1916); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_cross_ref": {
@@ -73,7 +77,6 @@
  "_excluded": {
   "pg6920": "Thoughts of Marcus Aurelius (Long): catalogued but serves no text; PG 15877 kept",
   "pg59784": "an index page",
-  "C. R. Haines, Loeb (1916)": "PD in US; pending",
   "meditationsempe00gatagoog": "second copy of the 1749 Foulis vol. I; lower OCR (0.851 vs 0.862)",
   "meditationsempe03gatagoog": "the Foulis translation's third edition (1752), same text as the 1749 held"
  },
@@ -88,7 +91,8 @@
   "marcus-aurelius-rendall": "Gerald H. Rendall",
   "marcus-aurelius-casaubon-everyman": "Meric Casaubon",
   "marcus-aurelius-collier-zimmern-1887": "Jeremy Collier",
-  "marcus-aurelius-mccormac-1844": "henry m'cormac"
+  "marcus-aurelius-mccormac-1844": "henry m'cormac",
+  "marcus-aurelius-haines-loeb-1916": "C. R. Haines"
  },
  "_translator_unchecked": {
   "marcus-aurelius-jackson-1906": "translator on the row (John Jackson (from the catalogue; the scan's title page names no translator)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
@@ -99,7 +103,7 @@
  "_checks": {
   "marcus-aurelius-long": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "George Long",
@@ -111,7 +115,7 @@
   },
   "marcus-aurelius-chrystal": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "George W. Chrystal",
@@ -123,7 +127,7 @@
   },
   "marcus-aurelius-collier": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Jeremy Collier",
@@ -136,7 +140,7 @@
   },
   "marcus-aurelius-rendall": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Gerald H. Rendall",
@@ -149,7 +153,7 @@
   },
   "marcus-aurelius-jackson-1906": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "identity": "ok",
@@ -160,7 +164,7 @@
   },
   "marcus-aurelius-casaubon-everyman": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Meric Casaubon",
@@ -174,7 +178,7 @@
   },
   "marcus-aurelius-collier-1701": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "identity": "ok",
@@ -185,7 +189,7 @@
   },
   "marcus-aurelius-collier-zimmern-1887": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "translator_claimed": "Jeremy Collier",
@@ -198,7 +202,7 @@
   },
   "marcus-aurelius-foulis-1749-v1": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "title_weak": true,
@@ -210,7 +214,7 @@
   },
   "marcus-aurelius-foulis-1749-v2": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "aurelius",
    "identity": "ok",
@@ -221,7 +225,7 @@
   },
   "marcus-aurelius-mccormac-1844": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "antoninus",
    "translator_claimed": "henry m'cormac",
@@ -229,6 +233,19 @@
    "identity": "ok",
    "ia_rights": "ok: published 1844",
    "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "marcus-aurelius-haines-loeb-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "aurelius",
+   "translator_claimed": "C. R. Haines",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }

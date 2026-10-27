@@ -1,0 +1,32 @@
+{
+ "_about": "Thomas Dwight Goodell (1854-1920), Professor of Greek at Yale, raw IA OCR of Athenian Tragedy: a Study in Popular Art (Yale Classical Series I; New Haven: Yale University Press, 1920; US public domain by date). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Thomas Dwight Goodell (1854-1920)",
+ "_name_words": [
+  "goodell"
+ ],
+ "_surname": [
+  "thomas dwight goodell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "t-d-goodell-athenian-tragedy-1920": [
+   "atheniantragedys00gooduoft",
+   "Athenian Tragedy: a Study in Popular Art, by Thomas Dwight Goodell (Yale Classical Series I; New Haven: Yale University Press; London: Humphrey Milford, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "t-d-goodell-athenian-tragedy-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas dwight goodell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

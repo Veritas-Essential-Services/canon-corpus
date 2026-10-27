@@ -1,0 +1,32 @@
+{
+ "_about": "Benjamin Powell (d. 1905), Cornell, raw IA OCR of his posthumously published dissertation on Erichthonius (1906).  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Benjamin Powell",
+ "_name_words": [
+  "powell"
+ ],
+ "_surname": [
+  "benjamin powell"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "benjamin-powell-erichthonius-daughters-of-cecrops-1906": [
+   "erichthoniusand01powgoog",
+   "Erichthonius and the Three Daughters of Cecrops, by Benjamin Powell (Cornell dissertation, 1904; Ithaca, N.Y.: Andrus and Church, 1906)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "benjamin-powell-erichthonius-daughters-of-cecrops-1906": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "benjamin powell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

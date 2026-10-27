@@ -1,5 +1,5 @@
 {
- "_about": "John Fiske (1842-1901) as a philosopher of evolution: Outlines of Cosmic Philosophy (raw IA OCR; vol. I Boston: Osgood, 1875; vol. II London: Macmillan, 1874, the first edition's two issues), and from Project Gutenberg The Unseen World and other essays (1876), The Idea of God as Affected by Modern Knowledge (Houghton Mifflin, 1886), A Century of Science and other essays (1899), Through Nature to God (1900; copyright 1899) and Life Everlasting (1901). Added in round ae: The Destiny of Man viewed in the light of his origin, 15th ed. (Boston: Houghton Mifflin, 1890). US public domain. His histories are left for other shelves. Added in round 2026-10-18cb from Gutenberg: Myths and Myth-Makers, American Political Ideas, Civil Government in the United States and The Meaning of Infancy (a Riverside Educational Monographs reprint of two essays, the first from 1883). His narrative histories of America are left out. No uids minted.",
+ "_about": "John Fiske (1842-1901) as a philosopher of evolution: Outlines of Cosmic Philosophy (raw IA OCR; vol. I Boston: Osgood, 1875; vol. II London: Macmillan, 1874, the first edition's two issues), and from Project Gutenberg The Unseen World and other essays (1876), The Idea of God as Affected by Modern Knowledge (Houghton Mifflin, 1886), A Century of Science and other essays (1899), Through Nature to God (1900; copyright 1899) and Life Everlasting (1901). Added in round ae: The Destiny of Man viewed in the light of his origin, 15th ed. (Boston: Houghton Mifflin, 1890). US public domain. His histories are left for other shelves. Added in round 2026-10-18cb from Gutenberg: Myths and Myth-Makers, American Political Ideas, Civil Government in the United States and The Meaning of Infancy (a Riverside Educational Monographs reprint of two essays, the first from 1883). His narrative histories of America are left out. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "John Fiske",
  "_name_words": [
   "john",
@@ -46,6 +46,10 @@
   "fiske-meaning-of-infancy": [
    12359,
    "The Meaning of Infancy (Riverside Educational Monographs; essays of 1883 and later)"
+  ],
+  "fiske-destiny-of-man-pg": [
+   17239,
+   "The Destiny of Man"
   ]
  },
  "internet_archive": {
@@ -66,7 +70,7 @@
  "_checks": {
   "fiske-unseen-world": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -75,7 +79,7 @@
   },
   "fiske-idea-of-god-1886": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -84,7 +88,7 @@
   },
   "fiske-century-of-science-1899": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -93,7 +97,7 @@
   },
   "fiske-through-nature-to-god-1900": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -102,7 +106,7 @@
   },
   "fiske-life-everlasting-1901": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -111,7 +115,7 @@
   },
   "fiske-myths-and-myth-makers": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -120,7 +124,7 @@
   },
   "fiske-american-political-ideas": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -129,7 +133,7 @@
   },
   "fiske-civil-government": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -138,7 +142,16 @@
   },
   "fiske-meaning-of-infancy": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fiske",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fiske-destiny-of-man-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -147,7 +160,7 @@
   },
   "fiske-outlines-of-cosmic-philosophy-1875-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",
@@ -158,7 +171,7 @@
   },
   "fiske-outlines-of-cosmic-philosophy-1874-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -169,7 +182,7 @@
   },
   "fiske-destiny-of-man-1890": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "fiske",
    "identity": "ok",

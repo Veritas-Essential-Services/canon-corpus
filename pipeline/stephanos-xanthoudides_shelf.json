@@ -1,0 +1,38 @@
+{
+ "_about": "Stephanos Xanthoudides (1864-1928), Cretan archaeologist, raw IA OCR of The Vaulted Tombs of Mesara in J. P. Droop's translation (1924).  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Stephanos Xanthoudides",
+ "_name_words": [
+  "xanthoudides"
+ ],
+ "_surname": [
+  "stephanos xanthoudides"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stephanos-xanthoudides-vaulted-tombs-of-mesara-1924": [
+   "vaultedtombsofme00xant",
+   "The Vaulted Tombs of Mesara: an account of some early cemeteries of southern Crete, by Stephanos Xanthoudides, translated by J. P. Droop (Liverpool: University Press of Liverpool; London: Hodder and Stoughton, 1924)",
+   "tr. J. P. Droop"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "stephanos-xanthoudides-vaulted-tombs-of-mesara-1924": "J. P. Droop"
+ },
+ "_checks": {
+  "stephanos-xanthoudides-vaulted-tombs-of-mesara-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephanos xanthoudides",
+   "translator_claimed": "J. P. Droop",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

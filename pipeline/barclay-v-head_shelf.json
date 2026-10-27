@@ -1,0 +1,42 @@
+{
+ "_about": "Barclay V. Head (1844-1914), Keeper of Coins at the British Museum: Historia Numorum, a Manual of Greek Numismatics, new and enlarged ed. (1911). Greek-heavy; kept per Adam's 2026-10-23 ruling. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Barclay Vincent Head (1844-1914)",
+ "_name_words": [
+  "head",
+  "historia",
+  "numorum",
+  "greek",
+  "numismatics",
+  "coins"
+ ],
+ "_surname": [
+  "barclay v. head",
+  "barclay vincent head",
+  "b. v. head",
+  "barclay head"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "head-historia-numorum-1911": [
+   "historianumorumm00head",
+   "Historia Numorum: a Manual of Greek Numismatics, new and enlarged ed. (1911)"
+  ]
+ },
+ "_excluded": {
+  "Historia Numorum, 1st ed. (1887)": "superseded by the 1911 edition"
+ },
+ "_checks": {
+  "head-historia-numorum-1911": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "barclay v. head",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

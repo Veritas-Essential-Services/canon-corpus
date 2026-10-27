@@ -1,0 +1,33 @@
+{
+ "_about": "Frank Cole Babbitt (1867-1935), Trinity College Hartford, raw IA OCR of A Grammar of Attic and Ionic Greek (1902); not Ellen Babbitt, whose shelf is babbitt. Greek grammar and the study of the language (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Frank Cole Babbitt",
+ "_name_words": [
+  "babbitt"
+ ],
+ "_surname": [
+  "frank cole babbitt",
+  "babbitt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "frank-cole-babbitt-grammar-attic-ionic-1902": [
+   "grammarofatticio00babbuoft",
+   "A Grammar of Attic and Ionic Greek, by Frank Cole Babbitt (New York, Cincinnati, Chicago: American Book Company; copyright 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "frank-cole-babbitt-grammar-attic-ionic-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank cole babbitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "[1902]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

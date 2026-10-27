@@ -1,0 +1,32 @@
+{
+ "_about": "Edward Spencer Beesly (1831-1915), positivist and Professor of History at University College London, raw IA OCR of Catiline, Clodius, and Tiberius (1878); not A. H. Beesly, whose shelf is a-h-beesly. Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Edward Spencer Beesly",
+ "_name_words": [
+  "beesly"
+ ],
+ "_surname": [
+  "edward spencer beesly"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "e-s-beesly-catiline-clodius-tiberius-1878": [
+   "catilineclodiust00beesuoft",
+   "Catiline, Clodius, and Tiberius, by Edward Spencer Beesly (London: Chapman and Hall, 1878)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "e-s-beesly-catiline-clodius-tiberius-1878": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward spencer beesly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

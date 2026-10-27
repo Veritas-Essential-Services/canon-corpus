@@ -1,0 +1,38 @@
+{
+ "_about": "John G. Sheppard (1816-1869), headmaster of Kidderminster: The Fall of Rome and the Rise of the New Nationalities (1861; this printing 1892). His school manuals are excluded. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "John George Sheppard (1816-1869)",
+ "_name_words": [
+  "sheppard",
+  "fall",
+  "rome",
+  "nationalities"
+ ],
+ "_surname": [
+  "john g. sheppard",
+  "j. g. sheppard",
+  "john george sheppard",
+  "sheppard"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sheppard-fall-of-rome": [
+   "fallofromeriseof00shepuoft",
+   "The Fall of Rome and the Rise of the New Nationalities: a Series of Lectures (1861; this printing 1892)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sheppard-fall-of-rome": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sheppard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

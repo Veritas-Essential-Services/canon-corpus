@@ -1,0 +1,472 @@
+{
+ "_about": "Charles Rollin (1661-1741), rector of the University of Paris, in the standard anonymous English translations: the Ancient History in the six-volume London edition (Vol. I clean Gutenberg from the 1850 Longman printing; Vols. II, IV-VI from the same 1850 printing and Vol. III from William Tegg's 1851 issue, which divides the books identically: I-III, IV-VII, VIII-XII, XIII-XVI, XVII-XIX, XX-XXIV); the History of the Arts and Sciences of the Antients (1768, 3 vols); the Roman History to Actium (London 1754, 16 vols; Rollin died in 1741 mid-work and Crevier finished it: Vol. IX's title page reads 'continued and completed by Mr Crevier', and Vols. IX-XVI are tagged so; this second edition calls itself 'translated from the French'); and the Method of Teaching and Studying the Belles Lettres (1778, 4 vols). Eighteenth-century volumes are ECCO-style scans with long-s OCR. Classical scholarship (lane B, round dg). Raw IA OCR except Vol. I of the Ancient History. No uids minted.",
+ "_author": "Charles Rollin (1661-1741), with Jean-Baptiste-Louis Crevier (1693-1765)",
+ "_name_words": [
+  "rollin",
+  "charles",
+  "crevier",
+  "history",
+  "ancient",
+  "antient",
+  "roman"
+ ],
+ "_surname": [
+  "rollin",
+  "crevier"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rollin-ancient-history-v1": [
+   28558,
+   "The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. I (London: Longman and Co., 1850), Books I-III"
+  ]
+ },
+ "internet_archive": {
+  "rollin-ancient-history-v2": [
+   "ancienthistorye05unkngoog",
+   "The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. II (London: Longman and Co., 1850), Books IV-VII"
+  ],
+  "rollin-ancient-history-v3": [
+   "ancienthistorye28rollgoog",
+   "The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. III (London: William Tegg and Co., 1851), Books VIII-XII"
+  ],
+  "rollin-ancient-history-v4": [
+   "ancienthistorye45rollgoog",
+   "The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. IV (London: Longman and Co., 1850), Books XIII-XVI"
+  ],
+  "rollin-ancient-history-v5": [
+   "ancienthistorye34rollgoog",
+   "The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. V (London: Longman and Co., 1850), Books XVII-XIX"
+  ],
+  "rollin-ancient-history-v6": [
+   "ancienthistorye36rollgoog",
+   "The Ancient History of the Egyptians, Carthaginians, Assyrians, Babylonians, Medes and Persians, Macedonians and Grecians, Vol. VI (London: Longman and Co., 1850), Books XX-XXIV"
+  ],
+  "rollin-arts-sciences-antients-v1": [
+   "bim_eighteenth-century_the-history-of-the-arts-_rollin-charles_1768_1",
+   "The History of the Arts and Sciences of the Antients, Vol. 1 of 3 (London: Rivington, 1768)"
+  ],
+  "rollin-arts-sciences-antients-v2": [
+   "bim_eighteenth-century_the-history-of-the-arts-_rollin-charles_1768_2",
+   "The History of the Arts and Sciences of the Antients, Vol. 2 of 3 (London: Rivington, 1768)"
+  ],
+  "rollin-arts-sciences-antients-v3": [
+   "bim_eighteenth-century_the-history-of-the-arts-_rollin-charles_1768_3",
+   "The History of the Arts and Sciences of the Antients, Vol. 3 of 3 (London: Rivington, 1768)"
+  ],
+  "rollin-roman-history-v01": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_1",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 1 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v02": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_2",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 2 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v03": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_3",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 3 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v04": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_4",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 4 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v05": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_5",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 5 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v06": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_6",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 6 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v07": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_7",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 7 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v08": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_8",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 8 of 16 (London: Knapton, 1754)"
+  ],
+  "rollin-roman-history-v09": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_9",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 9 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-roman-history-v10": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_10",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 10 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-roman-history-v11": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_11",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 11 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-roman-history-v12": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_12",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 12 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-roman-history-v13": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_13",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 13 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-roman-history-v14": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_14",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 14 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-roman-history-v15": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_15",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 15 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-roman-history-v16": [
+   "bim_eighteenth-century_the-roman-history_rollin-charles_1754_16",
+   "The Roman History from the Foundation of Rome to the Battle of Actium, Vol. 16 of 16 (London: Knapton, 1754) (continued by Crevier)"
+  ],
+  "rollin-method-teaching-belles-lettres-v1": [
+   "bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_1",
+   "The Method of Teaching and Studying the Belles Lettres, Vol. 1 of 4 (1778; Vol. IV's imprint reads Dublin)"
+  ],
+  "rollin-method-teaching-belles-lettres-v2": [
+   "bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_2",
+   "The Method of Teaching and Studying the Belles Lettres, Vol. 2 of 4 (1778; Vol. IV's imprint reads Dublin)"
+  ],
+  "rollin-method-teaching-belles-lettres-v3": [
+   "bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_3",
+   "The Method of Teaching and Studying the Belles Lettres, Vol. 3 of 4 (1778; Vol. IV's imprint reads Dublin)"
+  ],
+  "rollin-method-teaching-belles-lettres-v4": [
+   "bim_eighteenth-century_the-method-of-teaching-a_rollin-charles_1778_4",
+   "The Method of Teaching and Studying the Belles Lettres, Vol. 4 of 4 (1778; Vol. IV's imprint reads Dublin)"
+  ]
+ },
+ "_excluded": {
+  "ancienthistorye40rollgoog": "1850 Longman Vol. I: Gutenberg 28558 is the clean text of the same printing",
+  "romanhistoryfrom01roll": "1768 Rivington Roman History (John Adams's set): Vol. 7 is missing on IA and its OCR is weaker than the 1754 set's"
+ },
+ "_identity_checked": {
+  "rollin-roman-history-v06": {
+   "author": "title page read from the IA page image n1 (2026-10-23): The Roman History from the Foundation of Rome to the Battle of Actium, by Mr Rollin, Vol. VI, second edition, London: J. and P. Knapton, 1754; its OCR is lost to show-through"
+  },
+  "rollin-roman-history-v13": {
+   "author": "title page read from the IA page image n1 (2026-10-23): The Roman History ... Vol. XIII, by Mr Crevier, being the continuation of Mr Rollin's work, second edition, London: Knapton, 1754; its OCR is lost to show-through"
+  },
+  "rollin-method-teaching-belles-lettres-v4": {
+   "author": "title page read from the IA page image n1 (2026-10-23): The Method of Teaching and Studying the Belles Lettres, Vol. IV (Rollin's title; the contents continue Vol. III's Part III, Of Profane History); its OCR is lost to show-through"
+  }
+ },
+ "_checks": {
+  "rollin-ancient-history-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rollin-ancient-history-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rollin-ancient-history-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rollin-ancient-history-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rollin-ancient-history-v5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rollin-ancient-history-v6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rollin-arts-sciences-antients-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-arts-sciences-antients-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-arts-sciences-antients-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v01": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v02": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v03": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v04": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v05": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v06": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v07": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v08": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v09": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v10": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v11": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v12": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v13": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v14": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v15": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-roman-history-v16": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "crevier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-method-teaching-belles-lettres-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-method-teaching-belles-lettres-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-method-teaching-belles-lettres-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rollin-method-teaching-belles-lettres-v4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1778",
+   "ia_date": "1778",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

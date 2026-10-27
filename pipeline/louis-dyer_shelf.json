@@ -1,0 +1,32 @@
+{
+ "_about": "Louis Dyer (1851-1908), late of Harvard, raw IA OCR of his Lowell lectures on the gods at excavated Greek sanctuaries (1891). Not T. H. Dyer, whose shelf is dyer.  Greek antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Louis Dyer",
+ "_name_words": [
+  "dyer"
+ ],
+ "_surname": [
+  "louis dyer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "louis-dyer-studies-of-the-gods-in-greece-1891": [
+   "studiesofthegods00dyeruoft",
+   "Studies of the Gods in Greece at Certain Sanctuaries Recently Excavated: eight Lowell lectures given in 1890, by Louis Dyer (London and New York: Macmillan and Co., 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "louis-dyer-studies-of-the-gods-in-greece-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis dyer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

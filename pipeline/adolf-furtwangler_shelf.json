@@ -1,0 +1,62 @@
+{
+ "_about": "Adolf Furtwängler (1853-1907), German archaeologist: Masterpieces of Greek Sculpture, ed. and tr. Eugénie Sellers (1895). His German works were not Englished. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.  Round ea adds the Furtwangler-Urlichs Greek and Roman Sculpture (tr. Horace Taylor, 1914).",
+ "_author": "Adolf Furtwängler (1853-1907)",
+ "_name_words": [
+  "furtwangler",
+  "furtwängler",
+  "greek",
+  "sculpture",
+  "masterpieces",
+  "sellers"
+ ],
+ "_surname": [
+  "furtwangler",
+  "furtwängler"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "furtwangler-masterpieces-greek-sculpture-1895": [
+   "masterpiecesofgr00furtuoft",
+   "Masterpieces of Greek Sculpture: a Series of Essays on the History of Art (1895), ed. and tr. Eugénie Sellers"
+  ],
+  "adolf-furtwangler-urlichs-greek-roman-sculpture-1914": [
+   "greekromansculpt00furt",
+   "Greek and Roman Sculpture, by A. Furtwangler and H. L. Urlichs, translated by Horace Taylor (London: J. M. Dent and Sons; New York: E. P. Dutton, 1914)",
+   "tr. Horace Taylor"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "furtwangler-masterpieces-greek-sculpture-1895": "Sellers",
+  "adolf-furtwangler-urlichs-greek-roman-sculpture-1914": "Horace Taylor"
+ },
+ "_checks": {
+  "furtwangler-masterpieces-greek-sculpture-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "furtwangler",
+   "translator_claimed": "Sellers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adolf-furtwangler-urlichs-greek-roman-sculpture-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "furtwangler",
+   "translator_claimed": "Horace Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

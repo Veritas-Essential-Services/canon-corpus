@@ -1,0 +1,50 @@
+{
+ "_about": "W. H. Thompson (1810-1886), Regius Professor of Greek and Master of Trinity College, Cambridge: The Phaedrus of Plato, with English notes and dissertations (Bibliotheca Classica; London: Whittaker; George Bell, 1868) and The Gorgias of Plato, with English notes, introduction and appendix (1871), raw IA. Greek text with English commentary, kept per Adam's 2026-10-23 ruling on text-facing editions.",
+ "_author": "William Hepworth Thompson (1810-1886)",
+ "_name_words": [
+  "thompson",
+  "plato"
+ ],
+ "_surname": [
+  "w. h. thompson",
+  "william hepworth thompson",
+  "thompson, w. h"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "w-h-thompson-phaedrus-1868": [
+   "phaedrusofplato00plat",
+   "The Phaedrus of Plato, with English notes and dissertations (Bibliotheca Classica; London: Whittaker; George Bell, 1868)"
+  ],
+  "w-h-thompson-gorgias-1871": [
+   "gorgiaswithengli00platuoft",
+   "The Gorgias of Plato, with English notes, introduction and appendix (Bibliotheca Classica; London: Whittaker; George Bell, 1871)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "w-h-thompson-phaedrus-1868": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. thompson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "w-h-thompson-gorgias-1871": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. thompson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

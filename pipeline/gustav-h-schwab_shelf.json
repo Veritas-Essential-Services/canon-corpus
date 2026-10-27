@@ -1,0 +1,33 @@
+{
+ "_about": "Gustav H. Schwab (1851-1912), New York merchant, raw IA OCR of An Archaeological Cruise in the Levant, a privately printed diary (copyright 1904). Classical topography (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Gustav H. Schwab",
+ "_name_words": [
+  "schwab"
+ ],
+ "_surname": [
+  "gustav h. schwab",
+  "schwab"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gustav-h-schwab-archaeological-cruise-levant-1904": [
+   "archologicalcr00schw",
+   "An Archaeological Cruise in the Levant: diary of a trip to the ancient art-centres of Greece, Asia Minor, the Aegean islands and Sicily, by Gustav H. Schwab (printed for private distribution, copyright 1904)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gustav-h-schwab-archaeological-cruise-levant-1904": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gustav h. schwab",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

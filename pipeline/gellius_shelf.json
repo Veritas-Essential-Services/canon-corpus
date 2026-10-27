@@ -126,5 +126,8 @@
    "ia_possible_copyright_status": null,
    "ia_lending": null
   }
+ },
+ "_held": {
+  "gellius-perseus-rolfe-attic-nights": "Perseus TEI phi1254.phi001.perseus-eng1 (Attic Nights, tr. John C. Rolfe) is already in the PERSEUS manifest of fetch_sources.py on PR #7 (claude/project-thread-hxenem); not fetched twice (2026-10-23)"
  }
 }

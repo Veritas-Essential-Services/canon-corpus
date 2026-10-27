@@ -1,0 +1,45 @@
+{
+ "_about": "Maurice Pellisson (1850-1915), French classicist: Roman Life in Pliny's Time, tr. Maud Wilkinson, introd. Frank Justus Miller (1897). Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Maurice Pellisson (1850-1915)",
+ "_name_words": [
+  "pellisson",
+  "roman",
+  "life",
+  "pliny"
+ ],
+ "_surname": [
+  "pellisson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pellisson-roman-life-plinys-time-1897": [
+   "romanlifeinplin00pellgoog",
+   "Roman Life in Pliny's Time (1897), tr. Maud Wilkinson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "pellisson-roman-life-plinys-time-1897": "Wilkinson"
+ },
+ "_checks": {
+  "pellisson-roman-life-plinys-time-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "Wilkinson",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "pellisson-roman-life-plinys-time-1897": {
+   "author": "title page read 2026-10-23: 'ROMAN LIFE IN PLINY'S TIME By MAURICE PELLISON Translated from the French by MAUD WILKINSON' (the title page drops one s of Pellisson)"
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "James Bonar (1852-1941), Scottish economist and historian of economic thought. Not Andrew or Horatius Bonar (shelves andrew-bonar, horatius-bonar). Raw IA OCR: Parson Malthus (Glasgow: James Maclehose, 1881), Malthus and His Work (London: Macmillan, 1885), Philosophy and Political Economy in some of their historical relations (London: Swan Sonnenschein, 1893; the OCR reads the year 'i«93'), The Intellectual Virtues, a lecture of 1893 (London: Macmillan, 1894), Elements of Political Economy (London: John Murray, 1903) and Disturbing Elements in the Study and Teaching of Political Economy (Baltimore: Johns Hopkins, 1911). Not taken: The Moral Sense (1930), and his editions of Ricardo's letters and Adam Smith's library catalogue, which are mostly other men's words. US public domain. No uids minted.",
+ "_about": "James Bonar (1852-1941), Scottish economist and historian of economic thought. Not Andrew or Horatius Bonar (shelves andrew-bonar, horatius-bonar). Raw IA OCR: Parson Malthus (Glasgow: James Maclehose, 1881), Malthus and His Work (London: Macmillan, 1885), Philosophy and Political Economy in some of their historical relations (London: Swan Sonnenschein, 1893; the OCR reads the year 'i«93'), The Intellectual Virtues, a lecture of 1893 (London: Macmillan, 1894), Elements of Political Economy (London: John Murray, 1903) and Disturbing Elements in the Study and Teaching of Political Economy (Baltimore: Johns Hopkins, 1911). Not taken: The Moral Sense (1930), and his editions of Ricardo's letters and Adam Smith's library catalogue, which are mostly other men's words. US public domain. No uids minted. Added 2026-10-23: clean Gutenberg witnesses (slugs ending -pg) beside the raw OCR of the same works.",
  "_author": "James Bonar",
  "_name_words": [
   "james",
@@ -10,7 +10,12 @@
   "bonar"
  ],
  "ccel": {},
- "gutenberg": {},
+ "gutenberg": {
+  "bonar-malthus-and-his-work-pg": [
+   68099,
+   "Malthus and His Work"
+  ]
+ },
  "internet_archive": {
   "bonar-parson-malthus-1881": [
    "parsonmalthus00bonauoft",
@@ -47,9 +52,18 @@
   }
  },
  "_checks": {
+  "bonar-malthus-and-his-work-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james bonar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
   "bonar-parson-malthus-1881": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "bonar",
    "identity": "ok",
@@ -60,7 +74,7 @@
   },
   "bonar-malthus-and-his-work-1885": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -71,7 +85,7 @@
   },
   "bonar-philosophy-and-political-economy-1893": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james bonar",
    "identity": "ok",
@@ -82,7 +96,7 @@
   },
   "bonar-intellectual-virtues-1894": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james bonar",
    "identity": "ok",
@@ -93,7 +107,7 @@
   },
   "bonar-elements-political-economy-1903": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james bonar",
    "identity": "ok",
@@ -104,7 +118,7 @@
   },
   "bonar-disturbing-elements-1911": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "james bonar",
    "identity": "ok",

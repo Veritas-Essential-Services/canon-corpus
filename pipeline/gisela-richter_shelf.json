@@ -1,0 +1,48 @@
+{
+ "_about": "Gisela Marie Augusta Richter (1882-1972), curator of classical art at the Metropolitan Museum, raw IA OCR of two books (1920, 1923); published before 1930, so US public domain. Not J. P. Richter, whose shelf is jp-richter.  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Gisela M. A. Richter",
+ "_name_words": [
+  "richter"
+ ],
+ "_surname": [
+  "gisela m. a. richter",
+  "richter"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gisela-richter-handbook-classical-collection-3rd-ed-1920": [
+   "handbookofclassi00metr",
+   "Handbook of the Classical Collection, by Gisela M. A. Richter, third edition (New York: The Metropolitan Museum of Art, 1920)"
+  ],
+  "gisela-richter-craft-of-athenian-pottery-1923": [
+   "craftofathenianp00rich",
+   "The Craft of Athenian Pottery: an investigation of the technique of black-figured and red-figured Athenian vases, by Gisela M. A. Richter (copyright 1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "gisela-richter-handbook-classical-collection-3rd-ed-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920, c1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gisela-richter-craft-of-athenian-pottery-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gisela m. a. richter",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

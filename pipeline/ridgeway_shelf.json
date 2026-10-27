@@ -1,5 +1,5 @@
 {
- "_about": "William Ridgeway (1853-1926), Disney Professor of Archaeology at Cambridge: The Origin of Metallic Currency and Weight Standards (clean Gutenberg), The Early Age of Greece vol. I (Cambridge, 1901) and The Origin of Tragedy (Cambridge, 1910), raw IA OCR. Vol. II of The Early Age of Greece appeared only in 1931 and is not yet public domain in the US, so it is not taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "William Ridgeway (1853-1926), Disney Professor of Archaeology at Cambridge: The Origin of Metallic Currency and Weight Standards (clean Gutenberg), The Early Age of Greece vol. I (Cambridge, 1901) and The Origin of Tragedy (Cambridge, 1910), raw IA OCR. Vol. II of The Early Age of Greece appeared only in 1931 and is not yet public domain in the US, so it is not taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round dx (2026-10-23) added, raw IA OCR with title pages read: Who were the Romans? (British Academy, 1907); The Dramas and Dramatic Dances of Non-European Races (Cambridge, 1915). Not taken: The Early Age of Greece vol. II, published posthumously in 1931.",
  "_name_words": [
   "ridgeway"
  ],
@@ -22,12 +22,20 @@
   "ridgeway-origin-tragedy-1910": [
    "cu31924022692853",
    "The Origin of Tragedy, with special reference to the Greek tragedians (Cambridge: University Press, 1910)"
+  ],
+  "ridgeway-who-were-the-romans-1907": [
+   "whowereromans00ridggoog",
+   "Who were the Romans? by William Ridgeway, read 24 April 1907, from the Proceedings of the British Academy vol. III (London: published for the British Academy by Henry Frowde, Oxford University Press)"
+  ],
+  "ridgeway-dramas-dramatic-dances-1915": [
+   "dramasdramaticda00ridguoft",
+   "The Dramas and Dramatic Dances of Non-European Races, in special reference to the origin of Greek tragedy, by William Ridgeway (Cambridge: University Press, 1915)"
   ]
  },
  "_checks": {
   "ridgeway-metallic-currency": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william ridgeway",
    "identity": "ok",
@@ -36,7 +44,7 @@
   },
   "ridgeway-early-age-greece-v1-1901": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william ridgeway",
    "identity": "ok",
@@ -47,13 +55,35 @@
   },
   "ridgeway-origin-tragedy-1910": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "william ridgeway",
    "identity": "ok",
    "ia_rights": "ok: published 1910",
    "ia_date": "1910",
    "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ridgeway-who-were-the-romans-1907": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william ridgeway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ridgeway-dramas-dramatic-dances-1915": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william ridgeway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
    "ia_lending": null
   }
  }

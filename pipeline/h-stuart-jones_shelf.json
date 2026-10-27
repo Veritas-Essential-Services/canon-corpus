@@ -1,0 +1,99 @@
+{
+ "_about": "Sir Henry Stuart Jones (1867-1939), director of the British School at Rome and reviser of Liddell and Scott: Select Passages from Ancient Writers Illustrative of the History of Greek Sculpture (1895, Greek and Latin with English translation), The Roman Empire, B.C. 29-A.D. 476 (Story of the Nations, 1908), Classical Rome (Grant Allen's Historical Guides, 1910), Companion to Roman History (Oxford, 1912) and Fresh Light on Roman Bureaucracy (1920). His Oxford Thucydides is Greek only. Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_author": "Sir Henry Stuart Jones (1867-1939)",
+ "_name_words": [
+  "jones",
+  "stuart",
+  "henry",
+  "roman",
+  "sculpture"
+ ],
+ "_surname": [
+  "stuart jones",
+  "h. stuart jones",
+  "henry stuart jones"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jones-select-passages-greek-sculpture-1895": [
+   "selectpassagesfr00joneuoft",
+   "Select Passages from Ancient Writers Illustrative of the History of Greek Sculpture (London: Macmillan, 1895)"
+  ],
+  "jones-roman-empire-1908": [
+   "in.ernet.dli.2015.170963",
+   "The Roman Empire, B.C. 29-A.D. 476 (London: Fisher Unwin, 1908)",
+   "2015.170963.The-Roman-Empire-B-C-29-A-D-476_djvu.txt"
+  ],
+  "jones-classical-rome-1910": [
+   "classicalrome00jonerich",
+   "Classical Rome (Grant Allen's Historical Guides, 1910)"
+  ],
+  "jones-companion-roman-history-1912": [
+   "companiontoroman00jone",
+   "Companion to Roman History (Oxford: Clarendon Press, 1912)"
+  ],
+  "jones-fresh-light-roman-bureaucracy-1920": [
+   "freshlightonroma0000jone",
+   "Fresh Light on Roman Bureaucracy (Oxford, 1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "jones-select-passages-greek-sculpture-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stuart jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-roman-empire-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stuart jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-classical-rome-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stuart jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jones-companion-roman-history-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stuart jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jones-fresh-light-roman-bureaucracy-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stuart jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

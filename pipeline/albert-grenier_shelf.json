@@ -1,0 +1,38 @@
+{
+ "_about": "Albert Grenier (1878-1961), French archaeologist, in the History of Civilization series (Kegan Paul / Knopf): The Roman Spirit in Religion, Thought, and Art (1926). The translator is not named in the OCR, so none is claimed. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Albert Grenier (1878-1961)",
+ "_name_words": [
+  "grenier",
+  "roman",
+  "spirit",
+  "religion",
+  "thought",
+  "art"
+ ],
+ "_surname": [
+  "albert grenier",
+  "grenier"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grenier-roman-spirit-1926": [
+   "romanspiritinrel00gren",
+   "The Roman Spirit in Religion, Thought, and Art (1926)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "grenier-roman-spirit-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "albert grenier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

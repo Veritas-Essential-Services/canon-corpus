@@ -1,0 +1,32 @@
+{
+ "_about": "Emile Thomas, Professor at Lille, raw IA OCR of the English edition of Roman Life under the Caesars (1899).  Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Emile Thomas",
+ "_name_words": [
+  "thomas"
+ ],
+ "_surname": [
+  "emile thomas"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "emile-thomas-roman-life-under-the-caesars-1899": [
+   "romanlifeunderca00thom",
+   "Roman Life under the Caesars, by Emile Thomas, Professor at the University of Lille (London: T. Fisher Unwin, 1899; no translator named in the OCR)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "emile-thomas-roman-life-under-the-caesars-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "emile thomas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "_about": "John Cuthbert Lawson (1874-1935), Pembroke College, Cambridge, raw IA OCR of Modern Greek Folklore and Ancient Greek Religion (1910).  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "John Cuthbert Lawson",
+ "_name_words": [
+  "lawson"
+ ],
+ "_surname": [
+  "john cuthbert lawson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "j-c-lawson-modern-greek-folklore-ancient-greek-religion-1910": [
+   "moderngreekfolkl00laws",
+   "Modern Greek Folklore and Ancient Greek Religion: a study in survivals, by John Cuthbert Lawson (Cambridge: University Press; preface dated December 1909, IA catalogues 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "j-c-lawson-modern-greek-folklore-ancient-greek-religion-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john cuthbert lawson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

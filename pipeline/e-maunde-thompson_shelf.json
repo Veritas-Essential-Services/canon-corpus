@@ -1,0 +1,52 @@
+{
+ "_about": "Sir Edward Maunde Thompson (1840-1929), Principal Librarian of the British Museum: Handbook of Greek and Latin Palaeography (1893) and its enlarged successor, An Introduction to Greek and Latin Palaeography (Oxford, 1912). His English chronicle editions are outside lane B. Classical scholarship (lane B, round dj). Raw IA OCR. No uids minted.",
+ "_author": "Sir Edward Maunde Thompson (1840-1929)",
+ "_name_words": [
+  "thompson",
+  "maunde",
+  "edward",
+  "palaeography"
+ ],
+ "_surname": [
+  "maunde thompson",
+  "e. m. thompson",
+  "edward maunde thompson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thompson-handbook-greek-latin-palaeography-1893": [
+   "handbookgreekan01thomgoog",
+   "Handbook of Greek and Latin Palaeography (London: Kegan Paul, 1893)"
+  ],
+  "thompson-introduction-greek-latin-palaeography-1912": [
+   "greeklatin00thomuoft",
+   "An Introduction to Greek and Latin Palaeography (Oxford: Clarendon Press, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thompson-handbook-greek-latin-palaeography-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maunde thompson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thompson-introduction-greek-latin-palaeography-1912": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maunde thompson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

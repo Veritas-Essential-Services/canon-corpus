@@ -1,0 +1,83 @@
+{
+ "_about": "E. M. Cope (Edward Meredith Cope, 1818-1873), Fellow of Trinity College, Cambridge. Classical scholarship (lane B). Raw IA OCR: An Introduction to Aristotle's Rhetoric, with analysis, notes and appendices (London and Cambridge: Macmillan, 1867; Toronto scan) and The Rhetoric of Aristotle with a Commentary, revised and edited by J. E. Sandys (Cambridge University Press, 1877, 3 vols.; Greek text with English commentary, vol. I Greek-heavy). His Gorgias (1864) and Phaedo (1875) translations are on the plato shelf. Not taken: the 1970 reprint scans of the Rhetoric. US public domain. No uids minted.",
+ "_author": "E. M. Cope",
+ "_name_words": [
+  "edward",
+  "meredith",
+  "cope"
+ ],
+ "_surname": [
+  "e. m. cope",
+  "edward meredith cope"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cope-introduction-aristotles-rhetoric-1867": [
+   "introductiontoar00copeuoft",
+   "An Introduction to Aristotle's Rhetoric (Macmillan, 1867)"
+  ],
+  "cope-rhetoric-of-aristotle-1-1877": [
+   "therhetoricofari01arisuoft",
+   "The Rhetoric of Aristotle with a Commentary, vol. I (Cambridge, 1877)"
+  ],
+  "cope-rhetoric-of-aristotle-2-1877": [
+   "herhetoricofaris02arisuoft",
+   "The Rhetoric of Aristotle with a Commentary, vol. II (Cambridge, 1877)"
+  ],
+  "cope-rhetoric-of-aristotle-3-1877": [
+   "rhetoricaristot11sandgoog",
+   "The Rhetoric of Aristotle with a Commentary, vol. III (Cambridge, 1877)"
+  ]
+ },
+ "_excluded": {
+  "IA herhetoricofaris03arisuoft": "vol. III text layer is Greek-only OCR (no English recovered); the Google scan of an 1877 copy used instead",
+  "Plato's Gorgias and Phaedo": "already on the plato shelf (plato-cope-gorgias-1864, plato-cope-phaedo-1875)"
+ },
+ "_checks": {
+  "cope-introduction-aristotles-rhetoric-1867": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. m. cope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cope-rhetoric-of-aristotle-1-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward meredith cope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cope-rhetoric-of-aristotle-2-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward meredith cope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cope-rhetoric-of-aristotle-3-1877": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward meredith cope",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

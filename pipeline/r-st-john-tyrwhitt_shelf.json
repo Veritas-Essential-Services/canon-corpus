@@ -1,0 +1,33 @@
+{
+ "_about": "Richard St. John Tyrwhitt (1827-1895), Oxford art critic, raw IA OCR of Greek and Gothic.  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "R. St. John Tyrwhitt",
+ "_name_words": [
+  "tyrwhitt"
+ ],
+ "_surname": [
+  "st. john tyrwhitt",
+  "tyrwhitt"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "r-st-john-tyrwhitt-greek-and-gothic": [
+   "greekandgothicp00tyrwgoog",
+   "Greek and Gothic: progress and decay in the three arts of architecture, sculpture, and painting, by the Rev. R. St. John Tyrwhitt (London: Walter Smith; no year legible in the OCR, IA catalogues 1881)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "r-st-john-tyrwhitt-greek-and-gothic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "st. john tyrwhitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

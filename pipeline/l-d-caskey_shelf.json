@@ -1,0 +1,32 @@
+{
+ "_about": "Lacey Davis Caskey (1880-1944), curator of classical antiquities at Boston, raw IA OCR of Geometry of Greek Vases (1922); published before 1930, so US public domain.  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "L. D. Caskey",
+ "_name_words": [
+  "caskey"
+ ],
+ "_surname": [
+  "l. d. caskey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "l-d-caskey-geometry-of-greek-vases-1922": [
+   "geometryofgreekv00cask",
+   "Geometry of Greek Vases: Attic vases in the Museum of Fine Arts analysed according to the principles of proportion discovered by Jay Hambidge, by L. D. Caskey (Boston: Museum of Fine Arts, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "l-d-caskey-geometry-of-greek-vases-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "l. d. caskey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

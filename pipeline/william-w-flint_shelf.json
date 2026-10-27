@@ -1,0 +1,37 @@
+{
+ "_about": "William Woodburn Flint Jr., Princeton, raw IA OCR of his dissertation on myth and suspense in Greek tragedy (1922).  Greek religion and mythology (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "William W. Flint Jr.",
+ "_name_words": [
+  "flint"
+ ],
+ "_surname": [
+  "william w. flint"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "william-w-flint-use-of-myths-suspense-greek-tragedy-1922": [
+   "useofmythstocrea00flinrich",
+   "The Use of Myths to Create Suspense in Extant Greek Tragedy: a dissertation (Princeton University), by William W. Flint Jr. (foreword dated December 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "william-w-flint-use-of-myths-suspense-greek-tragedy-1922": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "william-w-flint-use-of-myths-suspense-greek-tragedy-1922": {
+   "author": "WLLLIAM W. FLINT JR."
+  }
+ }
+}

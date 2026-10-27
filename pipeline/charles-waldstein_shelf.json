@@ -1,0 +1,68 @@
+{
+ "_about": "Charles Waldstein (later Sir Charles Walston, 1856-1927), Cambridge archaeologist, excavator of the Argive Heraeum: Essays on the Art of Pheidias (1885), Herculaneum: Past, Present and Future (with Leonard Shoobridge, 1908), and Greek Sculpture and Modern Art (1914). His political and Ruskin essays are outside lane B; the multi-author Argive Heraeum report is skipped. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Sir Charles Waldstein, later Walston (1856-1927)",
+ "_name_words": [
+  "waldstein",
+  "walston",
+  "pheidias",
+  "herculaneum",
+  "sculpture",
+  "greek"
+ ],
+ "_surname": [
+  "waldstein",
+  "walston"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "waldstein-art-of-pheidias-1885": [
+   "essaysonartofphe00walduoft",
+   "Essays on the Art of Pheidias (1885)"
+  ],
+  "waldstein-herculaneum-1908": [
+   "herculaneumpastp00wald_0",
+   "Herculaneum: Past, Present and Future (1908), with Leonard Shoobridge"
+  ],
+  "waldstein-greek-sculpture-modern-art-1914": [
+   "greeksculpturemo00waldrich",
+   "Greek Sculpture and Modern Art: Two Lectures Delivered to the Students of the Royal Academy (1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "waldstein-art-of-pheidias-1885": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waldstein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "waldstein-herculaneum-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waldstein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waldstein-greek-sculpture-modern-art-1914": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waldstein",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

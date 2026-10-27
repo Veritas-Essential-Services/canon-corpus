@@ -1,0 +1,48 @@
+{
+ "_about": "William Gordon Holmes (1845-1927): The Age of Justinian and Theodora, a History of the Sixth Century A.D. (2 vols, second edition, London: George Bell, 1912). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "William Gordon Holmes (1845-1927)",
+ "_name_words": [
+  "holmes",
+  "william",
+  "gordon",
+  "justinian",
+  "theodora"
+ ],
+ "_surname": [
+  "william gordon holmes",
+  "w. g. holmes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "holmes-age-justinian-theodora-v1": [
+   65337,
+   "The Age of Justinian and Theodora, vol. 1 of 2 (2nd ed., Bell, 1912)"
+  ],
+  "holmes-age-justinian-theodora-v2": [
+   65717,
+   "The Age of Justinian and Theodora, vol. 2 of 2 (2nd ed., Bell, 1912)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "holmes-age-justinian-theodora-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gordon holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "holmes-age-justinian-theodora-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william gordon holmes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

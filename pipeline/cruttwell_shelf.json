@@ -1,5 +1,5 @@
 {
- "_about": "Charles Thomas Cruttwell (1847-1911): A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius, clean Gutenberg. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Charles Thomas Cruttwell (1847-1911): A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius, clean Gutenberg. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round dy (2026-10-23), raw IA: his two-volume Literary History of Early Christianity (London: Charles Griffin, 1893), the companion to his History of Roman Literature.",
  "_name_words": [
   "cruttwell"
  ],
@@ -15,16 +15,47 @@
    "A History of Roman Literature from the Earliest Period to the Death of Marcus Aurelius"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "cruttwell-literary-history-early-christianity-v1-1893": [
+   "literaryhistoryo01crutuoft",
+   "A Literary History of Early Christianity, including the Fathers and the chief heretical writers of the ante-Nicene period, vol. I (London: Charles Griffin, 1893)"
+  ],
+  "cruttwell-literary-history-early-christianity-v2-1893": [
+   "literaryhistoryo02crutuoft",
+   "A Literary History of Early Christianity, including the Fathers and the chief heretical writers of the ante-Nicene period, vol. II (London: Charles Griffin, 1893)"
+  ]
+ },
  "_checks": {
   "cruttwell-history-roman-literature": {
    "kind": "gutenberg",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "charles thomas cruttwell",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "cruttwell-literary-history-early-christianity-v1-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. t. cruttwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cruttwell-literary-history-early-christianity-v2-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles thomas cruttwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  }
 }

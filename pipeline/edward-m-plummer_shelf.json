@@ -1,0 +1,36 @@
+{
+ "_about": "Edward M. Plummer: Athletics and Games of the Ancient Greeks (1898). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Edward Marwick Plummer",
+ "_name_words": [
+  "plummer",
+  "edward",
+  "marwick",
+  "athletics",
+  "games"
+ ],
+ "_surname": [
+  "edward m. plummer",
+  "edward marwick plummer",
+  "e. m. plummer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "plummer-athletics-games-ancient-greeks": [
+   64627,
+   "Athletics and Games of the Ancient Greeks"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "plummer-athletics-games-ancient-greeks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward m. plummer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

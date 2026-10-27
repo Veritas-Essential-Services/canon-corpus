@@ -1,0 +1,39 @@
+{
+ "_about": "Giovanni Teresio Rivoira (1849-1919), Italian architectural historian, raw IA OCR of Roman Architecture in G. McN. Rushforth's English translation (1925); published before 1930, so US public domain. His Lombardic and Moslem architecture books are outside lane B. Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "G. T. Rivoira",
+ "_name_words": [
+  "rivoira"
+ ],
+ "_surname": [
+  "g. t. rivoira",
+  "rivoira"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "g-t-rivoira-roman-architecture-1925": [
+   "romanarchitectur0000rivo",
+   "Roman Architecture and its Principles of Construction under the Empire, with an appendix on the evolution of the dome up to the XVIIth century, by G. T. Rivoira, translated from the Italian by G. McN. Rushforth (Oxford: Clarendon Press, 1925)",
+   "tr. G. McN. Rushforth"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "g-t-rivoira-roman-architecture-1925": "G. McN. Rushforth"
+ },
+ "_checks": {
+  "g-t-rivoira-roman-architecture-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. t. rivoira",
+   "translator_claimed": "G. McN. Rushforth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "_about": "Constantin Ackermann: The Christian Element in Plato and the Platonic Philosophy (Edinburgh: T. & T. Clark, 1861), tr. Samuel Ralph Asbury, from Das Christliche im Plato (1835). Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Constantin Ackermann",
+ "_name_words": [
+  "ackermann",
+  "constantin",
+  "christian",
+  "plato"
+ ],
+ "_surname": [
+  "ackermann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ackermann-christian-element-plato-1861": [
+   "christianelement00acke",
+   "The Christian Element in Plato and the Platonic Philosophy, tr. S. R. Asbury (1861)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "ackermann-christian-element-plato-1861": "Asbury"
+ },
+ "_checks": {
+  "ackermann-christian-element-plato-1861": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ackermann",
+   "translator_claimed": "Asbury",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

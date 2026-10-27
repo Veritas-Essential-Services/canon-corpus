@@ -1,0 +1,82 @@
+{
+ "_about": "T. E. Page (1850-1936), Fellow of St John's College, Cambridge, master at Charterhouse, later first editor of the Loeb Classical Library: school and college editions with English introductions and notes (London: Macmillan), raw IA. Horace, Q. Horati Flacci Carminum Libri IV, the Odes (new edition, 1890; first edition 1883); Virgil, Bucolica et Georgica (1898); The Acts of the Apostles, the Greek text as revised by Westcott and Hort, with explanatory notes (1886); The Acts of the Apostles, with introduction and notes, with A. S. Walpole (1895). Latin and Greek text editions kept per Adam's 2026-10-23 ruling. Not taken: his Aeneid (first edition 1894), because the only scan found (aeneidofvirgil01virg) is a 1950s reprint and the 1960s copies are later still. Classical scholarship (lane B, round dt). No uids minted.",
+ "_author": "Thomas Ethelbert Page (1850-1936)",
+ "_name_words": [
+  "page",
+  "horati",
+  "bucolica",
+  "acts"
+ ],
+ "_surname": [
+  "t. e. page",
+  "thomas ethelbert page",
+  "page, t. e"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "t-e-page-horace-odes-1890": [
+   "qhoratiiflaccica1890hora",
+   "Q. Horati Flacci Carminum Libri IV, the Odes of Horace, with introduction and notes by T. E. Page, new edition (London: Macmillan, 1890; first edition 1883, reprinted 1886, 1889); Latin text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "t-e-page-bucolica-georgica-1898": [
+   "bucolicaetgeorgi00virguoft",
+   "Virgil, Bucolica et Georgica, with introduction and notes by T. E. Page (London and New York: Macmillan, 1898); Latin text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "t-e-page-acts-greek-1886": [
+   "actsofapostlesbe00pagerich",
+   "The Acts of the Apostles, being the Greek text as revised by Drs. Westcott and Hort, with explanatory notes by Thomas Ethelbert Page (London: Macmillan, 1886); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "t-e-page-walpole-acts-1895": [
+   "actsofapostleswi00page",
+   "The Acts of the Apostles, with introduction and notes by T. E. Page and A. S. Walpole (London: Macmillan, 1895)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "t-e-page-horace-odes-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. e. page",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "t-e-page-bucolica-georgica-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. e. page",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "t-e-page-acts-greek-1886": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. e. page",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "t-e-page-walpole-acts-1895": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. e. page",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

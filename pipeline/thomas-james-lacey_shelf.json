@@ -1,0 +1,38 @@
+{
+ "_about": "Thomas James Lacey: A Study of Social Heredity as Illustrated in the Greek People (1916). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Thomas James Lacey (1870-)",
+ "_name_words": [
+  "lacey",
+  "thomas",
+  "james",
+  "social",
+  "heredity",
+  "greek"
+ ],
+ "_surname": [
+  "thomas james lacey",
+  "t. j. lacey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "lacey-social-heredity-greek-people-1916": [
+   "cu31924028255457",
+   "A Study of Social Heredity as Illustrated in the Greek People (1916)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lacey-social-heredity-greek-people-1916": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas james lacey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

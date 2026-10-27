@@ -1,0 +1,60 @@
+{
+ "_about": "Léon Homo (1872-1957), French historian of Rome, in the History of Civilization series (Kegan Paul / Knopf): Primitive Italy and the Beginnings of Roman Imperialism, tr. V. Gordon Childe (1927), and Roman Political Institutions from City to State (1929; tr. M. R. Dobie, whose name the OCR garbles, so no translator is claimed for it). Both first printed before 1930; US public domain. Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Léon Homo (1872-1957)",
+ "_name_words": [
+  "homo",
+  "primitive",
+  "italy",
+  "roman",
+  "political",
+  "institutions"
+ ],
+ "_surname": [
+  "léon homo",
+  "leon homo"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "homo-primitive-italy-1927": [
+   "dli.ministry.18969",
+   "Primitive Italy and the Beginnings of Roman Imperialism (1927), tr. V. Gordon Childe",
+   "E09565_Primitive_Italy_And_The_Beginnings_Of_Roman_Imperialism_djvu.txt"
+  ],
+  "homo-roman-political-institutions-1929": [
+   "dli.ernet.7961",
+   "Roman Political Institutions from City to State (1929), tr. M. R. Dobie",
+   "7961-Roman Political Institutions_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "homo-primitive-italy-1927": "Childe"
+ },
+ "_checks": {
+  "homo-primitive-italy-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leon homo",
+   "translator_claimed": "Childe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "homo-roman-political-institutions-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leon homo",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

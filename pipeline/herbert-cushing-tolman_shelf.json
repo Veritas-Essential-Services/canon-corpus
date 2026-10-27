@@ -1,0 +1,36 @@
+{
+ "_about": "Herbert Cushing Tolman (1865-1923), Vanderbilt: Mycenaean Troy, based on Dörpfeld's excavations in the sixth of the nine buried cities at Hissarlik (1903). Classical scholarship (lane B, round dl: Internet Archive call-number sweep). Raw IA OCR. No uids minted.",
+ "_author": "Herbert Cushing Tolman (1865-1923)",
+ "_name_words": [
+  "tolman",
+  "herbert",
+  "cushing",
+  "mycenaean",
+  "troy"
+ ],
+ "_surname": [
+  "tolman"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tolman-mycenaean-troy-1903": [
+   "cu31924028248650",
+   "Mycenaean Troy (New York: American Book Company, 1903)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tolman-mycenaean-troy-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tolman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

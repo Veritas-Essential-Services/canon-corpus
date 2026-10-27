@@ -1,0 +1,40 @@
+{
+ "_about": "Ph.-E. Legrand: The New Greek Comedy, tr. James Loeb (1917). US public domain by date.",
+ "_author": "Philippe-Ernest Legrand (1866-1953)",
+ "_name_words": [
+  "legrand",
+  "new",
+  "greek",
+  "comedy"
+ ],
+ "_surname": [
+  "legrand"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "legrand-new-greek-comedy-1917": [
+   "newgreekcomedy0000unse",
+   "The New Greek Comedy (1917), tr. James Loeb"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "legrand-new-greek-comedy-1917": "James Loeb"
+ },
+ "_checks": {
+  "legrand-new-greek-comedy-1917": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "legrand",
+   "translator_claimed": "James Loeb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

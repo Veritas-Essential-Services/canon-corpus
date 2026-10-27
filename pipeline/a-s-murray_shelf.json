@@ -1,0 +1,118 @@
+{
+ "_about": "A. S. Murray (1841-1904), Keeper of Greek and Roman Antiquities at the British Museum (not Gilbert Murray): A History of Greek Sculpture (rev. ed., 2 vols., 1890), Handbook of Greek Archaeology (1892), Greek Bronzes (1898), The Sculptures of the Parthenon (1903), and Manual of Mythology (1874). British Museum catalogues excluded. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Alexander Stuart Murray (1841-1904)",
+ "_name_words": [
+  "murray",
+  "greek",
+  "sculpture",
+  "archaeology",
+  "parthenon",
+  "bronzes",
+  "mythology"
+ ],
+ "_surname": [
+  "a. s. murray",
+  "alexander s. murray",
+  "alexander stuart murray"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "as-murray-greek-sculpture-vol-1": [
+   "historyofgreeksc01murruoft",
+   "A History of Greek Sculpture, rev. ed., vol. I (1890)"
+  ],
+  "as-murray-greek-sculpture-vol-2": [
+   "historyofgreeksc02murruoft",
+   "A History of Greek Sculpture, rev. ed., vol. II (1890)"
+  ],
+  "as-murray-handbook-greek-archaeology-1892": [
+   "handbookofgreeka00murruoft",
+   "Handbook of Greek Archaeology: Vases, Bronzes, Gems, Sculpture, Terra-cottas, Mural Paintings, Architecture (1892)"
+  ],
+  "as-murray-greek-bronzes-1898": [
+   "greekbronzes00murr",
+   "Greek Bronzes (1898)"
+  ],
+  "as-murray-sculptures-parthenon-1903": [
+   "sculpturesparth00murrgoog",
+   "The Sculptures of the Parthenon (1903)"
+  ],
+  "as-murray-manual-of-mythology-1874": [
+   "manualofmytholog00murruoft",
+   "Manual of Mythology: Greek and Roman, Norse and Old German, Hindoo and Egyptian (1874)"
+  ]
+ },
+ "_excluded": {
+  "A History of Greek Sculpture, 1st ed. vol. I (1880)": "superseded by the revised 1890 edition",
+  "British Museum catalogues (gems, terracotta sarcophagi, weights)": "catalogues, not monographs"
+ },
+ "_checks": {
+  "as-murray-greek-sculpture-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "as-murray-greek-sculpture-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "as-murray-handbook-greek-archaeology-1892": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "as-murray-greek-bronzes-1898": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "as-murray-sculptures-parthenon-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. s. murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "as-murray-manual-of-mythology-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexander s. murray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

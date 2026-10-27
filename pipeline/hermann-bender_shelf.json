@@ -1,0 +1,32 @@
+{
+ "_about": "Hermann Bender (1835-1897), German schoolmaster, raw IA OCR of A Brief History of Roman Literature for Schools and Colleges, translated and edited from the German by E. P. Crowell and H. B. Richardson of Amherst College (Boston: Ginn and Heath, 1880). Latin literary history (lane B, round dy: fifth IA subject sweep). No uids minted.",
+ "_author": "Hermann Bender (1835-1897)",
+ "_name_words": [
+  "bender"
+ ],
+ "_surname": [
+  "hermann bender"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hermann-bender-brief-history-roman-literature-1880": [
+   "briefhistoryofro00benduoft",
+   "A Brief History of Roman Literature for Schools and Colleges, translated and edited from the German of Hermann Bender by E. P. Crowell and H. B. Richardson (Boston: Ginn and Heath, 1880)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hermann-bender-brief-history-roman-literature-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hermann bender",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

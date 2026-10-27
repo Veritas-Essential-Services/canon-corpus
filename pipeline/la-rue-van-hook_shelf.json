@@ -1,0 +1,35 @@
+{
+ "_about": "La Rue Van Hook (1877-1953), Columbia classicist: Greek Life and Thought (1923). His Loeb Isocrates vol. III (1945) is not public domain. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "La Rue Van Hook (1877-1953)",
+ "_name_words": [
+  "hook",
+  "greek",
+  "life",
+  "thought"
+ ],
+ "_surname": [
+  "van hook"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "van-hook-greek-life-thought-1923": [
+   "greeklifethought00vanh",
+   "Greek Life and Thought: a Portrayal of Greek Civilization (1923)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "van-hook-greek-life-thought-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "van hook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

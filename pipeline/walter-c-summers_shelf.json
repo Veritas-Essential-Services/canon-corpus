@@ -1,0 +1,37 @@
+{
+ "_about": "W. C. Summers (1869-1937), Sheffield Latinist: The Silver Age of Latin Literature from Tiberius to Trajan (1920). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "Walter Coventry Summers (1869-1937)",
+ "_name_words": [
+  "summers",
+  "silver",
+  "latin",
+  "literature"
+ ],
+ "_surname": [
+  "walter c. summers",
+  "w. c. summers",
+  "walter coventry summers"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "summers-silver-age-latin-literature-1920": [
+   "silverageoflatin00summuoft",
+   "The Silver Age of Latin Literature from Tiberius to Trajan (1920)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "summers-silver-age-latin-literature-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "walter c. summers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "[1920]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "_about": "Charles Sears Baldwin (1867-1935), Columbia: Ancient Rhetoric and Poetic, Interpreted from Representative Works (1924; the Gutenberg text is from the 1959 Peter Smith reprint). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Charles Sears Baldwin (1867-1935)",
+ "_name_words": [
+  "baldwin",
+  "charles",
+  "sears",
+  "rhetoric",
+  "poetic"
+ ],
+ "_surname": [
+  "charles sears baldwin",
+  "c. s. baldwin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "baldwin-ancient-rhetoric-poetic-1924": [
+   76707,
+   "Ancient Rhetoric and Poetic (1924)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "baldwin-ancient-rhetoric-poetic-1924": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles sears baldwin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "_about": "Charles Isidore Hemans (1817-1876), English antiquary in Rome (son of Felicia Hemans): Historic and Monumental Rome, a Handbook for the Students of Classical and Christian Antiquity (1874). His books on medieval Christian Italy are outside lane B. Classical scholarship (lane B, round dc). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Charles Isidore Hemans (1817-1876)",
+ "_name_words": [
+  "hemans",
+  "historic",
+  "monumental",
+  "rome"
+ ],
+ "_surname": [
+  "charles isidore hemans",
+  "c. i. hemans",
+  "charles i. hemans"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hemans-historic-monumental-rome-1874": [
+   "historicandmonu01hemagoog",
+   "Historic and Monumental Rome: a Handbook for the Students of Classical and Christian Antiquity in the Italian Capital (1874)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hemans-historic-monumental-rome-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles isidore hemans",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

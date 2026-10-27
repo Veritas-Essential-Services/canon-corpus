@@ -22,6 +22,10 @@
   "bacon-valerius-terminus": [
    3290,
    "Valerius Terminus: of the Interpretation of Nature, with a preface by Robert Leslie Ellis"
+  ],
+  "bacon-essays-wisdom-of-ancients-1884": [
+   56463,
+   "Bacon's Essays, and Wisdom of the Ancients (Boston: Little, Brown, 1884)"
   ]
  },
  "internet_archive": {
@@ -119,7 +123,7 @@
  "_checks": {
   "bacon-essays": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -128,7 +132,7 @@
   },
   "bacon-new-atlantis": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -137,7 +141,16 @@
   },
   "bacon-valerius-terminus": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis bacon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bacon-essays-wisdom-of-ancients-1884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -146,7 +159,7 @@
   },
   "bacon-spedding-works-1864-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -157,7 +170,7 @@
   },
   "bacon-spedding-works-1864-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -168,7 +181,7 @@
   },
   "bacon-spedding-works-1864-v3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "title_weak": true,
@@ -180,7 +193,7 @@
   },
   "bacon-spedding-works-1864-v4": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -191,7 +204,7 @@
   },
   "bacon-spedding-works-1864-v5": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -202,7 +215,7 @@
   },
   "bacon-spedding-works-1864-v6": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -213,7 +226,7 @@
   },
   "bacon-spedding-works-1864-v7": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "title_weak": true,
@@ -225,7 +238,7 @@
   },
   "bacon-spedding-works-1864-v8": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "title_weak": true,
@@ -237,7 +250,7 @@
   },
   "bacon-spedding-works-1864-v9": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -248,7 +261,7 @@
   },
   "bacon-spedding-works-1864-v10": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -259,7 +272,7 @@
   },
   "bacon-spedding-works-1864-v11": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -270,7 +283,7 @@
   },
   "bacon-spedding-works-1864-v12": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "title_weak": true,
@@ -282,7 +295,7 @@
   },
   "bacon-spedding-works-1864-v13": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -293,7 +306,7 @@
   },
   "bacon-spedding-works-1864-v14": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -304,7 +317,7 @@
   },
   "bacon-spedding-works-1864-v15": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -315,7 +328,7 @@
   },
   "bacon-spedding-letters-and-life-v1": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -326,7 +339,7 @@
   },
   "bacon-spedding-letters-and-life-v2": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -337,7 +350,7 @@
   },
   "bacon-spedding-letters-and-life-v3": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -348,7 +361,7 @@
   },
   "bacon-spedding-letters-and-life-v4": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -359,7 +372,7 @@
   },
   "bacon-spedding-letters-and-life-v5": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -370,7 +383,7 @@
   },
   "bacon-spedding-letters-and-life-v6": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",
@@ -381,7 +394,7 @@
   },
   "bacon-spedding-letters-and-life-v7": {
    "kind": "ia",
-   "checked": "2026-10-18",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "francis bacon",
    "identity": "ok",

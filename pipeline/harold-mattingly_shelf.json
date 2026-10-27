@@ -1,0 +1,33 @@
+{
+ "_about": "Harold Mattingly (1884-1964), British Museum numismatist, raw IA OCR of The Imperial Civil Service of Rome (Thirlwall Prize essay, 1910). Ancient economic and administrative history (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Harold Mattingly",
+ "_name_words": [
+  "mattingly"
+ ],
+ "_surname": [
+  "harold mattingly",
+  "mattingly"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harold-mattingly-imperial-civil-service-of-rome-1910": [
+   "imperialcivilser00mattuoft",
+   "The Imperial Civil Service of Rome, by H. Mattingly (Cambridge: at the University Press, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "harold-mattingly-imperial-civil-service-of-rome-1910": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mattingly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

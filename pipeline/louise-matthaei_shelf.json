@@ -1,0 +1,32 @@
+{
+ "_about": "Louise E. Matthaei, late Classical Lecturer and Fellow of Newnham College, raw IA OCR of Studies in Greek Tragedy, founded on lectures given to six students of Newnham College (Cambridge: at the University Press, 1918; US public domain by date). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Louise E. Matthaei (1880-1969)",
+ "_name_words": [
+  "matthaei"
+ ],
+ "_surname": [
+  "louise e. matthaei"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "louise-matthaei-studies-greek-tragedy-1918": [
+   "studiesingreektr00howauoft",
+   "Studies in Greek Tragedy, founded on lectures given to six students of Newnham College, by Louise E. Matthaei (Cambridge: at the University Press, 1918)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "louise-matthaei-studies-greek-tragedy-1918": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louise e. matthaei",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

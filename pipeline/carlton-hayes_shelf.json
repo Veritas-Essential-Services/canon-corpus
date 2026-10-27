@@ -1,0 +1,33 @@
+{
+ "_about": "Carlton Joseph Huntley Hayes (1882-1964), Columbia historian, raw IA OCR of his dissertation An Introduction to the Sources relating to the Germanic Invasions (1909). Roman history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Carlton Huntley Hayes",
+ "_name_words": [
+  "hayes"
+ ],
+ "_surname": [
+  "carlton huntley hayes",
+  "huntley hayes"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carlton-hayes-sources-germanic-invasions-1909": [
+   "introductiontoso00hayerich",
+   "An Introduction to the Sources relating to the Germanic Invasions, by Carlton Huntley Hayes (New York: Columbia University, 1909)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "carlton-hayes-sources-germanic-invasions-1909": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "carlton huntley hayes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

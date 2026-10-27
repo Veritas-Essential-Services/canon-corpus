@@ -1,0 +1,33 @@
+{
+ "_about": "John Oakesmith: The Religion of Plutarch, a Pagan Creed of Apostolic Times (Longmans, 1902). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "John Oakesmith",
+ "_name_words": [
+  "oakesmith",
+  "john",
+  "religion",
+  "plutarch"
+ ],
+ "_surname": [
+  "oakesmith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "oakesmith-religion-of-plutarch-1902": [
+   72730,
+   "The Religion of Plutarch (London: Longmans, 1902)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "oakesmith-religion-of-plutarch-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oakesmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "_about": "Homer Curtis Newton, Cornell, raw IA OCR of The Epigraphical Evidence for the Reigns of Vespasian and Titus (1901).  Inscriptions and Roman art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Homer Curtis Newton",
+ "_name_words": [
+  "newton"
+ ],
+ "_surname": [
+  "homer curtis newton"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "homer-curtis-newton-epigraphical-evidence-vespasian-titus-1901": [
+   "epigraphicalevid00newtuoft",
+   "The Epigraphical Evidence for the Reigns of Vespasian and Titus, by Homer Curtis Newton (Cornell Studies in Classical Philology XVI; New York: The Macmillan Company, 1901)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "homer-curtis-newton-epigraphical-evidence-vespasian-titus-1901": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer curtis newton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

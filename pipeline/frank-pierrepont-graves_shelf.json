@@ -1,0 +1,35 @@
+{
+ "_about": "Frank Pierrepont Graves (1869-1956): The Burial Customs of the Ancient Greeks (1891). Classical scholarship (lane B, round dk: from the Gutenberg catalogue's classics classes, checked against every branch). Clean Gutenberg text. No uids minted.",
+ "_author": "Frank Pierrepont Graves (1869-1956)",
+ "_name_words": [
+  "graves",
+  "frank",
+  "pierrepont",
+  "burial",
+  "customs"
+ ],
+ "_surname": [
+  "frank pierrepont graves",
+  "f. p. graves"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "graves-burial-customs-ancient-greeks-1891": [
+   49431,
+   "The Burial Customs of the Ancient Greeks (1891)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "graves-burial-customs-ancient-greeks-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank pierrepont graves",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

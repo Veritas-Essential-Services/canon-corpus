@@ -1,0 +1,33 @@
+{
+ "_about": "Francis Willey Kelsey (1858-1927), Professor of Latin at Michigan, translator of Mau's Pompeii, raw IA OCR of his Fifty Topics in Roman Antiquities (1891).  Roman antiquities (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Francis W. Kelsey",
+ "_name_words": [
+  "kelsey"
+ ],
+ "_surname": [
+  "francis w. kelsey",
+  "kelsey"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "francis-w-kelsey-fifty-topics-in-roman-antiquities-1891": [
+   "fiftytopicsinrom00kelsuoft",
+   "Fifty Topics in Roman Antiquities, with references, by Francis W. Kelsey (Boston: Allyn and Bacon, 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "francis-w-kelsey-fifty-topics-in-roman-antiquities-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis w. kelsey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

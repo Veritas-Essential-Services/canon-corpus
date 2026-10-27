@@ -1,0 +1,32 @@
+{
+ "_about": "Arthur James Grant (1862-1948), Professor of History at Leeds, raw IA OCR of Greece in the Age of Pericles (1893; new impression 1914). Greek history (lane B, round eb: eighth IA subject sweep). No uids minted.",
+ "_author": "Arthur J. Grant",
+ "_name_words": [
+  "grant"
+ ],
+ "_surname": [
+  "arthur j. grant"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "arthur-j-grant-greece-age-of-pericles": [
+   "greeceinageofper00granuoft",
+   "Greece in the Age of Pericles, by Arthur J. Grant, new impression (London: John Murray, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "arthur-j-grant-greece-age-of-pericles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur j. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

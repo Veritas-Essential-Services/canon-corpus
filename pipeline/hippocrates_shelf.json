@@ -18,11 +18,23 @@
    "b33291408_0004",
    "The Genuine Works of Hippocrates, vol. 2 (Sydenham Society, 1849)",
    "tr. Francis Adams"
+  ],
+  "hippocrates-jones-loeb-v1": [
+   "hippocrates01hippuoft",
+   "Hippocrates, tr. W. H. S. Jones, vol. I (Loeb, 1923; this copy the 1957 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "hippocrates-jones-loeb-v2": [
+   "hippocrates02hippuoft",
+   "Hippocrates, tr. W. H. S. Jones, vol. II (Loeb, 1923; this copy the 1959 reprint, unrevised); Greek facing, kept per Adam's 2026-10-23 ruling"
+  ],
+  "hippocrates-withington-loeb-v3": [
+   "hippocratesvol3l0000etwi",
+   "Hippocrates, vol. III: On Wounds in the Head, In the Surgery, On Fractures, On Joints, Mochlicon, tr. E. T. Withington (Loeb, 1927); Greek facing, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_excluded": {
   "genuineworksofhi02hippuoft": "empty text layer",
-  "Jones and Withington, Loeb (1923-31)": "held in part from Perseus: 6 texts (hippocrates-perseus-jones-*). Greek facing; pending",
+  "Jones and Withington, Loeb (1923-31)": "vols. I-III (1923-27) taken as hippocrates-jones-loeb-* and hippocrates-withington-loeb-v3; vol. IV (1931) is not public domain",
   "Eighteenth-century English Hippocrates: Upon Air, Water and Situation (1752); the Epidemics (1780); the Prognostics and Prorrhetics (1788)": "PD; the ECCO scans (bim_eighteenth-century_hippocrates-upon-air-wa_hippocrates-_1752, bim_eighteenth-century_epidemiorum-libri-engli_hippocrates_1780, bim_eighteenth-century_the-prognostics-and-pror_hippocrates_1788) read 0.740, 0.744 and 0.627; refused for OCR quality 2026-10-10"
  },
  "perseus": {
@@ -61,6 +73,72 @@
    "Epidemics I and III",
    "W. H. S. Jones",
    "Translation published 1923: US public domain (in or before 1930). Perseus source line: Hippocrates, vol. 1, W. H. S. Jones, Loeb, London: Heinemann; Cambridge, MA: Harvard, 1923."
+  ],
+  "hippocrates-perseus-adams-aphorisms": [
+   "tlg0627.tlg012.perseus-eng2",
+   "Aphorisms",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-on-the-articulations": [
+   "tlg0627.tlg010.perseus-eng2",
+   "On the Articulations",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-on-fistulae": [
+   "tlg0627.tlg030.perseus-eng2",
+   "On Fistulae",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-on-fractures": [
+   "tlg0627.tlg009.perseus-eng2",
+   "On Fractures",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-on-hemorrhoids": [
+   "tlg0627.tlg029.perseus-eng2",
+   "On Hemorrhoids",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-on-the-sacred-disease": [
+   "tlg0627.tlg027.perseus-eng2",
+   "On the Sacred Disease",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-on-the-surgery": [
+   "tlg0627.tlg008.perseus-eng2",
+   "On the Surgery",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-on-ulcers": [
+   "tlg0627.tlg028.perseus-eng2",
+   "On Ulcers",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-the-oath": [
+   "tlg0627.tlg013.perseus-eng4",
+   "The Oath",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-the-law": [
+   "tlg0627.tlg014.perseus-eng2",
+   "The Law",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
+  ],
+  "hippocrates-perseus-adams-mochlicus": [
+   "tlg0627.tlg011.perseus-eng2",
+   "Mochlicus",
+   "Francis Adams",
+   "Translation published 1886: US public domain (in or before 1930). Perseus source line: Hippocrates, The Genuine Works of Hippocrates, Vol. 2. Adams, Francis, translator. New York: William Wood and Company, 1886."
   ]
  },
  "_surname": [
@@ -74,12 +152,15 @@
   "hippocrates-perseus-jones-ancient-medicine": "William Henry Samuel Jones",
   "hippocrates-perseus-jones-oath": "William Henry Samuel Jones",
   "hippocrates-perseus-jones-precepts": "William Henry Samuel Jones",
-  "hippocrates-perseus-jones-epidemics-1-3": "william henry samuel jones"
+  "hippocrates-perseus-jones-epidemics-1-3": "william henry samuel jones",
+  "hippocrates-jones-loeb-v1": "W. H. S. Jones",
+  "hippocrates-jones-loeb-v2": "W. H. S. Jones",
+  "hippocrates-withington-loeb-v3": "E. T. Withington"
  },
  "_checks": {
   "hippocrates-adams-v1": {
    "kind": "gutenberg",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hippocrates",
    "translator_claimed": "Francis Adams",
@@ -91,7 +172,7 @@
   },
   "hippocrates-adams-v2": {
    "kind": "ia",
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "hippocrates",
    "translator_claimed": "Francis Adams",
@@ -101,11 +182,52 @@
    "ia_date": "1849",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "hippocrates-jones-loeb-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "W. H. S. Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1995",
+   "ia_date": "1923-1995",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1957': an unrevised reprint of the 1923 Loeb"
+  },
+  "hippocrates-jones-loeb-v2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "W. H. S. Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1995",
+   "ia_date": "1923-1995",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1959': an unrevised reprint of the 1923 Loeb"
+  },
+  "hippocrates-withington-loeb-v3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hippocrates",
+   "translator_claimed": "E. T. Withington",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
   }
  },
  "_perseus_checks": {
   "hippocrates-perseus-jones-airs-waters-places": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg002.perseus-eng4",
    "repo": "PerseusDL/canonical-greekLit",
@@ -116,7 +238,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -126,7 +248,7 @@
    }
   },
   "hippocrates-perseus-jones-nutriment": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg046.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -137,7 +259,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -147,7 +269,7 @@
    }
   },
   "hippocrates-perseus-jones-ancient-medicine": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg001.perseus-eng4",
    "repo": "PerseusDL/canonical-greekLit",
@@ -158,7 +280,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -168,7 +290,7 @@
    }
   },
   "hippocrates-perseus-jones-oath": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg013.perseus-eng5",
    "repo": "PerseusDL/canonical-greekLit",
@@ -179,7 +301,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -189,7 +311,7 @@
    }
   },
   "hippocrates-perseus-jones-precepts": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg051.perseus-eng2",
    "repo": "PerseusDL/canonical-greekLit",
@@ -200,7 +322,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -210,7 +332,7 @@
    }
   },
   "hippocrates-perseus-jones-epidemics-1-3": {
-   "checked": "2026-10-03",
+   "checked": "2026-10-23",
    "identity": "ok",
    "urn": "urn:cts:greekLit:tlg0627.tlg006.perseus-eng4",
    "repo": "PerseusDL/canonical-greekLit",
@@ -221,7 +343,7 @@
    ],
    "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
    "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
-   "status": "kept",
+   "status": "fetched",
    "rights": {
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
@@ -229,26 +351,246 @@
     "share_alike": true,
     "redistribute_whole": false
    }
+  },
+  "hippocrates-perseus-adams-aphorisms": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg012/tlg0627.tlg012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-on-the-articulations": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg010/tlg0627.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-on-fistulae": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg030.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg030/tlg0627.tlg030.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-on-fractures": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg009/tlg0627.tlg009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-on-hemorrhoids": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg029.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg029/tlg0627.tlg029.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-on-the-sacred-disease": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg027.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg027/tlg0627.tlg027.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-on-the-surgery": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg008/tlg0627.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-on-ulcers": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg028.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg028/tlg0627.tlg028.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-the-oath": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg013.perseus-eng4",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg013/tlg0627.tlg013.perseus-eng4.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-the-law": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg014/tlg0627.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "hippocrates-perseus-adams-mochlicus": {
+   "checked": "2026-10-23",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0627.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Adams",
+   "author_seen": "hippocrates",
+   "source_years": [
+    1886
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "fetched",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0627/tlg011/tlg0627.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
   }
  },
  "_held": {
-  "hippocrates-perseus-adams-aphorisms": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg012.perseus-eng2 (Aphorisms, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-airs-waters-and-places": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg002.perseus-eng3 (Airs, Waters, and Places, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-on-the-articulations": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg010.perseus-eng2 (On the Articulations, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-on-injuries-of-the-head": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg007.perseus-eng2 (On Injuries of the Head, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-on-regimen-in-acute-diseases": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg004.perseus-eng2 (On Regimen in Acute Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-on-fistulae": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg030.perseus-eng2 (On Fistulae, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-on-fractures": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg009.perseus-eng2 (On Fractures, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-on-hemorrhoids": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg029.perseus-eng2 (On Hemorrhoids, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-on-the-sacred-disease": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg027.perseus-eng2 (On the Sacred Disease, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-on-the-surgery": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg008.perseus-eng2 (On the Surgery, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-on-ancient-medicine": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg001.perseus-eng3 (On Ancient Medicine, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-on-ulcers": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg028.perseus-eng2 (On Ulcers, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
   "hippocrates-perseus-adams-the-epidemics": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg006.perseus-eng3 (The Epidemics, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-the-oath": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg013.perseus-eng4 (The Oath, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-the-law": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg014.perseus-eng2 (The Law, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-of-the-prognostics": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg003.perseus-eng2 (Of the Prognostics, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
-  "hippocrates-perseus-adams-mochlicus": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg011.perseus-eng2 (Mochlicus, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)"
+  "hippocrates-perseus-adams-of-the-prognostics": "same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg003.perseus-eng2 (Of the Prognostics, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)"
  },
  "_perseus_licence": {
   "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
@@ -256,5 +598,22 @@
   "attribution": "Perseus Digital Library, Tufts University",
   "share_alike": true,
   "redistribute_whole": false
+ },
+ "_held_released": {
+  "hippocrates-perseus-adams-aphorisms": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg012.perseus-eng2 (Aphorisms, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-on-the-articulations": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg010.perseus-eng2 (On the Articulations, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-on-fistulae": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg030.perseus-eng2 (On Fistulae, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-on-fractures": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg009.perseus-eng2 (On Fractures, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-on-hemorrhoids": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg029.perseus-eng2 (On Hemorrhoids, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-on-the-sacred-disease": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg027.perseus-eng2 (On the Sacred Disease, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-on-the-surgery": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg008.perseus-eng2 (On the Surgery, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-on-ulcers": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg028.perseus-eng2 (On Ulcers, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-the-oath": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg013.perseus-eng4 (The Oath, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-the-law": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg014.perseus-eng2 (The Law, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "hippocrates-perseus-adams-mochlicus": "Was _held on the 2026-10-02 review as the same translation already on this shelf. Taken 2026-10-23 as a clean witness because this shelf holds that translation's text only as raw OCR (Adam 2026-10-23: 'The english should be as good as we can get it'). Original note: same translation as hippocrates-adams-v1 (PG 72583) and hippocrates-adams-v2 (IA): Adams's Genuine Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0627.tlg011.perseus-eng2 (Mochlicus, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)"
+ },
+ "_rights_checked": {
+  "hippocrates-jones-loeb-v1": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1957': an unrevised reprint of the 1923 Loeb",
+  "hippocrates-jones-loeb-v2": "IA metadata says 1995; the scan's own printing line, read 2026-10-23, says 'First printed 1923, Reprinted ... 1959': an unrevised reprint of the 1923 Loeb"
  }
 }

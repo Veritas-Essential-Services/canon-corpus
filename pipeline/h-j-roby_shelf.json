@@ -1,0 +1,101 @@
+{
+ "_about": "Henry John Roby (1830-1915), Cambridge Latinist and Roman lawyer: A Grammar of the Latin Language from Plautus to Suetonius (2 parts), An Introduction to the Study of Justinian's Digest (1884), and Roman Private Law in the Times of Cicero and of the Antonines (2 vols., 1902). School grammars excluded. Classical scholarship (lane B, round da). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "Henry John Roby (1830-1915)",
+ "_name_words": [
+  "roby",
+  "roman",
+  "latin",
+  "digest",
+  "justinian",
+  "grammar",
+  "private",
+  "law"
+ ],
+ "_surname": [
+  "roby"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "roby-latin-grammar-part-1": [
+   "agrammarlatinla01robygoog",
+   "A Grammar of the Latin Language from Plautus to Suetonius, Part I: Sounds, Inflexions, Word-formation (2nd ed., 1876)"
+  ],
+  "roby-latin-grammar-part-2": [
+   "agrammarlatinla02robygoog",
+   "A Grammar of the Latin Language from Plautus to Suetonius, Part II: Syntax (1879)"
+  ],
+  "roby-introduction-justinians-digest-1884": [
+   "introductiontost00roby",
+   "An Introduction to the Study of Justinian's Digest (1884)"
+  ],
+  "roby-roman-private-law-vol-1": [
+   "romanprivatelawi01robyuoft",
+   "Roman Private Law in the Times of Cicero and of the Antonines, vol. I (1902)"
+  ],
+  "roby-roman-private-law-vol-2": [
+   "romanprivatelawi02robyuoft",
+   "Roman Private Law in the Times of Cicero and of the Antonines, vol. II (1902)"
+  ]
+ },
+ "_excluded": {
+  "A Latin Grammar for Schools; An Elementary Latin Grammar": "school grammars, skipped by lane B rule"
+ },
+ "_checks": {
+  "roby-latin-grammar-part-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "roby-latin-grammar-part-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "roby-introduction-justinians-digest-1884": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "roby-roman-private-law-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "roby-roman-private-law-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

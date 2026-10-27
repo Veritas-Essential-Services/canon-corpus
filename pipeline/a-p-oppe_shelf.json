@@ -1,0 +1,38 @@
+{
+ "_about": "A. P. Oppé (1878-1957), later the art historian, raw IA OCR of The New Comedy, the University of St Andrews Gray Prize Essay (St Andrews: W. C. Henderson, 1897; US public domain by date). Greek drama (lane B, round dz: sixth IA subject sweep). No uids minted.",
+ "_author": "Adolph Paul Oppé (1878-1957)",
+ "_name_words": [
+  "oppe"
+ ],
+ "_surname": [
+  "a. p. oppe"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "a-p-oppe-new-comedy-1897": [
+   "dli.ministry.04758",
+   "The New Comedy, by A. P. Oppé, Gray Prize Essay, University of St Andrews (St Andrews: W. C. Henderson and Son, 1897)",
+   "20358.156%20C%20281_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "a-p-oppe-new-comedy-1897": {
+   "author": "title page OCR 'GRAY PRIZE ESSAY THE NEW COMEDY BY AP. OPPE'"
+  }
+ },
+ "_checks": {
+  "a-p-oppe-new-comedy-1897": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "_about": "Marcus Bourne Huish (1843-1921), editor of The Art Journal, raw IA OCR of Greek Terra-cotta Statuettes (1900).  Greek art (lane B, round ea: seventh IA subject sweep). No uids minted.",
+ "_author": "Marcus B. Huish",
+ "_name_words": [
+  "huish"
+ ],
+ "_surname": [
+  "marcus b. huish"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "marcus-b-huish-greek-terra-cotta-statuettes-1900": [
+   "greekterracotta00huisgoog",
+   "Greek Terra-cotta Statuettes: their origin, evolution, and uses, by Marcus B. Huish (London: John Murray, 1900)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "marcus-b-huish-greek-terra-cotta-statuettes-1900": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marcus b. huish",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

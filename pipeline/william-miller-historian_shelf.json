@@ -1,0 +1,105 @@
+{
+ "_about": "William Miller (1864-1945), English historian of Frankish and Byzantine Greece: The Latins in the Levant (1908), Essays on the Latin Orient (1921, Gutenberg), Mediaeval Rome (1902), The Latin Orient (1920), and The Turkish Restoration in Greece 1718-1797 (1921). His Balkan and Ottoman histories are outside lane B. Classical scholarship (lane B, round db). Raw IA OCR unless a Gutenberg text is named. No uids minted.",
+ "_author": "William Miller (1864-1945)",
+ "_name_words": [
+  "miller",
+  "latins",
+  "levant",
+  "latin",
+  "orient",
+  "mediaeval",
+  "rome",
+  "greece"
+ ],
+ "_surname": [
+  "william miller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "miller-essays-latin-orient-pg": [
+   69026,
+   "Essays on the Latin Orient (1921)"
+  ]
+ },
+ "internet_archive": {
+  "miller-latins-in-the-levant-1908": [
+   "latinsinlevanthi00mill",
+   "The Latins in the Levant: a History of Frankish Greece (1204-1566) (1908)"
+  ],
+  "miller-mediaeval-rome-1902": [
+   "mediaevalromefro00mill_0",
+   "Mediaeval Rome, from Hildebrand to Clement VIII, 1073-1600 (1902)"
+  ],
+  "miller-latin-orient-1920": [
+   "latinorien00mill",
+   "The Latin Orient (Helps for Students of History 37, 1920)"
+  ],
+  "miller-turkish-restoration-greece-1921": [
+   "turkishrestorat00millgoog",
+   "The Turkish Restoration in Greece, 1718-1797 (Helps for Students of History 38, 1921)"
+  ]
+ },
+ "_excluded": {
+  "The Balkans (1896); The Ottoman Empire (1913, 1923); A History of the Greek People 1821-1921; Travels and Politics in the Near East; Greek Life in Town and Country": "modern Balkan and Ottoman history, outside lane B"
+ },
+ "_checks": {
+  "miller-essays-latin-orient-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "miller-latins-in-the-levant-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "miller-mediaeval-rome-1902": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "miller-latin-orient-1920": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "miller-turkish-restoration-greece-1921": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "miller-turkish-restoration-greece-1921": {
+   "author": "title page read 2026-10-23: OCR gives 'BY WILLIAM ^ILLER, M.A. HON. LL.D. IN THE NATIONAL UNIVERSITY OF GREECE', Helps for Students of History No. 38 (SPCK, 1921); same credentials as his Latin Orient (No. 37)"
+  }
+ }
+}

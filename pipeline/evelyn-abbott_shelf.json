@@ -1,5 +1,5 @@
 {
- "_about": "Evelyn Abbott (1843-1901), Jowett Lecturer in Greek History at Balliol: A History of Greece, 3 parts (Putnam and Longmans; title pages dated 1901, 1901 and 1900), raw IA OCR. IA also holds copies catalogued 1888 and 1895, so the 1901 title pages of parts I-II are probably later printings (pre-1930; an inference from the catalogue dates). His translation of Duncker's History of Antiquity is Near Eastern history and is not taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_about": "Evelyn Abbott (1843-1901), Jowett Lecturer in Greek History at Balliol: A History of Greece, 3 parts (Putnam and Longmans; title pages dated 1901, 1901 and 1900), raw IA OCR. IA also holds copies catalogued 1888 and 1895, so the 1901 title pages of parts I-II are probably later printings (pre-1930; an inference from the catalogue dates). His translation of Duncker's History of Antiquity is Near Eastern history and is not taken. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted. Round du (2026-10-23), raw IA: Hellenica, essays edited by him (Rivingtons, 1880); Pericles and the Golden Age of Athens (1891); A Skeleton Outline of Greek History; Clarendon editions with English notes of Herodotus IX (1887) and V-VI (1893) and, with P. E. Matheson, Demosthenes's Orations against Philip I (1887) and II part I (1903). His translation of Zeller's Outlines, with S. F. Alleyne, is on the zeller shelf; the Life of Jowett with Lewis Campbell is on the lewis-campbell shelf. Not taken: his Selections from Lucian and the Speech on the Crown, whose open scans OCR the English as Greek letters.",
  "_name_words": [
   "abbott"
  ],
@@ -21,12 +21,40 @@
   "evelyn-abbott-history-greece-v3-1900": [
    "historyofgreece03abbo",
    "A History of Greece, part III, from the Thirty Years' Peace to the Fall of the Thirty at Athens, 445-403 B.C. (New York: Putnam; London: Longmans, Green, 1900)"
+  ],
+  "evelyn-abbott-hellenica-1880": [
+   "hellenicacollect00abbouoft",
+   "Hellenica: a Collection of Essays on Greek Poetry, Philosophy, History and Religion, edited by Evelyn Abbott (London: Rivingtons, 1880)"
+  ],
+  "evelyn-abbott-pericles-1891": [
+   "periclesgoldenag00abbouoft",
+   "Pericles and the Golden Age of Athens (Heroes of the Nations; New York and London: G. P. Putnam's Sons, 1891)"
+  ],
+  "evelyn-abbott-skeleton-outline-greek-history": [
+   "skeletonoutlineo00abbouoft",
+   "A Skeleton Outline of Greek History, Chronologically Arranged (London: Rivingtons; no year in the OCR title page, IA dates it 1884)"
+  ],
+  "evelyn-abbott-herodotus-ix-1887": [
+   "herodotusbookix12hero",
+   "Herodotus, Book IX, with introduction and notes by Evelyn Abbott (Oxford: Clarendon Press, 1887); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "evelyn-abbott-herodotus-v-vi-1893": [
+   "herodotusbooksvv00heroiala",
+   "Herodotus, Books V and VI, Terpsichore and Erato, with introduction and notes by Evelyn Abbott (Oxford: Clarendon Press, 1893); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "evelyn-abbott-demosthenes-philippics-v1-1887": [
+   "orationsagainstp01demo",
+   "Demosthenes, Orations against Philip, with introduction and notes by Evelyn Abbott and P. E. Matheson, vol. I (Oxford: Clarendon Press, 1887); Greek text with English notes, kept per Adam's 2026-10-23 ruling"
+  ],
+  "evelyn-abbott-demosthenes-philippics-v2-1903": [
+   "orationsagainstp02demo",
+   "Demosthenes, Orations against Philip, with introduction and notes by Evelyn Abbott and P. E. Matheson, vol. II, part I, introduction and text (Oxford: Clarendon Press, 1903); Greek text with English introduction, kept per Adam's 2026-10-23 ruling"
   ]
  },
  "_checks": {
   "evelyn-abbott-history-greece-v1-1901": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "evelyn abbott",
    "identity": "ok",
@@ -37,7 +65,7 @@
   },
   "evelyn-abbott-history-greece-v2-1901": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": "evelyn abbott",
    "identity": "ok",
@@ -48,7 +76,7 @@
   },
   "evelyn-abbott-history-greece-v3-1900": {
    "kind": "ia",
-   "checked": "2026-10-10",
+   "checked": "2026-10-23",
    "name_check": "surname",
    "author_seen": null,
    "identity": "identity_override",
@@ -56,11 +84,95 @@
    "ia_date": "1900",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "evelyn-abbott-hellenica-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evelyn-abbott-pericles-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evelyn-abbott-skeleton-outline-greek-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evelyn-abbott-herodotus-ix-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "evelyn-abbott-herodotus-v-vi-1893": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "evelyn-abbott-demosthenes-philippics-v1-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn abbott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "evelyn-abbott-demosthenes-philippics-v2-1903": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  },
  "_identity_checked": {
   "evelyn-abbott-history-greece-v3-1900": {
    "author": "title page read 2026-10-10: OCR gives 'SME YN ABBOTT, MA' LID. JOWETT LECTURER IN GREEK HISTORY AT BALLIOL COLLEGE', Putnam and Longmans 1900 (Evelyn Abbott); the OCR garbles the forename"
+  },
+  "evelyn-abbott-herodotus-ix-1887": {
+   "author": "title page OCRs the editor as 'ΟΝ A bBOLTT, M.A., LL.' (Clarendon Press Series, Herodotus Book IX, MDCCC LXXXVII); preface signed Oxford, September 1887"
+  },
+  "evelyn-abbott-demosthenes-philippics-v2-1903": {
+   "author": "title page OCRs the editors as 'EVELYN ABBOLT, M.A tig AND P. E. MATHESON, M.A.' (Clarendon Press, 19°03)"
   }
  }
 }

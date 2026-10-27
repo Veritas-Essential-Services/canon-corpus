@@ -1,0 +1,35 @@
+{
+ "_about": "W. F. Tamblyn: The Establishment of Roman Power in Britain (1899). Classical scholarship (lane B, round df). Raw IA OCR. No uids minted.",
+ "_author": "William Ferguson Tamblyn (1874-)",
+ "_name_words": [
+  "tamblyn",
+  "roman",
+  "power",
+  "britain"
+ ],
+ "_surname": [
+  "tamblyn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tamblyn-roman-power-britain-1899": [
+   "establishmentofr00tamb",
+   "The Establishment of Roman Power in Britain (1899)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tamblyn-roman-power-britain-1899": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tamblyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

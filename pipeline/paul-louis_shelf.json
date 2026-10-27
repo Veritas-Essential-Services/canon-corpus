@@ -1,0 +1,39 @@
+{
+ "_about": "Paul Louis (Paul-Louis, 1872-1955), French socialist historian, raw IA OCR of Ancient Rome at Work, tr. E. B. F. Wareing (History of Civilization, 1927). Ancient economic history (lane B, round ec: ninth IA subject sweep). No uids minted.",
+ "_author": "Paul Louis",
+ "_name_words": [
+  "louis"
+ ],
+ "_surname": [
+  "paul louis",
+  "louis"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "paul-louis-ancient-rome-at-work-1927": [
+   "ancientromeatwor0000unse",
+   "Ancient Rome at Work: an economic history of Rome from the origins to the Empire, by Paul-Louis, translated by E. B. F. Wareing (London: Kegan Paul; New York: Knopf, 1927)",
+   "tr. E. B. F. Wareing"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "paul-louis-ancient-rome-at-work-1927": "E. B. F. Wareing"
+ },
+ "_checks": {
+  "paul-louis-ancient-rome-at-work-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "paul louis",
+   "translator_claimed": "E. B. F. Wareing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

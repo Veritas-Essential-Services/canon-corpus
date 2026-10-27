@@ -1,0 +1,52 @@
+{
+ "_about": "G. W. Elderkin (1879-1965), Princeton archaeologist: Problems in Periclean Buildings (1912, Gutenberg) and Kantharos: Studies in Dionysiac and Kindred Cult (1924). Classical scholarship (lane B, round dd). Raw IA OCR. No uids minted.",
+ "_author": "George Wicker Elderkin (1879-1965)",
+ "_name_words": [
+  "elderkin",
+  "periclean",
+  "buildings",
+  "kantharos",
+  "dionysiac"
+ ],
+ "_surname": [
+  "elderkin"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "elderkin-periclean-buildings-pg": [
+   37197,
+   "Problems in Periclean Buildings (1912)"
+  ]
+ },
+ "internet_archive": {
+  "elderkin-kantharos-1924": [
+   "kantharosstudies00elde",
+   "Kantharos: Studies in Dionysiac and Kindred Cult (1924)"
+  ]
+ },
+ "_excluded": {
+  "Problems in Periclean Buildings, IA cu31924096785328": "title page read 2026-10-23 (page images): only a half-title, no author named; the clean Gutenberg text is used instead"
+ },
+ "_checks": {
+  "elderkin-periclean-buildings-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elderkin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "elderkin-kantharos-1924": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elderkin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,365 @@
+{
+ "_about": "Archibald Henry Sayce (1845-1933), Oxford Professor of Assyriology: Near-Eastern history, religion and philology, and the monuments' bearing on Greek and Hebrew history. Thirteen clean Gutenberg texts, the rest from dated IA scans. Not taken: his edited series (Records of the Past, Maspero's History) and joint works whose main author is someone else.",
+ "_author": "A. H. Sayce (1845-1933)",
+ "_name_words": [
+  "sayce",
+  "assyria",
+  "babylonia",
+  "hittites",
+  "hebrews",
+  "egypt",
+  "monuments",
+  "language"
+ ],
+ "_surname": [
+  "sayce"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sayce-early-israel-pg": [
+   12976,
+   "Early Israel and the Surrounding Nations (1899)"
+  ],
+  "sayce-patriarchal-palestine-pg": [
+   14405,
+   "Patriarchal Palestine (1895)"
+  ],
+  "sayce-babylonians-and-assyrians-pg": [
+   25080,
+   "Babylonians and Assyrians: Life and Customs (1899)"
+  ],
+  "sayce-fresh-light-pg": [
+   32883,
+   "Fresh Light from the Ancient Monuments"
+  ],
+  "sayce-religions-egypt-babylonia-pg": [
+   35856,
+   "The Religions of Ancient Egypt and Babylonia (Gifford Lectures, 1902)"
+  ],
+  "sayce-primer-assyriology-pg": [
+   37411,
+   "A Primer of Assyriology"
+  ],
+  "sayce-egypt-of-the-hebrews-pg": [
+   38843,
+   "The Egypt of the Hebrews and Herodotos"
+  ],
+  "sayce-hittites-pg": [
+   40243,
+   "The Hittites: the Story of a Forgotten Empire"
+  ],
+  "sayce-assyria-pg": [
+   42033,
+   "Assyria: its Princes, Priests, and People"
+  ],
+  "sayce-archaeology-cuneiform-pg": [
+   67742,
+   "The Archaeology of the Cuneiform Inscriptions"
+  ],
+  "sayce-science-of-language-v1-pg": [
+   73585,
+   "Introduction to the Science of Language, vol. 1 (of 2)"
+  ],
+  "sayce-early-history-hebrews-pg": [
+   75324,
+   "The Early History of the Hebrews"
+  ],
+  "sayce-social-life-assyrians-pg": [
+   77217,
+   "Social Life among the Assyrians and Babylonians"
+  ]
+ },
+ "internet_archive": {
+  "sayce-science-of-language-v2-1880": [
+   "india.history.resource.77510",
+   "Introduction to the Science of Language, vol. 2 (1880)",
+   "77510_djvu.txt"
+  ],
+  "sayce-comparative-philology-1875": [
+   "cu31924026441711",
+   "The Principles of Comparative Philology (1875)"
+  ],
+  "sayce-assyrian-grammar-1872": [
+   "11009510bsb",
+   "An Assyrian Grammar for Comparative Purposes (1872)"
+  ],
+  "sayce-ancient-empires-herodotos-1883": [
+   "ancientempiresof00herouoft",
+   "The Ancient Empires of the East: Herodotos I-III, with notes, introductions and appendices (1883)"
+  ],
+  "sayce-hibbert-lectures-1887": [
+   "lecturesonorigin00saycrich",
+   "Lectures on the Origin and Growth of Religion as illustrated by the Religion of the Ancient Babylonians (Hibbert Lectures 1887; 1888 printing)"
+  ],
+  "sayce-life-times-isaiah-1890": [
+   "lifetimesofisaia1890sayc",
+   "The Life and Times of Isaiah as illustrated by Contemporary Monuments (1890)"
+  ],
+  "sayce-races-old-testament-1891": [
+   "theracesoftheold00saycuoft",
+   "The Races of the Old Testament (1891)"
+  ],
+  "sayce-higher-criticism-monuments-1894": [
+   "highercriticism00saycgoog",
+   "The 'Higher Criticism' and the Verdict of the Monuments (1894)"
+  ],
+  "sayce-creations-dawn-1908": [
+   "b28070756",
+   "Creation's Dawn (1908)"
+  ],
+  "sayce-religion-ancient-egypt-1913": [
+   "religionofancien00sayc",
+   "The Religion of Ancient Egypt (2nd ed., 1913)"
+  ],
+  "sayce-reminiscences-1923": [
+   "bwb_Y0-BTL-761",
+   "Reminiscences (1923)"
+  ]
+ },
+ "_excluded": {
+  "Records of the Past, new series (ed. Sayce, 1888-92)": "many translators; a compilation, left for a separate ruling",
+  "Maspero, History of Egypt, Chaldaea... (ed. Sayce)": "Maspero is the author; belongs on a Maspero shelf",
+  "Mahaffy, History of Classical Greek Literature (appendix by Sayce)": "Mahaffy's book"
+ },
+ "_checks": {
+  "sayce-early-israel-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-patriarchal-palestine-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-babylonians-and-assyrians-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-fresh-light-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-religions-egypt-babylonia-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-primer-assyriology-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-egypt-of-the-hebrews-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-hittites-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-assyria-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-archaeology-cuneiform-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "title_weak": true,
+   "identity": "title_weak",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-science-of-language-v1-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-early-history-hebrews-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-social-life-assyrians-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sayce-science-of-language-v2-1880": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sayce-comparative-philology-1875": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sayce-assyrian-grammar-1872": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sayce-ancient-empires-herodotos-1883": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sayce-hibbert-lectures-1887": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sayce-life-times-isaiah-1890": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sayce-races-old-testament-1891": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sayce-higher-criticism-monuments-1894": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sayce-creations-dawn-1908": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sayce-religion-ancient-egypt-1913": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sayce-reminiscences-1923": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sayce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

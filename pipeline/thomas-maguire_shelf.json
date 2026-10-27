@@ -1,0 +1,35 @@
+{
+ "_about": "Thomas Maguire (1831-1889), professor of moral philosophy at Trinity College, Dublin: Essays on the Platonic Ethics (1870). Classical scholarship (lane B, round di). Raw IA OCR. No uids minted.",
+ "_author": "Thomas Maguire (1831-1889)",
+ "_name_words": [
+  "maguire",
+  "thomas",
+  "platonic",
+  "ethics"
+ ],
+ "_surname": [
+  "maguire"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "maguire-essays-platonic-ethics-1870": [
+   "essaysonplatoni00magugoog",
+   "Essays on the Platonic Ethics (London: Longmans, 1870)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "maguire-essays-platonic-ethics-1870": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "maguire",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}
