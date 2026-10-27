@@ -1,6 +1,12 @@
 # Lane B digest — Classical (English translations)
 <!-- refreshed 2026-10-02 17:31 CDT by the lane B worker -->
 
+## 2026-10-27: Bloom only from here (read this first)
+
+Adam, 2026-10-27: "go bloom only from now on." PR #38 (rounds cq-ec, 582 shelves, 1,557 volumes) stays **unmerged as a holding area**. Each shelf has a written case in `docs/review/bloom/2026-10-27-pr38-admissions.json`, and Adam marks keep, cut or later on the Armarium Admissions page. Round ed (more minor scholars) is dropped.
+
+Bloom's list checked against every branch (`docs/review/bloom/2026-10-27-bloom-checklist.json`): the Theocratic Age (Gilgamesh to Dante) is essentially complete. The only gaps there are Christine de Pisan's *City of Ladies* and Diego de San Pedro's *Prison of Love*. Menander is held only in PR #38, and Yvain and Pirke Aboth only on other unmerged branches. The real gaps are in the later three ages.
+
 **Held:** 84 shelves, 691 files (249 clean Gutenberg texts, 199 raw Internet Archive OCR volumes, 243 Perseus TEI texts at the time; 132 after the 21:10 review moved 111 duplicates to `_held`), 388 MB on the worker's disk. Corpus text is gitignored; the shelves (`pipeline/<author>_shelf.json`) are the record. Nothing converted into the build manifest and **nothing minted** (no uid minting during a burst). Every shelf lists its pending wishlist and its exclusions with reasons; the map section is `docs/divines-map/B-classical.md`.
 
 | Author | Held (clean / raw) | Pending, short |
