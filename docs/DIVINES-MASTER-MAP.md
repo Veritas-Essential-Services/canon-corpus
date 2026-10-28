@@ -19969,6 +19969,19 @@ Slugs `shipley-*`. Built from title pages read for round 138.
 | the 1774 speech on the Massachusetts charters and its Welsh translation are political | excluded | |
 | Daboll's almanack is not his | excluded | |
 | the ECCO copy of the 1773 sermon | excluded | |
+
+## Louis Berkhof (round 139, my pick, 2026-10-28)
+
+Slugs `berkhof-*`. Built from title pages read for round 139.
+
+| Work | Status | Where |
+|---|---|---|
+| New Testament introduction (or special canonics) (Grand Rapids: Eerdmans-Sevensma, 1915) | have-ocr | IA `newtestamentintr00berk` |
+| Subjects and outlines (Grand Rapids: Eerdmans-Sevensma, 1918) | have-ocr | IA `subjectsoutlines00berk` |
+| Biblical archaeology (Grand Rapids: Eerdmans-Sevensma, 1915) | have-ocr | IA `biblicalarchaeol00berk` |
+| Reformed Dogmatics (1932), Systematic Theology (1938 on), History of Christian Doctrines (1937), Principles of Biblical Interpretation (1950) and the Spanish translations: after 1929 | excluded | |
+| the 1928 third edition of Biblical Archaeology is open only as bwb_ lending-library copies | excluded | |
+| biblicalarchaeo00berkgoog, catalogued 1928, is another copy of the 1915 first edition (its title page reads 1915) | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
