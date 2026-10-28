@@ -187,3 +187,50 @@ text) are kept and never applied to a faithful transcription.
 library), the library alone, from the raw scan word, agrees on 446 and disagrees on none. Over 103,564
 undisputed words it changes 56, the misreadings every engine shared ("Chaueer", "Provenee", "vehiele",
 "Diekens"). The Cornell scan alone (no desk, no second scan): 105 words.
+
+## Restoring a pictorial book: white paper, kept pictures, an invisible text layer (2026-10-28, PILOT)
+
+Adam: *"brighten the pages to become pure white so that it would use no ink in between lines and in
+the margins or blank pages,"* with the best OCR laid invisibly over the scan. Prototype only; not yet a
+step of `run`. Piloted on 9 leaves of Pyle's *King Arthur* (`storyofkingarthu00pyle`, the art plan's pilot).
+
+    python3 -m unscanner.restore page*.jp2 --out DIR                       # restored pages (lossless PNG) + report
+    python3 -m unscanner.restore page*.jp2 --out DIR --pdf book.pdf --tessdata <tessdata_best>
+    python3 tests/restore_test.py                                          # 14 offline checks
+
+Needs OpenCV; the PDF needs `tesseract` and `pikepdf`. Rules and measurements are in the module's
+docstring (`unscanner/restore.py`). The convention, in short:
+
+- **Restore, never redraw.** A pixel either becomes paper (exactly 255) or keeps its scanned tone. The
+  paper is measured block by block and divided out (gutter shadow, yellowing, uneven light); show-through
+  falls under the white point; edge artefacts and lonely specks go; outside the content box is white; a
+  page with no ink left is a pure white page. No sharpening, inpainting or AI upscaling.
+- **Grey unless the ink is coloured.** Black ink on cream paper is written grey; a page whose ink is
+  coloured (a colour plate, a rubric) keeps its colour.
+- **The print PDF is "mixed"** (ScanTailor's word): text and rules as a 600 dpi 1-bit stencil (CCITT G4),
+  pictures as the restored grey cut to each picture's box (JPEG), paper as nothing drawn at all. That is
+  the only way a lossy picture codec cannot leave a faint tint in the margins.
+- **Words underneath**: tesseract's invisible text layer, so the page is searchable and copyable.
+
+Measured on the 9 leaves (render of the PDF at 300 dpi):
+
+| | raw scan | restored |
+|---|---|---|
+| pure-white pixels, text page | 0% | 92-94% |
+| ink, text page (share of a solid black page) | 10.5-12.7% | 4.9-6.7% |
+| ink, full-page plate | 29.0% | 24.8% (the drawing is ink; only its paper went) |
+| blank leaf (show-through only) | 5.7% ink | 0% |
+| PDF size | | text page about 100 KB, full plate 500-750 KB |
+
+Tried and set aside: the Internet Archive's own MRC encoder (`archive-pdf-tools`, `recode_pdf`) makes a
+smaller file (about 110 KB a page) but its JPEG 2000 background turns pure white into 253-254, so only
+8% of a plate page stays pure white. `unpaper` (OCRmyPDF's `--clean`) is built for black-and-white text
+and its filters eat fine hatching. ScanTailor Advanced does the same job well but is a desktop program
+with no maintained batch mode; keep it for hand work on a difficult book.
+
+OCR, scored against Gutenberg's proofread text of the same pages (5 text pages, about 2,000 words):
+the Archive's OCR, tesseract `fast` and `best`, on raw or restored pages, all land within one point of
+each other (5.7-6.6% of words not matching). Nearly every mismatch is layout (sidenotes read into the
+body line, running heads, line-end hyphens), not misread letters. For a clean scan the better text layer
+comes from the Unscanner's layout and second witness, and, where Gutenberg has the book, from aligning
+the proofread text onto the word boxes; a different engine is not the lever.
