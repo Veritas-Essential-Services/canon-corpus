@@ -220,14 +220,63 @@ def restore_page(src, dst, deskew=True, white=24):
 
 
 def ocr_layer(png, out_base, lang="eng", tessdata=None):
-    """tesseract -> hOCR + a text-only PDF page (the invisible words, nothing drawn)."""
+    """tesseract -> hOCR (words, boxes, confidences). Skipped when it is already there."""
+    if os.path.exists(out_base + ".hocr"):
+        return out_base + ".hocr"
     env = dict(os.environ, OMP_THREAD_LIMIT="1")
-    cmd = ["tesseract", png, out_base, "-l", lang, "--psm", "3", "-c", "textonly_pdf=1"]
+    cmd = ["tesseract", png, out_base, "-l", lang, "--psm", "3"]
     if tessdata:
         cmd[3:3] = ["--tessdata-dir", tessdata]
-    subprocess.run(cmd + ["pdf", "hocr"], check=True, env=env,
-                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    return out_base + ".pdf", out_base + ".hocr"
+    subprocess.run(cmd + ["hocr"], check=True, env=env, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    return out_base + ".hocr"
+
+
+def hocr_words(path):
+    """hOCR -> [(text, [x0, y0, x1, y1])] in reading order."""
+    from . import scan
+    return [(w["t"], w["bbox"]) for line in scan.parse_hocr(path)["lines"] for w in line["words"]]
+
+
+def _pdf_str(t):
+    b = t.encode("cp1252", errors="replace")
+    return b.replace(b"\\", b"\\\\").replace(b"(", b"\\(").replace(b")", b"\\)")
+
+
+def _lines(words):
+    """Consecutive words that share most of their height are one printed line."""
+    lines = []
+    for t, bb in words:
+        if lines:
+            y0, y1 = lines[-1]["y"]
+            ov = min(y1, bb[3]) - max(y0, bb[1])
+            if ov > 0.5 * min(y1 - y0, bb[3] - bb[1]) and bb[0] >= lines[-1]["x"] - 5:
+                lines[-1]["w"].append((t, bb)); lines[-1]["x"] = bb[2]
+                lines[-1]["y"] = (min(y0, bb[1]), max(y1, bb[3]))
+                continue
+        lines.append({"w": [(t, bb)], "y": (bb[1], bb[3]), "x": bb[2]})
+    return lines
+
+
+def text_ops(words, sx, sy, ph):
+    """Invisible text (render mode 3): each printed line at one size on one baseline, each word
+    stretched to its box and followed by a space, so copying gives clean lines and searching lands
+    on the printed word."""
+    out = [b"BT 3 Tr"]
+    for line in _lines([(t, bb) for t, bb in words if t.strip()]):
+        hs = sorted(bb[3] - bb[1] for _, bb in line["w"])
+        size = max(1.0, hs[len(hs) // 2] * sy)
+        base = ph - sorted(bb[3] for _, bb in line["w"])[len(hs) // 2] * sy
+        ws = line["w"]
+        for k, (t, (x0, y0, x1, y1)) in enumerate(ws):
+            # Courier: every glyph is 0.6 em, so the stretch is exact. The word and its space span
+            # from this word's left edge to the next word's, so no two words overlap.
+            t = t + " "
+            span = (ws[k + 1][1][0] - x0) if k + 1 < len(ws) else (x1 - x0) * len(t) / (len(t) - 1)
+            tz = max(1.0, 100.0 * span * sx / (0.6 * size * len(t)))
+            out.append(b"/F1 %.2f Tf %.1f Tz 1 0 0 1 %.2f %.2f Tm (" % (size, tz, x0 * sx, base)
+                       + _pdf_str(t) + b") Tj")
+    out.append(b"ET")
+    return b"\n".join(out)
 
 
 def picture_boxes(img, words, min_frac=0.004, pad=6):
@@ -246,13 +295,7 @@ def picture_boxes(img, words, min_frac=0.004, pad=6):
                                         and o[2] >= b[2] and o[3] >= b[3] for o in boxes)]
 
 
-def _hocr_words(path):
-    import re
-    s = open(path, encoding="utf-8").read()
-    return [list(map(int, m)) for m in re.findall(r"ocrx_word'[^>]*bbox (\d+) (\d+) (\d+) (\d+)", s)]
-
-
-def mixed_page(png, hocr, textonly_pdf, colour_png=None, dpi=300, scale=2, quality=82):
+def mixed_page(png, words, colour_png=None, dpi=300, scale=2, quality=82):
     """One PDF page in the 'mixed' convention (ScanTailor's name for it):
 
     - text and rules: a 1-bit stencil at `scale` x the scan's resolution (smoothed before the
@@ -260,13 +303,15 @@ def mixed_page(png, hocr, textonly_pdf, colour_png=None, dpi=300, scale=2, quali
     - pictures: the restored grey (or colour) cut to each picture's box, JPEG;
     - paper: nothing at all. The page is white because nothing is drawn there, which is the only
       way a lossy picture codec cannot leave a faint tint in the margins;
-    - words: tesseract's invisible text layer, underneath, so the page is searchable and copyable.
+    - words: an invisible text layer, so the page is searchable and copyable. `words` is
+      [(text, box)]: tesseract's reading, or Gutenberg's proofread words on tesseract's boxes
+      (unscanner/gutenberg.py).
     """
     import io
     import pikepdf
     img = np.asarray(Image.open(png).convert("L"))
     h, w = img.shape
-    boxes = picture_boxes(img, _hocr_words(hocr))
+    boxes = picture_boxes(img, [b for _, b in words])
     text = img.copy()
     for x0, y0, x1, y1 in boxes:
         text[y0:y1, x0:x1] = 255
@@ -281,14 +326,14 @@ def mixed_page(png, hocr, textonly_pdf, colour_png=None, dpi=300, scale=2, quali
     off, cnt = tif.tag_v2[273][0], tif.tag_v2[279][0]
     g4 = buf.getvalue()[off:off + cnt]
 
-    pdf = pikepdf.open(textonly_pdf)
-    page = pdf.pages[0]
-    pw, ph = float(page.mediabox[2]), float(page.mediabox[3])
+    pdf = pikepdf.new()
+    pw, ph = w * 72.0 / dpi, h * 72.0 / dpi
+    page = pdf.add_blank_page(page_size=(pw, ph))
     sx, sy = pw / w, ph / h
-    if pikepdf.Name.Resources not in page.obj:
-        page.obj.Resources = pikepdf.Dictionary()
-    if pikepdf.Name.XObject not in page.obj.Resources:
-        page.obj.Resources.XObject = pikepdf.Dictionary()
+    font = pdf.make_indirect(pikepdf.Dictionary(Type=pikepdf.Name.Font, Subtype=pikepdf.Name.Type1,
+                                                BaseFont=pikepdf.Name.Courier,
+                                                Encoding=pikepdf.Name.WinAnsiEncoding))
+    page.obj.Resources = pikepdf.Dictionary(XObject=pikepdf.Dictionary(), Font=pikepdf.Dictionary(F1=font))
     xo = page.obj.Resources.XObject
     ops = []
     src = Image.open(colour_png) if colour_png else Image.fromarray(img, "L")
@@ -308,23 +353,25 @@ def mixed_page(png, hocr, textonly_pdf, colour_png=None, dpi=300, scale=2, quali
             DecodeParms=pikepdf.Dictionary(K=-1, Columns=w * scale, Rows=h * scale, BlackIs1=False),
             Decode=pikepdf.Array([1, 0]))
         ops.append(f"q 0 g {pw:.3f} 0 0 {ph:.3f} 0 0 cm /Text Do Q")
-    page.contents_add(pdf.make_stream("\n".join(ops).encode()), prepend=False)
+    page.contents_add(pdf.make_stream(text_ops(words, sx, sy, ph) + b"\n" + "\n".join(ops).encode()),
+                      prepend=False)
     return pdf, {"pictures": boxes}
 
 
-def build_pdf(pngs, out_pdf, workdir, lang="eng", tessdata=None):
-    """Restored pages -> one searchable PDF in the mixed convention; -> per-page notes."""
+def build_pdf(pngs, out_pdf, workdir, lang="eng", tessdata=None, words_for=None):
+    """Restored pages -> one searchable PDF in the mixed convention; -> per-page notes.
+    `words_for(page name)` may give the words to lay down (Gutenberg's); otherwise tesseract's."""
     import pikepdf
     os.makedirs(workdir, exist_ok=True)
-    book, notes = pikepdf.new(), []
-    keep = []
+    book, notes, keep = pikepdf.new(), [], []
     for png in pngs:
-        base = os.path.join(workdir, os.path.splitext(os.path.basename(png))[0])
-        tpdf, hocr = ocr_layer(png, base, lang, tessdata)
-        one, note = mixed_page(png, hocr, tpdf)
+        name = os.path.splitext(os.path.basename(png))[0]
+        hocr = ocr_layer(png, os.path.join(workdir, name), lang, tessdata)
+        words = (words_for(name) if words_for else None) or hocr_words(hocr)
+        one, note = mixed_page(png, words)
         keep.append(one)
         book.pages.append(one.pages[0])
-        notes.append(dict(note, page=os.path.basename(png)))
+        notes.append(dict(note, page=name))
     tmp = out_pdf + ".part"
     book.save(tmp, compress_streams=True)
     os.replace(tmp, out_pdf)

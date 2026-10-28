@@ -234,3 +234,37 @@ each other (5.7-6.6% of words not matching). Nearly every mismatch is layout (si
 body line, running heads, line-end hyphens), not misread letters. For a clean scan the better text layer
 comes from the Unscanner's layout and second witness, and, where Gutenberg has the book, from aligning
 the proofread text onto the word boxes; a different engine is not the lever.
+
+### The text layer from Gutenberg's proofread text (2026-10-28)
+
+Adam: *"Diff the Gutenberg proofread text against the OCR,"* settle what has an obviously right answer,
+and bring him only the real ties. `unscanner/gutenberg.py` aligns the two word by word: the OCR says
+WHERE each word is printed, Gutenberg says WHAT it says. Every difference is sorted by rule (the table
+is in the module's docstring): broken hyphens and run-together words, misreads, decorated initials the
+OCR could not read, sidenotes and captions Gutenberg moves elsewhere, running heads and folios
+Gutenberg leaves out, and lines the OCR read out of order. What is left is a `dispute`: two different
+real words, the OCR sure of itself. Each dispute is decided by looking at the scan, never by preferring
+a source.
+
+    python3 -m unscanner.gutenberg <hocr dir> <pg.txt> <out dir> [decisions.json]   # differences.jsonl + summary.json
+    python3 tests/gutenberg_layer_test.py                                         # 13 offline checks
+
+**Proven on Pyle's *King Arthur*** (all 350 leaves; PG 60184 against `storyofkingarthu00pyle`).
+Of 118,853 printed words, 849 took Gutenberg's spelling over the OCR's. The rest of the differences
+were sorted by rule: 650 broken or run-together words, 318 misreads, 16 decorated initials, 578
+sidenote and 28 caption stretches placed, 264 running heads and folios kept. Then a person looked:
+
+- **8 disputes** (two real words), all decided by looking at the scan, and Gutenberg was right every
+  time: broken *f*s read as *t* or *i*, *he* read as *be*, a *d* outside the OCR's box.
+- **9 stretches Gutenberg does not have.** Five are whole lines Gutenberg DROPPED, nearly all the first
+  line after a page break (leaves 97, 150, 198, 208, 209). The OCR keeps them, so the text layer has
+  them; Gutenberg's own text is missing them. The rest are the publisher's list of books and sidenote
+  fragments.
+- **2 compositor's slips** in the print itself, which Gutenberg silently corrected: *Kinght* (leaf 65,
+  the contents of Part III) and *decended* (leaf 110). These are Adam's call (print or correction); a
+  third candidate, *assured.y*, is a damaged sort, not a slip.
+
+The decisions are in `data/unscanned/pyle-king-arthur.gutenberg-decisions.json`, each with what was
+seen and who looked. The text layer itself is Courier, invisible, stretched exactly to each word's box
+and set line by line, so copying a page gives clean lines: 99.6% of Gutenberg's words come out of the
+PDF's text in order.

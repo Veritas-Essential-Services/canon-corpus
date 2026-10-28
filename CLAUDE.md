@@ -125,6 +125,10 @@ The living truth for project state is the Obsidian vault:
     python3 -m unscanner run <slug> [--archive ID | --pdf P --rights WHY]  # a scan re-set (unscanner/README.md)
     python3 -m unscanner run church-odyssey-boys --to-corpus  # ...and structure_texts.py builds from it
     python3 tests/unscanner_test.py                    # 36 offline checks (tesseract optional)
+    python3 -m unscanner.restore page*.jp2 --out DIR [--pdf book.pdf]   # paper to white, pictures kept, text layer (pilot)
+    python3 -m unscanner.gutenberg HOCR_DIR pg.txt OUT [decisions.json]  # Gutenberg's proofread words onto the OCR boxes
+    python3 tests/restore_test.py                      # 14 offline checks (PDF part needs tesseract + pikepdf)
+    python3 tests/gutenberg_layer_test.py              # 13 offline checks
     python3 -m unscanner editions collate --scan a=DIR --scan b=DIR --djvu a=XML --djvu b=XML --base a --volume N --out OUT  # several scans -> Proof Desk
     python3 -m unscanner editions merge --collation OUT/collation.json --base-dir DIR --base a --volume N --answers R.json C.json A.json --out OUT  # -> merged text
     python3 tests/editions_test.py                     # columns, running heads, signature marks, margin breaks, dashes (28)
