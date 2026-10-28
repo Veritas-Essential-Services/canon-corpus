@@ -19997,6 +19997,21 @@ Slugs `kuyper-*`. Built from title pages read for round 139.
 | Dutch-language works (De twaalf patriarchen, Het werk van den Heiligen Geest, Gedenkboek) and the a Lasco Opera he edited | excluded | |
 | other scans and later printings of the books on the abraham-kuyper shelf | excluded | |
 | Women of the Old Testament, The Revelation of St. John, The Practice of Godliness and other translations printed after 1929 | excluded | |
+
+## Heinrich Bullinger (gaps) (round 139, my pick, 2026-10-28)
+
+Slugs `bullinger-*`. Built from title pages read for round 139.
+
+| Work | Status | Where |
+|---|---|---|
+| A hundred sermons upon the Apocalypse of Jesu Christ, tr. John Daus (London: John Day, 1573) | have-ocr | IA `hvndredsermonsvp00bull` |
+| The christen state of matrimonye (IA bim_early-english-books-1475-1640_the-christen-state-of-ma_bullinger-heinrich_1552): the title page names only Myles Coverdale, who set it forth; Bullinger's name is nowhere in the text, so the attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| A most necessary and frutefull dialogue between the seditious Libertin or rebel Anabaptist and the true obedient Christian, tr. John Veron (IA bim_early-english-books-1475-1640_a-most-necessary-and-fru_bullinger-heinrich_1551): Bullinger's name is nowhere in the text, so the attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions) | pending | not shelved |
+| Fiftie godlie and learned sermons (1577, 1587): the older printing of the H. I. translation that the Parker Society Decades reprints | excluded | |
+| Sermons on the Sacraments (Cambridge, 1840): the sacrament sermons of the fifth Decade, already in the Parker Decades | excluded | |
+| the 1541, 1546 and 1548 printings of the Coverdale Matrimonye | excluded | |
+| PG 22151, the Cohabitacyon treatise: a joint Vermigli-Bullinger work, left pending on PR #14 | excluded | |
+| E. W. Bullinger (1837-1913) is a different author, with his own shelf | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
