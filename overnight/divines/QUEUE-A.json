@@ -11170,6 +11170,15 @@
       "added_by": "lane A",
       "finished": "2026-10-28T10:01:58-05:00",
       "notes": "Adam's Reformed authors table: books to 1918; later works not US public domain."
+    },
+    {
+      "id": "reformed-kuyper-gaps",
+      "status": "done",
+      "scope": "round 139",
+      "added": "2026-10-28T10:02:00-05:00",
+      "added_by": "lane A",
+      "finished": "2026-10-28T10:02:00-05:00",
+      "notes": "Adam's Reformed authors table: English works not on PR #14's abraham-kuyper shelf."
     }
   ]
 }

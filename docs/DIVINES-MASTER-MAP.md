@@ -19982,6 +19982,21 @@ Slugs `berkhof-*`. Built from title pages read for round 139.
 | Reformed Dogmatics (1932), Systematic Theology (1938 on), History of Christian Doctrines (1937), Principles of Biblical Interpretation (1950) and the Spanish translations: after 1929 | excluded | |
 | the 1928 third edition of Biblical Archaeology is open only as bwb_ lending-library copies | excluded | |
 | biblicalarchaeo00berkgoog, catalogued 1928, is another copy of the 1915 first edition (its title page reads 1915) | excluded | |
+
+## Abraham Kuyper (gaps) (round 139, my pick, 2026-10-28)
+
+Slugs `kuyper-*`. Built from title pages read for round 139.
+
+| Work | Status | Where |
+|---|---|---|
+| Calvinism: the origin and safeguard of our constitutional liberties (1895) | have-ocr | IA `calvinismorigins00kuyp` |
+| The South-African crisis, reprinted from the Revue des Deux Mondes for February 1900, translated and prefaced by A. E. Fletcher, fourth edition (London: Stop the War Committee, 1900) | have-ocr | IA `southafricancris00kuyp` |
+| Asleep in Jesus: meditations, tr. J. H. de Vries (Grand Rapids: Eerdmans, 1929) | have-ocr | IA `asleepinjesusmed00kuyp` |
+| In the shadow of death: meditations for the sick-room and at the death-bed, tr. J. H. de Vries (Grand Rapids: Eerdmans, 1929) | have-ocr | IA `inshadowofdeathm00kuyp` |
+| The antithesis between symbolism and revelation: lecture delivered before the Historical Presbyterian Society in Philadelphia (Amsterdam and Pretoria: Höveker & Wormser; Edinburgh: T. & T. Clark; undated printing, catalogued 1857) | have-ocr | IA `antithesisbetwee00kuyp` |
+| Dutch-language works (De twaalf patriarchen, Het werk van den Heiligen Geest, Gedenkboek) and the a Lasco Opera he edited | excluded | |
+| other scans and later printings of the books on the abraham-kuyper shelf | excluded | |
+| Women of the Old Testament, The Revelation of St. John, The Practice of Godliness and other translations printed after 1929 | excluded | |
 # Classical (English translations)
 
 ## Plato (tr. Jowett)
