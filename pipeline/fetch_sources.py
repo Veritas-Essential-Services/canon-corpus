@@ -63,6 +63,9 @@ GUTENBERG_EXTRA = {
     # favourite (AmblesideOnline). Both PG headers read as public domain; no translator.
     "henty-bubastes": 29756,      # The Cat of Bubastes: A Tale of Ancient Egypt (1889)
     "henty-freedom": 4792,        # In Freedom's Cause: A Story of Wallace and Bruce (1885)
+    # Winning His Spurs (2026-10-28): Adam's "boy crusader" book, for the LibriVox read-along. PG #12308 is
+    # the text the solo LibriVox recording (Jennifer Gasiecki, 2014) was read from. PG header: public domain.
+    "henty-spurs": 12308,         # Winning His Spurs: A Tale of the Crusades (1882; this edition 1895)
     # Richard Rainolde, The Foundacion of Rhetorike (1563): Aphthonius adapted into English, for the
     # Word Hoard's ProGym room (2026-10-20). PG header reads public domain; transcribed from microfiche.
     "rainolde-foundacion": 26056,
