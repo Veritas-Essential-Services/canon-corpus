@@ -2870,6 +2870,50 @@ Points you may want to veto or rule on:
 - Shipley's shelf has only volume 2 of the 1792 Works; volume 1 was not found on IA.
 - Left out: the D'Oyly and Mant Bible (joint commentary), Mant's Warton editions, the Afghan war histories of Sir John William Kaye, and the political pamphlets of Maddox, Squire and Shipley.
 
+## Adam's Reformed authors table, 2026-10-28 (his direct ask; the rest of lane A stays paused)
+
+Adam asked for "all of these guys' works" for 27 authors, and later added a rule: use the newest translation that is still public domain, unless there is an obvious standard translation (such as the Calvin Translation Society). Every branch was checked first. US public domain is the only test. No uids were minted.
+
+| Author | What changed | Shelf |
+|---|---|---|
+| Spurgeon | +34 (Autobiography 1-4, Sermon Notes 1-4, Salt-Cellars, John Ploughman's Talk and Pictures, Prayers, Letters and more) | spurgeon |
+| Baxter | +47 works outside Orme's Practical Works, 1649-1696, including Reliquiae Baxterianae, the Paraphrase on the NT and Catholick Theology | baxter |
+| Warfield | +19, including the 1927-1930 Oxford Works volumes | warfield |
+| Shedd | +15 | w-g-t-shedd |
+| Archibald Alexander | +11 | archibald-alexander |
+| Charles Hodge | +9 | hodge |
+| A. A. Hodge | +3 | a-a-hodge |
+| Kuyper | +5 English works not on PR #14's shelf: Calvinism and Constitutional Liberties (1895), the Philadelphia lecture on Symbolism and Revelation, The South-African Crisis (1900), and de Vries's Asleep in Jesus and In the Shadow of Death (1929) | abraham-kuyper-gaps (new) |
+| Bullinger | +1: A Hundred Sermons upon the Apocalypse (1573). PR #14 already has the Parker Society Decades, which is the standard translation | heinrich-bullinger-gaps (new) |
+| Berkhof | new shelf: NT Introduction (1915), Biblical Archaeology (1915), Subjects and Outlines (1918) | louis-berkhof (new) |
+| Pink | +2 after the title-by-title check: Gleanings in Genesis (copyright 1922) and The Kingdom of Heaven (an Our Hope pamphlet with no copyright notice) | arthur-w-pink |
+| Whitefield | +2: Gurney's shorthand Eighteen Sermons and Sermons on Important Subjects (1830) | whitefield |
+| William Cunningham | +1: Sermons 1828-1860 (1872) | william-cunningham |
+
+These authors were already complete, and nothing was added:
+- Calvin: the CTS commentaries, Beveridge, the Tracts and Letters, EEBO, and calvin-gaps on PR #14.
+- Bunyan: Offor.
+- Owen: Goold, 24 vols.
+- Sibbes: Grosart.
+- Goodwin: Nichol, 12 vols.
+- Manton: Nisbet, 22 vols.
+- Simeon: Horae Homileticae, 21 vols.
+- Matthew Henry: the Exposition and the Miscellaneous Works.
+- Edwards.
+- Augustus H. Strong.
+- James Buchanan.
+- Knox: Laing, on PR #14.
+- Smeaton: on PR #14.
+- Bavinck: on PR #14. Philosophy of Revelation (1909) and Sacrifice of Praise (1922) are the only English translations printed before 1930. The Reformed Dogmatics translation is modern.
+
+Points you may want to rule on:
+- **Two Bullinger items are pending on catalogue attribution.** The Christen State of Matrimonye (Coverdale, 1552) and the 1551 Dialogue against the Anabaptists (tr. John Veron) do not print Bullinger's name anywhere.
+- **Berkhof is only partly covered.** Paul the Missionary (1915) and The Assurance of Faith (1928) are not on the Internet Archive. The 1928 third edition of Biblical Archaeology exists there only as lending-library copies. Everything else he published is 1932 or later.
+- **Two Pink rights calls.** Gleanings in Genesis is a later Moody Press printing whose only notice is copyright 1922. The Kingdom of Heaven pamphlet carries no notice. Both are recorded in `_rights_checked`.
+- **One Kuyper rights call.** The Antithesis lecture is undated. The catalogue's 1857 is impossible, because the title page styles him LL.D. (Princeton, 1898). It is recorded as a printing from his lifetime.
+- **One Warfield rights call.** Studies in Tertullian and Augustine (1930) became US public domain on 1 January 2026, and it carries a `_rights_checked` entry.
+- **Shelf naming.** Kuyper and Bullinger got `-gaps` shelves so that PR #14's shelves stay unedited. Fold them in when PR #14 merges.
+
 ## Paused 2026-10-25 at Adam's request
 
 Rounds 39 to 138 and Adam's Libronix authors are pushed. Nothing is half-built. To resume: start round 139 from scratch (no research has been done for it); candidates not yet checked include Thomas Sprat, Samuel Hinchliffe, Lewis Bagot, William Cleaver, John Denison and Thomas Claughton.

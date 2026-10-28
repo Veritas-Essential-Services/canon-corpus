@@ -2315,3 +2315,7 @@
 
 ## 2026-10-23 21:38 CDT — round 138 done
 - william-clagett, isaac-maddox, samuel-squire, richard-mant, john-kaye, jonathan-shipley: 6 shelves, 47 IA items. `--verify --record`: 0 mismatched. 0 uids minted. Veto points in DIGEST-A.
+
+## 2026-10-28 CDT — Adam's Reformed authors table: done
+
+148 items added across 13 shelves (3 new: louis-berkhof, abraham-kuyper-gaps, heinrich-bullinger-gaps). The other 14 authors on the table were already complete. Every touched shelf verified with 0 mismatched. Details are in DIGEST-A. Lane A is paused again.
