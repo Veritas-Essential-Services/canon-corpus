@@ -2318,4 +2318,4 @@
 
 ## 2026-10-28 CDT — Adam's Reformed authors table: done
 
-148 items added across 13 shelves (3 new: louis-berkhof, abraham-kuyper-gaps, heinrich-bullinger-gaps). The other 14 authors on the table were already complete. Every touched shelf verified with 0 mismatched. Details are in DIGEST-A. Lane A is paused again.
+152 items added across 13 shelves (3 new: louis-berkhof, abraham-kuyper-gaps, heinrich-bullinger-gaps). The other 14 authors on the table were already complete. Every touched shelf verified with 0 mismatched. Details are in DIGEST-A. Lane A is paused again.
