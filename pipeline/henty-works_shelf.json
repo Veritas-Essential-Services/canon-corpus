@@ -1,5 +1,5 @@
 {
- "_about": "G. A. Henty's historical tales for boys not already on another shelf or branch (the reading-list henty shelf and the henty-church acquisition hold the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_about": "G. A. Henty's historical tales for boys not already on another shelf or branch (the reading-list henty shelf and the henty-church acquisition hold the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated. 2026-10-28, at Adam's ask for the whole shelf: three titles Gutenberg lacks, from Internet Archive scans (raw OCR). Not found online in any free scan: The March to Coomassie (1874), Yarns on the Beach (1886), Gabriel Allen M.P. (1888), The Plague Ship (1889), The Ranche in the Valley (1892), John Hawke's Fortune (1901), Gallant Deeds (1905).",
  "_author": "G. A. Henty",
  "_name_words": [
   "henty"
@@ -555,7 +555,20 @@
    "All But Lost: A Novel. Vol. 3 of 3"
   ]
  },
- "internet_archive": {},
+ "internet_archive": {
+  "henty-the-sovereign-reader": [
+   "sovereignreaders00hent",
+   "The Sovereign Reader: Scenes from the Life and Reign of Queen Victoria (1887)"
+  ],
+  "henty-a-hidden-foe": [
+   "ahiddenfoe00hentgoog",
+   "A Hidden Foe (1890)"
+  ],
+  "henty-queen-victoria": [
+   "queenvictoriasc01hentgoog",
+   "Queen Victoria: Scenes from Her Life and Reign (1901)"
+  ]
+ },
  "_excluded": {
   "pg-59360": "PG 59360: Gutenberg's index of the author's works, not a book.",
   "repeat-editions": "PG 8679: second Gutenberg editions of titles already on the shelf.",
@@ -565,7 +578,7 @@
  "_checks": {
   "henty-st-george-for-england": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -574,7 +587,7 @@
   },
   "henty-won-by-the-sword": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -583,7 +596,7 @@
   },
   "henty-a-knight-of-the-white-cross": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -592,7 +605,7 @@
   },
   "henty-lion-of-the-north": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -601,7 +614,7 @@
   },
   "henty-young-carthaginian": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -610,7 +623,7 @@
   },
   "henty-on-the-pampas": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -619,7 +632,7 @@
   },
   "henty-by-pike-and-dyke": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -628,7 +641,7 @@
   },
   "henty-by-englands-aid": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -637,7 +650,7 @@
   },
   "henty-bonnie-prince-charlie": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -646,7 +659,7 @@
   },
   "henty-beric-the-briton": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -655,7 +668,7 @@
   },
   "henty-at-agincourt": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -664,7 +677,7 @@
   },
   "henty-a-march-on-london": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -673,7 +686,7 @@
   },
   "henty-treasure-of-the-incas": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -682,7 +695,7 @@
   },
   "henty-in-times-of-peril": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -691,7 +704,7 @@
   },
   "henty-rujub-the-juggler": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -700,7 +713,7 @@
   },
   "henty-bravest-of-the-brave": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -709,7 +722,7 @@
   },
   "henty-with-buller-in-natal": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -718,7 +731,7 @@
   },
   "henty-among-malay-pirates": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -727,7 +740,7 @@
   },
   "henty-when-london-burned": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -736,7 +749,7 @@
   },
   "henty-tales-of-daring-and-danger": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -745,7 +758,7 @@
   },
   "henty-colonel-thorndykes-secret": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -754,7 +767,7 @@
   },
   "henty-by-sheer-pluck": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -763,7 +776,7 @@
   },
   "henty-with-moore-at-corunna": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -772,7 +785,7 @@
   },
   "henty-through-the-fray": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -781,7 +794,7 @@
   },
   "henty-wulf-the-saxon": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -790,7 +803,7 @@
   },
   "henty-true-to-the-old-flag": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -799,7 +812,7 @@
   },
   "henty-young-buglers": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -808,7 +821,7 @@
   },
   "henty-jack-archer": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -817,7 +830,7 @@
   },
   "henty-friends-though-divided": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -826,7 +839,7 @@
   },
   "henty-golden-canyon": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -835,7 +848,7 @@
   },
   "henty-boy-knight": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -844,7 +857,7 @@
   },
   "henty-one-of-the-28th": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -853,7 +866,7 @@
   },
   "henty-cornet-of-horse": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -862,7 +875,7 @@
   },
   "henty-queens-cup": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -871,7 +884,7 @@
   },
   "henty-lion-of-saint-mark": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -880,7 +893,7 @@
   },
   "henty-with-wolfe-in-canada": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -889,7 +902,7 @@
   },
   "henty-in-the-irish-brigade": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -898,7 +911,7 @@
   },
   "henty-orange-and-green": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -907,7 +920,7 @@
   },
   "henty-a-jacobite-exile-being-the-adventures-of-a-young-engli": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -916,7 +929,7 @@
   },
   "henty-tiger-of-mysore": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -925,7 +938,7 @@
   },
   "henty-with-clive-in-india": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -934,7 +947,7 @@
   },
   "henty-with-kitchener-in-the-soudan": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -943,7 +956,7 @@
   },
   "henty-both-sides-the-border": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -952,7 +965,7 @@
   },
   "henty-with-lee-in-virginia": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -961,7 +974,7 @@
   },
   "henty-under-drakes-flag": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -970,7 +983,7 @@
   },
   "henty-with-frederick-the-great": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -979,7 +992,7 @@
   },
   "henty-a-final-reckoning": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -988,7 +1001,7 @@
   },
   "henty-no-surrender-a-tale-of-the-rising-in-la-vendee": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -997,7 +1010,7 @@
   },
   "henty-saint-bartholomews-eve": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1006,7 +1019,7 @@
   },
   "henty-under-wellingtons-command": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1015,7 +1028,7 @@
   },
   "henty-through-three-campaigns": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1024,7 +1037,7 @@
   },
   "henty-at-the-point-of-the-bayonet": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1033,7 +1046,7 @@
   },
   "henty-on-the-irrawaddy": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1042,7 +1055,7 @@
   },
   "henty-for-the-temple": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1051,7 +1064,7 @@
   },
   "henty-held-fast-for-england": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1060,7 +1073,7 @@
   },
   "henty-for-name-and-fame": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1069,7 +1082,7 @@
   },
   "henty-dash-for-khartoum": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1078,7 +1091,7 @@
   },
   "henty-young-franc-tireurs-and-their-adventures-in-the-franco": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1087,7 +1100,7 @@
   },
   "henty-at-aboukir-and-acre": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1096,7 +1109,7 @@
   },
   "henty-a-girl-of-the-commune": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1105,7 +1118,7 @@
   },
   "henty-with-cochrane-the-dauntless": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1114,7 +1127,7 @@
   },
   "henty-condemned-as-a-nihilist": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1123,7 +1136,7 @@
   },
   "henty-a-chapter-of-adventures": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1132,7 +1145,7 @@
   },
   "henty-by-conduct-and-courage": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1141,7 +1154,7 @@
   },
   "henty-captain-bayleys-heir": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1150,7 +1163,7 @@
   },
   "henty-out-on-the-pampas": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1159,7 +1172,7 @@
   },
   "henty-through-russian-snows": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1168,7 +1181,7 @@
   },
   "henty-facing-death": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1177,7 +1190,7 @@
   },
   "henty-young-colonists": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1186,7 +1199,7 @@
   },
   "henty-maori-and-settler": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1195,7 +1208,7 @@
   },
   "henty-sturdy-and-strong": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1204,7 +1217,7 @@
   },
   "henty-st-george-for-england-34886": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1213,7 +1226,7 @@
   },
   "henty-a-search-for-a-secret": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1222,7 +1235,7 @@
   },
   "henty-a-search-for-a-secret-35265": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1231,7 +1244,7 @@
   },
   "henty-a-search-for-a-secret-35266": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1240,7 +1253,7 @@
   },
   "henty-dorothys-double-volume-1-of-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1249,7 +1262,7 @@
   },
   "henty-dorothys-double-volume-2-of-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1258,7 +1271,7 @@
   },
   "henty-dorothys-double-volume-3-of-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1267,7 +1280,7 @@
   },
   "henty-lost-heir": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1276,7 +1289,7 @@
   },
   "henty-a-roving-commission": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1285,7 +1298,7 @@
   },
   "henty-curse-of-carnes-hold": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1294,7 +1307,7 @@
   },
   "henty-march-to-magdala": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1303,7 +1316,7 @@
   },
   "henty-in-the-hands-of-the-malays-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1312,7 +1325,7 @@
   },
   "henty-in-greek-waters": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1321,7 +1334,7 @@
   },
   "henty-in-the-hands-of-the-cave-dwellers": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1330,7 +1343,7 @@
   },
   "henty-out-with-garibaldi": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1339,7 +1352,7 @@
   },
   "henty-with-the-allies-to-pekin": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1348,7 +1361,7 @@
   },
   "henty-a-soldiers-daughter-and-other-stories": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1357,7 +1370,7 @@
   },
   "henty-tales-from-the-works-of-g-a-henty": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1366,7 +1379,7 @@
   },
   "henty-through-the-sikh-war": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1375,7 +1388,7 @@
   },
   "henty-with-the-british-legion": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1384,7 +1397,7 @@
   },
   "henty-all-but-lost": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1393,7 +1406,7 @@
   },
   "henty-to-herat-and-cabul": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1402,7 +1415,7 @@
   },
   "henty-with-roberts-to-pretoria": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1411,7 +1424,7 @@
   },
   "henty-all-but-lost-56255": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1420,7 +1433,7 @@
   },
   "henty-those-other-animals": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
@@ -1429,12 +1442,45 @@
   },
   "henty-all-but-lost-59529": {
    "kind": "gutenberg",
-   "checked": "2026-10-18",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "g. a. henty",
    "identity": "ok",
    "pg_copyrighted": false,
    "pg_translator": null
+  },
+  "henty-the-sovereign-reader": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "henty-a-hidden-foe": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henty-queen-victoria": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "g. a. henty",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
  }
 }
