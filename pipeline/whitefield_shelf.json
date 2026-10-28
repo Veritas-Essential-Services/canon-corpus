@@ -1,5 +1,5 @@
 {
- "_about": "Every public-domain George Whitefield (1714-1770) text the Word Hoard holds. The Works (London, 1771-1772, 6 vols: sermons, tracts and letters) are held clean from Gutenberg, rights lines checked by the fetcher. CCEL's Selected Sermons (1904, ed. A. R. Buckland) is held clean. The Journals survive on IA only in their first printings (1738-1756), raw OCR of 18th-century type: expect long-s errors. Not G. W. (George Whitefield) Samson or other namesakes.",
+ "_about": "Every public-domain George Whitefield (1714-1770) text the Word Hoard holds. The Works (London, 1771-1772, 6 vols: sermons, tracts and letters) are held clean from Gutenberg, rights lines checked by the fetcher. CCEL's Selected Sermons (1904, ed. A. R. Buckland) is held clean. The Journals survive on IA only in their first printings (1738-1756), raw OCR of 18th-century type: expect long-s errors. Not G. W. (George Whitefield) Samson or other namesakes.  2026-10-28 (Adam's Reformed authors table): the Eighteen Sermons taken down in shorthand by Gurney (1771), which the Works do not carry, and the 1830 Sermons on Important Subjects added from IA scans.",
  "_ccel_author": "w/whitefield",
  "_name_words": [
   "whitefield"
@@ -69,6 +69,14 @@
   "whitefield-life-journals-1756": [
    "twofirst00whit",
    "The Two First Parts of his Life, with his Journals, revised and abridged by himself (1756)"
+  ],
+  "whitefield-eighteen-sermons-1771": [
+   "eighteensermonsp00whit",
+   "Eighteen sermons preached by the late Rev. George Whitefield, taken verbatim in short-hand and transcribed by Joseph Gurney, revised by Andrew Gifford (London: Joseph Gurney; the title-page OCR reads M.DCC.LXXX, catalogued 1771)"
+  ],
+  "whitefield-sermons-important-subjects-1830": [
+   "sermonsonimport00whitgoog",
+   "Sermons on important subjects (London: H. Fisher and P. Jackson, 1830)"
   ]
  },
  "_alternates": {
@@ -81,22 +89,26 @@
   "PG 44280, 62023 (Tyerman's Life), PG 44140 (Belcher)": "biographies by other hands; a 'Whitefield studies' shelf could take them",
   "PG 34727 (Ryle's Sketch)": "already on ryle_shelf.json",
   "G. W. Samson's books; George Whitefield Powers": "different people",
-  "quakermethodistc00grey": "Zachary Grey's 1740 polemic"
+  "quakermethodistc00grey": "Zachary Grey's 1740 polemic",
+  "whitefield-selections": "Fifteen Sermons (1785) and Twelve Sermons (1792): selections from the Works",
+  "whitefield-hymnbook": "his Collection of Hymns for Social Worship (1753 on): hymns by other writers that he compiled"
  },
  "_checks": {
   "whitefield-selected-sermons": {
    "kind": "ccel",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
    "ccel_dc_rights": "Public Domain",
    "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
    "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
   },
   "whitefield-works-1": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -105,7 +117,7 @@
   },
   "whitefield-works-2": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -114,7 +126,7 @@
   },
   "whitefield-works-3": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -123,7 +135,7 @@
   },
   "whitefield-works-4": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -132,7 +144,7 @@
   },
   "whitefield-works-5": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -141,7 +153,7 @@
   },
   "whitefield-works-6": {
    "kind": "gutenberg",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -150,7 +162,7 @@
   },
   "whitefield-journal-voyage-1743": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -161,7 +173,7 @@
   },
   "whitefield-journal-continuation-1739a": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -172,7 +184,7 @@
   },
   "whitefield-journal-continuation-1739b": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -183,7 +195,7 @@
   },
   "whitefield-journal-continuation-1740": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -194,7 +206,7 @@
   },
   "whitefield-journal-continuation-1741": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -205,7 +217,7 @@
   },
   "whitefield-journal-seventh-1744": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "identity": "ok",
@@ -216,7 +228,7 @@
   },
   "whitefield-life-journals-1756": {
    "kind": "ia",
-   "checked": "2026-10-02",
+   "checked": "2026-10-28",
    "name_check": "surname",
    "author_seen": "whitefield",
    "title_weak": true,
@@ -225,6 +237,30 @@
    "ia_date": "1756",
    "ia_possible_copyright_status": null,
    "ia_lending": null
+  },
+  "whitefield-eighteen-sermons-1771": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "whitefield-sermons-important-subjects-1830": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "whitefield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
   }
- }
+ },
+ "_pending": {}
 }
