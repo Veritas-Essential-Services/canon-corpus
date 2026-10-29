@@ -1,6 +1,6 @@
 {
  "status": "paused",
  "holder": null,
- "heartbeat": "2026-10-25T16:30Z",
- "resume": "PAUSED by Adam 2026-10-25 16:28Z. OCR pass done: My Book House v6 + five Little Classics volumes, fix lists on PR #42. Waiting on Adam: Authors index pp. 259-266 (leave / rebuild / type), using the twin scan for Authors p. 50, MBH's 14 index spots. Next once he resumes: sweep the other 12 Little Classics volumes the same way (run.sh, then the second sweep)."
+ "heartbeat": "2026-10-29T12:15Z",
+ "resume": "PAUSED again 2026-10-29 after the one-off Henty job (Adam 2026-10-28): henty-works +3 IA titles; Winning His Spurs read-along in canon-corpus PR #45 (into main) and wordhoard PR #192, both draft, awaiting Adam's merge + Armarium rebuild. Earlier resume point stands: Little Classics remaining 12 volumes; Adam's open questions (Authors index, p. 50, MBH index spots)."
 }
