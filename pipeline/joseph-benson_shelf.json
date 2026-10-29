@@ -1,5 +1,5 @@
 {
- "_about": "Public-domain Joseph Benson (1749-1821), Wesleyan Methodist preacher and commentator, for the Word Hoard: Two Sermons on Sanctification (1782), Remarks on Dr. Priestley's System of Materialism (1788), A Defence of the Methodists (1793), An Apology for the People called Methodists (1801), Sermons on Various Occasions (vol. 1, 1802; vol. 2, 1836) The Life of the Rev. John de la Flechere (1820) and, from round 57, three volumes of his Commentary on the Holy Bible in the American edition (Old Testament vol. 3, New Testament vols 1-2), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_about": "Public-domain Joseph Benson (1749-1821), Wesleyan Methodist preacher and commentator, for the Word Hoard: Two Sermons on Sanctification (1782), Remarks on Dr. Priestley's System of Materialism (1788), A Defence of the Methodists (1793), An Apology for the People called Methodists (1801), Sermons on Various Occasions (vol. 1, 1802; vol. 2, 1836) The Life of the Rev. John de la Flechere (1820) and, from round 57, three volumes of his Commentary on the Holy Bible in the American edition (Old Testament vol. 3, New Testament vols 1-2), from Internet Archive scans. Added 2026-10-23 by lane A, round 52 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.  2026-10-29: Commentary OT vol. 1 (Genesis to 2 Samuel) found under an unattributed catalogue record; vol. 2 (1 Kings to Song of Solomon) still not found.",
  "_name_words": [
   "benson"
  ],
@@ -51,6 +51,10 @@
   "benson-commentary-nt-2": [
    "holybiblecontai29unkngoog",
    "The New Testament ... with critical, explanatory, and practical notes, vol. 2: Romans to the Revelation (New York: Lane & Tippett, [184-?])"
+  ],
+  "benson-commentary-ot-1": [
+   "holybiblecontain0000unse_w8k6",
+   "The Holy Bible ... with critical, explanatory, and practical notes, vol. 1: Genesis to the Second Book of Samuel (New York: Carlton & Porter; catalogued 1850)"
   ]
  },
  "_alternates": {},
@@ -65,13 +69,13 @@
   }
  },
  "_pending": {
-  "benson-commentary-ot-1-2": "Commentary, Old Testament vols 1-2 (Genesis to Song of Solomon): no scan of the American edition found on Internet Archive in round 57"
+  "benson-commentary-ot-2": "Commentary, Old Testament vol. 2 (1 Kings to Song of Solomon): no scan of any edition found on Internet Archive (searched 2026-10-23 and 2026-10-29)"
  },
  "_translators": {},
  "_checks": {
   "benson-sanctification": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
@@ -82,7 +86,7 @@
   },
   "benson-priestley": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
@@ -93,7 +97,7 @@
   },
   "benson-defence-of-methodists": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "identity_override",
@@ -104,7 +108,7 @@
   },
   "benson-apology": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "title_weak": true,
@@ -116,7 +120,7 @@
   },
   "benson-sermons-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
@@ -127,7 +131,7 @@
   },
   "benson-sermons-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
@@ -138,7 +142,7 @@
   },
   "benson-life-of-fletcher": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
@@ -149,7 +153,7 @@
   },
   "benson-commentary-ot-3": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
@@ -160,7 +164,7 @@
   },
   "benson-commentary-nt-1": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
@@ -171,13 +175,24 @@
   },
   "benson-commentary-nt-2": {
    "kind": "ia",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "name_check": "surname",
    "author_seen": "joseph benson",
    "identity": "ok",
    "ia_rights": "ok: published 1820",
    "ia_date": "[182-?]",
    "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "benson-commentary-ot-1": {
+   "kind": "ia",
+   "checked": "2026-10-29",
+   "name_check": "surname",
+   "author_seen": "joseph benson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": null,
    "ia_lending": null
   }
  }

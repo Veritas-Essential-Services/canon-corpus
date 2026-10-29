@@ -1,6 +1,6 @@
 {
-  "status": "paused",
-  "holder": null,
-  "heartbeat": "2026-10-28T10:05:00-05:00",
-  "note": "Adam's Reformed authors table done 2026-10-28 (his direct ask; shelves committed as round 139). Still paused otherwise: resume at round 140 (no research started)"
+  "status": "running",
+  "holder": "lane A thread",
+  "heartbeat": "2026-10-29T00:40:00-05:00",
+  "note": "resumed 2026-10-29 at Adam's request; finishing his Libronix leftovers (Beecher Plymouth Pulpit, Benson OT 1-2) while he decides the scope of round 140 (staged picks vs sweep)"
 }
