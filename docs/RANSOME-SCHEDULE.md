@@ -1,6 +1,6 @@
 # Arthur Ransome: what is held, and when the rest becomes free
 
-Generated 2026-10-10 from `pipeline/ransome_shelf.json`; the shelf is the record, this page is its calendar.
+Generated 2026-10-10 (wanted list revised 2026-10-29) from `pipeline/ransome_shelf.json`; the shelf is the record, this page is its calendar.
 
 **US status only.** Ransome died on 3 June 1967. In the UK, the EU and other life+70 countries everything he wrote stays in copyright until **1 January 2038**. In Canada (life+50, not extended retroactively) it has all been free since 2018. The US rule binds the Armarium: a book first published abroad in 1930-1977 is protected for 95 years from publication, so it becomes free on 1 January of its publication year + 96. Books first published after his death follow their own rules, given per row.
 
@@ -29,16 +29,16 @@ Generated 2026-10-10 from `pipeline/ransome_shelf.json`; the shelf is the record
 
 Swallows and Amazons is held twice: `ransome-swallows-and-amazons` (Standard Ebooks, the reading text) and `ransome-swallows-and-amazons-1930` (the 1946 Cape impression's raw OCR, kept as a collation witness). Old Peter's Russian Tales and his Gourmont translation are on lane C's `ransome-translations` shelf.
 
-## Free now, but no open copy found yet (wanted)
+## Free now, not yet held
 
-| Year | Book |
-|---|---|
-| 1905 | The Stone Lady |
-| 1906 | Highways and Byways in Fairyland |
-| 1906 | The Things in Our Garden |
-| 1910 | The Imp and the Elf and the Ogre |
-| 1915 | The Elixir of Life |
-| 1929 | Rod and Line |
+| Year | Book | Where a copy is |
+|---|---|---|
+| 1905 | The Stone Lady | HathiTrust full view, Record 102299744 (item uiug.30112118495370). Found 2026-10-29, not yet fetched. |
+| 1906 | Highways and Byways in Fairyland | No open copy found. |
+| 1906 | The Things in Our Garden | No open copy found. |
+| 1910 | The Imp and the Elf and the Ogre | No open copy found. |
+| 1915 | The Elixir of Life | Open PDF at Illinois Brittle Books; HathiTrust Record 100008752 (US only). Found 2026-10-29, not yet fetched. |
+| 1929 | Rod and Line | HathiTrust Record 006516087, a 1935 Cape printing (US only). Check whether the 1935 printing adds anything before taking it. |
 
 ## The calendar: when each later book becomes free in the US
 
