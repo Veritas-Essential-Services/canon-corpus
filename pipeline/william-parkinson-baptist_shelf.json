@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain William Parkinson, pastor of the First Baptist Church in the City of New York, for the Word Hoard: a sermon of 1812, his Jubilee sermon with a history of that church, and a sermon in his series on Deuteronomy xxxiii. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 127 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william parkinson",
+  "w. parkinson",
+  "parkinson"
+ ],
+ "_surname": [
+  "parkinson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "parkinson-sermon-1812": [
+   "sermondeliveredi00park",
+   "A sermon, delivered in the meeting house of the First Baptist church in the city of New York, August 20th, 1812. Being a day recommended, by the constituted authorities of the nation, as a day of special humiliation and prayer, on account of the present war (New-York, Printed for J. Tiebout, 1812)"
+  ],
+  "parkinson-jubilee": [
+   "jubileesermoncon00park_0",
+   "Jubilee : a sermon, containing a history of the origin of the First Baptist Church in the City of New York, and its progress, during the first fifty years since its constitution (with explanatory notes) : delivered in the meeting-house of said church, Jan. 1, 1813 (New-York : Printed for the proprietor, 1813)"
+  ],
+  "parkinson-deuteronomy": [
+   "sermonbeingoneof00park",
+   "A sermon; being one of a series of sermons on the XXXIII chapter of Deuteronomy ([New York], 1828)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "parkinson-dups": "cihm_20977 and jubileesermonco00park are other scans or a later edition",
+  "parkinson-sabbath": "A Discussion of the Weekly Sabbath is by another author"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "parkinson-hymns": "A Selection of Hymns and Spiritual Songs (1817), IA selectionofhym1817park: a hymnal he compiled (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "parkinson-sermon-1812": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1812",
+   "ia_date": "1812",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "parkinson-jubilee": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1813",
+   "ia_date": "1813",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "parkinson-deuteronomy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "parkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

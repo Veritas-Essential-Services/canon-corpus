@@ -1,0 +1,524 @@
+{
+ "_about": "Storytellers' tail, group 36: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Marshall M. Kirkman, Thomas Kirwan, Frank Koester, Nathan C. Kouns, Joseph Martin Kronheim, Frederick Landis, Angela Langer, Mary A. Lathbury, Andreas Latzko, C. E. Lawrence, Alice D. Le Plongeon, Homer Lea, William Harvey Leathem, Mary Elizabeth Southwell Dudley Leathley, C. Lee, Day Kellogg Lee, Eliza Buckminster Lee, Holme Lee, M. Lee, Minnie Mary Lee, R. Lee, Félicité Lefèvre, John Lespérance, Bruno Lessing, Charlton M. Lewis, G. W. Lewis, Jeanie Gould Lincoln, Frank Bird Linderman, David Lindsay, William Lindsey. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 36 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "mmkirkman-romance-of-gilbert-holmes": [
+   "marshall m. kirkman",
+   "marshall monroe kirkman",
+   "kirkman"
+  ],
+  "tkirwan-soldiering-in-north-carolina-being-the-experiences-o": [
+   "thomas kirwan",
+   "kirwan"
+  ],
+  "fkoester-under-the-desert-stars": [
+   "frank koester",
+   "koester"
+  ],
+  "nckouns-arius-the-libyan": [
+   "nathan c. kouns",
+   "nathan chapman kouns",
+   "kouns"
+  ],
+  "jmkronheim-my-first-picture-book-with-thirty-six-pages-of-pi": [
+   "joseph martin kronheim",
+   "kronheim"
+  ],
+  "flandis-angel-of-lonesome-hill": [
+   "frederick landis",
+   "landis"
+  ],
+  "alanger-rue-and-roses": [
+   "angela langer",
+   "langer"
+  ],
+  "malathbury-child-s-story-of-the-bible": [
+   "mary a. lathbury",
+   "mary artemisia lathbury",
+   "lathbury"
+  ],
+  "alatzko-men-in-war": [
+   "andreas latzko",
+   "latzko"
+  ],
+  "celawrence-much-ado-about-something": [
+   "c. e. lawrence",
+   "charles edward lawrence",
+   "lawrence"
+  ],
+  "adleplongeon-queen-moo-s-talisman": [
+   "alice d. le plongeon",
+   "alice dixon le plongeon"
+  ],
+  "hlea-vermilion-pencil": [
+   "homer lea"
+  ],
+  "whleathem-comrade-in-white": [
+   "william harvey leathem",
+   "leathem"
+  ],
+  "mesdleathley-mamma-s-stories-about-birds": [
+   "mary elizabeth southwell dudley leathley",
+   "leathley"
+  ],
+  "clee-oak-staircase": [
+   "c. lee",
+   "catherine lee"
+  ],
+  "dklee-summerfield-or-life-on-a-farm": [
+   "day kellogg lee"
+  ],
+  "eblee-delusion": [
+   "eliza buckminster lee"
+  ],
+  "hlee-vicissitudes-of-bessie-fairfax": [
+   "holme lee"
+  ],
+  "mlee-oak-staircase": [
+   "m. lee",
+   "mary lee"
+  ],
+  "mmlee-hubert-s-wife-a-story-for-you": [
+   "minnie mary lee"
+  ],
+  "rlee-anecdotes-of-the-habits-and-instinct-of-animals": [
+   "r. lee"
+  ],
+  "flefevre-cock-the-mouse-and-the-little-red-hen": [
+   "félicité lefèvre",
+   "lefèvre"
+  ],
+  "jlesperance-bastonnais-tale-of-the-american-invasion-of-cana": [
+   "john lespérance",
+   "lespérance"
+  ],
+  "blessing-children-of-men": [
+   "bruno lessing",
+   "lessing"
+  ],
+  "cmlewis-gawayne-and-the-green-knight": [
+   "charlton m. lewis",
+   "charlton miner lewis"
+  ],
+  "gwlewis-campaigns-of-the-124th-regiment-ohio-volunteer-infan": [
+   "g. w. lewis",
+   "george w. lewis"
+  ],
+  "jglincoln-unwilling-maid-being-the-history-of-certain-episod": [
+   "jeanie gould lincoln",
+   "lincoln"
+  ],
+  "fblinderman-indian-why-stories": [
+   "frank bird linderman",
+   "linderman"
+  ],
+  "dlindsay-voyage-to-arcturus": [
+   "david lindsay",
+   "lindsay"
+  ],
+  "wlindsey-at-start-and-finish": [
+   "william lindsey",
+   "lindsey"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "mmkirkman-romance-of-gilbert-holmes": [
+   53006,
+   "The Romance of Gilbert Holmes: An Historical Novel"
+  ],
+  "tkirwan-soldiering-in-north-carolina-being-the-experiences-o": [
+   45894,
+   "Soldiering in North Carolina Being the experiences of a 'typo' in the pines, swamps, fields, sandy roads, towns, cities, and among the fleas, wood-ticks, 'gray-backs,' mosquitoes, blue-tail flies, moccasin snakes, lizards, scorpions, rebels, and other reptiles, pests, and vermin of the 'Old North State.' Embracing an account of the three-years and nine-months Massachusetts regiments in the department, the freedmen, etc., etc., etc."
+  ],
+  "fkoester-under-the-desert-stars": [
+   73080,
+   "Under the desert stars"
+  ],
+  "nckouns-arius-the-libyan": [
+   42895,
+   "Arius the Libyan: A Romance of the Primitive Church"
+  ],
+  "jmkronheim-my-first-picture-book-with-thirty-six-pages-of-pi": [
+   18937,
+   "My First Picture Book With Thirty-six Pages of Pictures Printed in Colours by Kronheim"
+  ],
+  "flandis-angel-of-lonesome-hill": [
+   9193,
+   "The Angel of Lonesome Hill; A Story of a President"
+  ],
+  "alanger-rue-and-roses": [
+   63947,
+   "Rue and Roses"
+  ],
+  "malathbury-child-s-story-of-the-bible": [
+   25309,
+   "Child's Story of the Bible"
+  ],
+  "alatzko-men-in-war": [
+   8440,
+   "Men in War"
+  ],
+  "celawrence-much-ado-about-something": [
+   52101,
+   "Much Ado About Something"
+  ],
+  "adleplongeon-queen-moo-s-talisman": [
+   47842,
+   "Queen Moo's Talisman: The Fall of the Maya Empire"
+  ],
+  "hlea-vermilion-pencil": [
+   54950,
+   "The Vermilion Pencil: A Romance of China"
+  ],
+  "whleathem-comrade-in-white": [
+   9384,
+   "The Comrade in White"
+  ],
+  "mesdleathley-mamma-s-stories-about-birds": [
+   24378,
+   "Mamma's Stories about Birds"
+  ],
+  "clee-oak-staircase": [
+   72455,
+   "The oak staircase"
+  ],
+  "dklee-summerfield-or-life-on-a-farm": [
+   23832,
+   "Summerfield or, Life on a Farm"
+  ],
+  "eblee-delusion": [
+   39176,
+   "Delusion; or, The Witch of New England"
+  ],
+  "hlee-vicissitudes-of-bessie-fairfax": [
+   17086,
+   "The Vicissitudes of Bessie Fairfax"
+  ],
+  "mlee-oak-staircase": [
+   72455,
+   "The oak staircase"
+  ],
+  "mmlee-hubert-s-wife-a-story-for-you": [
+   21949,
+   "Hubert's Wife A Story for You"
+  ],
+  "rlee-anecdotes-of-the-habits-and-instinct-of-animals": [
+   21973,
+   "Anecdotes of the Habits and Instinct of Animals"
+  ],
+  "flefevre-cock-the-mouse-and-the-little-red-hen": [
+   29980,
+   "The cock, the mouse, and the little red hen"
+  ],
+  "jlesperance-bastonnais-tale-of-the-american-invasion-of-cana": [
+   18967,
+   "The Bastonnais Tale of the American Invasion of Canada in 1775-76"
+  ],
+  "blessing-children-of-men": [
+   54761,
+   "Children of Men"
+  ],
+  "cmlewis-gawayne-and-the-green-knight": [
+   14410,
+   "Gawayne and the Green Knight: A Fairy Tale"
+  ],
+  "gwlewis-campaigns-of-the-124th-regiment-ohio-volunteer-infan": [
+   52223,
+   "The Campaigns of the 124th Regiment, Ohio Volunteer Infantry, with Roster and Roll of Honor"
+  ],
+  "jglincoln-unwilling-maid-being-the-history-of-certain-episod": [
+   10958,
+   "An Unwilling Maid Being the History of Certain Episodes during the American Revolution in the Early Life of Mistress Betty Yorke, born Wolcott"
+  ],
+  "fblinderman-indian-why-stories": [
+   606,
+   "Indian Why Stories: Sparks from War Eagle's Lodge-Fire"
+  ],
+  "dlindsay-voyage-to-arcturus": [
+   1329,
+   "A Voyage to Arcturus"
+  ],
+  "wlindsey-at-start-and-finish": [
+   39668,
+   "At Start and Finish"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mmkirkman-romance-of-gilbert-holmes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marshall m. kirkman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tkirwan-soldiering-in-north-carolina-being-the-experiences-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas kirwan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fkoester-under-the-desert-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank koester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nckouns-arius-the-libyan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nathan c. kouns",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmkronheim-my-first-picture-book-with-thirty-six-pages-of-pi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph martin kronheim",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flandis-angel-of-lonesome-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick landis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alanger-rue-and-roses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "angela langer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "malathbury-child-s-story-of-the-bible": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary a. lathbury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "alatzko-men-in-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andreas latzko",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "celawrence-much-ado-about-something": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. e. lawrence",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "adleplongeon-queen-moo-s-talisman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alice d. le plongeon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlea-vermilion-pencil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "homer lea",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "whleathem-comrade-in-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william harvey leathem",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mesdleathley-mamma-s-stories-about-birds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary elizabeth southwell dudley leathley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clee-oak-staircase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dklee-summerfield-or-life-on-a-farm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "day kellogg lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eblee-delusion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eliza buckminster lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hlee-vicissitudes-of-bessie-fairfax": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "holme lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mlee-oak-staircase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mmlee-hubert-s-wife-a-story-for-you": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "minnie mary lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rlee-anecdotes-of-the-habits-and-instinct-of-animals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. lee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flefevre-cock-the-mouse-and-the-little-red-hen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "félicité lefèvre",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlesperance-bastonnais-tale-of-the-american-invasion-of-cana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john lespérance",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blessing-children-of-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bruno lessing",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cmlewis-gawayne-and-the-green-knight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlton m. lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwlewis-campaigns-of-the-124th-regiment-ohio-volunteer-infan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. w. lewis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jglincoln-unwilling-maid-being-the-history-of-certain-episod": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jeanie gould lincoln",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fblinderman-indian-why-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank bird linderman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dlindsay-voyage-to-arcturus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wlindsey-at-start-and-finish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william lindsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

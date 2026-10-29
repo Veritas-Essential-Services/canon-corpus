@@ -1,0 +1,109 @@
+{
+ "_about": "Laura Jean Libbey: Popular romances. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Laura Jean Libbey",
+ "_name_words": [
+  "libbey"
+ ],
+ "_surname": [
+  "libbey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ljlibbey-mischievous-maid-faynie": [
+   13740,
+   "Mischievous Maid Faynie"
+  ],
+  "ljlibbey-jolly-sally-pendleton": [
+   29544,
+   "Jolly Sally Pendleton; Or, the Wife Who Was Not a Wife"
+  ],
+  "ljlibbey-pretty-madcap-dorothy": [
+   29776,
+   "Pretty Madcap Dorothy; Or, How She Won a Lover"
+  ],
+  "ljlibbey-daisy-brooks": [
+   30137,
+   "Daisy Brooks; Or, A Perilous Love"
+  ],
+  "ljlibbey-kidnapped-at-the-altar": [
+   30980,
+   "Kidnapped at the Altar; Or, The Romance of that Saucy Jessie Bain"
+  ],
+  "ljlibbey-dangerous-flirtation": [
+   53676,
+   "A Dangerous Flirtation; Or, Did Ida May Sin?"
+  ],
+  "ljlibbey-betrothed-for-a-day": [
+   68760,
+   "Betrothed for a day: Or, Queenie Trevalyn's love test"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ljlibbey-mischievous-maid-faynie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "libbey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljlibbey-jolly-sally-pendleton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "libbey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljlibbey-pretty-madcap-dorothy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "libbey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljlibbey-daisy-brooks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "libbey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljlibbey-kidnapped-at-the-altar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "libbey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljlibbey-dangerous-flirtation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "libbey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ljlibbey-betrothed-for-a-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "libbey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain Robert Nelson (1656-1715), lay nonjuror and devotional writer, for the Word Hoard: A Companion for the Festivals and Fasts of the Church of England (1841 printing), The Great Duty of Frequenting the Christian Sacrifice (1811), The Practice of True Devotion (1764), The Life of Dr. George Bull (1713) and An Address to Persons of Quality and Estate (1715), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nelson"
+ ],
+ "_surname": [
+  "robert nelson",
+  "nelson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nelson-festivals-and-fasts-1841": [
+   "companionforfest00nelsuoft",
+   "A companion for the festivals and fasts of the Church of England (London : SPCK, 1841)"
+  ],
+  "nelson-great-duty-1811": [
+   "greatdutyoffrequ00nels",
+   "The great duty of frequenting the Christian sacrifice : and the nature of the preparation required : with suitable devotions, partly collected from the ancient liturgies, to which are prefixed instructions for confirmation (New-York : Printed and sold by T. & J. Swords, 1811)"
+  ],
+  "nelson-true-devotion-1764": [
+   "practiceoftruede00nelsiala",
+   "The practice of true devotion, in relation to the end, as well as the means of religion; with an office for the Holy Communion (London : Dod, 1764)"
+  ],
+  "nelson-life-of-bull-1713": [
+   "lifeofdrgeorgebu00nelsiala",
+   "The life of Dr. George Bull, late Lord Bishop of St. David's : with the history of those controversies in which he was engaged (London : R. Smith, 1713)"
+  ],
+  "nelson-address-persons-of-quality-1715": [
+   "b30528343",
+   "An address to persons of quality and estate (London : Printed by G. James, for R. S. and sold by Charles Rivington, at the Bible and Crown in St. Paul's Church-yard, 1715)"
+  ]
+ },
+ "_alternates": {
+  "nelson-copies": "Other printings of the Companion (1773-1843) and of each other work"
+ },
+ "_excluded": {
+  "nelson-other": "Hobart's American adaptation of the Companion for the Protestant Episcopal Church (1804-1851), shelved with Hobart if anywhere; other Robert Nelsons"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nelson-festivals-and-fasts-1841": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nelson-great-duty-1811": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nelson-true-devotion-1764": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1764",
+   "ia_date": "1764",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nelson-life-of-bull-1713": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nelson-address-persons-of-quality-1715": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert nelson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1715",
+   "ia_date": "1715",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

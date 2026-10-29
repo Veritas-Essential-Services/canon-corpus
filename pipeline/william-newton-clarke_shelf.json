@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain William Newton Clarke (1841-1912, Colgate, Baptist systematic theologian) for the Word Hoard: An Outline of Christian Theology (1898), Can I Believe in God the Father? (1899), What Shall We Think of Christianity? (1899), A Study of Christian Missions (1900), The Use of the Scriptures in Theology (1905), The Christian Doctrine of God (1909), Sixty Years with the Bible (1909) and The Ideal of Jesus (1911), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "clarke"
+ ],
+ "_surname": [
+  "clarke",
+  "william newton clarke",
+  "w. n. clarke"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wnclarke-outline-theology": [
+   "outlineofchristi00clar_0",
+   "An Outline of Christian Theology (New York: Charles Scribner's Sons, 1898)"
+  ],
+  "wnclarke-god-the-father": [
+   "canibelieveingod00clar",
+   "Can I Believe in God the Father? (New York: Charles Scribner's Sons, 1899)"
+  ],
+  "wnclarke-think-of-christianity": [
+   "whatshallwethink00clar",
+   "What Shall We Think of Christianity? third edition (New York: Charles Scribner's Sons, 1899)"
+  ],
+  "wnclarke-christian-missions": [
+   "studyofchristian0000clar",
+   "A Study of Christian Missions (New York: Charles Scribner's Sons, 1900)"
+  ],
+  "wnclarke-use-of-scriptures": [
+   "usescripturesin00clargoog",
+   "The Use of the Scriptures in Theology (New York: Charles Scribner's Sons; copyright 1905)"
+  ],
+  "wnclarke-doctrine-of-god": [
+   "christiandoctrin00clar_1",
+   "The Christian Doctrine of God (New York: Charles Scribner's Sons, 1909)"
+  ],
+  "wnclarke-sixty-years-bible": [
+   "sixtyyearswithbi00clar",
+   "Sixty Years with the Bible (New York: Charles Scribner's Sons, 1909)"
+  ],
+  "wnclarke-ideal-of-jesus": [
+   "idealofjesus00clar",
+   "The Ideal of Jesus (New York: Charles Scribner's Sons, 1911)"
+  ]
+ },
+ "_alternates": {
+  "wnclarke-copies": "The Edinburgh Christian Doctrine of God (1909); later editions of the Outline; the 1906 Use of the Scriptures"
+ },
+ "_excluded": {
+  "wnclarke-1914": "studyofchristian1900clar: a 1914 printing catalogued 1900"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "wnclarke-mark": "Commentary on Mark in Hovey's American Commentary (1881): his name appears only under the preface, not on a title page"
+ },
+ "_translators": {},
+ "_checks": {
+  "wnclarke-outline-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wnclarke-god-the-father": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wnclarke-think-of-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wnclarke-christian-missions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wnclarke-use-of-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wnclarke-doctrine-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wnclarke-sixty-years-bible": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wnclarke-ideal-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

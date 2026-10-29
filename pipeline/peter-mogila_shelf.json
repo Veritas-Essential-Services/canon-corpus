@@ -1,0 +1,42 @@
+{
+ "_about": "Public-domain Peter Mogila (Petro Mohyla, 1596-1647), metropolitan of Kiev, for the Word Hoard: The Orthodox Confession of the Catholic and Apostolic Eastern Church from the version of Peter Mogila, edited by J. J. Overbeck with a notice by J. N. W. B. Robertson (London: Thomas Baker, 1898), from an Internet Archive scan. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mogila"
+ ],
+ "_surname": [
+  "mogila",
+  "peter mogila"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mogila-orthodox-confession-1898": [
+   "cu31924029363094",
+   "The Orthodox Confession of the Catholic and Apostolic Eastern Church, from the version of Peter Mogila, edited by J. J. Overbeck (London: Thomas Baker, 1898)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mogila-other": "The 1762 London printing: its title page names neither Mogila nor a translator, held for Adam's ruling with the anonymous title pages"
+ },
+ "_rights_checked": {
+  "mogila-orthodox-confession-1898": "title page read: translator not named; Robertson's notice credits the eighteenth-century translation to Philip Lodvel (Lodvill)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mogila-orthodox-confession-1898": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mogila",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named; Robertson's notice credits the eighteenth-century translation to Philip Lodvel (Lodvill)"
+  }
+ }
+}

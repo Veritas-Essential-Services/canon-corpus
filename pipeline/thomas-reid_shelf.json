@@ -1,0 +1,58 @@
+{
+ "_about": "Thomas Reid (1710-1796), the Scottish common-sense philosopher, raw IA OCR: The Works of Thomas Reid, now fully collected, with selections from his unpublished letters, preface, notes and supplementary dissertations by Sir William Hamilton, 8th ed. (Edinburgh: James Thin, 1880, 2 vols.): the Inquiry into the Human Mind, the Essays on the Intellectual and on the Active Powers, and the shorter pieces. US public domain. No uids minted.",
+ "_author": "Thomas Reid",
+ "_name_words": [
+  "thomas",
+  "reid"
+ ],
+ "_surname": [
+  "reid"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "reid-hamilton-works-1880-v1": [
+   "worksnowfullycol01reiduoft",
+   "The Works of Thomas Reid, now fully collected, 8th ed., vol. I (Edinburgh, 1880)",
+   "ed. Sir William Hamilton"
+  ],
+  "reid-hamilton-works-1880-v2": [
+   "worksnowfullyco02reiduoft",
+   "The Works of Thomas Reid, 8th ed., vol. II (Edinburgh, 1880)",
+   "ed. Sir William Hamilton"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "reid-hamilton-works-1880-v1": "Hamilton",
+  "reid-hamilton-works-1880-v2": "Hamilton"
+ },
+ "_checks": {
+  "reid-hamilton-works-1880-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "reid",
+   "translator_claimed": "Hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "reid-hamilton-works-1880-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "reid",
+   "translator_claimed": "Hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

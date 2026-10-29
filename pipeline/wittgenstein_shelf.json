@@ -1,0 +1,40 @@
+{
+ "_about": "Ludwig Wittgenstein (1889-1951), raw IA OCR (Digital Library of India scan): Tractatus Logico-Philosophicus, German text with English translation on facing pages, introduction by Bertrand Russell, International Library of Psychology, Philosophy and Scientific Method (London: Kegan Paul; New York: Harcourt, Brace, 1922). Published 1922, so US public domain. The translator's note is signed C. K. Ogden, who thanks F. P. Ramsey for help with the translation. PG 5740 has no plain-text file. No uids minted.",
+ "_author": "Ludwig Wittgenstein",
+ "_name_words": [
+  "ludwig",
+  "l",
+  "wittgenstein"
+ ],
+ "_surname": [
+  "wittgenstein"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wittgenstein-tractatus-1922": [
+   "in.ernet.dli.2015.218527",
+   "Tractatus Logico-Philosophicus, German and English (London: Kegan Paul, 1922)",
+   "2015.218527.Tractatus-Logico_djvu.txt"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "wittgenstein-tractatus-1922": "Ogden"
+ },
+ "_checks": {
+  "wittgenstein-tractatus-1922": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wittgenstein",
+   "translator_claimed": "Ogden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

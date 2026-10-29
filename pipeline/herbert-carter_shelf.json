@@ -1,0 +1,176 @@
+{
+ "_about": "Herbert Carter: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Herbert Carter",
+ "_name_words": [
+  "carter",
+  "herbert"
+ ],
+ "_surname": [
+  "herbert carter",
+  "carter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hcarter-boy-scouts-on-sturgeon-island": [
+   8067,
+   "The Boy Scouts on Sturgeon Island; or, Marooned Among the Game-fish Poachers"
+  ],
+  "hcarter-boy-scouts-first-camp-fire": [
+   20434,
+   "The Boy Scouts' First Camp Fire; or, Scouting with the Silver Fox Patrol"
+  ],
+  "hcarter-boy-scouts-in-the-maine-woods": [
+   31389,
+   "The Boy Scouts in the Maine Woods; Or, The New Test for the Silver Fox Patrol"
+  ],
+  "hcarter-boy-scouts-in-the-blue-ridge": [
+   32240,
+   "The Boy Scouts in the Blue Ridge; Or, Marooned Among the Moonshiners"
+  ],
+  "hcarter-boy-scouts-in-the-rockies": [
+   32354,
+   "The Boy Scouts in the Rockies; Or, The Secret of the Hidden Silver Mine"
+  ],
+  "hcarter-boy-scouts-through-the-big-timber": [
+   44882,
+   "The Boy Scouts Through the Big Timber; Or, The Search for the Lost Tenderfoot"
+  ],
+  "hcarter-boy-scouts-on-the-trail": [
+   45028,
+   "The Boy Scouts on the Trail; or, Scouting through the Big Game Country"
+  ],
+  "hcarter-boy-scouts-along-the-susquehanna": [
+   45667,
+   "The Boy Scouts Along the Susquehanna; or, The Silver Fox Patrol Caught in a Flood"
+  ],
+  "hcarter-boy-scouts-on-war-trails-in-belgium": [
+   46968,
+   "The Boy Scouts on War Trails in Belgium; Or, Caught Between Hostile Armies"
+  ],
+  "hcarter-boy-scouts-at-the-battle-of-saratoga": [
+   47037,
+   "The Boy Scouts at the Battle of Saratoga: The Story of General Burgoyne's Defeat"
+  ],
+  "hcarter-boy-scouts-afoot-in-france": [
+   47358,
+   "The Boy Scouts Afoot in France; or, With the Red Cross Corps at the Marne"
+  ],
+  "hcarter-boy-scouts-down-in-dixie": [
+   48251,
+   "The Boy Scouts Down in Dixie; or, The Strange Secret of Alligator Swamp"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hcarter-boy-scouts-on-sturgeon-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-first-camp-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-in-the-maine-woods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-in-the-blue-ridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-in-the-rockies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-through-the-big-timber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-on-the-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-along-the-susquehanna": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-on-war-trails-in-belgium": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-at-the-battle-of-saratoga": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-afoot-in-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hcarter-boy-scouts-down-in-dixie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "herbert carter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

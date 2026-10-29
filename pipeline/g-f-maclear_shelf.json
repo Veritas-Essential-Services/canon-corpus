@@ -1,0 +1,155 @@
+{
+ "_about": "Public-domain G. F. Maclear (George Frederick Maclear, 1833-1902), head master of King's College School and Warden of St Augustine's, Canterbury, for the Word Hoard: his Class-Books of Old and New Testament History (1867-68, and Gutenberg's 1890 and 1894 printings), An Introduction to the Creeds (1889), An Introduction to the Articles, with W. W. Williams (1895), Apostles of Mediaeval Europe (1869) and A History of Christian Missions during the Middle Ages (1863), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "maclear"
+ ],
+ "_surname": [
+  "maclear",
+  "g. f. maclear",
+  "george frederick maclear"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "maclear-class-book-ot-pg": [
+   63528,
+   "A Class-Book of Old Testament History (London and New York: Macmillan, 1894)"
+  ],
+  "maclear-class-book-nt-pg": [
+   65247,
+   "A Class-Book of New Testament History (London and New York: Macmillan, 1890)"
+  ]
+ },
+ "internet_archive": {
+  "maclear-class-book-ot": [
+   "aclassbookoldte00maclgoog",
+   "A Class-Book of Old Testament History, fourth edition (London and Cambridge: Macmillan, 1868)"
+  ],
+  "maclear-class-book-nt": [
+   "aclassbooknewte02maclgoog",
+   "A Class-Book of New Testament History, second edition (London: Macmillan, 1867)"
+  ],
+  "maclear-introduction-creeds": [
+   "introductiontocr00macl",
+   "An Introduction to the Creeds (London and New York: Macmillan, 1889)"
+  ],
+  "maclear-introduction-articles": [
+   "introductiontoar00macl",
+   "An Introduction to the Articles of the Church of England, by G. F. Maclear and W. W. Williams (London and New York: Macmillan, 1895)"
+  ],
+  "maclear-apostles-mediaeval-europe": [
+   "cu31924029262065",
+   "Apostles of Mediaeval Europe (London: Macmillan; title page undated, preface dated 1869)"
+  ],
+  "maclear-christian-missions": [
+   "historyofchristi00macl",
+   "A History of Christian Missions during the Middle Ages (Cambridge and London: Macmillan, 1863)"
+  ]
+ },
+ "_alternates": {
+  "maclear-copies": "Class-Book new editions (1881, 1885); Creeds 1904; Articles 1896; the undated Apostles; the Elementary Introduction with Procter (on the francis-procter shelf)"
+ },
+ "_excluded": {
+  "maclear-later": "1920 and 1922 reprints of the New Testament Class-Book"
+ },
+ "_identity_checked": {
+  "maclear-class-book-ot": {
+   "author": "title page read: 'The Rev. G. F. Maclear, B.D.' (OCR 'Gr P.^a^ACLEAR')"
+  },
+  "maclear-class-book-nt": {
+   "author": "title page read: 'The Rev. G. F. Maclear, M.A.' (OCR '^ACLEAR')"
+  },
+  "maclear-introduction-creeds": {
+   "author": "title page read: 'The Rev. G. F. Maclear, D.D.' (OCR '4PACLEAR')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "maclear-class-book-ot-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maclear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maclear-class-book-nt-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maclear",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "maclear-class-book-ot": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maclear-class-book-nt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maclear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "maclear-introduction-creeds": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maclear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maclear-introduction-articles": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maclear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maclear-apostles-mediaeval-europe": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maclear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "maclear-christian-missions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "maclear",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "_about": "Tibullus in English: Theodore C. Williams's verse Elegies (1905), clean Gutenberg.",
+ "_name_words": [
+  "tibullus"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tibullus-williams": [
+   9610,
+   "The Elegies of Tibullus",
+   "tr. Theodore Chickering Williams (verse)"
+  ]
+ },
+ "internet_archive": {
+  "tibullus-grainger-1759": [
+   "apoeticaltransl00graigoog",
+   "A Poetical Translation of the Elegies of Tibullus, and of the poems of Sulpicia (London, 1759; Latin text facing), 2 vols. in one scan",
+   "tr. James Grainger"
+  ]
+ },
+ "_excluded": {
+  "J. P. Postgate, Loeb (1913)": "held on the Catullus shelf: catullus-tibullus-pervigilium-loeb (the Loeb volume with Cornish's Catullus and Postgate's Tibullus). Also held there: Kelly's Bohn prose Tibullus with Grainger's verse (catullus-tibullus-kelly-erotica-1854)",
+  "John Dart's Tibullus (1720)": "PD; the scans found (workstibullusco00tibugoog and the ECCO copies) read at 0.69 clean words. Refused for OCR quality on 2026-10-03"
+ },
+ "_surname": [
+  "tibullus"
+ ],
+ "_translators": {
+  "tibullus-williams": "Theodore Chickering Williams",
+  "tibullus-grainger-1759": "James Grainger"
+ },
+ "_checks": {
+  "tibullus-williams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tibullus",
+   "translator_claimed": "Theodore Chickering Williams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Theodore Chickering Williams",
+   "translator_match": true
+  },
+  "tibullus-grainger-1759": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "tibullus",
+   "translator_claimed": "James Grainger",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

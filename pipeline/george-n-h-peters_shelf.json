@@ -1,0 +1,80 @@
+{
+ "_about": "Public-domain George N. H. Peters (George Nathaniel Henry Peters, 1825-1909, Lutheran minister) for the Word Hoard: The Theocratic Kingdom of Our Lord Jesus, the Christ (Funk & Wagnalls, 1884), all three volumes from Internet Archive scans of the first edition. Raw OCR. Added 2026-10-17 by lane A, round 22 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "peters"
+ ],
+ "_surname": [
+  "geo. n. h. peters",
+  "george n. h. peters",
+  "g. n. h. peters",
+  "peters, george n. h.",
+  "geo. n. h. peters, a.m."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "peters-theocratic-kingdom-1": [
+   "theocratickingdo01pete",
+   "The Theocratic Kingdom of Our Lord Jesus, the Christ, vol. I (New York and London: Funk & Wagnalls, 1884)"
+  ],
+  "peters-theocratic-kingdom-2": [
+   "theocratickingdo02pete_0",
+   "The Theocratic Kingdom of Our Lord Jesus, the Christ, vol. II (New York and London: Funk & Wagnalls, 1884)"
+  ],
+  "peters-theocratic-kingdom-3": [
+   "theocratickingdo03pete",
+   "The Theocratic Kingdom of Our Lord Jesus, the Christ, vol. III (New York and London: Funk & Wagnalls, 1884)"
+  ]
+ },
+ "_alternates": {
+  "peters-copies": "Other 1884 copies: vol. I theocratickingdo01pete_0, theocratickingd01petegoog, theocratickingd02petegoog; vol. II theocratickingd03petegoog; vol. III theocratickingdo03pete_0, theocratickingd00petegoog, theocratickingd04petegoog (several Google scans are catalogued 1988 in error)"
+ },
+ "_excluded": {
+  "peters-kregel": "Kregel 1952 reprints with Wilbur M. Smith's introduction, some catalogued 1884 in error",
+  "peters-late": "1957 and 1972 reprints"
+ },
+ "_identity_checked": {
+  "peters-theocratic-kingdom-3": {
+   "author": "Title page read: 'Geo. N. H. Peters, A.M., Evang. Luth. Minister', OCR garbled to 'GEO. K H. PETEKS'; Funk & Wagnalls, 1884, vol. III by its epigraph (Prov. 2:4-6)"
+  }
+ },
+ "_pending": {
+  "peters-combined": "TheTheocraticKingdomPetersVols1-3: PDF only, title page unread"
+ },
+ "_checks": {
+  "peters-theocratic-kingdom-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "george n. h. peters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "peters-theocratic-kingdom-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "geo. n. h. peters",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "peters-theocratic-kingdom-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

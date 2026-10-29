@@ -1,0 +1,58 @@
+{
+ "_about": "Roger Bacon (c. 1214-1292) in English: The Opus Majus, a translation by Robert Belle Burke (Philadelphia: University of Pennsylvania Press; London: Humphrey Milford, MCMXXVIII, 2 vols.), from Bridges' corrected Latin text, raw IA OCR, clean 0.95-0.97. A Kessinger facsimile of vol. I (IA opusmajusofroger0001unse) was not taken. Named roger-bacon to keep him apart from Francis Bacon. US public domain (published 1928). No uids minted.",
+ "_author": "Roger Bacon",
+ "_name_words": [
+  "roger",
+  "bacon"
+ ],
+ "_surname": [
+  "roger bacon"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "roger-bacon-burke-opus-majus-1928-v1": [
+   "opusmajustransla01baco",
+   "The Opus Majus, vol. I (Philadelphia: University of Pennsylvania Press, 1928)",
+   "tr. Robert Belle Burke"
+  ],
+  "roger-bacon-burke-opus-majus-1928-v2": [
+   "opusmajusofroger0002robe_l9a1",
+   "The Opus Majus, vol. II (Philadelphia: University of Pennsylvania Press, 1928)",
+   "tr. Robert Belle Burke"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "roger-bacon-burke-opus-majus-1928-v1": "Burke",
+  "roger-bacon-burke-opus-majus-1928-v2": "Burke"
+ },
+ "_checks": {
+  "roger-bacon-burke-opus-majus-1928-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger bacon",
+   "translator_claimed": "Burke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "roger-bacon-burke-opus-majus-1928-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "roger bacon",
+   "translator_claimed": "Burke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

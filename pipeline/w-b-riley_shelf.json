@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain William Bell Riley (1861-1947), pastor of First Baptist Church, Minneapolis, and fundamentalist leader, for the Word Hoard: The Finality of the Higher Criticism, The Perennial Revival, Christ the Incomparable, Inspiration or Evolution, and volumes of The Bible of the Expositor and the Evangelist. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 100 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. b. riley",
+  "william bell riley",
+  "w.b. riley",
+  "william b. riley"
+ ],
+ "_surname": [
+  "w. b. riley",
+  "william bell riley",
+  "w.b. riley",
+  "william b. riley"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "riley-higher-criticism": [
+   "finalityofhigher00rileiala",
+   "The finality of the higher criticism; OR, The theory of evolution and false theology ([Minneapolis?, c190)"
+  ],
+  "riley-perennial-revival": [
+   "perennialrevival0000rile",
+   "The perennial revival : a plea for evangelism (Chicago : American Baptist Publication Society, 1916)"
+  ],
+  "riley-christ-incomparable": [
+   "christincomparab00rile",
+   "Christ the incomparable (New York : Fleming H. Revell Co., 1924)"
+  ],
+  "riley-expositor-nt-1925": [
+   "bibleofexpositor00rile",
+   "The Bible of the expositor and the evangelist : New Testament (Cleveland, O. : Union Gospel Press, 1925)"
+  ],
+  "riley-inspiration-evolution": [
+   "inspirationorevo0000wbri",
+   "Inspiration or evolution (catalogued 1926)"
+  ],
+  "riley-expositor-ot-1926": [
+   "bibleofexpositor02rile_0",
+   "The Bible of the expositor and the evangelist : Old Testament, vol. 2 (Cleveland, O. : Union Gospel Press, 1926)"
+  ],
+  "riley-expositor-1927": [
+   "bibleofexpositor0009wbri",
+   "The bible of the expositor and the evangelist, vol. 9 (catalogued 1927)"
+  ],
+  "riley-expositor-1929": [
+   "bibleofexpositor0010wbri",
+   "The Bible of the Expositor and teh Evangelist, vol. 10 (Union Gospel Press, 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "riley-windyridge": "Windyridge (a novel by the English writer Willie Riley)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "riley-higher-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "c1909]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "riley-perennial-revival": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "riley-christ-incomparable": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "riley-expositor-nt-1925": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "riley-inspiration-evolution": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "riley-expositor-ot-1926": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "riley-expositor-1927": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "riley-expositor-1929": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. b. riley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

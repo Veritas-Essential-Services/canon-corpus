@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain William Rintoul (1797-1851), Church of Scotland minister at Maryport and then at York (Toronto) and Streetsville, Upper Canada, for the Word Hoard: Remarks on the Claims of Scotsmen Abroad (1826). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 111 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william rintoul",
+  "w. rintoul",
+  "rintoul"
+ ],
+ "_surname": [
+  "william rintoul",
+  "rintoul"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rintoul-scotsmen-abroad": [
+   "remarksonclaimso00rint",
+   "Remarks on the claims of Scotsmen abroad, on the Christian sympathy and exertions of their countrymen at home (Edinburgh : printed for Waugh & Innes, 1826)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rintoul-synod": "cihm_49446 (a pastoral letter of the Synod, a corporate document)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "rintoul-dancing": "A Sermon on Dancing, preached by a minister in Canada West (1843), IA cihm_40457: published without his name; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "rintoul-presbytery-1843": "Sermon and addresses, on the occasion of the admission, by the Presbytery of Toronto, of the Rev. John Barclay, A.M. to the pastoral charge of the congregation of St. Andrew's Church, Toronto, on the 6th December, 1842 (Toronto, Printed at the British Colonist Office, 1843), IA sermonaddresseso00rint: his sermon bound with addresses by James George and John Tawse (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "rintoul-scotsmen-abroad": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william rintoul",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

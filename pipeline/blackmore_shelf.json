@@ -1,0 +1,343 @@
+{
+ "_about": "R. D. Blackmore's novels (Lorna Doone and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "R. D. Blackmore",
+ "_name_words": [
+  "blackmore"
+ ],
+ "_surname": [
+  "r. d. blackmore"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "blackmore-lorna-doone": [
+   840,
+   "Lorna Doone: A Romance of Exmoor"
+  ],
+  "blackmore-mary-anerley": [
+   6824,
+   "Mary Anerley: A Yorkshire Tale"
+  ],
+  "blackmore-erema": [
+   7112,
+   "Erema; Or, My Father's Sin"
+  ],
+  "blackmore-springhaven": [
+   7435,
+   "Springhaven: A Tale of the Great War"
+  ],
+  "blackmore-slain-by-the-doones": [
+   22315,
+   "Slain By The Doones"
+  ],
+  "blackmore-frida": [
+   22316,
+   "Frida; or, the lover's leap: a legend of the West Country From \"Slain by the Doones\" by R. D. Blackmore"
+  ],
+  "blackmore-george-bowring-a-tale-of-cader-idris-from-slain-by": [
+   22317,
+   "George Bowring - A Tale Of Cader Idris From \"Slain By The Doones\" By R. D. Blackmore"
+  ],
+  "blackmore-crockers-hole-from-slain-by-the-doones-by-r-d-blac": [
+   22318,
+   "Crocker's Hole From \"Slain By The Doones\" By R. D. Blackmore"
+  ],
+  "blackmore-fringilla": [
+   22474,
+   "Fringilla: Some Tales In Verse"
+  ],
+  "blackmore-clara-vaughan-volume-1-of-3": [
+   41020,
+   "Clara Vaughan, Volume 1 (of 3)"
+  ],
+  "blackmore-clara-vaughan-volume-2-of-3": [
+   41021,
+   "Clara Vaughan, Volume 2 (of 3)"
+  ],
+  "blackmore-clara-vaughan-volume-3-of-3": [
+   41022,
+   "Clara Vaughan, Volume 3 (of 3)"
+  ],
+  "blackmore-dariel": [
+   42529,
+   "Dariel: A Romance of Surrey",
+   {
+    "contents_only": true
+   }
+  ],
+  "blackmore-cripps-the-carrier": [
+   43281,
+   "Cripps, the Carrier: A Woodland Tale",
+   {
+    "contents_only": true
+   }
+  ],
+  "blackmore-perlycross": [
+   45038,
+   "Perlycross: A Tale of the Western Hills",
+   {
+    "contents_only": true
+   }
+  ],
+  "blackmore-maid-of-sker": [
+   46156,
+   "The Maid of Sker",
+   {
+    "contents_only": true
+   }
+  ],
+  "blackmore-remarkable-history-of-sir-thomas-upmore-bart-m-p-f": [
+   46467,
+   "The Remarkable History of Sir Thomas Upmore, bart., M.P., formerly known as \"Tommy Upmore\"",
+   {
+    "contents_only": true
+   }
+  ],
+  "blackmore-cradock-nowell": [
+   47084,
+   "Cradock Nowell: A Tale of the New Forest. Vol. 1 (of 3)"
+  ],
+  "blackmore-cradock-nowell-47085": [
+   47085,
+   "Cradock Nowell: A Tale of the New Forest. Vol. 2 (of 3)"
+  ],
+  "blackmore-cradock-nowell-47086": [
+   47086,
+   "Cradock Nowell: A Tale of the New Forest. Vol. 3 (of 3)"
+  ],
+  "blackmore-alice-lorraine": [
+   49075,
+   "Alice Lorraine: A Tale of the South Downs",
+   {
+    "contents_only": true
+   }
+  ],
+  "blackmore-kit-and-kitty": [
+   49520,
+   "Kit and Kitty: A Story of West Middlesex",
+   {
+    "contents_only": true
+   }
+  ],
+  "blackmore-tales-from-the-telling-house": [
+   51497,
+   "Tales from the Telling-House",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58162": "PG 58162: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 17460: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "blackmore-lorna-doone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-mary-anerley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-erema": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-springhaven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-slain-by-the-doones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-frida": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-george-bowring-a-tale-of-cader-idris-from-slain-by": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-crockers-hole-from-slain-by-the-doones-by-r-d-blac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-fringilla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-clara-vaughan-volume-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-clara-vaughan-volume-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-clara-vaughan-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-dariel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-cripps-the-carrier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-perlycross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-maid-of-sker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-remarkable-history-of-sir-thomas-upmore-bart-m-p-f": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-cradock-nowell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-cradock-nowell-47085": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-cradock-nowell-47086": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-alice-lorraine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-kit-and-kitty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "blackmore-tales-from-the-telling-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "r. d. blackmore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

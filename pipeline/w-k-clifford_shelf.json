@@ -1,0 +1,35 @@
+{
+ "_about": "W. K. Clifford (1845-1879), The Scientific Basis of Morals and other essays (Right and Wrong; The Ethics of Belief; The Ethics of Religion), Humboldt Library of Popular Science, from Project Gutenberg (the etext names no printing year; Clifford died 1879). US public domain. No uids minted.",
+ "_author": "William Kingdon Clifford",
+ "_name_words": [
+  "william",
+  "kingdon",
+  "w",
+  "k",
+  "clifford"
+ ],
+ "_surname": [
+  "clifford",
+  "kingdon clifford"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "clifford-scientific-basis-of-morals": [
+   50189,
+   "The Scientific Basis of Morals, and other essays (Humboldt Library; the etext names no printing)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "clifford-scientific-basis-of-morals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "clifford",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

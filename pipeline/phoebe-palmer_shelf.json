@@ -1,0 +1,127 @@
+{
+ "_about": "Public-domain Phoebe Palmer (1807-1874, Methodist evangelist and mother of the Holiness movement) for the Word Hoard: The Way of Holiness (1843), Recollections of Mrs. Lydia N. Cox (1845), Faith and its Effects (1850), The Useful Disciple (1851), Entire Devotion to God (London, 1857) and Incidental Illustrations of the Economy of Salvation (1866), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "phoebe palmer"
+ ],
+ "_surname": [
+  "palmer",
+  "phoebe palmer",
+  "mrs. palmer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ppalmer-way-of-holiness": [
+   "wayofholinesswit00palm",
+   "The Way of Holiness, with Notes by the Way (New York: Piercy and Reed, 1843)"
+  ],
+  "ppalmer-lydia-cox": [
+   "recollectionsgat00palm",
+   "Recollections and Gathered Fragments of Mrs. Lydia N. Cox (New York: Piercy & Reed, 1845)"
+  ],
+  "ppalmer-faith-effects": [
+   "faithitseffectso00palm",
+   "Faith and its Effects: or, Fragments from my Portfolio, tenth thousand (New York: for the Author, 1850)"
+  ],
+  "ppalmer-useful-disciple": [
+   "usefuldiscipleor00palm",
+   "The Useful Disciple; or, a Narrative of Mrs. Mary Gardner (Cincinnati: Swormstedt and Power, 1851)"
+  ],
+  "ppalmer-entire-devotion": [
+   "presenttomychri00palmgoog",
+   "Present to My Christian Friend on Entire Devotion to God, new edition revised (London: Alexander Heylin, 1857)"
+  ],
+  "ppalmer-incidental-illustrations": [
+   "incidentalillust00palmrich",
+   "Incidental Illustrations of the Economy of Salvation (New York: Foster and Palmer, 1866)"
+  ]
+ },
+ "_alternates": {
+  "ppalmer-copies": "Later thousands and the English and Canadian editions of Way of Holiness and Faith and its Effects"
+ },
+ "_excluded": {
+  "ppalmer-later": "The Promise of the Father in a 1985 reprint only; modern reprints; Wheatley's life of her"
+ },
+ "_identity_checked": {
+  "ppalmer-way-of-holiness": {
+   "author": "title page read: 'BY MRS. P. PALMER' (OCR 'MRS. P: PALMER')"
+  },
+  "ppalmer-useful-disciple": {
+   "author": "title page read: 'MRS. PHOEBE PALMER, Author of the Way of Holiness' (OCR 'PH(EBE')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "ppalmer-anonymous": "Four Years in the Old World and Pioneer Experiences: their title pages say only 'by the author of The Way of Holiness'"
+ },
+ "_translators": {},
+ "_checks": {
+  "ppalmer-way-of-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ppalmer-lydia-cox": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "phoebe palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ppalmer-faith-effects": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "phoebe palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ppalmer-useful-disciple": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ppalmer-entire-devotion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs. palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ppalmer-incidental-illustrations": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "phoebe palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

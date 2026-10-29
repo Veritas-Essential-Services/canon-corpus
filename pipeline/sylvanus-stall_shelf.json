@@ -1,0 +1,207 @@
+{
+ "_about": "Public-domain Sylvanus Stall (1847-1915), Lutheran minister of Lancaster and Baltimore and publisher, for the Word Hoard: Five Minute Object Sermons to Children, Talks to the King's Children, With the Children on Sundays, the Ministers' Hand-Book to Lutheran Hymns, How to Pay Church Debts, Methods of Church Work, Bible Selections for Daily Devotion, and his Self and Sex books for men and boys (What a Young Boy, a Young Man, a Young Husband, and a Man of Forty-Five Ought to Know), and What Parents Should Teach their Children. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 113 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "sylvanus stall",
+  "s. stall"
+ ],
+ "_surname": [
+  "sylvanus stall",
+  "s. stall",
+  "stall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stall-lutheran-hymns": [
+   "minist00stal",
+   "Ministers' hand-book to Lutheran hymns, in the \"Book of worship\" (Easton, Pa. : Skinner & Finch, Printers, 1879)"
+  ],
+  "stall-church-debts": [
+   "howtopaychurchde00stal",
+   "How to pay church debts : and how to keep churches out of debt (New York : I. K. Funk, 1881)"
+  ],
+  "stall-church-work": [
+   "methodsofchurchw0000unse",
+   "Methods of church work : religious, social and financial (New York : Funk & Wagnalls, 1887)"
+  ],
+  "stall-object-sermons": [
+   "fiveminuteobje00stal",
+   "Five minute object sermons to children : ... through eye-gate and ear-gate into the city of child-soul (New York : Funk & Wagnalls, 1894)"
+  ],
+  "stall-bible-selections": [
+   "bibleselectionsf00stal",
+   "Bible selections for daily devotion; 365 readings (New York, London [etc.] Funk & Wagnalls company, 1896)"
+  ],
+  "stall-kings-children": [
+   "talkstokingschil0000sylv",
+   "Talks To The King's Children (catalogued 1896)"
+  ],
+  "stall-young-man": [
+   "cihm_64641",
+   "What a young man ought to know (Philadelphia ; London : Vir ; Toronto : W. Briggs, 1897)"
+  ],
+  "stall-young-husband": [
+   "b20442671",
+   "What a young husband ought to know (Philadelphia ; London : Vir, 1897)"
+  ],
+  "stall-forty-five": [
+   "whatmanoffortyfi00stal",
+   "What a man of forty-five ought to know (Philadelphia : The Vir Publishing Company; [etc, etc., 1901)"
+  ],
+  "stall-young-boy": [
+   "whatyoungboyough0000sylv",
+   "What a Young Boy ought to Know (The Vir Publishing Company, 1905)"
+  ],
+  "stall-children-sundays": [
+   "withchildrenonsu0000sylv",
+   "With the Children on Sundays (The Uplift Publishing Company, 1911)"
+  ],
+  "stall-parents": [
+   "whatparentsshoul00stal",
+   "What parents should teach their children (Philadelphia, Boston [etc.] American Baptist publication society, 1912)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "stall-others": "What a Young Girl Ought to Know is by Mary Wood-Allen; the Finnish and Armenian translations and his salesmen's manual are left out"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "stall-lutheran-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stall-church-debts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stall-church-work": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stall-object-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stall-bible-selections": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stall-kings-children": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stall-young-man": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stall-young-husband": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stall-forty-five": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stall-young-boy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stall-children-sundays": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stall-parents": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvanus stall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

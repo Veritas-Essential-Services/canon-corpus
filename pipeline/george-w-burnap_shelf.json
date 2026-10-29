@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain George Washington Burnap (1802-1859), Unitarian minister of the First Independent Church, Baltimore, for the Word Hoard: Sectarianism both Catholic and Protestant, Lectures on the History of Christianity, Expository Lectures on the Trinity passages, The Sphere and Duties of Woman, Lectures on the Doctrines of Christianity, Discourses on the Rectitude of Human Nature, The Old and the New, and Christianity its Essence and Evidence. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 87 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george w. burnap",
+  "g. w. burnap",
+  "george washington burnap"
+ ],
+ "_surname": [
+  "george w. burnap",
+  "g. w. burnap",
+  "george washington burnap",
+  "burnap"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burnap-sectarianism": [
+   "sectarianismbot00burngoog",
+   "Sectarianism both Catholic and Protestant : a lecture (Baltimore : W.R. Lucas & J.N. Wight, 1835)"
+  ],
+  "burnap-history-christianity": [
+   "lecturesonhisto00burngoog",
+   "Lectures on the history of Christianity (Baltimore, Cushing & brother [etc.], 1842)"
+  ],
+  "burnap-expository-lectures": [
+   "expositorylectur00burn",
+   "Expository lectures on the principal passages of the Scriptures which relate to the doctrine of the Trinity (Boston, J. Munroe and company, 1845)"
+  ],
+  "burnap-sphere-woman": [
+   "spheredutiesofwo00burn",
+   "The sphere and duties of woman : a course of lectures (Baltimore, Md. : J. Murphy ; Pittsburg, Pa. : G. Quigley, 1848)"
+  ],
+  "burnap-doctrines": [
+   "lecturesondoctr00burngoog",
+   "Lectures on the doctrines of Christianity, in controversy between Unitarians and other denominations of Christians (Boston and Cambridge, J. Munroe and company, 1848)"
+  ],
+  "burnap-rectitude": [
+   "discourseonrect00burngoog",
+   "Discourse on the rectitude of human nature (Boston, W. Crosby and H. P. Nichols, 1850)"
+  ],
+  "burnap-old-and-new": [
+   "oldandnewordisc00burngoog",
+   "The old and the new : or, Discourses and proceedings at the dedication of the re-modelled Unitarian church in Charleston, S.C., on Sunday, April 2, 1954. Preceded by the farewell discourse delivered in the old church, on Sunday, April 4, 1852. <With engravings of the former and present edifices.> (Charleston, S.G. Courtenay, 1854)"
+  ],
+  "burnap-essence-evidence": [
+   "christianityitse00burn",
+   "Christianity, its essence and evidence: or, An analsys of the New Testament into historical facts, doctrines, opinions, and phraseology (Boston, Crosby, Nicols, and company, 1855)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "burnap-secular": "The Professions (oration), Origin and Causes of Democracy in America, Memoir of Henry A. Ingalls"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "burnap-sectarianism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. burnap",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnap-history-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. burnap",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnap-expository-lectures": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "burnap",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnap-sphere-woman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. burnap",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burnap-doctrines": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. burnap",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnap-rectitude": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. burnap",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnap-old-and-new": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "g. w. burnap",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burnap-essence-evidence": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. burnap",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

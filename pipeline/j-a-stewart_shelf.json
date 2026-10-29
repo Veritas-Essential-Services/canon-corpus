@@ -1,0 +1,35 @@
+{
+ "_about": "John Alexander Stewart (1846-1933), White's Professor of Moral Philosophy at Oxford. Raw IA OCR: Plato's Doctrine of Ideas (Oxford: Clarendon Press, 1909), clean 0.83. Wanted: The Myths of Plato (1905) and Notes on the Nicomachean Ethics (1892, 2 vols.); every scan tried is Greek-heavy and falls below the 0.78 OCR gate (0.76-0.78 and 0.61). Not Dugald Stewart (shelf dugald-stewart). US public domain. No uids minted.",
+ "_author": "J. A. Stewart",
+ "_name_words": [
+  "john",
+  "alexander",
+  "stewart"
+ ],
+ "_surname": [
+  "j. a. stewart",
+  "stewart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stewart-platos-doctrine-of-ideas-1909": [
+   "doctrineideas00stewuoft",
+   "Plato's Doctrine of Ideas (Clarendon Press, 1909)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "stewart-platos-doctrine-of-ideas-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. a. stewart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "_about": "Public-domain David Brainerd (1718-1747), missionary to the Delaware Indians, for the Word Hoard: his Journal, Mirabilia Dei inter Indicos (Philadelphia: William Bradford; catalogued 1746), and the extract The Gospel the Only True Reformer (New York, 1856), from Internet Archive scans. Jonathan Edwards's Life of Brainerd (1749 and its later editions, which name Edwards on the title page) is Edwards's book and stays with the Edwards shelf. Added 2026-10-18 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "brainerd"
+ ],
+ "_surname": [
+  "david brainerd",
+  "brainerd"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brainerd-mirabilia-dei-1746": [
+   "mirabiliadeiinte00brai",
+   "Mr. Brainerd's Journal among the Indians: Mirabilia Dei inter Indicos (Philadelphia: William Bradford; catalogued 1746)"
+  ],
+  "brainerd-gospel-true-reformer-1856": [
+   "gospelonlytruere00brai",
+   "The Gospel the Only True Reformer: Brainerd's Remarks on the Work of Grace among the Indians at Crosweeksung, introduction by Talbot W. Chambers (New York: Board of Publication of the Reformed Protestant Dutch Church, 1856)"
+  ]
+ },
+ "_alternates": {
+  "brainerd-copies": "mirabiliadeiinte00b (same 1746 printing); Smellie's 1902 abridged Diary"
+ },
+ "_excluded": {
+  "brainerd-edwards": "Edwards's Account of the Life of Brainerd (Boston, 1749), Dwight's 1822 Memoirs, the 1858 Nelson Life and the American Tract Society Life (PG 65066, already on the edwards shelf on other branches): their title pages name Edwards as author"
+ },
+ "_rights_checked": {
+  "brainerd-mirabilia-dei-1746": "title page read: no year on the title page, catalogued 1746; published with a preface by the correspondents of the Society"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "brainerd-mirabilia-dei-1746": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "david brainerd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1746",
+   "ia_date": "1746",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no year on the title page, catalogued 1746; published with a preface by the correspondents of the Society"
+  },
+  "brainerd-gospel-true-reformer-1856": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "brainerd",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

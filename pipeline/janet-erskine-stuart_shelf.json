@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Janet Erskine Stuart (1857-1914), Superior General of the Society of the Sacred Heart, for the Word Hoard: The Education of Catholic Girls (1911, and Gutenberg's text of the 1914 fourth impression), The Society of the Sacred Heart (1914) and Highways and By-ways in the Spiritual Life, edited by Maud Monahan (1923), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "stuart"
+ ],
+ "_surname": [
+  "janet erskine stuart",
+  "janet e. stuart"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "jestuart-education-pg": [
+   15892,
+   "The Education of Catholic Girls, fourth impression (London: Longmans, Green, 1914)"
+  ]
+ },
+ "internet_archive": {
+  "jestuart-education-catholic-girls": [
+   "educationcathol00stuagoog",
+   "The Education of Catholic Girls, with a preface by the Archbishop of Westminster (London: Longmans, Green, 1911)"
+  ],
+  "jestuart-society-sacred-heart": [
+   "societysacredhea00stuauoft",
+   "The Society of the Sacred Heart (Roehampton: Convent of the Sacred Heart, 1914)"
+  ],
+  "jestuart-highways-byways": [
+   "highwaysbywaysin0000jane",
+   "Highways and By-ways in the Spiritual Life, edited by M. Monahan, with a preface by Cardinal Bourne (London: Longmans, Green, 1923)"
+  ]
+ },
+ "_alternates": {
+  "jestuart-copies": "Other impressions of The Education of Catholic Girls (one catalogued 2026 in error)"
+ },
+ "_excluded": {
+  "jestuart-later": "The Inward Life (1933); a French translation; a 1964 book"
+ },
+ "_rights_checked": {
+  "jestuart-highways-byways": "title page read: posthumous, edited by Maud Monahan (OCR 'Monanan')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jestuart-education-pg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janet erskine stuart",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jestuart-education-catholic-girls": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janet erskine stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jestuart-society-sacred-heart": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janet erskine stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jestuart-highways-byways": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "janet erskine stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: posthumous, edited by Maud Monahan (OCR 'Monanan')"
+  }
+ }
+}

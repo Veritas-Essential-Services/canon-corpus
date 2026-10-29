@@ -1,0 +1,40 @@
+{
+ "_about": "Thomas Crofton Croker's (1798-1854) Fairy Legends and Traditions of the South of Ireland, the first collection of Irish fairy legends taken down from country people. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "T. Crofton Croker",
+ "_name_words": [
+  "croker"
+ ],
+ "_surname": [
+  "t. crofton croker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "croker-fairy-legends-south-of-ireland": [
+   39752,
+   "Fairy Legends and Traditions of the South of Ireland",
+   {
+    "levels": [
+     {
+      "re": "(?![IVXL]+\\.?$)[A-Z0-9][A-Z0-9' ,.!?;:\\\"’‘—()&\\[\\]-]{2,}$",
+      "strip": "\\.?(?:\\[\\d+\\])?\\.?$"
+     }
+    ],
+    "start": "APPENDIX—Letter",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "croker-fairy-legends-south-of-ireland": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "t. crofton croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

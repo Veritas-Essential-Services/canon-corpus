@@ -1,0 +1,120 @@
+{
+ "_about": "Boethius, The Consolation of Philosophy, in H. R. James's translation (1897), clean Gutenberg. Chaucer's Boece is a Middle English text and is not taken here. Stewart and Rand's Loeb (1918; Gutenberg, Latin facing kept) added 2026-10-02.",
+ "_name_words": [
+  "boethius",
+  "consolation",
+  "philosophy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "boethius-james": [
+   14328,
+   "The Consolation of Philosophy",
+   "tr. H. R. James"
+  ],
+  "boethius-rand-stewart": [
+   13316,
+   "The Theological Tractates and The Consolation of Philosophy",
+   "tr. H. F. Stewart and E. K. Rand (Loeb, 1918; Latin facing; the Consolation is the 1609 'I.T.' version revised)"
+  ]
+ },
+ "internet_archive": {
+  "boethius-ridpath-1785": [
+   "boethiussconsol00boetgoog",
+   "Boethius's Consolation of Philosophy, translated from the Latin, with notes and illustrations (London: C. Dilly, M.DCC.LXXXV)",
+   "tr. Philip Ridpath"
+  ],
+  "boethius-colville-1556": [
+   "cu31924029003824",
+   "Boethius' Consolation of Philosophy, translated from the Latin by George Colville, 1556, edited with an introduction by Ernest Belfort Bax (London: David Nutt, MDCCCXCVII)",
+   "tr. George Colville"
+  ],
+  "boethius-queen-elizabeth-1899": [
+   "queenelizabethse00eliz",
+   "Queen Elizabeth's Englishings of Boethius, Plutarch and Horace (EETS, 1899; ed. Caroline Pemberton)",
+   "tr. Queen Elizabeth I"
+  ]
+ },
+ "_excluded": {
+  "PG 23082": "Gutenberg serves an HTML page for the .txt; not fetched",
+  "Chaucer's Boece (PG 42083, 44833)": "Middle English; not a modern translation; not taken",
+  "Robert Duncan, The Five Books of Boethius, Consolation of Philosophy (Edinburgh, printed for the translator; catalogue 1789)": "IA bim_eighteenth-century_the-five-books-of-aniciu_boethius_1789 reads 0.783, just over the bar, and the title page names Duncan, but no year is legible anywhere in the OCR; held back with the undated rows already put to Adam"
+ },
+ "_surname": [
+  "boethius",
+  "boetius"
+ ],
+ "_translators": {
+  "boethius-james": "H. R. James",
+  "boethius-rand-stewart": "H. F. Stewart",
+  "boethius-colville-1556": "George Colville",
+  "boethius-ridpath-1785": "Ridpath",
+  "boethius-queen-elizabeth-1899": "queen elizabeth"
+ },
+ "_checks": {
+  "boethius-james": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "H. R. James",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. R. James",
+   "translator_match": true
+  },
+  "boethius-rand-stewart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "H. F. Stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward Kennard Rand; H. F. Stewart",
+   "translator_match": true
+  },
+  "boethius-ridpath-1785": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "Ridpath",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1785",
+   "ia_date": "1785",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boethius-colville-1556": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "George Colville",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boethius-queen-elizabeth-1899": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "boethius",
+   "translator_claimed": "queen elizabeth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_translator_unchecked": {}
+}

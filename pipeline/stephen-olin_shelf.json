@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Stephen Olin (1797-1851), Methodist preacher, president of Randolph-Macon College and of Wesleyan University, for the Word Hoard: The Works of Stephen Olin (2 vols., 1852: sermons and sketches; lectures and addresses), his 1834 inaugural address and College Life (1867). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 95 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "stephen olin",
+  "s. olin"
+ ],
+ "_surname": [
+  "stephen olin",
+  "s. olin"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "olin-works-1": [
+   "worksofstephenol01olin",
+   "The works of Stephen Olin, vol. 1 (New York, Harper & Brothers, 1852)"
+  ],
+  "olin-works-2": [
+   "worksofstephenol00olin",
+   "The works of Stephen Olin (New York, Harper & Brothers, 1852)"
+  ],
+  "olin-inaugural": [
+   "inauguraladdress00olin",
+   "Inaugural address delivered by the Rev. Stephen Olin, president of Randolph-Macon College, on the occasion of his induction into office, 5th March, 1834 (Richmond : Printed by Nesbitt & Walker, 1834)"
+  ],
+  "olin-college-life": [
+   "collegelifeitsth00olin",
+   "College life; its theory and practice (New York : Harper & Brothers, Publishers, 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "olin-other": "Travels in Egypt, Arabia Petraea and the Holy Land and Greece and the Golden Horn (travel); his Life and Letters (by others); separate printings of discourses gathered in the Works; 1918 addresses by a later Stephen Olin"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "olin-inaugural": "title page: 'INAUGURAL ADDRESS DELIVERED BY THE REV. STEPHEN OLIN, PRESIDENT OF RANDOLPH-MACON COLLEGE ... 5th March, 1834. RICHMOND: Printed by Nesbitt & Walker ... 1834' (OCR 'STEPHEN OklN')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "olin-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen olin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "olin-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen olin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "olin-inaugural": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "olin-college-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen olin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "_about": "Public-domain Thomas Rattray (1684-1743), Bishop of Brechin and then Primus of the Scottish Episcopal Church, the liturgist of the Scottish Communion Office, for the Word Hoard: The Ancient Liturgy of the Church of Jerusalem, being the Liturgy of St. James (London, 1744), from an Internet Archive scan. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rattray"
+ ],
+ "_surname": [
+  "thomas rattray",
+  "rattray"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rattray-liturgy-st-james-1744": [
+   "ancientliturgyc01churgoog",
+   "The ancient liturgy of the Church of Jerusalem, : being the liturgy of St. James, freed from all latter additions and interpolations ... and so restored to it's original purity: by comparing it with the account (London, : Printed by J. Bettenham, 1744)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rattray-other": "Later Rattrays (poets, travellers, physicians)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rattray-liturgy-st-james-1744": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rattray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1744",
+   "ia_date": "1744",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

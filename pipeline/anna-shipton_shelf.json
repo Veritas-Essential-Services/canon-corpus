@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain Anna Shipton (1815-1901), English evangelical devotional writer, for the Word Hoard: 'Tell Jesus', Recollections of Emily Gosse (Philadelphia, 1868), The Secret of the Lord, Wayside Service, The Lost Blessing, Waiting Hours, The Watch Tower in the Wilderness, Hidden Springs (copyright 1881) and The Upper Springs and the Nether Springs (Nisbet, 1882), from Internet Archive scans. Most of her title pages carry no year. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "shipton"
+ ],
+ "_surname": [
+  "anna shipton",
+  "shipton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ashipton-tell-jesus": [
+   "telljesusrecol00ship",
+   "'Tell Jesus': Recollections of Emily Gosse (Philadelphia: Mrs. Jane Hamilton, 1868)"
+  ],
+  "ashipton-secret-of-the-lord": [
+   "secretoflord00ship",
+   "The Secret of the Lord (London: Morgan and Chase; year illegible, catalogued 1870)"
+  ],
+  "ashipton-wayside-service": [
+   "wayside00ship",
+   "Wayside Service, or The Day of Small Things, fourth thousand (London: Morgan and Chase; title page undated)"
+  ],
+  "ashipton-lost-blessing": [
+   "lostbles00ship",
+   "The Lost Blessing (London: Morgan, Chase, and Scott; title page undated)"
+  ],
+  "ashipton-waiting-hours": [
+   "waitinghourswith00ship",
+   "Waiting Hours with the Hungry, and Weary, and Thirsty in the Wilderness (New York: T. Y. Crowell; title page undated, catalogued 1873)"
+  ],
+  "ashipton-watch-tower": [
+   "watchtowerinwild00ship",
+   "The Watch Tower in the Wilderness (New York: T. Y. Crowell; title page undated, catalogued 1878)"
+  ],
+  "ashipton-hidden-springs": [
+   "hiddensprings00ship",
+   "Hidden Springs (Boston: Willard Tract Repository; copyright 1881)"
+  ],
+  "ashipton-upper-nether-springs": [
+   "upperspringsand00shipgoog",
+   "The Upper Springs and the Nether Springs, or Life Hid with Christ in God (London: James Nisbet, 1882)"
+  ]
+ },
+ "_alternates": {
+  "ashipton-copies": "Two undated Crowell Tell Jesus"
+ },
+ "_excluded": {
+  "ashipton-other": "The Lord's Purse-Bearers, which is Hesba Stretton's (1883); a late undated 'sixty-first impression' Tell Jesus; her verse books"
+ },
+ "_identity_checked": {
+  "ashipton-waiting-hours": {
+   "author": "title page read: 'Anna Shipton' OCR-garbled ('A'NN4.;£'HIPTbK')"
+  },
+  "ashipton-hidden-springs": {
+   "author": "title page read: 'BY ANNA SHIPTON' (OCR 'SHIPTOX')"
+  },
+  "ashipton-tell-jesus": {
+   "author": "title page read: \"Tell Jesus.\" Recollections of ... Anna Shipto N [Anna Shipton] (OCR splits the name), author of The Brook in the Way, Philadelphia: Mrs. Jane Hamilton, 1868"
+  }
+ },
+ "_rights_checked": {
+  "ashipton-wayside-service": "title page undated; the imprint (Morgan and Chase, Ludgate Hill) is a nineteenth-century one; several catalogue dates of '1800' are impossible"
+ },
+ "_pending": {
+  "ashipton-asked-of-god": "Asked of God: cited on her title pages, no scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "ashipton-tell-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ashipton-secret-of-the-lord": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna shipton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ashipton-wayside-service": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna shipton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page undated; the imprint (Morgan and Chase, Ludgate Hill) is a nineteenth-century one; several catalogue dates of '1800' are impossible"
+  },
+  "ashipton-lost-blessing": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna shipton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ashipton-waiting-hours": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ashipton-watch-tower": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna shipton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "[1878?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ashipton-hidden-springs": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna shipton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ashipton-upper-nether-springs": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "anna shipton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

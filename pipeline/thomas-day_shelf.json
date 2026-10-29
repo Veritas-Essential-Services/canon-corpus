@@ -1,0 +1,67 @@
+{
+ "_about": "Thomas Day's The History of Sandford and Merton (this printing 1868) and The History of Little Jack, a Foundling (this printing 1826), eighteenth-century moral tales for children. Gutenberg catalogue: Day 1748-1789. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Thomas Day",
+ "_name_words": [
+  "sandford"
+ ],
+ "_surname": [
+  "thomas day"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tday-history-of-sandford-and-merton": [
+   30274,
+   "The History of Sandford and Merton",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVX]+\\.$|TRANSCRIBER'S NOTE"
+     },
+     {
+      "re": "\"[A-Z][A-Z ,.;:'-]+\\.\"$",
+      "max": 70,
+      "strip": "^\"|\"$"
+     }
+    ],
+    "start": "CHAPTER I\\.$",
+    "front": true
+   }
+  ],
+  "tday-history-of-little-jack": [
+   42805,
+   "The History of Little Jack, a Foundling",
+   {
+    "levels": [
+     {
+      "re": "THE HISTORY OF LITTLE JACK\\.$|GRIFFIN.S JUVENILE LIBRARY,$",
+      "strip": ",$"
+     }
+    ],
+    "start": "THE HISTORY OF LITTLE JACK\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "tday-history-of-sandford-and-merton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tday-history-of-little-jack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas day",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "_about": "Public-domain Thomas Chalmers (1780-1847, Glasgow and Edinburgh; leader of the Disruption of 1843) for the Word Hoard: the Works (Glasgow: William Collins, 1836-1842, 25 vols), one IA series throughout (Princeton Theological Seminary scans), raw Internet Archive OCR; volume numbers checked on the title pages (vol. XX by its running heads). CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "chalmers",
+  "thomas"
+ ],
+ "_surname": [
+  "chalmers"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chalmers-works-01": [
+   "worksofthomas01chal",
+   "The Works of Thomas Chalmers, vol. I (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-02": [
+   "worksofthomas02chal",
+   "The Works of Thomas Chalmers, vol. II (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-03": [
+   "worksofthomas03chal",
+   "The Works of Thomas Chalmers, vol. III (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-04": [
+   "worksofthomascha04chal",
+   "The Works of Thomas Chalmers, vol. IV (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-05": [
+   "worksofthomascha05chal",
+   "The Works of Thomas Chalmers, vol. V (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-06": [
+   "worksofthomascha06chal",
+   "The Works of Thomas Chalmers, vol. VI (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-07": [
+   "worksofthomascha07chal",
+   "The Works of Thomas Chalmers, vol. VII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-08": [
+   "worksofthomascha08chal",
+   "The Works of Thomas Chalmers, vol. VIII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-09": [
+   "worksofthomascha09chal",
+   "The Works of Thomas Chalmers, vol. IX (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-10": [
+   "worksofthomascha10chal",
+   "The Works of Thomas Chalmers, vol. X (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-11": [
+   "worksofthomascha11chal",
+   "The Works of Thomas Chalmers, vol. XI (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-12": [
+   "worksofthomascha12chal",
+   "The Works of Thomas Chalmers, vol. XII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-13": [
+   "worksofthomascha13chal",
+   "The Works of Thomas Chalmers, vol. XIII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-14": [
+   "worksofthomascha14chal",
+   "The Works of Thomas Chalmers, vol. XIV (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-15": [
+   "worksofthomascha15chal",
+   "The Works of Thomas Chalmers, vol. XV (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-16": [
+   "worksofthomascha16chal",
+   "The Works of Thomas Chalmers, vol. XVI (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-17": [
+   "worksofthomascha17chal",
+   "The Works of Thomas Chalmers, vol. XVII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-18": [
+   "worksofthomascha18chal",
+   "The Works of Thomas Chalmers, vol. XVIII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-19": [
+   "worksofthomascha19chal",
+   "The Works of Thomas Chalmers, vol. XIX (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-20": [
+   "worksofthomascha20chal",
+   "The Works of Thomas Chalmers, vol. XX (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-21": [
+   "worksofthomascha21chal",
+   "The Works of Thomas Chalmers, vol. XXI (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-22": [
+   "worksofthomascha22chal",
+   "The Works of Thomas Chalmers, vol. XXII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-23": [
+   "worksofthomascha23chal",
+   "The Works of Thomas Chalmers, vol. XXIII (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-24": [
+   "worksofthomascha24chal",
+   "The Works of Thomas Chalmers, vol. XXIV (Glasgow: Collins, 1836-42)"
+  ],
+  "chalmers-works-25": [
+   "worksofthomascha25chal",
+   "The Works of Thomas Chalmers, vol. XXV (Glasgow: Collins, 1836-42)"
+  ]
+ },
+ "_alternates": {
+  "worksofthomascha00NNchal series; worksofthomascha0N chal_0 / worksofthomchaNNchal (1840 printing); worksthomaschalNNchalgoog": "Other scans and printings of the Collins Works.",
+  "selectworks* (1848-56)": "Select Works, a later selection."
+ },
+ "_pending": {
+  "Posthumous Works, ed. William Hanna (1847-52, 9 vols)": "Scans found (posthumousworkso*), not yet assembled into a checked set."
+ },
+ "_checks": {
+  "chalmers-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-11": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-12": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-13": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-14": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-15": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-16": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-17": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-18": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-19": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-20": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-21": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-22": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-23": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-24": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chalmers-works-25": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "chalmers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

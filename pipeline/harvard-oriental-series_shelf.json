@@ -1,0 +1,431 @@
+{
+ "_about": "SERIES SHELF of the Harvard Oriental Series translations into English before 1931 (ed. Charles Rockwell Lanman, 1891 onward): Whitney's Atharva-Veda (1905), Keith's Black Yajus and Rigveda Brahmanas (1914, 1920), Macdonell's Brhad-Devata (1904), Woods's Yoga-System of Patanjali (1914), Lanman's Karpura-manjari (1901) and Belvalkar's Uttara-Rama-Charita (1915). Warren's Buddhism in Translations and Burlingame's Buddhist Legends (HOS 3, 28-30) are on pali-buddhist-translations; Ryder's Little Clay Cart (HOS 9) is on the ryder shelf. Each title gates on its own translator. First printings only; the Motilal Banarsidass reprints of the 1960s-70s that share these titles on archive.org are not used. US public domain. Added 2026-10-17 by lane C (round 66); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. a. macdonell",
+  "a. berriedale keith",
+  "arthur anthony macdonell",
+  "arthur berriedale keith",
+  "belvalkar",
+  "berriedale keith",
+  "charles rockwell lanman",
+  "haughton woods",
+  "j. h. woods",
+  "james haughton woods",
+  "keith",
+  "konow",
+  "lanman",
+  "macdonell",
+  "s. k. belvalkar",
+  "shripad krishna belvalkar",
+  "sten konow",
+  "whitney",
+  "william dwight whitney"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "a. a. macdonell",
+  "a. berriedale keith",
+  "arthur anthony macdonell",
+  "arthur berriedale keith",
+  "belvalkar",
+  "berriedale keith",
+  "charles rockwell lanman",
+  "haughton woods",
+  "j. h. woods",
+  "james haughton woods",
+  "keith",
+  "konow",
+  "lanman",
+  "macdonell",
+  "s. k. belvalkar",
+  "shripad krishna belvalkar",
+  "sten konow",
+  "whitney",
+  "william dwight whitney"
+ ],
+ "_surname_by_slug": {
+  "hos-atharva-veda-1": [
+   "whitney",
+   "william dwight whitney",
+   "lanman",
+   "charles rockwell lanman"
+  ],
+  "hos-atharva-veda-2": [
+   "whitney",
+   "william dwight whitney",
+   "lanman",
+   "charles rockwell lanman"
+  ],
+  "hos-black-yajus-1": [
+   "keith",
+   "a. berriedale keith",
+   "arthur berriedale keith",
+   "berriedale keith"
+  ],
+  "hos-black-yajus-2": [
+   "keith",
+   "a. berriedale keith",
+   "arthur berriedale keith",
+   "berriedale keith"
+  ],
+  "hos-rig-veda-brahmanas": [
+   "keith",
+   "a. berriedale keith",
+   "arthur berriedale keith",
+   "berriedale keith"
+  ],
+  "hos-brhad-devata": [
+   "macdonell",
+   "a. a. macdonell",
+   "arthur anthony macdonell"
+  ],
+  "hos-yoga-system": [
+   "james haughton woods",
+   "haughton woods",
+   "j. h. woods"
+  ],
+  "hos-karpura-manjari": [
+   "lanman",
+   "charles rockwell lanman",
+   "konow",
+   "sten konow"
+  ],
+  "hos-uttara-rama-charita": [
+   "belvalkar",
+   "s. k. belvalkar",
+   "shripad krishna belvalkar"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hos-atharva-veda-1": [
+   "atharvavedasainh01whit",
+   "Atharva-Veda Samhita, first half (1905)"
+  ],
+  "hos-atharva-veda-2": [
+   "atharvavedasainh02whit",
+   "Atharva-Veda Samhita, second half (1905)"
+  ],
+  "hos-black-yajus-1": [
+   "in.ernet.dli.2015.501797",
+   "The Veda of the Black Yajus School, part 1 (1914)",
+   "2015.501797.The-Harvard_djvu.txt"
+  ],
+  "hos-black-yajus-2": [
+   "in.ernet.dli.2015.500424",
+   "The Veda of the Black Yajus School, part 2 (1914)",
+   "2015.500424.The-Veda_djvu.txt"
+  ],
+  "hos-rig-veda-brahmanas": [
+   "in.ernet.dli.2015.188962",
+   "Rigveda Brahmanas (1920)",
+   "2015.188962.The-Harvard-Oriental-Series-Vol25_djvu.txt"
+  ],
+  "hos-brhad-devata": [
+   "dli.ministry.10567",
+   "The Brhad-Devata, part II: translation and notes (1904)",
+   "E01753_Harvard_Oriental_Series_Vol_VI_djvu.txt"
+  ],
+  "hos-yoga-system": [
+   "in.ernet.dli.2015.109808",
+   "The Yoga-System of Patanjali (1914)",
+   "2015.109808.Harvard-Oriental-Series--Vol-17_djvu.txt"
+  ],
+  "hos-karpura-manjari": [
+   "in.ernet.dli.2015.280338",
+   "Rajasekhara's Karpura-manjari (1901)",
+   "2015.280338.Harvard-Oriental_djvu.txt"
+  ],
+  "hos-uttara-rama-charita": [
+   "in.ernet.dli.2015.281456",
+   "Rama's Later History, part 1: introduction and translation (1915)",
+   "2015.281456.Harvard-Oriental_djvu.txt"
+  ]
+ },
+ "titles": {
+  "harvard-oriental-series-atharva-veda-1": {
+   "source": "hos-atharva-veda-1",
+   "of": "The Atharva-Veda Samhita, books I-VII",
+   "work": "Atharva-Veda Samhita, first half",
+   "translated": 1905,
+   "translator": "William Dwight Whitney, revised and edited by Charles Rockwell Lanman",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 7, 1905"
+  },
+  "harvard-oriental-series-atharva-veda-2": {
+   "source": "hos-atharva-veda-2",
+   "of": "The Atharva-Veda Samhita, books VIII-XIX",
+   "work": "Atharva-Veda Samhita, second half",
+   "translated": 1905,
+   "translator": "William Dwight Whitney, revised and edited by Charles Rockwell Lanman",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 8, 1905",
+   "note": "Griffith's verse Atharva-Veda is a different translation, on the griffith shelf."
+  },
+  "harvard-oriental-series-black-yajus-1": {
+   "source": "hos-black-yajus-1",
+   "of": "The Taittiriya Samhita, kandas I-III",
+   "work": "The Veda of the Black Yajus School, part 1",
+   "translated": 1914,
+   "translator": "Arthur Berriedale Keith",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 18, 1914; first edition, one thousand copies; Digital Library of India scan"
+  },
+  "harvard-oriental-series-black-yajus-2": {
+   "source": "hos-black-yajus-2",
+   "of": "The Taittiriya Samhita, kandas IV-VII",
+   "work": "The Veda of the Black Yajus School, part 2",
+   "translated": 1914,
+   "translator": "Arthur Berriedale Keith",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 19, 1914; first edition, one thousand copies; Digital Library of India scan"
+  },
+  "harvard-oriental-series-rig-veda-brahmanas": {
+   "source": "hos-rig-veda-brahmanas",
+   "of": "The Aitareya and Kausitaki Brahmanas",
+   "work": "Rigveda Brahmanas",
+   "translated": 1920,
+   "translator": "Arthur Berriedale Keith",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 25, 1920; first edition, one thousand copies; Digital Library of India scan"
+  },
+  "harvard-oriental-series-brhad-devata": {
+   "source": "hos-brhad-devata",
+   "of": "The Brhad-Devata attributed to Saunaka",
+   "work": "The Brhad-Devata, part II: translation and notes",
+   "translated": 1904,
+   "translator": "Arthur Anthony Macdonell",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 6, 1904; first edition, one thousand copies; Digital Library of India scan",
+   "note": "Part I (HOS 5) is the Sanskrit text and is not shelved."
+  },
+  "harvard-oriental-series-yoga-system": {
+   "source": "hos-yoga-system",
+   "of": "The Yoga-sutras of Patanjali, with Veda-Vyasa's commentary and Vachaspati-Misra's gloss",
+   "work": "The Yoga-System of Patanjali",
+   "translated": 1914,
+   "translator": "James Haughton Woods",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 17, 1914; Digital Library of India scan"
+  },
+  "harvard-oriental-series-karpura-manjari": {
+   "source": "hos-karpura-manjari",
+   "of": "Rajasekhara's Karpura-manjari (Prakrit drama)",
+   "work": "Rajasekhara's Karpura-manjari",
+   "translated": 1901,
+   "translator": "Charles Rockwell Lanman (translation), Sten Konow (edition)",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 4, 1901; Digital Library of India scan"
+  },
+  "harvard-oriental-series-uttara-rama-charita": {
+   "source": "hos-uttara-rama-charita",
+   "of": "Bhavabhuti's Uttara-Rama-Charita",
+   "work": "Rama's Later History, part 1: introduction and translation",
+   "translated": 1915,
+   "translator": "Shripad Krishna Belvalkar",
+   "scan_edition": "Harvard University Press (printed at Oxford), Harvard Oriental Series vol. 21, 1915; Digital Library of India scan"
+  }
+ },
+ "_pending": {
+  "vikramas-adventures": "Edgerton's Vikrama's Adventures (HOS 26-27, 1926): the only archive.org scans (vikramasadventur01unse, 02unse) were OCR'd as Hindi, so their text layer is garbage. Waiting for a usable text."
+ },
+ "_excluded": {
+  "kiratarjuniya": "Cappeller's Bharavi's Kiratarjuniya (HOS 15, 1912) is a translation into German, not English.",
+  "little-clay-cart": "Ryder's Little Clay Cart (HOS 9) is already on the ryder shelf.",
+  "pali-volumes": "Warren (HOS 3) and Burlingame (HOS 28-30) are on pali-buddhist-translations.",
+  "motilal-reprints": "Motilal Banarsidass reprints of HOS volumes (in.ernet.dli.2015.263106, in.ernet.dli.2015.263108, dli.ernet.233919): 1960s-70s reprints, not used."
+ },
+ "_checks": {
+  "hos-atharva-veda-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "whitney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-atharva-veda-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "whitney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-black-yajus-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-black-yajus-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-rig-veda-brahmanas": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-brhad-devata": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "macdonell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-yoga-system": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "james haughton woods",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-karpura-manjari": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "lanman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hos-uttara-rama-charita": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "belvalkar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "hos-atharva-veda-1": {
+   "ia": "atharvavedasainh01whit",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1876,
+    1884,
+    1901,
+    1904,
+    1905,
+    1917
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  },
+  "hos-atharva-veda-2": {
+   "ia": "atharvavedasainh02whit",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894,
+    1904,
+    1905
+   ],
+   "post_1930_years_in_front_15k": [
+    2016
+   ]
+  },
+  "hos-black-yajus-1": {
+   "ia": "in.ernet.dli.2015.501797",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hos-black-yajus-2": {
+   "ia": "in.ernet.dli.2015.500424",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hos-rig-veda-brahmanas": {
+   "ia": "in.ernet.dli.2015.188962",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1912,
+    1914,
+    1915,
+    1916,
+    1919,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hos-brhad-devata": {
+   "ia": "dli.ministry.10567",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hos-yoga-system": {
+   "ia": "in.ernet.dli.2015.109808",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1666,
+    1880,
+    1890,
+    1908,
+    1914
+   ],
+   "post_1930_years_in_front_15k": [
+    1947
+   ]
+  },
+  "hos-karpura-manjari": {
+   "ia": "in.ernet.dli.2015.280338",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hos-uttara-rama-charita": {
+   "ia": "in.ernet.dli.2015.281456",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914,
+    1915
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

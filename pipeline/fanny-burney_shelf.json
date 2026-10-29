@@ -1,0 +1,247 @@
+{
+ "_about": "Fanny Burney's novels and diaries (Evelina, Cecilia and others): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Fanny Burney",
+ "_name_words": [
+  "burney"
+ ],
+ "_surname": [
+  "fanny burney"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fburney-diary-and-letters-of-madame-darblay-volume-1": [
+   5826,
+   "The Diary and Letters of Madame D'Arblay — Volume 1"
+  ],
+  "fburney-diary-and-letters-of-madame-darblay-volume-2": [
+   6042,
+   "The Diary and Letters of Madame D'Arblay — Volume 2"
+  ],
+  "fburney-evelina": [
+   6053,
+   "Evelina, Or, the History of a Young Lady's Entrance into the World"
+  ],
+  "fburney-cecilia": [
+   6346,
+   "Cecilia; Or, Memoirs of an Heiress — Volume 1"
+  ],
+  "fburney-diary-and-letters-of-madame-darblay-volume-3": [
+   6457,
+   "The Diary and Letters of Madame D'Arblay — Volume 3"
+  ],
+  "fburney-cecilia-7146": [
+   7146,
+   "Cecilia; Or, Memoirs of an Heiress — Volume 2",
+   {
+    "contents_only": true
+   }
+  ],
+  "fburney-cecilia-7152": [
+   7152,
+   "Cecilia; Or, Memoirs of an Heiress — Volume 3"
+  ],
+  "fburney-brief-reflections-relative-to-the-emigrant-french-cl": [
+   29125,
+   "Brief Reflections relative to the Emigrant French Clergy"
+  ],
+  "fburney-wanderer": [
+   37437,
+   "The Wanderer; or, Female Difficulties (Volume 1 of 5)"
+  ],
+  "fburney-wanderer-37438": [
+   37438,
+   "The Wanderer; or, Female Difficulties (Volume 2 of 5)"
+  ],
+  "fburney-wanderer-37439": [
+   37439,
+   "The Wanderer; or, Female Difficulties (Volume 3 of 5)"
+  ],
+  "fburney-wanderer-37440": [
+   37440,
+   "The Wanderer; or, Female Difficulties (Volume 4 of 5)"
+  ],
+  "fburney-wanderer-37441": [
+   37441,
+   "The Wanderer; or, Female Difficulties (Volume 5 of 5)"
+  ],
+  "fburney-camilla": [
+   40619,
+   "Camilla; or, A Picture of Youth",
+   {
+    "contents_only": true
+   }
+  ],
+  "fburney-memoirs-of-doctor-burney-vol-1-of-3-arranged-from-hi": [
+   61468,
+   "Memoirs of Doctor Burney (Vol. 1 of 3) Arranged from his own manuscripts, from family papers, and from personal recollections by his daughter, Madame d'Arblay"
+  ],
+  "fburney-memoirs-of-doctor-burney-vol-2-of-3-arranged-from-hi": [
+   61926,
+   "Memoirs of Doctor Burney (Vol. 2 of 3) Arranged from his own manuscripts, from family papers, and from personal recollections by his daughter, Madame d'Arblay"
+  ],
+  "fburney-memoirs-of-doctor-burney-vol-3-of-3-arranged-from-hi": [
+   62046,
+   "Memoirs of Doctor Burney (Vol. 3 of 3) Arranged from his own manuscripts, from family papers, and from personal recollections by his daughter, Madame d'Arblay"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58079": "PG 58079: Gutenberg's index of the author's works, not a book.",
+  "pg-57472": "PG 57472 Fanny Burney and Her Friends: passages from her diary selected by L. B. Seeley; the diary itself is on the shelf."
+ },
+ "_checks": {
+  "fburney-diary-and-letters-of-madame-darblay-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-diary-and-letters-of-madame-darblay-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-evelina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-cecilia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-diary-and-letters-of-madame-darblay-volume-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-cecilia-7146": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-cecilia-7152": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-brief-reflections-relative-to-the-emigrant-french-cl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-wanderer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-wanderer-37438": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-wanderer-37439": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-wanderer-37440": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-wanderer-37441": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-camilla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-memoirs-of-doctor-burney-vol-1-of-3-arranged-from-hi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-memoirs-of-doctor-burney-vol-2-of-3-arranged-from-hi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fburney-memoirs-of-doctor-burney-vol-3-of-3-arranged-from-hi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fanny burney",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

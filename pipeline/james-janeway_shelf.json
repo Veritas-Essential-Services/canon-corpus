@@ -1,0 +1,62 @@
+{
+ "_about": "Public-domain James Janeway (1636?-1674), Nonconformist minister of Rotherhithe, for the Word Hoard: A Token for Children (1811 complete edition), Invisibles, Realities (the life of his brother John Janeway, 1814), The Saints' Encouragement to Diligence (1833), A Token for Mariners (1708) and A Token for Youth (1720). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 94 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james janeway",
+  "j. janeway"
+ ],
+ "_surname": [
+  "james janeway",
+  "j. janeway",
+  "janeway"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "janeway-invisibles-realities": [
+   "invisiblesrealit00jane",
+   "Invisibles, realities, demonstrated in the holy life and triumphant death of Mr. John Janeway, fellow of King's College in Cambridge (Pittsfield [Mass.] Printed by Phinehas Allen, 1814)"
+  ],
+  "janeway-saints-encouragement": [
+   "saintsencouragem00jane",
+   "The saints' encouragement to diligence in Christ's service : with motives and means to Christian activity ; to which is added as an example to prove the point handled, the death-bed experiences of Mrs. B (London : Religious Tract Society, 1833)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "janeway-early": "the 1667-1680 first printings (Early English Books), left for the EEBO first-editions work",
+  "janeway-extracts": "extracts and abridgements by John Wesley and James Wheatley"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "janeway-token-children": "tokenforchildren00jane: the scan is an Appleton juvenile reprint whose OCR never names Janeway; needs a page-image check",
+  "janeway-token-mariners": "bim_eighteenth-century_a-token-for-mariners-co_janeway-james_1708: eighteenth-century printing with no author named in the readable OCR; attribution is the catalogue's",
+  "janeway-token-youth": "bim_eighteenth-century_a-token-for-youth-contai_janeway-james_1720: eighteenth-century printing with no author named in the readable OCR; attribution is the catalogue's"
+ },
+ "_translators": {},
+ "_checks": {
+  "janeway-invisibles-realities": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james janeway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "janeway-saints-encouragement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james janeway",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

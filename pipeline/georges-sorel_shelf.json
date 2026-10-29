@@ -1,0 +1,40 @@
+{
+ "_about": "Georges Sorel (1847-1922), raw IA OCR: Reflections on Violence, authorised translation by T. E. Hulme (London: Allen and Unwin; 'first published in 1916'). US public domain. Not taken: two scans with no dated title page and one 1920s reprint. No uids minted.",
+ "_author": "Georges Sorel",
+ "_name_words": [
+  "georges",
+  "g",
+  "sorel"
+ ],
+ "_surname": [
+  "sorel"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sorel-hulme-reflections-on-violence-1916": [
+   "cu31924074961735",
+   "Reflections on Violence (London: Allen and Unwin, 1916)",
+   "tr. T. E. Hulme"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "sorel-hulme-reflections-on-violence-1916": "Hulme"
+ },
+ "_checks": {
+  "sorel-hulme-reflections-on-violence-1916": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sorel",
+   "translator_claimed": "Hulme",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "_about": "Public-domain William Beveridge (1637-1708, Bishop of St Asaph) for the Word Hoard: the Theological Works in the Library of Anglo-Catholic Theology (Oxford: Parker, 1842-48, 12 vols), raw Internet Archive OCR. Vols 11-12 are Beveridge's Latin works. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/beveridge",
+ "_name_words": [
+  "beveridge",
+  "william"
+ ],
+ "_surname": [
+  "william beveridge",
+  "bishop beveridge",
+  "beveridge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beveridge-works-1": [
+   "theologicalworks01beve",
+   "The Theological Works of William Beveridge, vol. 1 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-2": [
+   "theologicalworks02beve",
+   "The Theological Works of William Beveridge, vol. 2 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-3": [
+   "theologicalworks03beve",
+   "The Theological Works of William Beveridge, vol. 3 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-4": [
+   "theologicalworks04beve",
+   "The Theological Works of William Beveridge, vol. 4 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-5": [
+   "theologicalworks05beve",
+   "The Theological Works of William Beveridge, vol. 5 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-6": [
+   "theologicalworks06beve",
+   "The Theological Works of William Beveridge, vol. 6 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-7": [
+   "theologicalworks07beve",
+   "The Theological Works of William Beveridge, vol. 7 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-8": [
+   "theologicalworks08beve",
+   "The Theological Works of William Beveridge, vol. 8 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-9": [
+   "theologicalworks09beve",
+   "The Theological Works of William Beveridge, vol. 9 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-10": [
+   "theologicalworks10beve",
+   "The Theological Works of William Beveridge, vol. 10 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-11": [
+   "theologicalworks11beve",
+   "The Theological Works (Latin) of William Beveridge, vol. 11 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ],
+  "beveridge-works-12": [
+   "theologicalworks12beve",
+   "The Theological Works (Latin) of William Beveridge, vol. 12 (Oxford: Parker, Library of Anglo-Catholic Theology, 1842-48)"
+  ]
+ },
+ "_alternates": {
+  "beveridge-works": "the Trinity College (Toronto) scans of the same set (thetheologicalwo0*beveuoft, theologicalwork*beveuoft)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "beveridge-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-11": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "beveridge-works-12": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

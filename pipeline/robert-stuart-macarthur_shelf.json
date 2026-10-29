@@ -1,0 +1,257 @@
+{
+ "_about": "Public-domain Robert Stuart MacArthur (1841-1923), pastor of Calvary Baptist Church, New York, for the Word Hoard: The Calvary Pulpit, The Attractive Christ, Current Questions for Thinking Men, Bible Difficulties, The Celestial Lamp, Sunday Night Lectures on The Land and the Book, The Old Book and the Old Faith, The Question of the Centuries, Quick Truths in Quaint Texts, Advent, The Christic Reign, Royal Messages, his Lincoln sermon, his life of James B. Simmons, and The Baptists. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 88 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robert stuart macarthur",
+  "r. s. macarthur",
+  "robert s. macarthur"
+ ],
+ "_surname": [
+  "robert stuart macarthur",
+  "r. s. macarthur",
+  "robert s. macarthur",
+  "macarthur"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "macarthur-calvary-pulpit": [
+   "calvarypulpitchr00maca",
+   "The calvary pulpit : Christ and Him crucified (New York : Funk & Wagnalls, 1890)"
+  ],
+  "macarthur-attractive-christ": [
+   "attractivechrist00maca",
+   "The attractive Christ : and other sermons (Philadelphia : American Baptist publication society, 1898)"
+  ],
+  "macarthur-current-questions": [
+   "currentquestions00maca",
+   "Current questions for thinking men (Philadelphia : American Baptist Publication Society, 1898)"
+  ],
+  "macarthur-bible-difficulties": [
+   "bibledifficultie00maca",
+   "Bible difficulties and their alleviative interpretation ... Old Testament (New York : E.B. Treat, 1899)"
+  ],
+  "macarthur-celestial-lamp": [
+   "celestiallampoth00maca",
+   "The celestial lamp, and other sermons (Philadelphia: American Publication Society, 1899)"
+  ],
+  "macarthur-land-and-book": [
+   "sundaynightlectu00maca",
+   "Sunday night lectures on \"the Land and the Book,\" (Philadelphia, A. J. Rowland, 1900)"
+  ],
+  "macarthur-old-book-old-faith": [
+   "cihm_37838",
+   "The old book and the old faith : reviewed in a series of lectures (New York : E.B. Treat, 1900)"
+  ],
+  "macarthur-question-centuries": [
+   "questionofcentur00maca",
+   "The question of the centuries. Some sermons on personal relationship of the disciple of the kingdom of heaven (Cleveland, O., F.M. Barton, 1905)"
+  ],
+  "macarthur-quick-truths": [
+   "quicktruthsinqua00maca",
+   "Quick truths in quaint texts. 2d series (Philadelphia, New York [etc.] American Baptist publication society, 1907)"
+  ],
+  "macarthur-advent": [
+   "advent00maca",
+   "Advent (Philadelphia, New York [etc.] American Baptist publication society, 1908)"
+  ],
+  "macarthur-christic-reign": [
+   "christicreignoth00maca",
+   "The Christic reign, and other sermons (Philadelphia, New York [etc.] American Baptist publication society, 1908)"
+  ],
+  "macarthur-royal-messages": [
+   "royalmessagesofc00maca",
+   "Royal messages of cheer and comfort beautifully told (New York, E. B. Treat and Company, 1909)"
+  ],
+  "macarthur-lincoln": [
+   "abrahamlincolnhi00maca",
+   "Abraham Lincoln, his mystery, making and mastery : sermon preached in Calvary Baptist Church, New York, Sunday morning, February 14, 1909, in memory of the centennary anniversary of Abraham Lincoln's birth ([New York?] : [s.n.], 1909)"
+  ],
+  "macarthur-simmons": [
+   "foundationbuilde00maca",
+   "A foundation builder; sketches in the life of Rev. James B. Simmons, D. D (New York : F. H. Revell, 1911)"
+  ],
+  "macarthur-baptists": [
+   "baptiststheirpri00macarich",
+   "The Baptists : their principle, their progress, their prospect (Philadelphia : American Baptist Pub. Society, c191)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "macarthur-compiled": "hymnals and orders of worship he compiled (In Excelsis, Calvary Hymnal, The People's Worship and Psalter)",
+  "macarthur-travel": "Around the World due West to the Far East (travel)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "macarthur-lincoln": "title page (black letter): 'Abraham Lincoln, his Mystery, Making and Mastery. Sermon preached in Calvary Baptist Church, New York, Sunday morning, February 14, 1909 ... BY Robert Stuart MacArthur, Minister of this Church since May 15, 1870' (OCR 'Snbf rl Stuart iiarArtI|ur'; MacArthur was Calvary's pastor from 1870)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "macarthur-calvary-pulpit": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert s. macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macarthur-attractive-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macarthur-current-questions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macarthur-bible-difficulties": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macarthur-celestial-lamp": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macarthur-land-and-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "macarthur-old-book-old-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macarthur-question-centuries": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "macarthur-quick-truths": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macarthur-advent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "macarthur-christic-reign": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "macarthur-royal-messages": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macarthur-lincoln": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "macarthur-simmons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. s. macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "macarthur-baptists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert stuart macarthur",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "c1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

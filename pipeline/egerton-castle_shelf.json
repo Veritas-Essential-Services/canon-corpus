@@ -1,0 +1,149 @@
+{
+ "_about": "Egerton Castle's writing at Gutenberg: romances (many with Agnes Castle). Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Egerton Castle",
+ "_name_words": [
+  "castle",
+  "egerton"
+ ],
+ "_surname": [
+  "egerton castle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ecastle-light-of-scarthey": [
+   26045,
+   "The Light of Scarthey: A Romance"
+  ],
+  "ecastle-if-youth-but-knew": [
+   44286,
+   "\"If Youth but Knew!\""
+  ],
+  "ecastle-pride-of-jennico": [
+   51238,
+   "The Pride of Jennico: Being a Memoir of Captain Basil Jennico"
+  ],
+  "ecastle-our-sentimental-garden": [
+   51779,
+   "Our sentimental garden"
+  ],
+  "ecastle-rose-of-the-world": [
+   55696,
+   "Rose of the World"
+  ],
+  "ecastle-bath-comedy": [
+   56227,
+   "The Bath Comedy"
+  ],
+  "ecastle-my-merry-rockhurst-being-some-episodes-in-the-life-o": [
+   57407,
+   "\"My Merry Rockhurst\" Being Some Episodes in the Life of Viscount Rockhurst, a Friend of King Charles the Second, and at One Time Constable of His Majesty's Tower of London"
+  ],
+  "ecastle-little-house-in-war-time": [
+   63618,
+   "A Little House in War Time"
+  ],
+  "ecastle-pamela-pounce": [
+   69413,
+   "Pamela Pounce: A tale of tempestuous petticoats"
+  ],
+  "ecastle-star-dreamer": [
+   69711,
+   "The star dreamer: A romance"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ecastle-light-of-scarthey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-if-youth-but-knew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-pride-of-jennico": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-our-sentimental-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-rose-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-bath-comedy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-my-merry-rockhurst-being-some-episodes-in-the-life-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-little-house-in-war-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-pamela-pounce": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ecastle-star-dreamer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "egerton castle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

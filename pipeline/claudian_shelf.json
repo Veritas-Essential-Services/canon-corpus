@@ -1,0 +1,116 @@
+{
+ "_about": "Claudian, translator per title. Maurice Platnauer's Loeb (1922), 2 vols., clean Gutenberg (Latin facing kept; Gutenberg text from a later unaltered reprint). A. Hawkins's verse Works of Claudian (1817), vol. 1, raw IA OCR.",
+ "_name_words": [
+  "claudian"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "claudian-platnauer-v1": [
+   51443,
+   "Claudian, vol. 1",
+   "tr. Maurice Platnauer"
+  ],
+  "claudian-platnauer-v2": [
+   51444,
+   "Claudian, vol. 2",
+   "tr. Maurice Platnauer"
+  ]
+ },
+ "internet_archive": {
+  "claudian-hawkins-v1": [
+   "worksclaudian00hawkgoog",
+   "The Works of Claudian, vol. 1 (1817)",
+   "tr. A. Hawkins"
+  ],
+  "claudian-strutt-1814": [
+   "rapeofproserpi00clau",
+   "The Rape of Proserpine, with other poems, from Claudian, translated into English Verse (London: Valpy, 1814)",
+   "tr. Jacob George Strutt"
+  ],
+  "claudian-howard-1823": [
+   "translationsfrom00clauuoft",
+   "Translations from Claudian (London: John Murray, 1823)",
+   "tr. Henry Howard"
+  ]
+ },
+ "_excluded": {
+  "Hawkins vol. 2": "worksclaudian01hawkgoog has no text layer; pending",
+  "Jabez Hughes, Claudian the Poet his Elegant History of Rufinus, with Etna and passages of Statius, Orpheus and others (1741)": "PD; the only scan found (IA bim_eighteenth-century_claudian-the-poet-his-el_hughes-jabez_1741, ECCO) reads 0.665, under the bar; refused for OCR quality 2026-10-10"
+ },
+ "_surname": [
+  "claudian",
+  "claudianus"
+ ],
+ "_translators": {
+  "claudian-platnauer-v1": "Maurice Platnauer",
+  "claudian-platnauer-v2": "Maurice Platnauer",
+  "claudian-hawkins-v1": "A. Hawkins",
+  "claudian-strutt-1814": "Jacob George Strutt",
+  "claudian-howard-1823": "Henry Howard"
+ },
+ "_checks": {
+  "claudian-platnauer-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "Maurice Platnauer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maurice Platnauer",
+   "translator_match": true
+  },
+  "claudian-platnauer-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "Maurice Platnauer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maurice Platnauer",
+   "translator_match": true
+  },
+  "claudian-hawkins-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "A. Hawkins",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1817",
+   "ia_date": "1817",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "claudian-strutt-1814": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "Jacob George Strutt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "claudian-howard-1823": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "claudian",
+   "translator_claimed": "Henry Howard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

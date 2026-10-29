@@ -1,0 +1,86 @@
+{
+ "_about": "Public-domain Milton Valentine, Lutheran theologian, president of Pennsylvania College at Gettysburg and professor in the Gettysburg seminary, for the Word Hoard: Christian Theology, Natural Theology, Theoretical Ethics, and The Essential Principles of the Lutheran Church. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 129 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "milton valentine",
+  "m. valentine",
+  "valentine"
+ ],
+ "_surname": [
+  "valentine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "valentine-essential-principles": [
+   "essentialprincip00vale",
+   "The essential principle of reform (Gettysburg, Aughinbaugh & Wible, book & job printers, 1865)"
+  ],
+  "valentine-natural-theology": [
+   "naturaltheologyo00valerich",
+   "Natural theology; or, Rational theism (Chicago, John C. Buckbee & co, [c18)"
+  ],
+  "valentine-theoretical-ethics": [
+   "theoreticalethi01valegoog",
+   "Theoretical ethics (Chicago, Scott, Foresman & co., 1897)"
+  ],
+  "valentine-christian-theology": [
+   "christiantheolog0000vale",
+   "Christian theology (Philadelphia : Lutheran publication Society, 1906)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "valentine-others": "pamphlet scans from other Valentines, and books on poultry and on Paris by others of the name"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "valentine-essential-principles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "valentine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "valentine-natural-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "valentine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "[c1885]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "valentine-theoretical-ethics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "valentine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "valentine-christian-theology": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "valentine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

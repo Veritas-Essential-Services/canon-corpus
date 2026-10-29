@@ -1,0 +1,67 @@
+{
+ "_about": "Jean-Jacques Burlamaqui (1694-1748), The Principles of Natural and Politic Law, tr. Thomas Nugent, 2nd ed., revised and corrected (London: J. Nourse, 1763, 2 vols.), raw IA OCR. US public domain. No uids minted.",
+ "_author": "Jean-Jacques Burlamaqui",
+ "_name_words": [
+  "jean",
+  "jacques",
+  "burlamaqui"
+ ],
+ "_surname": [
+  "burlamaqui"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "burlamaqui-nugent-natural-and-politic-law-1763-v1": [
+   "principlesnatpol01burluoft",
+   "The Principles of Natural and Politic Law, 2nd ed., vol. I (London: J. Nourse, 1763)",
+   "tr. Thomas Nugent"
+  ],
+  "burlamaqui-nugent-natural-and-politic-law-1763-v2": [
+   "principlesnatpol02burluoft",
+   "The Principles of Natural and Politic Law, 2nd ed., vol. II (London: J. Nourse, 1763)",
+   "tr. Thomas Nugent"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "burlamaqui-nugent-natural-and-politic-law-1763-v1": "NUGENT",
+  "burlamaqui-nugent-natural-and-politic-law-1763-v2": "NUGENT"
+ },
+ "_checks": {
+  "burlamaqui-nugent-natural-and-politic-law-1763-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "NUGENT",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "burlamaqui-nugent-natural-and-politic-law-1763-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "translator_claimed": "NUGENT",
+   "translator_in_text": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1763",
+   "ia_date": "1763",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "burlamaqui-nugent-natural-and-politic-law-1763-v1": {
+   "author": "Title page read: the OCR spells the name 'BURL A MA ^JJ I' (vol. I) and 'BURLAMAQJJI' (vol. II); the printed page reads Burlamaqui, translated by Mr. Nugent, 2nd ed., London: J. Nourse, MDCCLXIII."
+  },
+  "burlamaqui-nugent-natural-and-politic-law-1763-v2": {
+   "author": "Title page read: the OCR spells the name 'BURL A MA ^JJ I' (vol. I) and 'BURLAMAQJJI' (vol. II); the printed page reads Burlamaqui, translated by Mr. Nugent, 2nd ed., London: J. Nourse, MDCCLXIII."
+  }
+ }
+}

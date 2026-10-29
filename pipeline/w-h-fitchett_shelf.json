@@ -1,0 +1,75 @@
+{
+ "_about": "Public-domain William Henry Fitchett (1841-1928), Methodist minister and principal of the Methodist Ladies' College, Melbourne, for the Word Hoard: his religious books, The Unrealized Logic of Religion, Wesley and his Century, and The Beliefs of Unbelief. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 118 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "w. h. fitchett",
+  "william henry fitchett",
+  "fitchett"
+ ],
+ "_surname": [
+  "w. h. fitchett",
+  "william henry fitchett",
+  "fitchett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fitchett-unrealized-logic": [
+   "unrealizedlogico00fitc",
+   "The unrealized logic of religion : a study in credibilities (New York : Eaton & Mains, 1905)"
+  ],
+  "fitchett-wesley": [
+   "wesleyhiscentu00fitc",
+   "Wesley and his century : a study in spiritual forces (Toronto : W. Briggs, 1906)"
+  ],
+  "fitchett-beliefs-unbelief": [
+   "beliefsofunbelie00fitc",
+   "The beliefs of unbelief : studies in the alternatives to faith (New York : Eaton & Mains ; Cincinnati : Jennings & Graham, 1907)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "fitchett-history-fiction": "His popular military histories (Deeds that Won the Empire, How England Saved Europe, Nelson, the Mutiny) and his novels are left to other lanes"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "fitchett-beliefs-unbelief": "Title page (OCR): \"THE BELIEFS OF UNBELIEF: STUDIES IN THE ALTERNATIVES TO FAITH BY [name garbled] AUTHOR OF 'HOW ENGLAND SAVED EUROPE,' 'THE UNREALIZED LOGIC OF RELIGION'\": the author of those books is W. H. Fitchett, whose Unrealized Logic is on this shelf under his name."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "fitchett-unrealized-logic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. fitchett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fitchett-wesley": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. h. fitchett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fitchett-beliefs-unbelief": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

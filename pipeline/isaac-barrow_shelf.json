@@ -1,0 +1,161 @@
+{
+ "_about": "Public-domain Isaac Barrow (1630-1677, Master of Trinity College, Cambridge) for the Word Hoard: Alexander Napier's edition of the Theological Works (Cambridge: University Press, 1859, 9 vols), raw Internet Archive OCR, chiefly the sermons. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "b/barrow",
+ "_name_words": [
+  "barrow",
+  "isaac"
+ ],
+ "_surname": [
+  "isaac barrow",
+  "dr. barrow",
+  "barrow"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "barrow-works-1": [
+   "theologicalworks01barruoft",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 1 (Cambridge: University Press, 1859)"
+  ],
+  "barrow-works-2": [
+   "theologicalworks02barruoft",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 2 (Cambridge: University Press, 1859)"
+  ],
+  "barrow-works-3": [
+   "theologicalworks03barruoft",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 3 (Cambridge: University Press, 1859)"
+  ],
+  "barrow-works-4": [
+   "theologicalworks04barruoft",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 4 (Cambridge: University Press, 1859)"
+  ],
+  "barrow-works-5": [
+   "theologicalworks05barruoft",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 5 (Cambridge: University Press, 1859)"
+  ],
+  "barrow-works-6": [
+   "theologicalworks06barruoft",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 6 (Cambridge: University Press, 1859)"
+  ],
+  "barrow-works-7": [
+   "07374055.1725.emory.edu",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 7 (Cambridge: University Press, 1859)",
+   "07374055_1725_djvu.txt"
+  ],
+  "barrow-works-8": [
+   "07374055.1735.emory.edu",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 8 (Cambridge: University Press, 1859)",
+   "07374055_1735_djvu.txt"
+  ],
+  "barrow-works-9": [
+   "theologicalworks09barruoft",
+   "The Theological Works of Isaac Barrow, ed. Alexander Napier, vol. 9 (Cambridge: University Press, 1859)"
+  ]
+ },
+ "_alternates": {
+  "barrow-works": "Toronto (Robarts) scans for vols 1-6 and 9; vol. 7's Robarts copy (theologicalworks07barruoft) kept returning HTTP 500 and the series has no vol. 8, so vols 7-8 are Emory's scans (their text files keep Emory's own names); the full Emory set (07374055.17xx.emory.edu); the Oxford 1830 Theological Works (Hughes) and Valpy's 1830-31 Works not shelved; the mathematical works are out of scope"
+ },
+ "_excluded": {},
+ "_checks": {
+  "barrow-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barrow-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barrow-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barrow-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barrow-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barrow-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "barrow-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "barrow-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "barrow-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "isaac barrow",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

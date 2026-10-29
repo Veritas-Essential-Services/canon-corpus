@@ -1,0 +1,209 @@
+{
+ "_about": "Public-domain Thomas Secker (1693-1768), Archbishop of Canterbury, for the Word Hoard: his Works (London: Rivington, 1771-1780, twelve volumes: sermons, the Lectures on the Catechism, charges and occasional pieces), from Internet Archive scans. Added 2026-10-23 by lane A, round 41 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "secker"
+ ],
+ "_surname": [
+  "thomas secker",
+  "secker"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "secker-works-1": [
+   "worksofsecker01seckiala",
+   "Works of Thomas Secker, vol. 1 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-2": [
+   "worksofsecker02seckiala",
+   "Works of Thomas Secker, vol. 2 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-3": [
+   "worksofsecker03seckiala",
+   "Works of Thomas Secker, vol. 3 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-4": [
+   "worksofsecker04seckiala",
+   "Works of Thomas Secker, vol. 4 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-5": [
+   "worksofsecker05seckiala",
+   "Works of Thomas Secker, vol. 5 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-6": [
+   "worksofsecker06seckiala",
+   "Works of Thomas Secker, vol. 6 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-7": [
+   "worksofsecker07seckiala",
+   "Works of Thomas Secker, vol. 7 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-8": [
+   "worksofsecker08seckiala",
+   "Works of Thomas Secker, vol. 8 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-9": [
+   "worksofsecker09seckiala",
+   "Works of Thomas Secker, vol. 9 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-10": [
+   "worksofsecker10seckiala",
+   "Works of Thomas Secker, vol. 10 (London: J. and F. Rivington and others, catalogued 1771-1780)"
+  ],
+  "secker-works-11": [
+   "worksofsecker11seckiala",
+   "Works of Thomas Secker, vol. 11: Lectures on the Catechism of the Church of England, vol. I, fourth edition (London: J. and F. Rivington and B. White, 1771)"
+  ],
+  "secker-works-12": [
+   "worksofsecker12seckiala",
+   "Works of Thomas Secker, vol. 12: Lectures on the Catechism of the Church of England, vol. II, fourth edition (London: J. and F. Rivington and B. White, 1771)"
+  ]
+ },
+ "_alternates": {
+  "secker-copies": "The separate Sermons on Several Subjects (1771, seven volumes) and Lectures on the Catechism (1771), both inside the Works; the Nine Sermons (1758)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "secker-works-11": "title page read (OCR): 'Lectures on the Catechism of the Church of England ... By THOMAS SECKER, LL.D. Late Lord Archbishop of Canterbury', fourth edition, vol. I, London: Rivington, 1771 (OCR letter-spaces the name)",
+  "secker-works-12": "title page read (OCR): 'Lectures on the Catechism of the Church of England ... By THOMAS SECKER, LL.D. Late Lord Archbishop of Canterbury', fourth edition, vol. II, London: Rivington, 1771 (OCR letter-spaces the name)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "secker-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "secker",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-9": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-10": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "secker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-11": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "secker-works-12": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771-80]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

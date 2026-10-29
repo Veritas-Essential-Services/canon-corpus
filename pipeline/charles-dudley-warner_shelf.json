@@ -1,0 +1,598 @@
+{
+ "_about": "Charles Dudley Warner's essays, travels and novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Charles Dudley Warner",
+ "_name_words": [
+  "warner"
+ ],
+ "_surname": [
+  "charles dudley warner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-1": [
+   2671,
+   "The Complete Writings of Charles Dudley Warner — Volume 1"
+  ],
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-2": [
+   2672,
+   "The Complete Writings of Charles Dudley Warner — Volume 2"
+  ],
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-3": [
+   2673,
+   "The Complete Writings of Charles Dudley Warner — Volume 3"
+  ],
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-4": [
+   2674,
+   "The Complete Writings of Charles Dudley Warner — Volume 4"
+  ],
+  "cdwarner-washington-irving": [
+   3101,
+   "Washington Irving"
+  ],
+  "cdwarner-their-pilgrimage": [
+   3102,
+   "Their Pilgrimage"
+  ],
+  "cdwarner-a-little-journey-in-the-world": [
+   3103,
+   "A Little Journey in the World"
+  ],
+  "cdwarner-golden-house": [
+   3104,
+   "The Golden House"
+  ],
+  "cdwarner-that-fortune": [
+   3105,
+   "That Fortune"
+  ],
+  "cdwarner-as-we-were-saying": [
+   3106,
+   "As We Were Saying"
+  ],
+  "cdwarner-as-we-go": [
+   3107,
+   "As We Go"
+  ],
+  "cdwarner-nine-short-essays": [
+   3108,
+   "Nine Short Essays"
+  ],
+  "cdwarner-fashions-in-literature": [
+   3109,
+   "Fashions in Literature"
+  ],
+  "cdwarner-american-newspaper": [
+   3110,
+   "The American Newspaper"
+  ],
+  "cdwarner-certain-diversities-of-american-life": [
+   3111,
+   "Certain Diversities of American Life"
+  ],
+  "cdwarner-pilgrim-and-the-american-of-today-1892": [
+   3112,
+   "The Pilgrim, and the American of Today—(1892)"
+  ],
+  "cdwarner-some-causes-of-the-prevailing-discontent": [
+   3113,
+   "Some Causes of the Prevailing Discontent"
+  ],
+  "cdwarner-education-of-the-negro": [
+   3114,
+   "The Education of the Negro"
+  ],
+  "cdwarner-indeterminate-sentence": [
+   3115,
+   "The Indeterminate Sentence: What Shall Be Done with the Criminal Class?"
+  ],
+  "cdwarner-literary-copyright": [
+   3116,
+   "Literary Copyright"
+  ],
+  "cdwarner-relation-of-literature-to-life": [
+   3117,
+   "The Relation of Literature to Life"
+  ],
+  "cdwarner-equality": [
+   3118,
+   "Equality"
+  ],
+  "cdwarner-what-is-your-culture-to-me": [
+   3119,
+   "What Is Your Culture to Me?"
+  ],
+  "cdwarner-modern-fiction": [
+   3120,
+   "Modern Fiction"
+  ],
+  "cdwarner-thoughts-suggested-by-mr-froudes-progress": [
+   3121,
+   "Thoughts Suggested by Mr. Froude's \"Progress\""
+  ],
+  "cdwarner-england": [
+   3122,
+   "England"
+  ],
+  "cdwarner-novel-and-the-common-school": [
+   3123,
+   "The Novel and the Common School"
+  ],
+  "cdwarner-people-for-whom-shakespeare-wrote": [
+   3124,
+   "The People for Whom Shakespeare Wrote"
+  ],
+  "cdwarner-complete-essays-of-charles-dudley-warner": [
+   3125,
+   "The Complete Essays of Charles Dudley Warner"
+  ],
+  "cdwarner-on-horseback": [
+   3126,
+   "On Horseback"
+  ],
+  "cdwarner-being-a-boy": [
+   3127,
+   "Being a Boy"
+  ],
+  "cdwarner-saunterings": [
+   3128,
+   "Saunterings"
+  ],
+  "cdwarner-story-of-pocahontas": [
+   3129,
+   "The Story of Pocahontas"
+  ],
+  "cdwarner-captain-john-smith": [
+   3130,
+   "Captain John Smith"
+  ],
+  "cdwarner-how-spring-came-in-new-england": [
+   3131,
+   "How Spring Came in New England"
+  ],
+  "cdwarner-in-the-wilderness": [
+   3132,
+   "In the Wilderness"
+  ],
+  "cdwarner-baddeck-and-that-sort-of-thing": [
+   3133,
+   "Baddeck, and That Sort of Thing"
+  ],
+  "cdwarner-backlog-studies": [
+   3134,
+   "Backlog Studies"
+  ],
+  "cdwarner-my-summer-in-a-garden": [
+   3135,
+   "My Summer in a Garden"
+  ],
+  "cdwarner-complete-project-gutenberg-writings-of-charles-dudl": [
+   3136,
+   "The Complete Project Gutenberg Writings of Charles Dudley Warner"
+  ],
+  "cdwarner-our-italy": [
+   28506,
+   "Our Italy",
+   {
+    "contents_only": true
+   }
+  ],
+  "cdwarner-my-winter-on-the-nile-eighteenth-edition": [
+   52212,
+   "My Winter on the Nile Eighteenth Edition"
+  ],
+  "cdwarner-in-the-levant-twenty-fifth-impression": [
+   52213,
+   "In the Levant Twenty Fifth Impression",
+   {
+    "contents_only": true
+   }
+  ],
+  "cdwarner-studies-in-the-south-and-west-with-comments-on-cana": [
+   52290,
+   "Studies in the South and West, with Comments on Canada"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 15984, 54604: second Gutenberg editions of titles already on the shelf.",
+  "pg-3471": "PG 3471, 7557, 28821: David Widger's quotation selections and linked index."
+ },
+ "_checks": {
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-complete-writings-of-charles-dudley-warner-volume-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-washington-irving": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-their-pilgrimage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-a-little-journey-in-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-golden-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-that-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-as-we-were-saying": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-as-we-go": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-nine-short-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-fashions-in-literature": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-american-newspaper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-certain-diversities-of-american-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-pilgrim-and-the-american-of-today-1892": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-some-causes-of-the-prevailing-discontent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-education-of-the-negro": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-indeterminate-sentence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-literary-copyright": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-relation-of-literature-to-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-equality": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-what-is-your-culture-to-me": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-modern-fiction": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-thoughts-suggested-by-mr-froudes-progress": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-novel-and-the-common-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-people-for-whom-shakespeare-wrote": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-complete-essays-of-charles-dudley-warner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-on-horseback": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-being-a-boy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-saunterings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-story-of-pocahontas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-captain-john-smith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-how-spring-came-in-new-england": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-in-the-wilderness": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-baddeck-and-that-sort-of-thing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-backlog-studies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-my-summer-in-a-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-complete-project-gutenberg-writings-of-charles-dudl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-our-italy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-my-winter-on-the-nile-eighteenth-edition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-in-the-levant-twenty-fifth-impression": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cdwarner-studies-in-the-south-and-west-with-comments-on-cana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "charles dudley warner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,306 @@
+{
+ "_about": "Public-domain Jacob Boehme (Behmen, 1575-1624, Lutheran mystic of Görlitz) in English for the Word Hoard: the Dialogues on the Supersensual Life ed. Bernard Holland (1901) from CCEL, the four-volume Works with figures left by William Law (1764-1781), seventeenth-century English printings, most of them John Sparrow's translations (the Threefold Life, Forty Questions, Signatura Rerum, Aurora, the Election of Grace, Mysterium Magnum, the Way to Christ), the Way to Christ (1894), the Epistles (1886) and the Six Theosophic Points tr. John Rolleston Earle (1919), from Internet Archive scans. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "boehme",
+ "_name_words": [
+  "behmen",
+  "boehme"
+ ],
+ "_surname": [
+  "jacob behmen",
+  "jacob boehme",
+  "jacob bohme",
+  "jacob böhme",
+  "jacob behme",
+  "behmen",
+  "boehme",
+  "teutonick philosopher",
+  "teutonic theosopher"
+ ],
+ "_held": {},
+ "ccel": {
+  "boehme-supersensual-life": [
+   "supersensual",
+   "Dialogues on the Supersensual Life, ed. Bernard Holland (London: Methuen, 1901)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "boehme-works-law-1": [
+   "worksofjacobbehm01beohuoft",
+   "The Works of Jacob Behmen, the Teutonic Theosopher, with figures left by William Law, vol. I (London: M. Richardson, MDCCLXIV)"
+  ],
+  "boehme-works-law-2": [
+   "worksofjacobbehm02beohuoft",
+   "The Works of Jacob Behmen, vol. II (London: M. Richardson, MDCCLXIV)"
+  ],
+  "boehme-works-law-3": [
+   "worksofjacobbehm03beohuoft",
+   "The Works of Jacob Behmen, vol. III (London: G. Robinson, MDCCLXXII)"
+  ],
+  "boehme-works-law-4": [
+   "worksofjacobbehm04beohuoft",
+   "The Works of Jacob Behmen, vol. IV (London: G. Robinson, MDCCLXXXI)"
+  ],
+  "boehme-threefold-life-sparrow": [
+   "bim_early-english-books-1641-1700_the-third-booke-of-the-a_bohme-jacob_1650",
+   "The High and Deepe Searching out of the Threefold Life of Man (London: M. S. for H. Blunden; catalogued 1650)"
+  ],
+  "boehme-forty-questions-1647": [
+   "bim_early-english-books-1641-1700_xl-questions-concerning_bhme-jacob_1647",
+   "XL. Questions concerning the Soule, propounded by Dr. Balthasar Walter and answered by Jacob Behmen (London: M. S. for H. Blunden, 1647)"
+  ],
+  "boehme-forty-questions-1665": [
+   "fortyquestionsof00bohm",
+   "Forty Questions of the Soul (London; catalogued 1665)"
+  ],
+  "boehme-signatura-rerum": [
+   "signaturarerumor00bhme",
+   "Signatura Rerum, or the Signature of all Things (London: John Macock for Giles Calvert; catalogued 1651)"
+  ],
+  "boehme-aurora-1656": [
+   "aurorathatisdays00bhme",
+   "Aurora, that is, the Day-Spring (London: John Streater for Giles Calvert, 1656)"
+  ],
+  "boehme-election-of-grace": [
+   "conelecti00bhme",
+   "Concerning the Election of Grace (London; catalogued 1655)"
+  ],
+  "boehme-mysterium-magnum-1654": [
+   "bim_early-english-books-1641-1700_mysterium-magnum_bohme-jacob_1654",
+   "Mysterium Magnum, or an Exposition of the First Book of Moses called Genesis (London; catalogued 1654)"
+  ],
+  "boehme-way-to-christ-1654": [
+   "bim_early-english-books-1641-1700_the-way-to-christ-discov_bhme-jacob_1654",
+   "The Way to Christ Discovered (London; catalogued 1654)"
+  ],
+  "boehme-way-to-christ-1894": [
+   "waytochristdesc00begoog",
+   "The Way to Christ Described (Canterbury, 1894)"
+  ],
+  "boehme-epistles-1886": [
+   "cu31924029351719",
+   "The Epistles of Jacob Behmen, reprinted from the edition of 1649 (Glasgow, 1886)"
+  ],
+  "boehme-six-theosophic-points-earle": [
+   "sixtheosophicpoi00bhme_0",
+   "Six Theosophic Points and Other Writings, tr. John Rolleston Earle (London: Constable, 1919)"
+  ]
+ },
+ "_alternates": {
+  "boehme-pg-33742": "PG 33742: the same Holland 1901 Dialogues as CCEL",
+  "boehme-works-copies": "The Getty copy of the Law Works and the ECCO set (catalogued 1781 throughout)",
+  "boehme-watkins": "Watkins reissues of Sparrow (1909-1924)",
+  "boehme-other-early": "The Three Principles description (1648) and other seventeenth-century items",
+  "boehme-epistles-1649": "The Epistles of Jacob Behmen (London, catalogued 1649): no title page legible in the OCR; the 1886 Glasgow reprint of this edition is on the shelf"
+ },
+ "_excluded": {
+  "boehme-ccel-way": "CCEL boehme/waytochrist: no print source stated",
+  "boehme-about": "Whyte's appreciation (PG 16306) and other works about him"
+ },
+ "_identity_checked": {
+  "boehme-signatura-rerum": {
+   "author": "title page read: 'Written in High Dutch MDCXXII, by JACOB BEHME[N], alias Teutonicus Philosophus' (OCR 'fJCOB BEHME^J^'), London, printed by John Macock"
+  }
+ },
+ "_rights_checked": {
+  "boehme-threefold-life-sparrow": "title page read: London, M. S. for H. Blunden; year garbled; catalogued 1650; the 'Englished by J. Sparrow' line is not legible in the OCR, so no translator is claimed",
+  "boehme-signatura-rerum": "title page read: London, John Macock for Giles Calvert; year garbled; catalogued 1651",
+  "boehme-election-of-grace": "catalogued 1655",
+  "boehme-mysterium-magnum-1654": "catalogued 1654",
+  "boehme-way-to-christ-1654": "catalogued 1654",
+  "boehme-forty-questions-1665": "title page read: 'Englished by Joh[n Sparrow]', the name cut off in the OCR, so no translator is claimed; catalogued 1665"
+ },
+ "_pending": {},
+ "_translators": {
+  "boehme-six-theosophic-points-earle": "earle"
+ },
+ "_checks": {
+  "boehme-supersensual-life": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "boehme-works-law-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1781",
+   "ia_date": "1764-1781",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boehme-works-law-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1781",
+   "ia_date": "1764-1781",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boehme-works-law-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1781",
+   "ia_date": "1764-1781",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boehme-works-law-4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1781",
+   "ia_date": "1764-1781",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boehme-threefold-life-sparrow": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1650",
+   "ia_date": "1650",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London, M. S. for H. Blunden; year garbled; catalogued 1650; the 'Englished by J. Sparrow' line is not legible in the OCR, so no translator is claimed"
+  },
+  "boehme-forty-questions-1647": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1647",
+   "ia_date": "1647",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boehme-forty-questions-1665": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behme",
+   "identity": "ok",
+   "ia_rights": "ok: published 1665",
+   "ia_date": "1665",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Englished by Joh[n Sparrow]', the name cut off in the OCR, so no translator is claimed; catalogued 1665"
+  },
+  "boehme-signatura-rerum": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1651",
+   "ia_date": "1651",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: London, John Macock for Giles Calvert; year garbled; catalogued 1651"
+  },
+  "boehme-aurora-1656": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behme",
+   "identity": "ok",
+   "ia_rights": "ok: published 1656",
+   "ia_date": "1656",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boehme-election-of-grace": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behme",
+   "identity": "ok",
+   "ia_rights": "ok: published 1655",
+   "ia_date": "1655",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "catalogued 1655"
+  },
+  "boehme-mysterium-magnum-1654": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "catalogued 1654"
+  },
+  "boehme-way-to-christ-1654": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1654",
+   "ia_date": "1654",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "catalogued 1654"
+  },
+  "boehme-way-to-christ-1894": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob boehme",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boehme-epistles-1886": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob behmen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "boehme-six-theosophic-points-earle": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jacob bohme",
+   "translator_claimed": "earle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

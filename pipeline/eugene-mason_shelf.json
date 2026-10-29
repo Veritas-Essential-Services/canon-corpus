@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: Eugene Mason: Everyman's Library medieval romance (Dent, 1910-12): Wace's and Layamon's Arthurian chronicles, Marie de France's Lays, and Aucassin and Nicolette. US public domain. Added 2026-10-10 by lane C (round 27); Adam may veto. No uids minted.",
+ "_name_words": [
+  "eugene mason"
+ ],
+ "_surname": [
+  "eugene mason"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ema2-10472": [
+   10472,
+   "Arthurian Chronicles: Roman de Brut"
+  ],
+  "ema2-11417": [
+   11417,
+   "French Mediaeval Romances from the Lays of Marie de France"
+  ],
+  "ema2-14305": [
+   14305,
+   "Layamon's Brut"
+  ],
+  "ema2-38110": [
+   38110,
+   "Aucassin & Nicolette, and Other Mediæval Romances and Legends"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "eugene-mason-aucassin-and-nicolette": {
+   "source": "ema2-38110",
+   "of": "Various (medieval French)",
+   "work": "Aucassin & Nicolette, and Other Mediæval Romances and Legends",
+   "translated": "1910-1912 (Everyman's Library; see the Gutenberg header)",
+   "translator": "Eugene Mason",
+   "scan_edition": "Project Gutenberg 38110 (clean text)"
+  },
+  "eugene-mason-layamon-brut": {
+   "source": "ema2-14305",
+   "of": "Layamon",
+   "work": "Layamon's Brut",
+   "translated": "1910-1912 (Everyman's Library; see the Gutenberg header)",
+   "translator": "Eugene Mason",
+   "scan_edition": "Project Gutenberg 14305 (clean text)"
+  },
+  "eugene-mason-marie-de-france-lays": {
+   "source": "ema2-11417",
+   "of": "Marie de France",
+   "work": "French Mediaeval Romances from the Lays of Marie de France",
+   "translated": "1910-1912 (Everyman's Library; see the Gutenberg header)",
+   "translator": "Eugene Mason",
+   "scan_edition": "Project Gutenberg 11417 (clean text)"
+  },
+  "eugene-mason-wace-arthurian-chronicles-roman-de-brut": {
+   "source": "ema2-10472",
+   "of": "Wace",
+   "work": "Arthurian Chronicles: Roman de Brut",
+   "translated": "1910-1912 (Everyman's Library; see the Gutenberg header)",
+   "translator": "Eugene Mason",
+   "scan_edition": "Project Gutenberg 10472 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ema2-10472": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eugene mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eugene Mason"
+  },
+  "ema2-11417": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eugene mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eugene Mason"
+  },
+  "ema2-14305": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eugene mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eugene Mason"
+  },
+  "ema2-38110": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "eugene mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eugene Mason"
+  }
+ },
+ "_verified": {
+  "ema2-10472": {
+   "pg": 10472,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eugene Mason"
+  },
+  "ema2-11417": {
+   "pg": 11417,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eugene Mason"
+  },
+  "ema2-14305": {
+   "pg": 14305,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eugene Mason"
+  },
+  "ema2-38110": {
+   "pg": 38110,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Eugene Mason"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

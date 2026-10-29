@@ -1,0 +1,43 @@
+{
+ "_about": "Public-domain Platon (Levshin, 1737-1812), metropolitan of Moscow, for the Word Hoard: The Present State of the Greek Church in Russia, or a Summary of Christian Divinity, translated from the Slavonian by Robert Pinkerton (Edinburgh, 1814), from an Internet Archive scan. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "platon"
+ ],
+ "_surname": [
+  "platon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "platon-summary-divinity-1814": [
+   "presentstateofgr00plat",
+   "The Present State of the Greek Church in Russia, or a Summary of Christian Divinity, tr. Robert Pinkerton (Edinburgh: Oliphant, Waugh & Innes, 1814)"
+  ]
+ },
+ "_alternates": {
+  "platon-copies": "presentstateofgr00plat_0 and the Google copy (1814); New York: Collins, 1815 (no text layer); the 1770 sermon on the tomb of Peter the Great (title page OCR illegible)"
+ },
+ "_excluded": {
+  "platon-other": "The Orthodox Doctrine (only the 1969 AMS reprint found)"
+ },
+ "_rights_checked": {
+  "platon-summary-divinity-1814": "title page read: translated from the Slavonian by Robert Pinkerton (the OCR reads \"PINRERTON\"), Edinburgh: Oliphant, Waugh & Innes, 1814"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "platon-summary-divinity-1814": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "platon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translated from the Slavonian by Robert Pinkerton (the OCR reads \"PINRERTON\"), Edinburgh: Oliphant, Waugh & Innes, 1814"
+  }
+ }
+}

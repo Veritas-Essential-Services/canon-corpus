@@ -1,0 +1,46 @@
+{
+ "_about": "C. A. Kincaid's Indian tales: Deccan Nursery Tales, or Fairy Tales from the South (1914), and Folk Tales of Sind and Guzarat (1925, with Sir Montagu de P. Webb's introduction dated December 1924). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "C. A. Kincaid",
+ "_name_words": [
+  "kincaid"
+ ],
+ "_surname": [
+  "c. a. kincaid"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "kincaid-deccan-nursery-tales": [
+   11167,
+   "Deccan Nursery Tales; or, Fairy Tales from the South"
+  ],
+  "kincaid-folk-tales-of-sind-and-guzarat": [
+   76982,
+   "Folk Tales of Sind and Guzarat",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "kincaid-deccan-nursery-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. a. kincaid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "kincaid-folk-tales-of-sind-and-guzarat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "c. a. kincaid",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

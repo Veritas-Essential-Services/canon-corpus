@@ -1,0 +1,49 @@
+{
+ "_about": "Alexander Dunlop Lindsay (1879-1952), Balliol philosopher and political theorist. Project Gutenberg: The Philosophy of Immanuel Kant (PG 47880). Raw IA OCR: The Philosophy of Bergson (London: Dent, first edition June 1911, this the reprint of November 1911). His translation of Plato's Republic is translator work and is not taken here. US public domain. No uids minted.",
+ "_author": "A. D. Lindsay",
+ "_name_words": [
+  "alexander",
+  "dunlop",
+  "lindsay"
+ ],
+ "_surname": [
+  "lindsay",
+  "a. d. lindsay"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lindsay-philosophy-of-immanuel-kant": [
+   47880,
+   "The Philosophy of Immanuel Kant"
+  ]
+ },
+ "internet_archive": {
+  "lindsay-philosophy-of-bergson-1911": [
+   "philosophyofberg00lind",
+   "The Philosophy of Bergson (Dent, 1911)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "lindsay-philosophy-of-immanuel-kant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lindsay-philosophy-of-bergson-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lindsay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

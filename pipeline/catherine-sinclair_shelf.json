@@ -1,0 +1,30 @@
+{
+ "_about": "Catherine Sinclair's Holiday House: A Series of Tales, the early Victorian children's book with Uncle David's nonsensical story of giants and fairies (this printing Robert Carter, 1839). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Catherine Sinclair",
+ "_name_words": [
+  "sinclair"
+ ],
+ "_surname": [
+  "catherine sinclair"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "csinclair-holiday-house": [
+   32811,
+   "Holiday House: A Series of Tales"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "csinclair-holiday-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "catherine sinclair",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "_about": "George Allan England: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George Allan England",
+ "_name_words": [
+  "allan",
+  "england",
+  "george"
+ ],
+ "_surname": [
+  "george allan england",
+  "england"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gaengland-darkness-and-dawn": [
+   7463,
+   "Darkness and Dawn"
+  ],
+  "gaengland-flying-legion": [
+   12265,
+   "The Flying Legion"
+  ],
+  "gaengland-air-trust": [
+   12826,
+   "The Air Trust"
+  ],
+  "gaengland-cursed": [
+   48068,
+   "Cursed"
+  ],
+  "gaengland-underneath-the-bough": [
+   60870,
+   "Underneath the Bough: A Book of Verses"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "gaengland-darkness-and-dawn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george allan england",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaengland-flying-legion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george allan england",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaengland-air-trust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george allan england",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaengland-cursed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george allan england",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gaengland-underneath-the-bough": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george allan england",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

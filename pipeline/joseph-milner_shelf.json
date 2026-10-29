@@ -1,0 +1,71 @@
+{
+ "_about": "Public-domain Joseph Milner (1744-1797, evangelical master of Hull Grammar School) for the Word Hoard: The History of the Church of Christ, with additions and corrections by his brother Isaac Milner (Philadelphia, 2 vols, 1835, from the last London edition), and his Practical Sermons with a life, revised by Isaac Milner (3rd ed., 1804), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "milner",
+  "joseph"
+ ],
+ "_surname": [
+  "joseph milner",
+  "j. milner",
+  "milner, joseph",
+  "rev. joseph milner",
+  "the late rev. joseph milner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jmilner-history-1": [
+   "historyofchurcho01miln",
+   "The History of the Church of Christ, with additions by Isaac Milner, vol. 1 (Philadelphia: Hogan & Thompson, 1835)"
+  ],
+  "jmilner-history-2": [
+   "historyofchurcho02miln",
+   "The History of the Church of Christ, with additions by Isaac Milner, vol. 2 (Philadelphia: Hogan & Thompson, 1835)"
+  ],
+  "jmilner-practical-sermons-1804": [
+   "practicalsermons00milniala",
+   "Practical Sermons, with an account of the life of the author, revised by Isaac Milner, third edition (London: J. & E. Hodson, 1804)"
+  ]
+ },
+ "_alternates": {
+  "jmilner-history-1794": "vol. 1 of the York first edition, MDCCXCIV (IA bim_eighteenth-century_the-history-of-the-churc_milner-joseph_1794_1): long-s OCR, one volume only",
+  "jmilner-history-1834": "London: Cadell, 1834, 4 vols (IA 10026214bsb, 10026216bsb, 10026217bsb): vol. 2 not found"
+ },
+ "_excluded": {},
+ "_checks": {
+  "jmilner-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmilner-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jmilner-practical-sermons-1804": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "joseph milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

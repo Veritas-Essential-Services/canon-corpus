@@ -1,0 +1,156 @@
+{
+ "_about": "Journeys Through Bookland, Charles H. Sylvester's ten-volume graded reader of stories, poems and classics, new edition (Chicago: Bellows-Reeve, 1922). Volumes 2-8 and 10 (The Guide) from Gutenberg; volumes 1 and 9 from Internet Archive scans of the same 1922 edition, raw OCR. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "Charles H. Sylvester (editor)",
+ "_name_words": [
+  "sylvester",
+  "charles",
+  "journeys",
+  "bookland"
+ ],
+ "_surname": [
+  "sylvester"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "journeys-bookland-v2": [
+   5796,
+   "Journeys Through Bookland, Vol. 2"
+  ],
+  "journeys-bookland-v3": [
+   5902,
+   "Journeys Through Bookland, Vol. 3"
+  ],
+  "journeys-bookland-v4": [
+   7013,
+   "Journeys Through Bookland, Vol. 4"
+  ],
+  "journeys-bookland-v5": [
+   11250,
+   "Journeys Through Bookland, Vol. 5"
+  ],
+  "journeys-bookland-v6": [
+   21864,
+   "Journeys Through Bookland, Vol. 6"
+  ],
+  "journeys-bookland-v7": [
+   23405,
+   "Journeys Through Bookland, Vol. 7"
+  ],
+  "journeys-bookland-v8": [
+   24532,
+   "Journeys Through Bookland, Vol. 8"
+  ],
+  "journeys-bookland-v10-guide": [
+   24857,
+   "Journeys Through Bookland, Vol. 10: The Guide"
+  ]
+ },
+ "internet_archive": {
+  "journeys-bookland-v1": [
+   "journeysthroughb0001char",
+   "Journeys Through Bookland, vol. 1, new edition (Bellows-Reeve, 1922)"
+  ],
+  "journeys-bookland-v9": [
+   "journeysthroughbo09sylv",
+   "Journeys Through Bookland, vol. 9, new edition (Bellows-Reeve, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "journeys-bookland-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v5": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v6": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v7": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v8": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v10-guide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "journeys-bookland-v1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "journeys-bookland-v9": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sylvester",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

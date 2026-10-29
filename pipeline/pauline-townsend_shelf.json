@@ -1,0 +1,104 @@
+{
+ "_about": "TRANSLATOR SHELF: Pauline D. Townsend: Otto Jahn's Life of Mozart, with a preface by George Grove (Novello, 1882, 3 vols). US public domain. Added 2026-10-10 by lane C (round 30); Adam may veto. No uids minted.",
+ "_name_words": [
+  "pauline d. townsend",
+  "townsend"
+ ],
+ "_surname": [
+  "pauline d. townsend",
+  "townsend"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "pto-43411": [
+   43411,
+   "Life of Mozart, Vol. 1 (of 3)"
+  ],
+  "pto-43412": [
+   43412,
+   "Life of Mozart, Vol. 2 (of 3)"
+  ],
+  "pto-43413": [
+   43413,
+   "Life of Mozart, Vol. 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "pauline-townsend-jahn-life-of-mozart-vol-1-of-3": {
+   "source": "pto-43411",
+   "of": "Otto Jahn",
+   "work": "Life of Mozart, Vol. 1 (of 3)",
+   "translated": "1882 (see the Gutenberg header)",
+   "translator": "Pauline D. Townsend",
+   "scan_edition": "Project Gutenberg 43411 (clean text)"
+  },
+  "pauline-townsend-jahn-life-of-mozart-vol-2-of-3": {
+   "source": "pto-43412",
+   "of": "Otto Jahn",
+   "work": "Life of Mozart, Vol. 2 (of 3)",
+   "translated": "1882 (see the Gutenberg header)",
+   "translator": "Pauline D. Townsend",
+   "scan_edition": "Project Gutenberg 43412 (clean text)"
+  },
+  "pauline-townsend-jahn-life-of-mozart-vol-3-of-3": {
+   "source": "pto-43413",
+   "of": "Otto Jahn",
+   "work": "Life of Mozart, Vol. 3 (of 3)",
+   "translated": "1882 (see the Gutenberg header)",
+   "translator": "Pauline D. Townsend",
+   "scan_edition": "Project Gutenberg 43413 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "pto-43411": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pauline d. townsend",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Pauline D. Townsend"
+  },
+  "pto-43412": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pauline d. townsend",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Pauline D. Townsend"
+  },
+  "pto-43413": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pauline d. townsend",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Pauline D. Townsend"
+  }
+ },
+ "_verified": {
+  "pto-43411": {
+   "pg": 43411,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Pauline D. Townsend"
+  },
+  "pto-43412": {
+   "pg": 43412,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Pauline D. Townsend"
+  },
+  "pto-43413": {
+   "pg": 43413,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Pauline D. Townsend"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

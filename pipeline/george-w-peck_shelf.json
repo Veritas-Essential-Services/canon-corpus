@@ -1,0 +1,153 @@
+{
+ "_about": "George W. Peck's writing at Gutenberg: peck's Bad Boy and other humorous stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George W. Peck",
+ "_name_words": [
+  "george",
+  "peck",
+  "wilbur"
+ ],
+ "_surname": [
+  "george w. peck",
+  "george wilbur peck"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gwpeck-pecks-bad-boy-with-the-cowboys": [
+   6141,
+   "Peck's Bad Boy with the Cowboys"
+  ],
+  "gwpeck-pecks-bad-boy-with-the-circus": [
+   10212,
+   "Peck's Bad Boy with the Circus"
+  ],
+  "gwpeck-pecks-compendium-of-fun-comprising-the-choicest-gems": [
+   14815,
+   "Peck's Compendium of Fun Comprising the Choicest Gems of Wit, Humor, Sarcasm and Pathos of America's Favorite Humorist"
+  ],
+  "gwpeck-pecks-bad-boy-and-his-pa-1883": [
+   25487,
+   "Peck's Bad Boy and His Pa 1883"
+  ],
+  "gwpeck-grocery-man-and-pecks-bad-boy-pecks-bad-boy-and-his-p": [
+   25488,
+   "The Grocery Man And Peck's Bad Boy Peck's Bad Boy and His Pa, No. 2 - 1883"
+  ],
+  "gwpeck-pecks-bad-boy-abroad": [
+   25489,
+   "Peck's bad boy abroad"
+  ],
+  "gwpeck-pecks-uncle-ike-and-the-red-headed-boy-1899": [
+   25490,
+   "Peck's Uncle Ike and The Red Headed Boy 1899"
+  ],
+  "gwpeck-pecks-sunshine-being-a-collection-of-articles-written": [
+   25491,
+   "Peck's Sunshine Being a Collection of Articles Written for Peck's Sun, Milwaukee, Wis. - 1882"
+  ],
+  "gwpeck-how-private-george-w-peck-put-down-the-rebellion-or-t": [
+   25492,
+   "How Private George W. Peck Put Down the Rebellion or, The Funny Experiences of a Raw Recruit - 1887"
+  ],
+  "gwpeck-pecks-bad-boy-in-an-airship": [
+   72237,
+   "Peck's Bad Boy in an airship"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-28970": "PG 28970: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "gwpeck-pecks-bad-boy-with-the-cowboys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-pecks-bad-boy-with-the-circus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-pecks-compendium-of-fun-comprising-the-choicest-gems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-pecks-bad-boy-and-his-pa-1883": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-grocery-man-and-pecks-bad-boy-pecks-bad-boy-and-his-p": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-pecks-bad-boy-abroad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-pecks-uncle-ike-and-the-red-headed-boy-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-pecks-sunshine-being-a-collection-of-articles-written": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-how-private-george-w-peck-put-down-the-rebellion-or-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gwpeck-pecks-bad-boy-in-an-airship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george w. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

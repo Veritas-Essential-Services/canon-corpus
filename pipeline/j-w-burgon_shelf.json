@@ -1,0 +1,203 @@
+{
+ "_about": "Public-domain J. W. Burgon (John William Burgon, 1813-1888, Dean of Chichester, defender of the Traditional Text) for the Word Hoard: Inspiration and Interpretation (1861) and The Last Twelve Verses of S. Mark (1871) from CCEL; The Traditional Text of the Holy Gospels and The Causes of the Corruption of the Traditional Text (both 1896, arranged and edited after his death by Edward Miller) from Project Gutenberg; and from Internet Archive scans A Treatise on the Pastoral Office (1864), Mr. Sandford and the University Sermon (1865), England and Rome (1869), The Servants of Scripture (1878), The Disestablishment of Religion in Oxford (1880), The Revision Revised (first edition, 1883) and The First Chapter of Genesis (undated). Added 2026-10-10 by lane A, round 21 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "burgon",
+ "_name_words": [
+  "burgon"
+ ],
+ "_surname": [
+  "john william burgon",
+  "john w. burgon",
+  "j. w. burgon",
+  "burgon, john william",
+  "dean burgon",
+  "john w. burgon, b.d."
+ ],
+ "_held": {},
+ "ccel": {
+  "burgon-inspiration": [
+   "inspiration",
+   "Inspiration and Interpretation: Seven Sermons (Oxford and London: J. H. and Jas. Parker, 1861)",
+   ""
+  ],
+  "burgon-last-twelve-verses": [
+   "mark",
+   "The Last Twelve Verses of the Gospel According to S. Mark (Oxford and London: James Parker, 1871)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "burgon-traditional-text": [
+   "38960",
+   "The Traditional Text of the Holy Gospels Vindicated and Established, arranged and edited by Edward Miller (London: George Bell; Cambridge: Deighton, Bell, 1896)"
+  ],
+  "burgon-causes-corruption": [
+   "21112",
+   "The Causes of the Corruption of the Traditional Text of the Holy Gospels, arranged and edited by Edward Miller (London: George Bell; Cambridge: Deighton, Bell, 1896)"
+  ]
+ },
+ "internet_archive": {
+  "burgon-pastoral-office": [
+   "treatiseonpastor00burg",
+   "A Treatise on the Pastoral Office (London: Macmillan, 1864)"
+  ],
+  "burgon-mr-sandford": [
+   "mrsandforduniver00burg",
+   "Mr. Sandford and the University Sermon: a Letter to the Vice-Chancellor (Oxford: J. H. and J. Parker, 1865)"
+  ],
+  "burgon-england-and-rome": [
+   "englandrome00burg",
+   "England and Rome: Three Letters, American edition with a prefatory letter by the Bishop of Central New York (New York: E. P. Dutton, 1869)"
+  ],
+  "burgon-servants-of-scripture": [
+   "servantsscriptu00willgoog",
+   "The Servants of Scripture (London: SPCK, 1878)"
+  ],
+  "burgon-disestablishment": [
+   "disestablishment00burgon",
+   "The Disestablishment of Religion in Oxford, the Betrayal of a Sacred Trust, a sermon of 21 November 1880 (Oxford and London: Parker; catalogued 1880)"
+  ],
+  "burgon-revision-revised": [
+   "revisionrevisedt00burg",
+   "The Revision Revised, first edition (London: John Murray, 1883)"
+  ],
+  "burgon-first-chapter-genesis": [
+   "firstchapterofge00burg",
+   "The First Chapter of Genesis: a Reply and a Postscript (London: Mildmay Mission to the Jews Printing Office; no year on title page, catalogued 1886)"
+  ]
+ },
+ "_alternates": {
+  "burgon-ccel-other": "CCEL burgon/corruption (no print source in the header) and burgon/revision_revised (no print source; the dated 1883 scan is shelved instead)",
+  "burgon-pg-other": "Gutenberg 31090 and 26134 duplicate the CCEL texts; Gutenberg 36722 Revision Revised was transcribed from the 1971 Dover reprint",
+  "burgon-plain-commentary": "A Plain Commentary on the Four Holy Gospels (Parker, 1855; IA aplaincommentar0Nwillgoog) and Ninety Short Sermons for Family Reading (1855; ninetyshortsermo01/02burguoft): published anonymously, 'by the author of' the Commentary",
+  "burgon-short-sermons-1867": "Ninety-one Short Sermons for Family Reading, second series (1867; ninetyoneshorts00willgoog): author line not confirmed",
+  "burgon-non-divinity": "Life and Times of Sir Thomas Gresham (1839), Lives of Twelve Good Men (1888), the Tytler memoir (1859), Letters from Rome (1862), Petra (1845), Remarks on Art (1846)",
+  "burgon-copies": "Second copies of most titles; American Plain Commentary (Philadelphia, 1855-59); Letters to Dr. Scrivener (no title page)"
+ },
+ "_excluded": {
+  "burgon-reprints": "modern reprints (1965-2009)",
+  "burgon-namesakes": "John Burgon Bickersteth and others",
+  "burgon-composites": "modern composite uploads tagged with his name"
+ },
+ "_pending": {},
+ "_checks": {
+  "burgon-inspiration": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william burgon",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Oxford and London: J. H. and Jas. Parker, 1861",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "burgon-last-twelve-verses": {
+   "kind": "ccel",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william burgon",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Oxford and London: James Parker and Co., 1871",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "burgon-traditional-text": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william burgon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgon-causes-corruption": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william burgon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "burgon-pastoral-office": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john w. burgon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burgon-mr-sandford": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john w. burgon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burgon-england-and-rome": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john w. burgon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "burgon-servants-of-scripture": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william burgon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burgon-disestablishment": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william burgon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "[1880]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burgon-revision-revised": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john william burgon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "burgon-first-chapter-genesis": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john w. burgon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

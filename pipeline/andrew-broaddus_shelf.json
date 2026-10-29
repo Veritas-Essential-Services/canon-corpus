@@ -1,0 +1,40 @@
+{
+ "_about": "Public-domain Andrew Broaddus (1770-1848), Virginia Baptist preacher, for the Word Hoard: The Sermons and Other Writings of the Rev. Andrew Broaddus, with a memoir of his life (1852), from an Internet Archive scan. Added 2026-10-23 by lane A, round 53 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "broaddus"
+ ],
+ "_surname": [
+  "andrew broaddus",
+  "a. broaddus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "broaddus-sermons": [
+   "sermonsotherwrit00broa",
+   "The sermons and other writings of the Rev. Andrew Broaddus : with a memoir of his life (New York : Lewis Colby, 1852)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "broaddus-other": "The Virginia Selection of Psalms, Hymns and Spiritual Songs (1840, his compilation); the Broaddus family history (1888, another author)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "broaddus-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew broaddus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

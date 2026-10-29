@@ -1,0 +1,527 @@
+{
+ "_about": "Storytellers' tail, group 41: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Jewett Palmer, John Carl Parish, Ezra Knight Parker, Francis J. Parker, John H. Parker, Lester Shepard Parker, Louis Napoleon Parker, Richard Green Parker, Richard Parkinson, Leighton Parks, Dillwyn Parrish, Virginia Sharpe Patterson, George A. Paull, H. B. Paull, George Payson, William Farquhar Payson, Mark Guy Pearse, Robert Morris Peck, Rufus H. Peck, Hedley Peek, Louis Pendleton, Ain'Elisabet Pennanen, George Perkins, John P. Peters, Charles J. Peterson, Henry Peterson, Margaret Peterson, George H. Pettis, Henry Pettit, Charles Lincoln Phifer. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 41 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "jpalmer-historical-sketch-of-company-b-eighteenth-regiment-o": [
+   "jewett palmer"
+  ],
+  "jcparish-man-with-the-iron-hand": [
+   "john carl parish",
+   "parish"
+  ],
+  "ekparker-campaign-of-battery-d-first-rhode-island-light-arti": [
+   "ezra knight parker",
+   "parker"
+  ],
+  "fjparker-story-of-the-thirty-second-regiment-massachusetts-i": [
+   "francis j. parker",
+   "francis jewett parker",
+   "parker"
+  ],
+  "jhparker-history-of-the-gatling-gun-detachment-fifth-army-co": [
+   "john h. parker",
+   "john henry parker",
+   "parker"
+  ],
+  "lsparker-nancy-macintyre": [
+   "lester shepard parker",
+   "parker"
+  ],
+  "lnparker-pomander-walk": [
+   "louis napoleon parker",
+   "parker"
+  ],
+  "rgparker-parker-s-second-reader-national-series-of-selection": [
+   "richard green parker",
+   "parker"
+  ],
+  "rparkinson-old-church-clock": [
+   "richard parkinson",
+   "parkinson"
+  ],
+  "lparks-english-ways-and-by-ways": [
+   "leighton parks",
+   "parks"
+  ],
+  "dparrish-dream-coach": [
+   "dillwyn parrish",
+   "parrish"
+  ],
+  "vspatterson-dickey-downy": [
+   "virginia sharpe patterson",
+   "patterson"
+  ],
+  "gapaull-ruby-at-school": [
+   "george a. paull",
+   "paull"
+  ],
+  "hbpaull-englefield-grange": [
+   "h. b. paull",
+   "paull"
+  ],
+  "gpayson-golden-dreams-and-leaden-realities": [
+   "george payson",
+   "payson"
+  ],
+  "wfpayson-john-vytal": [
+   "william farquhar payson",
+   "payson"
+  ],
+  "mgpearse-gold-and-incense": [
+   "mark guy pearse",
+   "pearse"
+  ],
+  "rmpeck-wolf-hunters": [
+   "robert morris peck"
+  ],
+  "rhpeck-reminiscencies-of-a-confederate-soldier-of-co-c-2nd-v": [
+   "rufus h. peck",
+   "rufus harrison peck"
+  ],
+  "hpeek-chariot-of-the-flesh": [
+   "hedley peek"
+  ],
+  "lpendleton-captain-ted": [
+   "louis pendleton",
+   "pendleton"
+  ],
+  "apennanen-palkkapiian-paivakirja": [
+   "ain'elisabet pennanen",
+   "pennanen"
+  ],
+  "gperkins-summer-in-maryland-and-virginia": [
+   "george perkins",
+   "perkins"
+  ],
+  "jppeters-animals-christmas-tree": [
+   "john p. peters",
+   "john punnett peters",
+   "peters"
+  ],
+  "cjpeterson-kate-aylesford": [
+   "charles j. peterson",
+   "charles jacobs peterson",
+   "peterson"
+  ],
+  "hpeterson-dulcibel": [
+   "henry peterson",
+   "peterson"
+  ],
+  "mpeterson-to-love": [
+   "margaret peterson",
+   "peterson"
+  ],
+  "ghpettis-frontier-service-during-the-rebellion": [
+   "george h. pettis",
+   "pettis"
+  ],
+  "hpettit-twentieth-century-idealist": [
+   "henry pettit",
+   "pettit"
+  ],
+  "clphifer-friar-s-daughter": [
+   "charles lincoln phifer",
+   "phifer"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "jpalmer-historical-sketch-of-company-b-eighteenth-regiment-o": [
+   60243,
+   "A Historical Sketch of Company \"B,\" Eighteenth Regiment Ohio Volunteer Infantry Three Months Service"
+  ],
+  "jcparish-man-with-the-iron-hand": [
+   57921,
+   "The Man with the Iron Hand"
+  ],
+  "ekparker-campaign-of-battery-d-first-rhode-island-light-arti": [
+   30822,
+   "Campaign of Battery D, First Rhode Island Light Artillery"
+  ],
+  "fjparker-story-of-the-thirty-second-regiment-massachusetts-i": [
+   50140,
+   "The Story of the Thirty-second Regiment, Massachusetts Infantry Whence it came; where it went; what it saw, and what it did"
+  ],
+  "jhparker-history-of-the-gatling-gun-detachment-fifth-army-co": [
+   6888,
+   "History of the Gatling Gun Detachment, Fifth Army Corps, at Santiago With a Few Unvarnished Truths Concerning that Expedition"
+  ],
+  "lsparker-nancy-macintyre": [
+   13560,
+   "Nancy MacIntyre: A Tale of the Prairies"
+  ],
+  "lnparker-pomander-walk": [
+   47925,
+   "Pomander Walk"
+  ],
+  "rgparker-parker-s-second-reader-national-series-of-selection": [
+   16936,
+   "Parker's Second Reader National Series of Selections for Reading, Designed For The Younger Classes In Schools, Academies, &C."
+  ],
+  "rparkinson-old-church-clock": [
+   61587,
+   "The Old Church Clock"
+  ],
+  "lparks-english-ways-and-by-ways": [
+   76393,
+   "English ways and by-ways"
+  ],
+  "dparrish-dream-coach": [
+   62328,
+   "The Dream Coach"
+  ],
+  "vspatterson-dickey-downy": [
+   16255,
+   "Dickey Downy: The Autobiography of a Bird"
+  ],
+  "gapaull-ruby-at-school": [
+   30860,
+   "Ruby at School"
+  ],
+  "hbpaull-englefield-grange": [
+   34794,
+   "Englefield Grange; or, Mary Armstrong's Troubles"
+  ],
+  "gpayson-golden-dreams-and-leaden-realities": [
+   49039,
+   "Golden Dreams and Leaden Realities"
+  ],
+  "wfpayson-john-vytal": [
+   58403,
+   "John Vytal: A Tale of the Lost Colony"
+  ],
+  "mgpearse-gold-and-incense": [
+   41870,
+   "Gold and Incense: A West Country Story"
+  ],
+  "rmpeck-wolf-hunters": [
+   55720,
+   "The Wolf Hunters: A Story of the Buffalo Plains"
+  ],
+  "rhpeck-reminiscencies-of-a-confederate-soldier-of-co-c-2nd-v": [
+   49881,
+   "Reminiscencies of a Confederate soldier of Co. C, 2nd Va. Cavalry"
+  ],
+  "hpeek-chariot-of-the-flesh": [
+   48080,
+   "The Chariot of the Flesh"
+  ],
+  "lpendleton-captain-ted": [
+   34333,
+   "Captain Ted: A Boy's Adventures Among Hiding Slackers in the Great Georgia Swamp"
+  ],
+  "apennanen-palkkapiian-paivakirja": [
+   67565,
+   "Palkkapiian päiväkirja: Romaaninovelli"
+  ],
+  "gperkins-summer-in-maryland-and-virginia": [
+   60969,
+   "A Summer in Maryland and Virginia; Or, Campaigning with the 149th Ohio Volunteer Infantry. A Sketch of Events Connected with the Service of the Regiment in Maryland and the Shenandoah Valley, Virginia"
+  ],
+  "jppeters-animals-christmas-tree": [
+   67105,
+   "The Animals' Christmas Tree"
+  ],
+  "cjpeterson-kate-aylesford": [
+   58846,
+   "Kate Aylesford: A Story of the Refugees"
+  ],
+  "hpeterson-dulcibel": [
+   20569,
+   "Dulcibel: A Tale of Old Salem"
+  ],
+  "mpeterson-to-love": [
+   26519,
+   "To Love"
+  ],
+  "ghpettis-frontier-service-during-the-rebellion": [
+   28951,
+   "Frontier service during the rebellion"
+  ],
+  "hpettit-twentieth-century-idealist": [
+   64612,
+   "A Twentieth Century Idealist"
+  ],
+  "clphifer-friar-s-daughter": [
+   47782,
+   "The Friar's Daughter: A Story of the American Occupation of the Philippines"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jpalmer-historical-sketch-of-company-b-eighteenth-regiment-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jewett palmer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcparish-man-with-the-iron-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john carl parish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ekparker-campaign-of-battery-d-first-rhode-island-light-arti": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ezra knight parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fjparker-story-of-the-thirty-second-regiment-massachusetts-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "francis j. parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhparker-history-of-the-gatling-gun-detachment-fifth-army-co": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john h. parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lsparker-nancy-macintyre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "lester shepard parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lnparker-pomander-walk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis napoleon parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rgparker-parker-s-second-reader-national-series-of-selection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard green parker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rparkinson-old-church-clock": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richard parkinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lparks-english-ways-and-by-ways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "leighton parks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dparrish-dream-coach": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dillwyn parrish",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vspatterson-dickey-downy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virginia sharpe patterson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gapaull-ruby-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george a. paull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbpaull-englefield-grange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. b. paull",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpayson-golden-dreams-and-leaden-realities": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george payson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wfpayson-john-vytal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william farquhar payson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mgpearse-gold-and-incense": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mark guy pearse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmpeck-wolf-hunters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert morris peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhpeck-reminiscencies-of-a-confederate-soldier-of-co-c-2nd-v": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rufus h. peck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hpeek-chariot-of-the-flesh": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hedley peek",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lpendleton-captain-ted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis pendleton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "apennanen-palkkapiian-paivakirja": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ain'elisabet pennanen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gperkins-summer-in-maryland-and-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george perkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jppeters-animals-christmas-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john p. peters",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cjpeterson-kate-aylesford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles j. peterson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hpeterson-dulcibel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry peterson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mpeterson-to-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret peterson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghpettis-frontier-service-during-the-rebellion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. pettis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hpettit-twentieth-century-idealist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry pettit",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "clphifer-friar-s-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles lincoln phifer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

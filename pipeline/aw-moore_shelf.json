@@ -1,0 +1,44 @@
+{
+ "_about": "A. W. Moore's The Folk-Lore of the Isle of Man (1891): Manx myths, legends, superstitions, customs and proverbs. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "A. W. Moore",
+ "_name_words": [
+  "moore"
+ ],
+ "_surname": [
+  "a. w. moore"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "awmoore-folk-lore-of-the-isle-of-man": [
+   77469,
+   "The Folk-Lore of the Isle of Man",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|PREFACE|TABLE OF CONTENTS)\\.$|CHAPTER [IVXL]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "(?!CHAPTER |CHAP\\. |[IVXL]+\\.—|A\\. W\\. MOORE)[A-Z“\"][^a-z]*$",
+      "max": 120
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "awmoore-folk-lore-of-the-isle-of-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. w. moore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "mode": "on",
+  "stop_after": "2026-10-04T07:00:00-05:00",
+  "lanes": {
+    "A": "on",
+    "B": "on",
+    "C": "on",
+    "D": "on"
+  },
+  "note": "Burn 1: Fri 2026-10-02 to Sun 2026-10-04 07:00 Missouri (Central Daylight, UTC-5). Adam's switch: workers read it, never write it."
+}

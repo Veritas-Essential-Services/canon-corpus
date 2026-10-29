@@ -1,0 +1,60 @@
+{
+ "_about": "Public-domain Christopher Bethell, Bishop of Gloucester, of Exeter, and then of Bangor, for the Word Hoard: A General View of the Doctrine of Regeneration in Baptism, and a charge to the clergy of the diocese of Bangor. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 129 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "christopher bethell",
+  "christopher lord bishop of bangor",
+  "c. bethell",
+  "bethell",
+  "bishop of bangor"
+ ],
+ "_surname": [
+  "bethell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bethell-regeneration": [
+   "ageneralviewofth00bethuoft",
+   "A general view of the doctrine of regeneration in baptism (London : J.G. & F. Rivington, 1836)"
+  ],
+  "bethell-bangor-charge": [
+   "chargetoclergyof00chur",
+   "Charge to the clergy of the Diocese of Bangor : delivered in the month of September, 1843, vol. Talbot Collection of British Pamphlets (London : Printed for J.G.F. & J. Rivington, St. Paul's Churchyard, and Waterloo Place, Pall Mall, 1843)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bethell-concise-view": "A Concise View of the Doctrine of Regeneration is an abridgement by another hand"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "bethell-bangor-charge": "Title page: 'CHARGE ... CLERGY OF THE DIOCESE OF BANGOR, DELIVERED IN THE MONTH OF SEPTEMBER, 1843. CHRISTOPHER, LORD BISHOP OF BANGOR.' Christopher Bethell was Bishop of Bangor from 1830 to 1859, so the see names him."
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "bethell-regeneration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "bethell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bethell-bangor-charge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

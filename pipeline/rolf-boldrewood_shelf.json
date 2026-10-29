@@ -1,0 +1,226 @@
+{
+ "_about": "Rolf Boldrewood's Australian novels, Robbery Under Arms and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Rolf Boldrewood",
+ "_name_words": [
+  "boldrewood"
+ ],
+ "_surname": [
+  "boldrewood"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rboldrewood-robbery-under-arms-a-story-of-life-and-adventure": [
+   1198,
+   "Robbery under Arms A Story of Life and Adventure in the Bush and in the Australian Goldfields"
+  ],
+  "rboldrewood-shearing-in-the-riverina-new-south-wales": [
+   4221,
+   "Shearing in the Riverina, New South Wales"
+  ],
+  "rboldrewood-nevermore": [
+   34240,
+   "Nevermore"
+  ],
+  "rboldrewood-crooked-stick": [
+   35165,
+   "The Crooked Stick; Or, Pollie's Probation"
+  ],
+  "rboldrewood-modern-buccaneer": [
+   35431,
+   "A Modern Buccaneer"
+  ],
+  "rboldrewood-squatters-dream": [
+   50411,
+   "The Squatter's Dream: A Story of Australian Life"
+  ],
+  "rboldrewood-ghost-camp": [
+   51011,
+   "The Ghost Camp; or, the Avengers"
+  ],
+  "rboldrewood-babes-in-the-bush": [
+   51209,
+   "Babes in the Bush"
+  ],
+  "rboldrewood-in-bad-company-and-other-stories": [
+   51314,
+   "In Bad Company, and other stories"
+  ],
+  "rboldrewood-plain-living": [
+   51404,
+   "Plain Living: A Bush Idyll"
+  ],
+  "rboldrewood-war-to-the-knife": [
+   53358,
+   "\"War to the Knife;\" or, Tangata Maori"
+  ],
+  "rboldrewood-old-melbourne-memories-second-edition-revised": [
+   53784,
+   "Old Melbourne Memories Second Edition, Revised"
+  ],
+  "rboldrewood-colonial-reformer-vol-1-of-3": [
+   54067,
+   "A Colonial Reformer, Vol. 1 (of 3)"
+  ],
+  "rboldrewood-colonial-reformer-vol-3-of-3": [
+   54366,
+   "A Colonial Reformer, Vol. 3 (of 3)"
+  ],
+  "rboldrewood-colonial-reformer-vol-2-of-3": [
+   55652,
+   "A Colonial Reformer, Vol. 2 (of 3)"
+  ],
+  "rboldrewood-last-chance": [
+   61385,
+   "The Last Chance: A Tale of the Golden West"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "rboldrewood-robbery-under-arms-a-story-of-life-and-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-shearing-in-the-riverina-new-south-wales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-nevermore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-crooked-stick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-modern-buccaneer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-squatters-dream": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-ghost-camp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-babes-in-the-bush": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-in-bad-company-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-plain-living": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-war-to-the-knife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-old-melbourne-memories-second-edition-revised": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-colonial-reformer-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-colonial-reformer-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-colonial-reformer-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rboldrewood-last-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "boldrewood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

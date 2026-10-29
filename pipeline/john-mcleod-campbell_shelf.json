@@ -1,0 +1,42 @@
+{
+ "_about": "Public-domain John McLeod Campbell (1800-1872, minister of Row, Dunbartonshire, deposed by the General Assembly of the Church of Scotland in 1831 for teaching universal atonement and assurance) for the Word Hoard: The Nature of the Atonement, clean from CCEL. His view of the atonement departs from the Westminster divines on this list; he is here for his influence, and the shelf is Adam's to veto. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "c/campbell",
+ "_name_words": [
+  "campbell",
+  "mcleod"
+ ],
+ "_surname": [
+  "john mcleod campbell",
+  "j. mcleod campbell",
+  "mcleod campbell",
+  "j. m. campbell",
+  "j.m. campbell",
+  "campbell, john mcleod"
+ ],
+ "_held": {},
+ "ccel": {
+  "mcleod-campbell-atonement": [
+   "atonement",
+   "The Nature of the Atonement",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "mcleod-campbell-atonement": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john mcleod campbell",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_print_source": "London: Macmillan and Co., 1905",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

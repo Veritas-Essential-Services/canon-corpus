@@ -1,0 +1,209 @@
+{
+ "_about": "Stephen Crane's novels, stories, sketches and poems not already on another shelf (the reading-list stephen-crane shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Stephen Crane",
+ "_name_words": [
+  "crane"
+ ],
+ "_surname": [
+  "stephen crane"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "scrane-maggie": [
+   447,
+   "Maggie: A Girl of the Streets",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "scrane-red-badge-of-courage": [
+   463,
+   "The Red Badge of Courage: An Episode of the American Civil War"
+  ],
+  "scrane-active-service": [
+   2364,
+   "Active Service"
+  ],
+  "scrane-little-regiment-and-other-episodes-of-the-american-ci": [
+   6979,
+   "The Little Regiment, and Other Episodes of the American Civil War",
+   {
+    "contents_only": true
+   }
+  ],
+  "scrane-men-women-and-boats": [
+   7239,
+   "Men, Women, and Boats"
+  ],
+  "scrane-war-is-kind": [
+   9870,
+   "War is Kind"
+  ],
+  "scrane-third-violet": [
+   19593,
+   "The Third Violet"
+  ],
+  "scrane-monster-and-other-stories": [
+   31189,
+   "The Monster and Other Stories"
+  ],
+  "scrane-last-words": [
+   33579,
+   "Last Words"
+  ],
+  "scrane-whilomville-stories": [
+   39644,
+   "Whilomville Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "scrane-black-riders-and-other-lines": [
+   40786,
+   "The Black Riders, and Other Lines"
+  ],
+  "scrane-wounds-in-the-rain": [
+   43706,
+   "Wounds in the rain: War stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "scrane-open-boat-and-other-stories": [
+   45524,
+   "The Open Boat and Other Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59706": "PG 59706: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 31488: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 73: already on another shelf or in fetch_sources.py on some branch; not taken twice."
+ },
+ "_checks": {
+  "scrane-maggie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-red-badge-of-courage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-active-service": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-little-regiment-and-other-episodes-of-the-american-ci": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-men-women-and-boats": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-war-is-kind": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-third-violet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-monster-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-last-words": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-whilomville-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-black-riders-and-other-lines": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-wounds-in-the-rain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "scrane-open-boat-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "stephen crane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

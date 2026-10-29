@@ -1,0 +1,53 @@
+{
+ "_about": "Edwyn Robert Bevan (1870-1943): The House of Seleucus vol. I (London: Edward Arnold, 1902) and Stoics and Sceptics (Oxford University Press, 1913), raw IA OCR. Vol. II of The House of Seleucus is wanted (IA server errors this round). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "bevan"
+ ],
+ "_surname": [
+  "edwyn robert bevan",
+  "edwyn bevan",
+  "e. r. bevan",
+  "bevan, edwyn"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "edwyn-bevan-house-seleucus-v1-1902": [
+   "houseofseleucus01bevauoft",
+   "The House of Seleucus, vol. I (London: Edward Arnold, 1902)"
+  ],
+  "edwyn-bevan-stoics-sceptics-1913": [
+   "stoicsscepticsfo00beva",
+   "Stoics and Sceptics: four lectures delivered in Oxford (Oxford University Press, 1913)"
+  ]
+ },
+ "_checks": {
+  "edwyn-bevan-house-seleucus-v1-1902": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "edwyn-bevan-stoics-sceptics-1913": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwyn bevan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "edwyn-bevan-house-seleucus-v1-1902": {
+   "author": "title page read 2026-10-10: OCR gives 'EDWYN KOBEET BEVAN, M.A.', vol. I, Edward Arnold 1902 (Edwyn Robert Bevan); the OCR misreads ROBERT"
+  }
+ }
+}

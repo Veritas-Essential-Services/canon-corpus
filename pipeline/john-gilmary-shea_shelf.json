@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain John Gilmary Shea (1824-1892, father of American Catholic history) for the Word Hoard: A History of the Catholic Church within the Limits of the United States (4 vols, 1886-1892, vol. 2 being the Life and Times of John Carroll) and the History of the Catholic Missions among the Indian Tribes of the United States (1855), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "shea"
+ ],
+ "_surname": [
+  "shea",
+  "john gilmary shea"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "shea-catholic-church-us-1": [
+   "historychurchusa01steauoft",
+   "The Catholic Church in Colonial Days, 1521-1763 (History of the Catholic Church in the United States, vol. 1) (New York: John G. Shea, 1886)"
+  ],
+  "shea-catholic-church-us-2": [
+   "lifetimesofmostr00shea",
+   "Life and Times of the Most Rev. John Carroll, 1763-1815 (vol. 2) (New York: John G. Shea, 1888)"
+  ],
+  "shea-catholic-church-us-3": [
+   "historychurchusa03sheauoft",
+   "A History of the Catholic Church within the Limits of the United States, 1808-1843 (vol. 3) (New York: John G. Shea, 1890)"
+  ],
+  "shea-catholic-church-us-4": [
+   "historychurchusa04sheauoft",
+   "A History of the Catholic Church within the Limits of the United States, 1843-1866 (vol. 4) (New York: John G. Shea, 1892)"
+  ],
+  "shea-indian-missions": [
+   "historyofthecath00sheauoft",
+   "History of the Catholic Missions among the Indian Tribes of the United States, 1529-1854 (New York: Edward Dunigan, 1855)"
+  ]
+ },
+ "_alternates": {
+  "shea-copies": "Other copies of the four volumes, some catalogued 1886 in error; the 1855 Missions in other copies"
+ },
+ "_excluded": {
+  "shea-kenedy": "Undated Kenedy reissues of the Missions catalogued 1854"
+ },
+ "_rights_checked": {
+  "shea-catholic-church-us-1": "title page read: 'JOHN GILMARY SHEA' (OCR 'SH EA')",
+  "shea-catholic-church-us-4": "title page read: copyright 1892 by Sophie S. Shea (published after his death)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "shea-catholic-church-us-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "shea",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1886-1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'JOHN GILMARY SHEA' (OCR 'SH EA')"
+  },
+  "shea-catholic-church-us-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "shea",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "shea-catholic-church-us-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "shea",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1886-1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "shea-catholic-church-us-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "shea",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1886-1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: copyright 1892 by Sophie S. Shea (published after his death)"
+  },
+  "shea-indian-missions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "shea",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

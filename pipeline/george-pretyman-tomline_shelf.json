@@ -1,0 +1,162 @@
+{
+ "_about": "Public-domain George Pretyman Tomline, Bishop of Lincoln and then of Winchester, for the Word Hoard: his Elements of Christian Theology, An Introduction to the Study of the Bible, A Refutation of Calvinism, his Memoirs of the Life of William Pitt, and sermons before the House of Commons, the House of Lords and the King. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 128 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "george pretyman",
+  "george tomline",
+  "george pretyman tomline",
+  "g. pretyman",
+  "pretyman",
+  "tomline",
+  "bishop of lincoln"
+ ],
+ "_surname": [
+  "pretyman",
+  "tomline"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tomline-commons-1784": [
+   "bim_eighteenth-century_a-sermon-preached-before_pretyman-george_1784",
+   "A sermon preached before the Honourable House of Commons, at St. Margaret's, Westminster, on Thursday, July 29, 1784: ... By George Pretyman, ...  1784 (catalogued 1784)"
+  ],
+  "tomline-lords-1789": [
+   "bim_eighteenth-century_a-sermon-preached-before_pretyman-george_1789",
+   "A sermon preached before the Lords ... in the abbey church of Westminster, on Friday, January 30, 1789. ... By George, Lord Bishop of Lincoln.  1789 (catalogued 1789)"
+  ],
+  "tomline-st-pauls-1798": [
+   "bim_eighteenth-century_a-sermon-preached-at-th_pretyman-george_1798",
+   "A sermon, preached at the cathedral church of St. Paul, London, before His Majesty, and both Houses of Parliament, on Tuesday, December 19th, 1797; ... By George, Lord Bishop of Lincoln. ...  1798 (catalogued 1798)"
+  ],
+  "tomline-elements-1": [
+   "elementsofchrist01pret_1",
+   "Elements of christian Theology, vol. 1 (London : [publisher not identified], 1823)"
+  ],
+  "tomline-elements-2": [
+   "elementsofchrist02pret_0",
+   "Elements of christian theology :  with index to v. 1, vol. 2 (London : [s.n.], 1826)"
+  ],
+  "tomline-refutation": [
+   "arefutationofcal00pretuoft",
+   "A refutation of Calvinism : in which, the doctrines of original sin, grace, regeneration, justification, and universal redemption, are explained : and the peculiar tenets maintained by Calvin upon those points are proved to be contrary to scripture, to the writings of the ancient fathers of the Christian Church, and to the public formularies of the Church of England (London : T. Cadell and W. Davies, 1811)"
+  ],
+  "tomline-pitt": [
+   "memoirsoflifeofr00pretuoft",
+   "Memoirs of the life of the Right Honorable William Pitt (London : J. Murray, 1822)"
+  ],
+  "tomline-study-of-bible": [
+   "introductiontost00pret",
+   "An introduction to the study of the Bible: being the fourteenth edition of the first volume of the Elements of Christian theology (London, Printed for T. Cadell, 1822)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "tomline-inclosing": "Reflections on the Cruelty of Inclosing Common-Field Lands is by another Pretyman",
+  "tomline-replies": "the Adair letters and the Remarks on the Refutation are by others",
+  "tomline-dups": "other editions and abridgements of the Elements and the Refutation"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "tomline-lords-1789": {
+   "author": "OCR of the title page: \"THE BISHOP OF LINCOLN'S SERMON [before] THE HOUSE OF LORDS, ON FRIDAY, JANUARY 30, [1789] ... ORDERED ... That the Thanks of this House be ... given to the Lord Bishop of Lincoln\" George Pretyman (later Tomline) was Bishop of Lincoln from 1787 to 1820, so the see names him.",
+   "title": "OCR of the title page: \"THE BISHOP OF LINCOLN'S SERMON [before] THE HOUSE OF LORDS, ON FRIDAY, JANUARY 30, [1789] ... ORDERED ... That the Thanks of this House be ... given to the Lord Bishop of Lincoln\" George Pretyman (later Tomline) was Bishop of Lincoln from 1787 to 1820, so the see names him."
+  },
+  "tomline-st-pauls-1798": {
+   "author": "OCR of the title page: \"[A SERMON] PREACHED AT THE CATHEDRAL CHURCH OF St. PAUL, ... BEFORE HIS MAJESTY AND BOTH HOUSES OF PARLIAMENT, On TUESDAY, DECEMBER 19th, 1797 ... By GEORGE, LORD BISHOP OF LINCOLN.\" George Pretyman (later Tomline) was Bishop of Lincoln from 1787 to 1820, so the see names him.",
+   "title": "OCR of the title page: \"[A SERMON] PREACHED AT THE CATHEDRAL CHURCH OF St. PAUL, ... BEFORE HIS MAJESTY AND BOTH HOUSES OF PARLIAMENT, On TUESDAY, DECEMBER 19th, 1797 ... By GEORGE, LORD BISHOP OF LINCOLN.\" George Pretyman (later Tomline) was Bishop of Lincoln from 1787 to 1820, so the see names him."
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tomline-commons-1784": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pretyman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1784",
+   "ia_date": "1784",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tomline-lords-1789": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1789",
+   "ia_date": "1789",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tomline-st-pauls-1798": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tomline-elements-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tomline",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tomline-elements-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pretyman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tomline-refutation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tomline",
+   "identity": "ok",
+   "ia_rights": "ok: published 1811",
+   "ia_date": "1811",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tomline-pitt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pretyman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tomline-study-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "pretyman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain August Dillmann (1823-1894), Berlin Old Testament scholar and Ethiopic philologist, for the Word Hoard: Genesis Critically and Exegetically Expounded (2 vols, Edinburgh: T. & T. Clark, 1897), from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "dillmann"
+ ],
+ "_surname": [
+  "a. dillmann",
+  "august dillmann",
+  "dillmann"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dillmann-genesis-1": [
+   "genesiscriticall01dill",
+   "Genesis critically and exegetically expounded, vol. 1 (Edinburgh : T. & T. Clark, 1897)"
+  ],
+  "dillmann-genesis-2": [
+   "genesiscriticall02dill",
+   "Genesis critically and exegetically expounded, vol. 2 (Edinburgh : T. & T. Clark, 1897)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dillmann-other": "The Book of Enoch (1893, R. H. Charles's translation from Dillmann's text, Charles's book); the Ethiopic Grammar (1907, a grammar, not theology; left for later); Latin and Ethiopic editions"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dillmann-genesis-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. dillmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dillmann-genesis-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. dillmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

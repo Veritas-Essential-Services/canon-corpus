@@ -1,0 +1,80 @@
+{
+ "_about": "Public-domain Bishop John Milner (1752-1826, Vicar Apostolic of the Midland District) for the Word Hoard: Letters to a Prebendary (1800) and the History of Winchester (2 vols, second edition, 1809), from Internet Archive scans. The End of Religious Controversy (3 parts, 1818) is pending: its title page gives only the initials J. M. Written in English. Not Joseph Milner the church historian, who has his own shelf. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "milner"
+ ],
+ "_surname": [
+  "john milner",
+  "milner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "milner-letters-to-a-prebendary": [
+   "letterstoprebend00miln",
+   "Letters to a Prebendary (Winchester: Robbins, 1800)"
+  ],
+  "milner-winchester-1": [
+   "historycivileccl01miln_0",
+   "The History Civil and Ecclesiastical, & Survey of the Antiquities, of Winchester, vol. I, second edition (Winchester: Jas. Robbins, 1809)"
+  ],
+  "milner-winchester-2": [
+   "historycivileccl02miln_0",
+   "The History Civil and Ecclesiastical, & Survey of the Antiquities, of Winchester, vol. II, second edition (Winchester: Jas. Robbins; the year is not legible on this title page)"
+  ]
+ },
+ "_alternates": {
+  "milner-copies": "The St Mary's set of End of Controversy (1818); Letters to a Prebendary (bim copy 1800; Cork 1802); the 3rd edition of Winchester (c.1830)"
+ },
+ "_excluded": {
+  "milner-1798": "The 1798 first edition of Winchester: no legible title page",
+  "milner-other": "Milner Refuted (against him); a Kenedy copy wrongly catalogued 1802"
+ },
+ "_rights_checked": {
+  "milner-winchester-1": "title page engraved and illegible in the OCR; dedication signed 'JOHN MILNER, Winchester, April 6, 1798'"
+ },
+ "_pending": {
+  "milner-vindication": "A Vindication of the End of Religious Controversy (1822): not read",
+  "milner-end-of-controversy-1": "endofreligiousco01milniala: The End of Religious Controversy, part I (London: Keating, Brown, 1818). The title page reads only 'By the Rev. J. M.— D. D.— F. S. A.' and the OCR never prints Milner's name; held, like the other initials-only books, until Adam rules on attribution",
+  "milner-end-of-controversy-2": "endofreligiousco02milniala: The End of Religious Controversy, part II (London: Keating, Brown, 1818). The title page reads only 'By the Rev. J. M.— D. D.— F. S. A.' and the OCR never prints Milner's name; held, like the other initials-only books, until Adam rules on attribution",
+  "milner-end-of-controversy-3": "endofreligiousco03miln: The End of Religious Controversy, part III (London: Keating, Brown, 1818). The title page reads only 'By the Rev. J. M.— D. D.— F. S. A.' and the OCR never prints Milner's name; held, like the other initials-only books, until Adam rules on attribution"
+ },
+ "_translators": {},
+ "_checks": {
+  "milner-letters-to-a-prebendary": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "milner-winchester-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page engraved and illegible in the OCR; dedication signed 'JOHN MILNER, Winchester, April 6, 1798'"
+  },
+  "milner-winchester-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "milner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

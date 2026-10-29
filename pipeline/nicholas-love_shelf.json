@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain Nicholas Love (died about 1424, prior of the Charterhouse of Mount Grace) for the Word Hoard: The Mirrour of the Blessed Lyf of Jesu Christ, his Middle English translation of the Meditationes Vitae Christi made before 1410, edited by Lawrence F. Powell (Oxford: Clarendon Press, 1908), from an Internet Archive scan. Added 2026-10-17 by lane A, round 27 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "nicholas"
+ ],
+ "_surname": [
+  "nicholas love"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "love-mirrour-powell": [
+   "themirrourofjesu00bonauoft",
+   "The Mirrour of the Blessed Lyf of Jesu Christ, a translation of the Meditationes Vitae Christi made before 1410 by Nicholas Love, ed. Lawrence F. Powell (Oxford: Clarendon Press, MCMVIII)"
+  ]
+ },
+ "_alternates": {
+  "love-copies": "Four other copies of the 1908 edition",
+  "love-1530": "Wynkyn de Worde's 1530 print (vitachristi00bona): woodcut title page, Love not named in what was read"
+ },
+ "_excluded": {
+  "love-late": "2005 and 2010 editions; manuscripts"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "love-mirrour-powell": "love"
+ },
+ "_checks": {
+  "love-mirrour-powell": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "nicholas love",
+   "translator_claimed": "love",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

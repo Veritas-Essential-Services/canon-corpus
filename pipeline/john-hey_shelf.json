@@ -1,0 +1,84 @@
+{
+ "_about": "Public-domain John Hey (1734-1815), first Norrisian Professor of Divinity at Cambridge, for the Word Hoard: his Lectures in Divinity delivered in the University of Cambridge (Cambridge: John Burges, 1796-1798, four volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 42 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hey"
+ ],
+ "_surname": [
+  "john hey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hey-lectures-1": [
+   "lecturesindivini01heyj",
+   "Lectures in divinity, vol. 1 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796)"
+  ],
+  "hey-lectures-2": [
+   "lecturesindivini02heyj",
+   "Lectures in divinity, vol. 2 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796)"
+  ],
+  "hey-lectures-3": [
+   "lecturesindivini00heyj",
+   "Lectures in divinity (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796)"
+  ],
+  "hey-lectures-4": [
+   "lecturesindivini04heyj",
+   "Lectures in divinity, vol. 4 (Cambridge [Cambridgeshire] : Printed by John Burges, Printer to the University ..., 1796)"
+  ]
+ },
+ "_alternates": {
+  "hey-copies": "The 1841 two-volume reprint"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hey-lectures-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hey-lectures-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hey-lectures-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hey-lectures-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

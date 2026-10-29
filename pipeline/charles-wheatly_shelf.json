@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Charles Wheatly (1686-1742), liturgist, for the Word Hoard: A Rational Illustration of the Book of Common Prayer (1720), The Nicene and Athanasian Creeds (Moyer lectures, 1738) and Fifty Sermons on Several Subjects (London 1746, three volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wheatly"
+ ],
+ "_surname": [
+  "charles wheatly",
+  "wheatly"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wheatly-rational-illustration": [
+   "rationalillustra00char_0",
+   "A rational Illustration of the Book of Common Prayer (catalogued 1720)"
+  ],
+  "wheatly-nicene-athanasian": [
+   "niceneathanasian00whea",
+   "The Nicene and Athanasian creeds, so far as they are expressive of a co-equal and co-eternal Trinity in unity, and of perfect Godhead and manhood in one only Christ : explain'd and confirm'd by the Holy Scriptures ... in eight sermons preached in part at the Lady Moyer's lecture in the Cathedral of St. Paul, London, in the years 1733 and 1734 (London : Printed by John Nourse, 1738)"
+  ],
+  "wheatly-fifty-sermons-1": [
+   "bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_1",
+   "Fifty Sermons on Several Subjects and Occasions, vol. 1 (London, catalogued 1746)"
+  ],
+  "wheatly-fifty-sermons-2": [
+   "bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_2",
+   "Fifty Sermons on Several Subjects and Occasions, vol. 2 (London, catalogued 1746)"
+  ],
+  "wheatly-fifty-sermons-3": [
+   "bim_eighteenth-century_fifty-sermons-on-several_wheatly-charles_1746_3",
+   "Fifty Sermons on Several Subjects and Occasions, vol. 3 (London, catalogued 1746)"
+  ]
+ },
+ "_alternates": {
+  "wheatly-copies": "The 1820 and later Rational Illustration; the 1753 Fifty Sermons; Sermons and Tracts (1740)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wheatly-rational-illustration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wheatly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1720",
+   "ia_date": "1720",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wheatly-nicene-athanasian": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wheatly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1738",
+   "ia_date": "1738",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wheatly-fifty-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wheatly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1746",
+   "ia_date": "1746",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wheatly-fifty-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wheatly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1746",
+   "ia_date": "1746",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wheatly-fifty-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles wheatly",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1746",
+   "ia_date": "1746",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

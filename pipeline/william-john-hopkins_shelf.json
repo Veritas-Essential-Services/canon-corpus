@@ -1,0 +1,112 @@
+{
+ "_about": "William John Hopkins: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William John Hopkins",
+ "_name_words": [
+  "hopkins",
+  "john",
+  "william"
+ ],
+ "_surname": [
+  "william john hopkins",
+  "hopkins"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wjhopkins-doers": [
+   27650,
+   "The Doers"
+  ],
+  "wjhopkins-sandman": [
+   28748,
+   "The Sandman: His Sea Stories"
+  ],
+  "wjhopkins-sandman-36185": [
+   36185,
+   "The Sandman: His Farm Stories"
+  ],
+  "wjhopkins-concerning-sally": [
+   37118,
+   "Concerning Sally"
+  ],
+  "wjhopkins-clammer-and-the-submarine": [
+   39456,
+   "The clammer and the submarine"
+  ],
+  "wjhopkins-she-blows-and-sparm-at-that": [
+   58028,
+   "She Blows! And Sparm at That!"
+  ],
+  "wjhopkins-clammer": [
+   70399,
+   "The clammer"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "wjhopkins-doers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjhopkins-sandman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjhopkins-sandman-36185": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjhopkins-concerning-sally": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjhopkins-clammer-and-the-submarine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjhopkins-she-blows-and-sparm-at-that": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wjhopkins-clammer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william john hopkins",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

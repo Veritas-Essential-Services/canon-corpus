@@ -1,0 +1,130 @@
+{
+ "_about": "Aulus Gellius, Attic Nights, in William Beloe's translation (1795), raw IA OCR: vols. 1-3 complete (vol. 2 found 2026-10-02 under atticnightsofaul02gelliala; its title page reads \"By the Rev. W. Beloe ... Vol. II ... MDCCXCV\"). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_name_words": [
+  "gellius",
+  "attic",
+  "nights"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gellius-beloe-v1": [
+   "bub_gb_j3kBAAAAMAAJ",
+   "The Attic Nights of Aulus Gellius, vol. 1 (1795)",
+   "tr. William Beloe"
+  ],
+  "gellius-beloe-v2": [
+   "atticnightsofaul02gelliala",
+   "The Attic Nights of Aulus Gellius, vol. 2 (1795)",
+   "tr. William Beloe"
+  ],
+  "gellius-beloe-v3": [
+   "atticnightsaulu02gellgoog",
+   "The Attic Nights of Aulus Gellius, vol. 3 (1795)",
+   "tr. William Beloe"
+  ],
+  "gellius-rolfe-v1": [
+   "bwb_S0-AVN-133",
+   "The Attic Nights of Aulus Gellius, vol. 1 (Loeb, 1927)",
+   "tr. J. C. Rolfe"
+  ],
+  "gellius-rolfe-v2": [
+   "bwb_S0-AVN-132",
+   "The Attic Nights of Aulus Gellius, vol. 2 (Loeb, 1927)",
+   "tr. J. C. Rolfe"
+  ],
+  "gellius-rolfe-v3": [
+   "atticnightsofaul0003unse",
+   "The Attic Nights of Aulus Gellius, vol. 3 (Loeb, 1927)",
+   "tr. J. C. Rolfe"
+  ]
+ },
+ "_surname": [
+  "gellius",
+  "aulus"
+ ],
+ "_translators": {
+  "gellius-rolfe-v1": "J. C. Rolfe",
+  "gellius-rolfe-v2": "J. C. Rolfe",
+  "gellius-rolfe-v3": "john c. rolfe"
+ },
+ "_translator_unchecked": {
+  "gellius-beloe-v1": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "gellius-beloe-v2": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "gellius-beloe-v3": "translator on the row (William Beloe) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "gellius-beloe-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gellius-beloe-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gellius-beloe-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gellius-rolfe-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "translator_claimed": "J. C. Rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gellius-rolfe-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "translator_claimed": "J. C. Rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gellius-rolfe-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gellius",
+   "translator_claimed": "john c. rolfe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

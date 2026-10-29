@@ -1,0 +1,62 @@
+{
+ "_about": "Diodorus Siculus, The Historical Library, in George Booth's translation (1700; 1814 edition, 2 vols., with the fragments), raw IA OCR.",
+ "_name_words": [
+  "diodorus",
+  "sicilian",
+  "historical",
+  "library"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "diodorus-booth-v1": [
+   "historicallibra01bootgoog",
+   "The Historical Library of Diodorus the Sicilian, vol. 1 (1814)",
+   "tr. George Booth"
+  ],
+  "diodorus-booth-v2": [
+   "historicallibra00bootgoog",
+   "The Historical Library of Diodorus the Sicilian, vol. 2 (1814)",
+   "tr. George Booth"
+  ]
+ },
+ "_excluded": {
+  "historicallibra00diodgoog, historicallibra01diodgoog": "a second scan of the same 1814 edition",
+  "Oldfather, Loeb (1933-)": "not PD"
+ },
+ "_surname": [
+  "diodorus"
+ ],
+ "_translators": {
+  "diodorus-booth-v1": "G. Booth",
+  "diodorus-booth-v2": "G. Booth"
+ },
+ "_checks": {
+  "diodorus-booth-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diodorus",
+   "translator_claimed": "G. Booth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "diodorus-booth-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "diodorus",
+   "translator_claimed": "G. Booth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

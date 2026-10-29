@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Donald Sage Mackay (1863-1908), minister of the Collegiate Church of St Nicholas, New York, for the Word Hoard: The Religion of the Threshold and other sermons, a memorial sermon for Queen Victoria, and his 1904 sermon before the American Seamen's Friend Society. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 114 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "donald sage mackay",
+  "d. sage mackay",
+  "donald s. mackay",
+  "mackay"
+ ],
+ "_surname": [
+  "donald sage mackay",
+  "d. sage mackay",
+  "mackay"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dsmackay-victoria": [
+   "inmemoriamvictor00mack",
+   "In memoriam. Victoria, the woman; sermmon preached at the memorial service of Her Majesty Queen Victoria, at the Collegiate Church, Fifth Avenue and 48th Street ([New York, The Knickerbocker Press], 1901)"
+  ],
+  "dsmackay-seamen": [
+   "annualsermonbefo00mack",
+   "Annual sermon before the American Seamen's Friend Society at its seventy-sixth anniversary, Sunday, May 8, 1904 in the Collegiate Church / by Donald Sage Mackay (New York : American Seamen's Friend Society, 1904)"
+  ],
+  "dsmackay-threshold": [
+   "religionofthres00mack",
+   "The religion of the threshold, and other sermons (New York, A. C. Armstrong & son, 1908)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dsmackay-parmenides": "Mind in the Parmenides (1924) is by a later Donald Sage Mackay"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dsmackay-victoria": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "donald sage mackay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dsmackay-seamen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "donald sage mackay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dsmackay-threshold": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "donald sage mackay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

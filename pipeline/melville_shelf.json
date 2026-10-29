@@ -1,0 +1,252 @@
+{
+ "_about": "Herman Melville's novels, tales and poems: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Herman Melville",
+ "_name_words": [
+  "melville"
+ ],
+ "_surname": [
+  "herman melville"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "melville-i-and-my-chimney": [
+   2694,
+   "I and My Chimney"
+  ],
+  "melville-omoo": [
+   4045,
+   "Omoo: Adventures in the South Seas"
+  ],
+  "melville-redburn-his-first-voyage-being-the-sailor-boy-confe": [
+   8118,
+   "Redburn. His First Voyage Being the Sailor Boy Confessions and Reminiscences of the Son-Of-A-Gentleman in the Merchant Navy",
+   {
+    "contents_only": true
+   }
+  ],
+  "melville-white-jacket": [
+   10712,
+   "White Jacket; Or, The World on a Man-of-War"
+  ],
+  "melville-bartleby-the-scrivener": [
+   11231,
+   "Bartleby, the Scrivener: A Story of Wall-Street"
+  ],
+  "melville-battle-pieces-and-aspects-of-the-war": [
+   12384,
+   "Battle-Pieces and Aspects of the War"
+  ],
+  "melville-john-marr-and-other-poems": [
+   12841,
+   "John Marr and Other Poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "melville-mardi-and-a-voyage-thither-vol-1-of-2": [
+   13720,
+   "Mardi, and a voyage thither, Vol. 1 (of 2)"
+  ],
+  "melville-mardi-and-a-voyage-thither-vol-2-of-2": [
+   13721,
+   "Mardi, and a voyage thither, Vol. 2 (of 2)",
+   {
+    "contents_only": true
+   }
+  ],
+  "melville-israel-potter": [
+   15422,
+   "Israel Potter: His Fifty Years of Exile",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\. [A-Z]",
+      "max": 240
+     }
+    ],
+    "start": "CHAPTER I\\. THE BIRTHPLACE",
+    "front": true
+   }
+  ],
+  "melville-piazza-tales": [
+   15859,
+   "The Piazza Tales"
+  ],
+  "melville-confidence-man": [
+   21816,
+   "The Confidence-Man: His Masquerade",
+   {
+    "contents_only": true
+   }
+  ],
+  "melville-typee": [
+   28656,
+   "Typee"
+  ],
+  "melville-pierre": [
+   34970,
+   "Pierre; or The Ambiguities"
+  ],
+  "melville-apple-tree-table-and-other-sketches": [
+   53861,
+   "The Apple-Tree Table, and Other Sketches"
+  ],
+  "melville-billy-budd": [
+   76513,
+   "Billy Budd"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58477": "PG 58477: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 2489: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 2701: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-15": "PG 15 Moby-Dick: a second edition; the Adler shelf holds the novel (PG 2701)."
+ },
+ "_checks": {
+  "melville-i-and-my-chimney": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-omoo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-redburn-his-first-voyage-being-the-sailor-boy-confe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-white-jacket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-bartleby-the-scrivener": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-battle-pieces-and-aspects-of-the-war": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-john-marr-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-mardi-and-a-voyage-thither-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-mardi-and-a-voyage-thither-vol-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-israel-potter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-piazza-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-confidence-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-typee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-pierre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-apple-tree-table-and-other-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "melville-billy-budd": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "herman melville",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

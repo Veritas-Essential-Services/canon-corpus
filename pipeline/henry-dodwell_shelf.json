@@ -1,0 +1,187 @@
+{
+ "_about": "Public-domain Henry Dodwell (1641-1711), Camden Professor of History at Oxford, deprived in 1691 and a leading nonjuror until he returned to the established church in 1710, for the Word Hoard: his English theological works in first printings (1676-1711): Two Letters of Advice, Separation of Churches from Episcopal Government, the Discourse concerning the One Altar, the Vindication of the Deprived Bishops and its Defence, the treatise on instrumental music, the Admonitory Discourse, Occasional Communion, the Case in View, the Epistolary Discourse on the soul, and the Discourse on incense, from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "dodwell"
+ ],
+ "_surname": [
+  "henry dodwell",
+  "dodwell"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dodwell-two-short-discourses-1676": [
+   "bim_early-english-books-1641-1700_two-short-discourses-_dodwell-henry_1676",
+   "Two short discourses ...  1676 (catalogued 1676)"
+  ],
+  "dodwell-separation-of-churches-1679": [
+   "bim_early-english-books-1641-1700_separation-of-churches_dodwell-henry_1679",
+   "Separation of churches...  1679 (catalogued 1679)"
+  ],
+  "dodwell-one-altar-1683": [
+   "bim_early-english-books-1641-1700_a-discourse-concerning-t_dodwell-henry_1683",
+   "A discourse concerning the one altar... against schism.  1683 (catalogued 1683)"
+  ],
+  "dodwell-two-letters-of-advice-1691": [
+   "bim_early-english-books-1641-1700_two-letters-of-advice-_dodwell-henry_1691_0",
+   "Two letters of advice, ...  1691 (catalogued 1691)"
+  ],
+  "dodwell-instrumental-musick-1700": [
+   "treatiseconcerni00dodw",
+   "A Treatise concerning the lawfulness of instrumental musick in holy offices (London : Printed for William Hawes, 1700)"
+  ],
+  "dodwell-admonitory-discourse-1704": [
+   "bim_eighteenth-century_an-admonitory-discourse-_dodwell-henry_1704",
+   "An admonitory discourse concerning the late English schism, address'd to those of the reformed, as well as roman religion abroad: wherein the ancient rights of bishops, and their independency of the secular magistrate, are asserted and recommended. By Henry Dodwell, A.M. of Dublin. Written originally in Latin, and now faithfully done into English, [sic].  1704 (catalogued 1704)"
+  ],
+  "dodwell-occasional-communion-1705": [
+   "bim_eighteenth-century_occasional-communion-fun_dodwell-henry_1705",
+   "Occasional communion fundamentally destructive of the discipline of the primitive catholick church, and contrary to the doctrine of the latest scriptures, concerning church-communion. By Henry Dodwell, M.A.  1705 (catalogued 1705)"
+  ],
+  "dodwell-case-in-view-1705": [
+   "bim_eighteenth-century_a-case-in-view-consider_dodwell-henry_1705",
+   "A case in view consider'd: in a discourse, proving that in case our present invalidly deprived fathers shall leave all their sees vacant, either by death or resignation we shall not then be obliged to keep up our separation from those bishops, who are as yet involved in the guilt of the present unhappy schism. By Henry Dodwell, M.A.  1705 (catalogued 1705)"
+  ],
+  "dodwell-epistolary-discourse-1706": [
+   "bim_eighteenth-century_an-epistolary-discourse-_dodwell-henry_1706",
+   "An epistolary discourse, proving, from the scriptures and the first fathers, that the soul is a principle naturally mortal; ... By Henry Dodwell, A.M.  1706 (catalogued 1706)"
+  ],
+  "dodwell-incense-1711": [
+   "bim_eighteenth-century_a-discourse-concerning-t_dodwell-henry_1711",
+   "A discourse concerning the use of incense in divine offices. ... By Henry Dodwell, M.A.  1711 (catalogued 1711)"
+  ]
+ },
+ "_alternates": {
+  "dodwell-copies": "Other printings of the Two Letters of Advice (1672, 1680, 1691) and the Epistolary Discourse (1706, 1707); the Preliminary Defence (1707), A Further Prospect of the Case in View (1707), the Case in View now in Fact (1711)"
+ },
+ "_excluded": {
+  "dodwell-other": "His Latin works (Dissertationes Cyprianicae, Dissertationes in Irenaeum, De Jure Laicorum, Praelectiones, the classical annals and chronology); Christianity not Founded on Argument (1741-1746), by his son Henry Dodwell the younger"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "dodwell-separation-of-churches-1679": "title page read (OCR): 'By HENRY DODWELL, M.A. and sometimes Fellow of Trinity College near Dublin in Ireland' (OCR 'HEN NT BODWE IL L')",
+  "dodwell-case-in-view-1705": "title page read (OCR): 'By HENRY DODWELL, M.A.', printed for Samuel Keble, 1705 (OCR 'HENRY Dopwer L')",
+  "dodwell-epistolary-discourse-1706": "title page read (OCR): 'An Epistolary Discourse, proving from the Scriptures and the First Fathers, that the Soul is a Principle naturally Mortal ... By HENRY DODWELL, A.M.' (OCR 'Diſcamrſe', 'HE NAY DODWE LL')"
+ },
+ "_pending": {
+  "dodwell-vindication-deprived-bishops-1692": "A vindication of the deprived bishops, ...  1692 (catalogued 1692) [bim_early-english-books-1641-1700_a-vindication-of-the-dep_dodwell-henry_1692]: title page read from the (dark) page image: no author named; the attribution is the catalogue's",
+  "dodwell-defence-vindication-1695": "A defence of the vindication of the deprived bishops. ...  1695 (catalogued 1695) [bim_early-english-books-1641-1700_a-defence-of-the-vindica_dodwell-henry_1695]: title page (OCR) says only 'By the Author of the Vindication', which itself names no author"
+ },
+ "_translators": {},
+ "_checks": {
+  "dodwell-two-short-discourses-1676": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dodwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1676",
+   "ia_date": "1676",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-separation-of-churches-1679": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1679",
+   "ia_date": "1679",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-one-altar-1683": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry dodwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1683",
+   "ia_date": "1683",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-two-letters-of-advice-1691": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dodwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1691",
+   "ia_date": "1691",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-instrumental-musick-1700": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry dodwell",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1700",
+   "ia_date": "1700",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dodwell-admonitory-discourse-1704": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry dodwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-occasional-communion-1705": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry dodwell",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-case-in-view-1705": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-epistolary-discourse-1706": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry dodwell",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1706",
+   "ia_date": "1706",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dodwell-incense-1711": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "dodwell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1711",
+   "ia_date": "1711",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

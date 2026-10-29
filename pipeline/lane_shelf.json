@@ -1,0 +1,111 @@
+{
+ "_about": "TRANSLATOR SHELF: Edward William Lane (1801-1876). The Thousand and One Nights (1838-40), as re-edited by E. S. Poole 1859 and reprinted unchanged. PD. Added 2026-10-02 by lane C after the coordinator's 'keep going, more translator shelves' relay; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "e. w. lane",
+  "edward william lane",
+  "edward w. lane"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lane-nights-1": [
+   34206,
+   "The Thousand and One Nights, tr. Lane, vol. I (Chatto 1912 impression)"
+  ]
+ },
+ "internet_archive": {
+  "lane-nights-2": [
+   "thousandonenight02harvuoft",
+   "The Thousand and One Nights, tr. Lane, vol. II (Chatto 1912)"
+  ],
+  "lane-nights-3": [
+   "thousandonenight03laneuoft",
+   "The Thousand and One Nights, tr. Lane, vol. III (Routledge 1865)"
+  ]
+ },
+ "titles": {
+  "lane-arabian-nights": {
+   "source": [
+    "lane-nights-1",
+    "lane-nights-2",
+    "lane-nights-3"
+   ],
+   "of": "The Thousand and One Nights (Arabic)",
+   "work": "The Thousand and One Nights, 3 vols",
+   "translated": "1838-40 (1859 ed.)",
+   "scan_edition": "vol. 1 PG (Chatto 1912), vol. 2 Chatto 1912, vol. 3 Routledge 1865; the 1912 impression says it reproduces the 1859 edition exactly, so the mix is one text",
+   "note": "Vols 2-3 raw OCR.",
+   "translator": "Edward William Lane"
+  }
+ },
+ "_pending": {
+  "lane-selections-kuran": "Selections from the Kur-an (PG 44515): Lane as translator of Quranic passages; Adam's call whether scripture of other faiths belongs on a translator shelf."
+ },
+ "_excluded": {
+  "pg-41110": "Arabian Society in the Middle Ages: Lane's notes, not a translation.",
+  "pg-70796": "Modern Egyptians: Lane's own book.",
+  "ia-emory-1883": "Chatto 1883 set (emory.edu): its text files are not at the standard path."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_identity_checked": {
+  "lane-nights-2": "OCR spreads the name over several spaces ('Edward  William  Lane'), so the exact-phrase check misses it; the title page names him. Checked 2026-10-02.",
+  "lane-nights-3": "OCR spreads the name over several spaces ('Edward  William  Lane'), so the exact-phrase check misses it; the title page names him. Checked 2026-10-02."
+ },
+ "_verified": {
+  "lane-nights-1": {
+   "pg": 34206,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edward William Lane"
+  },
+  "lane-nights-2": {
+   "ia": "thousandonenight02harvuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "lane-nights-3": {
+   "ia": "thousandonenight03laneuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname": [
+  "w. lane",
+  "william lane"
+ ],
+ "_checks": {
+  "lane-nights-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. lane",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward William Lane"
+  },
+  "lane-nights-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. lane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "lane-nights-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william lane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_surname_note": "Full-name phrases, not the bare surname: the bare word ('rose', 'sale', 'lane', 'guest' ...) matches ordinary English (second review round, 2026-10-03)."
+}

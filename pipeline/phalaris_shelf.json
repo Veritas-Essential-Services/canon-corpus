@@ -1,0 +1,38 @@
+{
+ "_about": "The Epistles of Phalaris (the pseudepigraphic letters Bentley exposed), translated from the Greek by Thomas Francklin (London, R. Francklin, 1749), with select epistles of other Greek writers; raw IA OCR.",
+ "_name_words": [
+  "phalaris",
+  "epistles"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "phalaris-francklin-1749": [
+   "bib_fict_971306",
+   "The Epistles of Phalaris, with select epistles of other Greek writers (1749)",
+   "tr. Thomas Francklin"
+  ]
+ },
+ "_rights_checked": {},
+ "_surname": [
+  "phalaris"
+ ],
+ "_translators": {
+  "phalaris-francklin-1749": "thomas francklin"
+ },
+ "_checks": {
+  "phalaris-francklin-1749": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "phalaris",
+   "translator_claimed": "thomas francklin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "_about": "Jewish Fairy Stories, retold from Talmudic and later Jewish sources by Gerald Friedlander, who says in his preface (September, 1917) that the translation is not literal (Bloch, New York, 1917). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Gerald Friedlander, tr.",
+ "_name_words": [
+  "friedlander"
+ ],
+ "_surname": [
+  "gerald friedlander"
+ ],
+ "_translators": {
+  "friedlander-jewish-fairy-stories": "Friedlander"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "friedlander-jewish-fairy-stories": [
+   72880,
+   "Jewish Fairy Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "friedlander-jewish-fairy-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "gerald friedlander",
+   "translator_claimed": "Friedlander",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gerald Friedlander",
+   "translator_match": true
+  }
+ }
+}

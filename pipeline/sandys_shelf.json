@@ -1,0 +1,80 @@
+{
+ "_about": "Sir John Edwin Sandys (1844-1922), Public Orator at Cambridge. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): A History of Classical Scholarship (Cambridge, 3 vols., 1903-1908) and A Short History of Classical Scholarship (1915), raw IA OCR. No uids minted.",
+ "_name_words": [
+  "sandys"
+ ],
+ "_surname": [
+  "john edwin sandys",
+  "j. e. sandys",
+  "sandys, john edwin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sandys-history-classical-scholarship-v1-1903": [
+   "historyofclassic00sanduoft",
+   "A History of Classical Scholarship, vol. I: from the sixth century B.C. to the end of the Middle Ages (Cambridge: University Press, 1903)"
+  ],
+  "sandys-history-classical-scholarship-v2-1908": [
+   "historyofclassic02sanduoft",
+   "A History of Classical Scholarship, vol. II: from the revival of learning to the end of the eighteenth century (Cambridge: University Press, 1908)"
+  ],
+  "sandys-history-classical-scholarship-v3-1908": [
+   "historyofclassic03sanduoft",
+   "A History of Classical Scholarship, vol. III: the eighteenth century in Germany, and the nineteenth century in Europe and the United States (Cambridge: University Press, 1908)"
+  ],
+  "sandys-short-history-classical-scholarship-1915": [
+   "shorthistoryofcl00sanduoft",
+   "A Short History of Classical Scholarship from the Sixth Century B.C. to the Present Day (Cambridge: University Press, 1915)"
+  ]
+ },
+ "_excluded": {
+  "A Companion to Latin Studies (1910), ed. Sandys": "many contributors whose death years were not checked; not taken this round"
+ },
+ "_checks": {
+  "sandys-history-classical-scholarship-v1-1903": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903-08",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sandys-history-classical-scholarship-v2-1908": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903-08",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sandys-history-classical-scholarship-v3-1908": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903-08",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sandys-short-history-classical-scholarship-1915": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john edwin sandys",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

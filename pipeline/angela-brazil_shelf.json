@@ -1,0 +1,440 @@
+{
+ "_about": "Angela Brazil's school stories for girls: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Angela Brazil",
+ "_name_words": [
+  "brazil"
+ ],
+ "_surname": [
+  "angela brazil"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "abrazil-monitress-merle": [
+   7820,
+   "Monitress Merle"
+  ],
+  "abrazil-luckiest-girl-in-the-school": [
+   18019,
+   "The Luckiest Girl in the School",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-a-popular-schoolgirl": [
+   18505,
+   "A Popular Schoolgirl"
+  ],
+  "abrazil-jolliest-school-of-all": [
+   20163,
+   "The Jolliest School of All"
+  ],
+  "abrazil-for-the-sake-of-the-school": [
+   20730,
+   "For the Sake of the School",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-princess-of-the-school": [
+   21656,
+   "The Princess of the School",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-youngest-girl-in-the-fifth": [
+   21687,
+   "The Youngest Girl in the Fifth: A School Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-new-girl-at-st-chads": [
+   24025,
+   "The New Girl at St. Chad's: A Story of School Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-a-harum-scarum-schoolgirl": [
+   24645,
+   "A harum-scarum schoolgirl",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-nicest-girl-in-the-school": [
+   25003,
+   "The Nicest Girl in the School: A Story of School Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-a-patriotic-schoolgirl": [
+   25145,
+   "A Patriotic Schoolgirl",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-madcap-of-the-school": [
+   28749,
+   "The Madcap of the School",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-leader-of-the-lower-school": [
+   28854,
+   "The Leader of the Lower School: A Tale of School Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-manor-house-school": [
+   28974,
+   "The Manor House School",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-loyal-to-the-school": [
+   32093,
+   "Loyal to the School",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-a-fourth-form-friendship": [
+   32524,
+   "A Fourth Form Friendship: A School Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-head-girl-at-the-gables": [
+   32575,
+   "The Head Girl at the Gables",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-third-class-at-miss-kayes": [
+   33263,
+   "The Third Class at Miss Kaye's: A School Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-fortunes-of-philippa": [
+   33387,
+   "The Fortunes of Philippa: A School Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-a-pair-of-schoolgirls": [
+   33389,
+   "A Pair of Schoolgirls: A Story of School Days",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-bosom-friends": [
+   33390,
+   "Bosom Friends: A Seaside Story",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-school-by-the-sea": [
+   33909,
+   "The School by the Sea",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-jolliest-term-on-record": [
+   33910,
+   "The Jolliest Term on Record: A Story of School Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-for-the-school-colours": [
+   35972,
+   "For the School Colours",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-a-fortunate-term": [
+   36080,
+   "A Fortunate Term",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-girls-of-st-cyprians": [
+   37161,
+   "The Girls of St. Cyprian's: A Tale of School Life",
+   {
+    "contents_only": true
+   }
+  ],
+  "abrazil-a-terrible-tomboy": [
+   38619,
+   "A Terrible Tomboy",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "abrazil-monitress-merle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-luckiest-girl-in-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-a-popular-schoolgirl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-jolliest-school-of-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-for-the-sake-of-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-princess-of-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-youngest-girl-in-the-fifth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-new-girl-at-st-chads": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-a-harum-scarum-schoolgirl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-nicest-girl-in-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-a-patriotic-schoolgirl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-madcap-of-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-leader-of-the-lower-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-manor-house-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-loyal-to-the-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-a-fourth-form-friendship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-head-girl-at-the-gables": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-third-class-at-miss-kayes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-fortunes-of-philippa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-a-pair-of-schoolgirls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-bosom-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-school-by-the-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-jolliest-term-on-record": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-for-the-school-colours": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-a-fortunate-term": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-girls-of-st-cyprians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abrazil-a-terrible-tomboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "angela brazil",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

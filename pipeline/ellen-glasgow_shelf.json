@@ -1,0 +1,228 @@
+{
+ "_about": "Ellen Glasgow's novels of Virginia",
+ "_author": "Ellen Glasgow",
+ "_name_words": [
+  "glasgow"
+ ],
+ "_surname": [
+  "ellen glasgow",
+  "ellen anderson gholson glasgow"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "eglasgow-deliverance": [
+   2384,
+   "The Deliverance: A Romance of the Virginia Tobacco Fields"
+  ],
+  "eglasgow-battle-ground": [
+   6872,
+   "The Battle Ground"
+  ],
+  "eglasgow-life-and-gabriella": [
+   14571,
+   "Life and Gabriella: The Story of a Woman's Courage"
+  ],
+  "eglasgow-wheel-of-life": [
+   14696,
+   "The Wheel of Life"
+  ],
+  "eglasgow-one-man-in-his-time": [
+   15603,
+   "One Man in His Time",
+   {
+    "contents_only": true
+   }
+  ],
+  "eglasgow-voice-of-the-people": [
+   16505,
+   "The Voice of the People"
+  ],
+  "eglasgow-miller-of-old-church": [
+   18286,
+   "The Miller Of Old Church"
+  ],
+  "eglasgow-virginia": [
+   26316,
+   "Virginia"
+  ],
+  "eglasgow-romance-of-a-plain-man": [
+   30299,
+   "The Romance of a Plain Man",
+   {
+    "contents_only": true
+   }
+  ],
+  "eglasgow-phases-of-an-inferior-planet": [
+   34402,
+   "Phases of an Inferior Planet"
+  ],
+  "eglasgow-ancient-law": [
+   34419,
+   "The Ancient Law",
+   {
+    "contents_only": true
+   }
+  ],
+  "eglasgow-builders": [
+   37463,
+   "The Builders"
+  ],
+  "eglasgow-shadowy-third-and-other-stories": [
+   59015,
+   "The Shadowy Third, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "eglasgow-freeman-and-other-poems": [
+   65574,
+   "The Freeman, and Other Poems",
+   {
+    "contents_only": true
+   }
+  ],
+  "eglasgow-barren-ground": [
+   66191,
+   "Barren Ground"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "eglasgow-deliverance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-battle-ground": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-life-and-gabriella": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-wheel-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-one-man-in-his-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-voice-of-the-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-miller-of-old-church": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-romance-of-a-plain-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-phases-of-an-inferior-planet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-ancient-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-builders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-shadowy-third-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-freeman-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eglasgow-barren-ground": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "ellen anderson gholson glasgow",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

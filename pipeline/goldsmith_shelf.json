@@ -1,0 +1,147 @@
+{
+ "_about": "Oliver Goldsmith's novel, plays, poems and essays: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Oliver Goldsmith",
+ "_name_words": [
+  "goldsmith"
+ ],
+ "_surname": [
+  "oliver goldsmith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "goldsmith-she-stoops-to-conquer": [
+   383,
+   "She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy"
+  ],
+  "goldsmith-vicar-of-wakefield": [
+   2667,
+   "The Vicar of Wakefield",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I\\.?$",
+    "front": true
+   }
+  ],
+  "goldsmith-complete-poetical-works-of-oliver-goldsmith": [
+   3545,
+   "The Complete Poetical Works of Oliver Goldsmith"
+  ],
+  "goldsmith-an-elegy-on-the-death-of-a-mad-dog": [
+   17102,
+   "An Elegy on the Death of a Mad Dog"
+  ],
+  "goldsmith-an-elegy-on-the-glory-of-her-sex-mrs-mary-blaize": [
+   17117,
+   "An Elegy on the Glory of Her Sex, Mrs. Mary Blaize"
+  ],
+  "goldsmith-dalziels-illustrated-goldsmith": [
+   49325,
+   "Dalziels' Illustrated Goldsmith"
+  ],
+  "goldsmith-poems-of-oliver-goldsmith": [
+   49723,
+   "The Poems of Oliver Goldsmith"
+  ],
+  "goldsmith-deserted-village": [
+   50500,
+   "The Deserted Village"
+  ],
+  "goldsmith-goldsmiths-essays": [
+   79560,
+   "Goldsmith's essays"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58029": "PG 58029: Gutenberg's index of the author's works, not a book.",
+  "pg-16387": "PG 16387: Pinnock's improved edition of Goldsmith's History of Rome, revised and enlarged by later hands."
+ },
+ "_checks": {
+  "goldsmith-she-stoops-to-conquer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-vicar-of-wakefield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-complete-poetical-works-of-oliver-goldsmith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-an-elegy-on-the-death-of-a-mad-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-an-elegy-on-the-glory-of-her-sex-mrs-mary-blaize": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-dalziels-illustrated-goldsmith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-poems-of-oliver-goldsmith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-deserted-village": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldsmith-goldsmiths-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "oliver goldsmith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Edwin Gile Rich (1879-1939): Saint-Saëns's Musical Memories (1919) and Lafond's Covered with Mud and Glory (1918). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "edwin gile rich"
+ ],
+ "_surname": [
+  "edwin gile rich"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "egr-16459": [
+   16459,
+   "Musical Memories"
+  ],
+  "egr-60268": [
+   60268,
+   "Covered with mud and glory"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "eg-rich-lafond-covered-with-mud-and-glory": {
+   "source": "egr-60268",
+   "of": "Georges Lafond",
+   "work": "Covered with mud and glory",
+   "translated": "1918-1919 (see the Gutenberg header)",
+   "translator": "Edwin Gile Rich",
+   "scan_edition": "Project Gutenberg 60268 (clean text)"
+  },
+  "eg-rich-saint-saens-musical-memories": {
+   "source": "egr-16459",
+   "of": "Camille Saint-Saëns",
+   "work": "Musical Memories",
+   "translated": "1918-1919 (see the Gutenberg header)",
+   "translator": "Edwin Gile Rich",
+   "scan_edition": "Project Gutenberg 16459 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "egr-16459": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin gile rich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin Gile Rich"
+  },
+  "egr-60268": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin gile rich",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin Gile Rich"
+  }
+ },
+ "_verified": {
+  "egr-16459": {
+   "pg": 16459,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin Gile Rich"
+  },
+  "egr-60268": {
+   "pg": 60268,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin Gile Rich"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

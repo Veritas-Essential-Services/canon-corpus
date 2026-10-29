@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain Samuel Minton (1820-1894), evangelical Anglican minister of Eaton Chapel, London, for the Word Hoard: The Glory of Christ in the Creation and Reconciliation of All Things (1871), his sermons on the Lord's Supper and the confessional, and his single sermons (1850-1877). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 92 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel minton",
+  "s. minton"
+ ],
+ "_surname": [
+  "samuel minton",
+  "s. minton",
+  "minton"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "minton-believers-completeness": [
+   "a633607300mintuoft",
+   "The believer's completeness in Christ : a sermon ([London] : [Seeley, Jackson, and Halliday], [bet)"
+  ],
+  "minton-righteousness-redemption": [
+   "a633611900mintuoft",
+   "Righteousness and redemption : a sermon ([London] : [Seeley, Jackson, and Halliday], [bet)"
+  ],
+  "minton-saving-power": [
+   "a633613400mintuoft",
+   "The saving power of the Gospel : a sermon ([London] : [Seeley, Jackson, and Halliday], [186)"
+  ],
+  "minton-central-superstition": [
+   "a633615900mintuoft",
+   "The central superstition of Christendom : a sermon on the perversion of the Lord's Supper, preached at Eaton Chapel, Eaton-Square (London : Seeley, Jackson, and Halliday, 1866)"
+  ],
+  "minton-glory-of-christ": [
+   "gloryofchristinc00mintuoft",
+   "The glory of Christ in the creation and reconciliation of all things, with special reference to the doctrine of eternal evil, a course of sermons (London, Longmans, 1871)"
+  ],
+  "minton-marriage-of-lamb": [
+   "a633610100mintuoft",
+   "The marriage of the Lamb : an Advent sacramental address delivered at Eaton Chapel on Sunday morning, Dec. 3rd, 1871 ([London] : [Elliott Stock], [187)"
+  ],
+  "minton-confessional": [
+   "a633621300mintuoft",
+   "The confessional, the altar, and the chancel : sermons preached in Eaton Chapel (London : Elliott Stock, 1874)"
+  ],
+  "minton-life-and-death": [
+   "lifedeathreplyto00whituoft",
+   "Life and death. A reply to the Rev. J. Baldwin Brown's lectures on conditional immortality (London, Stock, 1877)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "minton-saving-power": "title page: 'THE SAVING POWER OF THE GOSPEL, A SERMON, BY THE REV. SAMUEL MINTON' (OCR 'SAMUEL MINTOK')"
+ },
+ "_pending": {
+  "minton-lords-supper": "a633614500mintuoft: the scan has no title page naming the author (catalogued under Minton); needs a cited attribution"
+ },
+ "_translators": {},
+ "_checks": {
+  "minton-believers-completeness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel minton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "[between 1850 and 1859]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "minton-righteousness-redemption": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel minton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "[between 1852 and 1855]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "minton-saving-power": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "[1864 or 1865]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "minton-central-superstition": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel minton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "minton-glory-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel minton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "minton-marriage-of-lamb": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel minton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "[1871 or 1872]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "minton-confessional": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel minton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "minton-life-and-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "samuel minton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "_about": "Irving Babbitt (1865-1933), American New Humanist critic and moral philosopher. Gutenberg: Rousseau and Romanticism (1919); Democracy and Leadership (1924). Raw IA OCR: Literature and the American College (Boston: Houghton Mifflin, 1908), clean 0.93; The New Laokoon (Houghton Mifflin, 1910; this copy the seventh impression, 1926), clean 0.92; The Masters of Modern French Criticism (Houghton Mifflin, 1912), clean 0.88. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Irving Babbitt",
+ "_name_words": [
+  "irving",
+  "babbitt"
+ ],
+ "_surname": [
+  "babbitt"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "babbitt-rousseau-and-romanticism": [
+   50235,
+   "Rousseau and Romanticism (1919)"
+  ],
+  "babbitt-democracy-and-leadership": [
+   79644,
+   "Democracy and Leadership (1924)"
+  ]
+ },
+ "internet_archive": {
+  "babbitt-literature-and-the-american-college-1908": [
+   "literatureameric00babbuoft",
+   "Literature and the American College (Houghton Mifflin, 1908)"
+  ],
+  "babbitt-new-laokoon-1926": [
+   "thenewlaokoonane00babbuoft",
+   "The New Laokoon (Houghton Mifflin, 1910; impression of 1926)"
+  ],
+  "babbitt-masters-modern-french-criticism-1912": [
+   "mastersofmodernf00babb",
+   "The Masters of Modern French Criticism (Houghton Mifflin, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "babbitt-rousseau-and-romanticism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "babbitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "babbitt-democracy-and-leadership": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "babbitt",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "babbitt-literature-and-the-american-college-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "babbitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "babbitt-new-laokoon-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "babbitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "babbitt-masters-modern-french-criticism-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "babbitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,345 @@
+{
+ "_about": "Public-domain Alexander Maclaren (1826-1910, Baptist minister of Union Chapel, Manchester, for 45 years) for the Word Hoard: Expositions of Holy Scripture (17 CCEL parts covering Genesis to First Timothy), his Expositor's Bible volumes on the Psalms (3 vols) and on Colossians and Philemon, and The Life of David, all clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "m/maclaren",
+ "_name_words": [
+  "maclaren",
+  "alexander"
+ ],
+ "_surname": [
+  "alexander maclaren",
+  "a. maclaren",
+  "maclaren"
+ ],
+ "_held": {},
+ "ccel": {
+  "maclaren-gen-num": [
+   "gen_num",
+   "Expositions of Holy Scripture: Genesis to Numbers",
+   ""
+  ],
+  "maclaren-deut": [
+   "deut",
+   "Expositions of Holy Scripture: Deuteronomy to Second Kings ch. 7",
+   ""
+  ],
+  "maclaren-2kings-eccl": [
+   "2kings_eccl",
+   "Expositions of Holy Scripture: Second Kings ch. 8 to Ecclesiastes",
+   ""
+  ],
+  "maclaren-psalms": [
+   "psalms",
+   "Expositions of Holy Scripture: Psalms",
+   ""
+  ],
+  "maclaren-isa-jer": [
+   "isa_jer",
+   "Expositions of Holy Scripture: Isaiah and Jeremiah",
+   ""
+  ],
+  "maclaren-ezek-matt1": [
+   "ezek_matt1",
+   "Expositions of Holy Scripture: Ezekiel to Matthew ch. 8",
+   ""
+  ],
+  "maclaren-matt2": [
+   "matt2",
+   "Expositions of Holy Scripture: Matthew ch. 9-18",
+   ""
+  ],
+  "maclaren-mark": [
+   "mark",
+   "Expositions of Holy Scripture: Mark",
+   ""
+  ],
+  "maclaren-luke": [
+   "luke",
+   "Expositions of Holy Scripture: Luke",
+   ""
+  ],
+  "maclaren-john1": [
+   "john1",
+   "Expositions of Holy Scripture: John ch. 1-14",
+   ""
+  ],
+  "maclaren-john2": [
+   "john2",
+   "Expositions of Holy Scripture: John ch. 15-21",
+   ""
+  ],
+  "maclaren-acts": [
+   "acts",
+   "Expositions of Holy Scripture: The Acts",
+   ""
+  ],
+  "maclaren-rom-cor": [
+   "rom_cor",
+   "Expositions of Holy Scripture: Romans and Corinthians",
+   ""
+  ],
+  "maclaren-iicor-tim": [
+   "iicor_tim",
+   "Expositions of Holy Scripture: Second Corinthians to First Timothy",
+   ""
+  ],
+  "maclaren-expositorpsalms1": [
+   "expositorpsalms1",
+   "The Expositor's Bible: The Psalms, vol. 1",
+   ""
+  ],
+  "maclaren-expositorpsalms2": [
+   "expositorpsalms2",
+   "The Expositor's Bible: The Psalms, vol. 2",
+   ""
+  ],
+  "maclaren-expositorpsalms3": [
+   "expositorpsalms3",
+   "The Expositor's Bible: The Psalms, vol. 3",
+   ""
+  ],
+  "maclaren-expositorcolphm": [
+   "expositorcolphm",
+   "The Expositor's Bible: Colossians and Philemon",
+   ""
+  ],
+  "maclaren-david": [
+   "david",
+   "The Life of David as Reflected in his Psalms",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "maclaren-gen-num": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-deut": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-2kings-eccl": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-psalms": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-isa-jer": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-ezek-matt1": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-matt2": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-mark": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-luke": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-john1": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-john2": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-acts": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-rom-cor": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-iicor-tim": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-expositorpsalms1": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1892.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-expositorpsalms2": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Hodder and Stoughton",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-expositorpsalms3": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: A. C. Armstrong and Son, 1894.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-expositorcolphm": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_print_source": "London: Hodder and Stoughton, 1902.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "maclaren-david": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander maclaren",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Hodder and Stoughton, 1903",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

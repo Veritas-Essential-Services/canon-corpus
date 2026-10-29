@@ -1,0 +1,61 @@
+{
+ "_about": "Public-domain William Palmer of Magdalen (1811-1879), the Anglican deacon who sought communion with the Orthodox Church and later became a Catholic, for the Word Hoard: his Dissertations on subjects relating to the Orthodox or Eastern-Catholic Communion (1853) and Notes of a Visit to the Russian Church in 1840-41, selected and arranged by Cardinal Newman (1882), from Internet Archive scans. Not William Palmer of Worcester College, who has his own shelf. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "palmer"
+ ],
+ "_surname": [
+  "william palmer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wpalmerm-dissertations": [
+   "dissertationsons00palmuoft",
+   "Dissertations on subjects relating to the 'Orthodox' or 'Eastern-Catholic' Communion (London: Joseph Masters, 1853)"
+  ],
+  "wpalmerm-visit-russian-church": [
+   "notesofvisittoru00palmuoft",
+   "Notes of a Visit to the Russian Church in the years 1840, 1841, selected and arranged by Cardinal Newman (London: Kegan Paul, Trench, 1882)"
+  ]
+ },
+ "_alternates": {
+  "wpalmerm-copies": "Other copies of both books"
+ },
+ "_excluded": {
+  "wpalmerm-later": "The 1968 facsimile of The Patriarch and the Tsar"
+ },
+ "_rights_checked": {
+  "wpalmerm-visit-russian-church": "title page read: 'By the late William Palmer', his own text, selected and arranged by Newman after his death"
+ },
+ "_pending": {
+  "wpalmerm-anonymous": "A Harmony of Anglican Doctrine with the Doctrine of the Catholic and Apostolic Church of the East (Aberdeen, 1846), the Longer Russian Catechism he compiled and translated: its title page names no one",
+  "wpalmerm-unread": "An Appeal to the Scottish Bishops (1849) and the original Patriarch and the Tsar (1871-76): title pages not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "wpalmerm-dissertations": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wpalmerm-visit-russian-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'By the late William Palmer', his own text, selected and arranged by Newman after his death"
+  }
+ }
+}

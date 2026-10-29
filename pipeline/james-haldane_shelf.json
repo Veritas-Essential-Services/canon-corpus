@@ -1,0 +1,107 @@
+{
+ "_about": "Public-domain James Alexander Haldane (1768-1851, lay evangelist, then pastor of the Tabernacle, Leith Walk, Edinburgh; brother of Robert Haldane) for the Word Hoard: A View of the Social Worship of the First Christians (1805), Man's Responsibility (1842), An Exposition of Galatians (1848), Notes on Hebrews (1860) and The Doctrine of the Atonement (third edition, 1862), raw Internet Archive OCR. IA's catalogue dates the Galatians and Hebrews scans to 2002; their title pages show the 1848 and 1860 originals. Added 2026-10-03 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "haldane",
+  "james"
+ ],
+ "_surname": [
+  "james alex. haldane",
+  "james a. haldane",
+  "j. a. haldane",
+  "james alexander haldane",
+  "haldane, james",
+  "j. ax haldane"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jahaldane-social-worship-1805": [
+   "viewofsocialwors00halduoft",
+   "A View of the Social Worship and Ordinances Observed by the First Christians (Edinburgh: J. Ritchie, 1805)"
+  ],
+  "jahaldane-mans-responsibility-1842": [
+   "mansresponsibili00hald",
+   "Man's Responsibility; the Nature and Extent of the Atonement; and the Work of the Holy Spirit (Edinburgh: William Whyte, 1842)"
+  ],
+  "jahaldane-galatians-1848": [
+   "anexpositionepi00haldgoog",
+   "An Exposition of the Epistle to the Galatians (Edinburgh: William Whyte, 1848)"
+  ],
+  "jahaldane-hebrews-1860": [
+   "notesintendedfo00haldgoog",
+   "Notes Intended for an Exposition of the Epistle to the Hebrews (London: James Nisbet, 1860)"
+  ],
+  "jahaldane-atonement-1862": [
+   "doctrineofatonem0000hald",
+   "The Doctrine of the Atonement, with Strictures on Recent Publications, third edition (Edinburgh: William P. Kennedy, 1862)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {
+  "jahaldane-galatians-1848": "Title page read 2026-10-03: Edinburgh, William Whyte and Co., 1848. IA's catalogue says 2002 (Particular Baptist Press), which is wrong for this scan.",
+  "jahaldane-hebrews-1860": "Title page read 2026-10-03: London, James Nisbet and Co., 1860. IA's catalogue says 2002, wrong for this scan (the real 2002 reprint is bwb_P8-AXG-617, not used).",
+  "jahaldane-atonement-1862": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): third edition, Edinburgh, William P. Kennedy, MDCCCLXII; a period printing."
+ },
+ "_checks": {
+  "jahaldane-social-worship-1805": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james alex. haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jahaldane-mans-responsibility-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. ax haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jahaldane-galatians-1848": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. a. haldane",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 2002",
+   "ia_date": "2002",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03: Edinburgh, William Whyte and Co., 1848. IA's catalogue says 2002 (Particular Baptist Press), which is wrong for this scan."
+  },
+  "jahaldane-hebrews-1860": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james a. haldane",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 2002",
+   "ia_date": "2002",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03: London, James Nisbet and Co., 1860. IA's catalogue says 2002, wrong for this scan (the real 2002 reprint is bwb_P8-AXG-617, not used)."
+  },
+  "jahaldane-atonement-1862": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "j. a. haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-03 (the IA id is in the modern '0000' style): third edition, Edinburgh, William P. Kennedy, MDCCCLXII; a period printing."
+  }
+ }
+}

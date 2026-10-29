@@ -1,0 +1,198 @@
+{
+ "_about": "Public-domain Offspring Blackall (1655-1716), Bishop of Exeter, for the Word Hoard: his Practical Discourses upon our Saviour's Sermon on the Mount (London 1717-1718, eight volumes), Practical Discourses on the Lord's Prayer (1717) and his Works (1723, two folio volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 45 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "blackall"
+ ],
+ "_surname": [
+  "offspring blackall",
+  "ofspring blackall",
+  "blackall"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "blackall-sermon-mount-1": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_1",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 1 (London, catalogued 1717)"
+  ],
+  "blackall-sermon-mount-2": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_2",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 2 (London, catalogued 1717)"
+  ],
+  "blackall-sermon-mount-3": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_3",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 3 (London, catalogued 1717)"
+  ],
+  "blackall-sermon-mount-4": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_4",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 4 (London, catalogued 1717)"
+  ],
+  "blackall-sermon-mount-5": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_5",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 5 (London, catalogued 1717)"
+  ],
+  "blackall-sermon-mount-6": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1717_6",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 6 (London, catalogued 1717)"
+  ],
+  "blackall-sermon-mount-7": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1718_7",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 7 (London, catalogued 1718)"
+  ],
+  "blackall-sermon-mount-8": [
+   "bim_eighteenth-century_practical-discourses-upo_blackall-offspring_1718_8",
+   "Practical Discourses upon our Saviour's Sermon on the Mount, vol. 8 (London, catalogued 1718)"
+  ],
+  "blackall-lords-prayer": [
+   "practicaldiscour00blac",
+   "Practical discourses on the Lord's prayer (London : Printed by W.B. for Thomas Ward, 1717)"
+  ],
+  "blackall-works-1": [
+   "bim_eighteenth-century_the-works-of-the-right-r_blackall-offspring_1723_1",
+   "The Works of the Right Reverend Father in God, Ofspring Blackall, D.D., vol. 1 (London, catalogued 1723)"
+  ],
+  "blackall-works-2": [
+   "bim_eighteenth-century_the-works-of-the-right-r_blackall-offspring_1723_2",
+   "The Works of the Right Reverend Father in God, Ofspring Blackall, D.D., vol. 2 (London, catalogued 1723)"
+  ]
+ },
+ "_alternates": {
+  "blackall-copies": "Fourteen Sermons (1706), Five Sermons (1717), the 1727 Lord's Prayer: in the Works"
+ },
+ "_excluded": {
+  "blackall-other": "Theophilus Blackall's Works of Christ (1730, another man); the Welsh Pwyll y Pader (1733)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "blackall-sermon-mount-6": "title page text: 'Practical Discourses upon our Saviour's Sermon on the Mount. In eight volumes. By Ofspring [Blackall], D.D. late Lord Bishop of Exeter. London: printed ... for Thomas Ward, in the Inner-Temple Lane. 1717' (the OCR drops the surname)",
+  "blackall-sermon-mount-8": "title page text: 'Practical Discourses upon our Saviour's Sermon on the Mount. In eight volumes. By Ofspring Blackall, D.D. late Lord Bishop of Exeter ... London: printed by N. B. for Thomas Ward in the Inner-Temple Lane. 1718' (the OCR reads 'BEACKALL'; it opens at Discourse LXXVII)",
+  "blackall-lords-prayer": "title page text: 'Practical Discourses upon the Lord's Prayer. By Ofspring Blackall, D.D. late Lord Bishop of Exeter' (the OCR reads 'OFSTJ^ING BL^CK^LL')"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "blackall-sermon-mount-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-sermon-mount-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-sermon-mount-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-sermon-mount-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ofspring blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-sermon-mount-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ofspring blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-sermon-mount-6": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-sermon-mount-7": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1718",
+   "ia_date": "1718",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-sermon-mount-8": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1718",
+   "ia_date": "1718",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-lords-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "blackall-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ofspring blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1723",
+   "ia_date": "1723",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "blackall-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "blackall",
+   "identity": "ok",
+   "ia_rights": "ok: published 1723",
+   "ia_date": "1723",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

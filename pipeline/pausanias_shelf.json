@@ -1,0 +1,153 @@
+{
+ "_about": "Pausanias, Description of Greece, translator per title. A. R. Shilleto (Bohn, 1886), 2 vols., clean Gutenberg. The 1824 second edition of the Taylor translation, vols. 1-3 (vol. 3 added 2026-10-02), raw IA OCR: the title page reads only 'translated from the Greek'; the attribution to Thomas Taylor is the library catalogue's. Margaret Verrall's translation of the Attica in Mythology and Monuments of Ancient Athens (1890, with Jane Harrison's commentary), raw IA OCR. Added 2026-10-03 (later): J. G. Frazer's translation, vol. I of his six-volume Pausanias (Macmillan, 1898; the other five volumes are commentary, indices and maps, not wanted here), raw IA OCR of a Digital Library of India scan from the Asiatic Society of Bombay copy (text file 91327_djvu.txt), clean 0.92. Frazer died 1941.",
+ "_name_words": [
+  "pausanias",
+  "greece",
+  "attica"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pausanias-shilleto-v1": [
+   68946,
+   "Pausanias' Description of Greece, vol. 1",
+   "tr. A. R. Shilleto"
+  ],
+  "pausanias-shilleto-v2": [
+   68680,
+   "Pausanias' Description of Greece, vol. 2",
+   "tr. A. R. Shilleto"
+  ]
+ },
+ "internet_archive": {
+  "pausanias-taylor-v1": [
+   "descriptiongree07pausgoog",
+   "The Description of Greece by Pausanias, vol. 1 (2nd ed., 1824)",
+   "tr. Thomas Taylor (attributed by catalogue)"
+  ],
+  "pausanias-taylor-v2": [
+   "descriptiongree06pausgoog",
+   "The Description of Greece by Pausanias, vol. 2 (2nd ed., 1824)",
+   "tr. Thomas Taylor (attributed by catalogue)"
+  ],
+  "pausanias-attica-verrall": [
+   "mythologymonume00pausgoog",
+   "Mythology and Monuments of Ancient Athens: being a translation of a portion of the Attica of Pausanias (1890)",
+   "tr. Margaret de G. Verrall; commentary Jane E. Harrison"
+  ],
+  "pausanias-taylor-v3": [
+   "descriptiongree00pausgoog",
+   "The Description of Greece by Pausanias, vol. 3 (2nd ed., 1824)",
+   "tr. Thomas Taylor (attributed by catalogue)"
+  ],
+  "pausanias-frazer-1898-v1": [
+   "india.history.resource.91327",
+   "Pausanias's Description of Greece, translated with a commentary, in six volumes, vol. I: Translation (London: Macmillan, 1898)",
+   "91327_djvu.txt",
+   "tr. J. G. Frazer"
+  ]
+ },
+ "_excluded": {
+  "Jones, Loeb (1918-)": "Greek facing; pending"
+ },
+ "_surname": [
+  "pausanias"
+ ],
+ "_translators": {
+  "pausanias-shilleto-v1": "A. R. Shilleto",
+  "pausanias-shilleto-v2": "A. R. Shilleto",
+  "pausanias-attica-verrall": "Margaret de G. Verrall",
+  "pausanias-taylor-v3": "Thomas Taylor",
+  "pausanias-frazer-1898-v1": "j. g. frazer"
+ },
+ "_translator_unchecked": {
+  "pausanias-taylor-v1": "translator on the row (Thomas Taylor (attributed by catalogue)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "pausanias-taylor-v2": "translator on the row (Thomas Taylor (attributed by catalogue)) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says"
+ },
+ "_checks": {
+  "pausanias-shilleto-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "A. R. Shilleto",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Shilleto",
+   "translator_match": true
+  },
+  "pausanias-shilleto-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "A. R. Shilleto",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. R. Shilleto",
+   "translator_match": true
+  },
+  "pausanias-taylor-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-taylor-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-attica-verrall": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "Margaret de G. Verrall",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-taylor-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "Thomas Taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pausanias-frazer-1898-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "pausanias",
+   "translator_claimed": "j. g. frazer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

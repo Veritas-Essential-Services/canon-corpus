@@ -1,0 +1,516 @@
+{
+ "_about": "George Barr McCutcheon's Graustark romances and other novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "George Barr McCutcheon",
+ "_name_words": [
+  "mccutcheon"
+ ],
+ "_surname": [
+  "george barr mccutcheon"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gbmccutcheon-brewsters-millions": [
+   4709,
+   "Brewster's Millions",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-graustark": [
+   5142,
+   "Graustark"
+  ],
+  "gbmccutcheon-castle-craneycrow": [
+   5349,
+   "Castle Craneycrow"
+  ],
+  "gbmccutcheon-day-of-the-dog": [
+   5759,
+   "The Day of the Dog"
+  ],
+  "gbmccutcheon-flyers": [
+   5848,
+   "The Flyers",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-yollop": [
+   5866,
+   "Yollop"
+  ],
+  "gbmccutcheon-green-fancy": [
+   5871,
+   "Green Fancy"
+  ],
+  "gbmccutcheon-her-weight-in-gold": [
+   5896,
+   "Her Weight in Gold"
+  ],
+  "gbmccutcheon-mr-bingle": [
+   5963,
+   "Mr. Bingle"
+  ],
+  "gbmccutcheon-jane-cable": [
+   5971,
+   "Jane Cable",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-viola-gwyn": [
+   6013,
+   "Viola Gwyn"
+  ],
+  "gbmccutcheon-west-wind-drift": [
+   6014,
+   "West Wind Drift"
+  ],
+  "gbmccutcheon-quills-window": [
+   6044,
+   "Quill's Window",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-hollow-of-her-hand": [
+   6045,
+   "The Hollow of Her Hand"
+  ],
+  "gbmccutcheon-rose-in-the-ring": [
+   6118,
+   "The Rose in the Ring"
+  ],
+  "gbmccutcheon-a-fool-and-his-money": [
+   6325,
+   "A Fool and His Money",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-prince-of-graustark": [
+   6353,
+   "The Prince of Graustark",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-purple-parasol": [
+   6575,
+   "The Purple Parasol"
+  ],
+  "gbmccutcheon-beverly-of-graustark": [
+   6801,
+   "Beverly of Graustark"
+  ],
+  "gbmccutcheon-man-from-brodneys": [
+   11572,
+   "The Man from Brodney's"
+  ],
+  "gbmccutcheon-nedra": [
+   13967,
+   "Nedra"
+  ],
+  "gbmccutcheon-truxton-king": [
+   14284,
+   "Truxton King: A Story of Graustark",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-daughter-of-anderson-crow": [
+   14818,
+   "The Daughter of Anderson Crow",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-husbands-of-edith": [
+   16719,
+   "The Husbands of Edith",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-from-the-housetops": [
+   18612,
+   "From the Housetops"
+  ],
+  "gbmccutcheon-anderson-crow-detective": [
+   28229,
+   "Anderson Crow, Detective",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-whats-his-name": [
+   28512,
+   "What's-His-Name",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-sherrods": [
+   35335,
+   "The Sherrods",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-city-of-masks": [
+   40146,
+   "The City of Masks"
+  ],
+  "gbmccutcheon-alternative": [
+   43071,
+   "The Alternative",
+   {
+    "contents_only": true
+   }
+  ],
+  "gbmccutcheon-black-is-white": [
+   54097,
+   "Black is White"
+  ],
+  "gbmccutcheon-light-that-lies": [
+   54098,
+   "The Light that Lies"
+  ],
+  "gbmccutcheon-shot-with-crimson": [
+   54099,
+   "Shot With Crimson"
+  ],
+  "gbmccutcheon-cowardice-court": [
+   54101,
+   "Cowardice Court"
+  ],
+  "gbmccutcheon-oliver-october": [
+   69545,
+   "Oliver October",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59542": "PG 59542: Gutenberg's index of McCutcheon's works, not a book."
+ },
+ "_checks": {
+  "gbmccutcheon-brewsters-millions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-graustark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-castle-craneycrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-day-of-the-dog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-flyers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-yollop": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-green-fancy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-her-weight-in-gold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-mr-bingle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-jane-cable": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-viola-gwyn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-west-wind-drift": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-quills-window": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-hollow-of-her-hand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-rose-in-the-ring": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-a-fool-and-his-money": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-prince-of-graustark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-purple-parasol": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-beverly-of-graustark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-man-from-brodneys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-nedra": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-truxton-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-daughter-of-anderson-crow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-husbands-of-edith": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-from-the-housetops": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-anderson-crow-detective": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-whats-his-name": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-sherrods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-city-of-masks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-alternative": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-black-is-white": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-light-that-lies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-shot-with-crimson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-cowardice-court": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gbmccutcheon-oliver-october": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "george barr mccutcheon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,321 @@
+{
+ "_about": "Public-domain A. P. Stanley (Arthur Penrhyn Stanley, 1815-1881, Broad Church, Dean of Westminster) for the Word Hoard: 18 books from Internet Archive scans, 1847-1882, among them Sermons and Essays on the Apostolical Age (1847), his Corinthians (1855), Lectures on the History of the Eastern Church (1861), the three series of Lectures on the History of the Jewish Church (1863-1876) and Christian Institutions (1881). Raw OCR. His Life of Arnold and his travel and abbey histories are left as alternates. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "stanley",
+  "penrhyn"
+ ],
+ "_surname": [
+  "arthur penrhyn stanley",
+  "a. p. stanley",
+  "stanley, arthur penrhyn",
+  "stanley, a. p.",
+  "arthur p. stanley",
+  "arthur penrhyn stanley, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stanley-apostolical-age": [
+   "sermonsessaysona00stanrich",
+   "Sermons and Essays on the Apostolical Age, first edition (Oxford: J. H. Parker, MDCCCXLVII)"
+  ],
+  "stanley-corinthians-1": [
+   "india.history.resource.53506",
+   "The Epistles of St Paul to the Corinthians, with Critical Notes and Dissertations, vol. 1 (London: John Murray, 1855)",
+   "53506_djvu.txt"
+  ],
+  "stanley-corinthians-2": [
+   "epistlesofstpaul02stanuoft",
+   "The Epistles of St Paul to the Corinthians, vol. 2 (London: John Murray, 1855)"
+  ],
+  "stanley-unity-teaching": [
+   "unityevangelica01stangoog",
+   "Unity of Evangelical and Apostolical Teaching: Sermons (London: John Murray, 1859)"
+  ],
+  "stanley-eastern-church": [
+   "india.history.resource.107137",
+   "Lectures on the History of the Eastern Church, first edition (London: John Murray, 1861)",
+   "107137_djvu.txt"
+  ],
+  "stanley-jewish-church-1": [
+   "lecturesonhistor0001arth",
+   "Lectures on the History of the Jewish Church, part 1: Abraham to Samuel, second edition (London: John Murray, 1863)"
+  ],
+  "stanley-jewish-church-2": [
+   "lecturesonhisto06stangoog",
+   "Lectures on the History of the Jewish Church, part 2: Samuel to the Captivity (London: John Murray, 1865)"
+  ],
+  "stanley-jewish-church-3": [
+   "lecturesonhisto05stangoog",
+   "Lectures on the History of the Jewish Church, third series: the Captivity to the Christian Era (London: John Murray, 1876)"
+  ],
+  "stanley-bible-form-substance": [
+   "bibleitsformitss00stan",
+   "The Bible: its Form and its Substance, three sermons (Oxford and London: J. H. and J. Parker, 1863)"
+  ],
+  "stanley-sermons-in-east": [
+   "sermonspreache00stan",
+   "Sermons Preached before the Prince of Wales during his Tour in the East, 1862 (New York: Charles Scribner, 1863)"
+  ],
+  "stanley-church-and-state": [
+   "a609031900stanuoft",
+   "Essays chiefly on Questions of Church and State from 1850 to 1870 (London: John Murray, 1870)"
+  ],
+  "stanley-athanasian-creed": [
+   "a626833400stanuoft",
+   "The Athanasian Creed (London: Macmillan, 1871)"
+  ],
+  "stanley-church-of-scotland": [
+   "a609033700stanuoft",
+   "Lectures on the History of the Church of Scotland (New York: Scribner, Armstrong, 1872)"
+  ],
+  "stanley-national-thanksgiving": [
+   "nationalthanksg00stangoog",
+   "The National Thanksgiving: Sermons Preached in Westminster Abbey (London: Macmillan, 1872)"
+  ],
+  "stanley-st-andrews": [
+   "addressesandser02stangoog",
+   "Addresses and Sermons delivered at St Andrews in 1872, 1875 and 1877 (London: Macmillan, 1877)"
+  ],
+  "stanley-america-addresses": [
+   "addressesandserm00stanuoft",
+   "Addresses and Sermons delivered during a Visit to the United States and Canada in 1878 (New York: Macmillan, 1879)"
+  ],
+  "stanley-christian-institutions": [
+   "india.history.resource.94123",
+   "Christian Institutions: Essays on Ecclesiastical Subjects (London: John Murray, 1881)",
+   "94123_djvu.txt"
+  ],
+  "stanley-special-occasions": [
+   "sermonsonspecia00stangoog",
+   "Sermons on Special Occasions Preached in Westminster Abbey, posthumous (London: John Murray, 1882)"
+  ]
+ },
+ "_alternates": {
+  "stanley-biography": "The Life and Correspondence of Thomas Arnold (1844, 2 vols.) and the memoir of his father in Edward Stanley's Addresses and Charges (1852)",
+  "stanley-travel-history": "Sinai and Palestine (1856), Historical Memorials of Canterbury (1855) and of Westminster Abbey (1868, 1869)",
+  "stanley-editions": "Other editions and American issues of the Eastern Church, Jewish Church, Christian Institutions and Essays; Sermons for Children (1887)",
+  "stanley-cybi": "A Record of St. Cybi's Church, Holyhead, with his 1879 sermon (Gutenberg 52261): published by others"
+ },
+ "_excluded": {
+  "stanley-other-hands": "Scripture Portraits (1867) and a 1894 selection compiled by others; Prothero's Letters and Verses and Life; Elgin's Letters (his preface only)",
+  "stanley-namesakes": "Edward Stanley (his father), Arthur Stanley the anthologist, H. M. Stanley",
+  "stanley-reprints": "Everyman and modern reprints"
+ },
+ "_identity_checked": {
+  "stanley-corinthians-1": {
+   "author": "Title page read: 'by Arthur [Penrhyn Stanley, garbled in the OCR], late Fellow ...', with 'author of Life of Dr. Arnold and Bishop Stanley' and 'in two volumes, vol. I'"
+  },
+  "stanley-unity-teaching": {
+   "author": "Title page read: 'by Arthur Penrhyn Stanley, D.D., Regius Professor', OCR 'AETHUE PENEHTN STANLEY'"
+  },
+  "stanley-jewish-church-2": {
+   "author": "Title page read: 'by Arthur Penrhyn Stanley, D.D., Dean of Westminster', OCR 'ARTHUR PENEHYN STANLEY'; John Murray, 1865"
+  },
+  "stanley-special-occasions": {
+   "author": "Title page read: 'by Arthur Penrhyn Stanley, D.D., late Dean of Westminster', OCR '^TANLEY'"
+  }
+ },
+ "_pending": {},
+ "_checks": {
+  "stanley-apostolical-age": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-corinthians-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanley-corinthians-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-unity-teaching": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-eastern-church": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanley-jewish-church-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanley-jewish-church-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-jewish-church-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-bible-form-substance": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-sermons-in-east": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanley-church-and-state": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur p. stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-athanasian-creed": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-church-of-scotland": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-national-thanksgiving": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-st-andrews": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-america-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stanley-christian-institutions": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arthur penrhyn stanley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stanley-special-occasions": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

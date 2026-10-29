@@ -1,0 +1,149 @@
+{
+ "_about": "Ada Cambridge's writing at Gutenberg: australian novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Ada Cambridge",
+ "_name_words": [
+  "ada",
+  "cambridge"
+ ],
+ "_surname": [
+  "ada cambridge"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "acambridge-sisters": [
+   4218,
+   "Sisters"
+  ],
+  "acambridge-thirty-years-in-australia": [
+   37825,
+   "Thirty Years in Australia"
+  ],
+  "acambridge-humble-enterprise": [
+   37866,
+   "A Humble Enterprise"
+  ],
+  "acambridge-mere-chance": [
+   38083,
+   "A Mere Chance: A Novel. Vol. 1"
+  ],
+  "acambridge-mere-chance-38084": [
+   38084,
+   "A Mere Chance: A Novel. Vol. 2"
+  ],
+  "acambridge-mere-chance-38085": [
+   38085,
+   "A Mere Chance: A Novel. Vol. 3"
+  ],
+  "acambridge-materfamilias": [
+   40659,
+   "Materfamilias"
+  ],
+  "acambridge-retrospect": [
+   42270,
+   "The Retrospect"
+  ],
+  "acambridge-three-miss-kings": [
+   50476,
+   "The Three Miss Kings: An Australian Story"
+  ],
+  "acambridge-in-two-years-time-vol-1-of-2": [
+   73287,
+   "In two years' time, Vol. 1 (of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "acambridge-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-thirty-years-in-australia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-humble-enterprise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-mere-chance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-mere-chance-38084": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-mere-chance-38085": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-materfamilias": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-retrospect": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-three-miss-kings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "acambridge-in-two-years-time-vol-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ada cambridge",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

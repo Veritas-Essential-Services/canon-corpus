@@ -1,0 +1,39 @@
+{
+ "_about": "Public-domain Thomas Scott (1747-1821, the commentator, rector of Aston Sandford) for the Word Hoard: Essays on the Most Important Subjects in Religion, with The Force of Truth, his own account of his conversion (Edinburgh: J. Anderson, 1825), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. His Family Bible commentary is not shelved. No uids minted.",
+ "_ccel_author": "s/scott",
+ "_name_words": [
+  "scott",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas scott",
+  "rev. t. scott",
+  "t. scott"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tscott-essays-force-of-truth-1825": [
+   "essaysonmostrel00scot",
+   "Essays on the Most Important Subjects in Religion; The Force of Truth (Edinburgh: J. Anderson, 1825)"
+  ]
+ },
+ "_alternates": {
+  "tscott-essays": "Edinburgh: Nelson, 1840 (essaysonmostimpo0000scot); The Force of Truth alone (New York 1825, Philadelphia 1841)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "tscott-essays-force-of-truth-1825": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas scott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

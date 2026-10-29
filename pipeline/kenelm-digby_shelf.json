@@ -1,0 +1,33 @@
+{
+ "_about": "Sir Kenelm Digby (1603-1665), courtier, natural philosopher and Catholic apologist. Raw IA OCR: Two Treatises, in the one of which the nature of bodies, in the other the nature of man's soul, is looked into, in way of discovery of the immortality of reasonable souls (London: John Williams, MDCXLV), clean 0.90. Not taken: a second scan of the 1645 printing. His Closet Opened (a cookery book, PG 16441) is outside this shelf's scope. US public domain. No uids minted.",
+ "_author": "Kenelm Digby",
+ "_name_words": [
+  "kenelm",
+  "digby"
+ ],
+ "_surname": [
+  "digby"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "digby-two-treatises-1645": [
+   "twotreatisesinon00digbuoft",
+   "Two Treatises (London: John Williams, 1645)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "digby-two-treatises-1645": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "digby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1645",
+   "ia_date": "1645",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,587 @@
+{
+ "_about": "Public-domain Henry Edward Manning (1808-1892, Archdeacon of Chichester, then Cardinal Archbishop of Westminster) for the Word Hoard: his four volumes of Anglican Sermons (1843-1850) from CCEL, and 30 more from Internet Archive scans, 1838-1892, among them The Unity of the Church (1842), The Grounds of Faith (1852), The Temporal Mission of the Holy Ghost (1865), The Internal Mission of the Holy Ghost (1875) and The Eternal Priesthood. From 1865 his title pages sign 'Henry Edward, Archbishop of Westminster' with no surname. Raw OCR. Added 2026-10-17 by lane A, round 23 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "manning_henry",
+ "_name_words": [
+  "manning"
+ ],
+ "_surname": [
+  "henry edward manning",
+  "h. e. manning",
+  "manning, henry edward",
+  "cardinal manning",
+  "henry edward, archbishop of westminster",
+  "henry edward, cardinal archbishop",
+  "henry edward, cardinal archbishop of westminster",
+  "henry edward cardinal manning"
+ ],
+ "_held": {},
+ "ccel": {
+  "manning-sermons-1": [
+   "sermons01",
+   "Sermons, vol. I, second edition (London: James Burns, 1843)",
+   ""
+  ],
+  "manning-sermons-2": [
+   "sermons02",
+   "Sermons, vol. II, fourth edition (London: William Pickering, 1848)",
+   ""
+  ],
+  "manning-sermons-3": [
+   "sermons03",
+   "Sermons, vol. III (London: James Burns, 1847)",
+   ""
+  ],
+  "manning-sermons-4": [
+   "sermons04",
+   "Sermons, vol. IV (London: William Pickering, 1850)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "manning-rule-of-faith": [
+   "a591821800mannuoft",
+   "The Rule of Faith, a sermon preached in Chichester Cathedral, 13 June 1838 (London: Rivington; Oxford: Parker, 1838)"
+  ],
+  "manning-unity-of-church": [
+   "a592045100mannuoft",
+   "The Unity of the Church (London: John Murray, 1842)"
+  ],
+  "manning-oxford-sermons": [
+   "a591993900mannuoft",
+   "Sermons Preached before the University of Oxford (Oxford: John Henry Parker, MDCCCXLIV)"
+  ],
+  "manning-grounds-of-faith": [
+   "a591675000mannuoft",
+   "The Grounds of Faith: Four Lectures delivered in St. George's Church, Southwark (London: Burns and Lambert, 1852)"
+  ],
+  "manning-temporal-power": [
+   "temporalpowerofv00mann_0",
+   "The Temporal Power of the Vicar of Jesus Christ, second edition with a preface (London: Burns & Lambert, 1862)"
+  ],
+  "manning-love-of-jesus": [
+   "TheLoveOfJesusToPenitents",
+   "The Love of Jesus to Penitents (Dublin and London: James Duffy, 1863)"
+  ],
+  "manning-workings-holy-spirit": [
+   "a636230400mannuoft",
+   "The Workings of the Holy Spirit in the Church of England: a Letter to the Rev. E. B. Pusey (London: Longmans, Green, 1864)"
+  ],
+  "manning-blessed-sacrament-sermon": [
+   "a591624300mannuoft",
+   "The Blessed Sacrament the Centre of Immutable Truth, a sermon (London: Longmans, Green; catalogued 1864)"
+  ],
+  "manning-temporal-mission": [
+   "a592004400mannuoft",
+   "The Temporal Mission of the Holy Ghost: or, Reason and Revelation (London: Longmans, Green, 1865)"
+  ],
+  "manning-england-christendom": [
+   "englandchristend00mannuoft",
+   "England and Christendom (London: Longmans, Green, 1867)"
+  ],
+  "manning-oecumenical-council": [
+   "theoecumenicalco00mannuoft",
+   "The Oecumenical Council and the Infallibility of the Roman Pontiff, a pastoral letter, second edition (London: Longmans, Green, 1869)"
+  ],
+  "manning-ecclesiastical-sermons-1": [
+   "a591990801mannuoft",
+   "Sermons on Ecclesiastical Subjects, vol. I (London: Burns, Oates, 1870)"
+  ],
+  "manning-ecclesiastical-sermons-2": [
+   "a591990802mannuoft",
+   "Sermons on Ecclesiastical Subjects, vol. II (London: Burns, Oates, 1872)"
+  ],
+  "manning-ecclesiastical-sermons-3": [
+   "a591990803mannuoft",
+   "Sermons on Ecclesiastical Subjects, vol. III (London: Burns, Oates, 1873)"
+  ],
+  "manning-vatican-council": [
+   "cu31924029359332",
+   "The Vatican Council and its Definitions, a pastoral letter (London: Longmans, Green, 1870)"
+  ],
+  "manning-petri-privilegium": [
+   "a591808200mannuoft",
+   "Petri Privilegium: three pastoral letters (London: Longmans, Green, 1871)"
+  ],
+  "manning-four-great-evils": [
+   "fourgreatevils00mannuoft",
+   "The Four Great Evils of the Day (London: Burns, Oates, 1871)"
+  ],
+  "manning-fourfold-sovereignty": [
+   "fourfoldsovreig00manngoog",
+   "The Fourfold Sovereignty of God (London: Burns, Oates, 1871)"
+  ],
+  "manning-sin-and-consequences": [
+   "sinanditsconseq00manngoog",
+   "Sin and its Consequences, second edition (London: Burns and Oates, 1874)"
+  ],
+  "manning-vatican-decrees": [
+   "a592095700mannuoft",
+   "The Vatican Decrees in their Bearing on Civil Allegiance (New York: The Catholic Publication Society, 1875)"
+  ],
+  "manning-internal-mission": [
+   "a591682100mannuoft",
+   "The Internal Mission of the Holy Ghost, second edition (London: Burns and Oates, 1875)"
+  ],
+  "manning-glories-sacred-heart": [
+   "a591669400mannuoft",
+   "The Glories of the Sacred Heart (London: Burns and Oates, 1876)"
+  ],
+  "manning-miscellanies-1": [
+   "a591790901mannuoft",
+   "Miscellanies, vol. I (London: Burns and Oates, 1877)"
+  ],
+  "manning-miscellanies-2": [
+   "a591790902mannuoft",
+   "Miscellanies, vol. II (London: Burns and Oates, 1877)"
+  ],
+  "manning-miscellanies-3": [
+   "a591790903mannuoft",
+   "Miscellanies, vol. III (London: Burns and Oates, 1888)"
+  ],
+  "manning-true-story-vatican": [
+   "truestoryvatica00manngoog",
+   "The True Story of the Vatican Council (London: Henry S. King, 1877)"
+  ],
+  "manning-independence-holy-see": [
+   "a591677800mannuoft",
+   "The Independence of the Holy See (London: Henry S. King, 1877)"
+  ],
+  "manning-eternal-priesthood": [
+   "cu31924029413220",
+   "The Eternal Priesthood, fourth edition (London, 1884)"
+  ],
+  "manning-religio-viatoris": [
+   "a591815600mannuoft",
+   "Religio Viatoris, third edition (London: Burns and Oates, 1888)"
+  ],
+  "manning-pastime-papers": [
+   "a591794700mannuoft",
+   "Pastime Papers (London: Burns & Oates; New York: Benziger; catalogued 1892)"
+  ]
+ },
+ "_alternates": {
+  "manning-sermon-scans": "Scans of the Sermons: sermons0000henr_m1p2 (vol. I, 1842), a591826302mannuoft (vol. II, 1846), a591826303mannuoft (vol. III, 1847), a591826304mannuoft (vol. IV, 1850), and American reprints",
+  "manning-copies": "Second copies: ruleoffaithsermo00mann, cu31924091302251, a591633200mannuoft, sermonsonecclesi00mannuoft (Dublin one-volume form, 1869), petriprivilegium00mannuoft, fourgreatevilsd01manngoog, a591666200mannuoft, a591995600mannuoft, internalmissiono00mann, truestoryofvatic00mannuoft, a591664000mannuoft and theeternalpriest00mannuoft, cu31924029405457 (Religio Viatoris 1887, name garbled), pastimepapers00mannuoft",
+  "manning-pamphlets": "single sermons and archidiaconal charges of the 1840s, left out as minor"
+ },
+ "_excluded": {
+  "manning-ccel-grounds": "CCEL manning_henry/grounds: states a 1843 print source, but its title page is the ninth edition as Cardinal Archbishop (1875 or later); the 1852 scan is shelved",
+  "manning-edited": "Essays on Religion and Literature by various writers (1865, 1867); Characteristics compiled by W. S. Lilly; extract books compiled by others; translations he introduced",
+  "manning-ccel-namesake": "CCEL /ccel/manning is Bernard L. Manning",
+  "manning-others": "Purcell's Life and other biographies",
+  "manning-late": "reprints of 1900-1924 and foreign-language translations"
+ },
+ "_identity_checked": {
+  "manning-grounds-of-faith": {
+   "author": "Title page read: 'by Henry Edward Manning', OCR 'HENRY EDWAKD MANNING'; Burns and Lambert, 1852"
+  },
+  "manning-love-of-jesus": {
+   "author": "Title page read: 'by Henry Edward Manning, D.D.', OCR 'HENEY EDWARD'; Duffy, 1863"
+  },
+  "manning-blessed-sacrament-sermon": {
+   "author": "Title page read: 'by Henry Edward Manning, D.D.', OCR 'HENEY EDWARD'"
+  },
+  "manning-fourfold-sovereignty": {
+   "author": "Title page read: 'by Henry Edward, Archbishop of Westminster', OCR breaks the line after Edward; Burns, Oates, 1871"
+  },
+  "manning-sin-and-consequences": {
+   "author": "Title page read: 'Henry Edward, Archbishop of Westminster', OCR 'ABCHBISHOP'; second edition, Burns and Oates"
+  },
+  "manning-glories-sacred-heart": {
+   "author": "Title page read: 'Henry Edward, Cardinal Archbishop', with OCR noise between the two lines; Burns and Oates, 1876"
+  },
+  "manning-eternal-priesthood": {
+   "author": "Title page read: 'by Henry Edward, Cardinal Archbishop of Westminster', OCR inserts noise after Edward; 1884"
+  }
+ },
+ "_rights_checked": {
+  "manning-blessed-sacrament-sermon": "title page read: Longman, Green, Longman, Roberts & Green; year OCR'd '1861', catalogued 1864; author died 1892",
+  "manning-pastime-papers": "title page read: Burns & Oates Ltd and Benziger, no year; catalogued 1892, the year of his death"
+ },
+ "_pending": {
+  "manning-holy-baptism": "Holy Baptism (London: James Burns; holybaptismpray00manngoog): no name or year read"
+ },
+ "_checks": {
+  "manning-sermons-1": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: James Burns (1843)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "manning-sermons-2": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: William Pickering (1848)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "manning-sermons-3": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: James Burns (1847)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "manning-sermons-4": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: William Pickering. (1850)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "manning-rule-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-unity-of-church": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-oxford-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-grounds-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-temporal-power": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "manning-love-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "manning-workings-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-blessed-sacrament-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Longman, Green, Longman, Roberts & Green; year OCR'd '1861', catalogued 1864; author died 1892"
+  },
+  "manning-temporal-mission": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. e. manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-england-christendom": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-oecumenical-council": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward, archbishop of westminster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-ecclesiastical-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1870-1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-ecclesiastical-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. e. manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1870-1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-ecclesiastical-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward, archbishop of westminster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1870-1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-vatican-council": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "h. e. manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "manning-petri-privilegium": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward, archbishop of westminster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-four-great-evils": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "manning, henry edward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-fourfold-sovereignty": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-sin-and-consequences": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-vatican-decrees": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward, archbishop of westminster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-internal-mission": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward, cardinal archbishop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-glories-sacred-heart": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-miscellanies-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1877-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-miscellanies-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry edward, cardinal archbishop",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1877-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-miscellanies-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cardinal manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1877-1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-true-story-vatican": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cardinal manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-independence-holy-see": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cardinal manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-eternal-priesthood": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "manning-religio-viatoris": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cardinal manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "manning-pastime-papers": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cardinal manning",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "[1892?]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Burns & Oates Ltd and Benziger, no year; catalogued 1892, the year of his death"
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "_about": "Eduard von Hartmann (1842-1906), raw IA OCR: Philosophy of the Unconscious: speculative results according to the inductive method of physical science, authorised translation by William Chatterton Coupland (London: Trübner, 1884, 3 vols.). US public domain. No uids minted.",
+ "_author": "Eduard von Hartmann",
+ "_name_words": [
+  "eduard",
+  "von",
+  "hartmann"
+ ],
+ "_surname": [
+  "hartmann"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hartmann-coupland-unconscious-1884-v1": [
+   "philosophyofunco01hartiala",
+   "Philosophy of the Unconscious, vol. I (London: Trübner, 1884)",
+   "tr. William Chatterton Coupland"
+  ],
+  "hartmann-coupland-unconscious-1884-v2": [
+   "philosophyofunco02hartiala",
+   "Philosophy of the Unconscious, vol. II (London: Trübner, 1884)",
+   "tr. William Chatterton Coupland"
+  ],
+  "hartmann-coupland-unconscious-1884-v3": [
+   "philosophyofunc03hartiala",
+   "Philosophy of the Unconscious, vol. III (London: Trübner, 1884)",
+   "tr. William Chatterton Coupland"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hartmann-coupland-unconscious-1884-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hartmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartmann-coupland-unconscious-1884-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hartmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hartmann-coupland-unconscious-1884-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hartmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "_about": "Aretaeus the Cappadocian, The Extant Works, edited and translated by Francis Adams (Sydenham Society, 1856), raw IA OCR. The volume prints the Greek text and the English translation; the OCR of the Greek is unreliable (clean-word 0.83 overall). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "aretaeus",
+  "aretæus",
+  "cappadocian"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "aretaeus-adams": [
+   "extantworksaret00adamgoog",
+   "The Extant Works of Aretaeus, the Cappadocian (1856)",
+   "ed. and tr. Francis Adams"
+  ]
+ },
+ "_rights_checked": {},
+ "_surname": [
+  "aretaeus",
+  "aretæus",
+  "areteus",
+  "aretzus"
+ ],
+ "_translators": {
+  "aretaeus-adams": "francis adams"
+ },
+ "_checks": {
+  "aretaeus-adams": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "areteus",
+   "translator_claimed": "francis adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_held": {
+  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-acute-dise": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg001.perseus-eng2 (On the Causes and Symptoms of Acute Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "aretaeus-perseus-adams-on-the-causes-and-symptoms-of-chronic-di": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg002.perseus-eng2 (On the Causes and Symptoms of Chronic Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "aretaeus-perseus-adams-on-the-therapeutics-of-acute-diseases": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg003.perseus-eng2 (On the Therapeutics of Acute Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)",
+  "aretaeus-perseus-adams-on-the-cure-of-chronic-diseases": "same translation as aretaeus-adams (IA extantworksaret00adamgoog): Adams's 1856 Extant Works on this shelf; Perseus TEI urn:cts:greekLit:tlg0719.tlg004.perseus-eng2 (On the Cure of Chronic Diseases, tr. Francis Adams) is not taken as a second witness (moved here on review, 2026-10-02)"
+ }
+}

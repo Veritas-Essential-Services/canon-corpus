@@ -1,0 +1,158 @@
+{
+ "_about": "Public-domain Daniel Waterland (1683-1740, Master of Magdalene College, Cambridge, defender of the Trinity against Samuel Clarke) for the Word Hoard: The Works of the Rev. Daniel Waterland, now first collected and arranged, with a review of his life and writings by William Van Mildert (Oxford: Clarendon Press, 1823), vols 1-9, raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "waterland",
+  "daniel"
+ ],
+ "_surname": [
+  "daniel waterland",
+  "dr. waterland",
+  "waterland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "waterland-works-01": [
+   "worksofrevdaniel0001wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 1 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-02": [
+   "worksofrevdaniel0002wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 2 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-03": [
+   "worksofrevdaniel0003wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 3 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-04": [
+   "worksofrevdaniel0004wate_u8b3",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 4 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-05": [
+   "worksofrevdaniel0005wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 5 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-06": [
+   "worksofrevdaniel0006wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 6 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-07": [
+   "worksofrevdaniel0007wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 7 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-08": [
+   "worksofrevdaniel0008wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 8 (Oxford: Clarendon Press, 1823)"
+  ],
+  "waterland-works-09": [
+   "worksofrevdaniel0009wate",
+   "The Works of the Rev. Daniel Waterland, now first collected and arranged, vol. 9 (Oxford: Clarendon Press, 1823)"
+  ]
+ },
+ "_alternates": {
+  "waterland-eucharist": "A Review of the Doctrine of the Eucharist (Clarendon Press, 1868, 1880, 1896) and A Critical History of the Athanasian Creed (1850, 1870): both are also in the Works"
+ },
+ "_excluded": {},
+ "_checks": {
+  "waterland-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-08": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waterland-works-09": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "daniel waterland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

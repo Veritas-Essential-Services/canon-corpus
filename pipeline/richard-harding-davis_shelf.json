@@ -1,0 +1,590 @@
+{
+ "_about": "Richard Harding Davis's stories, novels and war correspondence: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Richard Harding Davis",
+ "_name_words": [
+  "davis"
+ ],
+ "_surname": [
+  "richard harding davis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "rhdavis-princess-aline": [
+   327,
+   "The Princess Aline"
+  ],
+  "rhdavis-episodes-in-van-bibbers-life": [
+   334,
+   "Episodes in Van Bibber's Life"
+  ],
+  "rhdavis-scarlet-car": [
+   358,
+   "The Scarlet Car",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-adventures-and-letters-of-richard-harding-davis": [
+   405,
+   "Adventures and Letters of Richard Harding Davis",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-reporter-who-made-himself-king": [
+   407,
+   "The Reporter Who Made Himself King"
+  ],
+  "rhdavis-kings-jackal": [
+   411,
+   "The King's Jackal"
+  ],
+  "rhdavis-lion-and-the-unicorn": [
+   1620,
+   "The Lion and the Unicorn"
+  ],
+  "rhdavis-miss-civilization": [
+   1742,
+   "Miss Civilization: A Comedy in One Act"
+  ],
+  "rhdavis-my-buried-treasure": [
+   1761,
+   "My Buried Treasure"
+  ],
+  "rhdavis-consul": [
+   1762,
+   "The Consul"
+  ],
+  "rhdavis-billy-and-the-big-stick": [
+   1764,
+   "Billy and the Big Stick"
+  ],
+  "rhdavis-lost-house": [
+   1807,
+   "The Lost House"
+  ],
+  "rhdavis-log-of-the-jolly-polly": [
+   1808,
+   "The Log of the \"Jolly Polly\""
+  ],
+  "rhdavis-messengers": [
+   1819,
+   "The Messengers"
+  ],
+  "rhdavis-make-believe-man": [
+   1823,
+   "The Make-Believe Man"
+  ],
+  "rhdavis-peace-manoeuvres": [
+   1824,
+   "Peace Manoeuvres"
+  ],
+  "rhdavis-lost-road": [
+   2283,
+   "The Lost Road"
+  ],
+  "rhdavis-real-soldiers-of-fortune": [
+   3029,
+   "Real Soldiers of Fortune"
+  ],
+  "rhdavis-notes-of-a-war-correspondent": [
+   3050,
+   "Notes of a War Correspondent"
+  ],
+  "rhdavis-ransons-folly": [
+   5643,
+   "Ranson's Folly"
+  ],
+  "rhdavis-gallegher-and-other-stories": [
+   5956,
+   "Gallegher and Other Stories"
+  ],
+  "rhdavis-captain-macklin": [
+   6015,
+   "Captain Macklin: His Memoirs"
+  ],
+  "rhdavis-in-the-fog": [
+   7884,
+   "In the Fog"
+  ],
+  "rhdavis-cuba-in-war-time": [
+   8380,
+   "Cuba in War Time"
+  ],
+  "rhdavis-van-bibber-and-others": [
+   11019,
+   "Van Bibber and Others",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-somewhere-in-france": [
+   11144,
+   "Somewhere in France"
+  ],
+  "rhdavis-with-the-allies": [
+   11730,
+   "With the Allies"
+  ],
+  "rhdavis-congo-and-coasts-of-africa": [
+   14297,
+   "The Congo and Coasts of Africa"
+  ],
+  "rhdavis-deserter": [
+   15089,
+   "The Deserter"
+  ],
+  "rhdavis-exiles-and-other-stories": [
+   16090,
+   "The Exiles and Other Stories"
+  ],
+  "rhdavis-cinderella-and-other-stories": [
+   16310,
+   "Cinderella, and Other Stories"
+  ],
+  "rhdavis-once-upon-a-time": [
+   16908,
+   "Once Upon A Time",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-boy-scout": [
+   19501,
+   "The Boy Scout"
+  ],
+  "rhdavis-white-mice": [
+   27232,
+   "The White Mice"
+  ],
+  "rhdavis-with-the-french-in-france-and-salonika": [
+   30812,
+   "With the French in France and Salonika",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-boy-scout-and-other-stories-for-boys": [
+   30953,
+   "The Boy Scout and Other Stories for Boys"
+  ],
+  "rhdavis-rulers-of-the-mediterranean": [
+   39522,
+   "The Rulers of the Mediterranean",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-about-paris": [
+   52706,
+   "About Paris",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-stories-for-boys": [
+   67682,
+   "Stories for Boys",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-west-from-a-car-window": [
+   69118,
+   "The West from a car window"
+  ],
+  "rhdavis-three-gringos-in-venezuela-and-central-america": [
+   69354,
+   "Three gringos in Venezuela and Central America",
+   {
+    "contents_only": true
+   }
+  ],
+  "rhdavis-scarlet-car-69715": [
+   69715,
+   "The scarlet car; The Princess Aline"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "rhdavis-princess-aline": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-episodes-in-van-bibbers-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-scarlet-car": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-adventures-and-letters-of-richard-harding-davis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-reporter-who-made-himself-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-kings-jackal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-lion-and-the-unicorn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-miss-civilization": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-my-buried-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-consul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-billy-and-the-big-stick": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-lost-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-log-of-the-jolly-polly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-messengers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-make-believe-man": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-peace-manoeuvres": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-lost-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-real-soldiers-of-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-notes-of-a-war-correspondent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-ransons-folly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-gallegher-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-captain-macklin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-in-the-fog": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-cuba-in-war-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-van-bibber-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-somewhere-in-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-with-the-allies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-congo-and-coasts-of-africa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-deserter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-exiles-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-cinderella-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-once-upon-a-time": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-boy-scout": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-white-mice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-with-the-french-in-france-and-salonika": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-boy-scout-and-other-stories-for-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-rulers-of-the-mediterranean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-about-paris": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-stories-for-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-west-from-a-car-window": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-three-gringos-in-venezuela-and-central-america": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rhdavis-scarlet-car-69715": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "richard harding davis",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

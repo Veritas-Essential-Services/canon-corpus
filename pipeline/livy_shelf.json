@@ -1,0 +1,291 @@
+{
+ "_about": "Livy in English: the Bohn translation, complete across four Gutenberg texts (D. Spillan, Cyrus Edmonds, W. A. McDevitte; Books I-VIII, IX-XXVI, XXVII-XXXVI, XXXVII to the end with the Epitomes and fragments). Also Church and Brodribb's Books I-III (ed. Osborne). Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row). Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "livy",
+  "rome",
+  "roman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "livy-bohn-1-8": [
+   19725,
+   "The History of Rome, Books I-VIII",
+   "tr. D. Spillan (Bohn)"
+  ],
+  "livy-bohn-9-26": [
+   10907,
+   "The History of Rome, Books IX-XXVI",
+   "tr. D. Spillan and Cyrus Edmonds (Bohn)"
+  ],
+  "livy-bohn-27-36": [
+   12582,
+   "The History of Rome, Books XXVII-XXXVI",
+   "tr. Cyrus Edmonds (Bohn)"
+  ],
+  "livy-bohn-37-end": [
+   44318,
+   "The History of Rome, Books XXXVII to the end, with the Epitomes and Fragments",
+   "tr. W. A. McDevitte (Bohn)"
+  ],
+  "livy-church-brodribb-1-3": [
+   10828,
+   "Roman History, Books I-III",
+   "tr. A. J. Church and W. J. Brodribb, ed. Duffield Osborne"
+  ]
+ },
+ "internet_archive": {
+  "livy-foster-v1": [
+   "livy0000bofo_o9g8",
+   "Livy, vol. 1: Books I-II (Loeb, 1919)",
+   "tr. B. O. Foster"
+  ],
+  "livy-foster-v4": [
+   "livywithenglisht04livyuoft",
+   "Livy, vol. 4: Books VIII-X (Loeb, 1926)",
+   "tr. B. O. Foster"
+  ],
+  "livy-foster-v5": [
+   "livy05livy",
+   "Livy, vol. 5: Books XXI-XXII (Loeb, 1929)",
+   "tr. B. O. Foster"
+  ],
+  "livy-foster-v3": [
+   "livywithenglisht0000bofo",
+   "Livy, vol. 3: Books V-VII (Loeb, 1924)",
+   "tr. B. O. Foster"
+  ],
+  "livy-holland": [
+   "romanehistorie00livy",
+   "The Romane Historie written by T. Livius of Padua (1659 edition)",
+   "tr. Philemon Holland"
+  ],
+  "livy-baker-1823": [
+   "the-history-of-rome-by-titus-livius-volumes-1-6-translated-by-george-baker-1823",
+   "The History of Rome by Titus Livius, translated from the original with notes and illustrations (first American from the last London edition; New York: Peter A. Mesier and others, 1823), vols. I-VI in one file",
+   "The History of Rome by Titus Livius, Volumes 1-6, translated by George Baker (1823)_djvu.txt",
+   "tr. George Baker"
+  ],
+  "livy-church-brodribb-21-25-1883": [
+   "livybook2125seco00livy",
+   "Livy, Books XXI-XXV: The Second Punic War (Macmillan, 1883)",
+   "tr. Alfred John Church and William Jackson Brodribb"
+  ]
+ },
+ "_excluded": {
+  "B. O. Foster, Loeb (1919-)": "vols. 1, 3, 4, 5 held (IA); vol. 2 (1922) only as a 1939 revised printing, refused; vols. 6- after 1930"
+ },
+ "perseus": {
+  "livy-perseus-roberts-the-history-of-rome": [
+   "phi0914.phi001.perseus-eng3",
+   "The History of Rome",
+   "Rev. Canon Roberts",
+   "Translation published 1912: US public domain (in or before 1930). Perseus source line: Livy. History of Rome, Volumes 1-2. Roberts, Canon, Rev, translator. London, New York: J. M. Dent and Sons; E. P. Dutton and Co., 1912."
+  ]
+ },
+ "_rights_checked": {
+  "livy-baker-1823": "Title page read: New York, Peter A. Mesier and others, J. Maxwell, printer, 1823; the IA record carries no date. Baker's translation first appeared in 1797."
+ },
+ "_surname": [
+  "livy",
+  "livius"
+ ],
+ "_translators": {
+  "livy-bohn-1-8": "D. Spillan",
+  "livy-bohn-9-26": "D. Spillan",
+  "livy-bohn-27-36": "Cyrus R. Edmonds",
+  "livy-bohn-37-end": "W. A. McDevitte",
+  "livy-church-brodribb-1-3": "Alfred John Church",
+  "livy-foster-v1": "o. foster",
+  "livy-foster-v4": "B. O. Foster",
+  "livy-foster-v5": "B. O. Foster",
+  "livy-foster-v3": "B. O. Foster",
+  "livy-holland": "Philemon Holland",
+  "livy-baker-1823": "George Baker",
+  "livy-perseus-roberts-the-history-of-rome": "Canon Roberts",
+  "livy-church-brodribb-21-25-1883": "Alfred John Church"
+ },
+ "_checks": {
+  "livy-bohn-1-8": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "D. Spillan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "D. Spillan",
+   "translator_match": true
+  },
+  "livy-bohn-9-26": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "D. Spillan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cyrus R. Edmonds; D. Spillan",
+   "translator_match": true
+  },
+  "livy-bohn-27-36": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "Cyrus R. Edmonds",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cyrus R. Edmonds",
+   "translator_match": true
+  },
+  "livy-bohn-37-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "W. A. McDevitte",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. A. McDevitte",
+   "translator_match": true
+  },
+  "livy-church-brodribb-1-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "Alfred John Church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Jackson Brodribb; Alfred John Church; John Henry Freese",
+   "translator_match": true
+  },
+  "livy-foster-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "o. foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livy-foster-v4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "B. O. Foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "livy-foster-v5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "B. O. Foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livy-foster-v3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "B. O. Foster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "livy-holland": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "Philemon Holland",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "livy-baker-1823": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "George Baker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read: New York, Peter A. Mesier and others, J. Maxwell, printer, 1823; the IA record carries no date. Baker's translation first appeared in 1797."
+  },
+  "livy-church-brodribb-21-25-1883": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "livy",
+   "translator_claimed": "Alfred John Church",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_perseus_checks": {
+  "livy-perseus-roberts-the-history-of-rome": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:latinLit:phi0914.phi001.perseus-eng3",
+   "repo": "PerseusDL/canonical-latinLit",
+   "translator_checked": "Canon Roberts",
+   "author_seen": "livy",
+   "source_years": [
+    1912
+   ],
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0914/phi001/phi0914.phi001.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_translator_unchecked": {},
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ }
+}

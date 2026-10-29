@@ -1,0 +1,165 @@
+{
+ "_about": "Public-domain Rufus M. Jones (1863-1948), Haverford philosopher and historian of Quakerism and mysticism, for the Word Hoard: his books printed before 1930, among them Social Law in the Spiritual World (1904), Studies in Mystical Religion (1909), The Quakers in the American Colonies (1911), Spiritual Reformers in the 16th and 17th Centuries (1914), The Later Periods of Quakerism (1921), The Double Search (1906), The Inner Life (1917) and The World Within (1918), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rufus"
+ ],
+ "_surname": [
+  "rufus m. jones",
+  "rufus jones",
+  "rufus matthew jones"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "rmjones-spiritual-reformers": [
+   24934,
+   "Spiritual Reformers in the 16th & 17th Centuries (London: Macmillan, 1914)"
+  ],
+  "rmjones-inner-life": [
+   61078,
+   "The Inner Life (New York: Macmillan, 1917; first published 1916)"
+  ],
+  "rmjones-double-search": [
+   61771,
+   "The Double Search: Studies in Atonement and Prayer (Philadelphia: John C. Winston, 1906)"
+  ]
+ },
+ "internet_archive": {
+  "rmjones-social-law": [
+   "sociallawinspiri01jone",
+   "Social Law in the Spiritual World: Studies in Human and Divine Inter-Relationship (Philadelphia: John C. Winston; title page undated, copyright 1904)"
+  ],
+  "rmjones-mystical-religion": [
+   "cu31924029351271",
+   "Studies in Mystical Religion (London: Macmillan, 1909)"
+  ],
+  "rmjones-quakers-american-colonies": [
+   "cu31924032753919",
+   "The Quakers in the American Colonies, assisted by Isaac Sharpless and Amelia M. Gummere (London: Macmillan, 1911)"
+  ],
+  "rmjones-later-periods-1": [
+   "laterperiodsofqu01jone",
+   "The Later Periods of Quakerism, vol. I (London: Macmillan, 1921)"
+  ],
+  "rmjones-later-periods-2": [
+   "laterperiodsofqu02jone",
+   "The Later Periods of Quakerism, vol. II (London: Macmillan, 1921)"
+  ],
+  "rmjones-world-within": [
+   "worldwithin00jonerich",
+   "The World Within (New York: Macmillan, 1918)"
+  ]
+ },
+ "_alternates": {
+  "rmjones-more": "Spiritual Energies in Daily Life (PG 61004, 1922); St. Paul the Hero (PG 52694, 1917); Eli and Sibyl Jones (PG 42164, 1889); Practical Christianity (1899); The Story of George Fox (1919, title page not read)"
+ },
+ "_excluded": {
+  "rmjones-introductions": "Books where he wrote only the introduction (PG 16088, PG 60308); anthologies; George Fox: An Autobiography, which he edited and which sits on the george-fox shelf"
+ },
+ "_identity_checked": {
+  "rmjones-mystical-religion": {
+   "author": "title page read: 'Rufus M. Jones, M.A., D.Litt., Haverford College' (OCR 'pNES')"
+  }
+ },
+ "_rights_checked": {
+  "rmjones-quakers-american-colonies": "title page read: Isaac Sharpless and Amelia M. Gummere named as assistants; Jones died 1948, so these pre-1930 books are US public domain and, at life plus 70, public domain in the UK since 2019"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "rmjones-spiritual-reformers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmjones-inner-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmjones-double-search": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rmjones-social-law": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "rmjones-mystical-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rmjones-quakers-american-colonies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Isaac Sharpless and Amelia M. Gummere named as assistants; Jones died 1948, so these pre-1930 books are US public domain and, at life plus 70, public domain in the UK since 2019"
+  },
+  "rmjones-later-periods-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rmjones-later-periods-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rmjones-world-within": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rufus m. jones",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

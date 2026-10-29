@@ -1,0 +1,378 @@
+{
+ "_about": "Public-domain Otto Pfleiderer (1839-1908, Jena and Berlin) in English for the Word Hoard: Paulinism, tr. Edward Peters (2 vols, 1877), The Philosophy of Religion on the Basis of its History, tr. Alexander Stewart and Allan Menzies (4 vols, 1886-1888), the Hibbert Lectures on the influence of Paul (1885), The Development of Theology in Germany since Kant (1890), the Gifford Lectures (2 vols, 1894), Primitive Christianity, tr. W. Montgomery (4 vols, 1906-1911), and six other books, from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pfleiderer"
+ ],
+ "_surname": [
+  "pfleiderer",
+  "otto pfleiderer",
+  "dr. otto pfleiderer"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pfleiderer-paulinism-1": [
+   "paulinismcontrib01pfle",
+   "Paulinism, vol. I, tr. Edward Peters (London and Edinburgh: Williams and Norgate, 1877)"
+  ],
+  "pfleiderer-paulinism-2": [
+   "paulinismcontrib02pfle",
+   "Paulinism, vol. II, tr. Edward Peters (London and Edinburgh: Williams and Norgate, 1877)"
+  ],
+  "pfleiderer-philosophy-religion-1": [
+   "philreligionhist01pfle",
+   "The Philosophy of Religion on the Basis of its History, vol. I, tr. Alexander Stewart and Allan Menzies (London and Edinburgh: Williams and Norgate, 1886)"
+  ],
+  "pfleiderer-philosophy-religion-2": [
+   "philofreligionhist02pfle",
+   "The Philosophy of Religion on the Basis of its History, vol. II, tr. Allan Menzies (London and Edinburgh: Williams and Norgate, 1887)"
+  ],
+  "pfleiderer-philosophy-religion-3": [
+   "religionhist03pfle",
+   "The Philosophy of Religion on the Basis of its History, vol. III, tr. Allan Menzies (London and Edinburgh: Williams and Norgate, 1888)"
+  ],
+  "pfleiderer-philosophy-religion-4": [
+   "philosophyofreli04pfle",
+   "The Philosophy of Religion on the Basis of its History, vol. IV, tr. Allan Menzies (London and Edinburgh: Williams and Norgate, 1888)"
+  ],
+  "pfleiderer-hibbert-paul": [
+   "hibbertlectures00pfleuoft",
+   "Lectures on the Influence of the Apostle Paul on the Development of Christianity (Hibbert Lectures, 1885), tr. J. Frederick Smith (London and Edinburgh: Williams and Norgate, 1885)"
+  ],
+  "pfleiderer-development-theology": [
+   "developmentofthe00pfle",
+   "The Development of Theology in Germany since Kant, tr. J. Frederick Smith (London: Swan Sonnenschein; New York: Macmillan, 1890)"
+  ],
+  "pfleiderer-gifford-1": [
+   "philosophyandeve01pfleuoft",
+   "Philosophy and Development of Religion (Gifford Lectures), vol. I (Edinburgh and London: William Blackwood, MDCCCXCIV)"
+  ],
+  "pfleiderer-gifford-2": [
+   "philosophyandeve02pfleuoft",
+   "Philosophy and Development of Religion (Gifford Lectures), vol. II (Edinburgh and London: William Blackwood, MDCCCXCIV)"
+  ],
+  "pfleiderer-evolution-theology": [
+   "evolutiontheolog00pfleuoft",
+   "Evolution and Theology and Other Essays, ed. Orello Cone (London: Adam and Charles Black, 1900)"
+  ],
+  "pfleiderer-early-conception-christ": [
+   "earlychristianco0000pfle",
+   "The Early Christian Conception of Christ (London: Williams & Norgate; New York: Putnam, 1905)"
+  ],
+  "pfleiderer-primitive-christianity-1": [
+   "primitivechristi01pfleuoft",
+   "Primitive Christianity, vol. I, tr. W. Montgomery (New York: Putnam; London: Williams and Norgate, 1906)"
+  ],
+  "pfleiderer-primitive-christianity-2": [
+   "primitivechristi02pfleuoft",
+   "Primitive Christianity, vol. II, tr. W. Montgomery (London: Williams & Norgate; New York: Putnam, 1909)"
+  ],
+  "pfleiderer-primitive-christianity-3": [
+   "primitivechristi03pfleuoft",
+   "Primitive Christianity, vol. III, tr. W. Montgomery (London: Williams & Norgate; New York: Putnam, 1910)"
+  ],
+  "pfleiderer-primitive-christianity-4": [
+   "primitivechristi04pfleuoft",
+   "Primitive Christianity, vol. IV, tr. W. Montgomery (London: Williams & Norgate; New York: Putnam, 1911)"
+  ],
+  "pfleiderer-christian-origins": [
+   "cu31924031319720",
+   "Christian Origins, tr. Daniel A. Huebsch (New York: B. W. Huebsch, 1906)"
+  ],
+  "pfleiderer-religion-historic-faiths": [
+   "religionhistoric01pfle",
+   "Religion and Historic Faiths, tr. Daniel A. Huebsch (New York: B. W. Huebsch, 1907)"
+  ],
+  "pfleiderer-development-christianity": [
+   "developmentofchr00pfle",
+   "The Development of Christianity, tr. Daniel A. Huebsch (New York: B. W. Huebsch, 1910)"
+  ]
+ },
+ "_alternates": {
+  "pfleiderer-copies": "Paulinism second edition (1891); Hibbert Lectures third edition (1897) and the Scribner issue; Development of Theology 1893 and 1909 editions; other copies"
+ },
+ "_excluded": {
+  "pfleiderer-reprints": "1956, 1965 and 1975 reprints",
+  "pfleiderer-others": "Moffatt's Paul and Paulinism; articles about him; another Pfleiderer on Indian plants"
+ },
+ "_identity_checked": {
+  "pfleiderer-gifford-1": {
+   "author": "title page read: 'BY OTTO PFLEIDEBER, D.D., Professor of Theology, University of Berlin' (OCR for PFLEIDERER)"
+  },
+  "pfleiderer-gifford-2": {
+   "author": "title page read: 'BY OTTO PFLEIDEBER, D.D., Professor of Theology, University of Berlin' (OCR for PFLEIDERER)"
+  }
+ },
+ "_rights_checked": {
+  "pfleiderer-gifford-1": "title page read: no translator named (vol. II the same)",
+  "pfleiderer-evolution-theology": "title page read: edited by Orello Cone; no translator named",
+  "pfleiderer-early-conception-christ": "title page read: Crown Theological Library vol. X; no translator named",
+  "pfleiderer-hibbert-paul": "title page read: name OCR'd 'PFLELDEEEK'",
+  "pfleiderer-philosophy-religion-2": "title page read: 1887 (the catalogue's 1886 is wrong for vols II-IV)"
+ },
+ "_pending": {},
+ "_translators": {
+  "pfleiderer-paulinism-1": "peters",
+  "pfleiderer-paulinism-2": "peters",
+  "pfleiderer-philosophy-religion-1": "stewart",
+  "pfleiderer-philosophy-religion-2": "menzies",
+  "pfleiderer-philosophy-religion-3": "menzies",
+  "pfleiderer-philosophy-religion-4": "menzies",
+  "pfleiderer-hibbert-paul": "smith",
+  "pfleiderer-development-theology": "smith",
+  "pfleiderer-primitive-christianity-1": "montgomery",
+  "pfleiderer-primitive-christianity-2": "montgomery",
+  "pfleiderer-primitive-christianity-3": "montgomery",
+  "pfleiderer-primitive-christianity-4": "montgomery",
+  "pfleiderer-christian-origins": "huebsch",
+  "pfleiderer-religion-historic-faiths": "huebsch",
+  "pfleiderer-development-christianity": "huebsch"
+ },
+ "_checks": {
+  "pfleiderer-paulinism-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "peters",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-paulinism-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "peters",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-philosophy-religion-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-philosophy-religion-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1887 (the catalogue's 1886 is wrong for vols II-IV)"
+  },
+  "pfleiderer-philosophy-religion-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-philosophy-religion-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "menzies",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886-88",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-hibbert-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: name OCR'd 'PFLELDEEEK'"
+  },
+  "pfleiderer-development-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-gifford-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no translator named (vol. II the same)"
+  },
+  "pfleiderer-gifford-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-evolution-theology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: edited by Orello Cone; no translator named"
+  },
+  "pfleiderer-early-conception-christ": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Crown Theological Library vol. X; no translator named"
+  },
+  "pfleiderer-primitive-christianity-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "montgomery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-11",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-primitive-christianity-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "montgomery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-11",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-primitive-christianity-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "montgomery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-11",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-primitive-christianity-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "montgomery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906-11",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pfleiderer-christian-origins": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "huebsch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pfleiderer-religion-historic-faiths": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "huebsch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pfleiderer-development-christianity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pfleiderer",
+   "translator_claimed": "huebsch",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

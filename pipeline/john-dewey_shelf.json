@@ -1,0 +1,428 @@
+{
+ "_about": "John Dewey (1859-1952), American works published before 1931 and so US public domain, from Project Gutenberg, each etext's imprint read: Outlines of a Critical Theory of Ethics (1891), Leibniz's New Essays: a Critical Exposition (1888; Scott, Foresman printing of 1902), The School and Society (1900, second impression), Psychology and Social Practice (1901), Studies in Logical Theory (1903), Moral Principles in Education (1909), How We Think (1910), The Influence of Darwin on Philosophy (1910), German Philosophy and Politics (1915), Schools of To-morrow (with Evelyn Dewey, 1915), Essays in Experimental Logic (1916), Democracy and Education (1916; the etext names no printing), Creative Intelligence (with other pragmatists, 1917), Reconstruction in Philosophy (1920) and Human Nature and Conduct (1922). In raw IA OCR: Dewey and James H. Tufts, Ethics (American Science Series; Holt, 1909, copyright 1908). Held as post-1930 printings (Adam's open class): The Child and the Curriculum (PG 29259 follows a 1966 impression) and The Public and its Problems (PG 71000 follows a Swallow reprint, copyright renewed 1954). Not taken: PG 74376, a second copy of The School and Society; PG 39551, the Dewey-Tufts Ethics, would not download, so the IA scan stands in for it. Added in round ae: The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930). Added in round az: Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95). Added in round az: The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94). Added in round az: Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93). Added in round 2026-10-18cj/ck, raw IA OCR: Psychology, third revised edition (Harper, 1894; copyright 1886 and 1891); The Psychology of Number, written with James A. McLellan, who is the lead author (Appleton, 1895); The Educational Situation (University of Chicago Press, 1902); Interest and Effort in Education (Houghton Mifflin, Riverside Educational Monographs; the verso copyright year 1913 is the only date); Letters from China and Japan, with Alice Chipman Dewey (Dutton, 1920); Characters and Events, popular essays, ed. Joseph Ratner (Holt, 1929, 2 vols.; the copyright line is the only date, and the OCR reads it as 1920 in vol. I and 1929 in vol. II); Impressions of Soviet Russia and the Revolutionary World (New Republic, 1929); The Sources of a Science of Education (Horace Liveright, second printing October 1929). Held: The Public and its Problems (1927), as every scan found is a Swallow paperback printed after the 1954 renewal. No uids minted.",
+ "_author": "John Dewey",
+ "_name_words": [
+  "john",
+  "dewey"
+ ],
+ "_surname": [
+  "john dewey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "dewey-critical-theory-of-ethics-1891": [
+   60422,
+   "Outlines of a Critical Theory of Ethics (Ann Arbor: Register Publishing, 1891)"
+  ],
+  "dewey-leibniz-new-essays-1902": [
+   40957,
+   "Leibniz's New Essays Concerning the Human Understanding: a critical exposition (Chicago: Scott, Foresman, 1902; copyright 1888)"
+  ],
+  "dewey-school-and-society-1900": [
+   53910,
+   "The School and Society, second impression (Chicago: University of Chicago Press, 1900)"
+  ],
+  "dewey-psychology-and-social-practice-1901": [
+   40744,
+   "Psychology and Social Practice (Chicago: University of Chicago Press, 1901)"
+  ],
+  "dewey-studies-in-logical-theory-1903": [
+   40665,
+   "Studies in Logical Theory (Chicago: University of Chicago Press, 1903)"
+  ],
+  "dewey-moral-principles-in-education-1909": [
+   25172,
+   "Moral Principles in Education (Boston: Houghton Mifflin, 1909)"
+  ],
+  "dewey-how-we-think-1910": [
+   37423,
+   "How We Think (Boston: D. C. Heath, 1910)"
+  ],
+  "dewey-influence-of-darwin-1910": [
+   51525,
+   "The Influence of Darwin on Philosophy, and other essays in contemporary thought (New York: Henry Holt, 1910)"
+  ],
+  "dewey-german-philosophy-and-politics-1915": [
+   42208,
+   "German Philosophy and Politics (New York: Henry Holt, 1915)"
+  ],
+  "dewey-schools-of-to-morrow-1915": [
+   48906,
+   "Schools of To-morrow, with Evelyn Dewey (New York: E. P. Dutton, 1915)"
+  ],
+  "dewey-essays-in-experimental-logic-1916": [
+   40794,
+   "Essays in Experimental Logic (Chicago: University of Chicago Press, 1916)"
+  ],
+  "dewey-democracy-and-education": [
+   852,
+   "Democracy and Education: an introduction to the philosophy of education (1916; the etext names no printing)"
+  ],
+  "dewey-creative-intelligence-1917": [
+   33727,
+   "Creative Intelligence: essays in the pragmatic attitude, by John Dewey and others (New York: Henry Holt, 1917)"
+  ],
+  "dewey-reconstruction-in-philosophy-1920": [
+   40089,
+   "Reconstruction in Philosophy (New York: Henry Holt, 1920)"
+  ],
+  "dewey-human-nature-and-conduct-1922": [
+   41386,
+   "Human Nature and Conduct: an introduction to social psychology (New York: Henry Holt, 1922)"
+  ]
+ },
+ "internet_archive": {
+  "dewey-tufts-ethics-1909": [
+   "ethicsdew00deweuoft",
+   "Ethics, by John Dewey and James H. Tufts, American Science Series (New York: Henry Holt, 1909; copyright 1908)"
+  ],
+  "dewey-child-and-the-curriculum-1930": [
+   "childcurriculum00dewe",
+   "The Child and the Curriculum (Chicago: University of Chicago Press; published 1902, this the 25th impression, 1930)"
+  ],
+  "dewey-experience-and-nature-1929": [
+   "experienceandnat029343mbp",
+   "Experience and Nature, the 1929 revised edition (London: Allen and Unwin, 1929; raw IA OCR, clean 0.95)"
+  ],
+  "dewey-quest-for-certainty-1929": [
+   "questforcertaint032529mbp",
+   "The Quest for Certainty, Gifford Lectures 1929 (New York: Minton, Balch, third printing December 1929; raw IA OCR, clean 0.94)"
+  ],
+  "dewey-individualism-old-and-new-1930": [
+   "individu00dewe",
+   "Individualism Old and New (New York: Minton, Balch, 1930, second impression; raw IA OCR, clean 0.93)"
+  ],
+  "dewey-psychology-1894": [
+   "psychology01dewe",
+   "Psychology, 3rd revised ed. (Harper, 1894; copyright 1886, 1891)"
+  ],
+  "dewey-mclellan-psychology-of-number-1895": [
+   "psychologyofnumb00mcleuoft",
+   "The Psychology of Number and its Applications to Methods of Teaching Arithmetic, with James A. McLellan (Appleton, 1895)"
+  ],
+  "dewey-educational-situation-1902": [
+   "educationalsitua00dewerich",
+   "The Educational Situation (University of Chicago Press, 1902)"
+  ],
+  "dewey-interest-and-effort-1913": [
+   "interesteffortin00dewe",
+   "Interest and Effort in Education (Houghton Mifflin, copyright 1913)"
+  ],
+  "dewey-letters-from-china-and-japan-1920": [
+   "lettersfromchina00deweuoft",
+   "Letters from China and Japan, with Alice Chipman Dewey, ed. Evelyn Dewey (Dutton, 1920)"
+  ],
+  "dewey-characters-and-events-1929-v1": [
+   "charactersevents0001john",
+   "Characters and Events, ed. Joseph Ratner, vol. I (Holt, 1929)"
+  ],
+  "dewey-characters-and-events-1929-v2": [
+   "charactersevents0002john",
+   "Characters and Events, ed. Joseph Ratner, vol. II (Holt, 1929)"
+  ],
+  "dewey-impressions-of-soviet-russia-1929": [
+   "in.ernet.dli.2015.169066",
+   "Impressions of Soviet Russia and the Revolutionary World (New Republic, 1929)"
+  ],
+  "dewey-sources-of-a-science-of-education-1929": [
+   "sourcesofscience00dewe",
+   "The Sources of a Science of Education (Horace Liveright, 1929)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "dewey-critical-theory-of-ethics-1891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-leibniz-new-essays-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-school-and-society-1900": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-psychology-and-social-practice-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-studies-in-logical-theory-1903": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-moral-principles-in-education-1909": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-how-we-think-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-influence-of-darwin-1910": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-german-philosophy-and-politics-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-schools-of-to-morrow-1915": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-essays-in-experimental-logic-1916": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-democracy-and-education": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-creative-intelligence-1917": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-reconstruction-in-philosophy-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-human-nature-and-conduct-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "dewey-tufts-ethics-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dewey-child-and-the-curriculum-1930": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewey-experience-and-nature-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewey-quest-for-certainty-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewey-individualism-old-and-new-1930": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page and verso read 2026-10-18: 'Minton, Balch & Company, New York, 1930' (OCR '1030'), 'Copyright, 1929, 1930, by John Dewey', 'Second Impression'. Published 1930, so US public domain from 1 January 2026."
+  },
+  "dewey-psychology-1894": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewey-mclellan-psychology-of-number-1895": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dewey-educational-situation-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dewey-interest-and-effort-1913": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dewey-letters-from-china-and-japan-1920": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dewey-characters-and-events-1929-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewey-characters-and-events-1929-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewey-impressions-of-soviet-russia-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dewey-sources-of-a-science-of-education-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john dewey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {
+  "dewey-individualism-old-and-new-1930": "Title page and verso read 2026-10-18: 'Minton, Balch & Company, New York, 1930' (OCR '1030'), 'Copyright, 1929, 1930, by John Dewey', 'Second Impression'. Published 1930, so US public domain from 1 January 2026."
+ }
+}

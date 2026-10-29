@@ -1,0 +1,34 @@
+{
+ "_about": "Friedrich Schiller (1759-1805) as a philosopher, from Project Gutenberg: Aesthetical and Philosophical Essays, library edition (New York: Publishers Plate Renting Co., 1899, the date as PG records it; the title page prints none), which holds the Letters on the Aesthetical Education of Man, the aesthetic essays (On the Sublime, On Grace and Dignity, On Simple and Sentimental Poetry, On the Tragic Art) and the Philosophical Letters; the translators are not named. Schiller's plays and histories sit on many translator and singles shelves and are not taken here. Not taken: PG 6798 and 6799, the same translation split in two. No uids minted.",
+ "_author": "Friedrich Schiller",
+ "_name_words": [
+  "friedrich",
+  "frederick",
+  "friedrick",
+  "von",
+  "schiller"
+ ],
+ "_surname": [
+  "schiller"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "schiller-aesthetical-philosophical-essays-1899": [
+   70669,
+   "Aesthetical and Philosophical Essays, library edition (New York: Publishers Plate Renting Co., 1899)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "schiller-aesthetical-philosophical-essays-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "schiller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "_about": "Public-domain Moses Stuart (1780-1852, professor of sacred literature at Andover Theological Seminary) for the Word Hoard: his commentaries on Romans (1832), Hebrews (1833), the Apocalypse (1845, 2 vols), Daniel (1850), Ecclesiastes (1851) and Proverbs (1852) and A Letter to William E. Channing on Religious Liberty (1830), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "stuart",
+  "moses"
+ ],
+ "_surname": [
+  "moses stuart",
+  "m. stuart",
+  "stuart, moses"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mstuart-romans-1832": [
+   "commentaryonepis00stua",
+   "A Commentary on the Epistle to the Romans (Andover: Flagg and Gould, 1832)"
+  ],
+  "mstuart-hebrews-1833": [
+   "epistletothehebr00stuauoft",
+   "A Commentary on the Epistle to the Hebrews (Andover: Flagg, Gould and Newman, 1833)"
+  ],
+  "mstuart-apocalypse-1845-v1": [
+   "commentaryonapoc01stua",
+   "A Commentary on the Apocalypse, vol. 1 (Andover: Allen, Morrill and Wardwell, 1845)"
+  ],
+  "mstuart-apocalypse-1845-v2": [
+   "commentaryonapoc02stua",
+   "A Commentary on the Apocalypse, vol. 2 (Andover: Allen, Morrill and Wardwell, 1845)"
+  ],
+  "mstuart-daniel-1850": [
+   "commentaryonbook1850stua",
+   "A Commentary on the Book of Daniel (Boston: Crocker and Brewster, 1850)"
+  ],
+  "mstuart-ecclesiastes-1851": [
+   "commentaryoneccl00stua",
+   "A Commentary on Ecclesiastes (New York: G. P. Putnam, 1851)"
+  ],
+  "mstuart-proverbs-1852": [
+   "commentaryonbook00stua_0",
+   "A Commentary on the Book of Proverbs (New York: M. W. Dodd, 1852)"
+  ],
+  "mstuart-letter-channing-1830": [
+   "alettertowillia00stuagoog",
+   "A Letter to William E. Channing, D.D., on the Subject of Religious Liberty (Boston: Perkins and Marvin, 1830)"
+  ]
+ },
+ "_alternates": {
+  "mstuart-hebrews-1827": "the first edition of the Hebrews commentary (1827-28, 2 vols), IA acommentaryonep03unkngoog / acommentaryonep02stuagoog"
+ },
+ "_excluded": {
+  "mstuart-hebrew-grammars": "the Hebrew Grammar (1821-31) and Hebrew Chrestomathy (1829-38): grammars of Hebrew whose OCR text layers drop the Hebrew, so the text is not usable",
+  "mstuart-nt-grammar-1841": "A Grammar of the New Testament Dialect (1841), IA agrammarnewtest01stuagoog: fetched and measured 2026-10-03, its text layer has 0 Greek characters (84.5% OCR), so a Greek grammar without its Greek; not shelved"
+ },
+ "_checks": {
+  "mstuart-romans-1832": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mstuart-hebrews-1833": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mstuart-apocalypse-1845-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mstuart-apocalypse-1845-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mstuart-daniel-1850": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mstuart-ecclesiastes-1851": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mstuart-proverbs-1852": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mstuart-letter-channing-1830": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses stuart",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

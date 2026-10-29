@@ -1,0 +1,118 @@
+{
+ "_about": "Public-domain Adrian Fortescue (1874-1923, Letchworth priest, liturgist and Eastern-Church historian) for the Word Hoard: The Orthodox Eastern Church (1907), The Greek Fathers (1908), The Mass: a Study of the Roman Liturgy (1912), The Lesser Eastern Churches (1913), Donatism (1917) and The Ceremonies of the Roman Rite Described (1918), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "fortescue"
+ ],
+ "_surname": [
+  "fortescue",
+  "adrian fortescue"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fortescue-orthodox-eastern-church": [
+   "orthodoxeasternc00fort",
+   "The Orthodox Eastern Church (London: Catholic Truth Society, 1907)"
+  ],
+  "fortescue-greek-fathers": [
+   "thegreekfathers00fortuoft",
+   "The Greek Fathers (London: Catholic Truth Society; St. Louis: B. Herder, 1908)"
+  ],
+  "fortescue-the-mass": [
+   "cu31924029398553",
+   "The Mass: a Study of the Roman Liturgy (London: Longmans, Green, 1912)"
+  ],
+  "fortescue-lesser-eastern-churches": [
+   "lessereasternchu00fortuoft",
+   "The Lesser Eastern Churches (London: Catholic Truth Society; title page undated, preface 1913)"
+  ],
+  "fortescue-donatism": [
+   "a622030600fortuoft",
+   "Donatism (London: Burns & Oates, 1917)"
+  ],
+  "fortescue-ceremonies-roman-rite": [
+   "ceremoniesofroma00fort",
+   "The Ceremonies of the Roman Rite Described (London: Burns & Oates, MCMXVIII)"
+  ]
+ },
+ "_alternates": {
+  "fortescue-copies": "The 1917 new impression of The Mass; the 1920 Ceremonies revised for the Code of Canon Law; other copies"
+ },
+ "_excluded": {
+  "fortescue-later": "The Uniate Eastern Churches in a 1957 printing catalogued 1923; Ignatius Press reprints; the memoir of him; single encyclopedia articles"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "fortescue-unfound": "Latin Hymns (1913), The Early Papacy (1920) and the 1923 Uniate Eastern Churches: no scan found"
+ },
+ "_translators": {},
+ "_checks": {
+  "fortescue-orthodox-eastern-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fortescue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fortescue-greek-fathers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fortescue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fortescue-the-mass": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fortescue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fortescue-lesser-eastern-churches": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fortescue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fortescue-donatism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fortescue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fortescue-ceremonies-roman-rite": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fortescue",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

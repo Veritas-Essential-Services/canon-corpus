@@ -1,0 +1,77 @@
+{
+ "_about": "Pierre Brumoy's Théâtre des Grecs (1730) in English: The Greek Theatre of Father Brumoy, translated by Charlotte Lennox and others (London, 1759, 3 vols.), raw IA OCR (Google scans). The plays are Englished from Brumoy's French versions and summaries, not from the Greek, and the honesty of any row here rests on that.",
+ "_name_words": [
+  "brumoy",
+  "greek",
+  "theatre"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brumoy-lennox-1759-v1": [
+   "greektheatrefat00lenngoog",
+   "The Greek Theatre of Father Brumoy, vol. I (London: Millar and others, 1759)",
+   "tr. Charlotte Lennox"
+  ],
+  "brumoy-lennox-1759-v2": [
+   "greektheatrefat01lenngoog",
+   "The Greek Theatre of Father Brumoy, vol. II (London, 1759)",
+   "tr. Charlotte Lennox"
+  ],
+  "brumoy-lennox-1759-v3": [
+   "greektheatrefat02lenngoog",
+   "The Greek Theatre of Father Brumoy, vol. III (London, 1759)",
+   "tr. Charlotte Lennox"
+  ]
+ },
+ "_rights_checked": {},
+ "_surname": [
+  "brumoy"
+ ],
+ "_translators": {
+  "brumoy-lennox-1759-v1": "charlotte lennox",
+  "brumoy-lennox-1759-v2": "charlotte lennox",
+  "brumoy-lennox-1759-v3": "charlotte lennox"
+ },
+ "_checks": {
+  "brumoy-lennox-1759-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brumoy",
+   "translator_claimed": "charlotte lennox",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brumoy-lennox-1759-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brumoy",
+   "translator_claimed": "charlotte lennox",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brumoy-lennox-1759-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brumoy",
+   "translator_claimed": "charlotte lennox",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

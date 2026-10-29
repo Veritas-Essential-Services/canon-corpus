@@ -1,0 +1,67 @@
+{
+ "_about": "Public-domain Richard Watson (1781-1833, Wesleyan Methodist minister, the first systematic theologian of Methodism) for the Word Hoard: Theological Institutes in the American edition with J. M'Clintock's analysis (New York: Lane & Scott, vol. 1 1851, vol. 2 1850) as raw Internet Archive OCR, and A Biblical and Theological Dictionary clean from Project Gutenberg (rights line checked by the fetcher). Not Richard Watson, Bishop of Llandaff (1737-1816), author of An Apology for the Bible: the two share a name, so the name gate cannot tell them apart and the title words carry the check. Thomas Watson the Puritan has the separate watson shelf. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "watson",
+  "richard"
+ ],
+ "_surname": [
+  "richard watson",
+  "watson, richard",
+  "rev. richard watson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "rwatson-dictionary": [
+   "53884",
+   "A Biblical and Theological Dictionary"
+  ]
+ },
+ "internet_archive": {
+  "rwatson-institutes-1": [
+   "theologicalinsti01wats",
+   "Theological Institutes: or, A View of the Evidences, Doctrines, Morals, and Institutions of Christianity, new edition with an analysis by J. M'Clintock, vol. 1 (New York: Lane & Scott, 1851)"
+  ],
+  "rwatson-institutes-2": [
+   "theologicalinstied02wats",
+   "Theological Institutes: or, A View of the Evidences, Doctrines, Morals, and Institutions of Christianity, new edition with an analysis by J. M'Clintock, vol. 2 (New York: Lane & Scott, 1850)"
+  ]
+ },
+ "_alternates": {
+  "rwatson-institutes": "First American edition, 3 vols (New York: N. Bangs and J. Emory, 1825; IA theologicalinst01wats etc.); Carlton & Phillips 1864 vol. 1 (theologicalinsti00watsrich)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "rwatson-dictionary": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rwatson-institutes-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rwatson-institutes-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "richard watson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

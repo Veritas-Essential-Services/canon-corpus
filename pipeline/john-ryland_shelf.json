@@ -1,0 +1,58 @@
+{
+ "_about": "Public-domain John Ryland Jr. (1753-1825, Particular Baptist minister at Northampton and Bristol, president of the Bristol Baptist Academy, a founder of the Baptist Missionary Society) for the Word Hoard: The Work of Faith, the Labour of Love, and the Patience of Hope, his life of Andrew Fuller (second edition, London: Button, 1818), and Pastoral Memorials, selected from his manuscripts, with a memoir (vol. 1, London: Holdsworth, catalogued 1826), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "ryland",
+  "john"
+ ],
+ "_surname": [
+  "john ryland",
+  "j. ryland",
+  "ryland, john",
+  "dr. ryland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ryland-work-of-faith-1818": [
+   "theworkoffaith00fulluoft",
+   "The Work of Faith, the Labour of Love, and the Patience of Hope, illustrated in the Life and Death of the Rev. Andrew Fuller, second edition with corrections and additions (London: Button & Son, 1818)"
+  ],
+  "ryland-pastoral-memorials-1": [
+   "pastoralmemorial01ryla",
+   "Pastoral Memorials, selected from the manuscripts of the late Revd. John Ryland, D.D., with a memoir of the author, in two volumes, vol. 1 (London: B. J. Holdsworth; catalogued 1826)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ryland-character-of-hervey": "The Character of the Rev. James Hervey (1791; IA characterofrevja00ryla) is catalogued under John Ryland Jr. but is by his father, John Collett Ryland (1723-1792); left out rather than misattributed",
+  "ryland-memoirs-pearce": "Memoirs of Samuel Pearce (1809) is catalogued under him but is Andrew Fuller's"
+ },
+ "_pending": {
+  "ryland-pastoral-memorials-2": "Pastoral Memorials vol. 2: no IA copy found on 2026-10-03"
+ },
+ "_checks": {
+  "ryland-work-of-faith-1818": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john ryland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryland-pastoral-memorials-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "john ryland",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

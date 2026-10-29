@@ -1,0 +1,31 @@
+{
+ "_about": "Ernest Arthur Gardner (1862-1939), Director of the British School at Athens. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Religion and Art in Ancient Greece, clean Gutenberg. Brother of Percy Gardner, whose book has its own shelf. No uids minted.",
+ "_name_words": [
+  "gardner"
+ ],
+ "_surname": [
+  "ernest arthur gardner",
+  "ernest a. gardner",
+  "e. a. gardner",
+  "gardner, ernest arthur"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ernest-gardner-religion-art-ancient-greece": [
+   20523,
+   "Religion and Art in Ancient Greece"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "ernest-gardner-religion-art-ancient-greece": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ernest arthur gardner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

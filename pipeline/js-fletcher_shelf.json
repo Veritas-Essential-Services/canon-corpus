@@ -1,0 +1,342 @@
+{
+ "_about": "J. S. Fletcher's detective novels and Yorkshire stories: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "J. S. Fletcher",
+ "_name_words": [
+  "fletcher"
+ ],
+ "_surname": [
+  "j. s. fletcher"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jsfletcher-paradise-mystery": [
+   5308,
+   "The Paradise Mystery"
+  ],
+  "jsfletcher-orange-yellow-diamond": [
+   9297,
+   "The Orange-Yellow Diamond"
+  ],
+  "jsfletcher-scarhaven-keep": [
+   9807,
+   "Scarhaven Keep",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-talleyrand-maxim": [
+   9834,
+   "The Talleyrand Maxim",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-middle-of-things": [
+   9902,
+   "The Middle of Things"
+  ],
+  "jsfletcher-middle-temple-murder": [
+   10373,
+   "The Middle Temple Murder"
+  ],
+  "jsfletcher-rayner-slade-amalgamation": [
+   10443,
+   "The Rayner-Slade Amalgamation"
+  ],
+  "jsfletcher-dead-mens-money": [
+   12239,
+   "Dead Men's Money",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-borough-treasurer": [
+   20630,
+   "The Borough Treasurer",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-herapath-property": [
+   25388,
+   "The Herapath Property",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-in-the-mayors-parlour": [
+   25424,
+   "In the Mayor's Parlour",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-ravensdene-court": [
+   26324,
+   "Ravensdene Court"
+  ],
+  "jsfletcher-chestermarke-instinct": [
+   27965,
+   "The Chestermarke Instinct",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-in-the-days-of-drake": [
+   29304,
+   "In the Days of  Drake"
+  ],
+  "jsfletcher-root-of-all-evil": [
+   40603,
+   "The Root of All Evil",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-mr-poskitts-nightcaps": [
+   45685,
+   "Mr. Poskitt's Nightcaps: Stories of a Yorkshire Farmer"
+  ],
+  "jsfletcher-baden-powell-of-mafeking": [
+   53696,
+   "Baden-Powell of Mafeking",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-lucian-the-dreamer": [
+   55484,
+   "Lucian the dreamer"
+  ],
+  "jsfletcher-markenmore-mystery": [
+   59818,
+   "The Markenmore Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-charing-cross-mystery": [
+   59893,
+   "The Charing Cross Mystery",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-copper-box": [
+   73344,
+   "The copper box",
+   {
+    "contents_only": true
+   }
+  ],
+  "jsfletcher-wolves-and-the-lamb": [
+   79012,
+   "The wolves and the lamb",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jsfletcher-paradise-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-orange-yellow-diamond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-scarhaven-keep": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-talleyrand-maxim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-middle-of-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-middle-temple-murder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-rayner-slade-amalgamation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-dead-mens-money": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-borough-treasurer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-herapath-property": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-in-the-mayors-parlour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-ravensdene-court": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-chestermarke-instinct": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-in-the-days-of-drake": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-root-of-all-evil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-mr-poskitts-nightcaps": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-baden-powell-of-mafeking": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-lucian-the-dreamer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-markenmore-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-charing-cross-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-copper-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jsfletcher-wolves-and-the-lamb": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. s. fletcher",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

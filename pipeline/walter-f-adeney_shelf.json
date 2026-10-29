@@ -1,0 +1,207 @@
+{
+ "_about": "Public-domain Walter F. Adeney (1849-1920), Congregational scholar, professor at New College, London, and Principal of Lancashire Independent College, for the Word Hoard: The Hebrew Utopia (1879), his Expositor's Bible volumes on Ezra, Nehemiah and Esther and on the Song of Solomon and Lamentations, The Theology of the New Testament (1894), How to Read the Bible, The Construction of the Bible, Women of the New Testament, his Century Bible volumes on St. Luke and on Thessalonians and Galatians, The New Testament Story Retold for Young People, The Greek and Eastern Churches (1908), and, with W. H. Bennett, A Biblical Introduction (1899). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 70 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "adeney"
+ ],
+ "_surname": [
+  "adeney"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "adeney-hebrew-utopia": [
+   "hebrewutopiaast00adengoog",
+   "The Hebrew utopia : a study of messianic prophecy (London : Hodder and Stoughton, 1879)"
+  ],
+  "adeney-ezra-nehemiah-esther": [
+   "ezranehemiahesth15aden",
+   "Ezra, Nehemiah, and Esther, The Expositor's Bible (New York: A. C. Armstrong, 1893)"
+  ],
+  "adeney-theology-nt": [
+   "theologyofnt00aden",
+   "The Theology of the New Testament (New York, 1894)"
+  ],
+  "adeney-song-lamentations": [
+   "thesongofsolomon00adenuoft",
+   "The Song of Solomon and the Lamentations of Jeremiah (London : Hodder and Stoughton, 1895)"
+  ],
+  "adeney-how-to-read-the-bible": [
+   "howtoreadbible00aden",
+   "How to read the Bible (catalogued 1897)"
+  ],
+  "adeney-construction-of-the-bible": [
+   "constructionofbi00aden",
+   "The construction of the Bible (New York, T. Whittaker, 1898)"
+  ],
+  "adeney-women-of-nt": [
+   "womenofnewtestam00aden",
+   "Women of the New Testament (London : Service & Paton, 1899)"
+  ],
+  "adeney-biblical-introduction": [
+   "biblicalintroduc00bennuoft",
+   "A Biblical Introduction, with W. H. Bennett (New York: T. Whittaker, 1899)"
+  ],
+  "adeney-st-luke": [
+   "stlukeintroducti42aden",
+   "St. Luke, The Century Bible (New York: H. Frowde, catalogued 1906)"
+  ],
+  "adeney-thessalonians-galatians": [
+   "thessaloniansgal52aden",
+   "Thessalonians and Galatians, The Century Bible (New York: H. Frowde, catalogued 1906)"
+  ],
+  "adeney-nt-story-retold": [
+   "newtestamentstor00adenrich",
+   "The New Testament story retold for young people (New York, London, The Macmillan Company, 1906)"
+  ],
+  "adeney-greek-eastern-churches": [
+   "greekandeastern00adenuoft",
+   "The Greek and Eastern churches (Edinburgh : T. & T. Clark, 1908)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "adeney-other": "Jeremiah in the Pulpit Commentary (many hands); The Bible Story Re-told (1898, with W. H. Bennett's Old Testament part; his New Testament part is shelved as its own volume); journal articles"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "adeney-ezra-nehemiah-esther": "title page OCR reads 'EZRA, NEHEMIAH, AND ESTHER BY WALTER F.^DENEY, M.A. PROFESSOR OF NEW TESTAMENT EXEGESIS AND CHURCH HISTORY, NEW COLLEGE, LONDON' (OCR garbled)",
+  "adeney-women-of-nt": "title page OCR reads 'WOMEN OF THE NEW TESTAMENT BY WALTER F. /dENEY, M.A. ... NEW COLLEGE, LONDON ... SERVICE & PATON ... 1899' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "adeney-hebrew-utopia": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-ezra-nehemiah-esther": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-theology-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-song-lamentations": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-how-to-read-the-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "adeney-construction-of-the-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "adeney-women-of-nt": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-biblical-introduction": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-st-luke": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-thessalonians-galatians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-nt-story-retold": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "adeney-greek-eastern-churches": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "adeney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

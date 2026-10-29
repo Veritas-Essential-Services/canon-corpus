@@ -1,0 +1,128 @@
+{
+ "_about": "TRANSLATOR SHELF: George Hayward (1791-1863), Boston surgeon: Bichat's General Anatomy, Applied to Physiology and Medicine, 3 vols (1822), and, with F. Gold, the Physiological Researches on Life and Death. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "george hayward"
+ ],
+ "_surname": [
+  "george hayward"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "hay-56118": [
+   56118,
+   "General Anatomy, Applied to Physiology and Medicine, Vol. 1 (of 3)"
+  ],
+  "hay-56147": [
+   56147,
+   "General Anatomy, Applied to Physiology and Medicine, Vol. 2 (of 3)"
+  ],
+  "hay-56328": [
+   56328,
+   "General Anatomy, Applied to Physiology and Medicine, Vol. 3 (of 3)"
+  ],
+  "hay-56440": [
+   56440,
+   "Physiological Researches on Life and Death"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "hayward-bichat-bichat-general-anatomy-applied-to-physiology-an-vol-1": {
+   "source": "hay-56118",
+   "of": "Xavier Bichat",
+   "work": "General Anatomy, Applied to Physiology and Medicine, Vol. 1 (of 3)",
+   "translated": "1822-1827 (see the Gutenberg header)",
+   "translator": "George Hayward",
+   "scan_edition": "Project Gutenberg 56118 (clean text)"
+  },
+  "hayward-bichat-bichat-general-anatomy-applied-to-physiology-an-vol-2": {
+   "source": "hay-56147",
+   "of": "Xavier Bichat",
+   "work": "General Anatomy, Applied to Physiology and Medicine, Vol. 2 (of 3)",
+   "translated": "1822-1827 (see the Gutenberg header)",
+   "translator": "George Hayward",
+   "scan_edition": "Project Gutenberg 56147 (clean text)"
+  },
+  "hayward-bichat-bichat-general-anatomy-applied-to-physiology-an-vol-3": {
+   "source": "hay-56328",
+   "of": "Xavier Bichat",
+   "work": "General Anatomy, Applied to Physiology and Medicine, Vol. 3 (of 3)",
+   "translated": "1822-1827 (see the Gutenberg header)",
+   "translator": "George Hayward",
+   "scan_edition": "Project Gutenberg 56328 (clean text)"
+  },
+  "hayward-bichat-bichat-physiological-researches-on-life-and-dea": {
+   "source": "hay-56440",
+   "of": "Xavier Bichat",
+   "work": "Physiological Researches on Life and Death",
+   "translated": "1822-1827 (see the Gutenberg header)",
+   "translator": "George Hayward (with F. [Translator] Gold)",
+   "scan_edition": "Project Gutenberg 56440 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hay-56118": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george hayward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Hayward"
+  },
+  "hay-56147": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george hayward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Hayward"
+  },
+  "hay-56328": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george hayward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Hayward"
+  },
+  "hay-56440": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george hayward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "F. Gold; George Hayward"
+  }
+ },
+ "_verified": {
+  "hay-56118": {
+   "pg": 56118,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Hayward"
+  },
+  "hay-56147": {
+   "pg": 56147,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Hayward"
+  },
+  "hay-56328": {
+   "pg": 56328,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Hayward"
+  },
+  "hay-56440": {
+   "pg": 56440,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "F. Gold"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

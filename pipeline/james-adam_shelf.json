@@ -1,0 +1,33 @@
+{
+ "_about": "James Adam (1860-1907), Cambridge Platonist, editor of the Republic. Raw IA OCR: The Religious Teachers of Greece, Gifford lectures delivered in Aberdeen in 1904-06, edited with a memoir by his wife Adela Marion Adam (Edinburgh: T. & T. Clark; printed for the University of Aberdeen, 1908). His Greek editions are texts with commentary and are not taken here. US public domain. No uids minted.",
+ "_author": "James Adam",
+ "_name_words": [
+  "james",
+  "adam"
+ ],
+ "_surname": [
+  "james adam"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "adam-religious-teachers-of-greece-1908": [
+   "religiousteache00unkngoog",
+   "The Religious Teachers of Greece (1908)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "adam-religious-teachers-of-greece-1908": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james adam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

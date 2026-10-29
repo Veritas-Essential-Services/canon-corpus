@@ -1,0 +1,96 @@
+{
+ "_about": "Emma Goldman (1869-1940), anarchist political philosopher. Gutenberg: Anarchism and Other Essays (1910); Marriage and Love (1911); The Social Significance of the Modern Drama (1914); Deportation, its Meaning and Menace (1919; with Alexander Berkman); My Disillusionment in Russia (1923); My Further Disillusionment in Russia (1924). Left out: The Place of the Individual in Society (1940), too late, and the Mother Earth magazine issues. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Emma Goldman",
+ "_name_words": [
+  "emma",
+  "goldman"
+ ],
+ "_surname": [
+  "goldman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "goldman-anarchism-and-other-essays": [
+   2162,
+   "Anarchism and Other Essays (1910)"
+  ],
+  "goldman-marriage-and-love": [
+   20715,
+   "Marriage and Love (1911)"
+  ],
+  "goldman-social-significance-modern-drama": [
+   43490,
+   "The Social Significance of the Modern Drama (1914)"
+  ],
+  "goldman-deportation": [
+   68442,
+   "Deportation, its Meaning and Menace (1919; with Alexander Berkman)"
+  ],
+  "goldman-my-disillusionment-in-russia": [
+   60315,
+   "My Disillusionment in Russia (1923)"
+  ],
+  "goldman-my-further-disillusionment": [
+   74192,
+   "My Further Disillusionment in Russia (1924)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "goldman-anarchism-and-other-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "goldman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldman-marriage-and-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "goldman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldman-social-significance-modern-drama": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "goldman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldman-deportation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "goldman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldman-my-disillusionment-in-russia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "goldman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "goldman-my-further-disillusionment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "goldman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

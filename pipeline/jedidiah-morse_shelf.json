@@ -1,0 +1,166 @@
+{
+ "_about": "Public-domain Jedidiah Morse (1761-1826), Congregational minister at Charlestown, founder of Andover Seminary's party and opponent of Harvard Unitarianism, for the Word Hoard: his sermons (1795-1810), The True Reasons on which the Election of a Hollis Professor was Opposed, the African Meeting-House discourse, and An Appeal to the Public. His geographies and gazetteers are left out as not theology. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 96 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "jedidiah morse",
+  "j. morse",
+  "morse"
+ ],
+ "_surname": [
+  "jedidiah morse",
+  "j. morse",
+  "morse"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "morse-present-situation": [
+   "presentsituation00mors",
+   "The present situation of other nations of the world, contrasted with our own. : a sermon, delivered at Charlestown, in the Commonwealth of Massachusetts, February 19, 1795 ; being the day recommended by George Washington, president of the United States of America, for publick thanksgiving and prayer (Boston : [publisher not identified], 1795)"
+  ],
+  "morse-grand-lodge": [
+   "bim_eighteenth-century_a-sermon-delivered-befor_morse-jedidiah_1798",
+   "A sermon delivered before the Grand Lodge of free & accepted masons of the commonwealth of Massachusetts, at a public installation of the officers of the Corinthian Lodge, at Concord, ... June 25th, 1798. By Jedediah Morse, ...  1798 (catalogued 1798)"
+  ],
+  "morse-thanksgiving-1798": [
+   "bim_eighteenth-century_a-sermon-preached-at-ch_morse-jedidiah_1798",
+   "A sermon, preached at Charlestown, November 29, 1798, on the anniversary thanksgiving in Massachusetts. With an appendix, ... by Jedidiah Morse, ...  1798 (catalogued 1798)"
+  ],
+  "morse-faithful-servant": [
+   "bim_eighteenth-century_the-character-and-reward_morse-jedidiah_1798",
+   "The character and reward of a good and faithful servant illustrated in a sermon, delivered at Charlestown, April 29, 1798, the Lord's-Day following the death and interment of the Honorable James Russell, ... By ...  1798 (catalogued 1798)"
+  ],
+  "morse-present-dangers": [
+   "sermonexhibiting00morsrich",
+   "A sermon, exhibiting the present dangers, and consequent duties of the citizens of the United States of America : Delivered at Charlestown, April 25, 1799. The day of the national fast (Charlestown [Mass.]: : Printed and sold by Samuel Etheridge, next door to Warren-Tavern., 1799)"
+  ],
+  "morse-hollis-professor": [
+   "truereasonsonwhi01mors",
+   "The true reasons on which the election of a Hollis professor of divinity in Harvard college, was opp, vol. c.1 (Charlestown [Mass.]: Printed for the author, 1805)"
+  ],
+  "morse-african-meeting-house": [
+   "discoursedeliver00mors",
+   "A discourse, delivered at the African Meeting-House, in Boston, July 14, 1808 : in grateful celebration of the abolition of the African slave-trade, by the governments of the U.S., Great Britain, and Denmark (Boston : Printed by Lincoln & Edmands, 1808)"
+  ],
+  "morse-signs-of-times": [
+   "signsoftimesserm00mors",
+   "Signs of the times. A sermon, preached before the Society for Propagating the Gospel among the Indians and Others in North America, at their anniversary, Nov. 1, 1810 (Charlestown [Mass.] Printed for the benefit of the Society, by S.T. Armstrong, 1810)"
+  ],
+  "morse-appeal": [
+   "anappealtopubli00morsgoog",
+   "An Appeal to the Public: On the Controversy Respecting the Revolution in Harvard College, and (Printed for the author, 1814)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "morse-geographies": "American Geography, Universal Geography, Gazetteers, Geography Made Easy: not theology",
+  "morse-compendious-history": "compendioushisto00morsuoft: Compendious History of New England, written with Elijah Parish"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "morse-review-unitarianism": "reviewofamerican00mors: Review of American Unitarianism, an anonymous Panoplist review; attribution is the catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "morse-present-situation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jedidiah morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1795",
+   "ia_date": "1795",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morse-grand-lodge": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morse-thanksgiving-1798": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jedidiah morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morse-faithful-servant": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morse-present-dangers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jedidiah morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "morse-hollis-professor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jedidiah morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morse-african-meeting-house": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jedidiah morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morse-signs-of-times": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jedidiah morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "morse-appeal": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jedidiah morse",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_about": "Public-domain Milton Spenser Terry (1840-1914), Methodist professor at Garrett Biblical Institute, for the Word Hoard: Biblical Hermeneutics, Doctrines of Arminian Methodism, The Prophecies of Daniel, The Song of Songs, The New Apologetic, Moses and the Prophets, The Miraculous Birth of Jesus Christ, The New and Living Way, The Mediation of Jesus Christ, Primer of Christian Doctrine, Biblical Dogmatics, The Christian Revelation, The Shinto Cult, and Baccalaureate Sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 95 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "milton s. terry",
+  "milton spenser terry",
+  "m. s. terry"
+ ],
+ "_surname": [
+  "milton s. terry",
+  "milton spenser terry",
+  "m. s. terry"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "terry-hermeneutics": [
+   "biblicalhermeneu00terr",
+   "Biblical hermeneutics : a treatise on the interpretation of the Old and New Testaments (New York : Phillips & Hunt, 1885)"
+  ],
+  "terry-arminian-methodism": [
+   "doctrinesofarmin0000terr",
+   "Doctrines of Arminian Methodism (Evanston : University Press Print., 1887)"
+  ],
+  "terry-daniel": [
+   "propheciesofdani00terr",
+   "The prophecies of Daniel expounded by Milton S. Terry (New York, Hunt & Eaton; Cincinnati, Cranston & Curts, 1893)"
+  ],
+  "terry-song-of-songs": [
+   "songofsongs00terr",
+   "The Song of Songs (Cincinnati : Cranston & Curts, 1893)"
+  ],
+  "terry-new-apologetic": [
+   "newapologeticfiv0000terr",
+   "The new apologetic : five lectures on true and false methods of meeting modern philosophical and critical attacks upon the Christian religion (New York : Eaton & Mains, 1897)"
+  ],
+  "terry-moses-prophets": [
+   "mosesprophetsess0000terr",
+   "Moses and the prophets; an essay toward a fair and useful statement of some of the positions of modern Biblical criticism (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1901)"
+  ],
+  "terry-new-living-way": [
+   "newlivingwayorde00terr",
+   "The new and living way; an orderly arrangement and exposition to the doctrines of Christian experience according to the Scriptures (New York, Eaton & Mains; Cincinnati, Jennings & Pye, 1902)"
+  ],
+  "terry-mediation": [
+   "meditationofjesu00terr",
+   "The meditation of Jesus Christ : a contribution to the study of Biblical dogmatics (New York : Eaton & Mains ; Cincinnati : Jennings & Pye, 1903)"
+  ],
+  "terry-primer": [
+   "primerofchristia00terr",
+   "Primer of Christian doctrine in the form of questions and answers; for the use of Sunday-schools, Epworth leagues, Christian endeavor societies, adult Bible classes, and also for a help to private study and devotion (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1906)"
+  ],
+  "terry-biblical-dogmatics": [
+   "biblicaldogmatic00terr",
+   "Biblical dogmatics; an exposition of the principal doctrines of the Holy Scriptures (New York : Eaton & Mains; Cincinnati : Jennings & Graham, 1907)"
+  ],
+  "terry-christian-revelation": [
+   "christianrevelat0000terr",
+   "The Christian revelation : baccalaureate address (Chicago : Press of Jennings & Graham, 1909)"
+  ],
+  "terry-shinto": [
+   "shintocultchrist00terrrich",
+   "The Shinto cult; a Christian study of the ancient religion of Japan (Cincinnati, Jennings and Graham; New York, Eaton and Mains, [c19)"
+  ],
+  "terry-baccalaureate": [
+   "baccalaureateser00terr",
+   "Baccalaureate sermons and addresses (New York : Methodist Book Concern, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "terry-other": "his translation of the Sibylline Oracles (an ancient text) and Rambles in the Old World (travel)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "terry-daniel": "title page: 'THE PROPHECIES OF DANIEL EXPOUNDED BY MILTON S. TERRY, S.T.D., Professor of Old Testament Exegesis in Garrett Biblical Institute. NEW YORK: HUNT & EATON ... Copyright, 1893' (OCR 'MILTON S| TERRY')"
+ },
+ "_pending": {
+  "terry-miraculous-birth": "miraculousbirtho00terr: a journal offprint (Art. IV, 1901) whose readable text never names the author; attribution is the catalogue's"
+ },
+ "_translators": {},
+ "_checks": {
+  "terry-hermeneutics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terry-arminian-methodism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terry-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "terry-song-of-songs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "terry-new-apologetic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terry-moses-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terry-new-living-way": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terry-mediation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terry-primer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "terry-biblical-dogmatics": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terry-christian-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "terry-shinto": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "[c1910]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "terry-baccalaureate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "milton s. terry",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

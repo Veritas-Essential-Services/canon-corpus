@@ -1,0 +1,270 @@
+{
+ "_about": "Public-domain John Raleigh Mott (1865-1955), Methodist layman, leader of the YMCA, the Student Volunteer Movement and the World's Student Christian Federation, and chairman of the 1910 Edinburgh Missionary Conference, for the Word Hoard: History of the Student Volunteer Movement, Strategic Points in the World's Conquest, The Evangelization of the World in this Generation, The Pastor and Modern Missions, The Future Leadership of the Church, The Decisive Hour of Christian Missions, and his addresses (1899-1910). He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 102 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john r. mott",
+  "john raleigh mott",
+  "j. r. mott",
+  "mott"
+ ],
+ "_surname": [
+  "john r. mott",
+  "john raleigh mott",
+  "j. r. mott",
+  "mott"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mott-student-volunteer-history": [
+   "historyofstudent00mott",
+   "History of the Student Volunteer Movement for Foreign Missions ([Place of publication not identified] : [publisher not identified], 1892)"
+  ],
+  "mott-strategic-points": [
+   "strategicpointsi0000mott",
+   "Strategic points in the world's conquest (New York : Revell, 1897)"
+  ],
+  "mott-two-hundred-million": [
+   "twohundredmillio00mott",
+   "Two hundred million young men in non-Christian lands / [John R. Mott] ([S.l.: s.n.], 1899)"
+  ],
+  "mott-evangelization-world": [
+   "evangelizationw00goog",
+   "The evangelization of the world in this generation (New York, Student volunteer movement for foreign missions, 1900)"
+  ],
+  "mott-power-of-jesus": [
+   "powerofjesuschri00mott",
+   "The power of Jesus Christ in the life of the student (New York : Board of Education of the Methodist Episcopal Church, 1900)"
+  ],
+  "mott-native-arm": [
+   "enlargementofnat00mott",
+   "The enlargement of the native arm of the service essential to the highest success of missions. : [Address given at the 93. annual meeting of the board, held at Oberlin, Ohio, 1902] (Boston : American Board of Commissioners for Foreign Missions, 1902)"
+  ],
+  "mott-students-north-america": [
+   "studentsofnortha00mott",
+   "The students of North American united (New York, International Committee of Young Men's Christian Associations, 1903)"
+  ],
+  "mott-pastor-missions": [
+   "pastormodernmis00mott",
+   "The pastor and modern missions : a plea for leadership in world evangelization (New York : Student Volunteer Movement for Foreign Missions, 1904)"
+  ],
+  "mott-worlds-evangelization": [
+   "worldsevangeliza00mott",
+   "The world's evangelization : the obligation of the church of this generation ([Place of publication not identified] : [Laymen's Missionary Movement], 1907)"
+  ],
+  "mott-future-leadership": [
+   "futureleadership0000john",
+   "The future leadership of the church (Student volunteer movement for foreign missions, 1908)"
+  ],
+  "mott-chinese-students": [
+   "chinesestudentmi00mott_0",
+   "Chinese student migration to Tokyo (New York : Foreign Department, International Committee, Young Men's Christian Association, 1908)"
+  ],
+  "mott-jesus-reality": [
+   "howmayjesuschris00mott",
+   "How may Jesus Christ be made a reality to me / John R. Mott (New York : Young Men's Christian Association Press, 1908)"
+  ],
+  "mott-consecration": [
+   "consecrationaddr00mott",
+   "Consecration : an address delivered at the Student Volunteer Conference, held at Liverpool, England, Jan. 2-7, 1908 (New York : Student Volunteer Movement, 1908)"
+  ],
+  "mott-far-east": [
+   "urgencycrisis00mott",
+   "The urgency and crisis in the Far East (New York, Board of Foreign Missions of the Methodist Episcopal Church, 1908)"
+  ],
+  "mott-decisive-hour": [
+   "decisivehourofch0000mott",
+   "The decisive hour of Christian missions (New York : Student Volunteer Movement for Foreign Missions, 1910)"
+  ],
+  "mott-continuation-committee": [
+   "continuationcomm00mott",
+   "The Continuation Committee (Edinburgh : International Missionary Council, 1910)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mott-men-religion": "Men and Religion (1911, several authors)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mott-student-volunteer-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-strategic-points": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-two-hundred-million": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-evangelization-world": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mott-power-of-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-native-arm": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-students-north-america": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mott-pastor-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-worlds-evangelization": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-future-leadership": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-chinese-students": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-jesus-reality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-consecration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-far-east": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-decisive-hour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mott-continuation-committee": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john r. mott",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

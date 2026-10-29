@@ -1,0 +1,87 @@
+{
+ "_about": "Public-domain Hugh Stowell Brown (1823-1886), Baptist minister of Myrtle Street Chapel, Liverpool, popular lecturer to working men, for the Word Hoard: The Pilgrim Fathers (1854), Lectures for the People (1859-60), Lectures to Working Men (1870) and Manliness and Other Sermons (1889). Hugh Stowell, his uncle, has his own shelf. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 66 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "brown",
+  "stowell"
+ ],
+ "_surname": [
+  "hugh stowell brown",
+  "h. stowell brown",
+  "rev. hugh stowell brown"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hsbrown-pilgrim-fathers": [
+   "pilgrimfathers00browgoog",
+   "The Pilgrim fathers (Manchester, T. Agnew and Sons, 1854)"
+  ],
+  "hsbrown-lectures-for-people": [
+   "lecturesforpeopl00brow",
+   "Lectures for the people (Philadelphia, G. G. Evans, 1860)"
+  ],
+  "hsbrown-working-men": [
+   "lecturestoworki00browgoog",
+   "Lectures to working men (Philip, 1870)"
+  ],
+  "hsbrown-manliness": [
+   "manlinessotherse0000hugh",
+   "Manliness and other Sermons (catalogued 1889)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "hsbrown-other": "His uncle Hugh Stowell's works (hugh-stowell shelf); memoirs of him by others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "hsbrown-pilgrim-fathers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh stowell brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsbrown-lectures-for-people": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh stowell brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "hsbrown-working-men": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh stowell brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsbrown-manliness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh stowell brown",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

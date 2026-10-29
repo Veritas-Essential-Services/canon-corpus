@@ -1,0 +1,1038 @@
+{
+ "_about": "Lysias in English: the 'Handy Literal Translations' Orations of Lysias (selected speeches; translator unnamed in the file), clean Gutenberg. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "lysias"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lysias-literal-orations": [
+   6969,
+   "The Orations of Lysias (selection)",
+   "tr. unnamed ('Handy Literal Translations')"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "W. R. M. Lamb, Loeb (1930)": "held in part from Perseus: 34 texts (lysias-perseus-lamb-*). US PD from 2026 by date; Greek facing; on Perseus; pending",
+  "John Gillies (1778)": "PD; pending",
+  "John Gillies, The Orations of Lysias and Isocrates (1778)": "PD; the ECCO scan reads at 0.71 clean words. Refused for OCR quality on 2026-10-03"
+ },
+ "perseus": {
+  "lysias-perseus-lamb-accusation-of-calumny": [
+   "tlg0540.tlg008.perseus-eng2",
+   "Accusation of Calumny",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-agoratus": [
+   "tlg0540.tlg013.perseus-eng2",
+   "Against Agoratus",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-alcibiades-1": [
+   "tlg0540.tlg014.perseus-eng2",
+   "Against Alcibiades 1",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-alcibiades-2": [
+   "tlg0540.tlg015.perseus-eng2",
+   "Against Alcibiades 2",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-andocides": [
+   "tlg0540.tlg006.perseus-eng2",
+   "Against Andocides",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-diogeiton": [
+   "tlg0540.tlg032.perseus-eng2",
+   "Against Diogeiton",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys": [
+   "tlg0540.tlg027.perseus-eng2",
+   "Against Epicrates and his Fellow-envoys",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-eratosthenes": [
+   "tlg0540.tlg012.perseus-eng2",
+   "Against Eratosthenes",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-ergocles": [
+   "tlg0540.tlg028.perseus-eng2",
+   "Against Ergocles",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-nicomachus": [
+   "tlg0540.tlg030.perseus-eng2",
+   "Against Nicomachus",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-pancleon": [
+   "tlg0540.tlg023.perseus-eng2",
+   "Against Pancleon",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-philocrates": [
+   "tlg0540.tlg029.perseus-eng2",
+   "Against Philocrates",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-philon": [
+   "tlg0540.tlg031.perseus-eng2",
+   "Against Philon",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-simon": [
+   "tlg0540.tlg003.perseus-eng2",
+   "Against Simon",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-the-corn-dealers": [
+   "tlg0540.tlg022.perseus-eng2",
+   "Against The Corn-Dealers",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-the-subversion-of-the-ancestral": [
+   "tlg0540.tlg034.perseus-eng2",
+   "Against The Subversion of the Ancestral Constitution",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-theomnestus-1": [
+   "tlg0540.tlg010.perseus-eng2",
+   "Against Theomnestus 1",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-against-theomnestus-2": [
+   "tlg0540.tlg011.perseus-eng2",
+   "Against Theomnestus 2",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe": [
+   "tlg0540.tlg021.perseus-eng2",
+   "Defense Against A Charge Of Taking Bribes",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-defense-against-a-charge-of-subverting-t": [
+   "tlg0540.tlg025.perseus-eng2",
+   "Defense Against a Charge of Subverting the Democracy",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-for-callias": [
+   "tlg0540.tlg005.perseus-eng2",
+   "For Callias",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-for-polystratus": [
+   "tlg0540.tlg020.perseus-eng2",
+   "For Polystratus",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-for-the-soldier": [
+   "tlg0540.tlg009.perseus-eng2",
+   "For The Soldier",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-funeral-oration": [
+   "tlg0540.tlg002.perseus-eng2",
+   "Funeral Oration",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-in-defense-of-mantitheus": [
+   "tlg0540.tlg016.perseus-eng2",
+   "In Defense of Mantitheus",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-olympic-oration": [
+   "tlg0540.tlg033.perseus-eng2",
+   "Olympic Oration",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-a-wound-by-premeditation": [
+   "tlg0540.tlg004.perseus-eng2",
+   "On A Wound By Premeditation",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-the-property-of-eraton": [
+   "tlg0540.tlg017.perseus-eng2",
+   "On The Property Of Eraton",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-the-refusal-of-a-pension": [
+   "tlg0540.tlg024.perseus-eng2",
+   "On The Refusal Of A Pension",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t": [
+   "tlg0540.tlg018.perseus-eng2",
+   "On the Confiscation of the Property Of The Brother Of Nicias",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-the-murder-of-eratosthenes": [
+   "tlg0540.tlg001.perseus-eng2",
+   "On the Murder of Eratosthenes",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-the-olive-stump": [
+   "tlg0540.tlg007.perseus-eng2",
+   "On the Olive Stump",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-the-property-of-aristophanes": [
+   "tlg0540.tlg019.perseus-eng2",
+   "On the Property of Aristophanes",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., translator. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ],
+  "lysias-perseus-lamb-on-the-scrutiny-of-evandros": [
+   "tlg0540.tlg026.perseus-eng2",
+   "On the Scrutiny of Evandros",
+   "W.R.M. Lamb",
+   "Translation published 1930: US public domain (in or before 1930). Perseus source line: Lysias. Lamb, W.R.M., editor. Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1930."
+  ]
+ },
+ "_surname": [
+  "lysias"
+ ],
+ "_translators": {
+  "lysias-perseus-lamb-accusation-of-calumny": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-agoratus": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-alcibiades-1": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-alcibiades-2": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-andocides": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-diogeiton": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-eratosthenes": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-ergocles": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-nicomachus": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-pancleon": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-philocrates": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-philon": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-simon": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-the-corn-dealers": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-the-subversion-of-the-ancestral": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-theomnestus-1": "W.R.M. Lamb",
+  "lysias-perseus-lamb-against-theomnestus-2": "W.R.M. Lamb",
+  "lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe": "W.R.M. Lamb",
+  "lysias-perseus-lamb-defense-against-a-charge-of-subverting-t": "W.R.M. Lamb",
+  "lysias-perseus-lamb-for-callias": "W.R.M. Lamb",
+  "lysias-perseus-lamb-for-polystratus": "W.R.M. Lamb",
+  "lysias-perseus-lamb-for-the-soldier": "W.R.M. Lamb",
+  "lysias-perseus-lamb-funeral-oration": "W.R.M. Lamb",
+  "lysias-perseus-lamb-in-defense-of-mantitheus": "W.R.M. Lamb",
+  "lysias-perseus-lamb-olympic-oration": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-a-wound-by-premeditation": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-the-property-of-eraton": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-the-refusal-of-a-pension": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-the-murder-of-eratosthenes": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-the-olive-stump": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-the-property-of-aristophanes": "W.R.M. Lamb",
+  "lysias-perseus-lamb-on-the-scrutiny-of-evandros": "W.R.M. Lamb"
+ },
+ "_translator_unchecked": {
+  "lysias-literal-orations": "no single translator to check: unnamed ('Handy Literal Translations')"
+ },
+ "_checks": {
+  "lysias-literal-orations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "lysias",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ },
+ "_perseus_checks": {
+  "lysias-perseus-lamb-accusation-of-calumny": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg008.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg008/tlg0540.tlg008.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-agoratus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg013.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg013/tlg0540.tlg013.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-alcibiades-1": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg014.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg014/tlg0540.tlg014.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-alcibiades-2": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg015.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg015/tlg0540.tlg015.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-andocides": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg006.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg006/tlg0540.tlg006.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-diogeiton": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg032.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg032/tlg0540.tlg032.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg027.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg027/tlg0540.tlg027.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-eratosthenes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg012.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg012/tlg0540.tlg012.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-ergocles": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg028.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg028/tlg0540.tlg028.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-nicomachus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg030.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg030/tlg0540.tlg030.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-pancleon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg023.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg023/tlg0540.tlg023.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-philocrates": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg029.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg029/tlg0540.tlg029.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-philon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg031.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg031/tlg0540.tlg031.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-simon": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg003.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg003/tlg0540.tlg003.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-the-corn-dealers": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg022.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg022/tlg0540.tlg022.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-the-subversion-of-the-ancestral": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg034.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg034/tlg0540.tlg034.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-theomnestus-1": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg010.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg010/tlg0540.tlg010.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-against-theomnestus-2": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg011.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg011/tlg0540.tlg011.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg021.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg021/tlg0540.tlg021.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-defense-against-a-charge-of-subverting-t": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg025.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg025/tlg0540.tlg025.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-for-callias": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg005.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg005/tlg0540.tlg005.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-for-polystratus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg020.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg020/tlg0540.tlg020.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-for-the-soldier": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg009.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg009/tlg0540.tlg009.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-funeral-oration": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg002.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg002/tlg0540.tlg002.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-in-defense-of-mantitheus": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg016.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg016/tlg0540.tlg016.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-olympic-oration": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg033.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg033/tlg0540.tlg033.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-a-wound-by-premeditation": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg004.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg004/tlg0540.tlg004.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-the-property-of-eraton": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg017.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg017/tlg0540.tlg017.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-the-refusal-of-a-pension": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg024.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg024/tlg0540.tlg024.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg018.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg018/tlg0540.tlg018.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-the-murder-of-eratosthenes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg001.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg001/tlg0540.tlg001.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-the-olive-stump": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg007.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg007/tlg0540.tlg007.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-the-property-of-aristophanes": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg019.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg019/tlg0540.tlg019.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  },
+  "lysias-perseus-lamb-on-the-scrutiny-of-evandros": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0540.tlg026.perseus-eng2",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "W.R.M. Lamb",
+   "author_seen": "lysias",
+   "source_years": [
+    1930
+   ],
+   "rights_override": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0540/tlg026/tlg0540.tlg026.perseus-eng2.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_rights_checked": {
+  "lysias-perseus-lamb-accusation-of-calumny": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-agoratus": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-alcibiades-1": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-alcibiades-2": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-andocides": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-diogeiton": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-epicrates-and-his-fellow-envoys": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-eratosthenes": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-ergocles": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-nicomachus": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-pancleon": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-philocrates": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-philon": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-simon": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-the-corn-dealers": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-the-subversion-of-the-ancestral": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-theomnestus-1": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-against-theomnestus-2": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-defense-against-a-charge-of-taking-bribe": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-defense-against-a-charge-of-subverting-t": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-for-callias": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-for-polystratus": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-for-the-soldier": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-funeral-oration": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-in-defense-of-mantitheus": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-olympic-oration": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-a-wound-by-premeditation": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-the-property-of-eraton": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-the-refusal-of-a-pension": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-the-confiscation-of-the-property-of-t": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-the-murder-of-eratosthenes": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-the-olive-stump": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-the-property-of-aristophanes": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is",
+  "lysias-perseus-lamb-on-the-scrutiny-of-evandros": "the file's sourceDesc dates this Loeb volume 1930: US public domain since 2026-01-01 (95 years from publication). Stated by hand because the gate is fail-closed at 1930, as fetch_shelf.py's IA gate is"
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ }
+}

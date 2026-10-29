@@ -1,0 +1,42 @@
+{
+ "_about": "Rutilius Claudius Namatianus (5th c.), De reditu suo, in English. Lane B (classical and late-antique translations).",
+ "_name_words": [
+  "rutilius",
+  "namatianus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rutilius-savage-armstrong-1907": [
+   "cu31924026546386",
+   "De reditu suo libri duo: the Home-Coming of Rutilius Claudius Namatianus, ed. with introduction and notes by Charles Haines Keene (London, 1907)",
+   "tr. George F. Savage-Armstrong (English verse); ed. Charles Haines Keene"
+  ]
+ },
+ "_surname": [
+  "rutilius",
+  "rutilii"
+ ],
+ "_translator_unchecked": {},
+ "_checks": {
+  "rutilius-savage-armstrong-1907": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "rutilius",
+   "translator_claimed": "Savage-Armstrong",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_translators": {
+  "rutilius-savage-armstrong-1907": "Savage-Armstrong"
+ },
+ "_translator_note": {
+  "rutilius-savage-armstrong-1907": "the claim is the hyphenated surname 'Savage-Armstrong' alone: the OCR prints 'GEORGE F:.SAVAGE-ARMSTRONG', so the full name cannot match as words; the surname is distinctive"
+ }
+}

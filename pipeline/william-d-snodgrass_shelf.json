@@ -1,0 +1,58 @@
+{
+ "_about": "Public-domain William D. Snodgrass (1796-1885), Presbyterian minister in New York and Goshen, for the Word Hoard: The Scripture Doctrine of Sanctification stated and defended against the error of perfectionism, Perfect Sanctification (from the Princeton Review), and Discourses on the Apostolical Succession. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 108 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william d. snodgrass",
+  "w. d. snodgrass"
+ ],
+ "_surname": [
+  "william d. snodgrass",
+  "w. d. snodgrass"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wdsnodgrass-sanctification": [
+   "scripturedoctr00snod",
+   "The scripture doctrine of sanctification stated and defended against the error of perfectionism (New York : R. Carter, 1841)"
+  ],
+  "wdsnodgrass-perfect-sanctification": [
+   "perfectsanctific00snod",
+   "Perfect sanctification : an article from the Princeton review for July, 1842 (Princeton, N.J. : Printed by John T. Robinson, 1842)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wdsnodgrass-murray-street": "discoursesdelive00murr (Murray Street Church discourses by several ministers)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "wdsnodgrass-apostolical-succession": "Discourses on the Apostolical Succession (1844), IA discoursesonap00snod: text file returned a server error"
+ },
+ "_translators": {},
+ "_checks": {
+  "wdsnodgrass-sanctification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. snodgrass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wdsnodgrass-perfect-sanctification": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. d. snodgrass",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

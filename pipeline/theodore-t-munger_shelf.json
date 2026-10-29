@@ -1,0 +1,140 @@
+{
+ "_about": "Public-domain Theodore Thornton Munger (1830-1910, New Haven Congregationalist, voice of the New Theology) for the Word Hoard: On the Threshold (1881), The Freedom of Faith (1883), Lamps and Paths (1885), The Appeal to Life (1887), Character through Inspiration (1897), Horace Bushnell, Preacher and Theologian (1899) and Essays for the Day (1904), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "munger"
+ ],
+ "_surname": [
+  "munger",
+  "theodore t. munger",
+  "t. t. munger"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "munger-on-the-threshold": [
+   "onthreshold00mun",
+   "On the Threshold (Boston: Houghton, Mifflin, 1881)"
+  ],
+  "munger-freedom-of-faith": [
+   "freedomoffaith02mung",
+   "The Freedom of Faith (Boston: Houghton, Mifflin, 1883)"
+  ],
+  "munger-lamps-and-paths": [
+   "lampspaths00mung_0",
+   "Lamps and Paths (Boston and New York: Houghton, Mifflin, 1885)"
+  ],
+  "munger-appeal-to-life": [
+   "appealtolife01mung",
+   "The Appeal to Life (Boston and New York: Houghton, Mifflin; copyright 1887)"
+  ],
+  "munger-character-inspiration": [
+   "characterthrough0000mung",
+   "Character through Inspiration, and Other Papers (London: James Clarke, 1897)"
+  ],
+  "munger-horace-bushnell": [
+   "horacebushnellpr00munguoft",
+   "Horace Bushnell, Preacher and Theologian (Boston and New York: Houghton, Mifflin; copyright 1899)"
+  ],
+  "munger-essays-for-the-day": [
+   "essaysforday00mung",
+   "Essays for the Day (Boston and New York: Houghton, Mifflin, 1904)"
+  ]
+ },
+ "_alternates": {
+  "munger-copies": "Other copies of The Freedom of Faith and the Bushnell"
+ },
+ "_excluded": {
+  "munger-anthology": "The Message of Christ to Manhood: lectures by several hands"
+ },
+ "_identity_checked": {
+  "munger-on-the-threshold": {
+   "author": "title page read: 'By THEODORE T. HUNGER.' (OCR for Munger)"
+  }
+ },
+ "_rights_checked": {
+  "munger-on-the-threshold": "title page read: 'THEODORE T. MUNGER' (OCR 'HUNGER'); copyright 1880"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "munger-on-the-threshold": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: 'THEODORE T. MUNGER' (OCR 'HUNGER'); copyright 1880"
+  },
+  "munger-freedom-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "munger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "munger-lamps-and-paths": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "munger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "munger-appeal-to-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "munger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "munger-character-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "munger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "munger-horace-bushnell": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "munger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "munger-essays-for-the-day": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "munger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

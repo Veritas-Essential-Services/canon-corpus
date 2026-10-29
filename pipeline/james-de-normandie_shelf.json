@@ -1,0 +1,79 @@
+{
+ "_about": "Public-domain James De Normandie, Unitarian minister at Portsmouth, New Hampshire, and the First Church in Roxbury, for the Word Hoard: The Lord Reigneth (on the assassination of Lincoln) and memorial sketches of Harriet Ryan Albee and Francis Bickford Hornbrooke. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 126 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james de normandie",
+  "j. de normandie",
+  "de normandie",
+  "normandie"
+ ],
+ "_surname": [
+  "de normandie",
+  "normandie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "de-normandie-lord-reigneth": [
+   "lordreignethfeww00deno",
+   "The Lord reigneth : a few words on Sunday morning, April 16th, 1865, after the assassination of Abraham Lincoln ([Portsmouth? N.H. : s.n., 1865)"
+  ],
+  "de-normandie-albee": [
+   "harrietryanalbe00normgoog",
+   "Harriet Ryan Albee: A Memorial Sketch (G. H. Ellis, printer, 1901)"
+  ],
+  "de-normandie-hornbrooke": [
+   "inmemoriamasket01normgoog",
+   "In Memoriam: A Sketch of the Life of the Rev. Francis Bickford Hornbrooke (Newton Graphic Pub., 1905)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "de-normandie-review": "the Unitarian Review, a periodical",
+  "de-normandie-journals": "Massachusetts Historical Society proceedings"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "de-normandie-lord-reigneth": "OCR of the title page: \"THE LORD REIGNETH: FEW WORDS SUNDAY MORNING, April 16th, 1865, AFTER THE ASSASSINATION OF ABRAHAM LINCOLN BY JAMES DeNORMANDIE, Minister of the South Parish, Portsmouth, N. H.\" (DeNOEMANDIE in the OCR)"
+ },
+ "_pending": {
+  "de-normandie-beauty-of-wisdom": "The Beauty of Wisdom (1903), IA beautyofwisdomvo00deno: daily readings from ancient writers he compiled (waits for Adam's ruling on many-author compilations)",
+  "de-normandie-phillips-brooks": "Phillips Brooks and the church universal : a sermon preached to the First Church, Eliot Square, Roxbury, Boston, January 29, 1893 ([Boston] : Women's Alliance of the First Church, 1893) (IA phillipsbrooksch00deno): the OCR text is unreadable throughout (no title word survives); a re-OCR or cleaner scan is wanted"
+ },
+ "_translators": {},
+ "_checks": {
+  "de-normandie-lord-reigneth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-normandie-albee": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de normandie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "de-normandie-hornbrooke": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "de normandie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

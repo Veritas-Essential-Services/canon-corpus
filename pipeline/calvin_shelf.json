@@ -1,0 +1,774 @@
+{
+ "_about": "Every public-domain John Calvin (1509-1564) English text the Word Hoard holds beyond the Commentaries. The 45 Calvin Translation Society commentary volumes are already held through CALVIN_COMMENTARIES in pipeline/fetch_sources.py (census 2026-10-02: complete, Genesis to the Catholic Epistles; Calvin wrote no commentary on Revelation and his Ezekiel stops at ch. 20), listed under _held. Added here as verified gaps: the Institutes in Henry Beveridge's Calvin Translation Society translation (1845) and A Treatise on Relics (tr. Krasinski, 1854), clean from CCEL; the Letters (ed. Jules Bonnet, Philadelphia: Presbyterian Board of Publication, 1858), vols. 1-2 clean from Gutenberg and vols. 3-4 as IA OCR; and the Tracts Relating to the Reformation (Calvin Translation Society, tr. Beveridge, 1844-1851, 3 vols; title-page years read from the OCR) as IA OCR, raw and unconverted. Extended 2026-10-24 by lane A at Adam's request (his Libronix list: all of Calvin in public-domain English) with the sixteenth-century English translations the Calvin Translation Society never reached or that differ from it: Thomas Norton's Institution (1561), the Geneva catechism in English, the treatises on the sacrament, on relics, against astrology, and on the immortality of the soul, and the sermon translations of Arthur Golding and others (on Job, Deuteronomy, Galatians, Ephesians, Timothy and Titus, the Ten Commandments, Psalm 119, Jacob and Esau, Melchizedek, Jonah, and single sermons). The early English versions of the commentaries are left out, since the Calvin Translation Society set holds every commentary.",
+ "_ccel_author": "c/calvin",
+ "_name_words": [
+  "calvin",
+  "caluin",
+  "calvine",
+  "caluine",
+  "caluyne",
+  "calvyn",
+  "caluyn"
+ ],
+ "_surname": [
+  "calvin",
+  "caluin",
+  "calvine",
+  "caluine",
+  "caluyne",
+  "calvyn",
+  "caluyn"
+ ],
+ "_translators": {
+  "calvin-institutes-beveridge": "beveridge",
+  "calvin-treatise-relics": "krasinski",
+  "calvin-letters-1": "constable",
+  "calvin-letters-2": "constable",
+  "calvin-letters-3": "gilchrist",
+  "calvin-letters-4": "gilchrist",
+  "calvin-tracts-2": "beveridge",
+  "calvin-tracts-3": "beveridge"
+ },
+ "_held": {
+  "calvin-com01": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Genesis 1-23, CTS)",
+  "calvin-com02": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Genesis 24-50, CTS)",
+  "calvin-com03": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 1, CTS)",
+  "calvin-com04": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 2, CTS)",
+  "calvin-com05": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 3, CTS)",
+  "calvin-com06": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Law, Vol. 4, CTS)",
+  "calvin-com07": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Joshua, CTS)",
+  "calvin-com08": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 1-35, CTS)",
+  "calvin-com09": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 36-66, CTS)",
+  "calvin-com10": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 67-92, CTS)",
+  "calvin-com11": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 93-119, CTS)",
+  "calvin-com12": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Psalms 119-150, CTS)",
+  "calvin-com13": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 1-16, CTS)",
+  "calvin-com14": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 17-32, CTS)",
+  "calvin-com15": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 33-48, CTS)",
+  "calvin-com16": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Isaiah 49-66, CTS)",
+  "calvin-com17": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 1-9, CTS)",
+  "calvin-com18": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 10-19, CTS)",
+  "calvin-com19": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 20-29, CTS)",
+  "calvin-com20": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 30-47, CTS)",
+  "calvin-com21": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jeremiah-Lamentations 48-52, CTS)",
+  "calvin-com22": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Ezekiel 1-12, CTS)",
+  "calvin-com23": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Ezekiel 13-20, CTS)",
+  "calvin-com24": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Daniel 1-6, CTS)",
+  "calvin-com25": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Daniel 7-12, CTS)",
+  "calvin-com26": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Hosea, CTS)",
+  "calvin-com27": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Joel-Amos-Obadiah, CTS)",
+  "calvin-com28": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Jonah-Micah-Nahum, CTS)",
+  "calvin-com29": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Habakkuk-Zephaniah-Haggai, CTS)",
+  "calvin-com30": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Zechariah-Malachi, CTS)",
+  "calvin-com31": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Gospels, Vol. 1, CTS)",
+  "calvin-com32": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Gospels, Vol. 2, CTS)",
+  "calvin-com33": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Harmony of the Gospels, Vol. 3, CTS)",
+  "calvin-com34": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on John 1-11, CTS)",
+  "calvin-com35": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on John 12-21, CTS)",
+  "calvin-com36": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Acts 1-13, CTS)",
+  "calvin-com37": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Acts 14-28, CTS)",
+  "calvin-com38": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Romans, CTS)",
+  "calvin-com39": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on 1 Corinthians 1-14, CTS)",
+  "calvin-com40": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on 1 Corinthians 15-16, 2 Corinthians, CTS)",
+  "calvin-com41": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Galatians-Ephesians, CTS)",
+  "calvin-com42": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Philippians-Colossians-Thessalonians, CTS)",
+  "calvin-com43": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Timothy, Titus, Philemon, CTS)",
+  "calvin-com44": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Hebrews, CTS)",
+  "calvin-com45": "CCEL calcom, already in pipeline/fetch_sources.py (Commentary on Catholic Epistles, CTS)"
+ },
+ "ccel": {
+  "calvin-institutes-beveridge": [
+   "institutes",
+   "Institutes of the Christian Religion, tr. Henry Beveridge (Calvin Translation Society, 1845)",
+   ""
+  ],
+  "calvin-treatise-relics": [
+   "treatise_relics",
+   "A Treatise on Relics, tr. Valerian Krasinski (1854)",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "calvin-letters-1": [
+   45423,
+   "Letters of John Calvin, ed. Jules Bonnet, tr. David Constable (Philadelphia, 1858), vol. 1"
+  ],
+  "calvin-letters-2": [
+   45463,
+   "Letters of John Calvin, ed. Jules Bonnet, tr. David Constable (Philadelphia, 1858), vol. 2"
+  ]
+ },
+ "internet_archive": {
+  "calvin-letters-3": [
+   "lettersc03calv",
+   "Letters of John Calvin, ed. Jules Bonnet, tr. Marcus Robert Gilchrist (Philadelphia, 1858), vol. 3"
+  ],
+  "calvin-letters-4": [
+   "lettersofjohncal04calv",
+   "Letters of John Calvin, ed. Jules Bonnet, tr. Marcus Robert Gilchrist (Philadelphia, 1858), vol. 4"
+  ],
+  "calvin-tracts-1": [
+   "tractsrelatingto01calv",
+   "Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1844), vol. 1"
+  ],
+  "calvin-tracts-2": [
+   "tractsrelatingto02calv",
+   "Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1850), vol. 2"
+  ],
+  "calvin-tracts-3": [
+   "tractsrelatingto03calv",
+   "Tracts Relating to the Reformation, tr. Henry Beveridge (Calvin Translation Society, 1851), vol. 3"
+  ],
+  "calvin-sacrament-1547": [
+   "bim_early-english-books-1475-1640_a-faythful-and-most-godl_calvin-jean_1547",
+   "A faythful and most godly treatyse concernyng the sacrament (catalogued 1547)"
+  ],
+  "calvin-mynde-godly-man-1548": [
+   "bim_early-english-books-1475-1640_the-mynde-of-the-godly-m_calvin-jean_1548_1",
+   "The mynde of the godly man J. Caluyne, what a faithfull man ...  1548 (catalogued 1548)"
+  ],
+  "calvin-epistle-consolation-1550": [
+   "bim_early-english-books-1475-1640_an-epistle-both-of-godly_calvin-jean_1550_0",
+   "An epistle both of godly consolacion and also of advertisement,...  1550 (catalogued 1550)"
+  ],
+  "calvin-catechisme-1556": [
+   "bim_early-english-books-1475-1640_the-catechisme-or-manner_john-calvin_1556",
+   "The Catechisme or Manner ...  1556 (catalogued 1556)"
+  ],
+  "calvin-sermons-1560": [
+   "bim_early-english-books-1475-1640_sermons-of-john-calvin-_jean-calvin_1560",
+   "Sermons of John Calvin, ...  1560 (catalogued 1560)"
+  ],
+  "calvin-two-sermons-1560": [
+   "bim_early-english-books-1475-1640_two-godly-and-notable-se_calvin-jean_1560",
+   "Two godly and notable sermons preached...  1560 (England : By VVyllyam Seres dvveling at the vvest ende of Paules churche at the sygne of the hedgehogge, 1560)"
+  ],
+  "calvin-relics-1561": [
+   "bim_early-english-books-1475-1640_a-very-profitable-treati_jean-calvin_1561",
+   "A very profitable treatise, ...  1561 (catalogued 1561)"
+  ],
+  "calvin-astrology-1561": [
+   "bim_early-english-books-1475-1640_an-admonicion-against-as_jhon-calvine_1561",
+   "An Admonicion Against Astrology ...  1561 (catalogued 1561)"
+  ],
+  "calvin-four-sermons-1561": [
+   "bim_early-english-books-1475-1640_foure-godlye-sermons-aga_calvin-jean_1561",
+   "Foure godlye sermons agaynst the pollution of idolatries, comforting men in persecution,  1561 (catalogued 1561)"
+  ],
+  "calvin-institution-norton-1561": [
+   "bim_early-english-books-1475-1640_the-institution-of-chris_calvin-john_1561",
+   "The institution of Christian religion,...  1561 (catalogued 1561)"
+  ],
+  "calvin-three-sermons-1562": [
+   "bim_early-english-books-1475-1640_thre-notable-sermones-m_calvin-jean_1562",
+   "Thre notable sermones, made by the godly and famous clerke, ...  1562 (catalogued 1562)"
+  ],
+  "calvin-right-honorable-1567": [
+   "bim_early-english-books-1475-1640_to-the-right-honorable-_j-calvin_1567",
+   "To the right Honorable, ...  1567 (England : By [H. Wykes for?] VVilliam Seres, dvvellyng at the weast ende of Powels, at the signe of the Hedghogge, 1567)"
+  ],
+  "calvin-galatians-sermons-1574": [
+   "bim_early-english-books-1475-1640_sermons-of-m-john-calvi_calvin-john_1574",
+   "Sermons of M. John Calvin ...  1574 (catalogued 1574)"
+  ],
+  "calvin-job-sermons-1574": [
+   "bim_early-english-books-1475-1640_sermons-upon-the-booke-o_calvin-j_1574",
+   "SERMONS UPON THE BOOKE OF JOB.  1574 (catalogued 1574)"
+  ],
+  "calvin-ephesians-sermons-1577": [
+   "bim_early-english-books-1475-1640_the-sermons-of-m-john-c_jhon-calvin_1577",
+   "The Sermons of M. John Calvin, upon the Epistle of S ...  1577 (catalogued 1577)"
+  ],
+  "calvin-jonas-lectures-1578": [
+   "bim_early-english-books-1475-1640_the-lectures-or-daily-se_calvin-jean_1578",
+   "The lectures or daily sermons,...  1578 (catalogued 1578)"
+  ],
+  "calvin-four-sermons-1579": [
+   "bim_early-english-books-1475-1640_foure-sermons-of-maister_calvin-john_1579",
+   "Foure Sermons of Maister John Calvin,...  1579 (catalogued 1579)"
+  ],
+  "calvin-sermons-1579": [
+   "bim_early-english-books-1475-1640_sermons-of-m-john-calvi_calvin-john_1579",
+   "Sermons of M. John Calvine,...  1579 (catalogued 1579)"
+  ],
+  "calvin-thirteen-sermons-1579": [
+   "bim_early-english-books-1475-1640_thirteene-sermons-of-mai_calvin-john_1579",
+   "Thirteene sermons of Maister John Calvin,...  1579 (catalogued 1579)"
+  ],
+  "calvin-timothy-titus-sermons-1579": [
+   "bim_early-english-books-1475-1640_sermons-on-the-epistles-_calvin-john_1579",
+   "Sermons on the Epistles of J. Paule to Timothie and Titus ...  1579 (catalogued 1579)"
+  ],
+  "calvin-twenty-two-sermons-1580": [
+   "bim_early-english-books-1475-1640_two-and-twentie-sermons-_calvin-john_1580",
+   "Two and twentie sermons of maister ...  1580 (catalogued 1580)"
+  ],
+  "calvin-three-propositions-1580": [
+   "bim_early-english-books-1475-1640_three-propositions-or-sp_j-calvin_1580",
+   "THREE PROPOSITIONS OR SPEECHES, ...  1580 (catalogued 1580)"
+  ],
+  "calvin-sermons-1580": [
+   "bim_early-english-books-1475-1640_sermons-of-maister-john-_calvin-john_1580",
+   "Sermons of Maister John Calvin,...  1580 (catalogued 1580)"
+  ],
+  "calvin-ten-commandments-sermons-1581": [
+   "bim_early-english-books-1475-1640_sermons-of-m-john-calvi_calvin-j_1581",
+   "Sermons of M. John Calvin, upon the x. commandements...  1581 (catalogued 1581)"
+  ],
+  "calvin-sermons-upon-1581": [
+   "bim_early-english-books-1475-1640_sermons-of-m-john-calvi_calvin-jean_1581",
+   "Sermons of M. John Calvin, upon ...  1581 (catalogued 1581)"
+  ],
+  "calvin-divers-sermons-1581": [
+   "bim_early-english-books-1475-1640_divers-sermons-conce_calvin-john_1581",
+   "Divers sermons ... Concerning the ...  1581 (catalogued 1581)"
+  ],
+  "calvin-a-sermon-1581": [
+   "bim_early-english-books-1475-1640_a-sermon-of-the-famous-a_calvin-jean-sermons_1581",
+   "A sermon of the famous and godly learned man, ...  1581 (catalogued 1581)"
+  ],
+  "calvin-immortality-soul-1581": [
+   "bim_early-english-books-1475-1640_an-excellent-treatise-of_john-calvin_1581",
+   "An Excellent Treatise of the Immortalytie of the Soule,...  1581 (catalogued 1581)"
+  ],
+  "calvin-deuteronomy-sermons-1583": [
+   "bim_early-english-books-1475-1640_the-sermons-of-iohn-calv_calvin-jean-sermons_1583",
+   "The sermons of Iohn Calvin upon Deuteronomie: ...  1583 (catalogued 1583)"
+  ],
+  "calvin-two-sermons-1584": [
+   "bim_early-english-books-1475-1640_two-godly-and-learned-se_jhon-calvin_1584",
+   "Two Godly and Learned Sermons; ...  1584 (catalogued 1584)"
+  ],
+  "calvin-melchisedech-1592": [
+   "bim_early-english-books-1475-1640_sermon-on-the-histor_john-calvin_1592",
+   "Sermon ... on the Historie of Melchisedech: ...  1592 (catalogued 1592)"
+  ],
+  "calvin-geneva-government-1659": [
+   "bim_early-english-books-1641-1700_the-true-forme-of-the-go_calvin-jean_1659",
+   "The true forme of the government of the church of Geneva...  1659 (catalogued 1659)"
+  ]
+ },
+ "_alternates": {
+  "CCEL calvin/chr_life, calvin/prayer": "On the Christian Life and Of Prayer: extracts from Beveridge's Institutes (Book III), already inside calvin-institutes-beveridge.",
+  "lettersofjohncal01calv, lettersofjohncal02calv, lettersofjohncal04calvuoft, letters01calv": "IA scans of the same Letters; vols 1-2 are held clean from Gutenberg.",
+  "lettersofjohncal00calvuoft, lettersofjohncal01calvuoft, lettersofjohncalrepro01calv/02calv": "The Edinburgh 1855-57 edition of the Letters (vols 1-2 only, tr. David Constable); not fetched.",
+  "tractsre0[1-3]calvuoft, tractsreformatio0[2-3]calvuoft, tractsrelatingto[1-3]calv, tractsrelatingt0[0-1]bzgoog": "Further scans of the CTS Tracts.",
+  "John Allen's translation of the Institutes (1813 onward); Norton's (1561)": "other English Institutes; not searched this burn"
+ },
+ "_excluded": {
+  "CCEL calvin/institutio1, institutio2": "Latin Institutio (1834): CCEL's files are stubs, about 4,000 characters each",
+  "CCEL calvin/sermons": "'Three Volumes of Sermons' is Corpus Reformatorum vols. 61-63, the French originals: not the CTS English this shelf collects (a later French/Latin shelf could take it)",
+  "lettersofjohncal000[1-4]drju/marc (1972-73), lettersofjohncal0000calv (1980)": "modern reprints: possibly in copyright",
+  "calvin-early-commentaries": "the sixteenth- and seventeenth-century English versions of the commentaries (Psalms 1571, Genesis 1578, Corinthians 1577, Colossians 1581, Romans 1583, Hebrews 1605, Isaiah 1609 and others): every commentary is held in the Calvin Translation Society translation",
+  "calvin-latin-other": "Latin, Spanish and Irish editions; the 1597 Geneva New Testament",
+  "calvin-abridgements": "the Abridgement of the Institution (Lawne, 1585-87) and the Aphorismi: made by others",
+  "calvin-about": "books about Calvin or Calvinism (The Ruine of Calvinisme, A Vindication of Calvin, Calvinus Redivivus, Vindiciae Calvinisticae, modern studies)",
+  "calvin-dups": "later printings of the Catechism (1560-1628), the second scans of the Job, Deuteronomy and Four Sermons volumes, and the 1580 Lectures of Sermons",
+  "bim_early-english-books-1475-1640_whether-christian-faith-_calvin-john_1553": "Whether Christian Faith May Be Kept Secret (1553): the text file is under 5 KB, unusable OCR"
+ },
+ "_checks": {
+  "calvin-institutes-beveridge": {
+   "kind": "ccel",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "beveridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "calvin-treatise-relics": {
+   "kind": "ccel",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "krasinski",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_print_source": "Amherst, N.Y.: Prometheus Books, 2008",
+   "ccel_print_source_check": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "calvin-letters-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "constable",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "calvin-letters-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "constable",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "calvin-letters-3": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "gilchrist",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-letters-4": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "gilchrist",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-tracts-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-tracts-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "beveridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-tracts-3": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "translator_claimed": "beveridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "calvin-sacrament-1547": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1547",
+   "ia_date": "1547",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-mynde-godly-man-1548": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluyn",
+   "identity": "ok",
+   "ia_rights": "ok: published 1548",
+   "ia_date": "1548",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-epistle-consolation-1550": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluine",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1550",
+   "ia_date": "1550",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-catechisme-1556": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1556",
+   "ia_date": "1556",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-sermons-1560": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluine",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1560",
+   "ia_date": "1560",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-two-sermons-1560": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluine",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1560",
+   "ia_date": "1560",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-relics-1561": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1561",
+   "ia_date": "1561",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-astrology-1561": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1561",
+   "ia_date": "1561",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-four-sermons-1561": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1561",
+   "ia_date": "1561",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-institution-norton-1561": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1561",
+   "ia_date": "1561",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-three-sermons-1562": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1562",
+   "ia_date": "1562",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-right-honorable-1567": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1567",
+   "ia_date": "1567",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-galatians-sermons-1574": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1574",
+   "ia_date": "1574",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-job-sermons-1574": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1574",
+   "ia_date": "1574",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-ephesians-sermons-1577": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1577",
+   "ia_date": "1577",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-jonas-lectures-1578": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1578",
+   "ia_date": "1578",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-four-sermons-1579": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1579",
+   "ia_date": "1579",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-sermons-1579": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1579",
+   "ia_date": "1579",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-thirteen-sermons-1579": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1579",
+   "ia_date": "1579",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-timothy-titus-sermons-1579": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1579",
+   "ia_date": "1579",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-twenty-two-sermons-1580": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1580",
+   "ia_date": "1580",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-three-propositions-1580": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1580",
+   "ia_date": "1580",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-sermons-1580": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1580",
+   "ia_date": "1580",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-ten-commandments-sermons-1581": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-sermons-upon-1581": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-divers-sermons-1581": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-a-sermon-1581": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-immortality-soul-1581": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1581",
+   "ia_date": "1581",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-deuteronomy-sermons-1583": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "calvin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1583",
+   "ia_date": "1583",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-two-sermons-1584": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1584",
+   "ia_date": "1584",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-melchisedech-1592": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "caluin",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1592",
+   "ia_date": "1592",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "calvin-geneva-government-1659": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1659",
+   "ia_date": "1659",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_translator_not_in_text": {
+  "calvin-tracts-1": "Beveridge (claimed, not checkable): vol. 1's OCR never names Beveridge (its title page is not in the text layer); vols. 2-3 of the same Calvin Translation Society series name him, and IA's record for vol. 1 credits Beveridge (Calvin Translation Society, 1844). Kept out of _translators because no override may excuse the translator check (2026-10-03)."
+ },
+ "_pending": {
+  "calvin-certain-homilies-1553": "Certain homilies containing profitable ...  1553 (catalogued 1553) (IA bim_early-english-books-1475-1640_certain-homilies-contain_calvin-john_1553): the title page is too dark to read the author line; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_identity_checked": {
+  "calvin-catechisme-1556": {
+   "author": "Title page: 'Made by the excellent Doctor and Pastor in Christes Churche, Iohn Caluin.'",
+   "title": "Title page: 'THE CATECHISME or manner to teache children the Christian religion, wherin the Minister demandeth the question, and the childe maketh answere ... By Iohn Crespin, 1556' (OCR splits CATECHISME at the line end)."
+  },
+  "calvin-relics-1561": "Title page: 'A very profitable treatise, made by M. Ihon Calvyne, declarynge what great profit might come to al christendome, yf there were a regester made of all Saintes bodies and other reliques ... Translated out of Frenche into English by Steven Wythers. 1561' (OCR reads 'Caluypne').",
+  "calvin-astrology-1561": {
+   "author": "Title page, read from the page image: 'AN ADMONICION AGAINST ASTROLOGY IUDICIALL and other curiosities, that raigne nowe in the world: written in the french tonge by IHON CALVINE and translated into Englishe by G. G. ... Imprinted at London by Rouland Hall.'",
+   "title": "Title page, read from the page image: 'AN ADMONICION AGAINST ASTROLOGY IUDICIALL'; the OCR loses the black-letter title."
+  },
+  "calvin-institution-norton-1561": "Title page, read from the page image: 'THE INSTITUTION OF Christian Religion, wrytten in Latine by maister Ihon Calvin, and translated into Englysh according to the authors last edition ... Imprinted at London by Reinolde Wolfe & Richarde Harison, Anno 1561.' (Thomas Norton's translation.)",
+  "calvin-thirteen-sermons-1579": "Title page, read from the page image: 'Thirteene SERMONS OF Maister Iohn Caluine, Entreating of the Free Election of God in Iacob, and of reprobation in Esau ... Translated into Englishe by Iohn Fielde ... Imprinted at London for Thomas Man and Tobie Cooke, 1579.'",
+  "calvin-timothy-titus-sermons-1579": "Title page, read from the page image (a very dark scan): 'SERMONS of M. Iohn Caluin, on the Epistles of S. Paule to Timothie and Titus ... At London, 1579.'",
+  "calvin-twenty-two-sermons-1580": "Title page: 'Two and twentie Sermons of Maister Iohn Calvin. In which Sermons is most religiously handled the hundredth and nineteenth Psalme of David ... Translated out of French into English ... London ... for Iohn Harison and Thomas Man' (OCR reads 'Tobn Cahn').",
+  "calvin-three-propositions-1580": "Title page: 'Three Propositions or Speeches, which the excellent man M. Iohn Calvin, one of the Pastors of the Church of Geneva, ...' (OCR reads 'Calnin'); dedication signed T. W.",
+  "calvin-geneva-government-1659": "Title page, read from the page image: 'The true Forme of the GOVERNMENT OF THE CHURCH OF GENEVA set forth by that most Reverend Divine, Mr. JOHN CALVIN, &c. ... Humbly presented to the Parliament. London, Printed for L. Chapman, 1659.' The book opens with the Confession of Faith used in the English congregation at Geneva; the title page names Calvin."
+ }
+}

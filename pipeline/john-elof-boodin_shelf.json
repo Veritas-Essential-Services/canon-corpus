@@ -1,0 +1,64 @@
+{
+ "_about": "John Elof Boodin (1869-1950), Swedish-born American pragmatist and cosmic idealist. Raw IA OCR: Truth and Reality, an introduction to the theory of knowledge (New York: Macmillan, 1911), clean 0.95; A Realistic Universe, an introduction to metaphysics (Macmillan, 1916), clean 0.97; Cosmic Evolution, outlines of cosmic idealism (Macmillan, 1925), clean 0.95. US public domain. No uids minted.",
+ "_author": "John Elof Boodin",
+ "_name_words": [
+  "john",
+  "elof",
+  "boodin"
+ ],
+ "_surname": [
+  "boodin"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boodin-truth-and-reality-1911": [
+   "truthrealityintr00boodiala",
+   "Truth and Reality (Macmillan, 1911)"
+  ],
+  "boodin-realistic-universe-1916": [
+   "arealisticuniver00booduoft",
+   "A Realistic Universe (Macmillan, 1916)"
+  ],
+  "boodin-cosmic-evolution-1925": [
+   "cosmicevolutiono012754mbp",
+   "Cosmic Evolution (Macmillan, 1925)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "boodin-truth-and-reality-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boodin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boodin-realistic-universe-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boodin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "boodin-cosmic-evolution-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "boodin",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,382 @@
+{
+ "_about": "B. M. Croker's Anglo-Indian and Irish novels",
+ "_author": "B. M. Croker",
+ "_name_words": [
+  "croker"
+ ],
+ "_surname": [
+  "b. m. croker"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "bmcroker-road-to-mandalay": [
+   18239,
+   "The Road to Mandalay: A Tale of Burma"
+  ],
+  "bmcroker-serpents-tooth": [
+   64660,
+   "The Serpent's Tooth"
+  ],
+  "bmcroker-real-lady-hilda": [
+   64892,
+   "The Real Lady Hilda: A Sketch",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-quicksands": [
+   65195,
+   "Quicksands",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-jungle-tales": [
+   65561,
+   "Jungle Tales"
+  ],
+  "bmcroker-a-nine-days-wonder": [
+   65634,
+   "A Nine Days' Wonder"
+  ],
+  "bmcroker-angel": [
+   68996,
+   "Angel: A sketch in Indian ink",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-given-in-marriage": [
+   69142,
+   "Given in Marriage"
+  ],
+  "bmcroker-a-bird-of-passage": [
+   69198,
+   "A bird of passage",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-in-old-madras": [
+   69383,
+   "In Old Madras"
+  ],
+  "bmcroker-odds-and-ends": [
+   70344,
+   "Odds and ends",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-to-let": [
+   70459,
+   "\"To let\""
+  ],
+  "bmcroker-a-rolling-stone": [
+   72076,
+   "A rolling stone",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-interference": [
+   72104,
+   "Interference A novel, Vol. 1 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-married-or-single-vol-1-of-3": [
+   72106,
+   "Married or single?, Vol. 1 (of 3)"
+  ],
+  "bmcroker-married-or-single-vol-2-of-3": [
+   72107,
+   "Married or single?, Vol. 2 (of 3)"
+  ],
+  "bmcroker-married-or-single-vol-3-of-3": [
+   72196,
+   "Married or single?, Vol. 3 (of 3)"
+  ],
+  "bmcroker-mr-jervis-vol-1-of-3": [
+   72300,
+   "Mr. Jervis, Vol. 1 (of 3)"
+  ],
+  "bmcroker-mr-jervis-vol-2-of-3": [
+   72313,
+   "Mr. Jervis, Vol. 2 (of 3)"
+  ],
+  "bmcroker-mr-jervis-vol-3-of-3": [
+   72342,
+   "Mr. Jervis, Vol. 3 (of 3)"
+  ],
+  "bmcroker-proper-pride": [
+   72433,
+   "Proper pride A novel. Volume 1 (of 3)"
+  ],
+  "bmcroker-proper-pride-72519": [
+   72519,
+   "Proper pride : A novel. Volume 2 (of 3)"
+  ],
+  "bmcroker-her-own-people": [
+   75402,
+   "Her own people"
+  ],
+  "bmcroker-interference-a-novel-vol-2-of-3": [
+   72105,
+   "Interference A novel, Vol. 2 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-interference-a-novel-vol-3-of-3": [
+   72210,
+   "Interference A novel, Vol. 3 (of 3)",
+   {
+    "contents_only": true
+   }
+  ],
+  "bmcroker-proper-pride-a-novel-volume-3-of-3": [
+   72550,
+   "Proper pride A novel. Volume 3 (of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "bmcroker-road-to-mandalay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-serpents-tooth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-real-lady-hilda": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-quicksands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-jungle-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-a-nine-days-wonder": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-angel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-given-in-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-a-bird-of-passage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-in-old-madras": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-odds-and-ends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-to-let": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-a-rolling-stone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-interference": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-married-or-single-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-married-or-single-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-married-or-single-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-mr-jervis-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-mr-jervis-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-mr-jervis-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-proper-pride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-proper-pride-72519": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-her-own-people": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-interference-a-novel-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-interference-a-novel-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bmcroker-proper-pride-a-novel-volume-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "b. m. croker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

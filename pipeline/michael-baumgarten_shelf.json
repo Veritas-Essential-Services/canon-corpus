@@ -1,0 +1,73 @@
+{
+ "_about": "Public-domain Michael Baumgarten (1812-1889), Lutheran theologian of Rostock, for the Word Hoard: The Acts of the Apostles, or The History of the Church in the Apostolic Age (3 vols, Edinburgh: T. & T. Clark, 1854), from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "baumgarten"
+ ],
+ "_surname": [
+  "m. baumgarten",
+  "michael baumgarten",
+  "baumgarten"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "baumgarten-acts-1": [
+   "actsofapostlesor01baum",
+   "The Acts of the Apostles, or, The history of the church in the Apostolic age, vol. 1 (Edinburgh : T. & T. Clark, 1854)"
+  ],
+  "baumgarten-acts-2": [
+   "actsapostlesorh01baumgoog",
+   "The Acts of the Apostles, or The History of the Church in the Apostolic Age, vol. 2 (Edinburgh: T. & T. Clark, 1854)"
+  ],
+  "baumgarten-acts-3": [
+   "actsofapostlesor03baum",
+   "The Acts of the Apostles, or, The history of the church in the Apostolic age, vol. 3 (Edinburgh : T. & T. Clark, 1854)"
+  ]
+ },
+ "_alternates": {
+  "baumgarten-copies": "Other copies of the 1854 set (actsapostlesorh00baumgoog, a second vol. 1; bwb_Y0-BSQ-077_1; actsofapostleson0000mbau)"
+ },
+ "_excluded": {
+  "baumgarten-other": "Every other Baumgarten in the catalogue is another person (tapestry, medicine, seeds, Canada)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "baumgarten-acts-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. baumgarten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baumgarten-acts-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. baumgarten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "baumgarten-acts-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. baumgarten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

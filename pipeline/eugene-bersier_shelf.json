@@ -1,0 +1,94 @@
+{
+ "_about": "Public-domain Eugène Bersier (1831-1889), French Reformed preacher of Paris, for the Word Hoard: The Oneness of the Race in its Fall and its Future (1871), Saint Paul's Vision and other sermons (1881), The Gospel in Paris (1883) and Coligny, the earlier life of the great Huguenot (1884), in their English translations, from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bersier"
+ ],
+ "_surname": [
+  "eugene bersier",
+  "eugène bersier",
+  "e. bersier",
+  "bersier"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bersier-oneness-of-the-race": [
+   "onenessofraceini00bers",
+   "The oneness of the race in its fall and its future (London : Hodder and Stoughton, 1871)"
+  ],
+  "bersier-st-pauls-vision": [
+   "saintpaulsvision00bers",
+   "Saint Paul's vision, and other sermons (New York, A.D.F. Randolph and company, 1881)"
+  ],
+  "bersier-gospel-in-paris": [
+   "gospelinparisser00bers",
+   "The Gospel in Paris : sermons (London : J. Nisbet, 1883)"
+  ],
+  "bersier-coligny": [
+   "colignyearlierli00bersuoft",
+   "Coligny; the earlier life of the great Huguenot (London Hodder and Stoughton, 1884)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "bersier-other": "Margaret Muller (1872, a story by Mme Bersier); Sermons (1885) and Twelve Sermons (1891) left for a later look; French originals"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "bersier-coligny": "Holmden",
+  "bersier-st-pauls-vision": "Marie Stewart"
+ },
+ "_checks": {
+  "bersier-oneness-of-the-race": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene bersier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bersier-st-pauls-vision": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene bersier",
+   "translator_claimed": "Marie Stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bersier-gospel-in-paris": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene bersier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "bersier-coligny": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "eugene bersier",
+   "translator_claimed": "Holmden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "_about": "Public-domain Robert Campbell Moberly (1845-1903, Regius Professor of Pastoral Theology at Oxford) for the Word Hoard: Reason and Religion (1896), Ministerial Priesthood (1897), Atonement and Personality (1901) and Sorrow, Sin, and Beauty (1903), from Internet Archive scans. Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "moberly"
+ ],
+ "_surname": [
+  "moberly",
+  "r. c. moberly",
+  "robert campbell moberly"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moberly-reason-religion": [
+   "reasonreligionso00mobe",
+   "Reason and Religion (London: Longmans, Green, 1896)"
+  ],
+  "moberly-ministerial-priesthood": [
+   "ministerialpries00mobe",
+   "Ministerial Priesthood (London: John Murray, 1897)"
+  ],
+  "moberly-atonement-personality": [
+   "india.history.resource.94120",
+   "Atonement and Personality (London: John Murray, 1901)",
+   "94120_djvu.txt"
+  ],
+  "moberly-sorrow-sin-beauty": [
+   "sorrowsinbeautyt00mobe",
+   "Sorrow, Sin, and Beauty: three short series of addresses (London: John Murray, 1903)"
+  ]
+ },
+ "_alternates": {
+  "moberly-copies": "Atonement (1901 reprint), Ministerial Priesthood (1897), Reason and Religion (1896), Sorrow, Sin, and Beauty (1904)"
+ },
+ "_excluded": {
+  "moberly-later": "Atonement copies of 1904, 1907, 1909, 1917, 1924 (two wrongly catalogued 1901)"
+ },
+ "_rights_checked": {
+  "moberly-atonement-personality": "title page read: John Murray, '3901' (OCR for 1901)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "moberly-reason-religion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "moberly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moberly-ministerial-priesthood": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "moberly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "moberly-atonement-personality": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "moberly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: John Murray, '3901' (OCR for 1901)"
+  },
+  "moberly-sorrow-sin-beauty": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "moberly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

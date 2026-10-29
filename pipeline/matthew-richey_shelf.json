@@ -1,0 +1,181 @@
+{
+ "_about": "Public-domain Matthew Richey (1803-1883), Wesleyan Methodist minister in Nova Scotia and Upper Canada and first principal of Upper Canada Academy, for the Word Hoard: A Short and Scriptural Method with Antipedobaptists, A Memoir of William Black, Sermons on Various Occasions, The Exalted Objects of the Christian Ministry, A Plain Statement of Facts on the Methodist union, a letter to the editor of The Church, a Toronto dedication sermon, a YMCA address, The Spirit of Popery, and a funeral sermon for William Croscombe. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 102 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "matthew richey",
+  "m. richey",
+  "richey"
+ ],
+ "_surname": [
+  "matthew richey",
+  "m. richey",
+  "richey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "richey-antipedobaptists": [
+   "shortscripturalm00rich",
+   "A short and scriptural method with Antipedobaptists (Halifax, N. S., Printed by J.S. Cunnabell, 1835)"
+  ],
+  "richey-memoir-black": [
+   "amemoirlaterevw00richgoog",
+   "A Memoir of the Late Rev. William Black, Wesleyan Minister, Halifax. N.S.: Including an Account (William Cunnabell, 1839)"
+  ],
+  "richey-sermons": [
+   "cihm_40458",
+   "Sermons delivered on various occasions (Toronto : J. Ryerson, 1840)"
+  ],
+  "richey-exalted-objects": [
+   "cihm_64760",
+   "The exalted objects of the Christian ministry : a sermon preached before the conference in Kingston, U.C., 1838, and at the dedicatioon of the Wesleyan Centenary Chapel in St. John's, N.B. 1839 ([Toronto? : s.n.], 1840)"
+  ],
+  "richey-plain-statement": [
+   "cihm_42315",
+   "A plain statement of facts, connected with the union and separation of the British and Canadian conferences ([Toronto? : s.n.], 1840)"
+  ],
+  "richey-letter-church": [
+   "lettertoeditorof00rich",
+   "A letter to the editor of The Church : in answer to his remarks on the Rev. Thomas Powell's essay on apostolical succession (Kingston, Ont. : [s.n.], 1843)"
+  ],
+  "richey-toronto-dedication": [
+   "sermonpreachedat00rich",
+   "A sermon preached at the dedication of the Wesleyan Methodist Church, Ricmond Street, Toronto, on Sunday, June 29, 1845 : and of the Wesleyan Methodist Church, Great St. James Street, Montreal, on Sunday, July 27, 1845 (London : J . Mason ; Montreal : Wesleyan Book Depot, 1845)"
+  ],
+  "richey-ymca-address": [
+   "cihm_64816",
+   "An address at the inauguration of the Halifax Young Men's Christian Association ([Halifax, N.S.? : s.n.], 1854)"
+  ],
+  "richey-spirit-of-popery": [
+   "cihm_94100",
+   "The spirit of popery and the duty of protestants in regard to public education : eighth lecture delivered before the Protestant Alliance of Nova Scotia at Temperance Hall, Halifax, on Friday evening, April 8th, 1859 ([Halifax, N.S.? : s.n.], 1859)"
+  ],
+  "richey-croscombe": [
+   "cihm_39102",
+   "A sermon occasioned by the death of the Rev. William Croscombe : preached in Windsor, 30th October, and in Halifax, 6th November, 1859 ([Halifax, N.S.? : s.n.], 1859)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "richey-confederation": "A Plea for the Confederation of the Colonies (political)",
+  "richey-knight": "Poems of Ten Years, by Matthew Richey Knight (a different man)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "richey-antipedobaptists": "Title page (OCR): 'A Short and Scriptural Method with Antipedobaptists. Containing strictures on the Rev. E. A. Crawley's Treatise on Baptism... By Matthew Richey. Part I. Halifax, N.S.: Printed by J. S. Cunnabell... 1835.'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "richey-antipedobaptists": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-memoir-black": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m. richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "richey-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-exalted-objects": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-plain-statement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-letter-church": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-toronto-dedication": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-ymca-address": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-spirit-of-popery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "richey-croscombe": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "matthew richey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

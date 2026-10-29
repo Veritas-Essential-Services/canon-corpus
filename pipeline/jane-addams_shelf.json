@@ -1,0 +1,96 @@
+{
+ "_about": "Jane Addams (1860-1935), American pragmatist social philosopher and founder of Hull-House. Gutenberg: Democracy and Social Ethics (1902); Newer Ideals of Peace (1907); The Spirit of Youth and the City Streets (1909); Twenty Years at Hull-House (1910); A New Conscience and an Ancient Evil (1912); The Long Road of Woman's Memory (1916). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Jane Addams",
+ "_name_words": [
+  "jane",
+  "addams"
+ ],
+ "_surname": [
+  "addams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "addams-democracy-and-social-ethics": [
+   15487,
+   "Democracy and Social Ethics (1902)"
+  ],
+  "addams-newer-ideals-of-peace": [
+   69879,
+   "Newer Ideals of Peace (1907)"
+  ],
+  "addams-spirit-of-youth": [
+   16221,
+   "The Spirit of Youth and the City Streets (1909)"
+  ],
+  "addams-twenty-years-at-hull-house": [
+   1325,
+   "Twenty Years at Hull-House (1910)"
+  ],
+  "addams-new-conscience-ancient-evil": [
+   15221,
+   "A New Conscience and an Ancient Evil (1912)"
+  ],
+  "addams-long-road-of-womans-memory": [
+   69234,
+   "The Long Road of Woman's Memory (1916)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "addams-democracy-and-social-ethics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "addams-newer-ideals-of-peace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "addams-spirit-of-youth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "addams-twenty-years-at-hull-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "addams-new-conscience-ancient-evil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "addams-long-road-of-womans-memory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

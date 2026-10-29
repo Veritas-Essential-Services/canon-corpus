@@ -1,0 +1,48 @@
+{
+ "_about": "Public-domain Angela of Foligno (1248-1309, Franciscan tertiary) in English for the Word Hoard: The Book of Divine Consolation, tr. Mary G. Steegmann with an introduction by Algar Thorold (London, 1909), from an Internet Archive scan. Added 2026-10-17 by lane A, round 25 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "angela"
+ ],
+ "_surname": [
+  "angela of foligno",
+  "angela de foligno"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "angela-divine-consolation": [
+   "divineconsolatio00angeuoft",
+   "The Book of Divine Consolation of the Blessed Angela of Foligno, tr. Mary G. Steegmann (London: Chatto and Windus, 1909)"
+  ]
+ },
+ "_alternates": {
+  "angela-copies": "Another copy of the 1909 Steegmann edition",
+  "angela-thorold-essay": "Thorold's Essay in Aid of the Better Appreciation of Catholic Mysticism (1900): an essay about her with excerpts"
+ },
+ "_excluded": {
+  "angela-late": "Modern retypesets; French and Italian editions"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "angela-secular-priest": "The Book of the Visions and Instructions of B. Angela of Foligno, by a Secular Priest (about 1871): not found"
+ },
+ "_translators": {
+  "angela-divine-consolation": "steegmann"
+ },
+ "_checks": {
+  "angela-divine-consolation": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "angela of foligno",
+   "translator_claimed": "steegmann",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

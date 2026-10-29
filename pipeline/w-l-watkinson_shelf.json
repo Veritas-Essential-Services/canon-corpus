@@ -1,0 +1,250 @@
+{
+ "_about": "Public-domain William Lonsdale Watkinson (1838-1925), Wesleyan Methodist preacher and President of the Wesleyan Conference, for the Word Hoard: his books of sermons and short papers from Mistaken Signs (1882) to The Fatal Barter (1909), his life of John Wicklif (1884) and his Fernley Lecture, The Influence of Scepticism on Character (delivered 1886; a printing of 1898). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 71 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "watkinson"
+ ],
+ "_surname": [
+  "watkinson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "watkinson-mistaken-signs": [
+   "mistakensignsan00watkgoog",
+   "Mistaken signs, and other papers on Christian life and experience (L. Kelly, 1882)"
+  ],
+  "watkinson-john-wicklif": [
+   "johnwicklif00watkuoft",
+   "John Wicklif (London : T. Woolmer, 1884)"
+  ],
+  "watkinson-beginning-christian-life": [
+   "beginningofchris0000watk",
+   "The Beginning of Christian Life (London: T. Woolmer, 1887)"
+  ],
+  "watkinson-noonday-addresses": [
+   "noondayaddresses0000wlwa",
+   "Noonday Addresses, delivered in the Central Hall, Manchester (London: C. H. Kelly, 1890)"
+  ],
+  "watkinson-transfigured-sackcloth": [
+   "transfiguredsack00watk",
+   "The transfigured sackcloth and other sermons (New York, E.P. Dutton and Co., 1893)"
+  ],
+  "watkinson-influence-of-scepticism": [
+   "influenceofscept00watk",
+   "The Influence of Scepticism on Character, the sixteenth Fernley Lecture, delivered at City Road Chapel, London, 2 August 1886 (London: Charles H. Kelly, 1898)"
+  ],
+  "watkinson-blind-spot": [
+   "blindspot01watk",
+   "The Blind Spot and other sermons, second edition (London: Horace Marshall and Son, 1900)"
+  ],
+  "watkinson-bane-and-antidote": [
+   "baneantidoteothe00watk",
+   "The bane and the antidote and other sermons (New York : Fleming H. Revell, 1900)"
+  ],
+  "watkinson-studies-christian-character": [
+   "studiesinchristi00watk",
+   "Studies in Christian character (New York : F. H. Revell, 1903)"
+  ],
+  "watkinson-education-of-heart": [
+   "educationofheart00watk",
+   "The education of the heart : brief essays on influences that make for character (New York : Fleming H. Revell Co., 1904)"
+  ],
+  "watkinson-inspiration-common-life": [
+   "inspirationincom00watk",
+   "Inspiration in common life (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905)"
+  ],
+  "watkinson-imperial-thinking": [
+   "dutyofimperialth00watk",
+   "The duty of imperial thinking, and other chapters on themes worth while (New York, Fleming H. Revell Co, 1906)"
+  ],
+  "watkinson-supreme-conquest": [
+   "supremeconquesto00watk",
+   "The supreme conquest, and other sermons preached in America (New York, Chicago [etc.] F. H. Revell company, 1907)"
+  ],
+  "watkinson-frugality": [
+   "frugalityinspir00watkgoog",
+   "Frugality in the spiritual life (New York, Chicago [etc.] F. H. Revell company, 1908)"
+  ],
+  "watkinson-fatal-barter": [
+   "fatalbarter00watk",
+   "The fatal barter (New York, Chicago [etc.] F. H. Revell company, 1909)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "watkinson-other": "The Preacher's Commentary on the Book of Psalms (1879; not checked as his); his papers in The London Quarterly Review"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "watkinson-mistaken-signs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-john-wicklif": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-beginning-christian-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "['1887', '1887']",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watkinson-noonday-addresses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watkinson-transfigured-sackcloth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-influence-of-scepticism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watkinson-blind-spot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "watkinson-bane-and-antidote": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-studies-christian-character": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-education-of-heart": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-inspiration-common-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "watkinson-imperial-thinking": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-supreme-conquest": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-frugality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "watkinson-fatal-barter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "watkinson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

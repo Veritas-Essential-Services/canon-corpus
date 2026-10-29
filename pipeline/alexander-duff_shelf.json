@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Alexander Duff (1806-1878, Church of Scotland's first missionary to India) for the Word Hoard: India and India Missions (1839), his General Assembly addresses (the Vindication of 1837 and New Era of the English Language, 1837), Missions the Chief End of the Christian Church (1839), The Mutual Duties of Pastor and People (1837), The Jesuits (1845) and The Indian Rebellion (1858), from Internet Archive scans. Added 2026-10-18 by lane A, round 33 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "duff"
+ ],
+ "_surname": [
+  "duff",
+  "alexander duff"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "duff-india-missions": [
+   "indiaindiamissio00duff_0",
+   "India, and India Missions (Edinburgh: John Johnstone, MDCCCXXXIX)"
+  ],
+  "duff-vindication": [
+   "vindicationofchu00duff",
+   "Vindication of the Church of Scotland's India Missions, tenth thousand (Edinburgh: John Johnstone, MDCCCXXXVII)"
+  ],
+  "duff-new-era-english": [
+   "neweraofenglishl00duff_1",
+   "New Era of the English Language and English Literature in India (Edinburgh: John Johnstone, MDCCCXXXVII)"
+  ],
+  "duff-mutual-duties": [
+   "mutualdutiesresp00duff",
+   "The Mutual Duties and Responsibilities of Pastor and People, second edition (Edinburgh: John Johnstone, MDCCCXXXVII)"
+  ],
+  "duff-missions-chief-end": [
+   "missionschiefend00duff",
+   "Missions the Chief End of the Christian Church (Edinburgh: John Johnstone, MDCCCXXXIX)"
+  ],
+  "duff-jesuits": [
+   "jesuitstheirorig00duff",
+   "The Jesuits: their Origin and Order, Morality and Practices, Suppression and Restoration (Philadelphia: Presbyterian Board of Publication, 1845)"
+  ],
+  "duff-indian-rebellion": [
+   "indianrebellioni00duffuoft",
+   "The Indian Rebellion: its Causes and Results (New York: Robert Carter, 1858)"
+  ]
+ },
+ "_alternates": {
+  "duff-copies": "Foreign Missions (1866); the third-person reports of his 1837 and 1855 speeches; the 1840 India and India Missions"
+ },
+ "_excluded": {
+  "duff-others": "Caleb Wright's Lectures on India; other Duffs"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "duff-india-mission-1835": "The Church of Scotland's India Mission (second edition): its title page reads only 'By the Assembly's First Missionary to India', with his name added by hand"
+ },
+ "_translators": {},
+ "_checks": {
+  "duff-india-missions": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "duff-vindication": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duff-new-era-english": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duff-mutual-duties": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duff-missions-chief-end": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "duff-jesuits": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "duff-indian-rebellion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "duff",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

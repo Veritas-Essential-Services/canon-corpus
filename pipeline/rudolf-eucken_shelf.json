@@ -1,0 +1,59 @@
+{
+ "_about": "Rudolf Eucken (1846-1926) in English, raw IA OCR: The Problem of Human Life as viewed by the great thinkers from Plato to the present time, tr. Williston S. Hough and W. R. Boyce Gibson (New York: Scribner, 1909), and The Truth of Religion, tr. W. Tudor Jones (London: Williams and Norgate, 1911). His Ethics and Modern Thought and Life's Basis and Life's Ideal are on singles-ideas-2. US public domain. No uids minted.",
+ "_author": "Rudolf Eucken",
+ "_name_words": [
+  "rudolf",
+  "eucken",
+  "dr"
+ ],
+ "_surname": [
+  "eucken"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eucken-hough-gibson-problem-of-human-life-1909": [
+   "problemofhumanli01euck",
+   "The Problem of Human Life (New York: Scribner, 1909)",
+   "tr. Williston S. Hough and W. R. Boyce Gibson"
+  ],
+  "eucken-jones-truth-of-religion-1911": [
+   "truthofreligion00euckuoft",
+   "The Truth of Religion (London: Williams and Norgate, 1911)",
+   "tr. W. Tudor Jones"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "eucken-hough-gibson-problem-of-human-life-1909": "Gibson",
+  "eucken-jones-truth-of-religion-1911": "Jones"
+ },
+ "_checks": {
+  "eucken-hough-gibson-problem-of-human-life-1909": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "eucken",
+   "translator_claimed": "Gibson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "eucken-jones-truth-of-religion-1911": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "eucken",
+   "translator_claimed": "Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

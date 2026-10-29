@@ -1,0 +1,135 @@
+{
+ "_about": "Public-domain William Arnot (1808-1875, Free Church of Scotland, Glasgow and Edinburgh) for the Word Hoard: The Parables of Our Lord, clean from Gutenberg; and from the Internet Archive Laws from Heaven for Life on Earth (Proverbs; Nelson, 1873), The Church in the House (Acts; Nisbet, 1875), Roots and Fruits of the Christian Life (1862), The Lesser Parables of Our Lord (1884), The Anchor of the Soul (catalogued 1875) and his Life of James Hamilton (1870). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "arnot",
+  "william"
+ ],
+ "_surname": [
+  "william arnot",
+  "w. arnot",
+  "arnot, william",
+  "rev. william arnot",
+  "the late william arnot"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "arnot-parables": [
+   "21328",
+   "The Parables of Our Lord (London: T. Nelson, 1874)"
+  ]
+ },
+ "internet_archive": {
+  "arnot-laws-from-heaven-1873": [
+   "lawsfromheavenfo00arnorich",
+   "Laws from Heaven for Life on Earth: Illustrations of the Book of Proverbs (London: T. Nelson, 1873)"
+  ],
+  "arnot-church-in-house-1875": [
+   "churchinhouse00arno",
+   "The Church in the House: Lessons on the Acts of the Apostles (London: James Nisbet, 1875)"
+  ],
+  "arnot-roots-fruits-1862": [
+   "rootsfruitsofchr00arno",
+   "Roots and Fruits of the Christian Life (London: T. Nelson, MDCCCLXII)"
+  ],
+  "arnot-lesser-parables-1884": [
+   "lesserparablesof00arno",
+   "The Lesser Parables of Our Lord, and Lessons of Grace in the Language of Nature (London: T. Nelson, 1884)"
+  ],
+  "arnot-anchor-of-soul": [
+   "anchorofsoulothe00arno",
+   "The Anchor of the Soul and Other Sermons (London: T. Nelson; no year on the title page, catalogued 1875)"
+  ],
+  "arnot-life-james-hamilton-1870": [
+   "cu31924011509498",
+   "Life of James Hamilton, D.D., F.L.S. (London: James Nisbet, 1870)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "arnot-anchor-of-soul": {
+   "author": "title page read 2026-10-10: OCR gives \"BY THE REV. WILLIAM '\"ARNOT, AUTHOR OF LAWS FROM HEAVEN FOR LIFE ON EARTH\" (stray quote marks); the prefatory note is dated December 1875: William Arnot"
+  },
+  "arnot-life-james-hamilton-1870": {
+   "author": "title page read 2026-10-10: OCR gives \"LIFE OF JAMES HAMILTON D.D. F.L.S. BY WILLIAM AENOT EDINBURGH\" (R read as E), Nisbet, 1870: William Arnot"
+  }
+ },
+ "_checks": {
+  "arnot-parables": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william arnot",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "arnot-laws-from-heaven-1873": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william arnot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arnot-church-in-house-1875": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william arnot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "arnot-roots-fruits-1862": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william arnot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arnot-lesser-parables-1884": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "william arnot",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arnot-anchor-of-soul": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "arnot-life-james-hamilton-1870": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

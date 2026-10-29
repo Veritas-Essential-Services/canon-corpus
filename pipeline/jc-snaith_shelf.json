@@ -1,0 +1,265 @@
+{
+ "_about": "J. C. Snaith's novels and cricket stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "J. C. Snaith",
+ "_name_words": [
+  "snaith"
+ ],
+ "_surname": [
+  "snaith"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jcsnaith-mrs-fitz": [
+   34398,
+   "Mrs. Fitz"
+  ],
+  "jcsnaith-wayfarers": [
+   34776,
+   "The Wayfarers"
+  ],
+  "jcsnaith-sailor": [
+   38186,
+   "The Sailor"
+  ],
+  "jcsnaith-undefeated": [
+   63546,
+   "The Undefeated"
+  ],
+  "jcsnaith-council-of-seven": [
+   67679,
+   "The Council of Seven"
+  ],
+  "jcsnaith-anne-feversham": [
+   67774,
+   "Anne Feversham"
+  ],
+  "jcsnaith-principal-girl": [
+   68069,
+   "The principal girl"
+  ],
+  "jcsnaith-time-spirit": [
+   68398,
+   "The time spirit: A romantic tale"
+  ],
+  "jcsnaith-van-roon": [
+   68520,
+   "The Van Roon"
+  ],
+  "jcsnaith-lady-barbarity": [
+   68858,
+   "Lady Barbarity: A Romance"
+  ],
+  "jcsnaith-coming": [
+   69050,
+   "The coming"
+  ],
+  "jcsnaith-adventurous-lady": [
+   69271,
+   "The adventurous lady"
+  ],
+  "jcsnaith-willow-the-king": [
+   73075,
+   "Willow the king"
+  ],
+  "jcsnaith-william-jordan-junior": [
+   73096,
+   "William Jordan, Junior"
+  ],
+  "jcsnaith-henry-northcote": [
+   73110,
+   "Henry Northcote"
+  ],
+  "jcsnaith-araminta": [
+   73133,
+   "Araminta"
+  ],
+  "jcsnaith-there-is-a-tide": [
+   73250,
+   "There is a tide"
+  ],
+  "jcsnaith-fortune": [
+   73402,
+   "Fortune"
+  ],
+  "jcsnaith-patricia-at-the-inn": [
+   73409,
+   "Patricia at the inn"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "jcsnaith-mrs-fitz": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-wayfarers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-sailor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-undefeated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-council-of-seven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-anne-feversham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-principal-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-time-spirit": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-van-roon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-lady-barbarity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-coming": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-adventurous-lady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-willow-the-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-william-jordan-junior": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-henry-northcote": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-araminta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-there-is-a-tide": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jcsnaith-patricia-at-the-inn": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "snaith",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

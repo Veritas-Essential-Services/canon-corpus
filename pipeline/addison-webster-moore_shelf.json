@@ -1,0 +1,50 @@
+{
+ "_about": "Addison Webster Moore (1866-1930), Chicago pragmatist, Dewey's colleague. Not A. W. Moore the Manx folklorist (shelf aw-moore), so only his full name forms are used. Raw IA OCR: The Functional versus the Representational Theories of Knowledge in Locke's Essay (Chicago: University of Chicago Contributions to Philosophy, 1902); Pragmatism and its Critics (University of Chicago Press, 1910). Held: Existence, Meaning, and Reality in Locke's Essay and in Present Epistemology, an offprint whose scan shows no printed year. His chapter in Creative Intelligence (1917) is already on the john-dewey shelf. US public domain. No uids minted.",
+ "_author": "Addison Webster Moore",
+ "_name_words": [
+  "addison",
+  "webster",
+  "moore"
+ ],
+ "_surname": [
+  "addison webster moore",
+  "addison w. moore"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "moore-functional-versus-representational-1902": [
+   "functionalversus00moorrich",
+   "The Functional versus the Representational Theories of Knowledge in Locke's Essay (Chicago, 1902)"
+  ],
+  "moore-pragmatism-and-its-critics-1910": [
+   "cu31924100500903",
+   "Pragmatism and its Critics (University of Chicago Press, 1910)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "moore-functional-versus-representational-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addison webster moore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "moore-pragmatism-and-its-critics-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "addison webster moore",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

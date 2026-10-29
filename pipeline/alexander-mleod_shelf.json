@@ -1,0 +1,78 @@
+{
+ "_about": "Public-domain Alexander M'Leod, Reformed Presbyterian minister in New York, for the Word Hoard: Negro Slavery Unjustifiable, A Scriptural View of the Character, Causes, and Ends of the Present War, and The Life and Power of True Godliness. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 121 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "alexander m'leod",
+  "alexander mcleod",
+  "a. m'leod",
+  "m'leod",
+  "mcleod"
+ ],
+ "_surname": [
+  "m'leod",
+  "mcleod",
+  "m‘leod",
+  "m’leod",
+  "leod"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mleod-negro-slavery": [
+   "negroslaveryunju00mleo_0",
+   "Negro slavery unjustifiable: a discourse (New York, Printed by T. & F. Swords, 1802)"
+  ],
+  "mleod-present-war": [
+   "scripturalviewofcce00mleo",
+   "A scriptural view of the character, causes, and ends of the present war (New York : Eastburn, Kirk, 1815)"
+  ],
+  "mleod-true-godliness": [
+   "lifepoweroftrueg00mleo",
+   "The life and power of true Godliness : described in a series of discourses (New York : R. Carter, 1847)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mleod-baptism": "Conversations on the Mode of Christian Baptism is by Alexander W. M'Leod",
+  "mleod-larger-catechism": "the Westminster Larger Catechism"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mleod-negro-slavery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m'leod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1802",
+   "ia_date": "1802",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mleod-present-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m'leod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1815",
+   "ia_date": "1815",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mleod-true-godliness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "m'leod",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

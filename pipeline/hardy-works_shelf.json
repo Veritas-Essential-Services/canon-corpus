@@ -1,0 +1,346 @@
+{
+ "_about": "Thomas Hardy's Wessex novels, stories, poems and The Dynasts not already on another shelf (the reading-list hardy shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Thomas Hardy",
+ "_name_words": [
+  "hardy"
+ ],
+ "_surname": [
+  "thomas hardy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "thardy-return-of-the-native": [
+   122,
+   "The Return of the Native"
+  ],
+  "thardy-mayor-of-casterbridge": [
+   143,
+   "The Mayor of Casterbridge"
+  ],
+  "thardy-jude-the-obscure": [
+   153,
+   "Jude the Obscure"
+  ],
+  "thardy-a-pair-of-blue-eyes": [
+   224,
+   "A pair of blue eyes",
+   {
+    "contents_only": true
+   }
+  ],
+  "thardy-woodlanders": [
+   482,
+   "The Woodlanders"
+  ],
+  "thardy-under-the-greenwood-tree": [
+   2662,
+   "Under the Greenwood Tree; Or, The Mellstock Quire A Rural Painting of the Dutch School"
+  ],
+  "thardy-satires-of-circumstance-lyrics-and-reveries-with-misc": [
+   2863,
+   "Satires of Circumstance, Lyrics and Reveries, with Miscellaneous Pieces"
+  ],
+  "thardy-trumpet-major": [
+   2864,
+   "The Trumpet-Major"
+  ],
+  "thardy-romantic-adventures-of-a-milkmaid": [
+   2996,
+   "The Romantic Adventures of a Milkmaid"
+  ],
+  "thardy-times-laughingstocks-and-other-verses": [
+   2997,
+   "Time's Laughingstocks, and Other Verses"
+  ],
+  "thardy-desperate-remedies": [
+   3044,
+   "Desperate Remedies"
+  ],
+  "thardy-lifes-little-ironies-a-set-of-tales-with-some-colloqu": [
+   3047,
+   "Life's Little Ironies A set of tales with some colloquial sketches entitled A Few Crusted Characters",
+   {
+    "contents_only": true
+   }
+  ],
+  "thardy-a-group-of-noble-dames": [
+   3049,
+   "A Group of Noble Dames"
+  ],
+  "thardy-wessex-tales": [
+   3056,
+   "Wessex Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "thardy-a-changed-man-and-other-tales": [
+   3058,
+   "A Changed Man, and Other Tales"
+  ],
+  "thardy-two-on-a-tower": [
+   3146,
+   "Two on a Tower"
+  ],
+  "thardy-wessex-poems-and-other-verses": [
+   3167,
+   "Wessex Poems and Other Verses"
+  ],
+  "thardy-poems-of-the-past-and-the-present": [
+   3168,
+   "Poems of the Past and the Present"
+  ],
+  "thardy-moments-of-vision-and-miscellaneous-verses": [
+   3255,
+   "Moments of Vision and Miscellaneous Verses"
+  ],
+  "thardy-a-laodicean": [
+   3258,
+   "A Laodicean : A Story of To-day"
+  ],
+  "thardy-well-beloved": [
+   3326,
+   "The Well-Beloved: A Sketch of a Temperament"
+  ],
+  "thardy-hand-of-ethelberta": [
+   3469,
+   "The Hand of Ethelberta: A Comedy in Chapters",
+   {
+    "contents_only": true
+   }
+  ],
+  "thardy-dynasts": [
+   4043,
+   "The Dynasts: An Epic-Drama of the War with Napoleon"
+  ],
+  "thardy-late-lyrics-and-earlier-with-many-other-verses": [
+   4758,
+   "Late Lyrics and Earlier, With Many Other Verses"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58250": "PG 58250: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 17500: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 107, 110: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-27": "PG 27 Far from the Madding Crowd: a second edition; the reading-list hardy shelf holds the novel."
+ },
+ "_checks": {
+  "thardy-return-of-the-native": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-mayor-of-casterbridge": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-jude-the-obscure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-a-pair-of-blue-eyes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-woodlanders": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-under-the-greenwood-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-satires-of-circumstance-lyrics-and-reveries-with-misc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-trumpet-major": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-romantic-adventures-of-a-milkmaid": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-times-laughingstocks-and-other-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-desperate-remedies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-lifes-little-ironies-a-set-of-tales-with-some-colloqu": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-a-group-of-noble-dames": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-wessex-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-a-changed-man-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-two-on-a-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-wessex-poems-and-other-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-poems-of-the-past-and-the-present": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-moments-of-vision-and-miscellaneous-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-a-laodicean": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-well-beloved": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-hand-of-ethelberta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-dynasts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "thardy-late-lyrics-and-earlier-with-many-other-verses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thomas hardy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

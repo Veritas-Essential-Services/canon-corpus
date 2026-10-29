@@ -1,0 +1,47 @@
+{
+ "_about": "Public-domain Jacques-Marie-Louis Monsabré (1827-1907, Dominican preacher of Notre-Dame) in English for the Word Hoard: Marriage, conferences delivered at Notre Dame, translated by M. Hopper (New York: Benziger, 1890), from an Internet Archive scan. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "monsabre",
+  "monsabré"
+ ],
+ "_surname": [
+  "monsabre",
+  "monsabré"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "monsabre-marriage": [
+   "marriageconferen00monsiala",
+   "Marriage: Conferences delivered at Notre Dame, Paris, tr. M. Hopper (New York: Benziger Brothers, 1890)"
+  ]
+ },
+ "_alternates": {
+  "monsabre-copies": "Another 1890 copy"
+ },
+ "_excluded": {
+  "monsabre-retyped": "Modern retyped Rosary texts with no title page",
+  "monsabre-french": "French originals tagged English"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "monsabre-marriage": "hopper"
+ },
+ "_checks": {
+  "monsabre-marriage": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "monsabre",
+   "translator_claimed": "hopper",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

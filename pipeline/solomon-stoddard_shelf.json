@@ -1,0 +1,54 @@
+{
+ "_about": "Public-domain Solomon Stoddard (1643-1729, minister at Northampton, Massachusetts, grandfather of Jonathan Edwards) for the Word Hoard: The Safety of Appearing at the Day of Judgment in the Righteousness of Christ (Northampton: Pomroy, catalogued 1804) and A Guide to Christ (1827 reprint), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "stoddard",
+  "solomon"
+ ],
+ "_surname": [
+  "solomon stoddard",
+  "s. stoddard",
+  "stoddard, solomon",
+  "mr. stoddard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stoddard-safety-1804": [
+   "safetyofappearin00stodrich",
+   "The Safety of Appearing at the Day of Judgment, in the Righteousness of Christ (Northampton: Thomas M. Pomroy; catalogued 1804, the title-page year is unreadable in the OCR)"
+  ],
+  "stoddard-guide-to-christ-1827": [
+   "aguidetochristo00mathgoog",
+   "A Guide to Christ, or The Way of Directing Souls that are under the Work of Conversion (William D'Hart, 1827)"
+  ]
+ },
+ "_alternates": {
+  "stoddard-safety-1729": "the 1729 and 1742 Boston printings (IA safetyofappearin00stod, _1): long-s type"
+ },
+ "_excluded": {},
+ "_checks": {
+  "stoddard-safety-1804": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "solomon stoddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1804",
+   "ia_date": "1804",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stoddard-guide-to-christ-1827": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "solomon stoddard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

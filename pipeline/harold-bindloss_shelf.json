@@ -1,0 +1,717 @@
+{
+ "_about": "Harold Bindloss's novels of the Canadian West and adventure: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Harold Bindloss",
+ "_name_words": [
+  "bindloss"
+ ],
+ "_surname": [
+  "harold bindloss"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hbindloss-girl-from-kellers": [
+   3663,
+   "The Girl from Keller's"
+  ],
+  "hbindloss-vane-of-the-timberlands": [
+   9778,
+   "Vane of the Timberlands"
+  ],
+  "hbindloss-listers-great-adventure": [
+   10076,
+   "Lister's Great Adventure"
+  ],
+  "hbindloss-buccaneer-farmer-published-in-england-under-the-ti": [
+   10930,
+   "The Buccaneer Farmer Published in England under the Title \"Askew's Victory\""
+  ],
+  "hbindloss-lure-of-the-north": [
+   14234,
+   "The Lure of the North",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-alton-of-somasco": [
+   14261,
+   "Alton of Somasco: A Romance of the Great Northwest"
+  ],
+  "hbindloss-carmens-messenger": [
+   14361,
+   "Carmen's Messenger"
+  ],
+  "hbindloss-intriguers": [
+   14406,
+   "The Intriguers",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-ranching-for-sylvia": [
+   14698,
+   "Ranching for Sylvia"
+  ],
+  "hbindloss-winston-of-the-prairie": [
+   14763,
+   "Winston of the Prairie",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-gold-trail": [
+   21205,
+   "The Gold Trail",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-long-portage": [
+   25910,
+   "The Long Portage"
+  ],
+  "hbindloss-prescott-of-saskatchewan": [
+   25916,
+   "Prescott of Saskatchewan",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-masters-of-the-wheat-lands": [
+   25922,
+   "Masters of the Wheat-Lands",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-brandon-of-the-engineers": [
+   25923,
+   "Brandon of the Engineers",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-cattle-barons-daughter": [
+   27115,
+   "The Cattle-Baron's Daughter",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-lorimer-of-the-northwest": [
+   27504,
+   "Lorimer of the Northwest",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-hawtreys-deputy": [
+   27601,
+   "Hawtrey's Deputy",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-blakes-burden": [
+   29155,
+   "Blake's Burden",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-partners-of-the-out-trail": [
+   29183,
+   "Partners of the Out-Trail"
+  ],
+  "hbindloss-thurston-of-orchard-valley": [
+   29266,
+   "Thurston of Orchard Valley",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-greater-power": [
+   29650,
+   "The Greater Power",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-for-the-allinson-honor": [
+   34415,
+   "For the Allinson Honor",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-johnstone-of-the-border": [
+   34425,
+   "Johnstone of the Border",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-secret-of-the-reef": [
+   35823,
+   "The Secret of the Reef"
+  ],
+  "hbindloss-dust-of-conflict": [
+   35834,
+   "The Dust of Conflict",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-by-right-of-purchase": [
+   36705,
+   "By Right of Purchase",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-league-of-the-leopard": [
+   36804,
+   "The League of the Leopard",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-coast-of-adventure": [
+   37582,
+   "The Coast of Adventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-a-damaged-reputation": [
+   37761,
+   "A Damaged Reputation",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-northwest": [
+   38069,
+   "Northwest!",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-boy-ranchers-of-puget-sound": [
+   38087,
+   "The Boy Ranchers of Puget Sound",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-mistress-of-bonaventure": [
+   38144,
+   "The Mistress of Bonaventure",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-protector": [
+   38286,
+   "The Protector",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-harding-of-allenwood": [
+   38343,
+   "Harding of Allenwood",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-delilah-of-the-snows": [
+   38635,
+   "Delilah of the Snows",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-for-jacinta": [
+   38670,
+   "For Jacinta",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-a-prairie-courtship": [
+   38723,
+   "A Prairie Courtship",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-thrice-armed": [
+   38747,
+   "Thrice Armed",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-long-odds": [
+   39019,
+   "Long Odds",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-wyndhams-pal": [
+   39349,
+   "Wyndham's Pal",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-kit-musgraves-luck": [
+   39453,
+   "Kit Musgrave's Luck"
+  ],
+  "hbindloss-impostor": [
+   39698,
+   "The Impostor",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-in-the-misty-seas": [
+   47992,
+   "In the Misty Seas: A Story of the Sealers of Behring Strait"
+  ],
+  "hbindloss-carson-of-red-river": [
+   67051,
+   "Carson of Red River",
+   {
+    "contents_only": true
+   }
+  ],
+  "hbindloss-sunshine-and-snow": [
+   69277,
+   "Sunshine and snow",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hbindloss-girl-from-kellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-vane-of-the-timberlands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-listers-great-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-buccaneer-farmer-published-in-england-under-the-ti": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-lure-of-the-north": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-alton-of-somasco": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-carmens-messenger": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-intriguers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-ranching-for-sylvia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-winston-of-the-prairie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-gold-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-long-portage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-prescott-of-saskatchewan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-masters-of-the-wheat-lands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-brandon-of-the-engineers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-cattle-barons-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-lorimer-of-the-northwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-hawtreys-deputy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-blakes-burden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-partners-of-the-out-trail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-thurston-of-orchard-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-greater-power": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-for-the-allinson-honor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-johnstone-of-the-border": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-secret-of-the-reef": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-dust-of-conflict": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-by-right-of-purchase": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-league-of-the-leopard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-coast-of-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-a-damaged-reputation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-northwest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-boy-ranchers-of-puget-sound": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-mistress-of-bonaventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-protector": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-harding-of-allenwood": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-delilah-of-the-snows": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-for-jacinta": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-a-prairie-courtship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-thrice-armed": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-long-odds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-wyndhams-pal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-kit-musgraves-luck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-impostor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-in-the-misty-seas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-carson-of-red-river": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbindloss-sunshine-and-snow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "harold bindloss",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

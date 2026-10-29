@@ -1,0 +1,65 @@
+{
+ "_about": "Public-domain Philoxenus of Mabbug (d. 523), Syriac bishop and ascetic writer, for the Word Hoard: The Discourses of Philoxenus, vol. II, the English translation by E. A. Wallis Budge (1894), and Three Letters of Philoxenus, Syriac with English translation by A. A. Vaschalde (1902), from Internet Archive scans. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "philoxenus"
+ ],
+ "_surname": [
+  "philoxenus"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "philoxenus-discourses-2": [
+   "discoursesofphil02philuoft",
+   "The Discourses of Philoxenus, Bishop of Mabbogh, vol. II, Introduction, Translation, etc., by E. A. Wallis Budge (London: Asher & Co., 1894)"
+  ],
+  "philoxenus-three-letters-1902": [
+   "threelettersphil00philuoft",
+   "Three Letters of Philoxenus, Bishop of Mabbogh, with an English translation, by Arthur Adolphe Vaschalde (Tipografia della R. Accademia dei Lincei, 1902)"
+  ]
+ },
+ "_alternates": {
+  "philoxenus-copies": "discourses02philuoft and the Google copy of vol. II; four other copies of the Three Letters"
+ },
+ "_excluded": {
+  "philoxenus-other": "Vol. I of the Discourses (Syriac text only)"
+ },
+ "_rights_checked": {
+  "philoxenus-discourses-2": "title page read: 1894; the catalogue's 1893 is wrong"
+ },
+ "_pending": {},
+ "_translators": {
+  "philoxenus-discourses-2": "budge",
+  "philoxenus-three-letters-1902": "vaschalde"
+ },
+ "_checks": {
+  "philoxenus-discourses-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "philoxenus",
+   "translator_claimed": "budge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1893-1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1894; the catalogue's 1893 is wrong"
+  },
+  "philoxenus-three-letters-1902": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "philoxenus",
+   "translator_claimed": "vaschalde",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

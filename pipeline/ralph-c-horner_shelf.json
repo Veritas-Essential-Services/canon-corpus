@@ -1,0 +1,134 @@
+{
+ "_about": "Public-domain Ralph Cecil Horner (1854-1921), Canadian holiness evangelist and founder of the Holiness Movement Church, for the Word Hoard: From the Altar to the Upper Room (1891), Pentecost (1891), Notes on Boland, or Mr. Wesley and the Second Work of Grace (1893), Original and Inbred Sin (1896), Fragments from the Feast, eighteen sermons (1902), The Children of the Bible (1903) and Revival Sermons (1910). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 80 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ralph c. horner",
+  "ralph cecil horner",
+  "r. c. horner"
+ ],
+ "_surname": [
+  "ralph c. horner",
+  "r. c. horner",
+  "ralph horner",
+  "rev. r. c. horner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "horner-altar-to-upper-room": [
+   "cihm_07858",
+   "From the altar to the upper room : in four parts (Toronto : W. Briggs; Montreal : C.W. Coates, 1891)"
+  ],
+  "horner-pentecost": [
+   "cihm_07862",
+   "Pentecost (Toronto : W. Briggs; Montreal : C.W. Coates, 1891)"
+  ],
+  "horner-notes-on-boland": [
+   "cihm_07860",
+   "Notes on Boland, or, Mr. Wesley and the second work of grace (Boston : McDonald & Gil; Toronto : W. Briggs, 1893)"
+  ],
+  "horner-original-inbred-sin": [
+   "cihm_07861",
+   "Original and inbred sin (Ottawa : [s.n.], 1896)"
+  ],
+  "horner-fragments-from-feast": [
+   "cihm_97987",
+   "Fragments from the feast, or, 18 sermons (Belleville : 'Cruse of Oil'Tract Repository, 1902)"
+  ],
+  "horner-children-of-bible": [
+   "cihm_74636",
+   "The children of the Bible (Ottawa : R.C. Horner, 1903)"
+  ],
+  "horner-revival-sermons": [
+   "cihm_74657",
+   "Revival sermons (Ottawa : Holiness Movement Pub. House, 1910)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "horner-other": "Gospel Tent Hymns (a hymnal); The Feast of 1905, which mixes his addresses with others' testimonies"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "horner-altar-to-upper-room": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph c. horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horner-pentecost": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph c. horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horner-notes-on-boland": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horner-original-inbred-sin": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ralph c. horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horner-fragments-from-feast": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horner-children-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "horner-revival-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "r. c. horner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

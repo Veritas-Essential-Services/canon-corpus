@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Edgar Jepson (1863-1938) as translator: Leblanc's Arsène Lupin (1909) and Leroux's The Man with the Black Feather (1912). US public domain. Added 2026-10-10 by lane C (round 33); Adam may veto. No uids minted.",
+ "_name_words": [
+  "edgar jepson",
+  "jepson"
+ ],
+ "_surname": [
+  "edgar jepson",
+  "jepson"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jep-4014": [
+   4014,
+   "Arsène Lupin"
+  ],
+  "jep-46343": [
+   46343,
+   "The Man with the Black Feather"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "jepson-leblanc-arsene-lupin": {
+   "source": "jep-4014",
+   "of": "Maurice Leblanc",
+   "work": "Arsène Lupin",
+   "translated": "1909-1912 (see the Gutenberg header)",
+   "translator": "Edgar Jepson",
+   "scan_edition": "Project Gutenberg 4014 (clean text)"
+  },
+  "jepson-leroux-the-man-with-the-black-feather": {
+   "source": "jep-46343",
+   "of": "Gaston Leroux",
+   "work": "The Man with the Black Feather",
+   "translated": "1909-1912 (see the Gutenberg header)",
+   "translator": "Edgar Jepson",
+   "scan_edition": "Project Gutenberg 46343 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jep-4014": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar jepson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Jepson"
+  },
+  "jep-46343": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edgar jepson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edgar Jepson"
+  }
+ },
+ "_verified": {
+  "jep-4014": {
+   "pg": 4014,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Jepson"
+  },
+  "jep-46343": {
+   "pg": 46343,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edgar Jepson"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

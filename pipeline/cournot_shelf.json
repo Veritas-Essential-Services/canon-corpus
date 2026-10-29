@@ -1,0 +1,40 @@
+{
+ "_about": "Antoine Augustin Cournot (1801-1877): Researches into the Mathematical Principles of the Theory of Wealth (1838), translated by Nathaniel T. Bacon, with a bibliography of mathematical economics by Irving Fisher (New York: Macmillan, 1897), raw IA OCR, clean 0.85. US public domain. No uids minted.",
+ "_author": "Antoine Augustin Cournot",
+ "_name_words": [
+  "antoine",
+  "augustin",
+  "cournot"
+ ],
+ "_surname": [
+  "cournot"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cournot-bacon-researches-1897": [
+   "bub_gb_AGoGpyJY_SAC",
+   "Researches into the Mathematical Principles of the Theory of Wealth, tr. Nathaniel T. Bacon (Macmillan, 1897)",
+   "Nathaniel T. Bacon"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "cournot-bacon-researches-1897": "Bacon"
+ },
+ "_checks": {
+  "cournot-bacon-researches-1897": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cournot",
+   "translator_claimed": "Bacon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

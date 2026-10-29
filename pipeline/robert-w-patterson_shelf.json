@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain Robert W. Patterson, pastor of the Second Presbyterian Church of Chicago, for the Word Hoard: three of his sermons, The Place where God Records his Name, A Sermon on Prayer for Rulers, and Elements of Christianity that tend to secure its Diffusion. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 122 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "robert w. patterson",
+  "robert wilson patterson",
+  "r. w. patterson",
+  "patterson"
+ ],
+ "_surname": [
+  "patterson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "patterson-gods-name": [
+   "placewheregodrec00patt",
+   "The place where God records his name : a discourse, at the dedication of the Second Presbyterian Church, on Friday evening, Jan. 24, 1851, at Chicago, Ill (Chicago : Published by S.C. Griggs & Co., 1851)"
+  ],
+  "patterson-prayer-for-rulers": [
+   "sermononprayerfo00patt",
+   "A sermon on prayer for rulers, delivered in the Second Presbyterian Church in Chicago, on Sabbath morning, June 8, 1856 (Chicago : S.C. Griggs and Co., 1856)"
+  ],
+  "patterson-elements": [
+   "elementsofchrist00patt",
+   "Elements of Christianity that tend to secure its diffusion and universal prevalence : a sermon, before the American Board of Commissioners for Foreign Missions, at the meeting in Philadelphia, Pa. October 2, 1859 (Press of T. R. Marvin, 1859)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "patterson-fables": "Fables of Infidelity is by Robert Patterson (1829-1885), another man",
+  "patterson-others": "Early Illinois and The West from the Census of 1880 are by Robert Porter"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "patterson-patton-induction": "Addresses at the Induction of Rev. Francis L. Patton (1873), IA addressesatindu00pattgoog: addresses by three men (waits for Adam's ruling on many-author compilations)",
+  "patterson-chicago-settlers": "Biographical Sketches of some of the Early Settlers of the City of Chicago (1876), IA biographicalsket12patt: written with James Taylor and others (waits for Adam's ruling on many-author compilations)"
+ },
+ "_translators": {},
+ "_checks": {
+  "patterson-gods-name": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "patterson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "Public Domain assumed. No evidence of copyright renewal could be found. Contact dcc@library.uiuc.edu for information. ",
+   "ia_lending": null
+  },
+  "patterson-prayer-for-rulers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "patterson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "patterson-elements": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "patterson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

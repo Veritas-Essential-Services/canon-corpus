@@ -1,0 +1,219 @@
+{
+ "_about": "Edgar Allan Poe's tales, poems and criticism not already on another shelf (the reading-list poe shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Edgar Allan Poe",
+ "_name_words": [
+  "poe"
+ ],
+ "_surname": [
+  "edgar allan poe"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "poe-fall-of-the-house-of-usher": [
+   932,
+   "The Fall of the House of Usher"
+  ],
+  "poe-first-project-gutenberg-collection-of-edgar-allan-poe": [
+   1062,
+   "First Project Gutenberg Collection of Edgar Allan Poe"
+  ],
+  "poe-cask-of-amontillado": [
+   1063,
+   "The Cask of Amontillado"
+  ],
+  "poe-masque-of-the-red-death": [
+   1064,
+   "The Masque of the Red Death"
+  ],
+  "poe-raven": [
+   1065,
+   "The Raven"
+  ],
+  "poe-complete-poetical-works-of-edgar-allan-poe-including-ess": [
+   10031,
+   "The Complete Poetical Works of Edgar Allan Poe Including Essays on Poetry"
+  ],
+  "poe-works-of-edgar-allan-poe-the-raven-edition-table-of-cont": [
+   25525,
+   "The Works of Edgar Allan Poe, The Raven Edition Table Of Contents And Index Of The Five Volumes",
+   {
+    "contents_only": true
+   }
+  ],
+  "poe-eureka": [
+   32037,
+   "Eureka: A Prose Poem"
+  ],
+  "poe-raven-illustrated": [
+   45484,
+   "The Raven Illustrated"
+  ],
+  "poe-bells-and-other-poems": [
+   50852,
+   "The Bells, and Other Poems"
+  ],
+  "poe-narrative-of-arthur-gordon-pym-of-nantucket-comprising-t": [
+   51060,
+   "The Narrative of Arthur Gordon Pym of Nantucket Comprising the details of a mutiny and atrocious butchery on board the American brig Grampus, on her way to the South Seas, in the month of June, 1827."
+  ],
+  "poe-raven-and-the-philosophy-of-composition": [
+   55749,
+   "The Raven, and The Philosophy of Composition"
+  ],
+  "poe-conchologists-first-book-a-system-of-testaceous-malacolo": [
+   65171,
+   "The Conchologist's First Book A System of Testaceous Malacology, Arranged Expressly for the Use of Schools, in Which the Animals, According to Cuvier, Are Given With the Shells, a Great Number of New Species Added, and the Whole Brought Up, as Accurately as Possible, to the Present Condition of the Science. (with Thomas Brown)"
+  ],
+  "poe-poems-of-edgar-allan-poe": [
+   76996,
+   "The poems of Edgar Allan Poe"
+  ],
+  "poe-poetical-works-of-edgar-allan-poe": [
+   79019,
+   "The poetical works of Edgar Allan Poe"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 17192: second Gutenberg editions of titles already on the shelf.",
+  "held-elsewhere": "PG 2147, 2148, 2149, 2150, 2151: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-8893": "PG 8893 Selections from Poe: a school selection (ed. Gambrill) of pieces held in full elsewhere."
+ },
+ "_checks": {
+  "poe-fall-of-the-house-of-usher": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-first-project-gutenberg-collection-of-edgar-allan-poe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-cask-of-amontillado": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-masque-of-the-red-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-raven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-complete-poetical-works-of-edgar-allan-poe-including-ess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-works-of-edgar-allan-poe-the-raven-edition-table-of-cont": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-eureka": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-raven-illustrated": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-bells-and-other-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-narrative-of-arthur-gordon-pym-of-nantucket-comprising-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-raven-and-the-philosophy-of-composition": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-conchologists-first-book-a-system-of-testaceous-malacolo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-poems-of-edgar-allan-poe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "poe-poetical-works-of-edgar-allan-poe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edgar allan poe",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

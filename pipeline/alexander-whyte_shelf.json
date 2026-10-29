@@ -1,0 +1,74 @@
+{
+ "_about": "Public-domain Alexander Whyte (1836-1921, minister of Free St George's, Edinburgh, and principal of New College) for the Word Hoard: Lord, Teach Us to Pray, and his appreciations of Jacob Behmen and of Santa Teresa, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "w/whyte",
+ "_name_words": [
+  "whyte",
+  "alexander"
+ ],
+ "_surname": [
+  "alexander whyte",
+  "a. whyte",
+  "whyte, alexander",
+  "whyte"
+ ],
+ "_held": {},
+ "ccel": {
+  "whyte-pray": [
+   "pray",
+   "Lord, Teach Us to Pray",
+   ""
+  ],
+  "whyte-behmen": [
+   "behmen",
+   "Jacob Behmen: An Appreciation",
+   ""
+  ],
+  "whyte-teresa": [
+   "teresa",
+   "Santa Teresa: An Appreciation",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "whyte-pray": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander whyte",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Hodder and Stoughton, 1922",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "whyte-behmen": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander whyte",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_print_source": "Oliphant Anderson &amp; Ferrier",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "whyte-teresa": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "alexander whyte",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "Oliphant Anderson &amp; Ferrier",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

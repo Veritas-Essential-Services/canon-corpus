@@ -1,0 +1,34 @@
+{
+ "_about": "William Wollaston (1659-1724), raw IA OCR: The Religion of Nature Delineated, the sixth edition, with a preface on the life of the author (London: John and Paul Knapton, 1738). US public domain. No uids minted.",
+ "_author": "William Wollaston",
+ "_name_words": [
+  "william",
+  "wollaston",
+  "mr"
+ ],
+ "_surname": [
+  "wollaston"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wollaston-religion-of-nature-delineated-1738": [
+   "religionofnature00wolluoft",
+   "The Religion of Nature Delineated, sixth edition (London: Knapton, 1738)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "wollaston-religion-of-nature-delineated-1738": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "wollaston",
+   "identity": "ok",
+   "ia_rights": "ok: published 1738",
+   "ia_date": "1738",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "_about": "Florence Holbrook's myths retold for school readers: The Book of Nature Myths (copyright 1902) and Northland Heroes (first published January 1909). Her verse anthology 'Round the Year in Myth and Song and her Dramatic Reader are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Florence Holbrook",
+ "_name_words": [
+  "holbrook"
+ ],
+ "_surname": [
+  "florence holbrook"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "holbrook-book-of-nature-myths": [
+   22420,
+   "The Book of Nature Myths",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS|THE\\ STORY\\ OF\\ THE\\ FIRST\\ HUMMING\\-BIRD|HOW\\ FIRE\\ WAS\\ BROUGHT\\ TO\\ THE\\ INDIANS|HOW\\ SUMMER\\ CAME\\ TO\\ THE\\ EARTH|THE\\ STORY\\ OF\\ THE\\ FIRST\\ BUTTERFLIES|THE\\ STORY\\ OF\\ THE\\ FIRST\\ WOODPECKER|WHY\\ THE\\ WOODPECKER'S\\ HEAD\\ IS\\ RED|WHY\\ THE\\ CAT\\ ALWAYS\\ FALLS\\ UPON\\ HER\\ FEET|WHY\\ THE\\ SWALLOW'S\\ TAIL\\ IS\\ FORKED|WHY\\ THE\\ WHITE\\ HARES\\ HAVE\\ BLACK\\ EARS|WHY\\ THE\\ MAGPIE'S\\ NEST\\ IS\\ NOT\\ WELL\\ BUILT|WHY\\ THE\\ RAVEN'S\\ FEATHERS\\ ARE\\ BLACK|HOW\\ THE\\ QUAIL\\ BECAME\\ A\\ SNIPE|WHY\\ THE\\ SERPENT\\ SHEDS\\ HIS\\ SKIN|WHY\\ THE\\ DOVE\\ IS\\ TIMID|WHY\\ THE\\ PARROT\\ REPEATS\\ THE\\ WORDS\\ OF\\ MEN|THE\\ STORY\\ OF\\ THE\\ FIRST\\ MOCKING\\-BIRD|WHY\\ THE\\ TAIL\\ OF\\ THE\\ FOX\\ HAS\\ A\\ WHITE\\ TIP|THE\\ STORY\\ OF\\ THE\\ FIRST\\ FROG|WHY\\ THE\\ RABBIT\\ IS\\ TIMID|WHY\\ THE\\ PEETWEET\\ CRIES\\ FOR\\ RAIN|WHY\\ THE\\ BEAR\\ HAS\\ A\\ SHORT\\ TAIL|WHY\\ THE\\ WREN\\ FLIES\\ CLOSE\\ TO\\ THE\\ EARTH|WHY\\ THE\\ HOOFS\\ OF\\ THE\\ DEER\\ ARE\\ SPLIT|THE\\ STORY\\ OF\\ THE\\ FIRST\\ GRASSHOPPER|THE\\ STORY\\ OF\\ THE\\ ORIOLE|WHY\\ THE\\ PEACOCK'S\\ TAIL\\ HAS\\ A\\ HUNDRED\\ EYES|THE\\ STORY\\ OF\\ THE\\ BEES\\ AND\\ THE\\ FLIES|THE\\ STORY\\ OF\\ THE\\ FIRST\\ MOLES|THE\\ STORY\\ OF\\ THE\\ FIRST\\ ANTS|THE\\ FACE\\ OF\\ THE\\ MANITO|THE\\ STORY\\ OF\\ THE\\ FIRST\\ DIAMONDS|THE\\ STORY\\ OF\\ THE\\ FIRST\\ PEARLS|THE\\ STORY\\ OF\\ THE\\ FIRST\\ EMERALDS|WHY\\ THE\\ EVERGREEN\\ TREES\\ NEVER\\ LOSE\\ THEIR\\ LEAVES|WHY\\ THE\\ ASPEN\\ LEAVES\\ TREMBLE|HOW\\ THE\\ BLOSSOMS\\ CAME\\ TO\\ THE\\ HEATHER|HOW\\ FLAX\\ WAS\\ GIVEN\\ TO\\ MEN|WHY\\ THE\\ JUNIPER\\ HAS\\ BERRIES|WHY\\ THE\\ SEA\\ IS\\ SALT|THE\\ STORY\\ OF\\ THE\\ FIRST\\ WHITEFISH|WAS\\ IT\\ THE\\ FIRST\\ TURTLE\\?|WHY\\ THE\\ CROCODILE\\ HAS\\ A\\ WIDE\\ MOUTH|THE\\ STORY\\ OF\\ THE\\ PICTURE\\ ON\\ THE\\ VASE|WHY\\ THE\\ WATER\\ IN\\ RIVERS\\ IS\\ NEVER\\ STILL|HOW\\ THE\\ RAVEN\\ HELPED\\ MEN|THE\\ STORY\\ OF\\ THE\\ EARTH\\ AND\\ THE\\ SKY|THE\\ STORY\\ OF\\ THE\\ FIRST\\ SNOWDROPS|WHY\\ THE\\ FACE\\ OF\\ THE\\ MOON\\ IS\\ WHITE|WHY\\ ALL\\ MEN\\ LOVE\\ THE\\ MOON|WHY\\ THERE\\ IS\\ A\\ HARE\\ IN\\ THE\\ MOON|THE\\ CHILDREN\\ IN\\ THE\\ MOON|WHY\\ THERE\\ IS\\ A\\ MAN\\ IN\\ THE\\ MOON|THE\\ TWIN\\ STARS|THE\\ LANTERN\\ AND\\ THE\\ FAN|VOCABULARY\\ OF\\ THE\\ BOOK\\ OF\\ NATURE\\ MYTHS)\\.?$"
+     },
+     {
+      "re": "PART [IVX]+\\.?(?: [A-Z][^a-z]+)?$"
+     }
+    ],
+    "start": "THE BOOK OF NATURE MYTHS\\.$",
+    "front": true
+   }
+  ],
+  "holbrook-northland-heroes": [
+   20853,
+   "Northland Heroes",
+   {
+    "levels": [
+     {
+      "re": "(?:PREFACE|CONTENTS|ILLUSTRATIONS|THE STORY OF FRITHIOF|THE STORY OF BEOWULF|Pronouncing vocabulary of proper names|PRONOUNCING VOCABULARY OF PROPER NAMES)$"
+     },
+     {
+      "re": "(?:In\\ Hilding's\\ Garden|King\\ Bele\\ and\\ Thorsten|Framness|King\\ Helge\\ and\\ Frithiof|In\\ the\\ Country\\ of\\ King\\ Ring|Frithiof's\\ Answer|In\\ Balder's\\ Grove|The\\ Parting|Frithiof\\ and\\ Angantyr|The\\ Return|Balder's\\ Funeral\\ Pile|On\\ the\\ Sea|The\\ Viking's\\ Code|Frithiof's\\ Return|King\\ Ring\\ and\\ the\\ Stranger|The\\ Ride\\ on\\ the\\ Ice|In\\ the\\ Forest|King\\ Ring's\\ Death|The\\ New\\ King|The\\ Reconciliation|The\\ Coming\\ of\\ Sheaf|The\\ Young\\ Beowulf|The\\ Harper's\\ Story|Beowulf\\ and\\ his\\ Men|The\\ Warder\\ of\\ the\\ Shore|Beowulf\\ received\\ by\\ Hrothgar|The\\ Contest\\ with\\ Grendel|The\\ Feast\\ of\\ Joy|Grendel's\\ Mother|The\\ Way\\ to\\ the\\ Pool|Beowulf\\ in\\ the\\ Pool|Beowulf's\\ Return|Hrothgar\\ honours\\ Beowulf|Beowulf\\ and\\ Hygelac|The\\ Dragon\\ of\\ the\\ Mountain|Beowulf\\ goes\\ against\\ the\\ Dragon|Wiglaf\\ aids\\ his\\ King|The\\ Death\\ of\\ Beowulf)$"
+     }
+    ],
+    "start": "ILLUSTRATIONS$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "holbrook-book-of-nature-myths": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florence holbrook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "holbrook-northland-heroes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "florence holbrook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

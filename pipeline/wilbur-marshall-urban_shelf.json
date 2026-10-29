@@ -1,0 +1,68 @@
+{
+ "_about": "Wilbur Marshall Urban (1873-1952), American value theorist. Raw IA OCR: Valuation, its Nature and Laws, Library of Philosophy (London: Swan Sonnenschein; New York: Macmillan, 1909), clean 0.95; The Intelligible World: Metaphysics and Value (London: Allen & Unwin; New York: Macmillan, first published 1929), clean 0.95; Fundamentals of Ethics (New York: Holt, copyright 1930; the copy names no later printing), clean 0.93. Not taken: a copy of Fundamentals of Ethics dated September 1949. US public domain. No uids minted.",
+ "_author": "Wilbur Marshall Urban",
+ "_name_words": [
+  "wilbur",
+  "marshall",
+  "urban"
+ ],
+ "_surname": [
+  "urban"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "urban-valuation-1909": [
+   "valuationitsnatu00urbauoft",
+   "Valuation, its Nature and Laws (Sonnenschein, 1909)"
+  ],
+  "urban-intelligible-world-1929": [
+   "intelligibleworl032337mbp",
+   "The Intelligible World (Allen & Unwin, 1929)"
+  ],
+  "urban-fundamentals-of-ethics-1930": [
+   "in.ernet.dli.2015.2762",
+   "Fundamentals of Ethics (Holt, 1930)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "urban-valuation-1909": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "urban",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "urban-intelligible-world-1929": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "urban",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "urban-fundamentals-of-ethics-1930": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "urban",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "copyright page: Henry Holt, copyright 1930; this DLI copy names no later printing (another IA copy, bwb_Y0-DND-014, is dated September 1949 and is not taken). Works published in 1930 entered the US public domain on 1 January 2026."
+  }
+ },
+ "_rights_checked": {
+  "urban-fundamentals-of-ethics-1930": "copyright page: Henry Holt, copyright 1930; this DLI copy names no later printing (another IA copy, bwb_Y0-DND-014, is dated September 1949 and is not taken). Works published in 1930 entered the US public domain on 1 January 2026."
+ }
+}

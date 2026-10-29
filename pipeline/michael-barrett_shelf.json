@@ -1,0 +1,43 @@
+{
+ "_about": "Michael Barrett's A Calendar of Scottish Saints (1919): short lives of the Scottish saints by feast day. Up in Ardmuirland, a book of sketches, is not taken. Gutenberg catalogue: Barrett 1848-1924. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Michael Barrett",
+ "_name_words": [
+  "scottish"
+ ],
+ "_surname": [
+  "michael barrett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mbarrett-calendar-of-scottish-saints": [
+   31121,
+   "A Calendar of Scottish Saints",
+   {
+    "levels": [
+     {
+      "re": "INTRODUCTION$|(JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)$"
+     },
+     {
+      "re": "\\d{1,2}--\\S.*",
+      "max": 150
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mbarrett-calendar-of-scottish-saints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "michael barrett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

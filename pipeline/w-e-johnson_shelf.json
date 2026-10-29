@@ -1,0 +1,39 @@
+{
+ "_about": "William Ernest Johnson (1858-1931), Cambridge logician, Sidgwick Lecturer in Moral Science, teacher of Keynes and Ramsey. Raw IA OCR: Logic, Part I (Cambridge, 1921). Wanted: Logic Part II (1922) and Part III (1924). His surname is common, so only the initialled form is used. US public domain. No uids minted.",
+ "_author": "W. E. Johnson",
+ "_name_words": [
+  "william",
+  "ernest",
+  "johnson"
+ ],
+ "_surname": [
+  "w. e. johnson"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "johnson-logic-part-i-1921": [
+   "in.ernet.dli.2015.204560",
+   "Logic, Part I (Cambridge, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "johnson-logic-part-i-1921": {
+   "author": "W. E. Johnson (title page OCR reads 'W. E. JOtt**SUN, M.A., Fellow of King's College, Cambridge, Sidgwick Lecturer in Moral Science'; Cambridge, 1921)"
+  }
+ },
+ "_checks": {
+  "johnson-logic-part-i-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

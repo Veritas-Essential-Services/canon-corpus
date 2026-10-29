@@ -1,0 +1,220 @@
+{
+ "_about": "Public-domain C. I. Scofield (Cyrus Ingerson Scofield, 1843-1921) for the Word Hoard, his own books and not the Scofield Reference Bible: Plain Papers on the Doctrine of the Holy Spirit (copyright 1899), the Scofield Bible Correspondence School Course of Study vols. 1-3 (ninth edition, copyright 1907), Addresses on Prophecy (catalogued 1914), The New Life in Christ Jesus (1915), What Do the Prophets Say? (1918), In Many Pulpits (1922), Rightly Dividing the Word of Truth (2nd ed., 1923), and three compilations of his writings by other hands (Reid 1913, Pohle 1918, Gaebelein 1920), raw Internet Archive OCR. Dispensationalist; veto point. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "scofield"
+ ],
+ "_surname": [
+  "c. i. scofield",
+  "scofield, c. i.",
+  "cyrus ingerson scofield",
+  "scofield, cyrus ingerson",
+  "c. i. scofield, d.d.",
+  "dr. c. i. scofield"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "scofield-plain-papers": [
+   "plainpapersondoc00scof",
+   "Plain Papers on the Doctrine of the Holy Spirit (New York, Chicago, Toronto: Fleming H. Revell; no year on title page, copyright 1899)"
+  ],
+  "scofield-course-1": [
+   "scofieldbiblecor00scof",
+   "The Scofield Bible Correspondence School, Course of Study, vol. 1: The Old Testament (ninth edition, Bible Institute of Los Angeles; no year on title page, copyright 1907)"
+  ],
+  "scofield-course-2": [
+   "scofieldbiblecor00scof_0",
+   "The Scofield Bible Correspondence School, Course of Study, vol. 2: The New Testament (ninth edition, Bible Institute of Los Angeles; no year on title page, copyright 1907)"
+  ],
+  "scofield-course-3": [
+   "scofieldbiblecor00scof_1",
+   "The Scofield Bible Correspondence School, Course of Study, vol. 3: Synthesis of Bible Truth (ninth edition; no year on title page, copyright 1907)"
+  ],
+  "scofield-no-room-in-inn": [
+   "noroomininnother00scof",
+   "No Room in the Inn, and Other Interpretations, compiled from his writings by Mary Emily Reid (New York: Oxford University Press American Branch, copyright 1913)"
+  ],
+  "scofield-addresses-prophecy": [
+   "addressesonproph0000cisc",
+   "Addresses on Prophecy (Los Angeles: Bible House of Los Angeles; no year on title page, catalogued 1914)"
+  ],
+  "scofield-new-life": [
+   "newlifeinchristj00scof",
+   "The New Life in Christ Jesus (Chicago: Bible Institute Colportage Association, copyright 1915)"
+  ],
+  "scofield-prophets-say": [
+   "whatdoprophetssa00scof",
+   "What Do the Prophets Say? (Philadelphia: The Sunday School Times Company, copyright 1916 and 1918)"
+  ],
+  "scofield-question-box": [
+   "drciscofieldsque00scof",
+   "Dr. C. I. Scofield's Question Box, compiled by Ella E. Pohle (Chicago: Bible Institute Colportage Association; no year read, library stamp 1918)"
+  ],
+  "scofield-things-new-old": [
+   "thingsnewoldoldn00scof",
+   "Things New and Old: Old and New Testament Studies, compiled and edited by A. C. Gaebelein (New York: Our Hope, copyright 1920)"
+  ],
+  "scofield-many-pulpits": [
+   "inmanypulpits00scof",
+   "In Many Pulpits with Dr. C. I. Scofield (New York: Oxford University Press American Branch, 1922)"
+  ],
+  "scofield-rightly-dividing": [
+   "rightlydividingw0000scof",
+   "Rightly Dividing the Word of Truth: Ten Outline Studies (Philadelphia, second edition, tenth thousand, January 1923)"
+  ]
+ },
+ "_alternates": {
+  "scofield-course-copies": "other ninth-edition copies of the Course (IA bwb_S0-CAP-650, bwb_S0-CAP-649_3, scofieldbiblecor0000cisc, scofieldbiblecor0002cisc)",
+  "scofield-many-pulpits-2": "In Many Pulpits, other copies (IA inmanypulpitswit00scof, inmanypulpitswi00scofgoog)"
+ },
+ "_excluded": {
+  "scofield-reference-bible": "The Scofield Reference Bible (1909/1917) and its notes: out of scope for this shelf",
+  "scofield-late-reprints": "IA plainpapersondoc0000unse (Baker 1966), bwb_Y0-AID-318, isbn_9781330577295, a retyped What Do the Prophets Say?: modern reprints",
+  "scofield-spanish": "Spanish translations",
+  "scofield-namesakes": "Cora L., Carl S., Glenni W., Charles Josiah and Anna Bishop Scofield"
+ },
+ "_rights_checked": {
+  "scofield-addresses-prophecy": "title page read: Los Angeles: Bible House of Los Angeles, no year; catalogued 1914; author died 1921",
+  "scofield-rightly-dividing": "title page read: Philadelphia, second edition, tenth thousand, January 1923",
+  "scofield-course-3": "title page read: \"Vol. Il. [III] SYNTHESIS OF BIBLE TRUTH. By C. I. SCOFIELD, D. D.\", Bible Institute of Los Angeles, ninth edition, copyright 1907; no year on title page (IA catalogue unreachable)"
+ },
+ "_pending": {
+  "scofield-course-20th": "IA scofieldbiblecor02scof: Course vol. 2, twentieth edition, Moody Bible Institute, undated; may be after 1930"
+ },
+ "_checks": {
+  "scofield-plain-papers": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scofield-course-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scofield-course-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scofield-course-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "unchecked: catalogue not reachable ('result')",
+   "rights_override": "title page read: \"Vol. Il. [III] SYNTHESIS OF BIBLE TRUTH. By C. I. SCOFIELD, D. D.\", Bible Institute of Los Angeles, ninth edition, copyright 1907; no year on title page (IA catalogue unreachable)"
+  },
+  "scofield-no-room-in-inn": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "scofield-addresses-prophecy": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Los Angeles: Bible House of Los Angeles, no year; catalogued 1914; author died 1921"
+  },
+  "scofield-new-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "scofield-prophets-say": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "scofield-question-box": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "scofield-things-new-old": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "scofield-many-pulpits": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "scofield-rightly-dividing": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "c. i. scofield",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Philadelphia, second edition, tenth thousand, January 1923"
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "_about": "Public-domain Ichabod Spencer (1798-1854, pastor of the Second Presbyterian Church, Brooklyn) for the Word Hoard: A Pastor's Sketches, first series (New York: Dodd, 1850) and second series (new edition, Philadelphia, 1853), Discourses on Sacramental Occasions (1861) and his Sermons with a memoir by J. M. Sherwood (Philadelphia: Presbyterian Board, 1885, 2 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "spencer",
+  "ichabod"
+ ],
+ "_surname": [
+  "ichabod spencer",
+  "ichabod s. spencer",
+  "i. s. spencer",
+  "spencer, ichabod"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ispencer-sketches-1": [
+   "pastorssketcheso00spen",
+   "A Pastor's Sketches: or, Conversations with Anxious Inquirers respecting the Way of Salvation (New York: M. W. Dodd; copyright 1850, catalogued 1851)"
+  ],
+  "ispencer-sketches-2": [
+   "pastorssketcheso02spenuoft",
+   "A Pastor's Sketches, second series, new edition (Philadelphia: Presbyterian Board of Publication; copyright 1853)"
+  ],
+  "ispencer-sacramental-1861": [
+   "discoursesonsacr00spen",
+   "Discourses on Sacramental Occasions (New York: M. W. Dodd, 1861)"
+  ],
+  "ispencer-sermons-1885-v1": [
+   "sermons_01spenuoft",
+   "Sermons, with a memoir, vol. 1 (Philadelphia: Presbyterian Board of Publication, catalogued 1885)"
+  ],
+  "ispencer-sermons-1885-v2": [
+   "sermons_02spenuoft",
+   "Sermons, with a memoir, vol. 2 (Philadelphia: Presbyterian Board of Publication, catalogued 1885)"
+  ]
+ },
+ "_alternates": {
+  "ispencer-sketches-2": "IA apastorssketche03spengoog (Dodd, catalogued 1855): its text layer never names him"
+ },
+ "_excluded": {
+  "ispencer-sketches-2001": "the 2001 Solid Ground reprint"
+ },
+ "_identity_checked": {
+  "ispencer-sketches-1": {
+   "author": "copyright line reads 'BV ICriABOD y. SPENCER' (OCR of Ichabod S. Spencer), 1850; checked by eye 2026-10-03"
+  }
+ },
+ "_checks": {
+  "ispencer-sketches-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ispencer-sketches-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ichabod s. spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ispencer-sacramental-1861": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "i. s. spencer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ispencer-sermons-1885-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ichabod s. spencer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ispencer-sermons-1885-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "ichabod s. spencer",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

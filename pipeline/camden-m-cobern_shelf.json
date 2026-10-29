@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain Camden M. Cobern, Methodist Episcopal minister and professor at Allegheny College, for the Word Hoard: The Stars and the Book, Bible Etchings of Immortality, Recent Explorations in the Holy Land, and The New Archeological Discoveries and their Bearing upon the New Testament. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 125 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "camden m. cobern",
+  "camden mccormack cobern",
+  "camden cobern",
+  "cobern"
+ ],
+ "_surname": [
+  "cobern"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cobern-stars-and-book": [
+   "starsbooksermons00cobe",
+   "The stars and the Book; sermons preached in St. James Methodist Episcopal church, Chicago (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1904)"
+  ],
+  "cobern-immortality": [
+   "bibleetchingsim00cobegoog",
+   "Bible Etchings of Immortality (Fleming H. Revell company, 1905)"
+  ],
+  "cobern-holy-land": [
+   "recentexploratio0000cobe",
+   "Recent explorations in the Holy Land and Kadesh-Barnea, the \"lost oasis\" of the the Sinaitic peninsula (Meadville, Pa., Pub. for the World's Bible conference by the Tribune Pub. Co, 1914)"
+  ],
+  "cobern-archeological": [
+   "newarchaeologica00cobeuoft",
+   "The new archaeological discoveries and their bearing upon the New Testament and upon the life and times of the primitive Church (New York, Funk, 1917)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cobern-journals": "his journal articles",
+  "cobern-dups": "other scans and the 1921 printing of The New Archeological Discoveries"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "cobern-stars-and-book": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cobern",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cobern-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cobern",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cobern-holy-land": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cobern",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cobern-archeological": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cobern",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

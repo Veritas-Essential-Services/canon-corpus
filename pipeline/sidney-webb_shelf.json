@@ -1,0 +1,57 @@
+{
+ "_about": "Sidney Webb (1859-1947), English Fabian socialist and social historian, with Beatrice Webb (1858-1943). Gutenberg: Fabian Essays in Socialism (1889; ed. Bernard Shaw); The History of Trade Unionism (with Beatrice Webb; revised edition); English Poor Law Policy (1910; with Beatrice Webb). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Sidney Webb",
+ "_name_words": [
+  "sidney",
+  "webb"
+ ],
+ "_surname": [
+  "sidney webb"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "webb-fabian-essays": [
+   69088,
+   "Fabian Essays in Socialism (1889; ed. Bernard Shaw)"
+  ],
+  "webb-history-of-trade-unionism": [
+   66887,
+   "The History of Trade Unionism (with Beatrice Webb; revised edition)"
+  ],
+  "webb-english-poor-law-policy": [
+   43472,
+   "English Poor Law Policy (1910; with Beatrice Webb)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "webb-fabian-essays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidney webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "webb-history-of-trade-unionism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidney webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "webb-english-poor-law-policy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sidney webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

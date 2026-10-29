@@ -1,0 +1,334 @@
+{
+ "_about": "SHELF of German literature in English before 1931, for works no other shelf holds: Sotheby's Oberon of Wieland (1798), Edda Middleton's Grillparzer Sappho (1858), Bertha Schimmelfennig's Storm Immensee (1902), and four Frenssen novels (Jörn Uhl, Holyland, Peter Moor's Journey, Klaus Hinrich Baas). Ellen Frothingham's Sappho waits on her shelf (only a 1972 facsimile scan); Upton's Immensee scan does not name him; the Francke anthology is on german-classics. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 95); Adam may veto. No uids minted.",
+ "_name_words": [
+  "bertha m. schimmelfennig",
+  "delmer",
+  "edda middleton",
+  "esther everett lape",
+  "margaret may ward",
+  "mary agnes hamilton",
+  "schimmelfennig",
+  "william sotheby"
+ ],
+ "_name_words_note": "Translator names only. 'sotheby', 'ward' and 'hamilton' alone are left out: the first is shared with the homer and virgil shelves, the others are common surnames.",
+ "_surname": [
+  "bertha m. schimmelfennig",
+  "delmer",
+  "edda middleton",
+  "esther everett lape",
+  "margaret may ward",
+  "mary agnes hamilton",
+  "schimmelfennig",
+  "william sotheby"
+ ],
+ "_surname_by_slug": {
+  "ger-wieland-oberon-1": [
+   "william sotheby"
+  ],
+  "ger-wieland-oberon-2": [
+   "william sotheby"
+  ],
+  "ger-grillparzer-sappho-middleton": [
+   "edda middleton"
+  ],
+  "ger-storm-immensee-schimmelfennig": [
+   "bertha m. schimmelfennig",
+   "schimmelfennig"
+  ],
+  "ger-frenssen-jorn-uhl": [
+   "delmer"
+  ],
+  "ger-frenssen-holyland": [
+   "mary agnes hamilton"
+  ],
+  "ger-frenssen-peter-moor": [
+   "margaret may ward"
+  ],
+  "ger-frenssen-klaus-hinrich-baas": [
+   "esther everett lape"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ger-wieland-oberon-1": [
+   "oberonapoem00sothgoog",
+   "Oberon, a Poem, from the German of Wieland, vol. I (1798)"
+  ],
+  "ger-wieland-oberon-2": [
+   "oberonapoem01sothgoog",
+   "Oberon, a Poem, from the German of Wieland, vol. II (1798)"
+  ],
+  "ger-grillparzer-sappho-middleton": [
+   "sapphotragedyinf00gril",
+   "Sappho; a Tragedy in Five Acts (1858)"
+  ],
+  "ger-storm-immensee-schimmelfennig": [
+   "cu31924026220172",
+   "Immensee (1902)"
+  ],
+  "ger-frenssen-jorn-uhl": [
+   "jornuhl00fren",
+   "Jörn Uhl (1905)"
+  ],
+  "ger-frenssen-holyland": [
+   "holyland00fren",
+   "Holyland (Hilligenlei) (1906)"
+  ],
+  "ger-frenssen-peter-moor": [
+   "petermoorsjourne00fren",
+   "Peter Moor's Journey to Southwest Africa (1908)"
+  ],
+  "ger-frenssen-klaus-hinrich-baas": [
+   "klaushinrichbaas00frenrich",
+   "Klaus Hinrich Baas: the Story of a Self-Made Man (1911)"
+  ]
+ },
+ "titles": {
+  "german-literature-wieland-oberon-1": {
+   "source": "ger-wieland-oberon-1",
+   "of": "Christoph Martin Wieland",
+   "work": "Oberon, a Poem, vol. I",
+   "translated": 1798,
+   "translator": "William Sotheby",
+   "scan_edition": "Cadell and Davies, London 1798, 2 vols; Google scan",
+   "note": "The title page's imprint has no legible year; the preface is dated May 12th, 1798."
+  },
+  "german-literature-wieland-oberon-2": {
+   "source": "ger-wieland-oberon-2",
+   "of": "Christoph Martin Wieland",
+   "work": "Oberon, a Poem, vol. II",
+   "translated": 1798,
+   "translator": "William Sotheby",
+   "scan_edition": "Cadell and Davies, London 1798, 2 vols; Google scan"
+  },
+  "german-literature-grillparzer-sappho-middleton": {
+   "source": "ger-grillparzer-sappho-middleton",
+   "of": "Franz Grillparzer",
+   "work": "Sappho; a Tragedy in Five Acts",
+   "translated": 1858,
+   "translator": "Edda Middleton",
+   "scan_edition": "D. Appleton, New York 1858; archive.org scan"
+  },
+  "german-literature-storm-immensee-schimmelfennig": {
+   "source": "ger-storm-immensee-schimmelfennig",
+   "of": "Theodor Storm",
+   "work": "Immensee",
+   "translated": 1902,
+   "translator": "Bertha M. Schimmelfennig",
+   "scan_edition": "T. Y. Crowell, New York 1902; Cornell University scan"
+  },
+  "german-literature-frenssen-jorn-uhl": {
+   "source": "ger-frenssen-jorn-uhl",
+   "of": "Gustav Frenssen",
+   "work": "Jörn Uhl",
+   "translated": 1905,
+   "translator": "F. S. Delmer",
+   "scan_edition": "Dana Estes, Boston, and Archibald Constable, London, 1905; archive.org scan",
+   "note": "The title page OCR reads 'V. S. DELMER'."
+  },
+  "german-literature-frenssen-holyland": {
+   "source": "ger-frenssen-holyland",
+   "of": "Gustav Frenssen",
+   "work": "Holyland (Hilligenlei)",
+   "translated": 1906,
+   "translator": "Mary Agnes Hamilton",
+   "scan_edition": "Dana Estes, Boston 1906; archive.org scan"
+  },
+  "german-literature-frenssen-peter-moor": {
+   "source": "ger-frenssen-peter-moor",
+   "of": "Gustav Frenssen",
+   "work": "Peter Moor's Journey to Southwest Africa: a Narrative of the German Campaign",
+   "translated": 1908,
+   "translator": "Margaret May Ward",
+   "scan_edition": "Houghton Mifflin, Boston and New York 1908; archive.org scan"
+  },
+  "german-literature-frenssen-klaus-hinrich-baas": {
+   "source": "ger-frenssen-klaus-hinrich-baas",
+   "of": "Gustav Frenssen",
+   "work": "Klaus Hinrich Baas: the Story of a Self-Made Man",
+   "translated": 1911,
+   "translator": "Esther Everett Lape",
+   "scan_edition": "Macmillan, New York 1911; University of California scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "frenssen-three-comrades": "The Three Comrades (Dana Estes, 1907): the scan's title page is lost and no translator is named in the front matter.",
+  "lcc-sappho-1855": "Sappho (Edinburgh, Constable, 1855) is translated by 'L. C. C.', initials the gate cannot check.",
+  "oberon-1805": "The 1805 Bulmer reprint of Sotheby's Oberon; the 1798 first edition is used."
+ },
+ "_checks": {
+  "ger-wieland-oberon-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william sotheby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ger-wieland-oberon-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william sotheby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1798",
+   "ia_date": "1798",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ger-grillparzer-sappho-middleton": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edda middleton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ger-storm-immensee-schimmelfennig": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bertha m. schimmelfennig",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ger-frenssen-jorn-uhl": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "delmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ger-frenssen-holyland": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary agnes hamilton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ger-frenssen-peter-moor": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "margaret may ward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": "Not in copyright. The Library knows of no copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "ger-frenssen-klaus-hinrich-baas": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "esther everett lape",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "ger-wieland-oberon-1": {
+   "ia": "oberonapoem00sothgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1798
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ger-wieland-oberon-2": {
+   "ia": "oberonapoem01sothgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "ger-grillparzer-sappho-middleton": {
+   "ia": "sapphotragedyinf00gril",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1858
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ger-storm-immensee-schimmelfennig": {
+   "ia": "cu31924026220172",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1817,
+    1854,
+    1880,
+    1888,
+    1902,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [
+    1941,
+    1943,
+    1948
+   ],
+   "post_1930_examined": "Examined in round 95: 1941, 1943 and 1948 are date-due stamps on the Cornell library slip, not imprints; the title page reads Crowell, with a copyright year the OCR reads as '190:^'."
+  },
+  "ger-frenssen-jorn-uhl": {
+   "ia": "jornuhl00fren",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1863,
+    1902,
+    1903,
+    1905
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ger-frenssen-holyland": {
+   "ia": "holyland00fren",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ger-frenssen-peter-moor": {
+   "ia": "petermoorsjourne00fren",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1870,
+    1903,
+    1907,
+    1908
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "ger-frenssen-klaus-hinrich-baas": {
+   "ia": "klaushinrichbaas00frenrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1909,
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

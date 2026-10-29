@@ -1,0 +1,185 @@
+{
+ "_about": "Public-domain Isaac Penington (1616-1679), Quaker writer, for the Word Hoard: his Works in the third edition (London, 1784, four volumes) and the fourth edition with his collected letters (Philadelphia, 1863, four volumes), and his Letters (1796 and 1829), from Internet Archive scans. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "penington"
+ ],
+ "_surname": [
+  "isaac penington",
+  "penington, isaac",
+  "penington"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "penington-works-1784-1": [
+   "worksoflongmourn01peniiala",
+   "The Works of the Long-Mournful and Sorely-Distressed Isaac Penington, third edition, vol. I (London: James Phillips, 1784)"
+  ],
+  "penington-works-1784-2": [
+   "worksoflongmourn02peniiala",
+   "The Works of Isaac Penington, third edition, vol. II (London: James Phillips, 1784)"
+  ],
+  "penington-works-1784-3": [
+   "worksoflongmourn03peniiala",
+   "The Works of Isaac Penington, third edition, vol. III (London: James Phillips, 1784)"
+  ],
+  "penington-works-1784-4": [
+   "worksoflongmourn04peniiala",
+   "The Works of Isaac Penington, third edition, vol. IV (London: James Phillips, 1784)"
+  ],
+  "penington-works-1863-1": [
+   "worksisaacpenin00penigoog",
+   "The Works of Isaac Penington, fourth edition, including his collected letters, vol. I (Philadelphia: Friends' Book Store, 304 Arch Street, 1863)"
+  ],
+  "penington-works-1863-2": [
+   "worksisaacpenin01penigoog",
+   "The Works of Isaac Penington, fourth edition, vol. II (Philadelphia: Friends' Book Store, 304 Arch Street, 1863)"
+  ],
+  "penington-works-1863-3": [
+   "worksisaacpenin03penigoog",
+   "The Works of Isaac Penington, fourth edition, vol. III (Philadelphia: Friends' Book Store, 304 Arch Street, 1863)"
+  ],
+  "penington-works-1863-4": [
+   "worksisaacpenin02penigoog",
+   "The Works of Isaac Penington, fourth edition, vol. IV (Philadelphia: Friends' Book Store, 304 Arch Street, 1863)"
+  ],
+  "penington-letters-1796": [
+   "lettersisaacpen01penigoog",
+   "Letters of Isaac Penington, now first published from manuscript copies, with letters of Stephen Crisp, William Penn, R. Barclay and others added (London: James Phillips, 1796)"
+  ],
+  "penington-letters-1829": [
+   "lettersofisaacpe00peniiala",
+   "Letters of Isaac Penington, second edition (London: Holdsworth and Ball; Harvey and Darton; Seeley, 1829)"
+  ]
+ },
+ "_alternates": {
+  "penington-copies": "Works second edition vol. II (1761); the undated Philadelphia Letters"
+ },
+ "_excluded": {
+  "penington-about": "Bevan's Memoirs of the Life (1807, 1831) and the Selections and Brief Extracts made by others"
+ },
+ "_rights_checked": {
+  "penington-works-1863-1": "title page read: 1863; the catalogue's '1861, Sherwoods' does not match",
+  "penington-letters-1829": "title page read: no editor named (the preface refers to John Kendall's 1796 edition; the catalogue names John Barclay)"
+ },
+ "_pending": {
+  "penington-unread": "The 1681 folio Works and the 1761 vol. I: title pages not read"
+ },
+ "_translators": {},
+ "_checks": {
+  "penington-works-1784-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1784",
+   "ia_date": "1784",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-works-1784-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1784",
+   "ia_date": "1784",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-works-1784-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1784",
+   "ia_date": "1784",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-works-1784-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1784",
+   "ia_date": "1784",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-works-1863-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1863; the catalogue's '1861, Sherwoods' does not match"
+  },
+  "penington-works-1863-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-works-1863-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-works-1863-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-letters-1796": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1796",
+   "ia_date": "1796",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "penington-letters-1829": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "isaac penington",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no editor named (the preface refers to John Kendall's 1796 edition; the catalogue names John Barclay)"
+  }
+ }
+}

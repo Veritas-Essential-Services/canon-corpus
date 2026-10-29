@@ -1,0 +1,36 @@
+{
+ "_about": "Augustus, Res Gestae (the Monumentum Ancyranum), ed. and tr. William Fairley (1898), clean Gutenberg; Latin and Greek texts with English kept.",
+ "_name_words": [
+  "augustus",
+  "ancyranum",
+  "deeds"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "augustus-res-gestae-fairley": [
+   66595,
+   "Monumentum Ancyranum: The Deeds of Augustus",
+   "ed. and tr. William Fairley"
+  ]
+ },
+ "internet_archive": {},
+ "_surname": [
+  "augustus"
+ ],
+ "_translators": {
+  "augustus-res-gestae-fairley": "william fairley"
+ },
+ "_checks": {
+  "augustus-res-gestae-fairley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "augustus",
+   "translator_claimed": "william fairley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

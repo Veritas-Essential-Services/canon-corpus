@@ -1,0 +1,52 @@
+{
+ "_about": "G. F. Stout (1860-1944), raw IA OCR: Analytic Psychology (London: Swan Sonnenschein; New York: Macmillan, 2 vols., first published 1896): vol. I in a 1909 printing, vol. II in a 1902 printing. US public domain. No uids minted.",
+ "_author": "G. F. Stout",
+ "_name_words": [
+  "g",
+  "f",
+  "george",
+  "frederick",
+  "stout"
+ ],
+ "_surname": [
+  "stout",
+  "g f stout"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stout-analytic-psychology-1909-v1": [
+   "analyticalpsycho01stou",
+   "Analytic Psychology, vol. I (London: Swan Sonnenschein, 1909)"
+  ],
+  "stout-analytic-psychology-1902-v2": [
+   "analyticpsychol03stougoog",
+   "Analytic Psychology, vol. II (London: Swan Sonnenschein, 1902)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "stout-analytic-psychology-1909-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stout",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stout-analytic-psychology-1902-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "stout",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

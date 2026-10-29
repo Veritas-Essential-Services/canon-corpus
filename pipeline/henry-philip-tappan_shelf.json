@@ -1,0 +1,63 @@
+{
+ "_about": "Henry Philip Tappan (1805-1881), American philosopher of the will and first president of the University of Michigan. Gutenberg: A Review of Edwards's Inquiry into the Freedom of the Will (1839). Raw IA OCR: The Doctrine of the Will, determined by an appeal to consciousness (New York: Wiley and Putnam, 1840), clean 0.93; Elements of Logic, with an introductory view of philosophy (New York and London: Wiley and Putnam, 1844), clean 0.92. US public domain. No uids minted.",
+ "_author": "Henry Philip Tappan",
+ "_name_words": [
+  "henry",
+  "philip",
+  "tappan"
+ ],
+ "_surname": [
+  "tappan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "tappan-review-of-edwards-inquiry": [
+   35958,
+   "A Review of Edwards's Inquiry into the Freedom of the Will"
+  ]
+ },
+ "internet_archive": {
+  "tappan-doctrine-of-the-will-1840": [
+   "doctrineofwillde00tapp",
+   "The Doctrine of the Will (Wiley and Putnam, 1840)"
+  ],
+  "tappan-elements-of-logic-1844": [
+   "elementsoflogic00tapp",
+   "Elements of Logic (Wiley and Putnam, 1844)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "tappan-review-of-edwards-inquiry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tappan-doctrine-of-the-will-1840": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tappan-elements-of-logic-1844": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

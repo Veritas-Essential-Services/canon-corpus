@@ -1,0 +1,178 @@
+{
+ "_about": "Public-domain James Mudge (1844-1918), Methodist missionary to India and New England minister, for the Word Hoard: The Pastor's Missionary Manual, Growth in Holiness, The Land of Faith, The Saintly Calling, The Life Ecstatic, Fenelon the Mystic, The Riches of His Grace, History of the New England Conference, The Perfect Life, and Religious Experience. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 97 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james mudge",
+  "j. mudge",
+  "mudge"
+ ],
+ "_surname": [
+  "james mudge",
+  "j. mudge",
+  "mudge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mudge-pastors-missionary": [
+   "pastorsmissionar00mudg",
+   "The pastor's missionary manual (New York : Missionary Society, Methodist Episcopal Church, 1891)"
+  ],
+  "mudge-growth-holiness": [
+   "growthinholiness0000mudg",
+   "Growth in holiness toward perfection, or progressive sanctification (New York : Hunt & Eaton ; Cincinnati : Cranston & Curts, 1895)"
+  ],
+  "mudge-land-of-faith": [
+   "landoffaith00mudg",
+   "The land of faith (Cincinnati, Jennings and Pye; New York, Eaton and Mains, 1903)"
+  ],
+  "mudge-saintly-calling": [
+   "saintlycalling00mudg",
+   "The saintly calling (Cincinnati, Ohio : Jennings and Graham ; New York : Eaton and Mains, 1905)"
+  ],
+  "mudge-life-ecstatic": [
+   "lifeecstatic00mudg",
+   "The life ecstatic (New York, Boston [etc.] American tract society, 1906)"
+  ],
+  "mudge-fenelon": [
+   "fenelonmystic00mudgiala",
+   "Fénelon: the mystic (Cincinnati : Jennings and Graham, [c19)"
+  ],
+  "mudge-riches-grace": [
+   "richesofhisgrace00mudg",
+   "The riches of His grace ; a portion for every Sunday (New York, Eaton & Mains ; Cincinnati, Jennings & Graham, 1909)"
+  ],
+  "mudge-new-england-conference": [
+   "historyofnewengl00mudg",
+   "History of the New England Conference of the Methodist Episcopal Church. 1796-1910 (Boston : Published by the Conference, 1910)"
+  ],
+  "mudge-perfect-life": [
+   "perfectlifeinexp00mudg",
+   "The perfect life in experience and doctrine; a restatement (Cincinnati, Jennings and Graham, 1911)"
+  ],
+  "mudge-religious-experience": [
+   "religiousexperie0000mudg",
+   "Religious experience exemplified in the lives of illustrious Christians (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1913)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mudge-anthologies": "Honey from Many Hives, Poems with Power (anthologies of other writers)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mudge-pastors-missionary": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mudge-growth-holiness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mudge-land-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mudge-saintly-calling": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "mudge-life-ecstatic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mudge-fenelon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[c1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mudge-riches-grace": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "mudge-new-england-conference": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mudge-perfect-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mudge-religious-experience": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james mudge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "_about": "George Randolph Chester: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "George Randolph Chester",
+ "_name_words": [
+  "chester",
+  "george",
+  "randolph"
+ ],
+ "_surname": [
+  "george randolph chester",
+  "chester"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "grchester-five-thousand-an-hour": [
+   4353,
+   "Five Thousand an Hour: How Johnny Gamble Won the Heiress"
+  ],
+  "grchester-early-bird": [
+   19272,
+   "The Early Bird: A Business Man's Love Story"
+  ],
+  "grchester-making-of-bobby-burnit-being-a-record-of-the-adven": [
+   26485,
+   "The Making of Bobby Burnit Being a Record of the Adventures of a Live American Young Man"
+  ],
+  "grchester-young-wallingford": [
+   32897,
+   "Young Wallingford"
+  ],
+  "grchester-get-rich-quick-wallingford-a-cheerful-account-of-t": [
+   37010,
+   "Get-Rich-Quick Wallingford A Cheerful Account of the Rise and Fall of an American Business Buccaneer"
+  ],
+  "grchester-ball-of-fire": [
+   62653,
+   "The Ball of Fire"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "grchester-five-thousand-an-hour": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george randolph chester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grchester-early-bird": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george randolph chester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grchester-making-of-bobby-burnit-being-a-record-of-the-adven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george randolph chester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grchester-young-wallingford": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george randolph chester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grchester-get-rich-quick-wallingford-a-cheerful-account-of-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george randolph chester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "grchester-ball-of-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george randolph chester",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

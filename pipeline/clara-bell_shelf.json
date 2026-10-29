@@ -1,0 +1,2092 @@
+{
+ "_about": "TRANSLATOR SHELF: Clara Bell (1834-1927): Balzac for Dent's Comédie humaine (1895-1900), Georg Ebers's Egyptian and historical novels, Maupassant, Huysmans, Galdós, Palacio Valdés, Couperus, von Hillern, Eckstein. US public domain (pre-1931); UK PD since 1998. Multi-volume Gutenberg splits are left out where a complete text exists. Added 2026-10-10 by lane C (round 18); Adam may veto. No uids minted. Round 129 (2026-10-23, vetoable) added fifteen archive.org books the Gutenberg list lacks: Galdós's Trafalgar (1884) and The Court of Charles IV (1888), Loti's From Lands of Exile (1888), A Child's Romance (1891) and Disenchanted (1906), Auerbach's Brigitta (1880), Ebers's Joshua (with Margaret Bell, 1890), Jaeger's Life of Henrik Ibsen (1890), C. F. Meyer's The Tempting of Pescara (1890), Firenzuola's Of the Beauty of Women (1892), Moltke's Letters to his Mother and his Brothers (with Henry W. Fischer, 1892), W. Martin's Gerard Dou (1902) and Spitta's Johann Sebastian Bach (with J. A. Fuller Maitland, 3 vols).",
+ "_name_words": [
+  "clara bell",
+  "margaret bell"
+ ],
+ "_surname": [
+  "clara bell",
+  "margaret bell"
+ ],
+ "_surname_note": "Full name; the surname alone is an English word or a common name.",
+ "ccel": {},
+ "gutenberg": {
+  "cla-1196": [
+   1196,
+   "The Purse"
+  ],
+  "cla-1215": [
+   1215,
+   "The Elixir of Life"
+  ],
+  "cla-1220": [
+   1220,
+   "The Atheist's Mass"
+  ],
+  "cla-1305": [
+   1305,
+   "The Ball at Sceaux"
+  ],
+  "cla-1350": [
+   1350,
+   "The Country Doctor"
+  ],
+  "cla-1410": [
+   1410,
+   "The Commission in Lunacy"
+  ],
+  "cla-1411": [
+   1411,
+   "Domestic Peace"
+  ],
+  "cla-1456": [
+   1456,
+   "An Episode under the Terror"
+  ],
+  "cla-1475": [
+   1475,
+   "Gaudissart II"
+  ],
+  "cla-15067": [
+   15067,
+   "The Cathedral"
+  ],
+  "cla-1680": [
+   1680,
+   "At the Sign of the Cat and Racket"
+  ],
+  "cla-1683": [
+   1683,
+   "Honorine"
+  ],
+  "cla-1710": [
+   1710,
+   "La Grande Breteche"
+  ],
+  "cla-1714": [
+   1714,
+   "Another Study of Woman"
+  ],
+  "cla-1737": [
+   1737,
+   "Facino Cane"
+  ],
+  "cla-1810": [
+   1810,
+   "A Second Home"
+  ],
+  "cla-1811": [
+   1811,
+   "Massimilla Doni"
+  ],
+  "cla-1812": [
+   1812,
+   "A Prince of Bohemia"
+  ],
+  "cla-1826": [
+   1826,
+   "Sarrasine"
+  ],
+  "cla-1841": [
+   1841,
+   "Z. Marcas"
+  ],
+  "cla-1884": [
+   1884,
+   "The Exiles"
+  ],
+  "cla-1943": [
+   1943,
+   "Louis Lambert"
+  ],
+  "cla-1954": [
+   1954,
+   "Colonel Chabert"
+  ],
+  "cla-34678": [
+   34678,
+   "Footsteps of Fate"
+  ],
+  "cla-36811": [
+   36811,
+   "The Hour Will Come: A Tale of an Alpine Cloister. Volumes I and II"
+  ],
+  "cla-36827": [
+   36827,
+   "The Vulture Maiden [Die Geier-Wally.]"
+  ],
+  "cla-37285": [
+   37285,
+   "The Works of Honoré de Balzac: About Catherine de' M"
+  ],
+  "cla-3804": [
+   3804,
+   "Pierre and Jean"
+  ],
+  "cla-38411": [
+   38411,
+   "Froth: A Novel"
+  ],
+  "cla-47221": [
+   47221,
+   "Quintus Claudius: A Romance of Imperial Rome. Volume 1"
+  ],
+  "cla-47222": [
+   47222,
+   "Quintus Claudius: A Romance of Imperial Rome. Volume 2"
+  ],
+  "cla-48752": [
+   48752,
+   "Leon Roch: A Romance, vol. 1 (of 2)"
+  ],
+  "cla-48818": [
+   48818,
+   "Marianela"
+  ],
+  "cla-49272": [
+   49272,
+   "Leon Roch: A Romance, vol. 2 (of 2)"
+  ],
+  "cla-5493": [
+   5493,
+   "The Emperor"
+  ],
+  "cla-5507": [
+   5507,
+   "Serapis"
+  ],
+  "cla-5529": [
+   5529,
+   "The Bride of the Nile"
+  ],
+  "cla-5542": [
+   5542,
+   "A Thorny Path"
+  ],
+  "cla-5560": [
+   5560,
+   "Margery (Gred): A Tale Of Old Nuremberg"
+  ],
+  "cla-57153": [
+   57153,
+   "Enchanted India"
+  ],
+  "cla-5449": [
+   5449,
+   "Uarda: a Romance of Ancient Egypt"
+  ],
+  "cla-5499": [
+   5499,
+   "Homo Sum"
+  ],
+  "cla-5466": [
+   5466,
+   "The Sisters"
+  ],
+  "cla-1813": [
+   1813,
+   "A Man of Business"
+  ],
+  "cla-35673": [
+   35673,
+   "Our Own Set"
+  ],
+  "cla-40656": [
+   40656,
+   "Little Johannes"
+  ]
+ },
+ "internet_archive": {
+  "cla-galdos-trafalgar": [
+   "trafalgartale00pr",
+   "Trafalgar"
+  ],
+  "cla-galdos-court-of-charles-iv": [
+   "courtcharlesiva00galdgoog",
+   "The Court of Charles IV"
+  ],
+  "cla-loti-from-lands-of-exile": [
+   "fromlandsexile00bellgoog",
+   "From Lands of Exile"
+  ],
+  "cla-loti-childs-romance": [
+   "childsromance00loti",
+   "A Child's Romance"
+  ],
+  "cla-loti-disenchanted": [
+   "disenchanteddse00lotigoog",
+   "Disenchanted"
+  ],
+  "cla-auerbach-brigitta": [
+   "brigittatale00aueruoft",
+   "Brigitta"
+  ],
+  "cla-ebers-joshua": [
+   "joshuastoryofbib00eberuoft",
+   "Joshua"
+  ],
+  "cla-jaeger-life-of-ibsen": [
+   "lifeofhenrikibse00jaeguoft",
+   "The Life of Henrik Ibsen"
+  ],
+  "cla-meyer-tempting-of-pescara": [
+   "temptingpescara00meyegoog",
+   "The Tempting of Pescara"
+  ],
+  "cla-firenzuola-beauty-of-women": [
+   "beautywomen00firegoog",
+   "Of the Beauty of Women"
+  ],
+  "cla-moltke-letters": [
+   "cu31924028178691",
+   "Letters to his Mother and his Brothers"
+  ],
+  "cla-martin-gerard-dou": [
+   "gerarddou00mart",
+   "Gerard Dou"
+  ],
+  "cla-spitta-bach-1": [
+   "johannsebastianb01spituoft",
+   "Johann Sebastian Bach, vol. 1"
+  ],
+  "cla-spitta-bach-2": [
+   "johannsebastianb02spituoft",
+   "Johann Sebastian Bach, vol. 2"
+  ],
+  "cla-spitta-bach-3": [
+   "johannsebastianb03spituoft",
+   "Johann Sebastian Bach, vol. 3"
+  ],
+  "cla-dent-bachelors-establishment": [
+   "comdiehumainee04balzuoft",
+   "A Bachelor's Establishment"
+  ],
+  "cla-dent-marriage-settlement": [
+   "comdiehumainee22balzuoft",
+   "A Marriage Settlement"
+  ],
+  "cla-dent-member-for-arcis": [
+   "comdiehumainee23balzuoft",
+   "The Member for Arcis"
+  ],
+  "cla-dent-middle-classes": [
+   "comdiehumainee24balzuoft",
+   "The Middle Classes"
+  ],
+  "cla-dent-modeste-mignon": [
+   "comdiehumainee25balzuoft",
+   "Modeste Mignon"
+  ],
+  "cla-dent-pierrette": [
+   "comdiehumainee29balzuoft",
+   "Pierrette and The Abbé Birotteau"
+  ],
+  "cla-dent-ursule-mirouet": [
+   "comdiehumainee38balzuoft",
+   "Ursule Mirouët"
+  ]
+ },
+ "titles": {
+  "clara-bell-balzac-a-man-of-business": {
+   "source": "cla-1813",
+   "of": "Honoré de Balzac",
+   "work": "A Man of Business",
+   "translated": "1890s (Dent)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1813 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "clara-bell-balzac-a-prince-of-bohemia": {
+   "source": "cla-1812",
+   "of": "Honoré de Balzac",
+   "work": "A Prince of Bohemia",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1812 (clean text)"
+  },
+  "clara-bell-balzac-a-second-home": {
+   "source": "cla-1810",
+   "of": "Honoré de Balzac",
+   "work": "A Second Home",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1810 (clean text)"
+  },
+  "clara-bell-balzac-an-episode-under-the-terror": {
+   "source": "cla-1456",
+   "of": "Honoré de Balzac",
+   "work": "An Episode under the Terror",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1456 (clean text)"
+  },
+  "clara-bell-balzac-another-study-of-woman": {
+   "source": "cla-1714",
+   "of": "Honoré de Balzac",
+   "work": "Another Study of Woman",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1714 (clean text)"
+  },
+  "clara-bell-balzac-at-the-sign-of-the-cat-and-racket": {
+   "source": "cla-1680",
+   "of": "Honoré de Balzac",
+   "work": "At the Sign of the Cat and Racket",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1680 (clean text)"
+  },
+  "clara-bell-balzac-colonel-chabert": {
+   "source": "cla-1954",
+   "of": "Honoré de Balzac",
+   "work": "Colonel Chabert",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1954 (clean text)"
+  },
+  "clara-bell-balzac-domestic-peace": {
+   "source": "cla-1411",
+   "of": "Honoré de Balzac",
+   "work": "Domestic Peace",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1411 (clean text)"
+  },
+  "clara-bell-balzac-facino-cane": {
+   "source": "cla-1737",
+   "of": "Honoré de Balzac",
+   "work": "Facino Cane",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1737 (clean text)"
+  },
+  "clara-bell-balzac-gaudissart-ii": {
+   "source": "cla-1475",
+   "of": "Honoré de Balzac",
+   "work": "Gaudissart II",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1475 (clean text)"
+  },
+  "clara-bell-balzac-honorine": {
+   "source": "cla-1683",
+   "of": "Honoré de Balzac",
+   "work": "Honorine",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1683 (clean text)"
+  },
+  "clara-bell-balzac-la-grande-breteche": {
+   "source": "cla-1710",
+   "of": "Honoré de Balzac",
+   "work": "La Grande Breteche",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1710 (clean text)"
+  },
+  "clara-bell-balzac-louis-lambert": {
+   "source": "cla-1943",
+   "of": "Honoré de Balzac",
+   "work": "Louis Lambert",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1943 (clean text)"
+  },
+  "clara-bell-balzac-massimilla-doni": {
+   "source": "cla-1811",
+   "of": "Honoré de Balzac",
+   "work": "Massimilla Doni",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1811 (clean text)"
+  },
+  "clara-bell-balzac-sarrasine": {
+   "source": "cla-1826",
+   "of": "Honoré de Balzac",
+   "work": "Sarrasine",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1826 (clean text)"
+  },
+  "clara-bell-balzac-the-atheists-mass": {
+   "source": "cla-1220",
+   "of": "Honoré de Balzac",
+   "work": "The Atheist's Mass",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1220 (clean text)"
+  },
+  "clara-bell-balzac-the-ball-at-sceaux": {
+   "source": "cla-1305",
+   "of": "Honoré de Balzac",
+   "work": "The Ball at Sceaux",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1305 (clean text)"
+  },
+  "clara-bell-balzac-the-commission-in-lunacy": {
+   "source": "cla-1410",
+   "of": "Honoré de Balzac",
+   "work": "The Commission in Lunacy",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1410 (clean text)"
+  },
+  "clara-bell-balzac-the-country-doctor": {
+   "source": "cla-1350",
+   "of": "Honoré de Balzac",
+   "work": "The Country Doctor",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1350 (clean text)"
+  },
+  "clara-bell-balzac-the-elixir-of-life": {
+   "source": "cla-1215",
+   "of": "Honoré de Balzac",
+   "work": "The Elixir of Life",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1215 (clean text)"
+  },
+  "clara-bell-balzac-the-exiles": {
+   "source": "cla-1884",
+   "of": "Honoré de Balzac",
+   "work": "The Exiles",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1884 (clean text)"
+  },
+  "clara-bell-balzac-the-purse": {
+   "source": "cla-1196",
+   "of": "Honoré de Balzac",
+   "work": "The Purse",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1196 (clean text)"
+  },
+  "clara-bell-balzac-the-works-of-honor-de-balzac-about-catherine-de-m": {
+   "source": "cla-37285",
+   "of": "Honoré de Balzac",
+   "work": "The Works of Honoré de Balzac: About Catherine de' M",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 37285 (clean text)"
+  },
+  "clara-bell-balzac-z-marcas": {
+   "source": "cla-1841",
+   "of": "Honoré de Balzac",
+   "work": "Z. Marcas",
+   "translated": "1895-1900 (Dent, ed. George Saintsbury)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 1841 (clean text)"
+  },
+  "clara-bell-couperus-footsteps-of-fate": {
+   "source": "cla-34678",
+   "of": "Louis Couperus",
+   "work": "Footsteps of Fate",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 34678 (clean text)"
+  },
+  "clara-bell-ebers-a-thorny-path": {
+   "source": "cla-5542",
+   "of": "Georg Ebers",
+   "work": "A Thorny Path",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5542 (clean text)"
+  },
+  "clara-bell-ebers-homo-sum": {
+   "source": "cla-5499",
+   "of": "Georg Ebers",
+   "work": "Homo Sum",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5499 (clean text)"
+  },
+  "clara-bell-ebers-margery-gred-a-tale-of-old-nuremberg": {
+   "source": "cla-5560",
+   "of": "Georg Ebers",
+   "work": "Margery (Gred): A Tale Of Old Nuremberg",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5560 (clean text)"
+  },
+  "clara-bell-ebers-serapis": {
+   "source": "cla-5507",
+   "of": "Georg Ebers",
+   "work": "Serapis",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5507 (clean text)"
+  },
+  "clara-bell-ebers-the-bride-of-the-nile": {
+   "source": "cla-5529",
+   "of": "Georg Ebers",
+   "work": "The Bride of the Nile",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5529 (clean text)"
+  },
+  "clara-bell-ebers-the-emperor": {
+   "source": "cla-5493",
+   "of": "Georg Ebers",
+   "work": "The Emperor",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5493 (clean text)"
+  },
+  "clara-bell-ebers-the-sisters": {
+   "source": "cla-5466",
+   "of": "Georg Ebers",
+   "work": "The Sisters",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5466 (clean text)"
+  },
+  "clara-bell-ebers-uarda-a-romance-of-ancient-egypt": {
+   "source": "cla-5449",
+   "of": "Georg Ebers",
+   "work": "Uarda: a Romance of Ancient Egypt",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 5449 (clean text)"
+  },
+  "clara-bell-eckstein-quintus-claudius-vol-1": {
+   "source": "cla-47221",
+   "of": "Ernst Eckstein",
+   "work": "Quintus Claudius: A Romance of Imperial Rome. Volume 1",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 47221 (clean text)"
+  },
+  "clara-bell-eckstein-quintus-claudius-vol-2": {
+   "source": "cla-47222",
+   "of": "Ernst Eckstein",
+   "work": "Quintus Claudius: A Romance of Imperial Rome. Volume 2",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 47222 (clean text)"
+  },
+  "clara-bell-gald-s-leon-roch-a-romance-vol-1-of-2": {
+   "source": "cla-48752",
+   "of": "Benito Pérez Galdós",
+   "work": "Leon Roch: A Romance, vol. 1 (of 2)",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 48752 (clean text)"
+  },
+  "clara-bell-gald-s-leon-roch-a-romance-vol-2-of-2": {
+   "source": "cla-49272",
+   "of": "Benito Pérez Galdós",
+   "work": "Leon Roch: A Romance, vol. 2 (of 2)",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 49272 (clean text)"
+  },
+  "clara-bell-gald-s-marianela": {
+   "source": "cla-48818",
+   "of": "Benito Pérez Galdós",
+   "work": "Marianela",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 48818 (clean text)"
+  },
+  "clara-bell-hillern-the-hour-will-come": {
+   "source": "cla-36811",
+   "of": "Wilhelmine von Hillern",
+   "work": "The Hour Will Come: A Tale of an Alpine Cloister (Volumes I and II)",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 36811 (clean text)"
+  },
+  "clara-bell-hillern-the-vulture-maiden-die-geier-wally": {
+   "source": "cla-36827",
+   "of": "Wilhelmine von Hillern",
+   "work": "The Vulture Maiden [Die Geier-Wally.]",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 36827 (clean text)"
+  },
+  "clara-bell-huysmans-the-cathedral": {
+   "source": "cla-15067",
+   "of": "J.-K. Huysmans",
+   "work": "The Cathedral",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 15067 (clean text)"
+  },
+  "clara-bell-karadordevic-enchanted-india": {
+   "source": "cla-57153",
+   "of": "Bozidar Karadordevic",
+   "work": "Enchanted India",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 57153 (clean text)"
+  },
+  "clara-bell-maupassant-pierre-and-jean": {
+   "source": "cla-3804",
+   "of": "Guy de Maupassant",
+   "work": "Pierre and Jean",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 3804 (clean text)"
+  },
+  "clara-bell-schubin-our-own-set": {
+   "source": "cla-35673",
+   "of": "Ossip Schubin",
+   "work": "Our Own Set",
+   "translated": "1884",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 35673 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "clara-bell-vald-froth-a-novel": {
+   "source": "cla-38411",
+   "of": "Armando Palacio Valdé",
+   "work": "Froth: A Novel",
+   "translated": "before 1931 (see the Gutenberg header)",
+   "translator": "Clara Bell",
+   "scan_edition": "Project Gutenberg 38411 (clean text)"
+  },
+  "clara-bell-van-eeden-little-johannes": {
+   "source": "cla-40656",
+   "of": "Frederik van Eeden",
+   "work": "Little Johannes",
+   "translated": "1895",
+   "translator": "Clara Bell (introduction by Andrew Lang)",
+   "scan_edition": "Project Gutenberg 40656 (clean text)",
+   "added": "2026-10-10, lane C round 35 (gap-fill); Adam may veto"
+  },
+  "clara-bell-galdos-trafalgar": {
+   "source": "cla-galdos-trafalgar",
+   "of": "Benito Pérez Galdós",
+   "work": "Trafalgar: A Tale",
+   "translated": 1884,
+   "translator": "Clara Bell",
+   "scan_edition": "W. S. Gottsberger, New York 1884 (\"revised and corrected in the United States\"); archive.org scan"
+  },
+  "clara-bell-galdos-the-court-of-charles-iv": {
+   "source": "cla-galdos-court-of-charles-iv",
+   "of": "Benito Pérez Galdós",
+   "work": "The Court of Charles IV: A Romance of the Escorial",
+   "translated": 1888,
+   "translator": "Clara Bell",
+   "scan_edition": "W. S. Gottsberger, New York 1888; archive.org scan (Google copy)"
+  },
+  "clara-bell-loti-from-lands-of-exile": {
+   "source": "cla-loti-from-lands-of-exile",
+   "of": "Pierre Loti",
+   "work": "From Lands of Exile",
+   "translated": 1888,
+   "translator": "Clara Bell",
+   "scan_edition": "W. S. Gottsberger, New York 1888; archive.org scan (Google copy)"
+  },
+  "clara-bell-loti-a-childs-romance": {
+   "source": "cla-loti-childs-romance",
+   "of": "Pierre Loti",
+   "work": "A Child's Romance (Le Roman d'un enfant)",
+   "translated": 1891,
+   "translator": "Clara Bell",
+   "scan_edition": "W. S. Gottsberger & Co., New York 1891 (authorized edition); archive.org scan (New York Public Library copy)"
+  },
+  "clara-bell-loti-disenchanted": {
+   "source": "cla-loti-disenchanted",
+   "of": "Pierre Loti",
+   "work": "Disenchanted (Désenchantées)",
+   "translated": 1906,
+   "translator": "Clara Bell",
+   "scan_edition": "Macmillan, New York, published September 1906; archive.org scan (Google copy)"
+  },
+  "clara-bell-auerbach-brigitta": {
+   "source": "cla-auerbach-brigitta",
+   "of": "Berthold Auerbach",
+   "work": "Brigitta: A Tale",
+   "translated": 1880,
+   "translator": "Clara Bell",
+   "scan_edition": "Bernhard Tauchnitz, Leipzig 1880 (Collection of German Authors, copyright edition); archive.org scan (Toronto copy)"
+  },
+  "clara-bell-ebers-joshua": {
+   "source": "cla-ebers-joshua",
+   "of": "Georg Ebers",
+   "work": "Joshua: A Story of Biblical Life (2 vols in one scan)",
+   "translated": 1890,
+   "translator": "Clara Bell and Margaret Bell",
+   "scan_edition": "Bernhard Tauchnitz, Leipzig 1890 (Collection of German Authors 48; copyright edition, both volumes); archive.org scan (Toronto copy)"
+  },
+  "clara-bell-jaeger-the-life-of-henrik-ibsen": {
+   "source": "cla-jaeger-life-of-ibsen",
+   "of": "Henrik Jæger",
+   "work": "The Life of Henrik Ibsen",
+   "translated": 1890,
+   "translator": "Clara Bell (verse by Edmund Gosse)",
+   "scan_edition": "William Heinemann, London 1890; archive.org scan (Toronto copy)"
+  },
+  "clara-bell-meyer-the-tempting-of-pescara": {
+   "source": "cla-meyer-tempting-of-pescara",
+   "of": "Conrad Ferdinand Meyer",
+   "work": "The Tempting of Pescara",
+   "translated": 1890,
+   "translator": "Clara Bell",
+   "scan_edition": "W. S. Gottsberger & Co., New York 1890; archive.org scan (Google copy)"
+  },
+  "clara-bell-firenzuola-of-the-beauty-of-women": {
+   "source": "cla-firenzuola-beauty-of-women",
+   "of": "Agnolo Firenzuola",
+   "work": "Of the Beauty of Women: Dialogue",
+   "translated": 1892,
+   "translator": "Clara Bell",
+   "scan_edition": "James R. Osgood, McIlvaine & Co., London 1892 (introduction by Theodore Child); archive.org scan (Google copy)"
+  },
+  "clara-bell-moltke-letters-to-his-mother-and-brothers": {
+   "source": "cla-moltke-letters",
+   "of": "Helmuth von Moltke",
+   "work": "Letters of Field-Marshal Count Helmuth von Moltke to his Mother and his Brothers",
+   "translated": 1892,
+   "translator": "Clara Bell and Henry W. Fischer",
+   "scan_edition": "Harper & Brothers, New York 1892; archive.org scan (Cornell copy)"
+  },
+  "clara-bell-martin-gerard-dou": {
+   "source": "cla-martin-gerard-dou",
+   "of": "W. Martin",
+   "work": "Gerard Dou",
+   "translated": 1902,
+   "translator": "Clara Bell",
+   "scan_edition": "George Bell and Sons, London 1902 (Great Masters in Painting and Sculpture); archive.org scan"
+  },
+  "clara-bell-spitta-johann-sebastian-bach-vol-1": {
+   "source": "cla-spitta-bach-1",
+   "of": "Philipp Spitta",
+   "work": "Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 1 of 3",
+   "translated": 1884,
+   "translator": "Clara Bell and J. A. Fuller Maitland",
+   "scan_edition": "Novello, London, and H. W. Gray, New York (1899 on the title page; first published 1884-85); archive.org scan (Toronto copy)"
+  },
+  "clara-bell-spitta-johann-sebastian-bach-vol-2": {
+   "source": "cla-spitta-bach-2",
+   "of": "Philipp Spitta",
+   "work": "Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 2 of 3",
+   "translated": 1884,
+   "translator": "Clara Bell and J. A. Fuller Maitland",
+   "scan_edition": "Novello, London, and H. W. Gray, New York (1899 on the title page; first published 1884-85); archive.org scan (Toronto copy)"
+  },
+  "clara-bell-spitta-johann-sebastian-bach-vol-3": {
+   "source": "cla-spitta-bach-3",
+   "of": "Philipp Spitta",
+   "work": "Johann Sebastian Bach: His Work and Influence on the Music of Germany, 1685-1750, vol. 3 of 3",
+   "translated": 1884,
+   "translator": "Clara Bell and J. A. Fuller Maitland",
+   "scan_edition": "Novello, London, and H. W. Gray, New York (1899 on the title page; first published 1884-85); archive.org scan (Toronto copy)"
+  },
+  "clara-bell-balzac-dent-bachelors-establishment": {
+   "source": "cla-dent-bachelors-establishment",
+   "of": "Honoré de Balzac",
+   "work": "A Bachelor's Establishment (Un Ménage de garçon)",
+   "translated": 1896,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-marriage-settlement": {
+   "source": "cla-dent-marriage-settlement",
+   "of": "Honoré de Balzac",
+   "work": "A Marriage Settlement (Le Contrat de mariage) and other stories",
+   "translated": 1897,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1897 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)",
+   "note": "A Second Home, also in this volume, is shelved singly from Gutenberg in the same Dent text."
+  },
+  "clara-bell-balzac-dent-member-for-arcis": {
+   "source": "cla-dent-member-for-arcis",
+   "of": "Honoré de Balzac",
+   "work": "The Member for Arcis (Le Député d'Arcis)",
+   "translated": 1898,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-middle-classes": {
+   "source": "cla-dent-middle-classes",
+   "of": "Honoré de Balzac",
+   "work": "The Middle Classes (Les Petits Bourgeois)",
+   "translated": 1898,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1898 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-modeste-mignon": {
+   "source": "cla-dent-modeste-mignon",
+   "of": "Honoré de Balzac",
+   "work": "Modeste Mignon",
+   "translated": 1896,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-pierrette": {
+   "source": "cla-dent-pierrette",
+   "of": "Honoré de Balzac",
+   "work": "Pierrette and The Abbé Birotteau (Le Curé de Tours)",
+   "translated": 1896,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1896 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  },
+  "clara-bell-balzac-dent-ursule-mirouet": {
+   "source": "cla-dent-ursule-mirouet",
+   "of": "Honoré de Balzac",
+   "work": "Ursule Mirouët",
+   "translated": 1895,
+   "translator": "Clara Bell",
+   "scan_edition": "J. M. Dent, London, and Macmillan, New York 1895 (Comédie humaine, ed. George Saintsbury); archive.org scan (University of Toronto copy)"
+  }
+ },
+ "_pending": {
+  "ia-tolstoy-war-and-peace": "Tolstoy's War and Peace in Clara Bell's version from the French (Gottsberger, 1885-87, six volumes): five are open on archive.org (warpeacehistoric01tols, 02tols, 04tols, 06tols; warandpeaceahis01paskgoog and others), but no scan of The Invasion, vol. I with her name was found. The Vizetelly London 'Invasion' (india.history.resource.73511) names no translator. Waits for the missing volume.",
+  "ia-galdos-gloria": "Galdós's Gloria (Gottsberger, 1882, two volumes): only vol. I is open (gloriaanovel00bellgoog). Waits for vol. II."
+ },
+ "_excluded": {
+  "ebers-volume-splits": "Gutenberg's per-volume splits of Uarda, The Sisters, The Emperor, Homo Sum, Serapis, The Bride of the Nile, A Thorny Path and Margery are left out; the complete texts (5449, 5466, 5493, 5499, 5507, 5529, 5542, 5560) are used.",
+  "pg-7958": "The Napoleon of the People is an extract from The Country Doctor (1350), shelved whole.",
+  "two-volume-novels": "Leon Roch (48752, 49272) and Quintus Claudius (47221, 47222) have no complete Gutenberg text; each Gutenberg volume is shelved as its own title.",
+  "ia-ocr-garbles-name": "Ebers's Egypt: Descriptive, Historical, and Picturesque (1881; egyptdescriptive01eber, 02eber) and Haeckel's A Visit to Ceylon (Cassino, 1883; avisittoceylon00haecgoog): she is named on the title pages, but the OCR mangles the name ('CLAEA BKT.L', 'CLAPvA BELL'), so the identity gate cannot pass. A cleaner scan would let them in."
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "cla-1196": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1215": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; James Waring"
+  },
+  "cla-1220": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1305": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1350": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; Ellen Marriage"
+  },
+  "cla-1410": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1411": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; Ellen Marriage"
+  },
+  "cla-1456": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1475": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-15067": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1680": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1683": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1710": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; Ellen Marriage"
+  },
+  "cla-1714": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; Ellen Marriage"
+  },
+  "cla-1737": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1810": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1811": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; James Waring"
+  },
+  "cla-1812": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1826": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1841": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1884": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; James Waring"
+  },
+  "cla-1943": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; James Waring"
+  },
+  "cla-1954": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; Ellen Marriage"
+  },
+  "cla-34678": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-36811": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-36827": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; E. Frances Poynter"
+  },
+  "cla-37285": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell; James Waring"
+  },
+  "cla-3804": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-38411": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-47221": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-47222": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-48752": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-48818": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-49272": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5493": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5507": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5529": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5542": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5560": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-57153": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5449": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5499": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5466": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1813": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-35673": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-40656": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-galdos-trafalgar": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cla-galdos-court-of-charles-iv": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-loti-from-lands-of-exile": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-loti-childs-romance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-loti-disenchanted": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-auerbach-brigitta": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-ebers-joshua": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cla-jaeger-life-of-ibsen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-meyer-tempting-of-pescara": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-firenzuola-beauty-of-women": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-moltke-letters": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cla-martin-gerard-dou": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cla-spitta-bach-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-spitta-bach-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-spitta-bach-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-bachelors-establishment": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-marriage-settlement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-member-for-arcis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-middle-classes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-modeste-mignon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cla-dent-pierrette": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "[1897]",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cla-dent-ursule-mirouet": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clara bell",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "cla-1196": {
+   "pg": 1196,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1215": {
+   "pg": 1215,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1220": {
+   "pg": 1220,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1305": {
+   "pg": 1305,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1350": {
+   "pg": 1350,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1410": {
+   "pg": 1410,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1411": {
+   "pg": 1411,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1456": {
+   "pg": 1456,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1475": {
+   "pg": 1475,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-15067": {
+   "pg": 15067,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1680": {
+   "pg": 1680,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1683": {
+   "pg": 1683,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1710": {
+   "pg": 1710,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1714": {
+   "pg": 1714,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1737": {
+   "pg": 1737,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1810": {
+   "pg": 1810,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1811": {
+   "pg": 1811,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1812": {
+   "pg": 1812,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1826": {
+   "pg": 1826,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1841": {
+   "pg": 1841,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1884": {
+   "pg": 1884,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1943": {
+   "pg": 1943,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1954": {
+   "pg": 1954,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-34678": {
+   "pg": 34678,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-36811": {
+   "pg": 36811,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-36827": {
+   "pg": 36827,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-37285": {
+   "pg": 37285,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-3804": {
+   "pg": 3804,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-38411": {
+   "pg": 38411,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-47221": {
+   "pg": 47221,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-47222": {
+   "pg": 47222,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-48752": {
+   "pg": 48752,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-48818": {
+   "pg": 48818,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-49272": {
+   "pg": 49272,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5493": {
+   "pg": 5493,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5507": {
+   "pg": 5507,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5529": {
+   "pg": 5529,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5542": {
+   "pg": 5542,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5560": {
+   "pg": 5560,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-57153": {
+   "pg": 57153,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5449": {
+   "pg": 5449,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5499": {
+   "pg": 5499,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-5466": {
+   "pg": 5466,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-1813": {
+   "pg": 1813,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-35673": {
+   "pg": 35673,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-40656": {
+   "pg": 40656,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Clara Bell"
+  },
+  "cla-galdos-trafalgar": {
+   "ia": "trafalgartale00pr",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1797,
+    1884
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-galdos-court-of-charles-iv": {
+   "ia": "courtcharlesiva00galdgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1803,
+    1805,
+    1806,
+    1807,
+    1888
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-loti-from-lands-of-exile": {
+   "ia": "fromlandsexile00bellgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1885,
+    1886,
+    1888
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-loti-childs-romance": {
+   "ia": "childsromance00loti",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1891
+   ],
+   "post_1930_years_in_front_15k": [
+    1949
+   ],
+   "post_1930_examined": "1949 is a New York Public Library accession stamp (B 1949), not a printing date"
+  },
+  "cla-loti-disenchanted": {
+   "ia": "disenchanteddse00lotigoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901,
+    1906
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-auerbach-brigitta": {
+   "ia": "brigittatale00aueruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1880
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-ebers-joshua": {
+   "ia": "joshuastoryofbib00eberuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882,
+    1889,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-jaeger-life-of-ibsen": {
+   "ia": "lifeofhenrikibse00jaeguoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1720,
+    1777,
+    1828,
+    1888,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-meyer-tempting-of-pescara": {
+   "ia": "temptingpescara00meyegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-firenzuola-beauty-of-women": {
+   "ia": "beautywomen00firegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1493,
+    1546,
+    1892
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-moltke-letters": {
+   "ia": "cu31924028178691",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1777,
+    1797,
+    1823,
+    1825,
+    1828,
+    1829,
+    1830,
+    1831,
+    1832,
+    1833,
+    1834,
+    1835,
+    1836,
+    1837,
+    1839,
+    1841,
+    1842,
+    1844,
+    1845,
+    1846,
+    1847,
+    1848,
+    1849,
+    1850,
+    1851,
+    1852,
+    1853,
+    1854,
+    1855,
+    1856,
+    1857,
+    1858,
+    1859,
+    1860,
+    1861,
+    1862,
+    1864,
+    1866,
+    1867,
+    1868,
+    1869,
+    1870,
+    1871,
+    1872,
+    1874,
+    1876,
+    1879,
+    1882,
+    1884,
+    1885,
+    1888,
+    1890,
+    1892,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-martin-gerard-dou": {
+   "ia": "gerarddou00mart",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1576,
+    1610,
+    1613,
+    1631,
+    1640,
+    1641,
+    1642,
+    1661,
+    1672,
+    1675,
+    1695,
+    1729,
+    1842,
+    1858,
+    1876,
+    1877,
+    1880,
+    1882,
+    1888,
+    1893,
+    1897,
+    1899,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-spitta-bach-1": {
+   "ia": "johannsebastianb01spituoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1550,
+    1626,
+    1685,
+    1703,
+    1704,
+    1707,
+    1730,
+    1736,
+    1750,
+    1754,
+    1768,
+    1784,
+    1790,
+    1793,
+    1794,
+    1801,
+    1802,
+    1810,
+    1834,
+    1850,
+    1855,
+    1865,
+    1868,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-spitta-bach-2": {
+   "ia": "johannsebastianb02spituoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1685,
+    1694,
+    1699,
+    1708,
+    1710,
+    1711,
+    1712,
+    1713,
+    1714,
+    1715,
+    1717,
+    1720,
+    1722,
+    1723,
+    1726,
+    1730,
+    1733,
+    1734,
+    1737,
+    1750,
+    1782,
+    1820,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-spitta-bach-3": {
+   "ia": "johannsebastianb03spituoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1685,
+    1707,
+    1723,
+    1732,
+    1733,
+    1734,
+    1735,
+    1736,
+    1750,
+    1759,
+    1899
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "cla-dent-bachelors-establishment": {
+   "ia": "comdiehumainee04balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1841,
+    1842
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "cla-dent-marriage-settlement": {
+   "ia": "comdiehumainee22balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1790,
+    1810,
+    1813,
+    1834,
+    1842,
+    1844
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1897"
+  },
+  "cla-dent-member-for-arcis": {
+   "ia": "comdiehumainee23balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815,
+    1839,
+    1847
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  },
+  "cla-dent-middle-classes": {
+   "ia": "comdiehumainee24balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1830,
+    1854,
+    1856,
+    1857
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1898"
+  },
+  "cla-dent-modeste-mignon": {
+   "ia": "comdiehumainee25balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1844,
+    1845
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "cla-dent-pierrette": {
+   "ia": "comdiehumainee29balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1827,
+    1832,
+    1840,
+    1843
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1896"
+  },
+  "cla-dent-ursule-mirouet": {
+   "ia": "comdiehumainee38balzuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815,
+    1829,
+    1830
+   ],
+   "post_1930_years_in_front_15k": [],
+   "imprint_read": "title page: J. M. Dent and Co., London; Macmillan, New York; Roman-numeral imprint year read as 1895"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

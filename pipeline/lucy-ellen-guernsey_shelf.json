@@ -1,0 +1,631 @@
+{
+ "_about": "Lucy Ellen Guernsey's historical and Sunday-school stories",
+ "_author": "Lucy Ellen Guernsey",
+ "_name_words": [
+  "guernsey"
+ ],
+ "_surname": [
+  "lucy ellen guernsey"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "leguernsey-nelly": [
+   71244,
+   "Nelly"
+  ],
+  "leguernsey-christmas-at-cedar-hill": [
+   71698,
+   "Christmas at Cedar Hill"
+  ],
+  "leguernsey-percys-holidays": [
+   71823,
+   "Percy's holidays"
+  ],
+  "leguernsey-fairchilds": [
+   71876,
+   "The Fairchilds"
+  ],
+  "leguernsey-red-plant": [
+   71950,
+   "The red plant"
+  ],
+  "leguernsey-dark-night": [
+   72021,
+   "The dark night"
+  ],
+  "leguernsey-lady-rosamonds-book": [
+   72426,
+   "Lady Rosamond's book"
+  ],
+  "leguernsey-lovedays-history": [
+   72722,
+   "Loveday's history"
+  ],
+  "leguernsey-foster-sisters": [
+   72826,
+   "The foster-sisters"
+  ],
+  "leguernsey-hidden-treasure": [
+   73099,
+   "The hidden treasure",
+   {
+    "contents_only": true
+   }
+  ],
+  "leguernsey-school-girls-treasury": [
+   73286,
+   "The school-girls' treasury"
+  ],
+  "leguernsey-chevaliers-daughter": [
+   73365,
+   "The Chevalier's daughter"
+  ],
+  "leguernsey-guy-falconer": [
+   74189,
+   "Guy Falconer"
+  ],
+  "leguernsey-straight-forward": [
+   74428,
+   "Straight forward; or, walking in the light"
+  ],
+  "leguernsey-christmas-earnings": [
+   74849,
+   "The Christmas earnings"
+  ],
+  "leguernsey-lady-lucys-secret": [
+   74876,
+   "Lady Lucy's secret"
+  ],
+  "leguernsey-no-talent-and-phils-pansies": [
+   74888,
+   "No talent, and Phil's pansies"
+  ],
+  "leguernsey-binney-the-beaver-and-other-stories": [
+   75101,
+   "Binney the beaver, and other stories"
+  ],
+  "leguernsey-opposite-neighbours": [
+   75191,
+   "Opposite neighbours"
+  ],
+  "leguernsey-heiress-of-mcgregor": [
+   75338,
+   "The heiress of McGregor"
+  ],
+  "leguernsey-rhodas-education": [
+   75471,
+   "Rhoda's education"
+  ],
+  "leguernsey-old-stanfield-house": [
+   75576,
+   "The old Stanfield house"
+  ],
+  "leguernsey-school-days-in-1800": [
+   75733,
+   "School-days in 1800"
+  ],
+  "leguernsey-widow-davis-and-the-young-milliners": [
+   75954,
+   "The Widow Davis and the young milliners"
+  ],
+  "leguernsey-lolla": [
+   75955,
+   "Lolla"
+  ],
+  "leguernsey-abbey": [
+   76232,
+   "Abbey"
+  ],
+  "leguernsey-through-unknown-ways": [
+   76453,
+   "Through unknown ways"
+  ],
+  "leguernsey-winifred": [
+   76596,
+   "Winifred"
+  ],
+  "leguernsey-on-the-mountain": [
+   76760,
+   "On the mountain"
+  ],
+  "leguernsey-lady-bettys-governess": [
+   76918,
+   "Lady Betty's governess"
+  ],
+  "leguernsey-orphan-nieces": [
+   76970,
+   "The orphan nieces"
+  ],
+  "leguernsey-sophie-kennedys-experience": [
+   77161,
+   "Sophie Kennedy's experience"
+  ],
+  "leguernsey-a-lent-in-earnest": [
+   77163,
+   "A Lent in earnest"
+  ],
+  "leguernsey-kittys-christmas-tree": [
+   77219,
+   "Kitty's Christmas tree"
+  ],
+  "leguernsey-tabbys-travels": [
+   77220,
+   "Tabby's travels"
+  ],
+  "leguernsey-sign-of-the-cross": [
+   77348,
+   "The sign of the cross"
+  ],
+  "leguernsey-ethels-trial": [
+   77449,
+   "Ethel's trial"
+  ],
+  "leguernsey-upward-and-onward": [
+   77450,
+   "Upward and onward"
+  ],
+  "leguernsey-cohansey-tea-fight": [
+   77716,
+   "The Cohansey tea-fight"
+  ],
+  "leguernsey-mission-box": [
+   77799,
+   "The mission-box"
+  ],
+  "leguernsey-story-of-a-hessian": [
+   77860,
+   "The story of a Hessian"
+  ],
+  "leguernsey-homes-made-and-marred": [
+   77998,
+   "Homes made and marred"
+  ],
+  "leguernsey-claribel": [
+   78044,
+   "Claribel"
+  ],
+  "leguernsey-blue-socks": [
+   78280,
+   "The blue socks"
+  ],
+  "leguernsey-oldham": [
+   79054,
+   "Oldham"
+  ],
+  "leguernsey-kitty-maynard": [
+   79094,
+   "Kitty Maynard"
+  ],
+  "leguernsey-myra-sherwoods-cross-and-how-she-bore-it": [
+   79640,
+   "Myra Sherwood's cross, and how she bore it"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "leguernsey-nelly": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-christmas-at-cedar-hill": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-percys-holidays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-fairchilds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-red-plant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-dark-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-lady-rosamonds-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-lovedays-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-foster-sisters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-hidden-treasure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-school-girls-treasury": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-chevaliers-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-guy-falconer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-straight-forward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-christmas-earnings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-lady-lucys-secret": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-no-talent-and-phils-pansies": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-binney-the-beaver-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-opposite-neighbours": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-heiress-of-mcgregor": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-rhodas-education": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-old-stanfield-house": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-school-days-in-1800": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-widow-davis-and-the-young-milliners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-lolla": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-abbey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-through-unknown-ways": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-winifred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-on-the-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-lady-bettys-governess": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-orphan-nieces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-sophie-kennedys-experience": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-a-lent-in-earnest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-kittys-christmas-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-tabbys-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-sign-of-the-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-ethels-trial": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-upward-and-onward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-cohansey-tea-fight": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-mission-box": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-story-of-a-hessian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-homes-made-and-marred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-claribel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-blue-socks": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-oldham": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-kitty-maynard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "leguernsey-myra-sherwoods-cross-and-how-she-bore-it": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lucy ellen guernsey",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

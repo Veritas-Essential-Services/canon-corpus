@@ -1,0 +1,212 @@
+{
+ "_about": "Public-domain Thomas C. Upham (Thomas Cogswell Upham, 1799-1872, Bowdoin College, holiness writer) for the Word Hoard: Principles of the Interior or Hidden Life (1843), Life of Madame Catharine Adorna (1845), Religious Maxims (1846), the Life of Madame Guyon, 2 vols. (1847), A Treatise on Divine Union (1851), The Life of Faith (1852), his analysis of Guyon's Method of Prayer (1859), Christ in the Soul (1872), Absolute Religion (1873) and Ratio Disciplinae (1829), raw Internet Archive OCR. His mental-philosophy textbooks are alternates. Quietist sympathies; veto point. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "upham"
+ ],
+ "_surname": [
+  "thomas c. upham",
+  "t. c. upham",
+  "upham, thomas c.",
+  "thomas cogswell upham",
+  "upham, thomas cogswell",
+  "thomas c. upham, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "upham-interior-life": [
+   "principlesofinte00upha",
+   "Principles of the Interior or Hidden Life (Boston: D. S. King, 1843)"
+  ],
+  "upham-catharine-adorna": [
+   "lifeofmadamecath00upha_0",
+   "Life of Madame Catharine Adorna (Boston: Waite, Peirce, 1845)"
+  ],
+  "upham-religious-maxims": [
+   "ReligiousMaxims",
+   "Religious Maxims, Having a Connection with the Doctrines and Practice of Holiness (Boston: Waite, Peirce, 1846)"
+  ],
+  "upham-guyon-1": [
+   "lifeandreligiou01uphagoog",
+   "Life and Religious Opinions and Experience of Madame de la Mothe Guyon, vol. 1 (New York: Harper & Brothers, 1847)"
+  ],
+  "upham-guyon-2": [
+   "lifeandreligiou02uphagoog",
+   "Life and Religious Opinions and Experience of Madame de la Mothe Guyon, vol. 2 (New York: Harper & Brothers, 1847)"
+  ],
+  "upham-divine-union": [
+   "atreatiseondivi00uphagoog",
+   "A Treatise on Divine Union (Boston: Charles H. Peirce, 1851)"
+  ],
+  "upham-life-of-faith": [
+   "lifeoffaithinthr00upha",
+   "The Life of Faith, in Three Parts (New York: Harper & Brothers, 1852; copyright 1845)"
+  ],
+  "upham-method-of-prayer": [
+   "amethodprayeran00guyogoog",
+   "A Method of Prayer: An Analysis of the Work So Entitled by Madame de la Mothe Guyon (London: Sampson Low, 1859)"
+  ],
+  "upham-christ-in-soul": [
+   "christinsouloril00upha",
+   "Christ in the Soul (New York: Warren, Broughton & Wyman, 1872)"
+  ],
+  "upham-absolute-religion": [
+   "absolutereligion01upha",
+   "Absolute Religion (New York: G. P. Putnam's Sons, 1873; posthumous)"
+  ],
+  "upham-ratio-disciplinae": [
+   "ratiodisciplino00uphagoog",
+   "Ratio Disciplinae, or the Constitution of the Congregational Churches (Portland; no year on title page, copyright 1829)"
+  ]
+ },
+ "_alternates": {
+  "upham-philosophy": "Mental philosophy: Elements of Intellectual Philosophy (1827), A Treatise on the Will (1834), Elements of Mental Philosophy vol. 2 (1837), Outlines of Imperfect and Disordered Mental Action (1840)",
+  "upham-other": "The Manual of Peace (1836), Letters Aesthetic, Social, and Moral (1855), A Book for the Home (verse, copyright 1850), his translation of Jahn's Biblical Archaeology (1823), Ratio Disciplinae 2nd ed. (1844)",
+  "upham-copies": "Second copies of the Interior Life (1844), the Guyon Life (1847, 1849, 1855; a London 1854 edition revised by another hand), Divine Union (4th and 5th eds.), Life of Faith"
+ },
+ "_excluded": {
+  "upham-ccel-maxims": "CCEL upham/maxims: Fenelon's Maxims excerpted via a reprint; muddled print basis",
+  "upham-religious-offering": "The Religious Offering for 1835: does not name him",
+  "upham-wife": "PG 30083 Letters of Madam Guyon, ed. Mrs. T. C. Upham",
+  "upham-reprints": "1954-1984 reprints",
+  "upham-namesakes": "Charles Wentworth Upham and others"
+ },
+ "_identity_checked": {
+  "upham-religious-maxims": {
+   "author": "Title page read: \"BY THOMAS C. TJPHAM\", Boston: Waite, Peirce, 1846 (OCR for Upham)."
+  },
+  "upham-divine-union": {
+   "author": "Title page read: \"BY THOMAS C. TPHAM, D.D.\"; copyright entry 1851 \"BT THOMAS 0. UPHAM\"; preface signed T. C. U., Bowdoin College (OCR)."
+  },
+  "upham-ratio-disciplinae": {
+   "author": "Copyright entry read: \"Mr. Thomas 0. Upham, of said District has deposited ... the title\" (OCR for C.); preface dated Bowdoin College. The title page itself does not show the name in OCR."
+  }
+ },
+ "_pending": {
+  "upham-guyon-abridged": "1905-08 abridged Life of Madame Guyon (IA madameguyon00uphauoft and others): not read"
+ },
+ "_checks": {
+  "upham-interior-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1843",
+   "ia_date": "1843",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upham-catharine-adorna": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "upham-religious-maxims": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "upham-guyon-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upham-guyon-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upham-divine-union": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upham-life-of-faith": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upham-method-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upham-christ-in-soul": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "upham-absolute-religion": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "thomas c. upham",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "upham-ratio-disciplinae": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

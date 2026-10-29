@@ -1,0 +1,264 @@
+{
+ "_about": "Public-domain George Gillanders Findlay (1849-1919), Wesleyan Methodist tutor at Headingley College, Leeds, for the Word Hoard: his Expositor's Bible volumes on Galatians and Ephesians, his Cambridge Bible and Cambridge Greek Testament commentaries on Thessalonians, The Books of the Prophets in their Historical Succession (3 vols.), The Church of Christ as set forth in the New Testament, Christian Doctrine and Morals, The Epistles of Paul the Apostle, Wesley's World Parish (1913), and, with W. W. Holdsworth, The History of the Wesleyan Methodist Missionary Society (5 vols., 1921). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 70 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "findlay"
+ ],
+ "_surname": [
+  "findlay"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "findlay-galatians": [
+   "epistletogalatia48find",
+   "The Epistle to the Galatians, The Expositor's Bible (New York: A. C. Armstrong, 1893)"
+  ],
+  "findlay-ephesians": [
+   "epistletoephesia49find",
+   "The Epistle to the Ephesians, The Expositor's Bible (New York: A. C. Armstrong, 1892)"
+  ],
+  "findlay-thessalonians-cambridge-bible": [
+   "epistlestothessa00find",
+   "The Epistles to the Thessalonians; with introduction, notes and map (Cambridge : Univ. Press, 1891)"
+  ],
+  "findlay-thessalonians-greek": [
+   "epistlespaulapo00findgoog",
+   "The Epistles of Paul the Apostle to the Thessalonians, Cambridge Greek Testament (Cambridge: University Press, 1904)"
+  ],
+  "findlay-prophets-1": [
+   "booksofprophetsi01find",
+   "The books of the prophets in their historical succession, vol. 1 (London : C. H. Kelly, 1896)"
+  ],
+  "findlay-prophets-2": [
+   "booksofprophetsi02find",
+   "The books of the prophets in their historical succession, vol. 2 (London : C. H. Kelly, 1896)"
+  ],
+  "findlay-prophets-3": [
+   "booksofprophetsi03find",
+   "The books of the prophets in their historical succession, vol. 3 (London : C. H. Kelly, 1896)"
+  ],
+  "findlay-church-of-christ": [
+   "churchofchristas00find",
+   "The church of Christ as set forth in the New Testament. Being two lectures addressed to Methodists of Leeds (London, C.H. Kelly, 1893)"
+  ],
+  "findlay-doctrine-and-morals": [
+   "christiandoctrin00find",
+   "Christian doctrine and morals viewed in their connexion (London, C.H. Kelly, 1894)"
+  ],
+  "findlay-epistles-of-paul": [
+   "epistlesofpaulap00find",
+   "The Epistles of Paul the Apostle : a sketch of their origin and contents (N. Y. : W.B. Ketcham, 1894)"
+  ],
+  "findlay-wesleys-world-parish": [
+   "wesleysworldpari00find",
+   "Wesley's World Parish: a sketch of the hundred years' work of the Wesleyan Methodist Missionary Society (London: Hodder and Stoughton and Charles H. Kelly; undated, written for the society's centenary, catalogued 1913)"
+  ],
+  "findlay-wmms-1": [
+   "historyofwesleya01find",
+   "The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 1 (London: Epworth Press, 1921)"
+  ],
+  "findlay-wmms-2": [
+   "historyofwesleya02find",
+   "The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 2 (London: Epworth Press, 1921)"
+  ],
+  "findlay-wmms-3": [
+   "historyofwesleya03find",
+   "The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 3 (London: Epworth Press, 1921)"
+  ],
+  "findlay-wmms-4": [
+   "historyofwesleya04finduoft",
+   "The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 4 (London: Epworth Press, 1921)"
+  ],
+  "findlay-wmms-5": [
+   "historyofwesleya05find",
+   "The History of the Wesleyan Methodist Missionary Society, with W. W. Holdsworth, vol. 5 (London: Epworth Press, 1921)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "findlay-fellowship-life-eternal": "Fellowship in the Life Eternal (1909, on the Epistles of John): only a 1955 reprint and undated scans were found"
+ },
+ "_translators": {},
+ "_checks": {
+  "findlay-galatians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-ephesians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-thessalonians-cambridge-bible": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-thessalonians-greek": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-prophets-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-prophets-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-prophets-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-church-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "findlay-doctrine-and-morals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "findlay-epistles-of-paul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-wesleys-world-parish": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-wmms-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "findlay-wmms-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "findlay-wmms-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "findlay-wmms-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1921-1924",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "findlay-wmms-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "findlay",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

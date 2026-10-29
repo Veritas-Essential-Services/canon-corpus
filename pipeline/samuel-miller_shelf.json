@@ -1,0 +1,113 @@
+{
+ "_about": "Public-domain Samuel Miller (1769-1850, second professor at Princeton Theological Seminary) for the Word Hoard: Letters on Clerical Manners and Habits (New York: Carvill, 1827), An Essay on the Warrant, Nature and Duties of the Office of the Ruling Elder (Philadelphia: Presbyterian Board of Publication, catalogued 1832), Infant Baptism Scriptural and Reasonable (1835), A Continuation of Letters concerning the Constitution and Order of the Christian Ministry (1809) and A Brief Retrospect of the Eighteenth Century (New York, 1803, 2 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "miller",
+  "samuel"
+ ],
+ "_surname": [
+  "samuel miller",
+  "s. miller",
+  "miller, samuel"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "smiller-clerical-manners-1827": [
+   "lettersonclericart00mill",
+   "Letters on Clerical Manners and Habits (New York: G. and C. Carvill, 1827)"
+  ],
+  "smiller-ruling-elder-1832": [
+   "essayonwarrantna00milluoft",
+   "An Essay on the Warrant, Nature, and Duties of the Office of the Ruling Elder (Philadelphia: Presbyterian Board of Publication; catalogued 1832, the copyright year is illegible in the OCR)"
+  ],
+  "smiller-infant-baptism-1835": [
+   "infantbaptismscr00mill",
+   "Infant Baptism Scriptural and Reasonable (Philadelphia: Joseph Whetham, 1835)"
+  ],
+  "smiller-ministry-letters-1809": [
+   "continuationofle00mill",
+   "A Continuation of Letters concerning the Constitution and Order of the Christian Ministry (New York, 1809)"
+  ],
+  "smiller-retrospect-1803-v1": [
+   "briefretrospecto01mill",
+   "A Brief Retrospect of the Eighteenth Century, vol. 1 (New York: T. and J. Swords, 1803)"
+  ],
+  "smiller-retrospect-1803-v2": [
+   "briefretrospecto02mill",
+   "A Brief Retrospect of the Eighteenth Century, vol. 2 (New York: T. and J. Swords, 1803)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "smiller-retrospect-1970": "the 1970 Burt Franklin reprint"
+ },
+ "_checks": {
+  "smiller-clerical-manners-1827": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smiller-ruling-elder-1832": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smiller-infant-baptism-1835": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smiller-ministry-letters-1809": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1809",
+   "ia_date": "1809",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "smiller-retrospect-1803-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "smiller-retrospect-1803-v2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "samuel miller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1803",
+   "ia_date": "1803",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

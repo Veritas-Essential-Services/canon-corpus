@@ -1,0 +1,376 @@
+{
+ "_about": "SHELF of the Mughal histories in English before 1931: H. Beveridge's Akbarnama of Abu'l-Fazl (vols I-II, 1907-12), Blochmann and Jarrett's Ain-i-Akbari (3 vols, 1873-94), Rogers and Beveridge's Tuzuk-i-Jahangiri (2 vols, 1909-14) and Annette Beveridge's Humayun-nama of Gulbadan Begam (1902). Annette Beveridge's Babur-nama is on singles-history-travel. Each title gates on its own translator. Printings before 1931 only; the Asiatic Society's 2000 reprints of the Akbarnama on archive.org are not used. US public domain. Added 2026-10-17 by lane C (round 69); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. s. beveridge",
+  "alexander rogers",
+  "annette s. beveridge",
+  "annette susannah beveridge",
+  "beveridge",
+  "blochmann",
+  "h. beveridge",
+  "h. blochmann",
+  "h. s. jarrett",
+  "henry beveridge",
+  "henry blochmann",
+  "henry sullivan jarrett",
+  "jarrett",
+  "rogers"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check.",
+ "_surname": [
+  "a. s. beveridge",
+  "alexander rogers",
+  "annette s. beveridge",
+  "annette susannah beveridge",
+  "beveridge",
+  "blochmann",
+  "h. beveridge",
+  "h. blochmann",
+  "h. s. jarrett",
+  "henry beveridge",
+  "henry blochmann",
+  "henry sullivan jarrett",
+  "jarrett",
+  "rogers"
+ ],
+ "_surname_by_slug": {
+  "mug-akbarnama-1": [
+   "beveridge",
+   "h. beveridge",
+   "henry beveridge"
+  ],
+  "mug-akbarnama-2": [
+   "beveridge",
+   "h. beveridge",
+   "henry beveridge"
+  ],
+  "mug-ain-i-akbari-1": [
+   "blochmann",
+   "h. blochmann",
+   "henry blochmann"
+  ],
+  "mug-ain-i-akbari-2": [
+   "jarrett",
+   "h. s. jarrett",
+   "henry sullivan jarrett"
+  ],
+  "mug-ain-i-akbari-3": [
+   "jarrett",
+   "h. s. jarrett",
+   "henry sullivan jarrett"
+  ],
+  "mug-tuzuk-i-jahangiri-1": [
+   "alexander rogers",
+   "rogers",
+   "beveridge",
+   "h. beveridge",
+   "henry beveridge"
+  ],
+  "mug-tuzuk-i-jahangiri-2": [
+   "alexander rogers",
+   "rogers",
+   "beveridge",
+   "h. beveridge",
+   "henry beveridge"
+  ],
+  "mug-humayun-nama": [
+   "beveridge",
+   "annette s. beveridge",
+   "annette susannah beveridge",
+   "a. s. beveridge"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mug-akbarnama-1": [
+   "in.ernet.dli.2015.469729",
+   "The Akbarnama of Abu-l-Fazl, vol. I (1907)",
+   "2015.469729.The-Akbar_djvu.txt"
+  ],
+  "mug-akbarnama-2": [
+   "india.history.resource.107685",
+   "The Akbarnama of Abu-l-Fazl, vol. II (1912)",
+   "107685_djvu.txt"
+  ],
+  "mug-ain-i-akbari-1": [
+   "in.ernet.dli.2015.279471",
+   "The Ain i Akbari, vol. I (1873)",
+   "2015.279471.Ain-I_djvu.txt"
+  ],
+  "mug-ain-i-akbari-2": [
+   "in.ernet.dli.2015.32527",
+   "The Ain i Akbari, vol. II (1891)",
+   "2015.32527.Ain-i-akbari--Vol-2_djvu.txt"
+  ],
+  "mug-ain-i-akbari-3": [
+   "in.ernet.dli.2015.32529",
+   "The Ain i Akbari, vol. III (1894)",
+   "2015.32529.Ain-i-akbari--Vol-3_djvu.txt"
+  ],
+  "mug-tuzuk-i-jahangiri-1": [
+   "tuzukijahangirio00jahauoft",
+   "The Tuzuk-i-Jahangiri, or Memoirs of Jahangir, vol. I (1909)"
+  ],
+  "mug-tuzuk-i-jahangiri-2": [
+   "in.ernet.dli.2015.116012",
+   "The Tuzuk-i-Jahangiri, or Memoirs of Jahangir, vol. II (1914)",
+   "2015.116012.The-Tuzuk-i-jahangiri-Or-Memoirs-Of-Jahangir-Vol-Ii_djvu.txt"
+  ],
+  "mug-humayun-nama": [
+   "historyofhumayun00gulbrich",
+   "The History of Humayun (Humayun-nama) (1902)"
+  ]
+ },
+ "titles": {
+  "mughal-histories-akbarnama-1": {
+   "source": "mug-akbarnama-1",
+   "of": "Abu'l-Fazl, the Akbarnama",
+   "work": "The Akbarnama of Abu-l-Fazl, vol. I",
+   "translated": 1907,
+   "translator": "H. Beveridge",
+   "scan_edition": "Asiatic Society of Bengal, Bibliotheca Indica, Calcutta 1907; Digital Library of India scan",
+   "note": "Issued in fascicles from 1897; the volume's title page is dated 1907."
+  },
+  "mughal-histories-akbarnama-2": {
+   "source": "mug-akbarnama-2",
+   "of": "Abu'l-Fazl, the Akbarnama",
+   "work": "The Akbarnama of Abu-l-Fazl, vol. II",
+   "translated": 1912,
+   "translator": "H. Beveridge",
+   "scan_edition": "Asiatic Society of Bengal, Bibliotheca Indica, Calcutta 1912; Bombay Branch of the Royal Asiatic Society copy"
+  },
+  "mughal-histories-ain-i-akbari-1": {
+   "source": "mug-ain-i-akbari-1",
+   "of": "Abu'l-Fazl, the Ain-i-Akbari",
+   "work": "The Ain i Akbari, vol. I",
+   "translated": 1873,
+   "translator": "H. Blochmann",
+   "scan_edition": "Asiatic Society of Bengal, Bibliotheca Indica, Calcutta 1873; Digital Library of India scan"
+  },
+  "mughal-histories-ain-i-akbari-2": {
+   "source": "mug-ain-i-akbari-2",
+   "of": "Abu'l-Fazl, the Ain-i-Akbari",
+   "work": "The Ain i Akbari, vol. II",
+   "translated": 1891,
+   "translator": "H. S. Jarrett",
+   "scan_edition": "Asiatic Society of Bengal, Bibliotheca Indica, Calcutta 1891; Digital Library of India scan"
+  },
+  "mughal-histories-ain-i-akbari-3": {
+   "source": "mug-ain-i-akbari-3",
+   "of": "Abu'l-Fazl, the Ain-i-Akbari",
+   "work": "The Ain i Akbari, vol. III",
+   "translated": 1894,
+   "translator": "H. S. Jarrett",
+   "scan_edition": "Asiatic Society of Bengal, Bibliotheca Indica, Calcutta 1894; Digital Library of India scan"
+  },
+  "mughal-histories-tuzuk-i-jahangiri-1": {
+   "source": "mug-tuzuk-i-jahangiri-1",
+   "of": "Jahangir, the Tuzuk-i-Jahangiri (memoirs)",
+   "work": "The Tuzuk-i-Jahangiri, or Memoirs of Jahangir, vol. I",
+   "translated": 1909,
+   "translator": "Alexander Rogers, edited by Henry Beveridge",
+   "scan_edition": "Royal Asiatic Society, Oriental Translation Fund, London 1909; University of Toronto scan"
+  },
+  "mughal-histories-tuzuk-i-jahangiri-2": {
+   "source": "mug-tuzuk-i-jahangiri-2",
+   "of": "Jahangir, the Tuzuk-i-Jahangiri (memoirs)",
+   "work": "The Tuzuk-i-Jahangiri, or Memoirs of Jahangir, vol. II",
+   "translated": 1914,
+   "translator": "Alexander Rogers, edited by Henry Beveridge",
+   "scan_edition": "Royal Asiatic Society, Oriental Translation Fund, London 1914; Digital Library of India scan"
+  },
+  "mughal-histories-humayun-nama": {
+   "source": "mug-humayun-nama",
+   "of": "Gulbadan Begam, the Humayun-nama",
+   "work": "The History of Humayun (Humayun-nama)",
+   "translated": 1902,
+   "translator": "Annette S. Beveridge",
+   "scan_edition": "Royal Asiatic Society, Oriental Translation Fund, London 1902"
+  }
+ },
+ "_pending": {
+  "akbarnama-3": "Beveridge's Akbarnama vol. III: issued in fascicles from 1907, but the volume was completed only in 1939, so it is after the cutoff as a whole. The scans found are the 1939 volume or its 2000 reprint."
+ },
+ "_excluded": {
+  "akbarnama-2000-reprints": "Asiatic Society reprints of March and February 2000 (in.ernet.dli.2015.189288, 189290, 189291, 55648, 55649, 55650): not used.",
+  "ain-i-akbari-1927": "Phillott's 1927 second edition of Blochmann's vol. I is not added alongside the 1873 first edition."
+ },
+ "_checks": {
+  "mug-akbarnama-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mug-akbarnama-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mug-ain-i-akbari-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "blochmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mug-ain-i-akbari-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mug-ain-i-akbari-3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "jarrett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mug-tuzuk-i-jahangiri-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1909-1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mug-tuzuk-i-jahangiri-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "alexander rogers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mug-humayun-nama": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "beveridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "mug-akbarnama-1": {
+   "ia": "in.ernet.dli.2015.469729",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mug-akbarnama-2": {
+   "ia": "india.history.resource.107685",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1824,
+    1905,
+    1906,
+    1909
+   ],
+   "post_1930_years_in_front_15k": [
+    2020
+   ]
+  },
+  "mug-ain-i-akbari-1": {
+   "ia": "in.ernet.dli.2015.279471",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1590,
+    1776,
+    1783,
+    1800
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mug-ain-i-akbari-2": {
+   "ia": "in.ernet.dli.2015.32527",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1783,
+    1891
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mug-ain-i-akbari-3": {
+   "ia": "in.ernet.dli.2015.32529",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mug-tuzuk-i-jahangiri-1": {
+   "ia": "tuzukijahangirio00jahauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1829,
+    1863,
+    1864,
+    1889,
+    1907
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mug-tuzuk-i-jahangiri-2": {
+   "ia": "in.ernet.dli.2015.116012",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1627,
+    1914
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mug-humayun-nama": {
+   "ia": "historyofhumayun00gulbrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1529,
+    1898,
+    1899,
+    1900,
+    1901,
+    1902
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

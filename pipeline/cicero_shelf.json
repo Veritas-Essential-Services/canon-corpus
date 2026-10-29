@@ -1,0 +1,1039 @@
+{
+ "_about": "Cicero in English, translator per title. Orations: C. D. Yonge (Bohn), 4 vols. (vols. 1-3 raw IA, vol. 4 clean Gutenberg). Philosophy: Yonge's Academics, De Finibus, Tusculans (with a sketch of the Greek philosophers) and his Tusculans, Nature of the Gods and Commonwealth; Shuckburgh's Friendship and Old Age; Peabody's De Amicitia and Scipio's Dream; Featherstonhaugh's Republic. Rhetoric: E. Jones's Brutus and Orator. Letters: Shuckburgh's whole extant correspondence (vol. 1 clean Gutenberg, vols. 2-4 raw IA) and his selection. Walter Miller's Loeb De Officiis (Gutenberg; Latin facing kept) added 2026-10-02 from the bilingual catalogue. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives. Added 2026-10-03, older translations as raw IA OCR: William Guthrie's Epistles to Atticus (vol. I of the 1752 edition; vols. II-III of the corrected 1806 edition), his Offices with Cato, Laelius, Paradoxes and the Vision of Scipio (1755) and his On Oratory and Orators (1808, 2 vols., as amended by Jones); William Heberden's Letters to Atticus (1825, 2 vols.); Thomas Francklin's Nature of the Gods (1829); and G. E. Jeans's Life and Letters (2nd ed., 1887). Also William Melmoth's Letters to Several of His Friends, 1808 edition in five volumes, vols. II-V (vol. I, lettersofmarcust01ciceuoft, answers 500 and is on the hourly retry).",
+ "_name_words": [
+  "cicero",
+  "tullius",
+  "tully"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cicero-yonge-orations-v4": [
+   11080,
+   "The Orations of Marcus Tullius Cicero, vol. 4",
+   "tr. C. D. Yonge (Bohn)"
+  ],
+  "cicero-yonge-academics-finibus-tusculans": [
+   29247,
+   "The Academic Questions, Treatise De Finibus, and Tusculan Disputations",
+   "tr. C. D. Yonge (Bohn)"
+  ],
+  "cicero-yonge-tusculans-nature-gods": [
+   14988,
+   "Tusculan Disputations; also Treatises on the Nature of the Gods and on the Commonwealth",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-shuckburgh-friendship-old-age": [
+   2808,
+   "Treatises on Friendship and Old Age",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-peabody-amicitia": [
+   7491,
+   "De Amicitia, Scipio's Dream",
+   "tr. Andrew P. Peabody"
+  ],
+  "cicero-featherstonhaugh-republic": [
+   54161,
+   "The Republic of Cicero",
+   "tr. George William Featherstonhaugh"
+  ],
+  "cicero-jones-brutus-orator": [
+   9776,
+   "Cicero's Brutus, or History of Famous Orators; also his Orator",
+   "tr. E. Jones"
+  ],
+  "cicero-shuckburgh-letters-v1": [
+   21200,
+   "The Letters of Cicero: the whole extant correspondence, vol. 1",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-shuckburgh-letters-selection": [
+   2812,
+   "Letters of Marcus Tullius Cicero (selection)",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-miller-de-officiis": [
+   47001,
+   "De Officiis",
+   "tr. Walter Miller (Loeb; Latin facing)"
+  ],
+  "cicero-winstedt-atticus-v1": [
+   58418,
+   "Cicero: Letters to Atticus, vol. 1 of 3 (Loeb)",
+   "tr. E. O. Winstedt (Latin facing kept)"
+  ],
+  "cicero-winstedt-atticus-v2": [
+   50692,
+   "Cicero: Letters to Atticus, vol. 2 of 3 (Loeb)",
+   "tr. E. O. Winstedt (Latin facing kept)"
+  ],
+  "cicero-winstedt-atticus-v3": [
+   51403,
+   "Cicero: Letters to Atticus, vol. 3 of 3 (Loeb)",
+   "tr. E. O. Winstedt (Latin facing kept)"
+  ]
+ },
+ "internet_archive": {
+  "cicero-yonge-orations-v1": [
+   "orationsofmarcus01ciceuoft",
+   "The Orations of Marcus Tullius Cicero, vol. 1 (Bohn)",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-yonge-orations-v2": [
+   "orationsofmarcus02ciceuoft",
+   "The Orations of Marcus Tullius Cicero, vol. 2 (Bohn)",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-yonge-orations-v3": [
+   "orationsofmarcus03cice",
+   "The Orations of Marcus Tullius Cicero, vol. 3 (Bohn)",
+   "tr. C. D. Yonge"
+  ],
+  "cicero-shuckburgh-letters-v2": [
+   "lettersofcicerow02cice",
+   "The Letters of Cicero: the whole extant correspondence, vol. 2 (1899)",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-shuckburgh-letters-v3": [
+   "lettersofcicero03ciceuoft",
+   "The Letters of Cicero: the whole extant correspondence, vol. 3 (1899)",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-shuckburgh-letters-v4": [
+   "lettersofcicerow04ciceuoft",
+   "The Letters of Cicero: the whole extant correspondence, vol. 4 (1899)",
+   "tr. Evelyn S. Shuckburgh"
+  ],
+  "cicero-williams-friends-v1": [
+   "letterstohisfrie01ciceuoft",
+   "The Letters to his Friends, vol. 1 (Loeb, 1927)",
+   "tr. W. Glynn Williams"
+  ],
+  "cicero-williams-friends-v2": [
+   "letterstohisfrie02ciceuoft",
+   "The Letters to his Friends, vol. 2 (Loeb, 1928)",
+   "tr. W. Glynn Williams"
+  ],
+  "cicero-rackham-de-finibus": [
+   "definibusbonoru02cicegoog",
+   "De Finibus Bonorum et Malorum (Loeb, 1914)",
+   "tr. H. Rackham"
+  ],
+  "cicero-falconer-senectute-amicitia-divinatione": [
+   "cicerodesenectut0000will_n8p4",
+   "De Senectute, De Amicitia, De Divinatione (Loeb, 1923)",
+   "tr. W. A. Falconer"
+  ],
+  "cicero-ker-philippics": [
+   "philippics00ciceuoft",
+   "Philippics (Loeb, 1926)",
+   "tr. Walter C. A. Ker"
+  ],
+  "cicero-greenwood-verrines-v1": [
+   "ciceroverrineora0001unse",
+   "The Verrine Orations, vol. 1 (Loeb, 1928)",
+   "tr. L. H. G. Greenwood"
+  ],
+  "cicero-keyes-de-re-publica-de-legibus": [
+   "derepublicadeleg0000cice_k7o1",
+   "De Re Publica, De Legibus (Loeb, 1928)",
+   "tr. Clinton Walker Keyes"
+  ],
+  "cicero-cockman-offices-melmoth-cato-laelius": [
+   "bub_gb_IGgRfydq6YwC",
+   "Cicero: the Offices; Cato, or an Essay on Old Age; Laelius, or an Essay on Friendship (Harper, 1838, vol. 3)",
+   "tr. Thomas Cockman (Offices); William Melmoth (Cato, Laelius)"
+  ],
+  "cicero-watson-on-oratory": [
+   "ciceroonoratory00cice",
+   "Cicero on Oratory and Orators, with his Letters to Quintus and Brutus (Bohn; Bell & Daldy, 1871 printing)",
+   "tr. J. S. Watson"
+  ],
+  "cicero-edmonds-offices": [
+   "cicerosthreebook00ciceuoft",
+   "Cicero's Three Books of Offices, or Moral Duties; also Cato Major, Laelius, Paradoxes, Scipio's Dream and the Letter to Quintus (Harper, 1860)",
+   "tr. Cyrus R. Edmonds"
+  ],
+  "cicero-watts-pro-archia-etc": [
+   "cicero-in-28-volumes.-vol.-11-loeb-158",
+   "Cicero, The Speeches: Pro Archia, Post Reditum in Senatu, Post Reditum ad Quirites, De Domo Sua, De Haruspicum Responsis, Pro Plancio (Loeb, first printed 1923; this scan a 1965 reprint; Latin facing)",
+   "Cicero in 28 volumes. vol.11 [Loeb 158]_djvu.txt",
+   "tr. N. H. Watts"
+  ],
+  "cicero-grose-hodge-pro-lege-manilia-etc": [
+   "cicero-in-28-volumes.-vol.-9-loeb-198",
+   "Cicero, The Speeches: Pro Lege Manilia, Pro Caecina, Pro Cluentio, Pro Rabirio Perduellionis (Loeb, first printed 1927; this scan a 1966 reprint; Latin facing)",
+   "Cicero in 28 volumes. vol.9 [Loeb 198]_djvu.txt",
+   "tr. H. Grose Hodge"
+  ],
+  "cicero-freese-pro-quinctio-etc": [
+   "cicero-in-28-volumes.-vol.-6-loeb-240",
+   "Cicero, Pro Quinctio, Pro Roscio Amerino, Pro Roscio Comoedo, De Lege Agraria I-III (Loeb, first printed 1930; this scan a 1967 reprint; Latin facing)",
+   "Cicero in 28 volumes. vol.6 [Loeb 240]_djvu.txt",
+   "tr. John Henry Freese"
+  ],
+  "cicero-guthrie-atticus-1752-v1": [
+   "cicerosepistles00guthgoog",
+   "Cicero's Epistles to Atticus, with notes, vol. I of two (Books I-VIII; T. Waller, 1752)",
+   "tr. William Guthrie"
+  ],
+  "cicero-guthrie-atticus-1806-v2": [
+   "cicerosepistles01cicegoog",
+   "Cicero's Epistles to Atticus, new edition corrected and amended, vol. II of three (Books VI-XI; Lackington, Allen, 1806)",
+   "tr. William Guthrie"
+  ],
+  "cicero-guthrie-atticus-1806-v3": [
+   "cicerosepistles00cicegoog",
+   "Cicero's Epistles to Atticus, new edition corrected and amended, vol. III of three (Books XII-XVI; 1806)",
+   "tr. William Guthrie (title page lost in this volume; vol. II of the set names him)"
+  ],
+  "cicero-guthrie-offices-etc-1755": [
+   "mtcicerohisoffi00guthgoog",
+   "M. T. Cicero, His Offices; Cato Major; Laelius; Moral Paradoxes; the Vision of Scipio; his Letter concerning the Duties of a Magistrate (T. Waller, 1755)",
+   "tr. William Guthrie"
+  ],
+  "cicero-guthrie-de-oratore-1808-v1": [
+   "onoratoryandorat01ciceuoft",
+   "Cicero on Oratory and Orators, with notes, new edition, vol. I of two (1808)",
+   "tr. William Guthrie, amended by Jones (named in the volume's advertisements; the title page names no translator)"
+  ],
+  "cicero-guthrie-de-oratore-1808-v2": [
+   "onoratoryandorat02ciceuoft",
+   "Cicero on Oratory and Orators, with notes, new edition, vol. II of two (1808)",
+   "tr. William Guthrie, amended by Jones (as vol. I)"
+  ],
+  "cicero-heberden-atticus-1825-v1": [
+   "b24748742_0001",
+   "The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, in sixteen books, vol. I (Payne and Foss, 1825)",
+   "tr. William Heberden"
+  ],
+  "cicero-heberden-atticus-1825-v2": [
+   "b24748742_0002",
+   "The Letters of Marcus Tullius Cicero to Titus Pomponius Atticus, vol. II (Payne and Foss, 1825)",
+   "tr. William Heberden"
+  ],
+  "cicero-francklin-nature-gods-1829": [
+   "naturegods00frangoog",
+   "M. Tullius Cicero of the Nature of the Gods, with notes, and an inquiry into the astronomy and anatomy of the ancients (Pickering, 1829)",
+   "tr. Thomas Francklin"
+  ],
+  "cicero-jeans-letters-1887": [
+   "cu31924026480347",
+   "The Life and Letters of Marcus Tullius Cicero, a new translation of the letters in Watson's selection, second edition (Macmillan, 1887)",
+   "tr. G. E. Jeans"
+  ],
+  "cicero-melmoth-letters-1808-v2": [
+   "lettersofmarcust02ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. II of five (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v3": [
+   "lettersofmarcust03ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. III of five (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v4": [
+   "lettersofmarcust04ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. IV of five (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v5": [
+   "lettersofmarcust05ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, with remarks, vol. V of five (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-melmoth-letters-1808-v1": [
+   "lettersofmarcust01ciceuoft",
+   "The Letters of Marcus Tullius Cicero to Several of His Friends, vol. I (1808)",
+   "tr. William Melmoth"
+  ],
+  "cicero-reid-academics-1880": [
+   "academicscicero00cicegoog",
+   "The Academics of Cicero (London: Macmillan, 1880)",
+   "tr. James S. Reid"
+  ],
+  "cicero-smith-amicitia-1897": [
+   "deamicitiaonfrie00cice",
+   "De Amicitia (On Friendship) (New York: The Century Co.; copyright 1897, this printing 1906)",
+   "tr. Benjamin E. Smith"
+  ],
+  "cicero-black-tusculan-i-1889": [
+   "deathnobaneanew00blacgoog",
+   "Death No Bane: a new translation, with copious illustrative notes, of Cicero's First Tusculan Disputation (London: Sampson Low, Marston, Searle and Rivington, 1889)",
+   "tr. Robert Black"
+  ],
+  "cicero-duncan-select-orations-1841": [
+   "selectorationsc00cicegoog",
+   "Select Orations of Cicero, translated into English, with notes historical, critical and explanatory (Oxford: J. Vincent for Thomas Tegg, 1841)",
+   "tr. William Duncan"
+  ],
+  "cicero-select-letters-literal-1891": [
+   "selectlettersci01cicegoog",
+   "Select Letters of Cicero, literally translated (New York: Arthur Hinds, copyright 1891)",
+   "tr. anonymous (the title page names no translator)"
+  ],
+  "cicero-moor-de-oratore-i-1892": [
+   "deoratorebook1tr00ciceuoft",
+   "Cicero, De Oratore, Book I, translated into English with an introduction (London, 1892)",
+   "tr. E. N. P. Moor"
+  ],
+  "cicero-peterson-pro-cluentio-1895": [
+   "speechindefenceo00ciceuoft",
+   "The Speech of Cicero in Defence of Cluentius, translated into English with an introduction and notes (London: Macmillan, 1895)",
+   "tr. William Peterson"
+  ]
+ },
+ "_surname": [
+  "cicero",
+  "tully",
+  "tullius"
+ ],
+ "_translators": {
+  "cicero-yonge-orations-v4": "charles duke yonge",
+  "cicero-yonge-academics-finibus-tusculans": "Charles Duke Yonge",
+  "cicero-yonge-tusculans-nature-gods": "Charles Duke Yonge",
+  "cicero-shuckburgh-friendship-old-age": "Evelyn S. Shuckburgh",
+  "cicero-peabody-amicitia": "Andrew P. Peabody",
+  "cicero-featherstonhaugh-republic": "George William Featherstonhaugh",
+  "cicero-jones-brutus-orator": "E. Jones",
+  "cicero-shuckburgh-letters-v1": "Evelyn S. Shuckburgh",
+  "cicero-shuckburgh-letters-selection": "Evelyn S. Shuckburgh",
+  "cicero-miller-de-officiis": "Walter Miller",
+  "cicero-winstedt-atticus-v1": "Eric Otto Winstedt",
+  "cicero-winstedt-atticus-v2": "Eric Otto Winstedt",
+  "cicero-winstedt-atticus-v3": "Eric Otto Winstedt",
+  "cicero-yonge-orations-v1": "C. D. Yonge",
+  "cicero-yonge-orations-v2": "C. D. Yonge",
+  "cicero-yonge-orations-v3": "yonge",
+  "cicero-shuckburgh-letters-v2": "Evelyn S. Shuckburgh",
+  "cicero-shuckburgh-letters-v3": "Evelyn S. Shuckburgh",
+  "cicero-shuckburgh-letters-v4": "Evelyn S. Shuckburgh",
+  "cicero-williams-friends-v1": "W. Glynn Williams",
+  "cicero-williams-friends-v2": "W. Glynn Williams",
+  "cicero-rackham-de-finibus": "H. Rackham",
+  "cicero-falconer-senectute-amicitia-divinatione": "W. A. Falconer",
+  "cicero-greenwood-verrines-v1": "L. H. G. Greenwood",
+  "cicero-keyes-de-re-publica-de-legibus": "Clinton Walker Keyes",
+  "cicero-cockman-offices-melmoth-cato-laelius": "dr. cockman",
+  "cicero-edmonds-offices": "edmonds, c. r.",
+  "cicero-watts-pro-archia-etc": "N. H. Watts",
+  "cicero-grose-hodge-pro-lege-manilia-etc": "H. Grose Hodge",
+  "cicero-freese-pro-quinctio-etc": "John Henry Freese",
+  "cicero-guthrie-atticus-1752-v1": "William Guthrie",
+  "cicero-guthrie-offices-etc-1755": "William Guthrie",
+  "cicero-guthrie-de-oratore-1808-v1": "Guthrie",
+  "cicero-heberden-atticus-1825-v2": "Heberden",
+  "cicero-jeans-letters-1887": "Jeans",
+  "cicero-heberden-atticus-1825-v1": "Heberden",
+  "cicero-francklin-nature-gods-1829": "Francklin",
+  "cicero-melmoth-letters-1808-v2": "William Melmoth",
+  "cicero-melmoth-letters-1808-v3": "William Melmoth",
+  "cicero-melmoth-letters-1808-v4": "William Melmoth",
+  "cicero-melmoth-letters-1808-v5": "William Melmoth",
+  "cicero-melmoth-letters-1808-v1": "Melmoth",
+  "cicero-smith-amicitia-1897": "benjamin e. smith",
+  "cicero-black-tusculan-i-1889": "robert black",
+  "cicero-duncan-select-orations-1841": "william duncan",
+  "cicero-moor-de-oratore-i-1892": "e. n. p. moor",
+  "cicero-peterson-pro-cluentio-1895": "w. peterson"
+ },
+ "_translator_unchecked": {
+  "cicero-ker-philippics": "translator on the row (Walter C. A. Ker) is not printed as a word in the OCR text: title page lost or garbled, a later volume, or an attribution from the catalogue or collation as the row says",
+  "cicero-watson-on-oratory": "the OCR garbles the title page (\"J.' S,' WATSON\"); 'watson' alone is a common name and proves nothing",
+  "cicero-guthrie-atticus-1806-v2": "the title page OCRs the name as 'WILLIAM GUTHEIE'; read by eye as William Guthrie",
+  "cicero-guthrie-atticus-1806-v3": "this volume's title page is lost in the scan; the translator is the one named on vol. II of the same 1806 set (cicero-guthrie-atticus-1806-v2)",
+  "cicero-guthrie-de-oratore-1808-v2": "the title pages name no translator; vol. I's publisher's advertisements list 'Cicero on Oratory and Orators, translated by Guthrie, and amended by Jones, 2 vols.'",
+  "cicero-reid-academics-1880": "title page OCR reads 'JAMES S. RE ID', the surname split by the OCR; left unchecked on that reading",
+  "cicero-select-letters-literal-1891": "the title page names no translator (Hinds's 'literal translations' series)"
+ },
+ "_checks": {
+  "cicero-yonge-orations-v4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "charles duke yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  },
+  "cicero-yonge-academics-finibus-tusculans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Charles Duke Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  },
+  "cicero-yonge-tusculans-nature-gods": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Charles Duke Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Duke Yonge",
+   "translator_match": true
+  },
+  "cicero-shuckburgh-friendship-old-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Evelyn S. Shuckburgh",
+   "translator_match": true
+  },
+  "cicero-peabody-amicitia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Andrew P. Peabody",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Andrew P. Peabody",
+   "translator_match": true
+  },
+  "cicero-featherstonhaugh-republic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "George William Featherstonhaugh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George William Featherstonhaugh",
+   "translator_match": true
+  },
+  "cicero-jones-brutus-orator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "E. Jones",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "E. Jones",
+   "translator_match": true
+  },
+  "cicero-shuckburgh-letters-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Evelyn S. Shuckburgh",
+   "translator_match": true
+  },
+  "cicero-shuckburgh-letters-selection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Evelyn S. Shuckburgh",
+   "translator_match": true
+  },
+  "cicero-miller-de-officiis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Walter Miller",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Walter Miller",
+   "translator_match": true
+  },
+  "cicero-winstedt-atticus-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Eric Otto Winstedt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eric Otto Winstedt",
+   "translator_match": true
+  },
+  "cicero-winstedt-atticus-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Eric Otto Winstedt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eric Otto Winstedt",
+   "translator_match": true
+  },
+  "cicero-winstedt-atticus-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Eric Otto Winstedt",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Eric Otto Winstedt",
+   "translator_match": true
+  },
+  "cicero-yonge-orations-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "C. D. Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-yonge-orations-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "C. D. Yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-yonge-orations-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "yonge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-shuckburgh-letters-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-shuckburgh-letters-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1899-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-shuckburgh-letters-v4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Evelyn S. Shuckburgh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1899-1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-williams-friends-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "W. Glynn Williams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "cicero-williams-friends-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "W. Glynn Williams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "cicero-rackham-de-finibus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "H. Rackham",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-falconer-senectute-amicitia-divinatione": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "W. A. Falconer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-ker-philippics": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": "Permission Granted to Digitize Item",
+   "ia_lending": null
+  },
+  "cicero-greenwood-verrines-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "L. H. G. Greenwood",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-keyes-de-re-publica-de-legibus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Clinton Walker Keyes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-cockman-offices-melmoth-cato-laelius": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "dr. cockman",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1833",
+   "ia_date": "1833",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-watson-on-oratory": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cicero-edmonds-offices": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "edmonds, c. r.",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-watts-pro-archia-etc": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "N. H. Watts",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint page read: 'First printed 1923, Reprinted 1935, 1955, 1961, 1965' (OCR '1028 ... 1985'); reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1923 text, US public domain."
+  },
+  "cicero-grose-hodge-pro-lege-manilia-etc": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "H. Grose Hodge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint page read: 'First printed 1927, Reprinted 1943, 1952, 1959, 1966'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1927 text, US public domain."
+  },
+  "cicero-freese-pro-quinctio-etc": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "John Henry Freese",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text."
+  },
+  "cicero-guthrie-atticus-1752-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-atticus-1806-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-atticus-1806-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1806",
+   "ia_date": "1806",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-offices-etc-1755": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1755",
+   "ia_date": "1755",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-de-oratore-1808-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Guthrie",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-guthrie-de-oratore-1808-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-heberden-atticus-1825-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Heberden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-heberden-atticus-1825-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Heberden",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-francklin-nature-gods-1829": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Francklin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-jeans-letters-1887": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Jeans",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "William Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-melmoth-letters-1808-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "Melmoth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "1808",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cicero-reid-academics-1880": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-smith-amicitia-1897": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "benjamin e. smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-black-tusculan-i-1889": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "robert black",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-duncan-select-orations-1841": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "william duncan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-select-letters-literal-1891": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cicero-moor-de-oratore-i-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "e. n. p. moor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page: London, 1892. Public domain in the US by date; the translator's death year was not checked, so UK status rests on it (an assistant master at Clifton College in 1892)"
+  },
+  "cicero-peterson-pro-cluentio-1895": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "cicero",
+   "translator_claimed": "w. peterson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_held": {
+  "cicero-williams-friends-v3": "held back on rights, not fetched: the scan is the 1954 printing ('Revised and with additions 1954'): the text is not the 1929 one. Converted text would need a per-book cut rule in the converter (not lane B's file) or a clean pre-1931 scan. Was IA letterstohisfrie03ciceuoft: The Letters to his Friends, vol. 3 (Loeb, 1929) Also seen 2026-10-03: IA cicero-in-28-volumes.-vol.-27-loeb-230 (a 1972 printing) carries a 1971 editorial note on the volume's contents; not taken."
+ },
+ "_rights_checked": {
+  "cicero-watts-pro-archia-etc": "Imprint page read: 'First printed 1923, Reprinted 1935, 1955, 1961, 1965' (OCR '1028 ... 1985'); reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1923 text, US public domain.",
+  "cicero-grose-hodge-pro-lege-manilia-etc": "Imprint page read: 'First printed 1927, Reprinted 1943, 1952, 1959, 1966'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Taken as the 1927 text, US public domain.",
+  "cicero-freese-pro-quinctio-etc": "Imprint page read: 'First printed 1930, Reprinted 1945, 1956, 1961, 1967'; reprinted, not revised; no addendum. The only post-1930 matter is the publisher's list of Loeb titles at the back. Works first published in 1930 entered the US public domain on 2026-01-01. Taken as the 1930 text.",
+  "cicero-moor-de-oratore-i-1892": "title page: London, 1892. Public domain in the US by date; the translator's death year was not checked, so UK status rests on it (an assistant master at Clifton College in 1892)"
+ }
+}

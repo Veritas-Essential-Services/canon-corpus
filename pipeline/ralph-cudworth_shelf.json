@@ -1,0 +1,77 @@
+{
+ "_about": "Ralph Cudworth (1617-1688), the Cambridge Platonist, raw IA OCR: The True Intellectual System of the Universe, with A Treatise concerning Eternal and Immutable Morality, and the notes and dissertations of J. L. Mosheim translated by John Harrison (London: Thomas Tegg, 1845, 3 vols.). US public domain. No uids minted.",
+ "_author": "Ralph Cudworth",
+ "_name_words": [
+  "ralph",
+  "cudworth"
+ ],
+ "_surname": [
+  "cudworth"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cudworth-harrison-intellectual-system-1845-v1": [
+   "trueintellectua03moshgoog",
+   "The True Intellectual System of the Universe, with the notes and dissertations of J. L. Mosheim, vol. I (London: Thomas Tegg, 1845)",
+   "Mosheim's notes tr. John Harrison"
+  ],
+  "cudworth-harrison-intellectual-system-1845-v2": [
+   "trueintellectual02cudwuoft",
+   "The True Intellectual System of the Universe, vol. II (London: Thomas Tegg, 1845)",
+   "Mosheim's notes tr. John Harrison"
+  ],
+  "cudworth-harrison-intellectual-system-1845-v3": [
+   "trueintellectual0003ralp",
+   "The True Intellectual System of the Universe, vol. III, with the Treatise concerning Eternal and Immutable Morality and the general index (London: Thomas Tegg, 1845)",
+   "Mosheim's notes tr. John Harrison"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "cudworth-harrison-intellectual-system-1845-v1": "Harrison",
+  "cudworth-harrison-intellectual-system-1845-v2": "Harrison",
+  "cudworth-harrison-intellectual-system-1845-v3": "Harrison"
+ },
+ "_checks": {
+  "cudworth-harrison-intellectual-system-1845-v1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cudworth",
+   "translator_claimed": "Harrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cudworth-harrison-intellectual-system-1845-v2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cudworth",
+   "translator_claimed": "Harrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cudworth-harrison-intellectual-system-1845-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "cudworth",
+   "translator_claimed": "Harrison",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

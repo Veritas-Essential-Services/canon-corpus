@@ -1,0 +1,48 @@
+{
+ "_about": "Samuel Clarke (1675-1729), Newtonian philosopher and rationalist divine: A Discourse concerning the Being and Attributes of God, the Obligations of Natural Religion, and the Truth and Certainty of the Christian Revelation, his Boyle Lectures of 1704 and 1705 (London: W. Botham for James Knapton, 1719), raw IA OCR, clean 0.86; and A Collection of Papers which passed between the late learned Mr. Leibnitz and Dr. Clarke in the years 1715 and 1716, with Clarke's appendix and the letters on liberty and necessity (London, MDCCXVII), raw IA OCR (Wellcome copy), clean 0.80. Leibniz's side of the correspondence also stands, in a later translation, on the leibniz shelf. Not Adam Clarke. US public domain. No uids minted.",
+ "_author": "Samuel Clarke",
+ "_name_words": [
+  "samuel",
+  "clarke"
+ ],
+ "_surname": [
+  "clarke"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "clarke-being-and-attributes-1719": [
+   "discourseconcern1719clar",
+   "A Discourse concerning the Being and Attributes of God (Boyle Lectures; London: Knapton, 1719)"
+  ],
+  "clarke-leibniz-papers-1717": [
+   "b30520022",
+   "A Collection of Papers which passed between Mr. Leibnitz and Dr. Clarke (London, 1717)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "clarke-being-and-attributes-1719": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1719",
+   "ia_date": "1719",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "clarke-leibniz-papers-1717": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "ia_rights": "ok: published 1717",
+   "ia_date": "1717",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

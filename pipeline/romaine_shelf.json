@@ -1,0 +1,42 @@
+{
+ "_about": "Public-domain William Romaine (1714-1795, evangelical Anglican, rector of St Andrew by the Wardrobe and lecturer of St Dunstan in the West) for the Word Hoard: the Whole Works (London: B. Blake, 1837, one volume, with Cadogan's Life), raw Internet Archive OCR from a Princeton scan. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 6 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "romaine",
+  "william"
+ ],
+ "_surname": [
+  "romaine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "romaine-whole-works-1837": [
+   "wholeworksoflate00roma",
+   "The Whole Works of the late Reverend William Romaine, with his Life by W. B. Cadogan (London: B. Blake, 1837)"
+  ]
+ },
+ "_alternates": {
+  "worksoflaterever01..08roma (London: Crosby and Letterman, 1801, 8 vols; vols 7-8 also in a 1796 printing)": "The fuller-looking 8-volume Works; its long-s typography OCRs at 85-88%, against 99.5% for this one-volume edition of the same contents.",
+  "wholelate00roma (Tegg, 1837); wholeworksoflate00roma_0 (Nelson, 1840)": "Other one-volume Whole Works.",
+  "treatises*, treatiseuponlife00roma, triumphfaithbyl00romagoog; twelvediscourses00roma; selectletters*; lettersonmostimp00roma; eslmody00roma, anessayonpsalmo00romgoog": "Separate printings of pieces the Works collect (Life, Walk and Triumph of Faith; Twelve Discourses; Letters; Essay on Psalmody)."
+ },
+ "_excluded": {
+  "Paterson, Newbold, Hodges titles; jstor-*": "Other authors who carry the name William Romaine.",
+  "cihm_20186": "John Douglas's attack on Romaine.",
+  "considerationso00ddgoog": "Vicesimus Knox's book."
+ },
+ "_checks": {
+  "romaine-whole-works-1837": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "romaine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

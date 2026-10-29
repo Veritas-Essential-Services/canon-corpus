@@ -1,0 +1,78 @@
+{
+ "_about": "Public-domain F. B. Meyer (Frederick Brotherton Meyer, 1847-1929, Baptist minister in London) for the Word Hoard: The Secret of Guidance, Our Daily Homily (volume 2 only, 1 Samuel to Job; CCEL has no other volume) and The Way into the Holiest, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "m/meyer",
+ "_name_words": [
+  "meyer",
+  "brotherton"
+ ],
+ "_surname": [
+  "f. b. meyer",
+  "f.b. meyer",
+  "meyer, f.b",
+  "meyer, f. b",
+  "frederick brotherton meyer"
+ ],
+ "_held": {},
+ "ccel": {
+  "meyer-guidance": [
+   "guidance",
+   "The Secret of Guidance",
+   ""
+  ],
+  "meyer-into-holiest": [
+   "into_holiest",
+   "The Way into the Holiest",
+   ""
+  ],
+  "meyer-daily-homily-2": [
+   "homily2",
+   "Our Daily Homily, vol. 2: 1 Samuel to Job",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {},
+ "_pending": {
+  "meyer-daily-homily-other-volumes": "Our Daily Homily volumes 1 and 3-5: CCEL holds only volume 2 (homily2; its 'homily' item is a 7 KB stub). Not searched for on IA yet."
+ },
+ "_checks": {
+  "meyer-guidance": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "f. b. meyer",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "meyer-into-holiest": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "f. b. meyer",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "meyer-daily-homily-2": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "f. b. meyer",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

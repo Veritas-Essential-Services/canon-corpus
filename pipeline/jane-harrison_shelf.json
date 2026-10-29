@@ -1,0 +1,59 @@
+{
+ "_about": "Jane Ellen Harrison (1850-1928), Newnham College. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Prolegomena to the Study of Greek Religion, Primitive Athens as Described by Thucydides, Ancient Art and Ritual, clean Gutenberg. Her commentary with Verrall's Attica is on the pausanias shelf. No uids minted.",
+ "_name_words": [
+  "harrison"
+ ],
+ "_surname": [
+  "jane ellen harrison",
+  "jane e. harrison",
+  "harrison, jane ellen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jane-harrison-prolegomena-greek-religion": [
+   78248,
+   "Prolegomena to the Study of Greek Religion"
+  ],
+  "jane-harrison-primitive-athens": [
+   73789,
+   "Primitive Athens as Described by Thucydides"
+  ],
+  "jane-harrison-ancient-art-ritual": [
+   17087,
+   "Ancient Art and Ritual"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "PG 75986 (Reminiscences of a Student's Life)": "memoir, outside the brief"
+ },
+ "_checks": {
+  "jane-harrison-prolegomena-greek-religion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane ellen harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jane-harrison-primitive-athens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane ellen harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jane-harrison-ancient-art-ritual": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "jane ellen harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

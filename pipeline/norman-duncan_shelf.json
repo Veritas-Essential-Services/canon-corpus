@@ -1,0 +1,162 @@
+{
+ "_about": "Norman Duncan's writing at Gutenberg: newfoundland and Labrador stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Norman Duncan",
+ "_name_words": [
+  "duncan",
+  "norman"
+ ],
+ "_surname": [
+  "norman duncan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "nduncan-doctor-luke-of-the-labrador": [
+   19981,
+   "Doctor Luke of the Labrador"
+  ],
+  "nduncan-harbor-tales-down-north-with-an-appreciation-by-wilf": [
+   24520,
+   "Harbor Tales Down North With an Appreciation by Wilfred T. Grenfell, M.D."
+  ],
+  "nduncan-mother": [
+   27550,
+   "The Mother"
+  ],
+  "nduncan-christmas-eve-at-swamps-end": [
+   27612,
+   "Christmas Eve at Swamp's End"
+  ],
+  "nduncan-billy-topsail-company": [
+   29130,
+   "Billy Topsail & Company: A Story for Boys"
+  ],
+  "nduncan-cruise-of-the-shining-light": [
+   29696,
+   "The Cruise of the Shining Light"
+  ],
+  "nduncan-higgins-a-mans-christian": [
+   34194,
+   "Higgins, a Man's Christian"
+  ],
+  "nduncan-every-man-for-himself": [
+   36998,
+   "Every Man for Himself"
+  ],
+  "nduncan-dr-grenfells-parish": [
+   39130,
+   "Dr. Grenfell's Parish: The Deep Sea Fisherman"
+  ],
+  "nduncan-adventures-of-billy-topsail": [
+   44037,
+   "The Adventures of Billy Topsail"
+  ],
+  "nduncan-billy-topsail-m-d": [
+   47128,
+   "Billy Topsail, M.D.: A Tale of Adventure With Doctor Luke of the Labrador"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "nduncan-doctor-luke-of-the-labrador": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-harbor-tales-down-north-with-an-appreciation-by-wilf": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-mother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-christmas-eve-at-swamps-end": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-billy-topsail-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-cruise-of-the-shining-light": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-higgins-a-mans-christian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-every-man-for-himself": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-dr-grenfells-parish": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-adventures-of-billy-topsail": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "nduncan-billy-topsail-m-d": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "norman duncan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

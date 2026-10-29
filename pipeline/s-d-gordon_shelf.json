@@ -1,0 +1,300 @@
+{
+ "_about": "Public-domain S. D. Gordon (Samuel Dickey Gordon, 1859-1936), American lay evangelist and devotional writer, for the Word Hoard: his Quiet Talks series from Quiet Talks on Power (1903) to Quiet Talks on How to Pray (1929), with A Quiet Talk with Those Who Weep (1915) and The Bent-Knee Time (1918). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 72 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gordon"
+ ],
+ "_surname": [
+  "s. d. gordon",
+  "s.d. gordon",
+  "s d gordon",
+  "samuel dickey gordon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gordon-qt-power": [
+   "quiettalksonpowe00gordiala",
+   "Quiet talks on power (New York: Fleming H. Revell, copyright 1903)"
+  ],
+  "gordon-qt-prayer": [
+   "quiettalksonpray00gorduoft",
+   "Quiet talks on prayer (New York: Fleming H. Revell, copyright 1904)"
+  ],
+  "gordon-qt-about-jesus": [
+   "quiettalksaboutj00gord_0",
+   "Quiet talks about Jesus (New York : A.C. Armstrong, 1906)"
+  ],
+  "gordon-qt-service": [
+   "quiettalksonserv00gorduoft",
+   "Quiet talks on service (New York: Fleming H. Revell, copyright 1906)"
+  ],
+  "gordon-qt-personal-problems": [
+   "quiettalksonpers00gord",
+   "Quiet talks on personal problems (New York, A. C. Armstrong & son, 1907)"
+  ],
+  "gordon-qt-world-winners": [
+   "quiettalkswithwo0000gord",
+   "Quiet talks with world winners (London : Hodder and Stoughton, 1908)"
+  ],
+  "gordon-qt-home-ideals": [
+   "quiettalksonhome00gord",
+   "Quiet talks on home ideals (New York : Fleming H. Revell, 1909)"
+  ],
+  "gordon-qt-tempter": [
+   "quiettalksaboutt00gorduoft",
+   "Quiet talks about the tempter (New York: Fleming H. Revell, copyright 1910)"
+  ],
+  "gordon-qt-lords-return": [
+   "quiettalksabouto00gord",
+   "Quiet talks about Our Lord's return (New York ; Chicago [etc.] : Fleming H. Revell company, 1912)"
+  ],
+  "gordon-qt-following-christ": [
+   "quiettalksonfoll00gord",
+   "Quiet talks on following the Christ (New York, Fleming H. Revell Co, 1913)"
+  ],
+  "gordon-qt-crowned-christ": [
+   "quiettalksaboutc00gord",
+   "Quiet talks about the crowned Christ (New York, Chicago: Fleming H. Revell Co., 1914)"
+  ],
+  "gordon-qt-johns-gospel": [
+   "quiettalksonjohn00gord",
+   "Quiet talks on John's Gospel (New York, Chicago [etc.] Fleming H. Revell Company, 1915)"
+  ],
+  "gordon-those-who-weep": [
+   "quiettalkwiththo00gord",
+   "A quiet talk with those who weep (New York, Chicago [etc.] Fleming H. Revell company, 1915)"
+  ],
+  "gordon-bent-knee-time": [
+   "bentkneetimebitf00gord",
+   "The bent-knee time; a bit for every day of the year (Philadelphia, American Sunday-school union, 1918)"
+  ],
+  "gordon-qt-life-after-death": [
+   "quiettalksaboutl00gord",
+   "Quiet talks about life after death (New York : Fleming H. Revell Co., 1920)"
+  ],
+  "gordon-qt-simple-essentials": [
+   "quiettalksabouts0000gord",
+   "Quiet talks about simple essentials and the present world outlook (New York : F.H. Revell, 1924)"
+  ],
+  "gordon-qt-healing-christ": [
+   "quiettalksabouth00gord",
+   "Quiet talks about the healing Christ (New York ; Chicago [etc.] : Fleming H. Revell company, 1924)"
+  ],
+  "gordon-qt-how-to-pray": [
+   "quiettalksonhowt0000gord",
+   "Quiet Talks on How to Pray (New York: Fleming H. Revell, copyright 1929)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {
+  "gordon-qt-prayer": "title page OCR reads 'QUIET TALKS ON PRATER BY 5. D. GORDON Author of \"Quiet Talks on Power\" ... Fleming H. Revell Company' (OCR garbled)",
+  "gordon-qt-world-winners": "title page OCR reads 'QUIET TALKS WITH WORLD WINNERS BY Ss. D. GORDON HODDER AND STOUGHTON ... Copyright, 1908' (OCR garbled)",
+  "gordon-qt-following-christ": "title page OCR reads 'QUIET TALKS ON Following The Christ BY S. D. \"GORDON Author of \"Quiet Talks on Power\"'; library label 'Gordon, S. D. 1859-1936' (OCR garbled)",
+  "gordon-qt-johns-gospel": "title page OCR reads 'QUIET TALKS ON John's Gospel S. D, GORDON ... Fleming H, Revell Company ... Copyright, 1915'; library label 'Gordon, S. D. 1859-1936' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "gordon-qt-power": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "[1903]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "c1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-about-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-qt-service": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "[c1906]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-personal-problems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-world-winners": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-qt-home-ideals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "gordon-qt-tempter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "c1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-lords-return": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-qt-following-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-crowned-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-johns-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-those-who-weep": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-bent-knee-time": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gordon-qt-life-after-death": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-qt-simple-essentials": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-qt-healing-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gordon-qt-how-to-pray": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "s. d. gordon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

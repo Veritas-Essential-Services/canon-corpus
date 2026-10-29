@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Oswald Chambers (1874-1917, Principal of the Bible Training College, London) for the Word Hoard: Biblical Psychology (1914) and Studies in the Sermon on the Mount (1915), both printed in his lifetime by God's Revivalist, Cincinnati, from Internet Archive scans. The books his widow compiled after his death, My Utmost for His Highest among them, were not found in any printing before 1930. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chambers"
+ ],
+ "_surname": [
+  "chambers",
+  "oswald chambers"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chambers-biblical-psychology": [
+   "biblicalpsycholo00cham",
+   "Biblical Psychology: a Series of Preliminary Studies (Cincinnati: God's Revivalist Office; copyright 1914)"
+  ],
+  "chambers-sermon-on-the-mount": [
+   "studiesinsermon00cham",
+   "Studies in the Sermon on the Mount (Cincinnati: God's Revivalist Press; copyright 1915)"
+  ]
+ },
+ "_alternates": {
+  "chambers-copies": "The London Partridge Biblical Psychology (1919 or later)"
+ },
+ "_excluded": {
+  "chambers-later": "My Utmost for His Highest (a 1992 edition catalogued 1927) and every other scan, all 1937 or later"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "chambers-biblical-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chambers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "chambers-sermon-on-the-mount": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "chambers",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

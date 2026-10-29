@@ -1,0 +1,203 @@
+{
+ "_about": "Harold Frederic's novels and stories, The Damnation of Theron Ware and the rest. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Harold Frederic",
+ "_name_words": [
+  "frederic",
+  "harold"
+ ],
+ "_surname": [
+  "harold frederic"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hfrederic-damnation-of-theron-ware": [
+   133,
+   "The Damnation of Theron Ware"
+  ],
+  "hfrederic-market-place": [
+   298,
+   "The Market-Place"
+  ],
+  "hfrederic-in-the-valley": [
+   9787,
+   "In the Valley"
+  ],
+  "hfrederic-deserter-and-other-stories": [
+   44304,
+   "The Deserter, and Other Stories: A Book of Two Wars"
+  ],
+  "hfrederic-copperhead": [
+   46124,
+   "The Copperhead"
+  ],
+  "hfrederic-mrs-albert-grundy-observations-in-philistia": [
+   50496,
+   "Mrs Albert Grundy—Observations in Philistia"
+  ],
+  "hfrederic-in-the-sixties": [
+   54764,
+   "In the Sixties"
+  ],
+  "hfrederic-return-of-the-omahony": [
+   54900,
+   "The Return of the O'Mahony: A Novel"
+  ],
+  "hfrederic-march-hares": [
+   54986,
+   "March Hares"
+  ],
+  "hfrederic-seths-brothers-wife": [
+   54987,
+   "Seth's Brother's Wife: A Study of Life in the Greater New York"
+  ],
+  "hfrederic-gloria-mundi": [
+   54988,
+   "Gloria Mundi"
+  ],
+  "hfrederic-young-emperor-william-ii-of-germany-a-study-in-cha": [
+   54989,
+   "The Young Emperor, William II of Germany A Study in Character Development on a Throne"
+  ],
+  "hfrederic-lawton-girl": [
+   55339,
+   "The Lawton Girl"
+  ],
+  "hfrederic-marsena-and-other-stories-of-the-wartime": [
+   56005,
+   "Marsena, and Other Stories of the Wartime"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-57537": "PG 57537: Gutenberg's index of the author's works, not a book."
+ },
+ "_held": {},
+ "_checks": {
+  "hfrederic-damnation-of-theron-ware": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-market-place": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-in-the-valley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-deserter-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-copperhead": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-mrs-albert-grundy-observations-in-philistia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-in-the-sixties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-return-of-the-omahony": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-march-hares": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-seths-brothers-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-gloria-mundi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-young-emperor-william-ii-of-germany-a-study-in-cha": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-lawton-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hfrederic-marsena-and-other-stories-of-the-wartime": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "harold frederic",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

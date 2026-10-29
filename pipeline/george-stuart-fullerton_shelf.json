@@ -1,0 +1,104 @@
+{
+ "_about": "George Stuart Fullerton (1859-1925), University of Pennsylvania and Columbia philosopher. Gutenberg: A Handbook of Ethical Theory; An Introduction to Philosophy; On Sameness and Identity. Raw IA OCR: On Spinozistic Immortality (Philadelphia: University of Pennsylvania, 1899), clean 0.94; A System of Metaphysics (New York: Macmillan, 1904), clean 0.95; The World We Live In, or Philosophy and Life in the Light of Modern Thought (New York: Macmillan, 1912), clean 0.94. His Spinoza translations are on the spinoza shelf. US public domain. No uids minted.",
+ "_author": "George Stuart Fullerton",
+ "_name_words": [
+  "george",
+  "stuart",
+  "fullerton"
+ ],
+ "_surname": [
+  "fullerton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "fullerton-handbook-ethical-theory": [
+   6463,
+   "A Handbook of Ethical Theory"
+  ],
+  "fullerton-introduction-to-philosophy": [
+   16406,
+   "An Introduction to Philosophy"
+  ],
+  "fullerton-sameness-and-identity": [
+   57998,
+   "On Sameness and Identity"
+  ]
+ },
+ "internet_archive": {
+  "fullerton-spinozistic-immortality-1899": [
+   "onspinozisticimm00full",
+   "On Spinozistic Immortality (Pennsylvania, 1899)"
+  ],
+  "fullerton-system-of-metaphysics-1904": [
+   "systemofmetaphys00full",
+   "A System of Metaphysics (Macmillan, 1904)"
+  ],
+  "fullerton-world-we-live-in-1912": [
+   "worldweliveinor01fullgoog",
+   "The World We Live In (Macmillan, 1912)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "fullerton-handbook-ethical-theory": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fullerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fullerton-introduction-to-philosophy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fullerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fullerton-sameness-and-identity": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fullerton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fullerton-spinozistic-immortality-1899": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fullerton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fullerton-system-of-metaphysics-1904": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fullerton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fullerton-world-we-live-in-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fullerton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

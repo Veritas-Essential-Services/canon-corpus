@@ -1,0 +1,53 @@
+{
+ "_about": "Arthur Ransome (1884-1967), the Swallows and Amazons series. Ransome died in 1967, so in life+70 countries (the UK, the EU) none of the twelve books is public domain until 1 January 2038. In the United States a book published 1927-1977 is protected for 95 years from publication, so each book enters the US public domain on 1 January of its publication year + 96. Only book 1, Swallows and Amazons (Cape, August 1930), is US public domain today (since 2026-01-01); it is held here, flagged US-only. Books 2-12 are listed under _excluded with the date each becomes US public domain. Original text by the author, not a translation.",
+ "_name_words": [
+  "swallows",
+  "amazons",
+  "ransome"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ransome-swallows-and-amazons-1930": [
+   "swallows-and-amazons",
+   "Swallows and Amazons (London: Jonathan Cape; first published August 1930; this scan is the twenty-third impression, February 1946, of the new illustrated edition)",
+   "Swallows_and_Amazons_djvu.txt",
+   "by Arthur Ransome"
+  ]
+ },
+ "_surname": [
+  "ransome"
+ ],
+ "_translators": {},
+ "_identity_checked": {},
+ "_rights_checked": {
+  "ransome-swallows-and-amazons-1930": "Title page read 2026-10-10: 'London - JONATHAN CAPE - Toronto. FIRST PUBLISHED AUGUST 1930. NEW ILLUSTRATED EDITION 1931 ... TWENTY-THIRD IMPRESSION FEBRUARY 1946', 'Illustrated by the Author'. The text is Ransome's 1930 book, US public domain since 2026-01-01 (published 1930, 95-year term). US ONLY: Ransome died 1967, so it is under copyright in the UK and other life+70 countries until 2038. Two caveats awaiting Adam (DIGEST-B): this is a later printing and the text has not been collated against a 1930 copy; and Ransome's own drawings, whose captions may appear in the OCR, date from the 1938 edition, so those captions are not yet US public domain. Stated by hand because the gate is fail-closed at 1930."
+ },
+ "_excluded": {
+  "ransome-swallowdale": "Swallowdale (Cape, 1931): not yet public domain. US public domain on 2027-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-peter-duck": "Peter Duck (Cape, 1932): not yet public domain. US public domain on 2028-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-winter-holiday": "Winter Holiday (Cape, 1933): not yet public domain. US public domain on 2029-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-coot-club": "Coot Club (Cape, 1934): not yet public domain. US public domain on 2030-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-pigeon-post": "Pigeon Post (Cape, 1936): not yet public domain. US public domain on 2032-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-we-didnt-mean-to-go-to-sea": "We Didn't Mean to Go to Sea (Cape, 1937): not yet public domain. US public domain on 2033-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-secret-water": "Secret Water (Cape, 1939): not yet public domain. US public domain on 2035-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-the-big-six": "The Big Six (Cape, 1940): not yet public domain. US public domain on 2036-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-missee-lee": "Missee Lee (Cape, 1941): not yet public domain. US public domain on 2037-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-the-picts-and-the-martyrs": "The Picts and the Martyrs (Cape, 1943): not yet public domain. US public domain on 2039-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright.",
+  "ransome-great-northern": "Great Northern? (Cape, 1947): not yet public domain. US public domain on 2043-01-01; UK/life+70 on 2038-01-01. Proofread text exists at fadedpage.com (Canada, life+50) but must not be taken while it is under US copyright."
+ },
+ "_checks": {
+  "ransome-swallows-and-amazons-1930": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ransome",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-10: 'London - JONATHAN CAPE - Toronto. FIRST PUBLISHED AUGUST 1930. NEW ILLUSTRATED EDITION 1931 ... TWENTY-THIRD IMPRESSION FEBRUARY 1946', 'Illustrated by the Author'. The text is Ransome's 1930 book, US public domain since 2026-01-01 (published 1930, 95-year term). US ONLY: Ransome died 1967, so it is under copyright in the UK and other life+70 countries until 2038. Two caveats awaiting Adam (DIGEST-B): this is a later printing and the text has not been collated against a 1930 copy; and Ransome's own drawings, whose captions may appear in the OCR, date from the 1938 edition, so those captions are not yet US public domain. Stated by hand because the gate is fail-closed at 1930."
+  }
+ }
+}

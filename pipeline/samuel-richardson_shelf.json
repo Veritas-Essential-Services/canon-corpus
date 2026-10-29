@@ -1,0 +1,205 @@
+{
+ "_about": "Samuel Richardson's novels (Pamela, Clarissa, Sir Charles Grandison): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Samuel Richardson",
+ "_name_words": [
+  "richardson"
+ ],
+ "_surname": [
+  "samuel richardson"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "srichardson-pamela-or-virtue-rewarded": [
+   6124,
+   "Pamela, or Virtue Rewarded",
+   {
+    "contents_only": true
+   }
+  ],
+  "srichardson-clarissa-harlowe": [
+   9296,
+   "Clarissa Harlowe; or the history of a young lady — Volume 1"
+  ],
+  "srichardson-clarissa-harlowe-9798": [
+   9798,
+   "Clarissa Harlowe; or the history of a young lady — Volume 2"
+  ],
+  "srichardson-clarissa-harlowe-9881": [
+   9881,
+   "Clarissa Harlowe; or the history of a young lady — Volume 3"
+  ],
+  "srichardson-clarissa-harlowe-10462": [
+   10462,
+   "Clarissa Harlowe; or the history of a young lady — Volume 4"
+  ],
+  "srichardson-clarissa-harlowe-10799": [
+   10799,
+   "Clarissa Harlowe; or the history of a young lady — Volume 5"
+  ],
+  "srichardson-clarissa-harlowe-11364": [
+   11364,
+   "Clarissa Harlowe; or the history of a young lady — Volume 6",
+   {
+    "contents_only": true
+   }
+  ],
+  "srichardson-clarissa-harlowe-11889": [
+   11889,
+   "Clarissa Harlowe; or the history of a young lady — Volume 7"
+  ],
+  "srichardson-clarissa-harlowe-12180": [
+   12180,
+   "Clarissa Harlowe; or the history of a young lady — Volume 8"
+  ],
+  "srichardson-clarissa-harlowe-12398": [
+   12398,
+   "Clarissa Harlowe; or the history of a young lady — Volume 9"
+  ],
+  "srichardson-pamela-volume-ii": [
+   12958,
+   "Pamela, Volume II"
+  ],
+  "srichardson-history-of-sir-charles-grandison-volume-4-of-7": [
+   13884,
+   "The History of Sir Charles Grandison, Volume 4 (of 7)"
+  ],
+  "srichardson-samuel-richardsons-introduction-to-pamela": [
+   24860,
+   "Samuel Richardson's Introduction to Pamela"
+  ],
+  "srichardson-clarissa": [
+   29964,
+   "Clarissa"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "srichardson-pamela-or-virtue-rewarded": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-9798": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-9881": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-10462": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-10799": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-11364": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-11889": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-12180": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa-harlowe-12398": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-pamela-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-history-of-sir-charles-grandison-volume-4-of-7": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-samuel-richardsons-introduction-to-pamela": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "srichardson-clarissa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel richardson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "_about": "Warner Fite (1867-1955), American ethical individualist (Indiana, Princeton). Raw IA OCR: An Introductory Study of Ethics (New York: Longmans, 1903), clean 0.94; Individualism, four lectures on the significance of consciousness for social relations (Longmans, 1911), clean 0.95; Moral Philosophy, the critical view of life (New York: Dial Press, 1925), clean 0.93; The Living Mind, essays on the significance of consciousness (New York: Dial Press, copyright 1930), clean 0.93. US public domain. No uids minted.",
+ "_author": "Warner Fite",
+ "_name_words": [
+  "warner",
+  "fite"
+ ],
+ "_surname": [
+  "fite"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fite-introductory-study-of-ethics-1903": [
+   "introductorystud00fit",
+   "An Introductory Study of Ethics (Longmans, 1903)"
+  ],
+  "fite-individualism-1911": [
+   "cu31924032444485",
+   "Individualism (Longmans, 1911)"
+  ],
+  "fite-moral-philosophy-1925": [
+   "moralphilosophyc0000warn",
+   "Moral Philosophy (Dial Press, 1925)"
+  ],
+  "fite-living-mind-1930": [
+   "livingmindessays00fite",
+   "The Living Mind (Dial Press, 1930)"
+  ]
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "fite-living-mind-1930": "Title page and verso read 2026-10-18: 'Lincoln Mac Veagh, The Dial Press, New York', 'Copyright, 1930'; library stamp May 1930. Published 1930, so US public domain from 1 January 2026."
+ },
+ "_checks": {
+  "fite-introductory-study-of-ethics-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fite",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "fite-individualism-1911": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fite-moral-philosophy-1925": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fite",
+   "identity": "ok",
+   "ia_rights": "ok: published 1925",
+   "ia_date": "1925",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "fite-living-mind-1930": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "fite",
+   "identity": "ok",
+   "ia_rights": "CHECK: published 1930",
+   "ia_date": "1930",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page and verso read 2026-10-18: 'Lincoln Mac Veagh, The Dial Press, New York', 'Copyright, 1930'; library stamp May 1930. Published 1930, so US public domain from 1 January 2026."
+  }
+ },
+ "_identity_checked": {
+  "fite-individualism-1911": {
+   "author": "Warner Fite (title page OCR reads 'FIXE, Ph.D., Professor of Philosophy in Indiana University'; Longmans, Green, New York, 1911)"
+  }
+ }
+}

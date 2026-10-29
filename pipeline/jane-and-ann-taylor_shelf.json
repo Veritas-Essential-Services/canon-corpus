@@ -1,0 +1,34 @@
+{
+ "_about": "Ann and Jane Taylor's Rhymes for the Nursery (this printing 1831). City Scenes (PG 38612) and Little Ann (PG 42947) have no plain-text file at Gutenberg. Gutenberg catalogue: Ann Taylor 1782-1866, Jane Taylor 1783-1824. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Ann and Jane Taylor",
+ "_name_words": [
+  "nursery"
+ ],
+ "_surname": [
+  "ann taylor",
+  "jane taylor"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "taylors-rhymes-for-the-nursery": [
+   77549,
+   "Rhymes for the Nursery",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "taylors-rhymes-for-the-nursery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ann taylor",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

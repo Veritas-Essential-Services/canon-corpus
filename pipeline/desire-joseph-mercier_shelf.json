@@ -1,0 +1,241 @@
+{
+ "_about": "Public-domain Cardinal Désiré-Joseph Mercier (1851-1926, Archbishop of Malines, founder of the Louvain neo-Thomist school) in English for the Word Hoard: A Manual of Modern Scholastic Philosophy, tr. T. L. and S. A. Parker (2 vols, 1916-1917), his Conferences and Retreat to his priests, tr. J. M. O'Kavanagh, the Pastorals, Letters and Allocutions of 1914-1917, his psychology and logic in English, Modernism (1910), and his wartime letters, from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mercier"
+ ],
+ "_surname": [
+  "mercier",
+  "cardinal mercier",
+  "d. mercier"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mercier-manual-scholastic-1": [
+   "amanualofmoderns01mercuoft",
+   "A Manual of Modern Scholastic Philosophy, vol. I, tr. T. L. Parker and S. A. Parker (London: Kegan Paul; St. Louis: B. Herder, 1916)"
+  ],
+  "mercier-manual-scholastic-2": [
+   "amanualofmoderns02mercuoft",
+   "A Manual of Modern Scholastic Philosophy, vol. II, tr. T. L. Parker and S. A. Parker (London: Kegan Paul; St. Louis: B. Herder, 1917)"
+  ],
+  "mercier-conferences": [
+   "cardinalmerciers00mercuoft",
+   "Cardinal Mercier's Conferences delivered to his Seminarists at Mechlin in 1907, tr. J. M. O'Kavanagh (London: R. & T. Washbourne, 1910)"
+  ],
+  "mercier-retreat": [
+   "cardinalmerc00mercuoft",
+   "Cardinal Mercier's Retreat to his Priests, tr. J. M. O'Kavanagh (Bruges: Ch. Beyaert, 1912)"
+  ],
+  "mercier-pastorals-1914-1917": [
+   "cardinalmercier00mercuoft",
+   "Cardinal Mercier: Pastorals, Letters, Allocutions 1914-1917, sketch by Joseph F. Stillemans (New York: P. J. Kenedy & Sons, 1917)"
+  ],
+  "mercier-origins-psychology": [
+   "originsofcontemp00mercuoft",
+   "The Origins of Contemporary Psychology, tr. W. H. Mitchell (New York: P. J. Kenedy & Sons, 1918)"
+  ],
+  "mercier-experimental-psychology": [
+   "relationofexperi00merc",
+   "The Relation of Experimental Psychology to Philosophy, tr. Edmund J. Wirth (New York, Cincinnati, Chicago: Benziger Brothers, 1902)"
+  ],
+  "mercier-modernism": [
+   "modernism00mercuoft",
+   "Modernism, tr. Marian Lindsay (London: Burns and Oates, 1910)"
+  ],
+  "mercier-elements-logic": [
+   "elementsoflogic00merc",
+   "Elements of Logic, third edition, tr. Ewan Macpherson (New York: Manhattanville Press, 1912)"
+  ],
+  "mercier-patriotism-endurance": [
+   "pastoralletterof00mercrich",
+   "Pastoral Letter, Christmas 1914 (Patriotism and Endurance), official translation (London: Burns & Oates; title page undated)"
+  ],
+  "mercier-shepherd-among-wolves": [
+   "shepherdamongwol00mercrich",
+   "A Shepherd among Wolves: War-Time Letters, selected by Arthur Boutwood (London: The Faith Press; title page undated, catalogued 1919)"
+  ],
+  "mercier-own-story": [
+   "cardinalmerciers01merc",
+   "Cardinal Mercier's Own Story, introduction by Fernand Mayence (New York: George H. Doran; title page undated, copyright 1920)"
+  ]
+ },
+ "_alternates": {
+  "mercier-copies": "Other copies of the Manual, Conferences, Pastorals and Origins; An Appeal to Truth (with the Belgian bishops)"
+ },
+ "_excluded": {
+  "mercier-reprints": "1921-1938 reprints of the Manual",
+  "mercier-others": "French editions; Tyrrell's Medievalism, a reply to him; the Belgian bishops' collective reports"
+ },
+ "_identity_checked": {
+  "mercier-experimental-psychology": "title page read: 'Mgr. Désiré Mercier' (OCR 'desire merger')"
+ },
+ "_rights_checked": {
+  "mercier-manual-scholastic-1": "title page read: 'By Cardinal Mercier and Professors of the Higher Institute of Philosophy, Louvain': a co-authored course",
+  "mercier-pastorals-1914-1917": "title page read: no translator named (the Christmas 1914 letter, the Shepherd among Wolves and the Own Story likewise)"
+ },
+ "_pending": {},
+ "_translators": {
+  "mercier-manual-scholastic-1": "parker",
+  "mercier-manual-scholastic-2": "parker",
+  "mercier-conferences": "o'kavanagh",
+  "mercier-retreat": "o'kavanagh",
+  "mercier-origins-psychology": "mitchell",
+  "mercier-experimental-psychology": "wirth",
+  "mercier-modernism": "lindsay",
+  "mercier-elements-logic": "macpherson"
+ },
+ "_checks": {
+  "mercier-manual-scholastic-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "parker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1916-1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'By Cardinal Mercier and Professors of the Higher Institute of Philosophy, Louvain': a co-authored course"
+  },
+  "mercier-manual-scholastic-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "parker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1916-1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mercier-conferences": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "o'kavanagh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mercier-retreat": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "o'kavanagh",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mercier-pastorals-1914-1917": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no translator named (the Christmas 1914 letter, the Shepherd among Wolves and the Own Story likewise)"
+  },
+  "mercier-origins-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "mitchell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mercier-experimental-psychology": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "wirth",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mercier-modernism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "lindsay",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mercier-elements-logic": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "translator_claimed": "macpherson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mercier-patriotism-endurance": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mercier-shepherd-among-wolves": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "[1919]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mercier-own-story": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mercier",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

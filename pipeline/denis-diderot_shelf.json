@@ -1,0 +1,58 @@
+{
+ "_about": "Denis Diderot (1713-1784), philosopher and editor of the Encyclopédie: Early Philosophical Works (Philosophic Thoughts, Letter on the Blind with its Addition, Letter on the Deaf and Dumb), translated and edited by Margaret Jourdain (Chicago and London: Open Court, 1916), raw IA OCR, clean 0.91; The Paradox of Acting, translated with annotations by Walter Herries Pollock, with a preface by Henry Irving (London: Chatto & Windus, 1883), raw IA OCR, clean 0.91. Not taken: Francis Birrell's Dialogues (1927), already on the broadway-library shelf. US public domain. No uids minted.",
+ "_author": "Denis Diderot",
+ "_name_words": [
+  "denis",
+  "diderot"
+ ],
+ "_surname": [
+  "diderot"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "diderot-early-philosophical-works-jourdain-1916": [
+   "earlyphilosophic00dide",
+   "Early Philosophical Works, tr. Margaret Jourdain (Open Court, 1916)",
+   "tr. Margaret Jourdain"
+  ],
+  "diderot-paradox-of-acting-pollock-1883": [
+   "cu31924027175961",
+   "The Paradox of Acting, tr. Walter Herries Pollock (Chatto & Windus, 1883)",
+   "tr. Walter Herries Pollock"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "diderot-early-philosophical-works-jourdain-1916": "Jourdain",
+  "diderot-paradox-of-acting-pollock-1883": "Pollock"
+ },
+ "_checks": {
+  "diderot-early-philosophical-works-jourdain-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "diderot",
+   "translator_claimed": "Jourdain",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "diderot-paradox-of-acting-pollock-1883": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "diderot",
+   "translator_claimed": "Pollock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

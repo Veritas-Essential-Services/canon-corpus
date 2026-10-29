@@ -1,0 +1,311 @@
+{
+ "_about": "Mary Johnston's historical novels of Virginia",
+ "_author": "Mary Johnston",
+ "_name_words": [
+  "johnston"
+ ],
+ "_surname": [
+  "mary johnston"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mjohnston-1492": [
+   1692,
+   "1492"
+  ],
+  "mjohnston-to-have-and-to-hold": [
+   2807,
+   "To Have and to Hold"
+  ],
+  "mjohnston-pioneers-of-the-old-south": [
+   2898,
+   "Pioneers of the Old South: A Chronicle of English Colonial Beginnings"
+  ],
+  "mjohnston-sir-mortimer": [
+   13812,
+   "Sir Mortimer: A Novel"
+  ],
+  "mjohnston-audrey": [
+   14513,
+   "Audrey"
+  ],
+  "mjohnston-lewis-rand": [
+   14697,
+   "Lewis Rand",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjohnston-foes": [
+   16554,
+   "Foes"
+  ],
+  "mjohnston-prisoners-of-hope": [
+   21886,
+   "Prisoners of Hope: A Tale of Colonial Virginia",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjohnston-long-roll": [
+   22066,
+   "The Long Roll",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjohnston-by-order-of-the-company": [
+   45721,
+   "By order of the company",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjohnston-old-dominion": [
+   48258,
+   "The Old Dominion"
+  ],
+  "mjohnston-hagar": [
+   49772,
+   "Hagar"
+  ],
+  "mjohnston-silver-cross": [
+   50557,
+   "Silver Cross"
+  ],
+  "mjohnston-cease-firing": [
+   52154,
+   "Cease firing",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjohnston-witch": [
+   53109,
+   "The Witch"
+  ],
+  "mjohnston-fortunes-of-garin": [
+   53394,
+   "The Fortunes of Garin",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjohnston-goddess-of-reason": [
+   53817,
+   "The Goddess of Reason: A Drama in Five Acts"
+  ],
+  "mjohnston-sweet-rocket": [
+   56101,
+   "Sweet Rocket"
+  ],
+  "mjohnston-wanderers": [
+   57496,
+   "The Wanderers",
+   {
+    "contents_only": true
+   }
+  ],
+  "mjohnston-michael-forth": [
+   79418,
+   "Michael Forth"
+  ],
+  "mjohnston-slave-ship": [
+   79439,
+   "The slave ship"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "mjohnston-1492": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-to-have-and-to-hold": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-pioneers-of-the-old-south": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-sir-mortimer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-audrey": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-lewis-rand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-foes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-prisoners-of-hope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-long-roll": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-by-order-of-the-company": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-old-dominion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-hagar": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-silver-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-cease-firing": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-witch": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-fortunes-of-garin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-goddess-of-reason": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-sweet-rocket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-wanderers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-michael-forth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mjohnston-slave-ship": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mary johnston",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

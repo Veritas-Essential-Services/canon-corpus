@@ -1,0 +1,204 @@
+{
+ "_about": "Carl Ewald's nature fairy tales in English: The Old Willow Tree (first published October, 1921), The Pond (1922), Two-Legs (translator's note dated 2 September, 1921), The Spider (1907) and The Four Seasons (1913), all translated by Alexander Teixeira de Mattos (the songs in The Four Seasons put into verse by Osman Edwards), and The Queen Bee (1908 edition), translated by G. C. Moore Smith. His adult books (My Little Boy, The Old Room) are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Carl Ewald",
+ "_name_words": [
+  "ewald"
+ ],
+ "_surname": [
+  "carl ewald"
+ ],
+ "_translators": {
+  "ewald-old-willow-tree": "Teixeira de Mattos",
+  "ewald-pond": "Teixeira de Mattos",
+  "ewald-two-legs": "Teixeira de Mattos",
+  "ewald-spider": "Teixeira de Mattos",
+  "ewald-four-seasons": "Teixeira de Mattos",
+  "ewald-queen-bee": "Moore Smith"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "ewald-old-willow-tree": [
+   31167,
+   "The Old Willow Tree, and Other Stories",
+   {
+    "levels": [
+     {
+      "re": "(?:DEAR CHRISTABEL,|CHAPTER I _Page_)$|(?i:[\\W_]*(?:The[\\W_]*Wood[\\W_]*and[\\W_]*the[\\W_]*Heath|The[\\W_]*Beech[\\W_]*and[\\W_]*the[\\W_]*Oak|Somewhere[\\W_]*in[\\W_]*the[\\W_]*Wood|The[\\W_]*Old[\\W_]*Willow[\\W_]*tree|The[\\W_]*Lilac[\\W_]*bush|The[\\W_]*Mistletoe|The[\\W_]*Anemones|The[\\W_]*Cousins|The[\\W_]*Weeds|The[\\W_]*End)[\\W_]*)$",
+      "caption": true,
+      "label": {
+       "DEAR CHRISTABEL": "Dedication",
+       "CHAPTER I _Page_": "Contents"
+      },
+      "keep": false
+     },
+     {
+      "re": "(?:\\d+|I)$",
+      "number_repeats": true
+     }
+    ],
+    "start": "THE ROYAL ROAD LIBRARY$",
+    "front": true
+   }
+  ],
+  "ewald-pond": [
+   31708,
+   "The Pond",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I$",
+    "front": true
+   }
+  ],
+  "ewald-two-legs": [
+   65029,
+   "Two-Legs",
+   {
+    "levels": [
+     {
+      "re": "(?!CONTENTS$|LIST OF ILLUSTRATIONS$)[A-Z][^a-z\\d]+$"
+     },
+     {
+      "re": "\\d+$"
+     }
+    ],
+    "start": "PROLOGUE$",
+    "front": true
+   }
+  ],
+  "ewald-spider": [
+   62910,
+   "The Spider, and Other Tales",
+   {
+    "levels": [
+     {
+      "re": "(?!PAGE$)[A-Z][^a-z\\d]+$"
+     },
+     {
+      "re": "\\d+$"
+     }
+    ],
+    "start": "CONTENTS$",
+    "front": true
+   }
+  ],
+  "ewald-four-seasons": [
+   62912,
+   "The Four Seasons",
+   {
+    "levels": [
+     {
+      "re": "TRANSCRIBER’S NOTES:$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+$",
+      "title_next": true
+     },
+     {
+      "re": "[A-Z][^a-z\\d]+$"
+     }
+    ],
+    "start": "PROLOGUE$",
+    "front": true
+   }
+  ],
+  "ewald-queen-bee": [
+   40553,
+   "The Queen Bee, and Other Nature Stories",
+   {
+    "levels": [
+     {
+      "re": "_A DEDICATION\\._$|(?i:[\\W_]*(?:The[\\W_]*Dragon[\\W_]*Fly[\\W_]*and[\\W_]*the[\\W_]*Water[\\W_]*lily|The[\\W_]*Beech[\\W_]*and[\\W_]*the[\\W_]*Oak|The[\\W_]*Queen[\\W_]*Bee|The[\\W_]*Anemones|The[\\W_]*Sparrow|The[\\W_]*Weeds|The[\\W_]*Mist)[\\W_]*)$",
+      "label": {
+       "_A DEDICATION": "Dedication"
+      }
+     }
+    ],
+    "start": "_A DEDICATION\\._$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ewald-adult": "My Little Boy (35543) and The Old Room (62883): not stories for children"
+ },
+ "_checks": {
+  "ewald-old-willow-tree": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carl ewald",
+   "translator_claimed": "Teixeira de Mattos",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos",
+   "translator_match": true
+  },
+  "ewald-pond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carl ewald",
+   "translator_claimed": "Teixeira de Mattos",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos",
+   "translator_match": true
+  },
+  "ewald-two-legs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carl ewald",
+   "translator_claimed": "Teixeira de Mattos",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos",
+   "translator_match": true
+  },
+  "ewald-spider": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carl ewald",
+   "translator_claimed": "Teixeira de Mattos",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Teixeira de Mattos",
+   "translator_match": true
+  },
+  "ewald-four-seasons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carl ewald",
+   "translator_claimed": "Teixeira de Mattos",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Osman Edwards; Alexander Teixeira de Mattos",
+   "translator_match": true
+  },
+  "ewald-queen-bee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "carl ewald",
+   "translator_claimed": "Moore Smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "G. C. Moore Smith",
+   "translator_match": true
+  }
+ }
+}

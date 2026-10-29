@@ -1,0 +1,114 @@
+{
+ "_about": "Public-domain Edward Reynolds (1599-1676, Westminster Assembly divine, later Bishop of Norwich) for the Word Hoard: the Whole Works (London: Holdsworth, 1826, 6 vols, with a memoir by Alexander Chalmers), raw Internet Archive OCR from Princeton scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "reynolds",
+  "edward"
+ ],
+ "_surname": [
+  "reynolds"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ereynolds-works-1": [
+   "wholeworksofrigh01reyn",
+   "The Whole Works of the Right Rev. Edward Reynolds, vol. 1 (London: Holdsworth, 1826)"
+  ],
+  "ereynolds-works-2": [
+   "wholeworksofrigh02reyn",
+   "The Whole Works of the Right Rev. Edward Reynolds, vol. 2 (London: Holdsworth, 1826)"
+  ],
+  "ereynolds-works-3": [
+   "wholeworksofrigh03reyn",
+   "The Whole Works of the Right Rev. Edward Reynolds, vol. 3 (London: Holdsworth, 1826)"
+  ],
+  "ereynolds-works-4": [
+   "wholeworksofrigh04reyn",
+   "The Whole Works of the Right Rev. Edward Reynolds, vol. 4 (London: Holdsworth, 1826)"
+  ],
+  "ereynolds-works-5": [
+   "wholeworksofrigh05reyn",
+   "The Whole Works of the Right Rev. Edward Reynolds, vol. 5 (London: Holdsworth, 1826)"
+  ],
+  "ereynolds-works-6": [
+   "wholeworksofrigh06reyn",
+   "The Whole Works of the Right Rev. Edward Reynolds, vol. 6 (London: Holdsworth, 1826)"
+  ]
+ },
+ "_alternates": {
+  "wholeworksright00chalgoog (vol. 1, Google)": "Another scan of vol. 1.",
+  "explicationofhun00reyn (1837)": "A separate printing of the Explication of Psalm 110."
+ },
+ "_excluded": {
+  "expositionofprop00burr": "Jeremiah Burroughs's Hosea, which Reynolds only completed in part; belongs on the Burroughs shelf."
+ },
+ "_checks": {
+  "ereynolds-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reynolds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ereynolds-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reynolds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ereynolds-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reynolds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ereynolds-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reynolds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ereynolds-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reynolds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ereynolds-works-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "reynolds",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

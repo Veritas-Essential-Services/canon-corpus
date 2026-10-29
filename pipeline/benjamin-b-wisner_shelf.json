@@ -1,0 +1,134 @@
+{
+ "_about": "Public-domain Benjamin B. Wisner, pastor of the Old South Church, Boston, and secretary of the American Board, for the Word Hoard: his funeral sermons for William and Miriam Phillips, the Memoirs of Mrs. Susan Huntington, The Proper Mode of Conducting Missions to the Heathen, The History of the Old South Church, and sermons on Sabbath schools and on religion and liberty. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 125 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "benjamin b. wisner",
+  "benjamin blydenburg wisner",
+  "b. b. wisner",
+  "wisner"
+ ],
+ "_surname": [
+  "wisner"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wisner-miriam-phillips": [
+   "sermonoccasioned00wisn",
+   "A sermon occasioned by the death of Mrs. Miriam Phillips, consort of His Honor William Phillips, delivered on the 18th of May, being the Sabbath after the funeral (Cambridge : Printed by Hilliard & Metcalf, 1823)"
+  ],
+  "wisner-susan-huntington": [
+   "memoirsoflatemrs00wisn",
+   "Memoirs of the late Mrs. Susan Huntington, of Boston, Mass., consisting principally of extracts from her journal and letters; with the sermon occasioned by her death (Boston, Crocker & Brewster, 1826)"
+  ],
+  "wisner-william-phillips": [
+   "sermonoccasioned01wisn",
+   "A sermon occasioned by the death of the Hon. William Phillips : preached on the third of June, 1827, being the Sabbath after the funeral (Boston : Hilliard, Gray, Little, and Wilkins, 1827)"
+  ],
+  "wisner-missions": [
+   "propermodeofcond00wisn",
+   "The proper mode of conducting missions to the heathen : a sermon delivered before the Society for Propagating the Gospel among the Indians and Others in North America, November 5, 1829 (Boston : Putnam & Hunt, 1829)"
+  ],
+  "wisner-old-south": [
+   "historyofoldsout0000wisn",
+   "The history of the Old South Church in Boston : in four sermons, delivered May 9, & 16, 1830, being the first and second Sabbaths after the completion of a century from the first occupancy of the present meeting house (Boston : Crocker & Brewster, 47, Washington Street, 1830)"
+  ],
+  "wisner-sabbath-schools": [
+   "benefitsclaimsof00wisn",
+   "Benefits and claims of sabbath schools. A sermon delivered in the Old South Church, in Boston, on the morning and afternoon of the sabbath, January 17, 1830 (Boston [Mass.] : Perkins & Marvin .., 1830)"
+  ],
+  "wisner-religion-liberty": [
+   "influenceofrelig00wisn",
+   "Influence of religion on liberty. A discourse in commemoration of the landing of the Pilgrims, delivered at Plymouth, December 22, 1830 (Boston : Perkins & Marvin, 1831)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "wisner-letters": "two short manuscript letters",
+  "wisner-missions-cihm": "cihm_42798, a second scan of the missions sermon",
+  "wisner-others": "the Pentateuch studies are by Benjamin Wisner Bacon; the Hanover Church review is by Lyman Beecher"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wisner-miriam-phillips": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wisner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wisner-susan-huntington": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wisner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "wisner-william-phillips": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wisner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wisner-missions": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wisner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wisner-old-south": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wisner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wisner-sabbath-schools": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wisner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wisner-religion-liberty": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "wisner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

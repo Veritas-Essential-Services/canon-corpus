@@ -1,0 +1,37 @@
+{
+ "_about": "Frances Browne's (1816-1879) Granny's Wonderful Chair, a frame of fairy tales. Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Frances Browne",
+ "_name_words": [
+  "granny",
+  "wonderful",
+  "chair"
+ ],
+ "_surname": [
+  "frances browne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "frances-browne-grannys-wonderful-chair": [
+   26018,
+   "Granny's Wonderful Chair",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "grannys-wonderful-chair-curtis": "PG 35820, a later illustrated edition of the same book with Dollie Radford's introduction; held once"
+ },
+ "_checks": {
+  "frances-browne-grannys-wonderful-chair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "frances browne",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

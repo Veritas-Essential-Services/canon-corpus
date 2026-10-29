@@ -1,0 +1,55 @@
+{
+ "_about": "TRANSLATOR SHELF: Abraham Hayward (1801-1884). Goethe's Faust, part 1, in prose (1833). PD. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "hayward"
+ ],
+ "_surname": [
+  "hayward"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hayward-faust-1866": [
+   "faustdramatichay00goetuoft",
+   "Faust, a dramatic poem, tr. Hayward (Ticknor 1866)"
+  ]
+ },
+ "titles": {
+  "hayward-faust-part-1": {
+   "source": "hayward-faust-1866",
+   "of": "Goethe",
+   "work": "Faust, Part I (prose)",
+   "translated": 1833,
+   "translator": "Abraham Hayward",
+   "scan_edition": "Ticknor and Fields, Boston 1866 (Toronto copy), raw OCR"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "hayward-faust-1866": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "hayward",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "hayward-faust-1866": {
+   "ia": "faustdramatichay00goetuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1833,
+    1838
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

@@ -1,0 +1,229 @@
+{
+ "_about": "O. Henry's (William Sydney Porter) story collections not already on another shelf (the reading-list o-henry shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "O. Henry",
+ "_name_words": [
+  "henry"
+ ],
+ "_surname": [
+  "o. henry"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ohenry-voice-of-the-city": [
+   1444,
+   "The Voice of the City: Further Stories of the Four Million"
+  ],
+  "ohenry-options": [
+   1583,
+   "Options"
+  ],
+  "ohenry-roads-of-destiny": [
+   1646,
+   "Roads of Destiny"
+  ],
+  "ohenry-heart-of-the-west": [
+   1725,
+   "Heart of the West"
+  ],
+  "ohenry-gentle-grafter": [
+   1805,
+   "The Gentle Grafter"
+  ],
+  "ohenry-strictly-business": [
+   2141,
+   "Strictly Business: More Stories of the Four Million"
+  ],
+  "ohenry-waifs-and-strays-part-1": [
+   2295,
+   "Waifs and strays [part 1]"
+  ],
+  "ohenry-four-million": [
+   2776,
+   "The Four Million"
+  ],
+  "ohenry-cabbages-and-kings": [
+   2777,
+   "Cabbages and Kings"
+  ],
+  "ohenry-sixes-and-sevens": [
+   2851,
+   "Sixes and Sevens"
+  ],
+  "ohenry-trimmed-lamp-and-other-stories-of-the-four-million": [
+   3707,
+   "The Trimmed Lamp, and Other Stories of the Four Million"
+  ],
+  "ohenry-rolling-stones": [
+   3815,
+   "Rolling Stones"
+  ],
+  "ohenry-gift-of-the-magi": [
+   7256,
+   "The Gift of the Magi"
+  ],
+  "ohenry-o-henry-encore": [
+   61701,
+   "O. Henry Encore"
+  ],
+  "ohenry-postscripts": [
+   61734,
+   "Postscripts"
+  ],
+  "ohenry-o-henryana": [
+   61755,
+   "O. Henryana: Seven Odds and Ends, Poetry and Short Stories"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59637": "PG 59637: Gutenberg's index of the author's works, not a book.",
+  "held-elsewhere": "PG 1595: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-13094": "PG 13094 Heart of the West [Annotated]: the Gutenberg header marks this annotated edition COPYRIGHTED; the rights gate refuses it."
+ },
+ "_checks": {
+  "ohenry-voice-of-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-options": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-roads-of-destiny": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-heart-of-the-west": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-gentle-grafter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-strictly-business": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-waifs-and-strays-part-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-four-million": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-cabbages-and-kings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-sixes-and-sevens": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-trimmed-lamp-and-other-stories-of-the-four-million": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-rolling-stones": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-gift-of-the-magi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-o-henry-encore": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-postscripts": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ohenry-o-henryana": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "o. henry",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

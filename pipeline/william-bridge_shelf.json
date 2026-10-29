@@ -1,0 +1,100 @@
+{
+ "_about": "Public-domain William Bridge (1600-1670, Independent divine, Westminster Assembly member, ejected from Great Yarmouth in 1662) for the Word Hoard: the Works, now first collected (London: Thomas Tegg, 1845, 5 vols), raw Internet Archive OCR from California scans. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "bridge",
+  "william"
+ ],
+ "_surname": [
+  "william bridge",
+  "mr. bridge",
+  "w. bridge"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "wbridge-works-1": [
+   "worksofrevwillia01bridiala",
+   "The Works of the Rev. William Bridge, vol. 1 (London: Tegg, 1845)"
+  ],
+  "wbridge-works-2": [
+   "worksofrevwillia02bridiala",
+   "The Works of the Rev. William Bridge, vol. 2 (London: Tegg, 1845)"
+  ],
+  "wbridge-works-3": [
+   "worksofrevwillia03bridiala",
+   "The Works of the Rev. William Bridge, vol. 3 (London: Tegg, 1845)"
+  ],
+  "wbridge-works-4": [
+   "worksofrevwillia04bridiala",
+   "The Works of the Rev. William Bridge, vol. 4 (London: Tegg, 1845)"
+  ],
+  "wbridge-works-5": [
+   "worksofrevwillia05bridiala",
+   "The Works of the Rev. William Bridge, vol. 5 (London: Tegg, 1845)"
+  ]
+ },
+ "_alternates": {
+  "theworksofrevbri00briduoft, theworksoftherev02, 03briduoft, bridgesworks04, 05briduoft": "Trinity College, Toronto scan of the same set.",
+  "twelveseveralbo00bridgoog (1654); twentyonesevera00bridgoog (1657)": "His own 17th-century collections.",
+  "refugecontaining00brid (1832); righteousmanshab00brid (1835)": "Separate printings of a treatise."
+ },
+ "_excluded": {},
+ "_checks": {
+  "wbridge-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william bridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbridge-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william bridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbridge-works-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william bridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbridge-works-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william bridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wbridge-works-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william bridge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

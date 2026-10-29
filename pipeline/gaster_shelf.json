@@ -1,0 +1,49 @@
+{
+ "_about": "Rumanian Bird and Beast Stories, rendered into English by Moses Gaster (1915). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Moses Gaster, tr.",
+ "_name_words": [
+  "gaster"
+ ],
+ "_surname": [
+  "moses gaster"
+ ],
+ "_translators": {
+  "gaster-rumanian-bird-and-beast-stories": "Gaster"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "gaster-rumanian-bird-and-beast-stories": [
+   43059,
+   "Rumanian Bird and Beast Stories",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|BIRD AND BEAST STORIES|APPENDIX [IVX]+|NOTES)\\.?$"
+     },
+     {
+      "re": "[IVXLC]+\\.(?: [AB]\\.)?$",
+      "title_next": true
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "gaster-rumanian-bird-and-beast-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "moses gaster",
+   "translator_claimed": "Gaster",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Moses Gaster",
+   "translator_match": true
+  }
+ }
+}

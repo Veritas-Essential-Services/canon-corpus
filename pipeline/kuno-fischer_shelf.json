@@ -1,0 +1,76 @@
+{
+ "_about": "Kuno Fischer (1824-1907) in English, raw IA OCR: Francis Bacon of Verulam, realistic philosophy and its age, tr. John Oxenford (London: Longman, 1857), A Commentary on Kant's Critick of the Pure Reason, tr. J. P. Mahaffy (London: Longmans, Green, 1866) and Descartes and his School, tr. J. P. Gordy, ed. Noah Porter (New York: Scribner, 1887). US public domain. No uids minted.",
+ "_author": "Kuno Fischer",
+ "_name_words": [
+  "kuno",
+  "fischer",
+  "professor"
+ ],
+ "_surname": [
+  "fischer",
+  "kuno fischer"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "fischer-oxenford-francis-bacon-1857": [
+   "baconofverulam00fiscuoft",
+   "Francis Bacon of Verulam: realistic philosophy and its age (London: Longman, 1857)",
+   "tr. John Oxenford"
+  ],
+  "fischer-mahaffy-commentary-on-kant-1866": [
+   "acommentaryonkan00fiscuoft",
+   "A Commentary on Kant's Critick of the Pure Reason (London: Longmans, Green, 1866)",
+   "tr. John Pentland Mahaffy"
+  ],
+  "fischer-gordy-descartes-and-his-school-1887": [
+   "cu31924028978595",
+   "Descartes and his School, ed. Noah Porter (New York: Scribner, 1887)",
+   "tr. J. P. Gordy"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "fischer-oxenford-francis-bacon-1857": "Oxenford",
+  "fischer-mahaffy-commentary-on-kant-1866": "Mahaffy"
+ },
+ "_checks": {
+  "fischer-oxenford-francis-bacon-1857": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fischer",
+   "translator_claimed": "Oxenford",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fischer-mahaffy-commentary-on-kant-1866": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fischer",
+   "translator_claimed": "Mahaffy",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fischer-gordy-descartes-and-his-school-1887": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "fischer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

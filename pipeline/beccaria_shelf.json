@@ -1,0 +1,42 @@
+{
+ "_about": "Cesare Beccaria (1738-1794) in English, raw IA OCR: An Essay on Crimes and Punishments, translated from the Italian, with a commentary attributed to Voltaire translated from the French, 4th ed. (London: F. Newbery, 1775; translator unnamed). US public domain. No uids minted.",
+ "_author": "Cesare Beccaria",
+ "_name_words": [
+  "cesare",
+  "marquis",
+  "marchese",
+  "beccaria",
+  "bonesana"
+ ],
+ "_surname": [
+  "beccaria"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "beccaria-crimes-and-punishments-1775": [
+   "essayoncrimespun00becc",
+   "An Essay on Crimes and Punishments, with a commentary attributed to Voltaire, 4th ed. (London: F. Newbery, 1775)",
+   "tr. anonymous"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "beccaria-crimes-and-punishments-1775": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1775",
+   "ia_date": "1775",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_identity_checked": {
+  "beccaria-crimes-and-punishments-1775": {
+   "author": "title page read 2026-10-17: 'An Essay on Crimes and Punishments, translated from the Italian; with a commentary attributed to Mons. de Voltaire, translated from the French. The fourth edition ... London: printed for F. Newbery ... MDCCLXXV'; the work was published anonymously and the book never prints Beccaria's name, so the surname test cannot see it (attribution standard)"
+  }
+ }
+}

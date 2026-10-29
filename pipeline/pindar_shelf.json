@@ -1,0 +1,181 @@
+{
+ "_about": "Pindar in English, translator per title. Ernest Myers, The Extant Odes (1874), clean Gutenberg. Dawson W. Turner's literal prose (Bohn, 1852) with Abraham Moore's metrical version appended, raw IA OCR (1872 reprint, the cleaner scan). Moore's Olympic and Pythian odes also exist as a c1903 Boston reprint; not taken, it duplicates the Bohn appendix. Also: F. A. Paley's prose (1868) and C. A. Wheelwright's verse (Valpy, 1830), raw IA OCR. Cary's Pindar (1833) is on lane C's cary shelf: cross-referenced, not fetched (a duplicate row added here on 2026-10-03 was withdrawn on review). The 1810 Suttaby edition (pindar-west-greene-pye-1810-v1/v2) is a three-hand set: West's odes and Dissertation with further odes by R. B. Greene and H. J. Pye; vol. I is mostly the Dissertation.",
+ "_name_words": [
+  "pindar",
+  "odes",
+  "olympic",
+  "pythian"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pindar-myers": [
+   10717,
+   "The Extant Odes of Pindar",
+   "tr. Ernest Myers"
+  ]
+ },
+ "internet_archive": {
+  "pindar-turner-moore": [
+   "odespindarliter00moorgoog",
+   "The Odes of Pindar, literally translated into English prose (Bohn; 1872 printing)",
+   "tr. Dawson W. Turner (prose) and Abraham Moore (verse)"
+  ],
+  "pindar-west-1749": [
+   "bim_eighteenth-century_odes-of-pindar-with-sev_pindar_1749",
+   "Odes of Pindar, with several other pieces in prose and verse, with a dissertation on the Olympick games (London, 1749)",
+   "tr. Gilbert West (verse; selected odes)"
+  ],
+  "pindar-laurent-prose-1824": [
+   "odespindarineng01pindgoog",
+   "The Odes of Pindar in English Prose, with West's Dissertation on the Olympic Games (Oxford: Munday and Slatter, 1824), 2 vols. in one scan",
+   "tr. Peter Edmund Laurent per the catalogue (not named on the title page)"
+  ],
+  "pindar-paley-1868": [
+   "bub_gb_z9lUAAAAcAAJ",
+   "The Odes of Pindar translated into English Prose, with brief explanatory notes and a preface (London: Williams and Norgate, 1868)",
+   "tr. F. A. Paley"
+  ],
+  "pindar-wheelwright-1830": [
+   "pindartrbycawhe00pindgoog",
+   "Pindar, translated (London: A. J. Valpy for Colburn and Bentley, 1830)",
+   "tr. C. A. Wheelwright"
+  ],
+  "pindar-west-greene-pye-1810-v1": [
+   "bub_gb_DYwO8aCM97YC",
+   "Odes of Pindar, translated from the Greek, with notes and illustrations, vol. I (West's Dissertation on the Olympic Games) (London: Suttaby, Evance and Hutchings, 1810)",
+   "tr. Gilbert West, R. B. Greene and H. J. Pye"
+  ],
+  "pindar-west-greene-pye-1810-v2": [
+   "bub_gb_rkvNgCnbfGQC",
+   "Odes of Pindar, translated from the Greek, with notes and illustrations, vol. II (the odes) (London: Suttaby, Evance and Hutchings, 1810)",
+   "tr. Gilbert West, R. B. Greene and H. J. Pye"
+  ]
+ },
+ "_cross_ref": {
+  "cary-pindar": "lane C, pipeline/cary_shelf.json (Cary, 1833)"
+ },
+ "_excluded": {
+  "Sandys, Loeb Pindar (1915)": "US PD by date but Greek facing; pending, like the other Loebs",
+  "odespindar00conggoog": "1852 first printing of the Turner/Moore Bohn; lower OCR quality than the 1872 reprint (clean-word 0.835 vs 0.872)",
+  "olympicpythianod00pindiala": "Moore's verse alone, c1903 reprint; duplicates the Bohn appendix",
+  "Six Olympic Odes of Pindar, being those omitted by Mr. West (London: Benjamin White, 1775)": "PD; the only scan found (IA bim_eighteenth-century_six-olympic-odes-of-pind_pindar_1775, ECCO) reads 0.760, under the bar; refused for OCR quality 2026-10-10. The translator is not named legibly in the OCR"
+ },
+ "_surname": [
+  "pindar",
+  "pindarus"
+ ],
+ "_translators": {
+  "pindar-myers": "Ernest Myers",
+  "pindar-turner-moore": "Dawson W. Turner",
+  "pindar-wheelwright-1830": "C. A. Wheelwright",
+  "pindar-west-greene-pye-1810-v1": "r. b. greene",
+  "pindar-west-greene-pye-1810-v2": "r. b. greene"
+ },
+ "_translator_unchecked": {
+  "pindar-west-1749": "the long-s OCR never prints Gilbert West's name; 'west' alone is a common word and proves nothing",
+  "pindar-laurent-prose-1824": "attributed by the catalogue; the title page names no translator",
+  "pindar-paley-1868": "title page OCRs the name as 'F. A. PA LET, M.A., editor and translator of Aeschylus' (Williams and Norgate, 1868); the claim is not matched as written"
+ },
+ "_checks": {
+  "pindar-myers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "Ernest Myers",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ernest Myers",
+   "translator_match": true
+  },
+  "pindar-turner-moore": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "Dawson W. Turner",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pindar-west-1749": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1749",
+   "ia_date": "1749",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pindar-laurent-prose-1824": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pindar-paley-1868": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pindar-wheelwright-1830": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "C. A. Wheelwright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pindar-west-greene-pye-1810-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "r. b. greene",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pindar-west-greene-pye-1810-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "pindar",
+   "translator_claimed": "r. b. greene",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_held": {
+  "pindar-cary-1833": "IA pindarinenglish00carygoog is already held on pipeline/cary_shelf.json (lane C) as cary-pindar; not refetched here"
+ }
+}

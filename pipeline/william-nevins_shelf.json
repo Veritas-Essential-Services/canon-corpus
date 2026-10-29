@@ -1,0 +1,100 @@
+{
+ "_about": "Public-domain William Nevins (1797-1835), Presbyterian minister of the First Presbyterian Church, Baltimore, for the Word Hoard: Practical Thoughts (1836), Thoughts on Popery (1836), Select Remains, with a memoir (1836), his Sermons (1837) and Earnest Appeals (1867). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 79 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "william nevins",
+  "rev. william nevins",
+  "w. nevins"
+ ],
+ "_surname": [
+  "william nevins",
+  "nevins"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "nevins-practical-thoughts": [
+   "practicalthought00nevi",
+   "Practical thoughts (New York, American Tract Society, 1836)"
+  ],
+  "nevins-thoughts-on-popery": [
+   "thoughtsonpopery00nevirich",
+   "Thoughts on popery / by Rev. William Nevins (New York : John S. Taylor, 1836)"
+  ],
+  "nevins-select-remains": [
+   "selectremainsofr00nevi",
+   "Select remains of the Rev. William Nevins : with a memoir (New York : J. S. Taylor, 1836)"
+  ],
+  "nevins-sermons": [
+   "sermons00nevi",
+   "Sermons (New York : John S. Taylor, 1837)"
+  ],
+  "nevins-earnest-appeals": [
+   "earnestappeals00nevigoog",
+   "Earnest appeals (catalogued 1867)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "nevins-practical-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william nevins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevins-thoughts-on-popery": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william nevins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevins-select-remains": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william nevins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevins-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william nevins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "nevins-earnest-appeals": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "nevins",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

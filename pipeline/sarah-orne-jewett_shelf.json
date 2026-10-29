@@ -1,0 +1,178 @@
+{
+ "_about": "Sarah Orne Jewett's Maine stories, sketches and novels: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Sarah Orne Jewett",
+ "_name_words": [
+  "jewett"
+ ],
+ "_surname": [
+  "sarah orne jewett"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sojewett-country-of-the-pointed-firs": [
+   367,
+   "The Country of the Pointed Firs"
+  ],
+  "sojewett-a-country-doctor-and-selected-stories-and-sketches": [
+   15294,
+   "A Country Doctor and Selected Stories and Sketches",
+   {
+    "contents_only": true
+   }
+  ],
+  "sojewett-deephaven-and-selected-stories-sketches": [
+   15985,
+   "Deephaven and Selected Stories & Sketches"
+  ],
+  "sojewett-queens-twin-and-other-stories": [
+   24822,
+   "The Queen's Twin and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "sojewett-betty-leicester": [
+   27923,
+   "Betty Leicester: A Story For Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "sojewett-life-of-nancy": [
+   31473,
+   "The Life of Nancy"
+  ],
+  "sojewett-strangers-and-wayfarers": [
+   31857,
+   "Strangers and Wayfarers",
+   {
+    "contents_only": true
+   }
+  ],
+  "sojewett-old-friends-and-new": [
+   32382,
+   "Old Friends and New",
+   {
+    "contents_only": true
+   }
+  ],
+  "sojewett-betty-leicesters-christmas": [
+   41831,
+   "Betty Leicester's Christmas"
+  ],
+  "sojewett-normans": [
+   44920,
+   "The Normans; told chiefly in relation to their conquest of England"
+  ],
+  "sojewett-tory-lover": [
+   51537,
+   "The Tory Lover"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-26407": "PG 26407 An Arrow in a Sunbeam: a many-author collection (Jewett, Frances Lee, C. S. Sleight).",
+  "pg-74909": "PG 74909, 74980 Best Stories (ed. Willa Cather, 1925): a selection of stories already on the shelf in their own books."
+ },
+ "_checks": {
+  "sojewett-country-of-the-pointed-firs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-a-country-doctor-and-selected-stories-and-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-deephaven-and-selected-stories-sketches": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-queens-twin-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-betty-leicester": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-life-of-nancy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-strangers-and-wayfarers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-old-friends-and-new": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-betty-leicesters-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-normans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sojewett-tory-lover": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "sarah orne jewett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

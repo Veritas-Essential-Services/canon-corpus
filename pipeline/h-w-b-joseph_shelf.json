@@ -1,0 +1,35 @@
+{
+ "_about": "Horace William Brindley Joseph (1867-1943), Oxford logician, fellow of New College. Raw IA OCR: An Introduction to Logic (Oxford: Clarendon Press, second edition revised, 1916; first edition 1906), clean 0.92. US public domain. No uids minted.",
+ "_author": "H. W. B. Joseph",
+ "_name_words": [
+  "horace",
+  "william",
+  "brindley",
+  "joseph"
+ ],
+ "_surname": [
+  "h. w. b. joseph"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "joseph-introduction-to-logic-1916": [
+   "introductiontolo00joseuoft",
+   "An Introduction to Logic (Clarendon, 1916)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "joseph-introduction-to-logic-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "h. w. b. joseph",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

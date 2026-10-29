@@ -1,0 +1,81 @@
+{
+ "_about": "Public-domain Jean Gerson (1363-1429), chancellor of the University of Paris, for the Word Hoard: The Snares of the Devil (1883, translated by \"Beta\"), the Practical Guide to Spiritual Prayer (1884, translated by H. Austin) and the Treatise on Bringing Children to Jesus Christ (translated by W. Whitty), from Internet Archive scans. Added 2026-10-18 by lane A, round 37 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gerson"
+ ],
+ "_surname": [
+  "gerson",
+  "john gerson",
+  "jean gerson"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gerson-snares-devil-1883": [
+   "snaresdeviltrby00gersgoog",
+   "The Snares of the Devil, tr. Beta (London and Derby: Thomas Richardson and Son, 1883)"
+  ],
+  "gerson-spiritual-prayer-1884": [
+   "PracticalGuideToSpiritualPrayer",
+   "Practical Guide to Spiritual Prayer, literally translated by the Rev. H. Austin (London and Derby: Thomas Richardson and Son, 1884)"
+  ],
+  "gerson-bringing-children": [
+   "treatiseonbringi00gers",
+   "A Treatise on Bringing Children to Jesus Christ, tr. W. Whitty (title page undated; catalogued Dublin: M. H. Gill & Son, 1899)"
+  ]
+ },
+ "_alternates": {
+  "gerson-copies": "CCEL gerson/snares (the same 1883 book); SnaresOfTheDevil (undated copy)"
+ },
+ "_excluded": {
+  "gerson-other": "Carnahan's French text edition (1917); Connolly (1928) and Figgis, books about him"
+ },
+ "_rights_checked": {
+  "gerson-snares-devil-1883": "title page read: \"translated by Beta\" (a pseudonym), London 1883",
+  "gerson-bringing-children": "title page read: Bringing Children to Jesus Christ, translated from the Latin of John Charlier Gerson by REV. W. TVHITTY [W. Whitty] (OCR garble), translator of \"Let us go to the Holy Table\"; no year on the title page, catalogued Dublin: M. H. Gill & Son, 1899 (the catalogue's language \"lat\" is wrong: the book is English)"
+ },
+ "_pending": {},
+ "_translators": {
+  "gerson-spiritual-prayer-1884": "austin"
+ },
+ "_checks": {
+  "gerson-snares-devil-1883": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: \"translated by Beta\" (a pseudonym), London 1883"
+  },
+  "gerson-spiritual-prayer-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gerson",
+   "translator_claimed": "austin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gerson-bringing-children": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gerson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Bringing Children to Jesus Christ, translated from the Latin of John Charlier Gerson by REV. W. TVHITTY [W. Whitty] (OCR garble), translator of \"Let us go to the Holy Table\"; no year on the title page, catalogued Dublin: M. H. Gill & Son, 1899 (the catalogue's language \"lat\" is wrong: the book is English)"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "_about": "Werner Sombart (1863-1941), German economist and historian of capitalism. Raw IA OCR: The Jews and Modern Capitalism, translated with notes by M. Epstein (New York: Dutton, 1913), clean 0.90; The Quintessence of Capitalism: a study of the history and psychology of the modern business man, translated and edited by M. Epstein (New York: Dutton, 1915), clean 0.90. Not here: Socialism and the Social Movement in the 19th Century (tr. Atterbury), already on lane C's singles-ideas-2 shelf. US public domain. No uids minted.",
+ "_author": "Werner Sombart",
+ "_name_words": [
+  "werner",
+  "sombart"
+ ],
+ "_surname": [
+  "sombart"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sombart-jews-and-modern-capitalism-1913": [
+   "jewsandmoderncap027918mbp",
+   "The Jews and Modern Capitalism (Dutton, 1913)",
+   "tr. M. Epstein"
+  ],
+  "sombart-quintessence-of-capitalism-1915": [
+   "quintessenceofca0000wern",
+   "The Quintessence of Capitalism (Dutton, 1915)",
+   "tr. M. Epstein"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "sombart-jews-and-modern-capitalism-1913": "epstein",
+  "sombart-quintessence-of-capitalism-1915": "epstein"
+ },
+ "_checks": {
+  "sombart-jews-and-modern-capitalism-1913": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sombart",
+   "translator_claimed": "epstein",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sombart-quintessence-of-capitalism-1915": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sombart",
+   "translator_claimed": "epstein",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

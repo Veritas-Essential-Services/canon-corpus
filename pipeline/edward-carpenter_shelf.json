@@ -1,0 +1,148 @@
+{
+ "_about": "Edward Carpenter (1844-1929), English socialist philosopher and early theorist of sexuality. Gutenberg: Civilisation, its Cause and Cure (1889); Sex-Love, and its Place in a Free Society (1894); Marriage in Free Society (1894); Love's Coming-of-Age (1896); The Intermediate Sex (1908); The Drama of Love and Death (1912); The Healing of Nations (1915); Never Again! (1916); My Days and Dreams (1916); Pagan and Christian Creeds (1920). His poetry (Towards Democracy) is left out of this shelf. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Edward Carpenter",
+ "_name_words": [
+  "edward",
+  "carpenter"
+ ],
+ "_surname": [
+  "edward carpenter"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "carpenter-civilisation-cause-and-cure": [
+   44094,
+   "Civilisation, its Cause and Cure (1889)"
+  ],
+  "carpenter-sex-love": [
+   37356,
+   "Sex-Love, and its Place in a Free Society (1894)"
+  ],
+  "carpenter-marriage-in-free-society": [
+   40209,
+   "Marriage in Free Society (1894)"
+  ],
+  "carpenter-loves-coming-of-age": [
+   63081,
+   "Love's Coming-of-Age (1896)"
+  ],
+  "carpenter-intermediate-sex": [
+   53763,
+   "The Intermediate Sex (1908)"
+  ],
+  "carpenter-drama-of-love-and-death": [
+   44883,
+   "The Drama of Love and Death (1912)"
+  ],
+  "carpenter-healing-of-nations": [
+   10097,
+   "The Healing of Nations (1915)"
+  ],
+  "carpenter-never-again": [
+   2990,
+   "Never Again! (1916)"
+  ],
+  "carpenter-my-days-and-dreams": [
+   78612,
+   "My Days and Dreams (1916)"
+  ],
+  "carpenter-pagan-and-christian-creeds": [
+   1561,
+   "Pagan and Christian Creeds (1920)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "carpenter-civilisation-cause-and-cure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-sex-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-marriage-in-free-society": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-loves-coming-of-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-intermediate-sex": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-drama-of-love-and-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-healing-of-nations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-never-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-my-days-and-dreams": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "carpenter-pagan-and-christian-creeds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward carpenter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "_about": "The Bookshelf for Boys and Girls (New York: The University Society, 1912, in twenty volumes and an index; two volumes are 1915 printings): stories, nature, history, things to make and do, and literature for children. Ten of the twenty-one volumes are here, from 1912-1915 scans, as raw Internet Archive OCR; The later revised editions (1945-1958 printings) carry new copyrighted matter and are not taken. Added 2026-10-23 at Adam's ask for old children's sets.",
+ "_author": "The University Society (publisher)",
+ "_name_words": [
+  "university",
+  "society",
+  "bookshelf",
+  "boys",
+  "girls"
+ ],
+ "_surname": [
+  "university society"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bookshelf-boys-girls-v06": [
+   "bookshelfforboys00univ6",
+   "The Bookshelf for Boys and Girls, volume 6: Book of Nature and Outdoor Life (Part II, as its title page reads) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v08": [
+   "bookshelfforboys00univ08",
+   "The Bookshelf for Boys and Girls, volume 8: Historic Tales and Golden Deeds (Part II) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v09": [
+   "bookshelfforboys00univ9",
+   "The Bookshelf for Boys and Girls, volume 9: Children's Book of Fact and Fancy (Part I) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v10": [
+   "bookshelfforboys00univ10",
+   "The Bookshelf for Boys and Girls, volume 10: Children's Book of Fact and Fancy (Part II) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v13": [
+   "bookshelfforboys00univ13",
+   "The Bookshelf for Boys and Girls, volume 13: Book of Nature and Outdoor Life (Part III) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v15": [
+   "bookshelfforboys00univ15",
+   "The Bookshelf for Boys and Girls, volume 15: Book of Wonders and Curious Things (Part I) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v18": [
+   "bookshelfforboys00univ019",
+   "The Bookshelf for Boys and Girls, volume 18: Historic Tales and Golden Deeds (Part IV) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v19": [
+   "bookshelfforboys19univ19",
+   "The Bookshelf for Boys and Girls, volume 19: Little Journeys into Bookland (Part I) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v20": [
+   "bookshelfforboys00univ20",
+   "The Bookshelf for Boys and Girls, volume 20: Little Journeys into Bookland (Part II) (The University Society, 1912)"
+  ],
+  "bookshelf-boys-girls-v21": [
+   "bookshelfforboys00univ21",
+   "The Bookshelf for Boys and Girls, volume 21: General Index (The University Society, 1912)"
+  ]
+ },
+ "_excluded": {
+  "bookshelf-boys-girls-v04": "IA bookshelfforboys00univ4, catalogued as volume 4: its OCR has no title page and never names the publisher, so which volume it is cannot be checked; left out (2026-10-23)."
+ },
+ "_held": {},
+ "_checks": {
+  "bookshelf-boys-girls-v06": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v08": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v09": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v10": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v13": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v15": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v18": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v19": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v20": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bookshelf-boys-girls-v21": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "university society",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "_about": "Public-domain R. A. Torrey (1856-1928, evangelist, first superintendent of the Moody Bible Institute) for the Word Hoard: How to Pray, The Person and Work of the Holy Spirit and Revival Addresses, clean from CCEL. Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "t/torrey",
+ "_name_words": [
+  "torrey",
+  "reuben"
+ ],
+ "_surname": [
+  "r. a. torrey",
+  "reuben a. torrey",
+  "reuben archer torrey",
+  "torrey"
+ ],
+ "_held": {},
+ "ccel": {
+  "torrey-pray": [
+   "pray",
+   "How to Pray",
+   ""
+  ],
+  "torrey-work-holy-spirit": [
+   "work_holy_spirit",
+   "The Person and Work of the Holy Spirit",
+   ""
+  ],
+  "torrey-revival": [
+   "revival",
+   "Revival Addresses",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {},
+ "_alternates": {},
+ "_excluded": {
+  "torrey-ttt": "Torrey's New Topical Textbook: a reference index of verses, not his prose"
+ },
+ "_checks": {
+  "torrey-pray": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "torrey-work-holy-spirit": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": false,
+   "ccel_print_source": "Grand Rapids: Zondervan Pub. House, 1974",
+   "ccel_print_source_check": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "torrey-revival": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "r. a. torrey",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": false,
+   "ccel_print_source": "Chicago, New York: Fleming H. Revell, 1903",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  }
+ }
+}

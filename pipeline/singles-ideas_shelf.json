@@ -1,0 +1,893 @@
+{
+ "_about": "SINGLE-TRANSLATION SHELF: one-off translations of philosophy, history, science and politics: Burckhardt's Civilisation of the Renaissance in Italy (Middlemore), Bergson's Creative Evolution (Mitchell), Amiel's Journal (Mrs Humphry Ward), Machiavelli's Discourses (Thomson), Kandinsky's Concerning the Spiritual in Art (Sadleir), Engels's Condition of the Working-Class (Kelley), Planck (Hilbert and Dedekind wait in _pending: PDF only), Lavoisier's Elements of Chemistry (Kerr, 1790), Comenius's Orbis Pictus (Hoole), Ptah-Hotep, Ibn Tufayl and others. Each title gates on its own translator (_surname_by_slug). US public domain. Added 2026-10-10 by lane C (round 40); Adam may veto. No uids minted.",
+ "_name_words": [
+  "albert heyem nachmen baron",
+  "alexander del mar",
+  "alice drysdale vickery",
+  "andrew campbell armstrong",
+  "arthur mitchell",
+  "battiscombe g. gunn",
+  "battiscombe george gunn",
+  "charles hoole",
+  "cloudesley brereton",
+  "del mar",
+  "edwin e. slosson",
+  "edwin emery slosson",
+  "florence kelley",
+  "hans thacher clarke",
+  "henry glasse",
+  "horace white",
+  "humphry ward",
+  "j. hain friswell",
+  "j. w. willis bund",
+  "james hain friswell",
+  "john black",
+  "john veitch",
+  "john william willis bund",
+  "lionel j. trotter",
+  "lionel james trotter",
+  "ludwik silberstein",
+  "maurice baring",
+  "max farrand",
+  "michael sadleir",
+  "mrs. humphry ward",
+  "ninian hill thomson",
+  "paul brönnle",
+  "robert kerr",
+  "s. g. c. middlemore",
+  "samuel george chetwynd middlemore",
+  "sara hay goddard dircks",
+  "willis bund"
+ ],
+ "_surname": [
+  "albert heyem nachmen baron",
+  "alexander del mar",
+  "alice drysdale vickery",
+  "andrew campbell armstrong",
+  "arthur mitchell",
+  "battiscombe g. gunn",
+  "battiscombe george gunn",
+  "charles hoole",
+  "cloudesley brereton",
+  "del mar",
+  "edwin e. slosson",
+  "edwin emery slosson",
+  "florence kelley",
+  "hans thacher clarke",
+  "henry glasse",
+  "horace white",
+  "humphry ward",
+  "j. hain friswell",
+  "j. w. willis bund",
+  "james hain friswell",
+  "john black",
+  "john veitch",
+  "john william willis bund",
+  "lionel j. trotter",
+  "lionel james trotter",
+  "ludwik silberstein",
+  "maurice baring",
+  "max farrand",
+  "michael sadleir",
+  "mrs. humphry ward",
+  "ninian hill thomson",
+  "paul brönnle",
+  "robert kerr",
+  "s. g. c. middlemore",
+  "samuel george chetwynd middlemore",
+  "sara hay goddard dircks",
+  "willis bund"
+ ],
+ "_surname_by_slug": {
+  "sid-2074": [
+   "middlemore",
+   "s. g. c. middlemore",
+   "samuel george chetwynd middlemore"
+  ],
+  "sid-4391": [
+   "john veitch",
+   "veitch"
+  ],
+  "sid-5321": [
+   "michael sadleir",
+   "sadleir"
+  ],
+  "sid-7148": [
+   "black",
+   "john black"
+  ],
+  "sid-8545": [
+   "humphry ward",
+   "mrs. humphry ward",
+   "ward"
+  ],
+  "sid-9105": [
+   "friswell",
+   "j. hain friswell",
+   "j. w. willis bund",
+   "james hain friswell",
+   "john william willis bund",
+   "willis bund"
+  ],
+  "sid-10827": [
+   "ninian hill thomson",
+   "thomson"
+  ],
+  "sid-11100": [
+   "andrew campbell armstrong",
+   "armstrong"
+  ],
+  "sid-11945": [
+   "dircks",
+   "sara hay goddard dircks"
+  ],
+  "sid-17306": [
+   "florence kelley",
+   "kelley"
+  ],
+  "sid-20842": [
+   "edwin e. slosson",
+   "edwin emery slosson",
+   "slosson"
+  ],
+  "sid-26163": [
+   "arthur mitchell",
+   "mitchell"
+  ],
+  "sid-33663": [
+   "clarke",
+   "hans thacher clarke",
+   "ludwik silberstein",
+   "silberstein"
+  ],
+  "sid-31104": [
+   "glasse",
+   "henry glasse"
+  ],
+  "sid-31550": [
+   "alice drysdale vickery",
+   "vickery"
+  ],
+  "sid-29815": [
+   "farrand",
+   "max farrand"
+  ],
+  "sid-26430": [
+   "albert heyem nachmen baron",
+   "baron"
+  ],
+  "sid-33549": [
+   "brereton",
+   "cloudesley brereton"
+  ],
+  "sid-31420": [
+   "lionel j. trotter",
+   "lionel james trotter",
+   "trotter"
+  ],
+  "sid-30775": [
+   "kerr",
+   "robert kerr"
+  ],
+  "sid-28299": [
+   "charles hoole",
+   "hoole"
+  ],
+  "sid-34572": [
+   "brönnle",
+   "paul brönnle"
+  ],
+  "sid-30508": [
+   "battiscombe g. gunn",
+   "battiscombe george gunn",
+   "gunn"
+  ],
+  "sid-29904": [
+   "baring",
+   "maurice baring"
+  ],
+  "sid-16106": [
+   "alexander del mar",
+   "del mar"
+  ],
+  "sid-20161": [
+   "horace white",
+   "white"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {
+  "sid-2074": [
+   2074,
+   "The Civilisation of the Renaissance in Italy"
+  ],
+  "sid-4391": [
+   4391,
+   "Selections from the Principles of Philosophy"
+  ],
+  "sid-5321": [
+   5321,
+   "Concerning the Spiritual in Art"
+  ],
+  "sid-7148": [
+   7148,
+   "Lectures on Dramatic Art and Literature"
+  ],
+  "sid-8545": [
+   8545,
+   "Amiel's Journal: The Journal Intime of Henri-Frédéric Amiel"
+  ],
+  "sid-9105": [
+   9105,
+   "Reflections; or Sentences and Moral Maxims"
+  ],
+  "sid-10827": [
+   10827,
+   "Discourses on the First Decade of Titus Livius"
+  ],
+  "sid-11100": [
+   11100,
+   "History of Modern Philosophy From Nicolas of Cusa to the Present Time"
+  ],
+  "sid-11945": [
+   11945,
+   "Essays of Schopenhauer"
+  ],
+  "sid-17306": [
+   17306,
+   "The Condition of the Working-Class in England in 1844 with a Preface written in 1892"
+  ],
+  "sid-20842": [
+   20842,
+   "Dreams"
+  ],
+  "sid-26163": [
+   26163,
+   "Creative Evolution"
+  ],
+  "sid-33663": [
+   33663,
+   "The Origin and Development of the Quantum Theory"
+  ],
+  "sid-31104": [
+   31104,
+   "The place of anarchism in socialistic evolution"
+  ],
+  "sid-31550": [
+   31550,
+   "The first essay on the political rights of women"
+  ],
+  "sid-29815": [
+   29815,
+   "The Declaration of the Rights of Man and of Citizens"
+  ],
+  "sid-26430": [
+   26430,
+   "Essay on the Creative Imagination"
+  ],
+  "sid-33549": [
+   33549,
+   "Underground Man"
+  ],
+  "sid-31420": [
+   31420,
+   "La Sorcière: The Witch of the Middle Ages"
+  ],
+  "sid-30775": [
+   30775,
+   "Elements of Chemistry, In a New Systematic Order, Containing all the Modern Discoveries"
+  ],
+  "sid-28299": [
+   28299,
+   "The Orbis Pictus"
+  ],
+  "sid-34572": [
+   34572,
+   "The Awakening of the Soul"
+  ],
+  "sid-30508": [
+   30508,
+   "The Instruction of Ptah-Hotep and the Instruction of Ke'Gemni The Oldest Books in the World"
+  ],
+  "sid-29904": [
+   29904,
+   "Thoughts on Art and Life"
+  ],
+  "sid-16106": [
+   16106,
+   "What Is Free Trade? An Adaptation of Frederic Bastiat's \"Sophismes Éconimiques\" Designed for the American Reader"
+  ],
+  "sid-20161": [
+   20161,
+   "Sophisms of the Protectionists"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "singles-ideas-amiel-amiel-s-journal": {
+   "source": "sid-8545",
+   "of": "Henri Frédéric Amiel",
+   "work": "Amiel's Journal: The Journal Intime of Henri-Frédéric Amiel",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Humphry Ward",
+   "scan_edition": "Project Gutenberg 8545 (clean text)"
+  },
+  "singles-ideas-bastiat-sophisms-of-the-protectionists": {
+   "source": "sid-20161",
+   "of": "Frédéric Bastiat",
+   "work": "Sophisms of the Protectionists",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Horace White",
+   "scan_edition": "Project Gutenberg 20161 (clean text)"
+  },
+  "singles-ideas-bastiat-what-is-free-trade-an-adaptation-of-fred": {
+   "source": "sid-16106",
+   "of": "Frédéric Bastiat",
+   "work": "What Is Free Trade? An Adaptation of Frederic Bastiat's \"Sophismes Éconimiques\" Designed for the American Reader",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alexander Del Mar",
+   "scan_edition": "Project Gutenberg 16106 (clean text)"
+  },
+  "singles-ideas-bergson-creative-evolution": {
+   "source": "sid-26163",
+   "of": "Henri Bergson",
+   "work": "Creative Evolution",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Arthur Mitchell",
+   "scan_edition": "Project Gutenberg 26163 (clean text)"
+  },
+  "singles-ideas-bergson-dreams": {
+   "source": "sid-20842",
+   "of": "Henri Bergson",
+   "work": "Dreams",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Edwin E. Slosson",
+   "scan_edition": "Project Gutenberg 20842 (clean text)"
+  },
+  "singles-ideas-burckhardt-the-civilisation-of-the-renaissance-in-i": {
+   "source": "sid-2074",
+   "of": "Jacob Burckhardt",
+   "work": "The Civilisation of the Renaissance in Italy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "S. G. C. Middlemore",
+   "scan_edition": "Project Gutenberg 2074 (clean text)"
+  },
+  "singles-ideas-comenius-the-orbis-pictus": {
+   "source": "sid-28299",
+   "of": "Johann Amos Comenius",
+   "work": "The Orbis Pictus",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Charles Hoole",
+   "scan_edition": "Project Gutenberg 28299 (clean text)"
+  },
+  "singles-ideas-condorcet-the-first-essay-on-the-political-rights": {
+   "source": "sid-31550",
+   "of": "Condorcet",
+   "work": "The first essay on the political rights of women",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Alice Drysdale Vickery",
+   "scan_edition": "Project Gutenberg 31550 (clean text)"
+  },
+  "singles-ideas-descartes-selections-from-the-principles-of-philos": {
+   "source": "sid-4391",
+   "of": "René Descartes",
+   "work": "Selections from the Principles of Philosophy",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Veitch",
+   "scan_edition": "Project Gutenberg 4391 (clean text)"
+  },
+  "singles-ideas-engels-the-condition-of-the-working-class-in-en": {
+   "source": "sid-17306",
+   "of": "Friedrich Engels",
+   "work": "The Condition of the Working-Class in England in 1844 with a Preface written in 1892",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Florence Kelley",
+   "scan_edition": "Project Gutenberg 17306 (clean text)"
+  },
+  "singles-ideas-falckenberg-history-of-modern-philosophy-from-nicola": {
+   "source": "sid-11100",
+   "of": "Richard Falckenberg",
+   "work": "History of Modern Philosophy From Nicolas of Cusa to the Present Time",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Andrew Campbell Armstrong",
+   "scan_edition": "Project Gutenberg 11100 (clean text)"
+  },
+  "singles-ideas-ibn-tufayl-the-awakening-of-the-soul": {
+   "source": "sid-34572",
+   "of": "Ibn Tufayl",
+   "work": "The Awakening of the Soul",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Paul Brönnle",
+   "scan_edition": "Project Gutenberg 34572 (clean text)"
+  },
+  "singles-ideas-jellinek-the-declaration-of-the-rights-of-man-and": {
+   "source": "sid-29815",
+   "of": "Georg Jellinek",
+   "work": "The Declaration of the Rights of Man and of Citizens",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Max Farrand",
+   "scan_edition": "Project Gutenberg 29815 (clean text)"
+  },
+  "singles-ideas-kandinsky-concerning-the-spiritual-in-art": {
+   "source": "sid-5321",
+   "of": "Wassily Kandinsky",
+   "work": "Concerning the Spiritual in Art",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Michael Sadleir",
+   "scan_edition": "Project Gutenberg 5321 (clean text)"
+  },
+  "singles-ideas-kropotkin-the-place-of-anarchism-in-socialistic-ev": {
+   "source": "sid-31104",
+   "of": "Petr Alekseevich Kropotkin",
+   "work": "The place of anarchism in socialistic evolution",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Henry Glasse",
+   "scan_edition": "Project Gutenberg 31104 (clean text)"
+  },
+  "singles-ideas-lavoisier-elements-of-chemistry-in-a-new-systemati": {
+   "source": "sid-30775",
+   "of": "Antoine Laurent Lavoisier",
+   "work": "Elements of Chemistry, In a New Systematic Order, Containing all the Modern Discoveries",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Robert Kerr",
+   "scan_edition": "Project Gutenberg 30775 (clean text)"
+  },
+  "singles-ideas-leonardo-thoughts-on-art-and-life": {
+   "source": "sid-29904",
+   "of": "Leonardo da Vinci",
+   "work": "Thoughts on Art and Life",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Maurice Baring",
+   "scan_edition": "Project Gutenberg 29904 (clean text)"
+  },
+  "singles-ideas-machiavelli-discourses-on-the-first-decade-of-titus": {
+   "source": "sid-10827",
+   "of": "Niccolò Machiavelli",
+   "work": "Discourses on the First Decade of Titus Livius",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Ninian Hill Thomson",
+   "scan_edition": "Project Gutenberg 10827 (clean text)"
+  },
+  "singles-ideas-michelet-la-sorciere": {
+   "source": "sid-31420",
+   "of": "Jules Michelet",
+   "work": "La Sorcière: The Witch of the Middle Ages",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Lionel J. Trotter",
+   "scan_edition": "Project Gutenberg 31420 (clean text)"
+  },
+  "singles-ideas-planck-the-origin-and-development-of-the-quantu": {
+   "source": "sid-33663",
+   "of": "Max Planck",
+   "work": "The Origin and Development of the Quantum Theory",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Hans Thacher Clarke and Ludwik Silberstein",
+   "scan_edition": "Project Gutenberg 33663 (clean text)"
+  },
+  "singles-ideas-ptahhotep-the-instruction-of-ptah-hotep-and-the-in": {
+   "source": "sid-30508",
+   "of": "Ptahhotep and Kagemna",
+   "work": "The Instruction of Ptah-Hotep and the Instruction of Ke'Gemni The Oldest Books in the World",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Battiscombe G. Gunn",
+   "scan_edition": "Project Gutenberg 30508 (clean text)"
+  },
+  "singles-ideas-ribot-essay-on-the-creative-imagination": {
+   "source": "sid-26430",
+   "of": "Th. Ribot",
+   "work": "Essay on the Creative Imagination",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Albert Heyem Nachmen Baron",
+   "scan_edition": "Project Gutenberg 26430 (clean text)"
+  },
+  "singles-ideas-rochefoucauld-reflections": {
+   "source": "sid-9105",
+   "of": "La Rochefoucauld",
+   "work": "Reflections; or Sentences and Moral Maxims",
+   "translated": "(see the Gutenberg header)",
+   "translator": "J. Hain Friswell and J. W. Willis Bund",
+   "scan_edition": "Project Gutenberg 9105 (clean text)"
+  },
+  "singles-ideas-schlegel-lectures-on-dramatic-art-and-literature": {
+   "source": "sid-7148",
+   "of": "August Wilhelm von Schlegel",
+   "work": "Lectures on Dramatic Art and Literature",
+   "translated": "(see the Gutenberg header)",
+   "translator": "John Black",
+   "scan_edition": "Project Gutenberg 7148 (clean text)"
+  },
+  "singles-ideas-schopenhauer-essays-of-schopenhauer": {
+   "source": "sid-11945",
+   "of": "Arthur Schopenhauer",
+   "work": "Essays of Schopenhauer",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Sara Hay Goddard Dircks",
+   "scan_edition": "Project Gutenberg 11945 (clean text)"
+  },
+  "singles-ideas-tarde-underground-man": {
+   "source": "sid-33549",
+   "of": "Gabriel de Tarde",
+   "work": "Underground Man",
+   "translated": "(see the Gutenberg header)",
+   "translator": "Cloudesley Brereton",
+   "scan_edition": "Project Gutenberg 33549 (clean text)"
+  }
+ },
+ "_pending": {
+  "pg-17384": "Hilbert's The Foundations of Geometry (Townsend, 1902): Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-21016": "Dedekind's Essays on the Theory of Numbers (Beman, 1901): Gutenberg publishes this mathematics book only as PDF/LaTeX, with no plain-text file to fetch. Left for a later pass that finds a period scan on the Internet Archive.",
+  "pg-26752": "Ramus's The Way to Geometry (Bedwell, 1636): Gutenberg's text file is a stub ('a text version was not prepared'; HTML only, for the diagrams). Left for a later pass that finds a period scan."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check, so the original authors' names are deliberately NOT listed.",
+ "_checks": {
+  "sid-2074": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "middlemore",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "S. G. C. Middlemore"
+  },
+  "sid-4391": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john veitch",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Veitch"
+  },
+  "sid-5321": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "michael sadleir",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Michael Sadleir"
+  },
+  "sid-7148": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john black",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Black"
+  },
+  "sid-8545": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "humphry ward",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. Humphry Ward"
+  },
+  "sid-9105": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "friswell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "J. Hain Friswell; J. W. Willis Bund"
+  },
+  "sid-10827": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ninian hill thomson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ninian Hill Thomson"
+  },
+  "sid-11100": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "andrew campbell armstrong",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Andrew Campbell Armstrong"
+  },
+  "sid-11945": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "dircks",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Sara Hay Goddard Dircks"
+  },
+  "sid-17306": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "florence kelley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Florence Kelley"
+  },
+  "sid-20842": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "edwin e. slosson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edwin E. Slosson"
+  },
+  "sid-26163": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur mitchell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Mitchell"
+  },
+  "sid-33663": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "clarke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Hans Thacher Clarke; Ludwik Silberstein"
+  },
+  "sid-31104": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "glasse",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry Glasse"
+  },
+  "sid-31550": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alice drysdale vickery",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alice Drysdale Vickery"
+  },
+  "sid-29815": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "farrand",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Max Farrand"
+  },
+  "sid-26430": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "albert heyem nachmen baron",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Albert Heyem Nachmen Baron"
+  },
+  "sid-33549": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brereton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Cloudesley Brereton"
+  },
+  "sid-31420": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "lionel j. trotter",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lionel J. Trotter"
+  },
+  "sid-30775": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kerr",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Kerr"
+  },
+  "sid-28299": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "charles hoole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Hoole"
+  },
+  "sid-34572": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "brönnle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Paul Brönnle"
+  },
+  "sid-30508": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "battiscombe g. gunn",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Battiscombe G. Gunn"
+  },
+  "sid-29904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "baring",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Maurice Baring"
+  },
+  "sid-16106": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "alexander del mar",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Alexander Del Mar"
+  },
+  "sid-20161": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "horace white",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Horace White"
+  }
+ },
+ "_verified": {
+  "sid-2074": {
+   "pg": 2074,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "S. G. C. Middlemore"
+  },
+  "sid-4391": {
+   "pg": 4391,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Veitch"
+  },
+  "sid-5321": {
+   "pg": 5321,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Michael Sadleir"
+  },
+  "sid-7148": {
+   "pg": 7148,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Black"
+  },
+  "sid-8545": {
+   "pg": 8545,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. Humphry Ward"
+  },
+  "sid-9105": {
+   "pg": 9105,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "J. Hain Friswell"
+  },
+  "sid-10827": {
+   "pg": 10827,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ninian Hill Thomson"
+  },
+  "sid-11100": {
+   "pg": 11100,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Andrew Campbell Armstrong"
+  },
+  "sid-11945": {
+   "pg": 11945,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Sara Hay Goddard Dircks"
+  },
+  "sid-17306": {
+   "pg": 17306,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Florence Kelley"
+  },
+  "sid-20842": {
+   "pg": 20842,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Edwin E. Slosson"
+  },
+  "sid-26163": {
+   "pg": 26163,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Mitchell"
+  },
+  "sid-33663": {
+   "pg": 33663,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Hans Thacher Clarke"
+  },
+  "sid-31104": {
+   "pg": 31104,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Henry Glasse"
+  },
+  "sid-31550": {
+   "pg": 31550,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alice Drysdale Vickery"
+  },
+  "sid-29815": {
+   "pg": 29815,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Max Farrand"
+  },
+  "sid-26430": {
+   "pg": 26430,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Albert Heyem Nachmen Baron"
+  },
+  "sid-33549": {
+   "pg": 33549,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Cloudesley Brereton"
+  },
+  "sid-31420": {
+   "pg": 31420,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Lionel J. Trotter"
+  },
+  "sid-30775": {
+   "pg": 30775,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Kerr"
+  },
+  "sid-28299": {
+   "pg": 28299,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Charles Hoole"
+  },
+  "sid-34572": {
+   "pg": 34572,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Paul Brönnle"
+  },
+  "sid-30508": {
+   "pg": 30508,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Battiscombe G. Gunn"
+  },
+  "sid-29904": {
+   "pg": 29904,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Maurice Baring"
+  },
+  "sid-16106": {
+   "pg": 16106,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Alexander Del Mar"
+  },
+  "sid-20161": {
+   "pg": 20161,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Horace White"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

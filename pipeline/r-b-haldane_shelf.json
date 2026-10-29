@@ -1,0 +1,80 @@
+{
+ "_about": "Richard Burdon Haldane, Viscount Haldane (1856-1928), statesman and Hegelian. Raw IA OCR: The Pathway to Reality, Gifford Lectures, stage the first (New York: Dutton, 1903) and stage the second (London: John Murray, 1904), clean 0.95 each; The Reign of Relativity (New Haven: Yale University Press, 1921), clean 0.95; The Philosophy of Humanism and of other subjects (New Haven: Yale University Press, 1922), clean 0.95. He co-translated Schopenhauer's World as Will and Idea with John Kemp (schopenhauer shelf). Not to be confused with the james-haldane and robert-haldane shelves. US public domain. No uids minted.",
+ "_author": "R. B. Haldane",
+ "_name_words": [
+  "richard",
+  "burdon",
+  "haldane",
+  "viscount"
+ ],
+ "_surname": [
+  "haldane"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "haldane-pathway-to-reality-1903": [
+   "cu31924009675343",
+   "The Pathway to Reality, stage the first (Dutton, 1903)"
+  ],
+  "haldane-pathway-to-reality-1904": [
+   "pathwaytorealit00haldgoog",
+   "The Pathway to Reality, stage the second (Murray, 1904)"
+  ],
+  "haldane-reign-of-relativity-1921": [
+   "reignrelativity00haldgoog",
+   "The Reign of Relativity (Yale, 1921)"
+  ],
+  "haldane-philosophy-of-humanism-1922": [
+   "philosophyhuman00haldgoog",
+   "The Philosophy of Humanism (Yale, 1922)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "haldane-pathway-to-reality-1903": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "haldane-pathway-to-reality-1904": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-reign-of-relativity-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "haldane-philosophy-of-humanism-1922": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "haldane",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

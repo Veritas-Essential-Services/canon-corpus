@@ -1,0 +1,93 @@
+{
+ "_about": "Public-domain Naphtali Daggett, professor of divinity and president of Yale College, for the Word Hoard: four of his sermons, among them The Faithful Serving of God and our Generation and The Excellency of a Good Name. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 120 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "naphtali daggett",
+  "n. daggett",
+  "daggett"
+ ],
+ "_surname": [
+  "daggett"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "daggett-faithful-serving": [
+   "bim_eighteenth-century_the-faithful-serving-of-_daggett-naphtali_1767",
+   "The faithful serving of God and our generation, the only way to a peaceful and happy death. A sermon occasioned by the death of the Reverend Thomas Clap, (president of Yale College, in New-Haven) who departed this life, Jan. 7th, 1767; delivered in the College-Chapel, Jan. 8th, by the Rev'd Naphtali Daggett, Livingstonian Professor of Divinity in Yale-College. [Three lines from Matthew].  1767 (catalogued 1767)"
+  ],
+  "daggett-good-name": [
+   "bim_eighteenth-century_the-excellency-of-a-good_daggett-naphtali_1768",
+   "The excellency of a good name. A sermon, delivered in the chapel of Yale-College, in New-Haven, December 4th, 1768. Occasioned by the death of Mr. Job Lane, ... By the Reverend Naphtali Daggett, ...  1768 (catalogued 1768)"
+  ],
+  "daggett-faithful-ministers": [
+   "bim_eighteenth-century_the-great-and-tender-con_daggett-naphtali_1770",
+   "The great and tender concern of faithful ministers for the souls of their people, should powerfully excite them also, to labour after their own salvation. A sermon, preached at Danbury, September 19th, 1770, at the ordination of the Reverend Ebenezer Baldwin. By the Reverend Naphtali Daggett, president of Yale-College, in New-Haven, and professor of divinity in the same. [Three lines from II Corinthians].  1770 (catalogued 1770)"
+  ],
+  "daggett-testimony-conscience": [
+   "bim_eighteenth-century_the-testimony-of-conscie_daggett-naphtali_1773",
+   "The testimony of conscience a most solid foundation of rejoicing. A sermon preached at the ordination of the Rev. Mr. Joseph Howe, to the pastoral care of the New-South church in Boston, May 19th, 1773. By the Rev. Naphtali Daggett, ... To which is added, The charge by the Rev. Aaron Brown, and the Right hand of fellowship by the Rev. Dr. ...  1773 (catalogued 1773)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "daggett-certificate": "yhm-spe-rob-n01h, a two-page manuscript certificate"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "daggett-good-name": "Title page read from the page image: \"The Excellency of a good Name. A Sermon, Delivered in the Chapel of Yale-College ... By the Reverend Naphtali Daggett, A.M. President of Yale-College\"",
+  "daggett-testimony-conscience": {
+   "author": "Title page read from the page image: \"The Testimony of Conscience a most solid Foundation of Rejoicing. A Sermon preached at the Ordination of the Rev. Mr. Joseph Howe ... By the Rev. Naphtali Daggett, A.M. President of Yale College in New-Haven\"",
+   "title": "Title page read from the page image: \"The Testimony of Conscience a most solid Foundation of Rejoicing. A Sermon preached at the Ordination of the Rev. Mr. Joseph Howe ... By the Rev. Naphtali Daggett, A.M. President of Yale College in New-Haven\""
+  }
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "daggett-faithful-serving": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daggett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1767",
+   "ia_date": "1767",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daggett-good-name": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1768",
+   "ia_date": "1768",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daggett-faithful-ministers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "daggett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1770",
+   "ia_date": "1770",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "daggett-testimony-conscience": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1773",
+   "ia_date": "1773",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

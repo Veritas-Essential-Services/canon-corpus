@@ -1,0 +1,45 @@
+{
+ "_about": "Public-domain Joshua the Stylite (the Edessan chronicle of A.D. 507), for the Word Hoard: The Chronicle of Joshua the Stylite, Syriac with an English translation and notes by W. Wright (Cambridge, 1882), from an Internet Archive scan. Added 2026-10-18 by lane A, round 38 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joshua"
+ ],
+ "_surname": [
+  "joshua the stylite",
+  "joshua"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "joshua-stylite-chronicle-1882": [
+   "chronicleofjoshu00josh",
+   "The Chronicle of Joshua the Stylite, composed in Syriac A.D. 507, with a translation into English and notes by W. Wright (Cambridge: University Press, 1882)"
+  ]
+ },
+ "_alternates": {
+  "joshua-copies": "chronicleofjoshu00josh_0 and joshua-stylite-1882 (1882)"
+ },
+ "_excluded": {
+  "joshua-other": "The 1968 Amsterdam reprint"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "joshua-stylite-chronicle-1882": "wright"
+ },
+ "_checks": {
+  "joshua-stylite-chronicle-1882": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "joshua the stylite",
+   "translator_claimed": "wright",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

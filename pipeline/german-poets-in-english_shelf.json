@@ -1,0 +1,398 @@
+{
+ "_about": "SHELF of German poets of the age before Goethe and after in English before 1931: Klopstock's Odes (Nind, 1848), the Memoirs of Frederick and Margaret Klopstock (Elizabeth Smith, 1810) and Klopstock and his Friends (Miss Benger, 1814); Uhland three ways (Skeat 1864, Sandars 1869, Platt 1848); Körner's life and selections (G. F. Richardson, 1827); and the Life of Gellert (Mrs Douglas, 1805, vols. I and III). Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 108); Adam may veto. No uids minted.",
+ "_name_words": [
+  "alexander platt",
+  "benger",
+  "elizabeth smith",
+  "g. f. richardson",
+  "miss benger",
+  "miss smith",
+  "mrs douglas",
+  "nind",
+  "platt",
+  "sandars",
+  "skeat",
+  "w. w. skeat",
+  "william collett sandars",
+  "william nind"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'smith' and 'douglas' alone are left out as common surnames.",
+ "_surname": [
+  "alexander platt",
+  "benger",
+  "elizabeth smith",
+  "g. f. richardson",
+  "miss benger",
+  "miss smith",
+  "mrs douglas",
+  "nind",
+  "platt",
+  "sandars",
+  "skeat",
+  "w. w. skeat",
+  "william collett sandars",
+  "william nind"
+ ],
+ "_surname_by_slug": {
+  "gpe-klopstock-odes-nind": [
+   "william nind",
+   "nind"
+  ],
+  "gpe-klopstock-memoirs-smith": [
+   "elizabeth smith",
+   "miss smith"
+  ],
+  "gpe-klopstock-and-his-friends-benger": [
+   "miss benger",
+   "benger"
+  ],
+  "gpe-uhland-songs-and-ballads-skeat": [
+   "w. w. skeat",
+   "skeat"
+  ],
+  "gpe-uhland-poems-sandars": [
+   "william collett sandars",
+   "sandars"
+  ],
+  "gpe-uhland-poems-platt": [
+   "alexander platt",
+   "platt"
+  ],
+  "gpe-korner-life-and-selections-richardson": [
+   "g. f. richardson"
+  ],
+  "gpe-gellert-life-douglas-vol-1": [
+   "mrs douglas"
+  ],
+  "gpe-gellert-life-douglas-vol-3": [
+   "mrs douglas"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "gpe-klopstock-odes-nind": [
+   "odesofklopstockf00klop",
+   "Odes of Klopstock, from 1747 to 1780 (1848)"
+  ],
+  "gpe-klopstock-memoirs-smith": [
+   "memoirsfrederic02smitgoog",
+   "Memoirs of Frederick and Margaret Klopstock (1810)"
+  ],
+  "gpe-klopstock-and-his-friends-benger": [
+   "klopstockhisfrie00klop",
+   "Klopstock and his Friends: a Series of Familiar Letters, written between the years 1750 and 1803 (1814)"
+  ],
+  "gpe-uhland-songs-and-ballads-skeat": [
+   "songsballadsofuh00uhla",
+   "The Songs and Ballads of Uhland (1864)"
+  ],
+  "gpe-uhland-poems-sandars": [
+   "poemsofuhland00uhla",
+   "The Poems of Uhland, translated into English verse, with a short biographical memoir of the poet (1869)"
+  ],
+  "gpe-uhland-poems-platt": [
+   "poems01platgoog",
+   "The Poems of Ludwig Uhland (1848)"
+  ],
+  "gpe-korner-life-and-selections-richardson": [
+   "lifecarltheodor00kindgoog",
+   "The Life of Carl Theodor Körner, written by his father, with selections from his poems, tales and dramas, 2 vols (1827)"
+  ],
+  "gpe-gellert-life-douglas-vol-1": [
+   "lifeprofessorge01fitegoog",
+   "The Life of Professor Gellert, with a course of moral lessons, vol. I (1805)"
+  ],
+  "gpe-gellert-life-douglas-vol-3": [
+   "lifeprofessorge00fitegoog",
+   "The Life of Professor Gellert, with a course of moral lessons, vol. III (1805)"
+  ]
+ },
+ "titles": {
+  "german-poets-klopstock-odes-nind": {
+   "source": "gpe-klopstock-odes-nind",
+   "of": "Friedrich Gottlieb Klopstock",
+   "work": "Odes of Klopstock, from 1747 to 1780",
+   "translated": 1848,
+   "translator": "William Nind",
+   "scan_edition": "William Pickering, London 1848; archive.org scan"
+  },
+  "german-poets-klopstock-memoirs-smith": {
+   "source": "gpe-klopstock-memoirs-smith",
+   "of": "Friedrich Gottlieb and Margaret Klopstock",
+   "work": "Memoirs of Frederick and Margaret Klopstock",
+   "translated": 1810,
+   "translator": "Elizabeth Smith",
+   "scan_edition": "Philadelphia, 1810, an American printing whose preface is dated Bath, December 1808; Google scan",
+   "note": "The preface says the translations were finished by Miss Smith in 1805."
+  },
+  "german-poets-klopstock-and-his-friends-benger": {
+   "source": "gpe-klopstock-and-his-friends-benger",
+   "of": "Friedrich Gottlieb Klopstock and his correspondents",
+   "work": "Klopstock and his Friends: a Series of Familiar Letters, written between the years 1750 and 1803",
+   "translated": 1814,
+   "translator": "Miss Benger",
+   "scan_edition": "Henry Colburn, London 1814; archive.org scan"
+  },
+  "german-poets-uhland-songs-and-ballads-skeat": {
+   "source": "gpe-uhland-songs-and-ballads-skeat",
+   "of": "Ludwig Uhland",
+   "work": "The Songs and Ballads of Uhland",
+   "translated": 1864,
+   "translator": "W. W. Skeat",
+   "scan_edition": "Williams and Norgate, London 1864; archive.org scan",
+   "note": "Translated by the Rev. W. W. Skeat, later the Anglo-Saxon and Chaucer scholar."
+  },
+  "german-poets-uhland-poems-sandars": {
+   "source": "gpe-uhland-poems-sandars",
+   "of": "Ludwig Uhland",
+   "work": "The Poems of Uhland, translated into English verse, with a short biographical memoir of the poet",
+   "translated": 1869,
+   "translator": "William Collett Sandars",
+   "scan_edition": "Ridgway, London 1869; archive.org scan"
+  },
+  "german-poets-uhland-poems-platt": {
+   "source": "gpe-uhland-poems-platt",
+   "of": "Ludwig Uhland",
+   "work": "The Poems of Ludwig Uhland",
+   "translated": 1848,
+   "translator": "Alexander Platt",
+   "scan_edition": "F. Volckmar, Leipzig 1848; Google scan"
+  },
+  "german-poets-korner-life-and-selections-richardson": {
+   "source": "gpe-korner-life-and-selections-richardson",
+   "of": "Christian Gottfried Körner and Carl Theodor Körner",
+   "work": "The Life of Carl Theodor Körner, written by his father, with selections from his poems, tales and dramas, 2 vols",
+   "translated": 1827,
+   "translator": "G. F. Richardson",
+   "scan_edition": "Thomas Hurst and Co., London 1827; both volumes in one Google scan"
+  },
+  "german-poets-gellert-life-douglas-vol-1": {
+   "source": "gpe-gellert-life-douglas-vol-1",
+   "of": "Christian Fürchtegott Gellert",
+   "work": "The Life of Professor Gellert, with a course of moral lessons, vol. I",
+   "translated": 1805,
+   "translator": "Mrs Douglas",
+   "scan_edition": "A. Ballantyne, Kelso, for J. Hatchard, London, 1805; Google scan",
+   "note": "Translated from a French translation of the German, as the title page says."
+  },
+  "german-poets-gellert-life-douglas-vol-3": {
+   "source": "gpe-gellert-life-douglas-vol-3",
+   "of": "Christian Fürchtegott Gellert",
+   "work": "The Life of Professor Gellert, with a course of moral lessons, vol. III",
+   "translated": 1805,
+   "translator": "Mrs Douglas",
+   "scan_edition": "A. Ballantyne, Kelso, for J. Hatchard, London, 1805; Google scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "klopstock-messiah-1826": "The Messiah, translated into English verse (Longman, 1826, 2 vols): the title page names no translator.",
+  "korner-lyre-and-sword": "The Lyre and Sword (1834): the translator is not named.",
+  "gellert-life-douglas-vol-2": "Vol. II of Mrs Douglas's Life of Gellert: no scan found.",
+  "klopstock-messiah-1808": "The Messiah (Bungay: C. Brightly, 1808): the scan's title page names no translator."
+ },
+ "_checks": {
+  "gpe-klopstock-odes-nind": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william nind",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gpe-klopstock-memoirs-smith": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "miss smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpe-klopstock-and-his-friends-benger": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "miss benger",
+   "identity": "ok",
+   "ia_rights": "ok: published 1814",
+   "ia_date": "1814",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "gpe-uhland-songs-and-ballads-skeat": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. skeat",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpe-uhland-poems-sandars": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william collett sandars",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpe-uhland-poems-platt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "alexander platt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1848",
+   "ia_date": "1848",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpe-korner-life-and-selections-richardson": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "g. f. richardson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpe-gellert-life-douglas-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs douglas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "gpe-gellert-life-douglas-vol-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mrs douglas",
+   "identity": "ok",
+   "ia_rights": "ok: published 1805",
+   "ia_date": "1805",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "gpe-klopstock-odes-nind": {
+   "ia": "odesofklopstockf00klop",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1775,
+    1777,
+    1778,
+    1779,
+    1780,
+    1848
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-klopstock-memoirs-smith": {
+   "ia": "memoirsfrederic02smitgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1759,
+    1780,
+    1805,
+    1808,
+    1810,
+    1893
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-klopstock-and-his-friends-benger": {
+   "ia": "klopstockhisfrie00klop",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1750,
+    1802,
+    1803,
+    1814
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-uhland-songs-and-ballads-skeat": {
+   "ia": "songsballadsofuh00uhla",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1819,
+    1830,
+    1838,
+    1848,
+    1862,
+    1864
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-uhland-poems-sandars": {
+   "ia": "poemsofuhland00uhla",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1822,
+    1825,
+    1829,
+    1834,
+    1847,
+    1869
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-uhland-poems-platt": {
+   "ia": "poems01platgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815,
+    1816,
+    1817,
+    1848
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-korner-life-and-selections-richardson": {
+   "ia": "lifecarltheodor00kindgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1791
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-gellert-life-douglas-vol-1": {
+   "ia": "lifeprofessorge01fitegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1805
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "gpe-gellert-life-douglas-vol-3": {
+   "ia": "lifeprofessorge00fitegoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1805
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

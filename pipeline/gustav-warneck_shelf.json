@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain Gustav Warneck (1834-1910, Halle, founder of missiology) in English for the Word Hoard: Modern Missions and Culture, tr. Thomas Smith (Edinburgh, 1883), and the Outline of a History of Protestant Missions in Smith's 1884 translation and George Robson's 1901 edition, from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "warneck"
+ ],
+ "_surname": [
+  "warneck",
+  "gustav warneck",
+  "dr. gustav warneck"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "warneck-modern-missions-culture": [
+   "modernmissionsa00warngoog",
+   "Modern Missions and Culture: their Mutual Relations, tr. Thomas Smith (Edinburgh: James Gemmell, 1883)"
+  ],
+  "warneck-outline-missions-1884": [
+   "outlineofhistory0000warn_l2c4",
+   "Outline of the History of Protestant Missions from the Reformation to the Present Time, tr. Thomas Smith (Edinburgh: James Gemmell, 1884)"
+  ],
+  "warneck-outline-missions-1901": [
+   "outlineofhistory00warn_0",
+   "Outline of a History of Protestant Missions, authorised translation from the seventh German edition, ed. George Robson (Edinburgh and London: Oliphant Anderson & Ferrier, 1901)"
+  ]
+ },
+ "_alternates": {
+  "warneck-copies": "Modern Missions and Culture new edition (1888); Revell issues of 1901 and 1906"
+ },
+ "_excluded": {
+  "warneck-son": "The Living Forces of the Gospel (1909): by his son Johannes Warneck, not Gustav",
+  "warneck-reprint": "isbn_9781146427760, a modern reprint; a German Abriss catalogued in English"
+ },
+ "_rights_checked": {
+  "warneck-outline-missions-1901": "title page read: edited by George Robson; no separate translator named"
+ },
+ "_pending": {},
+ "_translators": {
+  "warneck-modern-missions-culture": "smith",
+  "warneck-outline-missions-1884": "smith"
+ },
+ "_checks": {
+  "warneck-modern-missions-culture": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "warneck",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "warneck-outline-missions-1884": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "warneck",
+   "translator_claimed": "smith",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "warneck-outline-missions-1901": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "warneck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: edited by George Robson; no separate translator named"
+  }
+ }
+}

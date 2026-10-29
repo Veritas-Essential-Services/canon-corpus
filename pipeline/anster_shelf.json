@@ -1,0 +1,63 @@
+{
+ "_about": "TRANSLATOR SHELF: John Anster (1793-1867). Goethe's Faust, part 1, in verse (1835). PD. A second witness beside Bayard Taylor's and Hayward's. Added 2026-10-03 by lane C (round 7) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "anster"
+ ],
+ "_surname": [
+  "anster"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "anster-faust-1887": [
+   "firstpartgoethe00anstgoog",
+   "The first part of Goethe's Faust, tr. Anster (Routledge, Morley's introduction)"
+  ]
+ },
+ "titles": {
+  "anster-faust-part-1": {
+   "source": "anster-faust-1887",
+   "of": "Goethe",
+   "work": "Faust, Part I (verse)",
+   "translated": 1835,
+   "translator": "John Anster",
+   "scan_edition": "George Routledge, London and New York, 1887 (Morley's Universal Library line; Google copy), raw OCR; title page 'translated by John Anster, LL.D., with an introduction by Henry Morley'"
+  }
+ },
+ "_pending": {
+  "anster-faust-part-2": "Anster's Part II (1864): not fetched this run."
+ },
+ "_excluded": {
+  "fausttransanster00goetuoft": "IA catalogues it as Anster's (Harper 1886), but its title page reads 'translated into English verse ... by John Stuart Blackie', Macmillan 1880: a different translation. Refused by the identity gate 2026-10-03."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "anster-faust-1887": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "anster",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "anster-faust-1887": {
+   "ia": "firstpartgoethe00anstgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1824,
+    1826,
+    1831,
+    1832,
+    1850,
+    1867
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

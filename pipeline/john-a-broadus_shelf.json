@@ -1,0 +1,150 @@
+{
+ "_about": "Public-domain John A. Broadus (1827-1895, Southern Baptist, professor and president of the Southern Baptist Theological Seminary) for the Word Hoard: A Treatise on the Preparation and Delivery of Sermons (4th ed., 1872, his own text), Commentary on Matthew (1886), Lectures on the History of Preaching (1893), Sermons and Addresses (1887), Jesus of Nazareth (1890), Memoir of James Petigru Boyce (1893), A Harmony of the Gospels (1893) and Commentary on Mark (1905), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 15 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "broadus",
+  "john"
+ ],
+ "_surname": [
+  "john a. broadus",
+  "john albert broadus",
+  "j. a. broadus",
+  "broadus, john a",
+  "john a. broadus, d.d"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "broadus-preparation-1872": [
+   "treatiseonprepar00broa_0",
+   "A Treatise on the Preparation and Delivery of Sermons, fourth edition (Philadelphia: Smith, English, 1872)"
+  ],
+  "broadus-matthew-1886": [
+   "commentaryongosp01broa",
+   "Commentary on the Gospel of Matthew, An American Commentary on the New Testament, ed. Alvah Hovey (Philadelphia: American Baptist Publication Society; entered 1886)"
+  ],
+  "broadus-history-preaching-1893": [
+   "lecturesonthehis00broauoft",
+   "Lectures on the History of Preaching, new edition (New York: A. C. Armstrong, 1893)"
+  ],
+  "broadus-sermons-addresses-1887": [
+   "sermonsaddresses00broa",
+   "Sermons and Addresses, second edition (Richmond: B. F. Johnson, 1887)"
+  ],
+  "broadus-jesus-of-nazareth-1890": [
+   "jesusofnazareth00broa",
+   "Jesus of Nazareth (New York: A. C. Armstrong, 1890)"
+  ],
+  "broadus-memoir-boyce-1893": [
+   "memoirofjamespeti00broa",
+   "Memoir of James Petigru Boyce (New York: A. C. Armstrong, 1893)"
+  ],
+  "broadus-harmony-1893": [
+   "harmonyofgosp00broa",
+   "A Harmony of the Gospels in the Revised Version, notes by A. T. Robertson (New York: A. C. Armstrong, 1893)"
+  ],
+  "broadus-mark-1905": [
+   "gospelofmark0000john",
+   "Commentary on the Gospel of Mark (Philadelphia: American Baptist Publication Society, 1905)"
+  ]
+ },
+ "_alternates": {
+  "broadus-preparation-1898": "the 1898 23rd edition revised by E. C. Dargan (IA treatiseonprepar1898broa): Dargan's revision, a different text",
+  "broadus-pg-36264": "Gutenberg 36264, A. T. Robertson's 1922 Harmony based on Broadus: Robertson's book"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "broadus-mark-1905": "a \"0000\"-style id; the research pass read the title page: copyright 1905, \"Published April, 1905\", an original printing, not a reprint"
+ },
+ "_checks": {
+  "broadus-preparation-1872": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "broadus-matthew-1886": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "broadus-history-preaching-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "broadus-sermons-addresses-1887": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "broadus-jesus-of-nazareth-1890": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "broadus-memoir-boyce-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "broadus-harmony-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "broadus-mark-1905": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john a. broadus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "a \"0000\"-style id; the research pass read the title page: copyright 1905, \"Published April, 1905\", an original printing, not a reprint"
+  }
+ }
+}

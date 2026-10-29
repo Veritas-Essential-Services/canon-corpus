@@ -1,0 +1,102 @@
+{
+ "_about": "Public-domain H. P. Liddon (1829-1890, Canon of St Paul's) for the Word Hoard: The Divinity of Our Lord and Saviour Jesus Christ, his Bampton Lectures (London: Rivingtons, 1867), and the St Paul's sermon collections Easter in St. Paul's (1897 printing), Advent in St. Paul's (1906 printing), Passiontide Sermons (1891) and Clerical Life and Work (1895), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 10 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "l/liddon",
+ "_name_words": [
+  "liddon",
+  "henry",
+  "parry"
+ ],
+ "_surname": [
+  "henry parry liddon",
+  "h. p. liddon",
+  "canon liddon",
+  "liddon"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "liddon-divinity-1867": [
+   "divinityofourlor00lidduoft",
+   "The Divinity of Our Lord and Saviour Jesus Christ: eight lectures (Bampton Lectures, 1866) (London: Rivingtons, 1867)"
+  ],
+  "liddon-easter-st-pauls": [
+   "easterinstpaulss00lidd",
+   "Easter in St. Paul's: sermons bearing chiefly on the resurrection of our Lord (London: Longmans, Green, 1897)"
+  ],
+  "liddon-advent-st-pauls": [
+   "adventinstpauls00lidduoft",
+   "Advent in St. Paul's: sermons bearing chiefly on the two comings of our Lord (London: Longmans, Green, 1906)"
+  ],
+  "liddon-passiontide": [
+   "passiontidesermo00liddiala",
+   "Passiontide Sermons (London: Longmans, Green, 1891)"
+  ],
+  "liddon-clerical-life-work": [
+   "clericallifework00lidduoft",
+   "Clerical Life and Work: a collection of sermons with an essay (London: Longmans, Green, 1895)"
+  ]
+ },
+ "_alternates": {
+  "liddon": "later printings of each; the 1868 and 1878 editions of the Bampton Lectures",
+  "liddon-christmastide": "christmastideins00lidd (1891) was refused by the identity gate: Liddon's name never appears in its text layer; another copy not yet tried"
+ },
+ "_excluded": {},
+ "_checks": {
+  "liddon-divinity-1867": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry parry liddon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "liddon-easter-st-pauls": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry parry liddon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "liddon-advent-st-pauls": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry parry liddon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "liddon-passiontide": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "henry parry liddon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "liddon-clerical-life-work": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "h. p. liddon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

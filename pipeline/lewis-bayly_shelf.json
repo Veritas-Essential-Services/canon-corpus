@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain Lewis Bayly (c.1575-1631, Bishop of Bangor) for the Word Hoard: The Practice of Piety, from the latest edition IA holds before modern reprints (1754), raw Internet Archive OCR of an Eighteenth Century Collections Online scan. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "bayly",
+  "lewis",
+  "piety"
+ ],
+ "_surname": [
+  "bayly"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bayly-practice-of-piety-1754": [
+   "bim_eighteenth-century_the-practice-of-piety-d_bayly-lewis_1754",
+   "The Practice of Piety: Directing a Christian How to Walk that he May Please God (1754)"
+  ]
+ },
+ "_alternates": {
+  "bim_eighteenth-century_the-practice-of-piety-d_bayly-lewis_1702, 1708, 1709, 1711, 1714, 1719; bim_early-english-books-*_the-practice-of-pietie* (1623-1680); bim_eighteenth-century_the-practical-of-piety-_bayly-lewis_1734": "Earlier editions.",
+  "lapratiqvedepiet00bayl (1661)": "French translation.",
+  "manitowompaepoma00bayl, bim_early-english-books-1641-1700_manitowompae-pomantamoon_* (1665, 1685)": "John Eliot's translation into the Massachusett language: kept as an alternate, a historical witness."
+ },
+ "_excluded": {
+  "practiceofpietyd0000bayl (1994)": "Modern reprint."
+ },
+ "_identity_checked": {
+  "bayly-practice-of-piety-1754": "The title page is anonymous ('Amplified by the Author'), as in every edition; the dedication to Charles, Prince of Wales is signed 'Lewis Bailey', the period spelling of Bayly. Checked 2026-10-02."
+ },
+ "_checks": {
+  "bayly-practice-of-piety-1754": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1754",
+   "ia_date": "1754",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

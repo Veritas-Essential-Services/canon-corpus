@@ -1,0 +1,63 @@
+{
+ "_about": "Wilhelm Hauff's (1802-1827) fairy tales in two named translations: Tales of the Caravan, Inn, and Palace (tr. Edward L. Stowell) and Fairy Tales (tr. L. L. Weedon). Clean Gutenberg text; public domain. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Wilhelm Hauff",
+ "_name_words": [
+  "caravan",
+  "inn",
+  "palace",
+  "fairy",
+  "tales"
+ ],
+ "_surname": [
+  "wilhelm hauff"
+ ],
+ "_translators": {
+  "hauff-tales-of-the-caravan-inn-palace": "Stowell",
+  "hauff-fairy-tales-weedon": "Weedon"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hauff-tales-of-the-caravan-inn-palace": [
+   32109,
+   "Tales of the Caravan, Inn, and Palace, tr. Edward L. Stowell"
+  ],
+  "hauff-fairy-tales-weedon": [
+   74947,
+   "Fairy Tales, tr. L. L. Weedon",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "hauff-unnamed": "The Little Glass Man and Other Stories (PG 45606): the Gutenberg header names Lina Eckenstein only as contributor; held back until the translator is confirmed",
+  "hauff-other": "The Oriental Story Book (24593), The Severed Hand (22664), The Wine-Ghosts of Bremen (32064), The Banished (32071): translator to be checked; candidates for a later batch"
+ },
+ "_checks": {
+  "hauff-tales-of-the-caravan-inn-palace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wilhelm hauff",
+   "translator_claimed": "Stowell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Edward L. Stowell",
+   "translator_match": true
+  },
+  "hauff-fairy-tales-weedon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "wilhelm hauff",
+   "translator_claimed": "Weedon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "L. L. Weedon",
+   "translator_match": true
+  }
+ }
+}

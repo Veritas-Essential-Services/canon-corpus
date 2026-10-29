@@ -1,0 +1,64 @@
+{
+ "_about": "Kate Greenaway's own rhyme books: Under the Window (from a later Frederick Warne printing, undated in the text) and Marigold Garden (from a later printing that carries an SBN, so 1966 or after, and a bare \"Copyright, all rights reserved\" line; that line can cover only the reprint's own matter, and no editor or added text is named). Books she only illustrated are not taken. The pictures are not in the text. Gutenberg catalogue: Greenaway 1846-1901. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Kate Greenaway",
+ "_name_words": [
+  "greenaway"
+ ],
+ "_surname": [
+  "kate greenaway"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "greenaway-under-the-window": [
+   22888,
+   "Under the Window: Pictures & Rhymes for Children",
+   {
+    "levels": [
+     {
+      "re": "(?!x)x"
+     }
+    ],
+    "start": "Under the window is my garden,.{90,}",
+    "front": true
+   }
+  ],
+  "greenaway-marigold-garden": [
+   19541,
+   "Marigold Garden",
+   {
+    "levels": [
+     {
+      "re": "[A-Z][-A-Z ,.;:!?'’]{2,}$",
+      "max": 60
+     }
+    ],
+    "start": "SUSAN BLUE\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "greenaway-a-apple-pie": "PG 15809, A Apple Pie: not taken. The rhyme is traditional (Greenaway illustrated it), its text is about a page of letter lines, and the Gutenberg file carries an unsigned, undated publisher's note from a later reprint."
+ },
+ "_checks": {
+  "greenaway-under-the-window": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kate greenaway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "greenaway-marigold-garden": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "kate greenaway",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain William Chillingworth (1602-1644), Laudian divine and champion of reason in religion, for the Word Hoard: The Religion of Protestants a Safe Way to Salvation in its first edition (Oxford, 1638) and Bohn's edition (1846), and his Works (Oxford: University Press, 1838, three volumes), from Internet Archive scans. Added 2026-10-18 by lane A, round 34 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chillingworth"
+ ],
+ "_surname": [
+  "william chillingworth",
+  "chillingworth"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chillingworth-religion-protestants-1638": [
+   "bub_gb_pDi5bKE1Vs4C",
+   "The Religion of Protestants a Safe Way to Salvation, or an Answer to a Booke entitled Mercy and Truth, or Charity maintain'd by Catholiques (Oxford: Leonard Lichfield, for John Clarke; year garbled in the OCR, catalogued 1638), the first edition"
+  ],
+  "chillingworth-works-1838-1": [
+   "worksofwilliamch01chiluoft",
+   "The Works of William Chillingworth, vol. I (Oxford: at the University Press, 1838)"
+  ],
+  "chillingworth-works-1838-2": [
+   "worksofw02chiluoft",
+   "The Works of William Chillingworth, vol. II (Oxford: at the University Press, 1838)"
+  ],
+  "chillingworth-works-1838-3": [
+   "worksofw03chiluoft",
+   "The Works of William Chillingworth, vol. III (Oxford: at the University Press, 1838)"
+  ],
+  "chillingworth-religion-protestants-1846": [
+   "religionofprotes00chil",
+   "The Religion of Protestants a Safe Way to Salvation, a new and complete edition (London: Henry G. Bohn, 1846)"
+  ]
+ },
+ "_alternates": {
+  "chillingworth-copies": "Works, three volumes (London: Richard Priestley, 1820); the one-volume Works with Birch's life (Philadelphia, 1841); Bell & Daldy 1870; eighteenth-century Works (1704-1752, title pages not read)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "chillingworth-religion-protestants-1638": {
+   "author": "title page read: 'By William Chillingworth Master of Arts of the University of Oxford' (OCR spaced 'Chi l l i n g vv o r th')"
+  }
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "chillingworth-religion-protestants-1638": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william chillingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1638",
+   "ia_date": "1638",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chillingworth-works-1838-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william chillingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chillingworth-works-1838-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william chillingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chillingworth-works-1838-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william chillingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "chillingworth-religion-protestants-1846": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william chillingworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

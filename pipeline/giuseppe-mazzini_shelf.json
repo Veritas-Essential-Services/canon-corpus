@@ -1,0 +1,109 @@
+{
+ "_about": "Giuseppe Mazzini (1805-1872): Life and Writings of Joseph Mazzini, a new edition, 6 vols. (London: Smith, Elder, 1890-1891), his autobiographical notes with the political, critical and literary writings in English (the translator, Emilie Ashurst Venturi, is not named on the title pages). Raw IA OCR, clean 0.92-0.94. Held: An Essay on the Duties of Man (Funk and Wagnalls), because no year is printed in the scan. US public domain. No uids minted.",
+ "_author": "Joseph Mazzini",
+ "_name_words": [
+  "joseph",
+  "giuseppe",
+  "mazzini"
+ ],
+ "_surname": [
+  "mazzini"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mazzini-life-and-writings-v1": [
+   "lifewritingsofjo01mazzuoft",
+   "Life and Writings of Joseph Mazzini, new edition, vol. 1 (London: Smith, Elder, 1890)"
+  ],
+  "mazzini-life-and-writings-v2": [
+   "lifewritingsofjo02mazzuoft",
+   "Life and Writings of Joseph Mazzini, new edition, vol. 2 (London: Smith, Elder, 1890)"
+  ],
+  "mazzini-life-and-writings-v3": [
+   "lifewritingsofjo03mazz",
+   "Life and Writings of Joseph Mazzini, new edition, vol. 3 (London: Smith, Elder, 1891)"
+  ],
+  "mazzini-life-and-writings-v4": [
+   "lifewritingsofjo04mazzuoft",
+   "Life and Writings of Joseph Mazzini, new edition, vol. 4 (London: Smith, Elder, 1891)"
+  ],
+  "mazzini-life-and-writings-v5": [
+   "lifewritingsofjo05mazzuoft",
+   "Life and Writings of Joseph Mazzini, new edition, vol. 5 (London: Smith, Elder, 1891)"
+  ],
+  "mazzini-life-and-writings-v6": [
+   "lifewritingsofjo06mazzuoft",
+   "Life and Writings of Joseph Mazzini, new edition, vol. 6 (London: Smith, Elder, 1891)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mazzini-life-and-writings-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mazzini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mazzini-life-and-writings-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mazzini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mazzini-life-and-writings-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mazzini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mazzini-life-and-writings-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mazzini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mazzini-life-and-writings-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mazzini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mazzini-life-and-writings-v6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "mazzini",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,1277 @@
+{
+ "_about": "Henry James's novels, tales, travel writing and criticism; the books of Henry James (1879-1947) are not taken: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Henry James",
+ "_name_words": [
+  "james"
+ ],
+ "_surname": [
+  "henry james"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hjames-roderick-hudson": [
+   176,
+   "Roderick Hudson"
+  ],
+  "hjames-american": [
+   177,
+   "The American",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-confidence": [
+   178,
+   "Confidence"
+  ],
+  "hjames-europeans": [
+   179,
+   "The Europeans",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-daisy-miller": [
+   208,
+   "Daisy Miller: A Study"
+  ],
+  "hjames-turn-of-the-screw": [
+   209,
+   "The Turn of the Screw"
+  ],
+  "hjames-an-international-episode": [
+   210,
+   "An International Episode"
+  ],
+  "hjames-aspern-papers": [
+   211,
+   "The Aspern Papers"
+  ],
+  "hjames-ambassadors": [
+   432,
+   "The Ambassadors",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-death-of-the-lion": [
+   643,
+   "The Death of the Lion"
+  ],
+  "hjames-figure-in-the-carpet": [
+   645,
+   "The Figure in the Carpet"
+  ],
+  "hjames-lesson-of-the-master": [
+   898,
+   "The Lesson of the Master"
+  ],
+  "hjames-pupil": [
+   1032,
+   "The Pupil"
+  ],
+  "hjames-beast-in-the-jungle": [
+   1093,
+   "The Beast in the Jungle"
+  ],
+  "hjames-in-the-cage": [
+   1144,
+   "In the Cage"
+  ],
+  "hjames-jolly-corner": [
+   1190,
+   "The Jolly Corner"
+  ],
+  "hjames-coxon-fund": [
+   1193,
+   "The Coxon Fund"
+  ],
+  "hjames-glasses": [
+   1195,
+   "Glasses"
+  ],
+  "hjames-a-little-tour-in-france": [
+   2159,
+   "A little tour in France"
+  ],
+  "hjames-pandora": [
+   2299,
+   "Pandora"
+  ],
+  "hjames-some-short-stories-by-henry-james": [
+   2327,
+   "Some Short Stories [by Henry James]"
+  ],
+  "hjames-beldonald-holbein": [
+   2366,
+   "The Beldonald Holbein"
+  ],
+  "hjames-a-bundle-of-letters": [
+   2425,
+   "A Bundle of Letters"
+  ],
+  "hjames-diary-of-a-man-of-fifty": [
+   2426,
+   "The Diary of a Man of Fifty"
+  ],
+  "hjames-patagonia": [
+   2427,
+   "The Patagonia",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "hjames-marriages": [
+   2436,
+   "The Marriages",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "hjames-madonna-of-the-future": [
+   2460,
+   "The Madonna of the Future"
+  ],
+  "hjames-eugene-pickering": [
+   2534,
+   "Eugene Pickering"
+  ],
+  "hjames-real-thing-and-other-tales": [
+   2715,
+   "The Real Thing and Other Tales"
+  ],
+  "hjames-sir-dominick-ferrand": [
+   2716,
+   "Sir Dominick Ferrand"
+  ],
+  "hjames-nona-vincent": [
+   2717,
+   "Nona Vincent"
+  ],
+  "hjames-chaperon": [
+   2718,
+   "The Chaperon"
+  ],
+  "hjames-greville-fane": [
+   2719,
+   "Greville Fane"
+  ],
+  "hjames-pension-beaurepas": [
+   2720,
+   "The Pension Beaurepas"
+  ],
+  "hjames-portrait-of-a-lady-volume-1": [
+   2833,
+   "The Portrait of a Lady — Volume 1"
+  ],
+  "hjames-portrait-of-a-lady-volume-2": [
+   2834,
+   "The Portrait of a Lady — Volume 2"
+  ],
+  "hjames-point-of-view": [
+   2869,
+   "The Point of View"
+  ],
+  "hjames-washington-square": [
+   2870,
+   "Washington Square"
+  ],
+  "hjames-author-of-beltraffio": [
+   3145,
+   "The Author of Beltraffio"
+  ],
+  "hjames-golden-bowl-complete": [
+   4264,
+   "The Golden Bowl — Complete"
+  ],
+  "hjames-italian-hours": [
+   6354,
+   "Italian Hours",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-what-maisie-knew": [
+   7118,
+   "What Maisie Knew"
+  ],
+  "hjames-awkward-age": [
+   7433,
+   "The Awkward Age"
+  ],
+  "hjames-reverberator": [
+   7529,
+   "The Reverberator"
+  ],
+  "hjames-madame-de-mauves": [
+   7813,
+   "Madame De Mauves"
+  ],
+  "hjames-a-passionate-pilgrim": [
+   8080,
+   "A Passionate Pilgrim",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "hjames-louisa-pallant": [
+   8081,
+   "Louisa Pallant",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "hjames-hawthorne-english-men-of-letters-series": [
+   18566,
+   "Hawthorne (English Men of Letters Series)"
+  ],
+  "hjames-bostonians-vol-i-of-ii": [
+   19717,
+   "The Bostonians, Vol. I (of II)"
+  ],
+  "hjames-bostonians-vol-ii-of-ii": [
+   19718,
+   "The Bostonians, Vol. II (of II)"
+  ],
+  "hjames-tragic-muse": [
+   20085,
+   "The Tragic Muse"
+  ],
+  "hjames-georginas-reasons": [
+   21771,
+   "Georgina's Reasons"
+  ],
+  "hjames-path-of-duty": [
+   21772,
+   "The Path Of Duty"
+  ],
+  "hjames-four-meetings": [
+   21773,
+   "Four Meetings",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.$",
+      "title_next": true
+     }
+    ],
+    "start": "I\\.$",
+    "front": true
+   }
+  ],
+  "hjames-embarrassments": [
+   21932,
+   "Embarrassments",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-finer-grain": [
+   21968,
+   "The Finer Grain",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-outcry": [
+   21969,
+   "The Outcry"
+  ],
+  "hjames-a-london-life-and-other-tales": [
+   25500,
+   "A London Life, and Other Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-picture-and-text-1893": [
+   25767,
+   "Picture and Text 1893"
+  ],
+  "hjames-a-small-boy-and-others": [
+   26115,
+   "A Small Boy and Others"
+  ],
+  "hjames-wings-of-the-dove-volume-1-of-2": [
+   29452,
+   "The Wings of the Dove, Volume 1 of 2"
+  ],
+  "hjames-wings-of-the-dove-volume-ii": [
+   30059,
+   "The Wings of the Dove, Volume II"
+  ],
+  "hjames-middle-years": [
+   32649,
+   "The Middle Years"
+  ],
+  "hjames-sacred-fount": [
+   32939,
+   "The Sacred Fount"
+  ],
+  "hjames-spoils-of-poynton": [
+   33325,
+   "The Spoils of Poynton"
+  ],
+  "hjames-views-and-reviews": [
+   37424,
+   "Views and Reviews",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-within-the-rim-and-other-essays-1914-15": [
+   37425,
+   "Within the Rim, and Other Essays, 1914-15"
+  ],
+  "hjames-lady-barbarina-the-siege-of-london-an-international-e": [
+   37627,
+   "Lady Barbarina, The Siege of London, An International Episode, and Other Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-letters-of-henry-james-vol-ii": [
+   38035,
+   "The Letters of Henry James (Vol. II)",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-notes-of-a-son-and-brother": [
+   38424,
+   "Notes of a Son and Brother"
+  ],
+  "hjames-letters-of-henry-james-vol-i": [
+   38776,
+   "The Letters of Henry James (Vol. I)",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-two-magics": [
+   42486,
+   "The Two Magics: The Turn of the Screw, Covering End"
+  ],
+  "hjames-birthplace": [
+   55078,
+   "The Birthplace",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "hjames-partial-portraits": [
+   58471,
+   "Partial Portraits",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-english-hours": [
+   58938,
+   "English Hours"
+  ],
+  "hjames-notes-on-novelists-with-some-other-notes": [
+   60040,
+   "Notes on Novelists, with Some Other Notes"
+  ],
+  "hjames-ivory-tower": [
+   62979,
+   "The Ivory Tower",
+   {
+    "levels": [
+     {
+      "re": "[IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "I$",
+    "front": true
+   }
+  ],
+  "hjames-sense-of-the-past": [
+   63369,
+   "The Sense of the Past"
+  ],
+  "hjames-private-life-the-wheel-of-time-lord-beaupr-the-visits": [
+   64396,
+   "The private life, The wheel of time, Lord Beaupré, The visits, Collaboration, Owen Wingrave."
+  ],
+  "hjames-princess-casamassima": [
+   64599,
+   "The Princess Casamassima: A Novel"
+  ],
+  "hjames-gabrielle-de-bergerac": [
+   65481,
+   "Gabrielle de Bergerac"
+  ],
+  "hjames-a-most-unholy-trade-being-letters-on-the-drama-by-hen": [
+   65683,
+   "\"A Most Unholy Trade,\" Being Letters on the Drama by Henry James"
+  ],
+  "hjames-a-landscape-painter": [
+   68340,
+   "A landscape painter"
+  ],
+  "hjames-american-scene": [
+   68717,
+   "The American scene",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-portraits-of-places": [
+   68961,
+   "Portraits of places",
+   {
+    "contents_only": true
+   }
+  ],
+  "hjames-princess-casamassima-volume-1-of-2": [
+   69628,
+   "The Princess Casamassima (Volume 1 of 2)"
+  ],
+  "hjames-princess-casamassima-volume-2-of-2": [
+   69629,
+   "The Princess Casamassima (Volume 2 of 2)"
+  ],
+  "hjames-watch-and-ward": [
+   72355,
+   "Watch and ward"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-59462": "PG 59462: Gutenberg's index of the author's works, not a book.",
+  "split-parts": "Gutenberg's split-part files PG 4262, 4263: the complete edition of each is on the shelf instead.",
+  "repeat-editions": "PG 21770, 28004: second Gutenberg editions of titles already on the shelf."
+ },
+ "_checks": {
+  "hjames-roderick-hudson": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-american": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-confidence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-europeans": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-daisy-miller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-turn-of-the-screw": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-an-international-episode": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-aspern-papers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-ambassadors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-death-of-the-lion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-figure-in-the-carpet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-lesson-of-the-master": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-pupil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-beast-in-the-jungle": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-in-the-cage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-jolly-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-coxon-fund": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-glasses": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-a-little-tour-in-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-pandora": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-some-short-stories-by-henry-james": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-beldonald-holbein": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-a-bundle-of-letters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-diary-of-a-man-of-fifty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-patagonia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-marriages": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-madonna-of-the-future": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-eugene-pickering": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-real-thing-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-sir-dominick-ferrand": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-nona-vincent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-chaperon": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-greville-fane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-pension-beaurepas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-portrait-of-a-lady-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-portrait-of-a-lady-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-point-of-view": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-washington-square": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-author-of-beltraffio": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-golden-bowl-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-italian-hours": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-what-maisie-knew": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-awkward-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-reverberator": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-madame-de-mauves": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-a-passionate-pilgrim": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-louisa-pallant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-hawthorne-english-men-of-letters-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-bostonians-vol-i-of-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-bostonians-vol-ii-of-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-tragic-muse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-georginas-reasons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-path-of-duty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-four-meetings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-embarrassments": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-finer-grain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-outcry": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-a-london-life-and-other-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-picture-and-text-1893": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-a-small-boy-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-wings-of-the-dove-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-wings-of-the-dove-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-middle-years": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-sacred-fount": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-spoils-of-poynton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-views-and-reviews": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-within-the-rim-and-other-essays-1914-15": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-lady-barbarina-the-siege-of-london-an-international-e": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-letters-of-henry-james-vol-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-notes-of-a-son-and-brother": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-letters-of-henry-james-vol-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-two-magics": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-birthplace": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-partial-portraits": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-english-hours": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-notes-on-novelists-with-some-other-notes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-ivory-tower": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-sense-of-the-past": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-private-life-the-wheel-of-time-lord-beaupr-the-visits": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-princess-casamassima": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-gabrielle-de-bergerac": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-a-most-unholy-trade-being-letters-on-the-drama-by-hen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-a-landscape-painter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-american-scene": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-portraits-of-places": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-princess-casamassima-volume-1-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-princess-casamassima-volume-2-of-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hjames-watch-and-ward": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "henry james",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

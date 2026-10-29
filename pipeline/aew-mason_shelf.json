@@ -1,0 +1,321 @@
+{
+ "_about": "A. E. W. Mason's adventure and detective novels (The Four Feathers, the Hanaud books): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "A. E. W. Mason",
+ "_name_words": [
+  "mason"
+ ],
+ "_surname": [
+  "a. e. w. mason"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aewmason-at-the-villa-rose": [
+   4745,
+   "At the Villa Rose",
+   {
+    "contents_only": true
+   }
+  ],
+  "aewmason-broken-road": [
+   10755,
+   "The Broken Road",
+   {
+    "contents_only": true
+   }
+  ],
+  "aewmason-witness-for-the-defence": [
+   12535,
+   "Witness for the Defence"
+  ],
+  "aewmason-ensign-knightley-and-other-stories": [
+   12859,
+   "Ensign Knightley, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "aewmason-running-water": [
+   12891,
+   "Running Water"
+  ],
+  "aewmason-philanderers": [
+   13057,
+   "The Philanderers"
+  ],
+  "aewmason-clementina": [
+   13567,
+   "Clementina"
+  ],
+  "aewmason-summons": [
+   16381,
+   "The Summons"
+  ],
+  "aewmason-four-feathers": [
+   18883,
+   "The Four Feathers",
+   {
+    "contents_only": true
+   }
+  ],
+  "aewmason-affair-at-the-semiramis-hotel": [
+   38663,
+   "The Affair at the Semiramis Hotel"
+  ],
+  "aewmason-four-corners-of-the-world": [
+   38664,
+   "The Four Corners of the World",
+   {
+    "contents_only": true
+   }
+  ],
+  "aewmason-courtship-of-morrice-buckler": [
+   38665,
+   "The Courtship of Morrice Buckler: A Romance"
+  ],
+  "aewmason-green-stockings": [
+   38678,
+   "Green Stockings: A Comedy in Three Acts"
+  ],
+  "aewmason-miranda-of-the-balcony": [
+   38679,
+   "Miranda of the Balcony: A Story"
+  ],
+  "aewmason-truants": [
+   38685,
+   "The Truants"
+  ],
+  "aewmason-turnstile": [
+   38689,
+   "The Turnstile",
+   {
+    "contents_only": true
+   }
+  ],
+  "aewmason-watchers": [
+   38693,
+   "The Watchers: A Novel"
+  ],
+  "aewmason-lawrence-clavering": [
+   38718,
+   "Lawrence Clavering"
+  ],
+  "aewmason-a-romance-of-wastdale": [
+   38719,
+   "A Romance of Wastdale"
+  ],
+  "aewmason-winding-stair": [
+   60125,
+   "The Winding Stair"
+  ],
+  "aewmason-house-of-the-arrow": [
+   67514,
+   "The House of the Arrow"
+  ],
+  "aewmason-royal-exchange": [
+   75944,
+   "The Royal Exchange"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "aewmason-at-the-villa-rose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-broken-road": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-witness-for-the-defence": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-ensign-knightley-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-running-water": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-philanderers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-clementina": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-summons": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-four-feathers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-affair-at-the-semiramis-hotel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-four-corners-of-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-courtship-of-morrice-buckler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-green-stockings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-miranda-of-the-balcony": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-truants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-turnstile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-watchers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-lawrence-clavering": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-a-romance-of-wastdale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-winding-stair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-house-of-the-arrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aewmason-royal-exchange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "a. e. w. mason",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

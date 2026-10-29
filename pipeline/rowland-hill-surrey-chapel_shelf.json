@@ -1,0 +1,151 @@
+{
+ "_about": "Public-domain Rowland Hill (1744-1833, evangelical preacher of Surrey Chapel, London; not Sir Rowland Hill of the penny post) for the Word Hoard: Village Dialogues (2 vols, Tegg, 1825), his Journal of a Tour through the North of England and Scotland (1799) and its sequel (1800), Christ Crucified (the sermon at the opening of Surrey Chapel; RTS, catalogued 1839), A Collection of Psalms and Hymns (catalogued 1787), and Edwin Sidney's Life (3rd ed., 1835) and Select Notes of his preaching (1837), raw Internet Archive OCR. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "rowland",
+  "hill"
+ ],
+ "_surname": [
+  "rowland hill",
+  "rev. rowland hill",
+  "rowland hill, a.m",
+  "rowland hill, m.a",
+  "the rev. rowland hill",
+  "hill, rowland"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rhill-village-dialogues-1": [
+   "villagedialogues11hill",
+   "Village Dialogues, vol. 1, twenty-fourth edition (London: Thomas Tegg, 1825)"
+  ],
+  "rhill-village-dialogues-2": [
+   "villagedialogues21hill",
+   "Village Dialogues, vol. 2, twenty-second edition (London: Thomas Tegg, 1825)"
+  ],
+  "rhill-journal-1799": [
+   "bim_eighteenth-century_journal-of-a-tour-throug_hill-rowland_1799",
+   "Journal of a Tour through the North of England and Parts of Scotland (1799; long-s OCR)"
+  ],
+  "rhill-second-tour-1800": [
+   "bim_eighteenth-century_extract-of-a-journal-of-_hill-rowland_1800",
+   "Extract of a Journal of a Second Tour (London: A. Paris, 1800; long-s OCR)"
+  ],
+  "rhill-christ-crucified": [
+   "christcrucifieds733hill",
+   "Christ Crucified, the sermon at the opening of Surrey Chapel, 1783 (London: Religious Tract Society; catalogued 1839)"
+  ],
+  "rhill-psalms-hymns": [
+   "copsal00hill",
+   "A Collection of Psalms and Hymns, chiefly intended for public worship (London, sold at Surrey Chapel; catalogued 1787)"
+  ],
+  "rhill-sidney-life-1835": [
+   "thelifeoftherevr00sidnuoft",
+   "The Life of the Rev. Rowland Hill, by Edwin Sidney, third edition (London: Baldwin & Cradock, 1835)"
+  ],
+  "rhill-select-notes-1837": [
+   "selectnotesprea00hillgoog",
+   "Select Notes of the Preaching of the late Rev. Rowland Hill, by Edwin Sidney (London: Baldwin and Cradock, 1837)"
+  ]
+ },
+ "_alternates": {
+  "rhill-jones-memoir": "Memoir by William Jones, 3rd ed. (Bohn, 1845; IA revrowla00jone)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "rhill-psalms-hymns": {
+   "author": "Title page read: \"By R O W L A N D HILL, A. M.\", London: L. Wayland, sold at the Surry Chapel, 1787; OCR spaces the letters."
+  }
+ },
+ "_checks": {
+  "rhill-village-dialogues-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rowland hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rhill-village-dialogues-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rowland hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rhill-journal-1799": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rowland hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1799",
+   "ia_date": "1799",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rhill-second-tour-1800": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rowland hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rhill-christ-crucified": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rowland hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rhill-psalms-hymns": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1787",
+   "ia_date": "1787",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rhill-sidney-life-1835": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rowland hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rhill-select-notes-1837": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "rowland hill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

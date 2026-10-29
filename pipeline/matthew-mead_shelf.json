@@ -1,0 +1,41 @@
+{
+ "_about": "Public-domain Matthew Mead (1630-1699, Independent minister at Stepney) for the Word Hoard: The Almost Christian Discovered, or The False Professor Tried and Cast (Glasgow: Chalmers and Collins, catalogued 1825, Select Christian Authors, with an introductory essay by David Young), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "mead",
+  "matthew"
+ ],
+ "_surname": [
+  "matthew mead",
+  "matthew meade",
+  "mr. mead",
+  "m. mead",
+  "mead, matthew"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mead-almost-christian-1825": [
+   "almostchristiand00mead",
+   "The Almost Christian Discovered, or The False Professor Tried and Cast, with an introductory essay by David Young (Glasgow: Chalmers and Collins; catalogued 1825)"
+  ]
+ },
+ "_alternates": {
+  "mead-almost-christian": "Other printings on IA: 1788, 1815, 1850, 1856, and the Presbyterian Board of Publication's (catalogued 1900)",
+  "mead-name-in-heaven": "A Name in Heaven the Truest Ground of Joy (1707; IA anameinheaventr00meadgoog)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "mead-almost-christian-1825": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "matthew mead",
+   "identity": "ok",
+   "ia_rights": "ok: published 1825",
+   "ia_date": "1825",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

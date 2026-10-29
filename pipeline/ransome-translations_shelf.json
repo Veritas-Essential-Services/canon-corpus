@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur Ransome (1884-1967) as translator and reteller: Remy de Gourmont's A Night in the Luxembourg (1912) and Old Peter's Russian Tales (1916). Both US public domain (pre-1931). His own Swallows and Amazons is on Lane B's pipeline/ransome_shelf.json (added the same day at Adam's request); not duplicated here. Added 2026-10-10 by lane C; Adam may veto. No uids minted.",
+ "_name_words": [
+  "arthur ransome"
+ ],
+ "_surname": [
+  "arthur ransome"
+ ],
+ "_surname_note": "Full printed name only, per Lane D's name audit.",
+ "ccel": {},
+ "gutenberg": {
+  "ransome-old-peter": [
+   16981,
+   "Old Peter's Russian Tales"
+  ],
+  "ransome-gourmont-luxembourg": [
+   46766,
+   "A Night in the Luxembourg"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ransome-old-peters-russian-tales": {
+   "source": "ransome-old-peter",
+   "work": "Old Peter's Russian Tales",
+   "of": "Russian folk tales, retold",
+   "published": 1916,
+   "translator": "Arthur Ransome",
+   "scan_edition": "Project Gutenberg 16981 (clean text)"
+  },
+  "ransome-gourmont-night-in-the-luxembourg": {
+   "source": "ransome-gourmont-luxembourg",
+   "of": "Remy de Gourmont",
+   "work": "A Night in the Luxembourg",
+   "translated": 1912,
+   "translator": "Arthur Ransome",
+   "scan_edition": "Project Gutenberg 46766 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "ransome-own-books": "Swallows and Amazons and the rest of the series: Ransome's own books, on Lane B's ransome_shelf.json."
+ },
+ "_verified": {
+  "ransome-old-peter": {
+   "pg": 16981,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "ransome-gourmont-luxembourg": {
+   "pg": 46766,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Ransome"
+  }
+ },
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ransome-old-peter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ransome-gourmont-luxembourg": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur ransome",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Ransome"
+  }
+ }
+}

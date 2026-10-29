@@ -1,0 +1,55 @@
+{
+ "_about": "Valerius Flaccus, Argonautica, in English. No complete public-domain English translation is known (Mozley's Loeb is 1934). Raw IA OCR of two Book I translations: an anonymous English verse version (London; catalogue date [1808], catalogue attribution to T. Noble, whose name the title page does not print), and H. G. Blomfield's prose (Oxford: Blackwell, 1916; US public domain by date).",
+ "_name_words": [
+  "valerius",
+  "flaccus",
+  "argonautica"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "valerius-flaccus-anon-1808-book1": [
+   "firstbookofargon00flacrich",
+   "The First Book of the Argonautica of C. Valerius Flaccus Setinus Balbus, in English verse (London; catalogue date [1808])",
+   "tr. anonymous (catalogue attribution: T. Noble)"
+  ],
+  "valerius-flaccus-blomfield-1916-book1": [
+   "argonauticabook100valeuoft",
+   "The Argonautica of Gaius Valerius Flaccus Setinus Balbus, Book I, translated into English prose with introduction and notes (Oxford: B. H. Blackwell, 1916)",
+   "tr. H. G. Blomfield"
+  ]
+ },
+ "_surname": [
+  "valerius flaccus",
+  "flaccus"
+ ],
+ "_translators": {},
+ "_translator_unchecked": {
+  "valerius-flaccus-anon-1808-book1": "the title page names no translator; T. Noble is the archive.org catalogue's attribution only",
+  "valerius-flaccus-blomfield-1916-book1": "the title page OCR garbles the name (BLOMYETELD, M.A., I.C.S., late scholar of Exeter College); H. G. Blomfield per the catalogue"
+ },
+ "_checks": {
+  "valerius-flaccus-anon-1808-book1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "valerius flaccus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1808",
+   "ia_date": "[1808]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "valerius-flaccus-blomfield-1916-book1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "valerius flaccus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

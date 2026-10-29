@@ -1,0 +1,102 @@
+{
+ "_about": "TRANSLATOR SHELF: Mary Wollstonecraft (1759-1797) as translator: Necker's Of the Importance of Religious Opinions (1788) and Madame de Cambon's Young Grandison (1790, 2 vols). US public domain. Added 2026-10-10 by lane C (round 29); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mary wollstonecraft"
+ ],
+ "_surname": [
+  "mary wollstonecraft"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "mwo-68481": [
+   68481,
+   "Young Grandison, volume 1 (of 2)"
+  ],
+  "mwo-69736": [
+   69736,
+   "Young Grandison, volume 2 (of 2)"
+  ],
+  "mwo-76773": [
+   76773,
+   "Of the importance of religious opinions"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "wollstonecraft-cambon-young-grandison-vol-1": {
+   "source": "mwo-68481",
+   "of": "Madame de Cambon",
+   "work": "Young Grandison, volume 1 (of 2)",
+   "translated": "1788-1790 (see the Gutenberg header)",
+   "translator": "Mary Wollstonecraft",
+   "scan_edition": "Project Gutenberg 68481 (clean text)"
+  },
+  "wollstonecraft-cambon-young-grandison-vol-2": {
+   "source": "mwo-69736",
+   "of": "Madame de Cambon",
+   "work": "Young Grandison, volume 2 (of 2)",
+   "translated": "1788-1790 (see the Gutenberg header)",
+   "translator": "Mary Wollstonecraft",
+   "scan_edition": "Project Gutenberg 69736 (clean text)"
+  },
+  "wollstonecraft-necker-of-the-importance-of-religious-opinions": {
+   "source": "mwo-76773",
+   "of": "Jacques Necker",
+   "work": "Of the importance of religious opinions",
+   "translated": "1788-1790 (see the Gutenberg header)",
+   "translator": "Mary Wollstonecraft",
+   "scan_edition": "Project Gutenberg 76773 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "mwo-68481": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Wollstonecraft"
+  },
+  "mwo-69736": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Wollstonecraft"
+  },
+  "mwo-76773": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mary wollstonecraft",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mary Wollstonecraft"
+  }
+ },
+ "_verified": {
+  "mwo-68481": {
+   "pg": 68481,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Wollstonecraft"
+  },
+  "mwo-69736": {
+   "pg": 69736,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Wollstonecraft"
+  },
+  "mwo-76773": {
+   "pg": 76773,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mary Wollstonecraft"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

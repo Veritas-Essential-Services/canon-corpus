@@ -1,0 +1,98 @@
+{
+ "_about": "Public-domain Elizabeth Singer Rowe (1674-1737), Dissenting devotional writer and poet of Frome, for the Word Hoard: The History of Joseph, Devout Exercises of the Heart (published by Isaac Watts), her Miscellaneous Works, and Poems on Several Occasions. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 101 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "elizabeth rowe",
+  "elizabeth singer rowe",
+  "mrs. rowe",
+  "mrs rowe"
+ ],
+ "_surname": [
+  "elizabeth rowe",
+  "elizabeth singer rowe",
+  "mrs. rowe",
+  "mrs rowe"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rowe-history-of-joseph": [
+   "bim_eighteenth-century_the-history-of-joseph-a_rowe-elizabeth-singer_1742",
+   "The history of Joseph. A poem. In ten books. By Mrs. Elizabeth Rowe, ...  1742 (catalogued 1742)"
+  ],
+  "rowe-devout-exercises": [
+   "bim_eighteenth-century_devout-exercises-of-the-_rowe-elizabeth-singer_1771",
+   "Devout exercises of the heart, in meditation, soliloquy, prayer and praise. By the late pious and ingenious Mrs. Rowe. Review'd and published, at her request, by I. Watts. D.D.  1771 (catalogued 1771)"
+  ],
+  "rowe-miscellaneous-works": [
+   "miscellaneouswor01rowe",
+   "The miscellaneous works in prose and verse : the greater part now first published, vol. 1 (London : Printed for R. Hett and R. Dodsley, 1739)"
+  ],
+  "rowe-poems": [
+   "bim_eighteenth-century_poems-on-several-occasio_rowe-elizabeth-singer_1759",
+   "Poems on several occasions. By Mrs. Elizabeth Rowe. To which is prefixed, an account of the life and writings of the author.  1759 (catalogued 1759)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "rowe-german": "German translations"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "rowe-history-of-joseph": "Title page (OCR, and catalogue title): 'The History of Joseph. A Poem. In ten books. By Mrs. Elizabeth Rowe, author of Friendship in Death, &c.... MDCCXLII.'"
+ },
+ "_pending": {
+  "rowe-expostulatory-epistle": "bim_eighteenth-century_an-expostulatory-epistle_rowe-elizabeth-singer_1720: 'by a lady'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "rowe-friendship-in-death": "bim_eighteenth-century_friendship-in-death-in-_rowe-elizabeth-singer_1728: published anonymously; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "rowe-letters": "bim_eighteenth-century_letters-on-various-occas_rowe-elizabeth-singer_1729: 'by the author of Friendship in Death'; attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "rowe-history-of-joseph": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1742",
+   "ia_date": "1742",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rowe-devout-exercises": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth rowe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1771",
+   "ia_date": "1771",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rowe-miscellaneous-works": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth rowe",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1739",
+   "ia_date": "1739",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rowe-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth rowe",
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

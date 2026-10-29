@@ -1,0 +1,49 @@
+{
+ "_about": "Robert Sessions Woodworth (1869-1962), Columbia psychologist. Raw IA OCR: Dynamic Psychology, Jesup lectures 1916-17 (Columbia University Press, 1918); Psychology, a study of mental life (Henry Holt; the OCR garbles both the copyright year and the printing date, but the preface is dated August 1921, so this is the first edition's text). Published before 1930. US public domain. No uids minted.",
+ "_author": "Robert S. Woodworth",
+ "_name_words": [
+  "robert",
+  "sessions",
+  "woodworth"
+ ],
+ "_surname": [
+  "woodworth"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "woodworth-dynamic-psychology-1918": [
+   "dynamicpsycholog00woodrich",
+   "Dynamic Psychology (Columbia University Press, 1918)"
+  ],
+  "woodworth-psychology-1921": [
+   "psychologyastud01woodgoog",
+   "Psychology, a study of mental life (Holt, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "woodworth-dynamic-psychology-1918": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "woodworth-psychology-1921": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "woodworth",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

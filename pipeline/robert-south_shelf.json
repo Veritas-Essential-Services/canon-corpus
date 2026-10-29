@@ -1,0 +1,129 @@
+{
+ "_about": "Public-domain Robert South (1634-1716, Prebendary of Westminster and Canon of Christ Church) for the Word Hoard: Sermons Preached upon Several Occasions (Oxford: Clarendon Press, 1823, 7 vols), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 9 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "s/south",
+ "_name_words": [
+  "south",
+  "robert"
+ ],
+ "_surname": [
+  "robert south",
+  "dr. south",
+  "r. south"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "south-sermons-1": [
+   "sermonspreached01soutuoft",
+   "Sermons Preached upon Several Occasions, vol. 1 (Oxford: Clarendon Press, 1823)"
+  ],
+  "south-sermons-2": [
+   "sermonspreached02soutuoft",
+   "Sermons Preached upon Several Occasions, vol. 2 (Oxford: Clarendon Press, 1823)"
+  ],
+  "south-sermons-3": [
+   "sermonspreachedu03soutuoft",
+   "Sermons Preached upon Several Occasions, vol. 3 (Oxford: Clarendon Press, 1823)"
+  ],
+  "south-sermons-4": [
+   "sermonspreachedu04soutuoft",
+   "Sermons Preached upon Several Occasions, vol. 4 (Oxford: Clarendon Press, 1823)"
+  ],
+  "south-sermons-5": [
+   "sermonspreachedu05soutuoft",
+   "Sermons Preached upon Several Occasions, vol. 5 (Oxford: Clarendon Press, 1823)"
+  ],
+  "south-sermons-6": [
+   "sermonspreachedu06soutuoft",
+   "Sermons Preached upon Several Occasions, vol. 6 (Oxford: Clarendon Press, 1823)"
+  ],
+  "south-sermons-7": [
+   "sermonspreachedu00soutuoft",
+   "Sermons Preached upon Several Occasions, vol. 7 (Oxford: Clarendon Press, 1823)"
+  ]
+ },
+ "_alternates": {
+  "south-sermons": "Tegg's London edition, 1843 (sermonspreache0*sout and others); Philadelphia 1844 (Sorin and Ball)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "south-sermons-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert south",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "south-sermons-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert south",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "south-sermons-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert south",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "south-sermons-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert south",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "south-sermons-5": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert south",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "south-sermons-6": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert south",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "south-sermons-7": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "robert south",
+   "identity": "ok",
+   "ia_rights": "ok: published 1823",
+   "ia_date": "1823",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

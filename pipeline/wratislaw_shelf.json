@@ -1,0 +1,52 @@
+{
+ "_about": "Sixty Folk-Tales from Exclusively Slavonic Sources, translated with brief introductions and notes by A. H. Wratislaw (1889): Bohemian, Slovak, Polish, Russian, Serbian, Bulgarian and other tales, cut by nation and tale. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "A. H. Wratislaw, tr.",
+ "_name_words": [
+  "wratislaw"
+ ],
+ "_surname": [
+  "a. h. wratislaw"
+ ],
+ "_translators": {
+  "wratislaw-sixty-folk-tales": "Wratislaw"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "wratislaw-sixty-folk-tales": [
+   48761,
+   "Sixty Folk-Tales from Exclusively Slavonic Sources",
+   {
+    "levels": [
+     {
+      "re": "_[A-Z][^a-z]+\\._$",
+      "strip": "^_|\\._$"
+     },
+     {
+      "re": "\\(FROM [^a-z]+\\)$",
+      "strip": "[()]|\\.\\)?$"
+     },
+     {
+      "re": "[IVXL]+\\.--"
+     }
+    ],
+    "start": "_BOHEMIAN STORIES\\._$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "wratislaw-sixty-folk-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "a. h. wratislaw",
+   "translator_claimed": "Wratislaw",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

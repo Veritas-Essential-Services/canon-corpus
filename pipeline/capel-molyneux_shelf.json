@@ -1,0 +1,56 @@
+{
+ "_about": "Public-domain Capel Molyneux (1804-1877), evangelical incumbent of Holy Trinity, Paddington, and St Paul's, Onslow Square, who later left the Church of England, for the Word Hoard: Baptismal Regeneration Compared with the Word of God (1842) and Gethsemane, lectures (1854). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 66 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "molyneux"
+ ],
+ "_surname": [
+  "capel molyneux",
+  "c. molyneux",
+  "rev. capel molyneux"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "molyneux-baptismal-regeneration": [
+   "baptismalregene00molygoog",
+   "Baptismal regeneration compared with the word of God and the standards of the Church of England (catalogued 1842)"
+  ],
+  "molyneux-gethsemane": [
+   "gethsemanelectu00molygoog",
+   "Gethsemane, lectures (catalogued 1854)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "molyneux-other": "Other Molyneuxes (William Molyneux of Dublin and others)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "molyneux-baptismal-regeneration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "capel molyneux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "molyneux-gethsemane": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "capel molyneux",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

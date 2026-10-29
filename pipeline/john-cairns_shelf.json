@@ -1,0 +1,103 @@
+{
+ "_about": "Public-domain John Cairns (1818-1892, United Presbyterian Church of Scotland, Principal of its Theological Hall, Edinburgh) for the Word Hoard: Unbelief in the Eighteenth Century (1881), Romanism and Rationalism (1863), Christ the Morning Star (1892), Christianity and Miracles (catalogued 1883) and the Memoir of John Brown (catalogued 1860), raw Internet Archive OCR. Added 2026-10-09 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "cairns",
+  "john"
+ ],
+ "_surname": [
+  "john cairns",
+  "j. cairns",
+  "cairns, john",
+  "principal cairns",
+  "rev. john cairns"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jcairns-unbelief-1881": [
+   "unbeliefineighte00cair",
+   "Unbelief in the Eighteenth Century as Contrasted with Its Earlier and Later History, the Cunningham Lectures for 1880 (Edinburgh: Adam and Charles Black, 1881)"
+  ],
+  "jcairns-romanism-1863": [
+   "romanismrational00cairrich",
+   "Romanism and Rationalism as Opposed to Pure Christianity (1863)"
+  ],
+  "jcairns-morning-star-1892": [
+   "bwb_C0-AMM-624",
+   "Christ the Morning Star, and Other Sermons (London: Hodder and Stoughton, 1892)"
+  ],
+  "jcairns-miracles": [
+   "christianitymira00cair",
+   "Christianity and Miracles at the Present Day (American Tract Society; catalogued 1883)"
+  ],
+  "jcairns-memoir-john-brown": [
+   "memoirjohnbrown00cairgoog",
+   "Memoir of John Brown, D.D. (catalogued 1860)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "jcairns-unbelief-1881": {
+   "author": "title page read 2026-10-09: OCR gives \"BY JOHN CAIKNS, D.D. PRINCIPAL AND [PR]OFESSOR OF SYSTEMATIC THEOLOGY AND APOLOGETICS IN THE UNITED PRESBYTERIAN COLLEGE\" (CAIKNS is an OCR artifact), Adam and Charles Black, 1881: John Cairns"
+  }
+ },
+ "_checks": {
+  "jcairns-unbelief-1881": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcairns-romanism-1863": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john cairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jcairns-morning-star-1892": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john cairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jcairns-miracles": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "principal cairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jcairns-memoir-john-brown": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john cairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

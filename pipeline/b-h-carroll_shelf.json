@@ -1,0 +1,177 @@
+{
+ "_about": "Public-domain B. H. Carroll (Benajah Harvey Carroll, 1843-1914, Baptist, founder of Southwestern Baptist Theological Seminary) for the Word Hoard: his Sermons with a life sketch (1893) and nine volumes of An Interpretation of the English Bible in the Revell printings of 1913-1917, edited by J. B. Cranfill, raw Internet Archive OCR. The other volumes exist only in post-1942 Broadman reprints and are left out. Not his son B. H. Carroll Jr. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "carroll"
+ ],
+ "_surname": [
+  "b. h. carroll",
+  "benajah harvey carroll",
+  "carroll, b. h.",
+  "b. h. carroll, d.d.",
+  "b. h. carroll, ll.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "carroll-sermons-1893": [
+   "sermonslifesketc0000carr",
+   "Sermons and Life Sketch of B. H. Carroll, compiled by J. B. Cranfill (Philadelphia: American Baptist Publication Society; copyright 1893)"
+  ],
+  "carroll-exodus-leviticus": [
+   "interpretationof02carr",
+   "An Interpretation of the English Bible: Exodus and Leviticus (New York: Fleming H. Revell; copyright 1913)"
+  ],
+  "carroll-revelation": [
+   "bookofrevelation00carr",
+   "An Interpretation of the English Bible: The Book of Revelation (New York: Fleming H. Revell; copyright 1913)"
+  ],
+  "carroll-daniel": [
+   "danielinterbibli00carr",
+   "An Interpretation of the English Bible: Daniel and the Inter-Biblical Period (New York: Fleming H. Revell; copyright 1915)"
+  ],
+  "carroll-pastoral-epistles": [
+   "pastoralepistles00carr",
+   "An Interpretation of the English Bible: The Pastoral Epistles of Paul, I and II Peter, Jude, and I, II and III John (New York: Fleming H. Revell; copyright 1915)"
+  ],
+  "carroll-four-gospels-2": [
+   "interpretationof07carr",
+   "An Interpretation of the English Bible: The Four Gospels, vol. 2 (New York: Fleming H. Revell; copyright 1916)"
+  ],
+  "carroll-james-thess-cor": [
+   "interpretationof10carr",
+   "An Interpretation of the English Bible: James, I and II Thessalonians, I and II Corinthians (New York: Fleming H. Revell; copyright 1916)"
+  ],
+  "carroll-galatians-romans": [
+   "galatiansromansp00carr",
+   "An Interpretation of the English Bible: Galatians, Romans, Philippians, Philemon (New York: Fleming H. Revell; copyright 1916)"
+  ],
+  "carroll-hebrew-monarchy": [
+   "hebrewmonarchy00carr",
+   "An Interpretation of the English Bible: The Hebrew Monarchy (New York: Fleming H. Revell; copyright 1916)"
+  ],
+  "carroll-colossians-ephesians-hebrews": [
+   "colossians00carr",
+   "An Interpretation of the English Bible: Colossians, Ephesians and Hebrews (New York: Fleming H. Revell; copyright 1917)"
+  ]
+ },
+ "_alternates": {
+  "carroll-copies": "Second copies: interpretationof00carr, interpretationof12carr, MN41874ucmf_1, cihm_66598; Revell-imprint scans with unknown printing year (bookofrevelation0000bhca and others)"
+ },
+ "_excluded": {
+  "carroll-broadman": "Broadman Press reprints (copyright purchased 1942) and 1930-and-later volumes",
+  "carroll-jr": "B. H. Carroll Jr. (IA genesisofamerica00carr and his histories): his son, a different author"
+ },
+ "_checks": {
+  "carroll-sermons-1893": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "carroll-exodus-leviticus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carroll-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "[c1913]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carroll-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carroll-pastoral-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carroll-four-gospels-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carroll-james-thess-cor": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1913",
+   "ia_date": "1913",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "carroll-galatians-romans": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carroll-hebrew-monarchy": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "carroll-colossians-ephesians-hebrews": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "b. h. carroll",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

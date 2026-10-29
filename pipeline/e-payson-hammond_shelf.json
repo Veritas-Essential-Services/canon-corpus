@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Edward Payson Hammond (1831-1910), Presbyterian evangelist known as 'the children's evangelist', for the Word Hoard: Little Ones in the Fold (1862), Jesus the Way, or the Child's Guide to Heaven (1869), The Better Life and How to Find It (1869), Sketches of Palestine (1869), Gathered Lambs (1870), The Conversion of Children (1882) and Early Conversion (1901). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 67 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hammond",
+  "payson"
+ ],
+ "_surname": [
+  "e. payson hammond",
+  "edward payson hammond",
+  "e. p. hammond",
+  "rev. e. p. hammond"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ephammond-little-ones": [
+   "littleonesinfold00hamm",
+   "Little ones in the fold (Boston : Henry Hoyt, 1862)"
+  ],
+  "ephammond-jesus-the-way": [
+   "jesuswayorchilds00hammuoft",
+   "Jesus the Way; or, The child's guide to Heaven, teaching little children to find Jesus, who says \"I am the Way\" (London, S.S. Union, 1869)"
+  ],
+  "ephammond-better-life": [
+   "betterlifehowtof0000edwa",
+   "The Better Life, and How to find it for Young Men and Young Women (Boston: Henry Hoyt, 1869)"
+  ],
+  "ephammond-sketches-palestine": [
+   "sketchesofpalest00hammiala",
+   "Sketches of Palestine : descriptive of the visit of the Rev. Edward Payson Hammond, to the Holy Land (London : Morgan & Chase ; New York : T. Nelson, 1869)"
+  ],
+  "ephammond-gathered-lambs": [
+   "gatheredlambssho00hamm",
+   "Gathered lambs : showing how Jesus the \"Good Shepherd\" laid down his life for us, and how many little lambs have been gathered into his fold (Cincinnati : Western Tract and Book Society, 1870)"
+  ],
+  "ephammond-conversion-children": [
+   "conversionofchil00hamm",
+   "The conversion of children (New York : Funk & Wagnalls, 1882)"
+  ],
+  "ephammond-early-conversion": [
+   "earlyconversion00hamm",
+   "Early conversion (New York, J. S. Ogilvie publishing company, 1901)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ephammond-other": "Hymn and tune books he compiled (Hymns of Salvation, New Praises of Jesus, The Song Evangel); The Reaper and the Harvest (P. C. Headley's account of his work); Henry Hammond, on his own shelf"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ephammond-little-ones": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ephammond-jesus-the-way": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ephammond-better-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ephammond-sketches-palestine": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ephammond-gathered-lambs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward payson hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "ephammond-conversion-children": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. payson hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ephammond-early-conversion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. payson hammond",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

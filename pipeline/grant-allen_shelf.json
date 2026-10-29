@@ -1,0 +1,460 @@
+{
+ "_about": "Grant Allen's novels, stories and popular science: every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-18 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Grant Allen",
+ "_name_words": [
+  "allen"
+ ],
+ "_surname": [
+  "grant allen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "gallen-british-barbarians": [
+   4340,
+   "The British Barbarians"
+  ],
+  "gallen-woman-who-did": [
+   4396,
+   "The Woman Who Did"
+  ],
+  "gallen-biographies-of-working-men": [
+   4529,
+   "Biographies of Working Men",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-an-african-millionaire": [
+   4715,
+   "An African Millionaire: Episodes in the Life of the Illustrious Colonel Clay"
+  ],
+  "gallen-hilda-wade-a-woman-with-tenacity-of-purpose": [
+   4903,
+   "Hilda Wade, a Woman with Tenacity of Purpose (completed by Arthur Conan Doyle)"
+  ],
+  "gallen-recalled-to-life": [
+   5832,
+   "Recalled to Life"
+  ],
+  "gallen-michaels-crag": [
+   5869,
+   "Michael's Crag",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-whats-bred-in-the-bone": [
+   6010,
+   "What's Bred in the Bone",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-philistia": [
+   6060,
+   "Philistia"
+  ],
+  "gallen-great-taboo": [
+   13876,
+   "The Great Taboo"
+  ],
+  "gallen-science-in-arcady": [
+   16325,
+   "Science in Arcady",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-anglo-saxon-britain": [
+   16790,
+   "Anglo-Saxon Britain"
+  ],
+  "gallen-falling-in-love": [
+   16807,
+   "Falling in Love; With Other Essays on More Exact Branches of Science"
+  ],
+  "gallen-post-prandial-philosophy": [
+   18788,
+   "Post-Prandial Philosophy",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-miss-cayleys-adventures": [
+   30970,
+   "Miss Cayley's Adventures",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-charles-darwin": [
+   34730,
+   "Charles Darwin"
+  ],
+  "gallen-white-mans-foot": [
+   34744,
+   "The White Man's Foot"
+  ],
+  "gallen-beckoning-hand-and-other-stories": [
+   38531,
+   "The Beckoning Hand, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-strange-stories": [
+   38575,
+   "Strange Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-wednesday-the-tenth-a-tale-of-the-south-pacific": [
+   43688,
+   "Wednesday the Tenth, A Tale of the South Pacific",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-evolutionist-at-large": [
+   44820,
+   "The Evolutionist at Large",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-blood-royal": [
+   47426,
+   "Blood Royal: A Novel"
+  ],
+  "gallen-babylon-volume-1": [
+   47431,
+   "Babylon, Volume 1"
+  ],
+  "gallen-babylon-volume-2": [
+   47432,
+   "Babylon, Volume 2"
+  ],
+  "gallen-babylon-volume-3": [
+   47433,
+   "Babylon, Volume 3"
+  ],
+  "gallen-linnet": [
+   48296,
+   "Linnet: A Romance"
+  ],
+  "gallen-moorland-idylls": [
+   48959,
+   "Moorland Idylls",
+   {
+    "contents_only": true
+   }
+  ],
+  "gallen-cities-of-belgium-grant-allens-historical-guides": [
+   49690,
+   "Cities of Belgium Grant Allen's Historical Guides"
+  ],
+  "gallen-paris-grant-allens-historical-guides": [
+   49907,
+   "Paris Grant Allen's Historical Guides"
+  ],
+  "gallen-evolution-of-the-idea-of-god": [
+   57581,
+   "The Evolution of the Idea of God: An Inquiry Into the Origins of Religions"
+  ],
+  "gallen-type-writer-girl": [
+   78662,
+   "The type-writer girl",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58064": "PG 58064: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 6492: second Gutenberg editions of titles already on the shelf.",
+  "pg-41263": "PG 41263 The Mediterranean: a many-author book (Bonney, Allen, Griffiths and others)."
+ },
+ "_checks": {
+  "gallen-british-barbarians": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-woman-who-did": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-biographies-of-working-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-an-african-millionaire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-hilda-wade-a-woman-with-tenacity-of-purpose": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-recalled-to-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-michaels-crag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-whats-bred-in-the-bone": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-philistia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-great-taboo": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-science-in-arcady": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-anglo-saxon-britain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-falling-in-love": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-post-prandial-philosophy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-miss-cayleys-adventures": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-charles-darwin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-white-mans-foot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-beckoning-hand-and-other-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-strange-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-wednesday-the-tenth-a-tale-of-the-south-pacific": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-evolutionist-at-large": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-blood-royal": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-babylon-volume-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-babylon-volume-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-babylon-volume-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-linnet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-moorland-idylls": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-cities-of-belgium-grant-allens-historical-guides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-paris-grant-allens-historical-guides": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-evolution-of-the-idea-of-god": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gallen-type-writer-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "grant allen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "_about": "Public-domain John Leng (1665-1727), Bishop of Norwich, for the Word Hoard: Natural Obligations to Believe the Principles of Religion and Divine Revelation (his Boyle Lectures of 1717-18) and his sermons of 1699 to 1727. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 136 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john leng",
+  "j. leng",
+  "leng",
+  "bishop of norwich"
+ ],
+ "_surname": [
+  "leng"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "leng-sermon-1699": [
+   "bim_early-english-books-1641-1700_a-sermon-preachd-_leng-john-bp_1699",
+   "A sermon preach'd ...  1699 (catalogued 1699)"
+  ],
+  "leng-st-katherines-1704": [
+   "bim_eighteenth-century_a-sermon-preached-at-the_leng-john_1704",
+   "A sermon preached at the consecration of the chappel of St. Katherine's-Hall, in the University of Cambridge, September 1. 1704. By John Leng ... To which is added the form of consecration used by the Lord Bishop of Ely.  1704 (catalogued 1704)"
+  ],
+  "leng-st-pauls-1713": [
+   "bim_eighteenth-century_a-sermon-preachd-at-the_leng-john-bishop-of-no_1713",
+   "A sermon preach'd at the cathedral-church of St. Paul.  1713 (catalogued 1713)"
+  ],
+  "leng-knowledge-of-god": [
+   "bim_eighteenth-century_knowledge-of-the-nature-_leng-john_1715",
+   "Knowledge of the nature and providence of God, an inducement to believe and trust in Him. A sermon preach'd at Tunbridge-Wells in Kent, on Sunday Sept. 4th, 1715, ... By John Leng, ...  1715 (catalogued 1715)"
+  ],
+  "leng-praying-for-kings": [
+   "bim_eighteenth-century_the-duty-of-praying-for-_leng-john_1715",
+   "The duty of praying for kings, and for all in authority. A sermon preach'd in the parish-church of Bedington in Surrey, November 6. 1715. By John Leng, ...  1715 (catalogued 1715)"
+  ],
+  "leng-advantages-government": [
+   "bim_eighteenth-century_the-advantages-of-govern_leng-john_1716_0",
+   "The advantages of government, and the duty of preserving it. A sermon preach'd at the assizes held at Kingston upon Thames, March 22. 1715. ... By J. Leng, ...  1716 (catalogued 1716)"
+  ],
+  "leng-gods-government": [
+   "bim_eighteenth-century_gods-government-of-the-_leng-john_1716",
+   "God's government of the world, matter of great joy. A sermon preach'd at Tunbridge-Wells, on Wednesday, August 1st, 1716....By John Leng,...  1716 (catalogued 1716)"
+  ],
+  "leng-reformation-manners": [
+   "bim_eighteenth-century_a-sermon-preached-to-the_leng-john-bishop-of-no_1719",
+   "A sermon preached to the Societies for reformation of manners at St. Mary-le-Bow; on Monday, December the 29th MDCCXVIII. By John Leng, ...  1719 (catalogued 1719)"
+  ],
+  "leng-natural-obligations": [
+   "naturalobligatio00leng",
+   "Natural obligations to believe the principles of religion, and divine revelation : in xvi sermons, preached in the Church of St. Mary le Bow, London, in the years 1717 and 1718 ; at the lecture founded by the honourable Robert Boyle, Esq (London : Printed by W.B. for Robert Knaplock, 1719)"
+  ],
+  "leng-lords-1726": [
+   "bim_eighteenth-century_a-sermon-preachd-before_leng-john_1726",
+   "A sermon preach'd before the Lords ... at the Collegiate-church of St. Peter, Westminster, on Monday, January the 31st 1725. ... By ... John Lord Bishop of Norwich.  1726 (catalogued 1726)"
+  ],
+  "leng-spg-1727": [
+   "bim_eighteenth-century_a-sermon-preached-before_leng-john-bishop-of-no_1727",
+   "A sermon preached before the incorporated Society for the propagation of the Gospel in Foreign Parts.  1727 (catalogued 1727)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "leng-latin": "Fides in SS. Trinitatem (1698) is Latin and a one-image scan",
+  "leng-classics": "his editions of Terence and Aristophanes are classical"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "leng-st-katherines-1704": "title page (image): 'By John Leng B.D. and Fellow of the said Hall', Cambridge 1704",
+  "leng-knowledge-of-god": "title page (image): 'By John Leng, B.D. Rector of Bedington in Surrey', 1715",
+  "leng-advantages-government": {
+   "author": "title page (image): 'By J. Leng, D.D. Rector of Bedington', 1716",
+   "title": "title page (image): 'The Advantages of Government, and the Duty of preserving it. A Sermon preach'd at the Assizes held at Kingston upon Thames' (the OCR of the title page is unreadable)"
+  },
+  "leng-gods-government": "title page (image): 'By John Leng, D.D. Rector of Bedington', Tunbridge Wells, 1716",
+  "leng-reformation-manners": "title page (image): 'By John Leng, D.D. Rector of Bedington, and Chaplain in Ordinary to His Majesty', 1719",
+  "leng-lords-1726": "title page (OCR): 'The Bishop of Norwich's Fast-Sermon', January 31, 1725/6, with the Lords' order of thanks to the Lord Bishop of Norwich (Leng was Bishop of Norwich 1723-1727)",
+  "leng-spg-1727": "title page (OCR): 'By the Right Reverend Father in God, [John], Lord Bishop of Norwich', 15 February 1726/7 (Leng was Bishop of Norwich 1723-1727)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "leng-sermon-1699": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "leng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1699",
+   "ia_date": "1699",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-st-katherines-1704": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1704",
+   "ia_date": "1704",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-st-pauls-1713": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "leng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1713",
+   "ia_date": "1713",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-knowledge-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1715",
+   "ia_date": "1715",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-praying-for-kings": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "leng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1715",
+   "ia_date": "1715",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-advantages-government": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1716",
+   "ia_date": "1716",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-gods-government": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1716",
+   "ia_date": "1716",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-reformation-manners": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1719",
+   "ia_date": "1719",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-natural-obligations": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "leng",
+   "identity": "ok",
+   "ia_rights": "ok: published 1719",
+   "ia_date": "1719",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "leng-lords-1726": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1726",
+   "ia_date": "1726",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "leng-spg-1727": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1727",
+   "ia_date": "1727",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

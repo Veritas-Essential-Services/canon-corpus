@@ -1,0 +1,45 @@
+{
+ "_about": "Charles M. Skinner's (1852-1907) collections of American legends, place by place: Myths and Legends of Our Own Land (all nine parts in one file; undated in the text: the Internet Archive catalogue dates the Lippincott edition 1896, records mythslegendsofou03skin and mythslegendsofou04skin, read 2026-10-03) and Myths and Legends of Our New Possessions and Protectorate (1900 in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "Charles M. Skinner",
+ "_name_words": [
+  "skinner"
+ ],
+ "_surname": [
+  "charles m. skinner"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "skinner-myths-and-legends-of-our-own-land": [
+   6615,
+   "Myths and Legends of Our Own Land (complete)"
+  ],
+  "skinner-myths-and-legends-of-our-new-possessions": [
+   24732,
+   "Myths and Legends of Our New Possessions and Protectorate"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "skinner-own-land-parts": "PG 6606-6614, the nine parts of Myths and Legends of Our Own Land issued separately; the complete file PG 6615 is held, so the parts are held once inside it"
+ },
+ "_checks": {
+  "skinner-myths-and-legends-of-our-own-land": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles m. skinner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "skinner-myths-and-legends-of-our-new-possessions": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "charles m. skinner",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

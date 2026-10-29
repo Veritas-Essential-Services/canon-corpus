@@ -1,0 +1,47 @@
+{
+ "_about": "Public-domain Richard Rothe (1799-1867, Heidelberg theologian) in English for the Word Hoard: Still Hours, tr. Jane T. Stoddart (London: Hodder and Stoughton, 1886), from an Internet Archive scan. Added 2026-10-18 by lane A, round 29 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "rothe"
+ ],
+ "_surname": [
+  "rothe",
+  "richard rothe"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rothe-still-hours": [
+   "stillhours00roth",
+   "Still Hours, tr. Jane T. Stoddart, with an introductory essay by John Macpherson (London: Hodder and Stoughton, MDCCCLXXXVI)"
+  ]
+ },
+ "_alternates": {
+  "rothe-copies": "Another 1886 copy and the Toronto issue"
+ },
+ "_excluded": {
+  "rothe-other": "His German works; a different Richard Rothe"
+ },
+ "_rights_checked": {},
+ "_pending": {
+  "rothe-ethics": "Theologische Ethik in English: not found"
+ },
+ "_translators": {
+  "rothe-still-hours": "stoddart"
+ },
+ "_checks": {
+  "rothe-still-hours": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "rothe",
+   "translator_claimed": "stoddart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

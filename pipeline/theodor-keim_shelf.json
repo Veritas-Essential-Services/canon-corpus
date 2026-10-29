@@ -1,0 +1,140 @@
+{
+ "_about": "Public-domain Theodor Keim (1825-1878, Zürich and Giessen) in English for the Word Hoard: The History of Jesus of Nazara in six volumes in the Theological Translation Fund Library (London: Williams and Norgate, 1876-1883), tr. Arthur Ransom and E. M. Geldart, from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "keim"
+ ],
+ "_surname": [
+  "keim",
+  "theodor keim",
+  "dr. theodor keim"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "keim-jesus-of-nazara-1": [
+   "historyofjesusof01keimuoft",
+   "The History of Jesus of Nazara, vol. I, second edition, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1876)"
+  ],
+  "keim-jesus-of-nazara-2": [
+   "historyofjesusof02keimuoft",
+   "The History of Jesus of Nazara, vol. II, tr. E. M. Geldart (London and Edinburgh: Williams and Norgate, 1876)"
+  ],
+  "keim-jesus-of-nazara-3": [
+   "historyofjesusof03keimuoft",
+   "The History of Jesus of Nazara, vol. III, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1877)"
+  ],
+  "keim-jesus-of-nazara-4": [
+   "historyofjesusof04keimuoft",
+   "The History of Jesus of Nazara, vol. IV, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1879)"
+  ],
+  "keim-jesus-of-nazara-5": [
+   "historyofjesusof05keimuoft",
+   "The History of Jesus of Nazara, vol. V, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1881)"
+  ],
+  "keim-jesus-of-nazara-6": [
+   "historyofjesusof06keimuoft",
+   "The History of Jesus of Nazara, vol. VI, tr. Arthur Ransom (London and Edinburgh: Williams and Norgate, 1883)"
+  ]
+ },
+ "_alternates": {
+  "keim-1873": "historyofjesusof01keim: vol. I, first English edition (1873), translator not named; superseded by Ransom's 1876 re-translation",
+  "keim-copies": "Other copies of each volume"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "keim-jesus-of-nazara-1": "title page read: 1876 (the catalogue's 1873 is wrong for all six volumes)",
+  "keim-jesus-of-nazara-5": "title page read: Williams and Norgate, 1881, tr. Arthur Ransom; the author's name is not printed on this volume's title page"
+ },
+ "_pending": {},
+ "_translators": {
+  "keim-jesus-of-nazara-1": "ransom",
+  "keim-jesus-of-nazara-2": "geldart",
+  "keim-jesus-of-nazara-3": "ransom",
+  "keim-jesus-of-nazara-4": "ransom",
+  "keim-jesus-of-nazara-5": "ransom",
+  "keim-jesus-of-nazara-6": "ransom"
+ },
+ "_checks": {
+  "keim-jesus-of-nazara-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keim",
+   "translator_claimed": "ransom",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 1876 (the catalogue's 1873 is wrong for all six volumes)"
+  },
+  "keim-jesus-of-nazara-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keim",
+   "translator_claimed": "geldart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keim-jesus-of-nazara-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keim",
+   "translator_claimed": "ransom",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keim-jesus-of-nazara-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keim",
+   "translator_claimed": "ransom",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keim-jesus-of-nazara-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keim",
+   "translator_claimed": "ransom",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Williams and Norgate, 1881, tr. Arthur Ransom; the author's name is not printed on this volume's title page"
+  },
+  "keim-jesus-of-nazara-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "keim",
+   "translator_claimed": "ransom",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1873",
+   "ia_date": "1873-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "_about": "Frank Thilly (1865-1934), Cornell philosopher and translator of Paulsen and Weber's History. Raw IA OCR: Introduction to Ethics (New York: Scribner's, copyright 1900; this copy 1912), clean 0.89; A History of Philosophy (New York: Holt, 1914), clean 0.92. Not taken: an October 1931 printing of the History and the 1951 Wood revision. His Paulsen translations are on the friedrich-paulsen shelf. US public domain. No uids minted.",
+ "_author": "Frank Thilly",
+ "_name_words": [
+  "frank",
+  "thilly"
+ ],
+ "_surname": [
+  "thilly"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "thilly-introduction-to-ethics-1900": [
+   "introductiontoe03thilgoog",
+   "Introduction to Ethics (Scribner's, 1900; 1912 printing)"
+  ],
+  "thilly-history-of-philosophy-1914": [
+   "a-history-of-philosophy-frank-thilly-1914",
+   "A History of Philosophy (Holt, 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "thilly-introduction-to-ethics-1900": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thilly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "thilly-history-of-philosophy-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thilly",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

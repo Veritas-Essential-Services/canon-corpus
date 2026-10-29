@@ -1,0 +1,45 @@
+{
+ "_about": "Herbert Ernest Cushman (1865-1944), American historian of philosophy (Tufts). Gutenberg: A Beginner's History of Philosophy, vol. 1: Ancient and Mediaeval (1910); A Beginner's History of Philosophy, vol. 2: Modern (1911). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Herbert Ernest Cushman",
+ "_name_words": [
+  "herbert",
+  "ernest",
+  "cushman"
+ ],
+ "_surname": [
+  "cushman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "cushman-beginners-history-philosophy-1": [
+   61651,
+   "A Beginner's History of Philosophy, vol. 1: Ancient and Mediaeval (1910)"
+  ],
+  "cushman-beginners-history-philosophy-2": [
+   62663,
+   "A Beginner's History of Philosophy, vol. 2: Modern (1911)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "cushman-beginners-history-philosophy-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cushman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cushman-beginners-history-philosophy-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cushman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

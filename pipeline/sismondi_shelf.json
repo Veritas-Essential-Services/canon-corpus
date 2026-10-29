@@ -1,0 +1,33 @@
+{
+ "_about": "J.-C.-L. Simonde de Sismondi (1773-1842), economist and historian: Political Economy and the Philosophy of Government, a series of essays selected from his works, with Mignet's historical notice of his life and writings, translated from the French with a preliminary essay by the (unnamed) translator (London: John Chapman, MDCCCXLVII), raw IA OCR, clean 0.95. This shelf holds his political economy; his histories are not taken here, and Thomas Roscoe's translation of his Literature of the South of Europe belongs to the translator shelves. US public domain. No uids minted.",
+ "_author": "J.-C.-L. Simonde de Sismondi",
+ "_name_words": [
+  "sismondi",
+  "simonde"
+ ],
+ "_surname": [
+  "sismondi"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "sismondi-political-economy-1847": [
+   "politicaleconomy00sismuoft",
+   "Political Economy and the Philosophy of Government (London: John Chapman, 1847)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "sismondi-political-economy-1847": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "sismondi",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

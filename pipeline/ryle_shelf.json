@@ -1,0 +1,731 @@
+{
+ "_about": "Every public-domain J. C. Ryle (1816-1900, Bishop of Liverpool) text the Word Hoard holds. Works published in his lifetime are public domain; posthumous printings before 1931 are PD too and are marked. Later abridgements, 'modernised' editions and reprints from 1927 on are excluded. Expository Thoughts on the Gospels (7 vols) is assembled from single volumes of different lifetime printings, each identified by the chapter range of its section headings: Matthew from CCEL, Mark, Luke 1-2, John 1-3 from Internet Archive. Ryle's compiled hymnals belong to the hymn manifest. Extended 2026-10-24 by lane A at Adam's request (his Libronix list): Coming Events and Present Duties (1879 printing), and three items held since 2026-10-02 shelved once their title pages were read: \"Occupy Till I Come\" (1865), Do You Pray? and Worldly Conformity.",
+ "_ccel_author": "r/ryle",
+ "_name_words": [
+  "ryle",
+  "charles"
+ ],
+ "_surname": [
+  "ryle"
+ ],
+ "ccel": {
+  "ryle-holiness": [
+   "holiness",
+   "Holiness: Its Nature, Hindrances, Difficulties, and Roots",
+   ""
+  ],
+  "ryle-et-matthew": [
+   "matthew",
+   "Expository Thoughts on Matthew",
+   ""
+  ],
+  "ryle-upper-room": [
+   "upper_room",
+   "The Upper Room: Being a Few Truths for the Times",
+   ""
+  ]
+ },
+ "gutenberg": {
+  "ryle-practical-religion": [
+   38162,
+   "Practical Religion"
+  ],
+  "ryle-the-cross": [
+   62001,
+   "The Cross: A Tract for the Times"
+  ],
+  "ryle-whitefield": [
+   34727,
+   "A Sketch of the Life and Labors of George Whitefield"
+  ]
+ },
+ "internet_archive": {
+  "ryle-et-mark-1863": [
+   "saintmark0000ryle",
+   "Expository Thoughts on the Gospels: St. Mark (1863 printing; Mark 1-16)"
+  ],
+  "ryle-et-luke-1": [
+   "expositorythoug06rylegoog",
+   "Expository Thoughts on the Gospels: St. Luke, vol. 1 (Luke 1-10)"
+  ],
+  "ryle-et-luke-2": [
+   "saintluke0002ryle",
+   "Expository Thoughts on the Gospels: St. Luke, vol. 2 (1862; Luke 11-24)"
+  ],
+  "ryle-et-john-1": [
+   "saintjohn0000ryle",
+   "Expository Thoughts on the Gospels: St. John, vol. 1 (1866; John 1-6)"
+  ],
+  "ryle-et-john-2": [
+   "expositorythough06ryle",
+   "Expository Thoughts on the Gospels: St. John, vol. 2 (John 7-12)"
+  ],
+  "ryle-et-john-3": [
+   "expositorythough07ryle",
+   "Expository Thoughts on the Gospels: St. John, vol. 3 (John 13-21)"
+  ],
+  "ryle-knots-untied": [
+   "knotsuntied00ryleuoft",
+   "Knots Untied (1885 printing)"
+  ],
+  "ryle-old-paths": [
+   "oldpathsbeingpla00ryle",
+   "Old Paths (1878)"
+  ],
+  "ryle-christian-leaders": [
+   "christianleaders00ryle",
+   "The Christian Leaders of the Last Century (1869)"
+  ],
+  "ryle-bishops-clergy": [
+   "bishopsclergyofo00ryle",
+   "Bishops and Clergy of Other Days (1868)"
+  ],
+  "ryle-facts-and-men": [
+   "factsandmenpage00rylegoog",
+   "Facts and Men: Pages from English Church History, 1553-1683 (1882)"
+  ],
+  "ryle-light-old-times": [
+   "lightfromoldtime00ryleuoft",
+   "Light from Old Times (1902 printing; first ed. 1890)"
+  ],
+  "ryle-principles-churchmen": [
+   "principlesforchu00ryleuoft",
+   "Principles for Churchmen (1900 printing; first ed. 1884)"
+  ],
+  "ryle-home-truths-1854": [
+   "hometruthsmisce01rylegoog",
+   "Home Truths: Miscellaneous Addresses and Tracts (1854 printing; series not confirmed from OCR)"
+  ],
+  "ryle-home-truths-1857": [
+   "hometruthsmisce02rylegoog",
+   "Home Truths: Miscellaneous Addresses and Tracts (1857 printing; fifth series per its title page, to confirm)"
+  ],
+  "ryle-home-truths-1859": [
+   "hometruthsmisce00rylegoog",
+   "Home Truths: Miscellaneous Addresses and Tracts (1859 printing; seventh series per its title page, to confirm)"
+  ],
+  "ryle-living-or-dead": [
+   "livingordeadseri00ryle",
+   "Living or Dead? A Series of Home Truths (1852)"
+  ],
+  "ryle-startling-questions": [
+   "startlingquestio00ryle",
+   "Startling Questions (1853)"
+  ],
+  "ryle-priest-puritan-preacher": [
+   "priestpuritanpre00ryle",
+   "The Priest, the Puritan, and the Preacher (1856)"
+  ],
+  "ryle-christian-race": [
+   "thechristianrace00ryleuoft",
+   "The Christian Race and Other Sermons (1900, posthumous)"
+  ],
+  "ryle-lessons-church-history": [
+   "lessonsofenglish00ryle",
+   "The Lessons of English Church History (1903-04 printing)"
+  ],
+  "ryle-two-bears": [
+   "twobearsandothe00rylegoog",
+   "The Two Bears, and Other Sermons for Children (1869)"
+  ],
+  "ryle-simplicity-preaching": [
+   "simplicityinpre00rylegoog",
+   "Simplicity in Preaching (1882)"
+  ],
+  "ryle-bible-inspiration": [
+   "bibleinspiratio00rylegoog",
+   "Bible Inspiration: Its Reality and Nature (1877)"
+  ],
+  "ryle-thoughts-immortality": [
+   "thoughtsonimmor00farrgoog",
+   "Thoughts on Immortality, with remarks on Canon Farrar's Eternal Hope (1883)"
+  ],
+  "ryle-what-good-will-it-do": [
+   "a633784100ryleuoft",
+   "What Good Will It Do? (disestablishment, 1872)"
+  ],
+  "ryle-child-trained": [
+   "howshouldchildbe00ryle",
+   "How Should a Child Be Trained? (1910s printing)"
+  ],
+  "ryle-what-time-is-it": [
+   "whattimeisitbein00ryle",
+   "What Time Is It? (tract no. 195, 1854)"
+  ],
+  "ryle-have-you-the-spirit": [
+   "haveyouspiritque00ryle",
+   "Have You the Spirit? (tract no. 192, 1854)"
+  ],
+  "ryle-rich-and-poor": [
+   "richpoortractfor00ryle",
+   "Rich and Poor (tract no. 193, 1853)"
+  ],
+  "ryle-what-is-your-hope": [
+   "whatisyourhopequ00ryle",
+   "What Is Your Hope? (tract no. 194, 1856)"
+  ],
+  "ryle-no-more-crying": [
+   "nomorecryingaddr00ryle",
+   "No More Crying: An Address to Children (tract no. 196, 1859)"
+  ],
+  "ryle-only-one-way": [
+   "cihm_40623",
+   "Only One Way (tract, 1851)"
+  ],
+  "ryle-are-you-forgiven": [
+   "cihm_64164",
+   "Are You Forgiven? (tract, 1851)"
+  ],
+  "ryle-call-to-prayer": [
+   "a-call-to-prayer",
+   "A Call to Prayer (1860 printing)",
+   "A Call to Prayer_djvu.txt"
+  ],
+  "ryle-coming-events": [
+   "comingeventsand00evengoog",
+   "Coming events and present duties, sermons on prophetical subjects, arranged by J.C. Ryle (catalogued 1879)"
+  ],
+  "ryle-occupy-till-i-come": [
+   "occupytillicomeb00ryle",
+   "\"Occupy Till I Come\" (Philadelphia: Charles Campbell; New York: J. Inglis, 1865)"
+  ],
+  "ryle-do-you-pray": [
+   "doyoupray00ryle",
+   "Do You Pray? (tract no. 152, Philadelphia: Presbyterian Board of Publication; no year printed)"
+  ],
+  "ryle-worldly-conformity": [
+   "worldlyconformi00rylegoog",
+   "Worldly Conformity: What It Is Not, and What It Is (1878)"
+  ]
+ },
+ "_alternates": {
+  "expositorythough01ryle / expositorythoug00ryle / expositorythoug04rylegoog / expositorythough0000ryle": "Expository Thoughts, Matthew, IA printings 1856-1896; held from CCEL instead.",
+  "expositorythough05ryle / expositorythoug02rylegoog": "Expository Thoughts, John vol. 1, 1879 printings; the 1866 printing is held.",
+  "expositorythoug01rylegoog": "Expository Thoughts, John vol. 2, 1878 printing; duplicate.",
+  "expositorythoug08rylegoog": "Expository Thoughts, Luke vol. 1, second scan; duplicate.",
+  "expositorythough0000ryle_p5i8": "Expository Thoughts, Luke vol. 2, 1875 printing; duplicate.",
+  "expositorythough00ryleuoft / expositorythough00ryleiala": "Expository Thoughts, Mark, 1859-60 printings; duplicate.",
+  "practicalreligio00ryle": "Practical Religion, 1883 IA scan; Gutenberg text held instead.",
+  "christianleaders00ryleuoft / christianleader00ryle": "Christian Leaders, other printings; duplicate.",
+  "asketchlifeandl00rylegoog": "Whitefield, 1854 scan; Gutenberg text held.",
+  "a-call-to-prayer, ryle-simplicity-in-preaching, HolinessJ.C.Ryle1887": "IA items whose text file is not named <id>_djvu.txt (the fetcher's pattern); same works held from other items."
+ },
+ "_excluded": {
+  "PG 48182": "The Sabbath: by Andrew Thomson; Ryle is only a contributor",
+  "twobears (CCEL)": "CCEL's 'twobears' XML returns 402 bytes (empty); the 1869 IA scan is held instead",
+  "youmustpray00ryle": "You Must Pray: text layer only 2,369 bytes, unusable",
+  "iinviteyoubyjcry00ryle": "I Invite You!: undated single-sheet tract (7 KB), provenance unclear; listed as pending",
+  "hymnsforchurchon66ryle and other 'Hymns for the Church on Earth' / spiritualsongsfo00ryle": "Hymnals Ryle compiled (others' hymns): see hymn manifest",
+  "modern reprints": "practicalreligio0000ryle*, holiness0000ryle, holiness_JC_Ryle, holinessitsnatur*, bwb_*, expositorythough0001john etc., calltoprayer0000ryle, fiveenglishrefor0000ryle, knotsuntied0000john (1927), thoughtsforyoung00calv (1992), isbn_* (2012-16), dailyreadingsfro*: 1927-2017 printings, possibly in copyright or 'modernised'",
+  "translations": "bub_gb_Jgo-AAAAcAAJ (French), elsecretodelavid00ryle (Spanish), bub_gb_f_054xdutaQC, bub_gb__pBDAw6uXrAC (Italian), nagravnligaordtil00ryle (Swedish), viesdelatimerba00rylegoog (French)",
+  "same-name authors": "John A. Ryle MD (medicine), James Ryle, John Ryle (Dinka), John Ryle Wood, Julia Ryle, Wesley T. Ryle, Anne Libby Ryle; Gilbert Ryle (philosopher)",
+  "selectsermonsofg0000jcry": "Select Sermons of George Whitefield (1964): Whitefield's sermons with Ryle's sketch; modern edition",
+  "29464147.1852.emory.edu": "the 1852 microform lecture has no text file"
+ },
+ "_pending": {},
+ "_identity_checked": {
+  "ryle-home-truths-1857": "content check 2026-10-02: the OCR never names Ryle (it passed the old check only on 'charles'), but it names Helmingham 6 times, including 'rector of Helmingham', Ryle's parish 1844-61",
+  "ryle-occupy-till-i-come": "Title page, read from the page image (2026-10-24): '\"OCCUPY TILL I COME.\" BY THE REV. J. C. RYLE, B.A., CHRIST'S CHURCH, OXFORD. Philadelphia: Charles Campbell ... New-York: J. Inglis & Co., 1865.'",
+  "ryle-do-you-pray": "Title page, read from the page image (2026-10-24): 'No. 152. DO YOU PRAY? BY THE REV. J. C. RYLE, B.A., CHRIST CHURCH, OXFORD. RECTOR OF HELMINGHAM, SUFFOLK. Philadelphia: Presbyterian Board of Publication, No. 265 Chestnut Street.' No year is printed; Ryle was rector of Helmingham 1844-1861 and the board was at 265 Chestnut Street in the nineteenth century.",
+  "ryle-worldly-conformity": "Cover, read from the page image (2026-10-24): 'WORLDLY CONFORMITY: WHAT IT IS NOT, AND WHAT IT IS. REV. J. C. RYLE' in gilt; the Google scan's title page is lost."
+ },
+ "_checks": {
+  "ryle-holiness": {
+   "kind": "ccel",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: James Clarke &amp; Co., Ltd.",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ryle-et-matthew": {
+   "kind": "ccel",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Robert Carter, 1860",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ryle-upper-room": {
+   "kind": "ccel",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "ryle-practical-religion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ryle-the-cross": {
+   "kind": "gutenberg",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ryle-whitefield": {
+   "kind": "gutenberg",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ryle-et-mark-1863": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-et-luke-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-et-luke-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-et-john-1": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-et-john-2": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-et-john-3": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-knots-untied": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1885",
+   "ia_date": "1885",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-old-paths": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-christian-leaders": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-bishops-clergy": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-facts-and-men": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-light-old-times": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-principles-churchmen": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-home-truths-1854": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-home-truths-1857": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-home-truths-1859": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-living-or-dead": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1852",
+   "ia_date": "1852",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-startling-questions": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-priest-puritan-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-christian-race": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-lessons-church-history": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1903-1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-two-bears": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-simplicity-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-bible-inspiration": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-thoughts-immortality": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-what-good-will-it-do": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-child-trained": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1910-1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-what-time-is-it": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-have-you-the-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-rich-and-poor": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-what-is-your-hope": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-no-more-crying": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-only-one-way": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-are-you-forgiven": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-call-to-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-coming-events": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "ryle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ryle-occupy-till-i-come": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ryle-do-you-pray": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": null,
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "Title page read 2026-10-24: no year printed. It styles Ryle 'Rector of Helmingham, Suffolk', a post he left in 1861, and the imprint is the Presbyterian Board of Publication, 265 Chestnut Street, Philadelphia: a nineteenth-century tract printing, long public domain in the US."
+  },
+  "ryle-worldly-conformity": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_rights_checked": {
+  "ryle-do-you-pray": "Title page read 2026-10-24: no year printed. It styles Ryle 'Rector of Helmingham, Suffolk', a post he left in 1861, and the imprint is the Presbyterian Board of Publication, 265 Chestnut Street, Philadelphia: a nineteenth-century tract printing, long public domain in the US."
+ }
+}

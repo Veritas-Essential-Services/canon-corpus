@@ -1,0 +1,46 @@
+{
+ "_about": "Public-domain Paul Gerhardt (1607-1676, Lutheran hymn writer) in English for the Word Hoard: Paul Gerhardt's Spiritual Songs, tr. John Kelly (London: Alexander Strahan, 1867), from Project Gutenberg. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gerhardt"
+ ],
+ "_surname": [
+  "gerhardt",
+  "paul gerhardt"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "gerhardt-spiritual-songs": [
+   30362,
+   "Paul Gerhardt's Spiritual Songs, tr. John Kelly (London: Alexander Strahan, 1867)"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "gerhardt-copies": "CCEL kelly/gerhardtsong; IA copies of the 1867 edition"
+ },
+ "_excluded": {
+  "gerhardt-about": "Hewitt's study, Wildenhahn's novel and other books about him"
+ },
+ "_rights_checked": {
+  "gerhardt-spiritual-songs": "PG header has no copyright marker; transcribed from page images of the 1867 Strahan edition, which CCEL kelly/gerhardtsong also states"
+ },
+ "_pending": {},
+ "_translators": {
+  "gerhardt-spiritual-songs": "kelly"
+ },
+ "_checks": {
+  "gerhardt-spiritual-songs": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gerhardt",
+   "translator_claimed": "kelly",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Kelly",
+   "translator_match": true
+  }
+ }
+}

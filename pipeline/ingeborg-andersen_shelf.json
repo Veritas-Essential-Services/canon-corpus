@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Ingeborg Andersen (1887-1960): Drachmann's Atheism in Pagan Antiquity (1922) and Poulsen's Etruscan Tomb Paintings (1922). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "ingeborg andersen"
+ ],
+ "_surname": [
+  "ingeborg andersen"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "ian-28312": [
+   28312,
+   "Atheism in Pagan Antiquity"
+  ],
+  "ian-62431": [
+   62431,
+   "Etruscan Tomb Paintings, Their Subjects and Significance"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ingeborg-andersen-drachmann-atheism-in-pagan-antiquity": {
+   "source": "ian-28312",
+   "of": "A. B. Drachmann",
+   "work": "Atheism in Pagan Antiquity",
+   "translated": "1922 (see the Gutenberg header)",
+   "translator": "Ingeborg Andersen",
+   "scan_edition": "Project Gutenberg 28312 (clean text)"
+  },
+  "ingeborg-andersen-poulsen-etruscan-tomb-paintings-their-subjects-a": {
+   "source": "ian-62431",
+   "of": "Frederik Poulsen",
+   "work": "Etruscan Tomb Paintings, Their Subjects and Significance",
+   "translated": "1922 (see the Gutenberg header)",
+   "translator": "Ingeborg Andersen",
+   "scan_edition": "Project Gutenberg 62431 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "ian-28312": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ingeborg andersen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ingeborg Andersen"
+  },
+  "ian-62431": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "ingeborg andersen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Ingeborg Andersen"
+  }
+ },
+ "_verified": {
+  "ian-28312": {
+   "pg": 28312,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ingeborg Andersen"
+  },
+  "ian-62431": {
+   "pg": 62431,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Ingeborg Andersen"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

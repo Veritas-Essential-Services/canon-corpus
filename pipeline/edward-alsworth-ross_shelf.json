@@ -1,0 +1,79 @@
+{
+ "_about": "Edward Alsworth Ross (1866-1951), American sociologist. Gutenberg: The Old World in the New (1914). Raw IA OCR: Social Control, a survey of the foundations of order (New York: Macmillan, 1901; verso lists reprints of 1904 and 1906, the title-page imprint is garbled in the OCR), clean 0.92; Sin and Society (Boston: Houghton Mifflin, 1907), clean 0.89; Social Psychology, an outline and source book (Macmillan, 1908; this copy a 1914 printing), clean 0.92. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "Edward Alsworth Ross",
+ "_name_words": [
+  "edward",
+  "alsworth",
+  "ross"
+ ],
+ "_surname": [
+  "edward alsworth ross",
+  "e. a. ross"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ross-old-world-in-the-new": [
+   47954,
+   "The Old World in the New (1914)"
+  ]
+ },
+ "internet_archive": {
+  "ross-social-control-1906": [
+   "socialcontrolas01rossgoog",
+   "Social Control (Macmillan, 1901; reprint of 1906)"
+  ],
+  "ross-sin-and-society-1907": [
+   "sinsocietyanalys00ross",
+   "Sin and Society (Houghton Mifflin, 1907)"
+  ],
+  "ross-social-psychology-1914": [
+   "cu31924032560579",
+   "Social Psychology (Macmillan, 1908; printing of 1914)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "ross-old-world-in-the-new": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward alsworth ross",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ross-social-control-1906": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward alsworth ross",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ross-sin-and-society-1907": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward alsworth ross",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ross-social-psychology-1914": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edward alsworth ross",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

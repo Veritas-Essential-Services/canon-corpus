@@ -1,0 +1,46 @@
+{
+ "_about": "Silius Italicus in English: Henry William Tytler's verse Punics (Calcutta, 1828), published after his death, as raw IA OCR.",
+ "_name_words": [
+  "silius",
+  "italicus",
+  "punic",
+  "punics",
+  "punica"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "silius-tytler-v1": [
+   "punicsvolume00italgoog",
+   "Punics, vol. I (Calcutta, 1828)",
+   "tr. Henry William Tytler"
+  ]
+ },
+ "_surname": [
+  "silius",
+  "italicus"
+ ],
+ "_excluded": {
+  "J. D. Duff, Punica vol. I (Loeb; first printed 1927)": "held back for Adam: the only scan (IA punicasi01siliuoft) is the 1961 reprint (reprinted 1949, 1961). This is the later-printing question in DIGEST-B",
+  "J. D. Duff, Punica vol. II (Loeb; first printed 1934)": "not taken: first printed 1934 (IA punicasi02siliuoft is the 1961 reprint), after the 1930 line, renewal not checked",
+  "Thomas Ross, The Second Punick War (1661)": "no scan with a text layer found"
+ },
+ "_translators": {
+  "silius-tytler-v1": "Henry William Tytler"
+ },
+ "_checks": {
+  "silius-tytler-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "silius",
+   "translator_claimed": "Henry William Tytler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1828",
+   "ia_date": "1828",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

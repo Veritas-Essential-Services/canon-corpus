@@ -1,0 +1,86 @@
+{
+ "_about": "Favell Lee Mortimer: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Favell Lee Mortimer",
+ "_name_words": [
+  "favell",
+  "lee",
+  "mortimer"
+ ],
+ "_surname": [
+  "favell lee mortimer",
+  "mortimer"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "flmortimer-far-off": [
+   13011,
+   "Far Off; Or, Asia and Australia Described With Anecdotes and Illustrations"
+  ],
+  "flmortimer-blind-beggar-of-jericho": [
+   36584,
+   "The Blind Beggar of Jericho"
+  ],
+  "flmortimer-child-who-died-and-lived-again": [
+   36614,
+   "The Child Who Died and Lived Again"
+  ],
+  "flmortimer-christ-in-the-storm-no-26": [
+   37611,
+   "Christ in the Storm No. 26"
+  ],
+  "flmortimer-peep-of-day": [
+   53894,
+   "The Peep of Day"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "flmortimer-far-off": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "favell lee mortimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flmortimer-blind-beggar-of-jericho": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "favell lee mortimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flmortimer-child-who-died-and-lived-again": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "favell lee mortimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flmortimer-christ-in-the-storm-no-26": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "favell lee mortimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "flmortimer-peep-of-day": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "favell lee mortimer",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

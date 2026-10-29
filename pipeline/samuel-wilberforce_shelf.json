@@ -1,0 +1,101 @@
+{
+ "_about": "Public-domain Samuel Wilberforce (1805-1873, Bishop of Oxford and of Winchester) for the Word Hoard: Agathos (fourth edition, 1841), The Rocky Island (tenth edition, 1849), A History of the Protestant Episcopal Church in America (1844), Sermons (fifth edition, 1849) and Heroes of Hebrew History (fifth edition, 1874), from Internet Archive scans and Project Gutenberg. Written in English. Not his father William Wilberforce, who has his own shelf. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "wilberforce"
+ ],
+ "_surname": [
+  "samuel wilberforce",
+  "wilberforce"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "swilberforce-rocky-island": [
+   20541,
+   "The Rocky Island, and other Similitudes, tenth edition (London: F. & J. Rivington, 1849)"
+  ]
+ },
+ "internet_archive": {
+  "swilberforce-agathos": [
+   "agathosothersund00wilb",
+   "Agathos, and other Sunday Stories, fourth edition (London: Seeley and Burnside, MDCCCXLI)"
+  ],
+  "swilberforce-protestant-episcopal-church": [
+   "ahistoryprotest00magoog",
+   "A History of the Protestant Episcopal Church in America (London: James Burns, 1844)"
+  ],
+  "swilberforce-sermons": [
+   "sermonswil00wilbuoft",
+   "Sermons, fifth edition (London: F. & J. Rivington, 1849)"
+  ],
+  "swilberforce-heroes-hebrew-history": [
+   "heroesofhebrewhi01wilbuoft",
+   "Heroes of Hebrew History, fifth edition (London: W. Isbister, 1874)"
+  ]
+ },
+ "_alternates": {
+  "swilberforce-copies": "Agathos 5th and 7th editions; Heroes (1883); Sermons 6th ed. (1858); Four Sermons (1842); Six Sermons (1848); The Rocky Island (New York, 1841)"
+ },
+ "_excluded": {
+  "swilberforce-about": "Ashwell's Life",
+  "swilberforce-edited": "Henry Martyn's Journal and Evelyn's Life of Mrs. Godolphin, which he only edited"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "swilberforce-rocky-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel wilberforce",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swilberforce-agathos": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel wilberforce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "swilberforce-protestant-episcopal-church": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel wilberforce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swilberforce-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel wilberforce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "swilberforce-heroes-hebrew-history": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "samuel wilberforce",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

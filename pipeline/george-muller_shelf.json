@@ -1,0 +1,93 @@
+{
+ "_about": "Public-domain George Müller (1805-1898, Brethren evangelist and founder of the Ashley Down orphan houses, Bristol) for the Word Hoard: the four parts of A Narrative of Some of the Lord's Dealings with George Müller, and Answers to Prayer (extracts from the Narratives compiled by A. E. C. Brooks), clean from Project Gutenberg (rights lines checked by the fetcher). Added 2026-10-03 by lane A, round 12 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "müller",
+  "muller",
+  "george"
+ ],
+ "_surname": [
+  "george müller",
+  "george muller",
+  "george mueller",
+  "g. müller",
+  "müller, george",
+  "muller, george"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "muller-narrative-1": [
+   "20379",
+   "A Narrative of Some of the Lord's Dealings with George Müller, Part 1"
+  ],
+  "muller-narrative-2": [
+   "22034",
+   "A Narrative of Some of the Lord's Dealings with George Müller, Part 2"
+  ],
+  "muller-narrative-3": [
+   "22148",
+   "A Narrative of Some of the Lord's Dealings with George Müller, Part 3"
+  ],
+  "muller-narrative-4": [
+   "20245",
+   "A Narrative of Some of the Lord's Dealings with George Müller, Part 4"
+  ],
+  "muller-answers-to-prayer": [
+   "25891",
+   "Answers to Prayer, from George Müller's Narratives"
+  ]
+ },
+ "internet_archive": {},
+ "_alternates": {
+  "muller-life-of-trust": "The Life of Trust (PG 27288): an American abridgement of the Narrative edited by H. Lincoln Wayland, left out as a second copy of the same text",
+  "muller-preaching-tours": "The Preaching Tours and Missionary Labours of George Müller (PG 34377) is by his wife, Susannah Grace Müller: not his work"
+ },
+ "_excluded": {},
+ "_checks": {
+  "muller-narrative-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "muller-narrative-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "muller-narrative-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "muller-narrative-4": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "muller-answers-to-prayer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "george müller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

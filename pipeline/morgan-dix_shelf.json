@@ -1,0 +1,393 @@
+{
+ "_about": "Public-domain Morgan Dix (1827-1908), rector of Trinity Church, New York, for the Word Hoard: A Manual of Prayers, Lectures on the Pantheistic Idea, his exposition of Galatians and Colossians, The Book of Hours, Lectures on the Calling of a Christian Woman, The Oxford Movement, The Gospel and Philosophy, The Seven Deadly Sins, The Sacramental System, Blessing and Ban from the Cross, Three Guardians of Supernatural Religion, his History of the Parish of Trinity Church (4 vols.), his memoir of Mother Harriet Starr Cannon, and single sermons. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 94 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "morgan dix",
+  "m. dix"
+ ],
+ "_surname": [
+  "morgan dix",
+  "m. dix"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dix-manual-prayers": [
+   "manualofprayersa00dixm",
+   "A manual of prayers and A guide to the Christian life ([n.p.], 1856)"
+  ],
+  "dix-holy-communion": [
+   "holycommunionsen00dixm",
+   "The Holy Communion : a sense of unworthiness no ground for keeping back from it : a sermon, preached in St. Paul's Chapel, New York, the first Sunday after Epiphany, Jan. 11th, 1857, and Jan. 10th, 1858 (New York : Daniel Dana, Jr., 1859)"
+  ],
+  "dix-gods-mercies": [
+   "godsmerciestowar00dixm",
+   "God's mercies towards the nation. A sermon preached in St. Paul's chapel, New York, Thanksgiving day, 1861 (New York : F. J. Huntington, 1861)"
+  ],
+  "dix-christ-light": [
+   "christlightofwor00dixm",
+   "Christ the light of the world (New York, E. O. Jenkins, printer, 1863)"
+  ],
+  "dix-pantheistic": [
+   "lecturesonpanthe00dixm",
+   "Lectures on the pantheistic idea of an impersonal-substance-deity : as contrasted with the Christian faith concerning Almighty God (New York : Hurd and Houghton ; Boston : E.P. Dutton and company, 1864)"
+  ],
+  "dix-galatians-colossians": [
+   "expositionofepis00dixm",
+   "An exposition of the Epistles of Saint Paul to the Galatians and Colossians : according to the analogy of the Catholic faith (New York : Published for the Author [by Rennie, Shea & Lindsay], 1864)"
+  ],
+  "dix-lincoln": [
+   "deathofpresident00dixm",
+   "The death of President Lincoln : a sermon preached in Saint Paul's Chapel, New York, on Wednesday, April 19, 1865 (Cambridge [Mass.] : Printed at the Riverside Press, 1865)"
+  ],
+  "dix-st-pauls-chapel": [
+   "historicalrecoll00dixmrich",
+   "Historical recollections of S. Paul's Chapel, New York (New York : F.J. Huntington and Co, 1867)"
+  ],
+  "dix-communion-saints": [
+   "dix_communion_saints_1872",
+   "The Communion of Saints, by Morgan Dix (1872) (catalogued 1872)"
+  ],
+  "dix-ascension-1874": [
+   "sermonpreachedin00dixm",
+   "Sermon preached in Trinity Church, New York, on the Feast of the Ascension, May 14, 1874 / by Morgan Dix (John W. Amerman, 1874)"
+  ],
+  "dix-christian-woman": [
+   "lecturesonthecal00dixuoft",
+   "Lectures on the calling of a Christian woman and her training to fulfil it (New York, Appleton, 1883)"
+  ],
+  "dix-oxford-movement": [
+   "oxfordmovement00dixmuoft",
+   "The Oxford movement (Chicago : Living Church Co., 1884)"
+  ],
+  "dix-christian-education": [
+   "christianeducati00dixm",
+   "Christian education : a sermon preached in Christ Church, Hartford, Conn., on Trinity Sunday, June 20, 1886, before the graduating class of Trinity College (Hartford : Press of the Case, Lockwood & Brainard Company, 1886)"
+  ],
+  "dix-gospel-philosophy": [
+   "gospelphilosophy00dixm",
+   "The Gospel and philosophy (N.Y., 1886)"
+  ],
+  "dix-seven-deadly-sins": [
+   "sevendeadlysinss00dixm",
+   "The seven deadly sins : sermons preached in Trinity Chapel, New York, during Lent, 1888 (New York : E. & J.B. Young, 1888)"
+  ],
+  "dix-columbia-1888": [
+   "columbiacollegec00dixmrich",
+   "Columbia college commencement, 1888. Baccalaureate sermon preached in St. Thomas' church, New York, Sunday, June 10th, 1888 ([New York, 1888)"
+  ],
+  "dix-sacramental-system": [
+   "sacramentalsyste00dixm",
+   "The Sacramental system considered as the extension of the incarnation (New York, Longmans, Green, 1893)"
+  ],
+  "dix-harriet-cannon": [
+   "harrietstarrcann00dixmuoft",
+   "Harriet Starr Cannon : first Mother Superior of the Sisterhood of St. Mary : a brief memoir (New York : Longmans, Green, 1896)"
+  ],
+  "dix-trinity-1": [
+   "historyofparisho01dixm",
+   "A history of the parish of Trinity Church in the city of New York, vol. p1 (New York, Putnam, 1898)"
+  ],
+  "dix-trinity-2": [
+   "historyofparisho02dixm",
+   "A history of the parish of Trinity Church in the city of New York, vol. 2 (New York : G.P. Putnam's Sons, 1898)"
+  ],
+  "dix-trinity-3": [
+   "historyofparisho03dixm",
+   "A history of the parish of Trinity Church in the city of New York, vol. 3 (New York : G.P. Putnam's Sons, 1898)"
+  ],
+  "dix-trinity-4": [
+   "historyofparisho04dixm",
+   "A history of the parish of Trinity Church in the city of New York, vol. 4 (New York : G.P. Putnam's Sons, 1898)"
+  ],
+  "dix-blessing-ban": [
+   "blessingbanfromc00dixm",
+   "Blessing and ban from the Cross of Christ; meditations on the Seven Words on the Cross (New York, J. Pott, 1898)"
+  ],
+  "dix-three-guardians": [
+   "threeguardiansof01dixm",
+   "Three guardians of supernatural religion, vol. c.1 (New York, E. S. Gorham, 1901)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dix-other": "Memoirs of John Adams Dix (his father, a political biography), his edition of the 1549 Book of Common Prayer, and a military-order address"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "dix-holy-communion": "title page: 'The Holy Communion: A Sense of Unworthiness no Ground for Keeping back from it. A SERMON, PREACHED IN ST. PAUL'S CHAPEL, NEW YORK ... BY THE REV. MORGAN DIX, AN ASSISTANT MINISTER IN TRINITY PARISH. NEW YORK: DANIEL DANA, Jr. ... 1859' (OCR 'MORGAN DIY')",
+  "dix-pantheistic": "title page: 'LECTURES ON THE PANTHEISTIC IDEA OF AN IMPERSONAL-SUBSTANCE-DEITY, AS CONTRASTED WITH THE CHRISTIAN FAITH CONCERNING ALMIGHTY GOD. BY THE REV. MORGAN DIX, S.T.D. RECTOR OF TRINITY CHURCH, NEW YORK. NEW YORK: HURD AND HOUGHTON ... 1864' (OCR \"MORGAN 'dIX\")",
+  "dix-trinity-1": "title page (black letter): 'A History of the Parish of Trinity Church in the City of New York. Compiled by order of the Corporation and edited by Morgan Dix, S.T.D., D.C.L., Tenth Rector. Part I. To the close of the Rectorship of Dr. Inglis, A.D. 1783. New York: G. P. Putnam's Sons, The Knickerbocker Press, 1898' (OCR 'flDoroan HJiy')",
+  "dix-trinity-3": "title page (black letter): 'A History of the Parish of Trinity Church in the City of New York. Compiled by order of the Corporation and edited by Morgan Dix, S.T.D., D.C.L. Part III. The Rectorship of Dr. Hobart, from February, A.D. 1816, to August, A.D. 1830. New York: G. P. Putnam's Sons' (OCR 'flDoroan DiLr')"
+ },
+ "_pending": {
+  "dix-book-of-hours": "bookofhours00dixm: The Book of Hours (1866) carries no author on its title page; attribution is the catalogue's"
+ },
+ "_translators": {},
+ "_checks": {
+  "dix-manual-prayers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dix-holy-communion": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1859",
+   "ia_date": "1859",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-gods-mercies": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-christ-light": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dix-pantheistic": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-galatians-colossians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-lincoln": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-st-pauls-chapel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-communion-saints": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-ascension-1874": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-christian-woman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-oxford-movement": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-christian-education": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-gospel-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dix-seven-deadly-sins": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-columbia-1888": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-sacramental-system": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-harriet-cannon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dix-trinity-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-trinity-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-trinity-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-trinity-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dix-blessing-ban": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions on this item.",
+   "ia_lending": null
+  },
+  "dix-three-guardians": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "morgan dix",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

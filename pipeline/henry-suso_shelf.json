@@ -1,0 +1,68 @@
+{
+ "_about": "Public-domain Henry Suso (c.1295-1366, Dominican mystic of Constance and Ulm) in English for the Word Hoard: The Life of Blessed Henry Suso by Himself, tr. Thomas Francis Knox (1865) from CCEL, and the Little Book of Eternal Wisdom, tr. Richard Raby, second edition (1866) from an Internet Archive scan. Added 2026-10-17 by lane A, round 24 (my pick); Adam may veto the whole shelf. Translators recorded per item; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_ccel_author": "suso",
+ "_name_words": [
+  "suso"
+ ],
+ "_surname": [
+  "henry suso",
+  "blessed henry suso",
+  "suso"
+ ],
+ "_held": {},
+ "ccel": {
+  "suso-life-by-himself": [
+   "susolife",
+   "The Life of Blessed Henry Suso by Himself, tr. Thomas Francis Knox (London: Burns, Lambert, and Oates, 1865)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "suso-little-book-raby": [
+   "BlessedHenrySusosLittleBook",
+   "Blessed Henry Suso's Little Book of Eternal Wisdom, tr. Richard Raby, second edition (London: Thomas Richardson, MDCCCLXVI)"
+  ]
+ },
+ "_alternates": {
+  "suso-little-book-1910": "The Little Book of Eternal Wisdom with Hilton's Parable of the Pilgrim (Burns Oates; imprimatur 1910; CCEL suso/wisdom): translator not named",
+  "suso-copies": "Knox's Life, 1865 scan (lifeofblessedhen00seus) and Methuen's 1913 edition with Inge's introduction"
+ },
+ "_excluded": {
+  "suso-others": "Bevan's anthologies and The Three Friends of God (about him)",
+  "suso-late": "Clark's 1953 translation catalogued 1817, and editions of 1952-1962"
+ },
+ "_pending": {
+  "suso-1575": "Certayne sweete prayers (1575): title page unread"
+ },
+ "_translators": {
+  "suso-little-book-raby": "raby"
+ },
+ "_checks": {
+  "suso-life-by-himself": {
+   "kind": "ccel",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry suso",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: Burns, Lambert, and Oates (1865)",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "suso-little-book-raby": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "henry suso",
+   "translator_claimed": "raby",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

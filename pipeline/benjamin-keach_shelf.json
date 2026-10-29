@@ -1,0 +1,106 @@
+{
+ "_about": "Public-domain Benjamin Keach (1640-1704, Particular Baptist pastor at Horsleydown, Southwark, champion of congregational hymn singing) for the Word Hoard: An Exposition of the Parables (London: Aylott, 1858), Tropologia, a Key to Open Scripture Metaphors (Bonmahon, Ireland, for Collingridge, London, 1858; the title page names Keach alone), A Golden Mine Opened (1694), The Breach Repaired in God's Worship (1691) and Gold Refined, or Baptism in its Primitive Purity (1689), raw Internet Archive OCR (the three seventeenth-century printings are in long s). Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "keach",
+  "benjamin"
+ ],
+ "_surname": [
+  "benjamin keach",
+  "benj. keach",
+  "b. keach",
+  "keach, benjamin",
+  "mr. keach",
+  "benjamin k e a c h"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "keach-parables-1858": [
+   "expositionofpara00keac",
+   "An Exposition of the Parables and Express Similitudes of our Lord and Saviour Jesus Christ (London: Aylott and Co., 1858)"
+  ],
+  "keach-tropologia-1858": [
+   "gtropologaakeyt00keacgoog",
+   "Tropologia: a Key to Open Scripture Metaphors, in four books, together with Types of the Old Testament (Bonmahon Industrial Printing School, Ireland, for William Hill Collingridge, London, MDCCCLVIII)"
+  ],
+  "keach-golden-mine-1694": [
+   "goldenmineopened00keac",
+   "A Golden Mine Opened, or The Glory of God's Rich Grace Displayed in the Mediator to Believers (London: printed and sold by the Author, 1694)"
+  ],
+  "keach-breach-repaired-1691": [
+   "breachr00keac",
+   "The Breach Repaired in God's Worship, or Singing of Psalms, Hymns, and Spiritual Songs proved to be an Holy Ordinance of Jesus Christ (London: printed for the Author, 1691)"
+  ],
+  "keach-gold-refined-1689": [
+   "goldrefinedorbap00keac",
+   "Gold Refined, or Baptism in its Primitive Purity (London: printed for the Author, 1689)"
+  ]
+ },
+ "_alternates": {
+  "keach-parables": "Gospel Mysteries Unveil'd (1701), the first printing of the Parables, is on IA in the eighteenth-century collection"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "keach-tropologia-1858": {
+   "author": "Title page looked at by eye 2026-10-03 (IA page image n5): 'Tropologia; a Key to Open Scripture Metaphors, in four books ... together with Types of the Old Testament. By the Rev. Benjamin Keach. Ireland: printed at the Bonmahon Industrial Printing School ... and published by William Hill Collingridge, City Press, 1, Long Lane, London. MDCCCLVIII.' The OCR text layer is too poor to show the name."
+  }
+ },
+ "_checks": {
+  "keach-parables-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin keach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keach-tropologia-1858": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "keach-golden-mine-1694": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin keach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1694",
+   "ia_date": "1694",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keach-breach-repaired-1691": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benjamin keach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1691",
+   "ia_date": "1691",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "keach-gold-refined-1689": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "benj. keach",
+   "identity": "ok",
+   "ia_rights": "ok: published 1689",
+   "ia_date": "1689",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

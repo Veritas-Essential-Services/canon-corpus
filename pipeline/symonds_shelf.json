@@ -1,0 +1,158 @@
+{
+ "_about": "TRANSLATOR SHELF: John Addington Symonds (1840-1893) as translator. Cellini's Autobiography (1888), the Sonnets of Michelangelo and Campanella (1878), and Wine, Women, and Song: medieval Latin students' songs (1884). PD. His own Renaissance in Italy is not shelved. Added 2026-10-03 by lane C (round 8) under the coordinator's standing instruction; Adam may veto the whole shelf. No uids minted in the relay burst. Round 37 gap-fill: his Memoirs of Count Carlo Gozzi (1890), 2 vols.",
+ "_name_words": [
+  "symonds"
+ ],
+ "_surname": [
+  "addington symonds"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "symonds-cellini": [
+   4028,
+   "The Autobiography of Benvenuto Cellini"
+  ],
+  "symonds-sonnets": [
+   10314,
+   "The Sonnets of Michael Angelo Buonarroti and Tommaso Campanella"
+  ],
+  "symonds-wine-women-song": [
+   18044,
+   "Wine, Women, and Song"
+  ],
+  "symonds-pg38266": [
+   38266,
+   "The Memoirs of Count Carlo Gozzi, vol. 1"
+  ],
+  "symonds-pg33225": [
+   33225,
+   "The Memoirs of Count Carlo Gozzi, vol. 2"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "symonds-cellini-autobiography": {
+   "source": "symonds-cellini",
+   "of": "Cellini",
+   "work": "The Autobiography of Benvenuto Cellini",
+   "translated": 1888,
+   "translator": "John Addington Symonds",
+   "scan_edition": "Project Gutenberg 4028 (clean text)"
+  },
+  "symonds-gozzi-memoirs-vol-1": {
+   "source": "symonds-pg38266",
+   "of": "Carlo Gozzi",
+   "work": "The Memoirs of Count Carlo Gozzi, vol. 1",
+   "translated": "1890 (see the Gutenberg header)",
+   "translator": "John Addington Symonds",
+   "scan_edition": "Project Gutenberg 38266 (clean text)",
+   "added": "2026-10-10, lane C round 37 (gap-fill); Adam may veto"
+  },
+  "symonds-gozzi-memoirs-vol-2": {
+   "source": "symonds-pg33225",
+   "of": "Carlo Gozzi",
+   "work": "The Memoirs of Count Carlo Gozzi, vol. 2",
+   "translated": "1890 (see the Gutenberg header)",
+   "translator": "John Addington Symonds",
+   "scan_edition": "Project Gutenberg 33225 (clean text)",
+   "added": "2026-10-10, lane C round 37 (gap-fill); Adam may veto"
+  },
+  "symonds-michelangelo-campanella-sonnets": {
+   "source": "symonds-sonnets",
+   "of": "Michelangelo, Campanella",
+   "work": "Sonnets, in rhymed English",
+   "translated": 1878,
+   "translator": "John Addington Symonds",
+   "scan_edition": "Project Gutenberg 10314 (clean text)"
+  },
+  "symonds-wine-women-and-song": {
+   "source": "symonds-wine-women-song",
+   "of": "Carmina Burana and other goliard poets",
+   "work": "Wine, Women, and Song (medieval Latin students' songs)",
+   "translated": 1884,
+   "translator": "John Addington Symonds",
+   "scan_edition": "Project Gutenberg 18044 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "symonds-own-works": "Renaissance in Italy, the Life of Michelangelo (PG 11242) etc.: Symonds's own works."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "symonds-cellini": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "addington symonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-sonnets": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "addington symonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-wine-women-song": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "addington symonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-pg38266": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "addington symonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-pg33225": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "addington symonds",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Addington Symonds"
+  }
+ },
+ "_verified": {
+  "symonds-cellini": {
+   "pg": 4028,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-sonnets": {
+   "pg": 10314,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-wine-women-song": {
+   "pg": 18044,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-pg38266": {
+   "pg": 38266,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Addington Symonds"
+  },
+  "symonds-pg33225": {
+   "pg": 33225,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Addington Symonds"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_surname_note": "2026-10-03: full printed names only, after Lane D's name audit (a bare one-word form would pass other authors of the same surname, e.g. Maude Ashurst Biggs). Tested against every source on the shelf; the only misses already carry _identity_checked overrides."
+}

@@ -1,0 +1,105 @@
+{
+ "_about": "Public-domain David Magie (1795-1865), pastor of the Second Presbyterian Church, Elizabeth, New Jersey, for the Word Hoard: Debts (three sermons), The Ministry Magnified, God's Voice and the Lessons it Teaches, The Spring-Time of Life, or Advice to Youth, and an 1863 discourse at Elizabeth. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 114 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "david magie",
+  "d. magie",
+  "magie"
+ ],
+ "_surname": [
+  "david magie",
+  "magie"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dmagie-debts": [
+   "debtssubstanceof00magi",
+   "Debts; the substance of three sermons, delivered in the Second Presbyterian Church, Elizabeth-town (Elizabeth-town [N.J.] : Printed by Sanderson and Brookfield, 1830)"
+  ],
+  "dmagie-ministry-magnified": [
+   "ministrymagnifie00magi",
+   "The ministry magnified (Newark, N.J., The Central Presbyterian church, 1837)"
+  ],
+  "dmagie-gods-voice": [
+   "godsvoiceandless00magiiala",
+   "God's voice, and the lessons it teaches : a sermon, preached on the occasion of the death of General Taylor, late President of the United States (New York : John F. Trow, printer, 1850)"
+  ],
+  "dmagie-spring-time": [
+   "springtimeoflife00magi",
+   "The spring-time of life; or, Advice to youth (New York, R. Carter & Brothers, 1853)"
+  ],
+  "dmagie-discourse-1863": [
+   "discoursedeliver00magi",
+   "A discourse delivered in the Second Presbyterian Church, Elizabeth, N.J. August 6th, 1863 on occasion of the public thanksgiving appointed by Abraham Lincoln, President of the United States, to commemorate the signal victories vouchsafed to the Federal arms (New York : Printed by Francis Hart & Co., 1863)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dmagie-classicist": "The Roman-history books and Loeb Historia Augusta are by the classicist David Magie (1877-1960)",
+  "dmagie-other": "ourtrueencourage0000revd (a bound volume of several sermons) and ASPC0023580100 (an American Tract Society committee minute)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "dmagie-ministry-magnified": "Title page (OCR): \"THE MINISTRY MAGNIFIED. A SERMON PREACHED AT THE INSTALLATION OF REV. C. HOOVER... CENTRAL PRESBYTERIAN CHURCH, NEWARK, N. J. BY THE REV. DAVID MAGI[E] OF ELIZABETHTOWN, N. J.\""
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "dmagie-debts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david magie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dmagie-ministry-magnified": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dmagie-gods-voice": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "magie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dmagie-spring-time": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david magie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "dmagie-discourse-1863": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "david magie",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

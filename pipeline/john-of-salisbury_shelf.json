@@ -1,0 +1,40 @@
+{
+ "_about": "John of Salisbury (c. 1120-1180): The Statesman's Book, being the fourth, fifth and sixth books and selections from the seventh and eighth books of the Policraticus, translated into English with an introduction by John Dickinson, Political Science Classics (New York: Alfred A. Knopf, MCMXXVII; copyright 1927), raw IA OCR, clean 0.93. US public domain (published 1927). No uids minted.",
+ "_author": "John of Salisbury",
+ "_name_words": [
+  "john",
+  "salisbury"
+ ],
+ "_surname": [
+  "salisbury",
+  "john of salisbury"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "salisbury-dickinson-statesmans-book-1927": [
+   "statesmansbookof0000unse",
+   "The Statesman's Book, from the Policraticus (New York: Alfred A. Knopf, 1927)",
+   "tr. John Dickinson"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "salisbury-dickinson-statesmans-book-1927": "Dickinson"
+ },
+ "_checks": {
+  "salisbury-dickinson-statesmans-book-1927": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "salisbury",
+   "translator_claimed": "Dickinson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1927",
+   "ia_date": "1927",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

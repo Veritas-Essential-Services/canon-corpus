@@ -1,0 +1,88 @@
+{
+ "_about": "Public-domain John Prentiss Kewley Henshaw (1792-1852), rector of St Peter's, Baltimore, and Episcopal Bishop of Rhode Island, for the Word Hoard: The Communicant's Guide, An Inquiry into the Prophecies of the Second Advent, the Memoir of Bishop Richard Channing Moore, and a funeral sermon. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 98 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "j. p. k. henshaw",
+  "john prentiss kewley henshaw",
+  "henshaw"
+ ],
+ "_surname": [
+  "j. p. k. henshaw",
+  "john prentiss kewley henshaw",
+  "henshaw"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "henshaw-communicants-guide": [
+   "communicantsguid00hens",
+   "The communicant's guide, or, An introduction to the sacrament of the Lord's Supper (Baltimore : J.N. Toy and W.R. Lucas, 1831)"
+  ],
+  "henshaw-funeral-sermon": [
+   "funeralsermon00hens",
+   "Funeral sermon (Baltimore, D. Brunner, 1841)"
+  ],
+  "henshaw-second-advent": [
+   "inquiryintomeani00hens",
+   "An inquiry into the meaning of the prophecies relating to the second advent of our Lord Jesus Christ (Baltimore : Daniel Brunner, 1842)"
+  ],
+  "henshaw-memoir-moore": [
+   "memoiroflifeofrt00hens",
+   "Memoir of the life of the Rt. Rev. Richard Channing Moore, D. D., Bishop of the Protestant Episcopal Church in the Diocese of Virginia (Philadelphia, W. Stavely, 1842)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "henshaw-hymns": "Selection of Hymns (a compilation)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "henshaw-communicants-guide": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henshaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henshaw-funeral-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. k. henshaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henshaw-second-advent": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. k. henshaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "henshaw-memoir-moore": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. p. k. henshaw",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

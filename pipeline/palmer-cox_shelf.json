@@ -1,0 +1,92 @@
+{
+ "_about": "Palmer Cox's Brownie books in verse: The Brownies: Their Book, Another Brownie Book, and The Brownies and Prince Florimel. Copyright lines: 1887 (Their Book, here from a later Appleton-Century-Crofts printing of the same text, renewal 1915), 1890 (Another Brownie Book), 1918 (Prince Florimel). Gutenberg catalogue: Cox 1840-1924. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "Palmer Cox",
+ "_name_words": [
+  "brownie"
+ ],
+ "_surname": [
+  "palmer cox"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "pcox-brownies-their-book": [
+   32210,
+   "The Brownies: Their Book",
+   {
+    "levels": [
+     {
+      "re": "THE BROWNIES(?!:).*[A-Z.]$",
+      "max": 60,
+      "label": {
+       "THE BROWNIES ON$": "THE BROWNIES ON THE RACE-TRACK"
+      }
+     }
+    ],
+    "start": "THE BROWNIES( AT SCHOOL|' SNOW MAN)\\.$",
+    "front": true
+   }
+  ],
+  "pcox-another-brownie-book": [
+   58598,
+   "Another Brownie Book",
+   {
+    "levels": [
+     {
+      "re": "THE BROWNIES(?!:).*[A-Z.]$",
+      "max": 60,
+      "label": {
+       "THE BROWNIES ON$": "THE BROWNIES ON THE RACE-TRACK"
+      }
+     }
+    ],
+    "start": "THE BROWNIES( AT SCHOOL|' SNOW MAN)\\.$",
+    "front": true
+   }
+  ],
+  "pcox-brownies-and-prince-florimel": [
+   40502,
+   "The Brownies and Prince Florimel; Or, Brownieland, Fairyland, and Demonland",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVXL]+$",
+      "title_next": true
+     }
+    ],
+    "start": "CHAPTER I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "pcox-brownies-their-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "palmer cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcox-another-brownie-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "palmer cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pcox-brownies-and-prince-florimel": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "palmer cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

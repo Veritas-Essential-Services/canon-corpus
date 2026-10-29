@@ -1,0 +1,292 @@
+{
+ "_about": "W. W. Jacobs's comic tales of bargemen and sailors, and his tales of terror (The Monkey's Paw): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "W. W. Jacobs",
+ "_name_words": [
+  "jacobs"
+ ],
+ "_surname": [
+  "w. w. jacobs"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wwjacobs-many-cargoes": [
+   5758,
+   "Many cargoes"
+  ],
+  "wwjacobs-short-cruises": [
+   6465,
+   "Short Cruises",
+   {
+    "contents_only": true
+   }
+  ],
+  "wwjacobs-ships-company-the-entire-collection": [
+   10573,
+   "Ship's Company, the Entire Collection"
+  ],
+  "wwjacobs-sailors-knots-entire-collection": [
+   10793,
+   "Sailors' Knots (Entire Collection)"
+  ],
+  "wwjacobs-at-sunwich-port-complete": [
+   10876,
+   "At Sunwich Port [complete]"
+  ],
+  "wwjacobs-captains-all-and-others": [
+   11191,
+   "Captains All and Others"
+  ],
+  "wwjacobs-deep-waters": [
+   11482,
+   "Deep Waters",
+   {
+    "contents_only": true
+   }
+  ],
+  "wwjacobs-dialstone-lane-complete": [
+   11976,
+   "Dialstone Lane [complete]",
+   {
+    "contents_only": true
+   }
+  ],
+  "wwjacobs-lady-of-the-barge-and-others-entire-collection": [
+   12133,
+   "The Lady of the Barge and Others, Entire Collection",
+   {
+    "contents_only": true
+   }
+  ],
+  "wwjacobs-night-watches-complete": [
+   12161,
+   "Night watches [complete]"
+  ],
+  "wwjacobs-odd-craft-complete": [
+   12215,
+   "Odd craft [complete]",
+   {
+    "contents_only": true
+   }
+  ],
+  "wwjacobs-ghost-of-jerry-bundler": [
+   18677,
+   "The Ghost of Jerry Bundler (play, with Charles Rock)"
+  ],
+  "wwjacobs-skippers-wooing-and-the-brown-mans-servant": [
+   21336,
+   "The skipper's wooing, and The brown man's servant",
+   {
+    "contents_only": true
+   }
+  ],
+  "wwjacobs-light-freights": [
+   21928,
+   "Light Freights"
+  ],
+  "wwjacobs-a-master-of-craft": [
+   21929,
+   "A master of craft"
+  ],
+  "wwjacobs-salthaven": [
+   21930,
+   "Salthaven",
+   {
+    "contents_only": true
+   }
+  ],
+  "wwjacobs-sea-urchins": [
+   21931,
+   "Sea urchins"
+  ],
+  "wwjacobs-more-cargoes-1897": [
+   25769,
+   "More cargoes 1897"
+  ],
+  "wwjacobs-sea-whispers": [
+   78235,
+   "Sea whispers",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "split-parts": "Gutenberg's one-story-per-file splits of Ship's Company, Sailors' Knots, Deep Waters, Captains All, The Lady of the Barge, Odd Craft, At Sunwich Port, Dialstone Lane and Night Watches: each collection's entire-collection edition is on the shelf instead.",
+  "pg-28701": "PG 28701: Gutenberg's index of Jacobs's stories, not a book.",
+  "pg-21927": "PG 21927 Short Cruises: a second Gutenberg edition of a title already on the shelf."
+ },
+ "_checks": {
+  "wwjacobs-many-cargoes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-short-cruises": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-ships-company-the-entire-collection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-sailors-knots-entire-collection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-at-sunwich-port-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-captains-all-and-others": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-deep-waters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-dialstone-lane-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-lady-of-the-barge-and-others-entire-collection": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-night-watches-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-odd-craft-complete": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-ghost-of-jerry-bundler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-skippers-wooing-and-the-brown-mans-servant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-light-freights": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-a-master-of-craft": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-salthaven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-sea-urchins": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-more-cargoes-1897": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wwjacobs-sea-whispers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "w. w. jacobs",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

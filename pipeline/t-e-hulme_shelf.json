@@ -1,0 +1,34 @@
+{
+ "_about": "T. E. Hulme (1883-1917), critic and philosopher: Speculations, essays on humanism and the philosophy of art, edited by Herbert Read, with a foreword by Jacob Epstein (London: Kegan Paul; New York: Harcourt, Brace, 1924), raw IA OCR, clean 0.94. US public domain. No uids minted.",
+ "_author": "T. E. Hulme",
+ "_name_words": [
+  "thomas",
+  "ernest",
+  "hulme"
+ ],
+ "_surname": [
+  "hulme"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hulme-speculations-1924": [
+   "speculationsessa0000teed",
+   "Speculations, ed. Herbert Read (Kegan Paul, 1924)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "hulme-speculations-1924": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "hulme",
+   "identity": "ok",
+   "ia_rights": "ok: published 1924",
+   "ia_date": "1924",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

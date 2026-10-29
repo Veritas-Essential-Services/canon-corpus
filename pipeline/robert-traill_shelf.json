@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain Robert Traill (1642-1716, Scottish Presbyterian minister in London, imprisoned on the Bass Rock) for the Word Hoard: the Works (Edinburgh: Ogle, 1810, 4 vols bound as two, Google scans), raw Internet Archive OCR. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 7 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "traill",
+  "robert"
+ ],
+ "_surname": [
+  "traill"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "rtraill-works-1-2": [
+   "workslaterevere01traigoog",
+   "The Works of the late Reverend Robert Traill, vols 1-2 (Edinburgh: Ogle, 1810)"
+  ],
+  "rtraill-works-3-4": [
+   "workslaterevere00traigoog",
+   "The Works of the late Reverend Robert Traill, vols 3-4 (Edinburgh: Ogle, 1810)"
+  ]
+ },
+ "_alternates": {
+  "worksoflatereverend01trai, worksoflaterever02trai, worksoflatereverend02trai, worksoflaterever03trai (Glasgow, 1775, vols 1-3 only); bim_eighteenth-century_the-works-of-the-late-re_traill-robert_1796_1..4 (1796)": "Earlier long-s editions.",
+  "selectpracticalw00trai (1845), selectpracticalw1852trai (1852)": "A one-volume selection.",
+  "vindicationofpro00trai (1840)": "A separate printing of the Vindication of the Protestant Doctrine concerning Justification."
+ },
+ "_excluded": {
+  "jewishwarofflavi00jose": "Josephus, in a translation by another Robert Traill."
+ },
+ "_checks": {
+  "rtraill-works-1-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rtraill-works-3-4": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "traill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1810",
+   "ia_date": "1810",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

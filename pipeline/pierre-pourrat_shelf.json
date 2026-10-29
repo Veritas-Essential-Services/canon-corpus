@@ -1,0 +1,104 @@
+{
+ "_about": "Public-domain Pierre Pourrat (1871-1957, Sulpician) in English for the Word Hoard: Christian Spirituality, vols I-III, tr. W. H. Mitchell and S. P. Jacques (London, 1922-1927), and Theology of the Sacraments (St. Louis: Herder, 1910), from Internet Archive scans. Added 2026-10-18 by lane A, round 32 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "pourrat"
+ ],
+ "_surname": [
+  "pourrat",
+  "p. pourrat"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "pourrat-christian-spirituality-1": [
+   "christianspirit01pouruoft",
+   "Christian Spirituality, vol. I, tr. W. H. Mitchell and S. P. Jacques (London: Burns Oates and Washbourne, MCMXXII)"
+  ],
+  "pourrat-christian-spirituality-2": [
+   "christianspiritu02pouruoft",
+   "Christian Spirituality in the Middle Ages, vol. II, tr. S. P. Jacques (London: Burns Oates and Washbourne, MCMXXIV)"
+  ],
+  "pourrat-christian-spirituality-3": [
+   "christianspiritu03pouruoft",
+   "Christian Spirituality: Later Developments, vol. III, tr. W. H. Mitchell (London: Burns Oates and Washbourne, MCMXXVII)"
+  ],
+  "pourrat-theology-sacraments": [
+   "theologysacramen00pouruoft",
+   "Theology of the Sacraments, authorized translation from the third French edition (St. Louis: B. Herder, 1910)"
+  ]
+ },
+ "_alternates": {
+  "pourrat-copies": "Kenedy issues of vols I-II; other 1910 and 1927 copies"
+ },
+ "_excluded": {
+  "pourrat-1930": "The 1930 Theology of the Sacraments",
+  "pourrat-others": "Henri Pourrat's novels"
+ },
+ "_rights_checked": {
+  "pourrat-theology-sacraments": "title page read: no translator named",
+  "pourrat-christian-spirituality-2": "title page read: MCMXXIV (the catalogue's 1922 is wrong for vols II-III)"
+ },
+ "_pending": {
+  "pourrat-vol-4": "Vol. IV: no English translation before 1930 found"
+ },
+ "_translators": {
+  "pourrat-christian-spirituality-1": "mitchell",
+  "pourrat-christian-spirituality-2": "jacques",
+  "pourrat-christian-spirituality-3": "mitchell"
+ },
+ "_checks": {
+  "pourrat-christian-spirituality-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pourrat",
+   "translator_claimed": "mitchell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pourrat-christian-spirituality-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pourrat",
+   "translator_claimed": "jacques",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922-",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: MCMXXIV (the catalogue's 1922 is wrong for vols II-III)"
+  },
+  "pourrat-christian-spirituality-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pourrat",
+   "translator_claimed": "mitchell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922-",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pourrat-theology-sacraments": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "pourrat",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: no translator named"
+  }
+ }
+}

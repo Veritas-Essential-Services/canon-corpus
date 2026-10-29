@@ -1,0 +1,148 @@
+{
+ "_about": "Eva March Tappan's writing at Gutenberg: histories, legends and stories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Eva March Tappan",
+ "_name_words": [
+  "tappan"
+ ],
+ "_surname": [
+  "tappan"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "emtappan-childrens-hour-v-5-stories-from-seven-old-favorites": [
+   13685,
+   "The Children's Hour, v 5. Stories From Seven Old Favorites"
+  ],
+  "emtappan-diggers-in-the-earth": [
+   24762,
+   "Diggers in the Earth"
+  ],
+  "emtappan-makers-of-many-things": [
+   28569,
+   "Makers of Many Things"
+  ],
+  "emtappan-little-book-of-the-flag": [
+   30893,
+   "The Little Book of the Flag"
+  ],
+  "emtappan-in-the-days-of-queen-victoria": [
+   35576,
+   "In the Days of Queen Victoria"
+  ],
+  "emtappan-in-the-days-of-queen-elizabeth": [
+   47006,
+   "In the Days of Queen Elizabeth"
+  ],
+  "emtappan-dixie-kitten": [
+   67433,
+   "Dixie Kitten"
+  ],
+  "emtappan-ella-a-little-schoolgirl-of-the-sixties": [
+   70282,
+   "Ella, a little schoolgirl of the sixties"
+  ],
+  "emtappan-house-with-the-silver-door": [
+   77025,
+   "The house with the silver door"
+  ],
+  "emtappan-hero-stories-of-france": [
+   79765,
+   "Hero stories of France"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "emtappan-childrens-hour-v-5-stories-from-seven-old-favorites": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-diggers-in-the-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-makers-of-many-things": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-little-book-of-the-flag": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-in-the-days-of-queen-victoria": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-in-the-days-of-queen-elizabeth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-dixie-kitten": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-ella-a-little-schoolgirl-of-the-sixties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-house-with-the-silver-door": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "emtappan-hero-stories-of-france": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tappan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

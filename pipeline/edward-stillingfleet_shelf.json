@@ -1,0 +1,144 @@
+{
+ "_about": "Public-domain Edward Stillingfleet (1635-1699, Bishop of Worcester, apologist and controversialist) for the Word Hoard: Origines Sacrae (2 vols, Oxford 1836), the Irenicum (Philadelphia 1842, from the second edition), A Rational Account of the Grounds of Protestant Religion (2 vols, Oxford 1844), Origines Britannicae (2 vols, Oxford 1842, with additional notes by Thomas Pantin) and The Doctrines and Practices of the Church of Rome Truly Represented (Edinburgh 1837, introduced and annotated by William Cunningham), raw Internet Archive OCR. Added 2026-10-03 by lane A, round 13 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "stillingfleet",
+  "edward"
+ ],
+ "_surname": [
+  "edward stillingfleet",
+  "stillingfleet"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "stillingfleet-origines-sacrae-1": [
+   "originessacraeor01stil",
+   "Origines Sacrae, or A Rational Account of the Grounds of Natural and Revealed Religion, new edition in two volumes, vol. 1 (Oxford: University Press, 1836)"
+  ],
+  "stillingfleet-origines-sacrae-2": [
+   "originessacraeor02stil",
+   "Origines Sacrae, or A Rational Account of the Grounds of Natural and Revealed Religion, new edition in two volumes, vol. 2 (Oxford: University Press, 1836)"
+  ],
+  "stillingfleet-irenicum-1842": [
+   "irenicumorpacifi00stil",
+   "The Irenicum, or Pacificator: being a Reconciler as to Church Differences, from the second edition (Philadelphia: M. Sorin, 1842)"
+  ],
+  "stillingfleet-rational-account-1": [
+   "rationalaccounto01stiluoft",
+   "A Rational Account of the Grounds of Protestant Religion, new edition, vol. 1 (Oxford: University Press, 1844)"
+  ],
+  "stillingfleet-rational-account-2": [
+   "rationalaccoprot02stil",
+   "A Rational Account of the Grounds of Protestant Religion, new edition, vol. 2 (Oxford: University Press, 1844)"
+  ],
+  "stillingfleet-origines-britannicae-1": [
+   "originesbritanni01stiluoft",
+   "Origines Britannicae, or The Antiquities of the British Churches, new edition with additional notes by Thomas Pantin, vol. 1 (Oxford: University Press, 1842)"
+  ],
+  "stillingfleet-origines-britannicae-2": [
+   "originesbritanni02stiluoft",
+   "Origines Britannicae, or The Antiquities of the British Churches, new edition with additional notes by Thomas Pantin, vol. 2 (Oxford: University Press, 1842)"
+  ],
+  "stillingfleet-doctrines-practices-1837": [
+   "doctrinespractic00stil",
+   "The Doctrines and Practices of the Church of Rome Truly Represented, new edition with introduction and notes by William Cunningham (Edinburgh: Fraser, 1837)"
+  ]
+ },
+ "_alternates": {
+  "stillingfleet-works-1710": "The Works, 6 vols folio (London, 1710; IA worksofeminentmoz01stil etc.)",
+  "stillingfleet-origines-sacrae": "seventeenth-century printings 1662-1702 on IA"
+ },
+ "_excluded": {},
+ "_checks": {
+  "stillingfleet-origines-sacrae-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward stillingfleet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stillingfleet-origines-sacrae-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward stillingfleet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1836",
+   "ia_date": "1836",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stillingfleet-irenicum-1842": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward stillingfleet",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stillingfleet-rational-account-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward stillingfleet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stillingfleet-rational-account-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward stillingfleet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "stillingfleet-origines-britannicae-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stillingfleet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stillingfleet-origines-britannicae-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "stillingfleet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "stillingfleet-doctrines-practices-1837": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "edward stillingfleet",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

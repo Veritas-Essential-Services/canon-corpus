@@ -1,0 +1,293 @@
+{
+ "_about": "TRANSLATOR SHELF: Arthur Waley (1889-1966). Only work published before 1931, which is US public domain: Chinese poems (1918, 1919), Li Po (1919), the No plays (1921), the Tale of Genji parts 1-3 (1925-27), and the Pillow-Book (1928). 🔴 The UK term runs to the end of 2036 (he died in 1966): US PD only, so check before republishing outside the US. Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "waley"
+ ],
+ "_surname": [
+  "waley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "waley-170-chinese-poems": [
+   42290,
+   "A Hundred and Seventy Chinese Poems"
+  ],
+  "waley-more-translations": [
+   16500,
+   "More Translations from the Chinese"
+  ],
+  "waley-li-po": [
+   43274,
+   "The Poet Li Po, A.D. 701-762"
+  ],
+  "waley-no-plays": [
+   43304,
+   "The Nō Plays of Japan"
+  ],
+  "waley-genji-1": [
+   66057,
+   "The tale of Genji"
+  ],
+  "waley-genji-2": [
+   67111,
+   "The sacred tree"
+  ],
+  "waley-genji-3": [
+   75852,
+   "A wreath of cloud"
+  ],
+  "waley-pillow-book": [
+   76016,
+   "The pillow-book of Sei Shōnagon"
+  ]
+ },
+ "internet_archive": {
+  "waley-ia-temple": [
+   "templeotherpoems0000arth_c5c7",
+   "The Temple and Other Poems"
+  ],
+  "waley-ia-blue-trousers": [
+   "bluetrousersbein00mura",
+   "Blue Trousers (The Tale of Genji, part 4)"
+  ]
+ },
+ "titles": {
+  "waley-170-chinese-poems": {
+   "source": "waley-170-chinese-poems",
+   "of": "Chinese poets",
+   "work": "A Hundred and Seventy Chinese Poems",
+   "translated": 1918,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 42290 (clean text)"
+  },
+  "waley-more-translations": {
+   "source": "waley-more-translations",
+   "of": "Chinese poets",
+   "work": "More Translations from the Chinese",
+   "translated": 1919,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 16500 (clean text)"
+  },
+  "waley-li-po": {
+   "source": "waley-li-po",
+   "of": "Li Bai",
+   "work": "The Poet Li Po",
+   "translated": 1919,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 43274 (clean text)"
+  },
+  "waley-no-plays": {
+   "source": "waley-no-plays",
+   "of": "Zeami and others",
+   "work": "The No Plays of Japan",
+   "translated": 1921,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 43304 (clean text)"
+  },
+  "waley-genji-1-3": {
+   "source": [
+    "waley-genji-1",
+    "waley-genji-2",
+    "waley-genji-3"
+   ],
+   "of": "Murasaki Shikibu",
+   "work": "The Tale of Genji, parts 1-3 (The Tale of Genji; The Sacred Tree; A Wreath of Cloud)",
+   "translated": "1925-1927",
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 66057 + 67111 + 75852 (clean text)"
+  },
+  "waley-pillow-book": {
+   "source": "waley-pillow-book",
+   "of": "Sei Shonagon",
+   "work": "The Pillow-Book of Sei Shonagon",
+   "translated": 1928,
+   "translator": "Arthur Waley",
+   "scan_edition": "Project Gutenberg 76016 (clean text)"
+  },
+  "waley-the-temple-and-other-poems": {
+   "source": "waley-ia-temple",
+   "of": "various Chinese poets",
+   "work": "The Temple and Other Poems",
+   "translated": 1923,
+   "translator": "Arthur Waley",
+   "scan_edition": "George Allen and Unwin, London, first published 1923; archive.org scan (Colby Junior College copy)"
+  },
+  "waley-murasaki-blue-trousers": {
+   "source": "waley-ia-blue-trousers",
+   "of": "Murasaki Shikibu",
+   "work": "Blue Trousers, being the fourth part of The Tale of Genji",
+   "translated": 1928,
+   "translator": "Arthur Waley",
+   "scan_edition": "Houghton Mifflin, Boston and New York 1928 (printed in Great Britain); archive.org scan"
+  }
+ },
+ "_pending": {
+  "waley-augustan-poems": "Poems from the Chinese (Augustan Books of English Poetry, Ernest Benn; archive.org poemsfromchinese00waleiala and arthurwaleypoems00walerich): a selection from his earlier books, but the printing carries no date (the series ran from 1925), so it waits under the undated-printing rule. Found 2026-10-23 (round 139)."
+ },
+ "_excluded": {
+  "waley-after-1930": "The Way and its Power (1934), the Analects (1938), Monkey (1942): still in copyright.",
+  "waley-genji-5-6": "Genji parts 5-6 (The Lady of the Boat 1932, The Bridge of Dreams 1933): after 1930, refused. Part 4, Blue Trousers (1928), is shelved from archive.org (round 139)."
+ },
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "waley-170-chinese-poems": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-more-translations": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-li-po": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waley-no-plays": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "waley-genji-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-pillow-book": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-ia-temple": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "waley-ia-blue-trousers": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "waley",
+   "identity": "ok",
+   "ia_rights": "ok: published 1928",
+   "ia_date": "1928",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "waley-170-chinese-poems": {
+   "pg": 42290,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-more-translations": {
+   "pg": 16500,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-li-po": {
+   "pg": 43274,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "waley-no-plays": {
+   "pg": 43304,
+   "pg_copyrighted_marker": false,
+   "pg_translator": null,
+   "translator_named_in_first_15k_of_body": true
+  },
+  "waley-genji-1": {
+   "pg": 66057,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-2": {
+   "pg": 67111,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-genji-3": {
+   "pg": 75852,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-pillow-book": {
+   "pg": 76016,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Arthur Waley"
+  },
+  "waley-ia-temple": {
+   "ia": "templeotherpoems0000arth_c5c7",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1753,
+    1923
+   ],
+   "post_1930_years_in_front_15k": [
+    2025
+   ],
+   "post_1930_examined": "2025 is the archive.org digitising line; the imprint reads 'First published in 1923', Allen and Unwin"
+  },
+  "waley-ia-blue-trousers": {
+   "ia": "bluetrousersbein00mura",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1928
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

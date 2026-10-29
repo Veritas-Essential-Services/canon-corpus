@@ -1,0 +1,254 @@
+{
+ "_about": "Public-domain Walter Farquhar Hook (1798-1875), Vicar of Leeds and Dean of Chichester, for the Word Hoard: Lives of the Archbishops of Canterbury (London: Bentley, 1860-1875, eleven volumes) and A Church Dictionary (1842, and the seventh edition of 1854 from Project Gutenberg), from Internet Archive scans and Project Gutenberg. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "hook"
+ ],
+ "_surname": [
+  "walter farquhar hook",
+  "w. f. hook",
+  "farquhar hook"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "wfhook-church-dictionary-1854": [
+   74523,
+   "A Church Dictionary, seventh edition, revised and augmented (London: John Murray, 1854)"
+  ]
+ },
+ "internet_archive": {
+  "wfhook-archbishops-1": [
+   "livesofarchbish01hook",
+   "Lives of the Archbishops of Canterbury, vol. I, Anglo-Saxon Period (London: Richard Bentley, 1860)"
+  ],
+  "wfhook-archbishops-2": [
+   "livesofarchbisho02hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. II, Anglo-Norman Period (London: Richard Bentley, 1862)"
+  ],
+  "wfhook-archbishops-3": [
+   "livesofarchbisho03hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. III, Middle-Age Period (London: Richard Bentley, 1865)"
+  ],
+  "wfhook-archbishops-4": [
+   "livesofarchbisho04hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. IV, Middle-Age Period (London: Richard Bentley, year OCR'd 'I860', about 1865-66)"
+  ],
+  "wfhook-archbishops-5": [
+   "livesofarchbisho00hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. V, Middle-Age Period (London: Richard Bentley, 1867)"
+  ],
+  "wfhook-archbishops-6": [
+   "livesofarchbisho06hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. VI (London: Richard Bentley, 1868)"
+  ],
+  "wfhook-archbishops-7": [
+   "livesofarchbisho07hook",
+   "Lives of the Archbishops of Canterbury, vol. VII, Reformation Period (London: Richard Bentley, 1868)"
+  ],
+  "wfhook-archbishops-8": [
+   "livesofarchbisho08hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. VIII, Reformation Period (London: Richard Bentley, 1869)"
+  ],
+  "wfhook-archbishops-9": [
+   "livesofarchbisho09hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. IX, Reformation Period (London: Richard Bentley, 1872)"
+  ],
+  "wfhook-archbishops-10": [
+   "livesofarchbisho10hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. V, new series, Reformation Period (London: Richard Bentley, 1875)"
+  ],
+  "wfhook-archbishops-11": [
+   "livesofarchbisho11hookuoft",
+   "Lives of the Archbishops of Canterbury, vol. VI, new series (London: Richard Bentley, 1875)"
+  ],
+  "wfhook-church-dictionary-1842": [
+   "ChurchDictionary",
+   "A Church Dictionary (London: Houlston and Stoneman; Rivington and Burns; Oxford: Parker; Leeds: T. Harrison, 1842)"
+  ]
+ },
+ "_alternates": {
+  "wfhook-copies": "Lives vol. I new series (1868) and vol. II new series; the Index volume (1884); the sixth-edition Church Dictionary (1852); An Ecclesiastical Biography (Rivington, 1845-1852, lives he edited)"
+ },
+ "_excluded": {},
+ "_identity_checked": {
+  "wfhook-archbishops-1": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTEE FAEQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-2": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTEE FAEQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-4": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY V;.\\LTEB F.iHQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-5": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTER FAEQUHAR HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-7": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTER FAEQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-8": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTEE FAEQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-9": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTEE FAEQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-10": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTEK FARQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-archbishops-11": {
+   "author": "title page read: Lives of the Archbishops of Canterbury, BY WALTEE FARQUHAE HOOK [Walter Farquhar Hook] (OCR garble), D.D., Dean of Chichester"
+  },
+  "wfhook-church-dictionary-1842": {
+   "author": "title page read: A Church Dictionary, BY WALTER FAi^QUHAR HOOK [Walter Farquhar Hook] (OCR garble), D.D., Vicar of Leeds, London: Houlston and Stoneman, MDCCCXLII"
+  }
+ },
+ "_rights_checked": {
+  "wfhook-archbishops-1": "title page read: the whole set is catalogued 1860; years as read run 1860-1875; vol. IX and the new series carry Richard Bentley & Son"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "wfhook-church-dictionary-1854": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter farquhar hook",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wfhook-archbishops-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: the whole set is catalogued 1860; years as read run 1860-1875; vol. IX and the new series carry Richard Bentley & Son"
+  },
+  "wfhook-archbishops-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "farquhar hook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-6": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "walter farquhar hook",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-7": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "wfhook-archbishops-8": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-9": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-10": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-archbishops-11": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860-84",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "wfhook-church-dictionary-1842": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

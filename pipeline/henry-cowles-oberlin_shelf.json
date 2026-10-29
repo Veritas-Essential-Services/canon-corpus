@@ -1,0 +1,237 @@
+{
+ "_about": "Public-domain Henry Cowles (1803-1881), Oberlin professor and editor of the Oberlin Evangelist, for the Word Hoard: his commentary on most of the Bible, written 'for both pastors and people' (1866-1883): the Minor Prophets, Ezekiel and Daniel, Isaiah, Jeremiah and Lamentations, the Psalms, the Pentateuch, Hebrew History, Job, Proverbs-Ecclesiastes-Song, the Gospel and Epistles of John, Revelation, the Shorter and Longer Epistles of Paul, and Acts, from Internet Archive scans. Added 2026-10-23 by lane A, round 57 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cowles"
+ ],
+ "_surname": [
+  "henry cowles",
+  "h. cowles"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "cowles-minor-prophets": [
+   "minorprophetswit00cowl",
+   "The minor prophets : with notes, critical, explanatory, and practical, designed for both pastors and people (New York : Appleton, 1871)"
+  ],
+  "cowles-ezekiel-daniel": [
+   "ezekieldanielwit00cowlrich",
+   "Ezekiel and Daniel : with notes, critical, explanatory, and practical, designed for both pastors and people (New York : D. Appleton, 1871)"
+  ],
+  "cowles-isaiah": [
+   "isaiahwithnotes00cowlgoog",
+   "Isaiah : with notes, critical, explanitory [sic] and practical (New York : D. Appleton, 1869)"
+  ],
+  "cowles-jeremiah": [
+   "jeremiahandhisla00cowluoft",
+   "Jeremiah, and his lamentations : with notes, critical, explanatory and practical, designed for both pastors and people (New York : D. Appleton, 1869)"
+  ],
+  "cowles-psalms": [
+   "psalms00cowl",
+   "The Psalms ([n.p.], 1872)"
+  ],
+  "cowles-pentateuch": [
+   "pentateuchinitsp00cowl",
+   "The Pentateuch, in its progressive revelations of God to men : designed for both pastors and people (New York : D. Appleton, 1877)"
+  ],
+  "cowles-hebrew-history": [
+   "hebrewhistoryfro00cowl",
+   "Hebrew history, from the death of Moses to the close of the Scripture narrative (New York, D. Appleton & co., 1875)"
+  ],
+  "cowles-job": [
+   "bookofjobwithnot00cowl",
+   "The book of Job : with notes, critical, explanatory and practical (New York : Appleton, 1877)"
+  ],
+  "cowles-proverbs": [
+   "proverbsecclesia00cowl",
+   "Proverbs, Ecclesiastes, and the Song of Solomon : with notes, critical, explanatory and practical (New York : Appleton, 1878)"
+  ],
+  "cowles-john": [
+   "gospelepistlesof00cowl",
+   "The Gospel and Epistles of John (New York, D. Appleton & co., 1876)"
+  ],
+  "cowles-revelation": [
+   "revelationofjohn00cowl",
+   "The Revelation of John with notes critical, explanatory and practical : designed for both pastors and people (New York : D. Appleton, 1877)"
+  ],
+  "cowles-shorter-epistles": [
+   "shorterepistlesv00cowl",
+   "The shorter Epistles; viz: of Paul to the Galatians; Ephesians; Philippians; Colossians; Thessalonians; Timothy; Titus and Philemon; also, of James, Peter, and Jude (New York, D. Appleton & company, 1879)"
+  ],
+  "cowles-longer-epistles": [
+   "longerepistlesof00cowl",
+   "The longer Epistles of Paul (New York, D. Appleton & company, 1880)"
+  ],
+  "cowles-acts": [
+   "actsofapostleswi00cowl",
+   "Acts of the Apostles : with notes, critical, explanatory, and practical, designed for both pastors and people (N. Y. : D. Appleton, 1883)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "cowles-other": "Manuscript letters; Henry Cowles of other dates"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "cowles-gospels-hebrews": "His Matthew and Mark, Luke, and Hebrews volumes: not found on Internet Archive in round 57"
+ },
+ "_translators": {},
+ "_checks": {
+  "cowles-minor-prophets": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871[c1866]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-ezekiel-daniel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871, c1867",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-isaiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-jeremiah": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1869",
+   "ia_date": "1869",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-psalms": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1872",
+   "ia_date": "1872",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "cowles-pentateuch": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-hebrew-history": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-proverbs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "cowles-john": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1876",
+   "ia_date": "1876",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-shorter-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-longer-epistles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "cowles-acts": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry cowles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

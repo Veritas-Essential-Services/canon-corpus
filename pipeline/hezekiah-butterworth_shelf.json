@@ -1,0 +1,161 @@
+{
+ "_about": "Hezekiah Butterworth's writing at Gutenberg: stories and histories for young readers. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Hezekiah Butterworth",
+ "_name_words": [
+  "butterworth"
+ ],
+ "_surname": [
+  "butterworth"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hbutterworth-log-school-house-on-the-columbia": [
+   14881,
+   "The Log School-House on the Columbia"
+  ],
+  "hbutterworth-little-sky-high": [
+   17616,
+   "Little Sky-High; Or, The Surprising Doings of Washee-Washee-Wang"
+  ],
+  "hbutterworth-story-of-the-hymns-and-tunes": [
+   18444,
+   "The Story of the Hymns and Tunes"
+  ],
+  "hbutterworth-in-the-boyhood-of-lincoln-a-tale-of-the-tunker": [
+   25672,
+   "In The Boyhood of Lincoln A Tale of the Tunker Schoolmaster and the Times of Black Hawk"
+  ],
+  "hbutterworth-true-to-his-home": [
+   26442,
+   "True to His Home: A Tale of the Boyhood of Franklin"
+  ],
+  "hbutterworth-zigzag-journeys-in-northern-lands": [
+   28915,
+   "Zigzag Journeys in Northern Lands; The Rhine to the Arctic; A Summer Trip of the Zigzag Club Through Holland, Germany, Denmark, Norway, and Sweden"
+  ],
+  "hbutterworth-zigzag-journeys-in-europe": [
+   33319,
+   "Zigzag Journeys in Europe: Vacation Rambles in Historic Lands"
+  ],
+  "hbutterworth-story-of-magellan-and-the-discovery-of-the-phil": [
+   37814,
+   "The Story of Magellan and The Discovery of the Philippines"
+  ],
+  "hbutterworth-zigzag-journeys-in-the-white-city-with-visits-t": [
+   57637,
+   "Zigzag Journeys in the White City. With Visits to the Neighboring Metropolis"
+  ],
+  "hbutterworth-brother-jonathan": [
+   64126,
+   "Brother Jonathan"
+  ],
+  "hbutterworth-little-metacomet": [
+   75556,
+   "Little Metacomet"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "hbutterworth-log-school-house-on-the-columbia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-little-sky-high": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-story-of-the-hymns-and-tunes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-in-the-boyhood-of-lincoln-a-tale-of-the-tunker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-true-to-his-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-zigzag-journeys-in-northern-lands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-zigzag-journeys-in-europe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-story-of-magellan-and-the-discovery-of-the-phil": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-zigzag-journeys-in-the-white-city-with-visits-t": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-brother-jonathan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbutterworth-little-metacomet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "butterworth",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

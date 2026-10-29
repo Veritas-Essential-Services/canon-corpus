@@ -1,0 +1,41 @@
+{
+ "_about": "Galen, On the Natural Faculties, in A. J. Brock's Loeb translation (1916), clean Gutenberg; the Gutenberg text keeps the facing Greek. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "galen",
+  "natural",
+  "faculties"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "galen-brock-natural-faculties": [
+   43383,
+   "Galen: On the Natural Faculties",
+   "tr. Arthur John Brock"
+  ]
+ },
+ "internet_archive": {},
+ "_surname": [
+  "galen",
+  "galenus"
+ ],
+ "_translators": {
+  "galen-brock-natural-faculties": "Arthur John Brock"
+ },
+ "_checks": {
+  "galen-brock-natural-faculties": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "galen",
+   "translator_claimed": "Arthur John Brock",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur John Brock",
+   "translator_match": true
+  }
+ },
+ "_held": {
+  "galen-perseus-brock-on-the-natural-faculties": "same translation as galen-brock-natural-faculties (PG 43383) on this shelf; Perseus TEI urn:cts:greekLit:tlg0057.tlg010.perseus-eng2 (On the Natural Faculties, tr. Arthur John Brock) is not taken as a second witness (moved here on review, 2026-10-02)"
+ }
+}

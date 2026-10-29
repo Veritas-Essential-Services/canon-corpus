@@ -1,0 +1,111 @@
+{
+ "_about": "Procopius in English, translator per title. H. B. Dewing's History of the Wars, Books I-VI (Loeb, 1914-19; English only as on Gutenberg), clean Gutenberg. The Secret History (Gutenberg; translator not named in the file). Aubrey Stewart's Buildings of Justinian (Palestine Pilgrims' Text Society, 1888), clean Gutenberg.",
+ "_name_words": [
+  "procopius",
+  "justinian",
+  "wars"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "procopius-dewing-persian": [
+   16764,
+   "History of the Wars, Books I and II: The Persian War",
+   "tr. H. B. Dewing"
+  ],
+  "procopius-dewing-vandalic": [
+   16765,
+   "History of the Wars, Books III and IV: The Vandalic War",
+   "tr. H. B. Dewing"
+  ],
+  "procopius-dewing-gothic": [
+   20298,
+   "History of the Wars, Books V and VI: The Gothic War",
+   "tr. H. B. Dewing"
+  ],
+  "procopius-secret-history": [
+   12916,
+   "The Secret History of the Court of Justinian",
+   "translator not named in the file"
+  ],
+  "procopius-stewart-buildings": [
+   65404,
+   "Of the Buildings of Justinian",
+   "tr. Aubrey Stewart"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Dewing, Wars VII-VIII and Buildings (Loeb, 1924-40)": "Wars I-VI held (procopius-dewing-persian, -vandalic, -gothic); Wars VII-VIII and the Buildings not on Gutenberg, and the later volumes are not PD; pending"
+ },
+ "_surname": [
+  "procopius"
+ ],
+ "_translators": {
+  "procopius-dewing-persian": "H. B. Dewing",
+  "procopius-dewing-vandalic": "H. B. Dewing",
+  "procopius-dewing-gothic": "H. B. Dewing",
+  "procopius-stewart-buildings": "Aubrey Stewart"
+ },
+ "_translator_unchecked": {
+  "procopius-secret-history": "no single translator to check: None"
+ },
+ "_checks": {
+  "procopius-dewing-persian": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "H. B. Dewing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. B. Dewing",
+   "translator_match": true
+  },
+  "procopius-dewing-vandalic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "H. B. Dewing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. B. Dewing",
+   "translator_match": true
+  },
+  "procopius-dewing-gothic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "H. B. Dewing",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "H. B. Dewing",
+   "translator_match": true
+  },
+  "procopius-secret-history": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "procopius-stewart-buildings": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "procopius",
+   "translator_claimed": "Aubrey Stewart",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Aubrey Stewart",
+   "translator_match": true
+  }
+ }
+}

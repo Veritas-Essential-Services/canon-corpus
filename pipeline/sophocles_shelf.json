@@ -1,0 +1,490 @@
+{
+ "_about": "Sophocles in English, translator per title. R. C. Jebb's prose seven plays come from Perseus in the unmerged Thayer/Sophocles PR (slugs sophocles-<play>-jebb) and are cross-referenced, not refetched. Here: Lewis Campbell's verse seven plays (1883), Francis Storr's Theban plays (Loeb, 1912), Gilbert Murray's Oedipus King of Thebes ( US PD per Gutenberg, not PD in life+70 countries), Thomas Sheridan's Philoctetes (1725). Publication years are given only where checked in the file; Murray's per-play years were not, so they are left out. Older translations from the wishlist added 2026-10-02 as raw IA OCR (translator per row).",
+ "_name_words": [
+  "sophocles",
+  "translated",
+  "english",
+  "verse",
+  "plays"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sophocles-campbell-seven": [
+   14484,
+   "The Seven Plays in English Verse",
+   "tr. Lewis Campbell (verse, 1883)"
+  ],
+  "sophocles-storr-theban": [
+   31,
+   "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
+   "tr. Francis Storr (verse, Loeb 1912)"
+  ],
+  "sophocles-murray-oedipus": [
+   27673,
+   "Oedipus King of Thebes",
+   "tr. Gilbert Murray (rhyming verse)"
+  ],
+  "sophocles-sheridan-philoctetes": [
+   77548,
+   "The Philoctetes of Sophocles",
+   "tr. Thomas Sheridan (1725)"
+  ]
+ },
+ "internet_archive": {
+  "sophocles-plumptre": [
+   "tragediesofsopho1865soph",
+   "The Tragedies of Sophocles, a new translation (1865)",
+   "tr. E. H. Plumptre"
+  ],
+  "sophocles-francklin-1759": [
+   "tragediesofsopho00soph",
+   "The Tragedies of Sophocles, from the Greek (London, 1759; all seven plays in this scan)",
+   "tr. Thomas Francklin"
+  ],
+  "sophocles-way-1909-part1": [
+   "cu31924026676365",
+   "Sophocles in English Verse, Part I: Oedipus the King, Oedipus at Kolonus, Antigone (London, 1909)",
+   "tr. Arthur S. Way"
+  ],
+  "sophocles-jebb-prose-1904": [
+   "tragediessophoc00jebbgoog",
+   "The Tragedies of Sophocles, translated into English prose (Cambridge, 1904)",
+   "tr. Sir Richard C. Jebb"
+  ],
+  "sophocles-whitelaw-1883": [
+   "sophoclestransla00sophuoft",
+   "Sophocles translated into English Verse (London: Rivingtons, MDCCCLXXXIII)",
+   "tr. Robert Whitelaw"
+  ],
+  "sophocles-dale-1824-v1": [
+   "tragediesofsopho01soph_0",
+   "The Tragedies of Sophocles translated into English Verse, vol. I (London: J. M. Richardson, 1824)",
+   "tr. Thomas Dale"
+  ],
+  "sophocles-dale-1824-v2": [
+   "tragediesofsopho02soph",
+   "The Tragedies of Sophocles translated into English Verse, vol. II (London: J. M. Richardson, 1824)",
+   "tr. Thomas Dale"
+  ],
+  "sophocles-sheppard-oedipus-tyrannus-1922": [
+   "oedipustyr00soph",
+   "The Oedipus Tyrannus of Sophocles (1922)",
+   "tr. J. T. Sheppard"
+  ],
+  "sophocles-trevelyan-ajax-1919": [
+   "cu31924026593446",
+   "The Ajax of Sophocles (George Allen and Unwin, first published 1919)",
+   "tr. R. C. Trevelyan"
+  ],
+  "sophocles-plaistowe-philoctetes": [
+   "sophoclesphiloct00soph",
+   "Sophocles: Philoctetes, a translation (University Tutorial Series; W. B. Clive, undated title page; the publisher's list bound in is dated July 1898 and no year after 1899 appears in the book; catalogue [1892])",
+   "tr. F. G. Plaistowe"
+  ],
+  "sophocles-oxford-prose-1886": [
+   "tragediesofsopho00sophrich",
+   "The Tragedies of Sophocles in English prose: the Oxford translation, new edition revised according to the text of Dindorf (New York: Harper, 1886)",
+   "tr. unnamed (the Oxford translation; IA catalogue: T. A. Buckley)"
+  ],
+  "sophocles-morshead-ajax-1895": [
+   "ajaxofsophocles00sophrich",
+   "The Ajax of Sophocles translated into English prose (London, 1895)",
+   "tr. E. D. A. Morshead"
+  ],
+  "sophocles-coleridge-prose-1905": [
+   "tragediesofsopho00sophiala",
+   "The Tragedies of Sophocles translated into English prose (George Bell, 1905)",
+   "tr. Edward P. Coleridge"
+  ],
+  "sophocles-young-dramas-1888": [
+   "cu31924026593420",
+   "The Dramas of Sophocles rendered in English verse, dramatic and lyric (Cambridge: Deighton, Bell; London: George Bell; undated in the OCR, latest year printed 1891, IA 1888)",
+   "tr. Sir George Young"
+  ],
+  "sophocles-doyle-oedipus-1849": [
+   "dipuskingthebes00sophgoog",
+   "Oedipus, King of Thebes, translated from the Oedipus Tyrannus of Sophocles (Oxford and London: John Henry Parker, 1849)",
+   "tr. Sir Francis Hastings Doyle"
+  ],
+  "sophocles-mongan-oedipus-tyrannus-1865": [
+   "sophoclesdipust00sophgoog",
+   "Sophocles, Oedipus Tyrannus, literally translated (Dublin; London: Simpkin, Marshall, 1865)",
+   "tr. Roscoe Mongan"
+  ],
+  "sophocles-hull-oedipus-coloneus-1894": [
+   "cu31924026593511",
+   "Oedipus at Colonus, closely translated from the Greek of Sophocles: an experiment in metre (London: Simpkin, Marshall, Hamilton, Kent, 1894)",
+   "tr. Arthur Compton Auchmuty Hull"
+  ],
+  "sophocles-palmer-antigone-1899": [
+   "antigoneofsophoc0000geor_m2w3",
+   "The Antigone of Sophocles, translated with introduction and notes (Boston and New York: Houghton Mifflin; copyright 1899, this printing undated)",
+   "tr. George Herbert Palmer"
+  ],
+  "sophocles-potter-1820": [
+   "tragediesofsopho00soph_0",
+   "The Tragedies of Sophocles, translated, a new edition (London: N. Bliss, 1820)",
+   "tr. Robert Potter"
+  ],
+  "sophocles-george-adams-1818": [
+   "tragediesofso00soph",
+   "The Tragedies of Sophocles, translated from the Greek (a new edition, 1818)",
+   "tr. George Adams"
+  ]
+ },
+ "_cross_ref": {
+  "sophocles-trachiniae-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-antigone-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-ajax-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-oedipus-tyrannus-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-electra-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-philoctetes-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR",
+  "sophocles-oedipus-colonus-jebb": "Jebb prose (Perseus), in the unmerged Thayer/Sophocles PR"
+ },
+ "_excluded": {
+  "pg806": "Philoktetes (McNamee): a COPYRIGHTED Project Gutenberg eBook. Refused",
+  "pg7073": "Specimens of Greek Tragedy (Goldwin Smith): excerpts",
+  "tragediessophoc00pottgoog": "a second scan of Potter's 1820 Sophocles, reading 0.758 clean words; the cleaner scan tragediesofsopho00soph_0 (0.843) is held as sophocles-potter-1820",
+  "Storr's Loeb Sophocles vol. II (1913): Ajax, Electra, Trachiniae, Philoctetes": "Greek facing; the scans found (sophocleswitheng02soph, 1913; sophoclesstor02sophuoft, 1916 printing) read 0.506 and 0.491 with the Greek counted. Waits on the Greek-facing ruling"
+ },
+ "_surname": [
+  "sophocles"
+ ],
+ "_translators": {
+  "sophocles-campbell-seven": "Lewis Campbell",
+  "sophocles-storr-theban": "Francis Storr",
+  "sophocles-murray-oedipus": "Gilbert Murray",
+  "sophocles-sheridan-philoctetes": "Thomas Sheridan",
+  "sophocles-plumptre": "E. H. Plumptre",
+  "sophocles-francklin-1759": "Thomas Francklin",
+  "sophocles-way-1909-part1": "Arthur S. Way",
+  "sophocles-jebb-prose-1904": "Richard C. Jebb",
+  "sophocles-whitelaw-1883": "Robert Whitelaw",
+  "sophocles-dale-1824-v1": "Thomas Dale",
+  "sophocles-dale-1824-v2": "Thomas Dale",
+  "sophocles-sheppard-oedipus-tyrannus-1922": "Sheppard",
+  "sophocles-trevelyan-ajax-1919": "Trevelyan",
+  "sophocles-plaistowe-philoctetes": "Plaistowe",
+  "sophocles-morshead-ajax-1895": "Morshead",
+  "sophocles-coleridge-prose-1905": "edward p. coleridge",
+  "sophocles-young-dramas-1888": "george young",
+  "sophocles-mongan-oedipus-tyrannus-1865": "roscoe mongan",
+  "sophocles-hull-oedipus-coloneus-1894": "arthur compton auchmuty hull",
+  "sophocles-palmer-antigone-1899": "george herbert palmer",
+  "sophocles-doyle-oedipus-1849": "francis hastings doyle",
+  "sophocles-potter-1820": "r. potter",
+  "sophocles-george-adams-1818": "george adams"
+ },
+ "_checks": {
+  "sophocles-campbell-seven": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Lewis Campbell",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Lewis Campbell",
+   "translator_match": true
+  },
+  "sophocles-storr-theban": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Francis Storr",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis Storr",
+   "translator_match": true
+  },
+  "sophocles-murray-oedipus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Gilbert Murray",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Gilbert Murray",
+   "translator_match": true
+  },
+  "sophocles-sheridan-philoctetes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Thomas Sheridan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Thomas Sheridan",
+   "translator_match": true
+  },
+  "sophocles-plumptre": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "E. H. Plumptre",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-francklin-1759": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Thomas Francklin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1759",
+   "ia_date": "1759",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-way-1909-part1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-jebb-prose-1904": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Richard C. Jebb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-whitelaw-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Robert Whitelaw",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-dale-1824-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Thomas Dale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-dale-1824-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Thomas Dale",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1824",
+   "ia_date": "1824",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-sheppard-oedipus-tyrannus-1922": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Sheppard",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-trevelyan-ajax-1919": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Trevelyan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-plaistowe-philoctetes": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Plaistowe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-oxford-prose-1886": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-morshead-ajax-1895": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "Morshead",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-coleridge-prose-1905": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "edward p. coleridge",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-young-dramas-1888": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "george young",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-doyle-oedipus-1849": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "francis hastings doyle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-mongan-oedipus-tyrannus-1865": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "roscoe mongan",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "sophocles-hull-oedipus-coloneus-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "arthur compton auchmuty hull",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-palmer-antigone-1899": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "george herbert palmer",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-potter-1820": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "r. potter",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1820",
+   "ia_date": "1820",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "sophocles-george-adams-1818": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "sophocles",
+   "translator_claimed": "george adams",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1818",
+   "ia_date": "1818",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ },
+ "_translator_unchecked": {
+  "sophocles-oxford-prose-1886": "the title page reads 'The Oxford Translation, new edition, revised according to the text of Dindorf' and names no translator; T. A. Buckley is the IA catalogue's attribution only"
+ }
+}

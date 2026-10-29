@@ -1,0 +1,48 @@
+{
+ "_about": "Sir James Mackintosh (1765-1832): A Discourse on the Study of the Law of Nature and Nations, 2nd ed. (London, 1828; clean Gutenberg text), and Dissertation on the Progress of Ethical Philosophy, chiefly during the seventeenth and eighteenth centuries, with a preface by William Whewell, 3rd ed. (Edinburgh: A. and C. Black, 1862; raw IA OCR). Not C. H. or H. R. Mackintosh, who have their own shelves. US public domain. No uids minted.",
+ "_author": "Sir James Mackintosh",
+ "_name_words": [
+  "james",
+  "mackintosh",
+  "sir"
+ ],
+ "_surname": [
+  "mackintosh"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mackintosh-law-of-nature-and-nations-1828": [
+   29372,
+   "A Discourse on the Study of the Law of Nature and Nations, 2nd ed. (London, 1828)"
+  ]
+ },
+ "internet_archive": {
+  "mackintosh-progress-of-ethical-philosophy-1862": [
+   "dissertationonp00mack",
+   "Dissertation on the Progress of Ethical Philosophy, preface by William Whewell, 3rd ed. (Edinburgh: A. and C. Black, 1862)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "mackintosh-law-of-nature-and-nations-1828": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mackintosh",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mackintosh-progress-of-ethical-philosophy-1862": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "mackintosh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

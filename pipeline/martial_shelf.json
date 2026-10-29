@@ -1,0 +1,119 @@
+{
+ "_about": "Martial, Epigrams, in the Bohn prose translation (anonymous, with verse renderings by many hands; Bohn's 1897 printing), raw IA OCR. Latin-facing Loebs of 1930 or earlier added 2026-10-02 as raw IA OCR (translator per row); the scan's printing was checked for a post-1930 revision notice where its title verso survives.",
+ "_name_words": [
+  "martial",
+  "epigrams"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "martial-bohn": [
+   "epigramsmartial00bohngoog",
+   "The Epigrams of Martial, translated into English prose (Bohn; 1897 printing)",
+   "Bohn prose translation (anonymous), with verse renderings by various hands"
+  ],
+  "martial-ker-v1": [
+   "martialepigrams01martiala",
+   "Martial, Epigrams, vol. 1: Spectacles, Books I-VII (Loeb, 1919)",
+   "tr. Walter C. A. Ker"
+  ],
+  "martial-ker-v2": [
+   "martialepigrams02martiala",
+   "Martial, Epigrams, vol. 2: Books VIII-XIV (Loeb, 1920)",
+   "tr. Walter C. A. Ker"
+  ],
+  "martial-bohn-1877": [
+   "epigramsmartial01bohngoog",
+   "The Epigrams of Martial, translated into English prose, each accompanied by one or more verse translations from the works of English poets (Bohn's Classical Library; George Bell, 1877)",
+   "tr. unnamed (Bohn prose), with verse versions by various hands"
+  ],
+  "martial-nixon-roman-wit-1911": [
+   "romanwitepigrams00mart",
+   "A Roman Wit: epigrams of Martial rendered into English (Boston and New York, copyright 1911)",
+   "tr. Paul Nixon"
+  ]
+ },
+ "_excluded": {
+  "epigramsmartial02bohngoog": "1904 printing of the same edition; lower OCR",
+  "epigramsofmarti00mart": "1865 printing; empty text layer",
+  "Pott and Wright, The Twelve Books of Epigrams (Broadway Translations)": "the scan (martialtwelveboo0000tran) prints no date; IA dates it 1924. Not taken without a printed year; F. A. Wright died 1946",
+  "indexexpurgatori00mart": "The Index Expurgatorius of Martial, literally translated (London, privately printed, 1868; title page names no translator). Public domain and clean OCR (0.91), but it collects only the obscene epigrams the other translators omitted. Held back for Adam to decide whether it belongs on the shelf (DIGEST-B).",
+  "bim_eighteenth-century_epigrams-of-martial-c_martial_1773": "Epigrams of Martial, &c. with mottos from Horace (1773, ECCO): OCR 0.43, under the 0.78 bar."
+ },
+ "_surname": [
+  "martial",
+  "martialis"
+ ],
+ "_translators": {
+  "martial-ker-v1": "Walter C. A. Ker",
+  "martial-ker-v2": "Walter C. A. Ker",
+  "martial-nixon-roman-wit-1911": "paul nixon"
+ },
+ "_translator_unchecked": {
+  "martial-bohn": "no single translator to check: None",
+  "martial-bohn-1877": "the title page names no translator: the prose is the Bohn editor's, unnamed, and the verse versions are by many hands"
+ },
+ "_checks": {
+  "martial-bohn": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-ker-v1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "translator_claimed": "Walter C. A. Ker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1919-1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-ker-v2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "translator_claimed": "Walter C. A. Ker",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1919-1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-bohn-1877": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "martial-nixon-roman-wit-1911": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "martial",
+   "translator_claimed": "paul nixon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "_about": "Henry Thomas Buckle (1821-1862): History of Civilization in England, new edition, 3 vols. (Toronto: Rose-Belford, 1878), clean Gutenberg texts. US public domain. No uids minted.",
+ "_author": "Henry Thomas Buckle",
+ "_name_words": [
+  "henry",
+  "thomas",
+  "buckle"
+ ],
+ "_surname": [
+  "buckle"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "buckle-history-civilization-england-v1": [
+   44493,
+   "History of Civilization in England, vol. I (Rose-Belford, 1878)"
+  ],
+  "buckle-history-civilization-england-v2": [
+   44494,
+   "History of Civilization in England, vol. II (Rose-Belford, 1878)"
+  ],
+  "buckle-history-civilization-england-v3": [
+   44495,
+   "History of Civilization in England, vol. III (Rose-Belford, 1878)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "buckle-history-civilization-england-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "buckle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "buckle-history-civilization-england-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "buckle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "buckle-history-civilization-england-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "buckle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

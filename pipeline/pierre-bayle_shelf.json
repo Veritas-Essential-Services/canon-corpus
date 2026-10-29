@@ -1,0 +1,98 @@
+{
+ "_about": "Pierre Bayle (1647-1706): The Dictionary Historical and Critical of Mr Peter Bayle, the second edition, with the life of the author revised, corrected and enlarged by Pierre Des Maizeaux; the title page names no translator (London: J. J. and P. Knapton and others, 1734-1738, 5 vols.), raw IA OCR, clean 0.81-0.88. The OCR shows the imprint year on vol. II (MDCCXXXV) and, garbled, on vols. IV and V (MDCCXXXVII, MDCCXXXVIII); on vols. I and III it is not legible, and 1734 and 1736 are inferred from the run and the catalogue. Vol. I's text layer is about a quarter the length of the others, so much of its small-type commentary is probably missing from the OCR. US public domain. No uids minted.",
+ "_author": "Pierre Bayle",
+ "_name_words": [
+  "peter",
+  "pierre",
+  "bayle"
+ ],
+ "_surname": [
+  "bayle"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bayle-dictionary-1734-v1": [
+   "dictionaryhi_bayl_1738_01",
+   "The Dictionary Historical and Critical, second edition, vol. I: A-Bi (London, 1734, inferred)"
+  ],
+  "bayle-dictionary-1735-v2": [
+   "dictionaryhi_bayl_1738_02",
+   "The Dictionary Historical and Critical, second edition, vol. II: Bi-E (London, 1735)"
+  ],
+  "bayle-dictionary-1736-v3": [
+   "dictionaryhi_bayl_1738_03",
+   "The Dictionary Historical and Critical, second edition, vol. III: F-L (London, 1736, inferred)"
+  ],
+  "bayle-dictionary-1737-v4": [
+   "dictionaryhi_bayl_1738_04",
+   "The Dictionary Historical and Critical, second edition, vol. IV (London, 1737)"
+  ],
+  "bayle-dictionary-1738-v5": [
+   "dictionaryhi_bayl_1738_05",
+   "The Dictionary Historical and Critical, second edition, vol. V (London, 1738)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "bayle-dictionary-1734-v1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bayle-dictionary-1735-v2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bayle-dictionary-1736-v3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bayle-dictionary-1737-v4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayle",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bayle-dictionary-1738-v5": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "bayle",
+   "identity": "ok",
+   "ia_rights": "ok: published 1734",
+   "ia_date": "1734",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

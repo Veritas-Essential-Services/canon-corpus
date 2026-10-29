@@ -1,0 +1,55 @@
+{
+ "_about": "Public-domain John Johnson (1662-1725), Vicar of Cranbrook, the Usager theologian of the eucharistic sacrifice who stayed within the established church but wrote with the nonjurors, for the Word Hoard: his Theological Works, The Unbloody Sacrifice and the Clergyman's Vade-Mecum among them (Library of Anglo-Catholic Theology, 1847, two volumes), from Internet Archive scans. Added 2026-10-23 by lane A, round 40 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "johnson"
+ ],
+ "_surname": [
+  "john johnson",
+  "vicar of cranbrook"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jjohnson-works-1": [
+   "theologicalworks01john",
+   "The theological works of the Rev. John Johnson, vol. 1 (Oxford : John Henry Parker, 1847)"
+  ],
+  "jjohnson-works-2": [
+   "theologicalworks02john",
+   "The theological works of the Rev. John Johnson, vol. 2 (Oxford : John Henry Parker, 1847)"
+  ]
+ },
+ "_alternates": {
+  "jjohnson-copies": "Other scans of the 1847 Works; Brett's Life of the Late Reverend John Johnson (1748)"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jjohnson-works-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john johnson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jjohnson-works-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john johnson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

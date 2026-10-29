@@ -1,0 +1,161 @@
+{
+ "_about": "Mary Cholmondeley's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Mary Cholmondeley",
+ "_name_words": [
+  "cholmondeley"
+ ],
+ "_surname": [
+  "cholmondeley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mcholmondeley-red-pottage": [
+   14885,
+   "Red Pottage"
+  ],
+  "mcholmondeley-prisoners": [
+   18834,
+   "Prisoners: Fast Bound In Misery And Iron"
+  ],
+  "mcholmondeley-danvers-jewels-and-sir-charles-danvers": [
+   19020,
+   "The Danvers Jewels, and Sir Charles Danvers"
+  ],
+  "mcholmondeley-lowest-rung-together-with-the-hand-on-the-latc": [
+   24587,
+   "The Lowest Rung Together with The Hand on the Latch, St. Luke's Summer and The Understudy"
+  ],
+  "mcholmondeley-notwithstanding": [
+   37781,
+   "Notwithstanding"
+  ],
+  "mcholmondeley-diana-tempest-volume-i": [
+   37973,
+   "Diana Tempest, Volume I"
+  ],
+  "mcholmondeley-diana-tempest-volume-ii": [
+   37974,
+   "Diana Tempest, Volume II"
+  ],
+  "mcholmondeley-diana-tempest-volume-iii": [
+   37975,
+   "Diana Tempest, Volume III"
+  ],
+  "mcholmondeley-devotee": [
+   40408,
+   "A Devotee: An Episode in the Life of a Butterfly"
+  ],
+  "mcholmondeley-moth-and-rust": [
+   40566,
+   "Moth and Rust; Together with Geoffrey's Wife and The Pitfall"
+  ],
+  "mcholmondeley-romance-of-his-life-and-other-romances": [
+   40947,
+   "The Romance of His Life, and Other Romances"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mcholmondeley-red-pottage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-prisoners": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-danvers-jewels-and-sir-charles-danvers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-lowest-rung-together-with-the-hand-on-the-latc": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-notwithstanding": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-diana-tempest-volume-i": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-diana-tempest-volume-ii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-diana-tempest-volume-iii": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-devotee": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-moth-and-rust": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mcholmondeley-romance-of-his-life-and-other-romances": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "cholmondeley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

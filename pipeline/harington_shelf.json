@@ -1,0 +1,59 @@
+{
+ "_about": "TRANSLATOR SHELF: Sir John Harington (1561-1612). Ariosto's Orlando Furioso in English heroical verse (1591), the first English translation. PD. Pairs with Rose (and Hoole, pending). Added 2026-10-02/03 by lane C (round 5) under the coordinator's standing instruction to choose further translator shelves; Adam may veto the whole shelf. No uids minted in the relay burst.",
+ "_name_words": [
+  "harington",
+  "haryngton",
+  "harrington"
+ ],
+ "_surname": [
+  "harington",
+  "haryngton",
+  "harrington"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "harington-orlando-1591": [
+   "orlandofuriosoin00ario_0",
+   "Orlando furioso in English heroical verse (1591)"
+  ]
+ },
+ "titles": {
+  "harington-orlando-furioso": {
+   "source": "harington-orlando-1591",
+   "of": "Ariosto",
+   "work": "Orlando Furioso, 46 books",
+   "translated": 1591,
+   "translator": "Sir John Harington",
+   "scan_edition": "Richard Field 1591 first edition, early-modern OCR (raw)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name(s) only: fetch_shelf.py treats these as the identity check (one must appear in the fetched text), so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "harington-orlando-1591": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "harington",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1591",
+   "ia_date": "1591",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "harington-orlando-1591": {
+   "ia": "orlandofuriosoin00ario_0",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1589
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

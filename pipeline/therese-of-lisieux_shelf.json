@@ -1,0 +1,109 @@
+{
+ "_about": "Public-domain St Thérèse of Lisieux (1873-1897) in English for the Word Hoard: her Poems, tr. S. L. Emery (Boston, 1907), Sœur Thérèse of Lisieux, the Little Flower of Jesus, T. N. Taylor's complete translation of L'Histoire d'une Âme (Burns & Oates, imprimatur 1912), the Thoughts, translated by an Irish Carmelite (New York, 1915), and A Little White Flower, Taylor's new translation of the autobiography (1916), from Internet Archive scans. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "therese",
+  "thérèse",
+  "teresa"
+ ],
+ "_surname": [
+  "therese",
+  "thérèse",
+  "teresa",
+  "little flower"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "therese-poems-emery": [
+   "poemsofsrteresac00thrs",
+   "Poems of Sr. Teresa, Carmelite of Lisieux, tr. S. L. Emery (Boston: Angel Guardian Press; copyright 1907)"
+  ],
+  "therese-little-flower-taylor": [
+   "saintthaeraeseof00thaeuoft",
+   "Sœur Thérèse of Lisieux, the Little Flower of Jesus: a new and complete translation of L'Histoire d'une Âme, ed. T. N. Taylor (London: Burns & Oates; imprimatur 1912)"
+  ],
+  "therese-thoughts": [
+   "thoughtsofservan00thrs",
+   "Thoughts of the Servant of God Thérèse of the Child Jesus, translated by an Irish Carmelite (New York: P. J. Kenedy, 1915)"
+  ],
+  "therese-little-white-flower": [
+   "alittlewhiteflow00thaeuoft",
+   "A Little White Flower: the story of Sœur Thérèse of Lisieux, a new translation by Thomas N. Taylor (preface dated March 1916)"
+  ]
+ },
+ "_alternates": {
+  "therese-definitive": "Taylor's revised Definitive Edition with the letters (Kenedy, imprimatur 1926)",
+  "therese-pg": "PG 72720 (Thoughts, 1915); PG 16772 / CCEL therese/autobio (a selection from the 1922 eighth edition)",
+  "therese-ccel": "CCEL therese/poems (Emery)"
+ },
+ "_excluded": {
+  "therese-late": "Post-1929 editions and Novissima Verba",
+  "therese-about": "Studies about her"
+ },
+ "_rights_checked": {
+  "therese-little-flower-taylor": "title page read: 'Edited by T. N. Taylor'; no year (imprimatur Westminster, 9 Dec 1912; 'Fifteenth Thousand', a later impression)",
+  "therese-little-white-flower": "title page read: imprint not legible in the OCR; preface dated March 1916; by Thomas N. Taylor",
+  "therese-thoughts": "title page read: 'translated by an Irish Carmelite', no personal name; Kenedy, 1915"
+ },
+ "_pending": {
+  "therese-letters": "A separate English Letters before 1930: not found"
+ },
+ "_translators": {
+  "therese-poems-emery": "emery",
+  "therese-little-white-flower": "taylor"
+ },
+ "_checks": {
+  "therese-poems-emery": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "thérèse",
+   "translator_claimed": "emery",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "therese-little-flower-taylor": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "therese",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Edited by T. N. Taylor'; no year (imprimatur Westminster, 9 Dec 1912; 'Fifteenth Thousand', a later impression)"
+  },
+  "therese-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "therese",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "title page read: 'translated by an Irish Carmelite', no personal name; Kenedy, 1915"
+  },
+  "therese-little-white-flower": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "therese",
+   "translator_claimed": "taylor",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: imprint not legible in the OCR; preface dated March 1916; by Thomas N. Taylor"
+  }
+ }
+}

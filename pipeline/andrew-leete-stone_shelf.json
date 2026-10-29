@@ -1,0 +1,181 @@
+{
+ "_about": "Public-domain Andrew Leete Stone (1815-1892), Congregational pastor of Park Street Church, Boston, and First Congregational Church, San Francisco, for the Word Hoard: his Civil War sermons (The War and the Patriot's Duty, Praise for Victory, Emancipation, National Godliness, the Lincoln discourse), Memorial Discourses (1866), and Leaves from a Finished Pastorate (1882). Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 87 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "a. l. stone",
+  "andrew l. stone",
+  "andrew leete stone"
+ ],
+ "_surname": [
+  "a. l. stone",
+  "andrew l. stone",
+  "andrew leete stone"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "alstone-webster-sermon": [
+   "sermonpreachedin00ston",
+   "A sermon preached in Park street church, on the Sunday succeeding the death of Daniel Webster (Boston, Ticknor, Reed, and Fields, 1853)"
+  ],
+  "alstone-war-patriot": [
+   "warpatriotsduty00ston",
+   "The war and the patriot's duty (Boston, H. Hoyt, 1861)"
+  ],
+  "alstone-praise-victory": [
+   "praiseforvictory00ston",
+   "Praise for victory. A sermon, preached in Park Street Church, Boston, February 23, 1862. by A.L. Stone (Press of T.R. Marvin, 1862)"
+  ],
+  "alstone-emancipation": [
+   "emancipationdisc00ston",
+   "Emancipation. A discourse delivered in Park street church on fast day morning, April 3, 1862 (Boston, Henry Hoyt, 1862)"
+  ],
+  "alstone-national-godliness": [
+   "nationalgodlines01ston",
+   "National Godliness : a sermon, preached in Park Street Church : on occasion of the annual state fast, April 7, 1864, vol. 1 (Boston : T.R. Marvin, 1864)"
+  ],
+  "alstone-lincoln": [
+   "discourseoccasio00ston",
+   "A discourse occasioned by the death of Abraham Lincoln : who was assassinated in Washington, Friday, April 14th, 1865. Preached in the Park Street Church, Boston, on the next Lord's day (Boston : Printed for J.K. Wiggin, 1865)"
+  ],
+  "alstone-new-england": [
+   "workofnewengland00ston",
+   "The work of New England in the future of our country (Boston, W. V. Spencer, 1865)"
+  ],
+  "alstone-memorial-discourses": [
+   "memorialdiscours00ston",
+   "Memorial discourses (Boston : H. Hoyt, 1866)"
+  ],
+  "alstone-monthly-concert": [
+   "pleaformonthlyco00ston",
+   "Plea for the monthly concert : a sermon / by Rev. A.L. Stone. -- ([s.l. : s.n.], 1870)"
+  ],
+  "alstone-finished-pastorate": [
+   "leavesfromfinish0000ston",
+   "Leaves from a finished pastorate (New York : A.D.F. Randolph ; San Francisco : Samuel Carson, 1882)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "alstone-civic": "his 1854 Fourth of July oration to the city of Boston"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "alstone-emancipation": "title page (page image): 'EMANCIPATION. A DISCOURSE DELIVERED IN PARK STREET CHURCH, ON FAST DAY MORNING, APRIL 3, 1862. BY REV. A. L. STONE, D.D. PUBLISHED BY REQUEST. BOSTON: HENRY HOYT ... 1862'",
+  "alstone-finished-pastorate": "title page (page image): 'LEAVES FROM A FINISHED PASTORATE. BY REV. A. L. STONE, D.D., LATE PASTOR OF THE FIRST CONGREGATIONAL CHURCH AT SAN FRANCISCO, AND FORMER PASTOR OF THE PARK ST. CHURCH, BOSTON. NEW YORK: ANSON D. F. RANDOLPH & COMPANY ... SAN FRANCISCO: SAMUEL CARSON'; verso 'COPYRIGHT, 1882, BY A. L. STONE'"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "alstone-webster-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alstone-war-patriot": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1861",
+   "ia_date": "1861",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alstone-praise-victory": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alstone-emancipation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alstone-national-godliness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alstone-lincoln": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andrew l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alstone-new-england": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alstone-memorial-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1866",
+   "ia_date": "1866",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "alstone-monthly-concert": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "a. l. stone",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "alstone-finished-pastorate": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

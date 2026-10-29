@@ -1,0 +1,44 @@
+{
+ "_about": "Evenings at Home; or, The Juvenile Budget Opened, by Dr. Aikin and Mrs. Barbauld: fables, dialogues and stories for children (New York, Harper & Brothers, revised from the fifteenth London edition; undated in the text). Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "John Aikin and Anna Letitia Barbauld",
+ "_name_words": [
+  "aikin",
+  "barbauld"
+ ],
+ "_surname": [
+  "dr. aikin",
+  "mrs. barbauld"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aikin-evenings-at-home": [
+   53323,
+   "Evenings at Home; Or, The Juvenile Budget Opened",
+   {
+    "levels": [
+     {
+      "re": "(?![“\"*])[A-Z][^a-z]*[A-Z.\\]]$",
+      "strip": " ?\\[\\d+\\]",
+      "max": 120,
+      "number_repeats": true
+     }
+    ],
+    "start": "INTRODUCTION$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "aikin-evenings-at-home": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "dr. aikin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

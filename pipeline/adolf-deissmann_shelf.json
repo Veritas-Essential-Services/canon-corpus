@@ -1,0 +1,194 @@
+{
+ "_about": "Public-domain Adolf Deissmann (1866-1937, Heidelberg and Berlin) in English for the Word Hoard: Bible Studies, tr. Alexander Grieve (1901), New Light on the New Testament (1907), The Philology of the Greek Bible (1908), Light from the Ancient East in its first and revised editions, St. Paul (1912) and its 1926 revision, The Religion of Jesus and the Faith of Paul (1923), and The New Testament in the Light of Modern Research (1929), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "deissmann"
+ ],
+ "_surname": [
+  "deissmann",
+  "adolf deissmann",
+  "g. adolf deissmann"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "deissmann-bible-studies": [
+   "biblestudiescon00deisuoft",
+   "Bible Studies, tr. Alexander Grieve (Edinburgh: T. & T. Clark, 1901)"
+  ],
+  "deissmann-new-light-nt": [
+   "newlightonnewtes00deisuoft",
+   "New Light on the New Testament from Records of the Graeco-Roman Period, tr. Lionel R. M. Strachan (Edinburgh: T. & T. Clark, 1907)"
+  ],
+  "deissmann-philology-greek-bible": [
+   "cu31924021606987",
+   "The Philology of the Greek Bible, tr. Lionel R. M. Strachan (London: Hodder and Stoughton, MCMVIII)"
+  ],
+  "deissmann-light-ancient-east-1910": [
+   "cu31924029303538",
+   "Light from the Ancient East, tr. Lionel R. M. Strachan (London: Hodder and Stoughton, MCMX)"
+  ],
+  "deissmann-light-ancient-east-revised": [
+   "cu31924060305095",
+   "Light from the Ancient East, new and completely revised edition, tr. Lionel R. M. Strachan (New York and London: Harper & Brothers; title page undated, preface dated 1922)"
+  ],
+  "deissmann-st-paul-1912": [
+   "stpaulastudyinso00deisuoft",
+   "St. Paul: a Study in Social and Religious History, tr. Lionel R. M. Strachan (London: Hodder and Stoughton, MCMXII)"
+  ],
+  "deissmann-paul-1926": [
+   "paulstudyinsocia00deis_2",
+   "Paul: a Study in Social and Religious History, second edition, tr. William E. Wilson (London: Hodder and Stoughton, 1926)"
+  ],
+  "deissmann-religion-jesus-faith-paul": [
+   "religionofjesusf00deisuoft",
+   "The Religion of Jesus and the Faith of Paul, tr. William E. Wilson (London: Hodder and Stoughton, 1923)"
+  ],
+  "deissmann-nt-modern-research": [
+   "newtestamentinli00deis",
+   "The New Testament in the Light of Modern Research (Garden City, New York: Doubleday, Doran, 1929)"
+  ]
+ },
+ "_alternates": {
+  "deissmann-copies": "Bible Studies second edition (1909); New Light 1908 reprint; undated first-edition Light copies; the Doran 1926 issues"
+ },
+ "_excluded": {
+  "deissmann-reprints": "1965, 1979 and 1995 reprints",
+  "deissmann-others": "Meecham's Light from Ancient Letters; a 1903 New Light by another author; German originals"
+ },
+ "_rights_checked": {
+  "deissmann-light-ancient-east-revised": "title page read: no year; the preface to the fourth edition is dated 26 December 1922",
+  "deissmann-nt-modern-research": "title page read: copyright 1929, first edition; no translator named",
+  "deissmann-paul-1926": "title page read: Hodder and Stoughton, London, 1926 (the catalogue's Doran imprint is wrong)",
+  "deissmann-philology-greek-bible": "title page read: 'TRANSLATED FROM THE AUTHOR'S MS. BY LIONEL K. M. STRACHAH, M.A.' (OCR garble of Lionel R. M. Strachan), so no translator is claimed"
+ },
+ "_pending": {},
+ "_translators": {
+  "deissmann-bible-studies": "grieve",
+  "deissmann-new-light-nt": "strachan",
+  "deissmann-light-ancient-east-1910": "strachan",
+  "deissmann-light-ancient-east-revised": "strachan",
+  "deissmann-st-paul-1912": "strachan",
+  "deissmann-paul-1926": "wilson",
+  "deissmann-religion-jesus-faith-paul": "wilson"
+ },
+ "_checks": {
+  "deissmann-bible-studies": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "translator_claimed": "grieve",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deissmann-new-light-nt": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "translator_claimed": "strachan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deissmann-philology-greek-bible": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'TRANSLATED FROM THE AUTHOR'S MS. BY LIONEL K. M. STRACHAH, M.A.' (OCR garble of Lionel R. M. Strachan), so no translator is claimed"
+  },
+  "deissmann-light-ancient-east-1910": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "translator_claimed": "strachan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "deissmann-light-ancient-east-revised": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "translator_claimed": "strachan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: no year; the preface to the fourth edition is dated 26 December 1922"
+  },
+  "deissmann-st-paul-1912": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "translator_claimed": "strachan",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "deissmann-paul-1926": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "translator_claimed": "wilson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Hodder and Stoughton, London, 1926 (the catalogue's Doran imprint is wrong)"
+  },
+  "deissmann-religion-jesus-faith-paul": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "translator_claimed": "wilson",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "deissmann-nt-modern-research": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "deissmann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: copyright 1929, first edition; no translator named"
+  }
+ }
+}

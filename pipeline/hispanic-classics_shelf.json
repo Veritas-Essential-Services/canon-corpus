@@ -1,0 +1,1026 @@
+{
+ "_about": "SHELF of Spanish, Spanish-American and Brazilian classics in English before 1931: Underhill's four series of Benavente's Plays (1917-1924), the Martínez Sierra plays in Underhill's and the Granville-Barkers' versions (1922), Rollo Ogden's Isaacs María (1890), Mrs. Horace Mann's Sarmiento Facundo (1868), Isabel Burton's Alencar Iraçéma (1886) and Walsh and de la Selva's Darío (1916). Mary J. Serrano's Valera and Mármol are on the serrano shelf. Each title gates on its own translator. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 93); Adam may veto. No uids minted. Round 111 (2026-10-17, vetoable) added Langton's Espinel (1816), Saldkeld's Gracián (1730), Jacobs's Gracián (1892, 1904 printing) and North's Guevara (1568). Round 119 added Churton's Góngora (1862, 2 vols) and Lorente's Graça Aranha, Canaan (1920). Round 124 (2026-10-23, vetoable) added Alarcón's The Three-Cornered Hat (Fassett, Knopf 1918) and Júlio Dinis's The Fidalgos of Casa Mourisca (Roxana L. Dabney, Lothrop 1891).",
+ "_name_words": [
+  "algernon langton",
+  "archer m. huntington",
+  "aubrey bell",
+  "aubrey f. g. bell",
+  "branner",
+  "garrett underhill",
+  "granville-barker",
+  "helen and harley granville-barker",
+  "huntington",
+  "isabel burton",
+  "john c. branner",
+  "john garrett underhill",
+  "john ormsby",
+  "joseph jacobs",
+  "major algernon langton",
+  "mary mann",
+  "mrs. horace mann",
+  "ormsby",
+  "rollo ogden",
+  "saldkeld",
+  "salomon de la selva",
+  "salomón de la selva",
+  "t. north",
+  "t. saldkeld",
+  "thomas walsh",
+  "edward churton",
+  "mariano joaquin lorente",
+  "mariano joaquín lorente",
+  "jacob s. fassett",
+  "roxana l. dabney"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. Common surnames (walsh, mann, ogden, burton) are never listed bare.",
+ "_surname": [
+  "algernon langton",
+  "archer m. huntington",
+  "aubrey bell",
+  "aubrey f. g. bell",
+  "branner",
+  "garrett underhill",
+  "granville-barker",
+  "helen and harley granville-barker",
+  "huntington",
+  "isabel burton",
+  "john c. branner",
+  "john garrett underhill",
+  "john ormsby",
+  "joseph jacobs",
+  "major algernon langton",
+  "mary mann",
+  "mrs. horace mann",
+  "ormsby",
+  "rollo ogden",
+  "saldkeld",
+  "salomon de la selva",
+  "salomón de la selva",
+  "t. north",
+  "t. saldkeld",
+  "thomas walsh",
+  "edward churton",
+  "mariano joaquin lorente",
+  "mariano joaquín lorente",
+  "jacob s. fassett",
+  "roxana l. dabney"
+ ],
+ "_surname_by_slug": {
+  "hsp-benavente-plays-1": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-benavente-plays-2": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-benavente-plays-3": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-benavente-plays-4": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-martinez-sierra-plays-1": [
+   "john garrett underhill",
+   "garrett underhill"
+  ],
+  "hsp-martinez-sierra-kingdom-of-god": [
+   "helen and harley granville-barker",
+   "granville-barker"
+  ],
+  "hsp-isaacs-maria": [
+   "rollo ogden"
+  ],
+  "hsp-sarmiento-facundo": [
+   "mrs. horace mann",
+   "mary mann"
+  ],
+  "hsp-alencar-iracema": [
+   "isabel burton"
+  ],
+  "hsp-dario-eleven-poems": [
+   "thomas walsh",
+   "salomon de la selva",
+   "salomón de la selva"
+  ],
+  "hsp-poem-of-the-cid-ormsby": [
+   "ormsby",
+   "john ormsby"
+  ],
+  "hsp-poem-of-the-cid-huntington": [
+   "huntington",
+   "archer m. huntington"
+  ],
+  "hsp-herculano-inquisition-branner": [
+   "branner",
+   "john c. branner"
+  ],
+  "hsp-gil-vicente-lyrics-bell": [
+   "aubrey f. g. bell",
+   "aubrey bell"
+  ],
+  "hsp-espinel-marcos-de-obregon-1": [
+   "algernon langton",
+   "major algernon langton"
+  ],
+  "hsp-espinel-marcos-de-obregon-2": [
+   "algernon langton",
+   "major algernon langton"
+  ],
+  "hsp-gracian-compleat-gentleman": [
+   "t. saldkeld",
+   "saldkeld"
+  ],
+  "hsp-gracian-art-of-worldly-wisdom": [
+   "joseph jacobs"
+  ],
+  "hsp-guevara-dial-of-princes": [
+   "t. north"
+  ],
+  "hsp-churton-gongora-vol-1": [
+   "edward churton"
+  ],
+  "hsp-churton-gongora-vol-2": [
+   "edward churton"
+  ],
+  "hsp-aranha-canaan": [
+   "mariano joaquin lorente",
+   "mariano joaquín lorente"
+  ],
+  "hsp-alarcon-three-cornered-hat": [
+   "jacob s. fassett"
+  ],
+  "hsp-dinis-fidalgos": [
+   "roxana l. dabney"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hsp-benavente-plays-1": [
+   "ser1playstranslat00benauoft",
+   "Plays by Jacinto Benavente, First Series (1917)"
+  ],
+  "hsp-benavente-plays-2": [
+   "playstranslatedf02benauoft",
+   "Plays by Jacinto Benavente, Second Series (1923 printing)"
+  ],
+  "hsp-benavente-plays-3": [
+   "playstranslatedf03benauoft",
+   "Plays by Jacinto Benavente, Third Series (1923)"
+  ],
+  "hsp-benavente-plays-4": [
+   "playstranslatedf04benauoft",
+   "Plays by Jacinto Benavente, Fourth Series (1924)"
+  ],
+  "hsp-martinez-sierra-plays-1": [
+   "playsgmartnezsi00grangoog",
+   "Plays of G. Martínez Sierra, Volume I: The Cradle Song (1922)"
+  ],
+  "hsp-martinez-sierra-kingdom-of-god": [
+   "kingdomofgodothe0000gmar",
+   "The Kingdom of God and Other Plays (1929 printing)"
+  ],
+  "hsp-isaacs-maria": [
+   "mariasouthameric00isaa",
+   "Maria: a South American Romance (1890)"
+  ],
+  "hsp-sarmiento-facundo": [
+   "lifeinargentiner00sarmrich",
+   "Life in the Argentine Republic in the Days of the Tyrants (1868)"
+  ],
+  "hsp-alencar-iracema": [
+   "iracmahoneylip00alenuoft",
+   "Iraçéma, the Honey-Lips: a Legend of Brazil (1886)"
+  ],
+  "hsp-dario-eleven-poems": [
+   "elevenpoems00daruoft",
+   "Eleven Poems of Rubén Darío (1916)"
+  ],
+  "hsp-poem-of-the-cid-ormsby": [
+   "cu31924026395719",
+   "The Poem of the Cid, a translation from the Spanish, with introduction and notes (1879)"
+  ],
+  "hsp-poem-of-the-cid-huntington": [
+   "poemofcid02huntuoft",
+   "Poem of the Cid, vol. II: Translation (1901)"
+  ],
+  "hsp-herculano-inquisition-branner": [
+   "historyoftheorig012210mbp",
+   "History of the Origin and Establishment of the Inquisition in Portugal (1926)"
+  ],
+  "hsp-gil-vicente-lyrics-bell": [
+   "cu31924027725542",
+   "Lyrics of Gil Vicente (1914)"
+  ],
+  "hsp-espinel-marcos-de-obregon-1": [
+   "historyoflifeofs01espiuoft",
+   "The History of the Life of the Squire Marcos de Obregon, vol. I (1816)"
+  ],
+  "hsp-espinel-marcos-de-obregon-2": [
+   "historyoflifeofs02espiuoft",
+   "The History of the Life of the Squire Marcos de Obregon, vol. II (1816)"
+  ],
+  "hsp-gracian-compleat-gentleman": [
+   "compleatgentlema00gracuoft",
+   "The Compleat Gentleman, or a Description of the several Qualifications both Natural and Acquired that are necessary to form a Great Man (El Discreto) (1730)"
+  ],
+  "hsp-gracian-art-of-worldly-wisdom": [
+   "the-art-of-worldly-wisdom",
+   "The Art of Worldly Wisdom (Oráculo manual) (1904 printing)",
+   "The art of worldly wisdom_djvu.txt"
+  ],
+  "hsp-guevara-dial-of-princes": [
+   "dialofprincescom00guev",
+   "The Dial of Princes (1568)"
+  ],
+  "hsp-churton-gongora-vol-1": [
+   "gongorahistorica01chur",
+   "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. I (1862)"
+  ],
+  "hsp-churton-gongora-vol-2": [
+   "gongorahistorica02chur",
+   "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. II (1862)"
+  ],
+  "hsp-aranha-canaan": [
+   "canaanaran00aranuoft",
+   "Canaan (1920)"
+  ],
+  "hsp-alarcon-three-cornered-hat": [
+   "threecorneredha00alar",
+   "The Three-Cornered Hat (1918)"
+  ],
+  "hsp-dinis-fidalgos": [
+   "cu31924027881840",
+   "The Fidalgos of Casa Mourisca (1891)"
+  ]
+ },
+ "titles": {
+  "hispanic-classics-benavente-plays-1": {
+   "source": "hsp-benavente-plays-1",
+   "of": "Jacinto Benavente",
+   "work": "Plays, First Series",
+   "translated": 1917,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York, published May 1917; University of Toronto scan"
+  },
+  "hispanic-classics-benavente-plays-2": {
+   "source": "hsp-benavente-plays-2",
+   "of": "Jacinto Benavente",
+   "work": "Plays, Second Series",
+   "translated": 1919,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York, 1923 printing of the 1919 series; University of Toronto scan"
+  },
+  "hispanic-classics-benavente-plays-3": {
+   "source": "hsp-benavente-plays-3",
+   "of": "Jacinto Benavente",
+   "work": "Plays, Third Series",
+   "translated": 1923,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York, published March 1923; University of Toronto scan"
+  },
+  "hispanic-classics-benavente-plays-4": {
+   "source": "hsp-benavente-plays-4",
+   "of": "Jacinto Benavente",
+   "work": "Plays, Fourth Series",
+   "translated": 1924,
+   "translator": "John Garrett Underhill",
+   "scan_edition": "Charles Scribner's Sons, New York 1924; University of Toronto scan"
+  },
+  "hispanic-classics-martinez-sierra-plays-1": {
+   "source": "hsp-martinez-sierra-plays-1",
+   "of": "Gregorio Martínez Sierra",
+   "work": "Plays of G. Martínez Sierra, Volume I: The Cradle Song, The Lover, Love Magic, Poor John, Madame Pepita",
+   "translated": 1922,
+   "translator": "John Garrett Underhill and Harley Granville-Barker",
+   "scan_edition": "E. P. Dutton, New York 1922; Google scan",
+   "note": "In English versions by Underhill and Granville-Barker, per the title page."
+  },
+  "hispanic-classics-martinez-sierra-kingdom-of-god": {
+   "source": "hsp-martinez-sierra-kingdom-of-god",
+   "of": "Gregorio Martínez Sierra",
+   "work": "The Kingdom of God and Other Plays (Plays of G. Martínez Sierra, Volume II)",
+   "translated": 1922,
+   "translator": "Helen and Harley Granville-Barker",
+   "scan_edition": "E. P. Dutton, New York, third printing September 1929 (first printing November 1922); archive.org scan"
+  },
+  "hispanic-classics-isaacs-maria": {
+   "source": "hsp-isaacs-maria",
+   "of": "Jorge Isaacs",
+   "work": "Maria: a South American Romance",
+   "translated": 1890,
+   "translator": "Rollo Ogden",
+   "scan_edition": "Harper & Brothers, New York 1890; archive.org scan"
+  },
+  "hispanic-classics-sarmiento-facundo": {
+   "source": "hsp-sarmiento-facundo",
+   "of": "Domingo Faustino Sarmiento",
+   "work": "Life in the Argentine Republic in the Days of the Tyrants; or, Civilization and Barbarism (Facundo)",
+   "translated": 1868,
+   "translator": "Mrs. Horace Mann (Mary Tyler Peabody Mann)",
+   "scan_edition": "Hurd and Houghton, New York 1868; University of California scan"
+  },
+  "hispanic-classics-alencar-iracema": {
+   "source": "hsp-alencar-iracema",
+   "of": "José de Alencar",
+   "work": "Iraçéma, the Honey-Lips: a Legend of Brazil",
+   "translated": 1886,
+   "translator": "Isabel Burton",
+   "scan_edition": "Bickers & Son, London 1886; University of Toronto scan"
+  },
+  "hispanic-classics-dario-eleven-poems": {
+   "source": "hsp-dario-eleven-poems",
+   "of": "Rubén Darío",
+   "work": "Eleven Poems",
+   "translated": 1916,
+   "translator": "Thomas Walsh and Salomón de la Selva",
+   "scan_edition": "G. P. Putnam's Sons, New York 1916; University of Toronto scan"
+  },
+  "hispanic-classics-poem-of-the-cid-ormsby": {
+   "source": "hsp-poem-of-the-cid-ormsby",
+   "of": "The Poem of the Cid (Cantar de mio Cid)",
+   "work": "The Poem of the Cid, a translation from the Spanish, with introduction and notes",
+   "translated": "1879",
+   "translator": "John Ormsby",
+   "scan_edition": "Longmans, Green, London, 1879; Cornell University Library scan"
+  },
+  "hispanic-classics-poem-of-the-cid-huntington": {
+   "source": "hsp-poem-of-the-cid-huntington",
+   "of": "The Poem of the Cid (Cantar de mio Cid)",
+   "work": "Poem of the Cid, vol. II: Translation",
+   "translated": "1901",
+   "translator": "Archer M. Huntington",
+   "scan_edition": "Hispanic Society of America, New York, 1908 printing (copyright 1901, 1908); University of Toronto scan",
+   "note": "Vol. I is the Spanish text and vol. III the notes; only the translation volume is shelved."
+  },
+  "hispanic-classics-herculano-inquisition-branner": {
+   "source": "hsp-herculano-inquisition-branner",
+   "of": "Alexandre Herculano",
+   "work": "History of the Origin and Establishment of the Inquisition in Portugal",
+   "translated": "1926",
+   "translator": "John C. Branner",
+   "scan_edition": "Stanford University, California, 1926; archive.org scan"
+  },
+  "hispanic-classics-gil-vicente-lyrics-bell": {
+   "source": "hsp-gil-vicente-lyrics-bell",
+   "of": "Gil Vicente",
+   "work": "Lyrics of Gil Vicente",
+   "translated": "1921 (second edition)",
+   "translator": "Aubrey F. G. Bell",
+   "scan_edition": "Basil Blackwell, Oxford, 1921 (second edition); Cornell University Library scan",
+   "note": "The Portuguese and Spanish lyrics first, then Bell's English versions."
+  },
+  "hispanic-classics-espinel-marcos-de-obregon-1": {
+   "source": "hsp-espinel-marcos-de-obregon-1",
+   "of": "Vicente Espinel",
+   "work": "The History of the Life of the Squire Marcos de Obregon, vol. I",
+   "translated": 1816,
+   "translator": "Major Algernon Langton",
+   "scan_edition": "John Booth, London 1816; University of Toronto scan"
+  },
+  "hispanic-classics-espinel-marcos-de-obregon-2": {
+   "source": "hsp-espinel-marcos-de-obregon-2",
+   "of": "Vicente Espinel",
+   "work": "The History of the Life of the Squire Marcos de Obregon, vol. II",
+   "translated": 1816,
+   "translator": "Major Algernon Langton",
+   "scan_edition": "John Booth, London 1816; University of Toronto scan"
+  },
+  "hispanic-classics-gracian-compleat-gentleman": {
+   "source": "hsp-gracian-compleat-gentleman",
+   "of": "Baltasar Gracián",
+   "work": "The Compleat Gentleman, or a Description of the several Qualifications both Natural and Acquired that are necessary to form a Great Man (El Discreto)",
+   "translated": 1730,
+   "translator": "T. Saldkeld",
+   "scan_edition": "T. Osborne, London MDCCXXX; University of Toronto scan"
+  },
+  "hispanic-classics-gracian-art-of-worldly-wisdom": {
+   "source": "hsp-gracian-art-of-worldly-wisdom",
+   "of": "Baltasar Gracián",
+   "work": "The Art of Worldly Wisdom (Oráculo manual)",
+   "translated": 1892,
+   "translator": "Joseph Jacobs",
+   "scan_edition": "Macmillan, Golden Treasury Series, London 1904 (first edition 1892, reprinted 1904); archive.org scan",
+   "note": "The scan carries a library 'Preservation Services' stamp; no photocopy or replacement-volume notice was found in its text."
+  },
+  "hispanic-classics-guevara-dial-of-princes": {
+   "source": "hsp-guevara-dial-of-princes",
+   "of": "Antonio de Guevara",
+   "work": "The Dial of Princes (Relox de príncipes), with The Favored Courtier",
+   "translated": 1568,
+   "translator": "Sir Thomas North",
+   "scan_edition": "Richard Tottill and Thomas Marshe, London 1568 (North's revised second edition; first 1557); Queen's University (Kingston) scan"
+  },
+  "hispanic-classics-churton-gongora-vol-1": {
+   "source": "hsp-churton-gongora-vol-1",
+   "of": "Luis de Góngora",
+   "work": "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. I",
+   "translated": 1862,
+   "translator": "Edward Churton",
+   "scan_edition": "John Murray, London 1862; archive.org scan",
+   "note": "Churton's essay interleaved with his verse translations of Góngora's poems."
+  },
+  "hispanic-classics-churton-gongora-vol-2": {
+   "source": "hsp-churton-gongora-vol-2",
+   "of": "Luis de Góngora",
+   "work": "Gongora: an Historical and Critical Essay on the Times of Philip III and IV of Spain, with Translations, vol. II",
+   "translated": 1862,
+   "translator": "Edward Churton",
+   "scan_edition": "John Murray, London 1862; archive.org scan",
+   "note": "Churton's essay interleaved with his verse translations of Góngora's poems."
+  },
+  "hispanic-classics-aranha-canaan": {
+   "source": "hsp-aranha-canaan",
+   "of": "Graça Aranha",
+   "work": "Canaan",
+   "translated": 1920,
+   "translator": "Mariano Joaquín Lorente",
+   "scan_edition": "The Four Seas Company, Boston 1920; University of Toronto scan"
+  },
+  "hispanic-classics-alarcon-three-cornered-hat": {
+   "source": "hsp-alarcon-three-cornered-hat",
+   "of": "Pedro Antonio de Alarcón",
+   "work": "The Three-Cornered Hat (El sombrero de tres picos)",
+   "translated": 1918,
+   "translator": "Jacob S. Fassett Jr.",
+   "scan_edition": "Alfred A. Knopf, New York 1918 (Spanish Translations, IV); archive.org scan",
+   "note": "Knopf's series list on this scan names Martin Rivas (Blest Gana) as Spanish Translations III: the English Martin Rivas exists, but no scan of it was found."
+  },
+  "hispanic-classics-dinis-fidalgos-of-casa-mourisca": {
+   "source": "hsp-dinis-fidalgos",
+   "of": "Júlio Dinis",
+   "work": "The Fidalgos of Casa Mourisca",
+   "translated": 1891,
+   "translator": "Roxana L. Dabney",
+   "scan_edition": "D. Lothrop Company, Boston, copyright 1891; Cornell scan"
+  }
+ },
+ "_pending": {
+  "hispanic-classics-mendes-pinto-voyages-cogan": "Cogan's Voyages and Adventures of Ferdinand Mendez Pinto (Unwin, 1891, abridged; cu31924077183410): the only scan found (IA cu31924077183410) is a Cornell University Library replacement volume (1996), a photocopy of the original on permanent paper, so it waits on the facsimile ruling. Found in round 103; it had been shelved before."
+ },
+ "_excluded": {
+  "cradle-song-1931-printing": "The Cradle Song and Other Plays scan cradlesongotherp00martiala lists a fourth printing of December 1931; the 1922 printing (playsgmartnezsi00grangoog) is used instead.",
+  "heinemann-pepita-jimenez-1891": "Heinemann's Pepita Jiménez (London, 1891) does not name its translator on the title page.",
+  "dona-luz-1975": "donaluz00vale is a 1975 Howard Fertig reprint; the 1891 Appleton scan is used instead (on serrano).",
+  "north-dial-selections-1919": "K. N. Colvile's Fruit of the Dial of Princes (Philip Allan, 1919) is a selection from North's translation, which is already here whole.",
+  "berners-golden-boke-1916": "The 1916 reprint of Lord Berners's Golden Boke of Marcus Aurelius was left out for now; a period scan of an early printing would be preferred."
+ },
+ "_checks": {
+  "hsp-benavente-plays-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-benavente-plays-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-benavente-plays-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-benavente-plays-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1917",
+   "ia_date": "1917",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-martinez-sierra-plays-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john garrett underhill",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-martinez-sierra-kingdom-of-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "helen and harley granville-barker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1929",
+   "ia_date": "1929-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-isaacs-maria": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "rollo ogden",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-sarmiento-facundo": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mrs. horace mann",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-alencar-iracema": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "isabel burton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-dario-eleven-poems": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas walsh",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-poem-of-the-cid-ormsby": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ormsby",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-poem-of-the-cid-huntington": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "[1907-8]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-herculano-inquisition-branner": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "branner",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-gil-vicente-lyrics-bell": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-espinel-marcos-de-obregon-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "algernon langton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-espinel-marcos-de-obregon-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "algernon langton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1816",
+   "ia_date": "1816",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-gracian-compleat-gentleman": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1730",
+   "ia_date": "1730",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-gracian-art-of-worldly-wisdom": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph jacobs",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-guevara-dial-of-princes": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "t. north",
+   "identity": "ok",
+   "ia_rights": "ok: published 1568",
+   "ia_date": "1568",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-churton-gongora-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward churton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-churton-gongora-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward churton",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-aranha-canaan": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mariano joaquin lorente",
+   "identity": "ok",
+   "ia_rights": "ok: published 1920",
+   "ia_date": "1920",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hsp-alarcon-three-cornered-hat": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "jacob s. fassett",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hsp-dinis-fidalgos": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "roxana l. dabney",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "hsp-benavente-plays-1": {
+   "ia": "ser1playstranslat00benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1894,
+    1896,
+    1898,
+    1905,
+    1911,
+    1917
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-benavente-plays-2": {
+   "ia": "playstranslatedf02benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1893,
+    1903,
+    1904,
+    1918,
+    1919,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-benavente-plays-3": {
+   "ia": "playstranslatedf03benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1918,
+    1919,
+    1923
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-benavente-plays-4": {
+   "ia": "playstranslatedf04benauoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1904,
+    1907,
+    1909,
+    1917,
+    1919,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-martinez-sierra-plays-1": {
+   "ia": "playsgmartnezsi00grangoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1913,
+    1915,
+    1917,
+    1919,
+    1921,
+    1922
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-martinez-sierra-kingdom-of-god": {
+   "ia": "kingdomofgodothe0000gmar",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1922,
+    1929
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-isaacs-maria": {
+   "ia": "mariasouthameric00isaa",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1537,
+    1600,
+    1867,
+    1890
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-sarmiento-facundo": {
+   "ia": "lifeinargentiner00sarmrich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1850,
+    1868
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-alencar-iracema": {
+   "ia": "iracmahoneylip00alenuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1603,
+    1608,
+    1611
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-dario-eleven-poems": {
+   "ia": "elevenpoems00daruoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1800,
+    1867,
+    1892,
+    1893,
+    1914,
+    1916
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-poem-of-the-cid-ormsby": {
+   "ia": "cu31924026395719",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1792,
+    1844,
+    1872,
+    1879,
+    1891,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-poem-of-the-cid-huntington": {
+   "ia": "poemofcid02huntuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1901
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-herculano-inquisition-branner": {
+   "ia": "historyoftheorig012210mbp",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1852,
+    1857,
+    1867,
+    1877,
+    1907,
+    1926
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-gil-vicente-lyrics-bell": {
+   "ia": "cu31924027725542",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1527,
+    1577,
+    1891,
+    1893,
+    1915,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-espinel-marcos-de-obregon-1": {
+   "ia": "historyoflifeofs01espiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1618,
+    1816
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-espinel-marcos-de-obregon-2": {
+   "ia": "historyoflifeofs02espiuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1618,
+    1816
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-gracian-compleat-gentleman": {
+   "ia": "compleatgentlema00gracuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-gracian-art-of-worldly-wisdom": {
+   "ia": "the-art-of-worldly-wisdom",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1869,
+    1873,
+    1877,
+    1891,
+    1892,
+    1904
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-guevara-dial-of-princes": {
+   "ia": "dialofprincescom00guev",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-churton-gongora-vol-1": {
+   "ia": "gongorahistorica01chur",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1621,
+    1862,
+    1906
+   ],
+   "post_1930_years_in_front_15k": [
+    1946,
+    2013
+   ],
+   "post_1930_examined": "Examined in round 119: '1906-1946' is on a library gift plate ('Presented to the Library by Professor Milton A. Buchanan of the Department of Italian and Spanish, 1906-1946'), and 2013 is the Internet Archive's digitising line; the title page reads London, 1862."
+  },
+  "hsp-churton-gongora-vol-2": {
+   "ia": "gongorahistorica02chur",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1624,
+    1862
+   ],
+   "post_1930_years_in_front_15k": [
+    2013
+   ],
+   "post_1930_examined": "Examined in round 119: 2013 is the Internet Archive's digitising line; the title page reads London, 1862."
+  },
+  "hsp-aranha-canaan": {
+   "ia": "canaanaran00aranuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1914,
+    1920
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-alarcon-three-cornered-hat": {
+   "ia": "threecorneredha00alar",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1833,
+    1853,
+    1857,
+    1863,
+    1866,
+    1867,
+    1873,
+    1874,
+    1875,
+    1891,
+    1907,
+    1918,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "hsp-dinis-fidalgos": {
+   "ia": "cu31924027881840",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1839,
+    1856,
+    1860,
+    1861,
+    1871,
+    1890,
+    1891,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition.",
+ "_identity_checked": {
+  "hsp-poem-of-the-cid-huntington": {
+   "author": "The blackletter title page OCR reads 'Translation ... Hrcber fl\\ Ibuntíngton' and 'Copsrígbt, 1901, 1008, b« Brcber Ob. Uuntíngton' for Archer M. Huntington, copyright 1901, 1908. Checked by eye 2026-10-17."
+  },
+  "hsp-gil-vicente-lyrics-bell": {
+   "author": "The title page OCR reads 'Lyrics of Qil Vicente By AVBRET F. G. 'BELL Second Edition OXFORD : BASIL BLACKWELL, BROAD STREET MCMXXI' for Aubrey F. G. Bell. Checked by eye 2026-10-17."
+  },
+  "hsp-gracian-compleat-gentleman": {
+   "author": "The title page OCR reads 'And now Tranflated into EngUJb By T. S A L D K E L D.' (letter-spaced) under 'Written originally in Spani/h, by BALTASAR GRATIAN', imprint 'LONDON: Printed for T. Osborne, in Grafi-Inn MDCCXXX.' Checked by eye 2026-10-17."
+  }
+ }
+}

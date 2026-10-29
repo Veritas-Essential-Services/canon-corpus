@@ -1,0 +1,60 @@
+{
+ "_about": "Jordanes (6th c.), the Getica (Gothic History), in English. Lane B (classical and late-antique translations).",
+ "_name_words": [
+  "jordanes",
+  "jordanis"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jordanes-mierow-getica-1908": [
+   14809,
+   "The Origin and Deeds of the Goths (Princeton, 1908)",
+   "tr. Charles Christopher Mierow"
+  ]
+ },
+ "internet_archive": {
+  "jordanes-mierow-gothic-history-1915": [
+   "gothichistoryofj00jorduoft",
+   "The Gothic History of Jordanes in English Version, with an introduction and a commentary (Princeton, 1915)",
+   "tr. Charles Christopher Mierow"
+  ]
+ },
+ "_surname": [
+  "jordanes",
+  "jordanis"
+ ],
+ "_collation": {
+  "jordanes-mierow-getica-1908": "Mierow's 1908 Princeton thesis version. The 1915 book gives the translation again with an introduction and commentary: 160 of 200 sampled 8-word runs of the 1908 text recur in the 1915 OCR, so it is largely the same translation (the misses are OCR noise or light revision, not separated). Both kept; one may be enough"
+ },
+ "_translators": {
+  "jordanes-mierow-getica-1908": "Charles Christopher Mierow",
+  "jordanes-mierow-gothic-history-1915": "Charles Christopher Mierow"
+ },
+ "_checks": {
+  "jordanes-mierow-getica-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jordanes",
+   "translator_claimed": "Charles Christopher Mierow",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles Christopher Mierow",
+   "translator_match": true
+  },
+  "jordanes-mierow-gothic-history-1915": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "jordanes",
+   "translator_claimed": "Charles Christopher Mierow",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

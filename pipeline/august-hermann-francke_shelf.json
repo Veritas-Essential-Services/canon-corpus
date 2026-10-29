@@ -1,0 +1,100 @@
+{
+ "_about": "Public-domain August Hermann Francke (1663-1727, Halle, Pietist and founder of the Halle orphanage) in English for the Word Hoard: Pietas Hallensis (London, 1705), Nicodemus, or a Treatise against the Fear of Man (second edition, 1709), Christus Sacrae Scripturae Nucleus (1732) and A Guide to the Reading and Study of the Holy Scriptures, tr. William Jaques (third edition, 1819), from Internet Archive scans. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "franck"
+ ],
+ "_surname": [
+  "francke",
+  "franck",
+  "augustus hermannus franck",
+  "augustus herman francke"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "francke-pietas-hallensis": [
+   "bim_eighteenth-century_pietas-hallensis-or-a-p_francke-august-hermann_1705",
+   "Pietas Hallensis: or a Publick Demonstration of the Foot-steps of a Divine Being (London: J. Downing, 1705)"
+  ],
+  "francke-nicodemus": [
+   "bim_eighteenth-century_nicodemus-or-a-treatis_francke-august-hermann_1709",
+   "Nicodemus: or, a Treatise against the Fear of Man, second edition (London: J. Downing, 1709)"
+  ],
+  "francke-christ-sum-scripture": [
+   "christsumsubstan00fran",
+   "Christ the Sum and Substance of all the Holy Scriptures (Christus Sacrae Scripturae Nucleus) (London: J. Downing, MDCCXXXII)"
+  ],
+  "francke-guide-scriptures": [
+   "guidetoreadingst00fran",
+   "A Guide to the Reading and Study of the Holy Scriptures, third edition, tr. William Jaques (London: D. Jaques for J. Hatchard, 1819)"
+  ]
+ },
+ "_alternates": {
+  "francke-copies": "Nicodemus 1706, 1801 and 1831; the Footsteps Parts II-III (1710, 1716) and later Pietas Hallensis issues; the Philadelphia Guide"
+ },
+ "_excluded": {},
+ "_rights_checked": {
+  "francke-pietas-hallensis": "title page read: 'done out of High-Dutch into English'; translator not named; year OCR'd '2705'",
+  "francke-nicodemus": "title page read: 'Rendred into English from the High-Dutch'; translator not named",
+  "francke-christ-sum-scripture": "title page read: 'rendered into English by an Antient Doctor of Physick'; translator not named"
+ },
+ "_pending": {
+  "francke-footsteps-1787": "The Footsteps of Divine Providence (London: W. Justins, 1787 or 1788): the title page credits the work to his instrumentality, not his pen"
+ },
+ "_translators": {
+  "francke-guide-scriptures": "jaques"
+ },
+ "_checks": {
+  "francke-pietas-hallensis": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "franck",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1705",
+   "ia_date": "1705",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'done out of High-Dutch into English'; translator not named; year OCR'd '2705'"
+  },
+  "francke-nicodemus": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "franck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1709",
+   "ia_date": "1709",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 'Rendred into English from the High-Dutch'; translator not named"
+  },
+  "francke-christ-sum-scripture": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "franck",
+   "identity": "ok",
+   "ia_rights": "ok: published 1732",
+   "ia_date": "1732",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'rendered into English by an Antient Doctor of Physick'; translator not named"
+  },
+  "francke-guide-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "franck",
+   "translator_claimed": "jaques",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1819",
+   "ia_date": "1819",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "_about": "Public-domain Martin Chemnitz (1522-1586), Lutheran theologian of Brunswick, for the Word Hoard: two Elizabethan English translations, A Discouerie and Batterie of the Great Fort of Unwritten Traditions (from his Examen of the Council of Trent, translated by R. V., 1582) and A Substantial and Godly Exposition of the Lords Praier (Cambridge: John Legate, 1598), from Internet Archive scans of Early English Books. Added 2026-10-23 by lane A, round 39 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "chemnitius",
+  "chemnitz"
+ ],
+ "_surname": [
+  "chemnitius",
+  "chemnitz",
+  "kemnitius",
+  "chemnicius",
+  "kemnitz"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "chemnitz-discouerie-batterie-1582": [
+   "bim_early-english-books-1475-1640_a-discouerie-and-batteri_martinus-chemnitius_1582",
+   "A Discouerie and Batterie of the Great Fort of Unwritten Traditions: otherwise, An Examination of the Counsell of Trent touching the Decree of Traditions, done by Martinus Chemnitius in Latine and translated into English by R. V. (London: Thomas Purfoot and William Pounsonbie, 1582)"
+  ],
+  "chemnitz-lords-praier-1598": [
+   "bim_early-english-books-1475-1640_a-substantial-and-godly-_martinus-chemnitius_1598",
+   "A Substantial and Godly Exposition of the Praier commonly called the Lords Praier, written in Latin by D. Martine Chemnitius, newly translated out of Latine into English (Cambridge: John Legate; catalogued 1598)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "chemnitz-other": "His Latin works (De Duabus Naturis 1580, the Examen ed. Preuss 1861); Christian and Bogislav Philipp von Chemnitz; the 1971-89 Concordia translations (in copyright); a mislabelled 'Concordia' item dated 1537"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "chemnitz-discouerie-batterie-1582": "title page read from the page image: 'A Discouerie and Batterie of the great Fort of unwritten Traditions ... done by Martinus Chemnitius in Latine, and translated into English by R. V.' (OCR reads the long s as f: 'difcouerie')",
+  "chemnitz-lords-praier-1598": "title page read from the page image: 'written in Latin by that reverend & famous man D. Martine Chemnitius' (OCR garbled)"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "chemnitz-discouerie-batterie-1582": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "chemnitius",
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1582",
+   "ia_date": "1582",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "chemnitz-lords-praier-1598": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1598",
+   "ia_date": "1598",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "_about": "Public-domain F. W. Grant (Frederick William Grant, 1834-1902, Brethren, Plainfield NJ) for the Word Hoard: six of the seven volumes of The Numerical Bible (his revised translation with notes; Loizeaux editions copyright 1901-1903; vol. 4, Ezekiel, was finished by others and published after 1930), Facts and Theories as to a Future State (catalogued 1879), Spiritual Law in the Natural World (1891) and The Revelation of Christ, raw Internet Archive OCR. Number-symbolism exegesis; veto point. Added 2026-10-10 by lane A, round 20 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "grant"
+ ],
+ "_surname": [
+  "f. w. grant",
+  "frederick william grant",
+  "grant, f. w.",
+  "grant, frederick william",
+  "by f. w. grant"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "grant-revelation": [
+   "revelationofchri00granrich",
+   "The Revelation of Christ to His Servants: Brief Notes in Interpretation (New York: Loizeaux Brothers, 63 Fourth Avenue; no year on title page)"
+  ],
+  "grant-facts-theories": [
+   "cihm_89794",
+   "Facts and Theories as to a Future State (New York: M. Cathcart; Toronto: S. W. Hallows; no year on title page, catalogued 1879)"
+  ],
+  "grant-spiritual-law": [
+   "spirituallawinna00gran",
+   "Spiritual Law in the Natural World (New York: Loizeaux Brothers, copyright 1891)"
+  ],
+  "grant-numerical-bible-1": [
+   "numericalbiblebe01gran",
+   "The Numerical Bible, being a revised translation with expository notes, vol. 1, Pentateuch, fourth edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1903; author not named on the title page)"
+  ],
+  "grant-numerical-bible-2": [
+   "numericalbiblebe02gran",
+   "The Numerical Bible, being a revised translation with expository notes, vol. 2, Joshua to 2 Samuel, third edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1901; author not named on the title page)"
+  ],
+  "grant-numerical-bible-3": [
+   "numericalbiblebe03gran",
+   "The Numerical Bible, being a revised translation with expository notes, vol. 3, Psalms, fourth edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright year garbled; author not named on the title page)"
+  ],
+  "grant-numerical-bible-5": [
+   "numericalbiblebe05gran",
+   "The Numerical Bible, being a revised translation with expository notes, vol. 5, Gospels, third edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1901; author not named on the title page)"
+  ],
+  "grant-numerical-bible-6": [
+   "numericalbiblebe06gran",
+   "The Numerical Bible, being a revised translation with expository notes, vol. 6, Acts to 2 Corinthians, fourth edition (New York: Loizeaux Brothers, 1 East 13th Street; no year in OCR; author not named on the title page)"
+  ],
+  "grant-numerical-bible-7": [
+   "numericalbiblebe07gran",
+   "The Numerical Bible, being a revised translation with expository notes, vol. 7, Hebrews to Revelation, third edition (New York: Loizeaux Brothers, 1 East 13th Street; copyright 1903; author not named on the title page)"
+  ]
+ },
+ "_alternates": {
+  "grant-facts-1889": "Facts and Theories, second edition enlarged (1889; IA factsandtheorie00grangoog)",
+  "grant-psalms-1897": "Numerical Bible, Psalms, copyright 1897 (IA numericalbiblebe0000loiz_n0n7)",
+  "grant-tracts": "Ought We to be Watching? (Toronto, catalogued 1877; cihm_33695) and A Letter Relating to the Division at Montreal (1885; cihm_60949): no author on their title pages"
+ },
+ "_excluded": {
+  "grant-late": "Numerical Bible printings of 1932 and later (New York 10, Neptune NJ)",
+  "grant-namesakes": "Frederick Dent Grant, Miles Grant, James Grant"
+ },
+ "_identity_checked": {
+  "grant-numerical-bible-2": {
+   "author": "title page read: no author named (third edition, New York: Loizeaux Brothers, 1901); the Numerical Bible is F. W. Grant's, catalogue attributes it to him"
+  },
+  "grant-numerical-bible-5": {
+   "author": "title page names no author; preface signed 'F. W. Grant, Plainfield, N. J. June, 1899' (OCR 'F, W. GRANT')"
+  }
+ },
+ "_rights_checked": {
+  "grant-revelation": "title page read: 'By F. W. Grant', New York: Loizeaux Brothers, no year (catalogued [18--]); author died 1902"
+ },
+ "_pending": {
+  "grant-ezekiel": "Numerical Bible vol. 4, Ezekiel (IA numericalbiblebe04gran): finished by J. Bloore, undated, probably 1931",
+  "grant-atonement": "Atonement in Type, Prophecy, and Accomplishment (IA bwb_S0-BMC-897): Loizeaux 19 West 21st St, undated",
+  "grant-undated": "Other undated Numerical Bible copies at 19 West 21st St"
+ },
+ "_checks": {
+  "grant-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. grant",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "[18--]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'By F. W. Grant', New York: Loizeaux Brothers, no year (catalogued [18--]); author died 1902"
+  },
+  "grant-facts-theories": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "grant-spiritual-law": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "grant-numerical-bible-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grant-numerical-bible-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grant-numerical-bible-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grant-numerical-bible-5": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grant-numerical-bible-6": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "grant-numerical-bible-7": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "f. w. grant",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

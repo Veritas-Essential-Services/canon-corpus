@@ -1,0 +1,86 @@
+{
+ "_about": "Margaret Warner Morley: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Margaret Warner Morley",
+ "_name_words": [
+  "margaret",
+  "morley",
+  "warner"
+ ],
+ "_surname": [
+  "margaret warner morley",
+  "morley"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mwmorley-insect-folk": [
+   18790,
+   "The Insect Folk"
+  ],
+  "mwmorley-renewal-of-life": [
+   26280,
+   "The Renewal of Life; How and When to Tell the Story to the Young"
+  ],
+  "mwmorley-little-mitchell": [
+   47995,
+   "Little Mitchell: The Story of a Mountain Squirrel"
+  ],
+  "mwmorley-little-wanderers": [
+   61295,
+   "Little Wanderers"
+  ],
+  "mwmorley-flowers-and-their-friends": [
+   72776,
+   "Flowers and their friends"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "mwmorley-insect-folk": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret warner morley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwmorley-renewal-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret warner morley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwmorley-little-mitchell": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret warner morley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwmorley-little-wanderers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret warner morley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwmorley-flowers-and-their-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "margaret warner morley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

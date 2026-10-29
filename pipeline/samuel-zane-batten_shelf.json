@@ -1,0 +1,148 @@
+{
+ "_about": "Public-domain Samuel Zane Batten, Baptist minister and social-gospel writer, for the Word Hoard: The New Citizenship, The Christian State, The Social Task of Christianity, The Moral Meaning of the War, The New World Order, If America Fail, Building a Community, and Why Not Try Christianity? Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 131 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "samuel zane batten",
+  "samuel z. batten",
+  "s. z. batten",
+  "batten"
+ ],
+ "_surname": [
+  "batten"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "batten-new-citizenship": [
+   "newcitizenshipch00batt",
+   "The new citizenship; Christian character in its Biblical ideals, sources, and relations (Philadelphia, The Union press, 1898)"
+  ],
+  "batten-christian-state": [
+   "christianstatest00batt",
+   "The Christian state; the state, democracy and Christianity (Philadelphia, Griffith & Rowland Press, 1909)"
+  ],
+  "batten-social-task": [
+   "socialtaskofchri00batt",
+   "The social task of Christianity; a summons to the new crusade (New York, F.H. Revell Co, 1911)"
+  ],
+  "batten-moral-meaning-war": [
+   "moralmeaningofwa0000batt",
+   "The moral meaning of the war : a prophetic interpretation (Philadelphia : American Baptist Publication Society, 1918)"
+  ],
+  "batten-new-world-order": [
+   "newworldorder0000samu",
+   "The New World Order (catalogued 1919)"
+  ],
+  "batten-if-america-fail": [
+   "ifamericafailour00batt",
+   "If America fail; our national mission and our possible future (Philadelpia, Boston [etc.] The Judson Press, 1922)"
+  ],
+  "batten-building-community": [
+   "buildingcommuni00batt",
+   "Building a community (Philadelpia, Pa. : Judson Press, 1922)"
+  ],
+  "batten-why-not-try": [
+   "whynottrychristi00batt",
+   "Why not try Christianity? (New York, George H. Doran company, 1923)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "batten-articles": "single journal articles",
+  "batten-dups": "microform and other scans of the same books"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "batten-new-citizenship": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "batten-christian-state": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1909",
+   "ia_date": "1909",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "batten-social-task": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "batten-moral-meaning-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1918",
+   "ia_date": "1918",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "batten-new-world-order": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "batten-if-america-fail": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "batten-building-community": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1922",
+   "ia_date": "1922",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "batten-why-not-try": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "batten",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

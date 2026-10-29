@@ -1,0 +1,91 @@
+{
+ "_about": "George Long (1800-1879), The Decline of the Roman Republic, 5 vols. (London: Bell and Daldy, 1864-1874); his translations (Marcus Aurelius, Epictetus, Plutarch's Lives) are on those shelves: The Decline of the Roman Republic, vol. I (London: Bell and Daldy, 1864); The Decline of the Roman Republic, vol. II (London: Bell and Daldy, 1866); The Decline of the Roman Republic, vol. III (London: Bell and Daldy, 1869); The Decline of the Roman Republic, vol. IV (London: Bell and Daldy, 1872); The Decline of the Roman Republic, vol. V (London: Bell and Daldy, 1874), raw IA OCR. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "long"
+ ],
+ "_surname": [
+  "george long",
+  "long, george"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "george-long-decline-roman-republic-v1-1864": [
+   "declineromanrep01unkngoog",
+   "The Decline of the Roman Republic, vol. I (London: Bell and Daldy, 1864)"
+  ],
+  "george-long-decline-roman-republic-v2-1866": [
+   "declineofromanre02longuoft",
+   "The Decline of the Roman Republic, vol. II (London: Bell and Daldy, 1866)"
+  ],
+  "george-long-decline-roman-republic-v3-1869": [
+   "declineromanrep00longgoog",
+   "The Decline of the Roman Republic, vol. III (London: Bell and Daldy, 1869)"
+  ],
+  "george-long-decline-roman-republic-v4-1872": [
+   "declineromanrep03longgoog",
+   "The Decline of the Roman Republic, vol. IV (London: Bell and Daldy, 1872)"
+  ],
+  "george-long-decline-roman-republic-v5-1874": [
+   "declineofromanre05longuoft",
+   "The Decline of the Roman Republic, vol. V (London: Bell and Daldy, 1874)"
+  ]
+ },
+ "_checks": {
+  "george-long-decline-roman-republic-v1-1864": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george long",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-long-decline-roman-republic-v2-1866": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george long",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864-74",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-long-decline-roman-republic-v3-1869": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george long",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-long-decline-roman-republic-v4-1872": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george long",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "george-long-decline-roman-republic-v5-1874": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george long",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864-74",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

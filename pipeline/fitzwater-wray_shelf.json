@@ -1,0 +1,116 @@
+{
+ "_about": "TRANSLATOR SHELF: W. Fitzwater Wray (1867-1938): Henri Barbusse's Under Fire (1917) and Light (1919). US public domain. Added 2026-10-10 by lane C (round 32); Adam may veto. No uids minted. From archive.org (2026-10-23): Berger's A Life at Stake (Putnam, 1919); Barbusse's We Others held, its title page prints no year.",
+ "_name_words": [
+  "fitzwater wray",
+  "w. fitzwater wray"
+ ],
+ "_surname": [
+  "fitzwater wray",
+  "w. fitzwater wray"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "fwr-12904": [
+   12904,
+   "Light"
+  ],
+  "fwr-4380": [
+   4380,
+   "Under Fire: The Story of a Squad"
+  ]
+ },
+ "internet_archive": {
+  "fwr-ia-berger-life-at-stake": [
+   "alifeatstake00wraygoog",
+   "Berger: A Life at Stake"
+  ]
+ },
+ "titles": {
+  "fitzwater-wray-barbusse-light": {
+   "source": "fwr-12904",
+   "of": "Henri Barbusse",
+   "work": "Light",
+   "translated": "1917-1919 (see the Gutenberg header)",
+   "translator": "W. Fitzwater Wray",
+   "scan_edition": "Project Gutenberg 12904 (clean text)"
+  },
+  "fitzwater-wray-barbusse-under-fire-the-story-of-a-squad": {
+   "source": "fwr-4380",
+   "of": "Henri Barbusse",
+   "work": "Under Fire: The Story of a Squad",
+   "translated": "1917-1919 (see the Gutenberg header)",
+   "translator": "W. Fitzwater Wray",
+   "scan_edition": "Project Gutenberg 4380 (clean text)",
+   "note": "Barbusse's dates '(1874-1935)' on the title page were added by the transcriber. The text is the 1917 Dent/Dutton translation."
+  },
+  "fitzwater-wray-berger-a-life-at-stake": {
+   "source": "fwr-ia-berger-life-at-stake",
+   "of": "Marcel Berger",
+   "work": "A Life at Stake",
+   "translated": "1919",
+   "translator": "Fitzwater Wray",
+   "scan_edition": "G. P. Putnam's Sons, New York and London, 1919"
+  }
+ },
+ "_pending": {
+  "fitzwater-wray-barbusse-we-others": "Barbusse's We Others: Stories of Fate, Love and Pity (E. P. Dutton, New York; weothersstories00wraygoog), translated by Fitzwater Wray. The title page prints no year and the copyright line is unreadable; archive.org dates it 1918."
+ },
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "fwr-12904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fitzwater wray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Fitzwater Wray"
+  },
+  "fwr-4380": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fitzwater wray",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Fitzwater Wray"
+  },
+  "fwr-ia-berger-life-at-stake": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fitzwater wray",
+   "identity": "ok",
+   "ia_rights": "ok: published 1919",
+   "ia_date": "1919",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "fwr-12904": {
+   "pg": 12904,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Fitzwater Wray"
+  },
+  "fwr-4380": {
+   "pg": 4380,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "W. Fitzwater Wray"
+  },
+  "fwr-ia-berger-life-at-stake": {
+   "ia": "alifeatstake00wraygoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1902,
+    1913,
+    1917,
+    1919
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

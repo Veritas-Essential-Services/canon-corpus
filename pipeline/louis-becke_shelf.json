@@ -1,0 +1,542 @@
+{
+ "_about": "Louis Becke's South Sea stories",
+ "_author": "Louis Becke",
+ "_name_words": [
+  "becke"
+ ],
+ "_surname": [
+  "louis becke"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lbecke-by-reef-and-palm": [
+   3818,
+   "By Reef and Palm"
+  ],
+  "lbecke-by-rock-and-pool-on-an-austral-shore-and-other-storie": [
+   12798,
+   "By Rock and Pool on an Austral Shore, and Other Stories",
+   {
+    "contents_only": true
+   }
+  ],
+  "lbecke-naval-pioneers-of-australia": [
+   12992,
+   "The Naval Pioneers of Australia (with Walter Jeffery)"
+  ],
+  "lbecke-edward-barry-south-sea-pearler": [
+   23440,
+   "Edward Barry South Sea Pearler"
+  ],
+  "lbecke-yorke-the-adventurer": [
+   23821,
+   "Yorke The Adventurer",
+   {
+    "levels": [
+     {
+      "re": "Chapter [IVXLC]+\\.?$",
+      "title_next": true
+     }
+    ],
+    "start": "Chapter I\\.?$",
+    "front": true
+   }
+  ],
+  "lbecke-tom-gerrard": [
+   24270,
+   "Tom Gerrard"
+  ],
+  "lbecke-john-corwell-sailor-and-miner": [
+   24446,
+   "John Corwell, Sailor and Miner; and, Poisonous Fish 1901"
+  ],
+  "lbecke-colonial-mortuary-bard": [
+   24639,
+   "The Colonial Mortuary Bard; \"'Reo,\" The Fisherman; and The Black Bream of Australia 1901"
+  ],
+  "lbecke-old-mary-1901": [
+   24640,
+   "\"Old Mary\" 1901"
+  ],
+  "lbecke-martin-of-nitendi": [
+   24641,
+   "\"Martin of Nitendi\"; and The River of Dreams 1901"
+  ],
+  "lbecke-five-head-creek": [
+   24642,
+   "\"Five-Head\" Creek; and Fish Drugging in the Pacific 1901"
+  ],
+  "lbecke-chinkies-flat-1904": [
+   24805,
+   "\"Chinkie's Flat\" 1904"
+  ],
+  "lbecke-john-frewen-south-sea-whaler-1904": [
+   24806,
+   "John Frewen, South Sea Whaler 1904"
+  ],
+  "lbecke-a-memory-of-the-southern-seas-1904": [
+   24807,
+   "A Memory of the Southern Seas 1904"
+  ],
+  "lbecke-r-dan-the-devil-and-other-stories-1899": [
+   24835,
+   "Rídan the Devil, and Other Stories 1899"
+  ],
+  "lbecke-rodman-the-boatsteerer-and-other-stories-1898": [
+   24836,
+   "Rodman the Boatsteerer, and Other Stories 1898"
+  ],
+  "lbecke-traders-wife-1901": [
+   24837,
+   "The Trader's Wife 1901"
+  ],
+  "lbecke-tessa-1901": [
+   24838,
+   "Tessa 1901"
+  ],
+  "lbecke-call-of-the-south-1908": [
+   24895,
+   "The Call of the South 1908"
+  ],
+  "lbecke-ebbing-of-the-tide-south-sea-stories-1896": [
+   24896,
+   "The Ebbing Of The Tide South Sea Stories - 1896"
+  ],
+  "lbecke-mona": [
+   24952,
+   "Âmona; The Child; And The Beast; And Others From \"The Strange Adventure of James Shervinton, and Other Stories\" - 1902"
+  ],
+  "lbecke-flemmings-and-flash-harry-of-savait-from-the-strange": [
+   24953,
+   "The Flemmings and \"Flash Harry\" of Savait From \"The Strange Adventure of James Shervinton, and Other Stories\" - 1902"
+  ],
+  "lbecke-pig-headed-sailor-men-from-the-strange-adventure-of-j": [
+   24954,
+   "\"Pig-Headed\" Sailor Men From \"The Strange Adventure of James Shervinton, and Other Stories\" - 1902"
+  ],
+  "lbecke-americans-in-the-south-seas-1901": [
+   24995,
+   "The Americans in the South Seas 1901"
+  ],
+  "lbecke-tapu-of-banderah-1901": [
+   24996,
+   "The Tapu of Banderah 1901"
+  ],
+  "lbecke-beginning-of-the-sea-story-of-australia-1901": [
+   24997,
+   "The Beginning of the Sea Story of Australia 1901"
+  ],
+  "lbecke-concerning-bully-hayes-from-the-strange-adventure-of": [
+   24998,
+   "Concerning \"Bully\" Hayes From \"The Strange Adventure of James Shervinton, and Other Stories\" - 1902"
+  ],
+  "lbecke-strange-adventure-of-james-shervinton-1902": [
+   24999,
+   "The Strange Adventure of James Shervinton 1902"
+  ],
+  "lbecke-brothers-in-law": [
+   25056,
+   "The Brothers-In-Law: A Tale of the Equatorial Islands; and The Brass Gun of the Buccaneers 1901"
+  ],
+  "lbecke-adventure-of-elizabeth-morey-of-new-york-1901": [
+   25057,
+   "The Adventure of Elizabeth Morey, of New York 1901"
+  ],
+  "lbecke-fosters-letter-of-marque": [
+   25058,
+   "Foster's Letter of Marque: A Tale of Old Sydney 1901"
+  ],
+  "lbecke-in-the-far-north-1901": [
+   25059,
+   "In the Far North 1901"
+  ],
+  "lbecke-officer-and-man-1901": [
+   25060,
+   "Officer and Man 1901"
+  ],
+  "lbecke-p-kia-1901": [
+   25105,
+   "Pâkia 1901"
+  ],
+  "lbecke-gallant-good-riou-and-jack-renton-1901": [
+   25106,
+   "\"The Gallant, Good Riou\", and Jack Renton 1901"
+  ],
+  "lbecke-sarr-o-1901": [
+   25107,
+   "Sarréo 1901"
+  ],
+  "lbecke-south-seaman": [
+   25108,
+   "The South Seaman: An Incident in the Sea Story of Australia 1901"
+  ],
+  "lbecke-sus-ni-1901": [
+   25109,
+   "Susâni 1901"
+  ],
+  "lbecke-tom-wallis": [
+   40705,
+   "Tom Wallis: A Tale of the South Seas",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-28972": "PG 28972: Gutenberg's linked index of the author's works, not a book."
+ },
+ "_checks": {
+  "lbecke-by-reef-and-palm": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-by-rock-and-pool-on-an-austral-shore-and-other-storie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-naval-pioneers-of-australia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-edward-barry-south-sea-pearler": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-yorke-the-adventurer": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-tom-gerrard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-john-corwell-sailor-and-miner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-colonial-mortuary-bard": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-old-mary-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-martin-of-nitendi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-five-head-creek": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-chinkies-flat-1904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-john-frewen-south-sea-whaler-1904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-a-memory-of-the-southern-seas-1904": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-r-dan-the-devil-and-other-stories-1899": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-rodman-the-boatsteerer-and-other-stories-1898": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-traders-wife-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-tessa-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-call-of-the-south-1908": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-ebbing-of-the-tide-south-sea-stories-1896": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-mona": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-flemmings-and-flash-harry-of-savait-from-the-strange": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-pig-headed-sailor-men-from-the-strange-adventure-of-j": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-americans-in-the-south-seas-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-tapu-of-banderah-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-beginning-of-the-sea-story-of-australia-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-concerning-bully-hayes-from-the-strange-adventure-of": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-strange-adventure-of-james-shervinton-1902": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-brothers-in-law": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-adventure-of-elizabeth-morey-of-new-york-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-fosters-letter-of-marque": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-in-the-far-north-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-officer-and-man-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-p-kia-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-gallant-good-riou-and-jack-renton-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-sarr-o-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-south-seaman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-sus-ni-1901": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lbecke-tom-wallis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "louis becke",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

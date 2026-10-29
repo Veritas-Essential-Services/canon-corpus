@@ -1,0 +1,116 @@
+{
+ "_about": "Public-domain Thomas Wilson (1663-1755, Bishop of Sodor and Man) for the Word Hoard: The Works of the Right Reverend Father in God, Thomas Wilson, in the Library of Anglo-Catholic Theology vols 2-7 (Oxford: J. H. Parker, 1847-63; title pages read), raw Internet Archive OCR. The edition holds his sermons, Sacra Privata, Maxims of Piety, Parochialia and the Manx ecclesiastical constitutions. Added 2026-10-03 by lane A, round 11 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "wilson",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas wilson",
+  "bishop wilson",
+  "wilson, thomas",
+  "bishop of sodor and man"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "twilson-works-02": [
+   "worksofrightreve02wils",
+   "The Works of the Right Reverend Father in God, Thomas Wilson, vol. 2 (Oxford: J. H. Parker, 1847)"
+  ],
+  "twilson-works-03": [
+   "theworksoftherig03wilsuoft",
+   "The Works of the Right Reverend Father in God, Thomas Wilson, vol. 3 (Oxford: J. H. Parker, 1847)"
+  ],
+  "twilson-works-04": [
+   "theworksoftherig04wilsuoft",
+   "The Works of the Right Reverend Father in God, Thomas Wilson, vol. 4 (Oxford: J. H. Parker, 1851)"
+  ],
+  "twilson-works-05": [
+   "theworksoftherig05wilsuoft",
+   "The Works of the Right Reverend Father in God, Thomas Wilson, vol. 5 (Oxford: J. H. Parker, 1860)"
+  ],
+  "twilson-works-06": [
+   "theworksoftherig06wilsuoft",
+   "The Works of the Right Reverend Father in God, Thomas Wilson, vol. 6 (Oxford: J. H. Parker, 1859)"
+  ],
+  "twilson-works-07": [
+   "theworksoftherig07wilsuoft",
+   "The Works of the Right Reverend Father in God, Thomas Wilson, vol. 7 (Oxford: J. H. Parker, 1863)"
+  ]
+ },
+ "_alternates": {
+  "twilson-sacra-privata": "Sacra Privata, separately (London: Pickering, 1848; IA sacraprivata00wilsuoft) and Maxims of Piety (Macmillan, 1898): both are also in the Works"
+ },
+ "_excluded": {
+  "twilson-works-01": "vol. 1 of the Works is John Keble's Life of Wilson (2 parts, 1863; the copy fetched, IA theworksoftherig01wilsuoft, is part II): Keble's own book, not Wilson's; a candidate for the john-keble shelf"
+ },
+ "_checks": {
+  "twilson-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "twilson-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1847-1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "twilson-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1847-1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "twilson-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1847-1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "twilson-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1847-1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "twilson-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas wilson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1863",
+   "ia_date": "1847-1863",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

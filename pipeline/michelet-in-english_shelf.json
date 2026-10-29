@@ -1,0 +1,469 @@
+{
+ "_about": "SHELF of Jules Michelet in English before 1931, each title gated on its own translator: G. H. Smith's History of France, C. Cocks's Historical View of the French Revolution, The People and Priests, Women, and Families, Hazlitt's Life of Luther, J. W. Palmer's Woman, W. H. Davenport Adams's The Insect and The Sea, Calfa's Bible of Humanity and M. C. M. Simpson's Summary of Modern History. Trotter's La Sorcière is on singles-ideas. Printings before 1931 only. US public domain. Added 2026-10-17 by lane C (round 99); Adam may veto. No uids minted.",
+ "_name_words": [
+  "c. cocks",
+  "calfa",
+  "davenport adams",
+  "g. h. smith",
+  "j. w. palmer",
+  "m. c. m. simpson",
+  "vincenzo calfa",
+  "w. h. davenport adams",
+  "william hazlitt"
+ ],
+ "_name_words_note": "Translator names only: fetch_shelf.py treats them as the identity check. 'smith', 'cocks', 'adams' and 'palmer' alone are left out as common words.",
+ "_surname": [
+  "c. cocks",
+  "calfa",
+  "davenport adams",
+  "g. h. smith",
+  "j. w. palmer",
+  "m. c. m. simpson",
+  "vincenzo calfa",
+  "w. h. davenport adams",
+  "william hazlitt"
+ ],
+ "_surname_by_slug": {
+  "mic-history-of-france-vol-1": [
+   "g. h. smith"
+  ],
+  "mic-history-of-france-vol-2": [
+   "g. h. smith"
+  ],
+  "mic-french-revolution": [
+   "c. cocks"
+  ],
+  "mic-the-people": [
+   "c. cocks"
+  ],
+  "mic-priests-women-and-families": [
+   "c. cocks"
+  ],
+  "mic-life-of-luther": [
+   "william hazlitt"
+  ],
+  "mic-woman": [
+   "j. w. palmer"
+  ],
+  "mic-the-insect": [
+   "davenport adams",
+   "w. h. davenport adams"
+  ],
+  "mic-the-sea": [
+   "davenport adams",
+   "w. h. davenport adams"
+  ],
+  "mic-bible-of-humanity": [
+   "calfa",
+   "vincenzo calfa"
+  ],
+  "mic-summary-of-modern-history": [
+   "m. c. m. simpson"
+  ]
+ },
+ "_surname_note": "Per title: the translator's name forms.",
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mic-history-of-france-vol-1": [
+   "historyoffrance01michuoft",
+   "History of France, vol. I (1845)"
+  ],
+  "mic-history-of-france-vol-2": [
+   "historyoffrance02michuoft",
+   "History of France, vol. II (1845)"
+  ],
+  "mic-french-revolution": [
+   "cu31924024313474",
+   "Historical View of the French Revolution, from its Earliest Indications to the Flight of the King in 1791 (1847)"
+  ],
+  "mic-the-people": [
+   "thepeople00michiala",
+   "The People (1846)"
+  ],
+  "mic-priests-women-and-families": [
+   "priestswomen00michuoft",
+   "Priests, Women, and Families (1846)"
+  ],
+  "mic-life-of-luther": [
+   "lifeofluther00mich",
+   "The Life of Luther, gathered from his own writings (1846)"
+  ],
+  "mic-woman": [
+   "womanlafemme00mich",
+   "Woman (La Femme) (1860)"
+  ],
+  "mic-the-insect": [
+   "bp_4885257",
+   "The Insect (1875)"
+  ],
+  "mic-the-sea": [
+   "seatrbywhdadams00michgoog",
+   "The Sea (1875)"
+  ],
+  "mic-bible-of-humanity": [
+   "cu31924029750225",
+   "The Bible of Humanity (1877)"
+  ],
+  "mic-summary-of-modern-history": [
+   "asummarymodernh01simpgoog",
+   "A Summary of Modern History, translated and continued to the present time (1875)"
+  ]
+ },
+ "titles": {
+  "michelet-history-of-france-vol-1": {
+   "source": "mic-history-of-france-vol-1",
+   "of": "Jules Michelet",
+   "work": "History of France, vol. I",
+   "translated": "1845",
+   "translator": "G. H. Smith",
+   "scan_edition": "D. Appleton and Company, New York, 1882; University of Toronto scan"
+  },
+  "michelet-history-of-france-vol-2": {
+   "source": "mic-history-of-france-vol-2",
+   "of": "Jules Michelet",
+   "work": "History of France, vol. II",
+   "translated": "1845",
+   "translator": "G. H. Smith",
+   "scan_edition": "D. Appleton and Company, New York, 1882; University of Toronto scan"
+  },
+  "michelet-french-revolution": {
+   "source": "mic-french-revolution",
+   "of": "Jules Michelet",
+   "work": "Historical View of the French Revolution, from its Earliest Indications to the Flight of the King in 1791",
+   "translated": "1847",
+   "translator": "C. Cocks",
+   "scan_edition": "George Bell and Sons, London, 1888; Cornell University Library scan"
+  },
+  "michelet-the-people": {
+   "source": "mic-the-people",
+   "of": "Jules Michelet",
+   "work": "The People",
+   "translated": "1846",
+   "translator": "C. Cocks",
+   "scan_edition": "Longman, London, 1846 per the catalogue record (the imprint is not legible in the OCR; Michelet's dedication is dated Paris, October 1845); archive.org scan"
+  },
+  "michelet-priests-women-and-families": {
+   "source": "mic-priests-women-and-families",
+   "of": "Jules Michelet",
+   "work": "Priests, Women, and Families",
+   "translated": "1846",
+   "translator": "C. Cocks",
+   "scan_edition": "Longman, Brown, Green, and Longmans, London, 1846 (from the third French edition); University of Toronto scan"
+  },
+  "michelet-life-of-luther": {
+   "source": "mic-life-of-luther",
+   "of": "Jules Michelet",
+   "work": "The Life of Luther, gathered from his own writings",
+   "translated": "1846",
+   "translator": "William Hazlitt",
+   "scan_edition": "David Bogue (European Library), London, 1846; archive.org scan",
+   "note": "William Hazlitt the younger, whose other translations are on hazlitt-huc and french-classics."
+  },
+  "michelet-woman": {
+   "source": "mic-woman",
+   "of": "Jules Michelet",
+   "work": "Woman (La Femme)",
+   "translated": "1860",
+   "translator": "J. W. Palmer",
+   "scan_edition": "Rudd & Carleton, New York, 1860; archive.org scan"
+  },
+  "michelet-the-insect": {
+   "source": "mic-the-insect",
+   "of": "Jules Michelet",
+   "work": "The Insect",
+   "translated": "1875",
+   "translator": "W. H. Davenport Adams",
+   "scan_edition": "T. Nelson and Sons, London, 1875; archive.org scan"
+  },
+  "michelet-the-sea": {
+   "source": "mic-the-sea",
+   "of": "Jules Michelet",
+   "work": "The Sea",
+   "translated": "1875",
+   "translator": "W. H. Davenport Adams",
+   "scan_edition": "T. Nelson and Sons, London, 1875; Google scan"
+  },
+  "michelet-bible-of-humanity": {
+   "source": "mic-bible-of-humanity",
+   "of": "Jules Michelet",
+   "work": "The Bible of Humanity",
+   "translated": "1877",
+   "translator": "Vincenzo Calfa",
+   "scan_edition": "J. W. Bouton, New York, 1877; Cornell University Library scan"
+  },
+  "michelet-summary-of-modern-history": {
+   "source": "mic-summary-of-modern-history",
+   "of": "Jules Michelet",
+   "work": "A Summary of Modern History, translated and continued to the present time",
+   "translated": "1875",
+   "translator": "M. C. M. Simpson",
+   "scan_edition": "Macmillan and Co., London, 1875; Google scan"
+  }
+ },
+ "_pending": {},
+ "_excluded": {
+  "roman-republic-hazlitt": "History of the Roman Republic (Bogue, 1847; historyromanrep00hazlgoog): the OCR of the title page does not name a translator; Hazlitt's name appears only in the publisher's advertisements.",
+  "history-of-france-kelly": "Walter K. Kelly's History of France (Chapman and Hall, 1844-46): only vol. II was found as a scan, so G. H. Smith's complete two volumes stand instead.",
+  "the-bird": "The Bird (Nelson, 1869 and later): the translator is not named in the scans checked.",
+  "the-mountain": "The Mountain (Nelson, 1886; cu31924005015486): the translator is not named in the first 70 KB of the scan.",
+  "love-palmer": "Love (L'Amour, Rudd & Carleton, 1859): J. W. Palmer's name was not found in the front matter of the scan checked."
+ },
+ "_identity_checked": {
+  "mic-history-of-france-vol-1": {
+   "author": "The title page OCR reads 'TRANSLATED BY G, II SMITH, F, G, S' for G. H. Smith, F.G.S., under 'New York: D. Appleton and Company, 1, 3, and 5 Bond Street. 1882.' Checked by eye 2026-10-17."
+  },
+  "mic-history-of-france-vol-2": {
+   "author": "The title page OCR reads 'TRANSLATED BV G, H, SMITH, F, G, S,' for G. H. Smith, F.G.S., over a New York (Appleton) imprint. Checked by eye 2026-10-17."
+  }
+ },
+ "_checks": {
+  "mic-history-of-france-vol-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mic-history-of-france-vol-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mic-french-revolution": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "c. cocks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mic-the-people": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "c. cocks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mic-priests-women-and-families": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "c. cocks",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mic-life-of-luther": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "william hazlitt",
+   "identity": "ok",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mic-woman": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "j. w. palmer",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mic-the-insect": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davenport adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mic-the-sea": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "davenport adams",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mic-bible-of-humanity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "calfa",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mic-summary-of-modern-history": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "m. c. m. simpson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "mic-history-of-france-vol-1": {
+   "ia": "historyoffrance01michuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-history-of-france-vol-2": {
+   "ia": "historyoffrance02michuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1668,
+    1839,
+    1882
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-french-revolution": {
+   "ia": "cu31924024313474",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1784,
+    1789,
+    1791,
+    1888,
+    1924
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-the-people": {
+   "ia": "thepeople00michiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1815,
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-priests-women-and-families": {
+   "ia": "priestswomen00michuoft",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1673,
+    1675,
+    1687,
+    1697,
+    1845,
+    1846
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-life-of-luther": {
+   "ia": "lifeofluther00mich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1828,
+    1835,
+    1845
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-woman": {
+   "ia": "womanlafemme00mich",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1510,
+    1760,
+    1860
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-the-insect": {
+   "ia": "bp_4885257",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1874,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-the-sea": {
+   "ia": "seatrbywhdadams00michgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1856,
+    1857,
+    1859,
+    1861,
+    1868,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  },
+  "mic-bible-of-humanity": {
+   "ia": "cu31924029750225",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1846,
+    1848,
+    1867,
+    1877,
+    1892,
+    1924
+   ],
+   "post_1930_years_in_front_15k": [
+    1955
+   ],
+   "post_1930_examined": "Examined in round 99: '1955 9Sj' is a library shelf mark below the Cornell bookplate ('Class of 1892'), not an imprint; the title page reads New York, J. W. Bouton, 1877."
+  },
+  "mic-summary-of-modern-history": {
+   "ia": "asummarymodernh01simpgoog",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1579,
+    1587,
+    1588,
+    1648,
+    1837,
+    1875
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

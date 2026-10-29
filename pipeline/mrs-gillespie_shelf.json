@@ -1,0 +1,78 @@
+{
+ "_about": "TRANSLATOR SHELF: Mrs. W. A. Gillespie: Blasco Ibáñez's The Shadow of the Cathedral (1909, introduced by Howells) and Blood and Sand (1913). US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "mrs. w. a. gillespie",
+  "w. a. gillespie"
+ ],
+ "_surname": [
+  "mrs. w. a. gillespie",
+  "w. a. gillespie"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "wag-12041": [
+   12041,
+   "The Shadow of the Cathedral"
+  ],
+  "wag-54222": [
+   54222,
+   "Blood and Sand"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "mrs-gillespie-ibanez-blood-and-sand": {
+   "source": "wag-54222",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "Blood and Sand",
+   "translated": "1909-1913 (see the Gutenberg header)",
+   "translator": "Mrs. W. A. Gillespie",
+   "scan_edition": "Project Gutenberg 54222 (clean text)"
+  },
+  "mrs-gillespie-ibanez-the-shadow-of-the-cathedral": {
+   "source": "wag-12041",
+   "of": "Vicente Blasco Ibáñez",
+   "work": "The Shadow of the Cathedral",
+   "translated": "1909-1913 (see the Gutenberg header)",
+   "translator": "Mrs. W. A. Gillespie",
+   "scan_edition": "Project Gutenberg 12041 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "wag-12041": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. w. a. gillespie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. W. A. Gillespie"
+  },
+  "wag-54222": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "mrs. w. a. gillespie",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Mrs. W. A. Gillespie"
+  }
+ },
+ "_verified": {
+  "wag-12041": {
+   "pg": 12041,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. W. A. Gillespie"
+  },
+  "wag-54222": {
+   "pg": 54222,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Mrs. W. A. Gillespie"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

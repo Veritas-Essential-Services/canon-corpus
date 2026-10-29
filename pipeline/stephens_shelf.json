@@ -1,0 +1,58 @@
+{
+ "_about": "James Stephens's retellings of Irish legend: Irish Fairy Tales (undated in the text) and Deirdre (1923). His novels are not taken. Added at the coordinator's standing relay (2026-10-02/03: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "James Stephens",
+ "_name_words": [
+  "stephens"
+ ],
+ "_surname": [
+  "james stephens"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "stephens-irish-fairy-tales": [
+   2892,
+   "Irish Fairy Tales",
+   {
+    "contents_only": true
+   }
+  ],
+  "stephens-deirdre": [
+   65950,
+   "Deirdre",
+   {
+    "levels": [
+     {
+      "re": "BOOK [IVX]+$"
+     },
+     {
+      "re": "CHAPTER [IVXL]+$"
+     }
+    ],
+    "start": "BOOK I$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "stephens-irish-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "stephens-deirdre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "james stephens",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

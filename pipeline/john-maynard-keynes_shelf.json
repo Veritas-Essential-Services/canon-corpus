@@ -1,0 +1,87 @@
+{
+ "_about": "John Maynard Keynes (1883-1946), the works first published by 1930: A Treatise on Probability (London: Macmillan, 1921; raw IA OCR, as the Gutenberg edition has no plain text), and, clean Gutenberg texts, Indian Currency and Finance (Macmillan, 1913), The Economic Consequences of the Peace (New York: Harcourt, Brace and Howe, 1920), A Revision of the Treaty (Harcourt, 1922) and A Tract on Monetary Reform (Macmillan, 1923). US public domain (published before 1931). No uids minted.",
+ "_author": "John Maynard Keynes",
+ "_name_words": [
+  "john",
+  "maynard",
+  "keynes"
+ ],
+ "_surname": [
+  "keynes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "keynes-indian-currency-and-finance-1913": [
+   49166,
+   "Indian Currency and Finance (London: Macmillan, 1913)"
+  ],
+  "keynes-economic-consequences-of-the-peace-1920": [
+   15776,
+   "The Economic Consequences of the Peace (New York: Harcourt, Brace and Howe, 1920)"
+  ],
+  "keynes-revision-of-the-treaty-1922": [
+   46037,
+   "A Revision of the Treaty (New York: Harcourt, Brace, 1922)"
+  ],
+  "keynes-tract-on-monetary-reform-1923": [
+   65278,
+   "A Tract on Monetary Reform (London: Macmillan, 1923)"
+  ]
+ },
+ "internet_archive": {
+  "keynes-treatise-on-probability-1921": [
+   "atreatiseonproba00keynuoft",
+   "A Treatise on Probability (London: Macmillan, 1921)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "keynes-indian-currency-and-finance-1913": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keynes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keynes-economic-consequences-of-the-peace-1920": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keynes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keynes-revision-of-the-treaty-1922": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keynes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keynes-tract-on-monetary-reform-1923": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keynes",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "keynes-treatise-on-probability-1921": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "keynes",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

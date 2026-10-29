@@ -1,0 +1,532 @@
+{
+ "_about": "Storytellers' tail, group 21: 30 authors with 1 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): Charles S. Bentley, Frank Benton, Frédéric Bernard, Tom Bevan, Austin Bierbower, Clifton Bingham, Edfrid A. Bingham, Arthur M. Binstead, Frederic Mayer Bird, Elizabeth G. Birkmaier, George P. Bissell, Alexandre Bisson, B. F. Blakeslee, Fernande Blaze de Bury, Henry Blossom, John Francis Bloxam, George H. Boker, Charles E. Bolton, Charlotte Selina Bompas, W. R. Bond, Edward T. Bouvé, C. E. Bowen, James L. Bowen, Sue Petigru Bowen, John Hugh Bowers, Thomas Boyd, Virginia Frazer Boyle, William Richard Bradshaw, Robert Brady, John Breslin. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 21 (30 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "csbentley-fifth-of-november": [
+   "charles s. bentley",
+   "charles sylvester bentley",
+   "bentley"
+  ],
+  "fbenton-cowboy-life-on-the-sidetrack": [
+   "frank benton",
+   "benton"
+  ],
+  "fbernard-wonderful-escapes": [
+   "frédéric bernard",
+   "bernard"
+  ],
+  "tbevan-sea-dogs-all": [
+   "tom bevan",
+   "bevan"
+  ],
+  "abierbower-from-monkey-to-man-or-society-in-the-tertiary-age": [
+   "austin bierbower",
+   "bierbower"
+  ],
+  "cbingham-animals-rebellion": [
+   "clifton bingham",
+   "bingham"
+  ],
+  "eabingham-heart-of-thunder-mountain": [
+   "edfrid a. bingham",
+   "bingham"
+  ],
+  "ambinstead-mop-fair": [
+   "arthur m. binstead",
+   "arthur morris binstead",
+   "binstead"
+  ],
+  "fmbird-pessimist-in-theory-and-practice": [
+   "frederic mayer bird"
+  ],
+  "egbirkmaier-poseidon-s-paradise": [
+   "elizabeth g. birkmaier",
+   "birkmaier"
+  ],
+  "gpbissell-twenty-fifth-regiment-connecticut-volunteers-in-th": [
+   "george p. bissell",
+   "george perkins bissell",
+   "bissell"
+  ],
+  "abisson-madame-x": [
+   "alexandre bisson",
+   "bisson"
+  ],
+  "bfblakeslee-history-of-the-sixteenth-connecticut-volunteers": [
+   "b. f. blakeslee",
+   "bernard f. blakeslee",
+   "blakeslee"
+  ],
+  "fblazedebury-storm-of-london": [
+   "fernande blaze de bury"
+  ],
+  "hblossom-checkers": [
+   "henry blossom",
+   "blossom"
+  ],
+  "jfbloxam-priest-and-the-acolyte-with-an-introductory-protest": [
+   "john francis bloxam",
+   "bloxam"
+  ],
+  "ghboker-representative-plays-by-american-dramatists": [
+   "george h. boker",
+   "george henry boker",
+   "boker"
+  ],
+  "cebolton-harris-ingram-experiment": [
+   "charles e. bolton",
+   "charles edward bolton",
+   "bolton"
+  ],
+  "csbompas-owindia": [
+   "charlotte selina bompas",
+   "bompas"
+  ],
+  "wrbond-pickett-or-pettigrew-an-historical-essay": [
+   "w. r. bond",
+   "william r. bond"
+  ],
+  "etbouve-fourth-massachusetts-cavalry-in-the-closing-scenes-o": [
+   "edward t. bouvé",
+   "bouvé"
+  ],
+  "cebowen-how-a-farthing-made-a-fortune": [
+   "c. e. bowen",
+   "charlotte elizabeth bowen",
+   "bowen"
+  ],
+  "jlbowen-scouting-dave": [
+   "james l. bowen",
+   "james lorenzo bowen",
+   "bowen"
+  ],
+  "spbowen-actress-in-high-life-an-episode-in-winter-quarters": [
+   "sue petigru bowen",
+   "bowen"
+  ],
+  "jhbowers-life-of-abraham-lincoln-little-blue-book-ten-cent-p": [
+   "john hugh bowers",
+   "bowers"
+  ],
+  "tboyd-through-the-wheat": [
+   "thomas boyd"
+  ],
+  "vfboyle-devil-tales": [
+   "virginia frazer boyle",
+   "boyle"
+  ],
+  "wrbradshaw-goddess-of-atvatabar-being-the-history-of-the-dis": [
+   "william richard bradshaw",
+   "bradshaw"
+  ],
+  "rbrady-roster-and-statistical-record-of-company-d-of-the-ele": [
+   "robert brady",
+   "brady"
+  ],
+  "jbreslin-cruise-of-the-catalpa": [
+   "john breslin",
+   "john joseph breslin",
+   "breslin"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "csbentley-fifth-of-november": [
+   30490,
+   "The fifth of November"
+  ],
+  "fbenton-cowboy-life-on-the-sidetrack": [
+   39777,
+   "Cowboy life on the sidetrack"
+  ],
+  "fbernard-wonderful-escapes": [
+   52304,
+   "Wonderful escapes"
+  ],
+  "tbevan-sea-dogs-all": [
+   25670,
+   "Sea-dogs all!"
+  ],
+  "abierbower-from-monkey-to-man-or-society-in-the-tertiary-age": [
+   63379,
+   "From Monkey to Man, or, Society in the Tertiary Age A Story of the Missing Link, Showing the First Steps in Industry, Commerce, Government, Religion and the Arts; With an Account of the Great Expedition From Cocoanut Hill and the Wars in Alligator Swamp"
+  ],
+  "cbingham-animals-rebellion": [
+   17068,
+   "The Animals' Rebellion"
+  ],
+  "eabingham-heart-of-thunder-mountain": [
+   29697,
+   "The heart of Thunder Mountain"
+  ],
+  "ambinstead-mop-fair": [
+   77930,
+   "Mop Fair"
+  ],
+  "fmbird-pessimist-in-theory-and-practice": [
+   26847,
+   "A Pessimist in Theory and Practice"
+  ],
+  "egbirkmaier-poseidon-s-paradise": [
+   67921,
+   "Poseidon's paradise: the romance of Atlantis"
+  ],
+  "gpbissell-twenty-fifth-regiment-connecticut-volunteers-in-th": [
+   24307,
+   "The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion"
+  ],
+  "abisson-madame-x": [
+   58502,
+   "Madame X: a story of mother-love"
+  ],
+  "bfblakeslee-history-of-the-sixteenth-connecticut-volunteers": [
+   31867,
+   "History of the Sixteenth Connecticut Volunteers"
+  ],
+  "fblazedebury-storm-of-london": [
+   63939,
+   "The storm of London: a social rhapsody"
+  ],
+  "hblossom-checkers": [
+   31813,
+   "Checkers: A Hard-luck Story"
+  ],
+  "jfbloxam-priest-and-the-acolyte-with-an-introductory-protest": [
+   60229,
+   "The Priest and the Acolyte With an Introductory Protest by Stuart Mason"
+  ],
+  "ghboker-representative-plays-by-american-dramatists": [
+   13005,
+   "Representative Plays by American Dramatists: 1856-1911: Francesca da Rimini"
+  ],
+  "cebolton-harris-ingram-experiment": [
+   16834,
+   "The Harris-Ingram Experiment"
+  ],
+  "csbompas-owindia": [
+   6658,
+   "Owindia : a true tale of the MacKenzie River Indians, North-West America"
+  ],
+  "wrbond-pickett-or-pettigrew-an-historical-essay": [
+   57392,
+   "Pickett or Pettigrew? An Historical Essay"
+  ],
+  "etbouve-fourth-massachusetts-cavalry-in-the-closing-scenes-o": [
+   31977,
+   "The Fourth Massachusetts Cavalry in the Closing Scenes of the War for the Maintenance of the Union, from Richmond to Appomatox"
+  ],
+  "cebowen-how-a-farthing-made-a-fortune": [
+   54961,
+   "How a Farthing Made a Fortune; or \"Honesty is the best policy\""
+  ],
+  "jlbowen-scouting-dave": [
+   49785,
+   "Scouting Dave: The Trail Hunter"
+  ],
+  "spbowen-actress-in-high-life-an-episode-in-winter-quarters": [
+   17191,
+   "The Actress in High Life An Episode in Winter Quarters"
+  ],
+  "jhbowers-life-of-abraham-lincoln-little-blue-book-ten-cent-p": [
+   19404,
+   "Life of Abraham Lincoln Little Blue Book Ten Cent Pocket Series No. 324"
+  ],
+  "tboyd-through-the-wheat": [
+   58796,
+   "Through the Wheat"
+  ],
+  "vfboyle-devil-tales": [
+   70436,
+   "Devil tales"
+  ],
+  "wrbradshaw-goddess-of-atvatabar-being-the-history-of-the-dis": [
+   32825,
+   "The Goddess of Atvatabar Being the history of the discovery of the interior world and conquest of Atvatabar"
+  ],
+  "rbrady-roster-and-statistical-record-of-company-d-of-the-ele": [
+   45503,
+   "Roster and Statistical Record of Company D, of the Eleventh Regiment Maine Infantry Volunteers With a Sketch of Its Services in the War of the Rebellion"
+  ],
+  "jbreslin-cruise-of-the-catalpa": [
+   61372,
+   "The Cruise of the Catalpa: A Poem"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "csbentley-fifth-of-november": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles s. bentley",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbenton-cowboy-life-on-the-sidetrack": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank benton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fbernard-wonderful-escapes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frédéric bernard",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tbevan-sea-dogs-all": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "tom bevan",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abierbower-from-monkey-to-man-or-society-in-the-tertiary-age": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "austin bierbower",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cbingham-animals-rebellion": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "clifton bingham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eabingham-heart-of-thunder-mountain": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edfrid a. bingham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ambinstead-mop-fair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "arthur m. binstead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fmbird-pessimist-in-theory-and-practice": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederic mayer bird",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "egbirkmaier-poseidon-s-paradise": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth g. birkmaier",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gpbissell-twenty-fifth-regiment-connecticut-volunteers-in-th": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george p. bissell",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "abisson-madame-x": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "alexandre bisson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "bfblakeslee-history-of-the-sixteenth-connecticut-volunteers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "b. f. blakeslee",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fblazedebury-storm-of-london": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "fernande blaze de bury",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hblossom-checkers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry blossom",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jfbloxam-priest-and-the-acolyte-with-an-introductory-protest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john francis bloxam",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ghboker-representative-plays-by-american-dramatists": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "george h. boker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cebolton-harris-ingram-experiment": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charles e. bolton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "csbompas-owindia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "charlotte selina bompas",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wrbond-pickett-or-pettigrew-an-historical-essay": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "w. r. bond",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "etbouve-fourth-massachusetts-cavalry-in-the-closing-scenes-o": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward t. bouvé",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "cebowen-how-a-farthing-made-a-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "c. e. bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jlbowen-scouting-dave": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james l. bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "spbowen-actress-in-high-life-an-episode-in-winter-quarters": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sue petigru bowen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jhbowers-life-of-abraham-lincoln-little-blue-book-ten-cent-p": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john hugh bowers",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "tboyd-through-the-wheat": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "thomas boyd",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "vfboyle-devil-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "virginia frazer boyle",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wrbradshaw-goddess-of-atvatabar-being-the-history-of-the-dis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william richard bradshaw",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "rbrady-roster-and-statistical-record-of-company-d-of-the-ele": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "robert brady",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbreslin-cruise-of-the-catalpa": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john breslin",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "_about": "Adolf Holm (1830-1900): The History of Greece from its Commencement to the Close of the Independence of the Greek Nation, translated from the German, 4 vols. (London: Macmillan; title pages dated 1894, 1899, 1896, 1898), raw IA OCR. Vols. I-III name no translator; vol. IV names Frederick Clarke, formerly Taylorian Scholar at Oxford, and the machine check claims him for vol. IV only. Clarke's death year is not checked, so life-plus-70 status is unconfirmed (US public domain by date). Vol. II's 1899 is probably a later printing (pre-1930), since vol. III is dated 1896 (an inference). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "holm"
+ ],
+ "_surname": [
+  "adolf holm",
+  "adolph holm",
+  "holm, adolf"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "holm-history-greece-v1-1894": [
+   "historyofgreecef01holm",
+   "The History of Greece from its Commencement to the Close of the Independence of the Greek Nation, vol. I (London: Macmillan, 1894)",
+   "tr. Frederick Clarke (named in vol. IV)"
+  ],
+  "holm-history-greece-v2-1899": [
+   "historyofgreecef02holm",
+   "The History of Greece, vol. II, The Fifth Century B.C. (London: Macmillan, 1899)",
+   "tr. Frederick Clarke (named in vol. IV)"
+  ],
+  "holm-history-greece-v3-1896": [
+   "historyofgreecef03holm_0",
+   "The History of Greece, vol. III, The Fourth Century B.C. up to the Death of Alexander (London: Macmillan, 1896)",
+   "tr. Frederick Clarke (named in vol. IV)"
+  ],
+  "holm-history-greece-v4-1898": [
+   "historygreecefr04holmgoog",
+   "The History of Greece, vol. IV, The Graeco-Macedonian Age (London: Macmillan, 1898)",
+   "tr. Frederick Clarke"
+  ]
+ },
+ "_translators": {
+  "holm-history-greece-v4-1898": "Clarke"
+ },
+ "_checks": {
+  "holm-history-greece-v1-1894": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adolph holm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holm-history-greece-v2-1899": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adolf holm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holm-history-greece-v3-1896": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adolf holm",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "holm-history-greece-v4-1898": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "adolf holm",
+   "translator_claimed": "Clarke",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

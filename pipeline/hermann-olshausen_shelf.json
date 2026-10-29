@@ -1,0 +1,170 @@
+{
+ "_about": "Public-domain Hermann Olshausen (1796-1839, Erlangen New Testament scholar) in English for the Word Hoard: his own part of the Biblical Commentary on the New Testament, the Gospels and Acts to Thessalonians, in Clark's Foreign Theological Library (7 vols, Edinburgh, 1847-1860), and the Proof of the Genuineness of the Writings of the New Testament, tr. David Fosdick (Andover, 1838), from Internet Archive scans. The later volumes by his continuators are on their own shelves. Added 2026-10-18 by lane A, round 30 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "olshausen"
+ ],
+ "_surname": [
+  "olshausen",
+  "hermann olshausen",
+  "h. olshausen"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "olshausen-gospels-1": [
+   "biblicalcommenta01olsh",
+   "Biblical Commentary on the Gospels, vol. I, tr. Sergius Loewe (Edinburgh: T. & T. Clark, MDCCCXLVII)"
+  ],
+  "olshausen-gospels-2": [
+   "biblicalcommenta02olsh",
+   "Biblical Commentary on the Gospels, vol. II, tr. Thomas Brown (Edinburgh: T. & T. Clark, MDCCCXLVIII)"
+  ],
+  "olshausen-gospels-3": [
+   "biblicalcommenta03olshuoft",
+   "Biblical Commentary on the Gospels, vol. III, third edition (Edinburgh: T. & T. Clark, MDCCCLX)"
+  ],
+  "olshausen-gospels-acts-4": [
+   "biblicalcommenta04olsh",
+   "Biblical Commentary on the Gospels and the Acts, vol. IV, tr. John Gill, Richard Garvey and William Lindsay (Edinburgh: T. & T. Clark, MDCCCL)"
+  ],
+  "olshausen-romans": [
+   "biblicalcomment00olshgoog",
+   "Biblical Commentary on St. Paul's Epistle to the Romans (Edinburgh: T. & T. Clark, MDCCCXLIX)"
+  ],
+  "olshausen-corinthians": [
+   "biblicalcommenta00olshrich",
+   "Biblical Commentary on St. Paul's First and Second Epistles to the Corinthians, tr. John Edmund Cox (Edinburgh: T. & T. Clark, MDCCCLI)"
+  ],
+  "olshausen-galatians-thessalonians": [
+   "biblicalcomment02olshgoog",
+   "Biblical Commentary on St. Paul's Epistles to the Galatians, Ephesians, Colossians and Thessalonians, by a clergyman of the Church of England (Edinburgh: T. & T. Clark, MDCCCLI)"
+  ],
+  "olshausen-proof-genuineness": [
+   "proofofgenuinene00olsh",
+   "Proof of the Genuineness of the Writings of the New Testament, tr. David Fosdick, Jr. (Andover: Gould & Newman, 1838)"
+  ]
+ },
+ "_alternates": {
+  "olshausen-kendrick": "A. C. Kendrick's American edition (6 vols, New York: Sheldon, Blakeman, 1857-1858), vols V-VI with Ebrard and Wiesinger",
+  "olshausen-copies": "Other Clark copies and the 1854 Romans"
+ },
+ "_excluded": {
+  "olshausen-late": "Modern reprints",
+  "olshausen-continuators": "Wiesinger's and Ebrard's volumes (their own shelves)"
+ },
+ "_rights_checked": {
+  "olshausen-gospels-3": "title page read: third edition, 1860, translator not named; the 1849 first printing is not on IA; the OCR reads 'VOL. I.' but the contents continue vol. II",
+  "olshausen-romans": "title page read: 'Translated from the German', translator not named; 1849"
+ },
+ "_pending": {},
+ "_translators": {
+  "olshausen-gospels-1": "loewe",
+  "olshausen-gospels-2": "brown",
+  "olshausen-gospels-acts-4": "gill",
+  "olshausen-corinthians": "cox",
+  "olshausen-proof-genuineness": "fosdick"
+ },
+ "_checks": {
+  "olshausen-gospels-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "translator_claimed": "loewe",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "olshausen-gospels-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "translator_claimed": "brown",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "olshausen-gospels-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: third edition, 1860, translator not named; the 1849 first printing is not on IA; the OCR reads 'VOL. I.' but the contents continue vol. II"
+  },
+  "olshausen-gospels-acts-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "translator_claimed": "gill",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1847",
+   "ia_date": "1847",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "olshausen-romans": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1849",
+   "ia_date": "1849",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: 'Translated from the German', translator not named; 1849"
+  },
+  "olshausen-corinthians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "translator_claimed": "cox",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "olshausen-galatians-thessalonians": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "olshausen-proof-genuineness": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "olshausen",
+   "translator_claimed": "fosdick",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

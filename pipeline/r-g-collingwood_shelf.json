@@ -1,0 +1,35 @@
+{
+ "_about": "R. G. Collingwood (1889-1943): Religion and Philosophy (London: Macmillan), raw IA OCR. The title-page year is garbled in the OCR; 1916 is inferred from the preface dated 30 July 1916. Not Harry Collingwood (collingwood shelf). US public domain (published 1916). No uids minted.",
+ "_author": "R. G. Collingwood",
+ "_name_words": [
+  "robin",
+  "george",
+  "collingwood"
+ ],
+ "_surname": [
+  "collingwood",
+  "r. g. collingwood"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "collingwood-religion-and-philosophy-1916": [
+   "religionphilosop00colluoft",
+   "Religion and Philosophy (London: Macmillan, 1916, inferred)"
+  ]
+ },
+ "_excluded": {},
+ "_checks": {
+  "collingwood-religion-and-philosophy-1916": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "collingwood",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

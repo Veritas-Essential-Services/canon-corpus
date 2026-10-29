@@ -1,0 +1,83 @@
+{
+ "_about": "TRANSLATOR SHELF: George Calderon (1868-1915): Ilya Tolstoy's Reminiscences of Tolstoy (1914) and Two Plays by Tchekhof: The Seagull and The Cherry Orchard (1912), the first English Chekhov on the London stage. US public domain. Added 2026-10-10 by lane C (round 26); Adam may veto. No uids minted.",
+ "_name_words": [
+  "george calderon"
+ ],
+ "_surname": [
+  "george calderon"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "gca-813": [
+   813,
+   "Reminiscences of Tolstoy, by His Son"
+  ]
+ },
+ "internet_archive": {
+  "gca-two-plays": [
+   "twoplaysbytchekh00chekiala",
+   "Two Plays by Tchekhof (1912)"
+  ]
+ },
+ "titles": {
+  "george-calderon-ilya-tolstoy-reminiscences": {
+   "source": "gca-813",
+   "of": "Ilya Tolstoy",
+   "work": "Reminiscences of Tolstoy, by His Son",
+   "translated": 1914,
+   "translator": "George Calderon",
+   "scan_edition": "Project Gutenberg 813 (clean text)"
+  },
+  "george-calderon-chekhov-two-plays": {
+   "source": "gca-two-plays",
+   "of": "Anton Chekhov",
+   "work": "Two Plays by Tchekhof: The Seagull; The Cherry Orchard",
+   "translated": 1912,
+   "translator": "George Calderon",
+   "scan_edition": "Grant Richards, London, 1912 (UC San Diego copy; raw OCR)",
+   "note": "The Cornell copy (cu31924063792307) returned HTTP 500 on 2026-10-10; this copy's title page was read."
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "gca-813": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george calderon",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "George Calderon"
+  },
+  "gca-two-plays": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "george calderon",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_verified": {
+  "gca-813": {
+   "pg": 813,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "George Calderon"
+  },
+  "gca-two-plays": {
+   "ia": "twoplaysbytchekh00chekiala",
+   "translator_named_in_first_30k": true,
+   "years_in_front_15k": [
+    1911
+   ],
+   "post_1930_years_in_front_15k": []
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

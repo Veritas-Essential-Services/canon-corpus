@@ -1,0 +1,31 @@
+{
+ "_about": "Irwin Edman (1896-1954), Columbia philosopher. Gutenberg: Human Traits and their Social Significance (1920). US public domain. No uids minted.",
+ "_author": "Irwin Edman",
+ "_name_words": [
+  "irwin",
+  "edman"
+ ],
+ "_surname": [
+  "edman"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "edman-human-traits": [
+   22306,
+   "Human Traits and their Social Significance"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "edman-human-traits": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "edman",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

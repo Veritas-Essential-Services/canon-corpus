@@ -1,0 +1,140 @@
+{
+ "_about": "William Pitt Scargill: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "William Pitt Scargill",
+ "_name_words": [
+  "pitt",
+  "scargill",
+  "william"
+ ],
+ "_surname": [
+  "william pitt scargill",
+  "scargill"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "wpscargill-blue-stocking-hall-vol-1-of-3": [
+   40974,
+   "Blue-Stocking Hall, (Vol. 1 of 3)"
+  ],
+  "wpscargill-tales-of-my-time-vol-1-of-3-who-is-she": [
+   43756,
+   "Tales of My Time, Vol. 1 (of 3) Who Is She?"
+  ],
+  "wpscargill-penelope": [
+   44159,
+   "Penelope"
+  ],
+  "wpscargill-tales-of-my-time-vol-2-of-3-who-is-she-concluded": [
+   44959,
+   "Tales of My Time, Vol. 2 (of 3) Who Is She? [concluded]; The Young Reformers"
+  ],
+  "wpscargill-rank-and-talent": [
+   44996,
+   "Rank and Talent; A Novel, Vol. 2 (of 3)"
+  ],
+  "wpscargill-blue-stocking-hall-vol-2-of-3": [
+   52375,
+   "Blue-Stocking Hall, (Vol. 2 of 3)"
+  ],
+  "wpscargill-rank-and-talent-53455": [
+   53455,
+   "Rank and Talent; A Novel, Vol. 1 (of 3)"
+  ],
+  "wpscargill-rank-and-talent-54864": [
+   54864,
+   "Rank and Talent; A Novel, Vol. 3 (of 3)"
+  ],
+  "wpscargill-blue-stocking-hall-vol-3-of-3": [
+   55407,
+   "Blue-Stocking Hall, (Vol. 3 of 3)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 72432, 72660: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "wpscargill-blue-stocking-hall-vol-1-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-tales-of-my-time-vol-1-of-3-who-is-she": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-penelope": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-tales-of-my-time-vol-2-of-3-who-is-she-concluded": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-rank-and-talent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-blue-stocking-hall-vol-2-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-rank-and-talent-53455": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-rank-and-talent-54864": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "wpscargill-blue-stocking-hall-vol-3-of-3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "william pitt scargill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "_about": "Public-domain John Brine (1703-1765, Particular Baptist, Currier's Hall, London) for the Word Hoard: A Treatise on Various Subjects (1766), The Certain Efficacy of the Death of Christ (catalogued 1743), A Vindication of Some Truths of Natural and Revealed Religion (1746), The True Sense of Atonement (catalogued 1752), A Defence of the Doctrine of Eternal Justification (catalogued 1732), Motives to Love and Unity among Calvinists (catalogued 1753) and A Discourse on the Prayer of Jabez (1736), raw Internet Archive OCR, most of it 18th-century long-s type. Added 2026-10-10 by lane A, round 17 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "brine",
+  "john"
+ ],
+ "_surname": [
+  "john brine",
+  "brine, john",
+  "mr. john brine",
+  "the late mr. john brine",
+  "j. brine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "brine-treatise-1766": [
+   "atreatiseonvari00bringoog",
+   "A Treatise on Various Subjects (London: George Keith, MDCCLXVI)"
+  ],
+  "brine-certain-efficacy": [
+   "certainefficacy00wattgoog",
+   "The Certain Efficacy of the Death of Christ, Asserted (London: Aaron Ward; title-page year garbled, catalogued 1743)"
+  ],
+  "brine-vindication-1746": [
+   "bim_eighteenth-century_a-vindication-of-some-tr_brine-john_1746",
+   "A Vindication of Some Truths of Natural and Revealed Religion (London: Aaron Ward, MDCCXLVI)"
+  ],
+  "brine-true-sense-atonement": [
+   "bim_eighteenth-century_the-true-sense-of-attone_brine-john_1752",
+   "The True Sense of Atonement for Sin, by Christ's Death (London: John Ward; catalogued 1752)"
+  ],
+  "brine-eternal-justification": [
+   "bim_eighteenth-century_a-defence-of-the-doctrin_brine-john_1732",
+   "A Defence of the Doctrine of Eternal Justification (London: A. Ward; catalogued 1732)"
+  ],
+  "brine-motives-love-unity": [
+   "bim_eighteenth-century_motives-to-love-and-unit_brine-john_1753",
+   "Motives to Love and Unity among Calvinists (London: John Ward; catalogued 1753)"
+  ],
+  "brine-jabez-1736": [
+   "bim_eighteenth-century_a-discourse-on-the-praye_brine-john_1736",
+   "A Discourse on the Prayer of Jabez (London: Aaron Ward, M.DCC.XXXVI)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_identity_checked": {
+  "brine-certain-efficacy": {
+   "author": "Title page read: \"By y HN BRINE\", London: Aaron Ward (OCR)"
+  },
+  "brine-vindication-1746": {
+   "author": "Title page read: \"By FOHN BRINE\", London: Aaron Ward, 1746 (OCR)"
+  },
+  "brine-true-sense-atonement": {
+   "author": "Title page read: \"By 70 tl B R I N E\", London: John Ward (OCR)"
+  },
+  "brine-eternal-justification": {
+   "author": "Title page read: \"By JOHN Brin *\", London: A. Ward (OCR)"
+  },
+  "brine-motives-love-unity": {
+   "author": "Title page read: \"BA FOHN BRINE\", London: John Ward (OCR)"
+  },
+  "brine-jabez-1736": {
+   "author": "Title page read: \"JOHN BRIN]\", London: Aaron Ward, 1736 (OCR)"
+  }
+ },
+ "_checks": {
+  "brine-treatise-1766": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john brine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1766",
+   "ia_date": "1766",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brine-certain-efficacy": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1743",
+   "ia_date": "1743",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "brine-vindication-1746": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1746",
+   "ia_date": "1746",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brine-true-sense-atonement": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "title_weak": true,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1752",
+   "ia_date": "1752",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brine-eternal-justification": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1732",
+   "ia_date": "1732",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brine-motives-love-unity": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1753",
+   "ia_date": "1753",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "brine-jabez-1736": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1736",
+   "ia_date": "1736",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

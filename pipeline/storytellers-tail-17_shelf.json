@@ -1,0 +1,511 @@
+{
+ "_about": "Storytellers' tail, group 17: 15 authors with 2 English Gutenberg texts each and no shelf on any branch (died by 1945, mostly fiction): H. B. Marriott Watson, Sydney Watson, J. B. Webb, Marion St. John Webb, Mary Webb, Edward Noyes Westcott, Evelyn Whitaker, Henry S. Whitehead, Frederick Whittaker, Edward Willett, Theodore Winthrop, Henry Wood, Elizabeth Strong Worthington, Edith Ayrton Zangwill, Gulielma Zollinger. Each book is checked for its own author's name. Added 2026-10-23 at the coordinator's relay of Adam's clear-the-backlog ask (Adam may veto).",
+ "_author": "Storytellers' tail, group 17 (15 authors)",
+ "_name_words": [],
+ "_surname": [],
+ "_surname_by_slug": {
+  "hbmwatson-hurricane-island": [
+   "h. b. marriott watson",
+   "henry brereton marriott watson",
+   "watson"
+  ],
+  "hbmwatson-high-toby-being-further-chapters-in-the-life-and-f": [
+   "h. b. marriott watson",
+   "henry brereton marriott watson",
+   "watson"
+  ],
+  "swatson-mark-of-the-beast": [
+   "sydney watson",
+   "watson"
+  ],
+  "swatson-in-the-twinkling-of-an-eye": [
+   "sydney watson",
+   "watson"
+  ],
+  "jbwebb-pilgrims-of-new-england-a-tale-of-the-early-american": [
+   "j. b. webb"
+  ],
+  "jbwebb-naomi": [
+   "j. b. webb"
+  ],
+  "msjwebb-knock-three-times": [
+   "marion st. john webb"
+  ],
+  "msjwebb-girls-of-chequertrees": [
+   "marion st. john webb"
+  ],
+  "mwebb-gone-to-earth": [
+   "mary webb"
+  ],
+  "mwebb-precious-bane": [
+   "mary webb"
+  ],
+  "enwestcott-david-harum-a-story-of-american-life": [
+   "edward noyes westcott",
+   "westcott"
+  ],
+  "enwestcott-christmas-story-from-david-harum": [
+   "edward noyes westcott",
+   "westcott"
+  ],
+  "ewhitaker-zoe": [
+   "evelyn whitaker",
+   "whitaker"
+  ],
+  "ewhitaker-laddie-and-miss-toosey-s-mission": [
+   "evelyn whitaker",
+   "whitaker"
+  ],
+  "hswhitehead-trap": [
+   "henry s. whitehead",
+   "henry st. clair whitehead",
+   "whitehead"
+  ],
+  "hswhitehead-thin-match": [
+   "henry s. whitehead",
+   "henry st. clair whitehead",
+   "whitehead"
+  ],
+  "fwhittaker-ruby-roland-the-girl-spy": [
+   "frederick whittaker",
+   "whittaker"
+  ],
+  "fwhittaker-black-nick-the-hermit-of-the-hills": [
+   "frederick whittaker",
+   "whittaker"
+  ],
+  "ewillett-gray-scalp": [
+   "edward willett",
+   "willett"
+  ],
+  "ewillett-silverspur": [
+   "edward willett",
+   "willett"
+  ],
+  "twinthrop-mr-waddy-s-return": [
+   "theodore winthrop",
+   "winthrop"
+  ],
+  "twinthrop-john-brent": [
+   "theodore winthrop",
+   "winthrop"
+  ],
+  "hwood-victor-serenus": [
+   "henry wood"
+  ],
+  "hwood-edward-burton": [
+   "henry wood"
+  ],
+  "esworthington-gentle-art-of-cooking-wives": [
+   "elizabeth strong worthington",
+   "worthington"
+  ],
+  "esworthington-how-to-cook-husbands": [
+   "elizabeth strong worthington",
+   "worthington"
+  ],
+  "eazangwill-barbarous-babes": [
+   "edith ayrton zangwill",
+   "zangwill"
+  ],
+  "eazangwill-rise-of-a-star": [
+   "edith ayrton zangwill",
+   "zangwill"
+  ],
+  "gzollinger-boy-s-ride": [
+   "gulielma zollinger",
+   "zollinger"
+  ],
+  "gzollinger-widow-o-callaghan-s-boys": [
+   "gulielma zollinger",
+   "zollinger"
+  ]
+ },
+ "ccel": {},
+ "gutenberg": {
+  "hbmwatson-hurricane-island": [
+   28387,
+   "Hurricane Island"
+  ],
+  "hbmwatson-high-toby-being-further-chapters-in-the-life-and-f": [
+   53133,
+   "The High Toby Being further chapters in the life and fortunes of Dick Ryder, otherwise Galloping Dick, sometime gentleman of the road"
+  ],
+  "swatson-in-the-twinkling-of-an-eye": [
+   68722,
+   "\"In the twinkling of an eye\""
+  ],
+  "jbwebb-pilgrims-of-new-england-a-tale-of-the-early-american": [
+   10222,
+   "The Pilgrims of New England A Tale of the Early American Settlers"
+  ],
+  "jbwebb-naomi": [
+   70520,
+   "Naomi"
+  ],
+  "msjwebb-knock-three-times": [
+   45802,
+   "Knock Three Times!"
+  ],
+  "msjwebb-girls-of-chequertrees": [
+   47471,
+   "The Girls of Chequertrees"
+  ],
+  "mwebb-gone-to-earth": [
+   7055,
+   "Gone to Earth"
+  ],
+  "mwebb-precious-bane": [
+   78542,
+   "Precious bane"
+  ],
+  "enwestcott-david-harum-a-story-of-american-life": [
+   17617,
+   "David Harum A Story of American Life"
+  ],
+  "enwestcott-christmas-story-from-david-harum": [
+   25927,
+   "The Christmas Story from David Harum"
+  ],
+  "ewhitaker-zoe": [
+   30366,
+   "Zoe"
+  ],
+  "ewhitaker-laddie-and-miss-toosey-s-mission": [
+   73760,
+   "Laddie, and Miss Toosey's mission"
+  ],
+  "hswhitehead-trap": [
+   73243,
+   "The trap"
+  ],
+  "hswhitehead-thin-match": [
+   73558,
+   "The thin match"
+  ],
+  "fwhittaker-ruby-roland-the-girl-spy": [
+   56620,
+   "Ruby Roland, the Girl Spy; or, Simon Kenton's Protege"
+  ],
+  "fwhittaker-black-nick-the-hermit-of-the-hills": [
+   69323,
+   "Black Nick, the hermit of the hills; or, The expiated crime A story of Burgoyne's surrender"
+  ],
+  "ewillett-gray-scalp": [
+   56175,
+   "The Gray Scalp; Or, The Blackfoot Brave"
+  ],
+  "ewillett-silverspur": [
+   57589,
+   "Silverspur; or, The Mountain Heroine: A Tale of the Arapaho Country"
+  ],
+  "twinthrop-mr-waddy-s-return": [
+   63321,
+   "Mr. Waddy's Return"
+  ],
+  "twinthrop-john-brent": [
+   73738,
+   "John Brent"
+  ],
+  "hwood-victor-serenus": [
+   55225,
+   "Victor Serenus: A Story of the Pauline Era"
+  ],
+  "hwood-edward-burton": [
+   77430,
+   "Edward Burton"
+  ],
+  "esworthington-gentle-art-of-cooking-wives": [
+   26187,
+   "The Gentle Art of Cooking Wives"
+  ],
+  "esworthington-how-to-cook-husbands": [
+   26210,
+   "How to Cook Husbands"
+  ],
+  "eazangwill-barbarous-babes": [
+   77065,
+   "The barbarous babes"
+  ],
+  "eazangwill-rise-of-a-star": [
+   78520,
+   "The rise of a star"
+  ],
+  "gzollinger-boy-s-ride": [
+   7806,
+   "A Boy's Ride"
+  ],
+  "gzollinger-widow-o-callaghan-s-boys": [
+   9329,
+   "The Widow O'Callaghan's Boys"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {
+  "post-1930": "HELD at the lane's pre-1931 rule (DIGEST-D item 24): PG 18815 The Mark of the Beast (copyright line 1933). The text names a 1931 or later copyright, so it is not taken until Adam rules."
+ },
+ "_checks": {
+  "hbmwatson-hurricane-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. b. marriott watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hbmwatson-high-toby-being-further-chapters-in-the-life-and-f": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "h. b. marriott watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "swatson-in-the-twinkling-of-an-eye": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "sydney watson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbwebb-pilgrims-of-new-england-a-tale-of-the-early-american": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jbwebb-naomi": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. b. webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msjwebb-knock-three-times": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marion st. john webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "msjwebb-girls-of-chequertrees": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "marion st. john webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwebb-gone-to-earth": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "mwebb-precious-bane": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mary webb",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "enwestcott-david-harum-a-story-of-american-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward noyes westcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "enwestcott-christmas-story-from-david-harum": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward noyes westcott",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhitaker-zoe": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn whitaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewhitaker-laddie-and-miss-toosey-s-mission": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "evelyn whitaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hswhitehead-trap": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry s. whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hswhitehead-thin-match": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry s. whitehead",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwhittaker-ruby-roland-the-girl-spy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whittaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "fwhittaker-black-nick-the-hermit-of-the-hills": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frederick whittaker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewillett-gray-scalp": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward willett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ewillett-silverspur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward willett",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twinthrop-mr-waddy-s-return": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore winthrop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "twinthrop-john-brent": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "theodore winthrop",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwood-victor-serenus": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwood-edward-burton": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "henry wood",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esworthington-gentle-art-of-cooking-wives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth strong worthington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "esworthington-how-to-cook-husbands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "elizabeth strong worthington",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eazangwill-barbarous-babes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith ayrton zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "eazangwill-rise-of-a-star": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edith ayrton zangwill",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gzollinger-boy-s-ride": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gulielma zollinger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "gzollinger-widow-o-callaghan-s-boys": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "gulielma zollinger",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

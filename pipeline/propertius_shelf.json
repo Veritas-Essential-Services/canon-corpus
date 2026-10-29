@@ -1,0 +1,140 @@
+{
+ "_about": "Propertius in English: H. E. Butler's Loeb (1912; this scan is the 1929 reprint, Latin facing, so taken) and P. J. F. Gantillon's literal prose (Bohn, 1895 stereotype reprint, with metrical versions by Nott and Elton). Raw IA OCR.",
+ "_name_words": [
+  "propertius",
+  "cynthia"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "propertius-butler-loeb": [
+   "propertiuswithen00propuoft",
+   "Propertius, with an English translation (Loeb, 1912; 1929 reprint)",
+   "tr. H. E. Butler"
+  ],
+  "propertius-gantillon-bohn": [
+   "elegiesofpropert00propiala",
+   "The Elegies of Propertius, with notes, literally translated (Bohn, 1895 reprint)",
+   "tr. P. J. F. Gantillon (select elegies in verse by Nott and Elton)"
+  ],
+  "propertius-cranstoun-1875": [
+   "elegiessextuspr00unkngoog",
+   "The Elegies of Sextus Propertius, translated into English verse (Edinburgh, 1875)",
+   "tr. James Cranstoun"
+  ],
+  "propertius-phillimore-1906": [
+   "propertius00propuoft",
+   "Propertius, translated (Oxford: Clarendon Press, 1906)",
+   "tr. J. S. Phillimore"
+  ],
+  "propertius-moore-1870": [
+   "elegiesproperti00magoog",
+   "The Elegies of Propertius, translated into English verse (London: Rivingtons, 1870)",
+   "tr. Charles Robert Moore"
+  ],
+  "propertius-petronius-kelly-erotica-1854": [
+   "eroticaelegiesp01arbigoog",
+   "Erotica: the Elegies of Propertius, the Satyricon of Petronius Arbiter, and the Kisses of Johannes Secundus, literally translated, with poetical versions from various sources; with the Love Epistles of Aristaenetus, tr. R. B. Sheridan and N. B. Halhed (Bohn, 1854)",
+   "tr. Walter K. Kelly"
+  ]
+ },
+ "_surname": [
+  "propertius"
+ ],
+ "_translators": {
+  "propertius-butler-loeb": "H. E. Butler",
+  "propertius-gantillon-bohn": "P. J. F. Gantillon",
+  "propertius-cranstoun-1875": "James Cranstoun",
+  "propertius-phillimore-1906": "j. s. phillimore",
+  "propertius-petronius-kelly-erotica-1854": "walter k. kelly"
+ },
+ "_checks": {
+  "propertius-butler-loeb": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "H. E. Butler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "propertius-gantillon-bohn": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "P. J. F. Gantillon",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "propertius-cranstoun-1875": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "James Cranstoun",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1875",
+   "ia_date": "1875",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "propertius-phillimore-1906": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "j. s. phillimore",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "Oxford: Clarendon Press, 1906: US PD by date. Phillimore died in 1926 (catalogue heading 'Phillimore, John Swinnerton, 1873-1926'), so UK PD since 1997"
+  },
+  "propertius-moore-1870": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "propertius-petronius-kelly-erotica-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "propertius",
+   "translator_claimed": "walter k. kelly",
+   "translator_in_text": true,
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "1854",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_translator_unchecked": {
+  "propertius-moore-1870": "title page OCR reads 'CHARLES ROB'ERT MOORE, M.A.', the forename broken by the OCR, and 'moore' alone proves little; left unchecked on that reading"
+ },
+ "_excluded": {
+  "Kelly's Erotica, later printings (IA eroticaelegiesp00arbigoog, Bell; eroticaelegiesof00kell, 1878; eroticaelegiesp00shergoog, 1880)": "later stereotype printings of the same volume; the 1854 first printing is held"
+ },
+ "_rights_checked": {
+  "propertius-phillimore-1906": "Oxford: Clarendon Press, 1906: US PD by date. Phillimore died in 1926 (catalogue heading 'Phillimore, John Swinnerton, 1873-1926'), so UK PD since 1997"
+ }
+}

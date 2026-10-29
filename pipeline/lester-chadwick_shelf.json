@@ -1,0 +1,293 @@
+{
+ "_about": "Lester Chadwick's Baseball Joe and College Sports books: every English text under the name at Gutenberg, all US public domain by publication. Lester Chadwick is a house name of the Stratemeyer Syndicate, whose individual ghostwriters the texts do not name. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Lester Chadwick",
+ "_name_words": [
+  "chadwick"
+ ],
+ "_surname": [
+  "lester chadwick"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lchadwick-baseball-joe-around-the-world": [
+   27338,
+   "Baseball Joe Around the World; or, Pitching on a Grand Tour",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-in-the-big-league": [
+   27584,
+   "Baseball Joe in the Big League; or, A Young Pitcher's Hardest Struggles"
+  ],
+  "lchadwick-baseball-joe-of-the-silver-stars": [
+   37056,
+   "Baseball Joe of the Silver Stars; or, The Rivals of Riverside",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-on-the-school-nine": [
+   38897,
+   "Baseball Joe on the School Nine; or, Pitching for the Blue Banner",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-rival-pitchers": [
+   39582,
+   "The Rival Pitchers: A Story of College Baseball",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-at-yale": [
+   40105,
+   "Baseball Joe at Yale; or, Pitching for the College Championship",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-a-quarter-backs-pluck": [
+   40668,
+   "A Quarter-Back's Pluck: A Story of College Football",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-batting-to-win": [
+   41206,
+   "Batting to Win: A Story of College Baseball"
+  ],
+  "lchadwick-winning-touchdown": [
+   41665,
+   "The Winning Touchdown: A Story of College Football"
+  ],
+  "lchadwick-baseball-joe-in-the-central-league": [
+   41847,
+   "Baseball Joe in the Central League; or, Making Good as a Professional Pitcher",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-for-the-honor-of-randall": [
+   42130,
+   "For the Honor of Randall: A Story of College Athletics",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-eight-oared-victors": [
+   42403,
+   "The Eight-Oared Victors: A Story of College Water Sports"
+  ],
+  "lchadwick-baseball-joe-on-the-giants": [
+   43021,
+   "Baseball Joe on the Giants; or, Making Good as a Ball Twirler in the Metropolis",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-in-the-world-series": [
+   43455,
+   "Baseball Joe in the World Series; or, Pitching for the Championship",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-home-run-king": [
+   43940,
+   "Baseball Joe, Home Run King; or, The Greatest Pitcher and Batter on Record",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-captain-of-the-team": [
+   44716,
+   "Baseball Joe, Captain of the Team; or, Bitter Struggles on the Diamond",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-saving-the-league": [
+   59169,
+   "Baseball Joe Saving the League; or, Breaking Up a Great Conspiracy",
+   {
+    "contents_only": true
+   }
+  ],
+  "lchadwick-baseball-joe-champion-of-the-league": [
+   73737,
+   "Baseball Joe, champion of the league",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "lchadwick-baseball-joe-around-the-world": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-in-the-big-league": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-of-the-silver-stars": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-on-the-school-nine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-rival-pitchers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-at-yale": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-a-quarter-backs-pluck": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-batting-to-win": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-winning-touchdown": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-in-the-central-league": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-for-the-honor-of-randall": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-eight-oared-victors": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-on-the-giants": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-in-the-world-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-home-run-king": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-captain-of-the-team": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-saving-the-league": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "lchadwick-baseball-joe-champion-of-the-league": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "lester chadwick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

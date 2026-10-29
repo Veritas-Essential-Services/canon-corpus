@@ -1,0 +1,627 @@
+{
+ "_about": "Public-domain A. T. Pierson (Arthur Tappan Pierson, 1837-1911, Presbyterian, missions advocate, Spurgeon's successor at the Metropolitan Tabernacle 1891-93) for the Word Hoard: George Müller of Bristol (Project Gutenberg, 1899) and 38 books from Internet Archive scans, 1886-1923, on missions, Bible study, preaching and the Keswick teaching. Added 2026-10-10 by lane A, round 18 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "pierson",
+  "arthur"
+ ],
+ "_surname": [
+  "arthur t. pierson",
+  "a. t. pierson",
+  "pierson, arthur t.",
+  "arthur tappan pierson",
+  "pierson, arthur tappan",
+  "a. t. pierson, d.d.",
+  "arthur t. pierson, d.d."
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "pierson-george-muller": [
+   "26522",
+   "George Müller of Bristol, and His Witness to a Prayer-Hearing God (New York: Fleming H. Revell; copyright 1899 Baker and Taylor)"
+  ]
+ },
+ "internet_archive": {
+  "pierson-crisis-missions": [
+   "crisisofmissions00pier",
+   "The Crisis of Missions; or, The Voice out of the Cloud (New York: Robert Carter and Brothers, copyright 1886)"
+  ],
+  "pierson-infallible-proofs": [
+   "manyinfalliblepr00pier",
+   "Many Infallible Proofs: The Evidences of Christianity (New York, Chicago, Toronto: Fleming H. Revell; entered 1886)"
+  ],
+  "pierson-keys-to-word": [
+   "keystowordorhelp00pier",
+   "Keys to the Word; or, Help to Bible Study (New York: Anson D. F. Randolph, copyright 1887)"
+  ],
+  "pierson-evangelistic-work": [
+   "evangelisticwork00pier",
+   "Evangelistic Work in Principle and Practice (New York: Baker and Taylor, copyright 1887)"
+  ],
+  "pierson-claim-of-bible": [
+   "cihm_90155",
+   "The Claim of the Bible to be the Word of God Tested and Vindicated, an address (Toronto: C. Blackett Robinson, 1889)"
+  ],
+  "pierson-divine-enterprise": [
+   "divineenterprise00pieruoft",
+   "The Divine Enterprise of Missions (New York: Baker and Taylor, copyright 1891)"
+  ],
+  "pierson-stumbling-stones": [
+   "stumblingstonesr01pier",
+   "Stumbling Stones Removed from the Word of God (New York: Baker and Taylor, copyright 1891)"
+  ],
+  "pierson-miracles-missions-1": [
+   "miraclesofmissiommh00pier",
+   "The Miracles of Missions, first series (New York: Funk & Wagnalls; entered 1891)"
+  ],
+  "pierson-miracles-missions-2": [
+   "miraclesofmissio0000pier",
+   "The Miracles of Missions, second series (New York: Funk & Wagnalls, 1895)"
+  ],
+  "pierson-miracles-missions-3": [
+   "miraclesofmissio00pier",
+   "The Miracles of Missions, third series (New York: Funk & Wagnalls, 1899)"
+  ],
+  "pierson-miracles-missions-4": [
+   "miraclesofmissio0000arth_e5f9",
+   "The Miracles of Missions, fourth series (New York: Funk & Wagnalls, 1901)"
+  ],
+  "pierson-greatest-work": [
+   "greatestworkinwo00pier",
+   "The Greatest Work in the World (New York and Chicago: Fleming H. Revell, copyright 1891)"
+  ],
+  "pierson-heart-of-gospel": [
+   "heartofgospel0000arth",
+   "The Heart of the Gospel, sermons preached in the Metropolitan Tabernacle (New York: Baker and Taylor, copyright 1892)"
+  ],
+  "pierson-divine-art-preaching": [
+   "divineartofpreac00pier",
+   "The Divine Art of Preaching (New York: Baker and Taylor; no year read, catalogued 1892)"
+  ],
+  "pierson-love-in-wrath": [
+   "loveinwrathorper00pier",
+   "Love in Wrath, or, The Perfection of God's Judgments (New York: Baker and Taylor, 1892)"
+  ],
+  "pierson-new-acts": [
+   "newactsofapostle1894pier",
+   "The New Acts of the Apostles; or, The Marvels of Modern Missions (New York: Baker and Taylor, copyright 1894)"
+  ],
+  "pierson-school-of-prayer": [
+   "lessonsinschoolo00pier",
+   "Lessons in the School of Prayer (New York: Anson D. F. Randolph, 1897; copyright 1895)"
+  ],
+  "pierson-life-power": [
+   "lifepowerorchar00piergoog",
+   "Life-Power; or, Character, Culture and Conduct (New York, Chicago, Toronto: Fleming H. Revell, copyright 1895)"
+  ],
+  "pierson-acts-holy-spirit": [
+   "actsofholyspirit0000pier_h1n3",
+   "The Acts of the Holy Spirit (New York, Chicago, Toronto: Fleming H. Revell, copyright 1895)"
+  ],
+  "pierson-sierra-leone": [
+   "sevenyearsinsier00pier",
+   "Seven Years in Sierra Leone: The Story of the Work of William A. B. Johnson (New York: Fleming H. Revell, copyright 1897)"
+  ],
+  "pierson-continue-in-sin": [
+   "shallwecontinuei01pier",
+   "Shall We Continue in Sin? (New York: Baker and Taylor, copyright 1897)"
+  ],
+  "pierson-keith-falconer": [
+   "sketchoflifeofho00pier",
+   "Sketch of the Life of the Hon. Ion Keith-Falconer (New York: The Arabian Mission; no year on title page, catalogued 1897)"
+  ],
+  "pierson-in-christ-jesus": [
+   "inchristjesusors00pier",
+   "In Christ Jesus, or, The Sphere of the Believer's Life (New York and London: Funk & Wagnalls, 1898)"
+  ],
+  "pierson-catharine-siena": [
+   "CatharineOfSiena",
+   "Catharine of Siena, an Ancient Lay Preacher (New York and London: Funk & Wagnalls, 1898)"
+  ],
+  "pierson-forward-movements": [
+   "forwardmovements00pier",
+   "Forward Movements of the Last Half Century (New York and London: Funk & Wagnalls, 1900)"
+  ],
+  "pierson-seed-thoughts": [
+   "cu31924027666118",
+   "Seed Thoughts for Public Speakers (New York: Funk & Wagnalls; no year on title page, catalogued 1900)"
+  ],
+  "pierson-spirits-voice": [
+   "spiritsvoicetoch00pier",
+   "The Spirit's Voice to the Churches (London: Marshall Brothers; no year on title page, catalogued 1900)"
+  ],
+  "pierson-mission-century": [
+   "modernmissioncen00pier",
+   "The Modern Mission Century Viewed as a Cycle of Divine Working (New York: Baker and Taylor, copyright 1901)"
+  ],
+  "pierson-gordian-knot": [
+   "gordianknot0000arth",
+   "The Gordian Knot, or, The Problem Which Baffles Infidelity (New York and London: Funk & Wagnalls, 1902)"
+  ],
+  "pierson-keswick-movement": [
+   "MN41537ucmf_0",
+   "The Keswick Movement in Precept and Practise (New York and London: Funk & Wagnalls, 1903)"
+  ],
+  "pierson-living-oracles": [
+   "godslivingoracle00pier",
+   "God's Living Oracles (New York: Baker and Taylor, copyright 1904)"
+  ],
+  "pierson-believers-life": [
+   "believerslifeits00pier",
+   "The Believer's Life: Its Past, Present, and Future Tenses (London: Morgan and Scott, 1905)"
+  ],
+  "pierson-spiritual-criticism": [
+   "bwb_P8-ABV-663",
+   "The Bible and Spiritual Criticism (New York: Baker and Taylor, copyright 1905)"
+  ],
+  "pierson-james-wright": [
+   "cu31924012524470",
+   "James Wright of Bristol: A Memorial of a Fragrant Life (London: James Nisbet, 1906)"
+  ],
+  "pierson-making-of-sermon": [
+   "makingofsermon0000arth_y9l3",
+   "The Making of a Sermon, second edition, revised and enlarged (New York: Gospel Publishing House, copyright 1907)"
+  ],
+  "pierson-spiritual-clinique": [
+   "spiritualcliniqu00pier",
+   "A Spiritual Clinique: Four Bible Readings Given at Keswick in 1907 (New York: Gospel Publishing House; no year on title page, catalogued 1907)"
+  ],
+  "pierson-knowing-scriptures": [
+   "knowingscripture00pier",
+   "Knowing the Scriptures: Rules and Methods of Bible Study (New York: Gospel Publishing House, copyright 1910)"
+  ],
+  "pierson-bible-spiritual-life": [
+   "biblespiritualli00pier",
+   "The Bible and Spiritual Life (Los Angeles: Biola Book Room, copyright 1923)"
+  ]
+ },
+ "_alternates": {
+  "pierson-edited": "Works he edited with others: The Inspired Word (1888; IA inspiredwordseri00biblrich), The One Gospel, a harmony of the Gospels (1889; onegospelorcombi00pier), From the Pulpit to the Palm-Branch, a Spurgeon memorial with five of his sermons (1892; frompulpittopalm00pier)",
+  "pierson-huguenot-college": "The Huguenot College and Seminaries, South Africa (pamphlet, 1894; IA huguenotcollegea00pier)",
+  "pierson-muller-scan": "George Müller of Bristol, scan (IA cu31924011505900, 1899)",
+  "pierson-coronation-hymnal": "The Coronation Hymnal, with A. J. Gordon (1894): on the A. J. Gordon shelf as an alternate"
+ },
+ "_excluded": {
+  "pierson-ccel-muller": "CCEL pierson/mueller: no ThML and no print basis; the Gutenberg text is preferred",
+  "pierson-late": "Zondervan reprints and 1931-1990s printings",
+  "pierson-introductions": "Books where he wrote only an introduction or essay (Paton, Brainerd, Liggins, Angus) and Maclean's book about him",
+  "pierson-not-divinity": "Zachariah Chandler memorials (1879-80)"
+ },
+ "_identity_checked": {
+  "pierson-greatest-work": {
+   "author": "Title page read: \"ARTHUR T.'PIERSON, Author of Crisis of Missions, Many Infallible Proofs\" (OCR adds a quote mark); copyright 1891 Fleming H. Revell."
+  },
+  "pierson-life-power": {
+   "author": "Title page read: \"LIFE-POWER OR, CHARACTER, CULTURE AND CONDUCT ... ARTHUR TrglERSON, D.D.\" (OCR for Arthur T. Pierson), Fleming H. Revell."
+  }
+ },
+ "_checks": {
+  "pierson-george-muller": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "pierson-crisis-missions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-infallible-proofs": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-keys-to-word": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-evangelistic-work": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1887",
+   "ia_date": "1887",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-claim-of-bible": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-divine-enterprise": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "c1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-stumbling-stones": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pierson-miracles-missions-1": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-miracles-missions-2": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-miracles-missions-3": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-miracles-missions-4": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-greatest-work": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pierson-heart-of-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-divine-art-preaching": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-love-in-wrath": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-new-acts": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1894",
+   "ia_date": "1894",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-school-of-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-life-power": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-acts-holy-spirit": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-sierra-leone": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-continue-in-sin": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pierson-keith-falconer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-in-christ-jesus": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-catharine-siena": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1898",
+   "ia_date": "1898",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-forward-movements": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pierson-seed-thoughts": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-spirits-voice": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-mission-century": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-gordian-knot": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-keswick-movement": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-living-oracles": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pierson-believers-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-spiritual-criticism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-james-wright": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-making-of-sermon": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "pierson-spiritual-clinique": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "pierson-knowing-scriptures": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "pierson-bible-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "arthur t. pierson",
+   "identity": "ok",
+   "ia_rights": "ok: published 1923",
+   "ia_date": "1923",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

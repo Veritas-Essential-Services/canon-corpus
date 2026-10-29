@@ -1,0 +1,36 @@
+{
+ "_about": "August Mau (1840-1909) in English, tr. Francis W. Kelsey (1858-1927). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): Pompeii, Its Life and Art, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "mau"
+ ],
+ "_surname": [
+  "august mau",
+  "mau, august"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "mau-pompeii-life-and-art": [
+   42715,
+   "Pompeii, Its Life and Art",
+   "tr. Francis W. Kelsey"
+  ]
+ },
+ "internet_archive": {},
+ "_translators": {
+  "mau-pompeii-life-and-art": "Francis W. Kelsey"
+ },
+ "_checks": {
+  "mau-pompeii-life-and-art": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "august mau",
+   "translator_claimed": "Francis W. Kelsey",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Francis W. Kelsey",
+   "translator_match": true
+  }
+ }
+}

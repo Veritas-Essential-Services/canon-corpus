@@ -1,0 +1,203 @@
+{
+ "_about": "Zona Gale's Friendship Village stories and novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Zona Gale",
+ "_name_words": [
+  "gale",
+  "zona"
+ ],
+ "_surname": [
+  "zona gale"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "zgale-miss-lulu-bett": [
+   10429,
+   "Miss Lulu Bett"
+  ],
+  "zgale-romance-island": [
+   13731,
+   "Romance Island"
+  ],
+  "zgale-christmas": [
+   20516,
+   "Christmas: A Story"
+  ],
+  "zgale-friendship-village": [
+   26644,
+   "Friendship Village"
+  ],
+  "zgale-daughter-of-the-morning": [
+   51579,
+   "A Daughter of the Morning"
+  ],
+  "zgale-neighborhood-stories": [
+   52089,
+   "Neighborhood Stories"
+  ],
+  "zgale-hearts-kindred": [
+   52317,
+   "Heart's Kindred"
+  ],
+  "zgale-peace-in-friendship-village": [
+   52410,
+   "Peace in Friendship Village"
+  ],
+  "zgale-mothers-to-men": [
+   53650,
+   "Mothers to Men"
+  ],
+  "zgale-friendship-village-love-stories": [
+   54676,
+   "Friendship Village Love Stories"
+  ],
+  "zgale-secret-way": [
+   60146,
+   "The Secret Way"
+  ],
+  "zgale-when-i-was-a-little-girl": [
+   60457,
+   "When I Was a Little Girl"
+  ],
+  "zgale-loves-of-pelleas-and-etarre": [
+   68268,
+   "The loves of Pelleas and Etarre"
+  ],
+  "zgale-yellow-gentians-and-blue": [
+   78523,
+   "Yellow gentians and blue"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "repeat-editions": "PG 77922: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "zgale-miss-lulu-bett": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-romance-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-christmas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-friendship-village": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-daughter-of-the-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-neighborhood-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-hearts-kindred": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-peace-in-friendship-village": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-mothers-to-men": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-friendship-village-love-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-secret-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-when-i-was-a-little-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-loves-of-pelleas-and-etarre": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "zgale-yellow-gentians-and-blue": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zona gale",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

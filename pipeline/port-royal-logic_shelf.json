@@ -1,0 +1,43 @@
+{
+ "_about": "The Port-Royal Logic of Antoine Arnauld (1612-1694) and Pierre Nicole (1625-1695), raw IA OCR: The Art of Thinking, translated from the French with an introduction by Thomas Spencer Baynes (Edinburgh: Sutherland and Knox, 1850). US public domain. No uids minted.",
+ "_author": "Antoine Arnauld and Pierre Nicole",
+ "_name_words": [
+  "antoine",
+  "arnauld",
+  "pierre",
+  "nicole",
+  "port",
+  "royal"
+ ],
+ "_surname": [
+  "arnauld"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "port-royal-baynes-art-of-thinking-1850": [
+   "artofthinking00arnauoft",
+   "The Port-Royal Logic (Logic, or the Art of Thinking), translated from the French, with an introduction (Edinburgh, 1850)",
+   "tr. Thomas Spencer Baynes"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "port-royal-baynes-art-of-thinking-1850": "Baynes"
+ },
+ "_checks": {
+  "port-royal-baynes-art-of-thinking-1850": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "arnauld",
+   "translator_claimed": "Baynes",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1850",
+   "ia_date": "1850",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

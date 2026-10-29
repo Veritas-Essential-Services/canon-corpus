@@ -1,0 +1,38 @@
+{
+ "_about": "August Boeckh (1785-1867): The Public Economy of the Athenians, translated from the second German edition by Anthony Lamb (Boston: Little, Brown, 1857), raw IA OCR. Lamb's death year is not checked, so life-plus-70 status is unconfirmed (US public domain by date). George Cornewall Lewis's English version (1842) is a different translation and is not on this shelf. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics). No uids minted.",
+ "_name_words": [
+  "boeckh"
+ ],
+ "_surname": [
+  "augustus boeckh",
+  "august boeckh",
+  "boeckh, august"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "boeckh-public-economy-athenians-lamb-1857": [
+   "publiceconomyath00boecuoft",
+   "The Public Economy of the Athenians (Boston: Little, Brown, 1857)",
+   "tr. Anthony Lamb"
+  ]
+ },
+ "_translators": {
+  "boeckh-public-economy-athenians-lamb-1857": "Lamb"
+ },
+ "_checks": {
+  "boeckh-public-economy-athenians-lamb-1857": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "augustus boeckh",
+   "translator_claimed": "Lamb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1842",
+   "ia_date": "1842",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

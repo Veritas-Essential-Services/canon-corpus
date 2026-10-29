@@ -1,0 +1,44 @@
+{
+ "_about": "Edvard Westermarck (1862-1939), Finnish philosopher and sociologist who wrote in English. Gutenberg: The History of Human Marriage, with an introduction by Alfred Russel Wallace; The Origin and Development of the Moral Ideas. US public domain. No uids minted.",
+ "_author": "Edward Westermarck",
+ "_name_words": [
+  "edward",
+  "westermarck"
+ ],
+ "_surname": [
+  "westermarck"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "westermarck-history-of-human-marriage": [
+   59386,
+   "The History of Human Marriage"
+  ],
+  "westermarck-origin-development-moral-ideas": [
+   52106,
+   "The Origin and Development of the Moral Ideas"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "westermarck-history-of-human-marriage": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "westermarck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "westermarck-origin-development-moral-ideas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "westermarck",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

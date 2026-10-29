@@ -1,0 +1,148 @@
+{
+ "_about": "John Oxenham's writing at Gutenberg: novels and other writing. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "John Oxenham",
+ "_name_words": [
+  "oxenham"
+ ],
+ "_surname": [
+  "oxenham"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "joxenham-bees-in-amber": [
+   9989,
+   "Bees in Amber: A Little Book of Thoughtful Verse"
+  ],
+  "joxenham-maid-of-the-silver-sea": [
+   14832,
+   "A Maid of the Silver Sea"
+  ],
+  "joxenham-pearl-of-pearl-island": [
+   15259,
+   "Pearl of Pearl Island"
+  ],
+  "joxenham-carette-of-sark": [
+   16666,
+   "Carette of Sark"
+  ],
+  "joxenham-alls-well": [
+   27126,
+   "'All's Well!'"
+  ],
+  "joxenham-maid-of-the-mist": [
+   37954,
+   "Maid of the Mist"
+  ],
+  "joxenham-white-fire": [
+   38061,
+   "White Fire"
+  ],
+  "joxenham-coil-of-carne": [
+   53819,
+   "The Coil of Carne"
+  ],
+  "joxenham-1914": [
+   66846,
+   "\"1914\""
+  ],
+  "joxenham-hearts-in-exile": [
+   76194,
+   "Hearts in exile"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "joxenham-bees-in-amber": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-maid-of-the-silver-sea": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-pearl-of-pearl-island": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-carette-of-sark": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-alls-well": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-maid-of-the-mist": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-white-fire": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-coil-of-carne": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-1914": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "joxenham-hearts-in-exile": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "oxenham",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

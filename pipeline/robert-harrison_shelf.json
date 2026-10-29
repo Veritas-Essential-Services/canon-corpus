@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Robert Harrison (1820-1897), Librarian of the London Library: Reumont's Lorenzo de' Medici, the Magnificent (1876), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "robert harrison"
+ ],
+ "_surname": [
+  "robert harrison"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "rha-50624": [
+   50624,
+   "Lorenzo de' Medici, the Magnificent (vol. 1 of 2)"
+  ],
+  "rha-50625": [
+   50625,
+   "Lorenzo de' Medici, the Magnificent (vol. 2 of 2)"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "robert-harrison-reumont-lorenzo-de-medici-the-magnificent-vol-1": {
+   "source": "rha-50624",
+   "of": "Alfred von Reumont",
+   "work": "Lorenzo de' Medici, the Magnificent (vol. 1 of 2)",
+   "translated": "1876 (see the Gutenberg header)",
+   "translator": "Robert Harrison",
+   "scan_edition": "Project Gutenberg 50624 (clean text)"
+  },
+  "robert-harrison-reumont-lorenzo-de-medici-the-magnificent-vol-2": {
+   "source": "rha-50625",
+   "of": "Alfred von Reumont",
+   "work": "Lorenzo de' Medici, the Magnificent (vol. 2 of 2)",
+   "translated": "1876 (see the Gutenberg header)",
+   "translator": "Robert Harrison",
+   "scan_edition": "Project Gutenberg 50625 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "rha-50624": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Harrison"
+  },
+  "rha-50625": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "robert harrison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Robert Harrison"
+  }
+ },
+ "_verified": {
+  "rha-50624": {
+   "pg": 50624,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Harrison"
+  },
+  "rha-50625": {
+   "pg": 50625,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Robert Harrison"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

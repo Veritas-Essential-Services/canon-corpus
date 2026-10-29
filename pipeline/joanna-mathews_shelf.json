@@ -1,0 +1,235 @@
+{
+ "_about": "Joanna H. Mathews's books for children (the Bessie and Kitty and Lulu books): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Joanna H. Mathews",
+ "_name_words": [
+  "mathews"
+ ],
+ "_surname": [
+  "joanna h. mathews"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jmathews-bessie-bradfords-prize": [
+   6569,
+   "Bessie Bradford's Prize",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-uncle-rutherfords-nieces": [
+   21666,
+   "Uncle Rutherford's Nieces: A Story for Girls",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-jessies-parrot": [
+   44123,
+   "Jessie's Parrot",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-bessie-among-the-mountains": [
+   44445,
+   "Bessie among the Mountains"
+  ],
+  "jmathews-daisys-work": [
+   44770,
+   "Daisy's Work: The Third Commandment"
+  ],
+  "jmathews-mamies-watchword": [
+   44774,
+   "Mamie's Watchword",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-bessie-at-the-sea-side": [
+   44780,
+   "Bessie at the Sea-Side",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-bessie-in-the-city": [
+   44954,
+   "Bessie in the City",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-lily-norris-enemy": [
+   44991,
+   "Lily Norris' Enemy",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-nellies-housekeeping-little-sunbeams-series": [
+   45751,
+   "Nellie's Housekeeping Little Sunbeams Series",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-belle-powers-locket": [
+   46123,
+   "Belle Powers' Locket",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-bessie-and-her-friends": [
+   46762,
+   "Bessie and Her Friends",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-bessie-on-her-travels": [
+   52214,
+   "Bessie on Her Travels",
+   {
+    "contents_only": true
+   }
+  ],
+  "jmathews-bessie-at-school": [
+   74645,
+   "Bessie at school",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "jmathews-bessie-bradfords-prize": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-uncle-rutherfords-nieces": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-jessies-parrot": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-bessie-among-the-mountains": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-daisys-work": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-mamies-watchword": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-bessie-at-the-sea-side": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-bessie-in-the-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-lily-norris-enemy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-nellies-housekeeping-little-sunbeams-series": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-belle-powers-locket": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-bessie-and-her-friends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-bessie-on-her-travels": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jmathews-bessie-at-school": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "joanna h. mathews",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

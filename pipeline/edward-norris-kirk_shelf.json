@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Edward Norris Kirk (1802-1874), revivalist and pastor of Mount Vernon Church, Boston, for the Word Hoard: Sermons on Different Subjects (1840), Useful and Happy (1841), The Greatness of the Human Soul (1844), Effectual Prayer (1853), Lectures on the Parables of our Saviour (1856), Discourses Doctrinal and Practical (1857) and The Waiting Saviour (1865), from Internet Archive scans. Added 2026-10-23 by lane A, round 56 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "kirk"
+ ],
+ "_surname": [
+  "edward n. kirk",
+  "edward norris kirk",
+  "e. n. kirk"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "enkirk-sermons": [
+   "sermonsondiffere00kirk",
+   "Sermons on different subjects : delivered in England and America (New York : Printed by John F. Trow, and for sale by Gould, Newman & Saxton, etc., 1840)"
+  ],
+  "enkirk-human-soul": [
+   "greatnessofhuman00kirk",
+   "The greatness of the human soul. An address delivered at the seventh anniversary of the Mount Holyoke female seminary, South Hadley, Mass (Boston, Press of T. R. Marvin, 1844)"
+  ],
+  "enkirk-effectual-prayer": [
+   "effectualprayers00kirk",
+   "Effectual prayer : a sermon / by Edward N. Kirk (Tappan & Whittemore, 1853)"
+  ],
+  "enkirk-parables": [
+   "lecturesonparabl00kirk",
+   "Lectures on the parables of Our Savior (New York, J. F. Trow, printer, 1856)"
+  ],
+  "enkirk-discourses": [
+   "discoursesdoctri00kirk",
+   "Discourses, doctrinal and practical (Boston : S.K. Whipple and Co., 1857)"
+  ],
+  "enkirk-waiting-saviour": [
+   "waitingsaviour00kirk",
+   "The waiting Saviour (Boston : The American tract society, 1865)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "enkirk-other": "His translations of Gaussen's Theopneusty and Astie's Louis Fourteenth and the Writers of his Age (other authors); hymn books and joint addresses",
+  "enkirk-useful-and-happy": "usefulhappyaddre00kirk: Useful and Happy (1841) binds his address to the young with pieces by J. G. Pike and J. A. James; a multi-author volume"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "enkirk-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward norris kirk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "enkirk-human-soul": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward n. kirk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "enkirk-effectual-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward n. kirk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "enkirk-parables": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward n. kirk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1856",
+   "ia_date": "1856",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "enkirk-discourses": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "edward n. kirk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "enkirk-waiting-saviour": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "e. n. kirk",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

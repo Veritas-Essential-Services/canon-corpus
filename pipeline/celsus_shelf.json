@@ -1,0 +1,75 @@
+{
+ "_about": "Aulus Cornelius Celsus, Of Medicine, in James Greive's translation (Gutenberg text from the 1814 edition), clean Gutenberg. Added 2026-10-03 as raw IA OCR (translator per row): G. F. Collier's translation (1831) and Alexander Lee's Latin-and-English edition, vol. I (1831; vol. II not found as text).",
+ "_name_words": [
+  "celsus",
+  "medicine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "celsus-greive": [
+   64207,
+   "Of Medicine, in Eight Books",
+   "tr. James Greive"
+  ]
+ },
+ "internet_archive": {
+  "celsus-collier-1831": [
+   "atranslationeig00celsgoog",
+   "A Translation of the Eight Books of Aul. Corn. Celsus on Medicine (London: printed by A. J. Valpy, 1831)",
+   "tr. G. F. Collier"
+  ],
+  "celsus-lee-1831-v1": [
+   "aurcorcelsusonm00rodegoog",
+   "Aur. Cor. Celsus on Medicine, in eight books, Latin and English, translated from L. Targa's edition, vol. I (London: E. Cox, MDCCCXXXI)",
+   "tr. Alexander Lee"
+  ]
+ },
+ "_surname": [
+  "celsus"
+ ],
+ "_translators": {
+  "celsus-greive": "James Greive",
+  "celsus-collier-1831": "g. f. collier",
+  "celsus-lee-1831-v1": "Alex. Lee"
+ },
+ "_checks": {
+  "celsus-greive": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "celsus",
+   "translator_claimed": "James Greive",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "James Greive",
+   "translator_match": true
+  },
+  "celsus-collier-1831": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "celsus",
+   "translator_claimed": "g. f. collier",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "celsus-lee-1831-v1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "celsus",
+   "translator_claimed": "Alex. Lee",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

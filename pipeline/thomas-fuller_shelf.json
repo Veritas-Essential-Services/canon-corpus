@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Thomas Fuller (1608-1661, Church of England divine and historian) for the Word Hoard: Good Thoughts in Bad Times and David's Heinous Sin (a poem) clean from CCEL, and the Church History of Britain (London: Tegg, 1837, 3 vols) and the Holy State and the Profane State (London: Pickering, 1840), raw Internet Archive OCR. Added 2026-10-02 by lane A, round 8 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_ccel_author": "f/fuller",
+ "_name_words": [
+  "fuller",
+  "thomas"
+ ],
+ "_surname": [
+  "thomas fuller",
+  "tho. fuller",
+  "dr. fuller",
+  "fuller"
+ ],
+ "_held": {},
+ "ccel": {
+  "fuller-good-thoughts": [
+   "goodthoughts",
+   "Good Thoughts in Bad Times and Other Papers",
+   ""
+  ],
+  "fuller-davids-sin": [
+   "david",
+   "David's Heinous Sin, Hearty Repentance, Heavy Punishment (verse)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "fuller-church-history-1": [
+   "churchhistoryofb01full",
+   "The Church History of Britain, vol. 1 (London: Tegg, 1837)"
+  ],
+  "fuller-church-history-2": [
+   "churchhistoryofb02full",
+   "The Church History of Britain, vol. 2 (London: Tegg, 1837)"
+  ],
+  "fuller-church-history-3": [
+   "churchhistoryofb03full",
+   "The Church History of Britain, vol. 3 (London: Tegg, 1837)"
+  ],
+  "fuller-holy-state": [
+   "theholystateand00fulluoft",
+   "The Holy State and the Profane State (London: Pickering, 1840)"
+  ]
+ },
+ "_alternates": {
+  "fuller-church-history": "J. S. Brewer's edition (Oxford, 1845, 6 vols, e.g. churchhistoryof03full) not shelved; the 1642 first edition of the Holy State (holystate1642full) not shelved (long-s OCR)"
+ },
+ "_excluded": {},
+ "_checks": {
+  "fuller-good-thoughts": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas fuller",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "fuller-davids-sin": {
+   "kind": "ccel",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas fuller",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "fuller-church-history-1": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas fuller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fuller-church-history-2": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas fuller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fuller-church-history-3": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas fuller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1837",
+   "ia_date": "1837",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "fuller-holy-state": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "thomas fuller",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

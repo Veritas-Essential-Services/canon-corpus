@@ -1,0 +1,32 @@
+{
+ "_about": "Tommaso Campanella (1568-1639): The City of the Sun, a poetical dialogue, from Project Gutenberg (the etext names no printing; the translator is not named in it). US public domain. No uids minted.",
+ "_author": "Tommaso Campanella",
+ "_name_words": [
+  "tommaso",
+  "thomas",
+  "campanella"
+ ],
+ "_surname": [
+  "campanella"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "campanella-city-of-the-sun": [
+   2816,
+   "The City of the Sun (the etext names no printing; translator unnamed)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "campanella-city-of-the-sun": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "campanella",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "_about": "X.-B. Saintine's Myths of the Rhine, translated by M. Schele de Vere (New York, 1874), with Gustave Doré's illustrations (not in the text). Gutenberg catalogue: Saintine 1798-1865. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "X.-B. Saintine (tr. M. Schele de Vere)",
+ "_name_words": [
+  "rhine"
+ ],
+ "_surname": [
+  "saintine"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "saintine-myths-of-the-rhine": [
+   44430,
+   "Myths of the Rhine",
+   {
+    "levels": [
+     {
+      "re": "(?:LIST OF ILLUSTRATIONS\\.|[IVX]+\\.)$",
+      "strip": "\\.$"
+     }
+    ],
+    "start": "LIST OF ILLUSTRATIONS\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "saintine-myths-of-the-rhine": "Schele de Vere"
+ },
+ "_checks": {
+  "saintine-myths-of-the-rhine": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "saintine",
+   "translator_claimed": "Schele de Vere",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "M. Schele de Vere",
+   "translator_match": true
+  }
+ }
+}

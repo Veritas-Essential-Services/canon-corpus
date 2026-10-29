@@ -1,0 +1,409 @@
+{
+ "_about": "Louis Tracy's adventure, invasion and mystery novels. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Louis Tracy",
+ "_name_words": [
+  "louis",
+  "tracy"
+ ],
+ "_surname": [
+  "louis tracy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "ltracy-number-seventeen": [
+   4996,
+   "Number Seventeen"
+  ],
+  "ltracy-wheel-o-fortune": [
+   8596,
+   "The Wheel O' Fortune"
+  ],
+  "ltracy-postmasters-daughter": [
+   10110,
+   "The Postmaster's Daughter"
+  ],
+  "ltracy-stowmarket-mystery": [
+   14853,
+   "The Stowmarket Mystery; Or, A Legacy of Hate"
+  ],
+  "ltracy-wings-of-the-morning": [
+   14917,
+   "The Wings of the Morning"
+  ],
+  "ltracy-stowaway-girl": [
+   19539,
+   "The Stowaway Girl"
+  ],
+  "ltracy-captain-of-the-kansas": [
+   19649,
+   "The Captain of the Kansas"
+  ],
+  "ltracy-one-wonderful-night": [
+   19707,
+   "One Wonderful Night: A Romance of New York"
+  ],
+  "ltracy-albert-gate-mystery-being-further-adventures-of-regin": [
+   23150,
+   "The Albert Gate Mystery Being Further Adventures of Reginald Brett, Barrister Detective"
+  ],
+  "ltracy-son-of-the-immortals": [
+   25017,
+   "A Son of the Immortals"
+  ],
+  "ltracy-strange-case-of-mortimer-fenley": [
+   26447,
+   "The Strange Case of Mortimer Fenley"
+  ],
+  "ltracy-cynthias-chauffeur": [
+   31472,
+   "Cynthia's Chauffeur"
+  ],
+  "ltracy-silent-barrier": [
+   31635,
+   "The Silent Barrier"
+  ],
+  "ltracy-bartlett-mystery": [
+   31949,
+   "The Bartlett Mystery"
+  ],
+  "ltracy-day-of-wrath": [
+   33622,
+   "The Day of Wrath: A Story of 1914"
+  ],
+  "ltracy-great-mogul": [
+   34134,
+   "The Great Mogul"
+  ],
+  "ltracy-mysterious-disappearance": [
+   34277,
+   "A Mysterious Disappearance"
+  ],
+  "ltracy-his-unknown-wife": [
+   35074,
+   "His Unknown Wife"
+  ],
+  "ltracy-revellers": [
+   35393,
+   "The Revellers"
+  ],
+  "ltracy-late-tenant": [
+   35691,
+   "The Late Tenant"
+  ],
+  "ltracy-red-year": [
+   36478,
+   "The Red Year: A Story of the Indian Mutiny"
+  ],
+  "ltracy-house-round-the-corner": [
+   39432,
+   "The House 'Round the Corner"
+  ],
+  "ltracy-king-of-diamonds": [
+   40493,
+   "The King of Diamonds: A Tale of Mystery and Adventure"
+  ],
+  "ltracy-pillar-of-light": [
+   40912,
+   "The Pillar of Light"
+  ],
+  "ltracy-terms-of-surrender": [
+   41859,
+   "The Terms of Surrender"
+  ],
+  "ltracy-flower-of-the-gorse": [
+   46178,
+   "Flower of the Gorse"
+  ],
+  "ltracy-message": [
+   47113,
+   "The Message"
+  ],
+  "ltracy-de-bercy-affair": [
+   50705,
+   "The de Bercy Affair"
+  ],
+  "ltracy-minkie": [
+   58434,
+   "Minkie"
+  ],
+  "ltracy-karl-grier": [
+   76603,
+   "Karl Grier"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "ltracy-number-seventeen": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-wheel-o-fortune": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-postmasters-daughter": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-stowmarket-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-wings-of-the-morning": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-stowaway-girl": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-captain-of-the-kansas": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-one-wonderful-night": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-albert-gate-mystery-being-further-adventures-of-regin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-son-of-the-immortals": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-strange-case-of-mortimer-fenley": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-cynthias-chauffeur": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-silent-barrier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-bartlett-mystery": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-day-of-wrath": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-great-mogul": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-mysterious-disappearance": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-his-unknown-wife": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-revellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-late-tenant": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-red-year": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-house-round-the-corner": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-king-of-diamonds": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-pillar-of-light": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-terms-of-surrender": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-flower-of-the-gorse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-message": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-de-bercy-affair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-minkie": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "ltracy-karl-grier": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "louis tracy",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

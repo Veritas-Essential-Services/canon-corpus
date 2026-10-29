@@ -1,0 +1,58 @@
+{
+ "_about": "Quintus Smyrnaeus, The Fall of Troy, in Arthur S. Way's verse (1913, per the file), English only as on Gutenberg.",
+ "_name_words": [
+  "quintus",
+  "smyrnaeus",
+  "troy"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "quintus-smyrnaeus-way": [
+   658,
+   "The Fall of Troy",
+   "tr. Arthur S. Way"
+  ]
+ },
+ "internet_archive": {
+  "quintus-smyrnaeus-dyce-1821": [
+   "selecttranslatio00quin",
+   "Select Translations from the Greek of Quintus Smyrnaeus (Oxford: W. Baxter, 1821)",
+   "tr. Alexander Dyce"
+  ]
+ },
+ "_surname": [
+  "quintus",
+  "smyrnaeus"
+ ],
+ "_translators": {
+  "quintus-smyrnaeus-way": "Arthur S. Way",
+  "quintus-smyrnaeus-dyce-1821": "alexander dyce"
+ },
+ "_checks": {
+  "quintus-smyrnaeus-way": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "quintus",
+   "translator_claimed": "Arthur S. Way",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Arthur S. Way",
+   "translator_match": true
+  },
+  "quintus-smyrnaeus-dyce-1821": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "quintus",
+   "translator_claimed": "alexander dyce",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1821",
+   "ia_date": "1821",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

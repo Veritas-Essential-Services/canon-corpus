@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: Katherine Miller: Romain Rolland's Clerambault (1921) and Colas Breugnon (1919). US public domain. Added 2026-10-10 by lane C (round 38); Adam may veto. No uids minted.",
+ "_name_words": [
+  "katherine miller"
+ ],
+ "_surname": [
+  "katherine miller"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "kmi-10868": [
+   10868,
+   "Clerambault: The Story of an Independent Spirit During the War"
+  ],
+  "kmi-70371": [
+   70371,
+   "Colas Breugnon"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "katherine-miller-rolland-clerambault-the-story-of-an-independent": {
+   "source": "kmi-10868",
+   "of": "Romain Rolland",
+   "work": "Clerambault: The Story of an Independent Spirit During the War",
+   "translated": "1919-1921 (see the Gutenberg header)",
+   "translator": "Katherine Miller",
+   "scan_edition": "Project Gutenberg 10868 (clean text)"
+  },
+  "katherine-miller-rolland-colas-breugnon": {
+   "source": "kmi-70371",
+   "of": "Romain Rolland",
+   "work": "Colas Breugnon",
+   "translated": "1919-1921 (see the Gutenberg header)",
+   "translator": "Katherine Miller",
+   "scan_edition": "Project Gutenberg 70371 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "kmi-10868": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katherine miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katherine Miller"
+  },
+  "kmi-70371": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "katherine miller",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Katherine Miller"
+  }
+ },
+ "_verified": {
+  "kmi-10868": {
+   "pg": 10868,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katherine Miller"
+  },
+  "kmi-70371": {
+   "pg": 70371,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "Katherine Miller"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

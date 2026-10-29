@@ -1,0 +1,76 @@
+{
+ "_about": "TRANSLATOR SHELF: John Kenrick (1788-1877): Friedrich Strauss's Helon's Pilgrimage to Jerusalem (1824), 2 vols. US public domain. Added 2026-10-10 by lane C (round 39); Adam may veto. No uids minted.",
+ "_name_words": [
+  "john kenrick"
+ ],
+ "_surname": [
+  "john kenrick"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "jke-54867": [
+   54867,
+   "Helon's Pilgrimage to Jerusalem, Volume 1 (of 2) A picture of Judaism, in the century which preceded the advent of our Savior."
+  ],
+  "jke-56891": [
+   56891,
+   "Helon's Pilgrimage to Jerusalem, Volume 2 (of 2) A picture of Judaism, in the century which preceded the advent of our Savior."
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "kenrick-strauss-helon-s-pilgrimage-to-jerusalem-volume-1": {
+   "source": "jke-54867",
+   "of": "Friedrich Strauss",
+   "work": "Helon's Pilgrimage to Jerusalem, Volume 1 (of 2) A picture of Judaism, in the century which preceded the advent of our Savior.",
+   "translated": "1824 (see the Gutenberg header)",
+   "translator": "John Kenrick",
+   "scan_edition": "Project Gutenberg 54867 (clean text)"
+  },
+  "kenrick-strauss-helon-s-pilgrimage-to-jerusalem-volume-2": {
+   "source": "jke-56891",
+   "of": "Friedrich Strauss",
+   "work": "Helon's Pilgrimage to Jerusalem, Volume 2 (of 2) A picture of Judaism, in the century which preceded the advent of our Savior.",
+   "translated": "1824 (see the Gutenberg header)",
+   "translator": "John Kenrick",
+   "scan_edition": "Project Gutenberg 56891 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "jke-54867": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kenrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Kenrick"
+  },
+  "jke-56891": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "john kenrick",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "John Kenrick"
+  }
+ },
+ "_verified": {
+  "jke-54867": {
+   "pg": 54867,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Kenrick"
+  },
+  "jke-56891": {
+   "pg": 56891,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "John Kenrick"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

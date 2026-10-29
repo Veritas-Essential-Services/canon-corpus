@@ -1,0 +1,239 @@
+{
+ "_about": "Public-domain Frank Ballard (died 1931), Wesleyan Methodist minister and Christian apologist, for the Word Hoard: Christian Essentials, The Miracles of Unbelief, Haeckel's Monism False, Theomonism True, The True God, Does it Matter what a Man Believes?, Determinism False and True, Why does not God Intervene?, Christian Reality in Modern Light, Christianity after the War, his tracts on Russellism and church finance, and his wartime books, all printed before 1930. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 86 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "frank ballard",
+  "f. ballard"
+ ],
+ "_surname": [
+  "frank ballard",
+  "f. ballard",
+  "ballard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ballard-christian-essentials": [
+   "christianessenti00ball",
+   "Christian essentials : a re-statement for the people of to-day (London : Charles H. Kelly, 1900)"
+  ],
+  "ballard-miracles-unbelief": [
+   "miraclesofunbeli0000ball",
+   "The miracles of unbelief (Edinburgh, T. & T. Clark, 1901)"
+  ],
+  "ballard-church-finance": [
+   "straightlinesinc00ball",
+   "Straight lines in church finance (New York : Missoinary Society of the Methodist Episcopal Church, 1904)"
+  ],
+  "ballard-haeckel": [
+   "haeckelsmonismfa00ball",
+   "Haeckel's monism false. An examination of 'The riddle of the universe', 'The wonders of life', 'The confession of faith of a man of science' by Professor Haeckel; together with 'Haeckel's critics answered' by Mr. Joseph McCabe (London, C.H. Kelly, 1905)"
+  ],
+  "ballard-theomonism": [
+   "theonomismtruego0000ball",
+   "Theonomism true : God and the universe in modern light (London : C.H. Kelley, 1906)"
+  ],
+  "ballard-true-god": [
+   "truegodmodernsum0000ball",
+   "The true God : a modern summary of the relations of theism to naturalism, monism, pluralism, and pantheism (London : Robert Culley, 1907)"
+  ],
+  "ballard-does-it-matter": [
+   "doesitmatterwhat0000ball",
+   "Does it matter what a man believes? (New York : Eaton, 1908)"
+  ],
+  "ballard-determinism": [
+   "determinismfalse00ball",
+   "Determinism: false and true; a contribution to modern philosophy and ethics (London, C.H. Kelly, 1911)"
+  ],
+  "ballard-god-intervene": [
+   "whydoesnotgodint00balluoft",
+   "Why does not God intervene? : and other questions (New York ; London : Hodder and Stoughton, 1912)"
+  ],
+  "ballard-britain-justified": [
+   "britainjustified0000ball",
+   "Britain justified. The war from the Christian standpoint (London, C.H. Kelly, 1914)"
+  ],
+  "ballard-pacifism": [
+   "mistakesofpacifi00ball",
+   "The mistakes of pacifism, or, Why a Christian can have anything to do with war (London : Charles H. Kelly, 1915)"
+  ],
+  "ballard-christian-reality": [
+   "christianreality0000ball",
+   "Christian reality in modern light (London : Charles H. Kelly, 1916)"
+  ],
+  "ballard-after-war": [
+   "christianityafte0000ball",
+   "Christianity after the war (London, Charles H. Kelly, 1916)"
+  ],
+  "ballard-painlessness": [
+   "mysteryofpainles00ball",
+   "The mystery of painlessness : an appeal to facts (New York ; Chicago [etc.] : Fleming H. Revell, 1926)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "ballard-propaganda": "Plain Truths versus German Lies (1915, war propaganda, not theology)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {
+  "ballard-russellism": "whynotrussellism00balliala: an undated offprint (pp. 159-270, no title page or imprint) that cites events of 1913-1915; its printing date cannot be read, so it waits"
+ },
+ "_translators": {},
+ "_checks": {
+  "ballard-christian-essentials": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-miracles-unbelief": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-church-finance": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1904",
+   "ia_date": "1904",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-haeckel": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-theomonism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1906",
+   "ia_date": "1906",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-true-god": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1907",
+   "ia_date": "1907",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-does-it-matter": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1908",
+   "ia_date": "1908",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-determinism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-god-intervene": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1912",
+   "ia_date": "1912",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ballard-britain-justified": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-pacifism": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1915",
+   "ia_date": "1915",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-christian-reality": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-after-war": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1916",
+   "ia_date": "1916",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ballard-painlessness": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "frank ballard",
+   "identity": "ok",
+   "ia_rights": "ok: published 1926",
+   "ia_date": "1926",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

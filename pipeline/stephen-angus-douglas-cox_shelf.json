@@ -1,0 +1,86 @@
+{
+ "_about": "Stephen Angus Douglas Cox: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Stephen Angus Douglas Cox",
+ "_name_words": [
+  "angus",
+  "cox",
+  "douglas",
+  "stephen"
+ ],
+ "_surname": [
+  "stephen angus douglas cox"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "sadcox-dare-boys-of-1776": [
+   9112,
+   "The Dare Boys of 1776"
+  ],
+  "sadcox-dare-boys-in-virginia": [
+   44478,
+   "The Dare Boys in Virginia"
+  ],
+  "sadcox-dare-boys-with-general-greene": [
+   44631,
+   "The Dare Boys with General Greene"
+  ],
+  "sadcox-dare-boys-in-vincennes": [
+   64017,
+   "The Dare Boys in Vincennes"
+  ],
+  "sadcox-harrys-newspaper": [
+   77984,
+   "Harry's newspaper"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "sadcox-dare-boys-of-1776": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen angus douglas cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sadcox-dare-boys-in-virginia": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen angus douglas cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sadcox-dare-boys-with-general-greene": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen angus douglas cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sadcox-dare-boys-in-vincennes": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen angus douglas cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "sadcox-harrys-newspaper": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "stephen angus douglas cox",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "_about": "Hugh Walpole's novels. Not Horace Walpole. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Hugh Walpole",
+ "_name_words": [
+  "hugh",
+  "walpole"
+ ],
+ "_surname": [
+  "hugh walpole"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hwalpole-jeremy": [
+   3474,
+   "Jeremy"
+  ],
+  "hwalpole-captives": [
+   3601,
+   "The Captives"
+  ],
+  "hwalpole-fortitude": [
+   7887,
+   "Fortitude"
+  ],
+  "hwalpole-cathedral": [
+   8135,
+   "The Cathedral: A Novel"
+  ],
+  "hwalpole-secret-city": [
+   12349,
+   "The Secret City"
+  ],
+  "hwalpole-golden-scarecrow": [
+   14201,
+   "The Golden Scarecrow"
+  ],
+  "hwalpole-prelude-to-adventure": [
+   19085,
+   "The Prelude to Adventure"
+  ],
+  "hwalpole-dark-forest": [
+   19614,
+   "The Dark Forest"
+  ],
+  "hwalpole-wooden-horse": [
+   27180,
+   "The Wooden Horse"
+  ],
+  "hwalpole-duchess-of-wrexe-her-decline-and-death": [
+   33086,
+   "The Duchess of Wrexe, Her Decline and Death; A Romantic Commentary"
+  ],
+  "hwalpole-joseph-conrad": [
+   49436,
+   "Joseph Conrad"
+  ],
+  "hwalpole-gods-and-mr-perrin": [
+   52211,
+   "The Gods and Mr. Perrin: A Tragi-Comedy"
+  ],
+  "hwalpole-thirteen-travellers": [
+   60278,
+   "The Thirteen Travellers"
+  ],
+  "hwalpole-young-enchanted": [
+   60324,
+   "The Young Enchanted: A Romantic Story"
+  ],
+  "hwalpole-jeremy-and-hamlet-a-chronicle-of-certain-incidents": [
+   60325,
+   "Jeremy and Hamlet A Chronicle of Certain Incidents in the Lives of a Boy, a Dog, and a Country Town"
+  ],
+  "hwalpole-maradick-at-forty": [
+   60326,
+   "Maradick at Forty: A Transition"
+  ],
+  "hwalpole-green-mirror": [
+   60327,
+   "The Green Mirror: A Quiet Story"
+  ],
+  "hwalpole-portrait-of-a-man-with-red-hair": [
+   66837,
+   "Portrait of a Man with Red Hair: A Romantic Macabre"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "pg-58382": "PG 58382: Gutenberg's index of the author's works, not a book.",
+  "repeat-editions": "PG 52453: second Gutenberg editions of titles already on the shelf."
+ },
+ "_held": {},
+ "_checks": {
+  "hwalpole-jeremy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-captives": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-fortitude": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-cathedral": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-secret-city": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-golden-scarecrow": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-prelude-to-adventure": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-dark-forest": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-wooden-horse": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-duchess-of-wrexe-her-decline-and-death": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-joseph-conrad": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-gods-and-mr-perrin": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-thirteen-travellers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-young-enchanted": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-jeremy-and-hamlet-a-chronicle-of-certain-incidents": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-maradick-at-forty": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-green-mirror": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hwalpole-portrait-of-a-man-with-red-hair": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "hugh walpole",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

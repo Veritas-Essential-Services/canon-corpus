@@ -1,0 +1,138 @@
+{
+ "_about": "Public-domain Joseph Tuckerman (1778-1840), Unitarian minister of Chelsea and founder of the Ministry at Large to Boston's poor, for the Word Hoard: his funeral oration on Washington, his reports as minister at large, an ordination sermon, Gleams of Truth, The Principles and Results of the Ministry at Large, and a selection from his reports on the elevation of the poor. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 103 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "joseph tuckerman",
+  "j. tuckerman",
+  "tuckerman"
+ ],
+ "_surname": [
+  "joseph tuckerman",
+  "j. tuckerman",
+  "tuckerman"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tuckerman-washington-oration": [
+   "bim_eighteenth-century_a-funeral-oration-occas_tuckerman-joseph_1800",
+   "A funeral oration. Occasioned by the death of General George Washington. Written at the request of the Boston Mechanic Association, and delivered before them, on the 22d of Feb. 1800. By Joseph Tuckerman. [Four lines in Latin from Seneca].  1800 (catalogued 1800)"
+  ],
+  "tuckerman-reports": [
+   "ministersreports0000jose",
+   "Ministers Reports (catalogued 1827)"
+  ],
+  "tuckerman-seventh-report": [
+   "mrtuckermansseve00tuck",
+   "Mr. Tuckerman's seventh semiannual report of his service as a minister at large in Boston (Boston : Gray and Bowen : printed for the American Unitarian Association, 1831)"
+  ],
+  "tuckerman-barnard-ordination": [
+   "sermonpreachedon00tuck",
+   "A sermon preached on Sunday evening, Nov. 2, 1834 : at the ordination of Charles F. Barnard and Frederick T. Gray, as ministers at large in Boston (Boston : Russell, Odiorne and Metcalf and James Munroe and Co., 1834)"
+  ],
+  "tuckerman-gleams-of-truth": [
+   "gleamstruthorsc00tuckgoog",
+   "Gleams of Truth: Or, Scenes from Real Life (James Munroe and Company, 1835)"
+  ],
+  "tuckerman-ministry-at-large": [
+   "principlesresult00tuck",
+   "The principles and results of the ministry at large in Boston (n.p, n.d)"
+  ],
+  "tuckerman-elevation-poor": [
+   "josephtuckerman00tuckgoog",
+   "Joseph Tuckerman on the Elevation of the Poor: A Selection from His Reports (catalogued 1874)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "tuckerman-visitor-poor": "The Visitor of the Poor (Degerando's book, which Tuckerman introduced)",
+  "tuckerman-memorial": "A Memorial of Rev. Joseph Tuckerman (by others)"
+ },
+ "_rights_checked": {
+  "tuckerman-ministry-at-large": "Title page (OCR): 'The Principles and Results of the Ministry at Large, Boston. By Joseph Tuckerman... MDCCCXXXVIII.' Entered according to act of Congress in the year 1838, by James Munroe & Co."
+ },
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tuckerman-washington-oration": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph tuckerman",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1800",
+   "ia_date": "1800",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tuckerman-reports": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph tuckerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1827",
+   "ia_date": "1827",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tuckerman-seventh-report": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph tuckerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1831",
+   "ia_date": "1831",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tuckerman-barnard-ordination": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph tuckerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tuckerman-gleams-of-truth": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph tuckerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1835",
+   "ia_date": "1835",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tuckerman-ministry-at-large": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph tuckerman",
+   "identity": "ok",
+   "ia_rights": "CHECK: no date on the record",
+   "ia_date": "n.d",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null,
+   "rights_override": "Title page (OCR): 'The Principles and Results of the Ministry at Large, Boston. By Joseph Tuckerman... MDCCCXXXVIII.' Entered according to act of Congress in the year 1838, by James Munroe & Co."
+  },
+  "tuckerman-elevation-poor": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "joseph tuckerman",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "_about": "Public-domain Johann Albrecht Bengel (1687-1752), Württemberg Lutheran pietist and New Testament textual critic, for the Word Hoard: the Gnomon of the New Testament in the English translation of Clark's Foreign Theological Library (Fausset's edition, 5 vols, Edinburgh 1877), from Internet Archive scans. Added 2026-10-23 by lane A, round 48 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "bengel"
+ ],
+ "_surname": [
+  "john albert bengel",
+  "j. a. bengel",
+  "bengel",
+  "bengelius"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "bengel-gnomon-1": [
+   "cu31924092350515",
+   "Gnomon of the New Testament, vol. 1 (Edinburgh: T. & T. Clark, 1877)"
+  ],
+  "bengel-gnomon-2": [
+   "cu31924092350523",
+   "Gnomon of the New Testament, vol. 2 (Edinburgh: T. & T. Clark, 1877)"
+  ],
+  "bengel-gnomon-3": [
+   "cu31924092350499",
+   "Gnomon of the New Testament, vol. 3 (Edinburgh: T. & T. Clark, 1877)"
+  ],
+  "bengel-gnomon-4": [
+   "cu31924092350507",
+   "Gnomon of the New Testament, vol. 4 (Edinburgh: T. & T. Clark, 1877)"
+  ],
+  "bengel-gnomon-5": [
+   "cu31924092350531",
+   "Gnomon of the New Testament, vol. 5 (Edinburgh: T. & T. Clark, 1877)"
+  ]
+ },
+ "_alternates": {
+  "bengel-copies": "The 1857-1859 first printing (gnomonofthenewte01benguoft etc.) and the American Lewis and Vincent translation (1860-1864, 1873)"
+ },
+ "_excluded": {
+  "bengel-other": "The Latin Gnomon (Tübingen 1850); Blackley's Critical English Testament (1873, an adaptation by others); Burk's Memoir of Bengel (a life by another)"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {
+  "bengel-gnomon-1": "Bandinel",
+  "bengel-gnomon-2": "Fausset",
+  "bengel-gnomon-4": "Bryce"
+ },
+ "_checks": {
+  "bengel-gnomon-1": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john albert bengel",
+   "translator_claimed": "Bandinel",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bengel-gnomon-2": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john albert bengel",
+   "translator_claimed": "Fausset",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bengel-gnomon-3": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john albert bengel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bengel-gnomon-4": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john albert bengel",
+   "translator_claimed": "Bryce",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "bengel-gnomon-5": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "john albert bengel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

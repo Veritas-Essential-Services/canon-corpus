@@ -1,0 +1,166 @@
+{
+ "_about": "Public-domain Otto Zöckler (1833-1906), Lutheran professor at Greifswald, for the Word Hoard: The Cross of Christ (English, 1877), his commentaries for Lange's Bible-work in English (Proverbs, the Song of Solomon, Job, Chronicles), and in German Theologia naturalis, Gottes Zeugen im Reich der Natur, Die Apokryphen des Alten Testaments, and Askese und Mönchtum. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 112 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "otto zöckler",
+  "otto zockler",
+  "o. zöckler",
+  "zöckler",
+  "zockler",
+  "zoeckler"
+ ],
+ "_surname": [
+  "otto zöckler",
+  "otto zockler",
+  "zöckler",
+  "zockler",
+  "zoeckler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "zockler-cross-of-christ": [
+   "CrossOfChrist",
+   "The cross of Christ: studies in the history of religion and the inner life of the church (London, Hodder and Stoughton, 1877)"
+  ],
+  "zockler-proverbs": [
+   "proverbsofsolomo0010unse",
+   "The Proverbs of Solomon, vol. 10 (catalogued 1870)"
+  ],
+  "zockler-song": [
+   "songofsolomon0010zckl",
+   "The Song of Solomon, vol. 10 (New York, C. Scribner & Co., 1870)"
+  ],
+  "zockler-job": [
+   "bookofjobrhythmi08zc",
+   "The Book of Job : a rhythmical version with introduction and annotations, vol. 8 (New York : Charles Scribner's Sons, 1874)"
+  ],
+  "zockler-chronicles": [
+   "booksofchronicle0000unse_z5d2",
+   "The Books of the Chronicles, vol. 7 (catalogued 1877)"
+  ],
+  "zockler-theologia-naturalis": [
+   "10399980bsb",
+   "Theologia naturalis: Entwurf einer systematatischen Naturtheologie von offenbarungsgläubigen Standpunkte aus. 1 (catalogued 1860)"
+  ],
+  "zockler-gottes-zeugen": [
+   "gotteszeugenimre0000zckl",
+   "Gottes Zeugen im Reich der Natur : Biographien und Bekenntnisse grosser Naturforscher aus alter und neuer Zeit (Gütersloh : C. Bertelsmann, 1881)"
+  ],
+  "zockler-apokryphen": [
+   "dieapokryphendes00zckl",
+   "Die Apokryphen des Alten Testments : nebst einem Anhang überdie Pseudepigraphenliteratur (München : C.H. Beck, 1891)"
+  ],
+  "zockler-askese": [
+   "askeseundmncht12zcuoft",
+   "Askese und Mönchtum, vol. 1-2 (Frankfurt, Heyder, 1897)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "zockler-cross-of-christ": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zockler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-proverbs": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "zockler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-song": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto zockler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-job": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto zockler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-chronicles": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto zockler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-theologia-naturalis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto zöckler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-gottes-zeugen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto zöckler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1881",
+   "ia_date": "1881",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-apokryphen": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto zöckler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "zockler-askese": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "otto zöckler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

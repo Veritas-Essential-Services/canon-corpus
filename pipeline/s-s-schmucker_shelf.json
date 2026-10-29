@@ -1,0 +1,271 @@
+{
+ "_about": "Public-domain S. S. Schmucker (Samuel Simon Schmucker, 1799-1873, Lutheran, Gettysburg Seminary) for the Word Hoard: American Lutheranism Vindicated (Project Gutenberg, 1856), and from Internet Archive scans Elements of Popular Theology (first edition, 1834), the Fraternal Appeal for Catholic Union (1838-39), The Papal Hierarchy (1845), The American Lutheran Church (1851), Lutheran Manual on Scriptural Principles (1855), The Church of the Redeemer (1867), The True Unity of Christ's Church (1870), his Catechism (1871) and seven discourses, 1830-1853. Leader of 'American Lutheranism', which revised the Augsburg Confession; veto point. Not Samuel Mosheim or Beale M. Schmucker. Added 2026-10-10 by lane A, round 19 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "schmucker"
+ ],
+ "_surname": [
+  "s. s. schmucker",
+  "samuel simon schmucker",
+  "schmucker, s. s.",
+  "schmucker, samuel simon",
+  "s. s. schmucker, d.d.",
+  "prof. s. s. schmucker"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {
+  "schmucker-american-lutheranism": [
+   "18107",
+   "American Lutheranism Vindicated; or, Examination of the Lutheran Symbols (Baltimore: T. Newton Kurtz, 1856)"
+  ]
+ },
+ "internet_archive": {
+  "schmucker-plea-sabbath-schools": [
+   "pleaforsabbathsc00schm",
+   "A Plea for the Sabbath-School System (Gettysburg: Theological Seminary Press, 1830)"
+  ],
+  "schmucker-popular-theology": [
+   "elementspopular00statgoog",
+   "Elements of Popular Theology, with Special Reference to the Doctrines of the Reformation (Andover: Gould and Newman, 1834)"
+  ],
+  "schmucker-reformation-discourse": [
+   "discourseincomm00schm",
+   "Discourse in Commemoration of the Glorious Reformation of the Sixteenth Century (New York: Gould & Newman, 1838)"
+  ],
+  "schmucker-appeal-1838": [
+   "appealtoamerican00schm",
+   "Appeal to the American Churches, with a Plan for Catholic Union (New York: Gould & Newman, 1838)"
+  ],
+  "schmucker-fraternal-appeal-1839": [
+   "bim_early-english-books-1641-1700_s-s-schmucker_1839",
+   "Fraternal Appeal to the American Churches, with a Plan for Catholic Union on Apostolic Principles, second edition enlarged (New York: Taylor & Dodd, 1839)"
+  ],
+  "schmucker-portraiture-lutheranism": [
+   "portraitureluth00schmgoog",
+   "Portraiture of Lutheranism: A Discourse (Baltimore: Publication Rooms, 1840)"
+  ],
+  "schmucker-papal-hierarchy": [
+   "papalhierarchyvi00schm",
+   "The Papal Hierarchy, Viewed in the Light of Prophecy and History (Gettysburg: H. C. Neinstedt, MDCCCXLV)"
+  ],
+  "schmucker-christian-pulpit": [
+   "christianpulpitr00schm",
+   "The Christian Pulpit, the Rightful Guardian of Morals (Gettysburg: H. C. Neinstedt, MDCCCXLVI)"
+  ],
+  "schmucker-american-lutheran-church": [
+   "americanluthera00schm",
+   "The American Lutheran Church, Historically, Doctrinally, and Practically Delineated (Springfield: Harbaugh & Butler, 1851)"
+  ],
+  "schmucker-peace-of-zion": [
+   "peaceofziondisco00schm",
+   "The Peace of Zion: A Discourse before the General Synod (Gettysburg: H. C. Neinstedt, 1853)"
+  ],
+  "schmucker-lutheran-manual": [
+   "lutheranmanualon00schm",
+   "Lutheran Manual on Scriptural Principles: or, The Augsburg Confession Illustrated and Sustained (Philadelphia: Lindsay & Blakiston, 1855)"
+  ],
+  "schmucker-church-of-redeemer": [
+   "churchofredeemer00schm",
+   "The Church of the Redeemer, as Developed within the General Synod (Baltimore: T. Newton Kurtz, 1867)"
+  ],
+  "schmucker-true-unity": [
+   "trueunityofchris00schm",
+   "The True Unity of Christ's Church: A Renewed Appeal (New York: Anson D. F. Randolph, 1870)"
+  ],
+  "schmucker-catechism": [
+   "evangelicalluth00schmgoog",
+   "Evangelical Lutheran Catechism; or, Class-Book of Religious Instruction (Baltimore: T. Newton Kurtz, 1871)"
+  ]
+ },
+ "_alternates": {
+  "schmucker-storr-flatt": "His translation of Storr and Flatt, An Elementary Course of Biblical Theology, with additions, 2 vols. (Andover, 1826; IA elementarycourse01stor, 02stor) and 2nd ed. 1836 (elementarycourse00storrich)",
+  "schmucker-psychology": "Psychology, or Elements of a New System of Mental Philosophy (Harper 1842, 1844): philosophy",
+  "schmucker-popular-theology-later": "Elements of Popular Theology, 2nd ed. 1834 and 3rd ed. with additions 1842 (IA elementsofpopu00schm, elementsofpopul00schm)",
+  "schmucker-reformation-2nd": "Discourse on the Reformation, second edition improved, 1838 (IA discourseincomme00schm)",
+  "schmucker-memorial-1839": "Memorial relative to binding out minor colored children (Harrisburg, 1839): a legislative memorial"
+ },
+ "_excluded": {
+  "schmucker-luther-galatians": "Luther's Galatians with his appended discourse (1840): Luther's work",
+  "schmucker-namesakes": "Samuel Mosheim, Beale M., Samuel Christian Schmucker and others",
+  "schmucker-german": "Kurzgefasste Geschichte (German, 1834)",
+  "schmucker-reprints": "1965 and 1969 reprints"
+ },
+ "_identity_checked": {
+  "schmucker-christian-pulpit": {
+   "author": "Title page read: \"BY S. S. SCH31UUKER, D. D.\", Gettysburg: H. C. Neinstedt, MDCCCXLVI (OCR)."
+  },
+  "schmucker-peace-of-zion": {
+   "author": "Title page read: \"BY S, S, SCH MUCKER, D, D. Professor of Christian Theology in the Theological Seminary, Gettysburg\", 1853 (OCR)."
+  }
+ },
+ "_pending": {
+  "schmucker-inaugural-1826": "Inaugural Address (IA aninauguraladdr00schagoog): name not legible in OCR",
+  "schmucker-sabbath-sermon-1839": "Sabbath-school sermon, 1839 (IA bim_..._s-s-schmucker_1839_0): title line garbled",
+  "schmucker-synodical-1824": "Synodical discourse catalogued 1824 (IA bim_..._rev-ss-schmucker_1824): year and name not legible"
+ },
+ "_checks": {
+  "schmucker-american-lutheranism": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "schmucker-plea-sabbath-schools": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schmucker-popular-theology": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1834",
+   "ia_date": "1834",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schmucker-reformation-discourse": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "schmucker-appeal-1838": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1838",
+   "ia_date": "1838",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "schmucker-fraternal-appeal-1839": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1839",
+   "ia_date": "1839",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schmucker-portraiture-lutheranism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1840",
+   "ia_date": "1840",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "schmucker-papal-hierarchy": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1845",
+   "ia_date": "1845",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schmucker-christian-pulpit": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1846",
+   "ia_date": "1846",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schmucker-american-lutheran-church": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "schmucker-peace-of-zion": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schmucker-lutheran-manual": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schmucker-church-of-redeemer": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "schmucker-true-unity": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "schmucker-catechism": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "s. s. schmucker",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "_about": "Public-domain Ebenezer Erskine (1680-1754, Stirling) and his brother Ralph Erskine (1685-1752, Dunfermline), founders of the Secession Church, on one shelf for the Word Hoard. Ebenezer's Whole Works (Edinburgh, 1871, 3 vols) and Ralph's Sermons and Other Practical Works (London: Tegg, 1865, 7 vols), raw Internet Archive OCR; volume numbers read off the title pages. Ralph's Gospel Sonnets are verse: in his Works here, and for the hymn manifest if wanted as hymns. CCEL and Gutenberg hold none of it. Added 2026-10-02 by lane A, round 5 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "erskine",
+  "ebenezer",
+  "ralph"
+ ],
+ "_surname": [
+  "erskine"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "eerskine-works-01": [
+   "wholeworksoflate01ersk",
+   "The Whole Works of the late Rev. Ebenezer Erskine, vol. I (Edinburgh: Ogle & Murray, 1871)"
+  ],
+  "eerskine-works-02": [
+   "wholeworksoflate02ersk",
+   "The Whole Works of the late Rev. Ebenezer Erskine, vol. II (Edinburgh: Ogle & Murray, 1871)"
+  ],
+  "eerskine-works-03": [
+   "wholeworksoflate03ersk",
+   "The Whole Works of the late Rev. Ebenezer Erskine, vol. III (Edinburgh: Ogle & Murray, 1871)"
+  ],
+  "rerskine-works-01": [
+   "sermonsotherpr01ersk",
+   "The Sermons and Other Practical Works of Ralph Erskine, vol. I (London: William Tegg, 1865)"
+  ],
+  "rerskine-works-02": [
+   "sermonsotherpr02ersk",
+   "The Sermons and Other Practical Works of Ralph Erskine, vol. II (London: William Tegg, 1865)"
+  ],
+  "rerskine-works-03": [
+   "sermonsotherpr03ersk",
+   "The Sermons and Other Practical Works of Ralph Erskine, vol. III (London: William Tegg, 1865)"
+  ],
+  "rerskine-works-04": [
+   "sermonsotherpr04ersk",
+   "The Sermons and Other Practical Works of Ralph Erskine, vol. IV (London: William Tegg, 1865)"
+  ],
+  "rerskine-works-05": [
+   "sermonsotherpr05ersk",
+   "The Sermons and Other Practical Works of Ralph Erskine, vol. V (London: William Tegg, 1865)"
+  ],
+  "rerskine-works-06": [
+   "sermonsotherpr06ersk",
+   "The Sermons and Other Practical Works of Ralph Erskine, vol. VI (London: William Tegg, 1865)"
+  ],
+  "rerskine-works-07": [
+   "sermonsotherpr07ersk",
+   "The Sermons and Other Practical Works of Ralph Erskine, vol. VII (London: William Tegg, 1865)"
+  ]
+ },
+ "_alternates": {
+  "wholeworksofreve01..03ersk (Philadelphia, 1836); wholeworkslater00/02erskgoog (1810)": "Other editions of Ebenezer's Works.",
+  "sermonsotherprac01/07ersk (1777); sermonsandother02..04erskgoog (1763, 1794); ECCO 1764 and 1777 sets": "Earlier editions of Ralph's Works."
+ },
+ "_excluded": {
+  "erskinehalcrogen1890scot": "A family genealogy.",
+  "circlesquaredas00wallgoog": "Ebenezer Erskine Wallace: another man.",
+  "Welsh translations (ECCO)": "Not English."
+ },
+ "_checks": {
+  "eerskine-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eerskine-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "eerskine-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "rerskine-works-01": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rerskine-works-02": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rerskine-works-03": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rerskine-works-04": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rerskine-works-05": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rerskine-works-06": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "rerskine-works-07": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "erskine",
+   "identity": "ok",
+   "ia_rights": "ok: published 1865",
+   "ia_date": "1865",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

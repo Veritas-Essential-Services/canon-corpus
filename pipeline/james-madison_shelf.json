@@ -1,0 +1,45 @@
+{
+ "_about": "James Madison (1751-1836), American founder, framer of the Constitution. Gutenberg: The Journal of the Debates in the Convention which Framed the Constitution, vol. 1; The Journal of the Debates in the Convention which Framed the Constitution, vol. 2. The Federalist is on the alexander-hamilton shelf. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "James Madison",
+ "_name_words": [
+  "james",
+  "madison"
+ ],
+ "_surname": [
+  "james madison",
+  "madison"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "madison-debates-federal-convention-1": [
+   40861,
+   "The Journal of the Debates in the Convention which Framed the Constitution, vol. 1"
+  ],
+  "madison-debates-federal-convention-2": [
+   41095,
+   "The Journal of the Debates in the Convention which Framed the Constitution, vol. 2"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "madison-debates-federal-convention-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "madison-debates-federal-convention-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "james madison",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

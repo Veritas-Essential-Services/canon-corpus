@@ -1,0 +1,40 @@
+{
+ "_about": "Polyaenus, Stratagems of War, translated by R. Shepherd, F.R.S. (London: George Nicol, 1793). Raw IA OCR; title page read.",
+ "_name_words": [
+  "polyanus",
+  "polyaenus",
+  "stratagems"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "polyaenus-shepherd-1793": [
+   "bim_eighteenth-century_polynuss-stratagems-of_polyaenus-of-lampsacus_1793",
+   "Polyaenus's Stratagems of War, translated from the original Greek (London: George Nicol, 1793)",
+   "tr. R. Shepherd"
+  ]
+ },
+ "_surname": [
+  "polyaenus",
+  "polyænus",
+  "polyanus"
+ ],
+ "_translators": {
+  "polyaenus-shepherd-1793": "R. Shepherd"
+ },
+ "_checks": {
+  "polyaenus-shepherd-1793": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "polyænus",
+   "translator_claimed": "R. Shepherd",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1793",
+   "ia_date": "1793",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

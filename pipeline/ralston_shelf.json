@@ -1,0 +1,90 @@
+{
+ "_about": "William Ralston Shedden Ralston's (1828-1889) Russian folk tales, translated from Afanasyev's and other Russian collections, with his commentary: Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore (New York, 1873), the American edition of his Russian Folk-Tales (London, 1873). Ralston is the translator, recorded in the title. Clean Gutenberg text; US public domain. Batch 21 (2026-10-03) adds Tibetan Tales, Derived from Indian Sources (1906), Ralston's English of Anton Schiefner's German translation from the Tibetan Kah-gyur; Ralston is named in the text as the translator.",
+ "_author": "W. R. S. Ralston",
+ "_name_words": [
+  "russian",
+  "fairy",
+  "tales"
+ ],
+ "_surname": [
+  "w. r. s. ralston"
+ ],
+ "_translators": {
+  "ralston-russian-fairy-tales": "Ralston",
+  "ralston-tibetan-tales": "Ralston"
+ },
+ "ccel": {},
+ "gutenberg": {
+  "ralston-russian-fairy-tales": [
+   22373,
+   "Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore, tr. W. R. S. Ralston (1873)",
+   {
+    "levels": [
+     {
+      "re": "CHAPTER [IVX]+\\.$",
+      "title_next": true
+     },
+     {
+      "re": "(?:[A-Z][A-Z’' ,&-]{2,}[A-Z]\\.?(?:\\[\\d+\\])?|FOOTNOTES:)$",
+      "strip": "\\[\\d+\\]"
+     }
+    ],
+    "start": "RUSSIAN FOLK-TALES\\.$",
+    "front": true
+   }
+  ],
+  "ralston-tibetan-tales": [
+   66870,
+   "Tibetan Tales, Derived from Indian Sources, tr. Ralston from Schiefner's German (1906)",
+   {
+    "levels": [
+     {
+      "re": "(?:INTRODUCTION|TIBETAN TALES|NOTES)\\.?$"
+     },
+     {
+      "re": "[IVXL]+\\.$",
+      "title_next": true,
+      "strip": "\\s*\\[\\d+\\]"
+     },
+     {
+      "re": "\\d+\\. [A-Z][A-Z ,.’]+\\.(?: \\[\\d+\\])?$",
+      "strip": "\\s*\\[\\d+\\]"
+     }
+    ],
+    "start": "INTRODUCTION\\.$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "ralston-other-translations": "Turgenev's Liza (PG 12194), tr. Ralston: outside the relay's ask (Russian tales)",
+  "ralston-commentary-only": "Stokes's Indian Fairy Tales (PG 31209): Ralston wrote notes only"
+ },
+ "_checks": {
+  "ralston-russian-fairy-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. r. s. ralston",
+   "translator_claimed": "Ralston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "William Ralston Shedden Ralston",
+   "translator_match": true
+  },
+  "ralston-tibetan-tales": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "w. r. s. ralston",
+   "translator_claimed": "Ralston",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Anton Schiefner; William Ralston Shedden Ralston",
+   "translator_match": true
+  }
+ }
+}

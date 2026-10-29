@@ -1,0 +1,34 @@
+{
+ "_about": "William Canton's (1845-1926) A Child's Book of Saints: legends of the saints retold for children. Clean Gutenberg text; US public domain. Added at the coordinator's standing relay (2026-10-02: choose public-domain storytellers batches; Adam may veto).",
+ "_author": "William Canton",
+ "_name_words": [
+  "child",
+  "saints"
+ ],
+ "_surname": [
+  "william canton"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "canton-childs-book-of-saints": [
+   22112,
+   "A Child's Book of Saints",
+   {
+    "contents_only": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "canton-childs-book-of-saints": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "william canton",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

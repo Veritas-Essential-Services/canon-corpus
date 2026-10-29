@@ -1,0 +1,62 @@
+{
+ "_about": "Theophrastus, Characters, translator per title. Charles E. Bennett and William A. Hammond (1902), clean Gutenberg. R. C. Jebb's edition with translation (1870; Greek facing), raw IA OCR.",
+ "_name_words": [
+  "theophrastus",
+  "characters"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "theophrastus-bennett-hammond": [
+   58242,
+   "The Characters of Theophrastus",
+   "tr. Charles E. Bennett and William A. Hammond"
+  ]
+ },
+ "internet_archive": {
+  "theophrastus-jebb": [
+   "theophrastoucha02jebbgoog",
+   "The Characters of Theophrastus (1870)",
+   "ed. and tr. R. C. Jebb"
+  ]
+ },
+ "_excluded": {
+  "theophrastoucha01jebbgoog": "same 1870 edition; text layer unreadable (clean-word 0.00)",
+  "cu31924026602171": "Sandys's 1909 revision of Jebb; lower OCR; not taken",
+  "Hort, Enquiry into Plants (Loeb, 1916)": "Greek facing; pending",
+  "Eustace Budgell, The Moral Characters of Theophrastus (1714; 1743 printing)": "PD; the ECCO scans found (bim_eighteenth-century_the-moral-characters-of-_theophrastus_1714, _1743) read 0.640 and 0.760; refused for OCR quality 2026-10-10"
+ },
+ "_surname": [
+  "theophrastus"
+ ],
+ "_translators": {
+  "theophrastus-bennett-hammond": "Charles E. Bennett",
+  "theophrastus-jebb": "r. c. jebb"
+ },
+ "_checks": {
+  "theophrastus-bennett-hammond": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theophrastus",
+   "translator_claimed": "Charles E. Bennett",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Charles E. Bennett; William A. Hammond",
+   "translator_match": true
+  },
+  "theophrastus-jebb": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "theophrastus",
+   "translator_claimed": "r. c. jebb",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1870",
+   "ia_date": "1870",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

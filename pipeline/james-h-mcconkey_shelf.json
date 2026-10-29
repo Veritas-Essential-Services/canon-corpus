@@ -1,0 +1,132 @@
+{
+ "_about": "Public-domain James H. McConkey, American Bible teacher, for the Word Hoard: The Threefold Secret of the Holy Spirit, The End of the Age, Believing is Seeing, Prayer, The Surrendered Life, Life Talks, and The Book of Revelation. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 130 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james h. mcconkey",
+  "james henry mcconkey",
+  "j. h. mcconkey",
+  "mcconkey"
+ ],
+ "_surname": [
+  "mcconkey"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "mcconkey-threefold-secret": [
+   "threefoldsecreto0000unse",
+   "The Threefold Secret Of The Holy Spirit (Moody Press:Chicago, 1897)"
+  ],
+  "mcconkey-end-of-age": [
+   "endofageseriesof0000mcco",
+   "The end of the age : a series of prophetic Bible studies ; upon the end of the age (Pittsburgh, PA : Silver Publ. Co., 1897)"
+  ],
+  "mcconkey-believing-is-seeing": [
+   "believingisseein00mcco",
+   "Believing is seeing (Harrisburg, 1900)"
+  ],
+  "mcconkey-prayer": [
+   "prayer00mcco",
+   "Prayer ([Pittsburgh] : [Silver Publishing Co.], 1900)"
+  ],
+  "mcconkey-surrendered-life": [
+   "surrenderedlifeb00mcco",
+   "The surrendered life; Bible studies and addresses on the yielded life (Harrisburg, Pa., F. Kelker, 1903)"
+  ],
+  "mcconkey-life-talks": [
+   "lifetalksserieso00mcco",
+   "Life talks; a series of Bible talks on the Christian life (Harrisburg, Pa., F. Kelker, 1911)"
+  ],
+  "mcconkey-revelation": [
+   "bookofrevelation0000jame_j4h9",
+   "THE BOOK OF REVELATION (Silver Publishing Society, 1921)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "mcconkey-dups": "other scans of Prayer and The Surrendered Life"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "mcconkey-threefold-secret": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcconkey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconkey-end-of-age": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcconkey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconkey-believing-is-seeing": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcconkey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconkey-prayer": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcconkey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1900",
+   "ia_date": "1900",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "mcconkey-surrendered-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcconkey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "mcconkey-life-talks": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcconkey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1911",
+   "ia_date": "1911",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "mcconkey-revelation": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "mcconkey",
+   "identity": "ok",
+   "ia_rights": "ok: published 1921",
+   "ia_date": "1921",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

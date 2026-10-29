@@ -1,0 +1,145 @@
+{
+ "_about": "Public-domain Pasquier Quesnel (1634-1719), the Oratorian whose Moral Reflections were condemned in the bull Unigenitus, in English translation for the Word Hoard: The New Testament with Moral Reflections upon every Verse (London, 1719-1725, four volumes, dedications signed by Richard Russel) and The Gospels with Moral Reflections on each Verse, with Daniel Wilson's introductory essay (Glasgow: Collins, 1830, three volumes), from Internet Archive scans. Added 2026-10-18 by lane A, round 35 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "quesnel"
+ ],
+ "_surname": [
+  "quesnel",
+  "father quesnel",
+  "pasquier quesnel"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "quesnel-nt-reflections-1": [
+   "bim_eighteenth-century_the-new-testament-with-_1725_1",
+   "The New Testament, with Moral Reflections upon every Verse, vol. I (London: J. R. for R. Bonwicke, T. Goodwin and others, 1719; catalogued 1725 in error)"
+  ],
+  "quesnel-nt-reflections-2": [
+   "bim_eighteenth-century_the-new-testament-with-_1725_2",
+   "The New Testament, with Moral Reflections upon every Verse, written in French by Father Quesnel and now translated into English, vol. II, part 1 (London: R. H. for R. Bonwicke and others; year not read)"
+  ],
+  "quesnel-nt-reflections-3": [
+   "bim_eighteenth-century_the-new-testament-with-_1725_3",
+   "The New Testament, with Moral Reflections upon every Verse, vol. III (London: R. and J. Bonwicke, R. Wilkin and J. Walthoe, 1725)"
+  ],
+  "quesnel-nt-reflections-4": [
+   "bim_eighteenth-century_the-new-testament-with-_1725_4",
+   "The New Testament, with Moral Reflections upon every Verse, vol. IV, part II (London: R. and J. Bonwicke, R. Wilkin, J. Walthoe and T. Ward, 1725)"
+  ],
+  "quesnel-gospels-1": [
+   "gospelswithmoral01ques",
+   "The Gospels, with Moral Reflections on each Verse, with an introductory essay by Daniel Wilson, vol. I (Glasgow: William Collins, 1830)"
+  ],
+  "quesnel-gospels-2": [
+   "gospelswithmoral02ques",
+   "The Gospels, with Moral Reflections on each Verse, vol. II (Glasgow: William Collins, 1830)"
+  ],
+  "quesnel-gospels-3": [
+   "gospelswithmoral03ques",
+   "The Gospels, with Moral Reflections on each Verse, vol. III (Glasgow: William Collins, 1830)"
+  ]
+ },
+ "_alternates": {
+  "quesnel-copies": "The Bath expurgated Four Gospels 'by a Presbyter of the Church of England' (1790); Philadelphia 1855 revised by Henry A. Boardman"
+ },
+ "_excluded": {
+  "quesnel-other": "Reflections on St John (1709; no one named); a 2026 machine translation catalogued 1680; Pierre Quesnel's Loyola; the Unigenitus pamphlets"
+ },
+ "_identity_checked": {
+  "quesnel-nt-reflections-2": {
+   "author": "title page read: Written in French by Father QuBSsNEL [Quesnel] (OCR garble), London 1725; dedication signed Richard Russel"
+  },
+  "quesnel-nt-reflections-3": {
+   "author": "title page read: Written in French by Father QuBSsNEL [Quesnel] (OCR garble), London 1725; dedication signed Richard Russel"
+  }
+ },
+ "_rights_checked": {
+  "quesnel-nt-reflections-2": "title page read: translator not named on any volume; the dedications of vols II-IV are signed 'Richard Russel'",
+  "quesnel-gospels-1": "title page read: translator not named"
+ },
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "quesnel-nt-reflections-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "quesnel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quesnel-nt-reflections-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named on any volume; the dedications of vols II-IV are signed 'Richard Russel'"
+  },
+  "quesnel-nt-reflections-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quesnel-nt-reflections-4": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "quesnel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1725",
+   "ia_date": "1725",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "quesnel-gospels-1": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "quesnel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: translator not named"
+  },
+  "quesnel-gospels-2": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "quesnel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "quesnel-gospels-3": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "quesnel",
+   "identity": "ok",
+   "ia_rights": "ok: published 1830",
+   "ia_date": "1830",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

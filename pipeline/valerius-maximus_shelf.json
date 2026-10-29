@@ -1,0 +1,37 @@
+{
+ "_about": "Valerius Maximus in English: Q. Valerius Maximus, his Collections of the Memorable Acts and Sayings (London, 1684), raw IA OCR (clean-word ratio 0.90). The title page names no translator; the dedication is signed by Samuel Speed.",
+ "_name_words": [
+  "valerius",
+  "maximus"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "valerius-maximus-speed-1684": [
+   "Q.ValeriusMaximusMemorableActsAndSayings",
+   "Q. Valerius Maximus, his Collections of the Memorable Acts and Sayings (London, 1684)",
+   "Q.ValeriusMaximus-MemorableActsAndSayings_djvu.txt"
+  ]
+ },
+ "_surname": [
+  "valerius maximus",
+  "valerius"
+ ],
+ "_translators": {},
+ "_translator_unchecked": {
+  "valerius-maximus-speed-1684": "no single translator to check: None"
+ },
+ "_checks": {
+  "valerius-maximus-speed-1684": {
+   "kind": "ia",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "valerius maximus",
+   "identity": "ok",
+   "ia_rights": "ok: published 1684",
+   "ia_date": "1684",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

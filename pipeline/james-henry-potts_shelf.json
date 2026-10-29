@@ -1,0 +1,195 @@
+{
+ "_about": "Public-domain James Henry Potts (1848-1942), Methodist minister and editor of the Michigan Christian Advocate, for the Word Hoard: Pastor and People, Spiritual Life, The Golden Dawn, Faith Made Easy, Our Thrones and Crowns, The Life Beyond, a tribute to Charles S. Francis, Back to Oxford, The Upward Leading, My Gift to Thee, and Every Life a Delight. He lived past 1930, so only books printed before 1930 are taken. Texts are from Internet Archive scans. Added 2026-10-23 by lane A, round 116 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "james henry potts",
+  "james h. potts",
+  "j. h. potts",
+  "potts"
+ ],
+ "_surname": [
+  "james henry potts",
+  "james h. potts",
+  "j. h. potts",
+  "potts"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jhpotts-pastor-people": [
+   "pastorpeople00pott",
+   "Pastor and people ([n.p.], 1879)"
+  ],
+  "jhpotts-spiritual-life": [
+   "spirituallifeits00pott",
+   "Spiritual life; its nature, urgency, and crowning excellence (New York, Phillips & Hunt; Cincinnati, Cranston & Stowe, 1884)"
+  ],
+  "jhpotts-golden-dawn": [
+   "goldendawnorligh00pott",
+   "The golden dawn : or, Light on the great future: in this life, through the dark valley, and in the life eternal, as seen in the best thoughts of over three hundred leading authors and scholars (Philadelphia ; Chicago : P. W. Ziegler & Co., Publishers, 1886)"
+  ],
+  "jhpotts-faith-easy": [
+   "cu31924075690226",
+   "Faith made easy; or, What to believe, and why. A popular statement of the doctrines and evidences of Christianity in the light of modern research and sound Biblical interpretation (Cincinnati, Cranston and Stowe; New York, Hunt and Eaton, 1888)"
+  ],
+  "jhpotts-thrones-crowns": [
+   "ourthronesandcr00pottgoog",
+   "Our thrones and crowns: or, The golden way to the highest attainments. A complete encyclopedia of life. Physical life, intellectual life, business life, home life, social life, moral life, religious life, dialy life, the discipline of life and the best preparation for the life beyond (Philadelphia, International Pub. Co, 1889)"
+  ],
+  "jhpotts-life-beyond": [
+   "lifebeyond00pott",
+   "The life beyond (Philadelphia and Chicago, P. W. Ziegler & co, 1899)"
+  ],
+  "jhpotts-francis": [
+   "cu31924018820443",
+   "Charles S. Francis, a personal tribute (Troy, New York : [s. n.], 1901)"
+  ],
+  "jhpotts-back-to-oxford": [
+   "backtooxfordsear0000jame",
+   "Back to Oxford,: A search for the essentials of Methodism (Jennings & Pye, 1903)"
+  ],
+  "jhpotts-upward-leading": [
+   "upwardleadingpul00pott",
+   "The upward leading; pulpit talks under various auspices (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1905)"
+  ],
+  "jhpotts-gift": [
+   "mygifttotheepres00pott",
+   "My gift to thee; present time verses (Cincinnati, Jennings and Graham; New York, Eaton and Mains, 1910)"
+  ],
+  "jhpotts-delight": [
+   "everylifedelight00pott",
+   "Every life a delight (New York, Cincinnati, The Abingdon Press, 1914)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "jhpotts-others": "principlesofchur00perr_0 is by Perry; Asa Gray letters and agriculture papers are by others"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "jhpotts-pastor-people": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jhpotts-spiritual-life": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhpotts-golden-dawn": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jhpotts-faith-easy": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jhpotts-thrones-crowns": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1889",
+   "ia_date": "1889",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhpotts-life-beyond": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "j. h. potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1899",
+   "ia_date": "1899",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jhpotts-francis": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james h. potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jhpotts-back-to-oxford": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james henry potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1903",
+   "ia_date": "1903-01-01",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "jhpotts-upward-leading": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james henry potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1905",
+   "ia_date": "1905",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "jhpotts-gift": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james henry potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1910",
+   "ia_date": "1910",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "jhpotts-delight": {
+   "kind": "ia",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "james henry potts",
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

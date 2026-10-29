@@ -1,0 +1,137 @@
+{
+ "_about": "Public-domain Frédéric Ozanam (1813-1853, historian and founder of the Society of St Vincent de Paul) in English for the Word Hoard: History of Civilization in the Fifth Century tr. Ashley C. Glyn (2 vols, 1867), his Letters tr. Ainslie Coates (1886), Dante and Catholic Philosophy in the Thirteenth Century tr. Lucia D. Pychowska (1897), The Franciscan Poets in Italy tr. A. E. Nellen and N. C. Craig (1914), and A Pilgrimage to the Land of the Cid, from Internet Archive scans. Added 2026-10-17 by lane A, round 26 (my pick); Adam may veto the whole shelf. Translators recorded per item where the title page names one; every printing dated or catalogued before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "ozanam"
+ ],
+ "_surname": [
+  "ozanam",
+  "frederic ozanam",
+  "frédéric ozanam",
+  "frederick ozanam",
+  "a. frederic ozanam"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ozanam-civilization-fifth-century-1": [
+   "historyofciviliz01ozan_0",
+   "History of Civilization in the Fifth Century, tr. Ashley C. Glyn, vol. I (Philadelphia: Lippincott; London: Allen, 1867)"
+  ],
+  "ozanam-civilization-fifth-century-2": [
+   "historyofciviliz02ozan",
+   "History of Civilization in the Fifth Century, tr. Ashley C. Glyn, vol. II (Philadelphia: Lippincott; London: Allen, 1867)"
+  ],
+  "ozanam-letters-coates": [
+   "lettersoffred00ozanuoft",
+   "Letters of Frederic Ozanam, tr. Ainslie Coates (New York: Benziger; London: Elliot Stock, 1886)"
+  ],
+  "ozanam-dante-catholic-philosophy": [
+   "dantecatholicp00ozanuoft",
+   "Dante and Catholic Philosophy in the Thirteenth Century, tr. Lucia D. Pychowska (New York: Cathedral Library Association, 1897)"
+  ],
+  "ozanam-franciscan-poets": [
+   "franciscanpoet00ozan",
+   "The Franciscan Poets in Italy of the Thirteenth Century, tr. A. E. Nellen and N. C. Craig (London: David Nutt, 1914)"
+  ],
+  "ozanam-pilgrimage-cid": [
+   "pilgrimagetoland00ozanrich",
+   "A Pilgrimage to the Land of the Cid, translated by a Graduate of St. Joseph's, Emmittsburg (New York: Christian Press Association; catalogued 1895)"
+  ]
+ },
+ "_alternates": {
+  "ozanam-copies": "The 1868 London Civilization, other copies of the Letters, Dante and Franciscan Poets (Scribner 1914)"
+ },
+ "_excluded": {
+  "ozanam-about": "O'Meara, Dunn, Baunard and Horgan: works about him",
+  "ozanam-late": "1969 reprints"
+ },
+ "_rights_checked": {
+  "ozanam-civilization-fifth-century-1": "title page read: Lippincott and Wm. H. Allen, 1867; translator's name garbled in this scan, read as Ashley C. Glyn in the 1868 London copies",
+  "ozanam-civilization-fifth-century-2": "title page read: 1867; translator's name garbled in this scan",
+  "ozanam-pilgrimage-cid": "title page read: Christian Press Association, no year; catalogued 1895"
+ },
+ "_pending": {},
+ "_translators": {
+  "ozanam-letters-coates": "coates",
+  "ozanam-dante-catholic-philosophy": "pychowska",
+  "ozanam-franciscan-poets": "nellen"
+ },
+ "_checks": {
+  "ozanam-civilization-fifth-century-1": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ozanam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: Lippincott and Wm. H. Allen, 1867; translator's name garbled in this scan, read as Ashley C. Glyn in the 1868 London copies"
+  },
+  "ozanam-civilization-fifth-century-2": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ozanam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1867",
+   "ia_date": "1867",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null,
+   "rights_override": "title page read: 1867; translator's name garbled in this scan"
+  },
+  "ozanam-letters-coates": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ozanam",
+   "translator_claimed": "coates",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1886",
+   "ia_date": "1886",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ozanam-dante-catholic-philosophy": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ozanam",
+   "translator_claimed": "pychowska",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ozanam-franciscan-poets": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ozanam",
+   "translator_claimed": "nellen",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1914",
+   "ia_date": "1914",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ozanam-pilgrimage-cid": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "ozanam",
+   "identity": "ok",
+   "ia_rights": "ok: published 1895",
+   "ia_date": "1895",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null,
+   "rights_override": "title page read: Christian Press Association, no year; catalogued 1895"
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "_about": "C. G. Jung (1875-1961), Swiss psychiatrist, founder of analytical psychology; his English translations of 1915-1917. Gutenberg: The Theory of Psychoanalysis (1915); Psychology of the Unconscious (tr. Beatrice M. Hinkle, 1916); Collected Papers on Analytical Psychology (ed. Constance E. Long, 1916). Translators are recorded as Gutenberg names them; Freud is on another thread's freud shelf and is not duplicated here. US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "C. G. Jung",
+ "_name_words": [
+  "carl",
+  "gustav",
+  "jung"
+ ],
+ "_surname": [
+  "jung"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "jung-theory-of-psychoanalysis": [
+   66041,
+   "The Theory of Psychoanalysis (1915)"
+  ],
+  "jung-psychology-of-the-unconscious": [
+   65903,
+   "Psychology of the Unconscious (tr. Beatrice M. Hinkle, 1916)"
+  ],
+  "jung-collected-papers-analytical-psychology": [
+   48225,
+   "Collected Papers on Analytical Psychology (ed. Constance E. Long, 1916)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_translators": {
+  "jung-psychology-of-the-unconscious": "Beatrice M. Hinkle",
+  "jung-collected-papers-analytical-psychology": "Constance E. Long"
+ },
+ "_checks": {
+  "jung-theory-of-psychoanalysis": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jung",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "jung-psychology-of-the-unconscious": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jung",
+   "translator_claimed": "Beatrice M. Hinkle",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Beatrice M. Hinkle",
+   "translator_match": true
+  },
+  "jung-collected-papers-analytical-psychology": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jung",
+   "translator_claimed": "Constance E. Long",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

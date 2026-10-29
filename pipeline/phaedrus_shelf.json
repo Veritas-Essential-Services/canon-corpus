@@ -1,0 +1,61 @@
+{
+ "_about": "Phaedrus, Fables, in Henry T. Riley's literal prose, with Christopher Smart's verse translation (Bohn), clean Gutenberg.",
+ "_name_words": [
+  "phaedrus",
+  "phædrus",
+  "fables"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "phaedrus-riley-smart": [
+   25512,
+   "The Fables of Phaedrus",
+   "tr. Henry T. Riley (prose) and Christopher Smart (verse)"
+  ]
+ },
+ "internet_archive": {
+  "phaedrus-toller-1854": [
+   "poeticalversiono00phae",
+   "A Poetical Version of the Fables of Phaedrus, with an appendix of four fables by Gudius (preface dated January 1, 1854)",
+   "tr. Frederick Toller"
+  ]
+ },
+ "_surname": [
+  "phaedrus",
+  "phædrus"
+ ],
+ "_translators": {
+  "phaedrus-riley-smart": "Henry T. Riley",
+  "phaedrus-toller-1854": "frederick toller"
+ },
+ "_checks": {
+  "phaedrus-riley-smart": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "phaedrus",
+   "translator_claimed": "Henry T. Riley",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "Henry T. Riley; Christopher Smart",
+   "translator_match": true
+  },
+  "phaedrus-toller-1854": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "phaedrus",
+   "translator_claimed": "frederick toller",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1854",
+   "ia_date": "[1854]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ },
+ "_excluded": {
+  "fablesphdruswit00phaegoog": "The Fables of Phaedrus with a literal English translation (1828): an interlinear word-by-word school crib, not a reading translation"
+ }
+}

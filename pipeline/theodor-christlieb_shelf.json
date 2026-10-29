@@ -1,0 +1,95 @@
+{
+ "_about": "Public-domain Theodor Christlieb (1833-1889, professor of practical theology at Bonn) in pre-1930 English translations, raw Internet Archive OCR: Modern Doubt and Christian Belief (tr. chiefly H. U. Weitbrecht, ed. T. L. Kingsbury; Clark, 1874), Homiletic: Lectures on Preaching (tr. C. H. Irwin, 1897), Protestant Foreign Missions (catalogued 1880; translator not named on the title page) and The Best Methods of Counteracting Modern Infidelity (an Evangelical Alliance paper, catalogued 1874). Added 2026-10-10 by lane A, round 16 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "christlieb",
+  "theodore"
+ ],
+ "_surname": [
+  "theodore christlieb",
+  "theodor christlieb",
+  "dr. theodore christlieb",
+  "th. christlieb",
+  "christlieb, theodor",
+  "dr. christlieb",
+  "professor christlieb"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "christlieb-modern-doubt-1874": [
+   "moderndoubtchris00chriuoft",
+   "Modern Doubt and Christian Belief, tr. chiefly H. U. Weitbrecht, ed. T. L. Kingsbury (Edinburgh: T. & T. Clark, 1874)"
+  ],
+  "christlieb-homiletic-1897": [
+   "homileticlecture00chri",
+   "Homiletic: Lectures on Preaching, ed. Th. Haarbeck, tr. C. H. Irwin (Edinburgh: T. & T. Clark, 1897)"
+  ],
+  "christlieb-foreign-missions": [
+   "protestantforei01chrigoog",
+   "Protestant Foreign Missions: Their Present State (no year on the title page, catalogued 1880; translator not named)"
+  ],
+  "christlieb-best-methods": [
+   "bestmethodsofcou00chri",
+   "The Best Methods of Counteracting Modern Infidelity, an Evangelical Alliance paper (New York; catalogued 1874)"
+  ]
+ },
+ "_alternates": {
+  "christlieb-modern-doubt-1895": "Modern Doubt, fifth edition (Clark, 1895; IA moderndoubtandch00chriuoft)"
+ },
+ "_excluded": {},
+ "_translators": {
+  "christlieb-modern-doubt-1874": "weitbrecht",
+  "christlieb-homiletic-1897": "irwin"
+ },
+ "_checks": {
+  "christlieb-modern-doubt-1874": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodore christlieb",
+   "translator_claimed": "weitbrecht",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "christlieb-homiletic-1897": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor christlieb",
+   "translator_claimed": "irwin",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1897",
+   "ia_date": "1897",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "christlieb-foreign-missions": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodore christlieb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1880",
+   "ia_date": "1880",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "christlieb-best-methods": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "theodor christlieb",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  }
+ }
+}

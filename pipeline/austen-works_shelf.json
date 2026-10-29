@@ -1,0 +1,79 @@
+{
+ "_about": "Jane Austen's novels, juvenilia and letters not already on another shelf (the reading-list austen shelf holds the rest): every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-17 at the coordinator's relay of Adam's keep-going message (Adam may veto). Dates are as each title page gives them; many texts are undated.",
+ "_author": "Jane Austen",
+ "_name_words": [
+  "austen"
+ ],
+ "_surname": [
+  "jane austen"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "austen-lady-susan": [
+   946,
+   "Lady Susan",
+   {
+    "contents_only": true
+   }
+  ],
+  "austen-love-and-freindship-sic": [
+   1212,
+   "Love and Freindship [sic]"
+  ],
+  "austen-letters-of-jane-austen-selected-from-the-compilation": [
+   42078,
+   "The Letters of Jane Austen Selected from the compilation of her great nephew, Edward, Lord Bradbourne (selected by Susan Coolidge)"
+  ],
+  "austen-fragment-of-a-novel-written-by-jane-austen-january-ma": [
+   74233,
+   "Fragment of a novel written by Jane Austen, January-March 1817"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "held-elsewhere": "PG 105, 121, 141, 158, 161, 1342: already on another shelf or in fetch_sources.py on some branch; not taken twice.",
+  "pg-31100": "PG 31100: a Gutenberg omnibus file of the separate books.",
+  "pg-37431": "PG 37431: a play by Mrs. Steele MacKaye founded on the novel.",
+  "pg-63569": "PG 63569, 77117 The Watsons as completed by other hands (L. Oulton; Edith Hubback and Francis Brown).",
+  "pg-78656": "PG 78656: duologues by Rosina Filippi from the novels.",
+  "pg-21839": "PG 21839 Sense and Sensibility and 42671 Pride and Prejudice: second editions; the reading-list austen shelf holds the novels."
+ },
+ "_checks": {
+  "austen-lady-susan": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "austen-love-and-freindship-sic": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "austen-letters-of-jane-austen-selected-from-the-compilation": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "austen-fragment-of-a-novel-written-by-jane-austen-january-ma": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "jane austen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

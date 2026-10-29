@@ -1,0 +1,38 @@
+{
+ "_about": "Babrius (2nd century AD?), Greek verse fabulist. The Fables of Babrius, in two parts, translated into English verse from the text of Sir G. C. Lewis by the Rev. James Davies (London: Lockwood, 1860; the OCR reads the roman imprint year as 'MDCCfcLX', taken as MDCCCLX, and the preface agrees), raw IA OCR, clean 0.82. Part II is the collection Minoides Menas sold to the British Museum in 1857, whose authenticity has long been doubted, as Davies's preface discusses. US public domain. No uids minted.",
+ "_author": "Babrius",
+ "_name_words": [
+  "babrius"
+ ],
+ "_surname": [
+  "babrius"
+ ],
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "babrius-davies-fables-1860": [
+   "fablesofbabriusi00babr_0",
+   "The Fables of Babrius, in two parts (Lockwood, 1860)",
+   "tr. James Davies"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {
+  "babrius-davies-fables-1860": "DAVIES"
+ },
+ "_checks": {
+  "babrius-davies-fables-1860": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "babrius",
+   "translator_claimed": "DAVIES",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

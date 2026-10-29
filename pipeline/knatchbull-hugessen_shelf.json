@@ -1,0 +1,67 @@
+{
+ "_about": "E. H. Knatchbull-Hugessen's fairy stories for children: River Legends, or Father Thames and Father Rhine (1875) and Uncle Joe's Stories (London, 1879). In River Legends the closing frame story and the Rhine King's six-stanza song follow the last stanza of Sir Roderick Fowle with no heading of their own, so they are cited under it and the song's stanza numbers take ~2. Gutenberg catalogue: Knatchbull-Hugessen (Baron Brabourne) 1829-1893. Added at the coordinator's standing relay (2026-10-10: Adam asked the project to keep going until he stops it; Adam may veto).",
+ "_author": "E. H. Knatchbull-Hugessen (Lord Brabourne)",
+ "_name_words": [
+  "thames",
+  "uncle"
+ ],
+ "_surname": [
+  "e. h. knatchbull-hugessen",
+  "knatchbull-hugessen",
+  "lord brabourne"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hugessen-river-legends": [
+   44425,
+   "River Legends; Or, Father Thames and Father Rhine",
+   {
+    "levels": [
+     {
+      "re": "(FATHER THAMES AND FATHER RHINE|THE GREAT BOAR OF WINDSOR FOREST|MARTHA’S VENGEANCE|THE FAMILY FEUD|THE GIANT BRAMBLE-BUFFER|THE MANNIKINS’ CASTLE|SIR RODERICK FOWLE--A LEGEND OF THE OLDEN TIME)\\.?$"
+     },
+     {
+      "re": "[IVXLC]+\\.$"
+     }
+    ],
+    "start": "FATHER THAMES AND FATHER RHINE$",
+    "front": true
+   }
+  ],
+  "hugessen-uncle-joes-stories": [
+   44924,
+   "Uncle Joe's Stories",
+   {
+    "levels": [
+     {
+      "re": "(UNCLE JOE|ZAC'S BRIDE|EVELYN WITH THE FAIRIES|CAT AND DOG|OPHELIA|THE CRONES OF MERSHAM)\\.?$"
+     }
+    ],
+    "start": "UNCLE JOE\\.?$",
+    "front": true
+   }
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "hugessen-river-legends": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. h. knatchbull-hugessen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hugessen-uncle-joes-stories": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "e. h. knatchbull-hugessen",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

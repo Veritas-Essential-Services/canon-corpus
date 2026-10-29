@@ -1,0 +1,83 @@
+{
+ "_about": "Public-domain Henry Boynton Smith (1815-1877, Presbyterian, professor at Union Theological Seminary, New York) for the Word Hoard: System of Christian Theology (1884), Introduction to Christian Theology (1883), Apologetics (1882) and Faith and Philosophy (1877), raw Internet Archive OCR. The first three were edited from his lectures after his death. Added 2026-10-09 by lane A, round 14 (my pick); Adam may veto the whole shelf. No uids minted.",
+ "_name_words": [
+  "boynton",
+  "henry"
+ ],
+ "_surname": [
+  "henry b. smith",
+  "henry boynton smith",
+  "h. b. smith",
+  "henry b. smith, d.d",
+  "smith, henry b"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "hbsmith-system-1884": [
+   "systemofchristia00smituoft",
+   "System of Christian Theology (1884)"
+  ],
+  "hbsmith-introduction-1883": [
+   "introductiontoch00smit_0",
+   "Introduction to Christian Theology (1883)"
+  ],
+  "hbsmith-apologetics-1882": [
+   "apologeticscours0000smit",
+   "Apologetics: A Course of Lectures (1882)"
+  ],
+  "hbsmith-faith-philosophy-1877": [
+   "faithandphilosop00smituoft",
+   "Faith and Philosophy: Discourses and Essays (1877)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {},
+ "_checks": {
+  "hbsmith-system-1884": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry b. smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1884",
+   "ia_date": "1884",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hbsmith-introduction-1883": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry boynton smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1883",
+   "ia_date": "1883",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbsmith-apologetics-1882": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry b. smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hbsmith-faith-philosophy-1877": {
+   "kind": "ia",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "henry b. smith",
+   "identity": "ok",
+   "ia_rights": "ok: published 1877",
+   "ia_date": "1877",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

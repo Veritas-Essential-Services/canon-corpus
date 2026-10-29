@@ -1,0 +1,130 @@
+{
+ "_about": "TRANSLATOR SHELF: Captain A. B. Lindsay (1872-1914), Russo-Japanese War from the Russian: Semenov's The Battle of Tsu-shima (1906), Nozhin's The Truth About Port Arthur (1908) and Kuropatkin's The Russian Army and the Japanese War, 2 vols (1909), the last two edited by E. D. Swinton. US public domain. Added 2026-10-10 by lane C (round 37); Adam may veto. No uids minted.",
+ "_name_words": [
+  "a. b. lindsay",
+  "alexander bertram lindsay"
+ ],
+ "_surname": [
+  "a. b. lindsay",
+  "alexander bertram lindsay"
+ ],
+ "_surname_note": "Full name only.",
+ "ccel": {},
+ "gutenberg": {
+  "abl-57324": [
+   57324,
+   "The Battle of Tsu-shima between the Japanese and Russian fleets, fought on 27th May 1905"
+  ],
+  "abl-58256": [
+   58256,
+   "The Russian Army and the Japanese War, Vol. 1 (of 2) Being Historical and Critical Comments on the Military Policy and Power of Russia and on the Campaign in the Far East"
+  ],
+  "abl-59972": [
+   59972,
+   "The Truth About Port Arthur"
+  ],
+  "abl-60975": [
+   60975,
+   "The Russian Army and the Japanese War, Vol. 2 (of 2) Being Historical and Critical Comments on the Military Policy and Power of Russia and on the Campaign in the Far East"
+  ]
+ },
+ "internet_archive": {},
+ "titles": {
+  "ab-lindsay-kuropatkin-the-russian-army-and-the-japanese-war-vol-1": {
+   "source": "abl-58256",
+   "of": "A. N. Kuropatkin",
+   "work": "The Russian Army and the Japanese War, Vol. 1 (of 2) Being Historical and Critical Comments on the Military Policy and Power of Russia and on the Campaign in the Far East",
+   "translated": "1906-1909 (see the Gutenberg header)",
+   "translator": "A. B. Lindsay",
+   "scan_edition": "Project Gutenberg 58256 (clean text)"
+  },
+  "ab-lindsay-kuropatkin-the-russian-army-and-the-japanese-war-vol-2": {
+   "source": "abl-60975",
+   "of": "A. N. Kuropatkin",
+   "work": "The Russian Army and the Japanese War, Vol. 2 (of 2) Being Historical and Critical Comments on the Military Policy and Power of Russia and on the Campaign in the Far East",
+   "translated": "1906-1909 (see the Gutenberg header)",
+   "translator": "A. B. Lindsay",
+   "scan_edition": "Project Gutenberg 60975 (clean text)"
+  },
+  "ab-lindsay-nozhin-the-truth-about-port-arthur": {
+   "source": "abl-59972",
+   "of": "E. K. Nozhin",
+   "work": "The Truth About Port Arthur",
+   "translated": "1906-1909 (see the Gutenberg header)",
+   "translator": "A. B. Lindsay",
+   "scan_edition": "Project Gutenberg 59972 (clean text)"
+  },
+  "ab-lindsay-semenov-the-battle-of-tsu-shima-between-the-japa": {
+   "source": "abl-57324",
+   "of": "Vladimir Semenov",
+   "work": "The Battle of Tsu-shima between the Japanese and Russian fleets, fought on 27th May 1905",
+   "translated": "1906-1909 (see the Gutenberg header)",
+   "translator": "A. B. Lindsay",
+   "scan_edition": "Project Gutenberg 57324 (clean text)"
+  }
+ },
+ "_pending": {},
+ "_excluded": {},
+ "_name_words_note": "Translator name only: fetch_shelf.py treats it as the identity check, so the original author's name is deliberately NOT listed.",
+ "_checks": {
+  "abl-57324": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. B. Lindsay"
+  },
+  "abl-58256": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. B. Lindsay"
+  },
+  "abl-59972": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. B. Lindsay"
+  },
+  "abl-60975": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "a. b. lindsay",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "A. B. Lindsay"
+  }
+ },
+ "_verified": {
+  "abl-57324": {
+   "pg": 57324,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. B. Lindsay"
+  },
+  "abl-58256": {
+   "pg": 58256,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. B. Lindsay"
+  },
+  "abl-59972": {
+   "pg": 59972,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. B. Lindsay"
+  },
+  "abl-60975": {
+   "pg": 60975,
+   "pg_copyrighted_marker": false,
+   "pg_translator": "A. B. Lindsay"
+  }
+ },
+ "_verified_note": "Evidence that each source's rights/identity line was read (lane C review fix, 2026-10-02, pipeline run over the fetched files; no book text recorded). PG: the header's Translator: line and the COPYRIGHTED marker. IA: whether the translator's name appears in the first 30 KB of OCR, and the years printed in the first 15 KB of front matter (scanner/digitizer lines skipped). Any post-1930 year there was examined by eye; see the title's scan_edition."
+}

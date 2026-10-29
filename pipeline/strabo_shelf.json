@@ -1,0 +1,115 @@
+{
+ "_about": "Strabo, Geography, in the Bohn translation by H. C. Hamilton (Books I-VI) and W. Falconer (Books VII-XVII), 3 vols., clean Gutenberg. Perseus TEI English (section \"perseus\", fetched by pipeline/fetch_perseus.py): translations published in or before 1930; the TEI markup is Perseus Digital Library's, CC BY-SA 4.0 (attribution + share-alike), recorded per file in the report.",
+ "_name_words": [
+  "strabo",
+  "geography"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "strabo-hamilton-falconer-v1": [
+   44884,
+   "The Geography of Strabo, vol. 1",
+   "tr. H. C. Hamilton and W. Falconer"
+  ],
+  "strabo-hamilton-falconer-v2": [
+   44885,
+   "The Geography of Strabo, vol. 2",
+   "tr. H. C. Hamilton and W. Falconer"
+  ],
+  "strabo-hamilton-falconer-v3": [
+   44886,
+   "The Geography of Strabo, vol. 3",
+   "tr. H. C. Hamilton and W. Falconer"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {
+  "Jones, Loeb (1917-32)": "held in part from Perseus: 1 texts (strabo-perseus-jones-*). Greek facing; later vols. not PD; pending"
+ },
+ "perseus": {
+  "strabo-perseus-jones-geography-books-6-14": [
+   "tlg0099.tlg001.perseus-eng3",
+   "Geography (Books 6-14)",
+   "Horace Leonard Jones",
+   "Translation published 1929: US public domain (in or before 1930). Perseus source line: Strabo. The Geography of Strabo, Vols. 3-6. Jones, Horace Leonard, translator. Cambridge, Mass.: Harvard University Press; London: William Heinemann, Ltd., 1924-1929 (printing)."
+  ]
+ },
+ "_surname": [
+  "strabo"
+ ],
+ "_translators": {
+  "strabo-hamilton-falconer-v1": "Hans Claude Hamilton",
+  "strabo-hamilton-falconer-v2": "Hans Claude Hamilton",
+  "strabo-hamilton-falconer-v3": "Hans Claude Hamilton",
+  "strabo-perseus-jones-geography-books-6-14": "Horace Leonard Jones"
+ },
+ "_checks": {
+  "strabo-hamilton-falconer-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "Hans Claude Hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Falconer; Hans Claude Hamilton",
+   "translator_match": true
+  },
+  "strabo-hamilton-falconer-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "Hans Claude Hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Falconer; Hans Claude Hamilton",
+   "translator_match": true
+  },
+  "strabo-hamilton-falconer-v3": {
+   "kind": "gutenberg",
+   "checked": "2026-10-03",
+   "name_check": "surname",
+   "author_seen": "strabo",
+   "translator_claimed": "Hans Claude Hamilton",
+   "translator_in_text": true,
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": "W. Falconer; Hans Claude Hamilton",
+   "translator_match": true
+  }
+ },
+ "_perseus_checks": {
+  "strabo-perseus-jones-geography-books-6-14": {
+   "checked": "2026-10-03",
+   "identity": "ok",
+   "urn": "urn:cts:greekLit:tlg0099.tlg001.perseus-eng3",
+   "repo": "PerseusDL/canonical-greekLit",
+   "translator_checked": "Horace Leonard Jones",
+   "author_seen": "strabo",
+   "source_years": [
+    1924,
+    1929
+   ],
+   "markup_licence_in_file": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "markup_licence_repo": "CC BY-SA 4.0 (repository README: Perseus Digital Library markup)",
+   "status": "kept",
+   "rights": {
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Perseus Digital Library, Tufts University (TEI markup)",
+    "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0099/tlg001/tlg0099.tlg001.perseus-eng3.xml",
+    "share_alike": true,
+    "redistribute_whole": false
+   }
+  }
+ },
+ "_perseus_licence": {
+  "translation": "public domain: each row's printed translation predates 1930, or carries a _rights_checked reason; per-row rights_note",
+  "markup": "CC BY-SA 4.0 (Perseus Digital Library TEI; First1KGreek rows state the same licence in-file)",
+  "attribution": "Perseus Digital Library, Tufts University",
+  "share_alike": true,
+  "redistribute_whole": false
+ }
+}

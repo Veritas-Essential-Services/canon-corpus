@@ -1,0 +1,59 @@
+{
+ "_about": "John William Draper (1811-1882), English-born American chemist and historian of ideas. Gutenberg: History of the Intellectual Development of Europe, vol. 1; History of the Intellectual Development of Europe, vol. 2; History of the Conflict Between Religion and Science (1874). US public domain (all published 1930 or earlier). No uids minted.",
+ "_author": "John William Draper",
+ "_name_words": [
+  "john",
+  "william",
+  "draper"
+ ],
+ "_surname": [
+  "john william draper",
+  "j. w. draper"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "draper-intellectual-development-europe-1": [
+   31345,
+   "History of the Intellectual Development of Europe, vol. 1"
+  ],
+  "draper-intellectual-development-europe-2": [
+   34051,
+   "History of the Intellectual Development of Europe, vol. 2"
+  ],
+  "draper-conflict-religion-and-science": [
+   1185,
+   "History of the Conflict Between Religion and Science (1874)"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_checks": {
+  "draper-intellectual-development-europe-1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john william draper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "draper-intellectual-development-europe-2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john william draper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "draper-conflict-religion-and-science": {
+   "kind": "gutenberg",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "john william draper",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

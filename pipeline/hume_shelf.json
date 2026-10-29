@@ -1,0 +1,76 @@
+{
+ "_about": "David Hume (1711-1776): The Philosophical Works of David Hume, including all the essays, and exhibiting the more important alterations and corrections in the successive editions published by the author (Edinburgh: Adam Black and William Tait, 1826, 4 vols.): vols. 1-2 (the Treatise) clean Gutenberg, vols. 3-4 (the Essays, the Enquiries and the Dialogues) raw IA OCR. The Adler shelf's Enquiry Concerning Human Understanding (PG 9662) is a separate edition held there. Undated or edition-less Gutenberg texts of the same works (PG 4705, 4320, 4583) are not taken as second witnesses. No uids minted.",
+ "_author": "David Hume",
+ "_name_words": [
+  "david",
+  "hume"
+ ],
+ "_surname": [
+  "hume"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "hume-works-1826-v1": [
+   53791,
+   "The Philosophical Works of David Hume, vol. I (Edinburgh, 1826)"
+  ],
+  "hume-works-1826-v2": [
+   53792,
+   "The Philosophical Works of David Hume, vol. II (Edinburgh, 1826)"
+  ]
+ },
+ "internet_archive": {
+  "hume-works-1826-v3": [
+   "philosophicalwor03hume",
+   "The Philosophical Works of David Hume, vol. III: Essays moral, political and literary (Edinburgh, 1826)"
+  ],
+  "hume-works-1826-v4": [
+   "philosophicalwo25humegoog",
+   "The Philosophical Works of David Hume, vol. IV (Edinburgh, 1826)"
+  ]
+ },
+ "_excluded": {},
+ "_translators": {},
+ "_checks": {
+  "hume-works-1826-v1": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hume-works-1826-v2": {
+   "kind": "gutenberg",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hume",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "hume-works-1826-v3": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hume",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hume-works-1826-v4": {
+   "kind": "ia",
+   "checked": "2026-10-17",
+   "name_check": "surname",
+   "author_seen": "hume",
+   "identity": "ok",
+   "ia_rights": "ok: published 1826",
+   "ia_date": "1826",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

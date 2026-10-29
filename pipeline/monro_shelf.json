@@ -1,0 +1,30 @@
+{
+ "_about": "David Binning Monro (1836-1905), Provost of Oriel. Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Modes of Ancient Greek Music, clean Gutenberg. No uids minted.",
+ "_name_words": [
+  "monro"
+ ],
+ "_surname": [
+  "d. b. monro",
+  "david binning monro",
+  "monro, d. b"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "monro-modes-ancient-greek-music": [
+   40288,
+   "The Modes of Ancient Greek Music"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "monro-modes-ancient-greek-music": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "d. b. monro",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "_about": "Public-domain Arthur James Mason (1851-1928, Lady Margaret's Professor at Cambridge, Canon of Canterbury) for the Word Hoard: The Faith of the Gospel (1888), The Relation of Confirmation to Baptism (1891), The Conditions of Our Lord's Life on Earth (1896), The Principles of Ecclesiastical Unity (1896), Purgatory and the Invocation of Saints (1901) and The Ministry of Conversion (1902), from Internet Archive scans. Written in English. Added 2026-10-18 by lane A, round 28 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "mason"
+ ],
+ "_surname": [
+  "arthur james mason",
+  "a. j. mason",
+  "mason"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "ajmason-faith-of-gospel": [
+   "faithgospelaman00masogoog",
+   "The Faith of the Gospel: a Manual of Christian Doctrine (London: Rivingtons, MDCCCLXXXVIII)"
+  ],
+  "ajmason-confirmation-baptism": [
+   "relationofconfir00maso",
+   "The Relation of Confirmation to Baptism (London: Longmans, Green, 1891)"
+  ],
+  "ajmason-conditions-lords-life": [
+   "conditionsofourl00masoiala",
+   "The Conditions of Our Lord's Life on Earth, Bishop Paddock Lectures (London: Longmans, Green, 1896)"
+  ],
+  "ajmason-ecclesiastical-unity": [
+   "principlesofeccl00maso",
+   "The Principles of Ecclesiastical Unity (London: Longmans, Green, 1896)"
+  ],
+  "ajmason-purgatory": [
+   "purgatorystateof00maso",
+   "Purgatory; The State of the Faithful Departed; Invocation of Saints (London: Longmans, Green, 1901)"
+  ],
+  "ajmason-ministry-of-conversion": [
+   "bwb_T5-ARI-981",
+   "The Ministry of Conversion, Handbooks for the Clergy (London: Longmans, Green, 1902)"
+  ]
+ },
+ "_alternates": {
+  "ajmason-copies": "Faith of the Gospel (Rivingtons and Dutton, 1888); Confirmation second edition (1893); other 1896 and 1901 copies; Ministry of Conversion second impression"
+ },
+ "_excluded": {
+  "ajmason-other": "Eugene Mason, the translator, on his own shelf"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "ajmason-faith-of-gospel": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur james mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1888",
+   "ia_date": "1888",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ajmason-confirmation-baptism": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur james mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1891",
+   "ia_date": "1891",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ajmason-conditions-lords-life": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur james mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "ajmason-ecclesiastical-unity": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur james mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ajmason-purgatory": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur james mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1901",
+   "ia_date": "1901",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "ajmason-ministry-of-conversion": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "arthur james mason",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

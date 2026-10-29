@@ -1,0 +1,98 @@
+{
+ "_about": "Andy Adams: novels and stories. Every English text under the name at Gutenberg that no other shelf holds. Added 2026-10-22 at the coordinator's relay of Adam's keep-going message (Adam may veto).",
+ "_author": "Andy Adams",
+ "_name_words": [
+  "adams",
+  "andy"
+ ],
+ "_surname": [
+  "andy adams",
+  "adams"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "aadams-outlet": [
+   1987,
+   "The Outlet"
+  ],
+  "aadams-cattle-brands": [
+   12281,
+   "Cattle Brands: A Collection of Western Camp-Fire Stories"
+  ],
+  "aadams-wells-brothers": [
+   12791,
+   "Wells Brothers: The Young Cattle Kings"
+  ],
+  "aadams-log-of-a-cowboy": [
+   12797,
+   "The Log of a Cowboy: A Narrative of the Old Trail Days"
+  ],
+  "aadams-reed-anthony-cowman": [
+   12884,
+   "Reed Anthony, Cowman: An Autobiography"
+  ],
+  "aadams-texas-matchmaker": [
+   12919,
+   "A Texas Matchmaker"
+  ]
+ },
+ "internet_archive": {},
+ "_excluded": {},
+ "_held": {},
+ "_checks": {
+  "aadams-outlet": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andy adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aadams-cattle-brands": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andy adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aadams-wells-brothers": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andy adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aadams-log-of-a-cowboy": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andy adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aadams-reed-anthony-cowman": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andy adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  },
+  "aadams-texas-matchmaker": {
+   "kind": "gutenberg",
+   "checked": "2026-10-23",
+   "name_check": "surname",
+   "author_seen": "andy adams",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

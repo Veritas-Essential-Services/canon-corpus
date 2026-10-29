@@ -1,0 +1,30 @@
+{
+ "_about": "Goldsworthy Lowes Dickinson (1862-1932). Classical scholarship (lane B pivot of 2026-10-10 from translations to public-domain English scholarship on the classics): The Greek View of Life, clean Gutenberg. His political and travel books are outside the brief. No uids minted.",
+ "_name_words": [
+  "dickinson"
+ ],
+ "_surname": [
+  "g. lowes dickinson",
+  "goldsworthy lowes dickinson",
+  "dickinson, g. lowes"
+ ],
+ "ccel": {},
+ "gutenberg": {
+  "lowes-dickinson-greek-view-of-life": [
+   6200,
+   "The Greek View of Life"
+  ]
+ },
+ "internet_archive": {},
+ "_checks": {
+  "lowes-dickinson-greek-view-of-life": {
+   "kind": "gutenberg",
+   "checked": "2026-10-10",
+   "name_check": "surname",
+   "author_seen": "g. lowes dickinson",
+   "identity": "ok",
+   "pg_copyrighted": false,
+   "pg_translator": null
+  }
+ }
+}

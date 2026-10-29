@@ -1,0 +1,133 @@
+{
+ "_about": "Public-domain Theodore L. Cuyler (1822-1909), pastor of Lafayette Avenue Presbyterian Church, Brooklyn, for the Word Hoard: The Empty Crib (1868), Pointed Papers for the Christian Life (1879), God's Light on Dark Clouds (1882), How to Be a Pastor (1890), Stirring the Eagle's Nest (1892), The Young Preacher (1893) and Recollections of a Long Life (1902), from Internet Archive scans. Added 2026-10-18 by lane A, round 36 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "cuyler"
+ ],
+ "_surname": [
+  "theodore l. cuyler",
+  "theo. l. cuyler",
+  "theodore ledyard cuyler",
+  "cuyler"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "tlcuyler-empty-crib": [
+   "emptycribmemoria00cuyl",
+   "The Empty Crib: A Memorial of Little Georgie, with Words of Consolation for Bereaved Parents (New York: R. Carter and Brothers; entered 1868)"
+  ],
+  "tlcuyler-pointed-papers": [
+   "pointedpapersfor00cuyl",
+   "Pointed Papers for the Christian Life (New York: Robert Carter and Brothers, 1879)"
+  ],
+  "tlcuyler-gods-light": [
+   "godslightondark00cuyl",
+   "God's Light on Dark Clouds, second edition (New York: Robert Carter and Brothers; copyright 1882)"
+  ],
+  "tlcuyler-how-to-be-pastor": [
+   "howtobepastor00cuyl",
+   "How to Be a Pastor (New York: Baker and Taylor; copyright 1890)"
+  ],
+  "tlcuyler-eagles-nest": [
+   "stirringeaglesne00cuyl",
+   "Stirring the Eagle's Nest and Other Practical Discourses (New York: Baker and Taylor; copyright 1892)"
+  ],
+  "tlcuyler-young-preacher": [
+   "youngpreacher00cuyl",
+   "The Young Preacher (New York and Chicago: Fleming H. Revell; copyright 1893)"
+  ],
+  "tlcuyler-recollections": [
+   "alonglifeautobio00cuyluoft",
+   "Recollections of a Long Life: An Autobiography (New York: Baker & Taylor, 1902)"
+  ]
+ },
+ "_alternates": {
+  "tlcuyler-copies": "God's Light (1883 and Hodder); Heart-Life (Hodder, year garbled); PG 12549 (Recollections, no publisher stated)"
+ },
+ "_excluded": {
+  "tlcuyler-other": "Anthologies with his pieces (PG 37501, PG 44450) and a many-preacher Lincoln memorial volume"
+ },
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {},
+ "_checks": {
+  "tlcuyler-empty-crib": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theo. l. cuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tlcuyler-pointed-papers": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "cuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "The Library of Congress is unaware of any copyright restrictions for this item.",
+   "ia_lending": null
+  },
+  "tlcuyler-gods-light": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore l. cuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tlcuyler-how-to-be-pastor": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore l. cuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1890",
+   "ia_date": "1890",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "tlcuyler-eagles-nest": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore l. cuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1892",
+   "ia_date": "1892",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tlcuyler-young-preacher": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore l. cuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1893",
+   "ia_date": "1893",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "tlcuyler-recollections": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "theodore l. cuyler",
+   "identity": "ok",
+   "ia_rights": "ok: published 1902",
+   "ia_date": "1902",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

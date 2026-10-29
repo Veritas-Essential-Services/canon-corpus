@@ -1,0 +1,408 @@
+{
+ "_about": "Every public-domain Charles Hodge (1797-1878, Princeton) text the Word Hoard holds. The Systematic Theology (3 vols + index), the Ephesians commentary and What is Darwinism? are held clean from CCEL. The Romans and Corinthians commentaries, The Way of Life and four collections of essays, discourses and church history are raw Internet Archive OCR. Gutenberg has only What is Darwinism? (PG 19192), which CCEL already supplies. Not A. A. Hodge, his son, whose books are not shelved here. Extended 2026-10-28 by lane A at Adam's request (his Logos author list): Princeton Sermons (1879), England and America (1862), What is Presbyterianism? (1855), his sermons and addresses of 1822 to 1882 (his unsigned Princeton Review articles are held until Adam rules on catalogue attributions). Every printing dated before 1930.",
+ "_ccel_author": "h/hodge",
+ "_name_words": [
+  "hodge"
+ ],
+ "_surname": [
+  "charles hodge",
+  "c. hodge",
+  "chaeles hodge",
+  "chakles hodge"
+ ],
+ "_held": {},
+ "ccel": {
+  "hodge-systematic-theology-1": [
+   "theology1",
+   "Systematic Theology, vol. I (1871-1873)",
+   ""
+  ],
+  "hodge-systematic-theology-2": [
+   "theology2",
+   "Systematic Theology, vol. II",
+   ""
+  ],
+  "hodge-systematic-theology-3": [
+   "theology3",
+   "Systematic Theology, vol. III",
+   ""
+  ],
+  "hodge-systematic-theology-index": [
+   "theology4",
+   "Systematic Theology, Index",
+   ""
+  ],
+  "hodge-ephesians": [
+   "ephesians",
+   "A Commentary on the Epistle to the Ephesians (1856)",
+   ""
+  ],
+  "hodge-what-is-darwinism": [
+   "darwinism",
+   "What is Darwinism? (1874)",
+   ""
+  ]
+ },
+ "gutenberg": {},
+ "internet_archive": {
+  "hodge-romans-1864": [
+   "commentaryonepis00hodgiala",
+   "Commentary on the Epistle to the Romans (revised edition, 1864)"
+  ],
+  "hodge-1-corinthians-1857": [
+   "expositionoffirs00hodg",
+   "An Exposition of the First Epistle to the Corinthians (1857)"
+  ],
+  "hodge-way-of-life-1841": [
+   "wayoflife00hodg",
+   "The Way of Life (Philadelphia: American Sunday-School Union, 1841)"
+  ],
+  "hodge-essays-reviews-1857": [
+   "essaysreviews00hodg",
+   "Essays and Reviews, selected from the Princeton Review (1857)"
+  ],
+  "hodge-church-polity-1878": [
+   "discussionsinchu00hodg",
+   "Discussions in Church Polity (1878)"
+  ],
+  "hodge-conference-papers-1879": [
+   "conferencepapers00hodg",
+   "Conference Papers: Analyses of Discourses, Doctrinal and Practical (1879)"
+  ],
+  "hodge-constitutional-history-1851": [
+   "constitutionalhi1851hodg",
+   "The Constitutional History of the Presbyterian Church in the United States of America (1851 edition)"
+  ],
+  "hodge-2-corinthians-1860": [
+   "expositionofseco00hodg",
+   "An Exposition of the Second Epistle to the Corinthians (1860)"
+  ],
+  "hodge-dissertation-1822": [
+   "dissertationonim00hodg",
+   "A dissertation on the importance of Biblical literature (Trenton : Printed by George Sherman, 1822)"
+  ],
+  "hodge-introductory-lecture-1829": [
+   "introductorylect04hodg",
+   "Introductory lecture delivered in the Theological Seminary, Princeton N.J. Nov. 7, 1828 ([Princeton, N.J.?] : Connolly & Madden, Printers, 1829)"
+  ],
+  "hodge-necessity-knowledge-1832": [
+   "onnecessityofkno00hodg",
+   "On the necessity of a Knowledge of the original languages of the Scriptures (Philadelphia : Russell and Martien, 1832)"
+  ],
+  "hodge-what-is-presbyterianism": [
+   "whatispresbyteria00hodg",
+   "What is Presbyterianism? An address delivered before the Presbyterian historical society at their anniversary meeting in Philadelphia, on Tuesday evening, May 1, 1855 (Philadelphia : Presbyterian board of publication, 1855)"
+  ],
+  "hodge-van-rensselaer": [
+   "memorialofcortla00hodg",
+   "Memorial of Cortlandt Van Rensselaer (Philadelphia, C. Sherman & son, printers, 1860)"
+  ],
+  "hodge-england-america": [
+   "englandamerica00hodg",
+   "England and America (Philadelphia : William S. & Alfred Martien, 1862)"
+  ],
+  "hodge-discourse-1874": [
+   "discoursedeliver00hodg_0",
+   "A discourse delivered at the re-opening of the chapel, September 27, 1874 ([Princeton, NJ : Princeton Theological Seminary?], 1874)"
+  ],
+  "hodge-princeton-sermons": [
+   "princetonsermons00hodg",
+   "Princeton sermons : outlines of discourses, doctrinal and practical, delivered at Princeton Theological Seminary on Sabbath afternoons (London : T. Nelson, 1879)"
+  ],
+  "hodge-teaching-office": [
+   "teachingofficeof00hodg",
+   "The teaching office of the church (New York : Board of Foreign Missions, 1882)"
+  ]
+ },
+ "_alternates": {
+  "PG 19192": "What is Darwinism? on Gutenberg; CCEL's text is held.",
+  "systematictheolo000[1-3]hodg, systematictheol0[0-2]hodggoog": "IA scans of the Systematic Theology; CCEL held.",
+  "commentaryon00hodg, acommentaryonep03hodggoog, commentaryonepis75hodg": "IA scans of Ephesians; CCEL held.",
+  "commentaryonepis00hodg (1835) and other Romans printings 1836-1896": "The 1835 first edition of Romans differs from the 1864 revision held; not fetched this burn.",
+  "anexpositionfir00hodggoog, expositionoffi00hodg": "Other printings of 1 Corinthians.",
+  "constitutionalhip00hodg, constitutionalh02hodg and other 1839-40 two-part scans": "The first edition of the Constitutional History, in two parts; the 1851 one-volume edition is held.",
+  "wayoflife00hodg_0 (1869), wayoflifewithana00hodg (1893)": "Later printings of The Way of Life.",
+  "expositionofsecon00hodg (1872)": "Refused by the identity check 2026-10-02: its OCR never names Hodge (front matter lost or unread). The 1860 scan, which does, is held instead.",
+  "expositionofseco00hodgrich, anexpositionsec00hodggoog": "Other scans of 2 Corinthians (1860, 1862)."
+ },
+ "_excluded": {
+  "indextosystema00hodg, questionsontexto00hodg": "by A. A. Hodge",
+  "queeselpresbiter00hodg": "Spanish translation",
+  "cottoniskingpros00elli": "a pro-slavery anthology that reprints a Hodge essay among others; Hodge's essays are held from his own collection",
+  "hodge-x-journal": "The Biblical Repertory and Princeton Review is a journal he edited, with many contributors",
+  "hodge-x-others": "Tholuck's History of Theology and Encyclopedie, Hill's History, Ramsay's Spiritual Kingdom, the Janeway memoir, the Archibald Alexander lecture notes and the Breman speech are other men's books",
+  "hodge-x-same": "The Church and its Polity (1879) is the Discussions in Church Polity already held; the 1835 Romans and 1841 Way of Life are earlier printings of books held",
+  "hodge-x-study-aids": "question books and indexes made for students of his works",
+  "hodge-not-ashamed-1842": "Sermons : \"I am not ashamed of the Gospel\" (Rom. 1:16). November 20, 1842 (catalogued 1842) (IA sermonsiamnotash00hodg): a handwritten manuscript; the OCR is unusable",
+  "hodge-god-of-jews-1842": "Sermons : \"Is the God of the Jews...\" (Rom. 3:29). October 15, 1842 (catalogued 1842) (IA sermonsisgodofje00hodg): a handwritten manuscript; the OCR is unusable",
+  "hodge-unsearchable-1847": "Sermons : \"How unsearchable are his judgments and ways\" (Rom. 11:33-36). January 21, 1847 (catalogued 1847) (IA sermonshowunsear00hodg): a handwritten manuscript; the OCR is unusable",
+  "hodge-fervent-1849": "Sermons : \"Fervent in Spirit\" (Rom. 12:11). February 18, 1849 (catalogued 1849) (IA sermonsferventin00hodg): a handwritten manuscript; the OCR is unusable"
+ },
+ "_pending": {
+  "hodge-two-articles-1840": "Two articles from the Princeton review, concerning the transcendental philosophy of the Germans and of Cousin, and its influence on opinion in this country (Cambridge, J. Owen, 1840) (IA twoarticlesfrom00hodggoog): an unsigned Princeton Review article, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "hodge-state-of-country": "The state of the country ([Philadelphia?, 1861) (IA stateofcountry00hodg): an unsigned Princeton Review article, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "hodge-president-lincoln": "President Lincoln ([Philadelphia] : [P. Walker], 1865) (IA presidentlincoln00hodg): an unsigned Princeton Review article, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_checks": {
+  "hodge-systematic-theology-1": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hodge-systematic-theology-2": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hodge-systematic-theology-3": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hodge-systematic-theology-index": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": null,
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hodge-ephesians": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ccel_dc_rights": null,
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "New York: Robert Carter and Bros. [1860]",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hodge-what-is-darwinism": {
+   "kind": "ccel",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ccel_dc_rights": "Public Domain",
+   "ccel_copyright_comment": true,
+   "ccel_print_source": "London: T. Nelson and Sons, 1874",
+   "ccel_print_source_check": false,
+   "ccel_terms": "CCEL asks that some of its prepared editions not be used commercially (CLAUDE.md rule 6); republishing waits on Adam's ruling"
+  },
+  "hodge-romans-1864": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "chaeles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1864",
+   "ia_date": "1864",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-1-corinthians-1857": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "chakles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-way-of-life-1841": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1841",
+   "ia_date": "1841",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-essays-reviews-1857": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1857",
+   "ia_date": "1857",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-church-polity-1878": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1878",
+   "ia_date": "1878",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodge-conference-papers-1879": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-constitutional-history-1851": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1851",
+   "ia_date": "1851",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodge-2-corinthians-1860": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "chaeles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-dissertation-1822": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1822",
+   "ia_date": "1822",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-introductory-lecture-1829": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "title_weak": true,
+   "identity": "title_weak",
+   "ia_rights": "ok: published 1829",
+   "ia_date": "1829",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-necessity-knowledge-1832": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1832",
+   "ia_date": "1832",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodge-what-is-presbyterianism": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1855",
+   "ia_date": "1855",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodge-van-rensselaer": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1860",
+   "ia_date": "1860",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-england-america": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1862",
+   "ia_date": "1862",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodge-discourse-1874": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1874",
+   "ia_date": "1874",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "hodge-princeton-sermons": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1879",
+   "ia_date": "1879",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "hodge-teaching-office": {
+   "kind": "ia",
+   "checked": "2026-10-28",
+   "name_check": "surname",
+   "author_seen": "charles hodge",
+   "identity": "ok",
+   "ia_rights": "ok: published 1882",
+   "ia_date": "1882",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}

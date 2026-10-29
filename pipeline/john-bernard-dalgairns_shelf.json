@@ -1,0 +1,111 @@
+{
+ "_about": "Public-domain John Dobree (Bernard) Dalgairns (1818-1876), Oratorian priest, for the Word Hoard: his Life of St Gilbert for the Lives of the English Saints (the unsigned lives of St Stephen Harding and St Aelred are held), The Devotion to the Heart of Jesus, The German Mystics of the Fourteenth Century, The Holy Communion: its Philosophy, Theology and Practice, and The Bearing of Infallibility on Religious Truth. Texts are from Internet Archive scans. Added 2026-10-24 by lane A, round 137 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "john bernard dalgairns",
+  "john dobree dalgairns",
+  "j. b. dalgairns",
+  "father dalgairns",
+  "dalgairns"
+ ],
+ "_surname": [
+  "dalgairns"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "dalgairns-gilbert": [
+   "life-of-saint-gilbert-prior-of-sempringham",
+   "Life of Saint Gilbert, Prior of Sempringham (catalogued 1844)"
+  ],
+  "dalgairns-sacred-heart": [
+   "a567211900dalguoft",
+   "The devotion to the Heart of Jesus ; with an introduction on the history of Jansenism (London : T. Richardson and Son, 1853)"
+  ],
+  "dalgairns-german-mystics": [
+   "TheGermanMystics",
+   "The German mystics of the fourteenth century (London : T. Richardson, 1858)"
+  ],
+  "dalgairns-holy-communion": [
+   "theholycommunion00dalguoft",
+   "The Holy Communion : Its philosophy, theology and practice (Dublin : James Duffy, 1868)"
+  ],
+  "dalgairns-infallibility": [
+   "a620785200dalguoft",
+   "The bearing of infallibility on religious truth ([London? : s.n., 1871)"
+  ]
+ },
+ "_alternates": {},
+ "_excluded": {
+  "dalgairns-lives-series": "the volumes of Lives of the English Saints and the Conversion of the Teutonic Race are by several hands",
+  "dalgairns-german": "Das heilige Herz Jesu is a German translation",
+  "dalgairns-others": "the cookery book, Fathers of the Desert, the Scale of Perfection and the money books are not his",
+  "dalgairns-dups": "later and microform copies of Stephen Harding and The Holy Communion"
+ },
+ "_rights_checked": {},
+ "_identity_checked": {
+  "dalgairns-infallibility": "the essay (from the Contemporary Review) is signed at the end 'J. B. Dalgairns' (OCR reads DAI.CAIKNS)"
+ },
+ "_pending": {
+  "dalgairns-stephen-harding": "The Cistercian saints of England : St. Stephen, abbot (London : J. Toovey, 1845) (IA cisterciansaints00dalgrich): published unsigned in the Lives of the English Saints, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)",
+  "dalgairns-aelred": "Lives Of The English Saints: St. Aelred, Abbot Of Rievaux (London : J. Toovey, 1845) (IA StAelredAbbotOfRievaux): published unsigned in the Lives of the English Saints, so attribution is the library catalogue's (waits for Adam's ruling on catalogue attributions)"
+ },
+ "_translators": {},
+ "_checks": {
+  "dalgairns-gilbert": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "dalgairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1844",
+   "ia_date": "1844",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dalgairns-sacred-heart": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "dalgairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1853",
+   "ia_date": "1853",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dalgairns-german-mystics": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "dalgairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1858",
+   "ia_date": "1858",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  },
+  "dalgairns-holy-communion": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": "dalgairns",
+   "identity": "ok",
+   "ia_rights": "ok: published 1868",
+   "ia_date": "1868",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  },
+  "dalgairns-infallibility": {
+   "kind": "ia",
+   "checked": "2026-10-24",
+   "name_check": "surname",
+   "author_seen": null,
+   "identity": "identity_override",
+   "ia_rights": "ok: published 1871",
+   "ia_date": "1871]",
+   "ia_possible_copyright_status": "NOT_IN_COPYRIGHT",
+   "ia_lending": null
+  }
+ }
+}

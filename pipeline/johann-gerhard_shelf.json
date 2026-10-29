@@ -1,0 +1,44 @@
+{
+ "_about": "Public-domain Johann Gerhard (1582-1637, Jena, Lutheran dogmatician) in English for the Word Hoard: Gerhard's Sacred Meditations, tr. C. W. Heisler (Philadelphia: Lutheran Publication Society, copyright 1896), from an Internet Archive scan. Added 2026-10-18 by lane A, round 31 (my pick); Adam may veto the whole shelf. Every printing dated before 1930, so public domain in the US. No uids minted.",
+ "_name_words": [
+  "gerhard"
+ ],
+ "_surname": [
+  "gerhard",
+  "john gerhard",
+  "johann gerhard"
+ ],
+ "_held": {},
+ "ccel": {},
+ "gutenberg": {},
+ "internet_archive": {
+  "jgerhard-sacred-meditations": [
+   "sacredmeditation0000revh",
+   "Gerhard's Sacred Meditations, tr. C. W. Heisler (Philadelphia: Lutheran Publication Society; title page undated, copyright 1896)"
+  ]
+ },
+ "_alternates": {
+  "jgerhard-early": "Ralph Winterton's Meditations (Cambridge, from 1627) and its many reprints; A Christian Mans Weekes Worke (1611); Thomas Rowell's Christian's Support (1709, 1715); Holy Meditations (1724): early-printed scans whose dates or translators are garbled"
+ },
+ "_excluded": {},
+ "_rights_checked": {},
+ "_pending": {},
+ "_translators": {
+  "jgerhard-sacred-meditations": "heisler"
+ },
+ "_checks": {
+  "jgerhard-sacred-meditations": {
+   "kind": "ia",
+   "checked": "2026-10-18",
+   "name_check": "surname",
+   "author_seen": "gerhard",
+   "translator_claimed": "heisler",
+   "translator_in_text": true,
+   "identity": "ok",
+   "ia_rights": "ok: published 1896",
+   "ia_date": "1896",
+   "ia_possible_copyright_status": null,
+   "ia_lending": null
+  }
+ }
+}
