@@ -488,6 +488,13 @@ check("henty: title-case headings too; a Contents before the Preface is cut",
       [(u["id"], u["ref"]) for u in _hf["units"]] == [
           ("henty-freedom:preface.1", "Preface, par. 1"), ("henty-freedom:ch1.1", "Chapter I: Glen One, par. 1"),
           ("henty-freedom:ch2.1", "Chapter II: The King's Blood Hound, par. 1")])
+_hs = _prose("henty-spurs", "TITLE\n\nCONTENTS.\n\nCHAPTER I.     THE OUTLAWS\nCHAPTER VII.   REVENGE\n\n\n"
+             "CHAPTER I.\n\nTHE OUTLAWS.\n\nFirst words.\n\nCHAPTER VIII.\n\nREVENGE.\n\nMore words.\n\n"
+             "CHAPTER XXIV\n\nTHE SIEGE.\n\nLast words.\n\nTHE END.\n")
+check("henty: no Preface; a doubled chapter number and a missing stop are mended by rule",
+      [(u["id"], u["ref"]) for u in _hs["units"]] == [
+          ("henty-spurs:ch1.1", "Chapter I: The Outlaws, par. 1"), ("henty-spurs:ch7.1", "Chapter VII: Revenge, par. 1"),
+          ("henty-spurs:ch24.1", "Chapter XXIV: The Siege, par. 1")])
 
 # Alfred J. Church from archive.org OCR (2026-10-16): page furniture goes, headings repeated on the
 # half-title and plate pages open a chapter only once, a page break's cut paragraph is rejoined, a

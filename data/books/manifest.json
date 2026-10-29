@@ -1780,6 +1780,18 @@
    "resolution": "paragraph; sub-headings are units of their own, marked heading: true",
    "honesty": "Gutenberg's transcription of the 1563 print, original spelling kept. Rainolde ADAPTS Aphthonius (by way of Lorichius's Latin), with his own model orations: a witness to each exercise's method, not a translation of Aphthonius's text."
   }
-
+ },
+ "henty-spurs": {
+  "title": "Winning His Spurs: A Tale of the Crusades",
+  "author": "G. A. Henty",
+  "format": "gutenberg-txt",
+  "sha256": "2cca6f05db8cc0ed55e5a2249efc98405c607d501c9ace35df907a21c7a69ce7",
+  "units": 1299,
+  "scheme": {
+   "apparatus": "apparatus removed by BODY_RULES: kept 9434 of 9546 source lines; the remainder is front matter, glossary, appendix or non-English parallel text, not the work",
+   "citation": "chapter + paragraph",
+   "resolution": "paragraph",
+   "honesty": "chapter headings detected; paragraph running within chapter"
+  }
  }
 }

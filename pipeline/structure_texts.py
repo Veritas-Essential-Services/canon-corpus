@@ -1141,6 +1141,15 @@ BODY_RULES = {
         "scrub": [r"\[Illustration[^\]]*\]"],
         "rewrite": [(r"(?m)^[ \t]*(Chapter [IVXLC]+)[ \t]*\n(?:[ \t]*\n)+[ \t]*([^\n]{2,70}?)[ \t]*$", r"\1. \2")],
     },
+    # Winning His Spurs has no Preface: it starts at the bare "CHAPTER I." (the Contents lines carry their
+    # titles, so they never match). The PG file numbers chapter VII "VIII." a second time and prints
+    # "CHAPTER XXIV" with no stop; the rewrites mend both, keyed on the chapter title, so a refetch reruns them.
+    "henty-spurs": {
+        "start_at": r"^CHAPTER I\.$", "stop_at": r"^THE END\.?$",
+        "scrub": [r"\[Illustration[^\]]*\]"],
+        "rewrite": [(r"(?m)^CHAPTER VIII\.([ \t]*\n(?:[ \t]*\n)+[ \t]*REVENGE\.)", r"CHAPTER VII.\1"),
+                    (r"(?m)^[ \t]*(CHAPTER [IVXLC]+)\.?[ \t]*\n(?:[ \t]*\n)+[ \t]*([^\n]{2,70}?)[ \t]*$", r"\1. \2")],
+    },
     "beowulf": {
         "start_at": r"^I\.\s*$", "start_min_line": 900,
         "stop_at":  r"^ADDENDA\.",
@@ -1277,7 +1286,8 @@ def _henty_division(h):
     return (f"Chapter {m.group(1).upper()}: {t}" if t else f"Chapter {m.group(1).upper()}"), f"ch{sh_roman(m.group(1))}"
 
 PROSE_DIVISIONS = {"dickens-carol": _carol_division,
-                   "henty-bubastes": _henty_division, "henty-freedom": _henty_division}
+                   "henty-bubastes": _henty_division, "henty-freedom": _henty_division,
+                   "henty-spurs": _henty_division}
 
 def convert_gutenberg_prose(path, slug, title, author, chapre):
     """Prose: paragraphs grouped under detected chapter headings."""
@@ -2313,6 +2323,8 @@ GUTEN_PROSE = {
                        r"^(PREFACE\.?|CHAPTER\s+[IVXLC]+\.\s+\S.*)$"),
     "henty-freedom": ("In Freedom's Cause: A Story of Wallace and Bruce", "G. A. Henty",
                       r"^(PREFACE\.?|Chapter\s+[IVXLC]+\.\s+\S.*)$"),
+    "henty-spurs": ("Winning His Spurs: A Tale of the Crusades", "G. A. Henty",
+                    r"^(CHAPTER\s+[IVXLC]+\.\s+\S.*)$"),
 }
 # Scans (fetch_sources.ARCHIVE_OCR): slug -> (title, author, unnumbered section headings)
 ARCHIVE_PROSE = {
